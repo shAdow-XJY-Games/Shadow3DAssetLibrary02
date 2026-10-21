@@ -1,0 +1,42 @@
+{
+  "id": "sports-fixed-oval-rail-parallel-bars-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "sports",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Oval-Rail Parallel Bars",
+  "description": "One original complete static parallel-bars visual apparatus. Two continuous twelve-sided oval-profile long rails have integral chamfered end caps and separate finite lower bearing faces. Four solid upright columns have genuine integral narrowed upper shoulders, each meeting its rail and a complete longitudinal ground runner at finite opposed faces. A low transverse tie joins both runners into one connected H-shaped grounded assembly. The entire bounded corridor between both rails, both under-rail bays and both end-overhang corridors remain truly empty. Nine editable closed connected meshes, four constant opaque untextured PBR colours, one prop and zero scenes. Metres are game-space proportions, native Z up, long axis X, presentation front -Y, horizontal bounds-centred ground origin. All rail profiles, shouldered uprights, runners and connecting tie are newly authored numeric geometry, not duplicated balance beams, extracted barbell stands, camera-slider rods, pommels or old rack parts. No mat, athlete, room, adjustable sleeve, locking hardware, text, logo, textures or animation. Fixed stylized visual appearance only: no gymnastics instruction, exercise suitability, human fit, regulation dimensions, competition affiliation, adjustable width or height, rail flexibility, grip, loading, structural stability, anti-tip, manufacture, installation, historical-asset compatibility or safety certification.",
+  "bounds": {
+    "x": 2.5,
+    "y": 0.75,
+    "z": 1.54,
+    "unit": "m"
+  },
+  "triangles": 348,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/sports/sports-fixed-oval-rail-parallel-bars-01/v1.0.0/model.glb",
+      "size": 27168,
+      "sha256": "d8dcd9041f95d8631e5b8319aa42bd3d708e2b7f78152f70106cdaed3bdc8fca"
+    },
+    "blend": {
+      "path": "assets/sports/sports-fixed-oval-rail-parallel-bars-01/v1.0.0/source.blend",
+      "size": 580248,
+      "sha256": "0a7ee6bbfd2c8342d4948bb2389adc646ba8001e8bc2cc3be7f43946b23151b7"
+    },
+    "generator": {
+      "path": "assets/sports/sports-fixed-oval-rail-parallel-bars-01/v1.0.0/generate.py",
+      "size": 31672,
+      "sha256": "10b74d9e654ad3ed4cdc10a802162b902197116d403cfe9ad44f8b0cecbd7551"
+    },
+    "render": {
+      "path": "assets/sports/sports-fixed-oval-rail-parallel-bars-01/v1.0.0/thumbnail.png",
+      "size": 517148,
+      "sha256": "518e83901e9871fc4227676062c30ab873ea6171d87e1e858625da2f93ee90b9"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
