@@ -1,0 +1,42 @@
+{
+  "id": "transport-three-place-slotted-shell-station-bench-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "transport",
+  "style": "S01-clean-geometric",
+  "title": "Three-Place Slotted-Shell Station Bench",
+  "description": "One original fixed three-place passenger station bench visual prop. Each of three separate seats is one continuous full-thickness faceted bent seat-and-back shell, with a genuine long central through-slot crossing the horizontal seat, rising transition and leaning back. Two side strips and full front/rear bridges remain continuously joined around each opening. A single transverse beam meets the full flat front underside of all three shells without blocking their slots. Two integral long-foot pedestals meet the beam through complete finite faces and stand on complete flat soles. The full underframe void and both inter-seat gaps remain empty. Six closed editable meshes, three opaque constant untextured PBR colours, metres, source Z up, front -Y and bounds-centred ground datum. No old bench, chair, passenger vehicle seat or old complete model imported. One prop, zero scenes, no people, luggage, textures, text or animation. Static appearance only: no seating comfort, ergonomic fit, access, load, strength, stability, drainage, cleaning, manufacture, installation, transit or public-space safety certification; no compatibility with any existing shelter or scene.",
+  "bounds": {
+    "x": 1.659999967,
+    "y": 0.720000029,
+    "z": 1.003922343,
+    "unit": "m"
+  },
+  "triangles": 420,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/transport/transport-three-place-slotted-shell-station-bench-01/v1.0.0/model.glb",
+      "size": 24152,
+      "sha256": "050bf5864cbac9b08a1e3687b28061b40290ff985c5102efbe55bf44ff9cbcf6"
+    },
+    "blend": {
+      "path": "assets/transport/transport-three-place-slotted-shell-station-bench-01/v1.0.0/source.blend",
+      "size": 545228,
+      "sha256": "f9bd6f25f70e2056035aacb71fe187fbd09d6e45dc395ce7d47a550f4a98ef1e"
+    },
+    "generator": {
+      "path": "assets/transport/transport-three-place-slotted-shell-station-bench-01/v1.0.0/generate.py",
+      "size": 32681,
+      "sha256": "3249e8da597df395c43b2b31a1332d42c23ec2ea9839fa7d6cbbcdc50a510bec"
+    },
+    "render": {
+      "path": "assets/transport/transport-three-place-slotted-shell-station-bench-01/v1.0.0/thumbnail.png",
+      "size": 508237,
+      "sha256": "8cd324be8d081cb7f7cef3ba95e4fafc014a7124c3b298fb6b65d3ec26f461d9"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "village-right-angle-drop-drain-with-slotted-covers-01",
+  "version": "1.0.0",
+  "category": "architecture",
+  "assetKind": "modular",
+  "theme": "village",
+  "style": "S01-clean-geometric",
+  "title": "Right-Angle Drop Drain with Slotted Covers",
+  "description": "One original empty static architectural drainage-channel visual module. A single continuous grounded L-shaped stone body joins two perpendicular open U-section mouths through one genuinely connected right-angle channel. The incoming floor is higher than the outgoing floor, with one full-width finite vertical drop face at the turn. Complete thick floors, continuous outer and inner corner walls, all terminal cut faces and the full L-shaped ground sole belong to one closed material surface. Two separate thick rectangular bridge covers each cross a different arm, each has one genuine full-thickness elongated slot, and both complete side-bearing patches of each cover sit on the channel banks. Three closed connected editable meshes and three constant opaque untextured PBR materials. Metres, native Z up, incoming mouth -Y, outgoing mouth +X, horizontal bounds-centred ground origin. All specific shape coordinates newly authored; no existing culvert, Y-channel, quarter-turn cable tray, water-point drain, fish-table grate or other mesh is imported, rescaled, recoloured or extracted. One reusable architectural module and zero scenes; the covers are components, not additional assets. No water, pipes, pump, gate, debris, terrain, surrounding network, detachable-cover animation, text, logo or texture. Fixed stylized game-art geometry only: no real fluid flow, hydraulic efficiency, water retention, load-bearing crossing, pedestrian use, installation, fit with any previous module, civil engineering, drainage performance, manufacturer specification or safety certification. Dimensions describe game-space geometry only.",
+  "bounds": {
+    "x": 0.9,
+    "y": 0.9,
+    "z": 0.41,
+    "unit": "m"
+  },
+  "triangles": 312,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/village/village-right-angle-drop-drain-with-slotted-covers-01/v1.0.0/model.glb",
+      "size": 14256,
+      "sha256": "688a46bb1610a436d6dab4e13fbe60df57f4a18524bb7dcb404ddea97493c678"
+    },
+    "blend": {
+      "path": "assets/village/village-right-angle-drop-drain-with-slotted-covers-01/v1.0.0/source.blend",
+      "size": 524224,
+      "sha256": "cc3a514781fe3b50fbf2c9dc60c9f1bd6c7e2d72a668a2c43fd877c64e7c8693"
+    },
+    "generator": {
+      "path": "assets/village/village-right-angle-drop-drain-with-slotted-covers-01/v1.0.0/generate.py",
+      "size": 31795,
+      "sha256": "459f5356c19b73e256c87be823fb151ecebe75219bd6241f1099e205a71718b9"
+    },
+    "render": {
+      "path": "assets/village/village-right-angle-drop-drain-with-slotted-covers-01/v1.0.0/thumbnail.png",
+      "size": 518385,
+      "sha256": "77a99aa9d9c0f747ce73c0c278fb93494683d3300cf6e2c2e56aebbdc92051ab"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
