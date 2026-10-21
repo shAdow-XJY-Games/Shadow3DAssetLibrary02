@@ -1,0 +1,42 @@
+{
+  "id": "restaurant-three-well-carry-utensil-caddy-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "restaurant",
+  "style": "S01-clean-geometric",
+  "title": "Three-Well Carry Utensil Caddy",
+  "description": "One original empty static restaurant and night-market utensil-caddy visual prop. A single continuous rectangular wooden body contains three genuinely deep open wells with full bottoms, thick outer walls and two integral partitions. A separate thick central raised handle has one genuine bounded through-grip opening; its two bounded underside bearing patches make complete finite opposed seats on the integral partitions, while the remaining underside spans the open wells. Two separate full transverse feet support the complete body and provide complete ground soles. Four closed separately editable meshes, four constant opaque untextured PBR materials, metre units, native Z up, front -Y and horizontal-bounds-centred ground origin. All specific coordinates are newly authored. One complete prop and zero scenes. No utensils, food, liquid, text, logo, texture, animation, hinge, lid, wheels, imported model geometry or surrounding scene. This is neither a recoloured shallow bait box, eyepiece case, tool-parts tray, vented laundry basket, florist bucket stand nor brazier. Geometry describes a fixed stylized display only: no food-contact suitability, hygiene, actual storage fit, hand fit, carrying motion, liquid retention, capacity, load or stability, manufacture, assembly instructions or safety certification.",
+  "bounds": {
+    "x": 0.54,
+    "y": 0.27,
+    "z": 0.36,
+    "unit": "m"
+  },
+  "triangles": 276,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/restaurant/restaurant-three-well-carry-utensil-caddy-01/v1.0.0/model.glb",
+      "size": 14736,
+      "sha256": "7836c45eb39b7ea1190921c56fe501e067e0c2e6af4da5080bb9d07d63ae2e58"
+    },
+    "blend": {
+      "path": "assets/restaurant/restaurant-three-well-carry-utensil-caddy-01/v1.0.0/source.blend",
+      "size": 550564,
+      "sha256": "5e5b4bbdf4ea5e9873455bc673fafeedfb91599890ee52e99d6ca110b4d6d0c9"
+    },
+    "generator": {
+      "path": "assets/restaurant/restaurant-three-well-carry-utensil-caddy-01/v1.0.0/generate.py",
+      "size": 30860,
+      "sha256": "a2595c935b2bdc60f6638da8cd5a8fb25bcf36afc01033518c6050ce127b3b07"
+    },
+    "render": {
+      "path": "assets/restaurant/restaurant-three-well-carry-utensil-caddy-01/v1.0.0/thumbnail.png",
+      "size": 523229,
+      "sha256": "396b1c190507f1e10ff7d1371908028548002196ea7462943c13324b2bb3e4fe"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
