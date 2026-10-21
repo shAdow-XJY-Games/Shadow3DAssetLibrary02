@@ -1,0 +1,42 @@
+{
+  "id": "cafe-continuous-folded-tent-menu-stand-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "cafe",
+  "style": "S01-clean-geometric",
+  "title": "Folded Tent Menu Display Stand",
+  "description": "One original static tabletop tent-shaped cafe menu-display stand. A single continuous thick folded body has two broad inclined blank display panels, a short flat faceted ridge and two complete flat foot strips. A genuine open trapezoidal-topped triangular tunnel passes through both side ends beneath the fold. Every finite outer panel, inner panel, ridge, foot and cut end belongs to one closed connected editable mesh. Muted teal on the full inclined faces and dark teal on finite cut ends, ridge and ground strips are constant opaque untextured PBR face assignments. One whole prop and zero scenes. Metres, native Z up, front -Y, horizontal envelope centred with both entire feet at ground. The complete numeric cross-section is newly authored; no old direction sign, camping tent, scoreboard, easel, chair, facade or tool geometry is imported, scaled, extracted or recoloured. No printed menu, logo, text, card insert, texture, transparent pocket, clip, hinge, fastener, moving fold, rig or animation. Fixed game-art appearance only: no commercial signage specification, advertising content, food-contact use, physical stability, load, tabletop compatibility, material manufacture or safety certification is claimed.",
+  "bounds": {
+    "x": 0.19,
+    "y": 0.13,
+    "z": 0.166,
+    "unit": "m"
+  },
+  "triangles": 36,
+  "materials": 2,
+  "files": {
+    "glb": {
+      "path": "assets/cafe/cafe-continuous-folded-tent-menu-stand-01/v1.0.0/model.glb",
+      "size": 4296,
+      "sha256": "b4a22809cf3f422e183e44f0b748d736818460bd7a18359580b562f648b2c6ab"
+    },
+    "blend": {
+      "path": "assets/cafe/cafe-continuous-folded-tent-menu-stand-01/v1.0.0/source.blend",
+      "size": 476040,
+      "sha256": "b52956f47a0a8f9f54f5f42c2950cb552eeab59904fc5bd6de7f46645f7a76e8"
+    },
+    "generator": {
+      "path": "assets/cafe/cafe-continuous-folded-tent-menu-stand-01/v1.0.0/generate.py",
+      "size": 29943,
+      "sha256": "005b5d77649a31f303859461116905f10a176ff67aa0f5c04e861d9a6cc65fa0"
+    },
+    "render": {
+      "path": "assets/cafe/cafe-continuous-folded-tent-menu-stand-01/v1.0.0/thumbnail.png",
+      "size": 497103,
+      "sha256": "77ddfaeef0f9f58087d3b762a5dd106140d01d28c18ee003043c8d9428d3931e"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

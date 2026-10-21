@@ -1,0 +1,42 @@
+{
+  "id": "festival-three-axis-notched-wood-lock-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "festival",
+  "style": "S01-clean-geometric",
+  "title": "Three-Axis Quarter-Web Wooden Gift Lock",
+  "description": "One original complete static Chinese-festival-gift-inspired three-axis wooden lock display. Three continuous thick square-ended wooden bars cross along mutually perpendicular X, Y and Z axes. Each bar has a true three-quarter central notch with one uninterrupted quarter-section connecting web; the three differently oriented webs occupy separate parts of the central volume. Each pair meets on three whole finite opposed planar interfaces, nine interfaces in total, without solid overlap. Additionally each pair meets along three exact finite boundary edges: one full-width end boundary and two half-width corner boundaries, nine zero-area boundary edges total; these are explicitly endpoint bounded and distinct from the nine finite rectangular area seats. Two opposite diagonal octant cavities remain genuinely empty within the assembled centre. Three complete isolated notch air bodies describe the cuts only against their own bars, since other bars occupy parts of them in the assembly. All bars are closed, connected, editable material meshes; the vertical bar has a complete flat ground sole and the pairwise seats connect the whole prop to ground. Three opaque constant untextured wood-tone PBR materials. One whole reusable decorative gift prop and zero scenes; the three bars are components, never three separately counted assets. No frame, plinth, text, symbol, writing, texture, ribbon, loose extra pieces, animation or surrounding scene. Metres, native Z up, presentation front -Y and horizontal bounds-centred ground origin. All numeric shape geometry newly authored; no old half-lap canvas frame, mortise-tenon sample, toy track, shelf, box or other model is imported, resized, recoloured, extracted or combined. Static stylised game geometry only: no claim of a particular historical puzzle, cultural authenticity, solvability, insertion or disassembly path, functioning lock, mechanical interlocking performance, assembly instructions, manufacture, wood tolerance, age suitability, child or toy safety, physical balance, load, strength or safety certification. Dimensions describe game-space geometry only.",
+  "bounds": {
+    "x": 0.38,
+    "y": 0.38,
+    "z": 0.38,
+    "unit": "m"
+  },
+  "triangles": 204,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/festival/festival-three-axis-notched-wood-lock-01/v1.0.0/model.glb",
+      "size": 11616,
+      "sha256": "fc75f5cf69ac10e29df3dcd70b6e8e97ba15d3f09f03b6203f460f8d94164c64"
+    },
+    "blend": {
+      "path": "assets/festival/festival-three-axis-notched-wood-lock-01/v1.0.0/source.blend",
+      "size": 518440,
+      "sha256": "cf2e846563de32dc0595a05ea9f41e0eaef657b11ddddbd30fe6b16237490c31"
+    },
+    "generator": {
+      "path": "assets/festival/festival-three-axis-notched-wood-lock-01/v1.0.0/generate.py",
+      "size": 31715,
+      "sha256": "6250bdfe2b325c0698527ea2771bf81685897bf12997c4631f3a72b64910093a"
+    },
+    "render": {
+      "path": "assets/festival/festival-three-axis-notched-wood-lock-01/v1.0.0/thumbnail.png",
+      "size": 517408,
+      "sha256": "97605ea1327b0011d6a27e5f1b4bb53b1530dd6f6f9091043e422ba4849610be"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
