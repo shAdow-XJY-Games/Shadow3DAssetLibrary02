@@ -1,0 +1,42 @@
+{
+  "id": "farming-gooseneck-cross-blade-hoe-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "farming",
+  "style": "warm-handcrafted-village",
+  "title": "Gooseneck Cross-Blade Hoe",
+  "description": "One original complete static farm-tool prop with a broad transverse blunt steel hoe plate, one continuous raised bent metal gooseneck and a long eight-facet wooden shaft with an integral clipped rear resting sole. Three independently editable closed connected solids meet only at two complete finite opposed rectangular gooseneck end seats. The plate has a broad finite bottom edge; the shaft has a finite flat rear underside in this fixed presentation. One complete finite air passage follows the entire underside of the raised connector. Four opaque constant untextured PBR materials include end grain on existing wooden end faces. Native Z up, front -Y, metres, horizontal bounds-centred ground origin. Newly authored whole-object geometry, not an extracted rack tool, rotated axe, flattened snow scoop, stretched trowel, rake, crescent sickle or D-loop dibber. Exactly one prop, zero scenes. No crop, soil, person, machinery, branding, texture, animation or variant. Static blunt visual only; no cutting performance, use instructions, manufacture, ergonomic fit, load, strength, agronomic effectiveness, balance or real-tool safety claim.",
+  "bounds": {
+    "x": 0.29,
+    "y": 1.32,
+    "z": 0.155,
+    "unit": "m"
+  },
+  "triangles": 88,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/farming/farming-gooseneck-cross-blade-hoe-01/v1.0.0/model.glb",
+      "size": 8840,
+      "sha256": "229211413ed5fc829efe7933b0a9cdf9823ad094c3337e381f1f02cc782e8d80"
+    },
+    "blend": {
+      "path": "assets/farming/farming-gooseneck-cross-blade-hoe-01/v1.0.0/source.blend",
+      "size": 535412,
+      "sha256": "4b55e319fd0629a7e139f431ad2ecf5fbb43c50087f0552ae33d0b0d0cf03f07"
+    },
+    "generator": {
+      "path": "assets/farming/farming-gooseneck-cross-blade-hoe-01/v1.0.0/generate.py",
+      "size": 32721,
+      "sha256": "e0975f9bbea58d498596b612529e8ca10fc24107e1d7b41115db917e25c28776"
+    },
+    "render": {
+      "path": "assets/farming/farming-gooseneck-cross-blade-hoe-01/v1.0.0/thumbnail.png",
+      "size": 452587,
+      "sha256": "3474b0fd4a39de2be7a58844a780fb8e53fa53fd3f9b24ee05d6826e8128272a"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

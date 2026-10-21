@@ -1,0 +1,42 @@
+{
+  "id": "cafe-integral-broad-base-coffee-tamper-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "cafe",
+  "style": "S01-clean-geometric",
+  "title": "Broad Base Coffee Tamper",
+  "description": "One original low-poly upright cafe coffee-tamper visual prop. A broad short twelve-sided flat base has a small lower bevel, a full cylindrical rim band and a sloping upper shoulder. A narrow continuous neck rises into a widened rounded faceted handle with a short closed top. The complete newly authored twelve-ring contour forms one watertight connected editable surface, with steel-grey lower base and warm walnut upper grip assigned to whole finite surface bands. Two constant opaque untextured PBR materials. The metal and wood appearance is a surface-material partition on one continuous static game mesh; there is no internal material joint or detachable handle. Metres, source Z up, front -Y, axis-centred ground origin, complete circular bottom at Z=0. One whole prop, zero scenes. No coffee grounds, portafilter, machine, cup, logo, printed measurement, texture, separate stand, spring, hinge, animation or external model. No previous pestle, grinder, hand tool, sports bat or bowling-pin geometry is consumed, rescaled, renamed or recoloured; the wide low base and short upper grip proportions are authored for this independent object. Static game-art appearance only: no actual tamping pressure, coffee preparation, tool fit, food-contact suitability, hand ergonomics, material manufacture, load, stability, assembly or safety certification.",
+  "bounds": {
+    "x": 0.065683,
+    "y": 0.065683,
+    "z": 0.105,
+    "unit": "m"
+  },
+  "triangles": 288,
+  "materials": 2,
+  "files": {
+    "glb": {
+      "path": "assets/cafe/cafe-integral-broad-base-coffee-tamper-01/v1.0.0/model.glb",
+      "size": 17732,
+      "sha256": "e3a6bd0945c61bceb3f805483c2dd792db926e27b85d6a51b11d7b3bc2cb062c"
+    },
+    "blend": {
+      "path": "assets/cafe/cafe-integral-broad-base-coffee-tamper-01/v1.0.0/source.blend",
+      "size": 489644,
+      "sha256": "44e188e7658d3047287cc9683fdceaad55ae8f9ae4306b009d8d552d9772e485"
+    },
+    "generator": {
+      "path": "assets/cafe/cafe-integral-broad-base-coffee-tamper-01/v1.0.0/generate.py",
+      "size": 28643,
+      "sha256": "175c9fcb02737f683b5735174e35f9ebe7f4db997fe193aef0774c1448889e6a"
+    },
+    "render": {
+      "path": "assets/cafe/cafe-integral-broad-base-coffee-tamper-01/v1.0.0/thumbnail.png",
+      "size": 502000,
+      "sha256": "007bfc959ed09a66aa0161c48f8866a9d3282e4f095f38c76848b3e76a644aa3"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

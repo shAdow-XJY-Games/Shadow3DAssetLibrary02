@@ -1,0 +1,42 @@
+{
+  "id": "festival-tethered-pellet-rattle-drum-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "festival",
+  "style": "S01-clean-geometric",
+  "title": "Tethered Pellet Rattle Drum",
+  "description": "One original static low-poly handheld pellet rattle-drum gift. A single continuous shallow sixteen-sided drum case has a genuine complete blind chamber, thick back and integral flat-ended grip. A separate finite-thickness front head seals the chamber on its entire annular seat. Two opposed narrow tethers each expand continuously into one faceted end pellet and meet the case at complete finite side seats. Four editable closed connected meshes and four opaque constant untextured PBR materials, one prop and zero scenes. The complete interior chamber is real geometry even though its opaque head hides it in the assembled pose. Newly authored whole numeric shape and contact layout; no drum-kit part, kettle-drum bowl, clock case, paddle, dumbbell, top, cord or bead shape is imported, extracted, recoloured or scaled. Metres, native Z up, front-Y, horizontal bounds-centred origin with the entire grip butt on ground. Static extended-tether pose only: no sound, membrane response, flexible-cord dynamics, swinging, rotation, percussion performance, playability, historical authenticity, age suitability, child safety, physical stability, manufacture, material suitability or certification claim. No labels, ornament overlays, textures, rig, animation, extra scene or consumed asset.",
+  "bounds": {
+    "x": 0.416,
+    "y": 0.054,
+    "z": 0.42,
+    "unit": "m"
+  },
+  "triangles": 416,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/festival/festival-tethered-pellet-rattle-drum-01/v1.0.0/model.glb",
+      "size": 25924,
+      "sha256": "99cea7da6be06c632eb9c02f156fa146aac823c3cc8830c713549e1d40dc48a2"
+    },
+    "blend": {
+      "path": "assets/festival/festival-tethered-pellet-rattle-drum-01/v1.0.0/source.blend",
+      "size": 558236,
+      "sha256": "bf31c4aa45a2d906753a143efa2bb124940d2f1db9ae48c2936399e2e68ef364"
+    },
+    "generator": {
+      "path": "assets/festival/festival-tethered-pellet-rattle-drum-01/v1.0.0/generate.py",
+      "size": 33520,
+      "sha256": "7818e903652cab065a850e8b2598f1b06d98f37cb88366c0fdd57f96fe6794b4"
+    },
+    "render": {
+      "path": "assets/festival/festival-tethered-pellet-rattle-drum-01/v1.0.0/thumbnail.png",
+      "size": 490717,
+      "sha256": "183db368d615ede28011f7e5c1ed61b73c1c5b059344c2737175265235c3cd8d"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
