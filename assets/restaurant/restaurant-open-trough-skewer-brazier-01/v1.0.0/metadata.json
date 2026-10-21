@@ -1,0 +1,42 @@
+{
+  "id": "restaurant-open-trough-skewer-brazier-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "restaurant",
+  "style": "S01-clean-geometric",
+  "title": "Open-Trough Night Market Skewer Brazier",
+  "description": "One original complete static night-market skewer-brazier visual prop. An elongated thick rectangular firebox has a real deep open cavity, a continuous bottom and eight genuine through-vent windows in its two long walls. Four separate full grounded legs carry the complete body. Two fixed bright metal rim rails support three flat pointed steel skewers across the open trough; each skewer has its own faceted wooden grip joined at a complete finite end face. All shape coordinates are newly authored. Thirteen closed separately editable meshes and four opaque constant untextured PBR materials. Metres, native Z up, front -Y, horizontally bounds-centred ground origin. One complete prop and zero scenes; repeated legs, rails and skewers are components of this one assembly, not separately counted models. No charcoal, fuel, fire, smoke, food, heat, ash, liquid, text, logo, texture, animation, wheels, canopy or surrounding scene. No old stove, campfire, oven, pan, steamer, trough, grate, market counter or imported model is copied, scaled or recoloured. Fixed stylized game-art appearance only: no operational combustion, thermal or cooking behaviour, ventilation performance, food-contact suitability, hygiene, ergonomics, load or stability, assembly or manufacturing instructions, compatibility, cultural precision or safety certification. Dimensions describe game geometry only.",
+  "bounds": {
+    "x": 1.2,
+    "y": 0.77,
+    "z": 0.932,
+    "unit": "m"
+  },
+  "triangles": 736,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/restaurant/restaurant-open-trough-skewer-brazier-01/v1.0.0/model.glb",
+      "size": 36332,
+      "sha256": "1bb98185e165804184e516f12b9281f6354692a794f07a958c450e0b17c6370a"
+    },
+    "blend": {
+      "path": "assets/restaurant/restaurant-open-trough-skewer-brazier-01/v1.0.0/source.blend",
+      "size": 620768,
+      "sha256": "d909533197e223f060851f79abd0e5e053e1f1456a29f87246d5148d70da1d8d"
+    },
+    "generator": {
+      "path": "assets/restaurant/restaurant-open-trough-skewer-brazier-01/v1.0.0/generate.py",
+      "size": 33544,
+      "sha256": "5eb22d105f4576b879a7c319917f61cff501688eb6d06de8a6b376e8b7f20408"
+    },
+    "render": {
+      "path": "assets/restaurant/restaurant-open-trough-skewer-brazier-01/v1.0.0/thumbnail.png",
+      "size": 542864,
+      "sha256": "c5be15ea5924e20a2c8c9b2a492230c8aa7ef5d9a9d52eba0f4b11d5c2303154"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
