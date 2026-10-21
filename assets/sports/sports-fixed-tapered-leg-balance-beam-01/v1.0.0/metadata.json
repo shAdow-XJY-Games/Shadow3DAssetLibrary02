@@ -1,0 +1,42 @@
+{
+  "id": "sports-fixed-tapered-leg-balance-beam-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "sports",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Tapered-Leg Balance Beam",
+  "description": "One original complete static gymnastics balance-beam visual prop. A continuous long narrow chamfer-ended beam has a true octagonal transverse section, an uninterrupted slim upper face, sloped shoulders and a broad flat underside. Two original tapered rectangular support columns meet its underside at separate finite complete seats. Each column stands on a separate transverse chamfer-corner foot with a broad continuous ground sole. Five editable closed connected meshes, four opaque constant untextured PBR materials. Metres, native Z up, long axis X, presentation front -Y and horizontal bounds-centred ground datum. Newly authored numeric geometry; no previous pommel-horse body, bench, hurdle, slant board, bleacher, platform, rack or imported model fragments. One complete prop and zero scenes. No pommels, climbing steps, athlete, mat, text, logo, texture, motion, surrounding gym or competition venue. Fixed stylized game-art appearance only: no gymnastics technique or instruction, athlete suitability, human fit, competition dimensions or standard, event affiliation, loading, stability, anti-tip, grip, material or padding behavior, adjustment mechanism, manufacture, installation, compatibility or safety certification. Dimensions are game-space proportions only.",
+  "bounds": {
+    "x": 3.2,
+    "y": 0.9,
+    "z": 1.14,
+    "unit": "m"
+  },
+  "triangles": 216,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/sports/sports-fixed-tapered-leg-balance-beam-01/v1.0.0/model.glb",
+      "size": 16316,
+      "sha256": "34100ed729779c84bb4268f200b2b0a2bcb00b41abffa95f2eb880c9caef6424"
+    },
+    "blend": {
+      "path": "assets/sports/sports-fixed-tapered-leg-balance-beam-01/v1.0.0/source.blend",
+      "size": 552500,
+      "sha256": "75d97dc9c23c4ab003a6529be5634895d100d57b87104130eaad75fe9312563c"
+    },
+    "generator": {
+      "path": "assets/sports/sports-fixed-tapered-leg-balance-beam-01/v1.0.0/generate.py",
+      "size": 31104,
+      "sha256": "0218b9c59840be4fe89bb1e65abc9520bc4c77b8c826cf7255f99e1fdb7f4092"
+    },
+    "render": {
+      "path": "assets/sports/sports-fixed-tapered-leg-balance-beam-01/v1.0.0/thumbnail.png",
+      "size": 487681,
+      "sha256": "d17489f5c40aac73522861707a7bffbaab145e93eaefd489818faebe194f9187"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
