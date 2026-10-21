@@ -1,0 +1,42 @@
+{
+  "id": "sports-continuous-knobbed-baseball-bat-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "sports",
+  "style": "S01-clean-geometric",
+  "title": "Continuous Knobbed Baseball Bat",
+  "description": "One original static low-poly baseball-bat visual prop. A single uninterrupted solid body has a small integral retaining knob, a long narrow handle, a gradually widening taper and a long broad striking-barrel silhouette ending in a softened blunt cap. Sixteen separately authored twelve-sided section rings form the complete asymmetric contour. The bat lies horizontally along X on its entire finite maximum-radius lower barrel facet; the knob and grip remain above ground. A dark-walnut handle region is an assignment on the same connected triangles, not a separate sleeve, overlaid band or intersecting tape shell. One closed editable mesh, two opaque constant untextured PBR tones, metres, source Z up, front -Y and horizontal-envelope-centred ground origin. One prop, zero scenes. No ball, glove, player, stand, second bat, body cavity, bore, separate shaft, articulated connection, logo, text, texture, rig or animation. All numerical geometry newly authored as a complete bat; no old pestle, rolling-pin barrel, fishing float, flail member or bowling-pin body is extracted, scaled or recoloured. Generic mesh-building and export guards are reused. Static stylized game-space appearance only: no regulation dimensions, league affiliation, legal equipment specification, weight, hand fit, swing or impact behavior, collision physics, ball trajectory, scoring, playability, strength, stability, manufacture, installation or safety certification.",
+  "bounds": {
+    "x": 0.85,
+    "y": 0.065683,
+    "z": 0.065683,
+    "unit": "m"
+  },
+  "triangles": 384,
+  "materials": 2,
+  "files": {
+    "glb": {
+      "path": "assets/sports/sports-continuous-knobbed-baseball-bat-01/v1.0.0/model.glb",
+      "size": 22932,
+      "sha256": "bb39bd0f65463725ddccd72b8d1609b70b1f419a8b933ded1a504d9679b87745"
+    },
+    "blend": {
+      "path": "assets/sports/sports-continuous-knobbed-baseball-bat-01/v1.0.0/source.blend",
+      "size": 494832,
+      "sha256": "f1bd423e5e283d6914a1c6d3c12feebcdac2d55c0f585da7b1b3c574e52a303e"
+    },
+    "generator": {
+      "path": "assets/sports/sports-continuous-knobbed-baseball-bat-01/v1.0.0/generate.py",
+      "size": 29448,
+      "sha256": "6110f7cd32607298485b2608ce4e757a8fb0c14bacfdda801aa9f19b5ad713e5"
+    },
+    "render": {
+      "path": "assets/sports/sports-continuous-knobbed-baseball-bat-01/v1.0.0/thumbnail.png",
+      "size": 448558,
+      "sha256": "084ae000ad4812bb10e4d0efbfc1bb116cb9758a083a77dee8ebc418c6f02704"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

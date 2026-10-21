@@ -1,0 +1,42 @@
+{
+  "id": "farming-d-loop-handled-planting-dibber-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "farming",
+  "style": "warm-handcrafted-village",
+  "title": "D-Loop Handled Planting Dibber",
+  "description": "One original complete static planting-dibber-inspired farm prop: a continuous wooden D-loop grip with a true through aperture joins a long eight-facet wooden shaft and a short eight-facet tapered metal tip with a blunt finite end. Three separately editable closed connected solids meet only at two complete opposed finite end-face seats. The grip and shaft have complete flat ground soles in the laid-flat presentation. Four constant opaque untextured PBR materials distinguish grip wood, shaft wood, existing end-grain faces and muted steel. Metres, native Z up, front -Y, horizontal bounds-centred ground origin. New whole-object numeric geometry; no old shovel, rack chisel, gouge, rolling pin, yoke, seeder, rake or sickle is imported, resized, recoloured, extracted or assembled. Exactly one prop and zero scenes. No soil, seeds, crops, person, stand, decoration, texture, branding, animation or variant. Fixed blunt game-space art only; no planting performance, hole diameter, ergonomics, human fit, working point, strength, manufacture, assembly method, physical balance or tool-safety claim.",
+  "bounds": {
+    "x": 0.13,
+    "y": 0.505,
+    "z": 0.028,
+    "unit": "m"
+  },
+  "triangles": 216,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/farming/farming-d-loop-handled-planting-dibber-01/v1.0.0/model.glb",
+      "size": 14452,
+      "sha256": "3ec691b80fb2d7a20f3de838585a5daf053a28db56567aafd45e77ca03938cbf"
+    },
+    "blend": {
+      "path": "assets/farming/farming-d-loop-handled-planting-dibber-01/v1.0.0/source.blend",
+      "size": 542360,
+      "sha256": "a91a654766097c75a40697e2d5c47eb496ee42aec7fc4550ba546ab8733f9bff"
+    },
+    "generator": {
+      "path": "assets/farming/farming-d-loop-handled-planting-dibber-01/v1.0.0/generate.py",
+      "size": 32607,
+      "sha256": "a55889adee4e3b5333785d0dd31c25648579d442768799df000f25fa1a4abbff"
+    },
+    "render": {
+      "path": "assets/farming/farming-d-loop-handled-planting-dibber-01/v1.0.0/thumbnail.png",
+      "size": 459780,
+      "sha256": "9fc247ec498d06bf4f74db355e44247472c72e7bd6c04fd7369b5b15666c316f"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
