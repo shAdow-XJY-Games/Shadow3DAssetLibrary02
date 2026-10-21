@@ -1,0 +1,42 @@
+{
+  "id": "farming-crescent-blade-harvest-sickle-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "farming",
+  "style": "warm-handcrafted-village",
+  "title": "Broad Crescent Harvest Sickle",
+  "description": "One original complete static harvest-sickle-inspired farm prop with a broad open crescent metal blade, a short eight-facet wooden grip and a solid rectangular warm-metal joining collar. The crescent is a closed finite-thickness 225-degree polygonal arc band with broad flat terminal faces; the large concave inner bay really opens through a wide side mouth. Two complete opposed finite end-face interfaces join the three separately editable closed meshes. Grip and collar have complete flat ground soles. Four opaque constant untextured PBR tones. Metres, native Z up, presentation front -Y, horizontal bounds-centred ground origin. All visible numeric geometry is newly authored; no old knife, shears, loop-trimming tool, gouge, flail, axe or handsaw is imported, resized, recoloured, extracted or assembled. Exactly one complete reusable prop and zero scenes. No crop, hay, soil, stand, extra tool, decorative text, texture, branding, animation or variant. Fixed stylised blunt game art only; no cutting, harvesting, ergonomic grip, human fit, agricultural operation, joinery manufacture, assembly instructions, blade sharpness, physical balance, load or tool-safety claims. Dimensions describe game-space geometry only.",
+  "bounds": {
+    "x": 0.435,
+    "y": 0.401,
+    "z": 0.028,
+    "unit": "m"
+  },
+  "triangles": 288,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/farming/farming-crescent-blade-harvest-sickle-01/v1.0.0/model.glb",
+      "size": 17260,
+      "sha256": "97d4bb1a3aba1b4db3ed8f19b39df7c7743e8b0cc521bfe4ffd0568454aa4c91"
+    },
+    "blend": {
+      "path": "assets/farming/farming-crescent-blade-harvest-sickle-01/v1.0.0/source.blend",
+      "size": 546312,
+      "sha256": "5c796619c5d6f2f2588d311281a8e82f1e0a86af51a240e99142450714b5c97c"
+    },
+    "generator": {
+      "path": "assets/farming/farming-crescent-blade-harvest-sickle-01/v1.0.0/generate.py",
+      "size": 31533,
+      "sha256": "176d0401e8fc90cf3103417af76da6d5a97f3197fb668672d5bbe22fbb78731f"
+    },
+    "render": {
+      "path": "assets/farming/farming-crescent-blade-harvest-sickle-01/v1.0.0/thumbnail.png",
+      "size": 455734,
+      "sha256": "488f9f30ce930a66ba6509278cdf2fc5b575aa5532b0a7171d4096f4dc90300f"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

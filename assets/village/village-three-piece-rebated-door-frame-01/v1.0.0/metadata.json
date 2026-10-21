@@ -1,0 +1,42 @@
+{
+  "id": "village-three-piece-rebated-door-frame-01",
+  "version": "1.0.0",
+  "category": "architecture",
+  "assetKind": "modular",
+  "theme": "village",
+  "style": "S01-clean-geometric",
+  "title": "Three-Piece Rebated Stone Door Frame",
+  "description": "One original empty straight-headed stone doorway surround, counted as one reusable static architectural module. Two continuous L-section jambs stand on their complete L-shaped ground soles. A separate continuous thick head has a genuine stepped underside and bears finitely on the complete L-shaped top face of each jamb. The same front-side depth rebate continues up both sides and across the head: the front opening is wider and higher than the rear throat, with three finite shoulder faces rather than a painted border. The bottom remains completely open, without a threshold, wall or door leaf. Three closed connected editable meshes, three constant opaque untextured PBR materials, metres, native Z up, front -Y and horizontal bounds-centred ground datum. Newly authored straight rebate geometry and exact top-seat layout; no imported old arch, door leaf, timber wall, picture frame, hive or other model. One module and zero scenes. No hinge, motion, animation, decorative hardware, text, texture or hidden backing. Static game appearance only: no fit with old door/wall systems, continuous navigation or collision clearance, accessibility, real masonry construction, lintel load, strength, stability, installation, dimensions standard, manufacturing or safety certification.",
+  "bounds": {
+    "x": 1.5,
+    "y": 0.32,
+    "z": 2.34,
+    "unit": "m"
+  },
+  "triangles": 124,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/village/village-three-piece-rebated-door-frame-01/v1.0.0/model.glb",
+      "size": 10280,
+      "sha256": "b29c734e7328fa5aff88842517ee57d70a8a93a260e696ac791f8e84f75454d0"
+    },
+    "blend": {
+      "path": "assets/village/village-three-piece-rebated-door-frame-01/v1.0.0/source.blend",
+      "size": 514036,
+      "sha256": "9ea1112925449b1a3d00fc450252bd949d9421279bf83f40d9993428e4f0f4fa"
+    },
+    "generator": {
+      "path": "assets/village/village-three-piece-rebated-door-frame-01/v1.0.0/generate.py",
+      "size": 30049,
+      "sha256": "2a9a3e8808e3f150e9e37f783b62272cf41d784d6ece9cc2e9e2b9120d06f060"
+    },
+    "render": {
+      "path": "assets/village/village-three-piece-rebated-door-frame-01/v1.0.0/thumbnail.png",
+      "size": 487450,
+      "sha256": "1ac79aee8edcc558c82317d15fbf427d98ff56a6b83bacdb6bace2187006cbd9"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

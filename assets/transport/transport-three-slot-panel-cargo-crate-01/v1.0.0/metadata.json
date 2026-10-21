@@ -1,0 +1,42 @@
+{
+  "id": "transport-three-slot-panel-cargo-crate-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "transport",
+  "style": "S01-clean-geometric",
+  "title": "Three-Slot Panel Cargo Crate",
+  "description": "One original empty three-slot upright-panel cargo crate visual prop. A continuous thick shell combines a full floor, full tall back, two sidewalls and two full-height longitudinal internal partitions. Three independently empty narrow bays have complete floors and rear boundaries; the upper front of each bay is genuinely open above a low integral retaining edge, and every bay opens through the top. Two separate continuous longitudinal ground skids support the floor through finite full top faces and leave a complete underfloor gap. Three closed connected editable meshes, three constant opaque untextured PBR materials, metres, native Z up, open front -Y and horizontally bounds-centred ground datum. New geometry and loading-space arrangement: no imported general bin, battery box, slide case, sorting cabinet, dish rack, sheet rack or old cargo model. One empty prop and zero scenes; no cargo, lid, hinge, vehicle, text, label or animation. Static game appearance only: no compatible panel dimensions, insertion/removal trajectory, loading capacity, transport suitability, anti-tip stability, structural strength, cargo protection, manufacturing, material suitability, fork clearance standard, pallet interface, installation or safety certification.",
+  "bounds": {
+    "x": 0.96,
+    "y": 0.72,
+    "z": 1.02,
+    "unit": "m"
+  },
+  "triangles": 276,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/transport/transport-three-slot-panel-cargo-crate-01/v1.0.0/model.glb",
+      "size": 13308,
+      "sha256": "0cff1d6f55d69c24d10440c6a9092895bf7e882dc7fd515dea75869deec3954f"
+    },
+    "blend": {
+      "path": "assets/transport/transport-three-slot-panel-cargo-crate-01/v1.0.0/source.blend",
+      "size": 522248,
+      "sha256": "ab380f26c7add69d3b3b5f4e83c4470d8e6a3e951aed4281d014f93f4cb793cd"
+    },
+    "generator": {
+      "path": "assets/transport/transport-three-slot-panel-cargo-crate-01/v1.0.0/generate.py",
+      "size": 29654,
+      "sha256": "3d55f8dbc1aa5236159a3c871b9dc5beaea380b20d0b3382a61f5e98b19d9374"
+    },
+    "render": {
+      "path": "assets/transport/transport-three-slot-panel-cargo-crate-01/v1.0.0/thumbnail.png",
+      "size": 580383,
+      "sha256": "dc21b0b917a330023a4a2b86772d5b7d3a8548352e779094821977a011f70898"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
