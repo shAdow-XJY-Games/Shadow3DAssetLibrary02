@@ -1,0 +1,42 @@
+{
+  "id": "restaurant-continuous-scalloped-serving-tongs-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "restaurant",
+  "style": "S01-clean-geometric",
+  "title": "Continuous Scalloped Serving Tongs",
+  "description": "One original fixed flat-open restaurant serving-tongs visual prop. A single continuous thick metal-coloured body follows a narrow rounded rear return into two long splayed arms and two broader opposed scalloped jaw ends. The open mouth and complete long inward channel are real empty space, and both outer and inner rear curves are geometric facets. Full upper and lower surfaces and every finite sidewall form one closed connected editable mesh; the broad jaw ends are integral, not separately attached paddles. Two constant opaque untextured PBR face materials distinguish broad metal faces from their finite edge bands. One complete prop and zero scenes. Metres, native Z up, front/open mouth -Y, whole horizontal envelope centred and complete underside at Z=0. All outline coordinates are newly authored. This is not a pivoting shear, two offset floral blades, a robot gripper, slotted spatula, detached brazier skewer, U-flute gouge or recoloured old tool. No pivot, rivet, lock, spring simulation, motion, anatomical fit, sharp blade, food, plate, stove, text, logo, texture, rig or animation is provided. Fixed stylized appearance only; no actual grasping, spring force, closing motion, insertion path, food-contact suitability, hygiene, heat resistance, cooking, material construction, manufacture, stability or safety certification claim.",
+  "bounds": {
+    "x": 0.148,
+    "y": 0.329,
+    "z": 0.008,
+    "unit": "m"
+  },
+  "triangles": 196,
+  "materials": 2,
+  "files": {
+    "glb": {
+      "path": "assets/restaurant/restaurant-continuous-scalloped-serving-tongs-01/v1.0.0/model.glb",
+      "size": 11044,
+      "sha256": "45213ad8a64e1f510f8cf85ba0ec2781c4b4aa7a4e587d5cd200bb54f25f7199"
+    },
+    "blend": {
+      "path": "assets/restaurant/restaurant-continuous-scalloped-serving-tongs-01/v1.0.0/source.blend",
+      "size": 484656,
+      "sha256": "63193365f7ef17ad495ad3c5e45a7f8dfc48a5ebd192589e0f50ce0559b67fe8"
+    },
+    "generator": {
+      "path": "assets/restaurant/restaurant-continuous-scalloped-serving-tongs-01/v1.0.0/generate.py",
+      "size": 30743,
+      "sha256": "367c0909e63913c5e05bb43c9fa9cb6756afe6efc074cea53a2e7c4d5827b371"
+    },
+    "render": {
+      "path": "assets/restaurant/restaurant-continuous-scalloped-serving-tongs-01/v1.0.0/thumbnail.png",
+      "size": 462015,
+      "sha256": "f81ed588218110405b032085ce66ad6a7d994e4c20cdfed05c6dbf5d5abfb5d8"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

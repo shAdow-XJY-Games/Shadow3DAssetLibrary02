@@ -1,0 +1,42 @@
+{
+  "id": "festival-open-vnotch-red-envelope-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "festival",
+  "style": "S01-clean-geometric",
+  "title": "Open V-Notch Festival Red Envelope",
+  "description": "One original complete static Chinese-festival-inspired red gift envelope, laid flat with its triangular closing flap fully unfolded. A single continuous thin rectangular material shell has a genuine blind-bottom internal sleeve, two finite sidewalls, a full closed rear end and a real V-notched upper mouth. Its back, walls and notched front cover are one shared-vertex closed surface, not overlapping cards or a solid painted envelope. A separate thick triangular flap meets the complete mouth-side back edge across a full finite seat; a small gold-coloured diamond seal rests on its whole lower face on the front cover. Three closed connected editable meshes and three opaque constant untextured PBR colours. The empty sleeve and open V mouth are complete finite air volumes. The whole back and unfolded flap rest on finite ground soles. One whole reusable gift prop and zero scenes; no money, contents, writing, emblem, text, texture, ribbon, hand, animation or scene. Metres, native Z up, decorative face +Z, presentation front -Y and horizontal bounds-centred ground origin. All numeric shape geometry newly authored; no old tray, satchel, camera bag, book, case, fan or other model is imported, rescaled, recoloured or combined. Fixed stylised game art only: no paper-folding or closure animation, opening or insertion path, capacity, currency or document compatibility, adhesive bond, practical handling, cultural or historical authenticity, regional custom, material behaviour, load, stability, manufacture or safety certification. Dimensions describe game-space geometry only.",
+  "bounds": {
+    "x": 0.32,
+    "y": 0.58,
+    "z": 0.042,
+    "unit": "m"
+  },
+  "triangles": 172,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/festival/festival-open-vnotch-red-envelope-01/v1.0.0/model.glb",
+      "size": 9584,
+      "sha256": "952c969826294e2832001f5e9d2096cb3b3478a1391cd6b129b8085fdedf4de0"
+    },
+    "blend": {
+      "path": "assets/festival/festival-open-vnotch-red-envelope-01/v1.0.0/source.blend",
+      "size": 516708,
+      "sha256": "832948931f5525fdb2b7e61ad38a6c0b284885d81c0e56d35e805b1151752aa3"
+    },
+    "generator": {
+      "path": "assets/festival/festival-open-vnotch-red-envelope-01/v1.0.0/generate.py",
+      "size": 32065,
+      "sha256": "7db90403af403cd42a217c73622eb29a86282c3dfb14ddeddc70c22aa9ac0ffc"
+    },
+    "render": {
+      "path": "assets/festival/festival-open-vnotch-red-envelope-01/v1.0.0/thumbnail.png",
+      "size": 485805,
+      "sha256": "d293025c7d2d1792a1eac1fb4fa17cc7c4f7c5027c0b828e5f0f0bb08706ce15"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
