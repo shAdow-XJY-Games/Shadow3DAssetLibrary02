@@ -1,0 +1,42 @@
+{
+  "id": "festival-open-pleated-folding-fan-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "festival",
+  "style": "S01-clean-geometric",
+  "title": "Open Pleated Festival Folding Fan",
+  "description": "One original complete static Chinese-festival-inspired open folding-fan visual prop, displayed laid flat. A single continuous thick annular-sector fan leaf has eight genuine radial mountain folds and nine finite flat valley seats. One newly drawn continuous wooden skeleton joins nine slender radial ribs to a rounded pivot hub; eight fully open lower rib windows and eight complete under-pleat clearances are genuine air. A separate small faceted gold-coloured pivot head rests on its full circular seat. Three closed connected editable meshes and three opaque constant untextured PBR materials. Metres, native Z up, decorative face +Z, presentation front -Y and horizontally bounds-centred ground origin. The whole flat wooden skeleton back is grounded. All numerical model shapes are newly authored; no palm leaf, parasol, sextant, accordion, pinwheel, knot, cloth bolt or other existing geometry is imported, scaled, recoloured or combined. One whole prop and zero scenes; ribs and folds are constituent geometry, not extra assets. The wooden rib roots share one continuous fixed hub; the pivot head is decorative and no working hinge or separate moving leaves are represented. No writing, logo, texture, tassel, stand, person, animation or surrounding scene. Stylized game-art only: no historical or regional reconstruction, cultural authenticity, folding or opening motion, paper or cloth deformation, ventilation performance, handling suitability, attachment, load, stability, material properties, manufacture or safety certification. Dimensions describe game-space geometry only.",
+  "bounds": {
+    "x": 0.983524,
+    "y": 0.594916,
+    "z": 0.0546,
+    "unit": "m"
+  },
+  "triangles": 648,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/festival/festival-open-pleated-folding-fan-01/v1.0.0/model.glb",
+      "size": 33992,
+      "sha256": "db33d3924dc4a01ee5245db045ff013559c42d2a500b5f5a4ef079545d7f4a92"
+    },
+    "blend": {
+      "path": "assets/festival/festival-open-pleated-folding-fan-01/v1.0.0/source.blend",
+      "size": 542416,
+      "sha256": "1490d9f5f2b6078aa15a797c8e8ad6814c3936e1c5395942d8480a8470f33420"
+    },
+    "generator": {
+      "path": "assets/festival/festival-open-pleated-folding-fan-01/v1.0.0/generate.py",
+      "size": 33327,
+      "sha256": "bff67c9490a415f7335123c2504cdaafb0ab4a2400f1a64602f84a1602943a58"
+    },
+    "render": {
+      "path": "assets/festival/festival-open-pleated-folding-fan-01/v1.0.0/thumbnail.png",
+      "size": 489223,
+      "sha256": "3f26817e9e7565b4f95d672720eb7d8b527fa807b734d4e635c7e1e510303dfd"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

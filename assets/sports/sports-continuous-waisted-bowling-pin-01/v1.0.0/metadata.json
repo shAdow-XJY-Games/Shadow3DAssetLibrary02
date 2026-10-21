@@ -1,0 +1,42 @@
+{
+  "id": "sports-continuous-waisted-bowling-pin-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "sports",
+  "style": "S01-clean-geometric",
+  "title": "Continuous Waisted Bowling Pin",
+  "description": "One original low-poly static bowling-pin visual prop. A single continuous closed filled body has a finite broad flat sole, a gently flared lower foot, a full rounded belly, a narrowing shoulder, a genuinely pinched neck and an integral rounded bulbous head. Two crimson neck bands are assignments on the same body triangles, not separate bands or intersecting overlay meshes. The complete contour uses twenty authored sixteen-sided section rings with closed triangulated bottom and top caps. One mesh and two constant opaque untextured PBR colors, metres, source Z up, rotational axis Z and ground-centre origin. One complete prop, zero scenes. There are no separate components, assembly contacts, component noncontact pairs, through-holes, hollow vessel interior, artificial air probes, stand, spinning point, finger grip, lid, toy rings, peg, ball, bowling lane, text, logo, textures, rig or animation. The head, neck and belly are parts of one authored surface, never extracted old-model components. Static stylized game-space geometry only: no regulation dimensions, association or competition affiliation, weight, pin-setting compatibility, material construction, impact response, friction, balance, stability, collision physics, rolling or scoring behavior, playability, manufacture or safety certification.",
+  "bounds": {
+    "x": 0.12,
+    "y": 0.12,
+    "z": 0.382,
+    "unit": "m"
+  },
+  "triangles": 640,
+  "materials": 2,
+  "files": {
+    "glb": {
+      "path": "assets/sports/sports-continuous-waisted-bowling-pin-01/v1.0.0/model.glb",
+      "size": 36568,
+      "sha256": "27e94746572793d05d1623c04122cdd372503f84ddebdabb10773303eb91a154"
+    },
+    "blend": {
+      "path": "assets/sports/sports-continuous-waisted-bowling-pin-01/v1.0.0/source.blend",
+      "size": 508648,
+      "sha256": "a258e47d87f8ed96ffe11086c2995145cc9545e8209648a86250454ec7706928"
+    },
+    "generator": {
+      "path": "assets/sports/sports-continuous-waisted-bowling-pin-01/v1.0.0/generate.py",
+      "size": 29220,
+      "sha256": "c345542bff6035425c3d598853f681bc3a649f0dad4b02713f90da519aa11d94"
+    },
+    "render": {
+      "path": "assets/sports/sports-continuous-waisted-bowling-pin-01/v1.0.0/thumbnail.png",
+      "size": 466940,
+      "sha256": "3b4a9d8f9cddd120beefc4812a21b7a4bbdbf74e372ba49aea5cd80c6c7219d8"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
