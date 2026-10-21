@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "assetTarget": {
+    "owner": "shAdow-XJY-Games",
+    "repo": "Shadow3DAssetLibrary02",
+    "branch": "main"
+  },
+  "catalogTarget": {
+    "owner": "shAdow-XJY-Games",
+    "repo": "Shadow3DAssetGallery",
+    "branch": "main"
+  },
+  "frozenLibraries": [
+    {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary",
+      "branch": "main",
+      "commit": "3bd5e2f0cb73b1810eaa483a3f42b7721921d094",
+      "assetCount": 622,
+      "appendAllowed": false,
+      "catalogSha256": "89c5dbce3f1d93c89ff4ce301154360b7fb9163230b60a739b7f844f38aca755"
+    }
+  ],
+  "volumeCatalog": "catalog/catalog.json",
+  "assetRoot": "assets/",
+  "globalAssetIds": "unique-across-all-volumes",
+  "publicationOrder": [
+    "asset-core-and-manifests",
+    "verify-immutable-asset-commit",
+    "catalog-graph",
+    "verify-immutable-catalog-graph",
+    "catalog-entry",
+    "verify-catalog-entry"
+  ],
+  "websiteOwnsAssets": false,
+  "forcePushAllowed": false
+}
