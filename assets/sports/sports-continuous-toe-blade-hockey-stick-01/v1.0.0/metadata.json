@@ -1,0 +1,42 @@
+{
+  "id": "sports-continuous-toe-blade-hockey-stick-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "sports",
+  "style": "S01-clean-geometric",
+  "title": "Continuous Toe-Blade Hockey Stick",
+  "description": "One original static low-poly ice-hockey-style stick appearance. A long narrow rectangular shaft descends continuously through an angular heel into a broad low lateral toe blade. The upper grip gently widens at the flat closed butt; the blade has a blunt bevelled toe silhouette and one long complete straight resting edge. The shaft, heel, toe and upper grip are one closed connected thick solid. Muted blue lower-blade, honey shaft and dark upper-grip regions are true face assignments within that one surface, without floating wraps or duplicate skins. One editable mesh, three opaque constant untextured PBR materials, one prop, zero scenes. The whole blade underside rests at ground Z0; horizontal bounds are centred, source Z up and presentation front -Y. Every numeric shape coordinate is newly authored. No old bat, paddle, axe, shovel, sickle, dibber or other model geometry is imported, stretched, scaled, recoloured, extracted or assembled. Generic mesh, finite planar triangulation and guarded export routines are reused. No opening, cavity, socket, separate joint, puck, ball, player, rink, logo, typography, texture, rig or animation. The fixed planar blade has no lateral playing curve or flex. Stylized game-space visual geometry only: no certified hockey dimensions, event affiliation, hand fit, grip, puck control, striking or rebound performance, balance, tipping resistance, physical stability, strength, material suitability, collision physics, manufacture, real equipment design, playability or safety certification.",
+  "bounds": {
+    "x": 0.34,
+    "y": 0.018,
+    "z": 1.1,
+    "unit": "m"
+  },
+  "triangles": 56,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/sports/sports-continuous-toe-blade-hockey-stick-01/v1.0.0/model.glb",
+      "size": 6132,
+      "sha256": "f1007bb16d8c10393a3208840ed9a1d932e616a62ece74a447103689d99ca12f"
+    },
+    "blend": {
+      "path": "assets/sports/sports-continuous-toe-blade-hockey-stick-01/v1.0.0/source.blend",
+      "size": 500308,
+      "sha256": "708e36a24a1cc1dd707eb34e66532a40f63cd820e6c4af84b8993c376b921456"
+    },
+    "generator": {
+      "path": "assets/sports/sports-continuous-toe-blade-hockey-stick-01/v1.0.0/generate.py",
+      "size": 30380,
+      "sha256": "d1814cb37bb541df74824c38579a68c3d9a1552ff5df80b001dd652c51663064"
+    },
+    "render": {
+      "path": "assets/sports/sports-continuous-toe-blade-hockey-stick-01/v1.0.0/thumbnail.png",
+      "size": 454437,
+      "sha256": "849f68342d765f3e88a972fd497583b2abc0459a4180b014806dbfc0807dc80b"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
