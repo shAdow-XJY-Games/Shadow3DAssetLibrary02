@@ -1,0 +1,42 @@
+{
+  "id": "festival-interlaced-double-diamond-knot-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "festival",
+  "style": "S01-clean-geometric",
+  "title": "Interlaced Double-Diamond Festival Knot",
+  "description": "One original complete static Chinese-festival-inspired double-diamond knot ornament displayed laid flat. Two continuous thick chamfer-cornered red cord loops interlace in real three-dimensional space: the left loop passes above the upper crossing with a genuine finite air gap, then below the lower crossing on a complete finite bearing patch. Three complete assembled through windows remain open between the bands. A separate warm-gold-fronted upper loop has its own true hanging aperture and full butt joint; a continuous lower red tassel silhouette has three genuine open-ended deep clefts and a full finite root joint. Four editable closed connected meshes and three opaque constant untextured PBR tones. Metres, native Z up, decorative face +Z, presentation front -Y and horizontally bounds-centred ground origin. The entire lower-left cord back and complete tassel back meet ground Z=0. One prop and zero scenes. All numerical geometry newly authored; no mooring coil, rope barrier, cloth bolt, wreath, firecracker, lantern, stacking ring or other model is imported, recoloured, resized or combined. The two linked loops are components of this one ornament, never counted as separate models. No wall, stand, scene, writing, texture, logo, animation, other festival object or extra knot variant. Stylized fixed decorative game geometry only: no precise historical knot type, knot-tying instruction, cultural authenticity, fabric deformation, flexibility, real cord construction, mechanical link performance, suspension or wall-mount suitability, attachment strength, loading, physical balance, manufacture, installation or safety certification. Dimensions describe game-space geometry only.",
+  "bounds": {
+    "x": 0.55,
+    "y": 0.82,
+    "z": 0.065,
+    "unit": "m"
+  },
+  "triangles": 448,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/festival/festival-interlaced-double-diamond-knot-01/v1.0.0/model.glb",
+      "size": 22608,
+      "sha256": "3ccfc0f412294ff6c2285ee4c3fa1f6019a39798875da390b4e42e9f1471c5bb"
+    },
+    "blend": {
+      "path": "assets/festival/festival-interlaced-double-diamond-knot-01/v1.0.0/source.blend",
+      "size": 536572,
+      "sha256": "47371d36daff47611997fae60d76c80886fc2be971158b4b968f9fa9a0a91a7c"
+    },
+    "generator": {
+      "path": "assets/festival/festival-interlaced-double-diamond-knot-01/v1.0.0/generate.py",
+      "size": 37377,
+      "sha256": "3bbd0af7b3da8b793b8c876f062e7d7b97782a656417d3185d3193ccb12b5685"
+    },
+    "render": {
+      "path": "assets/festival/festival-interlaced-double-diamond-knot-01/v1.0.0/thumbnail.png",
+      "size": 493370,
+      "sha256": "941fa5c46779c78731002f56e6e294dcf7b3ddce9cc207fe6e76274630f09485"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
