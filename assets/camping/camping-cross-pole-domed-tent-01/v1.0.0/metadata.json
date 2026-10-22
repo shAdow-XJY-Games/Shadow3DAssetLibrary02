@@ -1,0 +1,42 @@
+{
+  "id": "camping-cross-pole-domed-tent-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "camping",
+  "style": "S01-clean-geometric",
+  "title": "Cross-Pole Domed Camping Tent",
+  "description": "One original static low-poly domed camping tent appearance with a newly authored rounded-four-corner double-curved enclosure, integral thick floor and raised threshold, genuinely open chamfer-curved front entry, closed back and sides. Two whole continuous faceted diagonal pole paths meet at one finite opposed raised crown seat rather than crossing through each other. The lower pole seats along the complete convex fabric profile; the upper pole seats on both lower corners and on the lower pole at the crown. Three closed editable meshes, four constant opaque untextured PBR materials. Metres, native Z up, front -Y, horizontal bounds centred, entire floor underside at Z=0. One prop and zero scenes; not a family-completion claim or an old A-frame, play tunnel, climbing dome, parasol or observatory conversion. Empty fixed game-art appearance only: no flap operation, deployment, fabric simulation, moving mechanism, occupancy, human fit, practical entry, weatherproofing, thermal/fire behaviour, pitching, manufacture, installation, load, stability or camping safety/performance claim. No people, sleeping equipment, guy ropes, stakes, signs, lettering, brand, texture or animation.",
+  "bounds": {
+    "x": 2.0,
+    "y": 2.34,
+    "z": 1.312,
+    "unit": "m"
+  },
+  "triangles": 896,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/camping/camping-cross-pole-domed-tent-01/v1.0.0/model.glb",
+      "size": 37340,
+      "sha256": "919ceb5b8ed80552e3f22527d2a32c1a347995f88f6faaddbfcc5fcdc4b06c3d"
+    },
+    "blend": {
+      "path": "assets/camping/camping-cross-pole-domed-tent-01/v1.0.0/source.blend",
+      "size": 578884,
+      "sha256": "789e72e5c1938f9aae71e04bfe5c5bcca3de53da7fa676bbe16e4030ed5fe85d"
+    },
+    "generator": {
+      "path": "assets/camping/camping-cross-pole-domed-tent-01/v1.0.0/generate.py",
+      "size": 36651,
+      "sha256": "bb5e6f4e266f02a595a89b84ca69f75f69518baa4234b074a5d1d115e247764e"
+    },
+    "render": {
+      "path": "assets/camping/camping-cross-pole-domed-tent-01/v1.0.0/thumbnail.png",
+      "size": 525659,
+      "sha256": "c52f92d99c4fa79d62f9ade87453086a2ff63a32de2595a89fb74f4f2a29c24b"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
