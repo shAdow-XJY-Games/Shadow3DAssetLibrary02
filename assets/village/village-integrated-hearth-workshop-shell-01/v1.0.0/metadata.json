@@ -1,0 +1,42 @@
+{
+  "id": "village-integrated-hearth-workshop-shell-01",
+  "version": "1.0.0",
+  "category": "architecture",
+  "assetKind": "modular",
+  "theme": "village",
+  "style": "S01-clean-geometric",
+  "title": "Integrated Hearth Workshop Space Shell",
+  "description": "One original static roofed workshop-space shell: broad open front leads into a complete floor, three thick enclosing walls and flat thick roof; an integral raised rear hearth supports a genuinely open contracting hood and a continuous empty flue through its own roof. One continuous closed shared-vertex material boundary, not a house plus overlapping stove or decorative chimney. Complete parallel-face inset material and the entire connected front-room-hood-flue air are represented as finite domains. One modular visual shell, zero scenes, no loose equipment, tools, fuel or imported earlier asset geometry. Native metres, Z up, front -Y, XY bounds-centred origin and full rectangular flat ground sole. Two opaque constant untextured face-role PBR materials. This is an unoccupied game-art workspace shell, not a fully equipped or functioning workshop. No fire, heat, combustion, smoke or ventilation simulation, real access, ergonomics, installation fit, weather exclusion, structural load, fire resistance, manufacture, building-code or safety certification. No texture, logo, text, moving parts, animation or performance claim.",
+  "bounds": {
+    "x": 4.0,
+    "y": 3.400000095,
+    "z": 3.799999952,
+    "unit": "m"
+  },
+  "triangles": 2892,
+  "materials": 2,
+  "files": {
+    "glb": {
+      "path": "assets/village/village-integrated-hearth-workshop-shell-01/v1.0.0/model.glb",
+      "size": 66972,
+      "sha256": "37d69a2db56fb3f2d7b097a1d58babaa32f78eabdeebcd73b30b95310156c291"
+    },
+    "blend": {
+      "path": "assets/village/village-integrated-hearth-workshop-shell-01/v1.0.0/source.blend",
+      "size": 630220,
+      "sha256": "e0e30ab9784cc32512c8bb85c798948382eb31fb9ae0003d72eec647fe296001"
+    },
+    "generator": {
+      "path": "assets/village/village-integrated-hearth-workshop-shell-01/v1.0.0/generate.py",
+      "size": 30597,
+      "sha256": "e50441cdf679a1a48777515c5a52c17dc9fd4c98693263177911f28882efb807"
+    },
+    "render": {
+      "path": "assets/village/village-integrated-hearth-workshop-shell-01/v1.0.0/thumbnail.png",
+      "size": 532788,
+      "sha256": "4abd6f5bc4191e601480e222964bcc87d0f60a90456311a9e9ae9436bfdf8db3"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
