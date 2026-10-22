@@ -1,0 +1,42 @@
+{
+  "id": "sports-three-stump-two-bail-cricket-wicket-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "sports",
+  "style": "S01-clean-geometric",
+  "title": "Three-Stump Two-Bail Cricket Wicket",
+  "description": "One original complete static low-poly cricket-wicket appearance. Three equal slender closed octagonal stumps stand on three entire flat bottoms. Two separate blue rectangular top bails span adjacent stump pairs, producing four finite opposed seat regions; the middle stump supports the two bails on disjoint left and right patches. Two complete bounded tall air regions between the stumps remain genuinely empty. Five closed connected editable meshes, two opaque constant untextured PBR materials, one prop and zero scenes. Metres, Z up, front -Y and horizontally bounds-centred ground origin. All numerical shapes are newly authored; no parallel bar, hurdle, volleyball post, starting block, baseball bat, shuttlecock or other old model geometry is imported, extracted, scaled, recoloured or assembled. Generic closed-mesh and guarded export utilities are reused. The stumps are constant octagonal prisms; the bails are intentionally simplified flat-bottomed blocks, without grooves, spigots or hidden overlap. No ball, player, field, markings, label, texture, rig, animation, ground fixture or scene. Static visual art only: no competition dimensions, release behaviour, impact response, material performance, stability, installation, human use, manufacturing or safety certification.",
+  "bounds": {
+    "x": 0.356,
+    "y": 0.03326,
+    "z": 0.744,
+    "unit": "m"
+  },
+  "triangles": 108,
+  "materials": 2,
+  "files": {
+    "glb": {
+      "path": "assets/sports/sports-three-stump-two-bail-cricket-wicket-01/v1.0.0/model.glb",
+      "size": 9700,
+      "sha256": "13ab6659d80498ff40227fd6089df326265bb318aef70431fcfe40a44e969f08"
+    },
+    "blend": {
+      "path": "assets/sports/sports-three-stump-two-bail-cricket-wicket-01/v1.0.0/source.blend",
+      "size": 500144,
+      "sha256": "195918b46aaa97a074acd18dbdc63a3e3afebcbd4e9d8c91689949574c14985b"
+    },
+    "generator": {
+      "path": "assets/sports/sports-three-stump-two-bail-cricket-wicket-01/v1.0.0/generate.py",
+      "size": 31575,
+      "sha256": "d4211dd458982b36d27b4cf57b179dc4ead5f4b6ce1020f858c7a1459917c3c1"
+    },
+    "render": {
+      "path": "assets/sports/sports-three-stump-two-bail-cricket-wicket-01/v1.0.0/thumbnail.png",
+      "size": 484387,
+      "sha256": "560437eb8431e5fa307941a32e931f2547659f34477329d4190bf92b12707e2c"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

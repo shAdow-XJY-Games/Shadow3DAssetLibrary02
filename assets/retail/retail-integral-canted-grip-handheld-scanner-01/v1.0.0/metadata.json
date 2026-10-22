@@ -1,0 +1,42 @@
+{
+  "id": "retail-integral-canted-grip-handheld-scanner-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "retail",
+  "style": "S01-clean-geometric",
+  "title": "Canted Grip Handheld Scanner",
+  "description": "One original static low-poly convenience-store handheld barcode-scanner appearance. A broad short faceted upper head projects forward above a slim backward-canted integrated grip and small flared flat heel. The entire newly authored rectangular-section sweep is one closed connected material body; no overlapping separate handle, trigger, cable, stand or hidden optical cavity. A finite full front head panel has a dark opaque unlit PBR surface assignment, not a transparent window, opening or real sensor. Teal housing, charcoal grip and dark scan-face appearance are three constant opaque untextured face materials. All eight section stations, width/depth changes, height changes and integral shoulder are newly authored, with one complete flat rectangular heel at ground. Metres, source Z up, front -Y and horizontal-envelope-centred ground origin. One prop, zero scenes. No barcode, laser, screen output, button operation, logo, texture, rig, animation, separate charging base or external geometry. No old parcel workstation, portable radio, drill, tool, coffee tamper or sports grip geometry is imported, extracted, scaled or recoloured. Generic manifold-mesh and guarded export utilities are reused. Static game art only: no barcode recognition, scanning distance, optics, laser emission, electrical function, ergonomic fit, loading, stability, material performance, manufacture or safety certification.",
+  "bounds": {
+    "x": 0.1,
+    "y": 0.16,
+    "z": 0.212,
+    "unit": "m"
+  },
+  "triangles": 60,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/retail/retail-integral-canted-grip-handheld-scanner-01/v1.0.0/model.glb",
+      "size": 6776,
+      "sha256": "14d63fff5fd8626c81c35efc68051fc4f88d845b6773180282afbf26f6d6dc1e"
+    },
+    "blend": {
+      "path": "assets/retail/retail-integral-canted-grip-handheld-scanner-01/v1.0.0/source.blend",
+      "size": 500512,
+      "sha256": "e50ce9e81116114ad1c23c41ffd0ffa4762b0eadc8aba7e66d19cadaf971b8a8"
+    },
+    "generator": {
+      "path": "assets/retail/retail-integral-canted-grip-handheld-scanner-01/v1.0.0/generate.py",
+      "size": 28602,
+      "sha256": "fdbadbf055940a5853ede10f86e95f6e6e1a7040b725c8a65efae54921300e7f"
+    },
+    "render": {
+      "path": "assets/retail/retail-integral-canted-grip-handheld-scanner-01/v1.0.0/thumbnail.png",
+      "size": 490248,
+      "sha256": "3f6bcfa77e42b3ee26a94a65ac062a5a473c3a7bf43733932eac12146ef4595c"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

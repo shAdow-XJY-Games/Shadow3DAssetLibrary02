@@ -1,0 +1,42 @@
+{
+  "id": "cafe-offset-triangle-cake-server-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "cafe",
+  "style": "S01-clean-geometric",
+  "title": "Offset Triangle Cake Server",
+  "description": "One original low-poly cafe cake-server visual prop. A wide triangular serving blade has a narrow blunt tip, broad rear shoulder and short narrowed heel. An integral rising offset neck lifts a long thick grip above the blade plane. The complete blade, bent neck and tapered-ended raised handle form one closed connected editable mesh with no separate wrap or hidden overlapping parts. Steel-grey blade and neck, muted blue grip, two opaque constant untextured PBR materials. These are whole face-assignment regions on one continuous static surface, not a physical internal joint. All nine rectangular section stations, finite boundary faces, thicknesses, width changes and height changes are newly authored. Entire low blade underside rests at Z0; metres, source Z up, front -Y, horizontal envelope centred. One prop, zero scenes. No cake slice, food, hand, plate, lettering, logo, serration, slots, hole, hinge, motion, external model or kit of utensils. No old slotted turner, baking peel, hive scraper, paddle, sports stick or previous tool geometry is imported, extracted, rescaled or recoloured. Generic vector, closed-mesh and guarded exporter software is reused. Stylized static game art only: no actual food handling, food-contact suitability, heat resistance, cutting performance, load capacity, hand fit, physical stability, manufacture or safety certification.",
+  "bounds": {
+    "x": 0.29,
+    "y": 0.088,
+    "z": 0.026,
+    "unit": "m"
+  },
+  "triangles": 68,
+  "materials": 2,
+  "files": {
+    "glb": {
+      "path": "assets/cafe/cafe-offset-triangle-cake-server-01/v1.0.0/model.glb",
+      "size": 6016,
+      "sha256": "cda81322a48f7c1dd84cf0668c23ba18663136caec46be9258b11d52b30aebc6"
+    },
+    "blend": {
+      "path": "assets/cafe/cafe-offset-triangle-cake-server-01/v1.0.0/source.blend",
+      "size": 477772,
+      "sha256": "e4abaadd29f0b248efaccba0ba73375f94630d5846c3b3cc741a80e9ff56479d"
+    },
+    "generator": {
+      "path": "assets/cafe/cafe-offset-triangle-cake-server-01/v1.0.0/generate.py",
+      "size": 28721,
+      "sha256": "287f8d1f989d087ce2c6b2198879a714f165868d0307e1f0a99981c1079b3644"
+    },
+    "render": {
+      "path": "assets/cafe/cafe-offset-triangle-cake-server-01/v1.0.0/thumbnail.png",
+      "size": 450360,
+      "sha256": "d90a90abd4724ce9b7a8708e444859ee8f47f9c7d0d87d337097175d66da5151"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

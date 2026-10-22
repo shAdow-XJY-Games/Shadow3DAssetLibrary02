@@ -1,0 +1,42 @@
+{
+  "id": "transport-opposed-interleaved-finger-joint-01",
+  "version": "1.0.0",
+  "category": "architecture",
+  "assetKind": "modular",
+  "theme": "transport",
+  "style": "S01-clean-geometric",
+  "title": "Opposed Interleaved Finger-Joint Module",
+  "description": "One original fixed transport connection visual module with two complete thick planar comb plates. Four fingers on the left plate alternate with three fingers on the right plate at exactly the same top elevation. Each finger grows from its own continuous full-width rear strip; the fingers overlap in plan without touching or overlapping in material. Complete side clearances and tip-to-opposite-strip clearances form one connected meandering empty interface extending through the full plate thickness and out both width ends. Both entire concave undersides lie on the common Z0 datum. Two editable closed connected meshes and two constant opaque untextured PBR materials form one module, zero props and zero scenes. Full numerical boundaries are newly authored, with no old trowel, comb rail, track, lap-joint or other source geometry extracted. Native metres, Z up, front -Y, centred footprint. No host deck, road, fasteners, supports, debris, texture, text, variant, animation or complete joint installation is included. Static visual geometry only: no expansion travel, sliding, assembly trajectory, load-bearing crossing, vehicle or pedestrian use, strength, manufacture, civil engineering, installation, compatibility or safety certification.",
+  "bounds": {
+    "x": 1.200000048,
+    "y": 1.0,
+    "z": 0.059999999,
+    "unit": "m"
+  },
+  "triangles": 136,
+  "materials": 2,
+  "files": {
+    "glb": {
+      "path": "assets/transport/transport-opposed-interleaved-finger-joint-01/v1.0.0/model.glb",
+      "size": 8916,
+      "sha256": "b905eeb898cf8a558abece1f7d9e88f0e03bd9a3d8171a4fbe0d7cb7fd06fad2"
+    },
+    "blend": {
+      "path": "assets/transport/transport-opposed-interleaved-finger-joint-01/v1.0.0/source.blend",
+      "size": 486588,
+      "sha256": "6ef950a533421ce042b834f3085ef759683920edd036c3edd484d592751e3365"
+    },
+    "generator": {
+      "path": "assets/transport/transport-opposed-interleaved-finger-joint-01/v1.0.0/generate.py",
+      "size": 31076,
+      "sha256": "0c0f4a0e96e264fa47bc4c13e41f8906c78075207141e2cab8c03e99aabf9ab3"
+    },
+    "render": {
+      "path": "assets/transport/transport-opposed-interleaved-finger-joint-01/v1.0.0/thumbnail.png",
+      "size": 462687,
+      "sha256": "a0fc6c1f67b7471a8934add61829d1f867d48d3b00a16c186ddfb0acb7a30243"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "sports-fixed-d-frame-climbing-carabiner-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "sports",
+  "style": "S01-clean-geometric",
+  "title": "Fixed D-Frame Climbing Carabiner",
+  "description": "One original static low-poly gated climbing-carabiner appearance. One complete thick chamfered C/D-profile frame surrounds a full through-aperture; a separately editable flat orange closing bar meets the two end seats of the frame on the same plane. The two disjoint complete finite seat patches are one contact relation between two components, not two invented component pairs. Two continuous closed meshes, two constant opaque untextured PBR materials, one prop and zero scenes. Both complete flat bottom surfaces rest at Z0. Native metres, Z up, front -Y, horizontally bounds-centred ground origin. Every shape coordinate and finite domain is newly authored; no kettle handle, planting dibber loop, wooden puzzle, hanger hook, boarding ladder, cricket wicket or other old geometry is imported, extracted, transformed or recoloured. Generic polygon-prism, mesh and guarded export routines are reused. The flat bar is fixed; there is no hinge, pivot, spring, thread, sleeve, pin, screw, rope, load, climbing figure, animation or locking mechanism. No actual carabiner dimensions, load rating, climbing or rescue use, fall arrest, life-safety performance, certified standard, gate operation, manufacture or real equipment suitability is represented or certified. It is visual game art only.",
+  "bounds": {
+    "x": 0.104,
+    "y": 0.04,
+    "z": 0.16,
+    "unit": "m"
+  },
+  "triangles": 56,
+  "materials": 2,
+  "files": {
+    "glb": {
+      "path": "assets/sports/sports-fixed-d-frame-climbing-carabiner-01/v1.0.0/model.glb",
+      "size": 5556,
+      "sha256": "5472aa56183849e5aa25eedb7f015b50b1a6c2f7a1f9d93fbf0b9e5134842c8d"
+    },
+    "blend": {
+      "path": "assets/sports/sports-fixed-d-frame-climbing-carabiner-01/v1.0.0/source.blend",
+      "size": 482184,
+      "sha256": "41b9d1233c5bbf71cc273e98c595840e48495b48e90136560e582b04c2b5097b"
+    },
+    "generator": {
+      "path": "assets/sports/sports-fixed-d-frame-climbing-carabiner-01/v1.0.0/generate.py",
+      "size": 30858,
+      "sha256": "b4d1a45eef3d8a41d4e9275194527811cc7491b117f58145a26a56aad446c237"
+    },
+    "render": {
+      "path": "assets/sports/sports-fixed-d-frame-climbing-carabiner-01/v1.0.0/thumbnail.png",
+      "size": 515766,
+      "sha256": "2988926c7abe4ce1b1dd878b0221a21c56afedb946e6174a6b3c53a1b74462ab"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "sports-faceted-oval-training-ball-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "sports",
+  "style": "S01-clean-geometric",
+  "title": "Faceted Oval Training Ball",
+  "description": "One original static low-poly oval training-ball visual prop, newly authored as a single convex closed body. Ten complete sixteen-sided cross-section rings form a long symmetrical oval with small flat tip caps; a short maximum-width central band provides one real complete bottom facet at Z0. Two ivory bands are complete face-material assignments near the ends, not extra shells or surface geometry. One connected closed mesh and two constant opaque untextured PBR materials, one prop and zero scenes. Metres, Z up, front -Y, horizontally bounds-centred ground origin. The whole1mm inward parallel material volume is bounded by all offset finite side planes and both offset end caps. Air domains, assembly contacts and component pairs are genuinely empty. No inflation valve, seam stitching, laces, pressure, elastic response, bounce, flight, competition dimensions, regulation conformity, human suitability, manufacture or safety performance is represented. No trolley ball, pinball, table-football piece, bowling-pin profile or old asset geometry is imported, extracted, transformed or recoloured. Visual game art only.",
+  "bounds": {
+    "x": 0.32,
+    "y": 0.166734,
+    "z": 0.166734,
+    "unit": "m"
+  },
+  "triangles": 316,
+  "materials": 2,
+  "files": {
+    "glb": {
+      "path": "assets/sports/sports-faceted-oval-training-ball-01/v1.0.0/model.glb",
+      "size": 19096,
+      "sha256": "23d8a5aa3bb7531df16f73a5787bec84f5309ebaf8b135f4cd318a8bfb16a507"
+    },
+    "blend": {
+      "path": "assets/sports/sports-faceted-oval-training-ball-01/v1.0.0/source.blend",
+      "size": 491104,
+      "sha256": "2be19c19cf97eb8723f7c9bcda7216bdbacc6fa0649fe976d3ece79103ab6b87"
+    },
+    "generator": {
+      "path": "assets/sports/sports-faceted-oval-training-ball-01/v1.0.0/generate.py",
+      "size": 28949,
+      "sha256": "2847ddc842ded5f2b4d0ad9ba0245093f399c572444f3b8d82d5f04c0bcdf670"
+    },
+    "render": {
+      "path": "assets/sports/sports-faceted-oval-training-ball-01/v1.0.0/thumbnail.png",
+      "size": 494397,
+      "sha256": "58547113f556aa20bd70693b23085fb47bfe7ea6382a0b070b14ffaeb5f4de37"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

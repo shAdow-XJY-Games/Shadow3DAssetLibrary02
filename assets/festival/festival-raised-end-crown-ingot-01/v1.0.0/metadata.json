@@ -1,0 +1,42 @@
+{
+  "id": "festival-raised-end-crown-ingot-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "festival",
+  "style": "S01-clean-geometric",
+  "title": "Raised-End Crowned Boat Ingot",
+  "description": "One original stylized low-poly festival gift ornament inspired by a boat-shaped ingot. An elongated elliptical body has two substantially raised longitudinal ends, lower front and back side shoulders, a deep continuous recessed annular valley and a broad integral central crown. All upper ridges, valley slopes, crown, outer walls and flat sole form one welded closed editable mesh, with no detached cap, stacked inserts, hidden overlap or stencil relief. The upper surface is a newly authored non-axisymmetric piecewise-planar heightfield over nested elliptic contours; the whole body is filled beneath it. The complete bounded air above the annular valley is genuinely empty and open upward. Two opaque constant untextured gold-toned metallic PBR appearances distinguish complete upper and outer surface bands. Metres, native Z up, front -Y, horizontally bounds-centred ground origin. One prop and zero scenes. No mooncake, bowl, boat shuttle, jewellery, spool or old asset geometry is imported, rescaled or recoloured. No embossed text, coins, pedestal, packaging, scene or animation. Static visual art only: no monetary value, gold content, historical authenticity, investment, real currency, material performance, production method, physical balance, toy suitability or safety certification.",
+  "bounds": {
+    "x": 0.32,
+    "y": 0.18,
+    "z": 0.11,
+    "unit": "m"
+  },
+  "triangles": 192,
+  "materials": 2,
+  "files": {
+    "glb": {
+      "path": "assets/festival/festival-raised-end-crown-ingot-01/v1.0.0/model.glb",
+      "size": 16156,
+      "sha256": "04911af4dbc046b2512a4532dce6d7b3124e9f23143a7cdcb3a291d3f7f0bd3d"
+    },
+    "blend": {
+      "path": "assets/festival/festival-raised-end-crown-ingot-01/v1.0.0/source.blend",
+      "size": 484448,
+      "sha256": "6db77e7082ec3adecf8fd8f7fb25a77fd581b34cf47325be5d39f807fe129bd6"
+    },
+    "generator": {
+      "path": "assets/festival/festival-raised-end-crown-ingot-01/v1.0.0/generate.py",
+      "size": 28611,
+      "sha256": "d0e1bc33a24676481bc04a5c02d1a170bc3ab8d85e9792095823175adc197bbf"
+    },
+    "render": {
+      "path": "assets/festival/festival-raised-end-crown-ingot-01/v1.0.0/thumbnail.png",
+      "size": 507526,
+      "sha256": "c3a277442cd2ea74fa4a6a8a74be39f0ba69516dc30c26bce267491c7cc67508"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

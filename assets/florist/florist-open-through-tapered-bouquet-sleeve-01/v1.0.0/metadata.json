@@ -1,0 +1,42 @@
+{
+  "id": "florist-open-through-tapered-bouquet-sleeve-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "florist",
+  "style": "S01-clean-geometric",
+  "title": "Open Through Tapered Bouquet Sleeve",
+  "description": "One original low-poly florist bouquet wrapping-sleeve visual prop. A narrow open lower throat expands continuously into a broad open twelve-sided upper mouth. Both openings and the entire tapered internal passage are actual absent material. One continuous closed annular solid supplies twelve finite outer panels, twelve inner panels and two complete annular cut-edge bands. Dusty coral outer paper appearance and light warm kraft inner/cut-edge appearance use two opaque constant untextured PBR materials. Deliberately thick stylized walls remain visible from above; this is an empty wrapping sleeve, not a flower vase, bucket, planter or closed-bottom pot. No flowers, stems, ribbon, printing, overlap seam, label, detached base, drainage patch, texture or external model. Metres, source Z up, front -Y, axis-centred origin at the full annular lower edge. One prop, zero scenes. All complete radii, height, thickness and boundary coordinates are newly authored; no existing florist bucket, fungus funnel, sports skirt, cup, steamer or paper accessory geometry is extracted, rescaled or recoloured. Generic vector, manifold mesh and guarded Blender/export software is reused. Static game art only: no real paper thickness, wrapping performance, water retention, structural stability, manufacturing, use or safety certification.",
+  "bounds": {
+    "x": 0.17773,
+    "y": 0.17773,
+    "z": 0.22,
+    "unit": "m"
+  },
+  "triangles": 96,
+  "materials": 2,
+  "files": {
+    "glb": {
+      "path": "assets/florist/florist-open-through-tapered-bouquet-sleeve-01/v1.0.0/model.glb",
+      "size": 6636,
+      "sha256": "90fa41bbed63984230c484d38db1523563660b73afa07fc0551248549b0010ae"
+    },
+    "blend": {
+      "path": "assets/florist/florist-open-through-tapered-bouquet-sleeve-01/v1.0.0/source.blend",
+      "size": 479204,
+      "sha256": "10eec26b7a6bdfc818f098dcbcefca0ca0b5ee8a0671f5c56a6b973c0aeed31b"
+    },
+    "generator": {
+      "path": "assets/florist/florist-open-through-tapered-bouquet-sleeve-01/v1.0.0/generate.py",
+      "size": 29076,
+      "sha256": "b0383128592a4d6e3ec9ee3bde80c5d38f6cc1c9dec5ca1ffa29d98765bc0f64"
+    },
+    "render": {
+      "path": "assets/florist/florist-open-through-tapered-bouquet-sleeve-01/v1.0.0/thumbnail.png",
+      "size": 512879,
+      "sha256": "8d727b5c84f6757ec5c59ca5163a762f4f234959cd67eacf1ee582dd710fd379"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

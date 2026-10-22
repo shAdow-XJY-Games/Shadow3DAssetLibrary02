@@ -1,0 +1,42 @@
+{
+  "id": "village-continuous-coved-inside-corner-01",
+  "version": "1.0.0",
+  "category": "architecture",
+  "assetKind": "modular",
+  "theme": "village",
+  "style": "S01-clean-geometric",
+  "title": "Continuous Coved Inside Corner",
+  "description": "One original static architectural inside-corner skirting transition. One continuous grounded L-footprint solid has two full perpendicular high wall backs and two long genuinely concave five-facet floor-wall profiles; the complete inner-corner square joins them through a continuous diagonal valley, with shared vertices and no overlapping extrusion pieces or hidden internal faces. Both profiles taper to low finite-thickness toes around a genuinely open inner floor notch. One editable closed mesh, two constant opaque untextured PBR materials attached to complete face roles, native metres and Z up. One reusable modular appearance asset, zero scenes, no wall/floor host or fasteners. The whole flat L sole is a geometric datum only. Coved describes the faceted concave shape, not an exact circular fillet. No old border/curb/wall, mat, terrain or sill geometry is imported. No fit with existing wall families, installation, waterproofing, cleaning, hygiene, load capacity, manufacture, navigation, building-code or safety claim.",
+  "bounds": {
+    "x": 0.800000012,
+    "y": 0.800000012,
+    "z": 0.239999995,
+    "unit": "m"
+  },
+  "triangles": 188,
+  "materials": 2,
+  "files": {
+    "glb": {
+      "path": "assets/village/village-continuous-coved-inside-corner-01/v1.0.0/model.glb",
+      "size": 8556,
+      "sha256": "020d65070d2870ab5b57c12171d735d5952ed7c2b9076cd7f754d7d3f0d11084"
+    },
+    "blend": {
+      "path": "assets/village/village-continuous-coved-inside-corner-01/v1.0.0/source.blend",
+      "size": 484296,
+      "sha256": "226b700ff49e0d97f185b073b160f00851a9f98324fe97ed667f654368a4316b"
+    },
+    "generator": {
+      "path": "assets/village/village-continuous-coved-inside-corner-01/v1.0.0/generate.py",
+      "size": 31806,
+      "sha256": "ab480345bb6f691f0e353cbf1ff9e1167d344440616210596e919b15e3e159c9"
+    },
+    "render": {
+      "path": "assets/village/village-continuous-coved-inside-corner-01/v1.0.0/thumbnail.png",
+      "size": 469900,
+      "sha256": "84438ff201a8376ca093461eed8a399039f31368e93c390d469d4a706e2f2393"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

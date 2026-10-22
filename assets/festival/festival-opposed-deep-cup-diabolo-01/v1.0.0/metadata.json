@@ -1,0 +1,42 @@
+{
+  "id": "festival-opposed-deep-cup-diabolo-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "festival",
+  "style": "S01-clean-geometric",
+  "title": "Opposed Deep-Cup Festival Diabolo",
+  "description": "One original low-poly static diabolo-shaped festival gift. Two broad flared sixteen-sided cups face opposite directions along Y and merge through a short narrow integral waist. Each mouth has a complete thick rim, continuous inner wall and genuine recessed blind floor; a solid middle separates the two deep chambers, so this is not a hollow through-bore spool. The entire outer shell, both inner chambers and middle waist are one welded closed editable mesh. Two broad lower rim-band facets form the full disconnected finite ground regions of this one body. Three opaque constant untextured PBR appearances partition entire finite surface bands: deep festival red outside, warm pale inner walls and rims, and walnut-toned central waist. These are game-surface appearances, not separate physical materials or an assembly joint. Metres, native Z up, front -Y, ground-centred origin. One new whole prop and zero scenes. No imported or reshaped bowl, thread spool, spinning top, cable reel, drum or coffee tamper geometry; all profile coordinates are independently authored. No string, hand sticks, bearing, separate axle, texture, label, stand, scene or animation. Static game-art appearance only: no operating diabolo, throw, rotation, sound, historical authenticity, performance, ergonomics, physical balance or stability, manufacture, material suitability, toy-age suitability or safety certification.",
+  "bounds": {
+    "x": 0.205965,
+    "y": 0.2,
+    "z": 0.205965,
+    "unit": "m"
+  },
+  "triangles": 576,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/festival/festival-opposed-deep-cup-diabolo-01/v1.0.0/model.glb",
+      "size": 32320,
+      "sha256": "02a0a85feccd366733abe75b837944055fe954ccbd90b4898140eb3e0e22efc1"
+    },
+    "blend": {
+      "path": "assets/festival/festival-opposed-deep-cup-diabolo-01/v1.0.0/source.blend",
+      "size": 528348,
+      "sha256": "ea4b6b9782704fcb594800cd06eec20eceb316b7cfaa50aceca15a80c0cdf437"
+    },
+    "generator": {
+      "path": "assets/festival/festival-opposed-deep-cup-diabolo-01/v1.0.0/generate.py",
+      "size": 30238,
+      "sha256": "a46662f7786469b77ac4fc1965dd7e952f75f1ff7e358f0e35ab22e5203b3afb"
+    },
+    "render": {
+      "path": "assets/festival/festival-opposed-deep-cup-diabolo-01/v1.0.0/thumbnail.png",
+      "size": 560181,
+      "sha256": "56a12b1b4a62d56d9c01ef421da6ed1d0532ddf4f9f742b765e8d57d8b1ea8dd"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

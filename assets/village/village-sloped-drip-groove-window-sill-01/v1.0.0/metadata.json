@@ -1,0 +1,42 @@
+{
+  "id": "village-sloped-drip-groove-window-sill-01",
+  "version": "1.0.0",
+  "category": "architecture",
+  "assetKind": "modular",
+  "theme": "village",
+  "style": "S01-clean-geometric",
+  "title": "Sloped Drip-Groove Window Sill",
+  "description": "One original static architectural window-sill module: one continuous thick stone-profile solid combines a complete outward-sloping upper bed, a full-width higher rear upstand, a short flat front nose, and a real full-width open-bottom drip groove through both lateral end profiles. The rear upstand and sloped bed make an open upper rebate; the underside groove is genuinely recessed empty geometry, not a painted line. One editable closed mesh and two constant opaque untextured PBR materials bound to existing faces. Native metres, Z up, front -Y. Exactly one architectural module and zero scenes, no window/wall/host, scene, human, water, fixing, hidden support, old model geometry, textures or variants. The lowest two finite underside strips establish Z=0 geometric datum only. The module needs a separately designed external host; the source does not certify mounting, standalone stability, water shedding, waterproofing, building-code compliance, drainage performance, structural load, manufacture, installation or compatibility with an existing window opening.",
+  "bounds": {
+    "x": 1.200000048,
+    "y": 0.519999981,
+    "z": 0.239999995,
+    "unit": "m"
+  },
+  "triangles": 40,
+  "materials": 2,
+  "files": {
+    "glb": {
+      "path": "assets/village/village-sloped-drip-groove-window-sill-01/v1.0.0/model.glb",
+      "size": 4488,
+      "sha256": "f4c587979fbfb4b69fd272de089b4929ab4a903e8d6c6eee5d06394ac42589dc"
+    },
+    "blend": {
+      "path": "assets/village/village-sloped-drip-groove-window-sill-01/v1.0.0/source.blend",
+      "size": 476280,
+      "sha256": "d831afa5429faa9a4268965a557df2de02e74e913dc6cafd3499418c3eed5d2e"
+    },
+    "generator": {
+      "path": "assets/village/village-sloped-drip-groove-window-sill-01/v1.0.0/generate.py",
+      "size": 30267,
+      "sha256": "1388891f074e640fbe73a99575197d9eaa331a180816a149dc9b832c2c4a1dda"
+    },
+    "render": {
+      "path": "assets/village/village-sloped-drip-groove-window-sill-01/v1.0.0/thumbnail.png",
+      "size": 461427,
+      "sha256": "68bc99340907b22aa36fbaa641d8663e8d6aae3b3dbc276260dde98ce33a43d0"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

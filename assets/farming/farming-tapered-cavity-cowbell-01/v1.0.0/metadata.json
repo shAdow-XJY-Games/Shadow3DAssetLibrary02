@@ -1,0 +1,42 @@
+{
+  "id": "farming-tapered-cavity-cowbell-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "farming",
+  "style": "warm-handcrafted-village",
+  "title": "Tapered Cavity Cowbell",
+  "description": "One original complete static livestock cowbell prop lying on its full lower facet: a thick continuous rectangular tapered bell shell with one large genuine open mouth and a complete blind back plate, a continuous external chamfered strap loop seated on two full back pads, and one continuous internal stem-and-faceted-head clapper with its complete finite root seat. Three closed independently editable connected material bodies, three whole Euclidean inset material domains, a complete five-cell partition of the cavity air around the clapper and one full external loop aperture. Four opaque constant untextured PBR materials are bound to existing faces. Native metres, Z up, front -Y, horizontal bounds-centred ground origin. Newly authored whole-object geometry, not a detached alarm-clock dome, recoloured cup, cropped double-ended diabolo, sealed rattle drum, watering vessel or assembled existing hardware. Exactly one complete prop and zero scenes. No animal, strap, person, surrounding set, logo, texture, animation, ringing simulation or variant. Static illustrative geometry only: no acoustic, animal-fit, welfare, load, material, manufacture or real-product safety certification.",
+  "bounds": {
+    "x": 0.22,
+    "y": 0.294,
+    "z": 0.2,
+    "unit": "m"
+  },
+  "triangles": 108,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/farming/farming-tapered-cavity-cowbell-01/v1.0.0/model.glb",
+      "size": 9748,
+      "sha256": "748d2bf6b83e14c9c85d78cfad051373e4bd5234762739f373b883f87ff6ab9b"
+    },
+    "blend": {
+      "path": "assets/farming/farming-tapered-cavity-cowbell-01/v1.0.0/source.blend",
+      "size": 536464,
+      "sha256": "9c40272d6a7ab27d2c1f0af9dd3b7a998c1ae0f0b1bfff5a57e42c2fa73efe42"
+    },
+    "generator": {
+      "path": "assets/farming/farming-tapered-cavity-cowbell-01/v1.0.0/generate.py",
+      "size": 35401,
+      "sha256": "8e02b41d2fd6efb572db83a93e7cea5925f5cfea12b630349fc40a3626a0465a"
+    },
+    "render": {
+      "path": "assets/farming/farming-tapered-cavity-cowbell-01/v1.0.0/thumbnail.png",
+      "size": 527481,
+      "sha256": "dce834567a8a7714b93e5819844e62098139234e5e611cc69cd767fee8c216f9"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

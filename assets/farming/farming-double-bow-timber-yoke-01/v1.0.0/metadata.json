@@ -1,0 +1,42 @@
+{
+  "id": "farming-double-bow-timber-yoke-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "farming",
+  "style": "warm-handcrafted-village",
+  "title": "Double-Bow Timber Yoke",
+  "description": "One original complete static double-bow timber yoke visual prop, displayed laid flat. One continuous broad transverse timber beam has two real complete scalloped shoulder recesses and an integral raised central crest. Two independently editable complete thick U bows have straight upper shanks and faceted rounded lower returns. Their four complete finite end seats close two separate genuine through neck apertures against the corresponding beam recesses. Three closed connected material meshes, three whole Euclidean inset material domains, two complete through-air domains, two contact relations containing four full rectangular patches, one separated bow pair and three complete grounded lower faces. Two opaque constant untextured PBR wood tones. Native metres, Z up, front -Y, horizontal bounds-centred ground origin. All numeric whole-object geometry newly authored; no old caravan frame, instrument stand, parking hoop, trolley arch, clasp, bell loop or other model is extracted, rescaled, recoloured or assembled. Exactly one complete prop and zero scenes. No animal, person, harness, cart, pin, rope, load, working fastener, text, texture, animation or variant. Fixed stylized illustration only: no historical reconstruction, animal fit, welfare, harness assembly, draft performance, material strength, balance, manufacture, use guidance or safety certification.",
+  "bounds": {
+    "x": 1.0,
+    "y": 0.39,
+    "z": 0.06,
+    "unit": "m"
+  },
+  "triangles": 232,
+  "materials": 2,
+  "files": {
+    "glb": {
+      "path": "assets/farming/farming-double-bow-timber-yoke-01/v1.0.0/model.glb",
+      "size": 14004,
+      "sha256": "31af446e21ca82884ffa39cf906145256c2b4bdb337d3385b169e94d4cbacbb5"
+    },
+    "blend": {
+      "path": "assets/farming/farming-double-bow-timber-yoke-01/v1.0.0/source.blend",
+      "size": 496804,
+      "sha256": "b328e71c4dd65a56a6510c09bfeed35595370b0c2e29272a8472b7639fcb1a28"
+    },
+    "generator": {
+      "path": "assets/farming/farming-double-bow-timber-yoke-01/v1.0.0/generate.py",
+      "size": 31308,
+      "sha256": "153b75d53b36cea5333a0145da11bb1c3eead39960e32cdf18e8f116ab4128d9"
+    },
+    "render": {
+      "path": "assets/farming/farming-double-bow-timber-yoke-01/v1.0.0/thumbnail.png",
+      "size": 473574,
+      "sha256": "f2a932fa8786befcbda7eb1eec725bf999708bb5a238bf6b53c3e5c83d9eb3af"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

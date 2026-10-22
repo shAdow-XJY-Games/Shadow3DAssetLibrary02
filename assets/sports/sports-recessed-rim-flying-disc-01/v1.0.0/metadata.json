@@ -1,0 +1,42 @@
+{
+  "id": "sports-recessed-rim-flying-disc-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "sports",
+  "style": "S01-clean-geometric",
+  "title": "Recessed-Rim Flying Disc",
+  "description": "One newly authored static low-poly sports flying-disc visual prop. A single continuous sixteen-sided closed shell joins a broad solid top, sloping shoulder and thick turned-down outer rim around a genuine downward-open blind underside cavity. The complete flat annular rim is the ground sole; the central underside is open air beneath the roof rather than a filled cylinder. One connected closed mesh and two opaque constant untextured PBR materials, one prop and zero scenes. Material zones use the original shell faces. The full nonconvex inward-offset shell and the complete inward-offset cavity core are separately declared finite volumes. One component gives an exact empty pair universe, zero assembly contacts and zero noncontact pairs. Metres, Z up, front -Y, horizontally bounds-centred ground origin. Original numeric profile and finite ring construction; no old mesh, spinning-top, ball, diabolo or ingot geometry is copied, transformed or recoloured. This is static visual game art: no aerodynamics, flight, throwing distance, sport regulation, balance, human suitability, impact, manufacture or safety performance is claimed.",
+  "bounds": {
+    "x": 0.294236,
+    "y": 0.294236,
+    "z": 0.024,
+    "unit": "m"
+  },
+  "triangles": 220,
+  "materials": 2,
+  "files": {
+    "glb": {
+      "path": "assets/sports/sports-recessed-rim-flying-disc-01/v1.0.0/model.glb",
+      "size": 13152,
+      "sha256": "0aeb362f4feb69c8c66ad9747b405b2422102f4c6642b7aa8c367c3c9f290591"
+    },
+    "blend": {
+      "path": "assets/sports/sports-recessed-rim-flying-disc-01/v1.0.0/source.blend",
+      "size": 485920,
+      "sha256": "0f1e0f315dd9ce922a506bad6fe85523f4970b120a6fd45801cc624877d4177c"
+    },
+    "generator": {
+      "path": "assets/sports/sports-recessed-rim-flying-disc-01/v1.0.0/generate.py",
+      "size": 29317,
+      "sha256": "def2e5b3267e2f93b2180d248c397df176dfc2ec97455329250a2c9db4580a17"
+    },
+    "render": {
+      "path": "assets/sports/sports-recessed-rim-flying-disc-01/v1.0.0/thumbnail.png",
+      "size": 451338,
+      "sha256": "38244a842c230a10239da7ba982576d78a8ea7d1dddd1776b2d85cad71c87e1b"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

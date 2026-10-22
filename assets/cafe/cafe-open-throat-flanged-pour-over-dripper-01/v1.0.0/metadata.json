@@ -1,0 +1,42 @@
+{
+  "id": "cafe-open-throat-flanged-pour-over-dripper-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "cafe",
+  "style": "S01-clean-geometric",
+  "title": "Open Throat Flanged Pour-Over Dripper",
+  "description": "One original low-poly ceramic pour-over coffee dripper visual prop. A deep sixteen-sided conical open cup narrows into a real continuous lower throat through the entire base. An integral broad annular resting flange projects sideways from a short neck beneath the cup; the flange, neck, conical outer wall, bevelled thick upper rim and full inner cone are one welded closed genus-one material body. Both complete openings and the whole interior air corridor are absent material, not black decals or a closed vessel. Cream ceramic and muted jade flange appearances are two constant opaque untextured PBR assignments on whole bands. All radius-height stations are newly authored; no existing bouquet sleeve, fungus funnel, grinder hopper, mug or coffee-machine geometry is consumed, rescaled or extracted. Generic mesh and guarded export/render software is reused. No handle, filters, grounds, liquid, ribs, logos, scales, glass, texture, animation, packaging or scene. Metres, Z up, front -Y, axis-centred origin at the complete annular flange sole. One prop and zero scenes. Stylized static game art only, with no claim about brewing, food contact, heat, drainage rate, cup compatibility, ceramic thickness, production methods, physical stability or real equipment safety.",
+  "bounds": {
+    "x": 0.121617,
+    "y": 0.121617,
+    "z": 0.09,
+    "unit": "m"
+  },
+  "triangles": 320,
+  "materials": 2,
+  "files": {
+    "glb": {
+      "path": "assets/cafe/cafe-open-throat-flanged-pour-over-dripper-01/v1.0.0/model.glb",
+      "size": 17640,
+      "sha256": "0f773e63743ae0f84dec66a73c9f1e8ec9797b3277f70d5f78e428016c3bb035"
+    },
+    "blend": {
+      "path": "assets/cafe/cafe-open-throat-flanged-pour-over-dripper-01/v1.0.0/source.blend",
+      "size": 491312,
+      "sha256": "8a6feb82bb9cd57b4b7d82c2dda6e7821d2e3dec951240f5c4f441f1321f6f94"
+    },
+    "generator": {
+      "path": "assets/cafe/cafe-open-throat-flanged-pour-over-dripper-01/v1.0.0/generate.py",
+      "size": 28720,
+      "sha256": "3b765b434ee15b95a8370a78123d6b6c8a9d5ebcbda2b038195295ca4ad290a1"
+    },
+    "render": {
+      "path": "assets/cafe/cafe-open-throat-flanged-pour-over-dripper-01/v1.0.0/thumbnail.png",
+      "size": 521527,
+      "sha256": "3ce2b174f050e358ad2bbc94941fb8f9294b4dcf517d1b6e4b91c2fb50591d50"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

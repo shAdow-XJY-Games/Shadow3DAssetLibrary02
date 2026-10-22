@@ -1,0 +1,42 @@
+{
+  "id": "farming-angular-open-spout-watering-can-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "farming",
+  "style": "warm-handcrafted-village",
+  "title": "Angular Open-Spout Watering Can",
+  "description": "One original complete static farm watering-can prop: an open rectangular vessel with thick continuous floor and walls, a real low side through-port, one long inclined square-bore spout with both mouths open and a full annular end seat, and one continuous overhead bridge handle seated on two full rim pads. Three closed independently editable connected material bodies, three whole inset material domains and four finite air domains cover the complete vessel, side port, long inclined bore and under-handle opening. Four opaque constant untextured PBR materials are bound to existing faces. Native metres, Z up, front -Y, horizontal bounds-centred ground origin. Newly authored whole-object geometry, not a reused pitcher belly, rotated alembic neck, cropped trough, assembled existing bucket or recoloured flask. Exactly one complete prop and zero scenes. No water, plant, soil, person, surrounding set, logo, texture, animation or variant. Static illustrative geometry only: no watertightness, flow, volume capacity, grip, load, material, manufacture, horticultural effectiveness or real-product safety certification.",
+  "bounds": {
+    "x": 0.26,
+    "y": 0.76,
+    "z": 0.365,
+    "unit": "m"
+  },
+  "triangles": 380,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/farming/farming-angular-open-spout-watering-can-01/v1.0.0/model.glb",
+      "size": 16100,
+      "sha256": "6c38dadc9a600130cee0a2c9821394aebe6effc0999b2353f93895b41080870c"
+    },
+    "blend": {
+      "path": "assets/farming/farming-angular-open-spout-watering-can-01/v1.0.0/source.blend",
+      "size": 551100,
+      "sha256": "ac40ae70e42023532e6b8f710b1c4ee5b125928092c8e889aa41f06064950779"
+    },
+    "generator": {
+      "path": "assets/farming/farming-angular-open-spout-watering-can-01/v1.0.0/generate.py",
+      "size": 33676,
+      "sha256": "099b9ed62ccaaf531b6df71a8e5f440539792555ee1405e9ccc2926d08bf9889"
+    },
+    "render": {
+      "path": "assets/farming/farming-angular-open-spout-watering-can-01/v1.0.0/thumbnail.png",
+      "size": 491938,
+      "sha256": "e1372732487ac046daded182751b798cd69e8b3f5f0c34a0552700394c805fd7"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
