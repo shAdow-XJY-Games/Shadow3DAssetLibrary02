@@ -1,0 +1,42 @@
+{
+  "id": "cave-mine-wide-basin-inclined-spiral-classifier-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "cave-mine",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Wide-Basin Inclined Spiral Classifier",
+  "description": "One newly authored complete static mineral-processing appearance: an integral broad low basin narrows into an inclined open U-channel with an open elevated discharge end, a lower end wall and a visibly lowered side crest. One real continuous three-turn thick helical ribbon and shaft span the basin/channel, held by two through-bored fixed housings, an outboard bearing crossmember, rakers and four grounded feet. This is not the old soil auger laid in a generic box: the new integral wide-to-narrow rising vessel and the complete bearing/frame arrangement define the whole installation. All components newly authored; mature box, annular housing and polygon-sweep construction only. The assembled bores are occupied by the shaft and are not claimed unobstructed. Static art, no motor, water, moving rotation, actual sorting, flow capacity, installation, load or machinery safety claim.",
+  "bounds": {
+    "x": 1.26,
+    "y": 2.7489676640567726,
+    "z": 1.3161126469150084,
+    "unit": "m"
+  },
+  "triangles": 1528,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/village/cave-mine-wide-basin-inclined-spiral-classifier-01/v1.0.0/model.glb",
+      "size": 99432,
+      "sha256": "c86c7eb1dc0cd1442ecfee9a66d6881dcad9ab23b5d98dd72bf9c32ba0981537"
+    },
+    "blend": {
+      "path": "assets/village/cave-mine-wide-basin-inclined-spiral-classifier-01/v1.0.0/source.blend",
+      "size": 677984,
+      "sha256": "a61bb685d76f90f97015b849729f7c91c828a9bfad59522e374d6b85ffcab8d3"
+    },
+    "generator": {
+      "path": "assets/village/cave-mine-wide-basin-inclined-spiral-classifier-01/v1.0.0/generate.py",
+      "size": 11211,
+      "sha256": "5db61214d8b140318b5e3c0f01a07ac7f7976577f57a1fd290efa3c6a4ff7305"
+    },
+    "render": {
+      "path": "assets/village/cave-mine-wide-basin-inclined-spiral-classifier-01/v1.0.0/thumbnail.png",
+      "size": 406715,
+      "sha256": "396df3ae013071dbe1b0497380efe574361a51f675e8bad5811480e5e47b1f79"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

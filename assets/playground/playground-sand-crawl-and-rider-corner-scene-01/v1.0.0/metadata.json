@@ -1,0 +1,42 @@
+{
+  "id": "playground-sand-crawl-and-rider-corner-scene-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "playground",
+  "style": "source-preserved-S01-and-soft-low-poly",
+  "title": "Sand, Crawl and Rider Activity Corner",
+  "description": "Original playground low-activity-area scene: a complete corner-seat sandpit and a complete open windowed crawl tunnel form two rear stations, with a whole spring rider and a full observation bench separately placed in front. A visible central open strip links the entrance and both stations; this is not the published seesaw/slide corner, a recolor, or a toy-shop shelf layout. Four complete published models retain unit scale and all geometry and solid PBR. One scene-only base, one scene preset and zero new independent models. Static illustrative layout only: no age suitability, fall-zone, accessibility, engineered playground safety, spring motion or certification claim. Complete original mesh hierarchy, oriented triangles and solid PBR are preserved. One scene preset and zero new independent reusable models.",
+  "bounds": {
+    "x": 6.6,
+    "y": 5.6,
+    "z": 1.12,
+    "unit": "m"
+  },
+  "triangles": 3658,
+  "materials": 16,
+  "files": {
+    "glb": {
+      "path": "assets/playground/playground-sand-crawl-and-rider-corner-scene-01/v1.0.0/model.glb",
+      "size": 289428,
+      "sha256": "8b031f4f3d0a142e6ea90f0f49ac7f63c9e4a5a98cda9dfda143ddb52dc11868"
+    },
+    "blend": {
+      "path": "assets/playground/playground-sand-crawl-and-rider-corner-scene-01/v1.0.0/source.blend",
+      "size": 1328896,
+      "sha256": "df92a06414a7fec9c372c44893985a5515a45d6c58af9c9b77c3bc115685846a"
+    },
+    "generator": {
+      "path": "assets/playground/playground-sand-crawl-and-rider-corner-scene-01/v1.0.0/generate.py",
+      "size": 138239,
+      "sha256": "b8af6e8939e985dcd0bd7ed1b518bb46201153be7edb1af22e130db4a5468097"
+    },
+    "render": {
+      "path": "assets/playground/playground-sand-crawl-and-rider-corner-scene-01/v1.0.0/thumbnail.png",
+      "size": 504603,
+      "sha256": "27edda933415405836daf64e0489d4dce3efec6c13709a29f5bf89458ad62fb1"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
