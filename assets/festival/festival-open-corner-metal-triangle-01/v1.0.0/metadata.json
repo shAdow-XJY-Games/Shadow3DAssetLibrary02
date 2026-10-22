@@ -1,0 +1,42 @@
+{
+  "id": "festival-open-corner-metal-triangle-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "festival",
+  "style": "warm-handcrafted-village",
+  "title": "Open-Corner Musical Triangle and Beater",
+  "description": "One complete fixed-display percussion gift: a continuous thick metal rod bent through two rounded corners into an open triangular instrument, with a real lower-right gap, plus its separate straight finite metal beater. Not a filled triangular plate, road sign, closed jewellery hoop, tambourine or a resized toy. Both newly authored closed editable solids rest on genuine finite faceted ground patches. Two opaque solid PBR metal roles. Metres, Z up, front -Y, horizontal bounds centred. The instrument is statically posed upright and the beater rests separately in front, not a functioning suspension or a claim of physical balance. No vibration, sound, striking, animation, manufacture, safety or stability claim. One whole instrument set, not two separately counted assets.",
+  "bounds": {
+    "x": 0.152704,
+    "y": 0.050241999,
+    "z": 0.151684999,
+    "unit": "m"
+  },
+  "triangles": 528,
+  "materials": 2,
+  "files": {
+    "glb": {
+      "path": "assets/festival/festival-open-corner-metal-triangle-01/v1.0.0/model.glb",
+      "size": 36048,
+      "sha256": "da0ec8ef57b142b483f50afc99cb49a023569d19d118c836c865db11a353fc34"
+    },
+    "blend": {
+      "path": "assets/festival/festival-open-corner-metal-triangle-01/v1.0.0/source.blend",
+      "size": 507656,
+      "sha256": "22f8535bdbc07a1913011fcc0a3af360fb9f19387575e9035e22044eb9f77dea"
+    },
+    "generator": {
+      "path": "assets/festival/festival-open-corner-metal-triangle-01/v1.0.0/generate.py",
+      "size": 27090,
+      "sha256": "0e946fcc268adbd140102e55c301fccb4f892437cb33434e6cee041bd73ca3da"
+    },
+    "render": {
+      "path": "assets/festival/festival-open-corner-metal-triangle-01/v1.0.0/thumbnail.png",
+      "size": 487343,
+      "sha256": "322700b30ee4c9dbc414803231d4a01354efab2f1a005b351e583f1d98652a1c"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

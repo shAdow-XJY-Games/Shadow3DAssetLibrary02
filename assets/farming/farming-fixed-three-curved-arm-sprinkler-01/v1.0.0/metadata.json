@@ -1,0 +1,42 @@
+{
+  "id": "farming-fixed-three-curved-arm-sprinkler-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "farming",
+  "style": "warm-handcrafted-village",
+  "title": "Fixed Three Curved-arm Sprinkler",
+  "description": "One newly authored static garden-sprinkler appearance: two low elongated feet and a bridge carry a short upright stem, thick open hub and three complete hollow round tubes sweeping outward with same-handed curved raised tips. Each tube has genuine finite wall thickness and open terminal bores; a separate side inlet sleeve completes the silhouette. Nine closed editable meshes, three constant opaque PBR materials. Not a resized Y-shaped open channel, capped tripod turnstile or hose reel. Internal fluid connections through the hub are not modeled or claimed; no water, rotating mechanism, flow, irrigation performance, manufacture or safety claim. Metres, Z up, true whole bounds-centred ground origin. One static game-art prop.",
+  "bounds": {
+    "x": 0.377730697,
+    "y": 0.352088571,
+    "z": 0.134999365,
+    "unit": "m"
+  },
+  "triangles": 964,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/farming/farming-fixed-three-curved-arm-sprinkler-01/v1.0.0/model.glb",
+      "size": 53472,
+      "sha256": "453b13de7cfd36a04982dd952aee109caf484ee299997a481a085f4af1138311"
+    },
+    "blend": {
+      "path": "assets/farming/farming-fixed-three-curved-arm-sprinkler-01/v1.0.0/source.blend",
+      "size": 571616,
+      "sha256": "8a10617ea88902e9b7e370475bae12ebe54305ad6942befcbc94143d1700edb0"
+    },
+    "generator": {
+      "path": "assets/farming/farming-fixed-three-curved-arm-sprinkler-01/v1.0.0/generate.py",
+      "size": 27437,
+      "sha256": "e8a6c7632b822e08dbed55b337a7236624c2778fddec659cea8cab08badd4b05"
+    },
+    "render": {
+      "path": "assets/farming/farming-fixed-three-curved-arm-sprinkler-01/v1.0.0/thumbnail.png",
+      "size": 493706,
+      "sha256": "31ba03cece7295491c949eaf0c26bbc0daa4faa978d3838ab797b05b7e2d7c89"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
