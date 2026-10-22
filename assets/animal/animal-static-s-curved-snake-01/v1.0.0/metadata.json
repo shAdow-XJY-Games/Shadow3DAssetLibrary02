@@ -1,0 +1,42 @@
+{
+  "id": "animal-static-s-curved-snake-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "animal",
+  "style": "S02-hard-edge-faceted",
+  "title": "Static S-Curved Snake",
+  "description": "One original stylised limbless snake-inspired animal, with a broad slightly raised flattened head, narrowed neck, one long variable-thickness body following two opposite S bends and a fine tapering tail. Head, neck, body and tail are one continuous closed shared-vertex mesh; two small dark lateral eyes and one small thick forked tongue are separately editable complete meshes with visible seated roots. The tongue has an actual open V notch between its two tips, not a painted line. A pale belly is assigned to the lower faces of the same full body, with finite flat ground facets; it is not a second overlapping skin. All whole-path coordinates, section proportions, head, taper and tongue outline are newly authored. Not the old mooring rope given eyes, an octopus arm extracted, a snail without its shell, or a stretched tadpole. Only generic mesh orientation, ear clipping, eye primitive and mature export/render tools are reused. Four closed meshes, four opaque matte untextured PBR materials. Metres, native Z up, head/front -Y, full horizontal bounds-centred ground origin. One prop, zero scenes or extra poses. Artistic fixed exterior only: no real species, scale-row pattern, internal skeleton, biological anatomy, venom or dangerousness identification, mouth motion, sensing, locomotion, slithering simulation, rig, animation, collision, welfare or ecological performance claim.",
+  "bounds": {
+    "x": 0.842279,
+    "y": 1.732904,
+    "z": 0.15,
+    "unit": "m"
+  },
+  "triangles": 752,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/animal/animal-static-s-curved-snake-01/v1.0.0/model.glb",
+      "size": 55392,
+      "sha256": "89361cec35eb5203c742f9d1197de394a0953a9cc2aa0c2280bdd961066d2be8"
+    },
+    "blend": {
+      "path": "assets/animal/animal-static-s-curved-snake-01/v1.0.0/source.blend",
+      "size": 576560,
+      "sha256": "6d39dbb11131fc15d62e7af6421f1b34ac049b080fdb1ef7f2df62ff18bbbe77"
+    },
+    "generator": {
+      "path": "assets/animal/animal-static-s-curved-snake-01/v1.0.0/generate.py",
+      "size": 22761,
+      "sha256": "d5200bfc2f42ca1d7717254dd0356d8179322e044e4068b4ba29e830cd57aefd"
+    },
+    "render": {
+      "path": "assets/animal/animal-static-s-curved-snake-01/v1.0.0/thumbnail.png",
+      "size": 463525,
+      "sha256": "616f13a94e7b447af2bfad75f5a3cb4a352ed1543f255c267ad870da4ebdd7c7"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

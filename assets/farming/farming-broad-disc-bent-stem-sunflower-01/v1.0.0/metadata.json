@@ -1,0 +1,42 @@
+{
+  "id": "farming-broad-disc-bent-stem-sunflower-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "farming",
+  "style": "warm-handcrafted-village",
+  "title": "Broad-Disc Bent-Stem Sunflower",
+  "description": "One newly authored whole stylised sunflower crop appearance: a slightly bent stem supports a broad forward-inclined dark shallow-domed flower disc within a thick green receptacle and a ring of individually thick folded pointed golden ray petals. Two genuinely serrated cordate leaves with finite upper/lower surfaces grow from separate bent petioles. Not an extracted old planter flower, recolored maize or a petal-count variant: the complete head volume, elongated folded rays, backing and broad notched serrated leaf construction are newly authored. Metres Z up, true whole XY bounds-centred, stem-base sole at Z0; opaque PBR, no alpha cards. One static prop, no scenery. No botanical species/cultivar precision, counted seeds, growth, yield, wind/animation, ecology, physical stability or food-use claims.",
+  "bounds": {
+    "x": 0.911354065,
+    "y": 0.321126342,
+    "z": 1.4408499,
+    "unit": "m"
+  },
+  "triangles": 1792,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/farming/farming-broad-disc-bent-stem-sunflower-01/v1.0.0/model.glb",
+      "size": 114536,
+      "sha256": "8ea66f60b6da0d2e3dcde6c618778254930926a965880b07f341029550e38f10"
+    },
+    "blend": {
+      "path": "assets/farming/farming-broad-disc-bent-stem-sunflower-01/v1.0.0/source.blend",
+      "size": 673996,
+      "sha256": "9e5d279bfeca99bae35b587e6cbdcf32499a9e44731b775b6e8ceb62a6d5ef90"
+    },
+    "generator": {
+      "path": "assets/farming/farming-broad-disc-bent-stem-sunflower-01/v1.0.0/generate.py",
+      "size": 28160,
+      "sha256": "e61381ce3659f5c11e2b5657de8327d4bb6ccd7db325bd59ef34f66bf894c239"
+    },
+    "render": {
+      "path": "assets/farming/farming-broad-disc-bent-stem-sunflower-01/v1.0.0/thumbnail.png",
+      "size": 485686,
+      "sha256": "626fa6f29f264e5c20082aa919b89a0d749cfc94934770362b93d009f9d16bb2"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

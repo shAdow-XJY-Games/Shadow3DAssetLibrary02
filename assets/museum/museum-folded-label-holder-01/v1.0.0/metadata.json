@@ -1,0 +1,42 @@
+{
+  "id": "museum-folded-label-holder-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "museum",
+  "style": "S01-clean-geometric",
+  "title": "Folded Museum Label Holder",
+  "description": "One original independent tabletop museum label holder from the original museum label-holder candidate. One continuous thick folded profile joins a full floor base, rear vertical return, inclined reading face and integral short upturned front lip, leaving the entire underside open at the front and both sides. One separate complete blank label plate rests along the reading face. Two editable closed meshes and two constant opaque PBR materials, metres, Z up, front -Y. Newly authored continuous fold and blank insert, not a resized cabinet lectern, tripod music stand or a label detached from a plinth. Blank plate carries no writing or scientific specimen data. Fixed static geometry only; no folding, paper retention, item fit, load, strength, conservation, manufacturing or safety claim.",
+  "bounds": {
+    "x": 0.24,
+    "y": 0.14,
+    "z": 0.08,
+    "unit": "m"
+  },
+  "triangles": 48,
+  "materials": 2,
+  "files": {
+    "glb": {
+      "path": "assets/museum/museum-folded-label-holder-01/v1.0.0/model.glb",
+      "size": 4304,
+      "sha256": "739303936eed630aaa995468b8f34945a74642ef402094ddac7db4e50c18172b"
+    },
+    "blend": {
+      "path": "assets/museum/museum-folded-label-holder-01/v1.0.0/source.blend",
+      "size": 505620,
+      "sha256": "b573fc0088857678c18f66e77ae4495669b4aefae3befccd84c34aeedd87cbfa"
+    },
+    "generator": {
+      "path": "assets/museum/museum-folded-label-holder-01/v1.0.0/generate.py",
+      "size": 7213,
+      "sha256": "20742b1a0c73c90a70b2db1b34a8e2bdf3a1f87732a9fa7af68b7a3164c2cffe"
+    },
+    "render": {
+      "path": "assets/museum/museum-folded-label-holder-01/v1.0.0/thumbnail.png",
+      "size": 354200,
+      "sha256": "e8bd8453c38ddc3273e88413508df8cc173c2398cec92b35b87154e306ea82f0"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

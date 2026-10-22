@@ -1,0 +1,42 @@
+{
+  "id": "winter-opposed-fractured-frozen-riverbanks-scene-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "winter",
+  "style": "source-preserved-S01-and-soft-low-poly",
+  "title": "Opposed Fractured Frozen Riverbanks",
+  "description": "One static frozen-riverbank cutaway scene. Two complete unchanged thick undercut fractured ice-edge assets face one another across a genuinely empty narrow bank-to-bank gap, above a flat opaque blue frozen-river base. Two whole snowbank modules sit on scene-only raised north and south ground strips; their ground-strip tops align with the full ice-edge upper surfaces. Four whole rigid unit-scale instances of two published models, one scene preset and zero new independent models. Not the old flowing woodland stream recolored: no stream meshes, rocks, fungi or trees are imported, and the wide fractured ice shelves, genuine V notches and deep underside ledges remain intact. No flowing water, weather, ice strength, walking route, load or safety certification.",
+  "bounds": {
+    "x": 4.4,
+    "y": 6.0,
+    "z": 0.94,
+    "unit": "m"
+  },
+  "triangles": 420,
+  "materials": 14,
+  "files": {
+    "glb": {
+      "path": "assets/winter/winter-opposed-fractured-frozen-riverbanks-scene-01/v1.0.0/model.glb",
+      "size": 42208,
+      "sha256": "3682a5dd3337ebe664038cce386ef6d9d13f0ae513e03ad1d34ad875301a29cd"
+    },
+    "blend": {
+      "path": "assets/winter/winter-opposed-fractured-frozen-riverbanks-scene-01/v1.0.0/source.blend",
+      "size": 828532,
+      "sha256": "595d653d6afbc5a6477a890fa5cf92733cc1ac1d931cd7971587cb75f561ad7f"
+    },
+    "generator": {
+      "path": "assets/winter/winter-opposed-fractured-frozen-riverbanks-scene-01/v1.0.0/generate.py",
+      "size": 59428,
+      "sha256": "447c16c9a3ae264c349151c69d3fb15e34e1f6b6bb93498c3f6b9975390b6c62"
+    },
+    "render": {
+      "path": "assets/winter/winter-opposed-fractured-frozen-riverbanks-scene-01/v1.0.0/thumbnail.png",
+      "size": 500036,
+      "sha256": "e81b2e8b3ec21f0985575fd9ce5f69951ec0c36c1e6f5454f65f5e17851addf8"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
