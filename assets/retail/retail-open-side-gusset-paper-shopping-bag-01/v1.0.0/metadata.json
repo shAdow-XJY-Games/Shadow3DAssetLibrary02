@@ -1,0 +1,42 @@
+{
+  "id": "retail-open-side-gusset-paper-shopping-bag-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "retail",
+  "style": "S01-clean-geometric",
+  "title": "Open Side-Gusset Paper Shopping Bag",
+  "description": "One original empty upright kraft-paper shopping bag visual prop. A continuous thin closed material shell has a complete rectangular flat bottom, broad planar front and rear sheets and two inward side gusset creases rising to a genuinely open concave-hexagonal mouth. Two separately editable flat U-shaped straps have open centres and four complete lower roots seated on the outside front/rear sheets. Three closed material meshes and two opaque matte untextured PBR materials. Metres, Z up, front -Y and centred grounded bottom. Newly authored folded-sheet form, not the old rounded soft travel holdall resized or the bottomless florist sleeve recoloured. Fixed empty pose only; no contents, print, animation, paper deformation, carrying/load capacity, wet strength, manufacturing or safety claim.",
+  "bounds": {
+    "x": 0.2800000011920929,
+    "y": 0.12800000607967377,
+    "z": 0.4350000023841858,
+    "unit": "m"
+  },
+  "triangles": 136,
+  "materials": 2,
+  "files": {
+    "glb": {
+      "path": "assets/retail/retail-open-side-gusset-paper-shopping-bag-01/v1.0.0/model.glb",
+      "size": 9996,
+      "sha256": "6fb976525caf2c34c5d16c02995fe31a30f744518b6248b504b880f8afeb3357"
+    },
+    "blend": {
+      "path": "assets/retail/retail-open-side-gusset-paper-shopping-bag-01/v1.0.0/source.blend",
+      "size": 491052,
+      "sha256": "904efaf631ed8c46818543aad827a0f89a112970671215beb6382d7dd6eab724"
+    },
+    "generator": {
+      "path": "assets/retail/retail-open-side-gusset-paper-shopping-bag-01/v1.0.0/generate.py",
+      "size": 19518,
+      "sha256": "ffa36d41e1154173a3a34483efcce12cc93ba08e5ae80516e0b928480499801f"
+    },
+    "render": {
+      "path": "assets/retail/retail-open-side-gusset-paper-shopping-bag-01/v1.0.0/thumbnail.png",
+      "size": 502083,
+      "sha256": "446aaadfd4e1b5fd9586d42fcde79bbd47ba6df10cdee0aa157278cc0a17f88f"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

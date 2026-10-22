@@ -1,0 +1,42 @@
+{
+  "id": "animal-static-broad-carapace-crab-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "nature",
+  "style": "S02-hard-edge-faceted",
+  "title": "Static Broad-Carapace Crab",
+  "description": "One original stylised crab in a fixed grounded display: a broad short low carapace with continuous lower sternum, four pairs of laterally splayed flattened walking limbs, two stout bent forelimbs ending in complete thick bevelled pincers, and two rising stalked dark eyes. Each pincer has two unequal integral fingers around a genuinely open front notch. Each walking foot ends in a finite flat Z0 toe patch. New whole profiles and coordinates, not a beetle with extra old legs, a recoloured tortoise, an eight-arm octopus or paired serving tongs reused. Seventeen closed editable meshes and four opaque matte constant PBR materials, no textures. Metres, native Z up, front -Y, complete horizontal bounds-centred ground origin. One prop, zero scenes; claws, limbs and eyes are not separately counted models. Artistic external exoskeletal silhouette only, not species diagnosis, scientific anatomy, biological internal construction, locomotion, working pincers, rig, animation, collision or stability certification.",
+  "bounds": {
+    "x": 2.594901,
+    "y": 1.926746,
+    "z": 0.55,
+    "unit": "m"
+  },
+  "triangles": 1356,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/nature/animal-static-broad-carapace-crab-01/v1.0.0/model.glb",
+      "size": 97376,
+      "sha256": "2499cb7d4ba7cd133cd3e8b5e1a0e282609838ec605823437c3463aa805fc8b3"
+    },
+    "blend": {
+      "path": "assets/nature/animal-static-broad-carapace-crab-01/v1.0.0/source.blend",
+      "size": 675712,
+      "sha256": "d7a23bca88f76ba68706e6a88cebf9ec55e0e643c047b64c8f810b4a342d428b"
+    },
+    "generator": {
+      "path": "assets/nature/animal-static-broad-carapace-crab-01/v1.0.0/generate.py",
+      "size": 24432,
+      "sha256": "5f8d51532fa795544d180f502b281f918b8b111d455c064077bb09e272a56e0a"
+    },
+    "render": {
+      "path": "assets/nature/animal-static-broad-carapace-crab-01/v1.0.0/thumbnail.png",
+      "size": 502920,
+      "sha256": "028921cfcc4e384034437b8b6ae7a804785f9b5fa0189c75ce17ecef0742d8a0"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "farming-fixed-drum-cased-grain-winnower-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "farming",
+  "style": "warm-handcrafted-village",
+  "title": "Fixed Drum-Cased Grain Winnower",
+  "description": "One newly authored whole static post-harvest grain-cleaner appearance: a broad horizontal rounded fan housing on a four-legged timber frame, a square open tapering hopper above it, a long downward open discharge trough, and a side offset hand crank with wooden grip. Fourteen closed editable meshes and four constant opaque PBR roles. This is not the old upright coffee hand grinder, tall ribbed silo, twin-wheel bench grinder or stand-alone sieve. The hopper has a real isolated open throat and the trough real upper space; the hidden machine interior, fan blades, screen, gears and continuous internal grain/air connection are deliberately not modeled. Housing is a closed display solid. No animation, airflow, grain separation, milling, harvesting efficiency, real engineering, food-use or historic replica claim. Metres, Z up, actual whole horizontal bounds-centred ground origin; small fixed hidden overlaps support the static display.",
+  "bounds": {
+    "x": 1.218466401,
+    "y": 0.769999981,
+    "z": 0.99000001,
+    "unit": "m"
+  },
+  "triangles": 452,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/farming/farming-fixed-drum-cased-grain-winnower-01/v1.0.0/model.glb",
+      "size": 33300,
+      "sha256": "3098d0b8cb1e6fa79732504cb0110b888f5628a8a4792dbb3c3bb6c556b5265b"
+    },
+    "blend": {
+      "path": "assets/farming/farming-fixed-drum-cased-grain-winnower-01/v1.0.0/source.blend",
+      "size": 601104,
+      "sha256": "87d03a85b9cc94005375bc2bd48d7aac04546df29f67d37e32fa81c5506ba04b"
+    },
+    "generator": {
+      "path": "assets/farming/farming-fixed-drum-cased-grain-winnower-01/v1.0.0/generate.py",
+      "size": 28472,
+      "sha256": "fc69bd11dbad44c4ec7bd8ba34da96dff6932c8225e9bb09b25389d1255b41e9"
+    },
+    "render": {
+      "path": "assets/farming/farming-fixed-drum-cased-grain-winnower-01/v1.0.0/thumbnail.png",
+      "size": 551547,
+      "sha256": "5a553ee2508b4b6722a96e1a740a3884f448c7f25d22955f50f8ba31a7ebe2c6"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
