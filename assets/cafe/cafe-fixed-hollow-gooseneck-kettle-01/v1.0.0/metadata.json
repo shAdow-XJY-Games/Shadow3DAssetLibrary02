@@ -1,0 +1,42 @@
+{
+  "id": "cafe-fixed-hollow-gooseneck-kettle-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "cafe",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Hollow Gooseneck Kettle",
+  "description": "One original static gooseneck kettle. A genuinely hollow faceted pot body has a complete front side port through its material wall. A continuous rising hollow spout is seated by its annular inlet around that port and ends in a small open upward-tilted mouth. A fixed conical lid and knob cover the main chamber; a separate rear open C handle has two full flat wall seats. Five closed editable material meshes, three opaque untextured PBR materials. Metres, Z up, front -Y, horizontal-bounds-centred grounded sole. No fluid simulation, controlled pour rate, heat source, pressure, food-contact fitness, working lid hinge or safe use is claimed. Newly authored complete vessel, not the moka pot resized, a stockpot with colour changes or a spout extracted from a serving pitcher.",
+  "bounds": {
+    "x": 0.11769423633813858,
+    "y": 0.2754596769809723,
+    "z": 0.14900000393390656,
+    "unit": "m"
+  },
+  "triangles": 664,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/cafe/cafe-fixed-hollow-gooseneck-kettle-01/v1.0.0/model.glb",
+      "size": 41616,
+      "sha256": "5c859311734c3c341b09d82d368188739a3e650a1cd3af1904d92acccbf6bdbf"
+    },
+    "blend": {
+      "path": "assets/cafe/cafe-fixed-hollow-gooseneck-kettle-01/v1.0.0/source.blend",
+      "size": 553032,
+      "sha256": "8f237fe896c2c3b322f77f92bd7a120203b377755ae5ae348ff6d84faf587937"
+    },
+    "generator": {
+      "path": "assets/cafe/cafe-fixed-hollow-gooseneck-kettle-01/v1.0.0/generate.py",
+      "size": 21932,
+      "sha256": "782bee155605d2042f524c4e713616e005490f74e3723fdcf34a3b6e689878fc"
+    },
+    "render": {
+      "path": "assets/cafe/cafe-fixed-hollow-gooseneck-kettle-01/v1.0.0/thumbnail.png",
+      "size": 474198,
+      "sha256": "16ff09114b127350b51b946eefa0bf0cf7fdc95e293771c5ceff6b634663c75c"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

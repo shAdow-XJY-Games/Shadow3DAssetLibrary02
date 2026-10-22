@@ -231,7 +231,7 @@ def metadata():
   p=OUT/name
   if not p.exists():return
   files[role]={'path':f'assets/cafe/{ASSET}/v{VERSION}/{name}','size':p.stat().st_size,'sha256':hashlib.sha256(p.read_bytes()).hexdigest()}
- d={'id':ASSET,'version':VERSION,'category':'props','assetKind':'prop','theme':'cafe','style':'S01-clean-geometric','title':TITLE,'description':DESCRIPTION,
+ d={'id':ASSET,'version':VERSION,'category':'props','assetKind':'prop','theme':'retail','style':'S01-clean-geometric','title':TITLE,'description':DESCRIPTION,
  'bounds':dict(zip(['x','y','z'],bounds),unit='m'),'triangles':triangles,'materials':len(mats),'files':files,'status':'review','license':'All rights reserved'}
  (OUT/'metadata.json').write_text(json.dumps(d,indent=2)+'\n')
 # Every formal/early render is of the actual exported file imported into an emptied scene.
