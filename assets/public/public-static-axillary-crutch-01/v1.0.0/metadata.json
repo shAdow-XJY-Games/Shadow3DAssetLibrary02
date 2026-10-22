@@ -1,0 +1,42 @@
+{
+  "id": "public-static-axillary-crutch-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "public",
+  "style": "S01-clean-geometric",
+  "title": "Static Axillary Crutch",
+  "description": "Original single static axillary crutch appearance: two converging tube rails support a concave padded top rest and a transverse cushioned grip; one lower stem terminates in a closed flared rubber foot. Seven simple closed pieces with open frame spaces, one static pose. No person, articulation, height adjustment, medical use, human fit, load capacity, stability, manufacture or safety performance is claimed.",
+  "bounds": {
+    "x": 0.32,
+    "y": 0.07,
+    "z": 1.34,
+    "unit": "m"
+  },
+  "triangles": 364,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/public/public-static-axillary-crutch-01/v1.0.0/model.glb",
+      "size": 24000,
+      "sha256": "ece1d2cd5c502d0a256fe02a93de97cfe71fe68e031c1fe0500d9e1e744442a7"
+    },
+    "blend": {
+      "path": "assets/public/public-static-axillary-crutch-01/v1.0.0/source.blend",
+      "size": 568984,
+      "sha256": "251ef8ea60ff4d29a9e6762594a260319ae43cdda9c382728276f9319729241e"
+    },
+    "generator": {
+      "path": "assets/public/public-static-axillary-crutch-01/v1.0.0/generate.py",
+      "size": 8620,
+      "sha256": "95d6e519f33bbeea99fd86f1b4f3175099480c57576b3bffbf3e1de5d3d620be"
+    },
+    "render": {
+      "path": "assets/public/public-static-axillary-crutch-01/v1.0.0/thumbnail.png",
+      "size": 281980,
+      "sha256": "46916d3b16fbd6b236b661e0b5f242873ac849c71a997ceec1ca35342e11c8e0"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

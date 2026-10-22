@@ -1,0 +1,42 @@
+{
+  "id": "sports-connected-rectangular-training-court-line-kit-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "sports",
+  "style": "low-poly",
+  "title": "Connected Rectangular Training Court Line Kit",
+  "description": "One newly authored complete rectangular training-court line kit: an outer boundary, two continuous inner side lines, three transverse lines and a short central service divider form one connected closed raised ribbon mesh with genuinely open cells. One opaque ivory PBR material, one prop and zero scenes; metre units, Z up, bottom-centred origin. Every numeric vertex and face is new; no old semicircle, floor, net or scene geometry is copied. Deliberately stylised 25 mm thick game-art marking, not regulation tennis/badminton/volleyball dimensions, physical paint, safety-approved surfacing or functional sports equipment. No ground slab, net, player, texture, text or animation.",
+  "bounds": {
+    "x": 6.800000190734863,
+    "y": 12.0,
+    "z": 0.02500000037252903,
+    "unit": "m"
+  },
+  "triangles": 436,
+  "materials": 1,
+  "files": {
+    "glb": {
+      "path": "assets/sports/sports-connected-rectangular-training-court-line-kit-01/v1.0.0/model.glb",
+      "size": 37716,
+      "sha256": "060ba0edfc5ea52d32b49d3629b60feb8bddefad57fe52dff3e243e3e4fd1033"
+    },
+    "blend": {
+      "path": "assets/sports/sports-connected-rectangular-training-court-line-kit-01/v1.0.0/source.blend",
+      "size": 102941,
+      "sha256": "5cb67cb78c839c9edbb554ebbf823a64b586eb2b25fd1340e5ef826c14d0fe55"
+    },
+    "generator": {
+      "path": "assets/sports/sports-connected-rectangular-training-court-line-kit-01/v1.0.0/generate.py",
+      "size": 8514,
+      "sha256": "19719ac7aaeef317922d25dddfcfa56d56fcd700f22d57a359a49cf74d39f7d2"
+    },
+    "render": {
+      "path": "assets/sports/sports-connected-rectangular-training-court-line-kit-01/v1.0.0/thumbnail.png",
+      "size": 461953,
+      "sha256": "24e1b85ceed690bb527f4f45d71b4fb9546c7bc33b33a155595509cca6c6305c"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

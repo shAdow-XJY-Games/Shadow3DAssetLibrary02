@@ -1,0 +1,42 @@
+{
+  "id": "public-static-open-wheel-service-chair-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "public",
+  "style": "S01-clean-geometric",
+  "title": "Static Open-Wheel Public Service Chair",
+  "description": "Original static wheelchair appearance with two large open annular rear tires, metal rims and eight spokes per wheel, two small front casters, tubular side frames and push handles, upholstered seat/back, arm supports and separated footplates. New whole geometry, not a bicycle or goods trolley import. Static visual prop only: no person, animation, operable wheels, brakes, load capacity, human-fit, mobility, medical, accessibility, manufacturing, installation or safety performance is claimed.",
+  "bounds": {
+    "x": 0.71,
+    "y": 1.15,
+    "z": 0.9460000000000001,
+    "unit": "m"
+  },
+  "triangles": 2248,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/public/public-static-open-wheel-service-chair-01/v1.0.0/model.glb",
+      "size": 120084,
+      "sha256": "6b2e980e3ddad7a0ec951e21dde3220a7df1baa668923b77cc513d363da7bc1d"
+    },
+    "blend": {
+      "path": "assets/public/public-static-open-wheel-service-chair-01/v1.0.0/source.blend",
+      "size": 879328,
+      "sha256": "6b286e8e5ff08bf18a3bf8fe24640fd114a6b6377002039a6972966b68a24282"
+    },
+    "generator": {
+      "path": "assets/public/public-static-open-wheel-service-chair-01/v1.0.0/generate.py",
+      "size": 8723,
+      "sha256": "a9f51765024174dc996ed4bade86c0aba534bd5b070c4480c6dc389da251f0be"
+    },
+    "render": {
+      "path": "assets/public/public-static-open-wheel-service-chair-01/v1.0.0/thumbnail.png",
+      "size": 447443,
+      "sha256": "a1f486398f9bde1949ff81811cce71822426ac09855154bff81c17c0a12cbd26"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

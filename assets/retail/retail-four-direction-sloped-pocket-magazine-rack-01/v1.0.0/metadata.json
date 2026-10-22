@@ -1,0 +1,42 @@
+{
+  "id": "retail-four-direction-sloped-pocket-magazine-rack-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "retail",
+  "style": "S01-clean-geometric",
+  "title": "Four-Direction Sloped-Pocket Magazine Rack",
+  "description": "One original freestanding static magazine-display fixture for a newsstand or convenience shop. An integral low square base, central post and eight short radial arms support four separate open sloped-mouth pockets, one facing each cardinal direction. Each pocket has a complete closed floor, tall rear wall, low front lip, sloped side walls and a genuine empty chamber open above. The adjacent pockets are separated, not intersecting cross-shaped boxes; each has two full rectangular rear seats. Five closed editable meshes, two opaque untextured PBR materials. No papers, labels, rotating joint, bearings, contents, working motion, load or tipping stability, manufacture or safety capability is claimed. Metres, Z up, front -Y, centred grounded origin. Newly authored whole stand, not a detached copy of the existing kiosk side rack or a recoloured book cart.",
+  "bounds": {
+    "x": 0.46000000834465027,
+    "y": 0.46000000834465027,
+    "z": 0.8600000143051147,
+    "unit": "m"
+  },
+  "triangles": 1020,
+  "materials": 2,
+  "files": {
+    "glb": {
+      "path": "assets/retail/retail-four-direction-sloped-pocket-magazine-rack-01/v1.0.0/model.glb",
+      "size": 34388,
+      "sha256": "dd69cfacb9a19746baffe0e88ef942325761186d9d1874b6a76a7de44e3a80d1"
+    },
+    "blend": {
+      "path": "assets/retail/retail-four-direction-sloped-pocket-magazine-rack-01/v1.0.0/source.blend",
+      "size": 549136,
+      "sha256": "e184ced2a964678af5f56796b5875fa52aea073118b773ef83cf2f625dfe80ba"
+    },
+    "generator": {
+      "path": "assets/retail/retail-four-direction-sloped-pocket-magazine-rack-01/v1.0.0/generate.py",
+      "size": 17740,
+      "sha256": "360c0cd29622538b2072fd8d58bb4e077834a9d76b0de56a1be73e09d2fb1dc4"
+    },
+    "render": {
+      "path": "assets/retail/retail-four-direction-sloped-pocket-magazine-rack-01/v1.0.0/thumbnail.png",
+      "size": 512953,
+      "sha256": "e389df8fb8e89da56ae532f50c6443deb80dadb60a8ce1318d816dc9fdbec8bb"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

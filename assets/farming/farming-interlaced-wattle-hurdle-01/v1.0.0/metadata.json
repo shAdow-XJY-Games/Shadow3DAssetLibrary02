@@ -1,0 +1,42 @@
+{
+  "id": "farming-interlaced-wattle-hurdle-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "farming",
+  "style": "warm-handcrafted-village",
+  "title": "Interlaced Wattle Hurdle",
+  "description": "One newly authored static low-poly wattle fence hurdle: nine independent continuous rounded branches weave alternately in front of and behind three complete upright stakes. Neighbouring branch rows use opposite weave phase, with real three-dimensional routing rather than flat crossed strips or texture. Three opaque constant wood PBR materials. Separate closed editable components, no reused prior fence or basket mesh. Horizontal whole-bounds centre and flat stake soles at Z0. Visual interlacing only: not simulated weaving, motion, growth, fencing effectiveness, structural load, stability, safety or fabrication guidance.",
+  "bounds": {
+    "x": 1.602731705,
+    "y": 0.119999997,
+    "z": 1.019999981,
+    "unit": "m"
+  },
+  "triangles": 1632,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/farming/farming-interlaced-wattle-hurdle-01/v1.0.0/model.glb",
+      "size": 84584,
+      "sha256": "2a74abca86d7bc75ac5d629bef9816d7145b1768afd3b79536d82c71e2e32451"
+    },
+    "blend": {
+      "path": "assets/farming/farming-interlaced-wattle-hurdle-01/v1.0.0/source.blend",
+      "size": 610512,
+      "sha256": "fd6dc7db5e40a7b9cf21f85b2e36f04e07757262a898dcfbd039359577702b3b"
+    },
+    "generator": {
+      "path": "assets/farming/farming-interlaced-wattle-hurdle-01/v1.0.0/generate.py",
+      "size": 25607,
+      "sha256": "4701848ac2cb80cd70143121a2f3693e6a3532054a65208b82891d5fd86df5d7"
+    },
+    "render": {
+      "path": "assets/farming/farming-interlaced-wattle-hurdle-01/v1.0.0/thumbnail.png",
+      "size": 560803,
+      "sha256": "5162b1139e3ba0260e2087bdded2a7dc08b4916c217a2572d061422e92879faa"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

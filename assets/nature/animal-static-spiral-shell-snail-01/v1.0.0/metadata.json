@@ -1,0 +1,42 @@
+{
+  "id": "animal-static-spiral-shell-snail-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "nature",
+  "style": "S02-hard-edge-faceted",
+  "title": "Static Spiral-Shell Snail",
+  "description": "One original static stylised snail with a continuous elongated broad flat-foot body, raised front head, tapered rear tail, two long tapered eye stalks, two small dark eyes and two shorter lower feelers. The complete solid external shell has real shallow spiral height relief on both sides, with warm matte material bands following the geometric ridges. Eight newly authored closed editable meshes and four constant opaque PBR materials. Metres, native Z up, front -Y, horizontal full-bounds-centred ground origin. One prop and zero scenes; shell, stalks and eyes are never counted as separate assets. Different whole gastropod appearance, not a tortoise with feet deleted, copied octopus body or coral branches. No hollow biological shell, species-level anatomy, locomotion, growth, ecology, softness, rig, animation, collision or real animal performance claim.",
+  "bounds": {
+    "x": 0.512257,
+    "y": 1.23,
+    "z": 0.75,
+    "unit": "m"
+  },
+  "triangles": 2208,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/nature/animal-static-spiral-shell-snail-01/v1.0.0/model.glb",
+      "size": 169176,
+      "sha256": "bd59a1e57e338c0c883d2f12b36baf6ea9d55e81e27fa7c7f855ca49e9640fb2"
+    },
+    "blend": {
+      "path": "assets/nature/animal-static-spiral-shell-snail-01/v1.0.0/source.blend",
+      "size": 675264,
+      "sha256": "f32d51ad1e72e220f4f73f352a5048cdbd9af0960dbe00a1547ceae0922fcf89"
+    },
+    "generator": {
+      "path": "assets/nature/animal-static-spiral-shell-snail-01/v1.0.0/generate.py",
+      "size": 21827,
+      "sha256": "17ad241ef3f22c6167f6139b106fe79e7ff8f28807547404f90987372e5cc9f7"
+    },
+    "render": {
+      "path": "assets/nature/animal-static-spiral-shell-snail-01/v1.0.0/thumbnail.png",
+      "size": 508033,
+      "sha256": "dc271013b5e955fb1e798467271a3a192597a029b7a51eb7e9228b6c014b435d"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

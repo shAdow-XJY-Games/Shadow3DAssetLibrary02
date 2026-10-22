@@ -1,0 +1,42 @@
+{
+  "id": "sports-heel-shafted-mallet-golf-putter-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "sports",
+  "style": "low-poly",
+  "title": "Heel-Shafted Mallet Golf Putter",
+  "description": "One original static golf-putter appearance: a broad bevelled flat-soled metal mallet head, a slim heel-offset leaning shaft and a thicker dark upper grip. Three closed connected component meshes and three opaque untextured PBR materials, one prop and zero scenes. The shaft lower flat cap is entirely seated on the head top; the grip lower cap covers the shaft top with a finite opposed seat. All numeric geometry is new, not a hockey toe blade, baseball bat or old handle transplant. Metres, Z up, horizontally bounds-centred ground origin. Static game-art display, not regulation golf dimensions, real playability, grip suitability, balance, material performance or safety certification. No ball, turf, golfer, text, logo, animation or physical operation.",
+  "bounds": {
+    "x": 0.23800000548362732,
+    "y": 0.05000000074505806,
+    "z": 1.0399999618530273,
+    "unit": "m"
+  },
+  "triangles": 208,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/sports/sports-heel-shafted-mallet-golf-putter-01/v1.0.0/model.glb",
+      "size": 20192,
+      "sha256": "e01a0a456310f0da284d15dbfb34f94519beb21d6abdff711f391527b55e386e"
+    },
+    "blend": {
+      "path": "assets/sports/sports-heel-shafted-mallet-golf-putter-01/v1.0.0/source.blend",
+      "size": 99700,
+      "sha256": "5187033876f9a41970333fe481ae5abff6ce43732162b67b2bdf189abd2b133d"
+    },
+    "generator": {
+      "path": "assets/sports/sports-heel-shafted-mallet-golf-putter-01/v1.0.0/generate.py",
+      "size": 9201,
+      "sha256": "559db7d2befb9ae0c7d7b3817b575feed197e987aebd0f981cd82f64743ebdfe"
+    },
+    "render": {
+      "path": "assets/sports/sports-heel-shafted-mallet-golf-putter-01/v1.0.0/thumbnail.png",
+      "size": 408632,
+      "sha256": "95d681cbfcc58da84d291bfb6736bd4ba47b57b7375182b0a7500b42b2d79450"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

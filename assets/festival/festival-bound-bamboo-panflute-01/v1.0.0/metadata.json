@@ -1,0 +1,42 @@
+{
+  "id": "festival-bound-bamboo-panflute-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "festival",
+  "style": "warm-handcrafted-village",
+  "title": "Bound Bamboo Panflute",
+  "description": "One original static bamboo-style panflute gift: seven separately editable graduated stopped-bottom pipes with real open top mouths, full inner walls and blind floors, bound into one complete instrument by two continuous flat bands. All mouths align at one upper playing edge while the bottoms form the familiar graded panpipe silhouette. Nine closed meshes and two opaque matte solid PBR roles. Newly authored whole profiles and layout, not extracted plumbing, a gouge, fluted column or a variation of an existing panflute. Small intentional hidden band-to-pipe overlaps represent fixed bindings; no braiding, motion, acoustic tuning, pitch range, playability, manufacturing, safety or physical stability claim. Metres, Z up, front -Y, horizontal bounds centred, longest pipe ground face at Z0. One static prop, not seven separately counted assets.",
+  "bounds": {
+    "x": 0.173999995,
+    "y": 0.027000001,
+    "z": 0.319999993,
+    "unit": "m"
+  },
+  "triangles": 960,
+  "materials": 2,
+  "files": {
+    "glb": {
+      "path": "assets/festival/festival-bound-bamboo-panflute-01/v1.0.0/model.glb",
+      "size": 43644,
+      "sha256": "bc53dbc17cf138f2f7715119240a0403c1ed5611c2ef2c617e00dae7ba6d5f69"
+    },
+    "blend": {
+      "path": "assets/festival/festival-bound-bamboo-panflute-01/v1.0.0/source.blend",
+      "size": 566392,
+      "sha256": "3c1bc56317d1e394baf6f8656bee0111180832c884fca6a626c27579b61fee78"
+    },
+    "generator": {
+      "path": "assets/festival/festival-bound-bamboo-panflute-01/v1.0.0/generate.py",
+      "size": 26915,
+      "sha256": "6ee77eac8696a64d7cf1b68c56c9bd02890e029d70dfa1160071352d3ea2f8af"
+    },
+    "render": {
+      "path": "assets/festival/festival-bound-bamboo-panflute-01/v1.0.0/thumbnail.png",
+      "size": 529122,
+      "sha256": "9545394b69ae6815a99b37875b57b88568e195a1fe225084642ae253b63577aa"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
