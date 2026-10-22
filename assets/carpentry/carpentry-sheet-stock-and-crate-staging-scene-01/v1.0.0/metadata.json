@@ -1,0 +1,42 @@
+{
+  "id": "carpentry-sheet-stock-and-crate-staging-scene-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "carpentry",
+  "style": "source-preserved-low-poly",
+  "title": "Sheet Stock and Crate Staging Corner",
+  "description": "One static sheet-stock storage and staging corner from the original carpentry material-store scene program. One complete original dual-sided A-frame storage rack retains both original fixed inclined boards, its finite bottom bearers and toe stops. Beside it are one whole original empty three-slot upright-panel cargo crate and one complete original empty wood pallet. All three original IDs preserve original local POSITION/NORMAL payloads, full PBR materials and internal hierarchy exactly. Only whole-instance unit-scale translations and one finite new floor are authored. Every complete footprint rests on the floor and complete station bounds are positively separated. No board is extracted, duplicated, recoloured, resized, moved out of its original rack seat, inserted into the empty crate or placed on the pallet; zero new independent models or wood-stock variants. This is a new stock-staging layout, not the old sawhorse/handsaw corner renamed. The rack boards are not certified compatible with the crate or pallet; fixed visual storage only, no loading path, forklift operation, wood-species, capacity, stability, workshop safety or full operational warehouse claim.",
+  "bounds": {
+    "x": 4.400000095367432,
+    "y": 3.0,
+    "z": 1.5699999332427979,
+    "unit": "m"
+  },
+  "triangles": 1416,
+  "materials": 11,
+  "files": {
+    "glb": {
+      "path": "assets/carpentry/carpentry-sheet-stock-and-crate-staging-scene-01/v1.0.0/model.glb",
+      "size": 113644,
+      "sha256": "dbfa934543f6eb1d9faef7a8bfa57cce59057c82d1d26ef11393653633037fa5"
+    },
+    "blend": {
+      "path": "assets/carpentry/carpentry-sheet-stock-and-crate-staging-scene-01/v1.0.0/source.blend",
+      "size": 1023012,
+      "sha256": "55737903b4d17cac60665a5d586b59a9fe884cadf067c2697e02960b7cb924da"
+    },
+    "generator": {
+      "path": "assets/carpentry/carpentry-sheet-stock-and-crate-staging-scene-01/v1.0.0/generate.py",
+      "size": 75295,
+      "sha256": "6a8674ccf4e6485c3152f83e8180ed056a8d8e15ca5be85df18cf427e89f0943"
+    },
+    "render": {
+      "path": "assets/carpentry/carpentry-sheet-stock-and-crate-staging-scene-01/v1.0.0/thumbnail.png",
+      "size": 493213,
+      "sha256": "5130831cfb730442e9193917979b3d52a0752ab38bcbff527beeb025cd1665b3"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

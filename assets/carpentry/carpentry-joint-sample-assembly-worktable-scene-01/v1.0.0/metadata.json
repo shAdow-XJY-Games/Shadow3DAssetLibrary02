@@ -1,0 +1,42 @@
+{
+  "id": "carpentry-joint-sample-assembly-worktable-scene-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "carpentry",
+  "style": "source-preserved-low-poly",
+  "title": "Joint Sample Assembly Worktable and Tool Rack",
+  "description": "One static carpentry assembly-preparation scene from the original woodworking scene program. One complete original open worktable supports one whole fixed half-inserted mortise-and-tenon sample kit and one whole open-mouth hand plane. A separate complete original freestanding tool rack behind the table retains its original hammer, wooden mallet and single chisel; none is extracted or counted anew. All four whole old asset IDs preserve original local POSITION/NORMAL bytes, complete PBR materials and internal hierarchy. Only unit-scale whole translations and a finite new floor are authored. The complete sample and plane footprints lie on the actual finite table top, their soles meet its height and their bounds are separated; whole rack and table floor footprints fit on the floor with a positive station gap. This is not the old two-sawhorse/plank/handsaw scene renamed, and it creates zero new independent tools or joint variants. Static display only: no assembly motion, clamping, cutting, wood removal, worker, force, universal joint fit, load or workshop safety assertion.",
+  "bounds": {
+    "x": 2.4000000953674316,
+    "y": 2.4000000953674316,
+    "z": 1.6799999475479126,
+    "unit": "m"
+  },
+  "triangles": 2252,
+  "materials": 16,
+  "files": {
+    "glb": {
+      "path": "assets/carpentry/carpentry-joint-sample-assembly-worktable-scene-01/v1.0.0/model.glb",
+      "size": 162256,
+      "sha256": "7c867c55a821a51d6a97b876902a950e6276b645f5913a451784c91827f840bb"
+    },
+    "blend": {
+      "path": "assets/carpentry/carpentry-joint-sample-assembly-worktable-scene-01/v1.0.0/source.blend",
+      "size": 1211276,
+      "sha256": "ef8e260ce337d890fcef7cec10b7b63f6c7317143a371ac2f197ebb1da232748"
+    },
+    "generator": {
+      "path": "assets/carpentry/carpentry-joint-sample-assembly-worktable-scene-01/v1.0.0/generate.py",
+      "size": 100240,
+      "sha256": "bce36021d64989f6ecb807b2b693202c0f61b9afec116b6a2c805e0f4d9769e3"
+    },
+    "render": {
+      "path": "assets/carpentry/carpentry-joint-sample-assembly-worktable-scene-01/v1.0.0/thumbnail.png",
+      "size": 502823,
+      "sha256": "10e7b8358c37a658b58b4a1d9f5c27401bc5aa9d4558dcc05588015eeac495a2"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
