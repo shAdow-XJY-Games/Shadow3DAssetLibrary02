@@ -1,0 +1,42 @@
+{
+  "id": "village-culvert-road-and-flared-inlet-scene-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "village",
+  "style": "S01-clean-geometric",
+  "title": "Culvert Road Crossing with Flared Drain Inlet",
+  "description": "One static village drainage-road crossing scene, one scene and zero new independent models. One whole original stone box culvert road module and two whole original soil road grade modules follow the original three-piece arrangement with 2mm end gaps. One complete newly self-reviewed flared wing headwall meets the front lining mouth at the declared matching opening. All original mesh sets, oriented triangles and per-face opaque PBR values are retained at unit scale, with only exact 180-degree coordinate permutation, translations and collision-safe names. Seven meshes,426triangles,nine materials. Original culvert is one joined runtime mesh of touching closed parts and retains four canonical-weld nonmanifold edge diagnostics; it is not claimed to be a newly repaired single manifold body. No water, terrain insertion, hydraulic capacity, watertight soil installation, road safety, navigation, construction or engineering certification.",
+  "bounds": {
+    "x": 6.004,
+    "y": 3.319999966621399,
+    "z": 0.6499999761581421,
+    "unit": "m"
+  },
+  "triangles": 426,
+  "materials": 9,
+  "files": {
+    "glb": {
+      "path": "assets/public-service/village-culvert-road-and-flared-inlet-scene-01/v1.0.0/model.glb",
+      "size": 28200,
+      "sha256": "9907f93fc5a19e00eb25ba64e5095d9845b480a76992f986a5a8d3e5502c809f"
+    },
+    "blend": {
+      "path": "assets/public-service/village-culvert-road-and-flared-inlet-scene-01/v1.0.0/source.blend",
+      "size": 717444,
+      "sha256": "f330515396945d725a6d4fd3cf1d2722dc8b461ae6747d097f445b9e801c6654"
+    },
+    "generator": {
+      "path": "assets/public-service/village-culvert-road-and-flared-inlet-scene-01/v1.0.0/generate.py",
+      "size": 26018,
+      "sha256": "8d7f2f63486141575e90957b4ad07cb31181b5ec9eafa7e7e364fe32c29c61bf"
+    },
+    "render": {
+      "path": "assets/public-service/village-culvert-road-and-flared-inlet-scene-01/v1.0.0/thumbnail.png",
+      "size": 348177,
+      "sha256": "052db79135178f279c703a7f236e8b8f242a91bf1c97837c24531c4b65ba4749"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

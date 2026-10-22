@@ -1,0 +1,42 @@
+{
+  "id": "farming-swept-blade-double-grip-scythe-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "farming",
+  "style": "warm-handcrafted-village",
+  "title": "Swept-Blade Double-Grip Scythe",
+  "description": "One newly authored whole static mowing-scythe appearance: a long continuously bent S-like wooden snath rises out of a broad low swept tapered steel blade, with two complete offset cranked side grips at different heights and one genuine annular lower metal collar. Five closed editable meshes and three opaque matte PBR roles. The blade is a new open swept leaf profile with finite blunt thickness, not the previous nearly circular 225-degree sickle band; the snath, blade-plane relationship and offset grip paths are new, not a scaled sickle or the straight shaft/transverse plate of the old hoe. No prior visible geometry imported or extracted. Hidden small fixed overlaps connect the static display. Metres, Z up, actual whole horizontal bounds centre, blade underside at Z0. Blunt stylised game-art appearance only: no mowing/cutting instructions, manufacture, blade sharpness, ergonomic fit, balance, working mechanism, animation, stability or real-tool safety claim.",
+  "bounds": {
+    "x": 1.07892859,
+    "y": 0.80027169,
+    "z": 1.542956948,
+    "unit": "m"
+  },
+  "triangles": 484,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/farming/farming-swept-blade-double-grip-scythe-01/v1.0.0/model.glb",
+      "size": 29176,
+      "sha256": "e1cdcd13b4c386defdf60f2bb2df91548f114bfcb4d52ebc0ea12787717c71f2"
+    },
+    "blend": {
+      "path": "assets/farming/farming-swept-blade-double-grip-scythe-01/v1.0.0/source.blend",
+      "size": 534904,
+      "sha256": "d125006090c884d14f6664208a476671fe73bbe4439b702522daa0cd1eba79a5"
+    },
+    "generator": {
+      "path": "assets/farming/farming-swept-blade-double-grip-scythe-01/v1.0.0/generate.py",
+      "size": 27935,
+      "sha256": "830d844af8cbe097982dc547bacf598cf8ccdfbe32ad4ad401a3f314f15f2e53"
+    },
+    "render": {
+      "path": "assets/farming/farming-swept-blade-double-grip-scythe-01/v1.0.0/thumbnail.png",
+      "size": 471549,
+      "sha256": "92c48e7b41592627aa647303a583ba8a9cab55e991327a22a4a83724d47ca07b"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

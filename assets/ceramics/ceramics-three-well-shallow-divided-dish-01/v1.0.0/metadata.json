@@ -1,0 +1,42 @@
+{
+  "id": "ceramics-three-well-shallow-divided-dish-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "ceramics",
+  "style": "S01-clean-geometric",
+  "title": "Three-Well Shallow Ceramic Dish",
+  "description": "One original static shallow ceramic serving dish from the ceramics shallow-plate plan, not a rescaled single-cavity mixing bowl. One connected closed solid includes a full planar bottom, continuous outer wall and annular rim, central hub and three full-depth radial material dividers. These form three genuine separate 110-degree shallow blind wells with their own integral floors and inner walls; no independent bowls, pasted dark patches, overlapping surfaces or loose divider bars. 0.38 m diameter, 0.035 m height, 0.009 m bottom, three 10-degree solid divider sectors. One editable mesh, one constant opaque celadon PBR, metres and ground-centred origin. Static game exterior only; no food-contact, thermal, liquid, load, manufacture or safety certification.",
+  "bounds": {
+    "x": 0.38,
+    "y": 0.38,
+    "z": 0.035,
+    "unit": "m"
+  },
+  "triangles": 648,
+  "materials": 1,
+  "files": {
+    "glb": {
+      "path": "assets/ceramics/ceramics-three-well-shallow-divided-dish-01/v1.0.0/model.glb",
+      "size": 24072,
+      "sha256": "000efec7a7f7c5bfab2746e77282bb6c48c0d29d31744b15eaf563cf9ea75754"
+    },
+    "blend": {
+      "path": "assets/ceramics/ceramics-three-well-shallow-divided-dish-01/v1.0.0/source.blend",
+      "size": 510232,
+      "sha256": "ba97797154b6e6dc916ba3646ad9da2ad439461ef410dba709cdab23b08ea283"
+    },
+    "generator": {
+      "path": "assets/ceramics/ceramics-three-well-shallow-divided-dish-01/v1.0.0/generate.py",
+      "size": 6829,
+      "sha256": "808ed8624f4dc41909c9cdc7c6fed22e1bb999eeb3dc877d0c9e01fee80fb964"
+    },
+    "render": {
+      "path": "assets/ceramics/ceramics-three-well-shallow-divided-dish-01/v1.0.0/thumbnail.png",
+      "size": 388809,
+      "sha256": "42ecceeadcdaf1bcf5dc3730ac1d5792da1dbf401ed6d1527b0c4cba1d86d2ee"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

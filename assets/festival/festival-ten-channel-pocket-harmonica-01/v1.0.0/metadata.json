@@ -1,0 +1,42 @@
+{
+  "id": "festival-ten-channel-pocket-harmonica-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "festival",
+  "style": "warm-handcrafted-village",
+  "title": "Ten-Channel Pocket Harmonica",
+  "description": "One complete static pocket harmonica exterior: two complete curved finite-thickness metal covers around one connected wooden comb with ten real front-open air channels, eleven whole dividers/end walls and a continuous rear spine. Three editable closed solids and two opaque solid PBR materials. The mouths are real assembled gaps, not ten black rectangles painted on a solid block. No separate ten-pipe array, keyboard tines or whistle lanyard. Metres, Z up, horizontally centred, lower cover finite flat face at Z0. Small fixed cover-to-spine overlaps are declared mounts. Internal reeds, reed plates and fastener details are intentionally not represented in this lightweight visual model; no tuning, sound, airflow, manufacturing, animation or safety performance claimed.",
+  "bounds": {
+    "x": 0.112000003,
+    "y": 0.028000001,
+    "z": 0.017000001,
+    "unit": "m"
+  },
+  "triangles": 332,
+  "materials": 2,
+  "files": {
+    "glb": {
+      "path": "assets/festival/festival-ten-channel-pocket-harmonica-01/v1.0.0/model.glb",
+      "size": 17108,
+      "sha256": "02d6c4c61bfc26e35cd48111db51402a4903a297177e52db9d17cdb82ec633d1"
+    },
+    "blend": {
+      "path": "assets/festival/festival-ten-channel-pocket-harmonica-01/v1.0.0/source.blend",
+      "size": 502188,
+      "sha256": "1be91a49084d9ce2732018da9790a2626fae00a79ee0194d271e2ffa1a56a8ea"
+    },
+    "generator": {
+      "path": "assets/festival/festival-ten-channel-pocket-harmonica-01/v1.0.0/generate.py",
+      "size": 27291,
+      "sha256": "80124e640d6a8b8a4536c425ee24b2699e801a6b4a854ddfb2b57b023fc5ea9d"
+    },
+    "render": {
+      "path": "assets/festival/festival-ten-channel-pocket-harmonica-01/v1.0.0/thumbnail.png",
+      "size": 482950,
+      "sha256": "ea0b9f62feecc97e55a429653ba7b88eb6abfdd3bf85480bae7de2d25c4037e1"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
