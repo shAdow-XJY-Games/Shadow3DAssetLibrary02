@@ -1,0 +1,42 @@
+{
+  "id": "animal-static-fusiform-fork-tail-fish-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "animal",
+  "style": "S02-hard-edge-faceted",
+  "title": "Static Fusiform Fork-Tail Fish",
+  "description": "One original stylised whole fish exterior with a short rounded forward head, deep laterally compressed fusiform body, a distinct narrowed tail peduncle and vertically broad two-lobed tail with an actual concave trailing fork. A long raised dorsal fin, shorter lower anal fin and two swept lateral pectoral fins have finite thickness and grow through real removed shared-vertex ports in the new body: body and all fins are one connected closed mesh, not closed fin plates buried into a body. Two small closed dark lateral eyes are seated in the head. All axial sections, fin profiles, fork and eye placements are newly authored; this is not the museum skeleton filled with skin, an elongated ray disc, a tadpole with its tail trimmed, a snake straightened or a bat wing extracted. Only generic mesh orientation and the mature exporter/renderer are reused. Three editable closed meshes and four opaque constant matte PBR roles, no texture or transparency. Metres, native Z up, head/front -Y, full horizontal bounds-centred lowest-extent origin. One prop and zero scenes, species variants or life stages counted separately. Static artistic exterior only: no exact species, internal skeleton, gills, scales, biological anatomy, life-size, natural standing support, swimming, breathing, buoyancy, rig, animation, physical or ecological performance claim.",
+  "bounds": {
+    "x": 0.47,
+    "y": 1.05803,
+    "z": 0.556799,
+    "unit": "m"
+  },
+  "triangles": 728,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/animal/animal-static-fusiform-fork-tail-fish-01/v1.0.0/model.glb",
+      "size": 52800,
+      "sha256": "0fd4319bdda7fde77758f1ac18ae35dbb888e1ca3fd689d7f5a8eda456876b95"
+    },
+    "blend": {
+      "path": "assets/animal/animal-static-fusiform-fork-tail-fish-01/v1.0.0/source.blend",
+      "size": 570136,
+      "sha256": "405aed60712cd658213d77770cf13b4d32b8dc264abfcd6867ca69f87da1e2cd"
+    },
+    "generator": {
+      "path": "assets/animal/animal-static-fusiform-fork-tail-fish-01/v1.0.0/generate.py",
+      "size": 23109,
+      "sha256": "636efee43dd924864c5e1974c27c4ae4230782ad114a6d6629dd08b631c7d502"
+    },
+    "render": {
+      "path": "assets/animal/animal-static-fusiform-fork-tail-fish-01/v1.0.0/thumbnail.png",
+      "size": 489778,
+      "sha256": "6478951346689858fcd5aced1da5e152fa618e810a32e5dc1a2daf3f758e0a34"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "navigation-stepped-field-survey-station-scene-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "navigation",
+  "style": "source-preserved-S01-and-soft-low-poly",
+  "title": "Stepped Field Survey Station",
+  "description": "One static field-survey station illustrating the original navigation surveying scene program. A whole published horizontal-baseline rangefinder and complete sloped fictional-map stand occupy a raised observation/notes terrace; two unchanged whole sleeved-marker flags stand apart on the lower field ground. Two finite approach steps separate the raised instrument area from a clear foreground approach and marker area. This is a different spatial task layout from the original small map-and-compass planning pad, not a palette or map-texture swap. The complete four-foot braced rangefinder, both recessed end objectives, central ocular and saddle remain intact; the full old map table, fictional islands and pins remain intact; both flags retain their whole foot/socket/pole/stop/sleeve and blank folded flag. Unit scale, no rotations, identical duplicates are not new variants. Four complete instances of three published models plus four scene-only closed ground/terrace/step solids: one scene and zero new independent models. No optical operation, sighting alignment, ranging, angular measurement, real route/geography, calibration, surveying accuracy, load, stability, stair accessibility or actual route safety is asserted. No people or functioning instruments.",
+  "bounds": {
+    "x": 5.1,
+    "y": 4.8,
+    "z": 1.91,
+    "unit": "m"
+  },
+  "triangles": 4776,
+  "materials": 17,
+  "files": {
+    "glb": {
+      "path": "assets/navigation/navigation-stepped-field-survey-station-scene-01/v1.0.0/model.glb",
+      "size": 242188,
+      "sha256": "d5ade436b114f4ebe905b5d20a18d1897ef33d75a48500f552da97e40c02ea4d"
+    },
+    "blend": {
+      "path": "assets/navigation/navigation-stepped-field-survey-station-scene-01/v1.0.0/source.blend",
+      "size": 1445832,
+      "sha256": "f6c3246ddaa305b4c1c2ce46a0bd43aaed12faf8d9e1387996af04d38ea5e657"
+    },
+    "generator": {
+      "path": "assets/navigation/navigation-stepped-field-survey-station-scene-01/v1.0.0/generate.py",
+      "size": 112303,
+      "sha256": "eb94df3d217ab1cbdd5881f3eda3048e0b2139d046fd66735cd50180ac448f0a"
+    },
+    "render": {
+      "path": "assets/navigation/navigation-stepped-field-survey-station-scene-01/v1.0.0/thumbnail.png",
+      "size": 509757,
+      "sha256": "aa913c78d65bdf9bc4b5b73ed3cd5a2bb56cb0ca2e939e62e5ba98296acc09cd"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

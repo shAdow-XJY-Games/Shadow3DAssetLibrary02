@@ -1,0 +1,42 @@
+{
+  "id": "construction-fixed-masonry-mixing-preparation-bay-scene-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "construction",
+  "style": "S01-clean-geometric",
+  "title": "Masonry Mixing and Tool Preparation Bay",
+  "description": "One static masonry mixing and tool-preparation bay under the original construction scene program. Four whole published props remain at original unit scale in their fixed poses: the complete open up-tilted drum mixer, one open wheelbarrow waiting in front, the original general-purpose work cabinet laterally separated from the mixer and the complete notched plastering trowel resting on its countertop. A single grounded scene-only pad joins these preparation positions. This is not the earlier scaffold-and-barrow worksite, wall-shoring repair scene or sheet-stock material store. The up-tilted mouth is unchanged and is not claimed to discharge into the barrow; the barrow is waiting outside the complete mixer bounds. The full cabinet is an openly identified reused kitchen work cabinet serving as a static tool-rest, not a newly designed construction tool cabinet. Its current closed-door pose and every original mesh/world triangle are retained, with original internal transforms baked into this scene static editable geometry; original interactive hinge behavior is not retained or claimed. All original face materials and unit-scale triangles remain. Actual68meshes4688tri15opaquePBR. One scene, zero new standalone models. No masonry wall, moving drum, pouring path, mortar performance, electrical action, door motion, human reach, construction procedure, load rating or safe-work certification. Preview ground is not exported.",
+  "bounds": {
+    "x": 4.6,
+    "y": 3.8,
+    "z": 1.8513529634475707,
+    "unit": "m"
+  },
+  "triangles": 4688,
+  "materials": 15,
+  "files": {
+    "glb": {
+      "path": "assets/construction/construction-fixed-masonry-mixing-preparation-bay-scene-01/v1.0.0/model.glb",
+      "size": 280664,
+      "sha256": "dbcdf7c143c1d59912d0a67f28549bafd6b1f0b6d352ca0866ccc0c6e33dafc1"
+    },
+    "blend": {
+      "path": "assets/construction/construction-fixed-masonry-mixing-preparation-bay-scene-01/v1.0.0/source.blend",
+      "size": 1381560,
+      "sha256": "9dff74b59e4a601ccad0c4457dabe9188a8e421df11476410a6c152063331281"
+    },
+    "generator": {
+      "path": "assets/construction/construction-fixed-masonry-mixing-preparation-bay-scene-01/v1.0.0/generate.py",
+      "size": 222039,
+      "sha256": "15978dd94ef9af270ca5e5c92af17f055d81302d44cfe17c4289fb3e64c32066"
+    },
+    "render": {
+      "path": "assets/construction/construction-fixed-masonry-mixing-preparation-bay-scene-01/v1.0.0/thumbnail.png",
+      "size": 404547,
+      "sha256": "719efed63a69dd84e74aae795ee660d12ba85a44025d428c35b3ba712444b00e"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
