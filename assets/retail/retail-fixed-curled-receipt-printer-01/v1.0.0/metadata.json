@@ -1,0 +1,42 @@
+{
+  "id": "retail-fixed-curled-receipt-printer-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "retail",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Curled Receipt Printer",
+  "description": "One original compact static thermal-receipt-printer visual prop: integral sloped housing with a true narrow output slot and inner chamber, one thickened curled blank receipt sheet rising through that slot, and one seated feed button. The paper has its full lower edge seated on the chamber floor. The slot is partially occupied by paper, not an entirely empty opening. Three editable closed meshes, three opaque untextured materials. No lettering, motor, wiring, spool, working printing or conveyance mechanism is claimed. Metres, Z up, front -Y, horizontal-bounds-centred grounded origin. Geometry is visual only, not manufacturing or electrical safety validation.",
+  "bounds": {
+    "x": 0.15000000596046448,
+    "y": 0.25544989109039307,
+    "z": 0.17561884224414825,
+    "unit": "m"
+  },
+  "triangles": 412,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/retail/retail-fixed-curled-receipt-printer-01/v1.0.0/model.glb",
+      "size": 15188,
+      "sha256": "384e821d6713bf8232cfc7cbb463e69362b8890e3bf177070f6418e94e8eda57"
+    },
+    "blend": {
+      "path": "assets/retail/retail-fixed-curled-receipt-printer-01/v1.0.0/source.blend",
+      "size": 529408,
+      "sha256": "3a6998edea8f3cddbbb4620408626098b3816cb410af8a8eab9f8d5949221114"
+    },
+    "generator": {
+      "path": "assets/retail/retail-fixed-curled-receipt-printer-01/v1.0.0/generate.py",
+      "size": 18755,
+      "sha256": "bfd79650ca942719484aeec835877cec038edab243a0dcde8b52c3cab45b09a1"
+    },
+    "render": {
+      "path": "assets/retail/retail-fixed-curled-receipt-printer-01/v1.0.0/thumbnail.png",
+      "size": 497764,
+      "sha256": "8a472ce1be41da707b57517853b9e42e66762842ee9da36497bc2e747bbbb5fa"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
