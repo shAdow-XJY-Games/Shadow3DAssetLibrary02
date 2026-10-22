@@ -1,0 +1,42 @@
+{
+  "id": "farming-rag-coat-stake-scarecrow-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "farming",
+  "style": "warm-handcrafted-village",
+  "title": "Rag-Coat Stake Scarecrow",
+  "description": "One newly authored whole static field-scarecrow appearance: a ground stake and crossarm support an asymmetric thick rag-coat body with two drooping sleeves and genuinely jagged hem outline, two unequal hanging trouser legs, two jagged bundled-straw hand silhouettes, an anonymous sack head and a broad-brim peaked straw-hat form. Nine closed editable meshes, five opaque constant matte PBR roles. No old laundry shirt or beekeeping hat geometry is imported or extracted: all numerical body, clothes, straw and hat outlines are newly authored as one farm field fixture. Clothes and hat are closed solid game-art volumes, not hollow wearable tailoring; small fixed overlaps are explicit. Metres, Z up, whole horizontal bounds centre, stake sole at Z0. Inanimate stylised prop only, no identity of a person, rig, wind/cloth simulation, actual pest-deterrence, real installation, stability, weatherproofing or safety claim.",
+  "bounds": {
+    "x": 1.539999962,
+    "y": 0.379999995,
+    "z": 1.590000033,
+    "unit": "m"
+  },
+  "triangles": 576,
+  "materials": 5,
+  "files": {
+    "glb": {
+      "path": "assets/farming/farming-rag-coat-stake-scarecrow-01/v1.0.0/model.glb",
+      "size": 37320,
+      "sha256": "60cfd9a795f2cd6c84a0dde173ec127dc2b04f068c15883efef8bdd0dfcb45cc"
+    },
+    "blend": {
+      "path": "assets/farming/farming-rag-coat-stake-scarecrow-01/v1.0.0/source.blend",
+      "size": 605804,
+      "sha256": "e842d7b0612df7c2e522042e20e303f7fce2fcf555f49d8bbeaec7c63b4853ab"
+    },
+    "generator": {
+      "path": "assets/farming/farming-rag-coat-stake-scarecrow-01/v1.0.0/generate.py",
+      "size": 28313,
+      "sha256": "1e2365d2c5207d927056433be07034d738b1ff763486e16b242238443078d976"
+    },
+    "render": {
+      "path": "assets/farming/farming-rag-coat-stake-scarecrow-01/v1.0.0/thumbnail.png",
+      "size": 492051,
+      "sha256": "a7af903c45508c74f981261a2ece4903109952a083890411fb97c8da1e3de44d"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "festival-seven-tine-hollow-body-kalimba-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "festival",
+  "style": "warm-handcrafted-village",
+  "title": "Seven-Tine Hollow-Body Kalimba",
+  "description": "One complete static seven-tine kalimba thumb-piano: a rectangular polygonal wooden soundbox with finite outer walls, full inner chamber and actual round polygonal soundhole; seven independent solid metal tines of unequal full lengths, one transverse saddle bridge and one fixed retaining bar. Ten editable closed meshes and three opaque solid PBR materials. The front soundhole remains unobstructed beyond the free key ends. This is not a pipe array, enclosed piano keyboard, string guitar or painted lines on a solid block. Metres, Z up, horizontal bounds centred, with the whole wooden bottom on Z0. Small fixed bar/tine overlaps are deliberate mounts. Static low-poly appearance only: no tuning, vibration, acoustic volume, key animation, manufacturing or playing safety certified.",
+  "bounds": {
+    "x": 0.079999998,
+    "y": 0.109999999,
+    "z": 0.030999999,
+    "unit": "m"
+  },
+  "triangles": 432,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/festival/festival-seven-tine-hollow-body-kalimba-01/v1.0.0/model.glb",
+      "size": 25780,
+      "sha256": "9af2afb54398782301c9b43620c6366ec3d866198b0af4281445af4d87ffc5a5"
+    },
+    "blend": {
+      "path": "assets/festival/festival-seven-tine-hollow-body-kalimba-01/v1.0.0/source.blend",
+      "size": 566276,
+      "sha256": "27ab6af13f240cdae8813dc1cc981b9de9f222f172498d31f22cb781034f6501"
+    },
+    "generator": {
+      "path": "assets/festival/festival-seven-tine-hollow-body-kalimba-01/v1.0.0/generate.py",
+      "size": 28257,
+      "sha256": "6697a82c36302f0855448af2b9603d9f9d6e8abd98da09dcbaae3a18aed5141d"
+    },
+    "render": {
+      "path": "assets/festival/festival-seven-tine-hollow-body-kalimba-01/v1.0.0/thumbnail.png",
+      "size": 530443,
+      "sha256": "16fc1599e4350950bbbcfb921c7abcf8a251f3611bfa90de1748d6866d04062a"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "village-flared-wing-culvert-headwall-01",
+  "version": "1.0.0",
+  "category": "architecture",
+  "assetKind": "modular",
+  "theme": "village",
+  "style": "S01-clean-geometric",
+  "title": "Flared Inlet Apron and Pierced Culvert Headwall",
+  "description": "One original static village drainage-interface visual module: a complete grounded rectangular apron receives two whole outward-flared side wings that rise toward a thick end headwall. The end wall has a genuine low full-depth rectangular culvert opening, while the widening inlet remains open above and at the front. Each wing meets the apron along its whole bottom and the headwall along a finite rear face; four separately editable closed meshes form one asset. The 0.34 by0.24m rear aperture is illustrative; no old road, culvert, drain, fence or receiver mesh is imported or modified, and no installation with old joined assets is claimed. This is a wide-open-mouth to covered-mouth transition, not the existing right-angle drop drain, a whole covered road culvert or an extracted terminal post. No water, road, grate, moving gate or hidden host. No hydraulic, retention, erosion, structural load, vehicle, engineering, construction, safety or module-fit performance is represented.",
+  "bounds": {
+    "x": 1.6,
+    "y": 1.2,
+    "z": 0.65,
+    "unit": "m"
+  },
+  "triangles": 72,
+  "materials": 2,
+  "files": {
+    "glb": {
+      "path": "assets/village/village-flared-wing-culvert-headwall-01/v1.0.0/model.glb",
+      "size": 6932,
+      "sha256": "431729875387f0f53892dd3bf4f87d7341ef170435fb8a5f0d37c315a5991018"
+    },
+    "blend": {
+      "path": "assets/village/village-flared-wing-culvert-headwall-01/v1.0.0/source.blend",
+      "size": 516124,
+      "sha256": "3d1be5f0687d3a8a4d9f51e51ca8d01e143ff63217496492d65a4ffb1bdabb03"
+    },
+    "generator": {
+      "path": "assets/village/village-flared-wing-culvert-headwall-01/v1.0.0/generate.py",
+      "size": 8952,
+      "sha256": "dca91d2ebca9a349ac0880be1d842ac2c4424d3e825938f54b2004311fe43754"
+    },
+    "render": {
+      "path": "assets/village/village-flared-wing-culvert-headwall-01/v1.0.0/thumbnail.png",
+      "size": 399279,
+      "sha256": "bc1fc18d2355c550931496d70bc776838d315212d3cbc9021a608d2a2b0b61fa"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

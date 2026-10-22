@@ -1,0 +1,42 @@
+{
+  "id": "retail-two-gondola-aisle-checkout-scene-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "retail",
+  "style": "original-source-mix",
+  "title": "Two-Gondola Aisle and Bagging Checkout Layout",
+  "description": "One original fixed convenience-store small scene, not a new set of constituent props. Two complete previously delivered double-sided gondolas flank a 1.44 m nominal central gap on one finite floor; a complete belt-and-bagging checkout is placed toward the front with the existing receipt printer seated on its full raised bridge and the existing paper bag seated in the real terminal well. The existing lattice shopping cart stands beside checkout. Original source geometry and opaque PBR signatures are preserved under exact quarter-turns and translations, with no scaled or recoloured child assets; a simple finite floor is added. Metres, Z up, front -Y and floor-bottom centred datum. Empty unstocked shelves and fixed empty cart; no people, roof, host walls, cash register, animation, functioning conveyor or checkout, verified pedestrian egress/accessibility, load or store-safety compliance. Actual reused props retain their declared limitations; the 80 mm belt-to-bridge gap remains real and is not described as continuous transfer.",
+  "bounds": {
+    "x": 5.599999904632568,
+    "y": 4.800000190734863,
+    "z": 1.809999942779541,
+    "unit": "m"
+  },
+  "triangles": 7908,
+  "materials": 14,
+  "files": {
+    "glb": {
+      "path": "assets/retail/retail-two-gondola-aisle-checkout-scene-01/v1.0.0/model.glb",
+      "size": 300012,
+      "sha256": "7138fa53c9a0c6828108e35974a2431b791f18bbabb75fc20de00bf0aa92f3b1"
+    },
+    "blend": {
+      "path": "assets/retail/retail-two-gondola-aisle-checkout-scene-01/v1.0.0/source.blend",
+      "size": 1497444,
+      "sha256": "f8461c7635a819e3f21a516c2b8a0ae85b89c1bb7fe382c223b676f2c575b2f2"
+    },
+    "generator": {
+      "path": "assets/retail/retail-two-gondola-aisle-checkout-scene-01/v1.0.0/generate.py",
+      "size": 97240,
+      "sha256": "c09ee35f52e72fc2508c504843a0ad770cee7c2acf7c02bbe260ef99fcf321e3"
+    },
+    "render": {
+      "path": "assets/retail/retail-two-gondola-aisle-checkout-scene-01/v1.0.0/thumbnail.png",
+      "size": 527017,
+      "sha256": "067e747c9c021c20dc274530ac42a0b0ce4c62d30b6eb43f26b2377f8fda5da8"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

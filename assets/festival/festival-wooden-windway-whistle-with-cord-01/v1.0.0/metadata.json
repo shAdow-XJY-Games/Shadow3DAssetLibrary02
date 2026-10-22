@@ -1,0 +1,42 @@
+{
+  "id": "festival-wooden-windway-whistle-with-cord-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "festival",
+  "style": "warm-handcrafted-village",
+  "title": "Wooden Windway Whistle with Cord",
+  "description": "One complete static wooden whistle: a small closed-walled wooden body with true narrow end windway, connected internal chamber, open top wind window, full sloping labium insert keyed into the roof, and a continuous cord loop through a real transverse rear bore. Three editable closed solids and two matte opaque PBR materials. Not the earlier slit percussion woodblock with a mallet: the mouth windway, bevel edge, short open window and rear lanyard are separately modelled complete features. Metres, Z up, horizontally centred and broad flat wooden sole at Z0. Small fixed interface insertions retain attachments. Static visual prop only; no measured pitch, airflow, acoustic effectiveness, manufacturing, cord motion or safety performance claimed.",
+  "bounds": {
+    "x": 0.115740001,
+    "y": 0.037459999,
+    "z": 0.022,
+    "unit": "m"
+  },
+  "triangles": 1016,
+  "materials": 2,
+  "files": {
+    "glb": {
+      "path": "assets/festival/festival-wooden-windway-whistle-with-cord-01/v1.0.0/model.glb",
+      "size": 32280,
+      "sha256": "eed9e5fc9ae79662518a93a6fd2cb62952d380d7494370905bc6458b6a3b9d5e"
+    },
+    "blend": {
+      "path": "assets/festival/festival-wooden-windway-whistle-with-cord-01/v1.0.0/source.blend",
+      "size": 539044,
+      "sha256": "3265291d70b9e23a12dc94619d38e87d79910bf5439964dabbb1891fbeb16fa2"
+    },
+    "generator": {
+      "path": "assets/festival/festival-wooden-windway-whistle-with-cord-01/v1.0.0/generate.py",
+      "size": 27762,
+      "sha256": "8376a1fdd9064c405d9539513e1f1fe51d9a151d8304d03fe17a7bd1d4876d51"
+    },
+    "render": {
+      "path": "assets/festival/festival-wooden-windway-whistle-with-cord-01/v1.0.0/thumbnail.png",
+      "size": 471642,
+      "sha256": "ebfa12abdedb53c7373564389bc8cedb0e8370bac53fc30ced9504fabfa51209"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

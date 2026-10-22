@@ -1,0 +1,42 @@
+{
+  "id": "ceramics-twin-track-clay-storage-chest-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "ceramics",
+  "style": "S01-clean-geometric",
+  "title": "Twin-Track Clay Storage Chest",
+  "description": "One original static empty clay-storage chest from the ceramics storage-box plan. A single thick deep rectangular shell has a complete bottom and unpartitioned open cavity. Two continuous side rails each contain two genuine full-length recessed channels; two separate thick cover panels sit at different fixed heights and overlap toward the rear, leaving a clear front access opening. Each cover has a true rectangular finger aperture. Five closed pieces, three constant opaque PBR materials, metres, Z up, front -Y, grounded centred origin. Newly authored shell, dual-channel cross-sections and pierced covers, not a resized round jar, six-compartment bait box, cushioned seatbox or low-front picking bin. No contents, hinge, animation, tested sliding travel, sealing, moisture retention, material suitability, capacity, load, manufacture or safety certification.",
+  "bounds": {
+    "x": 0.67,
+    "y": 0.86,
+    "z": 0.75,
+    "unit": "m"
+  },
+  "triangles": 180,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/ceramics/ceramics-twin-track-clay-storage-chest-01/v1.0.0/model.glb",
+      "size": 11520,
+      "sha256": "b9089199e2fa0d0436f0139d1f703dc62e4294389e0210945620dd872695bf74"
+    },
+    "blend": {
+      "path": "assets/ceramics/ceramics-twin-track-clay-storage-chest-01/v1.0.0/source.blend",
+      "size": 549752,
+      "sha256": "58cb24f722eb64616053dcb146487826f9d3c4ff59d28d10a50a10ba6376a6dd"
+    },
+    "generator": {
+      "path": "assets/ceramics/ceramics-twin-track-clay-storage-chest-01/v1.0.0/generate.py",
+      "size": 8342,
+      "sha256": "57c1c270f03d335e5ec846ea3a6ba856d8282951e4d7d799794be7817cb7617f"
+    },
+    "render": {
+      "path": "assets/ceramics/ceramics-twin-track-clay-storage-chest-01/v1.0.0/thumbnail.png",
+      "size": 506014,
+      "sha256": "f50dd5487704c13e3f34e1daa26d4a71dd73be10955c58bd6f0fdd79de1cc4a5"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
