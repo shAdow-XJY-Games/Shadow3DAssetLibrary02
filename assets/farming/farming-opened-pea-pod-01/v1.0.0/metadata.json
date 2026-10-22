@@ -1,0 +1,42 @@
+{
+  "id": "farming-opened-pea-pod-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "farming",
+  "style": "warm-handcrafted-village",
+  "title": "Opened Pea Pod",
+  "description": "One newly authored static low-poly opened pea-pod appearance: a long tapered lower hollow valve with a flattened outer back, a second complete valve curled back along the long curved seam, a continuous seam rib and four separate full peas seated inside. Pale inner valve material is actual mesh surface, not a texture. Seven closed editable meshes and four opaque constant PBR materials. New whole geometry, not stretched prior castanet shells or extracted germinating-seed parts. Metres, Z up, whole horizontal bounds-centred. Mature fruit appearance only, not animation, growth simulation, exact cultivar, food or cultivation guidance.",
+  "bounds": {
+    "x": 0.083999999,
+    "y": 0.0264352,
+    "z": 0.027984442,
+    "unit": "m"
+  },
+  "triangles": 1060,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/farming/farming-opened-pea-pod-01/v1.0.0/model.glb",
+      "size": 63320,
+      "sha256": "efa263b16fbeadf4b3d4c09002626e1bab28e9714e4ca97e82078469d73dbb79"
+    },
+    "blend": {
+      "path": "assets/farming/farming-opened-pea-pod-01/v1.0.0/source.blend",
+      "size": 589004,
+      "sha256": "f64e6248cb648fdbb4fe804296110c3d0ea4af6bcd39776738f2596ce9d22cdd"
+    },
+    "generator": {
+      "path": "assets/farming/farming-opened-pea-pod-01/v1.0.0/generate.py",
+      "size": 26939,
+      "sha256": "8f81e9c915c32d765f4baab2b0ca60d50c95b59e6485bc9b51dd0406a1c0166f"
+    },
+    "render": {
+      "path": "assets/farming/farming-opened-pea-pod-01/v1.0.0/thumbnail.png",
+      "size": 495100,
+      "sha256": "23640e8a95aef9e2eac5f4da3c2d55c7c714e17bdef6fa108e5aaa686bb6afae"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

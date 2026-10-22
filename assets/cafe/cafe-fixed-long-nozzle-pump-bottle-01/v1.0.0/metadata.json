@@ -1,0 +1,42 @@
+{
+  "id": "cafe-fixed-long-nozzle-pump-bottle-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "cafe",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Long Nozzle Pump Bottle",
+  "description": "One complete static countertop pump bottle for a cafe service setting. A faceted opaque bottle exterior narrows into a neck; a separate cap roof sits on that neck, a fixed slim shaft passes through its central opening, and an integral broad press pad feeds a long forward nozzle with a real open downturned tip. Four closed editable meshes and three opaque untextured PBR materials. The bottle is a solid exterior representation, not a fluid container simulation. No liquid, syrup contents, intake tube, spring, pumping, dosage, food-contact fitness, threading, manufacture or safe use is claimed. Metres, Z up, front -Y, horizontal-bounds-centred grounded origin. Newly authored complete arrangement, not a scaled well hand pump, token dispenser, tape reel or extracted scene component.",
+  "bounds": {
+    "x": 0.06940113753080368,
+    "y": 0.09270057082176208,
+    "z": 0.2150000035762787,
+    "unit": "m"
+  },
+  "triangles": 1004,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/cafe/cafe-fixed-long-nozzle-pump-bottle-01/v1.0.0/model.glb",
+      "size": 37524,
+      "sha256": "f8b574fd211a9324a6fca37375314d27b43d4559985b25d76c3f4832621c1dd6"
+    },
+    "blend": {
+      "path": "assets/cafe/cafe-fixed-long-nozzle-pump-bottle-01/v1.0.0/source.blend",
+      "size": 566444,
+      "sha256": "8b0c507c95993cac181900b9ec54f44b00413d7112ffba4b65efb7e7de2f0f5e"
+    },
+    "generator": {
+      "path": "assets/cafe/cafe-fixed-long-nozzle-pump-bottle-01/v1.0.0/generate.py",
+      "size": 18710,
+      "sha256": "b4b712d5e5d22f33940c18d60c9350b8181262ab2f8a1221adbeb600da9881c8"
+    },
+    "render": {
+      "path": "assets/cafe/cafe-fixed-long-nozzle-pump-bottle-01/v1.0.0/thumbnail.png",
+      "size": 487319,
+      "sha256": "4648171eeaf126bbe9b83a894f51e4f9fe5f8a482c4a6104e5cb709aa9c9427a"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

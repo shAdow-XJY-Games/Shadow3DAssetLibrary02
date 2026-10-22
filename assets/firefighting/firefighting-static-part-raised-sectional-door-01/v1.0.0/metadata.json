@@ -1,0 +1,42 @@
+{
+  "id": "firefighting-static-part-raised-sectional-door-01",
+  "version": "1.0.0",
+  "category": "modular",
+  "assetKind": "modular",
+  "theme": "firefighting",
+  "style": "S01-clean-geometric",
+  "title": "Static Part-Raised Sectional Overhead Door",
+  "description": "Original independent static fire-station doorway module: two whole inward-open C-section guide tracks bend through a quarter turn into overhead returns, carrying ten separate thick door sections and their visible fixed side rollers in one partly raised pose. Grounded jambs, a front header, track brackets and rear cross tie complete the displayed frame; a real lower passage is left open. No host building or roof is included. This is not a translated single sluice plate or hinged gate. No door motion, rigging, exact roller contact, continuous clearance, mounting compatibility, weather seal, fire resistance, human access, load or safety certification is claimed.",
+  "bounds": {
+    "x": 3.7600000000000002,
+    "y": 2.08,
+    "z": 3.6,
+    "unit": "m"
+  },
+  "triangles": 3400,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/firefighting/firefighting-static-part-raised-sectional-door-01/v1.0.0/model.glb",
+      "size": 180472,
+      "sha256": "9025bd681837027f0b4b45d27f32b247f4befd93d0ebb72ebf2d3ab498f66825"
+    },
+    "blend": {
+      "path": "assets/firefighting/firefighting-static-part-raised-sectional-door-01/v1.0.0/source.blend",
+      "size": 1020460,
+      "sha256": "c1c4f040aa0990dfa71d4ad6c3ef9aeb4813d06598e61f103a5f04cf9a034f44"
+    },
+    "generator": {
+      "path": "assets/firefighting/firefighting-static-part-raised-sectional-door-01/v1.0.0/generate.py",
+      "size": 10340,
+      "sha256": "dc291f7385dfc7fe035ff5d8dd2a569760794f7ef78a509d7532e719ef861029"
+    },
+    "render": {
+      "path": "assets/firefighting/firefighting-static-part-raised-sectional-door-01/v1.0.0/thumbnail.png",
+      "size": 571854,
+      "sha256": "9356ae3a51520c67930f524d46d97af1a5a7bd30c762018ada44f5848b619c94"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

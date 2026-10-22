@@ -1,0 +1,42 @@
+{
+  "id": "farming-papery-neck-garlic-bulb-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "farming",
+  "style": "warm-handcrafted-village",
+  "title": "Papery-neck Garlic Bulb",
+  "description": "One newly authored static low-poly garlic-bulb appearance: seven uneven tapered and curved full clove volumes around a continuous narrowed papery neck and a natural cut basal root disc. Every clove is a full solid volume, not a groove painted on a recolored pumpkin. Nine editable closed meshes and three opaque matte PBR materials. Metres, Z up, true whole horizontal bounds centre and basal disc at Z0. Static crop appearance only, not a biological growth simulation, exact cultivar or food/cultivation advice.",
+  "bounds": {
+    "x": 0.067430057,
+    "y": 0.069632471,
+    "z": 0.112000003,
+    "unit": "m"
+  },
+  "triangles": 1188,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/farming/farming-papery-neck-garlic-bulb-01/v1.0.0/model.glb",
+      "size": 69144,
+      "sha256": "66b463ab844288d58f12b2b98980451618232ae1de6ddcd73e2d78ade4c43f38"
+    },
+    "blend": {
+      "path": "assets/farming/farming-papery-neck-garlic-bulb-01/v1.0.0/source.blend",
+      "size": 578272,
+      "sha256": "db2d44639d7c631e92f0630d7b32a400b831379d311eaa6e16b3eb6f7d4f0bff"
+    },
+    "generator": {
+      "path": "assets/farming/farming-papery-neck-garlic-bulb-01/v1.0.0/generate.py",
+      "size": 25921,
+      "sha256": "e21462be51105f711d5eeb510794958c1e1fd59eac04c83b6362355a38355613"
+    },
+    "render": {
+      "path": "assets/farming/farming-papery-neck-garlic-bulb-01/v1.0.0/thumbnail.png",
+      "size": 495699,
+      "sha256": "4c6e074e836edfc87899bb42d93fe66ed979f0edfe691f751057902cbde3c46a"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
