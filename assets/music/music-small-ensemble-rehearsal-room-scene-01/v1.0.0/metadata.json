@@ -1,0 +1,42 @@
+{
+  "id": "music-small-ensemble-rehearsal-room-scene-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "music",
+  "style": "source-preserved-S01-and-soft-low-poly",
+  "title": "Small Ensemble Rehearsal Room",
+  "description": "One static indoor ensemble rehearsal-room composition; five full unit-scale unchanged published instruments/furniture, no new instrument models. Scene-only floor plus two low cutaway walls. Separate piano/bench, percussion and guitar/score stations face into an open shared central practice area; a wide front entry remains open. No stage, audience row, offstage screen/cart or performance amplification. Not acoustics, ergonomics, accessibility, navigation, electrical, structural or safety certification. Complete original mesh hierarchy, oriented triangles and solid PBR are preserved. One scene preset and zero new independent reusable models.",
+  "bounds": {
+    "x": 6.0,
+    "y": 5.0,
+    "z": 1.7,
+    "unit": "m"
+  },
+  "triangles": 11916,
+  "materials": 25,
+  "files": {
+    "glb": {
+      "path": "assets/music/music-small-ensemble-rehearsal-room-scene-01/v1.0.0/model.glb",
+      "size": 802692,
+      "sha256": "52f49ffd974e7718d9d0f48afbc821ff2e7dd794351b416a1496c744dacdf99a"
+    },
+    "blend": {
+      "path": "assets/music/music-small-ensemble-rehearsal-room-scene-01/v1.0.0/source.blend",
+      "size": 3303500,
+      "sha256": "6e707cf03fdc480181899f6beed958f5a050c0b29d4738934c30d43615de81a0"
+    },
+    "generator": {
+      "path": "assets/music/music-small-ensemble-rehearsal-room-scene-01/v1.0.0/generate.py",
+      "size": 212239,
+      "sha256": "1a12460dedc0285060c58292da807b352b381a36829afbaeda9c10e7f28deda2"
+    },
+    "render": {
+      "path": "assets/music/music-small-ensemble-rehearsal-room-scene-01/v1.0.0/thumbnail.png",
+      "size": 537717,
+      "sha256": "79cf77a59f9f9d2f8bf544ebc2a04e3685d874d43f1e102f32ac0e37bbde2305"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

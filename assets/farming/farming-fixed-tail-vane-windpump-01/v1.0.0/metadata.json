@@ -1,0 +1,42 @@
+{
+  "id": "farming-fixed-tail-vane-windpump-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "farming",
+  "style": "warm-handcrafted-village",
+  "title": "Fixed Tail-Vane Farm Windpump",
+  "description": "One newly authored whole static farm windpump appearance: a four-foot tapered open square braced tower supports a small fixed gearbox, a broad wheel of pitched sheet-like fan vanes on two genuine annular rings and four short inner spokes, a rear projecting tail vane, and a long central connection rod down to a grounded pump-body exterior with one genuinely open finite bent outlet. This is a complete new windpump silhouette and construction, not the old three-blade electric turbine with merely more blades or a copied communications tower. No prior visible mesh is imported or extracted. Closed editable meshes and four opaque constant matte PBR roles. Small embedded junctions fix the display. Metres, Z up, true whole horizontal bounds centre and actual finite ground feet. Static game-art only: no rotation/animation, yaw bearing, gears, crank linkage, fluid path through the housing, wind or water simulation, pumping output, electrical generation, installation, structural stability or engineering/safety certification.",
+  "bounds": {
+    "x": 1.536701441,
+    "y": 1.651326299,
+    "z": 3.48835063,
+    "unit": "m"
+  },
+  "triangles": 1564,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/farming/farming-fixed-tail-vane-windpump-01/v1.0.0/model.glb",
+      "size": 111776,
+      "sha256": "d1343e3fe4bfbc55ab1a55a5b133c77274623554e7e7f2bdcf423401441a8891"
+    },
+    "blend": {
+      "path": "assets/farming/farming-fixed-tail-vane-windpump-01/v1.0.0/source.blend",
+      "size": 848180,
+      "sha256": "ebbd3955fd4d77251cf0f4ac173a22579bc3aa643b354dfb799150705aea23f3"
+    },
+    "generator": {
+      "path": "assets/farming/farming-fixed-tail-vane-windpump-01/v1.0.0/generate.py",
+      "size": 30895,
+      "sha256": "4088aa54c5d92877e10c55c371a93571713e778b3ec5af1d69bc26e4a9d3ff02"
+    },
+    "render": {
+      "path": "assets/farming/farming-fixed-tail-vane-windpump-01/v1.0.0/thumbnail.png",
+      "size": 505509,
+      "sha256": "a1545c02cd251a43b3487900a4012e0d28b9a93d625b69e790f3c5103b640d9e"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
