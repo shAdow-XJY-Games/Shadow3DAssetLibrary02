@@ -1,0 +1,42 @@
+{
+  "id": "ceramics-trimming-preparation-station-scene-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "ceramics",
+  "style": "source-preserved-low-poly",
+  "title": "Pottery Trimming Preparation Station",
+  "description": "One static trimming-preparation scene from the original ceramics scene program. A complete original pottery turntable bench carries a complete upright untrimmed thick-foot clay blank; the complete three-tool trimming kit rests on the existing right-front tabletop, partly under the plate overhang without intersecting the plate or axle. Whole original local POSITION/NORMAL payloads, PBR materials and internal hierarchies are unchanged; only whole-instance translations and one scene-only closed base are new. One scene, zero new independent models. This is an upright work-in-preparation arrangement, not active base trimming, inverted chuck mounting, wheel motion, cutting, clay suitability, equipment compatibility, load, access or safety certification.",
+  "bounds": {
+    "x": 1.600000023841858,
+    "y": 1.2999999523162842,
+    "z": 1.2924636602401733,
+    "unit": "m"
+  },
+  "triangles": 3836,
+  "materials": 12,
+  "files": {
+    "glb": {
+      "path": "assets/ceramics/ceramics-trimming-preparation-station-scene-01/v1.0.0/model.glb",
+      "size": 235248,
+      "sha256": "9b8e1f609106a4cf9d90fab0408dc51d705c67ae8c5cfffec4b2177718e01231"
+    },
+    "blend": {
+      "path": "assets/ceramics/ceramics-trimming-preparation-station-scene-01/v1.0.0/source.blend",
+      "size": 181261,
+      "sha256": "deb122d47a3972bce5e4dc4a96b7352f071d2556fe0a6c14e843af0ec382f203"
+    },
+    "generator": {
+      "path": "assets/ceramics/ceramics-trimming-preparation-station-scene-01/v1.0.0/generate.py",
+      "size": 91355,
+      "sha256": "acb23a7d90e73b0873d4ca6a390e40c5b3a6c9108bdd350aa8d0922e7f1e6929"
+    },
+    "render": {
+      "path": "assets/ceramics/ceramics-trimming-preparation-station-scene-01/v1.0.0/thumbnail.png",
+      "size": 530215,
+      "sha256": "1f4b1dd062867f1a68bbc03cc999ae40d90cc39a7dc8fe36f7e877fcef039125"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "classical-four-way-groin-vault-bay-01",
+  "version": "1.0.0",
+  "category": "architecture",
+  "assetKind": "modular",
+  "theme": "classical",
+  "style": "S01-clean-geometric",
+  "title": "Four-Way Groin Vault Bay",
+  "description": "One original complete static classical four-way groin-vault bay. Two perpendicular faceted cylindrical vault directions meet along four diagonal groins in one continuous thick roof, with four integral solid corner piers and four fully open sides leading into a shared central space. The whole roof and four broad ground soles belong to one closed connected editable mesh, not two overlapping old arch meshes, an oven with its rear removed, a straight corridor or a reskinned room. No floor, hidden crossing partition, detached capital, old asset mesh, rubble, texture or animation. Geometry is an illustrative static game module only: no structural thrust, load bearing, engineering, historical reconstruction, building-code, navigation, accessibility, installation, modular-host fit or safety certification.",
+  "bounds": {
+    "x": 2.8,
+    "y": 2.8,
+    "z": 2.68,
+    "unit": "m"
+  },
+  "triangles": 992,
+  "materials": 1,
+  "files": {
+    "glb": {
+      "path": "assets/classical/classical-four-way-groin-vault-bay-01/v1.0.0/model.glb",
+      "size": 34936,
+      "sha256": "d9ebd99379e9e1f923a8ee8a67806eee596ec1ae07ba81bcff34e499963324b6"
+    },
+    "blend": {
+      "path": "assets/classical/classical-four-way-groin-vault-bay-01/v1.0.0/source.blend",
+      "size": 528808,
+      "sha256": "730d2f0e112e2430ba330c61abd0a3ed3ebef865ae110d151425f05bcda0578b"
+    },
+    "generator": {
+      "path": "assets/classical/classical-four-way-groin-vault-bay-01/v1.0.0/generate.py",
+      "size": 6999,
+      "sha256": "99244c9a1188c00e010ceb712f723093a96d6840a4c31470f53b75440f4044dd"
+    },
+    "render": {
+      "path": "assets/classical/classical-four-way-groin-vault-bay-01/v1.0.0/thumbnail.png",
+      "size": 400792,
+      "sha256": "f4207b23ea4deeb506a91d1627a6b91a618124344343d16448261cd98a5787d5"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

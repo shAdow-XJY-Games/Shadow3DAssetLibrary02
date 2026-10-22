@@ -1,0 +1,42 @@
+{
+  "id": "farming-empty-v-rack-hay-manger-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "farming",
+  "style": "warm-handcrafted-village",
+  "title": "Empty V-Rack Hay Manger",
+  "description": "One newly authored whole static pasture feeding fixture: an empty inward-descending V-shaped slatted hay rack with two complete tapered end boards, four longitudinal rails and ten complete sloped slats, above a separate real hollow catch trough, all joined to four ground posts. Twenty-one closed editable meshes and three opaque timber PBR roles. Distinct from a plain stone water trough, the outward-sheet A-frame storage rack, cylindrical fishing feeder cage or two-notched-end uncapping basin. No old model is imported, resized or extracted. Metres, Z up, actual whole horizontal bounds-centred ground origin. Small hidden fixed overlaps support the display. No hay or animals added to hide construction, no animation, animal-fit/entrapment/feed-safety, husbandry, nutrition or engineering-performance guarantee; static game-art appearance only.",
+  "bounds": {
+    "x": 1.559999943,
+    "y": 0.870000005,
+    "z": 1.179999948,
+    "unit": "m"
+  },
+  "triangles": 268,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/farming/farming-empty-v-rack-hay-manger-01/v1.0.0/model.glb",
+      "size": 29172,
+      "sha256": "c5b9f6bc8e1c4a1050337c79c3a3455c7bd0f881592129544369a387cc1b2322"
+    },
+    "blend": {
+      "path": "assets/farming/farming-empty-v-rack-hay-manger-01/v1.0.0/source.blend",
+      "size": 608000,
+      "sha256": "87f357f519b460e44b0fef762779ffc7343aacd3decf9d032a90c796ab139aa6"
+    },
+    "generator": {
+      "path": "assets/farming/farming-empty-v-rack-hay-manger-01/v1.0.0/generate.py",
+      "size": 27076,
+      "sha256": "d6d725712c8a0fb531590ab637ef1f377bf0c99dd9642987f5f76099bb643161"
+    },
+    "render": {
+      "path": "assets/farming/farming-empty-v-rack-hay-manger-01/v1.0.0/thumbnail.png",
+      "size": 595056,
+      "sha256": "a633a894114979dbd97768658c967bd1830530f4a9b8216d6b2d6219fbb15449"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

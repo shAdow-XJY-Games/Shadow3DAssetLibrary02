@@ -1,0 +1,42 @@
+{
+  "id": "festival-two-cup-string-telephone-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "festival",
+  "style": "warm-handcrafted-village",
+  "title": "Two-Cup String Telephone",
+  "description": "One complete static two-cup string telephone toy: two opposed open tapered paper cups with finite solid bottoms, pale inner walls and open annular mouth rims, joined through their bottom centres by one continuous thin fixed cord. Three editable closed solids and four opaque matte solid PBR materials. Each cup rests on a finite faceted mouth-lip patch; its bottom faces inward toward the other cup. No handset, dial, bell or electronic speaker, and no ball concealed in a cup. Metres, Z up, horizontally centred and floor at Z0. A stylized whole connected toy rather than a scene of loose separate cups. Static appearance only: no acoustic transmission, tension/gravity simulation, beverage use, waterproofing or safety claim.",
+  "bounds": {
+    "x": 0.289999992,
+    "y": 0.052962001,
+    "z": 0.052962001,
+    "unit": "m"
+  },
+  "triangles": 544,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/festival/festival-two-cup-string-telephone-01/v1.0.0/model.glb",
+      "size": 33032,
+      "sha256": "6ff37b2b9ae17a0a84376d72ffe258764de51e3e44f60eda4fcddaa6d742a284"
+    },
+    "blend": {
+      "path": "assets/festival/festival-two-cup-string-telephone-01/v1.0.0/source.blend",
+      "size": 560076,
+      "sha256": "c24ac14266df930b01083eb2f67c2bf9f4c9a89868c6b8d85d9ffda0f9e5bb70"
+    },
+    "generator": {
+      "path": "assets/festival/festival-two-cup-string-telephone-01/v1.0.0/generate.py",
+      "size": 26494,
+      "sha256": "7e64c94ae4ed1a572d667fc3ea96c91d4647db37044409eabe7ef977d6cf65be"
+    },
+    "render": {
+      "path": "assets/festival/festival-two-cup-string-telephone-01/v1.0.0/thumbnail.png",
+      "size": 465074,
+      "sha256": "3097d474200cb6add0c8610cb3a690728d64d2055e94bbd110661f5a9b7fb9e2"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "festival-open-folded-paper-boat-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "festival",
+  "style": "warm-handcrafted-village",
+  "title": "Open Folded-Paper Boat",
+  "description": "One complete static folded-paper boat toy: a finite-thickness pointed diamond-plan hull with true open interior, raised bow and stern, pale inner floor and walls, plus one high central triangular paper fold connected at the keel floor. Two editable closed paper solids and two opaque matte solid PBR faces. The central triangle is a folded paper ridge, not a separate mast or fabric sail; the two side pockets remain actually open. Not a miniature wooden dragonboat or a solid blue boat-shaped block. Metres, Z up, front -Y, horizontal bounds centred and a real finite flat diamond underside at Z0. One whole paper toy. Stylized static fold representation only, not a mathematically unfoldable single-sheet construction or a claim of buoyancy, sailing, waterproofing, animation, manufacturing or safety.",
+  "bounds": {
+    "x": 0.180000007,
+    "y": 0.075999998,
+    "z": 0.07,
+    "unit": "m"
+  },
+  "triangles": 36,
+  "materials": 2,
+  "files": {
+    "glb": {
+      "path": "assets/festival/festival-open-folded-paper-boat-01/v1.0.0/model.glb",
+      "size": 6616,
+      "sha256": "bca8d2cce08a2efdccf61548acb57359b5be9ce1ce255af3a747a2a5726c16f9"
+    },
+    "blend": {
+      "path": "assets/festival/festival-open-folded-paper-boat-01/v1.0.0/source.blend",
+      "size": 481100,
+      "sha256": "8ce6f81c06c03d201ee7a765dd4dbc2638b197ea861f23a976af2d648a0e4786"
+    },
+    "generator": {
+      "path": "assets/festival/festival-open-folded-paper-boat-01/v1.0.0/generate.py",
+      "size": 26076,
+      "sha256": "e3b8679b8d7a8e900ba36dc7bd5e4126fd82c99d0ff46317993bc93ea6438e65"
+    },
+    "render": {
+      "path": "assets/festival/festival-open-folded-paper-boat-01/v1.0.0/thumbnail.png",
+      "size": 481000,
+      "sha256": "77bd6a64505ee175aec1fc91edaea325134725dbf2d9f9d673e09d82f7721ee7"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
