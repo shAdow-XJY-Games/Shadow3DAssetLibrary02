@@ -1,0 +1,42 @@
+{
+  "id": "communications-bench-and-equipment-service-bay-scene-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "communications",
+  "style": "S01-clean-geometric",
+  "title": "Communications Bench and Equipment Service Bay",
+  "description": "One static communications maintenance-preparation desk scene from the original communications repair-desk direction. Five whole published props at original unit scale: an open four-leg worktable, its complete desktop transceiver including handmic and coiled lead, a separate empty handheld cradle on the tabletop, an entire empty two-collar mast service stand on the left ground and the whole recessed-port cable reel on the right ground. The radio and cradle have full original feet resting on the actual table surface; the ground equipment remains laterally separated from the table, and a continuous open front approach remains across a single scene-only4.6x2.8x.12m pad. This is not the earlier dish/cabinet/portable-radio communications station or the saw-on-two-sawhorses carpentry corner. No old components are extracted or resized. All original world triangles and per-face opaque PBR remain, original static transforms baked into scene mesh coordinates.60closedmeshes13970tri21PBR. One scene, zero new standalone models. The cradle and mast collars stay empty; no fake handset, cable connection, power circuit or mast insertion is invented. This is a static equipment preparation arrangement, not a demonstrated repair, RF link, charge operation, working electronics, human reach, installation, load or safety certification. Preview ground excluded.",
+  "bounds": {
+    "x": 4.6,
+    "y": 2.8,
+    "z": 1.4099999618530275,
+    "unit": "m"
+  },
+  "triangles": 13970,
+  "materials": 21,
+  "files": {
+    "glb": {
+      "path": "assets/communications/communications-bench-and-equipment-service-bay-scene-01/v1.0.0/model.glb",
+      "size": 820492,
+      "sha256": "afcb79f10f97fea09132b0a944439ba6608307e4d7b94304867dba0d902cbe31"
+    },
+    "blend": {
+      "path": "assets/communications/communications-bench-and-equipment-service-bay-scene-01/v1.0.0/source.blend",
+      "size": 1990368,
+      "sha256": "ec44ac12c2a94efc9aa6430c1d94c8413656e9d375c3212d4329366c1ce4d808"
+    },
+    "generator": {
+      "path": "assets/communications/communications-bench-and-equipment-service-bay-scene-01/v1.0.0/generate.py",
+      "size": 282169,
+      "sha256": "649397d1ba4bf303dc5b0d85ca1c85485cd6aeecfa7b16b9ee5d90ed10e8c19f"
+    },
+    "render": {
+      "path": "assets/communications/communications-bench-and-equipment-service-bay-scene-01/v1.0.0/thumbnail.png",
+      "size": 383964,
+      "sha256": "e1c4edfabe1695dfc4c92e3bebe76c35e1cfb499f6447750c689337c5c7cb170"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

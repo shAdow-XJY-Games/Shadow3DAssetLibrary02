@@ -1,0 +1,42 @@
+{
+  "id": "fishing-raised-riverbank-gear-station-scene-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "fishing",
+  "style": "source-preserved-S01-and-soft-low-poly",
+  "title": "Raised Riverbank Gear Station",
+  "description": "One static riverside fishing-gear station for the original fishing riverbank program. Two complete unchanged rocky stream-bank modules form a four-meter shore frontage; their sloped earth surfaces, three rocks each and matched two-meter end profiles remain whole. A closed scene-only upper earth cap meets their rear edge and supports one complete fixed-open footplate seatbox on the left, one complete side-resting deep-bag landing net on the right, and one complete empty lattice creel behind the central working space. All five whole instances from four existing models are unit scale and unrotated, preserving every original part, triangle and solid material. Only the closed opaque water-colour datum and upper earth cap are scene-only, not new terrain or water assets. The original bank has a slightly raised center along its rear edge, so the join is not claimed as a perfectly level continuous shore surface. The center and rear approach reference strips remain clear. Unlike the old woodland shallow stream this is a one-sided gear-working bank without mushrooms or conifers; unlike the old two-rod storage corner it separates equipment on an upper land surface beside actual shore geometry and a lower water-colour field; unlike the old cargo/rest pier it has no dock, cargo crates or mooring layout. One scene, zero new independent models. No fish, caught catch, user, fluid simulation, seating comfort, load capacity, moving hinge/net, real fishing facility, water safety or geographic location is asserted.",
+  "bounds": {
+    "x": 4.4,
+    "y": 5.0,
+    "z": 1.771438,
+    "unit": "m"
+  },
+  "triangles": 7404,
+  "materials": 18,
+  "files": {
+    "glb": {
+      "path": "assets/fishing/fishing-raised-riverbank-gear-station-scene-01/v1.0.0/model.glb",
+      "size": 532708,
+      "sha256": "d2bfc30778705a9c13bd1d882c931785b174f37d6bc689356507eb1bebf48e48"
+    },
+    "blend": {
+      "path": "assets/fishing/fishing-raised-riverbank-gear-station-scene-01/v1.0.0/source.blend",
+      "size": 1928552,
+      "sha256": "1010f2ed012f0f4f81e61cf0d797e8e9f65f3057e161f7593ffa7896ee21e103"
+    },
+    "generator": {
+      "path": "assets/fishing/fishing-raised-riverbank-gear-station-scene-01/v1.0.0/generate.py",
+      "size": 218618,
+      "sha256": "cae05a1cd589fe77e9018572837f25be50d374846f8998ef0ba30ae043239e3f"
+    },
+    "render": {
+      "path": "assets/fishing/fishing-raised-riverbank-gear-station-scene-01/v1.0.0/thumbnail.png",
+      "size": 503490,
+      "sha256": "e42c7581f099bb20f3b5b0963f2d534575cc9047aed5bf0ef465d6e3f98d637e"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

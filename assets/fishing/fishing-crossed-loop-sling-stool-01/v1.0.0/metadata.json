@@ -1,0 +1,42 @@
+{
+  "id": "fishing-crossed-loop-sling-stool-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "fishing",
+  "style": "warm-handcrafted-village",
+  "title": "Fixed Crossed-Loop Sling Stool",
+  "description": "One complete static open backless fishing stool: two newly authored closed rectangular loop frames of different widths cross without interpenetrating; two complete stepped side spindles connect their side members; one continuous thick sagged sling has two flat end strips seated on the full horizontal top crossbar faces. Both frames have genuinely finite flat bottom crossbar faces, not point-contact rotated rods. Five editable closed meshes and three opaque solid PBR roles. New whole loop outlines and continuous sling, not an existing camping chair with its back and armrests deleted, a fixed kitchen step stool, or a tall tripod barstool. One original fishing-plan stool prop, no separately counted frame/seat/pin parts. Metres, Z up, front -Y, horizontal bounds centered, real flat soles at Z0. Fixed unfolded visual configuration only: no folding travel, collision-free motion, human fit, seating comfort, load capacity, manufacture or safety claim.",
+  "bounds": {
+    "x": 0.460000008,
+    "y": 0.409999996,
+    "z": 0.458000004,
+    "unit": "m"
+  },
+  "triangles": 292,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/fishing/fishing-crossed-loop-sling-stool-01/v1.0.0/model.glb",
+      "size": 18844,
+      "sha256": "e76c42b6aba24d4bf3696734f663bbf2981a79f5fa20050e6d83a30fc25a9943"
+    },
+    "blend": {
+      "path": "assets/fishing/fishing-crossed-loop-sling-stool-01/v1.0.0/source.blend",
+      "size": 533304,
+      "sha256": "fdc95cee607e727c546c6868c9d7f1fddb977813b23aff46074b5af4e3953984"
+    },
+    "generator": {
+      "path": "assets/fishing/fishing-crossed-loop-sling-stool-01/v1.0.0/generate.py",
+      "size": 28111,
+      "sha256": "44d21cb7dac630c8282be8e41cff3cf1fdc08b0892cbdd4d39e3636cb8dde8af"
+    },
+    "render": {
+      "path": "assets/fishing/fishing-crossed-loop-sling-stool-01/v1.0.0/thumbnail.png",
+      "size": 551681,
+      "sha256": "de59aced0139304c6a7e74f075f9e118801432001918143c35cdff9daac0db6d"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

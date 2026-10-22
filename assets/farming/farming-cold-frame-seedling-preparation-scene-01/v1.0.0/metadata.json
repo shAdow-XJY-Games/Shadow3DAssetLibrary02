@@ -1,0 +1,42 @@
+{
+  "id": "farming-cold-frame-seedling-preparation-scene-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "farming",
+  "style": "warm-handcrafted-village",
+  "title": "Cold-Frame Seedling Preparation Corner",
+  "description": "One static outdoor cold-frame nursery preparation scene with four whole unchanged published assets at unit scale: a fixed-open cold frame, one complete six-seedling tray resting on the scene ground inside its empty footprint, one separate empty open-spout watering can at the left and one complete laid-flat D-grip dibber at the front. A half-metre-deep bounded clear front work strip separates the tray access edge from the loose tool. One simple new scene-only dry-ground support, zero new reusable models. All original source GLB bytes are embedded and hash-pinned; every original triangle and per-face opaque constant PBR is retained under translation. Normals are recomputed, not original NORMAL-byte preservation. This is not the old two-tier nursery rack scene with more trays or the firewood farmyard; no greenhouse glass is dropped or converted. Cold-frame panes remain their original explicitly opaque glass-look material. Static illustrative staging only, no actual greenhouse climate, moving lid, plant growth, watering/planting operation, human navigation/accessibility, agricultural performance or safety certification.",
+  "bounds": {
+    "x": 2.200000048,
+    "y": 2.200000048,
+    "z": 1.158122897,
+    "unit": "m"
+  },
+  "triangles": 2296,
+  "materials": 17,
+  "files": {
+    "glb": {
+      "path": "assets/farming/farming-cold-frame-seedling-preparation-scene-01/v1.0.0/model.glb",
+      "size": 157124,
+      "sha256": "c33e353e634970136b812bfbb95a58291abc550e578cd5fe49dba08b514970a6"
+    },
+    "blend": {
+      "path": "assets/farming/farming-cold-frame-seedling-preparation-scene-01/v1.0.0/source.blend",
+      "size": 1046724,
+      "sha256": "8bc18225c4dd7d0bf9cf24ebb52649892675250cfc522d121017ab3fe59c4161"
+    },
+    "generator": {
+      "path": "assets/farming/farming-cold-frame-seedling-preparation-scene-01/v1.0.0/generate.py",
+      "size": 69541,
+      "sha256": "525e570386b3b33e6eb7e29f875c2f6a387695480d834b1cb18205a3968646f3"
+    },
+    "render": {
+      "path": "assets/farming/farming-cold-frame-seedling-preparation-scene-01/v1.0.0/thumbnail.png",
+      "size": 511577,
+      "sha256": "ad68cfe99deb3e4145ca623a3c62aea8f6c5e29f782bbd5cdfde13ad8375e952"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

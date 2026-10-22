@@ -1,0 +1,42 @@
+{
+  "id": "beekeeping-honey-tank-and-jar-staging-scene-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "beekeeping",
+  "style": "source-preserved-low-poly",
+  "title": "Honey Tank and Open Jar Preparation Table",
+  "description": "One static honey-tank and empty-container preparation scene, bounded to the original beekeeping bottling-table direction. One whole original through-outlet honey tank remains on all three original feet, with its complete deep octagonal cavity, both side lifting ears, real integral wall-through nozzle, fixed side-open gate, pierced ear, stepped retaining pin and finite stop. Beside it a complete original worktable supports the entire original ceramic jar kit in its unchanged open-body and upside-down-lid display pose. Both jar pieces sit on their original finite soles on the same real table top; no lid is extracted, moved or counted as another asset. The tank is on the floor and the separate jar is staged on the table, not placed under or connected to the outlet. All original local POSITION/NORMAL/index bytes, five plus two plus three original opaque PBR materials and complete hierarchy are preserved. Only whole unit-scale translations and one finite new floor are authored. Entire tank/table footprints are grounded and positively separated; the entire jar-kit footprint lies on the actual finite table surface. One scene and zero new independent models; no honey-colour or vessel-count variants. This is not the old extractor/smoker processing display renamed. The generic ceramic vessel is not relabelled a specialist honey-safe bottle; this only shows container preparation, not an aligned filling station, actual flow, bottling operation, liquids, food contact, hygiene, seal quality, bee behavior, heating, load or equipment/protective safety.",
+  "bounds": {
+    "x": 3.5999999046325684,
+    "y": 1.7999999523162842,
+    "z": 1.21999990940094,
+    "unit": "m"
+  },
+  "triangles": 4956,
+  "materials": 12,
+  "files": {
+    "glb": {
+      "path": "assets/beekeeping/beekeeping-honey-tank-and-jar-staging-scene-01/v1.0.0/model.glb",
+      "size": 280984,
+      "sha256": "c7f4a63b1c4299ee46114d5b186d0f2596946041f3d2a96a01ea9277c8320389"
+    },
+    "blend": {
+      "path": "assets/beekeeping/beekeeping-honey-tank-and-jar-staging-scene-01/v1.0.0/source.blend",
+      "size": 1342924,
+      "sha256": "39894acdfc9d3488876d8f690d043a1af600d1e5234a5f7e10b47feca9bc4871"
+    },
+    "generator": {
+      "path": "assets/beekeeping/beekeeping-honey-tank-and-jar-staging-scene-01/v1.0.0/generate.py",
+      "size": 132905,
+      "sha256": "efc06fbd2b29a0acc5e4868927ffdb720369e7e892540916dd81f9f8bdd4de16"
+    },
+    "render": {
+      "path": "assets/beekeeping/beekeeping-honey-tank-and-jar-staging-scene-01/v1.0.0/thumbnail.png",
+      "size": 478606,
+      "sha256": "9051d12898f6a1f2cc677cfd637c741e5a81249d87a6f9206c586593890ec99a"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
