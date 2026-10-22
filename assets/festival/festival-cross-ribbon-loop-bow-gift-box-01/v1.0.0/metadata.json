@@ -1,0 +1,42 @@
+{
+  "id": "festival-cross-ribbon-loop-bow-gift-box-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "festival",
+  "style": "warm-handcrafted-village",
+  "title": "Cross-Ribbon Gift Box with Open Loop Bow",
+  "description": "One complete static wrapped gift parcel: a sealed rectangular body and slightly overhanging lid, two complete narrow ribbon loops passing around the entire parcel in perpendicular planes, and two genuinely open oval ribbon bow loops joined by a central folded block. Seven editable closed solids and two opaque matte solid PBR wrapping roles. The top straps are deliberately layered and the bow loops are actual finite-thickness bands, not painted crosses or filled oval decorations. Not a recoloured plain storage box or separately counted bows. Metres, Z up, front -Y, bounds centred; the outer lower ribbon has a real finite underside at Z0. Small explicitly fixed seat overlaps represent the static lid/ribbon/bow attachments. Sealed external prop only, with no modeled storage interior, opening, thread-by-thread knot topology, cloth physics, unwrapping, manufacture or safety claim.",
+  "bounds": {
+    "x": 0.128999993,
+    "y": 0.108999997,
+    "z": 0.112499997,
+    "unit": "m"
+  },
+  "triangles": 356,
+  "materials": 2,
+  "files": {
+    "glb": {
+      "path": "assets/festival/festival-cross-ribbon-loop-bow-gift-box-01/v1.0.0/model.glb",
+      "size": 21180,
+      "sha256": "642d9ffcd6b82d270b2adb36dc1fb8a43a785248f9de5d457e1545d78132e02b"
+    },
+    "blend": {
+      "path": "assets/festival/festival-cross-ribbon-loop-bow-gift-box-01/v1.0.0/source.blend",
+      "size": 523660,
+      "sha256": "6862da07dd24b33f65b26992d7007fdf8d7622dfadecd3fc0475b032f10f29eb"
+    },
+    "generator": {
+      "path": "assets/festival/festival-cross-ribbon-loop-bow-gift-box-01/v1.0.0/generate.py",
+      "size": 28057,
+      "sha256": "3137fb267b1c215fe8a552094d79b8e8f9421b02cb33fa633163ef0a9a0638da"
+    },
+    "render": {
+      "path": "assets/festival/festival-cross-ribbon-loop-bow-gift-box-01/v1.0.0/thumbnail.png",
+      "size": 532898,
+      "sha256": "f0a8d69a5cfc5e765d2376901a224f6049b43cea5864933507423ce34b348e5e"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

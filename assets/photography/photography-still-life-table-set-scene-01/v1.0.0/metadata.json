@@ -1,0 +1,42 @@
+{
+  "id": "photography-still-life-table-set-scene-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "photography",
+  "style": "source-preserved-low-poly",
+  "title": "Still-Life Photography Table Set",
+  "description": "One still-life photography-table scene from the original photography scene program. Five complete original assets: open worktable, open-neck amphora subject seated on its tabletop, tripod camera, octagonal reflector and deep softbox. A scene-only base arranges the whole equipment around the subject at original scale. Complete original local POSITION/NORMAL payloads, materials and internal hierarchies are preserved with exact signed-permutation whole-instance matrices. One scene, zero new independent models. No camera exposure, lens targeting accuracy, lighting performance, adjustable mechanism, table load, human access or safe-workspace claim.",
+  "bounds": {
+    "x": 5.400000095367432,
+    "y": 4.199999809265137,
+    "z": 2.109999895095825,
+    "unit": "m"
+  },
+  "triangles": 3736,
+  "materials": 18,
+  "files": {
+    "glb": {
+      "path": "assets/photography/photography-still-life-table-set-scene-01/v1.0.0/model.glb",
+      "size": 250408,
+      "sha256": "0de7504e8527ac21b5413b6eaa644d0d22737c40859eeb415693bbc097af217f"
+    },
+    "blend": {
+      "path": "assets/photography/photography-still-life-table-set-scene-01/v1.0.0/source.blend",
+      "size": 182129,
+      "sha256": "5dee41beb911f515da5a663966d42ff0f9dbe6783606294f1f5b9a4d48005ab5"
+    },
+    "generator": {
+      "path": "assets/photography/photography-still-life-table-set-scene-01/v1.0.0/generate.py",
+      "size": 68617,
+      "sha256": "e1808821fed2e1a16a5293358e1793f77760af89dd05aa79136148fde4ad85d6"
+    },
+    "render": {
+      "path": "assets/photography/photography-still-life-table-set-scene-01/v1.0.0/thumbnail.png",
+      "size": 475121,
+      "sha256": "675665bda1b1adfbe7ec7f1629a1655241e3a630482602626593da62270867f6"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
