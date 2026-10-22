@@ -1,0 +1,42 @@
+{
+  "id": "interior-fixed-half-open-gateleg-table-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "interior",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Half-Open Gateleg Dining Table",
+  "description": "One original static gateleg-style dining table shown in a single fixed half-open pose: a narrow central top, one curved D-shaped leaf held horizontally over a complete open U gateleg, and a second curved D leaf dropped vertically. Two full portal frames and three cross/root rails support the narrow centre; four small solid metal straps visibly connect the leaves. Thirteen closed editable meshes and three opaque constant matte PBR materials. All profiles and coordinates are newly authored, not a prior laundry table rotated, resized, deprived of slots or divided into new asset counts. Metres, native Z up, front -Y, whole horizontal bounds-centred ground origin. One complete prop, zero scenes or extra poses. Static furniture appearance only: no functioning hinge, folding rig, continuous motion clearance, mechanical operation, ergonomic fit, load, stability, installation or safety certification. Fixed curved leaf and gateleg structures deepen the original dining-table family without claiming a working expansion mechanism.",
+  "bounds": {
+    "x": 0.89,
+    "y": 1.0,
+    "z": 0.78,
+    "unit": "m"
+  },
+  "triangles": 508,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/interior/interior-fixed-half-open-gateleg-table-01/v1.0.0/model.glb",
+      "size": 35848,
+      "sha256": "31af956584a33055c0d9f9c4df169ebe922312c53578d687de8e7fb3f2f4b0b7"
+    },
+    "blend": {
+      "path": "assets/interior/interior-fixed-half-open-gateleg-table-01/v1.0.0/source.blend",
+      "size": 585340,
+      "sha256": "5fca5dc6b0466850707e6067388788e2410d4ab7290c5e3be52e84ab31840998"
+    },
+    "generator": {
+      "path": "assets/interior/interior-fixed-half-open-gateleg-table-01/v1.0.0/generate.py",
+      "size": 22682,
+      "sha256": "d4911f7dfeca72e20a0257022fd795b17a4830550a0fe50a34a936589dff86a9"
+    },
+    "render": {
+      "path": "assets/interior/interior-fixed-half-open-gateleg-table-01/v1.0.0/thumbnail.png",
+      "size": 523207,
+      "sha256": "850aa5bc2448b44fd68799bca2214c193e39a9ecbe9643871bd70a8700b32d54"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
