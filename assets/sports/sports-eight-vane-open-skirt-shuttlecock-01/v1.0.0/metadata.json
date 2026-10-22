@@ -1,0 +1,42 @@
+{
+  "id": "sports-eight-vane-open-skirt-shuttlecock-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "sports",
+  "style": "S01-clean-geometric",
+  "title": "Eight-Vane Open-Skirt Shuttlecock",
+  "description": "One original complete static low-poly shuttlecock appearance. A short closed faceted cork-coloured head supports eight separately thick cream-coloured tapered vanes. Each vane widens and slopes radially outward into a genuinely open 360-degree skirt; its complete flat lower root meets the full head top at a finite opposed seat. The central inner frustum and all radial inter-vane gaps are empty, not a solid cone with painted stripes. Nine closed connected editable meshes, two opaque constant untextured PBR materials, one prop and zero scenes. Metres, Z up, presentation front -Y and horizontally bounds-centred ground origin; the head has one complete small flat bottom. Every numerical shape is newly authored. No trolley ball, bowling pin, palm frond, brush tuft, fan fold, fungus funnel, basket or other old model geometry is imported, extracted, stretched, recoloured or assembled. Generic mesh and guarded export utilities are reused. Exactly eight stylized thick vanes, not a regulation feather count or a fibrous feather simulation. The head is one solid visually cork-like piece without an internal socket or hidden overlap. No racket, player, court, string binding, label, texture, rig, animation or scene. Visual game art only: no aerodynamic, flight, bounce, impact, balance, material, manufacture, human-use, competition, standard-size or safety certification.",
+  "bounds": {
+    "x": 0.08,
+    "y": 0.08,
+    "z": 0.09,
+    "unit": "m"
+  },
+  "triangles": 188,
+  "materials": 2,
+  "files": {
+    "glb": {
+      "path": "assets/sports/sports-eight-vane-open-skirt-shuttlecock-01/v1.0.0/model.glb",
+      "size": 17880,
+      "sha256": "e94d01e4470946503fecdae991b55ed41831d1993f27566072e5399d58ef7af9"
+    },
+    "blend": {
+      "path": "assets/sports/sports-eight-vane-open-skirt-shuttlecock-01/v1.0.0/source.blend",
+      "size": 524884,
+      "sha256": "f5bd3ad84566ee8e498d9010c875b18e87f384bfb16ee310f6d8df46c54c9b6d"
+    },
+    "generator": {
+      "path": "assets/sports/sports-eight-vane-open-skirt-shuttlecock-01/v1.0.0/generate.py",
+      "size": 31048,
+      "sha256": "b3b9191dbcce0b77b0fe10f3b0a3e81df7e009f99ce3c2540c3d3e17aee82477"
+    },
+    "render": {
+      "path": "assets/sports/sports-eight-vane-open-skirt-shuttlecock-01/v1.0.0/thumbnail.png",
+      "size": 525682,
+      "sha256": "3e489a22e112b930b05666dd328ff1c95e04cf9217316ed521208b548c891af4"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

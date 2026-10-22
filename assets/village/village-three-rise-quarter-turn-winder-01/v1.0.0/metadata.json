@@ -1,0 +1,42 @@
+{
+  "id": "village-three-rise-quarter-turn-winder-01",
+  "version": "1.0.0",
+  "category": "architecture",
+  "assetKind": "modular",
+  "theme": "village",
+  "style": "S01-clean-geometric",
+  "title": "Three-Rise Quarter-Turn Winder",
+  "description": "One original static architectural quarter-turn winder module. A single continuous grounded closed stone solid spans a90degree annular plan. Three sequential30degree tread sectors rise to0.15,0.30 and0.45m; the two inner risers lie on different radial planes, with a low radial entry face and a high radial terminal face. The open concave inner boundary and outer faceted arc continue across all three levels, and the entire annular footprint forms one ground sole. This is one connected closed editable mesh with two constant opaque untextured PBR face materials, not three stacked steps, separated sector boxes, an extracted curved platform or a rotated straight stair. Twelve arc facets, newly authored geometry, native metres/Z up and a horizontal bounds-centred ground origin. One architectural game-space module, zero scenes. No railing, furniture, vehicle, deck pier, low curb, upper landing, supporting terrain, embedded old model, texture, text or animation. Geometry dimensions are illustrative only; no claim of pedestrian use, building-code compliance, accessibility, slip resistance, real load bearing, manufacture, external fit, installation or physical safety certification.",
+  "bounds": {
+    "x": 1.200000048,
+    "y": 1.200000048,
+    "z": 0.449999988,
+    "unit": "m"
+  },
+  "triangles": 156,
+  "materials": 2,
+  "files": {
+    "glb": {
+      "path": "assets/village/village-three-rise-quarter-turn-winder-01/v1.0.0/model.glb",
+      "size": 8840,
+      "sha256": "e3f1ba69a889e65923cdcd8e5b9c500514fca0ea765905fc0a1d23d4da7195a4"
+    },
+    "blend": {
+      "path": "assets/village/village-three-rise-quarter-turn-winder-01/v1.0.0/source.blend",
+      "size": 482492,
+      "sha256": "a2e4756043c966fc084f50af23de629d5627b55237de2496e11520668a0ddb43"
+    },
+    "generator": {
+      "path": "assets/village/village-three-rise-quarter-turn-winder-01/v1.0.0/generate.py",
+      "size": 29180,
+      "sha256": "05c43eb3d4ced2e772a68e580b8d9295c2438ea73af639ed2ca781f793041487"
+    },
+    "render": {
+      "path": "assets/village/village-three-rise-quarter-turn-winder-01/v1.0.0/thumbnail.png",
+      "size": 475835,
+      "sha256": "4169d81a894352833e0da32317999758b6ec4c5dde50d2a9b4e2b0b4b85430e5"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

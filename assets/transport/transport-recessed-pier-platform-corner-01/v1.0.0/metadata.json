@@ -1,0 +1,42 @@
+{
+  "id": "transport-recessed-pier-platform-corner-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "modular",
+  "theme": "transport",
+  "style": "S01-clean-geometric",
+  "title": "Pier-Supported Curved Platform Corner",
+  "description": "One original static quarter-annular transport platform corner with a genuine concave inner edge, a continuous thick elevated deck, a continuous outer low curb and three separate recessed radial foundation piers. Every pier has a finite flat sole and a full top seat against the deck underside; the entire curb underside seats on the deck top. Real open space continues around all three piers beneath the deck. Newly authored numeric geometry, five closed editable meshes and three opaque constant untextured PBR materials. Native metres and Z up, front -Y, horizontal bounds-centred ground origin. One complete modular model, zero scenes and no embedded old models. Two orthogonal 1.2 m nominal radial ports, 0.38 m deck top and 0.51 m curb top are design dimensions only; neighboring platform compatibility and seamlessness are not verified. This is not a rescaled old curb, extracted scaffold deck, recoloured ground apron or filled quarter-disc stage. No vehicle, passenger, signs, text, textures, animation or surrounding scene. Static illustrative game geometry only: no passenger use, accessibility, wheelchair suitability, loading, stability, fall protection, traction, continuous route, navigation, collision, traffic operations, manufacture, installation, engineering or safety certification.",
+  "bounds": {
+    "x": 1.65,
+    "y": 1.65,
+    "z": 0.51,
+    "unit": "m"
+  },
+  "triangles": 388,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/transport/transport-recessed-pier-platform-corner-01/v1.0.0/model.glb",
+      "size": 21476,
+      "sha256": "c8ce88e023efcb84da4ec362bcf7a4d6c1dde304597825105e98810c6a424691"
+    },
+    "blend": {
+      "path": "assets/transport/transport-recessed-pier-platform-corner-01/v1.0.0/source.blend",
+      "size": 538568,
+      "sha256": "0b4c079f0f2adb9ec6fc501400b82bffd9a4fb266e66855dcbb89a62641f5c28"
+    },
+    "generator": {
+      "path": "assets/transport/transport-recessed-pier-platform-corner-01/v1.0.0/generate.py",
+      "size": 27578,
+      "sha256": "927bc3f74f2ce463cc210606e61f7e44707e300cec49caf3deca622b0cfbcbac"
+    },
+    "render": {
+      "path": "assets/transport/transport-recessed-pier-platform-corner-01/v1.0.0/thumbnail.png",
+      "size": 494383,
+      "sha256": "437f57ac3f175206afef2096a8fc339ea3d6b99ff7fd773db2e01a9656cc6b32"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
