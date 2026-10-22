@@ -1,0 +1,42 @@
+{
+  "id": "retail-fixed-belt-bagging-checkout-counter-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "retail",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Belt and Bagging Well Checkout Counter",
+  "description": "One original static checkout-counter prop: a continuous grounded cabinet joins a narrow flat belt-feed bed, a short raised bridge and a wider lower terminal bagging well, with a true side-open recessed knee space. One separate complete closed thick belt has top and return surfaces and polygonal end arcs, seated over its full flat lower return. The fixed belt terminates 80 mm before the bridge: this is a static visual gap, NOT a working continuous conveyor. No scanner, register, products, bag, person, motor, rollers or old asset geometry is included. Two closed editable meshes and two opaque untextured constant PBR materials, metres, Z up, front -Y, horizontal-bounds-centred grounded origin. Not a scene, recolour or resized counter. Complete finite contacts and empty domains are geometric only, not guarantees of scanning, conveyance, assembly, fit, ergonomics, load, stability, manufacture, electrical or commercial safety or operation.",
+  "bounds": {
+    "x": 2.400000095,
+    "y": 0.899999976,
+    "z": 0.939999998,
+    "unit": "m"
+  },
+  "triangles": 1544,
+  "materials": 2,
+  "files": {
+    "glb": {
+      "path": "assets/retail/retail-fixed-belt-bagging-checkout-counter-01/v1.0.0/model.glb",
+      "size": 41120,
+      "sha256": "86aa07d6e439f93b524bfe082ee5875498d8fe833274b106792ab7f6fbc0f007"
+    },
+    "blend": {
+      "path": "assets/retail/retail-fixed-belt-bagging-checkout-counter-01/v1.0.0/source.blend",
+      "size": 562472,
+      "sha256": "a36be7edc1a733707517166de6d8796d3d8582542253c75b708d7b23ce30a351"
+    },
+    "generator": {
+      "path": "assets/retail/retail-fixed-belt-bagging-checkout-counter-01/v1.0.0/generate.py",
+      "size": 32476,
+      "sha256": "6fd84f85c97dcbd7614fba698c44dd1335e162abc0a31bd5fb7678f0e0acbac6"
+    },
+    "render": {
+      "path": "assets/retail/retail-fixed-belt-bagging-checkout-counter-01/v1.0.0/thumbnail.png",
+      "size": 473887,
+      "sha256": "1179a58807f93fd7889f1541c1bee8e1c3020bb871bd0d985b55eaa7f2792569"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
