@@ -1,0 +1,42 @@
+{
+  "id": "library-static-v-cradle-dual-head-book-scanner-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "library",
+  "style": "S01-clean-geometric",
+  "title": "Static V-Cradle Dual-Head Book Scanner",
+  "description": "Original compact tabletop book-scanner appearance, counted as one complete static prop. A low grounded base supports two full sloping V cradle wedges and a newly made open book with a continuous folded cover and two closed page blocks. One continuous twin-post arch carries two fixed angled downward camera-head appearances facing the opposite page halves. The wide working gap above the book remains visibly open. No old scan table, projector stand, camera or book asset is imported. Opaque unlit optics and unprinted pages only. No scanning, imaging, digitisation, electrical operation, interaction, book fit, conservation suitability, human ergonomics, strength, manufacture or safety performance is claimed.",
+  "bounds": {
+    "x": 0.92,
+    "y": 0.68,
+    "z": 1.03,
+    "unit": "m"
+  },
+  "triangles": 452,
+  "materials": 5,
+  "files": {
+    "glb": {
+      "path": "assets/library/library-static-v-cradle-dual-head-book-scanner-01/v1.0.0/model.glb",
+      "size": 32792,
+      "sha256": "4fff44189d890743157e2a354a753e8f77c20d8e56c4cdd273d02fec539a7c89"
+    },
+    "blend": {
+      "path": "assets/library/library-static-v-cradle-dual-head-book-scanner-01/v1.0.0/source.blend",
+      "size": 652916,
+      "sha256": "a12a15d45203e5c415b856b3ce41c3b1aa61783c1234351aa8de0727d2f1f5e3"
+    },
+    "generator": {
+      "path": "assets/library/library-static-v-cradle-dual-head-book-scanner-01/v1.0.0/generate.py",
+      "size": 9640,
+      "sha256": "7ff1e7d66e2f9c3d2792fc039111ea19ab8e8bb784bc51d813b43beccba1ee5f"
+    },
+    "render": {
+      "path": "assets/library/library-static-v-cradle-dual-head-book-scanner-01/v1.0.0/thumbnail.png",
+      "size": 485617,
+      "sha256": "387b9b085aa85d0a51a908e5087bd2627ced5ee5fc6cfa1b5fec7a345231dbee"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
