@@ -1,0 +1,42 @@
+{
+  "id": "village-continuous-t-junction-ridge-cap-01",
+  "version": "1.0.0",
+  "category": "architecture",
+  "assetKind": "modular",
+  "theme": "village",
+  "style": "S01-clean-geometric",
+  "title": "Continuous T-Junction Ridge Cap",
+  "description": "One original static T-junction ridge-cap visual module. A single continuous thin closed material shell joins two collinear ridge arms and one perpendicular branch, with two integral diagonal valley seams, three genuinely open underside end ports, one connected T-shaped under-roof clearance and three finite flat flange-sole regions. Shared vertices join the entire branch; there are no overlapping roof pieces, plugged interior junction, fourth arm or hidden cell walls. One editable mesh and two constant opaque untextured PBR face-role materials, metres and Z up. One modular appearance asset, zero scenes. Flanges at Z=0 are geometric external-host datums, not a freestanding roof. This new interface family is not claimed to fit existing roofs. No real installation, structural, load, waterproofing, weather, drainage-performance, manufacture, building-code or safety claim. No old asset geometry imported.",
+  "bounds": {
+    "x": 1.25,
+    "y": 2.0,
+    "z": 0.360000014,
+    "unit": "m"
+  },
+  "triangles": 156,
+  "materials": 2,
+  "files": {
+    "glb": {
+      "path": "assets/village/village-continuous-t-junction-ridge-cap-01/v1.0.0/model.glb",
+      "size": 8288,
+      "sha256": "1d3c1401bfebe50faab81d25c75379a3c9fb51658ee25c1f70a286ec5577c79c"
+    },
+    "blend": {
+      "path": "assets/village/village-continuous-t-junction-ridge-cap-01/v1.0.0/source.blend",
+      "size": 482512,
+      "sha256": "78959721f2940d6f74cd32ceae772b902ecc7f0533737cf7f357355c0545f32b"
+    },
+    "generator": {
+      "path": "assets/village/village-continuous-t-junction-ridge-cap-01/v1.0.0/generate.py",
+      "size": 31700,
+      "sha256": "942342930e23221abe8761be6748b5aa5edecf941257008c201a97459446cae5"
+    },
+    "render": {
+      "path": "assets/village/village-continuous-t-junction-ridge-cap-01/v1.0.0/thumbnail.png",
+      "size": 474785,
+      "sha256": "3fdc3501a68297711a8f536e1cc1edcbf647cde1da68a21367016b334f3538f3"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

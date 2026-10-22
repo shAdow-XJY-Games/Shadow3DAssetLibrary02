@@ -1,0 +1,42 @@
+{
+  "id": "festival-five-point-star-blind-socket-topper-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "festival",
+  "style": "S01-clean-geometric",
+  "title": "Five-Point Star with Blind Mounting Socket",
+  "description": "One original complete static festival tree-topper-inspired decoration displayed laid flat. A single continuous concave five-point star slab has five long points, five deep inner valleys and one deliberately widened flat bottom-valley seat. A separate complete rectangular mounting socket has a real open square mouth, four complete interior walls and a finite blind end floor. Its full closed rear face seats against the star on one complete opposed rectangular interface. Two closed connected meshes and two opaque constant untextured PBR metal tones. Two entire inset material domains, one complete blind-cavity air domain extending through the open mouth, one full finite rectangular contact and two full ground soles. Newly authored whole numeric geometry; no old star marker, wreath, pinwheel, brush socket, mould, cup, sleeve or other asset geometry is extracted, resized, recoloured or assembled. Generic triangulation and reviewed rendering/quality infrastructure are reused with explicit provenance. Native metres, Z up, front -Y, horizontal bounds-centred ground origin. Exactly one prop and zero scenes. No tree, light, illumination, cable, moving part, text, logo, texture, animation or variant. Static decorative game-art appearance only; no working mounting-fit, tree compatibility, retention, balance, load, material authenticity, manufacturing, installation, electrical, fire or safety certification. Dimensions describe game-space geometry only.",
+  "bounds": {
+    "x": 0.47552827,
+    "y": 0.639999986,
+    "z": 0.07,
+    "unit": "m"
+  },
+  "triangles": 68,
+  "materials": 2,
+  "files": {
+    "glb": {
+      "path": "assets/festival/festival-five-point-star-blind-socket-topper-01/v1.0.0/model.glb",
+      "size": 6108,
+      "sha256": "5f64a3a289b17a45379368ad05efd1a3e2ac0530bcf2f9aef8626129ad83e3c7"
+    },
+    "blend": {
+      "path": "assets/festival/festival-five-point-star-blind-socket-topper-01/v1.0.0/source.blend",
+      "size": 482852,
+      "sha256": "dd83af60634c3fc24f016586bb39e39630e9576c3aae0634bed85def8c1ef60c"
+    },
+    "generator": {
+      "path": "assets/festival/festival-five-point-star-blind-socket-topper-01/v1.0.0/generate.py",
+      "size": 30845,
+      "sha256": "831275e190935c5c684cb2d805def2acaedc0463b61a3caa0e445ffe1baf1b39"
+    },
+    "render": {
+      "path": "assets/festival/festival-five-point-star-blind-socket-topper-01/v1.0.0/thumbnail.png",
+      "size": 493044,
+      "sha256": "86c9874cc049a449f780bd726090a146389e0d7f29f445c05f574df98d4f85c2"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
