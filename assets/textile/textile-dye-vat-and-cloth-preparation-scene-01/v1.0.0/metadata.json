@@ -1,0 +1,42 @@
+{
+  "id": "textile-dye-vat-and-cloth-preparation-scene-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "textile",
+  "style": "source-preserved-low-poly",
+  "title": "Empty Dye Vat and Cloth Preparation Corner",
+  "description": "One static empty dye-vat and cloth-preparation corner from the original textile dye-workshop scene program. One complete deep dye vat with its genuinely perforated suspended basket and two lifting loops stands beside one complete open worktable carrying one whole three-wrap flat-core cloth bolt with its real end layers and grounded tail. All three old asset IDs preserve every whole mesh, original local POSITION/NORMAL payload, constant PBR material and internal hierarchy byte for byte. Only unit-scale whole-instance translations and one finite scene-only floor are new. One scene, zero new independent props. The full cloth-bolt footprint is within the real table top, the two whole stations are positively separated, and both complete floor footprints lie on the floor. The dye vat is empty: no liquid, dye, wetted cloth, heat, chemical process, basket lifting, person, operating factory, material compatibility, body fit, load or safety claim.",
+  "bounds": {
+    "x": 3.5999999046325684,
+    "y": 1.7999999523162842,
+    "z": 1.375,
+    "unit": "m"
+  },
+  "triangles": 2756,
+  "materials": 12,
+  "files": {
+    "glb": {
+      "path": "assets/textile/textile-dye-vat-and-cloth-preparation-scene-01/v1.0.0/model.glb",
+      "size": 133796,
+      "sha256": "705bf6560850d4a6a949b521b0429912fa96027fbf15c96344330d14a1ac0076"
+    },
+    "blend": {
+      "path": "assets/textile/textile-dye-vat-and-cloth-preparation-scene-01/v1.0.0/source.blend",
+      "size": 1110560,
+      "sha256": "1de950438e3c8e35f025f3c64898b1ff39cffaf3660814a21d2b005500dc030b"
+    },
+    "generator": {
+      "path": "assets/textile/textile-dye-vat-and-cloth-preparation-scene-01/v1.0.0/generate.py",
+      "size": 88959,
+      "sha256": "d770ce541274c113b495d95881d1fec4dbd710bfcd364c927427d5655a166a70"
+    },
+    "render": {
+      "path": "assets/textile/textile-dye-vat-and-cloth-preparation-scene-01/v1.0.0/thumbnail.png",
+      "size": 482374,
+      "sha256": "c221e03b2a588dbf05da0f8a983f7761434515b6de8a5ab2739ce6b3ef07fbba"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

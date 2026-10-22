@@ -1,0 +1,42 @@
+{
+  "id": "cave-mine-open-ended-peripheral-roller-trommel-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "cave-mine",
+  "style": "S01-clean-geometric",
+  "title": "Open-Ended Peripheral-Roller Trommel Screen",
+  "description": "One newly authored complete static mine-processing appearance: a single thick cylindrical screen with two fully open axial mouths and twenty real surrounding windows, carried on four peripheral rollers under its full end bands. There is no central drum-supporting spindle, end plate, closed bottom or lid. Eight bored roller-axle housings, two end frames, tied base rails and four flat feet form the whole fixed support assembly. A separate continuous thick open catch funnel with a short genuine outlet neck sits beneath the central screen span; it is not claimed to collect every window. This differs structurally from the old closed-end spindle-supported garden composter, closed-bottom pear-drum mixer and flat seven-bar grizzly, not merely a barrel with more holes or new colors. All main geometry newly authored with mature annular and cell-shell primitives. Static visual art only: no rotation, motor, actual screening/flow capacity, precision bearing, assembly/manufacturing, load or equipment safety claim.",
+  "bounds": {
+    "x": 1.3,
+    "y": 2.29,
+    "z": 1.6321620275116384,
+    "unit": "m"
+  },
+  "triangles": 3936,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/village/cave-mine-open-ended-peripheral-roller-trommel-01/v1.0.0/model.glb",
+      "size": 210416,
+      "sha256": "d1db12918c8112f7cf674123c7432462b4bdfd3fef06eb20a230effd5a63fad2"
+    },
+    "blend": {
+      "path": "assets/village/cave-mine-open-ended-peripheral-roller-trommel-01/v1.0.0/source.blend",
+      "size": 946500,
+      "sha256": "12bc5c9989529c44283f2c27f579fed16213cabee9cead56a5b42fb5c51dbe27"
+    },
+    "generator": {
+      "path": "assets/village/cave-mine-open-ended-peripheral-roller-trommel-01/v1.0.0/generate.py",
+      "size": 11839,
+      "sha256": "80721a06ecf5417a45f3e328b2d1b14f358628f269a63f1877432b935673b370"
+    },
+    "render": {
+      "path": "assets/village/cave-mine-open-ended-peripheral-roller-trommel-01/v1.0.0/thumbnail.png",
+      "size": 445587,
+      "sha256": "35c35defa0b5eae4ce1f1213dff37a7d082828976cd5b308e562d2174a628dcc"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

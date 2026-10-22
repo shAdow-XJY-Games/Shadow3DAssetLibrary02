@@ -1,0 +1,42 @@
+{
+  "id": "playground-climbing-dome-and-rest-zone-scene-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "playground",
+  "style": "source-preserved-S01-and-soft-low-poly",
+  "title": "Climbing Dome and Rest Zone",
+  "description": "Original playground climbing-area scene: one complete triangulated climbing dome occupies the large left bay, a complete backless bench sits beside it across an open side strip, and an intact concave soft-mat corner marks the separate front-right entry edge. The original whole dome retains every rod, joint and triangular window; the bench and mat remain complete and unit scale. This is not the older seesaw/slide corner nor the sand/crawl/rider area: its spatial organization is one dominant climbing enclosure and a separate rest edge, not a row of low play stations. Three complete old models, one scene-only base, one scene preset and zero new independent models. Static illustrative park layout only, no age suitability, fall-zone, impact attenuation, access-code compliance or playground safety certification. Complete original mesh hierarchy, oriented triangles and solid PBR are preserved. One scene preset and zero new independent reusable models.",
+  "bounds": {
+    "x": 6.4,
+    "y": 5.2,
+    "z": 1.723,
+    "unit": "m"
+  },
+  "triangles": 7628,
+  "materials": 9,
+  "files": {
+    "glb": {
+      "path": "assets/playground/playground-climbing-dome-and-rest-zone-scene-01/v1.0.0/model.glb",
+      "size": 533176,
+      "sha256": "ff08d0c5548fbdfbf151d42657b136be82eb5ac6ac89ce99def7a980aff1358f"
+    },
+    "blend": {
+      "path": "assets/playground/playground-climbing-dome-and-rest-zone-scene-01/v1.0.0/source.blend",
+      "size": 1963992,
+      "sha256": "d7fd43e9ecb41f48c4d6298b6d9e1cdf9c6fcab817f505ce533bcdfe13abf5ea"
+    },
+    "generator": {
+      "path": "assets/playground/playground-climbing-dome-and-rest-zone-scene-01/v1.0.0/generate.py",
+      "size": 126228,
+      "sha256": "3d737d3068293260891a3c88bc129218cfeadcd79ab1c8a64008f323dd75ec43"
+    },
+    "render": {
+      "path": "assets/playground/playground-climbing-dome-and-rest-zone-scene-01/v1.0.0/thumbnail.png",
+      "size": 511219,
+      "sha256": "900446b3884afd3cfdd16a1361541a69cb5587639da1be02fe5d62284545fd97"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
