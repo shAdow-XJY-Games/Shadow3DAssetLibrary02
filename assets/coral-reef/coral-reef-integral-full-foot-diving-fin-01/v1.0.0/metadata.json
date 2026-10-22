@@ -1,0 +1,42 @@
+{
+  "id": "coral-reef-integral-full-foot-diving-fin-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "coral-reef",
+  "style": "S02-hard-edge-faceted",
+  "title": "Integral Full-Foot Diving Fin",
+  "description": "One original static full-foot diving-fin appearance, counted as one complete single prop rather than a pair or separate parts. A short curved hollow foot pocket has a real open top entry, complete heel counter, finite walls and closed internal floor and toe. Its lower toe continues through exact shared vertices into a broad flared thin blade with finite tapered thickness and a clipped rounded-looking end. The whole pocket, sole, toe and blade are one continuous closed material mesh; no separate boot or paddle is buried into another surface. All section coordinates, pocket path, opening, blade flare and thickness are newly authored. Generic triangulation, connected-mesh orientation and mature export/render tools are reused, not any old footwear, surfboard, cylinder equipment, paddle profile or scene component. Three opaque untextured matte PBR materials. Metres, native Z up, presentation front -Y, blade toward +Y, full horizontal bounds-centred ground origin and finite flat sole/blade underside. One prop, zero scenes. Stylised fixed visual only: no foot size, fit, donning, comfort, flexibility, motion, thrust, swimming or diving performance, buoyancy, material suitability, manufacturing, compatibility, safety or certification claim. Not functional equipment design or use guidance.",
+  "bounds": {
+    "x": 0.286,
+    "y": 0.7605,
+    "z": 0.117,
+    "unit": "m"
+  },
+  "triangles": 208,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/coral-reef/coral-reef-integral-full-foot-diving-fin-01/v1.0.0/model.glb",
+      "size": 16760,
+      "sha256": "0238b920d735c182e09d29007cc27a9c6b596fda8d4703e63911f8bcc13d2bba"
+    },
+    "blend": {
+      "path": "assets/coral-reef/coral-reef-integral-full-foot-diving-fin-01/v1.0.0/source.blend",
+      "size": 508744,
+      "sha256": "9a07642c1933f2f929bcbae293be17937915aad4e9bfdc402a335051ea5b2703"
+    },
+    "generator": {
+      "path": "assets/coral-reef/coral-reef-integral-full-foot-diving-fin-01/v1.0.0/generate.py",
+      "size": 21878,
+      "sha256": "06f3ca192f205654a8fdcf9822f78bac5504786b1fe83fd3c250f9251a687245"
+    },
+    "render": {
+      "path": "assets/coral-reef/coral-reef-integral-full-foot-diving-fin-01/v1.0.0/thumbnail.png",
+      "size": 457926,
+      "sha256": "eb394f5f9acc1de5730e68a942c494e2cb6fc53a6a7c31bd6396778f0fb2a34d"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

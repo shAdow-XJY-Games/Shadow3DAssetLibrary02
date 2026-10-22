@@ -1,0 +1,42 @@
+{
+  "id": "museum-fossil-thematic-exhibition-scene-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "museum",
+  "style": "source-preserved-low-poly",
+  "title": "Fossil Thematic Exhibition Hall",
+  "description": "One static small thematic museum exhibition scene: a complete original long fish-skeleton mount forms the central longitudinal island; two complete original upright fossil slabs occupy the rear sides, an intact rope barrier separates the front approach, and two complete inward-facing benches define the entry viewing band. The unchanged original splayed benches retain their original edge/corner ground minima, not a newly claimed finite horizontal sole. Six unit-scale instances of five existing props retain complete original GLB POSITION/NORMAL payloads, internal node transforms, triangles and constant PBR. Only a connected scene floor/back wall/short side wall is new, not an independent model. Conservative positive-volume entry, side and rear circulation boxes remain clear. Unlike the old two-plinth geology corner this has a long freestanding central exhibit and a complete surrounding viewing layout, not renamed specimens on the old layout. One scene, zero new models. Stylized artistic specimens only, with no paleontological accuracy, authentic provenance, conservation, mounting, load, rope effectiveness, accessibility, crowd, motion, building-code or safety claim.",
+  "bounds": {
+    "x": 6.5,
+    "y": 6.400000095367432,
+    "z": 2.549999952316284,
+    "unit": "m"
+  },
+  "triangles": 12536,
+  "materials": 23,
+  "files": {
+    "glb": {
+      "path": "assets/museum/museum-fossil-thematic-exhibition-scene-01/v1.0.0/model.glb",
+      "size": 694896,
+      "sha256": "f6ba55039fdb4f9c57d5970c95d4cf965dd48bffb69f306e50c30d3b261abc1e"
+    },
+    "blend": {
+      "path": "assets/museum/museum-fossil-thematic-exhibition-scene-01/v1.0.0/source.blend",
+      "size": 339983,
+      "sha256": "64787fb41343f46c596d1dc6db1485e5e3705fea052d714275fc997326d2b961"
+    },
+    "generator": {
+      "path": "assets/museum/museum-fossil-thematic-exhibition-scene-01/v1.0.0/generate.py",
+      "size": 221151,
+      "sha256": "cd4519650df679ad715e9a1f65428f0a3f431fe6bdd85a98a3599c2ddd7e01f5"
+    },
+    "render": {
+      "path": "assets/museum/museum-fossil-thematic-exhibition-scene-01/v1.0.0/thumbnail.png",
+      "size": 531872,
+      "sha256": "390f82cdb7f99dd2d56f6563fa49ad5c58c52d8d6512745031bb83e350af611c"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "tailoring-cutting-preparation-table-scene-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "tailoring",
+  "style": "source-preserved-low-poly",
+  "title": "Tailoring Cutting Preparation Table",
+  "description": "One static cutting-preparation scene from the original tailoring scene program. A complete original open worktable carries the complete three-wrap flat-core cloth bolt with its genuine short tail, an intact straight-and-curve pattern ruler, intact open shears, and the complete five-pin cushion kit. All five original asset IDs retain every whole mesh, original local POSITION/NORMAL payload, material and internal hierarchy. Only unit-scale whole-instance translations and one finite scene-only floor are new. The cloth and all tools are staged separately on the real finite tabletop, not overlapping or held by invisible supports. One scene and zero new independent models. This is preparation, not active cutting, an unfolded pattern layout, sewing, fabric simulation, safe tool use, manufacture, ergonomic/accessibility or load certification.",
+  "bounds": {
+    "x": 2.0,
+    "y": 1.399999976158142,
+    "z": 1.1419999599456787,
+    "unit": "m"
+  },
+  "triangles": 6452,
+  "materials": 17,
+  "files": {
+    "glb": {
+      "path": "assets/tailoring/tailoring-cutting-preparation-table-scene-01/v1.0.0/model.glb",
+      "size": 381080,
+      "sha256": "47546764ef2470ca1518615037f365cc78952fed86e5f62a92ed063020484e2e"
+    },
+    "blend": {
+      "path": "assets/tailoring/tailoring-cutting-preparation-table-scene-01/v1.0.0/source.blend",
+      "size": 1896160,
+      "sha256": "3902cac0783ff07a8a2a7ea210c00e4f7bf50515e6ef7be98495550e7138383f"
+    },
+    "generator": {
+      "path": "assets/tailoring/tailoring-cutting-preparation-table-scene-01/v1.0.0/generate.py",
+      "size": 185983,
+      "sha256": "52ce793a12f134dcd3533766a8d952395aaa6978aa90b82433af4d6dd4c31b13"
+    },
+    "render": {
+      "path": "assets/tailoring/tailoring-cutting-preparation-table-scene-01/v1.0.0/thumbnail.png",
+      "size": 497422,
+      "sha256": "4965d4771e62ac8a85d0e239fb4bfd52086783b973be1f393e4ee00f233a5458"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
