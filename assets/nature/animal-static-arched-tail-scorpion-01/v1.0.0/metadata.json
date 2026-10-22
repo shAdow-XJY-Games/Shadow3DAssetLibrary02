@@ -1,0 +1,42 @@
+{
+  "id": "animal-static-arched-tail-scorpion-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "nature",
+  "style": "S02-hard-edge-faceted",
+  "title": "Static Arched-Tail Scorpion",
+  "description": "One original stylised scorpion-inspired whole animal in a fixed grounded display. A long low forebody and tapered shallowly segmented abdomen flow through shared vertices into a much narrower tail that rises behind the body, curves forwards above it and ends in a small downturned tapered hook. Two small low dorsal eyes are seated on the front body, not raised stalks. Four pairs of newly drawn thin laterally angled walking legs each end in a complete flat polygonal ground toe. Two separate new bent forearms reach forward to long narrow whole bevelled chelae with compact palms and unequal curved fingers around actual deep front-open notches. All complete body/tail path sections, leg paths, toe sections, claw outlines, forearms and eye placement are newly authored; no old crab body, pincer, limbs, beetle shell, snake segment or robot jaw is reused or extracted. Generic mesh orientation, ear clipping and mature export/render infrastructure only. Fifteen closed editable meshes, four opaque constant PBR roles, no textures. One whole prop, zero scenes, extra poses or separately counted parts. Metres, native Z up, front -Y, complete horizontal bounds-centred ground origin and eight finite flat toe caps atZ0. Artistic static external silhouette, not exact species identification, scientific anatomy, internal joints, venom, dangerousness identification, stinging, gripping, gait, animation, rig, stability, collision or biological/ecological performance.",
+  "bounds": {
+    "x": 0.883245,
+    "y": 1.490853,
+    "z": 0.782378,
+    "unit": "m"
+  },
+  "triangles": 1840,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/nature/animal-static-arched-tail-scorpion-01/v1.0.0/model.glb",
+      "size": 139188,
+      "sha256": "997ded412c2bfaf2e8c9294c9965aa1d74cecf2678f6d439e339772957e8504a"
+    },
+    "blend": {
+      "path": "assets/nature/animal-static-arched-tail-scorpion-01/v1.0.0/source.blend",
+      "size": 692804,
+      "sha256": "e2ce88119fddfde8fcd28f8dd4715253561e3460eb1d79b65fc4eb8c70daf0d8"
+    },
+    "generator": {
+      "path": "assets/nature/animal-static-arched-tail-scorpion-01/v1.0.0/generate.py",
+      "size": 24745,
+      "sha256": "e208ef98264345ad281313c3bdcb46969d2bc5bf2f5437457313cf814707d982"
+    },
+    "render": {
+      "path": "assets/nature/animal-static-arched-tail-scorpion-01/v1.0.0/thumbnail.png",
+      "size": 519257,
+      "sha256": "bf1962e7cb82e5ae58c87abcb76544c29b72756cc0a644e88a3a3084ce479d84"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

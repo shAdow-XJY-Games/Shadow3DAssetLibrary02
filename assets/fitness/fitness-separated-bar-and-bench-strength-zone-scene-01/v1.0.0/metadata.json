@@ -1,0 +1,42 @@
+{
+  "id": "fitness-separated-bar-and-bench-strength-zone-scene-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "fitness",
+  "style": "source-preserved-low-poly",
+  "title": "Separated Bar and Bench Strength Zone",
+  "description": "One static strength-equipment zone for the original fitness strength-area program. Three complete existing models at original unit scale and identity orientation: twin-upright barbell rack with its complete seated shaft and pierced plates at the rear, independent fixed-incline press bench in a separated front-left position, and one entire original hex-head dumbbell pair on the front-right floor. No weights, plates or pair members are extracted, duplicated or counted as new models. Whole raw GLB POSITION/NORMAL/index buffers, internal hierarchy and per-face PBR remain unchanged. Only one connected floor and cutaway boundary are new scene-only geometry. Complete finite original soles are on the floor; the three whole bounds are mutually separate, with five conservative connected empty strips. The bench is not placed under the bar or claimed fitted to this rack. Unlike the old kettlebell shelf-and-mat exercise corner or the sports rest area, this provides distinct bar-rack and bench/pair stations, with no copied old scene assembly. One scene, zero new independent models. No exercise effect, human fit, ergonomic recommendation, lifting or motion, weights/mass, load capacity, stability, anti-tip, equipment compatibility, manufacture, installation, walkway certification or fitness safety is claimed.",
+  "bounds": {
+    "x": 4.400000095367432,
+    "y": 4.0,
+    "z": 1.7999999523162842,
+    "unit": "m"
+  },
+  "triangles": 3944,
+  "materials": 13,
+  "files": {
+    "glb": {
+      "path": "assets/fitness/fitness-separated-bar-and-bench-strength-zone-scene-01/v1.0.0/model.glb",
+      "size": 197496,
+      "sha256": "1e8ca2ede445eeadb1326d59657c5026b95652feeaaf800137537a5699afbdce"
+    },
+    "blend": {
+      "path": "assets/fitness/fitness-separated-bar-and-bench-strength-zone-scene-01/v1.0.0/source.blend",
+      "size": 161067,
+      "sha256": "5e7ff7c7e833e86cc3132392b9f91fad5da7d832f9155b0ff405744b57259842"
+    },
+    "generator": {
+      "path": "assets/fitness/fitness-separated-bar-and-bench-strength-zone-scene-01/v1.0.0/generate.py",
+      "size": 56663,
+      "sha256": "36db17b297c36fc4be82f8998336f2de02b69cb9735b82215f3cf05e15671746"
+    },
+    "render": {
+      "path": "assets/fitness/fitness-separated-bar-and-bench-strength-zone-scene-01/v1.0.0/thumbnail.png",
+      "size": 503642,
+      "sha256": "42d0df813c4bed7ecb735397507037005605b81dfb8e7fc9df0f87feea58cff3"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
