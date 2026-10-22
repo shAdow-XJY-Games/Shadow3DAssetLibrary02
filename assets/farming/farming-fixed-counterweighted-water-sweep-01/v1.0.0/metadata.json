@@ -1,0 +1,42 @@
+{
+  "id": "farming-fixed-counterweighted-water-sweep-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "farming",
+  "style": "warm-handcrafted-village",
+  "title": "Fixed Counterweighted Water Sweep",
+  "description": "One newly authored static farming water-sweep appearance: a continuous tall forked support and low integral foot, fixed transverse bearing seat, one tapered unequal-arm timber sweep, broad short-end counterweight and long descending rod connected to a genuinely open thick-walled lifting vessel through its complete open bridge. All material bodies, finite contacts, remaining assembled openings and the sole are explicit whole geometry. Fixed game-art pose only: no rotation, balance, water, lifting output, load, manufacture, installation or safety claim. Not an extracted well bucket, rescaled seesaw or functioning pump.",
+  "bounds": {
+    "x": 2.746733427,
+    "y": 0.75999999,
+    "z": 2.029999971,
+    "unit": "m"
+  },
+  "triangles": 296,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/farming/farming-fixed-counterweighted-water-sweep-01/v1.0.0/model.glb",
+      "size": 20456,
+      "sha256": "fcad8bcdcede9b66e03fcaaf285a6665809f98d6a29967a26e719d5fadd76e6b"
+    },
+    "blend": {
+      "path": "assets/farming/farming-fixed-counterweighted-water-sweep-01/v1.0.0/source.blend",
+      "size": 543528,
+      "sha256": "61389fba2facad176e5185977c81b570782e9057fab5090c20930a69281ae3ee"
+    },
+    "generator": {
+      "path": "assets/farming/farming-fixed-counterweighted-water-sweep-01/v1.0.0/generate.py",
+      "size": 33787,
+      "sha256": "3af2c3892df703e3d5a67684b518b9bf190028bde359bc62fb2a5058f01d23fe"
+    },
+    "render": {
+      "path": "assets/farming/farming-fixed-counterweighted-water-sweep-01/v1.0.0/thumbnail.png",
+      "size": 481344,
+      "sha256": "be2bfd779ccf2dab4bbcc0021f7cbbd418172f717d97404d0c0673bf58a0f183"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

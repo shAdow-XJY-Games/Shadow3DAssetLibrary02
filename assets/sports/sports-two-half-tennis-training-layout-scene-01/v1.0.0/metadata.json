@@ -1,0 +1,42 @@
+{
+  "id": "sports-two-half-tennis-training-layout-scene-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "sports",
+  "style": "source-preserved-S01-and-soft-low-poly",
+  "title": "Two-Half Tennis Training Layout",
+  "description": "One static non-standard tennis training scene with three complete unchanged unit-scale original assets: a central freestanding through-grid net separates two muted-teal training reference regions on one continuous scene-only floor; a full three-tier bleacher faces them from the west side, and an empty two-tier ball trolley stands in the northeast equipment area. A connected south entrance, spectator approach and east route around the whole net lead to both training halves and the equipment front. All original meshes, hierarchy, oriented triangles and solid PBR are preserved; one scene and zero new independent models. The two flat floor colour regions are not regulation court lines or a new reusable line module. No balls, people, play, scoring, tension, rolling, capacity, old-ball compatibility, continuous navigation, accessibility, body fit, standard competition dimensions, installation, load, stability, manufacture or sports safety claim.",
+  "bounds": {
+    "x": 10.8,
+    "y": 10.4,
+    "z": 1.34,
+    "unit": "m"
+  },
+  "triangles": 6154,
+  "materials": 15,
+  "files": {
+    "glb": {
+      "path": "assets/sports/sports-two-half-tennis-training-layout-scene-01/v1.0.0/model.glb",
+      "size": 296688,
+      "sha256": "b72e9d1832fc731eda6a72b69c3153383be15922c4f71df25e484e248f9c105b"
+    },
+    "blend": {
+      "path": "assets/sports/sports-two-half-tennis-training-layout-scene-01/v1.0.0/source.blend",
+      "size": 1788812,
+      "sha256": "0fe1630b77a0a0a1eacd9676ea8b2f726b3b47cef8be4e28de08d8d5c2ff5769"
+    },
+    "generator": {
+      "path": "assets/sports/sports-two-half-tennis-training-layout-scene-01/v1.0.0/generate.py",
+      "size": 148615,
+      "sha256": "3f7c7eb33a87428b3ba276c0b11c772527e3c7a1089374352bd1865b0754c7d2"
+    },
+    "render": {
+      "path": "assets/sports/sports-two-half-tennis-training-layout-scene-01/v1.0.0/thumbnail.png",
+      "size": 490005,
+      "sha256": "ee2e5909faf33fa43bf2ac489ecd83b9f0dcd09c9ed144914092452b696c73f1"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
