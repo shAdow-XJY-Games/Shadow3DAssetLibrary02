@@ -1,0 +1,42 @@
+{
+  "id": "playground-neighborhood-play-garden-scene-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "playground",
+  "style": "source-preserved-S01-and-soft-low-poly",
+  "title": "Neighborhood Play Garden",
+  "description": "One static neighborhood play-garden scene under the original community-park program. A full A-frame swing and a full fixed roundabout occupy separate left and right activity bays. A whole young conifer anchors the rear-left green edge, and a complete bench stands beside the front approach. Three nonoverlapping scene-only thin paving strips form an entry stem and two rear branches on one garden base, separating the two activity bays rather than merely grouping toys on a shelf. Four complete unchanged unit-scale published models, one scene preset and zero new independent models. Not the earlier seesaw/slide corner, low sand/crawl/rider stations, climbing/rest bay, or village well courtyard. Static game-art composition only: no moving rides, operating envelope, safe clearance, child age suitability, accessible path, rooted-tree growth or structural safety certification.",
+  "bounds": {
+    "x": 8.4,
+    "y": 7.0,
+    "z": 3.876634,
+    "unit": "m"
+  },
+  "triangles": 5538,
+  "materials": 20,
+  "files": {
+    "glb": {
+      "path": "assets/playground/playground-neighborhood-play-garden-scene-01/v1.0.0/model.glb",
+      "size": 346856,
+      "sha256": "88e35b74bbf59d7cb33497d5404700611505790843318f4c858de2d3e6bb8fa4"
+    },
+    "blend": {
+      "path": "assets/playground/playground-neighborhood-play-garden-scene-01/v1.0.0/source.blend",
+      "size": 1680608,
+      "sha256": "e579bafbe36b87496a1bf816fb8df80a81077fafd80996e0a03868bd0289f892"
+    },
+    "generator": {
+      "path": "assets/playground/playground-neighborhood-play-garden-scene-01/v1.0.0/generate.py",
+      "size": 156539,
+      "sha256": "1c25e75f3da342d32d62749d97bad16ffa0044e0ffc275d232af6fad7fb3873d"
+    },
+    "render": {
+      "path": "assets/playground/playground-neighborhood-play-garden-scene-01/v1.0.0/thumbnail.png",
+      "size": 518183,
+      "sha256": "10b6945c836e36afc927a17b3c41affea4539fc399a346d6b51174832bbd1ff8"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

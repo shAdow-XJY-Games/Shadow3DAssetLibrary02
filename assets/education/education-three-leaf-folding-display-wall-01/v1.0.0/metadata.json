@@ -1,0 +1,42 @@
+{
+  "id": "education-three-leaf-folding-display-wall-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "education",
+  "style": "S01-clean-geometric",
+  "title": "Three-Leaf Folding Display Wall",
+  "description": "One complete original three-leaf teaching display wall from the original education display-wall candidate. Three separately closed thick rectangular through-frames contain three inset blank board panels. Two complete vertical pins pass through six actual bored knuckles between the frames. Side leaves stand at fixed 30 degree inward folds; all three full lower frame rails meet the ground. Fourteen closed editable meshes and three constant opaque PBR materials. One complete prop, not three assets or three rotated copies of an old blackboard. The entire new frame, insert and joint construction is authored here; no previous geometry is extracted or rescaled. Fixed presentation only: the pin/knuckle geometry has deliberate static bearing overlap, not kinematic clearance. No folding simulation, writing, paper pinning, human fit, stability, hinge loading, manufacturing or safety claim.",
+  "bounds": {
+    "x": 2.0667175976009693,
+    "y": 0.41665063509461087,
+    "z": 1.65,
+    "unit": "m"
+  },
+  "triangles": 796,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/education/education-three-leaf-folding-display-wall-01/v1.0.0/model.glb",
+      "size": 41592,
+      "sha256": "1eef3652259bd87431f37bb23a353d4883116171c8abbedfe924544958905c24"
+    },
+    "blend": {
+      "path": "assets/education/education-three-leaf-folding-display-wall-01/v1.0.0/source.blend",
+      "size": 624400,
+      "sha256": "5b633609e369b63c8776a39b88601040b6c7e244f06a2ad330be43512b43e870"
+    },
+    "generator": {
+      "path": "assets/education/education-three-leaf-folding-display-wall-01/v1.0.0/generate.py",
+      "size": 8128,
+      "sha256": "cc6b5a6d0963f33c1282ba135d8402f1601a0d3877e85a6580477bc07d9a1ae8"
+    },
+    "render": {
+      "path": "assets/education/education-three-leaf-folding-display-wall-01/v1.0.0/thumbnail.png",
+      "size": 473485,
+      "sha256": "b82049375a2861b218177b79f259d2534c552a738e889476d89336ed132eff5a"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
