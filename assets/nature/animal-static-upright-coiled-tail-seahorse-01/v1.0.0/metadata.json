@@ -1,0 +1,42 @@
+{
+  "id": "animal-static-upright-coiled-tail-seahorse-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "nature",
+  "style": "S02-hard-edge-faceted",
+  "title": "Static Upright Coiled-Tail Seahorse",
+  "description": "One original stylised seahorse-inspired fixed animal exterior: a long narrow forward muzzle leads into a broad angular eyed head, narrow bent neck, deep upright laterally thin torso with a projecting belly, small complete rear dorsal fin and a continuously narrowing tail that coils inward around real open space. All head-neck-body-tail stations and proportions are newly authored in a single connected closed mesh, and the finite dorsal fin passes through genuine removed shared-vertex body ports rather than overlapping capped plates. Two small closed dark lateral eyes are partly seated in the head. Slight body contour ridges and contrasting ventral faces belong to the same whole material surface. Not the existing fusiform fish rotated or shortened, a coiled snake with another head, a stripped larval fin, or an octopus arm extracted; no old animal arrays are reused. Three editable closed meshes and four constant opaque matte PBR roles. The narrow muzzle end is closed and dark, not a real open mouth or pneumatic tube. Metres, native Z up, head/front -Y, whole horizontal bounds-centred lowest-extent display datum, not a naturally standing support. One whole prop and zero scenes, extra species variants or life stages. Artistic exterior only: no exact species, sex, life-size, complete biological anatomy, scales, reproductive pouch, internal skeleton, actual gills, transparency, grasping, swimming, buoyancy, breathing, rig, animation, physical stability or ecological performance claim.",
+  "bounds": {
+    "x": 0.156926,
+    "y": 0.643285,
+    "z": 0.958544,
+    "unit": "m"
+  },
+  "triangles": 1184,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/nature/animal-static-upright-coiled-tail-seahorse-01/v1.0.0/model.glb",
+      "size": 89984,
+      "sha256": "e27f12f515d2c199ffffbd3b72cddac2c9589f8c1e647c57404deed558536391"
+    },
+    "blend": {
+      "path": "assets/nature/animal-static-upright-coiled-tail-seahorse-01/v1.0.0/source.blend",
+      "size": 594836,
+      "sha256": "c1c076524cb037f346c154f7e8789fcd8d8d1ef737cc54da3ab12dfa53250f15"
+    },
+    "generator": {
+      "path": "assets/nature/animal-static-upright-coiled-tail-seahorse-01/v1.0.0/generate.py",
+      "size": 23244,
+      "sha256": "3a7716b3f9d3e90365b00ee007ac700eb4352b61a54a45966e31de7bf3c2f020"
+    },
+    "render": {
+      "path": "assets/nature/animal-static-upright-coiled-tail-seahorse-01/v1.0.0/thumbnail.png",
+      "size": 504773,
+      "sha256": "97997643d8477e3338e3c712404c482d80b63e6664fabc096d09edec58438629"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

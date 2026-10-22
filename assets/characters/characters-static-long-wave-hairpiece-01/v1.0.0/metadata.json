@@ -1,0 +1,42 @@
+{
+  "id": "characters-static-long-wave-hairpiece-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "characters",
+  "style": "S02-hard-edge-faceted",
+  "title": "Static Long-Wave Hairpiece",
+  "description": "One original separate stylised long flowing hairstyle piece for the approved character-hair scope. A complete rounded finite-thickness scalp crown ends above a nearly level irregular bangs fringe; much longer approximately vertical side/back sections hang separately below the crown height. This replaces an unpublished pointed hood-like first attempt, not an additional hairstyle counted separately. Newly drawn longitudinal flowing ridges and bends run down the actual surface into an irregular deeply scalloped lower outline, leaving genuine exterior gaps below the shorter notches between long tips. A full dark inner scalp/drape surface and finite lower rim bound a genuinely open head/face cavity; no hidden solid head or filled helmet interior is exported. All complete radial sections, cavity geometry, hairline and wave coordinates are newly authored, not the existing apron-worker head or cropped-hair material region extracted, a recoloured beekeeping hat, a facepiece without its lens, or an old garment folded onto a head. One closed connected editable material mesh and three constant opaque PBR roles, no textures, alpha cards or individual strand simulation. One whole prop, zero scenes, separate lock counts, mannequin, extra pose or duplicate hairstyle variants. Metres, native Z up, open face/front -Y, complete horizontal bounds-centred origin and lowest tip atZ0 as a display datum, not a certified support. Artistic fixed hair appearance only: no actual head, demographic or real-person likeness, exact scalp fit, certified compatibility with any existing character, interchangeable dressing system, hair physics, dynamics, rig, animation, collisions, comfort or safety claim.",
+  "bounds": {
+    "x": 0.362158,
+    "y": 0.342235,
+    "z": 0.589999,
+    "unit": "m"
+  },
+  "triangles": 4224,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/characters/characters-static-long-wave-hairpiece-01/v1.0.0/model.glb",
+      "size": 333300,
+      "sha256": "a91f7347a5580dde8abdbbdf00b1192bd3cc278807392f29247a233fabc8b615"
+    },
+    "blend": {
+      "path": "assets/characters/characters-static-long-wave-hairpiece-01/v1.0.0/source.blend",
+      "size": 725684,
+      "sha256": "d48a8fd86741f5bcfd33c179e235ec0c2a084930a4dbad9c8048bf9649d6242e"
+    },
+    "generator": {
+      "path": "assets/characters/characters-static-long-wave-hairpiece-01/v1.0.0/generate.py",
+      "size": 22247,
+      "sha256": "2c1314973aa037ea3a4887f53fc3c5c6a62dd9e576b107452fff0a375407dac8"
+    },
+    "render": {
+      "path": "assets/characters/characters-static-long-wave-hairpiece-01/v1.0.0/thumbnail.png",
+      "size": 518024,
+      "sha256": "7292fefaefd1f33ea358cee36c3091ed6c5661f8233c98af4740809d659a2744"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
