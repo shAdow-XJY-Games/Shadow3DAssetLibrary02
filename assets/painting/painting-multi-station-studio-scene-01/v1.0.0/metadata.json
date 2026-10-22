@@ -1,0 +1,42 @@
+{
+  "id": "painting-multi-station-studio-scene-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "painting",
+  "style": "source-preserved-S01-and-soft-low-poly",
+  "title": "Multi-Station Painting Studio",
+  "description": "One static multi-station painting studio under the original painting studio scene program. A complete fixed-tilt drafting desk occupies the left foreground, a whole fixed H-frame easel and blank board the rear work position, a full six-tray perforated drying rack the right rear, and a whole empty two-basin tool trolley the right foreground. A clear central approach separates drawing, vertical painting, drying and mobile-tool-storage positions within a two-wall open cutaway. Four complete published unit-scale unrotated props retain every component and original PBR. Only the closed floor and two closed partial room walls are scene-only. One scene, zero new independent models. This differs from the old single easel-and-palette small display pad through its multi-position studio work/storage layout, not by changing easel angle, paint colours or frame size. Empty board, trays and basins remain empty; no artworks, paint, brushes, paper, people, animated folding, wheels, tool compatibility, load, ergonomics, drying performance, accessibility or safety certification is claimed.",
+  "bounds": {
+    "x": 5.4,
+    "y": 4.4,
+    "z": 2.3,
+    "unit": "m"
+  },
+  "triangles": 16228,
+  "materials": 18,
+  "files": {
+    "glb": {
+      "path": "assets/painting/painting-multi-station-studio-scene-01/v1.0.0/model.glb",
+      "size": 606364,
+      "sha256": "c286fb00a858f3ad8e0f7fa97f6dab5dc66b53c8d6a33a386b066dd47f6056f4"
+    },
+    "blend": {
+      "path": "assets/painting/painting-multi-station-studio-scene-01/v1.0.0/source.blend",
+      "size": 2742292,
+      "sha256": "1abe8be84e8b6327ce0c54554e3e6e7f3dddb43c7f3efd4e1cdb058cfdb34b8b"
+    },
+    "generator": {
+      "path": "assets/painting/painting-multi-station-studio-scene-01/v1.0.0/generate.py",
+      "size": 168699,
+      "sha256": "29b66e74222c54776f1192687f334a40f71aa41219687dd600e0e04ca97fcd1a"
+    },
+    "render": {
+      "path": "assets/painting/painting-multi-station-studio-scene-01/v1.0.0/thumbnail.png",
+      "size": 556414,
+      "sha256": "7861b81bf06ac912e93d3a8a13985bb3a8d03132dd0fd4b80fcb597e670379e9"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

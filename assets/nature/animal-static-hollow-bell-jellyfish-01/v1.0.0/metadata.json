@@ -1,0 +1,42 @@
+{
+  "id": "animal-static-hollow-bell-jellyfish-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "nature",
+  "style": "S02-hard-edge-faceted",
+  "title": "Static Hollow-Bell Jellyfish",
+  "description": "One original stylised static jellyfish-like exterior: a soft shallow rounded bell has true finite outer and inner surfaces enclosing a genuine downward-opening cavity and gently scalloped margin. Eight long slender curved marginal filaments contrast with four shorter broad subtly rippled central oral arms. All twelve appendages share real complete root-patch vertices with the new bell in one closed connected mesh, without hidden capped roots or overlapping old parts. One opaque teal bell, darker underside and marginal filaments, and warm pale central arms use three constant matte PBR materials. All bell surfaces and appendage trajectories are newly authored, not an octopus with its head removed, a ray disc stretched, a parasol without its pole, a handbell without its grip, or mushrooms with stems extracted. Only generic mesh orientation and mature export/render tools reused. One prop, zero scenes, poses or separately counted parts. Metres, native Z up, front -Y, full horizontal bounds-centred origin at lowest filament extent. This origin is for asset placement and does not assert that a real jellyfish stands, bears load or supports itself on land. Opaque decorative game-art appearance only: no transparency, real living tissue, exact species or internal anatomical fidelity, biological feeding, swimming, buoyancy, sting, danger, ecological behaviour, rig, animation or physical performance. No sea, support rig, pedestal, label or scene.",
+  "bounds": {
+    "x": 0.63,
+    "y": 0.63,
+    "z": 0.750464,
+    "unit": "m"
+  },
+  "triangles": 4824,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/nature/animal-static-hollow-bell-jellyfish-01/v1.0.0/model.glb",
+      "size": 379816,
+      "sha256": "2e83b782327b4fdb6ec3efb08a9b8ce317de11c35c135f8af055f760878764c1"
+    },
+    "blend": {
+      "path": "assets/nature/animal-static-hollow-bell-jellyfish-01/v1.0.0/source.blend",
+      "size": 758120,
+      "sha256": "c114b8126d5d7980575fe8cb429d648c5bd2e98b0a224b0229f01c176a76314d"
+    },
+    "generator": {
+      "path": "assets/nature/animal-static-hollow-bell-jellyfish-01/v1.0.0/generate.py",
+      "size": 22873,
+      "sha256": "fd7dc12d6a21691ea47883c0b1680a2372ff36fc2c679ef5e8fadf0de164ffb5"
+    },
+    "render": {
+      "path": "assets/nature/animal-static-hollow-bell-jellyfish-01/v1.0.0/thumbnail.png",
+      "size": 488317,
+      "sha256": "17ee558d3f7a43ea1ddd47617802ef32abc3515aa59521dc847516c4a4dc4d0d"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
