@@ -1,0 +1,42 @@
+{
+  "id": "festival-open-pleated-paper-lantern-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "festival",
+  "style": "warm-handcrafted-village",
+  "title": "Open Pleated Paper Lantern",
+  "description": "A squat bulging paper-like lantern with a continuous horizontally folded thin wall, genuinely open upper and lower annular collars, and one continuous arched carrying band. Static unlit visual prop; no lighting, fire-safety, weatherproofing, physical flex or functioning-handle claim.",
+  "bounds": {
+    "x": 0.378583103,
+    "y": 0.378583103,
+    "z": 0.529999971,
+    "unit": "m"
+  },
+  "triangles": 1588,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/festival/festival-open-pleated-paper-lantern-01/v1.0.0/model.glb",
+      "size": 83684,
+      "sha256": "c7cef314b2cf417ecd51af2ecc137e7b6dd7db357ffc190c66765658374c07de"
+    },
+    "blend": {
+      "path": "assets/festival/festival-open-pleated-paper-lantern-01/v1.0.0/source.blend",
+      "size": 597948,
+      "sha256": "c27a400e7ee6dbd8a4265a00c4cda5411f7ec875b7199ebf4bd6320572dec7bb"
+    },
+    "generator": {
+      "path": "assets/festival/festival-open-pleated-paper-lantern-01/v1.0.0/generate.py",
+      "size": 32699,
+      "sha256": "3faefb3681606a394d147ca8429355766e737022ecf8912ddef920ddec09b3aa"
+    },
+    "render": {
+      "path": "assets/festival/festival-open-pleated-paper-lantern-01/v1.0.0/thumbnail.png",
+      "size": 567123,
+      "sha256": "b36fc74dc8120ef517b16e814a9ec98d42545a7b157e27940566cb9a47104aff"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
