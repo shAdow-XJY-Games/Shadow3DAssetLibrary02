@@ -1,0 +1,42 @@
+{
+  "id": "farming-fruiting-strawberry-runner-plant-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "farming",
+  "style": "warm-handcrafted-village",
+  "title": "Fruiting Strawberry Runner Plant",
+  "description": "One newly authored whole low fruiting strawberry-like plant: compact upright crown with three complete trifoliate serrated-leaf petioles, a hanging downward-tapered seeded fruit and five true calyx blades, one small attached flower, and one continuous thin runner to a rooted daughter crown with its own trifoliate rosette. Complete new plant architecture and coordinates, not a removed seedling-tray plant, scaled pumpkin vine or recoloured fruit kit. No old visible mesh imported. Three opaque constant PBR roles; metres, Z up and true complete horizontal bounds-centred. Static stylised crop-form game-art only, not exact cultivar/species, growth/reproduction animation, botanical maturity, yield, edible/food-use, horticultural/irrigation or physical stability performance.",
+  "bounds": {
+    "x": 0.668594301,
+    "y": 0.448219419,
+    "z": 0.260189146,
+    "unit": "m"
+  },
+  "triangles": 3904,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/farming/farming-fruiting-strawberry-runner-plant-01/v1.0.0/model.glb",
+      "size": 274696,
+      "sha256": "4c795e092eee4b6f30f211cdf24a538c6dad3411fe91409c4fa64f07d6a98740"
+    },
+    "blend": {
+      "path": "assets/farming/farming-fruiting-strawberry-runner-plant-01/v1.0.0/source.blend",
+      "size": 976120,
+      "sha256": "27f6343e923e9d6b27465cc4af6c41e01a5812f5390140e2705b0d659d598973"
+    },
+    "generator": {
+      "path": "assets/farming/farming-fruiting-strawberry-runner-plant-01/v1.0.0/generate.py",
+      "size": 32539,
+      "sha256": "e83b71b71f10a396da066264f5ae42a022748a512f387f8d9451416b701410bd"
+    },
+    "render": {
+      "path": "assets/farming/farming-fruiting-strawberry-runner-plant-01/v1.0.0/thumbnail.png",
+      "size": 495147,
+      "sha256": "244cb795ee0043f4568ef4c35004ac6939207666b2631d53addbd644f35e1e4e"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

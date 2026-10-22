@@ -1,0 +1,42 @@
+{
+  "id": "laundry-washer-and-hamper-preparation-scene-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "laundry",
+  "style": "source-preserved-low-poly",
+  "title": "Washer and Hamper Preparation Corner",
+  "description": "One static laundry-room preparation corner. A whole original front-loading washer in its original closed-door pose stands beside a complete original empty suspended fabric-hamper cart with its original rim, folded cuff, four frame posts, lower rails and four fixed caster assemblies. The washer retains the real drum housing and entire editable seven-part hinged door, but the recessed dark disc remains opaque and closed; no transparency or interior visibility is invented. All original local POSITION/NORMAL bytes, constant PBR materials and internal hierarchy remain unchanged. Only exact unit-scale whole-object translations and one finite new floor are authored. Complete floor footprints are inside the slab, soles are grounded and the two complete objects have a positive lateral gap. One scene and zero independent new models. This is a washing-appliance and collection-cart station, not the existing clothesline/washboard/basin drying corner recoloured or renamed. Both are empty and fixed; no garments are inserted. No washing, heating, electrical or plumbing function, drum or wheel movement, continuous door sweep, appliance-cart compatibility, laundry transfer, cloth deformation, capacity, hygiene, ergonomics or safety claim; no enclosed room or operational installation is supplied.",
+  "bounds": {
+    "x": 2.200000047683716,
+    "y": 1.7999999523162842,
+    "z": 0.9200000166893005,
+    "unit": "m"
+  },
+  "triangles": 3328,
+  "materials": 11,
+  "files": {
+    "glb": {
+      "path": "assets/laundry/laundry-washer-and-hamper-preparation-scene-01/v1.0.0/model.glb",
+      "size": 208108,
+      "sha256": "2d0d6da322e36f9ea0e0bce68a08d508a46fd8f886fb0f187b1f657c3db354b8"
+    },
+    "blend": {
+      "path": "assets/laundry/laundry-washer-and-hamper-preparation-scene-01/v1.0.0/source.blend",
+      "size": 1323000,
+      "sha256": "d5284f9213d5bc2130e70ddb274cd556989a07f8b0cc222fda68a2fda8032c23"
+    },
+    "generator": {
+      "path": "assets/laundry/laundry-washer-and-hamper-preparation-scene-01/v1.0.0/generate.py",
+      "size": 90268,
+      "sha256": "6371d5c1563af91f1066e4d5e3a5e6b008b9976b504aad8a4bdd58766401b17c"
+    },
+    "render": {
+      "path": "assets/laundry/laundry-washer-and-hamper-preparation-scene-01/v1.0.0/thumbnail.png",
+      "size": 486225,
+      "sha256": "03f0fc3d7a6860aa62c9d7e52e3de61990a060e477cf45f6ec3aebbb66957e0b"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

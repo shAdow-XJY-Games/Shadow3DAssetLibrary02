@@ -1,0 +1,42 @@
+{
+  "id": "aviation-parked-ground-service-corner-scene-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "aviation",
+  "style": "source-preserved-low-poly",
+  "title": "Parked Ground-Service Equipment Corner",
+  "description": "One static ground-service equipment corner for the original aviation program. A complete existing compact saddle-tank truck exterior is parked in the left strip. A complete existing fixed four-wheel boarding stair cart occupies the right rear strip. One complete independent aircraft towbar is parked separately at the front right and one complete transport wheel chock is stored separately in the rear middle. Four unique old models, four whole instances, original unit scale and identity orientation, original raw GLB attribute/index buffers, internal hierarchy and all PBR untouched. Only a connected scene-only apron and low rear/short side edge are new geometry. Full original finite ground soles are supported and five conservative empty strips connect around the separately parked equipment. No aircraft is present and the towbar/chock are not coupled or fitted to another object. This is a separated ground-equipment holding layout, not the original plane parking tiles or the two-portal maintenance hangar. One scene, zero new independent models. No fuel, fluid, tank interior, hose, dispensing, boarding operation, motion, towing compatibility, wheel restraint, working connections, aircraft fit, engineering performance, installation, operating procedure or aviation safety certification is claimed.",
+  "bounds": {
+    "x": 6.0,
+    "y": 6.0,
+    "z": 2.5400002002716064,
+    "unit": "m"
+  },
+  "triangles": 3528,
+  "materials": 18,
+  "files": {
+    "glb": {
+      "path": "assets/aviation/aviation-parked-ground-service-corner-scene-01/v1.0.0/model.glb",
+      "size": 220528,
+      "sha256": "7fc69a7441ac49757b6376bb7d4ac1104513d7f41403d1f0cc96eb6072248bcc"
+    },
+    "blend": {
+      "path": "assets/aviation/aviation-parked-ground-service-corner-scene-01/v1.0.0/source.blend",
+      "size": 177661,
+      "sha256": "548db97b021511f27d0800f5d88df19eb3b649085b195616ef8beb673db23162"
+    },
+    "generator": {
+      "path": "assets/aviation/aviation-parked-ground-service-corner-scene-01/v1.0.0/generate.py",
+      "size": 62400,
+      "sha256": "f212c1c810b5d17d36d16f2054ba66b5dc6b93e9365b3f43a034ca62339bb7e8"
+    },
+    "render": {
+      "path": "assets/aviation/aviation-parked-ground-service-corner-scene-01/v1.0.0/thumbnail.png",
+      "size": 517562,
+      "sha256": "0cd7145702084ad4ca5e04b9aecb125abfea6de7623b2fa763d469fda1dc101f"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
