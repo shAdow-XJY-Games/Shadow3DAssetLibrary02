@@ -1,0 +1,42 @@
+{
+  "id": "village-open-gabled-dormer-shell-01",
+  "version": "1.0.0",
+  "category": "architecture",
+  "assetKind": "modular",
+  "theme": "village",
+  "style": "S01-clean-geometric",
+  "title": "Open Gabled Dormer Shell",
+  "description": "One original static gabled dormer shell appearance: a complete front gable has a real through-window, two deep tapered cheeks join one continuous thick double-pitched roof, and the rear and inclined underside remain open. The entire material boundary is one connected closed shared-vertex mesh with no overlapping independent roof fragments or hidden cavity fill. Three whole finite underside strips form one U-shaped mathematical attachment datum on z=0.5(y+0.5), distinct from a flat ground sole. One modular visual asset, zero scenes, one editable mesh and two opaque constant untextured PBR face-role colours. Metres describe game space, native Z up, front -Y and horizontal bounds-centred design datum. Full connected inset material, complete interior with front/rear/underside egress, and entire inclined attachment faces are explicitly represented. No host roof or building is included; no fit to an earlier roof, real mounting, ground-standing, waterproofing, weather exclusion, ventilation or daylight performance, habitable access, load, structural capacity, construction, manufacture, building-code or safety certification claim. No glass, frame hardware, trim variants, text, logo, texture or animation. No previous roof, gable, window wall, snow cap or house geometry is imported.",
+  "bounds": {
+    "x": 1.200000048,
+    "y": 1.0,
+    "z": 1.200000048,
+    "unit": "m"
+  },
+  "triangles": 192,
+  "materials": 2,
+  "files": {
+    "glb": {
+      "path": "assets/village/village-open-gabled-dormer-shell-01/v1.0.0/model.glb",
+      "size": 9032,
+      "sha256": "346235675731ee51c4d8c745b54f38420041bacb34d4a2b8285b7e705649f7d1"
+    },
+    "blend": {
+      "path": "assets/village/village-open-gabled-dormer-shell-01/v1.0.0/source.blend",
+      "size": 484508,
+      "sha256": "e72ff305032679b9371acc95f8154f9981d666e067e2a93f7ef180ee3faee070"
+    },
+    "generator": {
+      "path": "assets/village/village-open-gabled-dormer-shell-01/v1.0.0/generate.py",
+      "size": 32500,
+      "sha256": "3e1e21ca380cfb3f78b21c284165b4d0b7c3fee9ff477000de9ab1635c40f06c"
+    },
+    "render": {
+      "path": "assets/village/village-open-gabled-dormer-shell-01/v1.0.0/thumbnail.png",
+      "size": 513759,
+      "sha256": "98fff367d41e589e164824459254c1845babea06e564bb127f0333ae14c3d2be"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
