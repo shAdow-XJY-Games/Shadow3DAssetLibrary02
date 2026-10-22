@@ -1,0 +1,42 @@
+{
+  "id": "arcade-side-by-side-sitdown-racing-scene-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "arcade",
+  "style": "source-preserved-low-poly",
+  "title": "Side-by-Side Static Racing Stations",
+  "description": "One static side-by-side racing-station scene from the original arcade twin-racing scene program. Two whole instances of the same original sit-down racer retain both complete continuous bases, bucket seats, fixed steering rings and supports, footwell floors, two fixed pedals per machine, display cabinets and exclusive blank screen solids. These are two existing instances, not two new machine models or a new structural variation. All original local POSITION/NORMAL/UV/index bytes, seven original PBR materials per instance and full internal hierarchy remain unchanged. Only two unit-scale whole translations and one new finite scene floor are authored; whole footprints rest on it with positive separation. Instance-prefixed screen node and material identities remain separate and blank; no game imagery, linked multiplayer, network, electrical/input behavior, steering or pedal motion, human-fit, capacity, accessibility, load or safety certification is asserted. Unlike the original single upright cabinet and player mat corner, this is the explicitly planned paired seated-cockpit layout. One new scene, zero new independent models; not a full operating arcade room.",
+  "bounds": {
+    "x": 3.799999952316284,
+    "y": 3.4000000953674316,
+    "z": 1.8366589546203613,
+    "unit": "m"
+  },
+  "triangles": 2676,
+  "materials": 16,
+  "files": {
+    "glb": {
+      "path": "assets/arcade/arcade-side-by-side-sitdown-racing-scene-01/v1.0.0/model.glb",
+      "size": 202244,
+      "sha256": "ead814c53e792f0e35b287677b1e8ac593ba7671e4223cf3a2859a087cd497f7"
+    },
+    "blend": {
+      "path": "assets/arcade/arcade-side-by-side-sitdown-racing-scene-01/v1.0.0/source.blend",
+      "size": 1499368,
+      "sha256": "57aa2058155a304712edffb2ea50a9904db14dae567b04fe5ba98ff450cb2b31"
+    },
+    "generator": {
+      "path": "assets/arcade/arcade-side-by-side-sitdown-racing-scene-01/v1.0.0/generate.py",
+      "size": 96959,
+      "sha256": "dd7e010e34b626049e47ae9ef7db7444e65d1114f6d9071f7e6938843201edfd"
+    },
+    "render": {
+      "path": "assets/arcade/arcade-side-by-side-sitdown-racing-scene-01/v1.0.0/thumbnail.png",
+      "size": 514416,
+      "sha256": "4bcea5e4d6b317c7cfe32acc3a0cf80dc90abfcc864b57031688570552edd138"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

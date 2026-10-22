@@ -1,0 +1,42 @@
+{
+  "id": "baggage-static-acceptance-counter-scene-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "baggage",
+  "style": "source-preserved-low-poly",
+  "title": "Static Luggage Acceptance Counter",
+  "description": "One static baggage acceptance-counter display scene for the original baggage check-in program. A complete existing open service counter supports a complete empty tabletop parcel-scale exterior; the small scale is not claimed to fit or weigh the displayed luggage. Beside the counter a whole existing arched luggage trolley supports one whole open weekender holdall on its actual complete flat platform. A complete fixed-open deep travel case stands independently in the front customer area. Five unique complete old models at unit scale and identity orientation; original raw GLB POSITION/NORMAL/index buffers, internal hierarchies and original PBR remain untouched. Only a connected scene floor and low cutaway boundaries are new. Full bag and scale soles are contained in actual host surfaces, all other whole instances are separate, and conservative front/central/rear/side empty strips are connected. This is a counter-and-loaded-luggage-cart acceptance layout, not the earlier cage/straight-roller/scanner logistics receiving layout. One scene, zero new independent models. No weighing, luggage capacity, conveyor operation, sorting operation, telescopic or hinge motion, wheel movement, structural capacity, airport procedure, certification, accessibility compliance or baggage safety is claimed.",
+  "bounds": {
+    "x": 4.0,
+    "y": 3.5999999046325684,
+    "z": 1.8899999856948853,
+    "unit": "m"
+  },
+  "triangles": 7404,
+  "materials": 22,
+  "files": {
+    "glb": {
+      "path": "assets/baggage/baggage-static-acceptance-counter-scene-01/v1.0.0/model.glb",
+      "size": 324968,
+      "sha256": "3e7aa3d4e85307b5dd29f0fc4ecd6cbd6d71543cdb301d28e7c7a47de63ca224"
+    },
+    "blend": {
+      "path": "assets/baggage/baggage-static-acceptance-counter-scene-01/v1.0.0/source.blend",
+      "size": 207332,
+      "sha256": "330d803c5c65b9c2f995d20327cddb8d2946a5d8beeb0aa7dc2a071af7e5225e"
+    },
+    "generator": {
+      "path": "assets/baggage/baggage-static-acceptance-counter-scene-01/v1.0.0/generate.py",
+      "size": 86321,
+      "sha256": "b011fb3d7a2c5d66d26ca698e92953344341fb15d9827bd5272c5ba2bff3fc94"
+    },
+    "render": {
+      "path": "assets/baggage/baggage-static-acceptance-counter-scene-01/v1.0.0/thumbnail.png",
+      "size": 520168,
+      "sha256": "768ee604491fc76cf3bdf412a2ef20688106d6ab989ef454e7584e81a4673b29"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

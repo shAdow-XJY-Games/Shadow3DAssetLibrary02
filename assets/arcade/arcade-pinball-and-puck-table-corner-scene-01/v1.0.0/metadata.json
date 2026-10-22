@@ -1,0 +1,42 @@
+{
+  "id": "arcade-pinball-and-puck-table-corner-scene-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "arcade",
+  "style": "source-preserved-low-poly",
+  "title": "Pinball and Open-Goal Table Games Corner",
+  "description": "One static two-station table-games corner within the original small-arcade scene direction. The complete original open-top inclined pinball cabinet, all four legs and feet, fixed ball, launcher lane, flippers, bumpers, rear target blades and opaque physical backbox medallion remain untouched. Beside it stands the whole original open-goal puck table, with its complete thick bed, both portal trestles, two long side rails, two through goal frames and both lower open return troughs. All local POSITION/NORMAL/index bytes, original five plus four solid PBR materials and original internal hierarchy are preserved. Only unit-scale whole translations and one new finite floor are authored. Complete footprints rest on the floor, and entire station bounds are positively separated. No tabletop, flipper, sign or trough is extracted as a new asset, and no board is recoloured or resized. This is a new mixed physical-table-game layout, unlike the old single upright screen cabinet and player mat, and unlike the separate paired seated racing scene. One scene, zero new independent models. No puck or striker is added, and the pinball sign is opaque, not a runtime screen. No playable pinball, air cushion, ball motion, scoring, electronics, input, humanoid fit, capacity, safety or complete operating enclosed arcade hall is claimed.",
+  "bounds": {
+    "x": 3.4000000953674316,
+    "y": 3.4000000953674316,
+    "z": 1.8650000095367432,
+    "unit": "m"
+  },
+  "triangles": 2288,
+  "materials": 11,
+  "files": {
+    "glb": {
+      "path": "assets/arcade/arcade-pinball-and-puck-table-corner-scene-01/v1.0.0/model.glb",
+      "size": 143188,
+      "sha256": "cd2b8331d431308d1e882c3abbc4df46898978e15d3a75eeda294f51c71e348d"
+    },
+    "blend": {
+      "path": "assets/arcade/arcade-pinball-and-puck-table-corner-scene-01/v1.0.0/source.blend",
+      "size": 1236844,
+      "sha256": "227b3450e948d9602449f98f5f30f190c54ce9753322e1eb692ea87aa347d433"
+    },
+    "generator": {
+      "path": "assets/arcade/arcade-pinball-and-puck-table-corner-scene-01/v1.0.0/generate.py",
+      "size": 77056,
+      "sha256": "54a960b1810aab7b0a36e64f697387635d9efa70f8566d250e66486028750031"
+    },
+    "render": {
+      "path": "assets/arcade/arcade-pinball-and-puck-table-corner-scene-01/v1.0.0/thumbnail.png",
+      "size": 508149,
+      "sha256": "4c9ecb259ed534b7290a410849c1fd0c1d2e59a60cd696bda08cb3f404e8d97b"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "farming-fixed-twin-treadle-irrigation-pump-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "farming",
+  "style": "warm-handcrafted-village",
+  "title": "Fixed Twin-Treadle Irrigation Pump",
+  "description": "One newly authored whole fixed twin-treadle irrigation-pump-inspired prop: two long grounded skids and crossmembers support a shared lower collection-housing exterior, two upright shoulder barrels with annular occupied rod glands, separate vertical piston-style rods and visible transverse pins under two long broad timber treadles. The treadles share a full rear axle on two real frame posts and are fixed at unequal raised angles. One forward hollow discharge connector and a shorter rear hollow connector have real small exposed annular mouths; their roots terminate in the solid lower housing, not a continuous fluid circuit. New complete low pedal/rod/barrel/shared-housing arrangement and coordinates; no old pump, spinning-wheel or foot-tray mesh imported or doubled. Three opaque constant PBR roles, metres/Z up and true whole horizontal bounds-centred. Static game-art only, no working piston/valves/pedal linkage, liquid, pressure/lift/flow/efficiency, irrigation performance, human fit/standing load, use advice, manufacture or safety claim.",
+  "bounds": {
+    "x": 0.689999998,
+    "y": 1.5,
+    "z": 0.777499974,
+    "unit": "m"
+  },
+  "triangles": 1196,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/farming/farming-fixed-twin-treadle-irrigation-pump-01/v1.0.0/model.glb",
+      "size": 68228,
+      "sha256": "a71025ec08dd548390e87540dcfcd14d221632c6095300f110b5c7ba0e45de92"
+    },
+    "blend": {
+      "path": "assets/farming/farming-fixed-twin-treadle-irrigation-pump-01/v1.0.0/source.blend",
+      "size": 638848,
+      "sha256": "89e57cfdf9e205686a0c2497bde737f8e60e10f8db7dbed98d7b4708da234372"
+    },
+    "generator": {
+      "path": "assets/farming/farming-fixed-twin-treadle-irrigation-pump-01/v1.0.0/generate.py",
+      "size": 30450,
+      "sha256": "8508e4c4286d7efe6ddd6d225492cad1bc32e9a8b90ff4c7d48dc3107d6b689a"
+    },
+    "render": {
+      "path": "assets/farming/farming-fixed-twin-treadle-irrigation-pump-01/v1.0.0/thumbnail.png",
+      "size": 532243,
+      "sha256": "24b12290486e147002980e7ba527273c36f3513a4d6850c8c34d2c162f0b5f51"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
