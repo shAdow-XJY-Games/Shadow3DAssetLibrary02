@@ -1,0 +1,42 @@
+{
+  "id": "cave-mine-fixed-cam-lift-two-stamp-mill-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "cave-mine",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Cam-Lift Two-Stamp Ore Mill",
+  "description": "One newly authored complete static historical ore-stamp appearance: a grounded twin-post frame carries a horizontal camshaft, two distinct fixed flat-crest cam/tappet contacts, two whole square stamp stems passing through actual square bores in two closed guide bodies, raised heads and one genuinely open blind-bottom mortar. A fixed four-spoke rim completes the shaft appearance. The whole cam-to-tappet and guided falling-stem arrangement is structurally different from the old single-column bench drill, lever citrus press, threaded-spindle basket press and smith scene with hand tools; adding a second head is not the novelty. All main geometry newly authored using mature boxes, annuli, polygon extrusions and a small boundary-cell guide primitive. Both heads remain above the mortar floor, the two cams are fixed in different phases, and the bore spaces occupied by stems/shaft are not claimed fully clear. Static art only: no motor/belt drive, motion cycle, impact force, ore crushing capacity, manufacturing, installation, guarding, structural loading or machinery safety claim.",
+  "bounds": {
+    "x": 1.84,
+    "y": 1.01,
+    "z": 2.3000000000000003,
+    "unit": "m"
+  },
+  "triangles": 1396,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/village/cave-mine-fixed-cam-lift-two-stamp-mill-01/v1.0.0/model.glb",
+      "size": 75496,
+      "sha256": "a0ab1f27d61fc57119e271d6b78664641a75dbfd7a4ac577fd6284f439cb9a0f"
+    },
+    "blend": {
+      "path": "assets/village/cave-mine-fixed-cam-lift-two-stamp-mill-01/v1.0.0/source.blend",
+      "size": 763704,
+      "sha256": "240fca760192beae388b35f04df20560b6688ac779c08d2ce1704a1f0637b986"
+    },
+    "generator": {
+      "path": "assets/village/cave-mine-fixed-cam-lift-two-stamp-mill-01/v1.0.0/generate.py",
+      "size": 11652,
+      "sha256": "5bfe405a1b61cf47c66590ca31abdc75b24a1c67fa2f78f3deef2f306a153e77"
+    },
+    "render": {
+      "path": "assets/village/cave-mine-fixed-cam-lift-two-stamp-mill-01/v1.0.0/thumbnail.png",
+      "size": 457083,
+      "sha256": "5fb1188328f95001a9508d638c7a340f0d7593308c37a37b119768b939a788ab"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

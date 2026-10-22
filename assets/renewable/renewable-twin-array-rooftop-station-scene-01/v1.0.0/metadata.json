@@ -1,0 +1,42 @@
+{
+  "id": "renewable-twin-array-rooftop-station-scene-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "renewable",
+  "style": "source-preserved-low-poly",
+  "title": "Twin-Array Rooftop Station",
+  "description": "One static rooftop-station scene for the original renewable rooftop program. Two complete existing tilted eight-cell solar racks sit side by side on a thick isolated roof-deck cutaway. One complete existing finned inverter cabinet, one complete open twin-battery box with its original two battery exteriors and raised lid, and one complete empty perforated cable-tray segment form a separated front equipment strip. Four unique old assets, five whole instances, original unit scale, untouched raw GLB POSITION/NORMAL/index buffers, internal hierarchy and all PBR. Only the connected thick roof deck and low cutaway parapets are new scene-only geometry. Conservative central/front/side empty strips connect around the equipment; every old full finite sole remains supported on the deck. Different from the original ground-mounted wind/solar off-grid corner: no turbine, paired rooftop arrays and separate front equipment strip. One scene, zero new independent models. The cable tray is deliberately empty and not connected to devices; no cables, wiring, electrical continuity, solar generation, voltage, capacity, performance, installation, structural loading, roof waterproofing, access compliance, fire safety or functional compatibility is claimed. The opaque blank inverter display is original, not a newly counted control meter.",
+  "bounds": {
+    "x": 4.900000095367432,
+    "y": 3.4000000953674316,
+    "z": 1.3336210250854492,
+    "unit": "m"
+  },
+  "triangles": 5328,
+  "materials": 20,
+  "files": {
+    "glb": {
+      "path": "assets/renewable/renewable-twin-array-rooftop-station-scene-01/v1.0.0/model.glb",
+      "size": 316056,
+      "sha256": "e0ca0f5b5c067bbd14f658a8fa0e2bf914eea8ae5c23faa2bd37803139011571"
+    },
+    "blend": {
+      "path": "assets/renewable/renewable-twin-array-rooftop-station-scene-01/v1.0.0/source.blend",
+      "size": 199957,
+      "sha256": "7d123233bbf36ce3a30b7142509a8c881a1c2cc3c2203eb67c33faf99c6add04"
+    },
+    "generator": {
+      "path": "assets/renewable/renewable-twin-array-rooftop-station-scene-01/v1.0.0/generate.py",
+      "size": 77076,
+      "sha256": "8731f62d36db5d2f8359f57147c378bbbbe0dec8a0e803b673bcd03c75cb9a1a"
+    },
+    "render": {
+      "path": "assets/renewable/renewable-twin-array-rooftop-station-scene-01/v1.0.0/thumbnail.png",
+      "size": 493435,
+      "sha256": "3566874d3188c25b3eb0722a59e454cfe5c0b34be7d52623f96bde773726de04"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
