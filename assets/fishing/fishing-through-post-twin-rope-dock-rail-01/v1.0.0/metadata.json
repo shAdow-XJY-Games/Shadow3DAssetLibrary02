@@ -1,0 +1,42 @@
+{
+  "id": "fishing-through-post-twin-rope-dock-rail-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "fishing",
+  "style": "warm-handcrafted-village",
+  "title": "Fixed Through-Post Twin-Rope Dock Rail",
+  "description": "One complete static dock-edge rope rail: two thick rectangular timber posts each have two genuine through apertures; two complete sagged closed rope strands pass through those apertures and terminate in enlarged integral end-stop collars outside both posts. Two complete finite rectangular metal base plates support the posts. Six editable closed meshes and three opaque solid PBR roles. Entire post-with-two-hole boundaries and continuous rope/end-stop profiles are newly authored, not an old pointed-picket fence with bars removed or a court fence recoloured; not a mooring bollard. Compared with the existing turned-stanchion queue barrier using external solid studs and separate ferrules, these strands pass through four true rectangular post apertures and meet external stop shoulders; the construction is not merely two copies of its rope, a height change or a wood-colour swap. One original fishing-plan dock rail prop, no separately counted post/rope/plate components. Metres, Z up, front -Y, centered whole bounds, real flat plate soles at Z0. Fixed static visual configuration only: no restraint or guardrail rating, safe dock edge, rope tension, material strength, durability, manufacture, bolt anchorage, load, compliant movement or real mooring function is asserted.",
+  "bounds": {
+    "x": 1.440000057,
+    "y": 0.180000007,
+    "z": 1.039999962,
+    "unit": "m"
+  },
+  "triangles": 848,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/fishing/fishing-through-post-twin-rope-dock-rail-01/v1.0.0/model.glb",
+      "size": 46452,
+      "sha256": "167e23e37e9ff9f55b794d34d01ade8753693f4dbb0dd78aca3c2e07431d5954"
+    },
+    "blend": {
+      "path": "assets/fishing/fishing-through-post-twin-rope-dock-rail-01/v1.0.0/source.blend",
+      "size": 568328,
+      "sha256": "7b6c33021131a76bc3430651544aa522fd221c397e4f11642621ff01c09a6c35"
+    },
+    "generator": {
+      "path": "assets/fishing/fishing-through-post-twin-rope-dock-rail-01/v1.0.0/generate.py",
+      "size": 28432,
+      "sha256": "4bea1e73c7bdbc11b58c1b3f6fe96e9badedbab937ae9fb4373beebc86e61966"
+    },
+    "render": {
+      "path": "assets/fishing/fishing-through-post-twin-rope-dock-rail-01/v1.0.0/thumbnail.png",
+      "size": 492178,
+      "sha256": "c4570528bc0413991227a486a70fca695daa11635a28807b2b080d06a4d567a9"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
