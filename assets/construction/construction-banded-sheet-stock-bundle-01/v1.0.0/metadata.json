@@ -1,0 +1,42 @@
+{
+  "id": "construction-banded-sheet-stock-bundle-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "construction",
+  "style": "S01-clean-geometric",
+  "title": "Banded Sheet Stock Bundle",
+  "description": "One original complete static sheet-stock bundle under the original construction board-stock direction, counted as one prop. Three separate broad solid corner-clipped panels with7mm true upper/lower peripheral chamfers lie face-to-face on two complete flat-ground transverse bearers. Two new continuous thick rectangular wrapping bands pass over the complete stack, down both long edges and return underneath between the bearers. Every band is one closed annular solid, not four detached visual strips, with an actual empty interior occupied by the sheet stack. Two genuine shallow V-shaped layer seams remain visible along the panel stack. Seven editable closed meshes268tri3constant opaquePBR,2.10m by0.88m by0.235m. Newly drawn geometry is not an extracted or resized old pallet: the old pallet has a slatted deck and block-supported fork tunnels, while this bundle has full-width contacting sheet layers and two true encircling bands. It is also not the existing two inclined boards in an A-frame rack or a maple floor tile. No series of count or size variants is proposed. No load, band tension, shipping, lifting, forklift clearance, material-grade, manufacturing or construction-safety certification. Static visual only; no textures or external assets.",
+  "bounds": {
+    "x": 2.1,
+    "y": 0.88,
+    "z": 0.235,
+    "unit": "m"
+  },
+  "triangles": 268,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/construction/construction-banded-sheet-stock-bundle-01/v1.0.0/model.glb",
+      "size": 18408,
+      "sha256": "1e64ccb94dc9094a579c3aeae073c4d5fa36ebf2416202f5cce602b1ea13002e"
+    },
+    "blend": {
+      "path": "assets/construction/construction-banded-sheet-stock-bundle-01/v1.0.0/source.blend",
+      "size": 563744,
+      "sha256": "78f1b05fc6dc28a4323b7cbd4bd6d21cc163a1fd9c3b06919a05da1d50039668"
+    },
+    "generator": {
+      "path": "assets/construction/construction-banded-sheet-stock-bundle-01/v1.0.0/generate.py",
+      "size": 10296,
+      "sha256": "d70c5c055971deec2f256ebc496be1ea52decd9ca89fef6d6682be9baf463ee5"
+    },
+    "render": {
+      "path": "assets/construction/construction-banded-sheet-stock-bundle-01/v1.0.0/thumbnail.png",
+      "size": 345805,
+      "sha256": "5c095334ef66731350217338b68e10c316324dfeb6cad45694b9387bb021742b"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

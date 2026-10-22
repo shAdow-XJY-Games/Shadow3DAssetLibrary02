@@ -1,0 +1,42 @@
+{
+  "id": "beekeeping-hive-and-frame-inspection-scene-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "beekeeping",
+  "style": "source-preserved-low-poly",
+  "title": "Hive and Whole Comb Frame Inspection Corner",
+  "description": "One static apiary inspection-preparation corner in the original beekeeping scene program. The complete original village timber beehive remains on its original four-leg stand, with all original three stacked solid supers, lift grips, entrance side and rear blocks, dark recessed entrance, landing board, roof support, two pitched lid panels and ridge. No hive layer is duplicated or removed. Beside it a complete original worktable supports one whole original recessed honeycomb-frame prop lying on its designed finite timber undersides; its four rails, raised hanging ears, four joint pegs and all 136 closed-bottom hexagonal recesses are unchanged. The loose frame is not inserted into or claimed compatible with the closed original hive. All three whole original IDs preserve local POSITION/NORMAL/index bytes, full PBR materials and internal hierarchy. Only unit-scale whole translations and one finite new floor are authored. Full hive/table footprints are grounded and separated; the entire frame footprint lies on the actual finite table top. One scene, zero new independent models or hive-layer variations. This differs from the old extractor/smoker processing display and from the old trough/firewood farmyard. No live bees, bee behavior, smoking, honey extraction, assembly, hygiene, food processing, protective safety, people fit, carrying capacity or operational apiary claim.",
+  "bounds": {
+    "x": 3.0,
+    "y": 1.7999999523162842,
+    "z": 1.2599998712539673,
+    "unit": "m"
+  },
+  "triangles": 6520,
+  "materials": 11,
+  "files": {
+    "glb": {
+      "path": "assets/beekeeping/beekeeping-hive-and-frame-inspection-scene-01/v1.0.0/model.glb",
+      "size": 329116,
+      "sha256": "41703543109b18f605a60b8b079c808422d55d4304e7ca2e6d15c5f2507a9600"
+    },
+    "blend": {
+      "path": "assets/beekeeping/beekeeping-hive-and-frame-inspection-scene-01/v1.0.0/source.blend",
+      "size": 1445272,
+      "sha256": "edd72fe59a55a834bab86c6445993c7f2df1296a60b96a2b2e9c961114e89871"
+    },
+    "generator": {
+      "path": "assets/beekeeping/beekeeping-hive-and-frame-inspection-scene-01/v1.0.0/generate.py",
+      "size": 115316,
+      "sha256": "0d837c4ab1b9d24bebb0b27450221b88a7f8f13f4bab3c85405e0e041ea2f757"
+    },
+    "render": {
+      "path": "assets/beekeeping/beekeeping-hive-and-frame-inspection-scene-01/v1.0.0/thumbnail.png",
+      "size": 487678,
+      "sha256": "e6d94e8a2296974c7e63d5dfcfa909e6b899479ddea70d2764a3621c5257b7f2"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

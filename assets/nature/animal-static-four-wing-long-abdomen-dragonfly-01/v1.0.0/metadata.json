@@ -1,0 +1,42 @@
+{
+  "id": "animal-static-four-wing-long-abdomen-dragonfly-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "nature",
+  "style": "S02-hard-edge-faceted",
+  "title": "Static Four-Wing Long-Abdomen Dragonfly",
+  "description": "One original stylised dragonfly-inspired whole animal in a fixed open-wing display. A short broad head and narrow neck flow into a raised stout thorax and a much longer slender tapered abdomen with seven actual shallow integral constrictions. Two large rounded lateral eyes sit across the head. Four newly drawn long finite-thickness wings emerge from two distinct thorax positions: narrow forward-swept forewings and broader-root rearward-spreading hindwings, with visibly separate gaps, curved outlines and shallow longitudinal ridges built into their full closed upper surfaces. Six new thin bent legs meet six small complete flat feet. Not a beetle with its elytra removed or wings added, a bat with limb count changed, a toy rotor with eyes, a resized sailplane or a diamond kite split into panels. All whole body sections, wing outlines/profile stations, legs, feet and eye positions are newly authored; generic mesh orientation/ear clipping and mature export/render only are reused. Nineteen closed editable meshes and four constant opaque PBR roles. Wing translucency, exact veins and internal joints are deliberately not simulated. One whole prop, zero scenes, extra poses or individually counted parts. Metres, native Z up, head/front -Y, full horizontal bounds-centred ground origin and six flat foot undersides atZ0. Static artistic exterior only: no species-level identification, scientific anatomy, true eye optics, flight, wing motion, aerodynamics, gait, rig, animation, stability, collision, biological or ecological performance claim.",
+  "bounds": {
+    "x": 1.82,
+    "y": 1.5,
+    "z": 0.358,
+    "unit": "m"
+  },
+  "triangles": 2000,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/nature/animal-static-four-wing-long-abdomen-dragonfly-01/v1.0.0/model.glb",
+      "size": 151640,
+      "sha256": "90af8446a16d92cf5f694110d8e15d837543784e9734b9261583c3dfb6dbf9ff"
+    },
+    "blend": {
+      "path": "assets/nature/animal-static-four-wing-long-abdomen-dragonfly-01/v1.0.0/source.blend",
+      "size": 721900,
+      "sha256": "aa370d6ff592863f5f96c4e531a3e4a61162b0d445737bc444bae396bd2af571"
+    },
+    "generator": {
+      "path": "assets/nature/animal-static-four-wing-long-abdomen-dragonfly-01/v1.0.0/generate.py",
+      "size": 24435,
+      "sha256": "a97f6e84567256f64fa5e2e859538f0652fce8b1e70a639c561df642f1b6fbb9"
+    },
+    "render": {
+      "path": "assets/nature/animal-static-four-wing-long-abdomen-dragonfly-01/v1.0.0/thumbnail.png",
+      "size": 499968,
+      "sha256": "55a84a725e4faaf6ac2515694fc58741c53b2b9d866e8fd83cf95ac58f0ed616"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
