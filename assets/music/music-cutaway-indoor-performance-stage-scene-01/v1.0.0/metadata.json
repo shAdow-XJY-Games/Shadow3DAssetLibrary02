@@ -1,0 +1,42 @@
+{
+  "id": "music-cutaway-indoor-performance-stage-scene-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "music",
+  "style": "source-preserved-S01-and-soft-low-poly",
+  "title": "Cutaway Indoor Performance Stage",
+  "description": "One static cutaway indoor performance hall. Four complete unit-scale low-stage modules support a new scene-only continuous thin top cap bridging their existing narrow seams. Whole piano, guitar-with-stand and score stand remain intact on the cap; four whole benches form two audience banks and two rows around a clear central aisle. A scene-only two-level side access stair meets the stage, and rear/left cutaway walls establish indoor enclosure. One scene preset; zero new independent reusable models. No sound, audience animation, stage loading, code, accessibility, ergonomics, building design or safety certification.",
+  "bounds": {
+    "x": 6.8,
+    "y": 6.0,
+    "z": 2.1,
+    "unit": "m"
+  },
+  "triangles": 10724,
+  "materials": 37,
+  "files": {
+    "glb": {
+      "path": "assets/music/music-cutaway-indoor-performance-stage-scene-01/v1.0.0/model.glb",
+      "size": 816120,
+      "sha256": "98383c457d0b09f7a7cf1cec67106f786dbb7803e4ce0fe2b7a062a6532a1b77"
+    },
+    "blend": {
+      "path": "assets/music/music-cutaway-indoor-performance-stage-scene-01/v1.0.0/source.blend",
+      "size": 3312800,
+      "sha256": "f6ef59f50256d155cd733f7d00c947d64dec9f902abcce4d9f41a97b0a4369a7"
+    },
+    "generator": {
+      "path": "assets/music/music-cutaway-indoor-performance-stage-scene-01/v1.0.0/generate.py",
+      "size": 172220,
+      "sha256": "a4692ba4930d4ac3c892ec24d6d5437ac3b776083e123b05c5fe4a990d533c4c"
+    },
+    "render": {
+      "path": "assets/music/music-cutaway-indoor-performance-stage-scene-01/v1.0.0/thumbnail.png",
+      "size": 549291,
+      "sha256": "6e09471713b9faaa52bbc148d02a7d45595690138817d79e82064b9f1cec1901"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

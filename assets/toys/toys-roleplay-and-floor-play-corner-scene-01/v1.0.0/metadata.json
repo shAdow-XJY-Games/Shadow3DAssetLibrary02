@@ -1,0 +1,42 @@
+{
+  "id": "toys-roleplay-and-floor-play-corner-scene-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "toys",
+  "style": "source-preserved-S01-and-soft-low-poly",
+  "title": "Roleplay and Floor-Play Corner",
+  "description": "One static play-corner scene. One complete open-oven play kitchen forms a roleplay station against the rear-left wall; three whole floor toys form a separate stacking and pretend-play area, with a whole bench behind them. All five published models retain full meshes and PBR at unit scale; scene-only floor and low cutaway walls, no new independent model. Open center and front entrance. No child dimensions, age suitability, ergonomic, toy safety, motion or building-code claim. Complete original mesh hierarchy, oriented triangles and solid PBR are preserved. One scene preset and zero new independent reusable models.",
+  "bounds": {
+    "x": 3.6,
+    "y": 3.4,
+    "z": 1.2,
+    "unit": "m"
+  },
+  "triangles": 13458,
+  "materials": 22,
+  "files": {
+    "glb": {
+      "path": "assets/toys/toys-roleplay-and-floor-play-corner-scene-01/v1.0.0/model.glb",
+      "size": 715800,
+      "sha256": "16f2232fff41da6c697a955c18affd3309c33ad2968021d51ace1466c93c5cf2"
+    },
+    "blend": {
+      "path": "assets/toys/toys-roleplay-and-floor-play-corner-scene-01/v1.0.0/source.blend",
+      "size": 2452712,
+      "sha256": "077f811bc331f0dbe18ea7236756bb502c9ed22cb4e4dd1c44c034d58dfb0ec0"
+    },
+    "generator": {
+      "path": "assets/toys/toys-roleplay-and-floor-play-corner-scene-01/v1.0.0/generate.py",
+      "size": 281162,
+      "sha256": "fb5ad420e8acd8f4d763d89aa377898a3b6c3e25ced834416b253beb5384a38b"
+    },
+    "render": {
+      "path": "assets/toys/toys-roleplay-and-floor-play-corner-scene-01/v1.0.0/thumbnail.png",
+      "size": 519151,
+      "sha256": "1ea49dfcca1dffa2286df66022cf10fedc3e8af60663ded7c78bda5fad5b0f6e"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

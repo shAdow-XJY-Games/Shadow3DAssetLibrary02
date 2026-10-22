@@ -1,0 +1,42 @@
+{
+  "id": "cave-mine-fixed-grooved-sheave-headframe-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "cave-mine",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Mine Shaft Headframe with Grooved Sheave",
+  "description": "One original complete fixed mine shaft headframe appearance. Two tall front posts and two long raked rear stays carry separate top bearing rails, true through-bored axle housings, one whole horizontal fixed axle and a large six-spoke sheave with a genuinely recessed continuous rim groove. Offset rear diagonal braces and cross ties sit behind the front vertical shaft-mouth zone. One complete raised open rectangular shaft collar and four whole ground footplates define the support base. All geometry newly authored, no old swing, winch or portal mesh reused; generic fixed mesh construction only. Separate closed material components and intentionally embedded fixed frame/spoke joints, not a single welded shell or all-finite-interface proof. No rope, cage, winch, working shaft excavation, motion, hoisting, mining operation, load rating, engineering or safety claim. The preview ground remains visible through the collar; no underground pit is modelled.",
+  "bounds": {
+    "x": 2.1,
+    "y": 2.83,
+    "z": 4.12,
+    "unit": "m"
+  },
+  "triangles": 1560,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/village/cave-mine-fixed-grooved-sheave-headframe-01/v1.0.0/model.glb",
+      "size": 87048,
+      "sha256": "13bd06af7f01d376182112aa48af4bfaa4c181ed6ebf70e8253819a633bf4639"
+    },
+    "blend": {
+      "path": "assets/village/cave-mine-fixed-grooved-sheave-headframe-01/v1.0.0/source.blend",
+      "size": 744820,
+      "sha256": "a9b56ba76486a68a80b6def988d4023f905c526ba08f2cfcf57c92948a765b8b"
+    },
+    "generator": {
+      "path": "assets/village/cave-mine-fixed-grooved-sheave-headframe-01/v1.0.0/generate.py",
+      "size": 11788,
+      "sha256": "41e4045195a196d7287a7caae86a144d927494740fe2632453a054f9926a59b4"
+    },
+    "render": {
+      "path": "assets/village/cave-mine-fixed-grooved-sheave-headframe-01/v1.0.0/thumbnail.png",
+      "size": 444243,
+      "sha256": "7a7afea16398b5f8388dbed4ae0509f18d5cf69e8d2ebaada2c2da8eaf19eafa"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
