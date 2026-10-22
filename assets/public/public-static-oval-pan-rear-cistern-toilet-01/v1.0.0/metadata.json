@@ -1,0 +1,42 @@
+{
+  "id": "public-static-oval-pan-rear-cistern-toilet-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "public",
+  "style": "S01-clean-geometric",
+  "title": "Static Pedestal Bowl and Rear Cistern Toilet",
+  "description": "Original static public-restroom toilet appearance: a continuous grounded ceramic foot and curved neck rise into a genuinely recessed D-shaped oval pan, with a thick open seat ring, supported rear cistern and fixed top button. No water, waste, plumbing, flushing, drainage, hygiene, accessibility, human-fit, installation or safety-performance claim.",
+  "bounds": {
+    "x": 0.54,
+    "y": 0.81,
+    "z": 0.829,
+    "unit": "m"
+  },
+  "triangles": 1180,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/public/public-static-oval-pan-rear-cistern-toilet-01/v1.0.0/model.glb",
+      "size": 71360,
+      "sha256": "8a59aa234b484e7deb477fd50fb63dda5aecf1638959060b76ab8dec9551e04b"
+    },
+    "blend": {
+      "path": "assets/public/public-static-oval-pan-rear-cistern-toilet-01/v1.0.0/source.blend",
+      "size": 599160,
+      "sha256": "061772c7c142366cedb4c97b84c1f21ce2e94907d7cf8d0d1874b1fb8f34f8b2"
+    },
+    "generator": {
+      "path": "assets/public/public-static-oval-pan-rear-cistern-toilet-01/v1.0.0/generate.py",
+      "size": 7003,
+      "sha256": "2a0f89551e21ecba73b8548d943ce1d6b7d6f28069aad0fab6ec0a675d8d9b11"
+    },
+    "render": {
+      "path": "assets/public/public-static-oval-pan-rear-cistern-toilet-01/v1.0.0/thumbnail.png",
+      "size": 411686,
+      "sha256": "0ed7eb75f12b485a070cee1f18859c37e7f7fa369e8b2c93d16ff0f5cd58e2c8"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

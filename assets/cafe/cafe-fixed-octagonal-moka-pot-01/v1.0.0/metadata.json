@@ -1,0 +1,42 @@
+{
+  "id": "cafe-fixed-octagonal-moka-pot-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "cafe",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Octagonal Moka Pot",
+  "description": "One original static octagonal moka-pot appearance. A faceted lower exterior narrows into a waist beneath a genuinely hollow upper chamber; its rim projects forward into a real pouring mouth. A fixed shallow conical lid covers the main chamber but leaves the projecting mouth uncovered. A small faceted lid knob and an open rear C handle with two full wall seats complete the silhouette. Five closed editable meshes, two opaque untextured PBR materials. The lower exterior is represented as solid material, not a simulated pressure chamber; no hidden boiler, filter, valve, threading, heat, brewing, pressure, food-contact fitness, working hinge, manufacture or safety certification is claimed. Metres, Z up, front -Y, horizontal-bounds-centred grounded origin. Newly authored whole object, not a piece split from the existing espresso machine or a resized stockpot.",
+  "bounds": {
+    "x": 0.15890727937221527,
+    "y": 0.29499998688697815,
+    "z": 0.27300000190734863,
+    "unit": "m"
+  },
+  "triangles": 320,
+  "materials": 2,
+  "files": {
+    "glb": {
+      "path": "assets/cafe/cafe-fixed-octagonal-moka-pot-01/v1.0.0/model.glb",
+      "size": 17280,
+      "sha256": "90f588685336dc310b7b4ddb5a39fbacf498452c3c081d9f3260c4db9accf1c8"
+    },
+    "blend": {
+      "path": "assets/cafe/cafe-fixed-octagonal-moka-pot-01/v1.0.0/source.blend",
+      "size": 511240,
+      "sha256": "08ec654dd9ec41b3b7937d11e37d73888809d96c79f130f9c8dbccd43231bf85"
+    },
+    "generator": {
+      "path": "assets/cafe/cafe-fixed-octagonal-moka-pot-01/v1.0.0/generate.py",
+      "size": 19418,
+      "sha256": "edb1eddf69aba50d63eb8977030f05bd3eca8f9791734e8a5366012462610620"
+    },
+    "render": {
+      "path": "assets/cafe/cafe-fixed-octagonal-moka-pot-01/v1.0.0/thumbnail.png",
+      "size": 487937,
+      "sha256": "755d011cdf4b3a9e9c1c6d4dd52c2eed00d9eab1554a7daf9ccccbc5ecc816ec"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

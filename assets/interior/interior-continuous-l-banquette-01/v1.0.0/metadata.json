@@ -1,0 +1,42 @@
+{
+  "id": "interior-continuous-l-banquette-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "interior",
+  "style": "S01-clean-geometric",
+  "title": "Continuous L Dining Banquette",
+  "description": "One original static inward-facing L-shaped dining banquette with unequal seating runs, one continuous concave L cushion, one uninterrupted turning L back, a whole wooden L foundation and a recessed dark L plinth. Both seating directions and the inside corner are newly authored complete closed profiles rather than duplicated, rotated or merged old sofa/booth components. Four separately editable closed meshes and four constant opaque matte PBR materials. Metres, native Z up, front -Y, horizontal full-bounds-centred ground origin. One prop, zero scenes; no table, wall, furnishings or snap-system parts. Original interior depth expansion for a corner seat, distinct from the existing straight booth, armrest sofa and open ring bench. Static visual furniture only: no animation, upholstery simulation, ergonomic fit, load, stability, installation, accessibility, fire safety or compatibility certification.",
+  "bounds": {
+    "x": 2.02,
+    "y": 1.52,
+    "z": 1.03,
+    "unit": "m"
+  },
+  "triangles": 176,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/interior/interior-continuous-l-banquette-01/v1.0.0/model.glb",
+      "size": 13892,
+      "sha256": "f0dba5e81de99c0d39384433a4ed77aa7a5bb78552d320968317f9699d7ce076"
+    },
+    "blend": {
+      "path": "assets/interior/interior-continuous-l-banquette-01/v1.0.0/source.blend",
+      "size": 545156,
+      "sha256": "d6a613e9228f15f580989374f7be40ce2c75e3f04a131d758007aec53ce47dc3"
+    },
+    "generator": {
+      "path": "assets/interior/interior-continuous-l-banquette-01/v1.0.0/generate.py",
+      "size": 20937,
+      "sha256": "1da9ba862049b636a49412b371e45f8a30f69ffca74fa2cd890b29b1776cbbbb"
+    },
+    "render": {
+      "path": "assets/interior/interior-continuous-l-banquette-01/v1.0.0/thumbnail.png",
+      "size": 521427,
+      "sha256": "98d2676521c34c7913052782e785b6d7247ceb97b281959668682eefb673b31a"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

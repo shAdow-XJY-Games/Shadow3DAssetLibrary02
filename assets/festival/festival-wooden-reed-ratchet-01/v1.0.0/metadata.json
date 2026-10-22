@@ -1,0 +1,42 @@
+{
+  "id": "festival-wooden-reed-ratchet-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "festival",
+  "style": "warm-handcrafted-village",
+  "title": "Wooden Reed Ratchet Noisemaker",
+  "description": "One original static handheld wooden noisemaker: a long turned hand grip and axial retainer, a real twelve-tooth annular wooden wheel, a complete open rectangular wooden frame, a bored transverse bearing bridge, and one thin shaped reed anchored in the frame and ending just clear of the teeth. Five editable closed meshes, three opaque matte solid PBR roles. New whole handheld arrangement, not a removed industrial winch mechanism, recoloured drum or spinning top. Metres, Z up, front -Y and horizontal bounds-centred ground datum. Static display only; reed and toothed wheel do not animate or produce sound, no functioning ratchet, torque, manufacture, balance, child-safety or durability claim.",
+  "bounds": {
+    "x": 0.280000001,
+    "y": 0.119999997,
+    "z": 0.187999994,
+    "unit": "m"
+  },
+  "triangles": 1384,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/festival/festival-wooden-reed-ratchet-01/v1.0.0/model.glb",
+      "size": 67508,
+      "sha256": "42b15766875c085c8f7cdd9cefe85db929e77e901fd2a12c9a4946ad7528b5dc"
+    },
+    "blend": {
+      "path": "assets/festival/festival-wooden-reed-ratchet-01/v1.0.0/source.blend",
+      "size": 592164,
+      "sha256": "70ed703ebc9c245cfc611c2d5387f9bc415197da81dd0055cd55cdee0de889b0"
+    },
+    "generator": {
+      "path": "assets/festival/festival-wooden-reed-ratchet-01/v1.0.0/generate.py",
+      "size": 28604,
+      "sha256": "eedac752844acdb6b645e460b6df6194f4d9d264cca92cbc1470ce0ac9304167"
+    },
+    "render": {
+      "path": "assets/festival/festival-wooden-reed-ratchet-01/v1.0.0/thumbnail.png",
+      "size": 531577,
+      "sha256": "e5f20bf03c1d41864c5eb264c5a31f0f4a80db267811fe045b964a7150b88bc1"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

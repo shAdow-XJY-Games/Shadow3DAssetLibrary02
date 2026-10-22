@@ -1,0 +1,42 @@
+{
+  "id": "cafe-fixed-raised-lever-citrus-press-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "cafe",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Raised-Lever Citrus Press",
+  "description": "One original fixed raised-lever cafe citrus-press visual prop. A single grounded C frame integrates the base, rear upright, upper bridge and a true front-slotted cup shelf. A thick faceted through-open funnel cup rests on the two shelf wings. A separate raised conical press head and integral stem meet the upper bridge underside; a single fixed lever has a full rear seat on the bridge and a dark grip end. Four closed editable meshes, three opaque untextured PBR materials. The cone is fixed30mm above the cup rim; no fruit, juice, collection vessel, hidden linkage, working articulation, pressure, food-contact suitability, manufacture or safety certification is claimed. Metres, Z up, front -Y, horizontal-bounds-centred ground origin.",
+  "bounds": {
+    "x": 0.2199999988079071,
+    "y": 0.3400000035762787,
+    "z": 0.5128999948501587,
+    "unit": "m"
+  },
+  "triangles": 856,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/cafe/cafe-fixed-raised-lever-citrus-press-01/v1.0.0/model.glb",
+      "size": 33352,
+      "sha256": "160a62cfc45d692c2812d4c3a368043fc0b5429b5248dd5cd5a8c16782a680c3"
+    },
+    "blend": {
+      "path": "assets/cafe/cafe-fixed-raised-lever-citrus-press-01/v1.0.0/source.blend",
+      "size": 558416,
+      "sha256": "5bc138bd2dfa11492d1f79225f6945c767dc47535e31e974277d572faff137e7"
+    },
+    "generator": {
+      "path": "assets/cafe/cafe-fixed-raised-lever-citrus-press-01/v1.0.0/generate.py",
+      "size": 18956,
+      "sha256": "04f49291b51a1b05ada4c68f24e9d9217eb08984b762871ab4f278479dff96a3"
+    },
+    "render": {
+      "path": "assets/cafe/cafe-fixed-raised-lever-citrus-press-01/v1.0.0/thumbnail.png",
+      "size": 521668,
+      "sha256": "dcb290c87b41ca0b4d90925db2e3ff78da44397e4b7a53c531351347405c61da"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
