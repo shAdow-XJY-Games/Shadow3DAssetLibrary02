@@ -1,0 +1,42 @@
+{
+  "id": "florist-solid-round-thirty-seven-pin-holder-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "cafe",
+  "style": "S01-clean-geometric",
+  "title": "Round Floral Pin Holder",
+  "description": "One compact floral arranging pin holder: a grounded bevelled solid circular base with thirty-seven separate, fully seated upright faceted pins in three concentric hexagonal-count rings and a central pin. Every pin has a real narrow tapered end with a small closed flat tip, not a zero-area vertex. The complete tool is newly authored as a whole object, not separated from a floral scene or a resized display bucket. Thirty-eight closed editable meshes, two opaque untextured PBR materials, no flowers or accessories. Metres, Z up, centred grounded sole. A static visual asset only: no actual sharpness, stem-holding force, mass, manufacture, water resistance or safe handling is certified; no hidden sockets or fastening mechanism is represented.",
+  "bounds": {
+    "x": 0.0860000029206276,
+    "y": 0.0860000029206276,
+    "z": 0.035999998450279236,
+    "unit": "m"
+  },
+  "triangles": 1588,
+  "materials": 2,
+  "files": {
+    "glb": {
+      "path": "assets/cafe/florist-solid-round-thirty-seven-pin-holder-01/v1.0.0/model.glb",
+      "size": 99468,
+      "sha256": "7c62bccd8804c8cb2373a585206a8eb9ec0cdc9730692f55d1a1d3a445f25686"
+    },
+    "blend": {
+      "path": "assets/cafe/florist-solid-round-thirty-seven-pin-holder-01/v1.0.0/source.blend",
+      "size": 745800,
+      "sha256": "e6dcdab2dc86d9f8fc9a43e763c5ada89c8211ab477c623762a3cff28417dd44"
+    },
+    "generator": {
+      "path": "assets/cafe/florist-solid-round-thirty-seven-pin-holder-01/v1.0.0/generate.py",
+      "size": 18307,
+      "sha256": "c4bc3901dd4d5232f6042cd2558a5eb977aedd20f1c98fd252fe74b3f1f487a6"
+    },
+    "render": {
+      "path": "assets/cafe/florist-solid-round-thirty-seven-pin-holder-01/v1.0.0/thumbnail.png",
+      "size": 516202,
+      "sha256": "5c8a66697ce1a4bfe45d41ed8777fbee5fc53a546027582ee1af631806d7f80d"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

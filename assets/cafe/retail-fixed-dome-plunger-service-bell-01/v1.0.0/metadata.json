@@ -1,0 +1,42 @@
+{
+  "id": "retail-fixed-dome-plunger-service-bell-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "cafe",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Dome Plunger Service Bell",
+  "description": "One original desktop counter service bell: a grounded bevelled circular base, a genuine hollow underside dome with an apex shaft hole, a hollow central support with its sloping annular top seated beneath the dome, and a fixed slender shaft ending in a broad upper press button. The shaft is seated on the base and clears the central tube and dome hole. Four closed editable meshes and two opaque untextured PBR materials. Static visual appearance only: no spring, hammer, working travel, acoustic tuning, ringing, manufacturing or safe-operation claim; not a functioning bell. Metres, Z up, centred grounded origin. Newly authored complete counter tool, not a bell extracted from an alarm clock or a colour/size variation of the tapered open cowbell.",
+  "bounds": {
+    "x": 0.11400000005960464,
+    "y": 0.11400000005960464,
+    "z": 0.10700000077486038,
+    "unit": "m"
+  },
+  "triangles": 1184,
+  "materials": 2,
+  "files": {
+    "glb": {
+      "path": "assets/cafe/retail-fixed-dome-plunger-service-bell-01/v1.0.0/model.glb",
+      "size": 63640,
+      "sha256": "b199dcf52d0c7399cefda7e0a530bd04cd74b8c9c8721d9080e7e61f871ccae4"
+    },
+    "blend": {
+      "path": "assets/cafe/retail-fixed-dome-plunger-service-bell-01/v1.0.0/source.blend",
+      "size": 552996,
+      "sha256": "f0a950154edd8e98027aaf93ae9ebdca3735dda307a7f4049ec99e46e01fd439"
+    },
+    "generator": {
+      "path": "assets/cafe/retail-fixed-dome-plunger-service-bell-01/v1.0.0/generate.py",
+      "size": 18421,
+      "sha256": "86df3bc93da69e5a0827f19e4bb62f8ec3469ce85fea58357c37025148d2fec2"
+    },
+    "render": {
+      "path": "assets/cafe/retail-fixed-dome-plunger-service-bell-01/v1.0.0/thumbnail.png",
+      "size": 528076,
+      "sha256": "2944ed86c2f754d6e68014f31e7725fb8425dae4d49e8c34fa8db3cd9038b095"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
