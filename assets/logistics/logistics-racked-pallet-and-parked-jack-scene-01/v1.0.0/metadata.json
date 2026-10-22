@@ -1,0 +1,42 @@
+{
+  "id": "logistics-racked-pallet-and-parked-jack-scene-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "logistics",
+  "style": "source-preserved-low-poly",
+  "title": "Static Racked Pallet and Parked Jack",
+  "description": "One static logistics putaway-position scene: one complete original braced single-bay pallet rack carries one whole original empty wood pallet on the six previously verified finite runner-to-beam patches. A complete original manual pallet jack is parked separately on the floor in front and to the right, with a real gap to the rack. Original pallet-to-rack local pose at height1.25m is retained exactly up to float32 translation storage; both are translated together by the new ground slab height and rearward placement. Only whole-object translations and a new finite floor are authored. Full original local POSITION/NORMAL, material dictionaries and internal hierarchies remain unchanged. One scene and zero independent new models. The upper pallet is pre-placed: this ground-level manual jack is not depicted lifting it and is not connected to it. This is a static racked-storage target and separate parked receiving tool, not the existing fork-engaged floor-pallet loading display renamed. No cargo, rack repetition, lifting trajectory, continuous handling, equipment operation, load capacity, anchoring, seismic, ergonomic or safety claim.",
+  "bounds": {
+    "x": 3.0,
+    "y": 3.0,
+    "z": 2.25,
+    "unit": "m"
+  },
+  "triangles": 2356,
+  "materials": 10,
+  "files": {
+    "glb": {
+      "path": "assets/logistics/logistics-racked-pallet-and-parked-jack-scene-01/v1.0.0/model.glb",
+      "size": 192344,
+      "sha256": "fc7f386a776297b71eb4392a7ef6b014426e4a6eb4831550f1c826c663c573a8"
+    },
+    "blend": {
+      "path": "assets/logistics/logistics-racked-pallet-and-parked-jack-scene-01/v1.0.0/source.blend",
+      "size": 1103752,
+      "sha256": "a12aeebc8bc3e8908e41cfc03810a0703c73787ad6048d16bc978e94ff05a88f"
+    },
+    "generator": {
+      "path": "assets/logistics/logistics-racked-pallet-and-parked-jack-scene-01/v1.0.0/generate.py",
+      "size": 81456,
+      "sha256": "b706843e12e8c05d3a439219b1dca97d4e7659537ee8d8dae17c6a3701f64836"
+    },
+    "render": {
+      "path": "assets/logistics/logistics-racked-pallet-and-parked-jack-scene-01/v1.0.0/thumbnail.png",
+      "size": 508758,
+      "sha256": "f29b94ffdf038d6ef45b88e47c66d32ad1b5958efc7fd1a8f799c0680ac10256"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

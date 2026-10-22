@@ -1,0 +1,42 @@
+{
+  "id": "railway-ramped-side-platform-stop-scene-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "railway",
+  "style": "S01-clean-geometric",
+  "title": "Ramped Small Railway Platform Stop",
+  "description": "One static railway small-platform-stop scene under the original railway scene program, one scene and zero new independent models. Six complete unit-scale instances of five published models remain whole: two end-to-end original2m straight tracks, one original raised side platform with rear railing, one whole integral-kerb approach ramp, one complete slatted bench on the platform and one complete unlit signal. A scene-only grounded pad supports the composition. The ramp approaches the platform lengthwise and its entire low4cm entrance lip remains unchanged; the full bench faces the track, with original edge-contact feet on the actual slab top. The broad ramp stays50mm outside the actual sleeper envelope and the signal plinth remains230mm outside on the opposite side. These are static measured separations, not accessibility or railway engineering requirements. All original meshes and triangles/per-face opaque PBR are retained under declared rigid placements; repeated track materials are reused. Total25meshes2696tri18materials. No train, roof, people, operational signalling, gauge/network connection guarantee, moving points, passenger boarding, accessible safe route, platform installation, collision/navigation, structural-load or railway-safety certification. This is a ramped side-platform and seated waiting arrangement, not the earlier trolley inspection siding, road cargo stop or bus shelter composition. Preview ground is not an exported part.",
+  "bounds": {
+    "x": 4,
+    "y": 6.4,
+    "z": 2.0035894441604616,
+    "unit": "m"
+  },
+  "triangles": 2696,
+  "materials": 18,
+  "files": {
+    "glb": {
+      "path": "assets/railway/railway-ramped-side-platform-stop-scene-01/v1.0.0/model.glb",
+      "size": 173024,
+      "sha256": "99b3aefd33a796d4203e553be81056f6243d191c24ffb8772ee19a8a76a26b99"
+    },
+    "blend": {
+      "path": "assets/railway/railway-ramped-side-platform-stop-scene-01/v1.0.0/source.blend",
+      "size": 1140820,
+      "sha256": "02e2b412f1fed54ea0e0fc351415da07e5d310a28aa6354380b449639174b2a9"
+    },
+    "generator": {
+      "path": "assets/railway/railway-ramped-side-platform-stop-scene-01/v1.0.0/generate.py",
+      "size": 135379,
+      "sha256": "295e11bf7e74f43f7be10a3454a3bde9c5e60cf299ae49d9b60fe0c4c379dded"
+    },
+    "render": {
+      "path": "assets/railway/railway-ramped-side-platform-stop-scene-01/v1.0.0/thumbnail.png",
+      "size": 419684,
+      "sha256": "bc6a315dae5520f2b2607a3680b039a9e0edf8fd476a8ab6aafe2e837ad39dbb"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

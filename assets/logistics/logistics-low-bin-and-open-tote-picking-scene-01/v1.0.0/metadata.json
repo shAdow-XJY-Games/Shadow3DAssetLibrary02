@@ -1,0 +1,42 @@
+{
+  "id": "logistics-low-bin-and-open-tote-picking-scene-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "logistics",
+  "style": "source-preserved-low-poly",
+  "title": "Low-Front Bin and Open-Tote Picking Worktable",
+  "description": "One static logistics picking-preparation worktable scene, not a new bin family. A complete original low-front picking bin stands wholly supported on the left part of an entire original open worktable. Its entire object is rotated exactly90degrees so the original low access mouth faces the clear right-hand work surface and the separate open tote. One whole original opposed attached-lid tote stands empty on the floor beside the table, retaining both original fixed62degree half lids, comb teeth, knuckles, pins, wedge stops and feet without modification. Whole table and tote footprints are grounded inside the new finite floor and positively separated. All original local POSITION/NORMAL data, PBR materials and internal hierarchy are preserved; only exact unit-scale whole-instance placement and a new floor are authored. One scene and zero independent new models, not the existing pallet-loading, roller-receiving or high-rack putaway layouts renamed. The table, bin and tote are empty. No picking process, throughput, transfer path, lid movement, closing fit, stacking, carrying, ergonomic, equipment, load, material suitability or safety claim; the plural turnover-box family remains partial.",
+  "bounds": {
+    "x": 2.5999999046325684,
+    "y": 1.600000023841858,
+    "z": 1.3199999332427979,
+    "unit": "m"
+  },
+  "triangles": 2592,
+  "materials": 12,
+  "files": {
+    "glb": {
+      "path": "assets/logistics/logistics-low-bin-and-open-tote-picking-scene-01/v1.0.0/model.glb",
+      "size": 151468,
+      "sha256": "079c623b6c2e31104a852e8661cae6099e71d1967fdefdda7711f84824baedf2"
+    },
+    "blend": {
+      "path": "assets/logistics/logistics-low-bin-and-open-tote-picking-scene-01/v1.0.0/source.blend",
+      "size": 1248576,
+      "sha256": "71c9b784d9d98342111255896bd3583a3d667aceca2ffc1f4229e104bd1a4d85"
+    },
+    "generator": {
+      "path": "assets/logistics/logistics-low-bin-and-open-tote-picking-scene-01/v1.0.0/generate.py",
+      "size": 87446,
+      "sha256": "18f2727579b59727063ef67bed1e303a93c38afc6090ca8fbacf5dc9f1ac6a44"
+    },
+    "render": {
+      "path": "assets/logistics/logistics-low-bin-and-open-tote-picking-scene-01/v1.0.0/thumbnail.png",
+      "size": 483224,
+      "sha256": "c8f76260cb835077b1b186bb5ad3ea0406b3cb5135b1837c8b551141fd6cba49"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

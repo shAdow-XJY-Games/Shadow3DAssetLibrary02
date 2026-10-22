@@ -1,0 +1,42 @@
+{
+  "id": "railway-fixed-guarded-service-road-crossing-scene-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "railway",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Guarded Railway Service Crossing",
+  "description": "One static railway service-road crossing scene under the original railway scene program, one scene and zero new independent models. One complete original2m straight track, one complete unlit signal and one whole double-sided road barricade retain original meshes, unit scale and per-face PBR under rigid placements. Scene-only geometry supplies the grounded pad and three full crossing-road bodies: central slab bears on the two existing middle sleepers, and each outer slab is integral with a descending side approach to ground. Two real longitudinal slots keep the actual rails unfilled; deck top matches original rail-head top within binary32 precision and slot sides retain nominal50mm rail-head clearances. The whole barricade stands on flat ground beyond the east descent, showing a closed static service approach, not an operable gate. Original track is not shortened, recolored, rescaled or split. This crossing intersection differs from the trolley inspection siding and parallel ramped passenger platform. No working signal, vehicle, train, moving barriers, guaranteed wheel/gauge clearance, real traversability, network connection, track operation, load or railway safety suitability. Preview ground is not an exported part.",
+  "bounds": {
+    "x": 7.2,
+    "y": 3.2,
+    "z": 1.9199999904632568,
+    "unit": "m"
+  },
+  "triangles": 1332,
+  "materials": 13,
+  "files": {
+    "glb": {
+      "path": "assets/railway/railway-fixed-guarded-service-road-crossing-scene-01/v1.0.0/model.glb",
+      "size": 88180,
+      "sha256": "25332c8828d5068bc3a2ebf012779d11f24a23d7bfc53689a830465d0fa9a763"
+    },
+    "blend": {
+      "path": "assets/railway/railway-fixed-guarded-service-road-crossing-scene-01/v1.0.0/source.blend",
+      "size": 906512,
+      "sha256": "d5fc4a7c3bd27e307e6ffbda691375378ce0c773e5fcc15d12ca41ec6e2d0087"
+    },
+    "generator": {
+      "path": "assets/railway/railway-fixed-guarded-service-road-crossing-scene-01/v1.0.0/generate.py",
+      "size": 69990,
+      "sha256": "7fc83a3fcf7c86c82d8ff9c0ea5023cc5488362ea985030c039e5a5415c1ce51"
+    },
+    "render": {
+      "path": "assets/railway/railway-fixed-guarded-service-road-crossing-scene-01/v1.0.0/thumbnail.png",
+      "size": 347226,
+      "sha256": "7eb08af7914a184ca891b1742213213b17502fe6be4446050d41feca333accf3"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

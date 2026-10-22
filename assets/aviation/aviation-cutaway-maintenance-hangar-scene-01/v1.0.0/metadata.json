@@ -1,0 +1,42 @@
+{
+  "id": "aviation-cutaway-maintenance-hangar-scene-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "aviation",
+  "style": "source-preserved-low-poly",
+  "title": "Cutaway Light-Aircraft Maintenance Hangar",
+  "description": "One static cutaway maintenance-hangar scene for the original light-aviation program. Two complete existing open-truss hangar portals frame one complete existing small tailwheel plane on the left. A complete open worktable carries one complete existing transport wheel chock as a stored spare; a whole tailwheel towbar is parked separately in the right work strip, not attached or asserted compatible with the plane. Five unique old models, six whole instances, original unit scale and identity orientation, untouched raw GLB POSITION/NORMAL/index buffers, internal hierarchies and original PBR. Only the connected floor and low cutaway rear/side wall boundary are new scene-only geometry. Every full original finite ground sole is supported; the complete chock sole lies within the true rectangular flat tabletop. Conservative entry, middle, rear and side empty strips remain connected through the real portal openings. The roof is deliberately omitted for display. Different from the original four-tile parking corner: two portal bays and a separate parts-worktable/towbar work strip establish a maintenance layout. One scene, zero new independent models. No flight, steering, control-surface motion, towing fit, braking, anti-roll capacity, maintenance procedure, vehicle compatibility, fuel, fire protection, construction, structural loading, airworthiness or aviation safety is claimed.",
+  "bounds": {
+    "x": 8.399999618530273,
+    "y": 6.800000190734863,
+    "z": 5.190000057220459,
+    "unit": "m"
+  },
+  "triangles": 3640,
+  "materials": 20,
+  "files": {
+    "glb": {
+      "path": "assets/aviation/aviation-cutaway-maintenance-hangar-scene-01/v1.0.0/model.glb",
+      "size": 233712,
+      "sha256": "630be789f132fbecc67ec83e52357dbb6c9c60e1b27ebbec7bc3230090d8ac18"
+    },
+    "blend": {
+      "path": "assets/aviation/aviation-cutaway-maintenance-hangar-scene-01/v1.0.0/source.blend",
+      "size": 179962,
+      "sha256": "3160dd708b05de2249b46c31ebff3ee0b1fd0ea6f9516083e0bad754319fc21e"
+    },
+    "generator": {
+      "path": "assets/aviation/aviation-cutaway-maintenance-hangar-scene-01/v1.0.0/generate.py",
+      "size": 70692,
+      "sha256": "f281e516a0ce5b7541bc8de0b367fb292bede815e039cb048e08b503fe82c3b1"
+    },
+    "render": {
+      "path": "assets/aviation/aviation-cutaway-maintenance-hangar-scene-01/v1.0.0/thumbnail.png",
+      "size": 559976,
+      "sha256": "9ea216f787c02afcf00526bd7a5f3a5da315d0f2120e858d5cde177534f606a1"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

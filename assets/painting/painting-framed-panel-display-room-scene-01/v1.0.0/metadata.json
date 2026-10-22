@@ -1,0 +1,42 @@
+{
+  "id": "painting-framed-panel-display-room-scene-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "painting",
+  "style": "source-preserved-S01-and-soft-low-poly",
+  "title": "Framed Panel Display Room",
+  "description": "One static framed-panel display room for the original painting works-display scene program. Two complete published desktop deep floating-panel frames, unchanged and blank, stand on two whole published museum exhibit plinths; one complete low backless storage bench creates a separate foreground pause position. Full existing rear struts, frame annuli, recessed panels, plinth bevelled bodies and bench structure are preserved. Each frame complete base fits the actual continuous rectangular plinth top, with a clear central viewing aisle and side approach. Only the closed floor and two partial cutaway walls are scene-only. Five whole instances from three published models, unit scale and no rotation; one scene and zero new independent models. Repeating an identical frame or plinth is not a new asset, size variant or new artwork. This is display/seating infrastructure, not an occupied painting workspace, a reskinned shop or the small original easel/palette pad. No paintings, printed imagery, art attribution, people, mounting, load capacity, conservation, anti-tip, accessibility or safety certification is claimed.",
+  "bounds": {
+    "x": 4.6,
+    "y": 3.8,
+    "z": 2.05,
+    "unit": "m"
+  },
+  "triangles": 1464,
+  "materials": 21,
+  "files": {
+    "glb": {
+      "path": "assets/painting/painting-framed-panel-display-room-scene-01/v1.0.0/model.glb",
+      "size": 121448,
+      "sha256": "46cc435f493b255203d0db7d0ca49a0b0cab74bc6add4203f1d5128dc764f57a"
+    },
+    "blend": {
+      "path": "assets/painting/painting-framed-panel-display-room-scene-01/v1.0.0/source.blend",
+      "size": 1240940,
+      "sha256": "572065afe2f7934587a33d462792dc942f4d099b0ea636c800ba91cf0d891826"
+    },
+    "generator": {
+      "path": "assets/painting/painting-framed-panel-display-room-scene-01/v1.0.0/generate.py",
+      "size": 82399,
+      "sha256": "d8efa472c3ba961c69f8cf9493cb2bd8a3ecbf95788c5ba8e99cc1e4b193f471"
+    },
+    "render": {
+      "path": "assets/painting/painting-framed-panel-display-room-scene-01/v1.0.0/thumbnail.png",
+      "size": 520114,
+      "sha256": "87ab6ee10ac5dd6e578c99a372a20574a2e9fb0da5457f68c81322b495e5802c"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
