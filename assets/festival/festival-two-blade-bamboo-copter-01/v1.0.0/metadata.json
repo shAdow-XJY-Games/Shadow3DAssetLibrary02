@@ -1,0 +1,42 @@
+{
+  "id": "festival-two-blade-bamboo-copter-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "festival",
+  "style": "warm-handcrafted-village",
+  "title": "Two-Blade Bamboo Copter",
+  "description": "One original static traditional hand-spun bamboo-copter gift toy: a continuous two-ended variable-chord wooden rotor with opposite local pitch and an integral thick central root, seated on one long tapered hand-rolling shaft. Two closed editable meshes and two opaque matte wood PBR roles. Not a recoloured paper pinwheel, spinning-top body or extracted aircraft propeller. Metres, Z up, front -Y and shaft-tip ground origin. Static display only: no flight, balance, durability, manufacture or child-safety claim.",
+  "bounds": {
+    "x": 0.280000001,
+    "y": 0.0385,
+    "z": 0.231700003,
+    "unit": "m"
+  },
+  "triangles": 256,
+  "materials": 2,
+  "files": {
+    "glb": {
+      "path": "assets/festival/festival-two-blade-bamboo-copter-01/v1.0.0/model.glb",
+      "size": 17492,
+      "sha256": "57b43d19ee1234ed074deec0be026553789d15a8fc594934f6513fcc16fffd96"
+    },
+    "blend": {
+      "path": "assets/festival/festival-two-blade-bamboo-copter-01/v1.0.0/source.blend",
+      "size": 492904,
+      "sha256": "69ea27c7f0017cd281d97a3ba9153607141cbeb39c598d6cdefc1de9d33994f4"
+    },
+    "generator": {
+      "path": "assets/festival/festival-two-blade-bamboo-copter-01/v1.0.0/generate.py",
+      "size": 26435,
+      "sha256": "370af2e3ef6a06f4c6039e5a1158f015641b1af45abf32fcae8783629c0bf6aa"
+    },
+    "render": {
+      "path": "assets/festival/festival-two-blade-bamboo-copter-01/v1.0.0/thumbnail.png",
+      "size": 486517,
+      "sha256": "aaf30b4a8f1770fb2863b6b4ab80f11e4d186be8ea0c25b5833c495814827178"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "public-continuous-two-tier-dry-fountain-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "public",
+  "style": "S01-clean-geometric",
+  "title": "Continuous Two-tier Dry Courtyard Fountain",
+  "description": "Original continuous thick stone fountain shell: stepped ground foot, waisted central column, broad lower open basin, smaller upper open basin and integral stone finial. Both annular bowls are genuinely recessed around the continuous central column. Dry static courtyard appearance only; no water, jets, pump, pipes, drain holes, hydraulic, installation or safety performance claimed.",
+  "bounds": {
+    "x": 1.72,
+    "y": 1.72,
+    "z": 1.6,
+    "unit": "m"
+  },
+  "triangles": 2240,
+  "materials": 2,
+  "files": {
+    "glb": {
+      "path": "assets/public/public-continuous-two-tier-dry-fountain-01/v1.0.0/model.glb",
+      "size": 117324,
+      "sha256": "763cd9d8da98a968e70e2a4111ebd7bebf2bf98b8b0b936af812dab8908aa4a7"
+    },
+    "blend": {
+      "path": "assets/public/public-continuous-two-tier-dry-fountain-01/v1.0.0/source.blend",
+      "size": 619384,
+      "sha256": "aae4c252ecc08630381ad958ea8352902e9037d9f740cff99c454e2de5196664"
+    },
+    "generator": {
+      "path": "assets/public/public-continuous-two-tier-dry-fountain-01/v1.0.0/generate.py",
+      "size": 5547,
+      "sha256": "66edf062d2682113bd3a163a479171472da3a7baea2e1020a23f6d331fbbe904"
+    },
+    "render": {
+      "path": "assets/public/public-continuous-two-tier-dry-fountain-01/v1.0.0/thumbnail.png",
+      "size": 443752,
+      "sha256": "af64e267a127d114bd1c3765542de0da306d319b78525f7d9296b61f43ae66c9"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
