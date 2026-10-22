@@ -1,0 +1,42 @@
+{
+  "id": "retail-three-face-unglazed-bay-window-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "modular",
+  "theme": "retail",
+  "style": "S01-clean-geometric",
+  "title": "Three-Face Unglazed Bay Display Frame",
+  "description": "One original static unglazed commercial bay-display frame module, counted once. A complete outward-projecting six-sided platform, flat deep crown and continuous finite frame form three genuinely open display windows facing three distinct horizontal directions around one shared deep empty chamber. The rear has a complete broad open access/interface; the bottom is a closed display platform with a full six-sided ground sole, not an open underbody. One closed connected editable material mesh with three handles in its topological boundary, two opaque untextured constant PBR face-role colours. All outlines, apertures and volumes are newly authored; no old shop-house display window, flat wall frame, glass vitrine, counter cabinet or dormer component is imported or extracted. Native metres, Z up, front -Y, complete horizontal-bounds-centred ground origin. This is specifically an unglazed frame-and-platform module, not a complete enclosed glass showcase or shop. There is no glass, door, glazing material, host wall, merchandise, internal shelf, signage, texture, animation, scene, physical display capacity, practical access, insertion path, installation, old-family fit, weather protection, security, load, structural, manufacture or building-safety certification. The full rear plane is only this new asset\u2019s mathematical datum, not proof of any external host connection.",
+  "bounds": {
+    "x": 2.0,
+    "y": 0.800000012,
+    "z": 2.140000105,
+    "unit": "m"
+  },
+  "triangles": 1464,
+  "materials": 2,
+  "files": {
+    "glb": {
+      "path": "assets/retail/retail-three-face-unglazed-bay-window-01/v1.0.0/model.glb",
+      "size": 37436,
+      "sha256": "b7e0e1a29c0c7fd1eec78a34b7cdddff60b58491618cd2b93e14da120a64478c"
+    },
+    "blend": {
+      "path": "assets/retail/retail-three-face-unglazed-bay-window-01/v1.0.0/source.blend",
+      "size": 553076,
+      "sha256": "1f3eebb4e8f93f90ae86e3e467beefa6bd5a98faec2f26b8ed31b6c439af3085"
+    },
+    "generator": {
+      "path": "assets/retail/retail-three-face-unglazed-bay-window-01/v1.0.0/generate.py",
+      "size": 31734,
+      "sha256": "e971b4ea1cb00c269b2867bddfd1e613be658c5219c85f79316c4844de3962b6"
+    },
+    "render": {
+      "path": "assets/retail/retail-three-face-unglazed-bay-window-01/v1.0.0/thumbnail.png",
+      "size": 508549,
+      "sha256": "860d03c2643abcef82b0ba790795bbb8800e000cbed69d0ba83b77541af5c540"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

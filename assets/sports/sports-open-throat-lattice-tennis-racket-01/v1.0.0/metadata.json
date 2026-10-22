@@ -1,0 +1,42 @@
+{
+  "id": "sports-open-throat-lattice-tennis-racket-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "sports",
+  "style": "S01-clean-geometric",
+  "title": "Open-Throat Lattice Tennis Racket",
+  "description": "One original static low-poly tennis-racket appearance: one continuous thick faceted oval frame, real triangular open throat, two integrated neck branches and long flared-butt handle, plus one separately editable thin connected flat lattice with48 actual through-holes. The lattice seats on all eight full finite inner frame walls without positive penetration. The complete frame has two true holes and the lattice has48; no opaque head sheet or transparent net texture. Two closed connected meshes and two constant opaque untextured PBR materials, one prop and zero scenes. Metres, Z up, front-Y, horizontally centred origin at the complete butt sole. All numeric contours and grid geometry are new; no old paddle, landing-net bag, strainer bowl, field net or carabiner is imported, flattened, rescaled or extracted. Generic planar clipping, triangulation, welded boundary and guarded export utilities are reused. Coarse flat lattice is a stylized visual representation, not simulated round woven strings. No ball, player, stand, logo, text, skin, wrap, tension adjustment, joints, animation or scene. No regulation dimensions, string material, tension, elasticity, strength, swing, impact, bounce, grip fit, balance, standing stability, sports affiliation, manufacturing, usability or safety certification.",
+  "bounds": {
+    "x": 0.244,
+    "y": 0.024,
+    "z": 0.582,
+    "unit": "m"
+  },
+  "triangles": 2228,
+  "materials": 2,
+  "files": {
+    "glb": {
+      "path": "assets/sports/sports-open-throat-lattice-tennis-racket-01/v1.0.0/model.glb",
+      "size": 74380,
+      "sha256": "865334aa9aeb975a75a512fe9876de86538ce0f4301196bf477e9f258adbc6b2"
+    },
+    "blend": {
+      "path": "assets/sports/sports-open-throat-lattice-tennis-racket-01/v1.0.0/source.blend",
+      "size": 598144,
+      "sha256": "5cb80ac222f12da45b0997314fbb16b528a5e2e203dec3c7dee38f7e97a05fbd"
+    },
+    "generator": {
+      "path": "assets/sports/sports-open-throat-lattice-tennis-racket-01/v1.0.0/generate.py",
+      "size": 32458,
+      "sha256": "3db733ae95ec7b801ef4daf43b79234cd30f99cb9913c8f60f7b76624ca7f298"
+    },
+    "render": {
+      "path": "assets/sports/sports-open-throat-lattice-tennis-racket-01/v1.0.0/thumbnail.png",
+      "size": 494550,
+      "sha256": "6bbc4bcde82e4cbdafbfeb99ea0d2150df89aecaf3fe4796cdcf2c9abe53c6a0"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
