@@ -1,0 +1,42 @@
+{
+  "id": "bakery-kneading-and-mixing-worktable-scene-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "bakery",
+  "style": "source-preserved-low-poly",
+  "title": "Kneading and Mixing Preparation Worktable",
+  "description": "One static kneading and mixing preparation worktable from the original bakery scene program. One complete old open worktable supports one complete old countertop dough mixer, one complete folded dough mass and one complete bored-barrel rolling pin rotated by an exact quarter turn. All four whole old asset IDs preserve original local POSITION/NORMAL payloads, materials and internal hierarchy byte for byte. Only unit-scale whole-instance translations, one exact signed-permutation whole rotation and one finite scene-only floor are new. Zero new independent props or food variants. All three whole top-object XY footprints fit within the actual finite convex table top, their soles match its height and their complete bounds have positive pairwise X gaps. Static preparation only: no kneading, moving mixer hook, spinning barrel, motor, heat, baking, food sanitation, load, ergonomics or safety assertion.",
+  "bounds": {
+    "x": 2.0,
+    "y": 1.399999976158142,
+    "z": 1.5460000038146973,
+    "unit": "m"
+  },
+  "triangles": 4584,
+  "materials": 13,
+  "files": {
+    "glb": {
+      "path": "assets/bakery/bakery-kneading-and-mixing-worktable-scene-01/v1.0.0/model.glb",
+      "size": 283204,
+      "sha256": "e2b8d1792731f534780da676c49a8a16a9a436dcfd07ddc7bdfa7176866376f2"
+    },
+    "blend": {
+      "path": "assets/bakery/bakery-kneading-and-mixing-worktable-scene-01/v1.0.0/source.blend",
+      "size": 1386052,
+      "sha256": "2dd1dd3fc8c4cd9abdd7274c33a95ef3ba26665782bcb1626cf1e81f45951230"
+    },
+    "generator": {
+      "path": "assets/bakery/bakery-kneading-and-mixing-worktable-scene-01/v1.0.0/generate.py",
+      "size": 154040,
+      "sha256": "5f4e86fb2eabd834d3f47c691ce639e7ddc54f691c1d77ca52cf47f816988901"
+    },
+    "render": {
+      "path": "assets/bakery/bakery-kneading-and-mixing-worktable-scene-01/v1.0.0/thumbnail.png",
+      "size": 503778,
+      "sha256": "c76f2e93e7a5a22fdda1818370ca8a02a1fd8360f6065be4476008304d439717"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

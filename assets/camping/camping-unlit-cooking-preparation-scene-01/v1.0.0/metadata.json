@@ -1,0 +1,42 @@
+{
+  "id": "camping-unlit-cooking-preparation-scene-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "camping",
+  "style": "S02-hard-edge-faceted",
+  "title": "Unlit Camp Cooking Preparation Station",
+  "description": "One original static cooking-preparation scene under the approved camping scene program. Four complete existing unit-scale props are retained: a canister-top stove inside a complete front-open notched U windscreen, a whole gooseneck kettle fixed with its original flat bottom on three small inner portions of the stove bearing arms, and a full trail canteen in a separate lateral storage position. New simple scene-only timber worktop, four legs, rear brace and low ground provide a compact station, with the front work strip and front approach left open. Every actual source GLB mesh, triangle and constant per-face PBR is retained from immutable embedded payloads; no picnic-table bench, kettle spout, stove part or old campsite fragment is extracted. Only complete-instance unit-scale translations, shared horizontal-origin centering and float32 storage within2e-7 m are applied; faceted normals are regenerated, not claimed byte-identical to original normal buffers. This is a new protected stove and cookware staging arrangement, not the old tent/chairs/campfire campsite moved around or its count increased. One scene, zero new standalone reusable models. Metres, native Z up, front -Y and ground-centred origin. Simple fixed visual seating and gap checks do not establish real cookware fit, working cooking, flame/heat/gas/pressure handling, fuel storage, ventilation, material heat resistance, food safety, load, stability, ergonomics, human clearance, camping safety or operation. No active burner, food, smoke, fluid, people, animation, new model family completion or engineering claim.",
+  "bounds": {
+    "x": 1.9,
+    "y": 1.5,
+    "z": 1.316,
+    "unit": "m"
+  },
+  "triangles": 3036,
+  "materials": 16,
+  "files": {
+    "glb": {
+      "path": "assets/camping/camping-unlit-cooking-preparation-scene-01/v1.0.0/model.glb",
+      "size": 184100,
+      "sha256": "195d30afbf0f8ede51cf3bd7384eefba3d6ae6cd0877f9d380ee63a6fbdea9a4"
+    },
+    "blend": {
+      "path": "assets/camping/camping-unlit-cooking-preparation-scene-01/v1.0.0/source.blend",
+      "size": 1087420,
+      "sha256": "fd5270957c03d9e6f4520234b8eeb17ea2c67877200170894d73c827c17ef9bc"
+    },
+    "generator": {
+      "path": "assets/camping/camping-unlit-cooking-preparation-scene-01/v1.0.0/generate.py",
+      "size": 78839,
+      "sha256": "896bc9ea65e850e847fa9b0581a6eeb1e6964653a19f87bf3d67c84a9b027454"
+    },
+    "render": {
+      "path": "assets/camping/camping-unlit-cooking-preparation-scene-01/v1.0.0/thumbnail.png",
+      "size": 544709,
+      "sha256": "a4ed0971af08646b7ef8e63eff0092e99507f3aab2e726a313566b6c94b33dcb"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

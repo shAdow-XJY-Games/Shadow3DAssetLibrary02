@@ -1,0 +1,42 @@
+{
+  "id": "farming-fixed-open-single-sash-cold-frame-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "farming",
+  "style": "warm-handcrafted-village",
+  "title": "Fixed-Open Single-Sash Cold Frame",
+  "description": "One newly authored complete low garden cold-frame appearance: a continuous open-centre ground footing carries two genuinely wedge-topped timber sides, low front and high back. A single whole open-centre framed sash with centre mullion and two thick pale glass-look infills is held well open above the planting cavity by two finite rear barrel brackets and a fixed stay. Not a scaled gabled greenhouse, detached greenhouse door, flattened bakery case or seedling tray with extra boards; all dimensions and whole construction newly authored. The planting interior/bottom are actually open and empty, no soil or crops imported. Pale blue pane appearance uses explicitly opaque solid PBR, not physical transmission or real-time transparency. Metres Z up, true whole XY bounds-centred, whole footing sole Z0. One static reusable prop, not a scene. No hinge motion, ventilation/climate/growth performance, safe access, engineering, weather or glass safety claim.",
+  "bounds": {
+    "x": 1.059999943,
+    "y": 0.742722452,
+    "z": 1.078122854,
+    "unit": "m"
+  },
+  "triangles": 248,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/farming/farming-fixed-open-single-sash-cold-frame-01/v1.0.0/model.glb",
+      "size": 21632,
+      "sha256": "4fc942cc4d59d745c2da7ae425baeb5287a6e2bc82afa6926a21ce99ab198225"
+    },
+    "blend": {
+      "path": "assets/farming/farming-fixed-open-single-sash-cold-frame-01/v1.0.0/source.blend",
+      "size": 561268,
+      "sha256": "12bdffc765fc4d0d4166c34097a8513418fb699c997c800e9e8f5e63dea1fab2"
+    },
+    "generator": {
+      "path": "assets/farming/farming-fixed-open-single-sash-cold-frame-01/v1.0.0/generate.py",
+      "size": 28188,
+      "sha256": "658fb72b46190c3dac2df0a8e5dde16098b39c504420a47a0471e2b168677b58"
+    },
+    "render": {
+      "path": "assets/farming/farming-fixed-open-single-sash-cold-frame-01/v1.0.0/thumbnail.png",
+      "size": 575632,
+      "sha256": "f6b19579fb40c495edec7a1f06512b54ec540351de761e7a866854917fab586c"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
