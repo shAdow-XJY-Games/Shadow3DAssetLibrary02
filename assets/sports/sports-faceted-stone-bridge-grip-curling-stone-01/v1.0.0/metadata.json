@@ -1,0 +1,42 @@
+{
+  "id": "sports-faceted-stone-bridge-grip-curling-stone-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "sports",
+  "style": "S01-clean-geometric",
+  "title": "Faceted Curling Stone with Bridge Grip",
+  "description": "One original static low-poly curling-stone appearance: a broad low solid twenty-sided convex stone body has six complete radial height sections and one full flat bottom; one separately editable thick red chamfer-corner bridge grip meets its flat upper face at two disjoint complete rectangular foot seats. A full front-to-back opening below the grip remains empty above the solid stone. Two closed connected meshes, two constant opaque untextured PBR materials, one prop and zero scenes. Native metres, Z up, front -Y and horizontally centred ground origin. All numerical geometry and contact layout are newly authored; no kettlebell torus, old weight, bowling pin, flying disc, carabiner gate, watering-can handle or pommel is imported, extracted, flattened or recoloured. Generic mesh, planar-prism and guarded export utilities are reused. The stone is fully solid, with no hollow shell, underside cup, running-ring groove, wheel, spindle, movable grip, detachable mechanism, ice sheet, broom, player, label, logo, texture or animation. Game-space appearance only: no official sporting dimensions, weight, mass, granite construction, handle ergonomics, grip fit, ice contact, spin, curl trajectory, friction, balance, stability, competition association, manufacture, human-use suitability or safety certification.",
+  "bounds": {
+    "x": 0.396,
+    "y": 0.396,
+    "z": 0.245,
+    "unit": "m"
+  },
+  "triangles": 272,
+  "materials": 2,
+  "files": {
+    "glb": {
+      "path": "assets/sports/sports-faceted-stone-bridge-grip-curling-stone-01/v1.0.0/model.glb",
+      "size": 16592,
+      "sha256": "58976a835aa82a3dba962fa698f93e2518fa7a9597b1cda9b0349a33c9818fda"
+    },
+    "blend": {
+      "path": "assets/sports/sports-faceted-stone-bridge-grip-curling-stone-01/v1.0.0/source.blend",
+      "size": 493736,
+      "sha256": "ad3b65a09cb75eab10af59975854bf8929edc702505ef16f3ed7f728d005f87f"
+    },
+    "generator": {
+      "path": "assets/sports/sports-faceted-stone-bridge-grip-curling-stone-01/v1.0.0/generate.py",
+      "size": 30967,
+      "sha256": "cf3bf2727639d8c5fa814b7b8781df1e72562dd60e4bbe86425c6bb95ab229bf"
+    },
+    "render": {
+      "path": "assets/sports/sports-faceted-stone-bridge-grip-curling-stone-01/v1.0.0/thumbnail.png",
+      "size": 497751,
+      "sha256": "98ab2d5ca0e472c88dbec0abd7756d748d3e79b6d1587cc6f02a29be9fbb6e1c"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
