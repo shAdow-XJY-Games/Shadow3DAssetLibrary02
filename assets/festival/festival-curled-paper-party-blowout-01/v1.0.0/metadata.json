@@ -1,0 +1,42 @@
+{
+  "id": "festival-curled-paper-party-blowout-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "festival",
+  "style": "warm-handcrafted-village",
+  "title": "Curled Paper Party Blowout",
+  "description": "One original static party blowout gift: a full open tapered mouthpiece joined to a continuous flattened hollow paper tongue that widens and curls into one compact spiral with a sealed far tip. Two editable closed meshes and three opaque matte solid PBR roles distinguish the mouthpiece, coloured paper exterior and pale interior. Newly authored complete curled paper profile and hollow neck, not a resized pipe, panflute, solid tube or extracted scroll. Metres, Z up, front -Y, horizontal bounds-centred ground datum. Small intentional paper-to-neck overlap represents a fixed joint. The paper does not inflate, unroll or make sound; no acoustic, playable, manufacturing, safety or physical-stability claim. One whole static prop, not a separate mouthpiece and paper asset.",
+  "bounds": {
+    "x": 0.105241999,
+    "y": 0.026000001,
+    "z": 0.047979999,
+    "unit": "m"
+  },
+  "triangles": 796,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/festival/festival-curled-paper-party-blowout-01/v1.0.0/model.glb",
+      "size": 40108,
+      "sha256": "b37f356f8e32843c7fffc1acb88e16905fc4136a7dd6d3824d309edf1a16157a"
+    },
+    "blend": {
+      "path": "assets/festival/festival-curled-paper-party-blowout-01/v1.0.0/source.blend",
+      "size": 545268,
+      "sha256": "b943c0de3a972124410617f2b6f0c98c738b7f9df08786d64517f133c8ea97b6"
+    },
+    "generator": {
+      "path": "assets/festival/festival-curled-paper-party-blowout-01/v1.0.0/generate.py",
+      "size": 27716,
+      "sha256": "1636646640263d73887d1a2c4132f708e5dcc9aff8ef65099be2de2a6a6656d3"
+    },
+    "render": {
+      "path": "assets/festival/festival-curled-paper-party-blowout-01/v1.0.0/thumbnail.png",
+      "size": 486066,
+      "sha256": "e87d72d8d8a5b6e970d9a824f52b17be68251255b69b5dfcdec6adbd82387035"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
