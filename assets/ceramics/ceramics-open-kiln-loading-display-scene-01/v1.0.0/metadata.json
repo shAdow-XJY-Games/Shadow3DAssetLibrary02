@@ -1,0 +1,42 @@
+{
+  "id": "ceramics-open-kiln-loading-display-scene-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "ceramics",
+  "style": "source-preserved-low-poly",
+  "title": "Open Kiln Loading Display",
+  "description": "One static ceramics loading-display scene from the original kiln-loading program. The complete original front-loading kiln kit uses only its explicitly documented -100-degree open door pivot pose; the whole original amphora sits on its existing removable shelf at its documented full-size placement. All original local mesh POSITION/NORMAL bytes, material dictionaries, per-face assignments and node hierarchy remain intact. Only that named pose transform, whole-instance translations and one scene-only closed floor are new. One scene, zero new independent models. No continuous swing or insertion motion, actual firing, thermal/electrical function, clay suitability, load, access or safety certification.",
+  "bounds": {
+    "x": 2.200000047683716,
+    "y": 2.700000047683716,
+    "z": 1.4799998998641968,
+    "unit": "m"
+  },
+  "triangles": 2016,
+  "materials": 8,
+  "files": {
+    "glb": {
+      "path": "assets/ceramics/ceramics-open-kiln-loading-display-scene-01/v1.0.0/model.glb",
+      "size": 131980,
+      "sha256": "ae2f430963016f9bc8ec5fe0e3040cd7478c0e2f245934b072c9489a1bdfab86"
+    },
+    "blend": {
+      "path": "assets/ceramics/ceramics-open-kiln-loading-display-scene-01/v1.0.0/source.blend",
+      "size": 143297,
+      "sha256": "8d91a70c80259dd0a9a74fcfa239d262240309c314c5b1f05ab8261f35f5d094"
+    },
+    "generator": {
+      "path": "assets/ceramics/ceramics-open-kiln-loading-display-scene-01/v1.0.0/generate.py",
+      "size": 42615,
+      "sha256": "c5f8a09068d39bfe4c9bd7d382cc63554778783e4d0277514e6fd47782934c49"
+    },
+    "render": {
+      "path": "assets/ceramics/ceramics-open-kiln-loading-display-scene-01/v1.0.0/thumbnail.png",
+      "size": 522469,
+      "sha256": "dd6cb4f2ef6387fac2a83e99f2566eeafa82178d2699195cd4c4a4322f561b28"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

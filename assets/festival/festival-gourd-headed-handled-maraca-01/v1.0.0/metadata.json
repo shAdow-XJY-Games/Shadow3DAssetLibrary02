@@ -1,0 +1,42 @@
+{
+  "id": "festival-gourd-headed-handled-maraca-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "festival",
+  "style": "warm-handcrafted-village",
+  "title": "Gourd-Headed Handled Maraca",
+  "description": "One complete stylized hand-held maraca exterior: a broad elongated egg-like painted gourd head flowing into a long narrow wooden grip and small rounded butt. One continuous editable closed mesh with shared rings, finite flat butt face and three opaque matte solid PBR regions. No drum membrane, external swinging pellets, ratchet wheel, metal bell or electronic microphone grille. The head-to-grip profile and full grip are new geometry rather than a recoloured ball. Metres, Z up, horizontal bounds centred and the finite grip butt at Z0. Solid game-ready exterior representation only: internal loose grains and an acoustic cavity are intentionally not modelled; no sound, physics, balancing or safety performance claimed.",
+  "bounds": {
+    "x": 0.069402002,
+    "y": 0.069402002,
+    "z": 0.194999993,
+    "unit": "m"
+  },
+  "triangles": 624,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/festival/festival-gourd-headed-handled-maraca-01/v1.0.0/model.glb",
+      "size": 43368,
+      "sha256": "a48ab98b1e2ee571648d7c219ccb7ad485da5ea64826a2c13785abfa270f6ed0"
+    },
+    "blend": {
+      "path": "assets/festival/festival-gourd-headed-handled-maraca-01/v1.0.0/source.blend",
+      "size": 530932,
+      "sha256": "253d090769d3b0fd7e50747a6f38b318315f50b092ccfa5cd24267b1aff1b742"
+    },
+    "generator": {
+      "path": "assets/festival/festival-gourd-headed-handled-maraca-01/v1.0.0/generate.py",
+      "size": 25899,
+      "sha256": "7be01c684afb2e2ce2fa91b617df1c9d50351afc396068c60c087a0c645f8ff8"
+    },
+    "render": {
+      "path": "assets/festival/festival-gourd-headed-handled-maraca-01/v1.0.0/thumbnail.png",
+      "size": 481167,
+      "sha256": "c4ce7619893959f525700b4634690f4f0dbcac529adeedcb57fd52d463c8e3ee"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

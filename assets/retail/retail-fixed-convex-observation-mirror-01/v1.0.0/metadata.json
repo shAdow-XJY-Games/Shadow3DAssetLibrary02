@@ -1,0 +1,42 @@
+{
+  "id": "retail-fixed-convex-observation-mirror-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "retail",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Convex Shop Observation Mirror",
+  "description": "One original static convex shop observation-mirror visual prop. A closed circular silver metallic-PBR body has a genuinely outward-bulging five-band faceted front and complete flat rear. A thick continuous orange protective rim seats around the full cylindrical edge. One integral compact rear standoff joins the back to a rectangular mounting plate. Three closed editable meshes and three opaque untextured PBR materials. Metres, Z up, front -Y, horizontal-bounds-centred and lowest-rim Z datum for placement, not a floor-standing support. Newly authored convex wall-accessory construction, not the existing flat full-length floor mirror resized or recoloured. No host wall, screws, pivot, sensors, real-time reflection guarantee, optical field-of-view, coverage, mounting load or safety certification.",
+  "bounds": {
+    "x": 0.628000020980835,
+    "y": 0.25699999928474426,
+    "z": 0.628000020980835,
+    "unit": "m"
+  },
+  "triangles": 724,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/retail/retail-fixed-convex-observation-mirror-01/v1.0.0/model.glb",
+      "size": 36348,
+      "sha256": "522090ed752cbf465d2490571c3f259a25fe9b4dabefa230302af0a83c79cb9f"
+    },
+    "blend": {
+      "path": "assets/retail/retail-fixed-convex-observation-mirror-01/v1.0.0/source.blend",
+      "size": 545976,
+      "sha256": "b041fae932dfb74c1c71789aac0a78fe10232b17029b0ff649b6e26b968804c8"
+    },
+    "generator": {
+      "path": "assets/retail/retail-fixed-convex-observation-mirror-01/v1.0.0/generate.py",
+      "size": 18514,
+      "sha256": "57867e0d831a6bbeda2372b9efab504a30dc6e6fe4eaffb5379a0c07dd85735b"
+    },
+    "render": {
+      "path": "assets/retail/retail-fixed-convex-observation-mirror-01/v1.0.0/thumbnail.png",
+      "size": 500272,
+      "sha256": "2e727f035188accec16613273eaedece986f02ab3ffe60bcb7742588eb9d1cd0"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
