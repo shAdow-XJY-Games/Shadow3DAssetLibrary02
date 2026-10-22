@@ -1,0 +1,42 @@
+{
+  "id": "animal-static-split-elytra-beetle-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "nature",
+  "style": "S02-hard-edge-faceted",
+  "title": "Static Split-Elytra Beetle",
+  "description": "One original stylised beetle with a low abdominal underbody, broad short pronotum, separate forward head, two complete convex elytra divided by a genuine narrow centre seam, two small lateral eyes, paired bent clubbed antennae, two short curved mandibles and six distinctly angled tapering legs rooted at the thorax. Each leg meets a small complete two-tip ground foot. All new whole profiles and coordinates; not a tortoise with recoloured scutes, an extra pair of old legs, a bee ornament extracted from a scene or an existing animal body reused. Twenty-five closed editable meshes, four constant opaque PBR materials, no textures. Metres, native Z up, front -Y, full horizontal bounds-centred ground origin. One prop, no scene or separate component counts. Artistic static exoskeletal silhouette, not a species diagnosis, scientific anatomy, true layered shell, moving wing, gait, rig, animation, biological function, collision or stability certification.",
+  "bounds": {
+    "x": 1.082,
+    "y": 1.642,
+    "z": 0.435,
+    "unit": "m"
+  },
+  "triangles": 2008,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/nature/animal-static-split-elytra-beetle-01/v1.0.0/model.glb",
+      "size": 141496,
+      "sha256": "78254894624772b0a49fd5e54554f1be5bb76df46a6785f907a38d009447ce7c"
+    },
+    "blend": {
+      "path": "assets/nature/animal-static-split-elytra-beetle-01/v1.0.0/source.blend",
+      "size": 751060,
+      "sha256": "9b5d292130cdb53a99b895e2cfd7d7e66553390473c5c10ba2118ac34069bb82"
+    },
+    "generator": {
+      "path": "assets/nature/animal-static-split-elytra-beetle-01/v1.0.0/generate.py",
+      "size": 23231,
+      "sha256": "9202aa63a29572ac2dc56545e2a44c660f8918d2779253c2da9fd03a03580efd"
+    },
+    "render": {
+      "path": "assets/nature/animal-static-split-elytra-beetle-01/v1.0.0/thumbnail.png",
+      "size": 500691,
+      "sha256": "82bd2e70d6d153b47341c38bd5052d815b4268cc61e1ebf002f2afe536f27265"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

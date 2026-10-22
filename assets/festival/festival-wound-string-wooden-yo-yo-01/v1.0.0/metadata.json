@@ -1,0 +1,42 @@
+{
+  "id": "festival-wound-string-wooden-yo-yo-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "festival",
+  "style": "warm-handcrafted-village",
+  "title": "Wound-String Wooden Yo-Yo",
+  "description": "One original static yo-yo gift: a single continuous solid wooden body with two rounded closed flanges and an integral narrow string waist, a real thin cord winding partly around the waist then extending to a separate closed finger loop. Three editable closed meshes and three opaque matte solid PBR roles. The flanges are solid, not deep open diabolo cups; the assembly is a single hand toy, not a yarn-spool tray, spinning top or detached industrial reel. All geometry newly authored on reused mesh/export tools. Metres, Z up, front -Y, horizontal bounds centred; two finite faceted outer-rim bands rest at Z0. Small intentional buried cord/waist and cord/loop overlaps represent fixed display attachment. The raised cord is a posed static presentation, not gravity simulation. No animation, rotation, operating yo-yo, string unwinding, knot topology, acoustic, manufacture, safety, balance or stability claim. One whole prop, not separately counted parts.",
+  "bounds": {
+    "x": 0.079613999,
+    "y": 0.026000001,
+    "z": 0.154799998,
+    "unit": "m"
+  },
+  "triangles": 1504,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/festival/festival-wound-string-wooden-yo-yo-01/v1.0.0/model.glb",
+      "size": 100356,
+      "sha256": "c74617b388b1688e3b7ade1128ab044290e48dd43b657d0887444d2d8cda73ca"
+    },
+    "blend": {
+      "path": "assets/festival/festival-wound-string-wooden-yo-yo-01/v1.0.0/source.blend",
+      "size": 588680,
+      "sha256": "495f3e031037ed5cd170b0c82ae5d17321a8240b0e79d6a2d26ad70edc4f11af"
+    },
+    "generator": {
+      "path": "assets/festival/festival-wound-string-wooden-yo-yo-01/v1.0.0/generate.py",
+      "size": 27874,
+      "sha256": "d295a70404f8d9e50810486dc3b209b24d19553c77c77b57d6d6a0084d3eaae8"
+    },
+    "render": {
+      "path": "assets/festival/festival-wound-string-wooden-yo-yo-01/v1.0.0/thumbnail.png",
+      "size": 483473,
+      "sha256": "881e73cad5abafa62ed7da17fe15c16ab467ac9f76d7faef753b33ab95fa0bfd"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
