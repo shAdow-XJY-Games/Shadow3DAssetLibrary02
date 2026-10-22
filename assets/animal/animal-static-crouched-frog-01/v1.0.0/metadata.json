@@ -1,0 +1,42 @@
+{
+  "id": "animal-static-crouched-frog-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "animal",
+  "style": "S01-clean-geometric",
+  "title": "Static Broad-Head Crouched Frog",
+  "description": "One original complete static stylized crouched frog with a broad low head flowing continuously into a short tapering torso, two raised dorsal eye domes with integral amber iris and dark pupil faces, two large outward-splayed muscular thighs, two narrow shanks folded backward from lateral knees to rear ankles, two short bent forearms and four thick splayed four-toed feet. The broad flattened snout and pale underside belong to the continuous body surface, not floating overlays. Thirteen closed editable meshes meet only at twelve complete finite opposed planar joints. Four entire ground soles, whole inset material, all toe clefts, complete bounded rear-thigh fold domains and supplementary belly air domains and all noncontact pairs are checked. Five ordinary opaque matte constant PBR colours. Metres, native Z up, front -Y and horizontal envelope-centred ground origin. One prop, zero scenes or variants. Newly authored whole amphibian silhouette, not a modified tortoise, shortened rabbit, plush bear, bird-foot extraction or carousel component. No tail, shell, ears, fur, texture, floating eyes, pedestal, habitat, water, vegetation, rig or animation. Artistic fixed appearance only; no exact species, biological or anatomical precision, ecology, animal behaviour, jumping, locomotion, physical stability, manufacturing, safety or old-asset compatibility claim.",
+  "bounds": {
+    "x": 1.64,
+    "y": 1.215,
+    "z": 0.655,
+    "unit": "m"
+  },
+  "triangles": 800,
+  "materials": 5,
+  "files": {
+    "glb": {
+      "path": "assets/animal/animal-static-crouched-frog-01/v1.0.0/model.glb",
+      "size": 54688,
+      "sha256": "bc819d655663759221c1b663cc56588f65fb97525d51ed97e1feb6988e19d22f"
+    },
+    "blend": {
+      "path": "assets/animal/animal-static-crouched-frog-01/v1.0.0/source.blend",
+      "size": 648012,
+      "sha256": "de0c7f8c8b70c2f6a6bcb6ad0628f46534297deac00c9e3fa0aa14863f4073e9"
+    },
+    "generator": {
+      "path": "assets/animal/animal-static-crouched-frog-01/v1.0.0/generate.py",
+      "size": 37788,
+      "sha256": "066780f1af117ef400f18e507bc7d81598ff47a3852936f5fc548c855255f379"
+    },
+    "render": {
+      "path": "assets/animal/animal-static-crouched-frog-01/v1.0.0/thumbnail.png",
+      "size": 492532,
+      "sha256": "8c9ce2d7a5d589db4026f25c20dd1d1e19b7c8aca0b36ca5f2f12cf0dffd7690"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
