@@ -1,0 +1,42 @@
+{
+  "id": "photography-portrait-sweep-studio-scene-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "photography",
+  "style": "source-preserved-low-poly",
+  "title": "Portrait Sweep Studio",
+  "description": "One static portrait-studio scene from the original photography scene program. Three complete existing assets are reused at original scale: continuous sweep backdrop, tripod camera facing into its empty subject area, and softbox facing across that area from the right. A scene-only floor provides the shared layout. Original local POSITION/NORMAL, all materials and internal node hierarchies remain unchanged; only exact 0/180/-90 degree instance matrices and single-quantized translations place whole assets. One scene, zero new independent models. An empty illustrative set, not a portrait subject model, optical alignment or exposure simulation, lighting-performance, background compatibility, operator clearance, safe installation or functioning photography claim.",
+  "bounds": {
+    "x": 6.400000095367432,
+    "y": 5.400000095367432,
+    "z": 2.7447543144226074,
+    "unit": "m"
+  },
+  "triangles": 5088,
+  "materials": 15,
+  "files": {
+    "glb": {
+      "path": "assets/photography/photography-portrait-sweep-studio-scene-01/v1.0.0/model.glb",
+      "size": 266184,
+      "sha256": "74fe707ae88e1e0f599003c9726c2c365aa428945b9a917f86b09b3defd72f35"
+    },
+    "blend": {
+      "path": "assets/photography/photography-portrait-sweep-studio-scene-01/v1.0.0/source.blend",
+      "size": 205488,
+      "sha256": "7145007d1124eb1fa3428b41efc96e079c016f5d09faeeecdf28974055e0f033"
+    },
+    "generator": {
+      "path": "assets/photography/photography-portrait-sweep-studio-scene-01/v1.0.0/generate.py",
+      "size": 81464,
+      "sha256": "ca5c0ada2da0387da59dc84430fa956992029ffb132af66fc7b039850891afba"
+    },
+    "render": {
+      "path": "assets/photography/photography-portrait-sweep-studio-scene-01/v1.0.0/thumbnail.png",
+      "size": 488719,
+      "sha256": "06aff146d3f4c6206b356c5022a348be0a0f29414f1c7309a8c9ffbb1679c3a8"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

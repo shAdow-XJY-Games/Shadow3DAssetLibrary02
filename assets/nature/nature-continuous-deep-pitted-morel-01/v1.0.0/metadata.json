@@ -1,0 +1,42 @@
+{
+  "id": "nature-continuous-deep-pitted-morel-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "nature",
+  "style": "S02-hard-edge-faceted",
+  "title": "Continuous Deep-Pitted Morel-Like Fungus",
+  "description": "Original stylised morel-like fungus with a gently bent grounded stem continuously joined to an irregular tapered cap bearing sixty-five genuinely recessed blind polygon cells. Each cell has a narrow full raised rim, sloping inner walls and a real finite brown floor. The irregular periodic cell partition changes both cell adjacency and outline; no repeated horizontal rectangular window rows, painted holes or floating tubes. One closed shared-vertex mesh and four opaque matte PBR materials. This is a substantive visual revision of the unpublished first image, which was rejected for manufactured window-grid appearance; it is the same single asset, not an extra variant. Metres, native Z up, front -Y, full horizontal bounds-centred ground origin. Static artistic external structure only, not species identification, biological hollow interior, scientific specimen, growth/physics, foraging or edibility advice.",
+  "bounds": {
+    "x": 0.376419,
+    "y": 0.357984,
+    "z": 0.865,
+    "unit": "m"
+  },
+  "triangles": 1946,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/nature/nature-continuous-deep-pitted-morel-01/v1.0.0/model.glb",
+      "size": 154044,
+      "sha256": "22dcf050f6a9a2cafb61781210959e2ec7c48795dd57625c2e4c8dac58e19d97"
+    },
+    "blend": {
+      "path": "assets/nature/nature-continuous-deep-pitted-morel-01/v1.0.0/source.blend",
+      "size": 625676,
+      "sha256": "e05ca8b5d986a5b3f45f2e9298ba28ca36de4210bffb1bac9f6636b73d871c2c"
+    },
+    "generator": {
+      "path": "assets/nature/nature-continuous-deep-pitted-morel-01/v1.0.0/generate.py",
+      "size": 21518,
+      "sha256": "50bbaf3f974582177fcd7d031de6b34055c2aa5dd64c6d9f686f8c0070eea459"
+    },
+    "render": {
+      "path": "assets/nature/nature-continuous-deep-pitted-morel-01/v1.0.0/thumbnail.png",
+      "size": 522268,
+      "sha256": "94f393b06bb6bbab2d9a68c93d7c7166aaf1133dd347971ad87fd816f9ec1669"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

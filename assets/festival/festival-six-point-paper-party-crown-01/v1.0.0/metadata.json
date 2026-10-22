@@ -1,0 +1,42 @@
+{
+  "id": "festival-six-point-paper-party-crown-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "festival",
+  "style": "warm-handcrafted-village",
+  "title": "Six-Point Paper Party Crown",
+  "description": "One complete static paper party crown: a single thin closed solid polygonal headband with six tall pointed peaks alternating with six low valleys, genuine open centre and open lower aperture. Twelve planar outer panels, corresponding full inner lining and narrow finite top/bottom cut edges form one continuous editable mesh. Two opaque matte solid PBR paper roles, warm ochre outside and pale raw lining inside; no metal or painted fake hole. Not the raised ends of a gold ingot, a solid star topper, a conical party hat or a rescaled lantern body. Newly authored whole silhouette on reused mesh/export tools. Metres, Z up, front -Y, horizontal bounds centred and finite annular bottom at Z0. One whole wearable-style decorative prop, not separately counted points. Static representation only; no real foldability, seam fastening, fit, animation, manufacture or safety claim.",
+  "bounds": {
+    "x": 0.172999993,
+    "y": 0.172999993,
+    "z": 0.075000003,
+    "unit": "m"
+  },
+  "triangles": 96,
+  "materials": 2,
+  "files": {
+    "glb": {
+      "path": "assets/festival/festival-six-point-paper-party-crown-01/v1.0.0/model.glb",
+      "size": 7800,
+      "sha256": "5fa4c3eb1063d5a7cb5b8f99405e05fd9cba6133a41d8cb2eec5091403e9f3a5"
+    },
+    "blend": {
+      "path": "assets/festival/festival-six-point-paper-party-crown-01/v1.0.0/source.blend",
+      "size": 479252,
+      "sha256": "45165afe3a3abc45c09927dac3b27c5309c7fd42118bb3aa354ec7fc0a36835b"
+    },
+    "generator": {
+      "path": "assets/festival/festival-six-point-paper-party-crown-01/v1.0.0/generate.py",
+      "size": 25778,
+      "sha256": "966b0d7e3dae9eacce135c13cb229a5be2d3a9da54ccf7ee384862ea28f25ece"
+    },
+    "render": {
+      "path": "assets/festival/festival-six-point-paper-party-crown-01/v1.0.0/thumbnail.png",
+      "size": 512988,
+      "sha256": "5fad239593e934744e0ae25fcd79b12217065103c4c7bf6807cf188b8e047b8b"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

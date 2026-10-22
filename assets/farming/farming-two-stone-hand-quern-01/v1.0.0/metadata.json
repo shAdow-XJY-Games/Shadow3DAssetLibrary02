@@ -1,0 +1,42 @@
+{
+  "id": "farming-two-stone-hand-quern-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "farming",
+  "style": "warm-handcrafted-village",
+  "title": "Two-Stone Hand Quern",
+  "description": "One newly authored static grain-hand-mill appearance: a broad low lower stone, a distinct thick annular upper stone with a raised funnel-like central feed eye, and one offset upright wooden grip. Three closed editable meshes and three opaque constant matte PBR roles. This is a pair of broad stone bodies, not the old mortar with a loose pestle or a tall coffee-grinder barrel/crank assembly. All dimensions and faceted profiles are new game-art construction, not a replica of a named museum specimen. Metres, Z up, true whole horizontal bounds-centred ground origin. Hidden small fixed overlaps connect the display; no movable interface, spindle, grinding grooves, actual milling, grain flow, food performance, historical attribution, manufacture or safety claim.",
+  "bounds": {
+    "x": 0.5,
+    "y": 0.5,
+    "z": 0.340000004,
+    "unit": "m"
+  },
+  "triangles": 592,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/farming/farming-two-stone-hand-quern-01/v1.0.0/model.glb",
+      "size": 33144,
+      "sha256": "c8818d977dee18066e4374dc870ee607d08d8d1f82934bcd8a3b1d94e6be4200"
+    },
+    "blend": {
+      "path": "assets/farming/farming-two-stone-hand-quern-01/v1.0.0/source.blend",
+      "size": 527844,
+      "sha256": "74a9927cab130526a10f84dd3612ebeb5acc02a7159949ee84e6a7223c972dd4"
+    },
+    "generator": {
+      "path": "assets/farming/farming-two-stone-hand-quern-01/v1.0.0/generate.py",
+      "size": 25858,
+      "sha256": "5cdd96cfc911169c7b932997330304c6184657d22a85773c70a823a02acc4e90"
+    },
+    "render": {
+      "path": "assets/farming/farming-two-stone-hand-quern-01/v1.0.0/thumbnail.png",
+      "size": 476129,
+      "sha256": "d1b1cd4a951bb4633382abf2bdec14447abf365c6f74ccbd8d03e0d91eb3c88d"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

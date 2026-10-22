@@ -1,0 +1,42 @@
+{
+  "id": "public-static-raised-wall-grab-rail-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "public",
+  "style": "S01-clean-geometric",
+  "title": "Static Raised Wall Grab Rail",
+  "description": "One original complete static public sanitary-facility grab-rail appearance, shown in a fixed partially raised pose. A thick wall anchor plate, paired pivot cheeks, one rigid root block and transverse capped pin carry a newly authored continuous upper-and-return tubular rail with a rounded nose and genuinely open central space. Opaque fastener appearances only. No sports apparatus, chair or awning mesh imported. The anchor plate lower edge defines Z=0; no ground-supported or installed-height claim and no host wall. No rotation, locking, human assistance, fall prevention, accessibility compliance, grip suitability, body fit, load capacity, installation instructions or safety certification is represented.",
+  "bounds": {
+    "x": 0.166,
+    "y": 0.7279693971378125,
+    "z": 0.5485855755771187,
+    "unit": "m"
+  },
+  "triangles": 992,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/public/public-static-raised-wall-grab-rail-01/v1.0.0/model.glb",
+      "size": 57016,
+      "sha256": "b04e449163a4b7f2679554012b994a0f4b596bf71734a564f5dd9c21bcc96aaf"
+    },
+    "blend": {
+      "path": "assets/public/public-static-raised-wall-grab-rail-01/v1.0.0/source.blend",
+      "size": 625996,
+      "sha256": "88d5a4cf3f96a43b74eafcd3cf8607913e1c613ecd4836086b1a04fcae875152"
+    },
+    "generator": {
+      "path": "assets/public/public-static-raised-wall-grab-rail-01/v1.0.0/generate.py",
+      "size": 9236,
+      "sha256": "d246d0cff564aee5e667014897d2beb3c4f96473b7040be284e6dbf7bbe9cefb"
+    },
+    "render": {
+      "path": "assets/public/public-static-raised-wall-grab-rail-01/v1.0.0/thumbnail.png",
+      "size": 319817,
+      "sha256": "91f0f128a4a2558a22c794779eb5d881f03d0e812b9434a72a10691c37135cf2"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

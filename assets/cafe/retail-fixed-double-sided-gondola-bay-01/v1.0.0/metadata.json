@@ -1,0 +1,42 @@
+{
+  "id": "retail-fixed-double-sided-gondola-bay-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "retail",
+  "style": "S01-clean-geometric",
+  "title": "Double-Sided Retail Gondola Bay",
+  "description": "One original empty freestanding double-sided retail gondola bay. An integral grounded central spine has three uprights, two broad fore-aft feet, solid back panels and full-width cross rails. Three closed shelf decks face each of two opposite aisles, each with a raised outside stop lip and two finite triangular under-brackets. Every bracket has a full vertical seat on the central back panel and a full horizontal support face split between its deck and rail, without hidden overlap. Nineteen closed editable material meshes, three opaque untextured PBR materials. Metres, Z up, centred on the grounded spine and feet. Newly authored complete store fixture, not a second copy of a bookcase, the bakery slatted rack, a mesh-tray hinge drying rack, or a pallet rack scaled/recoloured. Fixed empty appearance only: no stock, adjustable shelf mechanism, load or tipping certification, installation standard, aisle-clearance certification or compatibility claim.",
+  "bounds": {
+    "x": 1.5,
+    "y": 0.800000011920929,
+    "z": 1.75,
+    "unit": "m"
+  },
+  "triangles": 1248,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/cafe/retail-fixed-double-sided-gondola-bay-01/v1.0.0/model.glb",
+      "size": 56748,
+      "sha256": "f73e2c2228108db665bfdfe35defada6111d15d7ff668ae181cfffa9b520165f"
+    },
+    "blend": {
+      "path": "assets/cafe/retail-fixed-double-sided-gondola-bay-01/v1.0.0/source.blend",
+      "size": 655632,
+      "sha256": "6cb9235177b58d83c787185075bb4070a1dc55737599d66044e9036c6c2e3715"
+    },
+    "generator": {
+      "path": "assets/cafe/retail-fixed-double-sided-gondola-bay-01/v1.0.0/generate.py",
+      "size": 19254,
+      "sha256": "3ef250cf45a149a66ee64a539bc61df7ebaf40c40961537b0eeaf80d76d8f42d"
+    },
+    "render": {
+      "path": "assets/cafe/retail-fixed-double-sided-gondola-bay-01/v1.0.0/thumbnail.png",
+      "size": 532651,
+      "sha256": "ec6fa23a0aad16a283ac44a2b9d4b245e3566d1f8f2cb7c3330c99fa83603382"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
