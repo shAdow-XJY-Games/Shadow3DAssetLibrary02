@@ -1,0 +1,42 @@
+{
+  "id": "tailoring-sewing-support-corner-scene-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "tailoring",
+  "style": "source-preserved-low-poly",
+  "title": "Sewing and Finishing Support Corner",
+  "description": "One static sewing support corner from the original tailoring scene program. Four complete existing props form a machine-and-chair position, separate low thread-spool storage, and a side ironing station. The whole unchanged lockstitch workstation, two-tier partly occupied spool rack, complete dining chair, and complete ironing-board-and-iron kit retain every original mesh, local POSITION/NORMAL payload, PBR material and internal hierarchy. The chair uses the original workstation documented relative placement (-0.10,-0.48,0) with a 180 degree turn; other units remain visibly separate. Only whole-instance translations, exact quarter-turn wrappers and one finite scene-only floor are new. One scene and zero new independent models. No occupant, actual sewing or ironing, moving needle/pedal, electric or heating operation, material processing, ergonomics, accessibility, load or safety certification.",
+  "bounds": {
+    "x": 2.799999952316284,
+    "y": 2.5,
+    "z": 1.2304999828338623,
+    "unit": "m"
+  },
+  "triangles": 9656,
+  "materials": 20,
+  "files": {
+    "glb": {
+      "path": "assets/tailoring/tailoring-sewing-support-corner-scene-01/v1.0.0/model.glb",
+      "size": 570440,
+      "sha256": "0d54992ca8f995e5309c12428cc6f85341d39e5394a8457d322dc52b888fc96d"
+    },
+    "blend": {
+      "path": "assets/tailoring/tailoring-sewing-support-corner-scene-01/v1.0.0/source.blend",
+      "size": 2188220,
+      "sha256": "ff1c763bfb28bd0ef1f7c014d364da9d5fa08829cd07a03f014e972952f87e8e"
+    },
+    "generator": {
+      "path": "assets/tailoring/tailoring-sewing-support-corner-scene-01/v1.0.0/generate.py",
+      "size": 210061,
+      "sha256": "beb0be9d88faa5650f1d533f51751294d0171963a847f0f05299d1c6db33550c"
+    },
+    "render": {
+      "path": "assets/tailoring/tailoring-sewing-support-corner-scene-01/v1.0.0/thumbnail.png",
+      "size": 490167,
+      "sha256": "31244f59473a41c102781917ea7cb997ecfa0c1dccbfd264efed83973f96e5f7"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

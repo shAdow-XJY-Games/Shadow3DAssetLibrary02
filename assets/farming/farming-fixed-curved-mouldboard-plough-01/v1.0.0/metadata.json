@@ -1,0 +1,42 @@
+{
+  "id": "farming-fixed-curved-mouldboard-plough-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "farming",
+  "style": "warm-handcrafted-village",
+  "title": "Fixed Curved-Mouldboard Plough",
+  "description": "One newly authored whole static low-poly farm plough appearance: a finite thick continuously curling and longitudinally changing metal mouldboard rises from a low landside runner and triangular finite-thickness share, a bent standard supports a forward arching timber drawbeam with a genuine open end ring, and two continuous curved separated rear wooden handles rise behind the board. Eight editable closed meshes and three opaque constant PBR materials. The broad changing open curl is not a shortened helical auger flight or the transverse flat plate of a hand hoe, and the longitudinal drawbeam/runner/paired handles are not the old double-scalloped neck yoke. No old visible geometry imported or extracted. Small deliberate fixed overlaps connect one complete static display. Metres, Z up, true whole horizontal bounds centre and actual runner sole at Z0. Blunt game-art visual only: no animal or tractor fit, harness/hitch compatibility, soil turning, cutting performance, motion, force, installation, manufacture, stability or engineering/safety certification.",
+  "bounds": {
+    "x": 1.92419517,
+    "y": 0.532629848,
+    "z": 1.056260228,
+    "unit": "m"
+  },
+  "triangles": 820,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/farming/farming-fixed-curved-mouldboard-plough-01/v1.0.0/model.glb",
+      "size": 48932,
+      "sha256": "79682ae4442dc084c08fc557b428243279768498b9fe9a51a14ff4c8195075c5"
+    },
+    "blend": {
+      "path": "assets/farming/farming-fixed-curved-mouldboard-plough-01/v1.0.0/source.blend",
+      "size": 562216,
+      "sha256": "3e89895afc3615b8983c62780694b61402522436cd2ba4363757475b24ae0bb1"
+    },
+    "generator": {
+      "path": "assets/farming/farming-fixed-curved-mouldboard-plough-01/v1.0.0/generate.py",
+      "size": 28420,
+      "sha256": "f3dabbea310f6aff27f2428fdf1667c2e37540900b898ea2c77f92df18ce2264"
+    },
+    "render": {
+      "path": "assets/farming/farming-fixed-curved-mouldboard-plough-01/v1.0.0/thumbnail.png",
+      "size": 481976,
+      "sha256": "2ef703692341a2eb895ae2a46b1d6f2b609f098846d59763be5e9d46a40358a5"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

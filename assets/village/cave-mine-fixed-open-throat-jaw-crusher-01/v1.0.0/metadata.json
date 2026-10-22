@@ -1,0 +1,42 @@
+{
+  "id": "cave-mine-fixed-open-throat-jaw-crusher-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "cave-mine",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Open-Throat Jaw Crusher",
+  "description": "One original complete static mine jaw-crusher appearance. Two whole thick corrugated jaw plates oppose each other across a genuinely open narrowing vertical V chamber: one almost vertical front jaw and one inclined rear jaw, both with seven real transverse tooth ridges. The bottom discharge remains open between separate front and rear chassis ties. Two whole thick side cheek plates stand on paired grounded side frames with four flat feet. A fixed transverse upper rear pin and one exposed six-spoke bare flywheel complete the single frozen machine appearance. No original grizzly bars, splitter chute or vise mesh reused. All separate closed components newly authored, with intentionally embedded fixed pin/spoke and frame joints. No motor, belt, hopper, animation, ore particles, crushing or feed performance, throughput, engineering, manufacture, maintenance access or safety claim.",
+  "bounds": {
+    "x": 1.365,
+    "y": 1.2200000000000002,
+    "z": 1.4,
+    "unit": "m"
+  },
+  "triangles": 760,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/village/cave-mine-fixed-open-throat-jaw-crusher-01/v1.0.0/model.glb",
+      "size": 49656,
+      "sha256": "7e7cc1b595cc72e9f469c6e9233204f4f03bfb78d410a6b48879b761efbab2ce"
+    },
+    "blend": {
+      "path": "assets/village/cave-mine-fixed-open-throat-jaw-crusher-01/v1.0.0/source.blend",
+      "size": 697068,
+      "sha256": "3db84c9ff3a8b97b4056256c6670c89d1d0926d887f62ea78e2aefb166a5f1ca"
+    },
+    "generator": {
+      "path": "assets/village/cave-mine-fixed-open-throat-jaw-crusher-01/v1.0.0/generate.py",
+      "size": 10243,
+      "sha256": "0c2d10ec67333675b7cede031518e6e8ce8a996cece7008d84b59bc6e921958b"
+    },
+    "render": {
+      "path": "assets/village/cave-mine-fixed-open-throat-jaw-crusher-01/v1.0.0/thumbnail.png",
+      "size": 478886,
+      "sha256": "3a71788f308d33afafaa9f8bd753c88748725d36648790729f12e7d50f84fd52"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
