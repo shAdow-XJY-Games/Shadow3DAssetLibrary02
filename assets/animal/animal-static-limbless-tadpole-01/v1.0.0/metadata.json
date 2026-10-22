@@ -1,0 +1,42 @@
+{
+  "id": "animal-static-limbless-tadpole-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "animal",
+  "style": "S02-hard-edge-faceted",
+  "title": "Static Limbless Tadpole",
+  "description": "One original stylised limbless amphibian-larva-inspired appearance. A broad blunt rounded head-body continues directly into one long gently sideways-bent tapering muscular tail, with a complete finite-thickness upper and lower tail-fin envelope in the very same closed shared-vertex surface. Two small dark eyes are visibly inset into the broad head. Newly authored whole axial sections, belly, taper, curvature and fin silhouette; no adult frog head or body is copied, shrunk or stripped of limbs, and no old octopus arm, fish-skeleton tail or fishing-float profile is reused. One complete body/fin mesh plus two small closed eye meshes, three opaque matte PBR materials. One prop and zero scenes, not multiple growth stages or a whole life cycle. Metres, native Z up, presentation front -Y and head toward -X, complete horizontal bounds-centred grounded belly display. Static artistic exterior only, no real species, life-size or developmental-stage accuracy, internal anatomy, biological transparency, swimming, growth, animation, breathing, buoyancy, welfare or ecological performance claim.",
+  "bounds": {
+    "x": 1.495,
+    "y": 0.38,
+    "z": 0.3636,
+    "unit": "m"
+  },
+  "triangles": 524,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/animal/animal-static-limbless-tadpole-01/v1.0.0/model.glb",
+      "size": 38124,
+      "sha256": "2db61ad6ee10271181cdfbb646dfd1190d829cb050496d48c6fc7001b201687b"
+    },
+    "blend": {
+      "path": "assets/animal/animal-static-limbless-tadpole-01/v1.0.0/source.blend",
+      "size": 535976,
+      "sha256": "7b84114efb5774be283570b01fe892aa11b461ba51a4195aad1c99780674c0c4"
+    },
+    "generator": {
+      "path": "assets/animal/animal-static-limbless-tadpole-01/v1.0.0/generate.py",
+      "size": 21781,
+      "sha256": "4e2252c020afb63800cfc92916e0f6af20f0dbe01f08ce77270ecc2993755ccc"
+    },
+    "render": {
+      "path": "assets/animal/animal-static-limbless-tadpole-01/v1.0.0/thumbnail.png",
+      "size": 468838,
+      "sha256": "a20045051a96b09425014f70bbb3a7b1ba0afc193d353db9217d0c084f3d3e4a"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
