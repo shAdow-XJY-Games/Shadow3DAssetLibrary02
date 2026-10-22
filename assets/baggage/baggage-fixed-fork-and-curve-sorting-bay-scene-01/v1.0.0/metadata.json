@@ -1,0 +1,42 @@
+{
+  "id": "baggage-fixed-fork-and-curve-sorting-bay-scene-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "baggage",
+  "style": "source-preserved-low-poly",
+  "title": "Static Fork-and-Curve Baggage Sorting Bay",
+  "description": "One static baggage sorting-bay demonstration for the original baggage conveyor-sorting program. One complete existing fixed Y-branch junction carries one complete open holdall on its actual inlet transfer-deck surface, using an exact signed-permutation quarter-turn on the whole bag, not vertex baking. A complete quarter-turn radial-roller section stands separately on the right, with a complete flared slotted guide separately staged at the front-right. The deliberate physical gaps are not asserted working connections or compatible transfer ports. Four complete old models at unit scale; original raw POSITION/NORMAL/index buffers, internal hierarchies and all PBR unchanged. Only one connected apron and low boundary are new scene-only geometry. The complete bag sole is covered by actual deck triangles, other junction components are separated from the whole bag, and five conservative empty strips connect around the modules. Unlike the earlier straight roller-and-scanner logistics receiving layout, this shows a complete three-mouth branching deck, loaded static inlet, separate radial turn and separate guide; it is not an operational conveyor. One scene, zero new independent models. No luggage trajectory, continuous flow, automated sorting, roller motion, module compatibility, bag capacity, route clearance certification, engineering capacity, airport operation or safety claim.",
+  "bounds": {
+    "x": 6.599999904632568,
+    "y": 4.599999904632568,
+    "z": 1.534999966621399,
+    "unit": "m"
+  },
+  "triangles": 9064,
+  "materials": 18,
+  "files": {
+    "glb": {
+      "path": "assets/baggage/baggage-fixed-fork-and-curve-sorting-bay-scene-01/v1.0.0/model.glb",
+      "size": 461936,
+      "sha256": "4d862b8c4026e5c173b3d9f4174a0315827f70670d0d04b3ef34200538e95371"
+    },
+    "blend": {
+      "path": "assets/baggage/baggage-fixed-fork-and-curve-sorting-bay-scene-01/v1.0.0/source.blend",
+      "size": 219935,
+      "sha256": "818d5712464c75a154402832c1de519d6180315edfe204e2155a42ab2b9131a4"
+    },
+    "generator": {
+      "path": "assets/baggage/baggage-fixed-fork-and-curve-sorting-bay-scene-01/v1.0.0/generate.py",
+      "size": 112566,
+      "sha256": "f0614fb5fec060bfae3e02df7358f5b9065a43d3c5fbc118558e154d257d4964"
+    },
+    "render": {
+      "path": "assets/baggage/baggage-fixed-fork-and-curve-sorting-bay-scene-01/v1.0.0/thumbnail.png",
+      "size": 493608,
+      "sha256": "362bf5934aaa20e851068b6871b3ec9265ce72aedd3ef27754877ce6fddcd01c"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

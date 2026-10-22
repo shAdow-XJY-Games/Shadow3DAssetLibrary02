@@ -1,0 +1,42 @@
+{
+  "id": "navigation-signed-trail-junction-scene-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "navigation",
+  "style": "source-preserved-S01-and-soft-low-poly",
+  "title": "Signed Trail Junction",
+  "description": "One static signed trail-junction scene for the original navigation route-marking scene program. One complete unchanged forked camping trail marker stands off the inside shoulder of a genuinely connected T-shaped scene-only route: a foreground arrival meets left and right branches. One complete unchanged low companion-scree cluster occupies the opposite rear shoulder as a visual landmark, leaving all three route arms and the central decision area clear. Both existing arrow boards, pegs, triangular mountain symbol, post and finite ground sleeve remain whole; no new arrow, destination label, map texture or flag colour is added. The whole scree geometry and all original per-face solid materials remain unchanged. Only the finite ground and two abutting closed route slabs are scene-only; the slabs are not new reusable road models. Two whole unit-scale unrotated instances from two published models: one scene and zero new independent models. This is a route-decision spatial arrangement, not the existing campsite with a marker beside its tents/fire/table, the forest straight-path vegetation composition, the small map-and-compass planning pad or an instrument survey station renamed. Static fictional visual arrangement only: no actual destination, direction, geographic placement, route planning, optical measurement, accessibility, load or route safety is asserted.",
+  "bounds": {
+    "x": 4.8,
+    "y": 4.0,
+    "z": 1.542391,
+    "unit": "m"
+  },
+  "triangles": 400,
+  "materials": 8,
+  "files": {
+    "glb": {
+      "path": "assets/navigation/navigation-signed-trail-junction-scene-01/v1.0.0/model.glb",
+      "size": 37212,
+      "sha256": "bd0fc9958bd763ebd1f30bfc6891c60c47c9247cb135935cea54349a3fe4936d"
+    },
+    "blend": {
+      "path": "assets/navigation/navigation-signed-trail-junction-scene-01/v1.0.0/source.blend",
+      "size": 664540,
+      "sha256": "f7c22ea14e63a26464951a8cf429a97bb4c158b19eb829e91eb347b2408d99d1"
+    },
+    "generator": {
+      "path": "assets/navigation/navigation-signed-trail-junction-scene-01/v1.0.0/generate.py",
+      "size": 58990,
+      "sha256": "299ae4bc919ed0846dabeb84453bf9fc067a7a5bec72cf722cce54e0e95c3c67"
+    },
+    "render": {
+      "path": "assets/navigation/navigation-signed-trail-junction-scene-01/v1.0.0/thumbnail.png",
+      "size": 464696,
+      "sha256": "801e21ca5c0e70c74b9aee3d46c1ba01f9d4dec1c9672b70c6222d07d93f79a4"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

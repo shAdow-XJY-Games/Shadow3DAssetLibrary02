@@ -1,0 +1,42 @@
+{
+  "id": "fantasy-magic-static-braided-loop-portal-frame-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "fantasy-magic",
+  "style": "S02-hard-edge-faceted",
+  "title": "Static Braided-Loop Portal Frame",
+  "description": "One original fantasy portal-frame visual under the approved fantasy-magic portal theme. Two substantial newly authored rails follow different three-dimensional winding paths around one tall open loop: they repeatedly exchange front/back and inner/outer positions while preserving actual gaps between them. Three finite material cross-links grow through removed inward rail patches and make the rail pair one connected closed shared-vertex mesh. Four lower rail ends transition continuously into horizontal closed seats on one broad chamfered threshold plinth, whose complete underside is grounded. The full central opening remains empty, and the smaller inter-rail windows are real negative space; no transparent sheet, painted gap or decorative detached strands. This is not a scaled lifebuoy, a rope coil stood upright, an old masonry arch with symbols, an interior door stripped of its leaf, a channel mine arch duplicated, or an airlock recoloured. All center paths, cross-sections, depth crossings, ports, feet and threshold are new; only generic mesh orientation/ear clipping and mature export/render tools are reused. Two closed editable meshes and four constant opaque matte/satin PBR roles. One static prop, zero scenes, separate rail assets or variants. Metres, native Z up, front -Y, full horizontal bounds-centred ground origin. Fictional ornamental doorway appearance only: no teleportation, magic field, animated energy, passage accessibility, architecture compatibility, working mechanism, manufacturing, load, stability, collision, safe traversal or engineering performance claim.",
+  "bounds": {
+    "x": 2.549343,
+    "y": 0.8,
+    "z": 2.724672,
+    "unit": "m"
+  },
+  "triangles": 2120,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/fantasy-magic/fantasy-magic-static-braided-loop-portal-frame-01/v1.0.0/model.glb",
+      "size": 166340,
+      "sha256": "ed7e853762dc383b9ba2c42f36a80a172308640e976388a3d6bc36b52e5afa0e"
+    },
+    "blend": {
+      "path": "assets/fantasy-magic/fantasy-magic-static-braided-loop-portal-frame-01/v1.0.0/source.blend",
+      "size": 640248,
+      "sha256": "83b2306188081be23abebaa5f4e87d57cd7ba36c49d4431c855f671b824d2cda"
+    },
+    "generator": {
+      "path": "assets/fantasy-magic/fantasy-magic-static-braided-loop-portal-frame-01/v1.0.0/generate.py",
+      "size": 22751,
+      "sha256": "9ab73f6ecde36777ceeaebbffce84d612061eeca9dc1c5776a67356c8283826c"
+    },
+    "render": {
+      "path": "assets/fantasy-magic/fantasy-magic-static-braided-loop-portal-frame-01/v1.0.0/thumbnail.png",
+      "size": 509364,
+      "sha256": "68ff2b4e54cc16edb27b57e5ecaa781a068ccd033966b28a8e667b8f75e09cc9"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
