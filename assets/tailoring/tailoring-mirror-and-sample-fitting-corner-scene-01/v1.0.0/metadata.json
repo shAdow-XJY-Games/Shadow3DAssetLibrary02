@@ -1,0 +1,42 @@
+{
+  "id": "tailoring-mirror-and-sample-fitting-corner-scene-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "tailoring",
+  "style": "source-preserved-low-poly",
+  "title": "Mirror and Sample Fitting Corner",
+  "description": "One static fitting-preparation corner from the original tailoring scene program. A complete supported hollow long-sleeve lapel sample, a complete fixed full-length floor mirror, and a complete rail with its original hooked shoulder hanger form three separate display stations with an empty area in front of the mirror. All three existing asset IDs preserve every whole mesh, original local POSITION/NORMAL payload, material and internal hierarchy. Only unit-scale whole-instance translations and one finite scene-only floor are new. One scene and zero new independent models. No person, worn garment, body-size fit, cloth motion, changing enclosure, privacy guarantee, ergonomics, access or safety certification. The mirror remains the original ordinary metallic-roughness PBR surface; no runtime planar-reflection or optical accuracy claim.",
+  "bounds": {
+    "x": 3.200000047683716,
+    "y": 2.5999999046325684,
+    "z": 1.71999990940094,
+    "unit": "m"
+  },
+  "triangles": 2024,
+  "materials": 13,
+  "files": {
+    "glb": {
+      "path": "assets/tailoring/tailoring-mirror-and-sample-fitting-corner-scene-01/v1.0.0/model.glb",
+      "size": 101288,
+      "sha256": "36fa6e9d5e87d25b330104d4c4ee1315daf3a3d7b8c533a8db05991a4526b602"
+    },
+    "blend": {
+      "path": "assets/tailoring/tailoring-mirror-and-sample-fitting-corner-scene-01/v1.0.0/source.blend",
+      "size": 1053824,
+      "sha256": "ea92f83c79e8d961f0f9f77072596c8b22fe6fe4b5db251e8d2d0cf3afcff1e7"
+    },
+    "generator": {
+      "path": "assets/tailoring/tailoring-mirror-and-sample-fitting-corner-scene-01/v1.0.0/generate.py",
+      "size": 86093,
+      "sha256": "1b17aa03e4ea3c70dcdd2f610053a5dba9321d490a2028e7992751dba97c8aab"
+    },
+    "render": {
+      "path": "assets/tailoring/tailoring-mirror-and-sample-fitting-corner-scene-01/v1.0.0/thumbnail.png",
+      "size": 486848,
+      "sha256": "6e22de39146bf4df1d9648b9b88d077b44061f3a81ebd3578b245f273cbd81d6"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

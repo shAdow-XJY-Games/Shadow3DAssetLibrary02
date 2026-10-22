@@ -1,0 +1,42 @@
+{
+  "id": "museum-collection-preparation-store-scene-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "museum",
+  "style": "source-preserved-low-poly",
+  "title": "Museum Collection Preparation Store",
+  "description": "One static museum collection preparation/store scene from the original museum storeroom program. Five complete existing props are reused at original unit scale: an A-frame rack with both original thick backing boards at rear left, an empty three-slot transport crate at rear right, a complete open worktable with its complete raised-lid blank-slide case at the front left, and a complete open-core mineral slice on the floor at the front right. Only a connected scene-only floor and cutaway walls are new. This is a receiving/preparation and storage layout with a central open entry and side access, not another plinth exhibition with relabelled specimens. All original GLB attribute payloads, triangles, internal node transforms and PBR remain unchanged under translations. Case entire flat sole is within the actual table top, while its original rear-raised lid can overhang without being claimed supported at that edge. One scene, zero new independent models. No scientific specimen identification, biological contents, climate control, conservation, packing compatibility, rack load, crate cargo fit, mounting, ergonomics, accessibility, storage capacity, engineering or safety claim.",
+  "bounds": {
+    "x": 4.800000190734863,
+    "y": 4.599999904632568,
+    "z": 2.200000047683716,
+    "unit": "m"
+  },
+  "triangles": 2696,
+  "materials": 19,
+  "files": {
+    "glb": {
+      "path": "assets/museum/museum-collection-preparation-store-scene-01/v1.0.0/model.glb",
+      "size": 173288,
+      "sha256": "4f9b788d8f10c4327d9feedeff365d4c512225bd0081c7b6ed626b8be8df69ad"
+    },
+    "blend": {
+      "path": "assets/museum/museum-collection-preparation-store-scene-01/v1.0.0/source.blend",
+      "size": 161952,
+      "sha256": "5627e8be22f126190b125e95892a94cf6b29f2f0beac29a53aa1fbe1ec0ff81f"
+    },
+    "generator": {
+      "path": "assets/museum/museum-collection-preparation-store-scene-01/v1.0.0/generate.py",
+      "size": 49937,
+      "sha256": "fcb787dec30a1db78975f800d76452057e266685cd6330cfa21f51be0653a953"
+    },
+    "render": {
+      "path": "assets/museum/museum-collection-preparation-store-scene-01/v1.0.0/thumbnail.png",
+      "size": 533667,
+      "sha256": "beb6ac653004ca018bb63e105482209ca71f92ccd090f52399db6c8d2b87e1c7"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

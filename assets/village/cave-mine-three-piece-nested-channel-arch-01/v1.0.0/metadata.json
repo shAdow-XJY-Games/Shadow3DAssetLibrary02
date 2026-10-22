@@ -1,0 +1,42 @@
+{
+  "id": "cave-mine-three-piece-nested-channel-arch-01",
+  "version": "1.0.0",
+  "category": "modular",
+  "assetKind": "modular",
+  "theme": "cave-mine",
+  "style": "S01-clean-geometric",
+  "title": "Three-Piece Nested-Channel Mine Arch Support",
+  "description": "One newly authored complete static mine-arch support module: two whole curved open U-channel legs on flat ground plates and one genuinely narrower open-channel crown nested into their grooves over two finite lap zones. Four front bridge straps with eight fixed hex-head appearances mark the actual lap locations. The crown back web meets the leg channel back-web plane; side clearances remain real. Every channel is a complete closed thick material shell around a truly open front groove, not a solid arch painted with lines or a reused stone arch with different colors. All seventeen component meshes newly authored with mature polygon-sweep primitives. The passage has no threshold, wall, rock lining or hidden blocker. Static art only: no moving adjustment, sliding mechanism, excavation, tunnel installation, structural strength, rock-load resistance, bolt tightening or mining safety claim.",
+  "bounds": {
+    "x": 3.04,
+    "y": 0.48,
+    "z": 2.7030000000000003,
+    "unit": "m"
+  },
+  "triangles": 876,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/village/cave-mine-three-piece-nested-channel-arch-01/v1.0.0/model.glb",
+      "size": 49416,
+      "sha256": "070aa83db4dc26da2be5a811b8ae088e91236f7d6c9eac6ff60b44939fd29529"
+    },
+    "blend": {
+      "path": "assets/village/cave-mine-three-piece-nested-channel-arch-01/v1.0.0/source.blend",
+      "size": 642832,
+      "sha256": "bef968a5614c0924d88054ab9e8080e1f0b005db4bdec84079892303a8f4a6a5"
+    },
+    "generator": {
+      "path": "assets/village/cave-mine-three-piece-nested-channel-arch-01/v1.0.0/generate.py",
+      "size": 10341,
+      "sha256": "d9e36dc5439ecddb186e51ec652fdce00620bec88a124c7fb2c5113064989ccf"
+    },
+    "render": {
+      "path": "assets/village/cave-mine-three-piece-nested-channel-arch-01/v1.0.0/thumbnail.png",
+      "size": 372238,
+      "sha256": "3797f916c368d981014a67727fed3892140d588199effbd2f069e610c986bee4"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

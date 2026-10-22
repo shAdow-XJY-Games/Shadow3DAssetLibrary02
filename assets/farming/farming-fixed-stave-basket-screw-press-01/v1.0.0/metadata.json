@@ -1,0 +1,42 @@
+{
+  "id": "farming-fixed-stave-basket-screw-press-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "farming",
+  "style": "warm-handcrafted-village",
+  "title": "Fixed Stave-Basket Screw Press",
+  "description": "One newly authored whole static farm fruit-press appearance: two timber uprights and a thick truly bored top crossbeam carry a fixed vertical spindle with visible coarse helical thread and a transverse wood handle. A separate round pressure platen lies inside a genuinely open slatted stave basket held by two full annular hoops. Below it a shallow collector floor, partial raised rim and connected open U spout form a visible unfilled tray on the grounded timber base. Complete new construction, not a resized closed barrel, nested textile basket, flat-jaw bench vise or lever citrus press. No old visible meshes are imported or extracted. Closed editable meshes and three opaque constant PBR materials; small fixed embedded junctions. Metres, Z up and actual whole horizontal bounds centre, base underside Z0. Empty static game-art only: no fruit, liquid, pressing stroke, thread engagement, pressure, juice yield, food contact/hygiene, manufacture, stability or real-equipment safety certification.",
+  "bounds": {
+    "x": 0.879999995,
+    "y": 0.730000019,
+    "z": 1.375,
+    "unit": "m"
+  },
+  "triangles": 2136,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/farming/farming-fixed-stave-basket-screw-press-01/v1.0.0/model.glb",
+      "size": 121860,
+      "sha256": "b60c03c25700a9fe8778eabca9598a6bd3b9b3a6ed6e75af121e3cdb01cdb962"
+    },
+    "blend": {
+      "path": "assets/farming/farming-fixed-stave-basket-screw-press-01/v1.0.0/source.blend",
+      "size": 719656,
+      "sha256": "e6781aef83f84fea3281687c57cf39901f902cef360973c9af4fb72a465b6bb1"
+    },
+    "generator": {
+      "path": "assets/farming/farming-fixed-stave-basket-screw-press-01/v1.0.0/generate.py",
+      "size": 30529,
+      "sha256": "47ea958cfb4d772a243137fcd6bcdc875b7d8ff4a3161a9393c872c3280f8129"
+    },
+    "render": {
+      "path": "assets/farming/farming-fixed-stave-basket-screw-press-01/v1.0.0/thumbnail.png",
+      "size": 553757,
+      "sha256": "0fb86d7e94ae1b555e30717b95cdd13f81a461288eab6f3cf65e6c383c147bea"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

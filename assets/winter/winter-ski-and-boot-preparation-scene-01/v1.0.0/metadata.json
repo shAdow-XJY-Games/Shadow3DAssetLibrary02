@@ -1,0 +1,42 @@
+{
+  "id": "winter-ski-and-boot-preparation-scene-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "winter",
+  "style": "source-preserved-S01-and-soft-low-poly",
+  "title": "Ski and Boot Preparation",
+  "description": "One static outdoor ski-equipment preparation scene: a complete alpine ski pair lies lengthwise beside a separate working aisle, a whole bench marks the preparation station, and a complete snow-boot pair is set aside in front of it. A full snowbank defines the side boundary. Four intact published assets retain all geometry and PBR at unit scale. One scene-only snow-colored base, one scene preset and zero new independent models. Snow boots are separate display footwear, NOT fitted to or declared compatible with these ski bindings. No skier, ski release, boot fit, snow physics, weather, grip or safety certification. Complete original mesh hierarchy, oriented triangles and solid PBR are preserved. One scene preset and zero new independent reusable models.",
+  "bounds": {
+    "x": 3.8,
+    "y": 3.4,
+    "z": 0.525,
+    "unit": "m"
+  },
+  "triangles": 4724,
+  "materials": 14,
+  "files": {
+    "glb": {
+      "path": "assets/winter/winter-ski-and-boot-preparation-scene-01/v1.0.0/model.glb",
+      "size": 331152,
+      "sha256": "b111352e12e469ff82048ffe3389b36c535cf56f7711a5d57b1dea9994a361ae"
+    },
+    "blend": {
+      "path": "assets/winter/winter-ski-and-boot-preparation-scene-01/v1.0.0/source.blend",
+      "size": 1627688,
+      "sha256": "64547ac08efd961f89ca1a8b5b0468cd0edce44be473f0029576be8228a72aaf"
+    },
+    "generator": {
+      "path": "assets/winter/winter-ski-and-boot-preparation-scene-01/v1.0.0/generate.py",
+      "size": 151809,
+      "sha256": "fe7717b248b82975db2d501204a2038006c00bd671939c121dff82b2f1d86c97"
+    },
+    "render": {
+      "path": "assets/winter/winter-ski-and-boot-preparation-scene-01/v1.0.0/thumbnail.png",
+      "size": 462371,
+      "sha256": "814bf687512af77bbfa91568ff2e50699a35bfc93be0cffbe3be17243d38c7c1"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

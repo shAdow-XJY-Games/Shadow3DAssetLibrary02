@@ -1,0 +1,42 @@
+{
+  "id": "animal-static-wide-disc-ray-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "animal",
+  "style": "S02-hard-edge-faceted",
+  "title": "Static Wide-Disc Ray",
+  "description": "One original stylised ray-inspired animal exterior. The thick low central body, rounded forward snout and broad flattened pectoral disc form one continuous closed surface, with gently raised finite-thickness lateral fin margins and receding concave rear edges. The body tapers directly into one long narrow gently sideways-curving tail; two small dark eyes are partly seated on the dorsal front body. All body/disc section geometry, tail trajectory and eye placements are newly authored, not a kite given eyes, a bat with its skeleton removed, a recoloured tadpole, a widened fish skeleton or separately overlapped wing plates. Generic connected-mesh orientation, ear clipping, small eye ellipsoid and mature export/render infrastructure are reused only. One whole body/disc/tail mesh plus two closed small eyes; three opaque untextured matte PBR materials. One prop, zero scenes. Metres, native Z up, head/front -Y, full horizontal bounds-centred ground origin, finite flat central belly underside in a fixed display rest. Artistic static exterior only, not a real species identification, anatomical specimen, internal skeleton, functioning gill/respiratory structure, swimming or fluid simulation, rig, animation, biological fidelity, buoyancy or ecological performance. No venom, sting or safety capability is represented.",
+  "bounds": {
+    "x": 1.44,
+    "y": 1.83,
+    "z": 0.135,
+    "unit": "m"
+  },
+  "triangles": 884,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/animal/animal-static-wide-disc-ray-01/v1.0.0/model.glb",
+      "size": 63724,
+      "sha256": "c5b78eae4e2b753383937239b6daa05955bbc55e3595851a3f55fd3bdb009658"
+    },
+    "blend": {
+      "path": "assets/animal/animal-static-wide-disc-ray-01/v1.0.0/source.blend",
+      "size": 555380,
+      "sha256": "166eb897ed207733a801469a8100a18887a46cf4569c357af6a8a6f3bb7dc0c0"
+    },
+    "generator": {
+      "path": "assets/animal/animal-static-wide-disc-ray-01/v1.0.0/generate.py",
+      "size": 22408,
+      "sha256": "83c05607dcc5dca258d32e6b05671ee075bd1f17f4f102bca103128517ad4838"
+    },
+    "render": {
+      "path": "assets/animal/animal-static-wide-disc-ray-01/v1.0.0/thumbnail.png",
+      "size": 448277,
+      "sha256": "6a17f045d69bfe153cbea3724e0de59eb63b6eb49cb2cb1b57ae682f7bec8411"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
