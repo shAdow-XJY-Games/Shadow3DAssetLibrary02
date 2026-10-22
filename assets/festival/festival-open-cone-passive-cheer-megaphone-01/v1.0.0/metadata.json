@@ -1,0 +1,42 @@
+{
+  "id": "festival-open-cone-passive-cheer-megaphone-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "festival",
+  "style": "warm-handcrafted-village",
+  "title": "Open-Cone Passive Cheer Megaphone",
+  "description": "One complete static passive cheer megaphone: a thick tapered conical shell with a real broad open mouth, narrow open speaking end and continuous through interior, plus a complete open-loop handgrip bonded beneath the rear cone. Two editable closed solids and three opaque matte PBR roles for exterior, lining and grip. The large mouth is not a flat painted disc and there is no electronic loudspeaker, switch, battery or fictitious powered sound. Not the coiled tube of a bugle or an unrelated fungus with funnel in its name. Newly authored whole cone/lip and finite grip profiles on mature mesh/export tools. Metres, Z up, front -Y, bounds centred, finite grip underside at Z0. Static fixed geometry only; no acoustic gain, electronics, operation, hand fit, manufacture, balance or safety claim.",
+  "bounds": {
+    "x": 0.159999996,
+    "y": 0.11146,
+    "z": 0.130730003,
+    "unit": "m"
+  },
+  "triangles": 928,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/festival/festival-open-cone-passive-cheer-megaphone-01/v1.0.0/model.glb",
+      "size": 56328,
+      "sha256": "3eef920bf6e7941f7bc4d17b8babb655aeaf27cff04b37ee11d0c88415dc1294"
+    },
+    "blend": {
+      "path": "assets/festival/festival-open-cone-passive-cheer-megaphone-01/v1.0.0/source.blend",
+      "size": 552416,
+      "sha256": "eb9245b037a18a9ed81f89b0c2e0c9552cebb9d9214a79858d551d9336dc8b5f"
+    },
+    "generator": {
+      "path": "assets/festival/festival-open-cone-passive-cheer-megaphone-01/v1.0.0/generate.py",
+      "size": 26925,
+      "sha256": "7364d5ab19196258e0ba470a4fc4222e1d59be831fe69d0d390bd021871bd56b"
+    },
+    "render": {
+      "path": "assets/festival/festival-open-cone-passive-cheer-megaphone-01/v1.0.0/thumbnail.png",
+      "size": 523056,
+      "sha256": "f2aacd614aee21eda04bd8c1dc4fda87c1ae006ddb66fc7d2c76ed7eff1bd151"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

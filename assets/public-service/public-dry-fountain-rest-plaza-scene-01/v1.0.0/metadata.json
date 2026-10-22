@@ -1,0 +1,42 @@
+{
+  "id": "public-dry-fountain-rest-plaza-scene-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "public-service",
+  "style": "S01-clean-geometric",
+  "title": "Dry Fountain and Opposed Bench Rest Plaza",
+  "description": "One static public-park rest-plaza scene, counted as one scene and zero new independent models. One complete unchanged dry two-tier fountain occupies the center of a closed circular scene-only paving slab. Two whole original Tideway slatted benches stand opposite each other, facing inward through exact quarter-turn rotations at unit scale. The complete original GLB mesh sets, oriented triangles and per-face solid PBR assignments are embedded in the self-contained generator; only declared rigid placements and collision-safe name prefixes are added before normal float32 export. Open paving separates both seats from the central basin and continues around the fountain. Four meshes and six materials; the original benchmark bench is one joined GLB mesh and remains one whole mesh per instance. No water, animation, humans, functioning fountain, ergonomic/accessibility evaluation, navigation logic, construction plan, drainage, load or safety certification.",
+  "bounds": {
+    "x": 6.2,
+    "y": 6.2,
+    "z": 1.680000023841858,
+    "unit": "m"
+  },
+  "triangles": 4252,
+  "materials": 6,
+  "files": {
+    "glb": {
+      "path": "assets/public-service/public-dry-fountain-rest-plaza-scene-01/v1.0.0/model.glb",
+      "size": 232012,
+      "sha256": "f18a6ee37c1a8b23f7a34e8b56c1bc7886dff66fecf9d010e89689e45d5af028"
+    },
+    "blend": {
+      "path": "assets/public-service/public-dry-fountain-rest-plaza-scene-01/v1.0.0/source.blend",
+      "size": 839708,
+      "sha256": "ca7f30e48cd6a919b4303cb2c0544ca16d6f777ea3cebfbd6cdb2c13a4785632"
+    },
+    "generator": {
+      "path": "assets/public-service/public-dry-fountain-rest-plaza-scene-01/v1.0.0/generate.py",
+      "size": 195828,
+      "sha256": "35319145a9c7635ade5448867d1317e40647ffe3db58831f03112d125c26cfc3"
+    },
+    "render": {
+      "path": "assets/public-service/public-dry-fountain-rest-plaza-scene-01/v1.0.0/thumbnail.png",
+      "size": 421743,
+      "sha256": "35833f5943346b5081835dd06100917efaec1431d087baae7343da8ce05f62ec"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

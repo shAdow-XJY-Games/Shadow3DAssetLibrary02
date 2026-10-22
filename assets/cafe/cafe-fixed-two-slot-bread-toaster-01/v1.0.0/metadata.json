@@ -1,0 +1,42 @@
+{
+  "id": "cafe-fixed-two-slot-bread-toaster-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "cafe",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Two-Slot Bread Toaster",
+  "description": "One original empty countertop bread toaster visual prop. A rounded-shoulder continuous body contains two genuinely deep separate top-loading rectangular bread wells with closed floors and full separating bridge. A real shallow vertical end recess supports a fixed stem and faceted grip. An integral base plate has four complete flat grounded feet. Four closed editable material meshes, three opaque untextured PBR materials. Metres, Z up, front -Y, horizontal-bounds-centred grounded soles. Newly authored complete appliance, not the old two-burner stove reduced in size or the front-loading vaulted bakery oven recoloured. No bread, heating wires, cord, electric circuit, pop-up spring or lever travel is modelled; no powered use, food-contact, heat or safety claim.",
+  "bounds": {
+    "x": 0.3440000116825104,
+    "y": 0.18000000715255737,
+    "z": 0.1899999976158142,
+    "unit": "m"
+  },
+  "triangles": 772,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/cafe/cafe-fixed-two-slot-bread-toaster-01/v1.0.0/model.glb",
+      "size": 26684,
+      "sha256": "4569a7b560b98f8f674217ed8b477cc268133ba7564f62ebc6a0903111f085c2"
+    },
+    "blend": {
+      "path": "assets/cafe/cafe-fixed-two-slot-bread-toaster-01/v1.0.0/source.blend",
+      "size": 553996,
+      "sha256": "e9ef2e1ffa2cc683aaa42ffdf9f99bfce2eb3651e80bbe01532c898acd995235"
+    },
+    "generator": {
+      "path": "assets/cafe/cafe-fixed-two-slot-bread-toaster-01/v1.0.0/generate.py",
+      "size": 18793,
+      "sha256": "d8845db8db0336322b2bf51717844768dc14b9b27f5807aae2b7f5f14341b8aa"
+    },
+    "render": {
+      "path": "assets/cafe/cafe-fixed-two-slot-bread-toaster-01/v1.0.0/thumbnail.png",
+      "size": 484612,
+      "sha256": "55aab2a9b15f2c73a3b9c7834bd10f8873c979953b2b9b646f7517d2e8f97589"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
