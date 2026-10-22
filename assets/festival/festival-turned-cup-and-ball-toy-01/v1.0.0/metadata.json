@@ -1,0 +1,42 @@
+{
+  "id": "festival-turned-cup-and-ball-toy-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "festival",
+  "style": "warm-handcrafted-village",
+  "title": "Turned Cup-and-Ball Gift Toy",
+  "description": "One original static cup-and-ball gift toy: a genuinely deep open catching cup continuous with a long turned wooden hand grip, one separate faceted wooden ball resting alongside, and one thin visibly sagging closed cord. The cord has small intentional buried attachment overlaps into grip and ball; no knot, bore or physical tether mechanism is claimed. Three editable closed meshes and three opaque matte solid PBR roles. New complete profiles and cord route, not a removed diabolo cup or repurposed rattle pellet. Metres, Z up, front -Y, horizontal bounds-centred origin at the grip and ball ground faces. Static visual display only; no motion, flight, safety, playability, cord simulation, manufacturing or physical-stability claim.",
+  "bounds": {
+    "x": 0.224000007,
+    "y": 0.115999997,
+    "z": 0.234999999,
+    "unit": "m"
+  },
+  "triangles": 1088,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/festival/festival-turned-cup-and-ball-toy-01/v1.0.0/model.glb",
+      "size": 77600,
+      "sha256": "f006a8cd01f9a6cfd5b2bf2d3973d12c7eaf6c513000b8eace68d89a8db9a20a"
+    },
+    "blend": {
+      "path": "assets/festival/festival-turned-cup-and-ball-toy-01/v1.0.0/source.blend",
+      "size": 566124,
+      "sha256": "adb4aa5a4200d9c0fdb054d0cef2974e5b47cb5bba376e573522e8bf8b50dd2b"
+    },
+    "generator": {
+      "path": "assets/festival/festival-turned-cup-and-ball-toy-01/v1.0.0/generate.py",
+      "size": 27304,
+      "sha256": "f359096abb1e1ef6ef92fb2ae1632a5adbc03e96141d7caaa5ce8b0361f74130"
+    },
+    "render": {
+      "path": "assets/festival/festival-turned-cup-and-ball-toy-01/v1.0.0/thumbnail.png",
+      "size": 509836,
+      "sha256": "30454ed38e60d484a85b76223dd58873875bf6e96e113f46230d891244be23b6"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

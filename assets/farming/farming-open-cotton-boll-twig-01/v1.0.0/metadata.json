@@ -1,0 +1,42 @@
+{
+  "id": "farming-open-cotton-boll-twig-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "farming",
+  "style": "warm-handcrafted-village",
+  "title": "Open Cotton Boll Twig",
+  "description": "One newly authored static low-poly open cotton-boll twig: a short curved woody stem, five pointed dry shell valves around three unequal full white lint lobes and one small lanceolate green bract. The white mass is filled and plump rather than a radial ring of thin flower petals. Four opaque constant PBR materials, no textures. Mature crop visual only; no animation, growth, species precision, cultivation, edible or mechanical-performance claim.",
+  "bounds": {
+    "x": 0.09952683,
+    "y": 0.082339212,
+    "z": 0.208000004,
+    "unit": "m"
+  },
+  "triangles": 604,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/farming/farming-open-cotton-boll-twig-01/v1.0.0/model.glb",
+      "size": 43620,
+      "sha256": "a0982f966d38979a2e4d4fb68a37d094090861ffbb5f5229f49256cdbd8d5598"
+    },
+    "blend": {
+      "path": "assets/farming/farming-open-cotton-boll-twig-01/v1.0.0/source.blend",
+      "size": 589072,
+      "sha256": "6ed22f953658e8400cca392817ad5d165e11834ec0f37b701bd1bf4a6107a406"
+    },
+    "generator": {
+      "path": "assets/farming/farming-open-cotton-boll-twig-01/v1.0.0/generate.py",
+      "size": 27422,
+      "sha256": "be4ff724bedef0bf9b4a3b0f59f619d686fd08d61eee14aad860a49730488b32"
+    },
+    "render": {
+      "path": "assets/farming/farming-open-cotton-boll-twig-01/v1.0.0/thumbnail.png",
+      "size": 485074,
+      "sha256": "f6a1fcc241480180b5f038999e9d00412d8f661f505ed3beae40b770e01c967e"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

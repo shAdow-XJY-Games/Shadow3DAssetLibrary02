@@ -1,0 +1,42 @@
+{
+  "id": "sports-end-goal-football-training-layout-scene-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "sports",
+  "style": "source-preserved-low-poly",
+  "title": "End-Goal Football Training Layout",
+  "description": "One static non-regulation football-training layout: complete original rear-net goal at the far end of one long scene-floor approach region, with a complete empty ball trolley beside the entrance. Original unit-scale mesh payload, PBR and internal hierarchy preserved; one scene and zero new standalone models. The coloured region is not regulation pitch markings or a court-line module. No gameplay, ball compatibility, accessibility, safety, capacity or structural certification.",
+  "bounds": {
+    "x": 9.0,
+    "y": 9.600000381469727,
+    "z": 2.1399998664855957,
+    "unit": "m"
+  },
+  "triangles": 5802,
+  "materials": 11,
+  "files": {
+    "glb": {
+      "path": "assets/sports/sports-end-goal-football-training-layout-scene-01/v1.0.0/model.glb",
+      "size": 280404,
+      "sha256": "005bd58890dd88907872c21e0748f5aac6e769ff2888b0ecb556f81b12d6edec"
+    },
+    "blend": {
+      "path": "assets/sports/sports-end-goal-football-training-layout-scene-01/v1.0.0/source.blend",
+      "size": 167033,
+      "sha256": "3098b4477ea14304cb4899dd83c51fce0f7d45e842854a5f80023693c5ef147f"
+    },
+    "generator": {
+      "path": "assets/sports/sports-end-goal-football-training-layout-scene-01/v1.0.0/generate.py",
+      "size": 57354,
+      "sha256": "f993d678ebc28ef437da20849a656991e686f22a7a596acecbaab8f3597c93ee"
+    },
+    "render": {
+      "path": "assets/sports/sports-end-goal-football-training-layout-scene-01/v1.0.0/thumbnail.png",
+      "size": 485685,
+      "sha256": "eac554f6cf9367da15c63466c7d64a020aa66a9e087443f99e6594989799509e"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

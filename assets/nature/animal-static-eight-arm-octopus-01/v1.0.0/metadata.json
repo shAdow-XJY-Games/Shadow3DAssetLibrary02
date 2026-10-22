@@ -1,0 +1,42 @@
+{
+  "id": "animal-static-eight-arm-octopus-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "nature",
+  "style": "S02-hard-edge-faceted",
+  "title": "Static Eight-Arm Octopus",
+  "description": "Original static stylised soft-bodied animal prop: a tall pear-shaped mantle flows through one continuous central hub into eight individually swept tapered arms with raised tips and real open spaces between them. The mantle and all eight arms share real root vertices in one closed mesh. Two complete small eyes and two pupils provide front recognition. Warm coral opaque matte body, pale undersides, ivory eyes and dark pupils; five closed meshes and four simple constant PBR materials. Metres, native Z up, front -Y, horizontal bounds-centred ground origin. One prop and zero scenes. Newly authored whole geometry, not a frog or tortoise reshaped, a branching coral recounted, old heads/legs extracted, or a colour/scale/count variant. Stylised game art only; no species-level scientific anatomy, articulated rig, real animal performance, locomotion, simulation, collision, support engineering or ecological behaviour claim.",
+  "bounds": {
+    "x": 1.419563,
+    "y": 1.469399,
+    "z": 0.805,
+    "unit": "m"
+  },
+  "triangles": 1632,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/nature/animal-static-eight-arm-octopus-01/v1.0.0/model.glb",
+      "size": 107060,
+      "sha256": "04a00aecf11c4771879c5e23643df926f88826fa80089bf0c535896658446b62"
+    },
+    "blend": {
+      "path": "assets/nature/animal-static-eight-arm-octopus-01/v1.0.0/source.blend",
+      "size": 628860,
+      "sha256": "6c917978b8b40e77fdce8927b21f807658b7434b9b0dade81af9dbb1cba43d16"
+    },
+    "generator": {
+      "path": "assets/nature/animal-static-eight-arm-octopus-01/v1.0.0/generate.py",
+      "size": 21415,
+      "sha256": "4a12e1623f55529d406e12faab3a0594c451d56bfb7473ad8554bfcd8543c0dd"
+    },
+    "render": {
+      "path": "assets/nature/animal-static-eight-arm-octopus-01/v1.0.0/thumbnail.png",
+      "size": 519448,
+      "sha256": "b6d83cc0c17bd2e661c775e455b10bec903edbf48906ec4b6d069b051c973618"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
