@@ -1,0 +1,42 @@
+{
+  "id": "spacebase-fixed-dual-link-sampling-rover-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "spacebase",
+  "style": "S02-hard-edge-faceted",
+  "title": "Fixed Dual-Link Sampling Rover",
+  "description": "One original static sampling-rover visual for the approved space-base sampling-vehicle theme. A new low chamfered chassis contains a real offset rear open-top receiver well with full walls and floor. Each side has its own continuous angular main carrier linking the forward wheel, elevated chassis node and a separate two-wheel rear carrier in a second plane; six complete beveled faceted wheels with integral hubs attach through six individual short connectors, not two old full-width axles. A complete new front tower has two sloping mount cheeks, separate rails, an upper cross-member, fixed projecting carriage and a genuine downward-open finite-walled coring-looking shell with blind upper roof. This is not an old four-wheel inspection rover plus an extracted arm, a widened cargo robot, an old trike with extra wheels, a landing strut reused as a drill, or a wheel-count/colour variant. Every chassis, carrier outline, receiver cavity, wheel/hub profile, tower and coring shell is newly authored; generic mesh orientation/ear clipping and mature export/render tooling only are reused. Twenty-eight closed editable meshes and four constant opaque matte/satin PBR roles. One whole prop, zero scenes and no separately counted parts. Metres, native Z up, front -Y, complete horizontal bounds-centred origin and all six finite wheel tread soles at Z0. Fixed decorative game-art only: solid static connectors have no working pivot bores, bearings, steering, differential, suspension travel or terrain adaptation. No actual driving, drilling, extraction, sample capture, powered actuation, autonomous sensing, space qualification, rig, animation, traction, stability, load, safety or engineering performance claim. The receiver is empty and the coring mouth is held above the floor; no ground, sample, logo, real mission or scene.",
+  "bounds": {
+    "x": 0.844,
+    "y": 1.21,
+    "z": 0.73,
+    "unit": "m"
+  },
+  "triangles": 2412,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/spacebase/spacebase-fixed-dual-link-sampling-rover-01/v1.0.0/model.glb",
+      "size": 123488,
+      "sha256": "e554ce9f1cd1412fc8175a222fcc874967a61c168a88bd1ab44bc0262dbbc9ef"
+    },
+    "blend": {
+      "path": "assets/spacebase/spacebase-fixed-dual-link-sampling-rover-01/v1.0.0/source.blend",
+      "size": 789440,
+      "sha256": "60278d7de215d0baab5b3878717c709dc987a08dd0c057d24d8007afe96c8d6b"
+    },
+    "generator": {
+      "path": "assets/spacebase/spacebase-fixed-dual-link-sampling-rover-01/v1.0.0/generate.py",
+      "size": 26189,
+      "sha256": "344f5357661fc2b13323e18ece9e125047c531641bb268e7f5dc7edf916c7dbe"
+    },
+    "render": {
+      "path": "assets/spacebase/spacebase-fixed-dual-link-sampling-rover-01/v1.0.0/thumbnail.png",
+      "size": 524783,
+      "sha256": "d35d1fc6e5bfbf5bae382e6210e9ffc2a258ba83b97c38e0f013b7eb2de1b6c7"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

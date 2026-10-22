@@ -1,0 +1,42 @@
+{
+  "id": "laundry-folding-and-ironing-preparation-scene-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "laundry",
+  "style": "source-preserved-low-poly",
+  "title": "Folding and Ironing Preparation Station",
+  "description": "One static laundry finishing-preparation station. The complete original four-panel folding table stays in its fixed fully spread pose with all three real hand slots, seams, six connector webs, support beams, prongs, legs and rails. One whole original vented clothespin-basket kit, including all three fixed jaw-and-coil clips, is seated entirely on the rear central folding board, clear of all wing and front-flap hand slots. Beside the table is a whole original ironing-board-and-iron kit, retaining its original iron resting on the cloth cover and original offset crossed legs. Complete ground-station footprints are inside a new finite floor and separated laterally. All original local POSITION/NORMAL payloads, PBR and internal hierarchy remain unchanged; only whole-instance translations and a new floor are new. One scene and zero independent new models. This is a folding-centred after-wash preparation layout, not the old clothesline/washboard/basin corner or the sewing-machine/chair/thread-rack support scene renamed. No shirt, towel or garment is added or recoloured. Fixed visual display only: no folding motion, cloth processing, heated iron, electrical supply, clip spring/gripping action, dry-cleaning result, capacity, ergonomics, installation, load or safety claim.",
+  "bounds": {
+    "x": 3.200000047683716,
+    "y": 1.600000023841858,
+    "z": 1.0920000076293945,
+    "unit": "m"
+  },
+  "triangles": 5660,
+  "materials": 15,
+  "files": {
+    "glb": {
+      "path": "assets/laundry/laundry-folding-and-ironing-preparation-scene-01/v1.0.0/model.glb",
+      "size": 394044,
+      "sha256": "cde35f4ec310161f1cb513117aebbedd8483dde9f5d211d466649859779dbf5f"
+    },
+    "blend": {
+      "path": "assets/laundry/laundry-folding-and-ironing-preparation-scene-01/v1.0.0/source.blend",
+      "size": 1624796,
+      "sha256": "330fb8f975a0b59b7ba1f05a722a126b1a8cd41ba621cd8df5c22d58b4bd8125"
+    },
+    "generator": {
+      "path": "assets/laundry/laundry-folding-and-ironing-preparation-scene-01/v1.0.0/generate.py",
+      "size": 205881,
+      "sha256": "39a7af75111a106968332d8db8e521eb3c615c0a7a4b3fa98137f6743903aed5"
+    },
+    "render": {
+      "path": "assets/laundry/laundry-folding-and-ironing-preparation-scene-01/v1.0.0/thumbnail.png",
+      "size": 464721,
+      "sha256": "c1e2fb7ec231112bfab66b6a0bf1e71d10a2f3be078f622c864f68352c884fcf"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
