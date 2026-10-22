@@ -1,0 +1,42 @@
+{
+  "id": "fishing-shore-linked-net-drying-pier-scene-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "fishing",
+  "style": "source-preserved-S01-and-soft-low-poly",
+  "title": "Shore-Linked Net Drying Pier",
+  "description": "One static shore-linked net-drying and tackle-preparation pier for the original fishing dock scene program. Two complete unchanged two-meter dock modules form a four-by-two-meter deck, with every original deck plank, gap, stringer, piling and collar preserved. A closed scene-only upper shore cap meets the rear deck level. One complete broad hanging-net rack stands entirely on that shore; one complete open worktable on the right dock supports one complete empty six-compartment open bait box on its real tabletop; one complete folding camping chair occupies the left dock. Six whole unrotated unit-scale instances from five published models, with one opaque water-colour datum and one shore cap as scene-only solids. The deck center and short shore/deck joining reference strip remain unoccupied. This is not the old unconnected four-tile cargo/rest platform with crates, barrel, sack, lifebuoy and mooring rope; it has a different linked shore, shallow two-tile work deck, a shore drying station and tabletop tackle preparation. It is also not the raised rocky-bank seatbox/creel/landing-net scene or the two-rod storage display rearranged on another surface. One scene and zero new models. Deck seams remain actual original twelve-millimeter gaps, not a seamless floor; no functional facility, catch, fluid simulation, load, buoyancy, safe access, human fit, real drying performance or hinge motion is asserted.",
+  "bounds": {
+    "x": 4.4,
+    "y": 5.4,
+    "z": 2.724,
+    "unit": "m"
+  },
+  "triangles": 7952,
+  "materials": 20,
+  "files": {
+    "glb": {
+      "path": "assets/fishing/fishing-shore-linked-net-drying-pier-scene-01/v1.0.0/model.glb",
+      "size": 435272,
+      "sha256": "60f8a945790a439f86362c1b785abfc3ea9c744335b6670db80fda59f1a165b7"
+    },
+    "blend": {
+      "path": "assets/fishing/fishing-shore-linked-net-drying-pier-scene-01/v1.0.0/source.blend",
+      "size": 1904976,
+      "sha256": "5f2efdcf51c1ce0300a0b05f3b909ec7a2cd50d86bfab1b1650bdacc8cee365c"
+    },
+    "generator": {
+      "path": "assets/fishing/fishing-shore-linked-net-drying-pier-scene-01/v1.0.0/generate.py",
+      "size": 152234,
+      "sha256": "935e7b133aebacf95c5ce47b7826051e1e858fdc6f6adf82cff9dc505b98a7a2"
+    },
+    "render": {
+      "path": "assets/fishing/fishing-shore-linked-net-drying-pier-scene-01/v1.0.0/thumbnail.png",
+      "size": 583035,
+      "sha256": "929ee052952c76692d772c9398c5e8807f029e27c0f91bc6638cf6fec28854e8"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

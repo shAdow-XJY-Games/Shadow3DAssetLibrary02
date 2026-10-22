@@ -1,0 +1,42 @@
+{
+  "id": "laboratory-sink-and-empty-cabinet-equipment-scene-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "laboratory",
+  "style": "source-preserved-low-poly",
+  "title": "Laboratory Sink and Empty Equipment Cabinet Corner",
+  "description": "One static laboratory equipment-corner scene, bounded to an open sink table and empty generic storage cabinet. The whole original laboratory sink table retains its continuous thick offset basin and real inner floor, complete side deck, one five-rib drainboard with four surface channels, both open end trestles with all four soles, rear stretcher, original fixed angular tap exterior and splash panel. Its small dark drain patch remains only coplanar material, not a drain hole or plumbing system. Beside it stands the entire original narrow pantry cabinet with all original upper shelves, recessed plinth, closed lower door, handle and original hinge-node hierarchy. That existing generic cabinet remains the same asset, not a newly modelled reagent cabinet; specialist bottle fixtures, reagent compatibility and protection are not supplied. All original local POSITION/NORMAL/index bytes, four plus three opaque PBR materials and internal hierarchy remain unchanged. Only whole-instance unit-scale translations and one finite floor are authored. Both complete floor footprints are grounded and the full station bounds have a positive quarter-metre gap, not a claimed seamless bench. This is not the old microscope/vial observation corner, and not the old stove, sink-cabinet and cookware kitchen hearth renamed: the original open-frame basin and an empty tall shelving cabinet form a different bounded equipment-storage layout. One scene and zero new independent models. No bottle-count or colour variants. No actual washing, water flow, tap internal passage, chemicals, samples, ventilation, sterile or biological/experimental performance, experiment steps, load or equipment/laboratory safety.",
+  "bounds": {
+    "x": 2.799999952316284,
+    "y": 1.600000023841858,
+    "z": 1.8399999141693115,
+    "unit": "m"
+  },
+  "triangles": 1120,
+  "materials": 9,
+  "files": {
+    "glb": {
+      "path": "assets/laboratory/laboratory-sink-and-empty-cabinet-equipment-scene-01/v1.0.0/model.glb",
+      "size": 87676,
+      "sha256": "7a2d00ff4b5c6b8f9554841f186299477ebcbded51437dc1071bc1fb113a855f"
+    },
+    "blend": {
+      "path": "assets/laboratory/laboratory-sink-and-empty-cabinet-equipment-scene-01/v1.0.0/source.blend",
+      "size": 911544,
+      "sha256": "1b574f4a117c296f6400e7d99e18a9f6405a3014fd2b3831edf2b8b150d0f0c1"
+    },
+    "generator": {
+      "path": "assets/laboratory/laboratory-sink-and-empty-cabinet-equipment-scene-01/v1.0.0/generate.py",
+      "size": 63917,
+      "sha256": "132ad5a7510b3d2c9677bf0391e07a3d0dec7d3edb88e034b7a297c52700b617"
+    },
+    "render": {
+      "path": "assets/laboratory/laboratory-sink-and-empty-cabinet-equipment-scene-01/v1.0.0/thumbnail.png",
+      "size": 497851,
+      "sha256": "e05022f9cffc64cbd7d355f1686ba56c47d2c7089dd1b0d256470b7f16598088"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

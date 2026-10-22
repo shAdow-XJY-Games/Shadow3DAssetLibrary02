@@ -1,0 +1,42 @@
+{
+  "id": "fitness-rower-and-treadmill-cardio-zone-scene-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "fitness",
+  "style": "source-preserved-low-poly",
+  "title": "Rower and Treadmill Cardio Zone",
+  "description": "One static cardio-equipment zone for the original fitness cardio-area program. Two complete existing models at original unit scale and identity orientation: full rail rowing machine on the left and full continuous-belt treadmill on the right. Both retain every original part, material assignment and fixed stored pose, including the rower carriage, foot straps, resistance grille and parked handle, and treadmill closed loop, internal rollers, steps, handrails and blank console. No component is extracted, duplicated or counted as a new model. Whole raw GLB POSITION/NORMAL/index buffers, internal hierarchy and per-face PBR remain unchanged. Only one connected floor and cutaway boundary are new scene-only geometry. Complete finite original feet sit on the floor, with separate whole envelopes and five conservative connected empty strips including a broad central gap. This differs from the old shelf/kettlebell/mat corner and the independent strength-equipment zone. One scene, zero new independent models. No live display, exercise effect, human fit, ergonomic recommendation, movement, belt or carriage travel, resistance, load capacity, stability, installation, electrical function, certified aisle or fitness safety is claimed.",
+  "bounds": {
+    "x": 3.5999999046325684,
+    "y": 4.0,
+    "z": 1.7000000476837158,
+    "unit": "m"
+  },
+  "triangles": 4512,
+  "materials": 14,
+  "files": {
+    "glb": {
+      "path": "assets/fitness/fitness-rower-and-treadmill-cardio-zone-scene-01/v1.0.0/model.glb",
+      "size": 278008,
+      "sha256": "ed981de59966c83348a5a38ff8b26686632d6e3b3743653b6f46da1a2e96bfd5"
+    },
+    "blend": {
+      "path": "assets/fitness/fitness-rower-and-treadmill-cardio-zone-scene-01/v1.0.0/source.blend",
+      "size": 183498,
+      "sha256": "28b929657cabeccb3424a15231deeaaa364f05b38f1839ca0e7d392d961cb0db"
+    },
+    "generator": {
+      "path": "assets/fitness/fitness-rower-and-treadmill-cardio-zone-scene-01/v1.0.0/generate.py",
+      "size": 70375,
+      "sha256": "40671ec23e53876d5883d6c278d3f53fcc63dacf68e0c6e4985e9c6923b793ca"
+    },
+    "render": {
+      "path": "assets/fitness/fitness-rower-and-treadmill-cardio-zone-scene-01/v1.0.0/thumbnail.png",
+      "size": 509775,
+      "sha256": "4db262a020559cc6f8b006ed1c800755976a774fe13f0f1695e866034b0cfba6"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

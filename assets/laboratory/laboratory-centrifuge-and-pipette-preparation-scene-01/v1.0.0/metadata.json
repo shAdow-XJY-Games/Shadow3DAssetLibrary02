@@ -1,0 +1,42 @@
+{
+  "id": "laboratory-centrifuge-and-pipette-preparation-scene-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "laboratory",
+  "style": "source-preserved-low-poly",
+  "title": "Centrifuge and Pipette Preparation Tables",
+  "description": "One static instrument-preparation scene from the original laboratory sample-preparation direction, not a procedure. The complete original benchtop centrifuge with its thick blind-bottom chamber, centrally supported eight blind wells, fixed open lid, original bored hinge/pin, blank controls and all four feet is placed on one whole original worktable. A separate whole original worktable supports the complete original cantilever pipette rack kit with both original full pipettes, three front-open slots and its empty third slot. The whole centrifuge is turned exactly90 degrees about vertical to fit its entire footprint within the actual table top; neither its lid nor any internal part is altered. Every original local POSITION/NORMAL/index/PBR and internal hierarchy byte remains intact. Only whole unit-scale placements and one finite floor are authored. Both entire tabletop child footprints are proved on the actual finite convex top surfaces, with original soles at their heights; the two complete table stations have a positive physical gap and do not pretend to be one continuous fitted bench. This is distinct from the existing microscope and three-vial observation corner. One scene, zero new independent models; repeated support tables are not new models or a new table family. No vessel-capacity, colour, instrument-count variants, operating display, rotor motion, lid sweep, liquid, biological material, reagent, experiment steps, actual scientific performance, sterile handling, chemical/biological/ventilation or equipment/load safety.",
+  "bounds": {
+    "x": 3.4000000953674316,
+    "y": 1.600000023841858,
+    "z": 1.8064630031585693,
+    "unit": "m"
+  },
+  "triangles": 6084,
+  "materials": 16,
+  "files": {
+    "glb": {
+      "path": "assets/laboratory/laboratory-centrifuge-and-pipette-preparation-scene-01/v1.0.0/model.glb",
+      "size": 368748,
+      "sha256": "7a38c54f67091cae40b0291d644541ac8fe495f6f98844a41818b6a0c47ba20b"
+    },
+    "blend": {
+      "path": "assets/laboratory/laboratory-centrifuge-and-pipette-preparation-scene-01/v1.0.0/source.blend",
+      "size": 1690720,
+      "sha256": "6cddb2c233620ea2e9f5742f0962d34c65048f682051c90bbdc806044e95e65f"
+    },
+    "generator": {
+      "path": "assets/laboratory/laboratory-centrifuge-and-pipette-preparation-scene-01/v1.0.0/generate.py",
+      "size": 155387,
+      "sha256": "7b45d8f29204b5a235ff90a3ca902ad400cc2ff01bfba2e3425317afc19264eb"
+    },
+    "render": {
+      "path": "assets/laboratory/laboratory-centrifuge-and-pipette-preparation-scene-01/v1.0.0/thumbnail.png",
+      "size": 490190,
+      "sha256": "ebf5a3c5e6caee586990e54ee6dca9cbf15bac04cef5d2eef9f67030baf9b85c"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

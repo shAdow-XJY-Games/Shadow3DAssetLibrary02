@@ -1,0 +1,42 @@
+{
+  "id": "communications-zoned-field-relay-equipment-scene-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "communications",
+  "style": "S01-clean-geometric",
+  "title": "Field Relay Tower and Front Equipment Service Pad",
+  "description": "One static field-relay equipment layout from the original communications scene direction; one scene and zero new standalone models. Four whole original types at unit scale: a full tapered triangular antenna tower in the rear zone, one entire open-front pierced-rail equipment cabinet and one complete tilted solar rack in the front service zone, and two whole original court-fence modules across the middle with a genuine one-metre opening. A single new6.4x6.6x.16m closed scene-only ground pad connects the front equipment area and the rear tower area. The complete source GLB meshes, oriented triangles, static poses and per-face opaque PBR remain unchanged except declared translations and collision-safe names. Original equipment feet meet the pad top; full object envelopes remain separated with a continuous open front floor band.71meshes7644tri16PBR. Distinct from the earlier small reflector/cabinet/radio communications station and the unfenced offgrid wind-turbine/solar/cabinet grouping: this layout separates a tall antenna zone from a front-facing equipment-service zone with a clear central visual opening. No new tower segment, changed antenna angle, recolour, extracted component, cable, power link or communication function is invented. Not a demonstrated relay, transmitting system, electrical installation, secure enclosure, human-accessibility plan, construction/structural/load or safety certification. Original dynamic hierarchy and custom corner normals are not claimed preserved; original static world geometry is. Preview ground excluded.",
+  "bounds": {
+    "x": 6.4,
+    "y": 6.6,
+    "z": 7.299999866485596,
+    "unit": "m"
+  },
+  "triangles": 7644,
+  "materials": 16,
+  "files": {
+    "glb": {
+      "path": "assets/communications/communications-zoned-field-relay-equipment-scene-01/v1.0.0/model.glb",
+      "size": 332256,
+      "sha256": "75ff368ad007f7421d32e11cbf0697fd489fc45e017d2282b40f90ecb6c38c8d"
+    },
+    "blend": {
+      "path": "assets/communications/communications-zoned-field-relay-equipment-scene-01/v1.0.0/source.blend",
+      "size": 1581092,
+      "sha256": "5332f5585106e6093c24d5a71a98dc7c366230fff0b96a42d308f36e0ba331c6"
+    },
+    "generator": {
+      "path": "assets/communications/communications-zoned-field-relay-equipment-scene-01/v1.0.0/generate.py",
+      "size": 91334,
+      "sha256": "983bf8291665f38d25bbbb0870fee9a337e699a6e6b9736f8470e261d3e62cfb"
+    },
+    "render": {
+      "path": "assets/communications/communications-zoned-field-relay-equipment-scene-01/v1.0.0/thumbnail.png",
+      "size": 442350,
+      "sha256": "ccd4529f34f51440b0e030fbcf4c6df40db184019c656e61f991b4d62388ba5d"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
