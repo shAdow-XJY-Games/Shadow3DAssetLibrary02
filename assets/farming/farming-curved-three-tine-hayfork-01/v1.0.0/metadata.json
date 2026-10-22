@@ -1,0 +1,42 @@
+{
+  "id": "farming-curved-three-tine-hayfork-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "farming",
+  "style": "warm-handcrafted-village",
+  "title": "Curved Three-Tine Hayfork",
+  "description": "One newly authored static low-poly farm hayfork appearance: a long slightly bent wooden shaft enters a complete broadened and narrowed metal shoulder, carrying three full separately editable curved tapering round tines. Three small finite blunt end faces meet Z0 for a standing asset datum. Five closed meshes and two opaque matte constant PBR materials; all body coordinates newly authored, not a scaled old dibber, three copied hoes or a restaurant utensil. Metres, Z up, true whole horizontal bounds centred. Static game-art only: no working point, lifting strength, physical balance, manufacture, ergonomics or tool-safety performance claim. No hay, soil, scenery, animation or extra variants.",
+  "bounds": {
+    "x": 0.301999986,
+    "y": 0.095948271,
+    "z": 1.480000019,
+    "unit": "m"
+  },
+  "triangles": 472,
+  "materials": 2,
+  "files": {
+    "glb": {
+      "path": "assets/farming/farming-curved-three-tine-hayfork-01/v1.0.0/model.glb",
+      "size": 29056,
+      "sha256": "91b37c979630e75f0d526a110a2326591bd64eab27312c2a33395c8f0d325ee8"
+    },
+    "blend": {
+      "path": "assets/farming/farming-curved-three-tine-hayfork-01/v1.0.0/source.blend",
+      "size": 510224,
+      "sha256": "4e7ed08d47e30b2fa894e385f688494f239f8cc32863c9ab41b5dfafe5e510ad"
+    },
+    "generator": {
+      "path": "assets/farming/farming-curved-three-tine-hayfork-01/v1.0.0/generate.py",
+      "size": 25829,
+      "sha256": "c51cc0bc75ac0f3fa3bb0e71e118073f3b37e32ec61846e7be71692ac8d436a6"
+    },
+    "render": {
+      "path": "assets/farming/farming-curved-three-tine-hayfork-01/v1.0.0/thumbnail.png",
+      "size": 457369,
+      "sha256": "f811e42fe66d019cbb2bdbd9d1c5fa15ccf0730d5066e354e39b1e66d908b8ef"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

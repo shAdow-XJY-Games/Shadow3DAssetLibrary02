@@ -1,0 +1,42 @@
+{
+  "id": "public-static-open-wall-changing-station-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "public",
+  "style": "S01-clean-geometric",
+  "title": "Static Open Wall Changing Station",
+  "description": "Original complete static public-service wall-changing-station appearance in one fixed open pose. A continuous thick shallow chamfered pan surrounds a separate inset pad, two fixed unoccupied strap segments and an opaque buckle. A broad wall backing, transverse hinge appearance and two inclined underside supports complete the new fixture. Four opaque fastener appearances only, no host wall or baby/character model. Lower backing edge is the Z datum, not a freestanding floor-support or installed-height claim. One public sanitary-facility prop, not a medical asset or a functioning infant-care product. No deployment, restraint operation, infant suitability, ergonomic fit, hygiene performance, mounting instructions, loading, structural stability or safety certification. No prior bed, folding laundry table or awning geometry is imported.",
+  "bounds": {
+    "x": 0.96,
+    "y": 0.8,
+    "z": 0.86,
+    "unit": "m"
+  },
+  "triangles": 552,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/public/public-static-open-wall-changing-station-01/v1.0.0/model.glb",
+      "size": 33276,
+      "sha256": "e6fc92c6570fe48ec2e25262421bcb1f54622f459dc55e6827f4109478e028df"
+    },
+    "blend": {
+      "path": "assets/public/public-static-open-wall-changing-station-01/v1.0.0/source.blend",
+      "size": 630232,
+      "sha256": "f2ec52df9423f1f4a6c62fde8c87f11017b6888a230ac5ef41cbb6f395b001fa"
+    },
+    "generator": {
+      "path": "assets/public/public-static-open-wall-changing-station-01/v1.0.0/generate.py",
+      "size": 9913,
+      "sha256": "8d513f1c8cc1de0091d4e4b8b73a9421a4d3f294989353682125be7ac92e29aa"
+    },
+    "render": {
+      "path": "assets/public/public-static-open-wall-changing-station-01/v1.0.0/thumbnail.png",
+      "size": 487077,
+      "sha256": "caae0f484a4da92ce5222083568e259f8a8ed225fc93fa82b1b0467febd48861"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

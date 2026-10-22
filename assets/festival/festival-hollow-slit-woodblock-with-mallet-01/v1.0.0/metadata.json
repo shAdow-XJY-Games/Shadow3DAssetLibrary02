@@ -1,0 +1,42 @@
+{
+  "id": "festival-hollow-slit-woodblock-with-mallet-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "festival",
+  "style": "warm-handcrafted-village",
+  "title": "Hollow Slit Woodblock and Mallet",
+  "description": "One complete fixed-display wooden percussion gift: a whole thick-walled rectangular woodblock with an actual enclosed resonator cavity, opened by one long upper slit and short connected transverse end cuts, plus one separately grounded continuous wooden mallet. The cavity and cut walls are modeled physical boundaries, not a dark painted mark. The mallet has a rounded barrel head continuously joined to its narrow shaft. Two closed editable solids and three opaque matte wood PBR roles. Not a geared ratchet, a covered drum skin, a coin slot painted onto a solid block or a cropped piece of furniture. Metres, Z up, front -Y, complete horizontal bounds centred and actual finite undersides at Z0. One whole instrument set, not separate counted pieces. Static visual geometry only: no acoustic tuning, vibration, striking, animation, manufacture, safety, balance or stability claim.",
+  "bounds": {
+    "x": 0.125,
+    "y": 0.082769997,
+    "z": 0.039999999,
+    "unit": "m"
+  },
+  "triangles": 700,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/festival/festival-hollow-slit-woodblock-with-mallet-01/v1.0.0/model.glb",
+      "size": 28456,
+      "sha256": "01a2fc1487d43b869cba4caef82d63f747a95df343abfc32c30d86f1db538f9b"
+    },
+    "blend": {
+      "path": "assets/festival/festival-hollow-slit-woodblock-with-mallet-01/v1.0.0/source.blend",
+      "size": 540196,
+      "sha256": "2a23c3003fd7a15ff16a80e674d22d2056100ee24599e64854badb2482e23cce"
+    },
+    "generator": {
+      "path": "assets/festival/festival-hollow-slit-woodblock-with-mallet-01/v1.0.0/generate.py",
+      "size": 27761,
+      "sha256": "93026b3b9c1f0fe814608b5e31b55dcdc6babb1ca217f39cf48713be896bd55f"
+    },
+    "render": {
+      "path": "assets/festival/festival-hollow-slit-woodblock-with-mallet-01/v1.0.0/thumbnail.png",
+      "size": 493176,
+      "sha256": "ad834c8084360ef65e90ddc15da0599484191af924de6781d392913b21aab381"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
