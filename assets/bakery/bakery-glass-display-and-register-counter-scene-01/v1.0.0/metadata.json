@@ -1,0 +1,42 @@
+{
+  "id": "bakery-glass-display-and-register-counter-scene-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "bakery",
+  "style": "source-preserved-low-poly",
+  "title": "Glass Pastry Display and Register Counter",
+  "description": "One static bakery selling-counter scene combining one complete original open worktable, one complete original two-tier physical-glass bakery display case, one whole original plated rolled croissant on its upper shelf and one complete original fixed-open register. All four old asset IDs preserve original local POSITION/NORMAL payloads, entire constant PBR materials including the exact transmission/IOR extensions, and internal hierarchies. Only whole-instance translations and one finite floor are new; no new independent props, recoloured food or copied pastry count. The complete case and register footprints fit on the actual finite table top with a positive complete-bounds gap, and the complete original plated pastry fits on the upper shelf with space to the case ceiling. Offline Blender glass appearance is inspected in the actual renders; CPU sampling grain and real-time WebGL transmission/depth ordering remain limitations. Static appearance only: no cashier/payment, replenishment path, door motion, food safety, service operation, load or structural safety claim.",
+  "bounds": {
+    "x": 2.0,
+    "y": 1.399999976158142,
+    "z": 1.579887866973877,
+    "unit": "m"
+  },
+  "triangles": 4036,
+  "materials": 14,
+  "files": {
+    "glb": {
+      "path": "assets/bakery/bakery-glass-display-and-register-counter-scene-01/v1.0.0/model.glb",
+      "size": 263904,
+      "sha256": "c4bcc9a826930773fd68344a55dae209eec55f1b09aadc6afb1a7ad5562626aa"
+    },
+    "blend": {
+      "path": "assets/bakery/bakery-glass-display-and-register-counter-scene-01/v1.0.0/source.blend",
+      "size": 1442232,
+      "sha256": "7e12e8efacc15fa0fa7a2e3643929d1df66ded5e383c56ab3cdf7028bdf84cdd"
+    },
+    "generator": {
+      "path": "assets/bakery/bakery-glass-display-and-register-counter-scene-01/v1.0.0/generate.py",
+      "size": 150542,
+      "sha256": "ba1db259e91e70536f9418ddcaf53b9cc43a17270099590327a79b69bfe230a9"
+    },
+    "render": {
+      "path": "assets/bakery/bakery-glass-display-and-register-counter-scene-01/v1.0.0/thumbnail.png",
+      "size": 542463,
+      "sha256": "340c5a0a01d3c3a3e6e22b7b61ff36f743d646e47ace5dd93588e2e3c63e9412"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

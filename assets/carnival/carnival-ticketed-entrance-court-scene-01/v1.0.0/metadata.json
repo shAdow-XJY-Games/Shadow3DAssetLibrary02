@@ -1,0 +1,42 @@
+{
+  "id": "carnival-ticketed-entrance-court-scene-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "carnival",
+  "style": "source-preserved-S01-and-soft-low-poly",
+  "title": "Ticketed Carnival Entrance Court",
+  "description": "One static ticketed carnival entrance court under the original entrance scene program. The complete open-window ticket booth stands to the left of a separate full pennant gateway; an unchanged direction sign occupies the front branching point. Three nonoverlapping scene-only paving solids distinguish the service approach, gate approach and connector, leaving the booth front and portal approach unobstructed. All three old models retain full original meshes/materials at unit scale. One scene, zero new independent models. Unlike the old fair game corner (arch and elevated ring-toss board), this is a service-to-entry threshold without a game station. Static game-art layout only: no payments, ticket operation, crowd routing, age/headroom or accessibility/safety certification.",
+  "bounds": {
+    "x": 7.2,
+    "y": 5.2,
+    "z": 3.02,
+    "unit": "m"
+  },
+  "triangles": 1618,
+  "materials": 15,
+  "files": {
+    "glb": {
+      "path": "assets/carnival/carnival-ticketed-entrance-court-scene-01/v1.0.0/model.glb",
+      "size": 128236,
+      "sha256": "e524a46265a5a9c8fcf92c824a3800713dd31e6e037199b8f569ce6fb41cb9b8"
+    },
+    "blend": {
+      "path": "assets/carnival/carnival-ticketed-entrance-court-scene-01/v1.0.0/source.blend",
+      "size": 1094448,
+      "sha256": "cf2cc73166d7fad60bea790caa921dd944d04b450846f3219fbfdadce8330111"
+    },
+    "generator": {
+      "path": "assets/carnival/carnival-ticketed-entrance-court-scene-01/v1.0.0/generate.py",
+      "size": 88185,
+      "sha256": "f5491ab7d196221683cc4e3cb2f5c8cba22e8ed89fd25a28a5cf1b7a91a2ece6"
+    },
+    "render": {
+      "path": "assets/carnival/carnival-ticketed-entrance-court-scene-01/v1.0.0/thumbnail.png",
+      "size": 538358,
+      "sha256": "16c7db9f3ccdca8875ac93d988a241495793a1b44f44d63838157057665573f7"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
