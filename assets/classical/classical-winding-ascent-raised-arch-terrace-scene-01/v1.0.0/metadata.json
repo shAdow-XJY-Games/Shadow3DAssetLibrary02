@@ -1,0 +1,42 @@
+{
+  "id": "classical-winding-ascent-raised-arch-terrace-scene-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "classical",
+  "style": "S01-clean-geometric",
+  "title": "Winding Ascent to Raised Arch Terrace",
+  "description": "One static classical ruin-path scene, one scene and zero new independent models. A complete self-reviewed three-quarter winding stone stair rises from the low scene floor to a raised terrace; one complete original thirteen-voussoir arch stands on that upper terrace. All two original meshes and3000 oriented triangles retain unit scale and per-face opaque PBR; only full translations and exact90degree signed-axis rotation of the arch are applied. A single68triangle closed scene-only ground/terrace union supplies the two elevations. Its upper plane matches the actual highest tread and both complete arch soles; the stair outer high end meets the platform side without a floating gap or raised-platform fill of its open central recess. Total3meshes3068tri7materials. This is an ascending and turning two-level route, not the earlier flat baffled twin-arch path or column rest plaza. Static visual arrangement only: no handrails, barriers, humans, actual navigation, accessible route, historical reconstruction, structural bearing, engineered construction, installation or pedestrian safety suitability. The added terrace is scene support, not separately counted as a new model.",
+  "bounds": {
+    "x": 6.0,
+    "y": 5.1,
+    "z": 5.70999997138977,
+    "unit": "m"
+  },
+  "triangles": 3068,
+  "materials": 7,
+  "files": {
+    "glb": {
+      "path": "assets/classical/classical-winding-ascent-raised-arch-terrace-scene-01/v1.0.0/model.glb",
+      "size": 123656,
+      "sha256": "2d035551c4e876695b157b803d9973781b0c7958da519475c374aca605bb06d1"
+    },
+    "blend": {
+      "path": "assets/classical/classical-winding-ascent-raised-arch-terrace-scene-01/v1.0.0/source.blend",
+      "size": 792020,
+      "sha256": "abd9237fdb1bc699cdc9899d5c43e2a00f2d1cb208618d0d8086aa7d4798c077"
+    },
+    "generator": {
+      "path": "assets/classical/classical-winding-ascent-raised-arch-terrace-scene-01/v1.0.0/generate.py",
+      "size": 143026,
+      "sha256": "92b844b407323d39293c0fb3ca98159495e38c658ad135916b275cfbc3dfad76"
+    },
+    "render": {
+      "path": "assets/classical/classical-winding-ascent-raised-arch-terrace-scene-01/v1.0.0/thumbnail.png",
+      "size": 503513,
+      "sha256": "9fe00091215b9ca3cb174d22cf2e2098736b7f8c6a0b94e8a6a31a3d816c1795"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

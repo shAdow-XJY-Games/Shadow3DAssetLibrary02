@@ -1,0 +1,42 @@
+{
+  "id": "classical-open-center-winding-stone-stair-01",
+  "version": "1.0.0",
+  "category": "modular",
+  "assetKind": "modular",
+  "theme": "classical",
+  "style": "S01-clean-geometric",
+  "title": "Open-Centre Three-Quarter Winding Stone Stair",
+  "description": "One original static classical ruin circulation module, one new modular asset and zero scenes. A single continuous grounded stone mass winds through270degrees around a genuinely open central recess. Eighteen level radial treads rise along the turn with complete vertical risers, inner and outer faceted side walls and one full connected bottom shell. One closed mesh2340triangles and two opaque constant PBR values distinguish tread faces from rough stone sides; no independent overlapping wedge stack, central pole, floor cap or borrowed old step geometry. The structural difference from the old four straight stone steps and wheeled boarding stair is the whole curved ascending route and open centre, not tread count or theme recolor. This is an isolated stylised stone-path fragment, not a complete tower or working access system. The central recess is open sideways, not claimed an enclosed through-well. No handrail, guard, host upper floor, people, historical reconstruction, engineering bearing, real navigation, ergonomic fit, accessibility, manufacture or safety suitability is claimed.",
+  "bounds": {
+    "x": 3.0,
+    "y": 3.0,
+    "z": 2.52,
+    "unit": "m"
+  },
+  "triangles": 2340,
+  "materials": 2,
+  "files": {
+    "glb": {
+      "path": "assets/classical/classical-open-center-winding-stone-stair-01/v1.0.0/model.glb",
+      "size": 79344,
+      "sha256": "5606fbec735d4c5db741accaa0b3fc13026a2d98a345b6dfa2e03d71c0f66903"
+    },
+    "blend": {
+      "path": "assets/classical/classical-open-center-winding-stone-stair-01/v1.0.0/source.blend",
+      "size": 624784,
+      "sha256": "75f75cf85507dafa53a4d9d8d64088eb68ff5fd1dd5ba7283925096690223b97"
+    },
+    "generator": {
+      "path": "assets/classical/classical-open-center-winding-stone-stair-01/v1.0.0/generate.py",
+      "size": 9663,
+      "sha256": "ff613540797b32156cf5357b9502be2532a0644ed6afa34eee8394879e28485c"
+    },
+    "render": {
+      "path": "assets/classical/classical-open-center-winding-stone-stair-01/v1.0.0/thumbnail.png",
+      "size": 451632,
+      "sha256": "aa82b4b5555f60e7f50e8d6579fdfd19ade8a69eb251d658184cdc3634dc538b"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

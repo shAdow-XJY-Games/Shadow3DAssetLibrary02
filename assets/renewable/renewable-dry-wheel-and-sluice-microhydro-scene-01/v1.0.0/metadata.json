@@ -1,0 +1,42 @@
+{
+  "id": "renewable-dry-wheel-and-sluice-microhydro-scene-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "renewable",
+  "style": "source-preserved-low-poly",
+  "title": "Dry Wheel-and-Sluice Micro-Hydro Display",
+  "description": "One static dry equipment-display scene for the original renewable micro-hydro program. One complete existing twin-rim sixteen-paddle water wheel with its complete shaft, bearing seats and grounded stand sits across a recessed dry race. One whole fixed half-open irrigation sluice is placed upstream on a full raised platform, rotated exactly ninety degrees so its existing through passage follows the race direction. One complete finned inverter cabinet and one complete empty cable-tray segment occupy separated side banks. Four complete old assets at original unit scale, raw GLB POSITION/NORMAL/index buffers, internal nodes and all PBR unchanged. Only one connected scene-only bank/base and open-ended shallow dry race is new. All whole finite old soles lie on supported bank/platform top patches. Four conservative bank-side empty strips form a connected perimeter; the lowest dry race section is clear. No water surface, water flow, working turbine or generator, shaft coupling, cabling, hydraulic or electrical connection, energy conversion, voltage, performance, safe access, civil works, pressure, installation or structural safety is claimed. The paddle wheel is the original dedicated renewable water-wheel asset, not the farm wind-driven water pump. The inverter's original blank control face is not a newly counted control meter. One scene, zero new independent models; different from the old solar/wind off-grid layout and the paired-array rooftop scene.",
+  "bounds": {
+    "x": 6.599999904632568,
+    "y": 3.200000047683716,
+    "z": 2.440000057220459,
+    "unit": "m"
+  },
+  "triangles": 8748,
+  "materials": 17,
+  "files": {
+    "glb": {
+      "path": "assets/renewable/renewable-dry-wheel-and-sluice-microhydro-scene-01/v1.0.0/model.glb",
+      "size": 471856,
+      "sha256": "64ca74af03cd432124f8350ec69ccc143f3cf6c965355cd2e94f5de0343a72e5"
+    },
+    "blend": {
+      "path": "assets/renewable/renewable-dry-wheel-and-sluice-microhydro-scene-01/v1.0.0/source.blend",
+      "size": 249199,
+      "sha256": "3ef969be969f96e221aad9425d25753c2c2625b0b77e899cb451ba8d149b9b94"
+    },
+    "generator": {
+      "path": "assets/renewable/renewable-dry-wheel-and-sluice-microhydro-scene-01/v1.0.0/generate.py",
+      "size": 106023,
+      "sha256": "ddc78bc71822f1ec441b16ff3695f2ef41aa283a76d64b97eec713ad0664f0c1"
+    },
+    "render": {
+      "path": "assets/renewable/renewable-dry-wheel-and-sluice-microhydro-scene-01/v1.0.0/thumbnail.png",
+      "size": 507857,
+      "sha256": "cac02c1dd94b820492c179b6dc9ef78dcd5c39099bb8f92d0914df09bca33b72"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

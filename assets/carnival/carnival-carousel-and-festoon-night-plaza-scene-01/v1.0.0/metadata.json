@@ -1,0 +1,42 @@
+{
+  "id": "carnival-carousel-and-festoon-night-plaza-scene-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "carnival",
+  "style": "source-preserved-S01-and-soft-low-poly",
+  "title": "Carousel and Festoon Night Plaza",
+  "description": "One original static carnival night-plaza scene. One unchanged complete fixed three-horse carousel anchors the middle; two whole twin-post pear-festoon assemblies frame distinct staggered rear and front boundaries, while an intact bench marks the left rest edge. A closed base and two nonoverlapping approach strips form an open right approach and separate left rest pad rather than a closed fence or duplicated public fountain plaza. Four whole instances of three published models remain uncut at unit scale. One scene, zero new independent models. New spatial program is the actual carousel core with staggered festoon perimeter and approach/rest zone, not an old scene relit for a new count. Scene-only blue/warm preview area lighting establishes evening art direction; the original bulbs retain their opaque non-emitting PBR and are not claimed to function electrically. No rides, movement, visitors, electrical circuitry, real illumination/safety, ride clearance or crowd/accessibility certification.",
+  "bounds": {
+    "x": 7.6,
+    "y": 7.6,
+    "z": 3.29,
+    "unit": "m"
+  },
+  "triangles": 12892,
+  "materials": 19,
+  "files": {
+    "glb": {
+      "path": "assets/carnival/carnival-carousel-and-festoon-night-plaza-scene-01/v1.0.0/model.glb",
+      "size": 644376,
+      "sha256": "1ce09f1c330c18ccd957e8302573079aeb23736795da2265f3f3418f1d427cdf"
+    },
+    "blend": {
+      "path": "assets/carnival/carnival-carousel-and-festoon-night-plaza-scene-01/v1.0.0/source.blend",
+      "size": 2409416,
+      "sha256": "a69002023f1ffbd3e1de59e55de9e9a8263860569a15c792f69694be833bae42"
+    },
+    "generator": {
+      "path": "assets/carnival/carnival-carousel-and-festoon-night-plaza-scene-01/v1.0.0/generate.py",
+      "size": 162721,
+      "sha256": "296cfb59a5b6e1ef5fb27913dab8b90f2abb0020dc426906b33e8d9ce2b30ded"
+    },
+    "render": {
+      "path": "assets/carnival/carnival-carousel-and-festoon-night-plaza-scene-01/v1.0.0/thumbnail.png",
+      "size": 569292,
+      "sha256": "6fc6b1bf4bd579a0d617667a1cceb0531a8d0fb51262bd299d70db5f58e2d3a4"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

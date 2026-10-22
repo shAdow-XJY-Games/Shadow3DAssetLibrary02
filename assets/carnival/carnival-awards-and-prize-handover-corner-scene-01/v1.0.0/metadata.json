@@ -1,0 +1,42 @@
+{
+  "id": "carnival-awards-and-prize-handover-corner-scene-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "carnival",
+  "style": "source-preserved-S01-and-soft-low-poly",
+  "title": "Carnival Awards and Prize Handover Corner",
+  "description": "One static carnival awards and prize-handover corner under the original prize-collection scene program. A complete three-place integrated rank podium fronts a clear ceremony apron. A whole concave-L canopy counter remains to the rear-left as a handover position, and a whole empty two-level corner rack occupies a separate rear-right display position. The rack is explicitly the unchanged published logistics shelf reused for display, not a new prize-rack model, recolor, stripped cabinet or filled prize inventory. One closed base and two separate thin approach/apron solids are scene-only. Three whole unit-scale published models preserve all geometry and materials. One scene, zero new independent models. This is a front-facing awards platform and side-handover court, not the old arch/ring-toss stall, ticket entrance or a toy-shop cabinet wall with swapped goods. No winners, prizes, stock, transactions, ranking logic, load, event crowd flow, accessibility or real safety certification is claimed.",
+  "bounds": {
+    "x": 7.6,
+    "y": 5.6,
+    "z": 2.5,
+    "unit": "m"
+  },
+  "triangles": 2876,
+  "materials": 14,
+  "files": {
+    "glb": {
+      "path": "assets/carnival/carnival-awards-and-prize-handover-corner-scene-01/v1.0.0/model.glb",
+      "size": 140452,
+      "sha256": "e2ab359df8f29d68a3fe88e78a7c47e31dacd08a8b0d18bddab4a83800dd237e"
+    },
+    "blend": {
+      "path": "assets/carnival/carnival-awards-and-prize-handover-corner-scene-01/v1.0.0/source.blend",
+      "size": 1249636,
+      "sha256": "cf4006760a4076f2f31b1cb63e25bb67966dce0f9793fbf1cb2f215e4ad1ae82"
+    },
+    "generator": {
+      "path": "assets/carnival/carnival-awards-and-prize-handover-corner-scene-01/v1.0.0/generate.py",
+      "size": 106586,
+      "sha256": "38d64927e49baaa80312990e572afa1a1884c472b024ffe9ce621c981141e615"
+    },
+    "render": {
+      "path": "assets/carnival/carnival-awards-and-prize-handover-corner-scene-01/v1.0.0/thumbnail.png",
+      "size": 542416,
+      "sha256": "411ca8f1c92b275e2540fe428cad7b6aa9f9d0dff4373ee81171f9fb79b0f967"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
