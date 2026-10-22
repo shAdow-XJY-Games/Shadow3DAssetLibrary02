@@ -1,0 +1,42 @@
+{
+  "id": "retail-open-till-wedge-cash-register-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "retail",
+  "style": "S01-clean-geometric",
+  "title": "Open-Till Wedge Cash Register",
+  "description": "One original fixed-open low-poly cash-register appearance, counted as one prop. One connected thick chassis integrates a ground base, a genuinely open-front drawer bay, a broad sloping keyboard deck and a raised rear display surround with a real blind recess. One independently editable continuous shallow till has three empty upward wells, integral partitions and a full floor. Its rear underside seats over a complete finite chassis-floor patch while the front extends beyond the opening; the rear part is obscured by the chassis roof in this fixed pose. Twelve separate solid chamfer-ended keycaps seat over complete sloping bases in a three-column four-row arrangement. A thick opaque unlit display plate seats against the blind recess back wall, with real remaining front and border gaps. Fifteen closed connected named meshes, three constant opaque untextured PBR materials, metres, native Z up, front -Y, complete assembly horizontal-bounds-centred ground origin. Every component profile and position is newly authored. No old cabinet, scale, caddy, chart-console or dispenser geometry is imported. No numbers, words, logo, currency, receipt, loose cash, cables, animation, counter or surrounding scene. The whole register counts once; keys, till and display are not separate assets. Static visual geometry only: no payment, accounting, scanning, networking, money storage or security, key or display operation, drawer motion, insertion or assembly path, stability, load or capacity, ergonomics, manufacture or safety certification. Complete finite contacts and air clearances do not establish practical performance. No compatibility with earlier scanner, cafe appliance, counter or scene is asserted.",
+  "bounds": {
+    "x": 0.360000014,
+    "y": 0.49000001,
+    "z": 0.340000004,
+    "unit": "m"
+  },
+  "triangles": 900,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/retail/retail-open-till-wedge-cash-register-01/v1.0.0/model.glb",
+      "size": 42356,
+      "sha256": "e4eb028a2bc2f6974a38567441e2ef8bd90f1fbd32ea92c2159310d32595dab6"
+    },
+    "blend": {
+      "path": "assets/retail/retail-open-till-wedge-cash-register-01/v1.0.0/source.blend",
+      "size": 616792,
+      "sha256": "4845e6a5a82d9ff2407c464895270fe86b33e3eb4b4d920baafac7fb3fd8e822"
+    },
+    "generator": {
+      "path": "assets/retail/retail-open-till-wedge-cash-register-01/v1.0.0/generate.py",
+      "size": 35321,
+      "sha256": "56fd1273cbcfe01c293486a5c284aa9c81e18657c3f83f88d4b88889065650e1"
+    },
+    "render": {
+      "path": "assets/retail/retail-open-till-wedge-cash-register-01/v1.0.0/thumbnail.png",
+      "size": 531752,
+      "sha256": "202863814a7a06835487ff1c2a60d3f8b78e43ba67fa93fc5f3135f67292f1a9"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
