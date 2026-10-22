@@ -1,0 +1,42 @@
+{
+  "id": "festival-four-panel-diamond-kite-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "festival",
+  "style": "warm-handcrafted-village",
+  "title": "Four-Panel Diamond Kite with Ribbon Tail",
+  "description": "One original static diamond kite gift: four joined shallow-folded paper panels form one finite-thickness whole sail, backed by a full vertical wooden spine and transverse spar, with one continuous bent ribbon tail. Four editable closed meshes and five opaque matte solid PBR roles. The two longer lower edges, short upper edges and slight central fold are actual geometry, not a texture on a rectangle. The wooden spar tips attach at explicitly modeled small fixed overlaps; the tail is attached at the lower spine and partly laid on the ground. Metres, Z up, front -Y, whole horizontal bounds centred and finite spine/tail undersides at Z0. One whole kite, not separately counted panels. Fixed visual pose only, with no towing line, bridle, aerodynamic flight, gravity simulation, animation, manufacturing, balance or safety claim.",
+  "bounds": {
+    "x": 0.240822002,
+    "y": 0.055604,
+    "z": 0.280000001,
+    "unit": "m"
+  },
+  "triangles": 84,
+  "materials": 5,
+  "files": {
+    "glb": {
+      "path": "assets/festival/festival-four-panel-diamond-kite-01/v1.0.0/model.glb",
+      "size": 11564,
+      "sha256": "b089f19febabc11dea5d35668b65f5ce668c3ea574ceebb0047c613f8f201f75"
+    },
+    "blend": {
+      "path": "assets/festival/festival-four-panel-diamond-kite-01/v1.0.0/source.blend",
+      "size": 563568,
+      "sha256": "5220bf7b80fcca77053255d03cd69c879c17b67c1b52fd9a3e121b79c4dc29e0"
+    },
+    "generator": {
+      "path": "assets/festival/festival-four-panel-diamond-kite-01/v1.0.0/generate.py",
+      "size": 27716,
+      "sha256": "f36b5002688f9fd71407d9bd33d817c6c57876589aed06e108b1c40d2056187d"
+    },
+    "render": {
+      "path": "assets/festival/festival-four-panel-diamond-kite-01/v1.0.0/thumbnail.png",
+      "size": 490054,
+      "sha256": "89fca0ae24166b549742a7da4622e69abe872ad7763829db8f9c41039f9ed48a"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

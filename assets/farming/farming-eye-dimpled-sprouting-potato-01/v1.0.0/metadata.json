@@ -1,0 +1,42 @@
+{
+  "id": "farming-eye-dimpled-sprouting-potato-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "farming",
+  "style": "warm-handcrafted-village",
+  "title": "Eye-Dimpled Sprouting Potato",
+  "description": "One newly authored static sprouting-potato appearance: a single unequal elongated tuber with three genuine local surface depressions and three short thick curved buds emerging from those eyes. The eye hollows are deformations of the whole closed tuber boundary, not painted disks; warm body and darker eye surfaces plus purple-to-pale buds use four constant opaque matte PBR roles. Four closed editable meshes. No imported pear, garlic or germinating-bean geometry, no detached old root or duplicated leaf count. Metres, Z up, true horizontal bounds centre, a naturally flattened tuber underside at Z0. Static game-art growth-stage appearance only, not a biological growth simulation, exact cultivar, food-use, planting or safety claim.",
+  "bounds": {
+    "x": 0.141151667,
+    "y": 0.104780287,
+    "z": 0.1043403,
+    "unit": "m"
+  },
+  "triangles": 1060,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/farming/farming-eye-dimpled-sprouting-potato-01/v1.0.0/model.glb",
+      "size": 63948,
+      "sha256": "c6e36c9f3092852a3bb696ef6be608cd39f40f321f65196e2d3c51865d708d32"
+    },
+    "blend": {
+      "path": "assets/farming/farming-eye-dimpled-sprouting-potato-01/v1.0.0/source.blend",
+      "size": 575040,
+      "sha256": "e309d1074794fef16365dcf554a0b0d618cef5f2450395d1531e49aa23842d84"
+    },
+    "generator": {
+      "path": "assets/farming/farming-eye-dimpled-sprouting-potato-01/v1.0.0/generate.py",
+      "size": 26833,
+      "sha256": "bbce2ff47c84ecb8f1f83ed61e99919538b1965aacab32f6dfa126f5865d2003"
+    },
+    "render": {
+      "path": "assets/farming/farming-eye-dimpled-sprouting-potato-01/v1.0.0/thumbnail.png",
+      "size": 504631,
+      "sha256": "26bb0326e595a63827c17f316d42d32cf0c5462cf63d9e2205ee9e3f5bc0f37a"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
