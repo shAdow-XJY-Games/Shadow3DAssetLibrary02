@@ -1,0 +1,42 @@
+{
+  "id": "transport-hollow-roll-v-saddle-cargo-cradle-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "transport",
+  "style": "S01-clean-geometric",
+  "title": "Hollow-Roll V-Saddle Cargo Cradle",
+  "description": "One original fixed cargo-cradle visual kit, counted as one prop. Two long ground skids and two transverse sills support two complete thick V-saddles. One newly authored horizontal faceted hollow bulk roll rests on four finite opposed sloping patches. Its continuous annular material body has genuine open mouths and a full axial through-core; it has no cap, hidden core, axle or spiral layering claim. The entire lower passage between the skids and the broad below-roll gap between the saddles remain empty. Seven closed connected named editable meshes and three constant opaque untextured PBR materials; native metres, Z up, roll axis Y, front -Y, horizontally bounds-centred ground origin. Newly authored complete numerical profiles, not a shortened trolley, recoloured panel crate, imported pallet, tank or old roll. No strap, attachment, loose accessory, vehicle, external floor, text or animation. One static visual arrangement only: no rolling, handling trajectory, restraint, lifting, transport suitability, load, material strength, anti-tip, fork standard, pallet-jack compatibility, manufacture, installation or safety certification. Geometric contact and air clearance are not engineering certification.",
+  "bounds": {
+    "x": 1.0,
+    "y": 1.0,
+    "z": 1.350000024,
+    "unit": "m"
+  },
+  "triangles": 144,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/transport/transport-hollow-roll-v-saddle-cargo-cradle-01/v1.0.0/model.glb",
+      "size": 12840,
+      "sha256": "6747ef27d09ce09a9bafa8c189a5ae6584178c7e905a7b85388b0fa0ec16fe70"
+    },
+    "blend": {
+      "path": "assets/transport/transport-hollow-roll-v-saddle-cargo-cradle-01/v1.0.0/source.blend",
+      "size": 535264,
+      "sha256": "91d83748eca6c9fa61a284fa35a5f1eeff21e25e29a4b94fdfd597228acac905"
+    },
+    "generator": {
+      "path": "assets/transport/transport-hollow-roll-v-saddle-cargo-cradle-01/v1.0.0/generate.py",
+      "size": 32003,
+      "sha256": "bc12c9d2409cf9a3399d004636f773698367d2ece750777401fa054a51dc3c77"
+    },
+    "render": {
+      "path": "assets/transport/transport-hollow-roll-v-saddle-cargo-cradle-01/v1.0.0/thumbnail.png",
+      "size": 522517,
+      "sha256": "e66160b0b2ad86d2eba52328ba14c6548a6fb2360f0346ec98dd2e1df460d344"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
