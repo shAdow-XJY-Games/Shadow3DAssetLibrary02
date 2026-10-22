@@ -1,0 +1,42 @@
+{
+  "id": "festival-flared-handbell-with-wooden-handle-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "festival",
+  "style": "warm-handcrafted-village",
+  "title": "Flared Handbell with Wooden Handle",
+  "description": "One complete fixed-display handbell: a thick flared round metal shell with a genuinely open lower mouth and blind upper roof, a turned wooden handle with a buried mounting stem, and one whole internal clapper stem and rounded weight. Three editable closed meshes and three opaque solid PBR roles. The clapper occupies the actual internal cavity and is fixed at the roof, not painted onto a closed dome. Not a shallow desktop plunger service bell, a rectangular sheet cowbell, an alarm-clock bell or a solid pedestal. Newly authored full axial profiles on mature mesh/export tools. Metres, Z up, front -Y, horizontal bounds centred and finite annular bell rim at Z0. One whole instrument prop, not separately counted parts. Fixed static clapper/handle attachments only: no swinging hinge, sound, tuning, ringing, animation, manufacture, safety or physical stability claim.",
+  "bounds": {
+    "x": 0.083595999,
+    "y": 0.083595999,
+    "z": 0.127000004,
+    "unit": "m"
+  },
+  "triangles": 1168,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/festival/festival-flared-handbell-with-wooden-handle-01/v1.0.0/model.glb",
+      "size": 78220,
+      "sha256": "1c4313e342abdb24acdc0d021a05bd8c73e5694fd5de68d4284ffd0813227059"
+    },
+    "blend": {
+      "path": "assets/festival/festival-flared-handbell-with-wooden-handle-01/v1.0.0/source.blend",
+      "size": 570540,
+      "sha256": "a8ac5833d4e5fb06f7db62f03b9967b8517d9dd9a077e59e7dd4b1bbd22114fd"
+    },
+    "generator": {
+      "path": "assets/festival/festival-flared-handbell-with-wooden-handle-01/v1.0.0/generate.py",
+      "size": 26744,
+      "sha256": "8bfab84380a974889a8fafdda4f4b38cfbc0da4e4102056e0191ccbcb2ccc4be"
+    },
+    "render": {
+      "path": "assets/festival/festival-flared-handbell-with-wooden-handle-01/v1.0.0/thumbnail.png",
+      "size": 499869,
+      "sha256": "46df468aec65f023aa2e0fe95d11ecc1dc3b44e27c9bd4e4debe4c2631e8536b"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

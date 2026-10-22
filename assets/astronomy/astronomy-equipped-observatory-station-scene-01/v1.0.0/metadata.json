@@ -1,0 +1,42 @@
+{
+  "id": "astronomy-equipped-observatory-station-scene-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "astronomy",
+  "style": "source-preserved-low-poly",
+  "title": "Equipped Observatory Station",
+  "description": "One static equipped observatory-station scene from the original astronomy scene program. The complete original slotted dome module encloses the unchanged complete tripod telescope and observing chair; a complete star-chart console stands outside beside the front approach. A scene-only base places the four complete originals at original scale using translation-only matrices. All local POSITION/NORMAL payloads, materials and internal hierarchies are preserved. One scene, zero new independent models. The dome remains fixed with its original true meridian slit and doorway. No dome rotation, shutters, optical alignment, telescope compatibility, observation performance, human access, safe passage, load, weatherproofing or working-building claim. Camera-visible openings do not prove operating or safety performance.",
+  "bounds": {
+    "x": 6.599999904632568,
+    "y": 5.800000190734863,
+    "z": 3.402653932571411,
+    "unit": "m"
+  },
+  "triangles": 4088,
+  "materials": 17,
+  "files": {
+    "glb": {
+      "path": "assets/astronomy/astronomy-equipped-observatory-station-scene-01/v1.0.0/model.glb",
+      "size": 252912,
+      "sha256": "facc30698c0e1c8b6aafa7e2066652e034277ac28dee90f329392af17e6c745b"
+    },
+    "blend": {
+      "path": "assets/astronomy/astronomy-equipped-observatory-station-scene-01/v1.0.0/source.blend",
+      "size": 201444,
+      "sha256": "66ab63ad44d817bf1d8299b7156cb373b2278823edd8fed90445cb808467843c"
+    },
+    "generator": {
+      "path": "assets/astronomy/astronomy-equipped-observatory-station-scene-01/v1.0.0/generate.py",
+      "size": 79500,
+      "sha256": "dd1d12481be7bc9d1d5ab7fa2766f53eb4345a950ef31851d229086dc18296c7"
+    },
+    "render": {
+      "path": "assets/astronomy/astronomy-equipped-observatory-station-scene-01/v1.0.0/thumbnail.png",
+      "size": 525014,
+      "sha256": "29f68d3f46c3fc90d5a1f492917c2d407528d0068d1ad0007ca46499d232d218"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

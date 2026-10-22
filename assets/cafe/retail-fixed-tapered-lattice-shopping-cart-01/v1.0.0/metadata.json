@@ -1,0 +1,42 @@
+{
+  "id": "retail-fixed-tapered-lattice-shopping-cart-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "retail",
+  "style": "S01-clean-geometric",
+  "title": "Tapered Lattice Shopping Cart",
+  "description": "One original complete empty shopping cart. A continuous tapered open-top basket has actual grid openings through its floor and all four walls, with a rising floor/rim toward the push end. A matching sloped perimeter cradle, four columns and two raised rear push posts form one closed chassis. Four fixed double-cheek forks support complete axles and thick bored twelve-facet wheels with flat grounded tyre facets; a separate full rear push grip seats on both posts. Fifteen closed editable material meshes and three opaque untextured PBR materials. Metres, Z up, front -Y, horizontal-bounds-centred four-wheel ground datum. Newly authored basket/chassis/handle/wheel assembly, not the old luggage arch trolley or ball-cradle trolley with a substituted colour, nor an old laundry basket placed on an old cart. No child seat, goods, nesting mechanism, working swivel, rolling/steering simulation, load or anti-tip rating, supermarket standard or safety claim.",
+  "bounds": {
+    "x": 0.6308441162109375,
+    "y": 0.8299999833106995,
+    "z": 1.128000020980835,
+    "unit": "m"
+  },
+  "triangles": 3304,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/cafe/retail-fixed-tapered-lattice-shopping-cart-01/v1.0.0/model.glb",
+      "size": 122356,
+      "sha256": "73eebac62835480dca5da7fdf0a3771b41b06ca3d03adc45bb7992e4af8f65da"
+    },
+    "blend": {
+      "path": "assets/cafe/retail-fixed-tapered-lattice-shopping-cart-01/v1.0.0/source.blend",
+      "size": 743820,
+      "sha256": "20d10d83be631708cda452c016c6e7b57d3c60d19eba0ff4430d15b1ba923d4d"
+    },
+    "generator": {
+      "path": "assets/cafe/retail-fixed-tapered-lattice-shopping-cart-01/v1.0.0/generate.py",
+      "size": 21643,
+      "sha256": "32fc7f57696cb55483b638e9301efcd3861d5e787937a88eb81569e1d36a415b"
+    },
+    "render": {
+      "path": "assets/cafe/retail-fixed-tapered-lattice-shopping-cart-01/v1.0.0/thumbnail.png",
+      "size": 532324,
+      "sha256": "76b6db167a74e2844f0de81a26a42d3c971a693b4cf5d7c47cc1532edcb6cb27"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

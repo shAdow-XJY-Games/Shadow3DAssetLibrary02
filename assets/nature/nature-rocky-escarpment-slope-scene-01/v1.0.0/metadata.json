@@ -1,0 +1,42 @@
+{
+  "id": "nature-rocky-escarpment-slope-scene-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "nature",
+  "style": "S02-hard-edge-faceted",
+  "title": "Rocky Escarpment Slope Scene",
+  "description": "Original rocky-slope scene from the approved nature scene plan: six complete unit-scale instances of four existing assets form a bare stepped escarpment, a larger rear upper outcrop, lower scree and two sparse full dry-grass clumps. Two complete escarpment modules meet along their original repeat boundaries. One new scene-only low ground and one rear height transition match the actual upper rear terrain boundary and provide flat finite support for the intact outcrop and upper grass. Every original source mesh triangle and constant per-face PBR is retained from immutable embedded actual GLBs; final positions receive only unit-scale translation, shared horizontal origin centering and explicit float32 storage with measured error at most 2e-7 m. Faceted shading is regenerated from retained triangle surfaces; original normal fields are not claimed byte-identical. Editable complete-instance groups retain original asset IDs. One scene, zero new standalone models; no rocks, grass blades or support parts counted as additional assets. Static visual composition only: no navigation, collision, climbing, stability, erosion, geological simulation or safety claim. Metres, native Z up, front -Y, horizontal bounds-centred ground origin.",
+  "bounds": {
+    "x": 4.8,
+    "y": 5.0,
+    "z": 3.32,
+    "unit": "m"
+  },
+  "triangles": 2508,
+  "materials": 15,
+  "files": {
+    "glb": {
+      "path": "assets/nature/nature-rocky-escarpment-slope-scene-01/v1.0.0/model.glb",
+      "size": 263980,
+      "sha256": "7b395fd7d460582daff87b5fca24ebb4ee409f6edb80d9b2a42ac5e4813eb0ec"
+    },
+    "blend": {
+      "path": "assets/nature/nature-rocky-escarpment-slope-scene-01/v1.0.0/source.blend",
+      "size": 1256640,
+      "sha256": "69d676c1623ea2b16afbc1808c16208f2a28739608997748862d8d05378bc51c"
+    },
+    "generator": {
+      "path": "assets/nature/nature-rocky-escarpment-slope-scene-01/v1.0.0/generate.py",
+      "size": 64678,
+      "sha256": "63c3b1a3addba0d24abfed4de9098268272f152c91e881a0162d5ff055bee21e"
+    },
+    "render": {
+      "path": "assets/nature/nature-rocky-escarpment-slope-scene-01/v1.0.0/thumbnail.png",
+      "size": 527307,
+      "sha256": "575e93cabe7e376134c2253863fd8d003f8307cc7f7ab8ff43e38a127e6a91e6"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

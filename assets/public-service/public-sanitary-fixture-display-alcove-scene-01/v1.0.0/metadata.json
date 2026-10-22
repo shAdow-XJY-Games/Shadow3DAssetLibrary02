@@ -1,0 +1,42 @@
+{
+  "id": "public-sanitary-fixture-display-alcove-scene-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "public-service",
+  "style": "S01-clean-geometric",
+  "title": "Public Sanitary Fixture Display Alcove",
+  "description": "One static public-service sanitary-fixture display alcove, counted as one scene and zero new independent models. Three complete original assets are reused at unit scale: the oval-pan rear-cistern toilet at left, an open wall-changing station at right, and a raised wall-grab rail between them. Every original raw GLB triangle and opaque solid PBR is embedded in the self-contained generator; only one declared translation per complete assembly and material-name prefixes for collision protection are added. A new scene-only closed floor and continuous L cutaway wall present the fixtures with visible open front floor. Thirty-one editable meshes, twelve materials. No baby/person, water/plumbing, electrical or mechanical operation. This is a static fixture exhibit, not a complete usable restroom, accessibility or human-clearance test, care product recommendation, installation plan, load or safety certification.",
+  "bounds": {
+    "x": 3.1,
+    "y": 2.6,
+    "z": 1.8,
+    "unit": "m"
+  },
+  "triangles": 2756,
+  "materials": 12,
+  "files": {
+    "glb": {
+      "path": "assets/public-service/public-sanitary-fixture-display-alcove-scene-01/v1.0.0/model.glb",
+      "size": 166948,
+      "sha256": "f8e825609b4da6b87d9f626879b1e120518715af27a1ac399729ac65ed5ea223"
+    },
+    "blend": {
+      "path": "assets/public-service/public-sanitary-fixture-display-alcove-scene-01/v1.0.0/source.blend",
+      "size": 1026164,
+      "sha256": "267e129b780995a206909e16d116d584b6d50c1e5c62236550af14fe893fc49a"
+    },
+    "generator": {
+      "path": "assets/public-service/public-sanitary-fixture-display-alcove-scene-01/v1.0.0/generate.py",
+      "size": 124990,
+      "sha256": "b8a37fd77ae70a673e61bfbe37b5274b0293bc1d5960f14df62a0fdaf1085750"
+    },
+    "render": {
+      "path": "assets/public-service/public-sanitary-fixture-display-alcove-scene-01/v1.0.0/thumbnail.png",
+      "size": 428102,
+      "sha256": "5af25ee36f5c20250828b4795a69b4c36cbb4d4a3a960bfd1282141c8430d3ae"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
