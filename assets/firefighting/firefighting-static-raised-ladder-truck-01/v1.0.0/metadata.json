@@ -1,0 +1,42 @@
+{
+  "id": "firefighting-static-raised-ladder-truck-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "firefighting",
+  "style": "S01-clean-geometric",
+  "title": "Static Raised-Ladder Fire Truck",
+  "description": "Original complete static raised-ladder fire vehicle appearance: a new short cab and shuttered equipment body on a three-axle chassis, four deployed ground-pad outriggers, fixed rear turntable and twin nested open rung ladders on a cross pivot. All geometry is newly constructed, no old vehicle or ladder is imported. Opaque window and lamp surfaces. Fixed visual pose only, not a working vehicle: no driving, steering, rescue, telescoping, rotation, hydraulic operation, human fit, load capacity, stability or safety performance is claimed.",
+  "bounds": {
+    "x": 2.94,
+    "y": 5.887044235959481,
+    "z": 4.84811237811006,
+    "unit": "m"
+  },
+  "triangles": 3048,
+  "materials": 5,
+  "files": {
+    "glb": {
+      "path": "assets/firefighting/firefighting-static-raised-ladder-truck-01/v1.0.0/model.glb",
+      "size": 188820,
+      "sha256": "85c7a8de77ccdd99a8e247931615ad62c725423e177d47447ce482fd580040ff"
+    },
+    "blend": {
+      "path": "assets/firefighting/firefighting-static-raised-ladder-truck-01/v1.0.0/source.blend",
+      "size": 1221452,
+      "sha256": "7e8bc0975fc2f8ecd32e4894740623d0968b1cedd2a0847824ffc7e4dd5f909d"
+    },
+    "generator": {
+      "path": "assets/firefighting/firefighting-static-raised-ladder-truck-01/v1.0.0/generate.py",
+      "size": 11578,
+      "sha256": "df96a8f2e387e414335bf5c3a78a9344c28a61d193a342212ecce7c9868101b1"
+    },
+    "render": {
+      "path": "assets/firefighting/firefighting-static-raised-ladder-truck-01/v1.0.0/thumbnail.png",
+      "size": 450011,
+      "sha256": "6fd5b9aec8a1146671c52a1537c6b4874acf5671cd0c335ff6e394e13a6bec0b"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

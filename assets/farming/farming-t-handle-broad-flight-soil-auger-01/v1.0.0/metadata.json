@@ -1,0 +1,42 @@
+{
+  "id": "farming-t-handle-broad-flight-soil-auger-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "farming",
+  "style": "warm-handcrafted-village",
+  "title": "T-Handle Broad-Flight Soil Auger",
+  "description": "One newly authored static low-poly T-handle soil-auger-inspired prop: a long continuous metal core with a small blunt flat lower end, one complete thick two-turn broad helical flight around its lower portion, and one transverse rounded wooden grip. The broad separate helical wing is new mesh geometry, not an extracted or enlarged fluted bench-drill bit; no old dibber geometry is reused. Three closed editable meshes and three opaque constant PBR materials. Whole horizontal bounds-centred, metres, Z-up. Fixed game-art appearance only; no turning, soil boring, cutting performance, manufacturing, structural, ergonomic or safety claims.",
+  "bounds": {
+    "x": 0.439999998,
+    "y": 0.209999993,
+    "z": 1.130433798,
+    "unit": "m"
+  },
+  "triangles": 500,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/farming/farming-t-handle-broad-flight-soil-auger-01/v1.0.0/model.glb",
+      "size": 30260,
+      "sha256": "61754b546d0308d074313d58f5613076b5846dc73e885796dd8d2762fff19048"
+    },
+    "blend": {
+      "path": "assets/farming/farming-t-handle-broad-flight-soil-auger-01/v1.0.0/source.blend",
+      "size": 525192,
+      "sha256": "8a868103ecc0f5b0ed9304b381fa665d7eb09ba2f2c8d14b1f5cf2bbd289c95d"
+    },
+    "generator": {
+      "path": "assets/farming/farming-t-handle-broad-flight-soil-auger-01/v1.0.0/generate.py",
+      "size": 25636,
+      "sha256": "56cfb774229d8c428c605f7888cfd70aa695810ac67d3834fa529dab7d93fa47"
+    },
+    "render": {
+      "path": "assets/farming/farming-t-handle-broad-flight-soil-auger-01/v1.0.0/thumbnail.png",
+      "size": 468737,
+      "sha256": "370dfff68e6f9190a4f91feecb8caa7b46e771ef2298ddf0ce3fbf8947054122"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

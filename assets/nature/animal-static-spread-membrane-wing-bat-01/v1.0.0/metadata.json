@@ -1,0 +1,42 @@
+{
+  "id": "animal-static-spread-membrane-wing-bat-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "nature",
+  "style": "S02-hard-edge-faceted",
+  "title": "Static Spread-Membrane-Wing Bat",
+  "description": "One original stylised bat prop in a fixed open-wing ground display: short tapered torso, round short-muzzled head, two pointed ears with small opaque inner surfaces, two dark eyes, two short bent hind legs and complete small clawed feet. Each new whole wing is a closed thick membrane with a genuinely scalloped trailing outline and raised finger-like surface ridges radiating from an offset wrist; a small complete interleg tail membrane joins the lower silhouette. No borrowed folded bird wings, copied fan leaf, aircraft foil or old animal body; all new profiles and coordinates, generic mesh/export infrastructure only reused. Sixteen closed editable meshes and four matte constant opaque PBR materials. Metres, native Z up, front -Y, full horizontal bounds-centred ground origin. One prop, zero scenes, no parts or extra poses counted separately. Artistic static animal silhouette only, not species-level anatomy, actual bone construction, biological fidelity, a natural standing gait, flight, rig, animation, physical stability, collision or animal-performance claim.",
+  "bounds": {
+    "x": 1.54,
+    "y": 0.253751,
+    "z": 0.87,
+    "unit": "m"
+  },
+  "triangles": 1052,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/nature/animal-static-spread-membrane-wing-bat-01/v1.0.0/model.glb",
+      "size": 76532,
+      "sha256": "a8d0824853bcf0c1df1abb568892d3207bb71eea838e2d143b9405d892665d10"
+    },
+    "blend": {
+      "path": "assets/nature/animal-static-spread-membrane-wing-bat-01/v1.0.0/source.blend",
+      "size": 653656,
+      "sha256": "e3a6642f715e2af6869ff787888df91470b1c5ca455dd0de0d4380a9c2ad91f8"
+    },
+    "generator": {
+      "path": "assets/nature/animal-static-spread-membrane-wing-bat-01/v1.0.0/generate.py",
+      "size": 24063,
+      "sha256": "8239576d8ef3615e7e47f1358f281ebbb5795f02e4003e2ae09eba26b3ce2948"
+    },
+    "render": {
+      "path": "assets/nature/animal-static-spread-membrane-wing-bat-01/v1.0.0/thumbnail.png",
+      "size": 493867,
+      "sha256": "c208d353f3b8d3421e1dd0be7eba7f1642425ee64cfbb17ad17b3011be2ac652"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

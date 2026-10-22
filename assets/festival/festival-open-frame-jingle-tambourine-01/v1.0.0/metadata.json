@@ -1,0 +1,42 @@
+{
+  "id": "festival-open-frame-jingle-tambourine-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "festival",
+  "style": "warm-handcrafted-village",
+  "title": "Open-Frame Jingle Tambourine",
+  "description": "One original static headless tambourine: a single connected thick wooden hoop with four true through-wall windows, four short captured spindles and four pairs of shallow dished annular metal jingles. The open central aperture has no drumhead. Thirteen individually editable closed meshes and two solid PBR roles. Newly authored complete windowed hoop and jingle arrangement, not a recoloured closed drum, extracted cymbal or industrial gear. Metres, Z up, front -Y, horizontal bounds centred; upright faceted outer hoop has a finite bottom ground face. Intentional spindle ends are buried in upper/lower wooden window bars. Jingles have real centre bores and a tiny intentional fixed-contact overlap on the pins after settling down1.2mm, with no animated motion, sound, acoustic tuning, manufacturing, safety, balance or stability claim. One complete instrument prop, not thirteen assets.",
+  "bounds": {
+    "x": 0.269421995,
+    "y": 0.050000001,
+    "z": 0.269421995,
+    "unit": "m"
+  },
+  "triangles": 2512,
+  "materials": 2,
+  "files": {
+    "glb": {
+      "path": "assets/festival/festival-open-frame-jingle-tambourine-01/v1.0.0/model.glb",
+      "size": 115052,
+      "sha256": "aad3a9c3ab7685257dcf04f96e73f2064115a951783f2413e3f97334265e8ca6"
+    },
+    "blend": {
+      "path": "assets/festival/festival-open-frame-jingle-tambourine-01/v1.0.0/source.blend",
+      "size": 669900,
+      "sha256": "12c8f1ca983556eacd9dc213b68ca384942eea329d3042165d8db3d47e32b642"
+    },
+    "generator": {
+      "path": "assets/festival/festival-open-frame-jingle-tambourine-01/v1.0.0/generate.py",
+      "size": 27709,
+      "sha256": "e1ca45e7f60535b4eaff0c7135a2c0ba225b1d5e3ba7988cef198d0cdb1bd9ce"
+    },
+    "render": {
+      "path": "assets/festival/festival-open-frame-jingle-tambourine-01/v1.0.0/thumbnail.png",
+      "size": 527481,
+      "sha256": "422454998bc4983bee2bdfee76ce80097807f95f01561cf242e28f1adbb8d667"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

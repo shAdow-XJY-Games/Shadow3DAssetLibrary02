@@ -1,0 +1,42 @@
+{
+  "id": "sports-rest-and-change-service-corner-scene-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "sports",
+  "style": "source-preserved-low-poly",
+  "title": "Rest and Change Service Corner",
+  "description": "One static sports rest-and-change service corner: complete original slatted bench on the left quiet zone, a full open changing locker at the rear and a complete pedestal drinking station on the right entrance side. Original local POSITION/NORMAL payloads, material dictionaries and internal node transforms retained at unit scale, with translation-only scene placement. One scene and zero new independent models. One continuous scene-only floor with a coloured seating region and an open shared front approach. Not a complete changing building, potable-water system, accessibility route or capacity/safety certification.",
+  "bounds": {
+    "x": 5.400000095367432,
+    "y": 4.199999809265137,
+    "z": 2.0,
+    "unit": "m"
+  },
+  "triangles": 2934,
+  "materials": 14,
+  "files": {
+    "glb": {
+      "path": "assets/sports/sports-rest-and-change-service-corner-scene-01/v1.0.0/model.glb",
+      "size": 219444,
+      "sha256": "6f80323974442f15b12d5d97c1e684df2636106b5f272befdf4c5318402d0fbe"
+    },
+    "blend": {
+      "path": "assets/sports/sports-rest-and-change-service-corner-scene-01/v1.0.0/source.blend",
+      "size": 169198,
+      "sha256": "9c8512118fdb1a15ed93a23f2eb04e33298088f8652b4e2351e7b359c0f73e42"
+    },
+    "generator": {
+      "path": "assets/sports/sports-rest-and-change-service-corner-scene-01/v1.0.0/generate.py",
+      "size": 55072,
+      "sha256": "d76b9fc789f6c408da8d6c08440422fb542256572841c1874e1f3b9496f5c34e"
+    },
+    "render": {
+      "path": "assets/sports/sports-rest-and-change-service-corner-scene-01/v1.0.0/thumbnail.png",
+      "size": 484631,
+      "sha256": "28aa1c9ff753152926217ab93abc76eb1d0a246d6a960a5eec1691346498de06"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
