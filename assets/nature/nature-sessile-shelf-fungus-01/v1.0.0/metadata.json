@@ -1,0 +1,42 @@
+{
+  "id": "nature-sessile-shelf-fungus-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "nature",
+  "style": "S02-hard-edge-faceted",
+  "title": "Sessile Shelf Fungus on Broken Wood",
+  "description": "One original static stylised woodland fungus prop: two unequal broad fan-shaped thick shelves grow laterally from broad roots in one short asymmetric broken woody host. Both complete shelf roots and the host share actual vertices and edges in one continuous closed body, without capped overlaps or a central cap stalk. The shelves have gently domed upper surfaces, substantial pale undersides and tapered outer rims; no upper funnel. Five constant opaque matte PBR tones. Metres, native Z up, front -Y, horizontal bounds-centred ground origin and one complete finite woody sole. One prop, zero scenes. No old mushroom cap, funnel, stump, log, cactus, coral, leaf or scenery geometry imported, removed, scaled, recoloured or reassembled. Stylised static game-art only: no species identification, edible/poisonous classification, scientific anatomy, ecology, growth, harvesting, food use, material mechanics, animation, collision, navigation, stability or physical performance claim.",
+  "bounds": {
+    "x": 0.96,
+    "y": 0.9284,
+    "z": 1.065,
+    "unit": "m"
+  },
+  "triangles": 384,
+  "materials": 5,
+  "files": {
+    "glb": {
+      "path": "assets/nature/nature-sessile-shelf-fungus-01/v1.0.0/model.glb",
+      "size": 28948,
+      "sha256": "235f5e7b0c43bb6a9b1cbedd8c0450a2f6e7bd8eb472d804c9c220cb75661598"
+    },
+    "blend": {
+      "path": "assets/nature/nature-sessile-shelf-fungus-01/v1.0.0/source.blend",
+      "size": 564372,
+      "sha256": "a81e401a631f03f1968416edecb1782c184362db74e0993f07e50f8fa449c089"
+    },
+    "generator": {
+      "path": "assets/nature/nature-sessile-shelf-fungus-01/v1.0.0/generate.py",
+      "size": 31338,
+      "sha256": "2e9c7fb61259ebbe19ad68375dba40be170c9f91f27fecf854310558f5465da5"
+    },
+    "render": {
+      "path": "assets/nature/nature-sessile-shelf-fungus-01/v1.0.0/thumbnail.png",
+      "size": 528008,
+      "sha256": "eaae8ebb1716df06f46e8c078c05a0b76afddbdb53c2a677e048b250ddaa7838"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

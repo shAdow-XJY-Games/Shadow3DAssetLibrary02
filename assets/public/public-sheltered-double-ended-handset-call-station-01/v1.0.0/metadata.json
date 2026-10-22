@@ -1,0 +1,42 @@
+{
+  "id": "public-sheltered-double-ended-handset-call-station-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "public",
+  "style": "S01-clean-geometric",
+  "title": "Sheltered Double-ended Handset Call Station",
+  "description": "One newly authored static public-service call-station appearance: integral footed open hood with a raised fixed twelve-key area, a genuinely two-ended bowed receiver, complete lower horizontal seat and upper backrest, and one continuous hanging lead. All bodies, full functional air regions and finite contact seats are explicit. No actual communication, electrical, payment, emergency, weather, acoustic, accessibility, human-fit, installation or safety claim. Not old drinking-station geometry with a swapped microphone.",
+  "bounds": {
+    "x": 0.620000005,
+    "y": 0.479999989,
+    "z": 1.720000029,
+    "unit": "m"
+  },
+  "triangles": 2668,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/public/public-sheltered-double-ended-handset-call-station-01/v1.0.0/model.glb",
+      "size": 100328,
+      "sha256": "ef2ebd6421ea614829058da2e89e3171aac9da4de7139976551054d107dd8d02"
+    },
+    "blend": {
+      "path": "assets/public/public-sheltered-double-ended-handset-call-station-01/v1.0.0/source.blend",
+      "size": 661592,
+      "sha256": "b77e1e9851bac49b95ecd6e646053f60d2e110af9f9ace9a510144b27c1ed2aa"
+    },
+    "generator": {
+      "path": "assets/public/public-sheltered-double-ended-handset-call-station-01/v1.0.0/generate.py",
+      "size": 34417,
+      "sha256": "b381331e24f22a6a75a59201d95a1ff3019464fa842cc98f60dddb2be7bb40bf"
+    },
+    "render": {
+      "path": "assets/public/public-sheltered-double-ended-handset-call-station-01/v1.0.0/thumbnail.png",
+      "size": 491946,
+      "sha256": "77cda4bda7033e470fff767b936a1073acf4ea047560cf6952e3c563eb49e905"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
