@@ -1,0 +1,42 @@
+{
+  "id": "logistics-roller-and-scan-receiving-scene-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "logistics",
+  "style": "source-preserved-low-poly",
+  "title": "Roller and Scan Receiving Preparation",
+  "description": "One static logistics receiving-preparation scene. An entire original open-front delivery roll cage stands in an arrival holding position beside one entire original straight thirteen-roller table. Behind the roller end stands one complete original cantilever scan workstation with its empty inset flanged tray, suspended unlit head and fixed side display. All three whole original asset IDs preserve local POSITION/NORMAL bytes, PBR materials and internal hierarchies exactly. Only whole-instance unit-scale translations and a finite new floor are new. Complete grounded station footprints fit on the floor and all station bounds are positively separated. The roller stops approximately 80 mm before the scan workstation footprint; their original surface heights are unchanged and no bridging or continuous goods transfer is asserted. The cage, roller and tray are all empty. One scene and zero independent new models. It is not the existing fork-engaged pallet-loading corner renamed. No receipt processing, scanning, barcode reading, conveyance, sorting automation, moving wheels, equipment fit, throughput, load, ergonomic or workplace safety claim.",
+  "bounds": {
+    "x": 3.5999999046325684,
+    "y": 3.799999952316284,
+    "z": 1.6699999570846558,
+    "unit": "m"
+  },
+  "triangles": 8776,
+  "materials": 14,
+  "files": {
+    "glb": {
+      "path": "assets/logistics/logistics-roller-and-scan-receiving-scene-01/v1.0.0/model.glb",
+      "size": 447256,
+      "sha256": "a1c93ea1b4df5ba03c54351976f4a2e779590f33e2c0da1e36f1e91f0cb06bdc"
+    },
+    "blend": {
+      "path": "assets/logistics/logistics-roller-and-scan-receiving-scene-01/v1.0.0/source.blend",
+      "size": 2198160,
+      "sha256": "40f75f8cb1f54a1d0344c354f2f47c1b0ad6e8004e172d3ad48b019ad1569752"
+    },
+    "generator": {
+      "path": "assets/logistics/logistics-roller-and-scan-receiving-scene-01/v1.0.0/generate.py",
+      "size": 108773,
+      "sha256": "6d5566491ccd21aad42504fcda3212865495921744e4bf737772fe0a29a7bbc9"
+    },
+    "render": {
+      "path": "assets/logistics/logistics-roller-and-scan-receiving-scene-01/v1.0.0/thumbnail.png",
+      "size": 486560,
+      "sha256": "0bac6bc2bf30b4d090b9efc9a2ef83464c9b22eae892dd110c0199782fd50b13"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

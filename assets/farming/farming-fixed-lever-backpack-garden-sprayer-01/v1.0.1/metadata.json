@@ -1,0 +1,42 @@
+{
+  "id": "farming-fixed-lever-backpack-garden-sprayer-01",
+  "version": "1.0.1",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "farming",
+  "style": "warm-handcrafted-village",
+  "title": "Fixed-Lever Backpack Garden Sprayer",
+  "description": "One newly authored whole static garden-sprayer appearance: a flattened chamfered rigid shoulder tank stands on its own full bottom, with an offset filler neck/cap, continuous open carry arch and two broad continuous rear strap loops. A fixed low-pivot side lever has a dark grip. A single continuous curved low hose joins a front coupling to the grip of a tall bent wand, parked on two actual finite brackets, with a short solid exterior nozzle. Not a recoloured soft camping backpack, a scaled extinguisher, paired diving cylinders or a countertop pump bottle; all whole geometry and dimensions newly authored, no old visible mesh imported. Three opaque constant PBR roles. Metres, Z up, true whole horizontal bounds-centred. Static exterior game-art only; no liquid, internal fluid circuit, pressure vessel, working pump, spraying, pesticide/chemical use, dosage, safety equipment, wearable fit, animation, irrigation performance, manufacture or engineering/safety claim.",
+  "bounds": {
+    "x": 0.643483698,
+    "y": 0.510907769,
+    "z": 0.906478703,
+    "unit": "m"
+  },
+  "triangles": 888,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/farming/farming-fixed-lever-backpack-garden-sprayer-01/v1.0.1/model.glb",
+      "size": 55904,
+      "sha256": "5a1e43998d0454a8ab70e6094eab1095100ba6cc47b2cbfd1885dfc2c5bd4812"
+    },
+    "blend": {
+      "path": "assets/farming/farming-fixed-lever-backpack-garden-sprayer-01/v1.0.1/source.blend",
+      "size": 602200,
+      "sha256": "c7f7174c94850f6d900722158dfd56987a48f5d867b0a6dcf6bb3d4c8b6ecdfd"
+    },
+    "generator": {
+      "path": "assets/farming/farming-fixed-lever-backpack-garden-sprayer-01/v1.0.1/generate.py",
+      "size": 30216,
+      "sha256": "00b9dc144ede6a89bdbd44232f121f5b9f89d82b77a64914ac7b8faba688ad5e"
+    },
+    "render": {
+      "path": "assets/farming/farming-fixed-lever-backpack-garden-sprayer-01/v1.0.1/thumbnail.png",
+      "size": 509862,
+      "sha256": "22a080b7604bab487772344eb148454b10db8b62f901821bc0b675807e22db44"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

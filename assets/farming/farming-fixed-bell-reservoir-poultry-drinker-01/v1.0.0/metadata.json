@@ -1,0 +1,42 @@
+{
+  "id": "farming-fixed-bell-reservoir-poultry-drinker-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "farming",
+  "style": "warm-handcrafted-village",
+  "title": "Fixed Bell-Reservoir Poultry Drinker",
+  "description": "One newly authored complete static poultry-drinker appearance: a tall closed-crown hollow bell reservoir has one genuine full bottom mouth, raised by three low peripheral spacers inside a broad genuinely open shallow drinking tray with a full ground sole and raised outer lip. One whole open carry arch joins the crown. The empty under-mouth and external annular tray well are real geometric spaces, not painted water. Not a scaled service bell: no apex shaft hole, central support or plunger, and the base is a deep finite open well rather than flat plinth. Not an inverted old mixing bowl or reduced honey tank, all new whole profiles and assembly. Six closed editable meshes and three opaque PBR roles, metres Z up, actual whole XY centre. One static prop only. No water, hydrostatic operation, automatic filling, pressure, leak tightness, animal access/suitability, feeding/hygiene, manufacture, stability or agricultural engineering/safety capability claimed.",
+  "bounds": {
+    "x": 0.460000008,
+    "y": 0.460000008,
+    "z": 0.538314939,
+    "unit": "m"
+  },
+  "triangles": 1168,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/farming/farming-fixed-bell-reservoir-poultry-drinker-01/v1.0.0/model.glb",
+      "size": 63744,
+      "sha256": "d2a085fa82664760e0b198a0b65a9554e5e25633a3370590e3cf0229a58f8dee"
+    },
+    "blend": {
+      "path": "assets/farming/farming-fixed-bell-reservoir-poultry-drinker-01/v1.0.0/source.blend",
+      "size": 567240,
+      "sha256": "8a21dcc76f7469e4ee58a2b908393389946bf437650e886fa175fb27f30e5b54"
+    },
+    "generator": {
+      "path": "assets/farming/farming-fixed-bell-reservoir-poultry-drinker-01/v1.0.0/generate.py",
+      "size": 27452,
+      "sha256": "ec3ff58b763854ca68845b3087e28de7f6e728cad13fb84de65f136e0ffd0d29"
+    },
+    "render": {
+      "path": "assets/farming/farming-fixed-bell-reservoir-poultry-drinker-01/v1.0.0/thumbnail.png",
+      "size": 513319,
+      "sha256": "d14f4ae131e3360cf08b36e92df37958eb4ff8e969eb336d2966090d2e0ef096"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

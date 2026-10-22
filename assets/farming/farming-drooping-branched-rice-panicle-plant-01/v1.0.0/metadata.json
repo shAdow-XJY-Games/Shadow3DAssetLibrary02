@@ -1,0 +1,42 @@
+{
+  "id": "farming-drooping-branched-rice-panicle-plant-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "farming",
+  "style": "warm-handcrafted-village",
+  "title": "Drooping Branched Rice Panicle Plant",
+  "description": "One newly authored whole static rice-like crop plant appearance: a slender ground-rooted culm and three long narrow folded leaves support one curved terminal panicle axis, eight actual descending primary branches and twenty-four secondary terminal pedicels carrying individually tapered hanging grain exteriors, plus a terminal grain. Loose multi-level branched and drooping head is structurally distinct from old wheat two opposed grain ranks, bound harvested stems, wetland solid seed clubs or maize tassel and husked ear. All geometry newly authored, no old organs or numeric plant geometry imported. Closed editable meshes connect through small fixed overlaps, not falsely described as one shared manifold. Three opaque constant PBR roles, true whole XY centre and finite basal sole Z0. One reusable prop, no scene. Static stylized rice-like appearance only: no exact cultivar, botanical accuracy, actual growth stages, yield, food, ecological, wind/animation, planting or physical stability claims.",
+  "bounds": {
+    "x": 0.656165779,
+    "y": 0.311404169,
+    "z": 0.844245911,
+    "unit": "m"
+  },
+  "triangles": 3336,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/farming/farming-drooping-branched-rice-panicle-plant-01/v1.0.0/model.glb",
+      "size": 217844,
+      "sha256": "fa4743c9f9dbaf68526cdaaf2b526e5097c1728acb28e3a98e50b6cacb8d910d"
+    },
+    "blend": {
+      "path": "assets/farming/farming-drooping-branched-rice-panicle-plant-01/v1.0.0/source.blend",
+      "size": 922080,
+      "sha256": "e762df2f78a641a556930508427341adcb0de6197d6fef4c5867fe878120f14f"
+    },
+    "generator": {
+      "path": "assets/farming/farming-drooping-branched-rice-panicle-plant-01/v1.0.0/generate.py",
+      "size": 29551,
+      "sha256": "f4aacffb88534ec9dc7a9dcd8c19baa175889117a117fe18f7d2ceea7475b86c"
+    },
+    "render": {
+      "path": "assets/farming/farming-drooping-branched-rice-panicle-plant-01/v1.0.0/thumbnail.png",
+      "size": 488811,
+      "sha256": "f252f782ba0979f6f48bc4e7b739702c80ba40f9b93cdb446af363564b98d7bb"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
