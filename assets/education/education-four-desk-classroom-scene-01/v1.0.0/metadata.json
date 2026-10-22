@@ -1,0 +1,42 @@
+{
+  "id": "education-four-desk-classroom-scene-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "education",
+  "style": "source-preserved-low-poly",
+  "title": "Four-Desk Classroom",
+  "description": "One static classroom scene for the original education classroom program. Four complete existing pencil-channel bookwell desks in two rows and two columns are paired with four complete existing dining chairs turned exactly 180 degrees to face the teaching end. A whole two-foot blackboard and a whole open-rear teacher lectern remain complete at the rear teaching area. Four unique existing models, ten whole instances, original unit scale, untouched raw GLB attribute buffers and internal hierarchies/PBR. Only a connected scene-only floor and short cutaway walls are new. Central aisle, rear entry cross-strip, side spaces and teaching strip are conservatively empty and connected; all original finite ground soles remain on the floor. This is a multi-seat classroom layout, not the old single abacus table corner with a new label. One scene, zero new independent models. No educational performance, child age suitability, ergonomics, accessibility, seating capacity, load, safety, construction standard, writing, folding, opening or other functional claim.",
+  "bounds": {
+    "x": 4.800000190734863,
+    "y": 5.599999904632568,
+    "z": 2.4000000953674316,
+    "unit": "m"
+  },
+  "triangles": 4080,
+  "materials": 39,
+  "files": {
+    "glb": {
+      "path": "assets/education/education-four-desk-classroom-scene-01/v1.0.0/model.glb",
+      "size": 304212,
+      "sha256": "935b4dd180863cc999eab97c5f173115971ea896e8beeb3a6f653b405032906e"
+    },
+    "blend": {
+      "path": "assets/education/education-four-desk-classroom-scene-01/v1.0.0/source.blend",
+      "size": 170587,
+      "sha256": "6222415fea0e51f74b8a764ce8825ff94f1a0913ae73e4f56354955dca936062"
+    },
+    "generator": {
+      "path": "assets/education/education-four-desk-classroom-scene-01/v1.0.0/generate.py",
+      "size": 75688,
+      "sha256": "869074e1987a27c540ab67c3dae951ec19adf2ae2a1ff415233664e52c2c21d1"
+    },
+    "render": {
+      "path": "assets/education/education-four-desk-classroom-scene-01/v1.0.0/thumbnail.png",
+      "size": 534027,
+      "sha256": "c6baa0e025ca7a5a13a74bcf8b68dfb375261d7a870d0f0c8bab9fe6d7468ed9"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

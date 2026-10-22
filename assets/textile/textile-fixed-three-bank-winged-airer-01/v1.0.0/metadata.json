@@ -1,0 +1,42 @@
+{
+  "id": "textile-fixed-three-bank-winged-airer-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "textile",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Three-Bank Winged Cloth Airer",
+  "description": "One original complete empty fixed cloth-airing rack. Two continuous thick profile side rails define one horizontal central bar bank and two raised inclined wing banks. Twenty independent transverse bars have real open intervals and finite end seats on those profile rails, including exact profile bends. Two upper bearing crossbraces carry the bed on four thick diagonal leg bars arranged in two offset X pairs, with two complete flat grounded skids. The crossing ties are intentionally embedded fixed pieces, not free rotating pins or bored joints. Thirty-two closed editable meshes, three opaque constant PBR materials; metres, Z up, front -Y, grounded horizontal-bounds centre. Newly dimensioned three-bank bar bed and fixed crossed support layout, not a sagged clothesline recolour, a one-beam draped net rack with its holes filled, stacked artwork trays, or a four-solid-panel folding table. No cloth, dye, ropes, clips, folding motion, load/drying efficiency, fabric suitability, human fit, stability, manufacture or safety certification. Structural supports below the bar bed may occlude some downward views; no all-assembly through-volume claim.",
+  "bounds": {
+    "x": 2.240000009536743,
+    "y": 0.8999999761581421,
+    "z": 1.2419999837875366,
+    "unit": "m"
+  },
+  "triangles": 472,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/textile/textile-fixed-three-bank-winged-airer-01/v1.0.0/model.glb",
+      "size": 46480,
+      "sha256": "15405713aed1061286d232da6dda54801b59e137ee7369bac44e026b6e56f2d9"
+    },
+    "blend": {
+      "path": "assets/textile/textile-fixed-three-bank-winged-airer-01/v1.0.0/source.blend",
+      "size": 679384,
+      "sha256": "a0af8f4ba5ccef0c67b33c6556a2c537e31413660487517ff45848499df3d14a"
+    },
+    "generator": {
+      "path": "assets/textile/textile-fixed-three-bank-winged-airer-01/v1.0.0/generate.py",
+      "size": 20167,
+      "sha256": "037db410f78ebbdb1a2a27c572fae075bea9f4cf1e370aa7f5497c79ced9ade1"
+    },
+    "render": {
+      "path": "assets/textile/textile-fixed-three-bank-winged-airer-01/v1.0.0/thumbnail.png",
+      "size": 500219,
+      "sha256": "bf31b7e700fb9724e063b2082c69714c355f262a351231d41274c9f7ab0f2ed0"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

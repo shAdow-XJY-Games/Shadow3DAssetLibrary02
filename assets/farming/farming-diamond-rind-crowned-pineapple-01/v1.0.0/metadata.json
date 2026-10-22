@@ -1,0 +1,42 @@
+{
+  "id": "farming-diamond-rind-crowned-pineapple-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "farming",
+  "style": "warm-handcrafted-village",
+  "title": "Diamond-Rind Crowned Pineapple",
+  "description": "One newly authored whole stylised harvested pineapple appearance: a broad squat-ovoid solid fruit body has genuine raised diamond rind faces sharing all valley edges, not a flat pattern painted on a pear. A solid green crown core supports separate thick pointed folded leaves: a recurving outer whorl and narrower rising inner whorl. All body/crown geometry newly authored, not extracted cabbage leaves, extra garlic cloves or recolored cactus pads. Metres Z up, true whole XY bounds-centred, small fruit-bottom sole at Z0; opaque PBR, no textures or alpha cards. One static crop prop with no display stand, scenery or cut section. No botanical precision, exact eye/leaf counts for cultivar, growth/yield, food handling, cultivation, medicinal, engineering or stability claims.",
+  "bounds": {
+    "x": 0.480657607,
+    "y": 0.41742,
+    "z": 0.790179133,
+    "unit": "m"
+  },
+  "triangles": 1496,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/farming/farming-diamond-rind-crowned-pineapple-01/v1.0.0/model.glb",
+      "size": 103996,
+      "sha256": "0cfbe74d5e9d6dc9b2613eaa25d0857101bdbdc2f95ed80353749c112f8c56b0"
+    },
+    "blend": {
+      "path": "assets/farming/farming-diamond-rind-crowned-pineapple-01/v1.0.0/source.blend",
+      "size": 625180,
+      "sha256": "25819c2776c120b7a8bf666457a9c0b52a466a20f6f3fd7690f4889fe4f999f5"
+    },
+    "generator": {
+      "path": "assets/farming/farming-diamond-rind-crowned-pineapple-01/v1.0.0/generate.py",
+      "size": 27383,
+      "sha256": "11cd7f588609ecbea2a1ab7de596a72f32b01e83a60369780ac9f718fe3dd5b1"
+    },
+    "render": {
+      "path": "assets/farming/farming-diamond-rind-crowned-pineapple-01/v1.0.0/thumbnail.png",
+      "size": 519987,
+      "sha256": "6dc666959bf3d4aebd8298f344d080eda19cdb043ffc1de0facbe9936fbfa2e7"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
