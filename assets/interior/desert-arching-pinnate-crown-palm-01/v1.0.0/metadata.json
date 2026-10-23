@@ -1,0 +1,42 @@
+{
+  "id": "desert-arching-pinnate-crown-palm-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "desert",
+  "style": "source-preserved-low-poly",
+  "title": "Arching Pinnate-Crown Desert Palm",
+  "description": "One original static pinnate-crown desert palm. A gently bent tapering trunk has integral shallow ring-scar bands and a compact swollen terminal crown. Eight unequal long arching fronds spread and droop from the crown; each has a whole curved rachis with fourteen separate narrow folded pinnae and a terminal blade. The open gaps run along the full leaf axes rather than forming the radial clefts of a fused fan palm. All numeric trunk and leaf paths are newly authored; no old fern, palm mesh or external plant is imported or scaled. One complete tree, not a color, leaf-count or size variant. Static stylized vegetation only, no species-accuracy, fruit, growth, wind animation, rooting mechanics or stability claim.",
+  "bounds": {
+    "x": 4.752420902252197,
+    "y": 4.374298095703125,
+    "z": 4.661126613616943,
+    "unit": "m"
+  },
+  "triangles": 4476,
+  "materials": 5,
+  "files": {
+    "glb": {
+      "path": "assets/interior/desert-arching-pinnate-crown-palm-01/v1.0.0/model.glb",
+      "size": 560056,
+      "sha256": "e211602ad77eb571607ef09243719fc13f6f68336e7a87c3de17ac42ba933091"
+    },
+    "blend": {
+      "path": "assets/interior/desert-arching-pinnate-crown-palm-01/v1.0.0/source.blend",
+      "size": 1690064,
+      "sha256": "b5135566e5546f1201a932bc8817520a48b41a2ba2daee39dad8b7e3ab6f2bfe"
+    },
+    "generator": {
+      "path": "assets/interior/desert-arching-pinnate-crown-palm-01/v1.0.0/generate.py",
+      "size": 14984,
+      "sha256": "1fe785399fa01b958d7ee27ff03ec586b3848638ce8db175efdd3c2c735837f8"
+    },
+    "render": {
+      "path": "assets/interior/desert-arching-pinnate-crown-palm-01/v1.0.0/thumbnail.png",
+      "size": 538932,
+      "sha256": "6f427e1935683dcdd6f300c78e217e212967585fac2da8f090776c84961ac6d6"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
