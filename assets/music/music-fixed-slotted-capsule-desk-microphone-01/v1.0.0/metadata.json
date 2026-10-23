@@ -1,0 +1,42 @@
+{
+  "id": "music-fixed-slotted-capsule-desk-microphone-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "music",
+  "style": "source-preserved-low-poly",
+  "title": "Slotted-Capsule Gooseneck Desk Microphone",
+  "description": "One complete original fixed desktop microphone: low chamfered base and single button, a continuous curved neck, complete lower capsule socket and recessed pickup body beneath a continuous eight-slot metal cage with rounded cap. Real longitudinal air gaps, not a striped solid head or a resized task lamp. All pieces count together as one prop. Static appearance only; no audio pickup, electrical wiring, amplification, mute action, neck adjustment, stability or safety claim.",
+  "bounds": {
+    "x": 0.17000000178813934,
+    "y": 0.22609545290470123,
+    "z": 0.4370954632759094,
+    "unit": "m"
+  },
+  "triangles": 1136,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/music/music-fixed-slotted-capsule-desk-microphone-01/v1.0.0/model.glb",
+      "size": 102140,
+      "sha256": "9d82fa8c8c0e69b40ab50b5c4b44943bcfd5168fc1747f3b03bc69ceb721f71e"
+    },
+    "blend": {
+      "path": "assets/music/music-fixed-slotted-capsule-desk-microphone-01/v1.0.0/source.blend",
+      "size": 720736,
+      "sha256": "b2cc028ea30dcba183dc425571c335056a32a5426a2be2cf26923ffec24da651"
+    },
+    "generator": {
+      "path": "assets/music/music-fixed-slotted-capsule-desk-microphone-01/v1.0.0/generate.py",
+      "size": 14573,
+      "sha256": "3f093d7520e9246cffaa86d7abb5e79b37d331488183c58ac77e63a3e9486b39"
+    },
+    "render": {
+      "path": "assets/music/music-fixed-slotted-capsule-desk-microphone-01/v1.0.0/thumbnail.png",
+      "size": 433907,
+      "sha256": "518b78060073e03543c4c9bf62c1fb533884775c9d80dfe642a2ac8e1b6ba1d7"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
