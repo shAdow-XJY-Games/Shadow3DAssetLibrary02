@@ -1,0 +1,42 @@
+{
+  "id": "village-fixed-open-cellar-bulkhead-stair-entry-01",
+  "version": "1.0.0",
+  "category": "architecture",
+  "assetKind": "modular",
+  "theme": "village",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Open Cellar Bulkhead Stair Entry",
+  "description": "One newly authored complete static village cellar-entry architectural module. Two full thick sloping side walls surround a whole descending six-riser stair with upper exterior access edge and lower landing. A complete rear lintel leaves a genuine low-level through exit. Two full thick timber hatch leaves are fixed open outward about inclined side axes following the top rim, with fixed iron bearing appearances and full pulls. The module expresses a ground-height transition and inclined hatch enclosure around a descending route, not a changed step count, the old freestanding return stair, a vertical split door, or an upright airlock recolour. All numeric geometry is new. Three constant opaque PBR roles, native metres, horizontal bounds-centred lowest foundation datumZ0; the front exterior access level isZ1.12m and lower landingZ.16m. Exposed outside sidewalls are intentional: no surrounding earth, host house, basement room, invisible cutaway, copied components, animation or extra pose. One modular asset and zero scenes. Static appearance only; no human clearance, navigation, moving hatch or collision sweep, old-module dimensional fit, water exclusion, drainage, excavation, structural load, real cellar construction or safety claim.",
+  "bounds": {
+    "x": 1.9154509950136065,
+    "y": 2.9392475239692315,
+    "z": 2.7791530694041553,
+    "unit": "m"
+  },
+  "triangles": 408,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/village/village-fixed-open-cellar-bulkhead-stair-entry-01/v1.0.0/model.glb",
+      "size": 28964,
+      "sha256": "5a55170f447a1b956de5ba42fdbcc5c9f17831a51d63032d4268799bf88d6bf9"
+    },
+    "blend": {
+      "path": "assets/village/village-fixed-open-cellar-bulkhead-stair-entry-01/v1.0.0/source.blend",
+      "size": 594460,
+      "sha256": "0827ba6e083301dd8aa2583e10ffea5287ea3a79a328422610130097309e06ed"
+    },
+    "generator": {
+      "path": "assets/village/village-fixed-open-cellar-bulkhead-stair-entry-01/v1.0.0/generate.py",
+      "size": 11395,
+      "sha256": "f2b6fb7fe5b019dbae5c8aeff66533111e130d9b2b4c9c87e4ebb7fe63345c5c"
+    },
+    "render": {
+      "path": "assets/village/village-fixed-open-cellar-bulkhead-stair-entry-01/v1.0.0/thumbnail.png",
+      "size": 529255,
+      "sha256": "f26b9bb902f5e2977712a3e40a647e87435ac76579ed320d863bca511bbc3974"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
