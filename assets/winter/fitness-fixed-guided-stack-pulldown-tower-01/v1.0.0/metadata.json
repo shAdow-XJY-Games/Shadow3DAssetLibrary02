@@ -1,0 +1,42 @@
+{
+  "id": "fitness-fixed-guided-stack-pulldown-tower-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "fitness",
+  "style": "source-preserved-low-poly",
+  "title": "Fixed Guided-Stack Pulldown Tower",
+  "description": "One original complete static guided-stack pulldown tower appearance. Broad grounded two-foot chassis and tall portal carry two long guide rods, one complete grooved fixed weight cassette with four true bored guide sleeves, two complete upper pulley discs in fixed forks, one continuous cable following the top route and an empty transverse bar with two grips. All original geometry newly authored as one complete model, zero scenes; no old bench, barbell plate or jib hoist mesh imported. Static visual only, not an operational exercise design: no sliding, cable tension, force transmission, resistance, weight, body fit, exercise suitability, load, manufacture or safety claim.",
+  "bounds": {
+    "x": 0.8199999928474426,
+    "y": 1.2400000095367432,
+    "z": 2.180000066757202,
+    "unit": "m"
+  },
+  "triangles": 1428,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/winter/fitness-fixed-guided-stack-pulldown-tower-01/v1.0.0/model.glb",
+      "size": 141300,
+      "sha256": "ad3320bed0b5ca67bb5a054dde75e7627bb233e0686b431955093519eabdb5d8"
+    },
+    "blend": {
+      "path": "assets/winter/fitness-fixed-guided-stack-pulldown-tower-01/v1.0.0/source.blend",
+      "size": 861632,
+      "sha256": "477ab98b1ee6b1d96ca7b717d1ea58bccea65787b48c58f472f6cb89b3d40641"
+    },
+    "generator": {
+      "path": "assets/winter/fitness-fixed-guided-stack-pulldown-tower-01/v1.0.0/generate.py",
+      "size": 15797,
+      "sha256": "f8618e75b62593a2c19adfc7cf710a58a0370dff145a557dda1ef39f44d8dfc0"
+    },
+    "render": {
+      "path": "assets/winter/fitness-fixed-guided-stack-pulldown-tower-01/v1.0.0/thumbnail.png",
+      "size": 487325,
+      "sha256": "1ce41b185128be05bb267069cb245c2c01bbdc6a415bdb7025892180730b9096"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

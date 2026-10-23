@@ -1,0 +1,42 @@
+{
+  "id": "animal-static-upright-short-neck-penguin-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "animal",
+  "style": "S01-clean-geometric",
+  "title": "Static Upright Short-Neck Penguin",
+  "description": "One newly authored stylised upright penguin-inspired animal exterior. A full thick upright pear-shaped torso, short neck and rounded head form one continuous closed shared-vertex surface. A short broad blunt bill, two long flattened downward-swept flippers, two broad thick web-shaped ground feet with shallow front toe scallops, two small lateral eyes and a short rear tapered tail complete the fixed whole silhouette. The warm pale belly is an integral face-material region of the same torso, not an overlapping shell. Whole body stations, flipper trajectories, bill, feet and tail are new; not a shortened long-legged wading bird, upright old seal or recoloured toy bear. Generic mesh construction and mature export/render tools only are reused. Nine closed editable meshes, four opaque constant matte PBR roles, no textures, fur, feathers or scene. Metres, native Z up, head/front -Y, actual complete horizontal-bounds-centred ground origin, two full finite foot soles. One whole model and zero scenes or separately counted parts. Artistic fixed exterior only: no exact species or biological/anatomical fidelity, swimming, flight, gait, motion, rig, animal care, stability, fit, physical or ecological performance claim.",
+  "bounds": {
+    "x": 1.104,
+    "y": 0.885,
+    "z": 1.54,
+    "unit": "m"
+  },
+  "triangles": 788,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/animal/animal-static-upright-short-neck-penguin-01/v1.0.0/model.glb",
+      "size": 57476,
+      "sha256": "53876497748be033034004efb03b989c0dae5d75c0625da92b5da8fc1e83e811"
+    },
+    "blend": {
+      "path": "assets/animal/animal-static-upright-short-neck-penguin-01/v1.0.0/source.blend",
+      "size": 624432,
+      "sha256": "e8a35eaa83e28b881e73c6391046c677589a574a7b23807ae333b13ba17dfd52"
+    },
+    "generator": {
+      "path": "assets/animal/animal-static-upright-short-neck-penguin-01/v1.0.0/generate.py",
+      "size": 9829,
+      "sha256": "ba0443d72c0168dec6bc0e00114abe7245119b3f2e06d97ad53175721bc58e91"
+    },
+    "render": {
+      "path": "assets/animal/animal-static-upright-short-neck-penguin-01/v1.0.0/thumbnail.png",
+      "size": 386155,
+      "sha256": "c4b2b5f166d799cba3666744510f5e3fea32131fa6ef2adefba1f67d77e8f2cd"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
