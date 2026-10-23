@@ -1,0 +1,42 @@
+{
+  "id": "interior-fixed-pullout-carriage-pantry-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "interior",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Pullout Carriage Pantry",
+  "description": "One newly authored complete narrow pantry cabinet with its one full-height storage carriage fixed partly extended. A continuous thick five-sided open-front shell on a full recessed plinth contains no fixed shelf divisions. One whole front panel, full rear spine, four vertical carriage uprights and two ties carry three entire deep open trays together as a single assembly. Complete top and bottom fixed guide channels and visibly extended runners connect the empty cabinet cavity to this carriage. This differs from the old pantry with fixed upper shelves and lower hinged door, the three independently fronted drawer bays, and a free-wheeled painting trolley; no old geometry is imported or stretched. Three opaque PBR roles, metres and full XY-centred ground origin. One furniture prop, zero scenes or separately counted trays. Fixed visual pose only: no runner travel, ball bearings, drawer action, anti-tip restraint, closing clearance throughout motion, goods capacity, old kitchen fit, load, ergonomics, manufacture or safety certification.",
+  "bounds": {
+    "x": 0.5,
+    "y": 1.413,
+    "z": 1.72,
+    "unit": "m"
+  },
+  "triangles": 360,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/interior/interior-fixed-pullout-carriage-pantry-01/v1.0.0/model.glb",
+      "size": 30436,
+      "sha256": "2698b82974d4fe657b33e3a70c7b3f526b8b7be217d0a371cfe02188bc7bc587"
+    },
+    "blend": {
+      "path": "assets/interior/interior-fixed-pullout-carriage-pantry-01/v1.0.0/source.blend",
+      "size": 638068,
+      "sha256": "248bb43b5fa02839d3866f7d33463ce21da47d0a47c28aae375081e0b8a3f428"
+    },
+    "generator": {
+      "path": "assets/interior/interior-fixed-pullout-carriage-pantry-01/v1.0.0/generate.py",
+      "size": 11387,
+      "sha256": "fe4a8b64252de67f423ac341b2ba0450aa938a59818125d638530e8a74e92a9a"
+    },
+    "render": {
+      "path": "assets/interior/interior-fixed-pullout-carriage-pantry-01/v1.0.0/thumbnail.png",
+      "size": 468245,
+      "sha256": "b80030ea1e813fa4f71e0da9dd6fd52bcf4b9ef9c0fecbc3b964a541dd4ae909"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

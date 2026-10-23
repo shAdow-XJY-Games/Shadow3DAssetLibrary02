@@ -1,0 +1,42 @@
+{
+  "id": "painting-fixed-open-drawer-box-easel-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "painting",
+  "style": "source-preserved-low-poly",
+  "title": "Fixed Open Drawer Box Easel",
+  "description": "One original complete fixed open box easel: shallow whole drawing box with front drawer bay, continuous extended open drawer and proud front pull, three whole splayed legs with finite feet and pivots, raised tilted box lid supporting a complete blank panel on a ledge and upper retainer, and paired fixed lid stays. New box-easel structure rather than old A-frame/H-frame rails or deep travel case. One whole model, zero scenes. Static shown pose only; no sliding, folding, clamping, adjustable height, arbitrary canvas compatibility, load, stability, manufacturing or safety claim.",
+  "bounds": {
+    "x": 0.9300000071525574,
+    "y": 1.0260000228881836,
+    "z": 1.5270942449569702,
+    "unit": "m"
+  },
+  "triangles": 840,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/winter/painting-fixed-open-drawer-box-easel-01/v1.0.0/model.glb",
+      "size": 88072,
+      "sha256": "5ddb47b3aa7c1c1646281b2b746c4af042840d2b7246eef8f7d5016dbb1b12f9"
+    },
+    "blend": {
+      "path": "assets/winter/painting-fixed-open-drawer-box-easel-01/v1.0.0/source.blend",
+      "size": 762848,
+      "sha256": "0e584632c500d8e1354561e278da4082029a3af1d668f5eebde076dccab6730a"
+    },
+    "generator": {
+      "path": "assets/winter/painting-fixed-open-drawer-box-easel-01/v1.0.0/generate.py",
+      "size": 15343,
+      "sha256": "1e9d2792fa152f62b594891e9d2305ed6546b3e3bbc8e0a04f5a8efabda3a37c"
+    },
+    "render": {
+      "path": "assets/winter/painting-fixed-open-drawer-box-easel-01/v1.0.0/thumbnail.png",
+      "size": 498541,
+      "sha256": "bf73d5f0f2cb2c8cba0b1666001e2ed387d886ffe6027df3bafdfd042d89d342"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

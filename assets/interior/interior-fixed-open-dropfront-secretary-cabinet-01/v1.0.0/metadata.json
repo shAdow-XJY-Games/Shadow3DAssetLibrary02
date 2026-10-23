@@ -1,0 +1,42 @@
+{
+  "id": "interior-fixed-open-dropfront-secretary-cabinet-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "interior",
+  "style": "source-preserved-low-poly",
+  "title": "Fixed Open Drop-Front Secretary Cabinet",
+  "description": "One original complete fixed-open drop-front secretary cabinet: a wide forward horizontal writing leaf rests on two projecting under-leaf bearers at the foot of a true slope-front upper storage cavity. Two transverse hinge barrels mark its fixed lower pivot. Thick sloping side cheeks, rear wall, short crown and actual open pigeonholes form the upper bureau; a continuous thick lower case contains a shelf behind two closed front leaves, on four finite feet. All geometry newly authored, not the old fixed-top work cabinet or sloped teacher lectern resized. Four opaque constant PBR materials, no textures. One whole prop, zero scenes. Only the displayed fixed pose: no closing sweep, furniture motion, actual hinge mechanics, load, comfort, ergonomics, manufacture, stability or safety certification.",
+  "bounds": {
+    "x": 0.9700000286102295,
+    "y": 1.0099999904632568,
+    "z": 1.25,
+    "unit": "m"
+  },
+  "triangles": 704,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/interior/interior-fixed-open-dropfront-secretary-cabinet-01/v1.0.0/model.glb",
+      "size": 72824,
+      "sha256": "63023bd723fd71d88a9589e726af952766293cac143ec8dcb15dff44fc325a98"
+    },
+    "blend": {
+      "path": "assets/interior/interior-fixed-open-dropfront-secretary-cabinet-01/v1.0.0/source.blend",
+      "size": 728800,
+      "sha256": "1695c1e810c35a3a4428a772fd8863ef2728dbdce9db057c292de5b10f9f8888"
+    },
+    "generator": {
+      "path": "assets/interior/interior-fixed-open-dropfront-secretary-cabinet-01/v1.0.0/generate.py",
+      "size": 14816,
+      "sha256": "64828a04d2f1b2b5f4b96ded266b7b3f5b2468c6e3c164d5fb6ec5e952a163e9"
+    },
+    "render": {
+      "path": "assets/interior/interior-fixed-open-dropfront-secretary-cabinet-01/v1.0.0/thumbnail.png",
+      "size": 558643,
+      "sha256": "4b25df50d9087cb446519efb07aa567ba8bff3b9cc27e72cd9f133b012147288"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
