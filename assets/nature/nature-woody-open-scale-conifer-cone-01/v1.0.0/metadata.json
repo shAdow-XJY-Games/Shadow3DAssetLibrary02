@@ -1,0 +1,42 @@
+{
+  "id": "nature-woody-open-scale-conifer-cone-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "nature",
+  "style": "warm-handcrafted-village",
+  "title": "Woody Open-Scale Conifer Cone",
+  "description": "One original whole stylised woody conifer seed cone: a small grounded tapered central spindle supports six staggered height zones of complete thick folded woody shield scales, producing a broad lower-middle body and a narrow closed-looking tip. Every scale has finite faces and an embedded root on the whole spindle, not a texture card or floating plate. All spindle sections, scale sweeps, tier profile and individual bearings are newly authored. Not a needle crown removed from an old conifer, a sunflower with more petals or a lotus cup head recoloured. One natural prop, zero scenes; scales and seeds are not counted as assets. Three opaque matte woody PBR roles, no textures. Metres, Z up, true whole horizontal bounds-centred ground origin. Static stylised plant form only: no exact species, scale count biology, seed-release mechanism, moisture-driven motion, growth, ecology, physical stability or real-world use claim.",
+  "bounds": {
+    "x": 0.447688699,
+    "y": 0.447360635,
+    "z": 0.574000001,
+    "unit": "m"
+  },
+  "triangles": 1508,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/nature/nature-woody-open-scale-conifer-cone-01/v1.0.0/model.glb",
+      "size": 120048,
+      "sha256": "66a320f9ef99b59f0d178c6ec55ba13b17cd4059a3ccb8e27855c2a24a8ec48a"
+    },
+    "blend": {
+      "path": "assets/nature/nature-woody-open-scale-conifer-cone-01/v1.0.0/source.blend",
+      "size": 795504,
+      "sha256": "10df62ff6f68266a66f0db83447a64e62a3d5b81837f616bca7097ff3f524cbc"
+    },
+    "generator": {
+      "path": "assets/nature/nature-woody-open-scale-conifer-cone-01/v1.0.0/generate.py",
+      "size": 26268,
+      "sha256": "27b9f54f17d887aaf932aa1ddd19045f47d52078657cc1bb98169771784d1743"
+    },
+    "render": {
+      "path": "assets/nature/nature-woody-open-scale-conifer-cone-01/v1.0.0/thumbnail.png",
+      "size": 561343,
+      "sha256": "ec60112d1f5b83079b47a20944df9f8dbf743e82e74a5684fed8fdf13c8737b1"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

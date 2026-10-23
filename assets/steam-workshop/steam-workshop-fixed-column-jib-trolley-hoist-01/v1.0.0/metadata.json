@@ -1,0 +1,42 @@
+{
+  "id": "steam-workshop-fixed-column-jib-trolley-hoist-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "steam-workshop",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Column Jib and Trolley Hoist",
+  "description": "One newly authored complete static workshop lifting appearance: one broad ground foot, upright column with four tapered base gussets, whole continuous I-section cantilever beam and upper diagonal tie. A fixed trolley has two full cheek plates, lower bridge and four shoulder wheels on individual side stub axles, not a shaft crossing the beam web. Below it one chamfered hoist enclosure with side covers carries a single straight fixed suspension segment and thick continuous open J-hook. Real beam recesses and hook throat are modelled, no old block, winch or mine headframe mesh imported. Separate closed editable bodies with intentionally embedded fixed joins, three opaque constant PBR materials, metres, native Z up and horizontally bounds-centred ground origin. One model, zero scene. No travel, rotation, cable simulation, chain mechanism, lifting, load, balance, stability, installation, manufacture or equipment safety claim; an illustrative frozen empty pose only.",
+  "bounds": {
+    "x": 3.2750000000000004,
+    "y": 1.05,
+    "z": 3.13,
+    "unit": "m"
+  },
+  "triangles": 1120,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/steam-workshop/steam-workshop-fixed-column-jib-trolley-hoist-01/v1.0.0/model.glb",
+      "size": 65332,
+      "sha256": "13ae5068f5caa95d3257c6e888a54bded8fa4b8f02869105cf60965de4a35229"
+    },
+    "blend": {
+      "path": "assets/steam-workshop/steam-workshop-fixed-column-jib-trolley-hoist-01/v1.0.0/source.blend",
+      "size": 697588,
+      "sha256": "81d6a5b4d6d4d518b6a3aaf924e813cc2aad7123f66ab5c162593317e2326ed1"
+    },
+    "generator": {
+      "path": "assets/steam-workshop/steam-workshop-fixed-column-jib-trolley-hoist-01/v1.0.0/generate.py",
+      "size": 11488,
+      "sha256": "402fb625170617ccf743f88c90b75024f4e4fdb976d5e6ff177e1f9ee8fc5c17"
+    },
+    "render": {
+      "path": "assets/steam-workshop/steam-workshop-fixed-column-jib-trolley-hoist-01/v1.0.0/thumbnail.png",
+      "size": 422561,
+      "sha256": "aab28c3b179e4ec9e5efcb55671f85c9f06846c3b598dbd06db19614add9bfed"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

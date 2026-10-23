@@ -1,0 +1,42 @@
+{
+  "id": "interior-splayed-ladder-bookcase-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "interior",
+  "style": "source-preserved-low-poly",
+  "title": "Splayed Ladder Bookcase",
+  "description": "One original complete freestanding splayed ladder bookcase. Two continuous thick A-shaped side cheeks each enclose a genuine large tapered through-opening; four complete shallow three-sided shelf trays narrow in depth as they rise between the sloping supports. The shelves remain horizontal, with open fronts and finite raised rear/side retainers. Original whole support geometry, not a straight backed bookcase resized or an old four-upright cooling/nursery rack with more shelves. Empty static furniture only; no included books, load rating, climbability, stability, anti-tip, ergonomic or installation guarantee.",
+  "bounds": {
+    "x": 0.8999999761581421,
+    "y": 0.699999988079071,
+    "z": 1.600000023841858,
+    "unit": "m"
+  },
+  "triangles": 336,
+  "materials": 2,
+  "files": {
+    "glb": {
+      "path": "assets/interior/interior-splayed-ladder-bookcase-01/v1.0.0/model.glb",
+      "size": 32660,
+      "sha256": "7ae5e9c33c936ffb7fa949b690dc89ae3529108c6f934819a7bf0b9ba1c92aac"
+    },
+    "blend": {
+      "path": "assets/interior/interior-splayed-ladder-bookcase-01/v1.0.0/source.blend",
+      "size": 575392,
+      "sha256": "04b2ba1415a1081772e1ccc255bdef936fe32f0bd55b1fb38a9c498a4b4e5367"
+    },
+    "generator": {
+      "path": "assets/interior/interior-splayed-ladder-bookcase-01/v1.0.0/generate.py",
+      "size": 12351,
+      "sha256": "7547efa270169d34719ea03d0a9aa895256ce4be6f50d43709b6bd685f1ce2c4"
+    },
+    "render": {
+      "path": "assets/interior/interior-splayed-ladder-bookcase-01/v1.0.0/thumbnail.png",
+      "size": 541755,
+      "sha256": "13adc6d4ceb2b1ff951837489170bbf37f11ea6122ad021435097978aa0dc8ad"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
