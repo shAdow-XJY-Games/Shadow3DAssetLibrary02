@@ -1,0 +1,42 @@
+{
+  "id": "village-enclosed-open-court-dwelling-shell-01",
+  "version": "1.0.0",
+  "category": "architecture",
+  "assetKind": "prop",
+  "theme": "village",
+  "style": "S01-clean-geometric",
+  "title": "Enclosed Open-Court Dwelling Shell",
+  "description": "One newly authored complete courtyard dwelling shell, counted as one architecture model and zero scenes. A continuous grounded floor carries four exterior walls with true door/window openings, four inward-facing courtyard walls with actual doorways, and four doorway-bearing room partitions. These enclosed perimeter spaces surround a genuinely open-to-sky central courtyard; the front exterior entrance aligns with a real inner doorway leading into the court. One continuous annular hipped roof covers the perimeter rooms while leaving the central sky opening entirely unfilled, with complete inward eaves, outward eaves and a flat enclosed underside. No wall or roof is hidden or removed for the preview. Fourteen closed editable solids and three opaque constant PBR materials; native metres and bounds-centred ground datum. This is not the existing well/tree/fence courtyard scene, not four copies of a cottage, and not a lengthened open-post L corridor. It is an unfurnished static dwelling shell only: no sash/door leaves, glazing, furniture, residents, plumbing, collision/navigation system, real room usability, habitability, climate/weather performance, structural engineering, construction-code compliance, load or safety assurance. Interior parts are present but some are naturally occluded in exterior views.",
+  "bounds": {
+    "x": 7.6,
+    "y": 7.6,
+    "z": 3.8,
+    "unit": "m"
+  },
+  "triangles": 760,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/village/village-enclosed-open-court-dwelling-shell-01/v1.0.0/model.glb",
+      "size": 36788,
+      "sha256": "5506b70dd473e2c5fbb2ce4190b77067c0e4ee98254170b21b6e85fab7007f15"
+    },
+    "blend": {
+      "path": "assets/village/village-enclosed-open-court-dwelling-shell-01/v1.0.0/source.blend",
+      "size": 622544,
+      "sha256": "5bf7e4be3b5d50bd62c1e4f5dc272c8a94d3bce1041191f45450c0d5fd28f817"
+    },
+    "generator": {
+      "path": "assets/village/village-enclosed-open-court-dwelling-shell-01/v1.0.0/generate.py",
+      "size": 11314,
+      "sha256": "ff3610952691b19b010ec999211047b383ecaf368334363cafdb07e6a0e15ef4"
+    },
+    "render": {
+      "path": "assets/village/village-enclosed-open-court-dwelling-shell-01/v1.0.0/thumbnail.png",
+      "size": 587445,
+      "sha256": "00c686d1e32cfcf98ef6fab7fc0c65b4e97262d0198ddfdda414bdfe920f6575"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

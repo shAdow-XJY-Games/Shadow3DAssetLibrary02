@@ -1,0 +1,42 @@
+{
+  "id": "interior-fixed-l-access-sector-shelf-cabinet-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "interior",
+  "style": "source-preserved-low-poly",
+  "title": "Fixed L-Access Sector-Shelf Corner Cabinet",
+  "description": "One complete original fixed L-access corner cabinet. A concave orthogonal cabinet body has two perpendicular open front mouths, complete rear and return walls, an L-shaped countertop and recessed L plinth. Two three-quarter annular sector trays with raised curved rims surround a fixed central post inside the real cavity. The two radial open tray edges face the concave access corner. This is a new whole cabinet layout rather than a diagonal-door cabinet resized or its door deleted. All trays and post are fixed static forms; no rotation, animation, continuous clearance, load rating, old-family fitting, installation or stability claim.",
+  "bounds": {
+    "x": 0.8999999761581421,
+    "y": 0.8999999761581421,
+    "z": 0.8999999761581421,
+    "unit": "m"
+  },
+  "triangles": 828,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/interior/interior-fixed-l-access-sector-shelf-cabinet-01/v1.0.0/model.glb",
+      "size": 74128,
+      "sha256": "38193ef208b739b5fb836b40739f9a51bb600768239031ae178f41d4934bf706"
+    },
+    "blend": {
+      "path": "assets/interior/interior-fixed-l-access-sector-shelf-cabinet-01/v1.0.0/source.blend",
+      "size": 653664,
+      "sha256": "bb9ecce18d7760ca45f0ea3bb0f41fd99e790221a666fdc268cd733a2328cf28"
+    },
+    "generator": {
+      "path": "assets/interior/interior-fixed-l-access-sector-shelf-cabinet-01/v1.0.0/generate.py",
+      "size": 12885,
+      "sha256": "02f99cc69b763d34f063283089a03afb8a721626bfcb4f4af71713aca63f23ae"
+    },
+    "render": {
+      "path": "assets/interior/interior-fixed-l-access-sector-shelf-cabinet-01/v1.0.0/thumbnail.png",
+      "size": 559529,
+      "sha256": "e6356570c198791fb9ca98b4aa4a116b10e8be5f8aad545d0b4409f3f5417c51"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
