@@ -1,0 +1,42 @@
+{
+  "id": "carpentry-fixed-crank-driven-power-hacksaw-display-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "carpentry",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Crank Driven Power Hacksaw Display",
+  "description": "One newly authored whole static crank-driven power-hacksaw appearance. A grounded long machine bed carries a raised empty work table and complete transverse screw vise, a tall rear ram-guide column and two crankshaft bearing pedestals. One continuous thick open-bottom metal bow holds an entire closed straight zigzag-toothed blade; its rear top ram enters a genuine rectangular through guide. An offset front crank pin, separate inclined connecting link and full bow cross-pin connect the visible drive outline; a complete open-spoke rear flywheel shares the supported crankshaft. All machine geometry is new, not an old hand frame saw laid on the old cylinder bench, not a loop blade removed from the compact band saw, and not an extracted accessory counted independently. Three opaque constant PBR materials, editable closed solids, metres, Z up, horizontally bounds-centred ground origin. One prop, zero scenes. Empty fixed illustrative display only: no cutting action, actual reciprocating path, stroke clearance, feed or lift mechanism, power source, force transmission, bearing tolerance, clamping performance, workpiece compatibility, manufacture, load or machinery safety claim.",
+  "bounds": {
+    "x": 2.13,
+    "y": 0.905,
+    "z": 1.31,
+    "unit": "m"
+  },
+  "triangles": 2048,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/carpentry/carpentry-fixed-crank-driven-power-hacksaw-display-01/v1.0.0/model.glb",
+      "size": 109464,
+      "sha256": "8aca57ae3921c680b00d5757e1959b26bf159012e8f4114966e7813fffa9893a"
+    },
+    "blend": {
+      "path": "assets/carpentry/carpentry-fixed-crank-driven-power-hacksaw-display-01/v1.0.0/source.blend",
+      "size": 789168,
+      "sha256": "68b589f5ac7031e90a8f95c1a45abc7cfc56f2faa5248abc7eda8930b73ccc96"
+    },
+    "generator": {
+      "path": "assets/carpentry/carpentry-fixed-crank-driven-power-hacksaw-display-01/v1.0.0/generate.py",
+      "size": 12365,
+      "sha256": "745bb0774daaa15ff212d6dc3ea9515a834f6f2ec0f33670f3cd9fd34b647e78"
+    },
+    "render": {
+      "path": "assets/carpentry/carpentry-fixed-crank-driven-power-hacksaw-display-01/v1.0.0/thumbnail.png",
+      "size": 454435,
+      "sha256": "9e48b113e7a6be2d594f3dcbf8bca7e9c9fef883ff4f6042ba1ff08278e407a8"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
