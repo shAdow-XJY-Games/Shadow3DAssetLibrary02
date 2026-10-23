@@ -1,0 +1,42 @@
+{
+  "id": "interior-fixed-half-raised-double-hung-window-01",
+  "version": "1.0.0",
+  "category": "modular",
+  "assetKind": "modular",
+  "theme": "interior",
+  "style": "source-preserved-low-poly",
+  "title": "Fixed Half-Raised Double-Hung Window",
+  "description": "One original complete fixed half-raised double-hung window module. A continuous thick independent perimeter frame and projecting sill contain two genuine parallel-depth side guide channels. Two separate whole open-centre sash frames with integral centre muntins overlap vertically in different depth planes; the lower front sash is fixed raised, leaving a real broad lower aperture. Each sash contains one thick fully opaque illustrative pane, not transparent glass. Four finite stops carry the displayed frames, and one lower sash lift grip joins two mounts. Newly authored complete window, not an old wall trim or laboratory hood relabelled. Four constant opaque PBR materials, no wall or room, one module and zero scenes. Only the shown fixed pose: no sliding animation or sweep, counterweight mechanism, weather seal, ventilation, egress, host fit, installation, strength, optical or safety claim.",
+  "bounds": {
+    "x": 1.0800000429153442,
+    "y": 0.28999999165534973,
+    "z": 1.5,
+    "unit": "m"
+  },
+  "triangles": 896,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/interior/interior-fixed-half-raised-double-hung-window-01/v1.0.0/model.glb",
+      "size": 83824,
+      "sha256": "fc0c591096fe51b44958885ef6b561e412c4bd071b65a053f1178e7d01acf396"
+    },
+    "blend": {
+      "path": "assets/interior/interior-fixed-half-raised-double-hung-window-01/v1.0.0/source.blend",
+      "size": 712672,
+      "sha256": "e6f4fdbb28041fd42be42fd3643a33bf98a1d05daf558894880091b1fbb2cfe4"
+    },
+    "generator": {
+      "path": "assets/interior/interior-fixed-half-raised-double-hung-window-01/v1.0.0/generate.py",
+      "size": 14318,
+      "sha256": "8e109465cf7b7f04da2f270a34b3e59c75ef3224d13f6aba00fd48ad5cc276df"
+    },
+    "render": {
+      "path": "assets/interior/interior-fixed-half-raised-double-hung-window-01/v1.0.0/thumbnail.png",
+      "size": 506754,
+      "sha256": "f9f13644c4b26d4d0ad2afe65bf261cd72fecf58503164d9c16ecfaafd98abbd"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
