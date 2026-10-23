@@ -1,0 +1,42 @@
+{
+  "id": "carpentry-fixed-treadle-standing-grindstone-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "carpentry",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Treadle Standing Grindstone",
+  "description": "One newly authored complete fixed treadle grindstone appearance: a single large thick annular stone with bevelled edges and a genuine shaft bore stands vertically on a transverse axle between two paired splayed bearing supports. Two long ground runners and low crossmembers form an open timber base. A whole long sloped footboard has a supported rear hinge; a fixed offset crank and a separate full connecting rod join its forward crosspin to the main axle. Two additional rooted uprights carry a complete forward tool-rest plate. No motor, second grinding wheel, small winding spindle, yarn belt, pottery work disk, rear seat, loose tool or operator is included. This is not an old bench grinder enlarged or an old spinning/kick wheel recoloured: all frame, stone profile, treadle placement and connections are newly authored whole geometry. Three solid opaque PBR materials, closed editable parts, metres, Z up, actual whole horizontal bounds centre and grounded runner soles. One complete model, zero scenes. Intentional fixed assembly joins and collars support a single display pose. No rotation, pedal travel, continuous linkage clearance, abrasive action, sharpening or processing performance, force, power, balance, human fit, manufacture, equipment load or safety claim.",
+  "bounds": {
+    "x": 0.935,
+    "y": 1.4,
+    "z": 1.62,
+    "unit": "m"
+  },
+  "triangles": 2116,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/carpentry/carpentry-fixed-treadle-standing-grindstone-01/v1.0.0/model.glb",
+      "size": 109456,
+      "sha256": "a781832fb3b16060bc3855946a8ea518c0bb830a72c0a9844b06179a259c322d"
+    },
+    "blend": {
+      "path": "assets/carpentry/carpentry-fixed-treadle-standing-grindstone-01/v1.0.0/source.blend",
+      "size": 769768,
+      "sha256": "8141427dae628dda4968801d2fd7efd8e2daf8801bb807a5366be94e2eb8706b"
+    },
+    "generator": {
+      "path": "assets/carpentry/carpentry-fixed-treadle-standing-grindstone-01/v1.0.0/generate.py",
+      "size": 11983,
+      "sha256": "ca6dc4781d36d6dcbb936765e40b2b89d35712fc203223243a34995f6a9d3109"
+    },
+    "render": {
+      "path": "assets/carpentry/carpentry-fixed-treadle-standing-grindstone-01/v1.0.0/thumbnail.png",
+      "size": 471038,
+      "sha256": "4ef48bc18b91249c909495399b067a5bcdb419ae2296ff6e63cd4f0583b4bf2a"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

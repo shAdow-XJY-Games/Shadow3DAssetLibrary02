@@ -1,0 +1,42 @@
+{
+  "id": "agriculture-fixed-return-bow-sheep-shears-01",
+  "version": "1.0.0",
+  "category": "modular",
+  "assetKind": "prop",
+  "theme": "agriculture",
+  "style": "warm-handcrafted-village",
+  "title": "Fixed Return-Bow Sheep Shears",
+  "description": "One whole original fixed-open bow-style sheep shears visual prop. One continuous closed metal body passes from one broad leaf-shaped finite blunt blade through a rising narrow upright grip strip, around a large raised rear return bow, and down the opposing upright strip into the second broad blade. Its cross-section changes from low broad blade plates to tall thin band handles and return, with no center pivot, separate jaw attachments or finger-ring handles. Two constant opaque PBR face roles distinguish pale blade faces from dark return/grip band. One editable closed mesh, one prop and zero scenes. No actual spring force, shearing, sharpness, animal use, cutting cycle, ergonomics, manufacture or safety claim; static game-art shape only.",
+  "bounds": {
+    "x": 0.117822878,
+    "y": 0.337205887,
+    "z": 0.025,
+    "unit": "m"
+  },
+  "triangles": 212,
+  "materials": 2,
+  "files": {
+    "glb": {
+      "path": "assets/agriculture/agriculture-fixed-return-bow-sheep-shears-01/v1.0.0/model.glb",
+      "size": 12784,
+      "sha256": "5ced304c1ff52d3fdfb78644b796c49eac4d326add1bc91d5bbde80eea4da2c5"
+    },
+    "blend": {
+      "path": "assets/agriculture/agriculture-fixed-return-bow-sheep-shears-01/v1.0.0/source.blend",
+      "size": 481796,
+      "sha256": "e2fe8b18e23f427cce23e32f228040a5669f56f241ac3f03ee3d49afa58126c7"
+    },
+    "generator": {
+      "path": "assets/agriculture/agriculture-fixed-return-bow-sheep-shears-01/v1.0.0/generate.py",
+      "size": 27484,
+      "sha256": "57bc321aa48557a1b42d0887fe07835de750d92e5428a7f70b1287ee471df19f"
+    },
+    "render": {
+      "path": "assets/agriculture/agriculture-fixed-return-bow-sheep-shears-01/v1.0.0/thumbnail.png",
+      "size": 461802,
+      "sha256": "e77b674d9ecdd05c8581d244eb32387308f8ad39bce5a5391aa21f4df3cb715c"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
