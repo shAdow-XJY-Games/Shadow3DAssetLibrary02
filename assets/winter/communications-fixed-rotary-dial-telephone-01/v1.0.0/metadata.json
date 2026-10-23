@@ -1,0 +1,42 @@
+{
+  "id": "communications-fixed-rotary-dial-telephone-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "communications",
+  "style": "source-preserved-low-poly",
+  "title": "Fixed Rotary-Dial Desk Telephone",
+  "description": "One newly authored whole fixed rotary-dial desk telephone appearance: sloped grounded base, two fork cradles, continuous bulb-ended bridged handset with recessed terminal faces, full pierced ten-hole finger wheel and central blank medallion, fixed finger stop and one complete coiled lead. New complete numeric geometry, not a desktop radio, empty charger or two-cup toy reused. Static game-art only, one model zero scenes; no dialing, signal, electrical circuit, sound, compatibility, manufacture or safety claim.",
+  "bounds": {
+    "x": 0.4194999933242798,
+    "y": 0.2800000011920929,
+    "z": 0.27300000190734863,
+    "unit": "m"
+  },
+  "triangles": 4500,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/winter/communications-fixed-rotary-dial-telephone-01/v1.0.0/model.glb",
+      "size": 389792,
+      "sha256": "90b82f029f5a0e30d70244454bed7370b22c5de4d5a7387fce1cb9ebb515538e"
+    },
+    "blend": {
+      "path": "assets/winter/communications-fixed-rotary-dial-telephone-01/v1.0.0/source.blend",
+      "size": 1130432,
+      "sha256": "195131ce02e470bc820107beee5bb7822fc63548458dd3fae8f5d450b36298d6"
+    },
+    "generator": {
+      "path": "assets/winter/communications-fixed-rotary-dial-telephone-01/v1.0.0/generate.py",
+      "size": 19478,
+      "sha256": "4c3e983622154142b557400430e9d4434ad96cbe212c7d442c372eab3216797f"
+    },
+    "render": {
+      "path": "assets/winter/communications-fixed-rotary-dial-telephone-01/v1.0.0/thumbnail.png",
+      "size": 526416,
+      "sha256": "e75cc6a501c22517ebc0e9150244ac6215c796b02e034af6876ae826edc08d60"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
