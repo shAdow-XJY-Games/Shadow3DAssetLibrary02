@@ -1,0 +1,42 @@
+{
+  "id": "library-fixed-central-shaft-radial-book-tower-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "library",
+  "style": "source-preserved-low-poly",
+  "title": "Fixed Central Shaft Radial Book Tower",
+  "description": "One original complete freestanding central-shaft radial book tower in a fixed display pose. A broad low round base and shoulder support one full central shaft; a genuine through-bored flanged sleeve carries four complete square shelf platforms with actual centre openings. Twelve full radial vertical dividers form three levels of four outward-accessible quadrants rather than a single backed bookcase. The lower three platforms have finite low perimeter retaining lips. All numeric geometry is newly authored, not an old bookcase or tilted caster cart imported, repeated or resized. Three opaque constant PBR roles, no books or room. One furniture prop, zero scenes or extra poses. A fixed rotating-case appearance only: no working rotation, rolling bearing, motion clearance, arbitrary book compatibility, storage capacity, load, stability, manufacture or safety claim.",
+  "bounds": {
+    "x": 0.7400000095367432,
+    "y": 0.7400000095367432,
+    "z": 1.4249999523162842,
+    "unit": "m"
+  },
+  "triangles": 2260,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/library/library-fixed-central-shaft-radial-book-tower-01/v1.0.0/model.glb",
+      "size": 203592,
+      "sha256": "33b6d6ef124affe1be25e129dae13a72af5361f017f8f51c533eb80004df6fcb"
+    },
+    "blend": {
+      "path": "assets/library/library-fixed-central-shaft-radial-book-tower-01/v1.0.0/source.blend",
+      "size": 879904,
+      "sha256": "cadc4c49d16e8300d1bd8a94e43ddef8b2a050e21ec197c7780ec316cd02b52b"
+    },
+    "generator": {
+      "path": "assets/library/library-fixed-central-shaft-radial-book-tower-01/v1.0.0/generate.py",
+      "size": 14201,
+      "sha256": "f2764bee66e4211f168649b37ad7fe1f187156070c7e2bc2c48157e92909a5c8"
+    },
+    "render": {
+      "path": "assets/library/library-fixed-central-shaft-radial-book-tower-01/v1.0.0/thumbnail.png",
+      "size": 556019,
+      "sha256": "0adfbae5e207bd7576e790bee4c80c5c1d57d6aa9feecdf2d4011c2b3184abaf"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
