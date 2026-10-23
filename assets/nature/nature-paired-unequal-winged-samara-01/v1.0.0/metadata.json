@@ -1,0 +1,42 @@
+{
+  "id": "nature-paired-unequal-winged-samara-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "nature",
+  "style": "warm-handcrafted-village",
+  "title": "Paired Unequal Winged Samara",
+  "description": "One original whole stylised paired winged tree fruit. Two unequal complete seed-and-wing bodies join at their narrow basal end and diverge in a V: each plump rounded nucleus continuously narrows into a long finite thin blade that broadens distally and tapers again to a small tip. Kernel and wing share every connecting section within one closed mesh; no separate leaf, old bean, aircraft part or texture card is attached. Both genuine thick nuclei have small ground soles, while the blades gently lift and fold. Three opaque matte dry-plant PBR roles with no textures. Two meshes form one prop, zero scenes or extra seed/wing assets. Metres, Z up, actual horizontal bounds-centred. Static stylised samara-like appearance only, no exact tree species, botanical identification, flight/aerodynamics, seed dispersal, growth, germination, ecology or real-world use claim.",
+  "bounds": {
+    "x": 0.11522679,
+    "y": 0.04820222,
+    "z": 0.0164,
+    "unit": "m"
+  },
+  "triangles": 280,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/nature/nature-paired-unequal-winged-samara-01/v1.0.0/model.glb",
+      "size": 19804,
+      "sha256": "ae70e243e0bff7795c9c42a541421de57a6743d3f6bb786ffa71f2e5558f4e86"
+    },
+    "blend": {
+      "path": "assets/nature/nature-paired-unequal-winged-samara-01/v1.0.0/source.blend",
+      "size": 512224,
+      "sha256": "44bc1762c1899a50de378249c472fd4b7d608d48d1022cf9512ed632cbf9805a"
+    },
+    "generator": {
+      "path": "assets/nature/nature-paired-unequal-winged-samara-01/v1.0.0/generate.py",
+      "size": 26126,
+      "sha256": "0e1f5d67b22600b282fef4a688669669d83dd1173b5f9a80947de2c98071e019"
+    },
+    "render": {
+      "path": "assets/nature/nature-paired-unequal-winged-samara-01/v1.0.0/thumbnail.png",
+      "size": 462586,
+      "sha256": "2a586d0fe326fad4f49ef2cf20597c4d16b809c3e01aadab3b76bb6aeb75cc11"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
