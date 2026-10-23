@@ -1,0 +1,42 @@
+{
+  "id": "cave-mine-fixed-open-feed-twin-roll-crusher-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "cave-mine",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Open-Feed Twin-Roll Crusher",
+  "description": "One original complete static ore-processing machine appearance with a broad open feed hopper, two transverse solid rolls opposed across a real narrow central gap, and a separate open tapered discharge funnel below. Each whole roll has integral stepped shoulders and two solid journals seated in four actual bored bearing bodies. Two grounded inverted-U end frames carry the bearings, four short hopper stanchions and the discharge flange. Fourteen closed editable meshes and four opaque constant untextured PBR materials. The whole upper-feed / opposed-roll nip / lower-outlet arrangement is the structural distinction: not just two cylinders, old corrugated V jaws made round, more vertical stamps, or a twin-helical robot with its body removed. No imported old geometry, hopper payload, motor, gear train, guards, belt, particles or separately counted parts. One whole prop, no scene. Metres, native Z up, front -Y, complete horizontal bounds centred and actual four foot soles at Z0. Static art only: no working rotation, synchronization, crushing, material feed, product size, throughput, machinery compatibility, maintenance access, manufacture, installation, structural loading, workplace protection or safety claim. Visible exposed fixed parts are not a safe real-machine design or instructions.",
+  "bounds": {
+    "x": 1.72,
+    "y": 1.24,
+    "z": 1.65,
+    "unit": "m"
+  },
+  "triangles": 1520,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/cave-mine/cave-mine-fixed-open-feed-twin-roll-crusher-01/v1.0.0/model.glb",
+      "size": 69412,
+      "sha256": "5f051c4f27b32efc7e80a39796fcfa1b2fa55c7613eb8405e23cf9dcad83ad68"
+    },
+    "blend": {
+      "path": "assets/cave-mine/cave-mine-fixed-open-feed-twin-roll-crusher-01/v1.0.0/source.blend",
+      "size": 670112,
+      "sha256": "4a99ff9cd5ceed2e81fa4341e821f9c52c9df9f79addd34ddc1784162fb0b727"
+    },
+    "generator": {
+      "path": "assets/cave-mine/cave-mine-fixed-open-feed-twin-roll-crusher-01/v1.0.0/generate.py",
+      "size": 23881,
+      "sha256": "d150fcbd00050c3cd01cd2d81d4d16c8f1bbd42d51d6a7633cf8225b4c5683f0"
+    },
+    "render": {
+      "path": "assets/cave-mine/cave-mine-fixed-open-feed-twin-roll-crusher-01/v1.0.0/thumbnail.png",
+      "size": 588626,
+      "sha256": "aaee4789beafd51fbbf1c90f702c28e3f1798a36383f46ab499298c8d7fa7ca5"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
