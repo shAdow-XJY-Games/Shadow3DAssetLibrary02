@@ -1,0 +1,42 @@
+{
+  "id": "public-fixed-pedal-and-raised-lid-waste-bin-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "public",
+  "style": "source-preserved-low-poly",
+  "title": "Fixed Pedal and Raised Lid Waste Bin",
+  "description": "One original complete static foot-pedal waste-bin appearance in a fixed open-lid pose. A single continuous thick tapered cylindrical shell has a real deep open interior and complete inner floor, supported above ground on four finite short feet. One whole circular cap is raised about a rear horizontal hinge with full support ears; a front tread pad joins one complete below-bin lever and pivot, and one continuous rear rod reaches a fixed lid ear. All geometry newly authored rather than an extracted liner from the three-stream collection station or an attached-lid tote repainted. Three opaque constant PBR materials. One prop, zero scenes or additional poses; empty and unmarked. No actual pedal motion, hinge travel, rod mechanism validation, closure seal, waste category, sanitation, capacity, load, manufacture or safety certification.",
+  "bounds": {
+    "x": 0.5,
+    "y": 0.6368337273597717,
+    "z": 1.0449615716934204,
+    "unit": "m"
+  },
+  "triangles": 1184,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/public/public-fixed-pedal-and-raised-lid-waste-bin-01/v1.0.0/model.glb",
+      "size": 111136,
+      "sha256": "f1593c4c520ef060943fc46aac3dd3c813d99f4c31dd624df0fd634e02559bd6"
+    },
+    "blend": {
+      "path": "assets/public/public-fixed-pedal-and-raised-lid-waste-bin-01/v1.0.0/source.blend",
+      "size": 740576,
+      "sha256": "3e6172b406fc28cdf8a261f88b8e32c87cf263c59ca2a3a3703ab7f150742f6a"
+    },
+    "generator": {
+      "path": "assets/public/public-fixed-pedal-and-raised-lid-waste-bin-01/v1.0.0/generate.py",
+      "size": 14320,
+      "sha256": "c94fb5e5c94ad387d908311be7ae998d556f97dfbdab08ad5356e50f589fc765"
+    },
+    "render": {
+      "path": "assets/public/public-fixed-pedal-and-raised-lid-waste-bin-01/v1.0.0/thumbnail.png",
+      "size": 482516,
+      "sha256": "12f2bd5f9c1e2824a358ae1488ff1d81946f9ed397cf162ee8e2dca666a21e4a"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

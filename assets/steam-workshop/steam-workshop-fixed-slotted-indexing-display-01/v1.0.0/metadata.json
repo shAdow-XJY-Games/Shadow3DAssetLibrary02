@@ -1,0 +1,42 @@
+{
+  "id": "steam-workshop-fixed-slotted-indexing-display-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "steam-workshop",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Slotted Indexing Display",
+  "description": "One new complete fixed slotted-indexing layout display. A single thick four-arm wheel contains four genuine open-ended parallel-sided radial slots and continuous concave inter-arm locking bays. A separate offset rear driver disc carries one whole fixed projecting peg into the right-hand slot. Its interrupted annular locking shoulder is on the opposite side, clear in this frozen pin-entry pose. Two complete parallel shafts, four bored bearing pedestals and one grounded bed support the apparatus. All numeric geometry newly authored: not old spur gears with fewer teeth, a planetary carrier rearrangement or a vertical cam/tappet stamp machine. The wheel centre is solid and fixed into its hub rather than claimed an open through-bore. Three opaque constant PBR roles, closed editable components, metres, Z up and whole horizontal ground-centred datum. One static prop, zero scenes. Peg clearances and lock-sector placement show this pose only; no completed indexing trajectory, dwell law, Geneva kinematic accuracy, continuous engagement, drive, rotation, transmission ratio, torque, manufacture, loading or machinery safety claim.",
+  "bounds": {
+    "x": 1.9,
+    "y": 1.0,
+    "z": 1.31,
+    "unit": "m"
+  },
+  "triangles": 2168,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/steam-workshop/steam-workshop-fixed-slotted-indexing-display-01/v1.0.0/model.glb",
+      "size": 102852,
+      "sha256": "e1a7fe40a13c9bb6fd4dd99c08e35a4a0f410c23941089d37ed202a530c346d6"
+    },
+    "blend": {
+      "path": "assets/steam-workshop/steam-workshop-fixed-slotted-indexing-display-01/v1.0.0/source.blend",
+      "size": 726348,
+      "sha256": "2b847b74ff9cf9c9c153b7c101904f533c6bd1c49e89f5ee5b6aa0ecbc276bc6"
+    },
+    "generator": {
+      "path": "assets/steam-workshop/steam-workshop-fixed-slotted-indexing-display-01/v1.0.0/generate.py",
+      "size": 11228,
+      "sha256": "6d17e67087649e279dceb2774bdfff0eaf5574c017d0f778239b091ac05de891"
+    },
+    "render": {
+      "path": "assets/steam-workshop/steam-workshop-fixed-slotted-indexing-display-01/v1.0.0/thumbnail.png",
+      "size": 405566,
+      "sha256": "3fc233030ae77a8fa3d9ea3406ce6ac82699c612772bf208a745c191b98338ae"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
