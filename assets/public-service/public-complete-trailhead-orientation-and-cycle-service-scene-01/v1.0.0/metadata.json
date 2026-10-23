@@ -1,0 +1,42 @@
+{
+  "id": "public-complete-trailhead-orientation-and-cycle-service-scene-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "public-service",
+  "style": "warm-handcrafted-village",
+  "title": "Whole Trailhead Orientation and Cycle-service Court",
+  "description": "One static park-trailhead service composition: the complete old noticeboard occupies the left rear reading strip, a whole old drinking station is separated at the left front, and the whole old repair stand plus unchanged city bicycle occupy the right service strip. The bicycle keeps the original stand-author documented relative translation (.50,-.195,.55) with no scale or rotation; its finite opposed clamp/tube faces are measured on actual triangles instead of inventing a floating support. Three whole ground bases sit on one flat scene-only paving slab; the bicycle remains supported by the complete old clamp in its fixed elevated pose. An open central approach separates service and reading/refill zones. Four complete old instances and original per-face opaque PBR, normal recomputation and explicit float32 coordinate storage after rigid translation. One scene and zero new independent models, not an empty rack parking corner or fountain/bench rest plaza. No readable map content, moving repair mechanism, real maintenance procedure, water, hydraulic function, reach, load, accessibility, public safety or full navigation-space guarantee.",
+  "bounds": {
+    "x": 5.5,
+    "y": 3.799999952,
+    "z": 1.994999886,
+    "unit": "m"
+  },
+  "triangles": 4268,
+  "materials": 15,
+  "files": {
+    "glb": {
+      "path": "assets/public-service/public-complete-trailhead-orientation-and-cycle-service-scene-01/v1.0.0/model.glb",
+      "size": 271112,
+      "sha256": "f47fde6e262c69758c4ca0ff65369d0178b0484673687a0ba85cb9c6fcbf7504"
+    },
+    "blend": {
+      "path": "assets/public-service/public-complete-trailhead-orientation-and-cycle-service-scene-01/v1.0.0/source.blend",
+      "size": 1419868,
+      "sha256": "716102ea4e343965b9a27ceae7796d3da861eed97653eff16feff0cb6fb80a36"
+    },
+    "generator": {
+      "path": "assets/public-service/public-complete-trailhead-orientation-and-cycle-service-scene-01/v1.0.0/generate.py",
+      "size": 98755,
+      "sha256": "b4bbddd88cab3475cf9defe541c26e9b8a41cb873f05928f50541d24166b9f33"
+    },
+    "render": {
+      "path": "assets/public-service/public-complete-trailhead-orientation-and-cycle-service-scene-01/v1.0.0/thumbnail.png",
+      "size": 520558,
+      "sha256": "96e9d9dbb4765feb86d9ec597737ed827ff691e5070bbf85bb1b20d7f2f8857e"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
