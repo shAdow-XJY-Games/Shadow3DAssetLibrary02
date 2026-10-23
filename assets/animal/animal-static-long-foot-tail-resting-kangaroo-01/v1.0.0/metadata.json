@@ -1,0 +1,42 @@
+{
+  "id": "animal-static-long-foot-tail-resting-kangaroo-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "animal",
+  "style": "S01-clean-geometric",
+  "title": "Static Long-Foot Tail-Resting Kangaroo",
+  "description": "One original stylised fixed kangaroo-like animal with an ascending continuous torso and long neck, small elongated head and tapered muzzle, two upright pointed thick ears, two short raised forearms and two strongly developed hind limbs. Each hind limb is one closed continuous long ground foot, narrow hock, forward knee and broad thigh, not a separate enlarged rabbit paw. One long thick tapering rear tail has genuine finite ground-contact facets and completes the three-part resting support silhouette. New whole proportions and coordinates, no old seated rabbit, antlered deer, frog or robot mesh reused. Pale belly and ear regions belong to the full surfaces; small dark eyes are seated separate bodies and the nose is an integral muzzle cap. Three opaque constant matte PBR materials, metres, native Z up, head/front -Y and whole horizontal bounds-centred ground origin. Separate closed components use intentionally embedded fixed joins. One whole prop, zero scenes, no extra pose or juvenile. Artistic exterior only: no precise species or anatomy, sex/pouch/offspring, gait, jumping, balance, locomotion, biological behaviour, rig, physical simulation, welfare, manufacture or safety claim.",
+  "bounds": {
+    "x": 0.71,
+    "y": 1.9900000000000002,
+    "z": 1.985,
+    "unit": "m"
+  },
+  "triangles": 1464,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/animal/animal-static-long-foot-tail-resting-kangaroo-01/v1.0.0/model.glb",
+      "size": 100992,
+      "sha256": "046b261cfde869e7603534bf1b5990cd0bfac60a492e3b7e11499c91a4fc566b"
+    },
+    "blend": {
+      "path": "assets/animal/animal-static-long-foot-tail-resting-kangaroo-01/v1.0.0/source.blend",
+      "size": 651484,
+      "sha256": "40b462c0b37ce1b36842f5ef2a803525e290af3d84090f66b5a4e3386d8ca460"
+    },
+    "generator": {
+      "path": "assets/animal/animal-static-long-foot-tail-resting-kangaroo-01/v1.0.0/generate.py",
+      "size": 10912,
+      "sha256": "7d876cea0866dd8531c13b7886d6a057d5ab51c7bcd61281326e94395ed7b9b1"
+    },
+    "render": {
+      "path": "assets/animal/animal-static-long-foot-tail-resting-kangaroo-01/v1.0.0/thumbnail.png",
+      "size": 385040,
+      "sha256": "b963d5cd8cc4d4aef05c5fa60f973b96f1ae7ae99717239ce2d681b79266f961"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
