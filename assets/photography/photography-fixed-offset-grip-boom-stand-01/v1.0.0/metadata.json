@@ -1,0 +1,42 @@
+{
+  "id": "photography-fixed-offset-grip-boom-stand-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "photography",
+  "style": "source-preserved-low-poly",
+  "title": "Offset-Grip Boom Lighting Stand",
+  "description": "One original complete static offset-grip lighting stand, with three differently elevated continuous bent feet, a stepped mast, fixed height collar, offset vertical and horizontal genuinely bored grip sleeves, a long stopped boom, a complete bored rear weight with fixed retaining shoulder and one empty raised lighting spigot. It contains no lamp or mounted device. New whole construction, not an old softbox with its head removed or a resized telescope equatorial mount. All components count together as one prop. Fixed visual pose only; no clamp motion, equipment compatibility, balancing, stability, load rating, installation, electrical, optical or safety performance.",
+  "bounds": {
+    "x": 1.371762752532959,
+    "y": 0.7738156914710999,
+    "z": 1.875,
+    "unit": "m"
+  },
+  "triangles": 1300,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/photography/photography-fixed-offset-grip-boom-stand-01/v1.0.0/model.glb",
+      "size": 121432,
+      "sha256": "59f3056602507b542c09d12d560d56afa55a1d973a3b40caa576d5af00b5ff5b"
+    },
+    "blend": {
+      "path": "assets/photography/photography-fixed-offset-grip-boom-stand-01/v1.0.0/source.blend",
+      "size": 753568,
+      "sha256": "19c64642d789f355264f4d780890f80fbebefc259294ed2c0190eb85c4e93b74"
+    },
+    "generator": {
+      "path": "assets/photography/photography-fixed-offset-grip-boom-stand-01/v1.0.0/generate.py",
+      "size": 14814,
+      "sha256": "0599c2e208a5d44fe6119df0d70fe855668d9c1f7c5f30e24d383571f95eade4"
+    },
+    "render": {
+      "path": "assets/photography/photography-fixed-offset-grip-boom-stand-01/v1.0.0/thumbnail.png",
+      "size": 427409,
+      "sha256": "32e12fe1ebe8f5e0b20385c79bd7fe071b23f64cd716bd8be48cc570f997374b"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

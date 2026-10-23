@@ -1,0 +1,42 @@
+{
+  "id": "textile-fixed-two-shaft-treadle-floor-loom-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "textile",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Two-Shaft Treadle Floor Loom",
+  "description": "One newly authored complete fixed floor loom with four grounded posts on two long runners, a distinct front cloth drum and rear warp drum, full breast/back beams and a high castle support. Two whole open shaft frames at different frozen heights carry complete wire heddle loops. Eight continuous solid warp ribbons follow the full fore/aft path and form a visible alternating shed before a real open reed frame with separate teeth. A full bent cloth display sheet passes over the front breast beam to its drum. Two lower treadles, fixed shaft ties and beater side arms belong to this single whole assembly. No mesh from the older flat standing weaving frame, spinning wheel or warping cage is reused. Separate closed editable bodies with intentional fixed embedded joins, four opaque constant PBR materials, metres, native Z up and horizontally centred ground origin. One illustrative model, zero scenes. No functioning weave, thread tension, animation, moving linkage, cloth simulation, ergonomics, load, manufacture or safety claim.",
+  "bounds": {
+    "x": 1.51,
+    "y": 1.5,
+    "z": 1.7425,
+    "unit": "m"
+  },
+  "triangles": 1604,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/textile/textile-fixed-two-shaft-treadle-floor-loom-01/v1.0.0/model.glb",
+      "size": 108736,
+      "sha256": "c2b6396fb21b02b1aa085913bdc07e01c9cc3691116a690f907f2b771787fd51"
+    },
+    "blend": {
+      "path": "assets/textile/textile-fixed-two-shaft-treadle-floor-loom-01/v1.0.0/source.blend",
+      "size": 941712,
+      "sha256": "4084d93ebab882c325e6b6ef8592f955ac8d2fb4c9901a5730ba2ed609ea2429"
+    },
+    "generator": {
+      "path": "assets/textile/textile-fixed-two-shaft-treadle-floor-loom-01/v1.0.0/generate.py",
+      "size": 11363,
+      "sha256": "71fe494ca4d8c1923d39564c2a6020589b26074b52f63ad07cc74111e2c6229c"
+    },
+    "render": {
+      "path": "assets/textile/textile-fixed-two-shaft-treadle-floor-loom-01/v1.0.0/thumbnail.png",
+      "size": 606878,
+      "sha256": "dcd521e3c2f015f89ced7cf7590246183b6c6aeabcafdcaa1dc188768ccf1d37"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
