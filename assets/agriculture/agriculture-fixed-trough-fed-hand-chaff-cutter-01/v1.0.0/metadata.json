@@ -1,0 +1,42 @@
+{
+  "id": "agriculture-fixed-trough-fed-hand-chaff-cutter-01",
+  "version": "1.0.0",
+  "category": "modular",
+  "assetKind": "prop",
+  "theme": "agriculture",
+  "style": "warm-handcrafted-village",
+  "title": "Fixed Trough-Fed Hand Chaff Cutter",
+  "description": "One complete original fixed-pose trough-fed hand chaff-cutter appearance: four full grounded legs and longitudinal support rails hold one long thick open feed trough, an elevated transverse axle bridge, a separate large open-spoked rim and two broad swept fixed blade silhouettes at the trough mouth, with an outward wooden crank grip. The entire feed trough remains visible behind the cutting-head display. Not a seed-hopper roller, fan-housing winnower, twin abrasive-wheel grinder or piston/crosshead bench. Twenty closed editable meshes and four opaque constant PBR roles; one prop and zero scenes. Static game-art appearance only: no animation, working mechanism, exact blade clearance, feed-through operation, cutting performance, crop processing, engineering, manufacture, use instructions or safety certification.",
+  "bounds": {
+    "x": 0.850000024,
+    "y": 1.649999976,
+    "z": 1.424999952,
+    "unit": "m"
+  },
+  "triangles": 788,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/agriculture/agriculture-fixed-trough-fed-hand-chaff-cutter-01/v1.0.0/model.glb",
+      "size": 50884,
+      "sha256": "12357726e33300f98a4c15800bab8264ab36d9a8970045b7b050ade8e44de6f5"
+    },
+    "blend": {
+      "path": "assets/agriculture/agriculture-fixed-trough-fed-hand-chaff-cutter-01/v1.0.0/source.blend",
+      "size": 643428,
+      "sha256": "5b05432d68407c16d02cd45e4f4c6da49b65f727f651cb076b9e998faa25e574"
+    },
+    "generator": {
+      "path": "assets/agriculture/agriculture-fixed-trough-fed-hand-chaff-cutter-01/v1.0.0/generate.py",
+      "size": 29631,
+      "sha256": "7b6faa992957177560d4852d5dda195bdee8d4ecf4934c0e183b5509a4b9038b"
+    },
+    "render": {
+      "path": "assets/agriculture/agriculture-fixed-trough-fed-hand-chaff-cutter-01/v1.0.0/thumbnail.png",
+      "size": 538783,
+      "sha256": "6010decdd2d1b41800eed307ca5013969774a1a34950a50d4ea95dbcfc336146"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
