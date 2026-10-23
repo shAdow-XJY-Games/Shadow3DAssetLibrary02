@@ -1,0 +1,42 @@
+{
+  "id": "railway-fixed-side-tip-curved-skip-wagon-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "railway",
+  "style": "source-preserved-low-poly",
+  "title": "Fixed Side-Tip Curved Skip Wagon",
+  "description": "One newly authored whole fixed side-tip skip wagon. A thick continuous curved-bottom tub has solid full endwalls and a true open top, shown tilted about longitudinal end trunnions supported by two complete end A-bearers. Open underframe, two axles, four flanged finite-facet wheels, axle hangers, fixed tub stops and end coupling faces complete one model. No imported hopper body or gate, and no old assembly merely rotated. Reference rail-family tread centre spacing only; origin at flange soles, tread bottoms above ground. One static visual model, zero scenes; no tipping motion, unloading, wheel or brake operation, coupling interoperability, rail fit, load, stability, engineering, manufacturing, occupancy or safety claim.",
+  "bounds": {
+    "x": 1.225000023841858,
+    "y": 2.049999952316284,
+    "z": 1.2254270315170288,
+    "unit": "m"
+  },
+  "triangles": 1844,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/winter/railway-fixed-side-tip-curved-skip-wagon-01/v1.0.0/model.glb",
+      "size": 178836,
+      "sha256": "a746793315b0622d925bdfca5e150260de59b851779fe5d263396c9968ad0fa9"
+    },
+    "blend": {
+      "path": "assets/winter/railway-fixed-side-tip-curved-skip-wagon-01/v1.0.0/source.blend",
+      "size": 922336,
+      "sha256": "c6dfb17ae781b168281716c580dee44ca8ac9bc35556f46908f66f338a5af269"
+    },
+    "generator": {
+      "path": "assets/winter/railway-fixed-side-tip-curved-skip-wagon-01/v1.0.0/generate.py",
+      "size": 15914,
+      "sha256": "1fc09b4b15bcc34950f107b38ef74ba3d14dab78b5d124b10138bffbcc823852"
+    },
+    "render": {
+      "path": "assets/winter/railway-fixed-side-tip-curved-skip-wagon-01/v1.0.0/thumbnail.png",
+      "size": 560751,
+      "sha256": "ab59af11ae9c6ba2896440b397712f020d5e60a4dcfa5bf1b27914cd78c5d1b1"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

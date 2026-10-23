@@ -1,0 +1,42 @@
+{
+  "id": "carpentry-fixed-spring-pole-lathe-display-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "carpentry",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Spring Pole Lathe Display",
+  "description": "One new complete fixed spring-pole wood-lathe appearance. Two long open bed rails on four full legs carry two opposed complete centre stocks and fixed metal centres holding one authored spindle-shaped wood blank. A long front tool rest has two rooted posts. A separate continuous tapered high bent timber return pole reaches over the blank; one continuous thick cord descends from its tip, wraps once around the blank envelope and continues to a complete low rear-hinged foot treadle. Ground feet and cross ties connect the whole apparatus. No flat worktable top, large wheel, motor, yarn bobbin, belt-drive pulley, tool or worker is present. The fixed blank belongs to this one display model and is not a second reusable prop. All whole geometry is newly authored, not extracted from the old open worktable, spinning wheel, pottery kick wheel or piston machinery. Closed editable solids and three opaque PBR roles, metres, native Z up and actual whole horizontal bounds-centred ground origin. One model, zero scenes. This is illustrative static geometry only: the cord has deliberate nonfunctional envelope clearance around the blank, no frictional drive, spring elasticity, tension, pedal travel, rotating or cutting operation, wood-processing result, ergonomic fit, manufacture, load, stability or equipment-safety claim.",
+  "bounds": {
+    "x": 1.87,
+    "y": 1.07,
+    "z": 2.1769042376063803,
+    "unit": "m"
+  },
+  "triangles": 1736,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/carpentry/carpentry-fixed-spring-pole-lathe-display-01/v1.0.0/model.glb",
+      "size": 122280,
+      "sha256": "2fb6bd8dea8258fcb920fe767f1d43e25195c9f74b6ed4fffb65a765ed5963f5"
+    },
+    "blend": {
+      "path": "assets/carpentry/carpentry-fixed-spring-pole-lathe-display-01/v1.0.0/source.blend",
+      "size": 730852,
+      "sha256": "feeb5540b9dda83603f56ae1cb73081d953f74b94e1f844c72d4ccd6575a9303"
+    },
+    "generator": {
+      "path": "assets/carpentry/carpentry-fixed-spring-pole-lathe-display-01/v1.0.0/generate.py",
+      "size": 12768,
+      "sha256": "c83a290c97c977edcf6bf22f822f8b8d544a1f89d8cf1520502608bedb63bfa1"
+    },
+    "render": {
+      "path": "assets/carpentry/carpentry-fixed-spring-pole-lathe-display-01/v1.0.0/thumbnail.png",
+      "size": 466687,
+      "sha256": "b67bba4dbeafa0fc6516a10f305ca4f34da756d3740f41ebfc508003af182d00"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
