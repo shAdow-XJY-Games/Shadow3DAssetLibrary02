@@ -1,0 +1,42 @@
+{
+  "id": "fitness-fixed-inclined-carriage-leg-press-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "fitness",
+  "style": "source-preserved-low-poly",
+  "title": "Fixed Inclined-Carriage Leg Press",
+  "description": "One complete original static inclined-carriage leg press appearance: two full inclined guide rails rooted in a broad grounded chassis and upper columns, two genuine through-bored carriage sleeves linked by a crossmember, broad angled footplate and two empty weight pegs, fixed low seat with separate reclined back and small side grips. No weights, person or movement. All geometry newly authored, not a rotated old incline bench, a barbell rack with added seat or duplicated rowing rail. One model, zero scenes. Static visual only; no sliding, loading, resistance, body-fit, exercise instruction, manufacture, stability or safety performance claim.",
+  "bounds": {
+    "x": 1.3799999952316284,
+    "y": 2.132550001144409,
+    "z": 1.4197591543197632,
+    "unit": "m"
+  },
+  "triangles": 724,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/winter/fitness-fixed-inclined-carriage-leg-press-01/v1.0.0/model.glb",
+      "size": 84540,
+      "sha256": "bfd93478b2aba4331779a8d76afbdd62711df5ef20b02a0d5ed98c7e4632c45a"
+    },
+    "blend": {
+      "path": "assets/winter/fitness-fixed-inclined-carriage-leg-press-01/v1.0.0/source.blend",
+      "size": 792192,
+      "sha256": "163d0375bdac0bfb8503e3fa4b71965882ed0bd87eadbed795c4d99b887c5448"
+    },
+    "generator": {
+      "path": "assets/winter/fitness-fixed-inclined-carriage-leg-press-01/v1.0.0/generate.py",
+      "size": 15829,
+      "sha256": "6e20822b34a2bf986a55a5f65f4746fcab5bfbedfcea6e6643aae84cfe35a63b"
+    },
+    "render": {
+      "path": "assets/winter/fitness-fixed-inclined-carriage-leg-press-01/v1.0.0/thumbnail.png",
+      "size": 519517,
+      "sha256": "2b464d1222aefc05d5f20f94c8ac6008e3e4a2640e7de955224b1185b43d01a8"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
