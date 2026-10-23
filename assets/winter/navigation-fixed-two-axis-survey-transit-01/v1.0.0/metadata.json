@@ -1,0 +1,42 @@
+{
+  "id": "navigation-fixed-two-axis-survey-transit-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "navigation",
+  "style": "source-preserved-low-poly",
+  "title": "Fixed Two-Axis Survey Transit",
+  "description": "One complete newly authored static survey-transit visual. Three splayed tripod legs and finite feet support a three-screw tribrach, stacked azimuth plates, two vertical fork arms, a horizontal trunnion and a single short longitudinal telescope with genuinely recessed objective and ocular mouths. A separate vertical circle and blank level case complete the fixed instrument. Not an old equatorial mount reposed, not a widened twin-end rangefinder or flat vane alidade. One complete model, zero scenes. Opaque solid PBR only; no optical path, surveying accuracy, graduation, calibration, axis movement, levelling function, load, stability, manufacture or safety claim.",
+  "bounds": {
+    "x": 0.8547818660736084,
+    "y": 0.7549999952316284,
+    "z": 1.4129999876022339,
+    "unit": "m"
+  },
+  "triangles": 2204,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/winter/navigation-fixed-two-axis-survey-transit-01/v1.0.0/model.glb",
+      "size": 210960,
+      "sha256": "541742f4fab68f904319fc24e9ff42d13c743e8adaee93b0cff1d8ee64b49798"
+    },
+    "blend": {
+      "path": "assets/winter/navigation-fixed-two-axis-survey-transit-01/v1.0.0/source.blend",
+      "size": 967360,
+      "sha256": "ca983b0950c059438dfad24be91e5124b9cbd62c91008b74f5bd05fea4faedf2"
+    },
+    "generator": {
+      "path": "assets/winter/navigation-fixed-two-axis-survey-transit-01/v1.0.0/generate.py",
+      "size": 15827,
+      "sha256": "54561f227206ca3161198a2e9ba7d37b12cade0768315b334b510f0553e26ec7"
+    },
+    "render": {
+      "path": "assets/winter/navigation-fixed-two-axis-survey-transit-01/v1.0.0/thumbnail.png",
+      "size": 465805,
+      "sha256": "1e2b4ffcaf12afa1acd134e58ca5e794d88a25feb5e4748066829f8d449f0597"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

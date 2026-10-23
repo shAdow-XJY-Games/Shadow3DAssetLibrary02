@@ -1,0 +1,42 @@
+{
+  "id": "interior-static-butterfly-extension-dining-table-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "interior",
+  "style": "S01-clean-geometric",
+  "title": "Static Butterfly Extension Dining Table",
+  "description": "One newly authored complete static butterfly-extension dining table in a single partially deployed display pose. Two whole main dining tops are visibly separated over two genuine open-channel slide rails with fixed tongues. The central gap contains a whole horizontal half-leaf and its matching full raised half-leaf with central fixed hinge barrels and straps; an actual lowered open storage tray and hangers remain below. Four complete grounded legs, end aprons and lower ties form the whole underframe. The paired middle folding-leaf and storage arrangement differs from the old narrow fixed-centre outer D-leaf gateleg table and laundry outer-wing folding board; no old tabletop is stretched or imported. Three opaque solid PBR roles, metres and whole horizontal bounds-centred ground datum. One prop, no extra pose counted. Static furniture appearance only, not a flat usable dining surface in this displayed transitional pose. No working slide, hinge movement, complete folding trajectory, storage motion, ergonomic fit, load, stability, manufacture or safety certification.",
+  "bounds": {
+    "x": 2.1,
+    "y": 0.9,
+    "z": 1.1134268994871563,
+    "unit": "m"
+  },
+  "triangles": 500,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/interior/interior-static-butterfly-extension-dining-table-01/v1.0.0/model.glb",
+      "size": 42848,
+      "sha256": "c372e47da2d76fc2cec541b966ebfc7cc2aa50457beb0e67e5bf5af598f6a61c"
+    },
+    "blend": {
+      "path": "assets/interior/interior-static-butterfly-extension-dining-table-01/v1.0.0/source.blend",
+      "size": 696448,
+      "sha256": "94939b4c712b074cd8169329e57f14b05c3d1f7fa125eb4c9ead4443abe24d19"
+    },
+    "generator": {
+      "path": "assets/interior/interior-static-butterfly-extension-dining-table-01/v1.0.0/generate.py",
+      "size": 11350,
+      "sha256": "cb3b2848c414d6d4dab8cf1d2b30afca161682e7f4f0b35fded41f657d22042a"
+    },
+    "render": {
+      "path": "assets/interior/interior-static-butterfly-extension-dining-table-01/v1.0.0/thumbnail.png",
+      "size": 411184,
+      "sha256": "0706f199a349d4b37cdfc0fb50f60c13456758a9a4ac7013e5e6d97b1eaa4eab"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

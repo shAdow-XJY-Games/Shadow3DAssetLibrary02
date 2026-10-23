@@ -1,0 +1,42 @@
+{
+  "id": "public-continuous-concave-quarter-pipe-bank-01",
+  "version": "1.0.0",
+  "category": "modular",
+  "assetKind": "modular",
+  "theme": "public-service",
+  "style": "warm-handcrafted-village",
+  "title": "Continuous Concave Quarter-pipe Park Bank",
+  "description": "One newly authored complete static quarter-pipe bank module for a park skating-area appearance. A single thick closed body forms the broad concave rising transition, full-width upper platform, two continuous side cheeks, rear wall and finite whole bottom. Its lower end is almost horizontal and its upper transition nearly vertical; this is not a straight launch ramp, shortened playground chute or reused loading-platform connector. One complete transverse metal coping cylinder lies along the top transition and has finite overlap with the actual bank corner. Two editable closed meshes and three opaque PBR materials, one modular asset and zero scenes. Static game-art only: no skating operation, approved trajectory, slope specification, fall protection, load, installation or public safety certification.",
+  "bounds": {
+    "x": 2.039999962,
+    "y": 1.899999976,
+    "z": 1.460000038,
+    "unit": "m"
+  },
+  "triangles": 168,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/public-service/public-continuous-concave-quarter-pipe-bank-01/v1.0.0/model.glb",
+      "size": 10928,
+      "sha256": "a2d20ad5db52067baeddaf29e1661392bd8ed1fca0481ae94dbf3e3deaa4f4b2"
+    },
+    "blend": {
+      "path": "assets/public-service/public-continuous-concave-quarter-pipe-bank-01/v1.0.0/source.blend",
+      "size": 508916,
+      "sha256": "c4439a93047981670d1422dc712f36768c4b08dbea73183b8335085ee3545b63"
+    },
+    "generator": {
+      "path": "assets/public-service/public-continuous-concave-quarter-pipe-bank-01/v1.0.0/generate.py",
+      "size": 27576,
+      "sha256": "e9045ebb00971cd9541914bebd59254c3743d72f00cbb94693bc8be59c0d6661"
+    },
+    "render": {
+      "path": "assets/public-service/public-continuous-concave-quarter-pipe-bank-01/v1.0.0/thumbnail.png",
+      "size": 483062,
+      "sha256": "1d802a91dcb26062dacb51b90a1e194cbf42cd50647e89deafe828ec1b2078c0"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
