@@ -1,0 +1,42 @@
+{
+  "id": "transport-fixed-expanded-channel-stile-concertina-barrier-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "transport",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Expanded Channel-Stile Concertina Barrier",
+  "description": "One complete newly authored static transport/public-service isolation-barrier appearance in one fixed expanded pose. Two entire tall inward-opening C-channel stiles have real vertical open guide spaces, fixed upper keeper blocks and separate lower slide blocks. One planar serial chain of six full flat links spans the two end structures: each crossing joins through a fixed rivet, while adjacent crossing cells share their actual upper and lower endpoint axes. The terminal axes enter the whole guide blocks. Two full transverse ground runners each carry two independent complete U forks, fixed axles and flat-facet wheels. Real open diamonds and the continuous lower open region are visible. This is not the old rigid road-warning board, two rope stanchions, independent fence leaves, or a scissor load platform rotated and multiplied: there is no load deck or paired upper/lower horizontal support frame, and the chain endpoints terminate in whole vertical channel stiles. All complete geometry is new; only mature generic mesh/export/render tools are reused. One prop, zero scenes, no independently counted links, wheel groups or stiles. Four opaque solid PBR roles, native metres and Z up, actual whole horizontal ground-centred origin. No text, textures, people, road, vehicle, animation or alternate pose. Fixed illustrative art only: no extension/folding, rolling, hinge travel or kinematic proof, no certified barrier effectiveness, crowd/traffic control, anti-tip, load, manufacture, installation, accessibility, evacuation or public safety claim.",
+  "bounds": {
+    "x": 2.28,
+    "y": 0.8,
+    "z": 1.3,
+    "unit": "m"
+  },
+  "triangles": 1320,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/transport/transport-fixed-expanded-channel-stile-concertina-barrier-01/v1.0.0/model.glb",
+      "size": 82144,
+      "sha256": "70c669779355cc390caac93cc6bd6a3eccabfa09b65b77ab06a51ccbe8fbbece"
+    },
+    "blend": {
+      "path": "assets/transport/transport-fixed-expanded-channel-stile-concertina-barrier-01/v1.0.0/source.blend",
+      "size": 775916,
+      "sha256": "0880f328480b542e20723422c6958af3bb2e3c443cc250cc7f1ff24a87536b0e"
+    },
+    "generator": {
+      "path": "assets/transport/transport-fixed-expanded-channel-stile-concertina-barrier-01/v1.0.0/generate.py",
+      "size": 26160,
+      "sha256": "22889708f16f457525b79d33987d49a2908cc3cb974706c4f992cfcde176d28b"
+    },
+    "render": {
+      "path": "assets/transport/transport-fixed-expanded-channel-stile-concertina-barrier-01/v1.0.0/thumbnail.png",
+      "size": 512820,
+      "sha256": "518b22d32928f135eb3e194ef6d2ef83425a4de3da1ed4720c14bef454d30895"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
