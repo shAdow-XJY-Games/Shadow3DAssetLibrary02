@@ -1,0 +1,42 @@
+{
+  "id": "winter-fixed-wheeled-auger-snow-machine-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "winter",
+  "style": "source-preserved-low-poly",
+  "title": "Fixed Wheeled Auger Snow Machine",
+  "description": "One newly authored complete fixed walk-behind snow-machine appearance under the original winter snow-clearing tool direction. Whole open-front intake casing has two opposed broad helical flights on a transverse shaft and a true top port into a thick bent through-open discharge chute. Rear motor-shaped enclosure, paired finite-facet wheels, broad front skids, long push arms and empty control bridge form one supported machine. No old soil auger, mine fan or twin-roll crusher geometry is imported or repositioned. One model, zero scenes. Static exposed visual geometry only: no motor, rotation, snow flow, clearing performance, discharge reach, guarded operation, manoeuvrability, ergonomic, structural, manufacturing or safety claim; not instructions or a safe operating design.",
+  "bounds": {
+    "x": 0.9399999976158142,
+    "y": 1.2799999713897705,
+    "z": 0.9681976437568665,
+    "unit": "m"
+  },
+  "triangles": 1876,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/winter/winter-fixed-wheeled-auger-snow-machine-01/v1.0.0/model.glb",
+      "size": 174932,
+      "sha256": "d096c0464270ea3c69a4fa91f2a51afa9350060df571fb297503210f2ee4cc32"
+    },
+    "blend": {
+      "path": "assets/winter/winter-fixed-wheeled-auger-snow-machine-01/v1.0.0/source.blend",
+      "size": 878880,
+      "sha256": "bfe459a0551cd206655d9aea6371b513bf2565e08a1b8db1275d36e7f69de774"
+    },
+    "generator": {
+      "path": "assets/winter/winter-fixed-wheeled-auger-snow-machine-01/v1.0.0/generate.py",
+      "size": 16702,
+      "sha256": "8395e4684b114d8f3086362f546a28526ac7fd231264c671109f68be22f18267"
+    },
+    "render": {
+      "path": "assets/winter/winter-fixed-wheeled-auger-snow-machine-01/v1.0.0/thumbnail.png",
+      "size": 556915,
+      "sha256": "6ba1aa7f9a084702edcb98cb50b7f20b7401929fd2262c15b21ee39961204fe6"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "cafe-fixed-stacked-chamber-siphon-brewer-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "cafe",
+  "style": "source-preserved-low-poly",
+  "title": "Fixed Stacked-Chamber Siphon Brewer",
+  "description": "One original complete fixed stacked-chamber siphon-brewer appearance: a true hollow round lower bulb and narrow neck beneath an open upper chamber with one continuous long hollow stem. An annular connector and finite neck collar sit on an offset upright, broad grounded base and horizontal support arm. A small unlit burner appearance is separated below the lower bulb. Opaque constant PBR materials, no glass transparency, flame, liquid or animation. Complete new construction, not the old side-by-side swan-neck alembic or waisted moka pot resized. One whole static prop, zero scenes. No claim of actual siphoning, vacuum, heating, burner operation, brewing, pressure, food contact, manufacture, stability or safety.",
+  "bounds": {
+    "x": 0.3100000023841858,
+    "y": 0.20000000298023224,
+    "z": 0.47999998927116394,
+    "unit": "m"
+  },
+  "triangles": 3504,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/cafe/cafe-fixed-stacked-chamber-siphon-brewer-01/v1.0.0/model.glb",
+      "size": 302824,
+      "sha256": "fcd11d3543bf64df40a3cce918c688692416b07268fb7b3bd16a78a63f08743f"
+    },
+    "blend": {
+      "path": "assets/cafe/cafe-fixed-stacked-chamber-siphon-brewer-01/v1.0.0/source.blend",
+      "size": 1000064,
+      "sha256": "a4a9cd7a37e734e128bd659d815b33e91e257aa3f0d90a9876adc529d00c2375"
+    },
+    "generator": {
+      "path": "assets/cafe/cafe-fixed-stacked-chamber-siphon-brewer-01/v1.0.0/generate.py",
+      "size": 14231,
+      "sha256": "6fd10577171c8688bd6e2cb91c8d8eab2fa5d9838da279f603e476414fc4de5f"
+    },
+    "render": {
+      "path": "assets/cafe/cafe-fixed-stacked-chamber-siphon-brewer-01/v1.0.0/thumbnail.png",
+      "size": 472465,
+      "sha256": "19747a9a6576c8ff5998ce9ec483a25ad13b5701a8437954ada778d96b49e372"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
