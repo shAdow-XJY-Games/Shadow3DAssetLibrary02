@@ -1,0 +1,42 @@
+{
+  "id": "nature-complete-rock-arch-dry-ravine-entry-scene-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "nature",
+  "style": "warm-handcrafted-village",
+  "title": "Rock Arch and Dry Ravine Entry",
+  "description": "One static complete natural-rock arch entrance leading across a short exposed ground transition into a whole offset dry ravine. Two entire existing qualified assets, original evaluated world triangles and opaque PBR, unit scale, bridge rigidly rotated 90 degrees and translated, ravine translated only. No cut cap, rock subtraction, new stone count or altered passage shape. One scene-only flat earth support seats both complete original bottom interfaces. The old ravine floor begins a real 0.22m above its sole, so this composition explicitly retains that ledge: selected visual clearance rays only, not continuous walkable floor, human navigation, road safety or natural geological formation claim. Two old models reused, one scene, zero new models.",
+  "bounds": {
+    "x": 6.800000191,
+    "y": 4.400000095,
+    "z": 2.568063974,
+    "unit": "m"
+  },
+  "triangles": 280,
+  "materials": 7,
+  "files": {
+    "glb": {
+      "path": "assets/nature/nature-complete-rock-arch-dry-ravine-entry-scene-01/v1.0.0/model.glb",
+      "size": 26656,
+      "sha256": "f3e67f82d3b13a85386efd7873fbb1b98bfd81f9a726d0872c6b22a623192445"
+    },
+    "blend": {
+      "path": "assets/nature/nature-complete-rock-arch-dry-ravine-entry-scene-01/v1.0.0/source.blend",
+      "size": 615196,
+      "sha256": "da31b6571dacc7cdb7268e7e7b772dc77c53ffff4b2beac89d730a6aca4dce26"
+    },
+    "generator": {
+      "path": "assets/nature/nature-complete-rock-arch-dry-ravine-entry-scene-01/v1.0.0/generate.py",
+      "size": 49066,
+      "sha256": "22710302a4614bb4800724a0929d31dd9ef7e8d2905ebcfa7fbaf0e0d14dbb95"
+    },
+    "render": {
+      "path": "assets/nature/nature-complete-rock-arch-dry-ravine-entry-scene-01/v1.0.0/thumbnail.png",
+      "size": 508570,
+      "sha256": "0b373b30186fe02dabd3dbc896aee5b57dc79efc13dddcd112c33ab203e29bb2"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
