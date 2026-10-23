@@ -1,0 +1,42 @@
+{
+  "id": "arcade-fixed-curved-roll-target-cabinet-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "arcade",
+  "style": "source-preserved-low-poly",
+  "title": "Fixed Curved-Roll Target Cabinet",
+  "description": "One newly authored whole static curved-roll target cabinet: long low grounded cabinet, continuous thick horizontal-to-upturned roll lane, side rails, high rear catch chamber and inclined field with three real through holes and projecting annular collars. New whole structural layout, no old pinball, puck table or park bank payload reused. One model zero scenes. Fixed display only, no playable physics, scoring, automatic ball return, movement, amusement operation or safety claim.",
+  "bounds": {
+    "x": 0.9800000190734863,
+    "y": 2.8299999237060547,
+    "z": 1.899999976158142,
+    "unit": "m"
+  },
+  "triangles": 1792,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/winter/arcade-fixed-curved-roll-target-cabinet-01/v1.0.0/model.glb",
+      "size": 166316,
+      "sha256": "d1971d4ab360600b60961375c9afbab80fee0a7279d0e95778cd3abb5144b21c"
+    },
+    "blend": {
+      "path": "assets/winter/arcade-fixed-curved-roll-target-cabinet-01/v1.0.0/source.blend",
+      "size": 860064,
+      "sha256": "74eeca53c8d0e8f42f1f6062f1ca823b541b336392e43147ac612498008f3cc5"
+    },
+    "generator": {
+      "path": "assets/winter/arcade-fixed-curved-roll-target-cabinet-01/v1.0.0/generate.py",
+      "size": 16194,
+      "sha256": "9e4b2bf6fd0b7fa22129d8d7f6663b3fce49bdeaa8ab83d9579b9b0544810a2c"
+    },
+    "render": {
+      "path": "assets/winter/arcade-fixed-curved-roll-target-cabinet-01/v1.0.0/thumbnail.png",
+      "size": 530461,
+      "sha256": "f9abed38deb2a6d5c8b6c0413fd53a8133bbce219cd4e68aeb0254e31044d02a"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
