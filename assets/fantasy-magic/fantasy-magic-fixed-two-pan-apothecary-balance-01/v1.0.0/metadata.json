@@ -1,0 +1,42 @@
+{
+  "id": "fantasy-magic-fixed-two-pan-apothecary-balance-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "fantasy-magic",
+  "style": "warm-handcrafted-village",
+  "title": "Fixed Two-Pan Apothecary Beam Balance",
+  "description": "One complete original static apothecary balance for the fantasy alchemy workbench program. A broad grounded wooden base supports a turned central pillar, two real separated bearing cheeks and a transverse axle carrying one tapered equal-arm beam. Two genuinely hollow shallow metal pans hang from three complete slender suspension wires each. A thin central pointer descends from the beam in front of the pillar. All parts have real finite material and selected solid attachment witnesses. This is one fixed visual prop, not a recoloured electronic parcel scale, a duplicated bottle arrangement, a ring portal or a rotated yoke. Zero imported old model vertices. The balanced display pose does not simulate weighing, equilibrium, motion, calibration, load or safe apparatus use. No separate pans, wire sets, colours or variants count as assets.",
+  "bounds": {
+    "x": 1.360000014,
+    "y": 0.360000014,
+    "z": 0.86500001,
+    "unit": "m"
+  },
+  "triangles": 828,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/fantasy-magic/fantasy-magic-fixed-two-pan-apothecary-balance-01/v1.0.0/model.glb",
+      "size": 50656,
+      "sha256": "2be65773ecfaa10acf8733bc527ee4c9ee48310d1bce69aee07e253daa7b65ee"
+    },
+    "blend": {
+      "path": "assets/fantasy-magic/fantasy-magic-fixed-two-pan-apothecary-balance-01/v1.0.0/source.blend",
+      "size": 618752,
+      "sha256": "3ec9eaf6548d22463be2ccb267019b878a44cc859ea4196185aa3affa0b76a67"
+    },
+    "generator": {
+      "path": "assets/fantasy-magic/fantasy-magic-fixed-two-pan-apothecary-balance-01/v1.0.0/generate.py",
+      "size": 28273,
+      "sha256": "470ad1c23bca8935f4cb8f76da3c3c5d0129c4402fe9c29f01699e7ddb3bea73"
+    },
+    "render": {
+      "path": "assets/fantasy-magic/fantasy-magic-fixed-two-pan-apothecary-balance-01/v1.0.0/thumbnail.png",
+      "size": 520446,
+      "sha256": "d00f59982c18bfb0d2dd13af58b3e692639673c4dac99b7ac4645ced8a9b4d4f"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "spacebase-continuous-three-way-junction-01",
+  "version": "1.0.0",
+  "category": "architecture",
+  "assetKind": "modular",
+  "theme": "spacebase",
+  "style": "S01-clean-geometric",
+  "title": "Continuous Three-Way Junction Module",
+  "description": "One original static spacebase three-way junction module. A single continuous thick closed material shell encloses a connected T-shaped empty interior with three genuine open mouths, a full raised floor, side walls, shared central ceiling and three integral raised roof-end rims. The two opposed side arms meet one forward stem in a real common chamber, not overlapping old straight corridors with hidden internal walls. All material-cell interior faces are removed and every boundary shares indexed vertices; one closed connected editable mesh and four constant opaque PBR roles. Newly authored plan and topology, zero imported geometry and one modular asset, not three corridor assets or a length/color variant. Source Z up, metres, horizontal-bounds-centred origin on the complete ground sole. No doors, pressure chamber, furniture, people, cables or textures. Static visual-only empty junction: no pressure seal, atmosphere, airlock cycle, installation compatibility with previous modules, navigation, accessibility, manufacturing, structural load, spaceflight or safety performance claim.",
+  "bounds": {
+    "x": 7.0,
+    "y": 5.0,
+    "z": 3.25,
+    "unit": "m"
+  },
+  "triangles": 372,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/spacebase/spacebase-continuous-three-way-junction-01/v1.0.0/model.glb",
+      "size": 15568,
+      "sha256": "ec093fd4af91c095ab7f6e0bad1e6c8389a3d648d382ce298188905e7ab4715b"
+    },
+    "blend": {
+      "path": "assets/spacebase/spacebase-continuous-three-way-junction-01/v1.0.0/source.blend",
+      "size": 564828,
+      "sha256": "2b33d019d6c9b6e1703bab25260bd0385c106601a2724ea62dd63c24c68e28d9"
+    },
+    "generator": {
+      "path": "assets/spacebase/spacebase-continuous-three-way-junction-01/v1.0.0/generate.py",
+      "size": 7377,
+      "sha256": "9a7be135a211b42db406f9b80c67a9a43eda17e988d4d1f55dfffa43b2816d98"
+    },
+    "render": {
+      "path": "assets/spacebase/spacebase-continuous-three-way-junction-01/v1.0.0/thumbnail.png",
+      "size": 572450,
+      "sha256": "4fde5b6a61420e9ecd32666579f989975a0957815a4ceeb952c9e7412da65336"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

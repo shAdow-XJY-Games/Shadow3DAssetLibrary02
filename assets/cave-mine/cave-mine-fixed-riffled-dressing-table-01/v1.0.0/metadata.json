@@ -1,0 +1,42 @@
+{
+  "id": "cave-mine-fixed-riffled-dressing-table-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "cave-mine",
+  "style": "source-preserved-low-poly",
+  "title": "Fixed Riffled Ore Dressing Table",
+  "description": "One original complete static ore-dressing table appearance: a broad uninterrupted solid mildly cross-sloped deck carries twelve whole progressively shortened raised riffles, a high side and feed-end guard, and one lower-side open-ended collection launder. Four whole grounded legs with inclined top seats and three lower frame ties support the deck. This is not a grizzly screen with through-slots, twin-valley splitter or spiral basin; no old model is imported or rescaled. One independent prop. Empty fixed equipment only: no actual shaking drive, water, ore, separation, recovery yield, flow simulation, powered operation, strength, accessibility, manufacture or safety claim.",
+  "bounds": {
+    "x": 2.240000009536743,
+    "y": 1.4900000095367432,
+    "z": 1.1486999988555908,
+    "unit": "m"
+  },
+  "triangles": 312,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/cave-mine/cave-mine-fixed-riffled-dressing-table-01/v1.0.0/model.glb",
+      "size": 44200,
+      "sha256": "19122ac5979d33ac9b7d3ba413fa1ae1d66c4db2dd622fc3663d3a71537c5318"
+    },
+    "blend": {
+      "path": "assets/cave-mine/cave-mine-fixed-riffled-dressing-table-01/v1.0.0/source.blend",
+      "size": 713120,
+      "sha256": "3d218684fcab869e51fdd23cbdfa12c2dac43af5b4019a3dfff357e07d662407"
+    },
+    "generator": {
+      "path": "assets/cave-mine/cave-mine-fixed-riffled-dressing-table-01/v1.0.0/generate.py",
+      "size": 11894,
+      "sha256": "759a71e3033665a7a5d3014960cc5d36d8b7ee281798036c70d5628330726d5b"
+    },
+    "render": {
+      "path": "assets/cave-mine/cave-mine-fixed-riffled-dressing-table-01/v1.0.0/thumbnail.png",
+      "size": 520997,
+      "sha256": "f9148d6a42fe1d2130859b872dbad540e90f9bb91d591bb0e58fc916c873dc0c"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
