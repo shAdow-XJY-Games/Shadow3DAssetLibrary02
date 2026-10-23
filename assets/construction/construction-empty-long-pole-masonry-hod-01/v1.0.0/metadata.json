@@ -1,0 +1,42 @@
+{
+  "id": "construction-empty-long-pole-masonry-hod-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "construction",
+  "style": "S01-clean-geometric",
+  "title": "Empty Long Pole Masonry Hod",
+  "description": "One newly authored complete empty static masonry material hod. A deep open-top, open-front tapered timber trough has two continuous sloping sides, a narrow thick full floor and a full rear stop board. A long round solid carrying pole meets a complete under-head cradle through a fixed metal ferrule, placing the pole below the head rather than behind and in line with a shallow shovel blade. No wheel, rear legs, handle pair, slatted feed rack, lower catch basin, bricks or mortar are included. All geometry is new, not a resized wheelbarrow tub, rehandled snow scoop or cropped hay manger. Four editable closed meshes and three opaque untextured PBR roles, metres/nativeZup/full horizontal bounds-centred lowest pole-end origin. One whole prop and zero scenes. Upright inventory display only: the pole end on the preview plane does not establish unattended balance, carrying pose or a usable ground stand. No human, real carrying capacity, material retention, manufacture, ergonomics, load, stability, construction work or safety claim.",
+  "bounds": {
+    "x": 0.48,
+    "y": 0.8,
+    "z": 1.52,
+    "unit": "m"
+  },
+  "triangles": 136,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/construction/construction-empty-long-pole-masonry-hod-01/v1.0.0/model.glb",
+      "size": 9336,
+      "sha256": "a9fea1bfeb9b218af8539adb9e4f759966a53b8e0bd05717e715e2425884013f"
+    },
+    "blend": {
+      "path": "assets/construction/construction-empty-long-pole-masonry-hod-01/v1.0.0/source.blend",
+      "size": 542812,
+      "sha256": "cc1e0629d9cf7e20f3d1e9b95393c9be7d968251b4c0042551b34edc2aacf23a"
+    },
+    "generator": {
+      "path": "assets/construction/construction-empty-long-pole-masonry-hod-01/v1.0.0/generate.py",
+      "size": 9663,
+      "sha256": "a064fec948c7347adab269f02363e4731ef11e62df4120ee06b79e8b4bc54437"
+    },
+    "render": {
+      "path": "assets/construction/construction-empty-long-pole-masonry-hod-01/v1.0.0/thumbnail.png",
+      "size": 377909,
+      "sha256": "2cb0f1c07c783f92f457fbe91a6fa0f9b570abfe7b34738dbcd34994c561daa3"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "steam-workshop-fixed-tripod-winch-hoist-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "steam-workshop",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Tripod Winch Hoist",
+  "description": "One newly authored complete fixed tripod-winch hoist appearance. Three continuous tall splayed posts converge onto a two-cheek head and rear cap, with three broad real ground pads and a low triangular brace circuit. A newly built low double-flanged drum, bored bearings, shaft and hand crank are integrated into a crossbeam between the front legs. One top grooved sheave and fixed axle redirect a complete continuous thin cable from the drum up over the head and down to one empty open hook. Both rope runs pass through the actual clear space between the head cheeks. No old complete winch, mine headframe, hook module or jib is instanced. This is a complete converging three-leg lifting-layout display with its own low drum and entire rope route, not a four-post shaft-mouth headframe with one leg deleted or a single-column cantilever trolley with a different color. All numeric geometry newly authored, three opaque constant PBR roles, closed editable parts, metres, Z up and whole horizontal bounds-centred grounded pads. One prop, zero scenes. Fixed joins, cable contact and retained shafts show only this illustrative pose. No winching, drum winding capacity, cable tension, moving or braking mechanism, hook restraint, cargo lifting, human use, anti-tip stability, load, manufacture, construction or equipment safety claim.",
+  "bounds": {
+    "x": 2.052,
+    "y": 1.8199999999999998,
+    "z": 2.725,
+    "unit": "m"
+  },
+  "triangles": 3376,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/steam-workshop/steam-workshop-fixed-tripod-winch-hoist-01/v1.0.0/model.glb",
+      "size": 179108,
+      "sha256": "db583a4980429d0c2bb0524465daa682719a70f2deffdcf13381eb362a5518df"
+    },
+    "blend": {
+      "path": "assets/steam-workshop/steam-workshop-fixed-tripod-winch-hoist-01/v1.0.0/source.blend",
+      "size": 846992,
+      "sha256": "65706124a69f5929932c5ae85186118394bb1106eadd39d4118d1d466b9cad4f"
+    },
+    "generator": {
+      "path": "assets/steam-workshop/steam-workshop-fixed-tripod-winch-hoist-01/v1.0.0/generate.py",
+      "size": 13436,
+      "sha256": "69eaebd15579956d957f60a0e86b4aa00df6a61ae0a7f6bb64e4455a6199a1e0"
+    },
+    "render": {
+      "path": "assets/steam-workshop/steam-workshop-fixed-tripod-winch-hoist-01/v1.0.0/thumbnail.png",
+      "size": 439647,
+      "sha256": "b7d7c4547a5cf414e014b2d6f635cc27f574b2c09b19f5a801b5f4df11fcca6a"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
