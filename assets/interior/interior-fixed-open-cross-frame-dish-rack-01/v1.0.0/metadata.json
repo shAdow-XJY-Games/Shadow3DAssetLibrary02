@@ -1,0 +1,42 @@
+{
+  "id": "interior-fixed-open-cross-frame-dish-rack-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "interior",
+  "style": "source-preserved-low-poly",
+  "title": "Fixed Open Cross-Frame Dish Rack",
+  "description": "One original complete fixed-open cross-frame wooden dish-rack appearance. Two width-offset pairs of full diagonal end rails form actual X silhouettes and connect through transverse pins. A high rear slatted deck and lower opposing front slatted deck form an open V cradle with real gaps between every full-width wooden slat; four short foot pads meet the ground. Entire new whole numeric geometry, not the old catch-tray/vertical-loop rack or the flat-centre/outward-wing laundry rack resized. Three opaque constant PBR materials, no dishes, water, catch tray or textures. One whole prop, zero scenes. Only the displayed static pose: no folding sweep, actual hinge mechanics, drainage simulation, plate compatibility/capacity, load, food hygiene, manufacture, stability or safety certification.",
+  "bounds": {
+    "x": 0.5149999856948853,
+    "y": 0.4399999976158142,
+    "z": 0.32420000433921814,
+    "unit": "m"
+  },
+  "triangles": 324,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/interior/interior-fixed-open-cross-frame-dish-rack-01/v1.0.0/model.glb",
+      "size": 40472,
+      "sha256": "4c4287d3f33c1fdecea48d1bc47100db928bda4cdfb6e4aafee676f59466a518"
+    },
+    "blend": {
+      "path": "assets/interior/interior-fixed-open-cross-frame-dish-rack-01/v1.0.0/source.blend",
+      "size": 658368,
+      "sha256": "d14c98a90da37c290b3d8cbf75ccf5b1e921517775c77dc59b2ecb849c876157"
+    },
+    "generator": {
+      "path": "assets/interior/interior-fixed-open-cross-frame-dish-rack-01/v1.0.0/generate.py",
+      "size": 13847,
+      "sha256": "6ebc09b879b299e0132bb1c07c669cca108f378b7eb670e3e126b369c6eec7bd"
+    },
+    "render": {
+      "path": "assets/interior/interior-fixed-open-cross-frame-dish-rack-01/v1.0.0/thumbnail.png",
+      "size": 557283,
+      "sha256": "4dacf1ff73fd0f872c05496054a4e0c412b81d683c442bf6dd98e720727a8ead"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

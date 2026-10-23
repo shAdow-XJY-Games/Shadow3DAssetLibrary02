@@ -1,0 +1,42 @@
+{
+  "id": "steam-workshop-fixed-internal-ring-planetary-display-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "steam-workshop",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Internal Ring Planetary Display",
+  "description": "One newly authored complete static planetary-layout display. A full vertical internally toothed annulus is grounded by two broad roots on a single bed. One central external-tooth sun and three separate external-tooth wheels occupy the same plane inside that ring. Every gear has continuous integral tooth flanks and a real axial bore. A complete rear three-arm carrier fixes the three offset pins; whole front retainers and rear spacers support each wheel. A central coaxial shaft and a separate grounded bored rear pedestal complete the apparatus. The new internal-tooth enclosure and common-axis carrier with parallel offset planet axes differ from the old two fixed parallel spur shafts, perpendicular worm/wheel or transverse four-cone differential. All whole numeric geometry is new, not a count change or rearrangement of imported gear meshes. Three opaque constant PBR roles, closed editable components, metres, Z up and whole horizontal bounds-centred bed. One whole model, zero scenes. Deliberate finite envelope gaps between sun, planets and ring teeth make this a fixed illustrative layout only, not a meshed functioning epicyclic transmission. No involute accuracy, orbit, rotation, gear ratio, torque, bearing fit, power, lubrication, manufacture, load or equipment safety claim.",
+  "bounds": {
+    "x": 2.22,
+    "y": 1.1,
+    "z": 2.01919300369095,
+    "unit": "m"
+  },
+  "triangles": 4104,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/steam-workshop/steam-workshop-fixed-internal-ring-planetary-display-01/v1.0.0/model.glb",
+      "size": 191264,
+      "sha256": "33343adaadbe20d6a96c48d7c7e3c28de93e4d54bb315e3bf9ff457aef1689db"
+    },
+    "blend": {
+      "path": "assets/steam-workshop/steam-workshop-fixed-internal-ring-planetary-display-01/v1.0.0/source.blend",
+      "size": 853936,
+      "sha256": "2ac73e72dafa747065cb1cec3ef31cce4e878b5e0cf218066c7c9a48526e4c7b"
+    },
+    "generator": {
+      "path": "assets/steam-workshop/steam-workshop-fixed-internal-ring-planetary-display-01/v1.0.0/generate.py",
+      "size": 11854,
+      "sha256": "a6191e8ac27d864c3cc2b4988527ce5ed8b648e00a37367f25b6b7a12d38eaff"
+    },
+    "render": {
+      "path": "assets/steam-workshop/steam-workshop-fixed-internal-ring-planetary-display-01/v1.0.0/thumbnail.png",
+      "size": 482987,
+      "sha256": "5dc6c6dcafaae2532359d68b03a2b1e974d381023dc4a1d6c62a32d6644ef6f7"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
