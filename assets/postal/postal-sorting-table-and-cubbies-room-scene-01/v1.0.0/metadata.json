@@ -1,0 +1,42 @@
+{
+  "id": "postal-sorting-table-and-cubbies-room-scene-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "postal",
+  "style": "source-preserved-low-poly",
+  "title": "Sorting Table and Cubbies Room",
+  "description": "One static postal sorting preparation room, one scene and zero new independent models. A complete six-cell sorting cabinet stands at the rear, facing a separate complete open worktable. One unchanged open-front notched letter tray and one whole divided open mail satchel rest side by side on the actual finite tabletop, with a clear gap between them. The table retains its complete open knee space and bracing. A closed scene-only floor leaves a front approach and two side passages. Four whole original models preserve raw GLB mesh and normal payloads, internal node transforms, all triangles and per-face PBR at original unit scale. This is a table-to-rear-cubby preparation layout, not the older street letterbox and parcel-filled cabinet corner with relabelled goods. No letters, parcels, sorting mechanism, delivery process, working weighing equipment, load capacity, reach or accessibility compliance, operational or installation safety is claimed.",
+  "bounds": {
+    "x": 3.4000000953674316,
+    "y": 3.200000047683716,
+    "z": 1.6459999084472656,
+    "unit": "m"
+  },
+  "triangles": 2160,
+  "materials": 14,
+  "files": {
+    "glb": {
+      "path": "assets/postal/postal-sorting-table-and-cubbies-room-scene-01/v1.0.0/model.glb",
+      "size": 164108,
+      "sha256": "091d9c8f621000ba65e942d9a795a9449389042118da7bc086a8fb3736c52d83"
+    },
+    "blend": {
+      "path": "assets/postal/postal-sorting-table-and-cubbies-room-scene-01/v1.0.0/source.blend",
+      "size": 150151,
+      "sha256": "8f2535cc875f7a71bdb6fe37583b0687031e92a35c9e1f46ed794aa3db905d5d"
+    },
+    "generator": {
+      "path": "assets/postal/postal-sorting-table-and-cubbies-room-scene-01/v1.0.0/generate.py",
+      "size": 43224,
+      "sha256": "b2a8117c7c41e8de7b4af8dec95d5d9869901783cc2577996a1bca3b84616548"
+    },
+    "render": {
+      "path": "assets/postal/postal-sorting-table-and-cubbies-room-scene-01/v1.0.0/thumbnail.png",
+      "size": 483942,
+      "sha256": "2e58c49846668e6504d3da7fd248992251b217f6c16fd1881034a6857e2dbea1"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "interior-fixed-guided-bifold-door-kit-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "interior",
+  "style": "source-preserved-low-poly",
+  "title": "Fixed Guided Bifold Door Kit",
+  "description": "One original complete fixed folded two-leaf interior doorway kit: a freestanding square-headed frame encloses a true passage, two thick recessed-panel leaves fold toward the front around a side pivot and a central vertical hinge, while the free upper end meets a real slotted top channel with a fixed stem and captive head. Visible hinge straps join each leaf to its barrels; a single pull belongs to the free leaf. New complete assembly, not old single leaves duplicated or the freestanding three-panel education display renamed. One fixed pose only: no opening animation, continuous clearance, load, installation, accessibility or old-wall compatibility certification.",
+  "bounds": {
+    "x": 1.1399999856948853,
+    "y": 0.5383524298667908,
+    "z": 2.200000047683716,
+    "unit": "m"
+  },
+  "triangles": 1004,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/interior/interior-fixed-guided-bifold-door-kit-01/v1.0.0/model.glb",
+      "size": 106152,
+      "sha256": "7f8001f813ea5b94090206d279d7e3d510157672387cc9c55480852be1792f8b"
+    },
+    "blend": {
+      "path": "assets/interior/interior-fixed-guided-bifold-door-kit-01/v1.0.0/source.blend",
+      "size": 781568,
+      "sha256": "6a6349e0e1bae1b6158b0b6043d5ae034003dc257f60f73b896b5cab2a2f36d9"
+    },
+    "generator": {
+      "path": "assets/interior/interior-fixed-guided-bifold-door-kit-01/v1.0.0/generate.py",
+      "size": 14033,
+      "sha256": "af29815572d882f9797f209d030cace8d15678998166b2aa4c81d0264c8491a7"
+    },
+    "render": {
+      "path": "assets/interior/interior-fixed-guided-bifold-door-kit-01/v1.0.0/thumbnail.png",
+      "size": 492353,
+      "sha256": "da99cc2c2aa087c2007cdb21a8dccd95e87c7fc6617721d464fffa55702e773a"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "interior-armless-quarter-corner-sofa-module-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "interior",
+  "style": "source-preserved-low-poly",
+  "title": "Armless Quarter-Corner Sofa Module",
+  "description": "One original complete armless quarter-corner sofa module. A full quarter-disc foundation and softly stepped sector cushion sit above a recessed quarter plinth; one continuous padded annular back curves through ninety degrees around the outer seat boundary. Its two radial open sides define only this standalone geometric family, not a snap or dimensional compatibility claim with older sofas. Newly authored curved corner geometry, not an extracted or resized straight two-seat sofa, nor a shortened concave L dining banquette. Static furniture appearance only: no comfort, load, stability, upholstery simulation, fastening or installation guarantee.",
+  "bounds": {
+    "x": 0.9900000095367432,
+    "y": 0.9900000095367432,
+    "z": 0.9200000166893005,
+    "unit": "m"
+  },
+  "triangles": 688,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/interior/interior-armless-quarter-corner-sofa-module-01/v1.0.0/model.glb",
+      "size": 61244,
+      "sha256": "833056aee5e36d027d85daba8a146ec3c35518f60ae0c5b287afaf9cdcf9979b"
+    },
+    "blend": {
+      "path": "assets/interior/interior-armless-quarter-corner-sofa-module-01/v1.0.0/source.blend",
+      "size": 628576,
+      "sha256": "ba7fd52043d8bab795cb2f0a33393dbb9c8260034114891d6bdb9097abeb176a"
+    },
+    "generator": {
+      "path": "assets/interior/interior-armless-quarter-corner-sofa-module-01/v1.0.0/generate.py",
+      "size": 11876,
+      "sha256": "130a9460efb206405889d26ed45fe502f8d12cdfa77533f2ccab3de6d494c631"
+    },
+    "render": {
+      "path": "assets/interior/interior-armless-quarter-corner-sofa-module-01/v1.0.0/thumbnail.png",
+      "size": 520822,
+      "sha256": "f8792ea48eb47609f1b9ecc774c1aac753fd05ac72dcb4c475a92ec7b00f512a"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
