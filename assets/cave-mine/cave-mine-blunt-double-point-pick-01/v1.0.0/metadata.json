@@ -1,0 +1,42 @@
+{
+  "id": "cave-mine-blunt-double-point-pick-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "cave-mine",
+  "style": "source-preserved-low-poly",
+  "title": "Blunt Double-Point Mine Pick",
+  "description": "One original complete fixed blunt double-point mine-pick display: a single continuous metal-style head curves into two opposite narrowing finite blunt ends around a real central handle eye; one complete lightly bowed tapered wooden shaft passes through that eye and widens into its integral grip. The head and handle rest in a fixed lying pose. Newly authored whole geometry, not the old broad fire-axe bit or farm hoe/gooseneck rescaled, nor a separately counted extracted head. The assembled handle occupies the eye; no fully clear installed bore is claimed. Static game-art only, no practical cutting or extraction performance, use instructions, sharp-edge specification, strength, manufacture or safety guarantee.",
+  "bounds": {
+    "x": 0.8600000143051147,
+    "y": 1.0219999551773071,
+    "z": 0.15000000596046448,
+    "unit": "m"
+  },
+  "triangles": 300,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/cave-mine/cave-mine-blunt-double-point-pick-01/v1.0.0/model.glb",
+      "size": 27848,
+      "sha256": "b0f48e5b95c41e03d50f7db8806eb771d49915beeff7e8cf15d0319fc0f9c97e"
+    },
+    "blend": {
+      "path": "assets/cave-mine/cave-mine-blunt-double-point-pick-01/v1.0.0/source.blend",
+      "size": 575728,
+      "sha256": "370d0c48538662b31aa2d1098b8557810bc1acef261ab76033c318885aab4d35"
+    },
+    "generator": {
+      "path": "assets/cave-mine/cave-mine-blunt-double-point-pick-01/v1.0.0/generate.py",
+      "size": 12509,
+      "sha256": "f451a1de9b06365fa5630f5bcf627998908afc50b2ccf5e7c0f8e837baccbba8"
+    },
+    "render": {
+      "path": "assets/cave-mine/cave-mine-blunt-double-point-pick-01/v1.0.0/thumbnail.png",
+      "size": 440800,
+      "sha256": "aaa460e34274eee23f28522753613d8227b1c7417e19046fd3bac62c90db4bfe"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

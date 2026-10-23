@@ -1,0 +1,42 @@
+{
+  "id": "fantasy-magic-alembic-and-balance-workcorner-scene-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "fantasy-magic",
+  "style": "warm-handcrafted-village",
+  "title": "Alembic and Balance Workcorner",
+  "description": "One static fantasy alchemy workcorner scene, four complete qualified existing models and zero new reusable models. The whole swan-neck retort and receiver stand on their original grounded plinth at rear-left. A complete open worktable at front-right supports the entire fixed two-pan apothecary balance on its actual full base footprint; suspended pans overhang the tabletop sides while remaining above it. One unchanged empty wide bookcase stands separately behind the table. A single scene-only low stone floor gives a common placement datum and clear front access space. No book set is split or resized to fit a shelf, no extra bottles are piled in and no old component is removed or recoloured. Every original active mesh, evaluated world-space oriented triangle and constant opaque PBR is retained under unit translation. Original GLB node transforms are fully evaluated by the embedded byte-pinned established reader, then baked into editable mesh positions; original node hierarchy and custom NORMAL bytes are not claimed unchanged. Normals are recomputed flat. This is one scene and no new prop, not a room shell, working laboratory, simulated distillation/weighing/magic, navigable safety certification or load guarantee.",
+  "bounds": {
+    "x": 4.5,
+    "y": 3.599999905,
+    "z": 1.919999957,
+    "unit": "m"
+  },
+  "triangles": 3600,
+  "materials": 14,
+  "files": {
+    "glb": {
+      "path": "assets/fantasy-magic/fantasy-magic-alembic-and-balance-workcorner-scene-01/v1.0.0/model.glb",
+      "size": 235244,
+      "sha256": "806437eeb50b6512c569aa2c211b7504e2add2a807e8adb5a1a73c9bd5891846"
+    },
+    "blend": {
+      "path": "assets/fantasy-magic/fantasy-magic-alembic-and-balance-workcorner-scene-01/v1.0.0/source.blend",
+      "size": 1173984,
+      "sha256": "1c9387ef7d49b80ae8dd6804a7bd3f18814cd773c7e2de3222d9463f91af1ce0"
+    },
+    "generator": {
+      "path": "assets/fantasy-magic/fantasy-magic-alembic-and-balance-workcorner-scene-01/v1.0.0/generate.py",
+      "size": 95788,
+      "sha256": "7b0e425a7e1a295fe2721de587b4fc027c17f91d891db7978cb56cf9ab61576c"
+    },
+    "render": {
+      "path": "assets/fantasy-magic/fantasy-magic-alembic-and-balance-workcorner-scene-01/v1.0.0/thumbnail.png",
+      "size": 543609,
+      "sha256": "885c63004fb235ab5194bfb0ab7ea675244e20095cf51ef97e70a0cf4176190f"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

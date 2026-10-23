@@ -1,0 +1,42 @@
+{
+  "id": "robotics-fixed-three-branch-parallel-work-arm-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "robotics",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Three-Branch Parallel Work Robot",
+  "description": "One original complete fixed parallel-work-robot appearance. Three distinct branch-root housings sit below a thick open triangular upper frame. Each branch descends through one thick inclined upper link, a complete transverse elbow and two thin lower rods; all six lower rods meet the same small lower triangular tool platform. A short neck and genuinely downward-open thick bell finish the static end-tool appearance. Three separate straight peripheral columns and finite ground feet carry the upper frame while leaving the converging link assembly visible inside. Twenty-five closed independently editable meshes and four opaque constant untextured PBR materials, metres, native Z up, entire horizontal bounds-centred ground origin, front -Y. Every complete frame, branch, shared platform and bell shape is newly authored. This is not the old serial robot arm duplicated, a recoloured telescope tripod, bench drill, service cradle, stool or canopy, and no old asset geometry is imported. One whole model, no scene and no separately counted branches or tool parts. Static art only: no validated kinematic model, motion, travel, degrees of freedom, rigging, trajectory, control, calibration, grasping, suction, pressure, powered operation, force, payload, stability, manufacturing, installation or robot/workplace safety claim.",
+  "bounds": {
+    "x": 1.829046,
+    "y": 1.91,
+    "z": 2.12,
+    "unit": "m"
+  },
+  "triangles": 584,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/robotics/robotics-fixed-three-branch-parallel-work-arm-01/v1.0.0/model.glb",
+      "size": 48452,
+      "sha256": "5c3ddd25cf21b694e54df0cdbcef5065561df275adb16bd4611a28b4334c6e53"
+    },
+    "blend": {
+      "path": "assets/robotics/robotics-fixed-three-branch-parallel-work-arm-01/v1.0.0/source.blend",
+      "size": 675088,
+      "sha256": "cf996c88dc5dd57a80d1e64b94a9e03f7d401120b4da2d92038fcfcfd561b8ce"
+    },
+    "generator": {
+      "path": "assets/robotics/robotics-fixed-three-branch-parallel-work-arm-01/v1.0.0/generate.py",
+      "size": 24219,
+      "sha256": "00ca992b4c75d5ffb052f882fa22462c624cf7dee031b0a7581130d175485c92"
+    },
+    "render": {
+      "path": "assets/robotics/robotics-fixed-three-branch-parallel-work-arm-01/v1.0.0/thumbnail.png",
+      "size": 518235,
+      "sha256": "628bca85c2aa27c801abb50a85a873f544e755af1efcb4e3477cda7277520549"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

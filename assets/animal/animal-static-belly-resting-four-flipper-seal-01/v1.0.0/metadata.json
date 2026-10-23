@@ -1,0 +1,42 @@
+{
+  "id": "animal-static-belly-resting-four-flipper-seal-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "animal",
+  "style": "S01-clean-geometric",
+  "title": "Static Belly-Resting Four-Flipper Seal",
+  "description": "One newly authored stylised resting seal exterior. A continuous blunt raised head and short neck flow into a thick broad belly and tapering rear torso; four distinct thick flattened flippers comprise two swept lateral foreflippers and a paired splayed rear set. The torso has a real finite low belly patch. Two small side eyes, two blunt muzzle lobes and a small dark nose complete the face. All body station proportions and flipper outlines are newly authored, not a fish given legs, recoloured ray, cropped rabbit or a modified old animal. Ten closed editable meshes, three opaque matte PBR materials, no texture, fur simulation, gill slit, dorsal fin, tail fluke, teeth or scene. Metres, native Z up, head -Y and actual horizontal bounds-centred ground datum. One complete static prop and zero scenes. Illustrative seal-like shape only, not exact species identification, anatomical specimen, rig, breathing, locomotion, swimming, buoyancy, biological fidelity, handling or animal safety guidance.",
+  "bounds": {
+    "x": 1.52,
+    "y": 2.2729999999999997,
+    "z": 0.78,
+    "unit": "m"
+  },
+  "triangles": 1020,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/animal/animal-static-belly-resting-four-flipper-seal-01/v1.0.0/model.glb",
+      "size": 68552,
+      "sha256": "f15db9d38ae24876ccd772f5f485fd2cb71fe6c048e68a39cc7cf3d1fa61ce8a"
+    },
+    "blend": {
+      "path": "assets/animal/animal-static-belly-resting-four-flipper-seal-01/v1.0.0/source.blend",
+      "size": 618268,
+      "sha256": "45f8962188ff3ad2b995856010e46e2d1e6f700be63431e2c38d44a0380003b5"
+    },
+    "generator": {
+      "path": "assets/animal/animal-static-belly-resting-four-flipper-seal-01/v1.0.0/generate.py",
+      "size": 8833,
+      "sha256": "23ab6c76bce31f8f239502c85565653de51cf64603a7a58fc4b274eddd6d10d6"
+    },
+    "render": {
+      "path": "assets/animal/animal-static-belly-resting-four-flipper-seal-01/v1.0.0/thumbnail.png",
+      "size": 315285,
+      "sha256": "e8f6f15917487d4ae1c2cc31f96b4fdee5a59cc549ab8fce787eddb8354d08b4"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

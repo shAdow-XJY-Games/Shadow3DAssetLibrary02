@@ -1,0 +1,42 @@
+{
+  "id": "coral-reef-fixed-stocked-twin-fluke-anchor-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "coral-reef",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Stocked Twin-Fluke Anchor",
+  "description": "One newly authored complete static stocked twin-fluke anchor prop for the original underwater-ruins shipwreck-equipment direction. One continuous thick shank, broad lower crown and two rising curved arms; two broad pointed palm solids; one perpendicular full timber stock and one genuine open annular attachment eye. Five closed editable meshes, three opaque constant PBR materials, metre scale and ground-centred horizontal bounds, native Z up, front -Y. This is a whole anchor silhouette, not a recolored low mooring bollard, detached boarding hook or sliced hull rib. Intentional short inserted joints join its solids; not claimed one fused shell. No rope, chain, vessel, seabed or water. Fixed display pose only, no physical balance, anchoring or mooring performance, load rating, articulation, ship fit, salvage operation, historical accuracy or maritime safety certification. Preview floor excluded; one prop, zero scenes.",
+  "bounds": {
+    "x": 1.56,
+    "y": 1.14,
+    "z": 1.645,
+    "unit": "m"
+  },
+  "triangles": 304,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/coral-reef/coral-reef-fixed-stocked-twin-fluke-anchor-01/v1.0.0/model.glb",
+      "size": 17628,
+      "sha256": "01df580cbd575a3bd33c613450596fdb143ad2d5f8cdcf1683bc1ec3a06790ab"
+    },
+    "blend": {
+      "path": "assets/coral-reef/coral-reef-fixed-stocked-twin-fluke-anchor-01/v1.0.0/source.blend",
+      "size": 556476,
+      "sha256": "e29488a0b4256e22ee6f5a0109a632387a4b079884e9398bb1c6ad09d6691cba"
+    },
+    "generator": {
+      "path": "assets/coral-reef/coral-reef-fixed-stocked-twin-fluke-anchor-01/v1.0.0/generate.py",
+      "size": 9435,
+      "sha256": "b309bcd89d0f715e2c3833374e49bc8de3d9cd3048b8efab382ef0752e1e2573"
+    },
+    "render": {
+      "path": "assets/coral-reef/coral-reef-fixed-stocked-twin-fluke-anchor-01/v1.0.0/thumbnail.png",
+      "size": 386368,
+      "sha256": "fc1b1736b740d28734a787b3a0a96f91aa937fd7aff2ff79a2e37791e196c94d"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
