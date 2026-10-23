@@ -1,0 +1,42 @@
+{
+  "id": "animal-static-curled-abdomen-fan-tail-prawn-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "animal",
+  "style": "S01-clean-geometric",
+  "title": "Static Curled-Abdomen Fan-Tail Prawn",
+  "description": "One newly authored stylised prawn-like whole animal exterior. A thin high forward rostrum continues into a deep narrow cephalothorax and a long shallowly segmented abdomen that curves down and forwards beneath its rear, ending in three broad tail-fan blades. Two small oblique stalk eyes, two long swept antennae, two shorter forward antennules and five pairs of thin complete thoracic legs belong to the same silhouette. All whole axial stations, rostrum, leg and antenna paths, fan outlines and eye placement are new, not a narrow crab, a scorpion with its hook removed, a seahorse laid flat or a leg-count recolour. Closed continuous body skin with intentional finite embedded roots for separate complete appendages; not a welded biological specimen. One prop, zero scenes or separately counted limbs. Metres, native Z up, front -Y and full horizontal bounds-centred lowest-foot display datum. Opaque matte untextured PBR, no water, food plate or background exported. Artistic static external form only: no exact species or life-size, scientific anatomy, complete gills or swimmerets, swimming, breathing, edible status, appendage articulation, rig, gait, animation, physical stability or ecological performance claim.",
+  "bounds": {
+    "x": 0.935211,
+    "y": 1.787335,
+    "z": 0.675,
+    "unit": "m"
+  },
+  "triangles": 1840,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/animal/animal-static-curled-abdomen-fan-tail-prawn-01/v1.0.0/model.glb",
+      "size": 144992,
+      "sha256": "42cc4bb2c66a7b4cb7025b35db9e797471ed77de527beb93b69dbcf4af5f759a"
+    },
+    "blend": {
+      "path": "assets/animal/animal-static-curled-abdomen-fan-tail-prawn-01/v1.0.0/source.blend",
+      "size": 727832,
+      "sha256": "60147a0477f25c2480dac3e4807542d894755c8b054f805809aa6850e78d3d9e"
+    },
+    "generator": {
+      "path": "assets/animal/animal-static-curled-abdomen-fan-tail-prawn-01/v1.0.0/generate.py",
+      "size": 25542,
+      "sha256": "72308e86361b18fd3401746c1e60b199ccc46f8a1c9d152456bf18821660a431"
+    },
+    "render": {
+      "path": "assets/animal/animal-static-curled-abdomen-fan-tail-prawn-01/v1.0.0/thumbnail.png",
+      "size": 505525,
+      "sha256": "7d238e96fb5cbceb2e0a8b84eafd68cb87b347f4f2c8ff1b15b4c1b550f3ea27"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
