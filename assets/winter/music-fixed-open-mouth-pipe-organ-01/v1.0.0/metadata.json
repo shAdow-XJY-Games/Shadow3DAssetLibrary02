@@ -1,0 +1,42 @@
+{
+  "id": "music-fixed-open-mouth-pipe-organ-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "music",
+  "style": "source-preserved-low-poly",
+  "title": "Fixed Open-Mouth Pipe Organ",
+  "description": "One complete original fixed pipe-organ appearance: whole grounded console and rear windchest, nine independent footed thick-walled pipes with real front mouths and open tops, one pale-and-dark manual, fixed stop knobs and low pedal bed. Entirely new numeric geometry, not an upright piano case, accordion bellows or marimba pipe row reused. Static stylized instrument, one model zero scenes; no airflow, acoustic tuning, playable keyboard, pedal action, sound, engineering or safety claim.",
+  "bounds": {
+    "x": 1.5199999809265137,
+    "y": 1.0,
+    "z": 2.569999933242798,
+    "unit": "m"
+  },
+  "triangles": 3192,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/winter/music-fixed-open-mouth-pipe-organ-01/v1.0.0/model.glb",
+      "size": 322828,
+      "sha256": "f964ed1bf49c6a08f441e7bddf287c566879c8dad239793845d31480b97246ac"
+    },
+    "blend": {
+      "path": "assets/winter/music-fixed-open-mouth-pipe-organ-01/v1.0.0/source.blend",
+      "size": 1294400,
+      "sha256": "0b65ceddf0f0915f2979c276959c30b29638909a5865e90a15a8a4f3f9955204"
+    },
+    "generator": {
+      "path": "assets/winter/music-fixed-open-mouth-pipe-organ-01/v1.0.0/generate.py",
+      "size": 15817,
+      "sha256": "82cc6f8f8871bd6826da9138e4a1944c46c0e81583a1ae4770cd429b0b38a6fd"
+    },
+    "render": {
+      "path": "assets/winter/music-fixed-open-mouth-pipe-organ-01/v1.0.0/thumbnail.png",
+      "size": 536821,
+      "sha256": "e78e3535be302158a4ec35376610bf46fa70133a5e5418674e743c5fbf19caa1"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
