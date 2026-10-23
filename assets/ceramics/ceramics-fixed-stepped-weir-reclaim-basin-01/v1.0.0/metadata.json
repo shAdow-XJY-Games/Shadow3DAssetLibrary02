@@ -1,0 +1,42 @@
+{
+  "id": "ceramics-fixed-stepped-weir-reclaim-basin-01",
+  "version": "1.0.0",
+  "category": "modular",
+  "assetKind": "prop",
+  "theme": "ceramics",
+  "style": "warm-handcrafted-village",
+  "title": "Fixed Stepped-Weir Reclaim Basin",
+  "description": "One newly authored complete static ceramics reclaim-basin appearance. One continuous thick shell forms a deeper left collection well and raised-floor right well, separated by a tall dividing wall with a local lowered offset weir saddle. The right well has a genuinely through high side mouth and a projecting thick rectangular outlet collar; the deep well has a lower through side opening. Four full legs and four bearing rails support the entire shell. Empty, dry, no water, slurry, screens or animated material. Real different floor elevations, local saddle and separate high/low side openings are visual topology, not a claim of sedimentation, drainage, filtration, processing, plumbing fit, load or safe operation. One prop, zero scenes, three opaque PBR roles.",
+  "bounds": {
+    "x": 2.069999933,
+    "y": 1.039999962,
+    "z": 1.100000024,
+    "unit": "m"
+  },
+  "triangles": 1036,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/ceramics/ceramics-fixed-stepped-weir-reclaim-basin-01/v1.0.0/model.glb",
+      "size": 35672,
+      "sha256": "6818b74e197dc843feb3ccade5fac8f225d9b29e804600d0d30ef050cc4d2639"
+    },
+    "blend": {
+      "path": "assets/ceramics/ceramics-fixed-stepped-weir-reclaim-basin-01/v1.0.0/source.blend",
+      "size": 575192,
+      "sha256": "eef35aa3a7dcb7e34c11279f40a513e463cf29364af4f5752a14a38ee3f613a7"
+    },
+    "generator": {
+      "path": "assets/ceramics/ceramics-fixed-stepped-weir-reclaim-basin-01/v1.0.0/generate.py",
+      "size": 29018,
+      "sha256": "f84ea2b51dbf8577f883f5a1c27ad6a4b58c67b714d89be453c08d976cd9bc31"
+    },
+    "render": {
+      "path": "assets/ceramics/ceramics-fixed-stepped-weir-reclaim-basin-01/v1.0.0/thumbnail.png",
+      "size": 518617,
+      "sha256": "effab4710c8c7ee1f332f875b4ec7929178e50788adb8fd9d9e2b81d2ff8b8e7"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
