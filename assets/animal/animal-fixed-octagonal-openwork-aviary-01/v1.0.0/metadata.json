@@ -1,0 +1,42 @@
+{
+  "id": "animal-fixed-octagonal-openwork-aviary-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "animal",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Octagonal Openwork Aviary Exterior",
+  "description": "One newly authored complete empty octagonal aviary-style static exterior: a full finite eight-sided plinth supports eight tall corner posts, seven genuinely open barred bays, one complete front lintel and an actual unfilled entrance. One thick outward-open annular gate with real bar gaps is finitely attached by two fixed root bridges. Two complete internal perches span opposing posts at different levels. One shared-vertex thick eight-facet roof has a real underside, fascia and overhanging eaves. No old gable bird-box chamber, raised two-bay hutch, parasol mast or canopy arrays are reused; this is a whole radial openwork enclosure, not a closed animal box scaled up, a recoloured shelter, a loose fence set or extra counted bars. Opaque constant untextured PBR, no animal, vegetation, glass, wire texture, padlock, bowls, feeders, signage or scene. Metres, native Z up, front -Y, full open-gate horizontal bounds-centred ground origin. One prop and zero scenes, configurations or separately counted components. Empty illustrative appearance only: no real bird-keeping suitability, species fit, animal welfare, enclosure security, escape prevention, hygiene, weatherproofing, access suitability, gate movement, installation, loading, stability or safety claim.",
+  "bounds": {
+    "x": 2.254266,
+    "y": 2.753396,
+    "z": 2.655,
+    "unit": "m"
+  },
+  "triangles": 1220,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/animal/animal-fixed-octagonal-openwork-aviary-01/v1.0.0/model.glb",
+      "size": 127528,
+      "sha256": "579937d4a29e5169b2dcd163da302296f23fe671fb94069ba33171e9ea5c31a9"
+    },
+    "blend": {
+      "path": "assets/animal/animal-fixed-octagonal-openwork-aviary-01/v1.0.0/source.blend",
+      "size": 1046400,
+      "sha256": "c5b515a9346752ff05d93098a09b9e61a14c878581ceab98f085331993c6e059"
+    },
+    "generator": {
+      "path": "assets/animal/animal-fixed-octagonal-openwork-aviary-01/v1.0.0/generate.py",
+      "size": 25167,
+      "sha256": "54ad1bfa341d09bced7c66529d5c61db8edfa180e2c4bc7b9a482302a118a288"
+    },
+    "render": {
+      "path": "assets/animal/animal-fixed-octagonal-openwork-aviary-01/v1.0.0/thumbnail.png",
+      "size": 561994,
+      "sha256": "7b5fa6e94ca391156bdf47351810ba1b1b37db2d473ee1baec46c5729708cee9"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
