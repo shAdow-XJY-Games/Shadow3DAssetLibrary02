@@ -1,0 +1,42 @@
+{
+  "id": "photography-stepped-outdoor-outcrop-viewpoint-scene-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "photography",
+  "style": "source-preserved-low-poly",
+  "title": "Stepped Outdoor Outcrop Viewpoint",
+  "description": "One static outdoor photography viewpoint scene from the original outdoor-camera-position program, one scene and zero new independent models. Three whole qualified original assets are preserved: a tripod box camera on a raised stone-like terrace, its open recessed-insert camera bag separately beside it, and a complete fractured natural outcrop on the lower terrain to the right. Only the complete camera turns exactly 90 degrees toward the outcrop; all old meshes, raw GLB geometry, normals, internal nodes and full per-face PBR remain unchanged at unit scale. A single continuous scene-only ground solid provides the raised camera and bag terrace, three intermediate descent treads and broad lower rock bed. Complete finite original feet and bag bottom sit within the upper horizontal terrace; the complete rock sole is on the lower bed. This is an outdoor high-low camera position with an actual whole terrain subject, not a rearranged portrait backdrop or still-life tabletop set. The bag remains empty; neither camera nor lens is inserted into its recesses. No optical targeting accuracy, camera image capture, weather protection, adjustable camera mount, path clearance certification, pedestrian accessibility, safe footing, structural strength or safety suitability is claimed.",
+  "bounds": {
+    "x": 7.0,
+    "y": 5.400000095367432,
+    "z": 2.125,
+    "unit": "m"
+  },
+  "triangles": 1832,
+  "materials": 14,
+  "files": {
+    "glb": {
+      "path": "assets/photography/photography-stepped-outdoor-outcrop-viewpoint-scene-01/v1.0.0/model.glb",
+      "size": 112604,
+      "sha256": "02eaf2c2ed7fb6801c9448b3c53a4abf5001fb33988b19524ed0c3776aef935c"
+    },
+    "blend": {
+      "path": "assets/photography/photography-stepped-outdoor-outcrop-viewpoint-scene-01/v1.0.0/source.blend",
+      "size": 146499,
+      "sha256": "f23304a0897b9471d549f608cad11887bbad6491ae2ee23bd97ac5e37ab3ee31"
+    },
+    "generator": {
+      "path": "assets/photography/photography-stepped-outdoor-outcrop-viewpoint-scene-01/v1.0.0/generate.py",
+      "size": 42442,
+      "sha256": "6b0118cdef30b32c89158118041959710018be779ab4dca0d29f20cf0055573e"
+    },
+    "render": {
+      "path": "assets/photography/photography-stepped-outdoor-outcrop-viewpoint-scene-01/v1.0.0/thumbnail.png",
+      "size": 473778,
+      "sha256": "cc7ae5c827f05dea9dc979ef326c783e31450f5b7c40e071f9843c5e64756555"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
