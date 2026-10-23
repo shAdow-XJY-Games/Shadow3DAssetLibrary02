@@ -1,0 +1,42 @@
+{
+  "id": "salon-fixed-open-hood-and-caster-stand-dryer-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "salon",
+  "style": "source-preserved-low-poly",
+  "title": "Fixed Open Hood and Caster Stand Salon Dryer",
+  "description": "One original complete static salon hood-dryer appearance. A broad tilted double-wall domed shell has a genuinely open lower mouth and a continuous deep empty head chamber, without a lamp diffuser or a painted black opening. The dome is connected to a separate closed rear motor-case appearance over a fixed two-stage mast with a blank unlit control panel and one knob. Five whole radial support branches end at separate ground-contacting wheels and fixed forks. Every part is newly authored: this is neither the small conical observation lamp renamed nor the styling-chair pedestal reused. Three opaque PBR roles. One complete prop, zero scenes, chair or person. Fixed visual equipment only; no drying or heating performance, air-flow simulation, electrical design, hair-treatment recommendation, adjustment, bearing, load, ergonomics or safety claim.",
+  "bounds": {
+    "x": 0.7335096597671509,
+    "y": 0.888948917388916,
+    "z": 1.6565965414047241,
+    "unit": "m"
+  },
+  "triangles": 2952,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/salon/salon-fixed-open-hood-and-caster-stand-dryer-01/v1.0.0/model.glb",
+      "size": 271376,
+      "sha256": "71088789b6026d87831f3d9a91a4126d39a4744e937b78a67f4504774dad7c1b"
+    },
+    "blend": {
+      "path": "assets/salon/salon-fixed-open-hood-and-caster-stand-dryer-01/v1.0.0/source.blend",
+      "size": 1004464,
+      "sha256": "cd378d498dd675d5e71a1e25852038662f485f601c6ec5c571bd3143d4cf3709"
+    },
+    "generator": {
+      "path": "assets/salon/salon-fixed-open-hood-and-caster-stand-dryer-01/v1.0.0/generate.py",
+      "size": 15335,
+      "sha256": "f873499852cda3316c93e2756010e1813e17bb5c790ce7f757f856ab52c6b826"
+    },
+    "render": {
+      "path": "assets/salon/salon-fixed-open-hood-and-caster-stand-dryer-01/v1.0.0/thumbnail.png",
+      "size": 443610,
+      "sha256": "a6e7a5b1a41c3f4e3f8298e18bacf7ab5bbd991cd3adf0410dd8d9fc456c8849"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
