@@ -1,0 +1,42 @@
+{
+  "id": "astronomy-fixed-open-ring-armillary-display-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "astronomy",
+  "style": "source-preserved-low-poly",
+  "title": "Fixed Open-Ring Armillary Display",
+  "description": "One original complete fixed open-ring armillary-style display: a broad circular pedestal and four curved splayed standards support an open horizontal horizon band, a larger upright meridian hoop, two tilted interior annular bands carried by paired radial trunnions, and a small central sphere on a fixed polar spindle. The large empty spaces between bands are the main body, not a solid globe recolored or the old equatorial telescope mount. All bands have finite closed thickness and the whole geometry is newly authored. Junctions are fixed intentional assembly overlaps, not free-running bearings. A fictional static astronomical display only: no accurate celestial coordinate system, calibrated scale, astronomical measurement, navigation, historical reconstruction, motion range, manufacture or structural safety claim.",
+  "bounds": {
+    "x": 0.9300000071525574,
+    "y": 0.9300000071525574,
+    "z": 1.2100000381469727,
+    "unit": "m"
+  },
+  "triangles": 3564,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/astronomy/astronomy-fixed-open-ring-armillary-display-01/v1.0.0/model.glb",
+      "size": 310400,
+      "sha256": "6eb219d3b025fe25a6131d26670575906660a8617a8be9d8967a7accd4a946ae"
+    },
+    "blend": {
+      "path": "assets/astronomy/astronomy-fixed-open-ring-armillary-display-01/v1.0.0/source.blend",
+      "size": 1020896,
+      "sha256": "9e6c41d65696627c05729d8eb9129e8a8520ae3264371723417b2c9fc0e2cc56"
+    },
+    "generator": {
+      "path": "assets/astronomy/astronomy-fixed-open-ring-armillary-display-01/v1.0.0/generate.py",
+      "size": 14044,
+      "sha256": "fd0133520655d573bf10df063fd5fe2df4d1844f6e7b482defe1ca826d747e2b"
+    },
+    "render": {
+      "path": "assets/astronomy/astronomy-fixed-open-ring-armillary-display-01/v1.0.0/thumbnail.png",
+      "size": 557914,
+      "sha256": "381a82893dcca98300c5b9f260032feaa2b7f599ef9b67f6840bea568cc64634"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
