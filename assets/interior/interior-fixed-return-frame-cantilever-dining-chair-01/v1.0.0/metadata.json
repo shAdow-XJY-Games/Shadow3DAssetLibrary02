@@ -1,0 +1,42 @@
+{
+  "id": "interior-fixed-return-frame-cantilever-dining-chair-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "interior",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Return Frame Cantilever Dining Chair",
+  "description": "One newly authored complete static dining chair with two continuous bent C-profile flat-metal side members. Each grounded rear return runs forward along the floor, rises only at the front and turns rearward into the free seat-bearing rail; the whole rear under-seat region has no rear upright or crossed scissor member. One rear ground cross-tie joins the returns. Four small fixed mounts carry one continuous thick seat-and-reclined-back shell. This is not the old four-legged slatted dining chair, the fully closed sled-side observing chair or crossed-frame canvas camping chair with a leg removed. All full profiles and numeric geometry are new. Three opaque untextured PBR roles, native metres and whole XY-centred ground origin, one whole prop and no scenes or extra poses. Static visual furniture only: no spring flex, working cantilever elasticity, ergonomic or human fit, material fabrication, load, stability, comfort or safety certification.",
+  "bounds": {
+    "x": 0.53,
+    "y": 0.725,
+    "z": 0.93,
+    "unit": "m"
+  },
+  "triangles": 168,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/interior/interior-fixed-return-frame-cantilever-dining-chair-01/v1.0.0/model.glb",
+      "size": 13424,
+      "sha256": "f1751ab381b0288c638b97bfe034752f9f3eafbd651b4da5c204b071c8a21ee7"
+    },
+    "blend": {
+      "path": "assets/interior/interior-fixed-return-frame-cantilever-dining-chair-01/v1.0.0/source.blend",
+      "size": 563020,
+      "sha256": "68f93ddb266771db91df6d4d14491cd4a229fe928a974d0921906bbfc066bb5e"
+    },
+    "generator": {
+      "path": "assets/interior/interior-fixed-return-frame-cantilever-dining-chair-01/v1.0.0/generate.py",
+      "size": 9660,
+      "sha256": "b04134b76a14a83e6973e70ec6bbfa403048599ce3289f86b84ca186105e94d0"
+    },
+    "render": {
+      "path": "assets/interior/interior-fixed-return-frame-cantilever-dining-chair-01/v1.0.0/thumbnail.png",
+      "size": 432175,
+      "sha256": "34ad1e1530f392d366e26487845ecf3bde3fdceb302ae956be72e9c6c09e6b37"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
