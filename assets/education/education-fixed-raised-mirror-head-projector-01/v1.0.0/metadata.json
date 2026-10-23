@@ -1,0 +1,42 @@
+{
+  "id": "education-fixed-raised-mirror-head-projector-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "education",
+  "style": "source-preserved-low-poly",
+  "title": "Fixed Raised-Mirror-Head Classroom Projector",
+  "description": "One original complete fixed overhead classroom-projector appearance. A low bevelled lamp-box exterior on four finite feet carries a broad opaque pale stage panel. One rear square mast supports a cantilevered raised reflector head: a downward annular lens barrel with recessed opaque optic, two finite side cheeks and a tilted opaque mirror panel under a small hood. A fixed focus-style side knob and front control complete the device. There is no old scanner, camera, tray stand, book, scene or borrowed mesh. One whole prop, not separately counted parts. All glazing and optics are opaque constant material appearances. Static art only: no light emission, actual projection, image formation, optical accuracy, adjustment, electricity, lamp heat, electrical safety, classroom suitability, operation or manufacture claim.",
+  "bounds": {
+    "x": 0.4399999976158142,
+    "y": 0.5109999775886536,
+    "z": 0.6679999828338623,
+    "unit": "m"
+  },
+  "triangles": 728,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/education/education-fixed-raised-mirror-head-projector-01/v1.0.0/model.glb",
+      "size": 74176,
+      "sha256": "cf83927eacba442614712d72f42022c9022870709344db30ad396d5fefb28cb7"
+    },
+    "blend": {
+      "path": "assets/education/education-fixed-raised-mirror-head-projector-01/v1.0.0/source.blend",
+      "size": 726784,
+      "sha256": "7f7ea717d2e0c2c1300b55545216a7654019471e284aaf627f5bf655417d41a4"
+    },
+    "generator": {
+      "path": "assets/education/education-fixed-raised-mirror-head-projector-01/v1.0.0/generate.py",
+      "size": 13979,
+      "sha256": "42cfd36455dc663eee079a61b0b7b4b2a452606684d86c6ee6cb8adf69bcefae"
+    },
+    "render": {
+      "path": "assets/education/education-fixed-raised-mirror-head-projector-01/v1.0.0/thumbnail.png",
+      "size": 509392,
+      "sha256": "7f8675165b07f80b0d4b361db27855ba2c8c1a6eddfeec9d506459f47c1934bb"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
