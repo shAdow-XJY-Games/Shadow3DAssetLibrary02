@@ -1,0 +1,42 @@
+{
+  "id": "animal-static-long-snout-four-foot-crocodilian-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "animal",
+  "style": "S01-clean-geometric",
+  "title": "Static Long-Snout Four-Foot Crocodilian",
+  "description": "One original stylised fixed crocodilian appearance: one continuous shared-vertex broad flattened long snout, low skull, long low torso and tapering laterally flattened gently curved tail. Four separately editable whole bent splayed limbs lead to four thick connected four-digit feet with real outline clefts and full ground soles. Two low dorsal eye bosses carry small seated lateral dark eyes. Pale belly and a narrow closed-mouth seam use integral body face materials, not a second overlaid skin or claimed open mouth. All body stations and appendage outlines newly authored, no old tortoise shell removal, snake geometry extension or frog limbs reused. Separate closed components have intentionally embedded static roots, not an asserted welded animal shell. Four constant opaque untextured matte PBR materials, metres, native Z up, snout/front -Y and full horizontal-bounds-centred ground origin. One whole prop and zero scenes. Artistic exterior only: no exact species, anatomy, scale-row count, motion, bite, behaviour, wildlife safety, ecology, welfare, rig or physical simulation claim.",
+  "bounds": {
+    "x": 1.28,
+    "y": 3.17,
+    "z": 0.393,
+    "unit": "m"
+  },
+  "triangles": 1320,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/animal/animal-static-long-snout-four-foot-crocodilian-01/v1.0.0/model.glb",
+      "size": 82628,
+      "sha256": "2263e748bce36fda314a9fcdc7c9c4d7c1d2b5e03c4bf21d01aec7a929779f91"
+    },
+    "blend": {
+      "path": "assets/animal/animal-static-long-snout-four-foot-crocodilian-01/v1.0.0/source.blend",
+      "size": 671704,
+      "sha256": "452e6fc2842401ee6a317055697931097ed9883b744510e871574a9a9e0354fb"
+    },
+    "generator": {
+      "path": "assets/animal/animal-static-long-snout-four-foot-crocodilian-01/v1.0.0/generate.py",
+      "size": 11840,
+      "sha256": "ab29476fba298b581e779f6ec25a525b8bf2d166d69d9a6b73d33ef11b6613ba"
+    },
+    "render": {
+      "path": "assets/animal/animal-static-long-snout-four-foot-crocodilian-01/v1.0.0/thumbnail.png",
+      "size": 328200,
+      "sha256": "1dc4f54a2fb7f7384537a3056a02b4e7c6689e2bf61d355173ec7f0deebc8b82"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
