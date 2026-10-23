@@ -1,0 +1,42 @@
+{
+  "id": "desert-slatted-passage-and-wind-tower-court-scene-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "desert",
+  "style": "source-preserved-low-poly",
+  "title": "Slatted Passage and Wind-Tower Court",
+  "description": "One original static desert architectural passage court, one scene and zero new independent models. One complete open slatted barrel-shade frame straddles the front-to-back approach; beyond it the ground route turns right before a separate four-mouth wind tower. A whole pinnate-crown palm occupies the rear-left corner with its entire leaf envelope kept behind the shade roof. All three complete original models and their raw positions, normals, indexed triangles, internal nodes and PBR remain unchanged at unit scale; only rigid translations are added. One closed ground slab and two thin separated route inlays are scene-only. Unlike the old well-and-bench water-rest bay or the mudbrick cargo-staging court, this is an open through-passage and detached tall architectural edge, without a well, bench, goods or loading layout. The scene floor lies under the tower bottom opening; no operating air duct, airflow, cooling, weather protection, navigation, accessibility, occupancy or building safety is claimed.",
+  "bounds": {
+    "x": 9.0,
+    "y": 9.0,
+    "z": 4.781126499176025,
+    "unit": "m"
+  },
+  "triangles": 5568,
+  "materials": 11,
+  "files": {
+    "glb": {
+      "path": "assets/desert/desert-slatted-passage-and-wind-tower-court-scene-01/v1.0.0/model.glb",
+      "size": 670656,
+      "sha256": "9099eecefcc05f86cd3ec8da5c7a4bff59e303226fee0cb634a7a599a4e2a246"
+    },
+    "blend": {
+      "path": "assets/desert/desert-slatted-passage-and-wind-tower-court-scene-01/v1.0.0/source.blend",
+      "size": 2072480,
+      "sha256": "b56aed6019a794ff9e312b0bde0cc5d90cd462420d73ff36d002f1ad9ff84b77"
+    },
+    "generator": {
+      "path": "assets/desert/desert-slatted-passage-and-wind-tower-court-scene-01/v1.0.0/generate.py",
+      "size": 227926,
+      "sha256": "bba4b36baef4c094757bc4defa0948693903187a46b5527accc1c5a1bb153960"
+    },
+    "render": {
+      "path": "assets/desert/desert-slatted-passage-and-wind-tower-court-scene-01/v1.0.0/thumbnail.png",
+      "size": 535288,
+      "sha256": "6a2887a8cf2c09746c23f467500169115106f496be575e59b9a793a0d99cb143"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
