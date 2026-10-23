@@ -1,0 +1,42 @@
+{
+  "id": "fishing-fixed-expanded-twin-funnel-hoop-trap-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "fishing",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Expanded Twin-Funnel Hoop Fish Trap",
+  "description": "One newly authored complete static fishing-trap appearance in a fixed expanded dry-display pose. Four whole thick chamfered rectangular hoops support an elongated open net body built from continuous full-length solid cords and complete crossing loops. At both ends a whole inward-converging net entrance tapers from its broad outer hoop to a much narrower genuine annular throat inside the body; both small mouths and the connected central interior remain open. All cord surfaces have finite thickness and actual open net windows without transparency textures. The full longitudinal chamber and opposed internal funnel passages are not the old broad-bellied covered creel with a solid floor, the single-mouth gathered landing net, or the short straight-through four-window feeder cage enlarged or given more ribs. No older model coordinates are imported or rearranged. One whole prop, zero scenes and no separately counted hoops, cords or funnels. Four opaque constant untextured PBR roles, metres, native Z up, whole horizontal bounds-centred ground origin, four actual finite flat hoop soles. Only this fixed illustrative pose is supplied: no folding or deployment motion, spring mechanism, flexible net behavior, bait, fish, water, catch retention, capture effectiveness, fish welfare, equipment dimensions, fishing permission, real manufacture, strength, loads, stability or safety certification.",
+  "bounds": {
+    "x": 1.936,
+    "y": 0.86,
+    "z": 0.68,
+    "unit": "m"
+  },
+  "triangles": 4992,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/fishing/fishing-fixed-expanded-twin-funnel-hoop-trap-01/v1.0.0/model.glb",
+      "size": 304268,
+      "sha256": "c062b234430565b777526f0767b0a686df026d8e8e86ef2916b3838d086d86e0"
+    },
+    "blend": {
+      "path": "assets/fishing/fishing-fixed-expanded-twin-funnel-hoop-trap-01/v1.0.0/source.blend",
+      "size": 1125404,
+      "sha256": "442fe82c2e68c29ae8f9b92bef1655ad89732fac6548939fa2b5836050cdf588"
+    },
+    "generator": {
+      "path": "assets/fishing/fishing-fixed-expanded-twin-funnel-hoop-trap-01/v1.0.0/generate.py",
+      "size": 25122,
+      "sha256": "7ffc33fbdfdb3b1908fc9c990514ccd274c84018a034468f739a4bed843a89bc"
+    },
+    "render": {
+      "path": "assets/fishing/fishing-fixed-expanded-twin-funnel-hoop-trap-01/v1.0.0/thumbnail.png",
+      "size": 596052,
+      "sha256": "804e7f9c2f83fa2715b198fa1dda4421473d564e8dfc8a3e25890b2c3c8058f4"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

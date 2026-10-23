@@ -1,0 +1,42 @@
+{
+  "id": "agriculture-fixed-triangular-frame-drag-harrow-01",
+  "version": "1.0.0",
+  "category": "modular",
+  "assetKind": "prop",
+  "theme": "agriculture",
+  "style": "warm-handcrafted-village",
+  "title": "Fixed Triangular-Frame Drag Harrow",
+  "description": "One complete newly authored stationary triangular drag-harrow appearance: a thick closed triangular timber perimeter surrounds a true triangular opening; two full crossbars span it, with six separately editable backward-raked blunt ground teeth distributed beneath those bars. A forward integral-form draw tongue joins a true open terminal ring. The wide low frame carries distributed downward teeth, unlike a single long hand shaft and fork shoulder, a longitudinal mouldboard plough with curling share or a transverse two-neck yoke. Eleven closed editable meshes and three constant opaque PBR roles; one prop and zero scenes. Six real finite blunt tip faces define the static ground datum. No actual draft linkage, soil cultivation, tooth strength, motion, force, animal/tractor fit, manufacturing or safety claim.",
+  "bounds": {
+    "x": 1.399999976,
+    "y": 1.710000038,
+    "z": 0.340000004,
+    "unit": "m"
+  },
+  "triangles": 612,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/agriculture/agriculture-fixed-triangular-frame-drag-harrow-01/v1.0.0/model.glb",
+      "size": 36840,
+      "sha256": "c14169004262a70a34aab82ae6a9cd81b5e9b51184d10e02354c150bb7938b1b"
+    },
+    "blend": {
+      "path": "assets/agriculture/agriculture-fixed-triangular-frame-drag-harrow-01/v1.0.0/source.blend",
+      "size": 569300,
+      "sha256": "d91a963bd040081b2a3b4c0cde96171c8688037ed80c117119c4c28a9ec47f24"
+    },
+    "generator": {
+      "path": "assets/agriculture/agriculture-fixed-triangular-frame-drag-harrow-01/v1.0.0/generate.py",
+      "size": 28486,
+      "sha256": "2dcf1bc8a118fee809f12a3039dd3baff298411df854f6a7cf808daaa48daab2"
+    },
+    "render": {
+      "path": "assets/agriculture/agriculture-fixed-triangular-frame-drag-harrow-01/v1.0.0/thumbnail.png",
+      "size": 498944,
+      "sha256": "172d56c04b361c5bdf1a6fab2be6e7dd6a0c3cc027d6173dd27ca4e1e9b14b28"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
