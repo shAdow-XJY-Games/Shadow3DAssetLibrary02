@@ -1,0 +1,42 @@
+{
+  "id": "carnival-fixed-open-cockpit-bumper-car-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "carnival",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Open Cockpit Bumper Car",
+  "description": "One newly authored complete static bumper-car exterior: one continuous rounded low hull with a genuine open cockpit and integral thick floor/foredeck, a complete broad oval buffer ring around the whole perimeter, low chassis and three small fixed grounded wheels, a broad dark seat with inclined back, tilted three-spoke steering ring on a supported column and one tall rear pickup mast ending in a small contact shoe. All complete numeric geometry is newly authored; no old sit-down racing cabinet is stripped of its screen, and no trailer or scooter shell is repurposed. The low enclosing oval buffer/hull and rear mast form a coherent distinct whole ride-car silhouette. Three opaque untextured solid PBR roles; metres, Z up, full horizontally centred bounds and ground origin. One complete prop, zero scenes, no independent seat/pole counts. Fixed unoccupied exterior only: no ceiling/floor power network, current collection, motor, steering or collision function, ride trajectory, padding performance, passenger fit, restraint, loading, road use or safety claim.",
+  "bounds": {
+    "x": 1.3199999999999998,
+    "y": 1.98,
+    "z": 1.9224999999999999,
+    "unit": "m"
+  },
+  "triangles": 2452,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/carnival/carnival-fixed-open-cockpit-bumper-car-01/v1.0.0/model.glb",
+      "size": 157640,
+      "sha256": "73e792b2599af232b697ff87f1ed8a47374ffdb899f3f5419384bf2e808c673e"
+    },
+    "blend": {
+      "path": "assets/carnival/carnival-fixed-open-cockpit-bumper-car-01/v1.0.0/source.blend",
+      "size": 746360,
+      "sha256": "859b4bfa7696a5bfe215e1fa558994f1c52327d073a9663eb9a9b3ca3bd97899"
+    },
+    "generator": {
+      "path": "assets/carnival/carnival-fixed-open-cockpit-bumper-car-01/v1.0.0/generate.py",
+      "size": 12001,
+      "sha256": "1204127c3c7c8b02e58b6f0df4dc9d46f7e712965e2f2e863fac58bd457abbef"
+    },
+    "render": {
+      "path": "assets/carnival/carnival-fixed-open-cockpit-bumper-car-01/v1.0.0/thumbnail.png",
+      "size": 388556,
+      "sha256": "88d82617d6e003ca0cf8568e43347d5354f834b78298c6517607fd2e143442ed"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
