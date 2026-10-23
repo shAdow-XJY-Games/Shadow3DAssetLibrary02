@@ -1,0 +1,42 @@
+{
+  "id": "construction-fixed-foldout-single-roller-feed-stand-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "construction",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Foldout Single Roller Feed Stand",
+  "description": "One complete original static deployed single-roller material feed support. Two transverse grounded feet carry a forward main leg and a separate rear foldout support joined at a fixed side hinge, with two deployed spacing strips. A full hollow square sleeve surrounds an inserted height stem with a side clamp knob. The raised stem carries a continuous U-shaped head with two ears, one full axle and one thick genuinely hollow transverse roller. This is an independent narrow adjustable-head stand, not a shortened conveyor bed, four-legged timber sawhorse or crossed-arm lifting platform. All parts newly authored; three opaque untextured PBR roles, metres, native Z up, full horizontal-bounds-centred ground origin. One fixed open pose only, no stock or operator. No articulation, rotation, height adjustment, folding clearance, material feeding, support capacity, equipment fit, balance, manufacturing tolerance or work safety is verified.",
+  "bounds": {
+    "x": 0.7360000000000001,
+    "y": 0.702,
+    "z": 1.18,
+    "unit": "m"
+  },
+  "triangles": 560,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/construction/construction-fixed-foldout-single-roller-feed-stand-01/v1.0.0/model.glb",
+      "size": 36272,
+      "sha256": "7551d9f8feaac0aa7fded1389cbe98f66d767519f1a8712b23f11222b5a63fe9"
+    },
+    "blend": {
+      "path": "assets/construction/construction-fixed-foldout-single-roller-feed-stand-01/v1.0.0/source.blend",
+      "size": 630332,
+      "sha256": "ccf954bfe8fa5d77b186241046c06e80ca84e263d705d0eeef0d06ec1dfdeba5"
+    },
+    "generator": {
+      "path": "assets/construction/construction-fixed-foldout-single-roller-feed-stand-01/v1.0.0/generate.py",
+      "size": 10732,
+      "sha256": "0ac23306f294df4989cd3a77d7b26d7bec9279fbe4a91bf96c300d5c481e1853"
+    },
+    "render": {
+      "path": "assets/construction/construction-fixed-foldout-single-roller-feed-stand-01/v1.0.0/thumbnail.png",
+      "size": 376801,
+      "sha256": "7ee725b24961a6250c4c83548446c61cb258bf904020ca9c126462484379f825"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

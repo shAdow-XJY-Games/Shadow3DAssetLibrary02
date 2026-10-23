@@ -1,0 +1,42 @@
+{
+  "id": "education-fixed-offset-twin-wire-ball-cradle-01",
+  "version": "1.0.0",
+  "category": "modular",
+  "assetKind": "prop",
+  "theme": "education",
+  "style": "warm-handcrafted-village",
+  "title": "Fixed Offset Twin-Wire Ball Cradle",
+  "description": "One newly authored complete static twin-wire ball-cradle teaching display. Two complete parallel portal frames stand on one finite wooden base. Five individually closed faceted metal spheres each hang from their own pair of solid slender wires to separated front/back upper beams; the left end sphere is fixed in an outward raised display position. No rod passes through the balls, no bored sliding beads, clock body/dial or central equal-arm balance beam. One whole prop, zero scenes; sphere count and repeated strings are not separate assets. No animation, real collision, momentum/energy demonstration accuracy, timing, equilibrium, wire loading or safe apparatus claim.",
+  "bounds": {
+    "x": 1.200000048,
+    "y": 0.49000001,
+    "z": 0.660000026,
+    "unit": "m"
+  },
+  "triangles": 2548,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/education/education-fixed-offset-twin-wire-ball-cradle-01/v1.0.0/model.glb",
+      "size": 142836,
+      "sha256": "4bf074f7956dfba63fd49da03699f1e8a6662c257b9dc8218930f14cf994af5e"
+    },
+    "blend": {
+      "path": "assets/education/education-fixed-offset-twin-wire-ball-cradle-01/v1.0.0/source.blend",
+      "size": 678588,
+      "sha256": "e8daf0bb265baa3c44dfcb23ad8f8cab2cfab6fe48cacd63079b97ca09d8984b"
+    },
+    "generator": {
+      "path": "assets/education/education-fixed-offset-twin-wire-ball-cradle-01/v1.0.0/generate.py",
+      "size": 27937,
+      "sha256": "c9082195598a16ff7fe83ec251b3a7d07994b57b93def15a4c2741ea2aaa7c6c"
+    },
+    "render": {
+      "path": "assets/education/education-fixed-offset-twin-wire-ball-cradle-01/v1.0.0/thumbnail.png",
+      "size": 532651,
+      "sha256": "7e63c04bf8a0a818c1afa02fbf95390fdbc3d855e2672e11485cb72ae82dd425"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
