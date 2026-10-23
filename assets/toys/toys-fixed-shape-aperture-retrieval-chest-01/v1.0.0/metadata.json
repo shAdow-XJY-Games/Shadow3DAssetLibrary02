@@ -1,0 +1,42 @@
+{
+  "id": "toys-fixed-shape-aperture-retrieval-chest-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "toys",
+  "style": "source-preserved-low-poly",
+  "title": "Shape-Aperture Retrieval Chest",
+  "description": "One original static shape-aperture toy chest with a continuous deep body, open front retrieval mouth and integral forward receiving shelf. Three fixed thick roof panels have complete round, triangular and square through-openings into the common cavity. Three whole corresponding simple wooden-colour forms rest separately on the shelf, counted with the chest as one visual kit rather than three new models. Newly authored complete geometry, not a resized empty storage box, play kitchen or ring tower. No insertion animation, tested fit, learning outcome, age suitability, swallowing or pinch protection, material safety, child or toy certification, load or manufacturing claim.",
+  "bounds": {
+    "x": 0.47999998927116394,
+    "y": 0.6499999761581421,
+    "z": 0.3019999861717224,
+    "unit": "m"
+  },
+  "triangles": 720,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/toys/toys-fixed-shape-aperture-retrieval-chest-01/v1.0.0/model.glb",
+      "size": 66036,
+      "sha256": "9b8be0d2dae236a5b7d858561f46810aea0624c09749194d9d5571ab2fd4bf4e"
+    },
+    "blend": {
+      "path": "assets/toys/toys-fixed-shape-aperture-retrieval-chest-01/v1.0.0/source.blend",
+      "size": 669440,
+      "sha256": "c8bd42856513c178d9aec110124ff0b21ae8bda671730e25158e3d6b5575444e"
+    },
+    "generator": {
+      "path": "assets/toys/toys-fixed-shape-aperture-retrieval-chest-01/v1.0.0/generate.py",
+      "size": 13634,
+      "sha256": "5c854255253a4cf6411e359d103b760884a245e9d24b50199e54f90faffde693"
+    },
+    "render": {
+      "path": "assets/toys/toys-fixed-shape-aperture-retrieval-chest-01/v1.0.0/thumbnail.png",
+      "size": 551797,
+      "sha256": "f56252e46e7c2030ed5628a1d3d600619b078b8b1766fe8ae3fdd023e6c08200"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
