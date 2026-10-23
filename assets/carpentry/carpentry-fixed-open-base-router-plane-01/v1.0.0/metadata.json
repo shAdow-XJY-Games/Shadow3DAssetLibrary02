@@ -1,0 +1,42 @@
+{
+  "id": "carpentry-fixed-open-base-router-plane-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "carpentry",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Open Base Router Plane",
+  "description": "One newly authored whole fixed router-plane-inspired woodworking tool. A single wide low horseshoe-like sole has a real large open front throat. Its raised rear bridge carries a complete rectangular through-bored collar; one full upright iron turns into a forward-facing finite blunt L foot just above the ground datum. A separate short rear clamp screw fixes the iron in the displayed pose. Two whole shaped lateral walnut knobs and their seated fasteners complete the broad two-hand silhouette. This is not the old long 45-degree bench plane with another handle: no sloped frog, inclined long iron, lever cap or rear open tote is used. All visible whole geometry is new; only generic mesh/export/render tools are reused. Three opaque constant PBR materials, closed editable bodies, metres, Z up and whole horizontal bounds-centred grounded sole. One fixed visual tool, zero scenes. The blade/collar clearance and fixed clamp are illustrative; no depth adjustment, cutting, shaving, sharpness, flatness, workpiece fit, hand ergonomics, manufacturing tolerance, load or tool-safety claim.",
+  "bounds": {
+    "x": 0.28,
+    "y": 0.133,
+    "z": 0.128,
+    "unit": "m"
+  },
+  "triangles": 1048,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/carpentry/carpentry-fixed-open-base-router-plane-01/v1.0.0/model.glb",
+      "size": 55928,
+      "sha256": "c526446d27b53b046c5d247f6dccf9841ea12e32f3bb79cb48c20a7c4e767a8f"
+    },
+    "blend": {
+      "path": "assets/carpentry/carpentry-fixed-open-base-router-plane-01/v1.0.0/source.blend",
+      "size": 619752,
+      "sha256": "b0d878fa6a9f0742e659fa280f24678b67bcd1d61d0c997be027d527aa2ecedb"
+    },
+    "generator": {
+      "path": "assets/carpentry/carpentry-fixed-open-base-router-plane-01/v1.0.0/generate.py",
+      "size": 11439,
+      "sha256": "400b7d3b4cf48e8159dd5dfdeb4b51373a78b550175ef2059ee822c922b68e20"
+    },
+    "render": {
+      "path": "assets/carpentry/carpentry-fixed-open-base-router-plane-01/v1.0.0/thumbnail.png",
+      "size": 365618,
+      "sha256": "4bc56e75494f2443cdd6723cbed1e6d2a3dbbcce845d3f471ca92080b88f258f"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

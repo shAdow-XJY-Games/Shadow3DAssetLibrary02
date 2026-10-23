@@ -1,0 +1,42 @@
+{
+  "id": "laundry-fixed-hand-crank-cloth-wringer-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "laundry",
+  "style": "source-preserved-low-poly",
+  "title": "Fixed Hand-Crank Cloth Wringer",
+  "description": "One whole newly authored fixed hand-crank cloth wringer: two vertically stacked horizontal rollers in a complete pressure frame, two upper screws, side crank, a supported feed board and a single draped cloth strip through a true gap, with an empty catch pan and finite ground feet. No old crusher body, hopper, discharge funnel or washer drum geometry imported. Static visual model only; no roller motion, squeezing pressure, laundry performance, engineering, load or safety claim.",
+  "bounds": {
+    "x": 1.1749999523162842,
+    "y": 0.8199999928474426,
+    "z": 1.6579999923706055,
+    "unit": "m"
+  },
+  "triangles": 1028,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/winter/laundry-fixed-hand-crank-cloth-wringer-01/v1.0.0/model.glb",
+      "size": 104640,
+      "sha256": "3ac9ec0e640e5291afa36aac336199d75ec5d60e78045ba8becee2c588707a0b"
+    },
+    "blend": {
+      "path": "assets/winter/laundry-fixed-hand-crank-cloth-wringer-01/v1.0.0/source.blend",
+      "size": 788608,
+      "sha256": "d9a7ba64c60379f07e9ef76dbbe66777d538deaca519d24429635da69d286b24"
+    },
+    "generator": {
+      "path": "assets/winter/laundry-fixed-hand-crank-cloth-wringer-01/v1.0.0/generate.py",
+      "size": 15144,
+      "sha256": "abaa51730607fb4ad10d621f337d6fdb1ecf39aa5bcd81fe307d785ef171739d"
+    },
+    "render": {
+      "path": "assets/winter/laundry-fixed-hand-crank-cloth-wringer-01/v1.0.0/thumbnail.png",
+      "size": 498306,
+      "sha256": "0ce76df2b9097124efe91b41692822d86f1b54cf879a1f3be5b25a0b78c782a5"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
