@@ -1,0 +1,42 @@
+{
+  "id": "harbor-lighthouse-and-single-pier-shore-scene-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "harbor",
+  "style": "source-preserved-low-poly",
+  "title": "Lighthouse and Single Pier Shore",
+  "description": "One static lighthouse shore scene, preserving the entire unlit lantern lighthouse and one original pier tile with its real plank and bevel seams, on one closed stepped shore base. One scene, zero new independent models. Opaque water-colour ground is not a fluid. No navigation, maritime, mooring, structural, seamless access or safety claims.",
+  "bounds": {
+    "x": 8.800000190734863,
+    "y": 5.0,
+    "z": 9.59000015258789,
+    "unit": "m"
+  },
+  "triangles": 2048,
+  "materials": 10,
+  "files": {
+    "glb": {
+      "path": "assets/harbor/harbor-lighthouse-and-single-pier-shore-scene-01/v1.0.0/model.glb",
+      "size": 155808,
+      "sha256": "fb664a02f9a05b65ccf99ebd81964a91abca8698e5001354129d8052cafcbab7"
+    },
+    "blend": {
+      "path": "assets/harbor/harbor-lighthouse-and-single-pier-shore-scene-01/v1.0.0/source.blend",
+      "size": 1153496,
+      "sha256": "ac5487e701b9389d585f7693ae15fb089ae0471bb9b519322daa8d807aedf9ec"
+    },
+    "generator": {
+      "path": "assets/harbor/harbor-lighthouse-and-single-pier-shore-scene-01/v1.0.0/generate.py",
+      "size": 61343,
+      "sha256": "e3d90a91060a497ab1d5091403b6f7b6797b1d1c906866589b49801ec0497360"
+    },
+    "render": {
+      "path": "assets/harbor/harbor-lighthouse-and-single-pier-shore-scene-01/v1.0.0/thumbnail.png",
+      "size": 501654,
+      "sha256": "76a62b566868d140aaebe8d31fa23016b9cf593da6c4d1fec912f447cd9a5ce8"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

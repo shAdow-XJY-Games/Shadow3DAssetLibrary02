@@ -1,0 +1,42 @@
+{
+  "id": "harbor-channelled-table-and-open-tote-market-scene-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "harbor",
+  "style": "source-preserved-low-poly",
+  "title": "Channelled Worktable and Open Tote Market Corner",
+  "description": "One static fish-market work corner, reusing the complete channelled worktable and complete empty attached-lid tote beside it, not under or connected to its outlet. One scene, zero new independent models. No fish, food hygiene, drainage, operational or safety claims.",
+  "bounds": {
+    "x": 3.4000000953674316,
+    "y": 1.7999999523162842,
+    "z": 1.059999942779541,
+    "unit": "m"
+  },
+  "triangles": 2524,
+  "materials": 10,
+  "files": {
+    "glb": {
+      "path": "assets/harbor/harbor-channelled-table-and-open-tote-market-scene-01/v1.0.0/model.glb",
+      "size": 127664,
+      "sha256": "17b28767d0cc78f0f00a15dd986b59df8d4914bbc975a5b92df46ab886f78cdd"
+    },
+    "blend": {
+      "path": "assets/harbor/harbor-channelled-table-and-open-tote-market-scene-01/v1.0.0/source.blend",
+      "size": 1163036,
+      "sha256": "f1481bcccf87f9ce66b369427086bc197b6406913185f13f57fe74f2f726fe0f"
+    },
+    "generator": {
+      "path": "assets/harbor/harbor-channelled-table-and-open-tote-market-scene-01/v1.0.0/generate.py",
+      "size": 72908,
+      "sha256": "3c9f3570003ea0861d5ac6b9dd4eb61400ed9dc44b89481cf9ff8ab7eaace01e"
+    },
+    "render": {
+      "path": "assets/harbor/harbor-channelled-table-and-open-tote-market-scene-01/v1.0.0/thumbnail.png",
+      "size": 468359,
+      "sha256": "5a9ff6ed99cc585c82f09131e80fe48b769fca969d51b49ad6f483fd4c668167"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

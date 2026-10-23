@@ -1,0 +1,42 @@
+{
+  "id": "beach-dry-shore-lookout-and-rinse-station-scene-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "beach",
+  "style": "S01-clean-geometric",
+  "title": "Dry Shore Lookout and Rinse Station",
+  "description": "One static beach observation and rinse-station layout, one scene and zero new standalone models. Complete published elevated observation seat faces the shallow sea datum; whole fixed shower stands in the rear-right dry rinse zone; whole original lifebuoy lies face-up on the dry shore using exact X minus 90 degree rigid rotation. All original triangle positions under declared transforms and per-face opaque PBR are retained. Three new scene-only closed support volumes form dry bank, sloping shore and opaque water datum; not a fused shell. Distinct from dock-based wetland or fishing piers: no dock tile, fishing kit or relabeled access pier. No person, labels, textures, working water, rescue capability, swimming designation, accessibility, drainage, structural loading or safety certification. Original custom corner normals and interactive hierarchy are not claimed preserved. Preview floor excluded.",
+  "bounds": {
+    "x": 5.0,
+    "y": 4.8,
+    "z": 2.759999923706055,
+    "unit": "m"
+  },
+  "triangles": 2404,
+  "materials": 13,
+  "files": {
+    "glb": {
+      "path": "assets/beach/beach-dry-shore-lookout-and-rinse-station-scene-01/v1.0.0/model.glb",
+      "size": 139400,
+      "sha256": "89b96eed6da3858346b419a291936ebbc8b94cfef19eaaed6ae1ee508cc1a28a"
+    },
+    "blend": {
+      "path": "assets/beach/beach-dry-shore-lookout-and-rinse-station-scene-01/v1.0.0/source.blend",
+      "size": 1059384,
+      "sha256": "de1abfa003a4f53521a0dc6daa5be672272fc26d2d6ee285f34b79d31398798b"
+    },
+    "generator": {
+      "path": "assets/beach/beach-dry-shore-lookout-and-rinse-station-scene-01/v1.0.0/generate.py",
+      "size": 44027,
+      "sha256": "70bb0896332e5a754a0bf6b067a1d68f526f6757ea9bee87e356a0845646a9e9"
+    },
+    "render": {
+      "path": "assets/beach/beach-dry-shore-lookout-and-rinse-station-scene-01/v1.0.0/thumbnail.png",
+      "size": 446174,
+      "sha256": "8983cd080ca6139c3daba925e365f3e54e4860adba893a22ee76bba5686b7be4"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "wetland-split-window-hollow-fallen-log-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "wetland",
+  "style": "warm-handcrafted-village",
+  "title": "Split-Window Hollow Fallen Log",
+  "description": "One newly authored static wetland deadwood prop: a low thick irregular fallen trunk with two unequal ragged open ends, one continuous genuinely empty longitudinal cavity, and one angular upper-side decay window opening into that same cavity. Outer bark, inner decayed wood, thick end-grain rims and the entire window wall share vertices in one closed connected material shell. Four restrained opaque constant wood PBR roles, no textures. Every outer and inner ring, axial station and uneven opening is newly authored; no old solid log, Y-fork log, stump or trough geometry is imported, stretched, recoloured or stripped. The flat underside facet is a deliberate game-art placement datum. One whole prop only, zero scenes and no separately counted ends, holes, bark strips or variants. Not a scientific tree species, real decay/ecology model, water-filled object, buoyancy, strength, collision, habitat, growth, wind or physical-performance claim. No decorative plants, fungi or loose branches are added to rescue recognition.",
+  "bounds": {
+    "x": 2.280520916,
+    "y": 0.877002835,
+    "z": 0.779991686,
+    "unit": "m"
+  },
+  "triangles": 444,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/wetland/wetland-split-window-hollow-fallen-log-01/v1.0.0/model.glb",
+      "size": 27920,
+      "sha256": "9cf21f04b7be932f0846d33aace58ddfa88f63eb0c2e1a6edfac68eeec14dddb"
+    },
+    "blend": {
+      "path": "assets/wetland/wetland-split-window-hollow-fallen-log-01/v1.0.0/source.blend",
+      "size": 536584,
+      "sha256": "aafb7b5000d3c027618a7178125a00736e4efe515276223a864268c77394dee2"
+    },
+    "generator": {
+      "path": "assets/wetland/wetland-split-window-hollow-fallen-log-01/v1.0.0/generate.py",
+      "size": 27450,
+      "sha256": "f4d340b74cd64ca751fc2c40847063f8580e62830b27acadf68b13b287d6b53a"
+    },
+    "render": {
+      "path": "assets/wetland/wetland-split-window-hollow-fallen-log-01/v1.0.0/thumbnail.png",
+      "size": 491142,
+      "sha256": "89e5323ddcf1fb49f269a9bbc298c7341d4020644f17ed1c61c2313450804b8d"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

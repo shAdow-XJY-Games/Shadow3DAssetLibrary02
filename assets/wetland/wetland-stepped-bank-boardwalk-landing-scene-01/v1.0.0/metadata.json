@@ -1,0 +1,42 @@
+{
+  "id": "wetland-stepped-bank-boardwalk-landing-scene-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "wetland",
+  "style": "warm-handcrafted-village",
+  "title": "Stepped Bank to Boardwalk Landing",
+  "description": "One static wetland landing scene, one scene and zero new reusable models. An entire existing two-step stone entry module sits on a finite dry bank, with its upper tread meeting the top level of one whole unchanged two-metre pier tile. The whole pier retains all ten deck planks, both stringers, four piles and four collars; the four full pile bottoms meet the pool bed. One complete original reed-sedge clump stands behind the dry approach, not in the step or deck route. All three published models retain every original GLB triangle, original constant opaque PBR and unit scale under translation only. Three simple new scene-only volumes form the bed, raised bank and opaque shallow-water volume reaching the pool bed, with conservative rectangular clearances around the four actual pile envelopes. The old wetland boardwalk scene explicitly had no bank-to-deck access; this composition instead centres a real two-level bank-step-deck interface, not more deck tiles or recoloured plants. Normals are recomputed rather than preserving original NORMAL bytes. Static illustrative assembly only: no certified human accessibility, navigation, railing safety, structural capacity, tide, water depth rendering, physical flow, ecological accuracy, wind or plant growth.",
+  "bounds": {
+    "x": 4.199999809,
+    "y": 3.200000048,
+    "z": 1.669999957,
+    "unit": "m"
+  },
+  "triangles": 1502,
+  "materials": 13,
+  "files": {
+    "glb": {
+      "path": "assets/wetland/wetland-stepped-bank-boardwalk-landing-scene-01/v1.0.0/model.glb",
+      "size": 95760,
+      "sha256": "f99d4c050ab5f0ade8894e77436ebf05a8ef92c080b98369a565517454e72d98"
+    },
+    "blend": {
+      "path": "assets/wetland/wetland-stepped-bank-boardwalk-landing-scene-01/v1.0.0/source.blend",
+      "size": 833864,
+      "sha256": "9971930952742e8ab2825578ac425ab905507dd731f78f4340dac6f8c7332ae7"
+    },
+    "generator": {
+      "path": "assets/wetland/wetland-stepped-bank-boardwalk-landing-scene-01/v1.0.0/generate.py",
+      "size": 59248,
+      "sha256": "3c4d52b4d8d7858dea53f7ecf3bae3978cb5cb57bf13d54572355c897d672954"
+    },
+    "render": {
+      "path": "assets/wetland/wetland-stepped-bank-boardwalk-landing-scene-01/v1.0.0/thumbnail.png",
+      "size": 529504,
+      "sha256": "cbf20a4ab57c16ea81cb46156397bef52e06e5b714dfcab7335349b5180f26db"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
