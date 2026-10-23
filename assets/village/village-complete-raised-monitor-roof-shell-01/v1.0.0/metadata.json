@@ -1,0 +1,42 @@
+{
+  "id": "village-complete-raised-monitor-roof-shell-01",
+  "version": "1.0.0",
+  "category": "architecture",
+  "assetKind": "modular",
+  "theme": "village",
+  "style": "S01-clean-geometric",
+  "title": "Complete Raised Monitor Roof Shell",
+  "description": "One newly authored complete village raised-monitor roof shell. Two full lower inclined roof flanks connect continuously into a raised central longitudinal strip, whose two opposite side walls each contain one genuine long unglazed aperture. A complete upper two-pitch cap joins those walls and both thick end returns, so no upper roof floats independently. The entire material boundary is one closed connected editable mesh, including both lower flanks, aperture reveals, ends, upper cap and exposed underside; internal cell faces are omitted. Unlike the old front-window dormer, the complete main roof is included and the openings run lengthwise on both sides of the raised ridge strip. This is not an old dormer placed atop an old roof, a recolour or changed pitch/count of repeated old pieces. Native metres, XYbounds-centred lowest-eave datum, one276triangle mesh and two opaque constant PBR materials. One architecture model, zero scenes. No glazing, louvers, host walls, hidden render cutaway, airflow/daylight performance, weather sealing, drainage, load, old-host compatibility, installation or safety guarantee. Lowest eave edges define the preview datum, not a flat freestanding foundation.",
+  "bounds": {
+    "x": 4,
+    "y": 4,
+    "z": 2.48,
+    "unit": "m"
+  },
+  "triangles": 276,
+  "materials": 2,
+  "files": {
+    "glb": {
+      "path": "assets/village/village-complete-raised-monitor-roof-shell-01/v1.0.0/model.glb",
+      "size": 10904,
+      "sha256": "217e8344d5a5aca462f835a54700747be751b0eca8bd31a9bf5f9239fd6dcccf"
+    },
+    "blend": {
+      "path": "assets/village/village-complete-raised-monitor-roof-shell-01/v1.0.0/source.blend",
+      "size": 513276,
+      "sha256": "19069be62130d5cfcec072d0c4a5058ddd97187882974a1f0e2df96d8748e652"
+    },
+    "generator": {
+      "path": "assets/village/village-complete-raised-monitor-roof-shell-01/v1.0.0/generate.py",
+      "size": 9754,
+      "sha256": "e4574a40bfa5e55413ae8ff3ad47af8c42dee3a46e4ddaf25e28eec67cf9f029"
+    },
+    "render": {
+      "path": "assets/village/village-complete-raised-monitor-roof-shell-01/v1.0.0/thumbnail.png",
+      "size": 490898,
+      "sha256": "679529bbd90123cf70fccb8b11cf0d2ef03eafccf12374d274c8eed33aa817eb"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
