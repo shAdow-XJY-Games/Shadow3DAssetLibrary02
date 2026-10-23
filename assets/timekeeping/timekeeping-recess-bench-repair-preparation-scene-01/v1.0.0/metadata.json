@@ -1,0 +1,42 @@
+{
+  "id": "timekeeping-recess-bench-repair-preparation-scene-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "timekeeping",
+  "style": "source-preserved-low-poly",
+  "title": "Recess-Bench Watchmaker Preparation",
+  "description": "One static watchmaker preparation scene for the original timekeeping repair program. Three complete existing models at original scale and identity orientation: the full recess-front watchmaker bench, one complete empty three-pocket and twin-cradle parts tray on its rear-right workboard, and the original full fixed-open pocket watch separately on the left workboard arm. The existing watch is not disassembled, enlarged or fitted into the tray. Every original raw GLB POSITION/NORMAL/index buffer, internal node and per-face PBR is preserved. Both whole guest soles are covered by actual upward workboard triangles, with the original front recess kept empty and all other bench parts clear; the bench retains all four finite grounded feet and its separate lower catch tray. Only one connected floor and cutaway wall boundary are new scene geometry. This is a new bench preparation arrangement, not the old pendulum-clock and sundial display, and is counted as one scene and zero new independent models. Tiny watch markers are not promised readable in the whole-room view. No actual repair instruction, tool fit, parts retention, antistatic performance, magnification, timekeeping, calibration, gear motion, winding, cover motion, human ergonomics, load, manufacture, installation or occupational safety is claimed.",
+  "bounds": {
+    "x": 2.4000000953674316,
+    "y": 2.200000047683716,
+    "z": 1.4500000476837158,
+    "unit": "m"
+  },
+  "triangles": 7252,
+  "materials": 15,
+  "files": {
+    "glb": {
+      "path": "assets/timekeeping/timekeeping-recess-bench-repair-preparation-scene-01/v1.0.0/model.glb",
+      "size": 444592,
+      "sha256": "ed8b12f99fc750d707856fde5211b962a9952cce4399544368dd248ce6f05fb3"
+    },
+    "blend": {
+      "path": "assets/timekeeping/timekeeping-recess-bench-repair-preparation-scene-01/v1.0.0/source.blend",
+      "size": 251118,
+      "sha256": "23c021741412dbacd29acb52f88db4e89eca1c9156f923b9fe68180b82976d24"
+    },
+    "generator": {
+      "path": "assets/timekeeping/timekeeping-recess-bench-repair-preparation-scene-01/v1.0.0/generate.py",
+      "size": 131370,
+      "sha256": "825bb476ad73dd2387326984ced7527d89ee4c0a02223d2bb5f3f046b3cead39"
+    },
+    "render": {
+      "path": "assets/timekeeping/timekeeping-recess-bench-repair-preparation-scene-01/v1.0.0/thumbnail.png",
+      "size": 527602,
+      "sha256": "b4a230db610dd1f7124eb02f416c3219801aa52c76d0d415b60b46926289bbf6"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

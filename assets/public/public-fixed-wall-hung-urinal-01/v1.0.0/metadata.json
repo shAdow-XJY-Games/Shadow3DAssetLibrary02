@@ -1,0 +1,42 @@
+{
+  "id": "public-fixed-wall-hung-urinal-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "public",
+  "style": "source-preserved-low-poly",
+  "title": "Fixed Wall-Hung Urinal Appearance",
+  "description": "Original static wall-hung urinal appearance: one continuous thick ceramic shell connects a tall shallow upper splash region to a deeper protruding lower bowl through a real front-open recess and turned rim, with a closed interior back and floor. Two fixed rear mounting-boss appearances are separate complete meshes. Newly authored geometry, not a rotated or resized toilet, sink table or drinking station. No seat, pedestal, cistern, sensor, person, water or claimed drain hole. Lowest ceramic point is a local model datum, not a floor support surface. Rear mounting reference is appearance only. No flushing, drainage, plumbing, hygiene, accessibility, load, installation or safety performance; preview wall is excluded from the GLB.",
+  "bounds": {
+    "x": 0.3959999978542328,
+    "y": 0.42500000447034836,
+    "z": 0.699999988079071,
+    "unit": "m"
+  },
+  "triangles": 216,
+  "materials": 2,
+  "files": {
+    "glb": {
+      "path": "assets/public/public-fixed-wall-hung-urinal-01/v1.0.0/model.glb",
+      "size": 20736,
+      "sha256": "3e8f15f5ff7b3e1be1520435745e4e11357bb0cb4d3a32cc9481d427e6392e8d"
+    },
+    "blend": {
+      "path": "assets/public/public-fixed-wall-hung-urinal-01/v1.0.0/source.blend",
+      "size": 547840,
+      "sha256": "80c69ca343e3b3606d630582ab6b11eb1b6f81b050df4c2e6716182247774e3e"
+    },
+    "generator": {
+      "path": "assets/public/public-fixed-wall-hung-urinal-01/v1.0.0/generate.py",
+      "size": 11697,
+      "sha256": "b2b54df7ac496d01e39bde34632ed3aba16078f298d7fe50e7fae6cdf390297a"
+    },
+    "render": {
+      "path": "assets/public/public-fixed-wall-hung-urinal-01/v1.0.0/thumbnail.png",
+      "size": 512498,
+      "sha256": "1d7aa9e03afc8b62875f28f63a411a92b9a952b8027ab147d217275151f95dd3"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

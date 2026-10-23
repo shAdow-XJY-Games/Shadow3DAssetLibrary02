@@ -1,0 +1,42 @@
+{
+  "id": "timekeeping-counter-and-pedestal-clock-shop-scene-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "timekeeping",
+  "style": "source-preserved-low-poly",
+  "title": "Counter and Pedestal Clock Shop",
+  "description": "One static clock-shop display and service-counter scene for the original timekeeping shop program. Five complete existing models at original unit scale and identity orientation: a full open-shelf service counter supporting one whole twin-bell alarm clock and a separate whole fixed-open cash-register exterior, beside a complete exhibit plinth supporting the original whole open-frame pendulum clock. Every original part, fixed hand angle, material assignment and raw GLB buffer/internal hierarchy is preserved. The three complete guest soles are contained within the actual unchanged flat top surfaces; all other whole instances are mutually separated, with connected conservative front, middle and peripheral empty strips. Only one floor and cutaway wall boundary are new scene-only geometry. The counter/register customer zone and independent raised clock display form a distinct retail arrangement, not the old floor-level pendulum-plus-sundial display and not additional clocks counted as new models. One scene, zero new independent models. The register remains blank and fixed open; no payment, clock sale procedure, timekeeping, calibration, alarm sound, pendulum motion, mechanism, practical shop operation, compatibility, ergonomic suitability, structural capacity, installation or public safety is claimed.",
+  "bounds": {
+    "x": 3.700000047683716,
+    "y": 2.799999952316284,
+    "z": 2.0,
+    "unit": "m"
+  },
+  "triangles": 6348,
+  "materials": 20,
+  "files": {
+    "glb": {
+      "path": "assets/timekeeping/timekeeping-counter-and-pedestal-clock-shop-scene-01/v1.0.0/model.glb",
+      "size": 387864,
+      "sha256": "1b05f465d020ea90b6015336fa26289f553c3ebe055babd4c93bda2ca7194c8a"
+    },
+    "blend": {
+      "path": "assets/timekeeping/timekeeping-counter-and-pedestal-clock-shop-scene-01/v1.0.0/source.blend",
+      "size": 240308,
+      "sha256": "9c010c2c5861218bc6ff2af9ad28ffc114c4e07558900517605076f92157f1a3"
+    },
+    "generator": {
+      "path": "assets/timekeeping/timekeeping-counter-and-pedestal-clock-shop-scene-01/v1.0.0/generate.py",
+      "size": 119694,
+      "sha256": "ab7998d9b6d4ea0087f3cc970ed662d41df352ff4b3083e0ab8dc7ca4806888e"
+    },
+    "render": {
+      "path": "assets/timekeeping/timekeeping-counter-and-pedestal-clock-shop-scene-01/v1.0.0/thumbnail.png",
+      "size": 533375,
+      "sha256": "dc93df7778bf9516e266164f8a14a272837689e8dcec8ecbdca4c24d159de80e"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

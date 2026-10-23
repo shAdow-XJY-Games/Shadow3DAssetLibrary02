@@ -1,0 +1,42 @@
+{
+  "id": "desert-caravan-pack-staging-court-scene-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "desert",
+  "style": "source-preserved-warm-faceted-caravan",
+  "title": "Caravan Pack Staging Court",
+  "description": "One static caravan pack-staging courtyard for the original desert-oasis merchant-travel direction. A complete thick L-shaped mudbrick niche corner defines the rear-left edge; one complete empty twin-arch caravan pack frame sits in the front-left loading position. One whole tied cargo sack and one whole open amphora stand separately in a right-hand waiting-goods zone, leaving a continuous central separation band and a clear front transverse band. All four old models, complete original internals, holes, editable parts and per-face materials remain unchanged at unit scale; only rigid translations are used. One closed sandy court slab is scene-only. This is not the existing well/palm/canopy/bench water-drawing and shaded-rest corner with more plants or changed sand colour, not a forest stream recolour, and not a tricycle/platform delivery stop: it organizes an empty pack frame against a mudbrick backdrop with cargo kept off its still-empty ledges. No animals, people, rope harness, new cargo/container models, palm variants or additional model counts. One scene and zero new independent models. The niches remain empty and the original objects remain static; no demonstrated packing method, animal fit, water purity or supply, ceramic transport suitability, loading, building performance, accessibility, navigation or travel safety is asserted.",
+  "bounds": {
+    "x": 4.8,
+    "y": 4.4,
+    "z": 2.46,
+    "unit": "m"
+  },
+  "triangles": 2128,
+  "materials": 14,
+  "files": {
+    "glb": {
+      "path": "assets/desert/desert-caravan-pack-staging-court-scene-01/v1.0.0/model.glb",
+      "size": 152640,
+      "sha256": "7618e32abba12c9ffd94a540b788a4c3a03e8210082e6d6042c0ba2274cf5307"
+    },
+    "blend": {
+      "path": "assets/desert/desert-caravan-pack-staging-court-scene-01/v1.0.0/source.blend",
+      "size": 1064440,
+      "sha256": "20ccc2164f377b5bada7afc20301b2b94e4493cf9aef1ada26ae0b945c727c90"
+    },
+    "generator": {
+      "path": "assets/desert/desert-caravan-pack-staging-court-scene-01/v1.0.0/generate.py",
+      "size": 114462,
+      "sha256": "bd8dc77fbd21d844a452da28afabfa05518150ca4e9dc771ada0f5346fd74b11"
+    },
+    "render": {
+      "path": "assets/desert/desert-caravan-pack-staging-court-scene-01/v1.0.0/thumbnail.png",
+      "size": 537770,
+      "sha256": "3dabb718765171b17d89ac27c7eefd08fead4e469bc88477f7cebc4f0e7b3a9f"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

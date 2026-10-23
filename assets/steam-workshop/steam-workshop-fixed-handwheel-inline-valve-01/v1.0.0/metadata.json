@@ -1,0 +1,42 @@
+{
+  "id": "steam-workshop-fixed-handwheel-inline-valve-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "steam-workshop",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Handwheel Inline Valve",
+  "description": "One newly authored static inline handwheel valve visual prop for the steam-workshop pipework direction. Two opposite real flange apertures lead into one thick continuous central body shell. A complete raised neck and stepped bonnet carry a fixed short stem and open horizontal four-spoke handwheel. Two small complete pedestals support the horizontal body on a low display base. This is one whole prop, not an extracted shower control, a recolored elbow, longer pipe, altered tooth count, sluice gate or repurposed mixer wheel. Open rim/spokes/hub are separate closed editable parts with intentional finite joints; not falsely claimed one welded shell. Static exterior and visible pipe apertures only: no moving or sealing valve internals, pressure rating, steam, fluid, flow regulation, actuation, installation compatibility, load or safety claim. No textures, labels or people; preview floor excluded.",
+  "bounds": {
+    "x": 1.4,
+    "y": 0.5,
+    "z": 1.23,
+    "unit": "m"
+  },
+  "triangles": 1012,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/steam-workshop/steam-workshop-fixed-handwheel-inline-valve-01/v1.0.0/model.glb",
+      "size": 53724,
+      "sha256": "d4d3b0188ebb7be6bf2d0157e1de941f9ccc93ed0391021d84e983895d89dd8e"
+    },
+    "blend": {
+      "path": "assets/steam-workshop/steam-workshop-fixed-handwheel-inline-valve-01/v1.0.0/source.blend",
+      "size": 650380,
+      "sha256": "214e3fd7bc561cf6d0157c30938a25136601ef09ed76ab28a0cf5eb6626c086b"
+    },
+    "generator": {
+      "path": "assets/steam-workshop/steam-workshop-fixed-handwheel-inline-valve-01/v1.0.0/generate.py",
+      "size": 10785,
+      "sha256": "e256b483c19619294a0cbc21458638ba9d2c8c28787f84cc06e8f2198bb6c309"
+    },
+    "render": {
+      "path": "assets/steam-workshop/steam-workshop-fixed-handwheel-inline-valve-01/v1.0.0/thumbnail.png",
+      "size": 435614,
+      "sha256": "f6c6b63ccfba9a4af5ec11e26bbcd11e15f1e70c6a84163eb877380c20d696a3"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

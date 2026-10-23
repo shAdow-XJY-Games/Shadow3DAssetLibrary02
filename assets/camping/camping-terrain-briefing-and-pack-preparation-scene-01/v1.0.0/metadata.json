@@ -1,0 +1,42 @@
+{
+  "id": "camping-terrain-briefing-and-pack-preparation-scene-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "camping",
+  "style": "source-preserved-mountain-kit-layout",
+  "title": "Mountain Briefing and Pack Preparation",
+  "description": "One static mountain-preparation scene: a complete framed fictional contour terrain model on a broad briefing plinth, one complete folding chair in front of it, and one complete backpack on a separate low gear-staging slab. A clear middle strip separates briefing and gear zones, and a clear front band defines the approach. All three old objects are imported complete at unit scale with unchanged geometry, hierarchy and face materials. No tent, stove, fire, lantern, extra packs or route-sign variants; not the existing forest overnight camp or cooking worktop or old compass/map stand. The canteen was explicitly excluded because its actual original GLB has no finite flat bottom patch. Three simple closed supports are scene-only: one floor and two staging plinths. Exactly one scene and zero new independent models. Static illustrative layout only, not accurate terrain, actual route planning, recommended packing, load rating, accessibility or hiking/climbing safety.",
+  "bounds": {
+    "x": 3.6,
+    "y": 3.2,
+    "z": 1.08,
+    "unit": "m"
+  },
+  "triangles": 4728,
+  "materials": 14,
+  "files": {
+    "glb": {
+      "path": "assets/camping/camping-terrain-briefing-and-pack-preparation-scene-01/v1.0.0/model.glb",
+      "size": 226308,
+      "sha256": "a27d2e18065eb0c85012b2a0340c03da2e25f31fb9a899b8696ade81219ed89b"
+    },
+    "blend": {
+      "path": "assets/camping/camping-terrain-briefing-and-pack-preparation-scene-01/v1.0.0/source.blend",
+      "size": 1211040,
+      "sha256": "cd77f612189c82114070dc084691f923ff638b0eeae6db83e0e2ac823db9d2d4"
+    },
+    "generator": {
+      "path": "assets/camping/camping-terrain-briefing-and-pack-preparation-scene-01/v1.0.0/generate.py",
+      "size": 112219,
+      "sha256": "a5daf282060a882472c67d06eef21b3290d2f150dff8722a7eb0515fd1d55db9"
+    },
+    "render": {
+      "path": "assets/camping/camping-terrain-briefing-and-pack-preparation-scene-01/v1.0.0/thumbnail.png",
+      "size": 483811,
+      "sha256": "6a46605744f5b2b3e05c846927dad8670019f1c94f6fb9c414a1ecd1c92a4427"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

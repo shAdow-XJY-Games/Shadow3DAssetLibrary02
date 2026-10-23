@@ -1,0 +1,42 @@
+{
+  "id": "retail-fixed-open-lid-chest-freezer-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "retail",
+  "style": "source-preserved-low-poly",
+  "title": "Fixed Open-Lid Chest Freezer",
+  "description": "Original static retail chest-freezer appearance with one continuous thick empty cabinet cavity, four grounded feet, a fixed raised insulated lid, whole underside gasket ring and solid inner liner, rear hinge seats, complete three-piece handle, and backed front louvres with an unlit control panel. One newly authored complete model, not a resized upright refrigerator, bakery glass case or sliding clay-storage chest. No actual refrigeration, electrical equipment, food-storage, temperature, lid motion, child access, load, installation or safety performance is supplied.",
+  "bounds": {
+    "x": 1.399999976158142,
+    "y": 0.7816148102283478,
+    "z": 1.686097264289856,
+    "unit": "m"
+  },
+  "triangles": 384,
+  "materials": 6,
+  "files": {
+    "glb": {
+      "path": "assets/retail/retail-fixed-open-lid-chest-freezer-01/v1.0.0/model.glb",
+      "size": 47396,
+      "sha256": "ec08cd23384f75b0d346431be49afbae5a8229d38c8b18e6cefc63c5c8076dbb"
+    },
+    "blend": {
+      "path": "assets/retail/retail-fixed-open-lid-chest-freezer-01/v1.0.0/source.blend",
+      "size": 744016,
+      "sha256": "52b747c1e7f1cdb73f96e085c0fa2ae0df0749739ae6872b5a01fd49a6644525"
+    },
+    "generator": {
+      "path": "assets/retail/retail-fixed-open-lid-chest-freezer-01/v1.0.0/generate.py",
+      "size": 11928,
+      "sha256": "e22ee66148a5b84360e5aaacad3050356b301b23c996ce6f3edeaa46e40125c2"
+    },
+    "render": {
+      "path": "assets/retail/retail-fixed-open-lid-chest-freezer-01/v1.0.0/thumbnail.png",
+      "size": 491137,
+      "sha256": "2b6f9f7ae6100c6fa353d841042db1a67b05889609dad0d23d7cf8b8927117fd"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

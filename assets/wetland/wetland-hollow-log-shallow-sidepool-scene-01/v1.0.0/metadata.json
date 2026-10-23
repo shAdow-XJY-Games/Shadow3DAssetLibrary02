@@ -1,0 +1,42 @@
+{
+  "id": "wetland-hollow-log-shallow-sidepool-scene-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "wetland",
+  "style": "warm-handcrafted-village",
+  "title": "Hollow-Log Shallow Sidepool",
+  "description": "One static wetland shallow-sidepool scene, one scene and zero new independent models. A complete original low sloped bank-access earth module faces one connected shallow opaque sidepool. A whole qualified irregular hollow fallen log stands on the dry right margin at an exact rigid minus90-degree Z rotation, with its side opening directed toward the sidepool and its two true end mouths unchanged. A complete original reed-sedge clump sits on the separate dry rear shoulder clear of both original pieces. All three whole source models retain every triangle and original per-face opaque PBR without scaling, trimming, recolouring, recapping, adding leaves or changing hollows; only unit rigid placement and collision-safe names differ. New scene-only bed, low dry margin with real pool cutout, and a bed-filled shallow water volume define the sidepool. No bridge, dock, viewing platform, walking-route, fishing gear, people or texture. This is not the old log crossing or twin mangrove observation scene: the log lies along one margin and faces open water rather than spanning it. The rejected undercut-bank candidate is NOT used. Static stylised habitat association only, no water flow, species/ecology, habitat suitability, erosion, physics, navigation, safety or structural-load claim. Normals are recomputed flat, not original custom NORMAL-byte preservation.",
+  "bounds": {
+    "x": 4.800000191,
+    "y": 4.0,
+    "z": 1.25999999,
+    "unit": "m"
+  },
+  "triangles": 1106,
+  "materials": 16,
+  "files": {
+    "glb": {
+      "path": "assets/wetland/wetland-hollow-log-shallow-sidepool-scene-01/v1.0.0/model.glb",
+      "size": 88348,
+      "sha256": "f1a7dc86fab814cc8ad2c5244028f8dc8f916ad535385e34a8ebd23499fb716c"
+    },
+    "blend": {
+      "path": "assets/wetland/wetland-hollow-log-shallow-sidepool-scene-01/v1.0.0/source.blend",
+      "size": 882512,
+      "sha256": "03ecca23f730576f57c973c053972cfd01a45c4d2c26d3e09f1bf01b1c51b49a"
+    },
+    "generator": {
+      "path": "assets/wetland/wetland-hollow-log-shallow-sidepool-scene-01/v1.0.0/generate.py",
+      "size": 62481,
+      "sha256": "37850921b77f8e2473a78930bc098d822b45ae6e3e5d1782b3fcac3e338e7da0"
+    },
+    "render": {
+      "path": "assets/wetland/wetland-hollow-log-shallow-sidepool-scene-01/v1.0.0/thumbnail.png",
+      "size": 512554,
+      "sha256": "65f3360dab50398985254c7c5e2392e5616c5a2679be3e99193fed8eaed95366"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

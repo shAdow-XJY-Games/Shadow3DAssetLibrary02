@@ -1,0 +1,42 @@
+{
+  "id": "animal-artificial-mound-burrow-shelter-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "nature",
+  "style": "S02-hard-edge-faceted",
+  "title": "Artificial Mound Burrow Shelter Display",
+  "description": "One original static artificial habitat-facility appearance from the approved animal habitat-facilities scope. A complete low broad asymmetric mound-like material envelope swells behind a small low off-centre entrance. Its genuinely empty narrow passage bends sideways and opens into a substantially wider offset rounded blind chamber, with a full finite floor and intact material behind the closed rear. The visible entrance is a real open mouth with finite returns, not a dark surface decal. The inner and outer surfaces and the complete ground underside are a single connected closed mesh, with no separate capped primitives buried to fake a void. All full exterior sections, bent neck, chamber proportions and mouth coordinates are newly authored, not a bakery oven without its plinth, rounded bird nesting box, filled playground through-tunnel, metal mine arch or recoloured box culvert. Three constant opaque earthy PBR roles, no texture, grass, animal, furniture, door or scene included. Metres, native Z up, entrance/front -Y, complete horizontal bounds-centred ground origin. One whole prop, zero scenes or extra tunnel/chamber models. This is an artificial mound-style shelter display, not a validated natural burrow reconstruction, species-specific habitat, usable animal house or ecological system. No suitability for keeping animals, animal welfare/safety, ventilation, drainage, temperature, hygiene, food/water provision, entry clearance for any species, capacity, strength, stability, weather resistance, manufacture, construction or real-world performance claim.",
+  "bounds": {
+    "x": 2.2,
+    "y": 1.79,
+    "z": 0.833185,
+    "unit": "m"
+  },
+  "triangles": 756,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/nature/animal-artificial-mound-burrow-shelter-01/v1.0.0/model.glb",
+      "size": 57328,
+      "sha256": "f9225bc5f2e494ece5b88d763a8eb5aad6097fb97a9493e011e28e6d374f205c"
+    },
+    "blend": {
+      "path": "assets/nature/animal-artificial-mound-burrow-shelter-01/v1.0.0/source.blend",
+      "size": 538412,
+      "sha256": "71e2351730d465395cdda1784ff9c3175999d8877b11148fb3033c5bd3f45687"
+    },
+    "generator": {
+      "path": "assets/nature/animal-artificial-mound-burrow-shelter-01/v1.0.0/generate.py",
+      "size": 22086,
+      "sha256": "89eb67894fd3c016a8063d2edb420b4e5edbaa6eb2905eec75d494a191a68aa7"
+    },
+    "render": {
+      "path": "assets/nature/animal-artificial-mound-burrow-shelter-01/v1.0.0/thumbnail.png",
+      "size": 478221,
+      "sha256": "73253ae7c7ad09a95996039d0b0f4e8c82944d66f2949e1f8feb36468589893c"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

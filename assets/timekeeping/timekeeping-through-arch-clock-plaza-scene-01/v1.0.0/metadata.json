@@ -1,0 +1,42 @@
+{
+  "id": "timekeeping-through-arch-clock-plaza-scene-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "timekeeping",
+  "style": "source-preserved-low-poly",
+  "title": "Through-Arch Clock Plaza",
+  "description": "One static public-clock plaza scene for the original timekeeping public-clock program. The complete existing square four-face clock tower retains its genuine front-to-back arched opening and both strip feet, beside two complete original low entry benches placed off the central axis. Every raw legacy GLB vertex/index/normal buffer, internal node, fixed pointer angle and per-face PBR assignment is preserved at unit scale and identity orientation. Only one low connected plaza ground with a straight contrasting central paving band is new scene-only geometry; the ground top stays at the original feet and does not fill the arch. The approach aligns front-to-back with the existing opening, while the separate bench zones and conservative peripheral empty strips provide a distinct axial public-clock layout, not the old tabletop clock-and-sundial display or a renamed fountain plaza. One scene, zero new independent models, three whole instances of two existing types. Whole finite original soles remain on the plaza and whole-instance bounds are separated. Static display only: no timekeeping, chime, mechanism, public passage usability, circulation standard, human ergonomics, load, weather resistance, outdoor suitability, construction or public safety claim.",
+  "bounds": {
+    "x": 6.400000095367432,
+    "y": 6.800000190734863,
+    "z": 6.25,
+    "unit": "m"
+  },
+  "triangles": 5440,
+  "materials": 13,
+  "files": {
+    "glb": {
+      "path": "assets/timekeeping/timekeeping-through-arch-clock-plaza-scene-01/v1.0.0/model.glb",
+      "size": 275036,
+      "sha256": "048991d9729eaef6f0b87b843f6a22a37f8430b8746770608bef92f47b524641"
+    },
+    "blend": {
+      "path": "assets/timekeeping/timekeeping-through-arch-clock-plaza-scene-01/v1.0.0/source.blend",
+      "size": 192705,
+      "sha256": "e32e4e0e7ae4a48516abbdcd46e9ad68b1c4dafe77dcdfa609e82c7bb965c75d"
+    },
+    "generator": {
+      "path": "assets/timekeeping/timekeeping-through-arch-clock-plaza-scene-01/v1.0.0/generate.py",
+      "size": 83006,
+      "sha256": "e4e4dc0ef942f595d5608faf0827d60e8c6623f2ef75f69b6e3636a180eb4877"
+    },
+    "render": {
+      "path": "assets/timekeeping/timekeeping-through-arch-clock-plaza-scene-01/v1.0.0/thumbnail.png",
+      "size": 508014,
+      "sha256": "3845d47f457af226d3fdf5342371bdcfd297b46df7512d491fe1c231bf02c1bb"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

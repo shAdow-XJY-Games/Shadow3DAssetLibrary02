@@ -1,0 +1,42 @@
+{
+  "id": "library-single-bay-reading-carrel-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "library",
+  "style": "source-preserved-low-poly",
+  "title": "Single-Bay Screened Reading Carrel",
+  "description": "Original complete static library reading carrel with two full grounded shaped side cheeks, a horizontal desk, continuous rear privacy panel, one high shallow rear shelf and recessed low back stretcher. The front and full under-desk knee bay remain open; no chair, book, person or lamp is included. Newly authored whole geometry, not a round reading table or sloped storage lectern rescaled or relabelled. One new independent model. No ergonomic, acoustic privacy, reading illumination, accessibility, human-fit, shelf-load, stability, manufacture, installation or safety performance is claimed.",
+  "bounds": {
+    "x": 1.100000023841858,
+    "y": 0.699999988079071,
+    "z": 1.350000023841858,
+    "unit": "m"
+  },
+  "triangles": 80,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/library/library-single-bay-reading-carrel-01/v1.0.0/model.glb",
+      "size": 11164,
+      "sha256": "7ee0928a48b7bfad9a04de6cf4d22e649da0d8e4ac96052ba828bb62434ff235"
+    },
+    "blend": {
+      "path": "assets/library/library-single-bay-reading-carrel-01/v1.0.0/source.blend",
+      "size": 569888,
+      "sha256": "add0e173b1db88f15d06ea5bf9e451e3634e079a716415943d146058ab897d98"
+    },
+    "generator": {
+      "path": "assets/library/library-single-bay-reading-carrel-01/v1.0.0/generate.py",
+      "size": 10968,
+      "sha256": "cc26122d9de398728b187b92a16d1aca65f855cf143fbdd4aa81bc6b7f577e8b"
+    },
+    "render": {
+      "path": "assets/library/library-single-bay-reading-carrel-01/v1.0.0/thumbnail.png",
+      "size": 536376,
+      "sha256": "e9416002725a26e35cf6e8df8b3a1a48ea013851831037f4afd167d792554b9d"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
