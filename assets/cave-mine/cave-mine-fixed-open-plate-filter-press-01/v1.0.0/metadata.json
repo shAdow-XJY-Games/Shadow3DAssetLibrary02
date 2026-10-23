@@ -1,0 +1,42 @@
+{
+  "id": "cave-mine-fixed-open-plate-filter-press-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "cave-mine",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Open Plate-and-Frame Filter Press",
+  "description": "One newly authored complete static horizontal ore-processing filter-press appearance: six thick double-recess square plates with real central through bores and integral lateral rail lugs sit on two full support rails between a grounded fixed inlet head and plunger-tail frame. One plate is deliberately pulled clear of the close row so its whole recessed face can be read; this is one fixed display, not animation. A full solid pressure head, smooth plunger through a truly bored tail bearing, integral end boss and transverse handle complete the axial end arrangement. A separate low open collector basin rests on two full lower supports. All geometry newly authored, not a scaled bench vise with extra jaws, rotated basket screw press, more dressing-table riffles or extracted old components. Metres, native Z up, front -Y, actual whole horizontal bounds centred and four full end-frame feet at Z0. One prop, no scene or separately counted plates. Opaque untextured constant PBR materials. Static art only: no membrane medium, liquid, actual filtering, compression, plate movement, pressure seals, thread engagement, throughput, maintenance access, load, manufacturing, food-contact, installation or equipment safety claim.",
+  "bounds": {
+    "x": 2.71,
+    "y": 1.3,
+    "z": 1.85,
+    "unit": "m"
+  },
+  "triangles": 3136,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/cave-mine/cave-mine-fixed-open-plate-filter-press-01/v1.0.0/model.glb",
+      "size": 133008,
+      "sha256": "e44e592297e23c8415adb007124f4a17e837134e9ec2660399253e1e42fed1df"
+    },
+    "blend": {
+      "path": "assets/cave-mine/cave-mine-fixed-open-plate-filter-press-01/v1.0.0/source.blend",
+      "size": 783076,
+      "sha256": "60f7a4eaa5d3cd59d946a29aac7da6b6cd87c934f628fb81fbbd655c6137ff2e"
+    },
+    "generator": {
+      "path": "assets/cave-mine/cave-mine-fixed-open-plate-filter-press-01/v1.0.0/generate.py",
+      "size": 26304,
+      "sha256": "59cac42d6de6c1f9a0d81c42167fb2e34ff8054fc40600bbae9ab0beb9802015"
+    },
+    "render": {
+      "path": "assets/cave-mine/cave-mine-fixed-open-plate-filter-press-01/v1.0.0/thumbnail.png",
+      "size": 575234,
+      "sha256": "8db894c02eb5942a1cd8c37c713f91d6b1e5fc33f409b1c8dc5cf60caad3e29c"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
