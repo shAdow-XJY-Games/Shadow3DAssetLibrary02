@@ -1,0 +1,42 @@
+{
+  "id": "interior-fixed-trunnion-suspended-oval-cheval-mirror-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "interior",
+  "style": "source-preserved-low-poly",
+  "title": "Fixed Trunnion-Suspended Oval Cheval Mirror",
+  "description": "One original fixed trunnion-suspended oval cheval-mirror appearance. A complete thick oval frame, recessed metallic-PBR mirror body and separate backboard stay at one fixed slight rearward tilt above an open floor gap. Two horizontal side pins join that frame to two free standing posts, with external fixed knobs. Two long ground runners, a low transverse tie and two rear diagonal braces form the whole open stand. This support arrangement is newly authored, not the old rear-backed floor mirror merely changed to an ellipse. Four constant opaque PBR materials, no textures or borrowed meshes. One whole prop, zero scenes. Static art only: no actual swivel, movement limits, adjustable locking, balance, load, mirror fidelity, planar reflection capture, glass safety, manufacture or certified household use.",
+  "bounds": {
+    "x": 0.8479999899864197,
+    "y": 0.6600000262260437,
+    "z": 1.594813585281372,
+    "unit": "m"
+  },
+  "triangles": 1788,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/interior/interior-fixed-trunnion-suspended-oval-cheval-mirror-01/v1.0.0/model.glb",
+      "size": 160776,
+      "sha256": "433faadd1c41577977c6b88dc642863c34065885ead1897697e212dfe0d047db"
+    },
+    "blend": {
+      "path": "assets/interior/interior-fixed-trunnion-suspended-oval-cheval-mirror-01/v1.0.0/source.blend",
+      "size": 821984,
+      "sha256": "efe68496ab2f582904e2ec9ac8e0c13e3768b4f2b0fecef81d1aec8feefa10a2"
+    },
+    "generator": {
+      "path": "assets/interior/interior-fixed-trunnion-suspended-oval-cheval-mirror-01/v1.0.0/generate.py",
+      "size": 13679,
+      "sha256": "6926ea71ffaa9f810e635726f362f6ae430ed394049e9f8194c08fc201e52fc1"
+    },
+    "render": {
+      "path": "assets/interior/interior-fixed-trunnion-suspended-oval-cheval-mirror-01/v1.0.0/thumbnail.png",
+      "size": 496604,
+      "sha256": "4ea95803fc90c65214ec7730694a486366454867dff4389004720a66630f98a7"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
