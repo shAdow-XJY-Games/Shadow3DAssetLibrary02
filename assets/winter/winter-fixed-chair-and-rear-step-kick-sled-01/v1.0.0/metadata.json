@@ -1,0 +1,42 @@
+{
+  "id": "winter-fixed-chair-and-rear-step-kick-sled-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "winter",
+  "style": "source-preserved-low-poly",
+  "title": "Fixed Chair and Rear-Step Kick Sled",
+  "description": "One original complete static chair-and-rear-step kick-sled appearance. Two long thin closed runners with rising front noses carry a raised four-board seat, a tall two-slat back, rearward sloping full-height posts and a wide fixed push bar. Long runner extensions behind the chair have two distinct raised step pads; cross ties and diagonal stays visibly join the frame. This whole elevated chair/push-bar/rear-step layout differs from a low plank cargo sled or a wheeled handcart. All geometry newly authored, no old sled or chair mesh imported. Static art only: no rider, propulsion, steering, sliding, stability, safe seating/standing, load capacity, manufacturing, sport or transport safety claim.",
+  "bounds": {
+    "x": 0.7039999961853027,
+    "y": 1.9700000286102295,
+    "z": 1.0640000104904175,
+    "unit": "m"
+  },
+  "triangles": 960,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/winter/winter-fixed-chair-and-rear-step-kick-sled-01/v1.0.0/model.glb",
+      "size": 97828,
+      "sha256": "451bb73ec138056f4cebaeb3fe3201785cee55a24f320ae734122e993d14630a"
+    },
+    "blend": {
+      "path": "assets/winter/winter-fixed-chair-and-rear-step-kick-sled-01/v1.0.0/source.blend",
+      "size": 776288,
+      "sha256": "2f8d9cfe8023dc0f0ac7afe74ec6752b5c327c931eb2ea1378475e1c25c3d055"
+    },
+    "generator": {
+      "path": "assets/winter/winter-fixed-chair-and-rear-step-kick-sled-01/v1.0.0/generate.py",
+      "size": 13289,
+      "sha256": "917f94bf630df1f8c94473f5859887c686c94d4a76bba1cb6ea327526a4fb4fc"
+    },
+    "render": {
+      "path": "assets/winter/winter-fixed-chair-and-rear-step-kick-sled-01/v1.0.0/thumbnail.png",
+      "size": 526399,
+      "sha256": "94b8f5db37aab9aceba41de94501f5172e915522b33b3ecc68c53d904d31cf2e"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

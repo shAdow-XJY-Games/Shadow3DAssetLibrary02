@@ -1,0 +1,42 @@
+{
+  "id": "classical-complete-recessed-coffer-barrel-vault-01",
+  "version": "1.0.0",
+  "category": "modular",
+  "assetKind": "modular",
+  "theme": "classical",
+  "style": "warm-handcrafted-village",
+  "title": "Complete Recessed Coffer Barrel Vault",
+  "description": "One newly authored complete static classical barrel-vault bay. A continuous thick semicylindrical roof has nine genuine blind soffit coffers: each recess has its own full ceiling and four closed thickness returns, while uninterrupted outer roof and crossing material ribs remain. Two complete long sidewall piers support the full lower springing strips. Both axial mouths and central aisle remain open. Three closed meshes, three constant opaque PBR materials, one reusable module and zero scenes. This is not a stretched old voussoir arch, a groin roof with one axis deleted, a low playground tunnel recolored or an oven with rear removed. All numerical geometry new; no reference vertices imported. Recesses do not pierce the roof and are not painted squares or detached repeated tiles. Geometry is a stylized game module only; no historical reconstruction, load bearing, engineering, acoustic, fire, human clearance, navigation, host compatibility or safety certification.",
+  "bounds": {
+    "x": 3.099999905,
+    "y": 3.299999952,
+    "z": 2.700000048,
+    "unit": "m"
+  },
+  "triangles": 692,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/classical/classical-complete-recessed-coffer-barrel-vault-01/v1.0.0/model.glb",
+      "size": 29628,
+      "sha256": "3b6a426bbc55035db17fcb286cd8fdb918a06cab3bdc3c9dd409664f3a920b75"
+    },
+    "blend": {
+      "path": "assets/classical/classical-complete-recessed-coffer-barrel-vault-01/v1.0.0/source.blend",
+      "size": 532636,
+      "sha256": "a2fd74fcb9eb6a501423a242b1462737934bd01a07c6a8cd4b2b8f205668d765"
+    },
+    "generator": {
+      "path": "assets/classical/classical-complete-recessed-coffer-barrel-vault-01/v1.0.0/generate.py",
+      "size": 27376,
+      "sha256": "7f58363d32d205cb830f8dc96c3d9674f0e67a386b62b06c4cf9924d0628a65c"
+    },
+    "render": {
+      "path": "assets/classical/classical-complete-recessed-coffer-barrel-vault-01/v1.0.0/thumbnail.png",
+      "size": 471550,
+      "sha256": "cf446fe5a54cf2dfc677c410bf4b959d84f55673964f2562731a0e8cc42c127e"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

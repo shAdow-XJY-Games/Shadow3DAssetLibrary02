@@ -1,0 +1,42 @@
+{
+  "id": "laundry-fixed-open-wing-drying-rack-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "laundry",
+  "style": "source-preserved-low-poly",
+  "title": "Fixed Open-Wing Laundry Drying Rack",
+  "description": "One complete original static winged laundry drying rack. Two whole U-shaped sheared standing frames cross on real transverse pins with finite bottom soles. A continuous open rectangular central frame carries separated drying rods; two complete raised side-wing frames have full rods, transverse hinge pins and fixed diagonal props. All parts authored together as one new model; not a clothesline with altered rod count, a three-tier shelf, or an ironing board with its solid deck removed. No clothes, folding animation, hinge clearance, drying rate, load, stability, ergonomics or safety certification.",
+  "bounds": {
+    "x": 1.9716709852218628,
+    "y": 0.675000011920929,
+    "z": 1.0115206241607666,
+    "unit": "m"
+  },
+  "triangles": 980,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/winter/laundry-fixed-open-wing-drying-rack-01/v1.0.0/model.glb",
+      "size": 104012,
+      "sha256": "7ffc1489f4d351389e666736c08d9beaa07553bc5981f3fdacea4f8da80f7d24"
+    },
+    "blend": {
+      "path": "assets/winter/laundry-fixed-open-wing-drying-rack-01/v1.0.0/source.blend",
+      "size": 783584,
+      "sha256": "221e35c28059e560ea71bb7f71b0d55078458013debf0bcff28b2bc30cf890f5"
+    },
+    "generator": {
+      "path": "assets/winter/laundry-fixed-open-wing-drying-rack-01/v1.0.0/generate.py",
+      "size": 14525,
+      "sha256": "6edd42dd545272bf780e3bdcace7aba457693cb692a5013d4c20f01f9efdefde"
+    },
+    "render": {
+      "path": "assets/winter/laundry-fixed-open-wing-drying-rack-01/v1.0.0/thumbnail.png",
+      "size": 482852,
+      "sha256": "292b0fa1542863a5322956e0ee0a3370b27fa3d70608508005ac02cdf08b864d"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

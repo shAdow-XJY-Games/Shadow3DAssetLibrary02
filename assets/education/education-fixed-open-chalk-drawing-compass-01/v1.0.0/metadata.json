@@ -1,0 +1,42 @@
+{
+  "id": "education-fixed-open-chalk-drawing-compass-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "education",
+  "style": "source-preserved-low-poly",
+  "title": "Fixed Open Chalk Drawing Compass",
+  "description": "One original static large classroom drawing-compass appearance, laid flat in one fixed open pose. Two long tapered arms diverge from a common round hinge. A small finite blunt locating end is opposed by a genuine thick annular chalk sleeve holding a short protruding chalk cylinder, with one radial fixed clamp screw. A separate top turning grip and fixed hinge caps complete the whole tool. All geometry newly authored, no old scissors, sextant, magnetic compass or ruler mesh imported. One whole prop, not separately counted arms or chalk. Static visual art only: no actual hinge travel, adjustment, accurate circle construction, calibration, chalk marking, school-age suitability, sharpness, handling, manufacturing or safety claim.",
+  "bounds": {
+    "x": 0.6067200899124146,
+    "y": 0.8499253988265991,
+    "z": 0.07699999958276749,
+    "unit": "m"
+  },
+  "triangles": 948,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/education/education-fixed-open-chalk-drawing-compass-01/v1.0.0/model.glb",
+      "size": 89476,
+      "sha256": "4f21128bafb5c9199dc9e57bfc4040c6ae0b9c867f0c0dc7f67ef610ab588e17"
+    },
+    "blend": {
+      "path": "assets/education/education-fixed-open-chalk-drawing-compass-01/v1.0.0/source.blend",
+      "size": 718496,
+      "sha256": "fd1e37c20f31648e9a88bf0694db44aa5c1a46250d57fd36bdcf96af749eb6a2"
+    },
+    "generator": {
+      "path": "assets/education/education-fixed-open-chalk-drawing-compass-01/v1.0.0/generate.py",
+      "size": 13733,
+      "sha256": "f3bc2116320089a131419048ddf80dfc1ec1f48e607cb93cd7341e6a797683fc"
+    },
+    "render": {
+      "path": "assets/education/education-fixed-open-chalk-drawing-compass-01/v1.0.0/thumbnail.png",
+      "size": 474718,
+      "sha256": "d45b5f6d59cae8baf28cabdc9c274c7931270010faa5c17c72afa7bcffbaabe2"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

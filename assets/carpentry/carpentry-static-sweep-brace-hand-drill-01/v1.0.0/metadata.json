@@ -1,0 +1,42 @@
+{
+  "id": "carpentry-static-sweep-brace-hand-drill-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "carpentry",
+  "style": "S01-clean-geometric",
+  "title": "Static Sweep Brace Hand Drill",
+  "description": "New complete static sweep-brace woodworking hand drill: a continuous offset steel crank connects the lower faceted chuck and fixed finite-blunt twist bit to the upper axial wood palm head. A whole elongated wood grip surrounds the offset vertical crank run. This is a complete open sweep hand tool, not the old column drill press, motor or steam crank-flywheel bench scaled down. All geometry new, three opaque constant PBR materials, metre units and XY centred ground origin. Fixed display only, no rotation, ratchet, grip-bearing fit, drilling, sharpness, torque, ergonomics, manufacturing or safety claim.",
+  "bounds": {
+    "x": 0.191,
+    "y": 0.084,
+    "z": 0.552,
+    "unit": "m"
+  },
+  "triangles": 784,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/carpentry/carpentry-static-sweep-brace-hand-drill-01/v1.0.0/model.glb",
+      "size": 51424,
+      "sha256": "5bc87805038279c4df33d2a2932e8682855658c623469955f8b533b2f6c46a5d"
+    },
+    "blend": {
+      "path": "assets/carpentry/carpentry-static-sweep-brace-hand-drill-01/v1.0.0/source.blend",
+      "size": 587044,
+      "sha256": "b25ff42dc52de4dbbeb3885ef1ea8ca329127e74835a27bdbefc9b2a4bdcaca5"
+    },
+    "generator": {
+      "path": "assets/carpentry/carpentry-static-sweep-brace-hand-drill-01/v1.0.0/generate.py",
+      "size": 9964,
+      "sha256": "8d2c3c8abc7d203d4f0fff40dda90bcc4b19c8d70c191ba8eacde33e19e56f41"
+    },
+    "render": {
+      "path": "assets/carpentry/carpentry-static-sweep-brace-hand-drill-01/v1.0.0/thumbnail.png",
+      "size": 283678,
+      "sha256": "4f9a10bdce93b5b7e0a5e0688368bbd406352bb3bb7396e2cc5f52061d272334"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

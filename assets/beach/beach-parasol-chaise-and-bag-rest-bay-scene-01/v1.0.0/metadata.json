@@ -1,0 +1,42 @@
+{
+  "id": "beach-parasol-chaise-and-bag-rest-bay-scene-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "beach",
+  "style": "source-preserved-low-poly",
+  "title": "Parasol Chaise and Bag Rest Bay",
+  "description": "One static dry-sand shade-rest bay for the original beach resting program, one scene and zero new standalone models. One entire published ribbed parasol, one entire striped sling chaise and one entire open weekender bag preserve all original raw positions, normals, indices, internal hierarchy and opaque PBR at unit scale with translation only. The chaise sits to the right of the mast with its back below the canopy and its foot toward the open forecourt; the bag stands separately beside that foot. A closed scene-only sand slab and two low separated L-shaped rear boundary volumes define the resting bay. Unlike the old elevated observation and rinse station, no lookout tower, shower, rescue ring or wet approach is included. No actual UV shade coverage, wind protection, heat comfort, accessibility, occupancy, water/shore dynamics or safety performance is claimed.",
+  "bounds": {
+    "x": 4.0,
+    "y": 4.599999904632568,
+    "z": 2.632999897003174,
+    "unit": "m"
+  },
+  "triangles": 4412,
+  "materials": 14,
+  "files": {
+    "glb": {
+      "path": "assets/beach/beach-parasol-chaise-and-bag-rest-bay-scene-01/v1.0.0/model.glb",
+      "size": 253432,
+      "sha256": "b579b012912660afac06801a3a89f6524485c7e4dcab4dda090386a4a2a9309c"
+    },
+    "blend": {
+      "path": "assets/beach/beach-parasol-chaise-and-bag-rest-bay-scene-01/v1.0.0/source.blend",
+      "size": 1389280,
+      "sha256": "2daa271ef8ed7123204477bea4a8bdccd028d26aa7ce6157d13154bbfef20bec"
+    },
+    "generator": {
+      "path": "assets/beach/beach-parasol-chaise-and-bag-rest-bay-scene-01/v1.0.0/generate.py",
+      "size": 123890,
+      "sha256": "14dc4872855604f442f78757a6cc949ce8273c490792e0f801a93480108e4814"
+    },
+    "render": {
+      "path": "assets/beach/beach-parasol-chaise-and-bag-rest-bay-scene-01/v1.0.0/thumbnail.png",
+      "size": 521838,
+      "sha256": "5c59758765b68712e7bcee91206d018711cd98560be3a1e5c982e1482aa56855"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

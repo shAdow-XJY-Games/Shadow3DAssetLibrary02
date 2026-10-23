@@ -1,0 +1,42 @@
+{
+  "id": "village-static-open-pear-hand-bellows-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "village",
+  "style": "S01-clean-geometric",
+  "title": "Static Open Pear Hand Bellows",
+  "description": "New whole fixed-open pear hand bellows: two full wood pear boards with integrated long handles, a continuous rising wedge-shaped pleated bag exterior, a tapered annular brass-style nozzle and a fixed transverse pin. Distinct from the old upright water pump and rectangular accordion: neither source geometry reused. Static village smith-workshop prop, no airflow, pressure, pumping, hinging, fire-use, material performance or safety claim. Bag is a solid closed stylized exterior, not a validated internal air chamber or continuous pneumatic passage. Three constant opaque PBR materials, metres, complete XY bounds centred with ground origin.",
+  "bounds": {
+    "x": 0.41,
+    "y": 1.27,
+    "z": 0.366,
+    "unit": "m"
+  },
+  "triangles": 544,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/village/village-static-open-pear-hand-bellows-01/v1.0.0/model.glb",
+      "size": 34176,
+      "sha256": "5937def76182e1b87fcc9240200244df7e124379de4b76bdabecd20b1483e55c"
+    },
+    "blend": {
+      "path": "assets/village/village-static-open-pear-hand-bellows-01/v1.0.0/source.blend",
+      "size": 569436,
+      "sha256": "7623d263e73e4f93683b65694533a152170a9016e02a9af92544d7ec5de287be"
+    },
+    "generator": {
+      "path": "assets/village/village-static-open-pear-hand-bellows-01/v1.0.0/generate.py",
+      "size": 9885,
+      "sha256": "48c7e40732504075270174d9a8337ba971ab1db150615f06b48cfd00f65702f9"
+    },
+    "render": {
+      "path": "assets/village/village-static-open-pear-hand-bellows-01/v1.0.0/thumbnail.png",
+      "size": 338335,
+      "sha256": "1b6aa462a83aea456eb9bff646d5353e45ffce1e982279871b73977b9463de1c"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

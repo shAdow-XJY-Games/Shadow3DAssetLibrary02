@@ -1,0 +1,42 @@
+{
+  "id": "beach-fixed-offset-arched-arm-parasol-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "beach",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Offset Arched-Arm Parasol",
+  "description": "One newly authored complete static cantilever parasol. A broad side ballast carries one continuous curved rectangular mast that rises outside the shade footprint and arches above its crown. A short fixed suspension stem, upper rib crown and lower stretcher hub hang a full thick rectangular-plan domed canopy with eight complete curved ribs and eight fixed diagonal stretchers. There is no ground-reaching central pole below the canopy. This is a whole side-supported structure, not the old central-pole umbrella moved sideways, resized, recoloured or repeated; no old umbrella geometry is imported. The canopy is one closed finite-thickness shell with integral muted panel materials and a lightly scalloped edge, not independent overlapping sheets. Twenty-two closed editable parts, four opaque solid PBR materials, metres, Z up and horizontal-bounds-centred ground origin. One complete prop, zero scenes. One fixed open visual only: no folding, crank, latch or hinge motion, fabric physics, ballast sufficiency, stability, wind/rain/UV protection, person clearance, installation, manufacture, loading or public-space safety claim.",
+  "bounds": {
+    "x": 3.3170703708533873,
+    "y": 1.9229551551123205,
+    "z": 3.3789035650273114,
+    "unit": "m"
+  },
+  "triangles": 1224,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/beach/beach-fixed-offset-arched-arm-parasol-01/v1.0.0/model.glb",
+      "size": 92560,
+      "sha256": "daa438255e06f9aa91e5ecd4499124c2d80ee63f82a0da07b9f3eaa7c00e2572"
+    },
+    "blend": {
+      "path": "assets/beach/beach-fixed-offset-arched-arm-parasol-01/v1.0.0/source.blend",
+      "size": 708244,
+      "sha256": "59213e5604019a632b0dd05d940c0fc9b99b8b764f9cb17251cb83efc457d7c8"
+    },
+    "generator": {
+      "path": "assets/beach/beach-fixed-offset-arched-arm-parasol-01/v1.0.0/generate.py",
+      "size": 11154,
+      "sha256": "580375920046c0c6e797ffd320ce42e8493515c9fb02f02917e15e259fca9921"
+    },
+    "render": {
+      "path": "assets/beach/beach-fixed-offset-arched-arm-parasol-01/v1.0.0/thumbnail.png",
+      "size": 393670,
+      "sha256": "4874e4534749732fa932badf6c7b6e5d8599b64cdafadf0d737a70e8f135296f"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

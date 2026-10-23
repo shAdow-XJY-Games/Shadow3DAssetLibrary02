@@ -1,0 +1,42 @@
+{
+  "id": "fitness-fixed-upright-pedal-cycle-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "fitness",
+  "style": "source-preserved-low-poly",
+  "title": "Fixed Upright Pedal Exercise Cycle",
+  "description": "One complete original static upright exercise-cycle appearance. Two full grounded transverse feet and a central spine support a newly authored bevel-sided resistance housing, an independent rear saddle column and tall forward handle column. A complete open bent U handle with sleeves surrounds a blank console; a shaped saddle and two opposed short crank arms, through axle and whole pedal platforms are retained. No road wheels, diamond bicycle frame, sliding rowing rail or treadmill belt is copied or removed from an existing model. All geometry newly authored as one complete model, zero scenes. Fixed visual only: no pedalling, steering, exercise prescription, resistance, power, display operation, ergonomics, load or safety certification.",
+  "bounds": {
+    "x": 0.6399999856948853,
+    "y": 1.100000023841858,
+    "z": 1.2233502864837646,
+    "unit": "m"
+  },
+  "triangles": 752,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/winter/fitness-fixed-upright-pedal-cycle-01/v1.0.0/model.glb",
+      "size": 77996,
+      "sha256": "d5fc554b9986e2f18eac5740be2b0c05d8c9cd2eea06e22a855ab3a6c27d6ccc"
+    },
+    "blend": {
+      "path": "assets/winter/fitness-fixed-upright-pedal-cycle-01/v1.0.0/source.blend",
+      "size": 734176,
+      "sha256": "3f4e575b0e02b0302725e89d8980001044422082b7db47e90880eeedecc8f9b7"
+    },
+    "generator": {
+      "path": "assets/winter/fitness-fixed-upright-pedal-cycle-01/v1.0.0/generate.py",
+      "size": 16256,
+      "sha256": "f0b6bf989c18f4acde5885e1d46cc889ec6a85ebf2d68a5e51b940eaf5c7edb3"
+    },
+    "render": {
+      "path": "assets/winter/fitness-fixed-upright-pedal-cycle-01/v1.0.0/thumbnail.png",
+      "size": 489121,
+      "sha256": "956166d2607de1cc298ccf6348f3ca6a8794fcdf634e5bb864bfbbb1051b7776"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "steam-workshop-static-open-cage-differential-display-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "steam-workshop",
+  "style": "S01-clean-geometric",
+  "title": "Static Open-Cage Differential Display",
+  "description": "One newly authored whole static differential-layout display. A single connected carrier has two broad real side windows, two full annular end plates and two continuous longitudinal bridges. Two coaxial output stub shafts carry opposed hollow conical side gears; a perpendicular carrier crosspin carries upper and lower conical spider gears. Tooth flanks taper with the cones and belong to each whole gear, not attached blocks. Carrier journals, two complete bored pedestals and one finite grounded base complete the assembly. This differs structurally from a flat parallel-axis spur pair and a skew-axis screw/wheel: the crossed internal four-cone arrangement, coaxial outputs and enclosing open carrier are all new geometry. Deliberate visible gaps separate the opposing cone envelopes; it is an illustrative static apparatus, not a conjugately meshed or functioning differential. Closed editable components with fixed overlapping support joins, four constant opaque PBR materials, metres, Z up and ground-centred origin. One model, zero scenes. No rotation, differential action, torque, speed ratio, lubrication, bearing fit, working gear accuracy, engineering, manufacture, loading or safety claim.",
+  "bounds": {
+    "x": 1.82,
+    "y": 1.1,
+    "z": 1.46,
+    "unit": "m"
+  },
+  "triangles": 5740,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/steam-workshop/steam-workshop-static-open-cage-differential-display-01/v1.0.0/model.glb",
+      "size": 238056,
+      "sha256": "d5d27b55044a3ba3e99c0643a966ac6170931ff41d3a5b0e16117e62153c5586"
+    },
+    "blend": {
+      "path": "assets/steam-workshop/steam-workshop-static-open-cage-differential-display-01/v1.0.0/source.blend",
+      "size": 928512,
+      "sha256": "528456c5a91ece469fc350fdbb57968fdb62c43701c3165c4b782627b6cdf340"
+    },
+    "generator": {
+      "path": "assets/steam-workshop/steam-workshop-static-open-cage-differential-display-01/v1.0.0/generate.py",
+      "size": 11704,
+      "sha256": "d977375e372f0e6c173bd3acf7bf83f2c2ce97673aec6b78edca61f46c7343a2"
+    },
+    "render": {
+      "path": "assets/steam-workshop/steam-workshop-static-open-cage-differential-display-01/v1.0.0/thumbnail.png",
+      "size": 495040,
+      "sha256": "b63644cdd24b58b23947c69f047d55791046cfda50ff19fb4bf1847cd8de4e3b"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

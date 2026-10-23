@@ -1,0 +1,42 @@
+{
+  "id": "textile-separated-warping-and-treadle-loom-work-bay-scene-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "textile",
+  "style": "source-preserved-low-poly",
+  "title": "Separated Warping and Treadle-Loom Work Bay",
+  "description": "One static textile work bay from the original weaving-room scene program. One complete horizontal four-wing warping frame and one complete two-shaft treadle floor loom occupy two separate stations on a continuous scene-only floor. The front apron joins an open central aisle between the full unchanged machine footprints; the floor loom keeps its full warp paths, alternating fixed shed, reed, treadles and draped cloth, while the preparation frame keeps its full open winding cage and crank. Every original mesh, POSITION/NORMAL payload, internal hierarchy and constant PBR material is preserved byte for byte; only whole-instance translations and one floor are new. Unlike the older small flat weaving-frame and spool-bench corner or dye-vat preparation scene, this is a separate full-floor-loom and empty warping-frame work relation. One scene, zero new independent models. No yarn connects the machines. No animation, thread transfer, tension, operating weave, human fit, accessibility, structural load, manufacture or safety claim.",
+  "bounds": {
+    "x": 5.400000095367432,
+    "y": 3.5999999046325684,
+    "z": 1.8024998903274536,
+    "unit": "m"
+  },
+  "triangles": 2148,
+  "materials": 9,
+  "files": {
+    "glb": {
+      "path": "assets/textile/textile-separated-warping-and-treadle-loom-work-bay-scene-01/v1.0.0/model.glb",
+      "size": 144448,
+      "sha256": "580378861a512911eee52960c07475368626b0658b3063afff205a2b01eec627"
+    },
+    "blend": {
+      "path": "assets/textile/textile-separated-warping-and-treadle-loom-work-bay-scene-01/v1.0.0/source.blend",
+      "size": 135968,
+      "sha256": "a3fe550c00584bce510db1c79e17b5b9e94c4a715bc952198a72db3050741afb"
+    },
+    "generator": {
+      "path": "assets/textile/textile-separated-warping-and-treadle-loom-work-bay-scene-01/v1.0.0/generate.py",
+      "size": 36574,
+      "sha256": "f3365289e97e626ecb9816c359a973e4c565bfeb91eb6fce66d1e817b7918009"
+    },
+    "render": {
+      "path": "assets/textile/textile-separated-warping-and-treadle-loom-work-bay-scene-01/v1.0.0/thumbnail.png",
+      "size": 500833,
+      "sha256": "c279925e15a35aa59ea65cc70ebff5372a20b35bf475ddafd7ba035ea3696fa1"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
