@@ -1,0 +1,42 @@
+{
+  "id": "museum-fictional-quadruped-skeleton-mount-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "museum",
+  "style": "S01-clean-geometric",
+  "title": "Fictional Quadruped Skeleton Display Mount",
+  "description": "One complete newly authored fictional four-limbed skeletal exhibit on its dedicated low base and two fixed posts. A continuous swelled spine connects an ascending neck, thick long-muzzle skull with a true orbital opening, paired fixed jaw branches and a tapered caudal chain. Five complete rib pairs form an open three-dimensional thorax, with a separate full sternum, shoulder plates and one real open pelvic girdle. Four complete segmented limbs include swollen-ended upper/lower bones and elongated foot bones. This is a whole terrestrial quadruped display architecture, not the earlier fish skeleton stretched or supplied with additional fins, and not a live deer mesh made thin. All numeric geometry is new; no old specimen, plinth, room, label or mesh instance. Separate closed editable solid parts with intentional fixed embedded joins, three constant opaque PBR materials, metres, native Z up and bounds-centred ground origin. One illustrative display model, zero scenes. Fictional anatomy only: no real species, accurate bone count, scientific, medical, paleontological, educational, restoration, motion, load or exhibit-safety claim.",
+  "bounds": {
+    "x": 0.96,
+    "y": 3.0949999999999998,
+    "z": 1.83,
+    "unit": "m"
+  },
+  "triangles": 3388,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/museum/museum-fictional-quadruped-skeleton-mount-01/v1.0.0/model.glb",
+      "size": 231368,
+      "sha256": "8028a7bab74f0b556e4f11c7be267634121be55b12dc34a265d764370307e8ac"
+    },
+    "blend": {
+      "path": "assets/museum/museum-fictional-quadruped-skeleton-mount-01/v1.0.0/source.blend",
+      "size": 870824,
+      "sha256": "a5b3c6519cbd6f69d5027f45fb9e74d71a243b03af8284d076479862f23ff868"
+    },
+    "generator": {
+      "path": "assets/museum/museum-fictional-quadruped-skeleton-mount-01/v1.0.0/generate.py",
+      "size": 11997,
+      "sha256": "f9231cab4c77a8df16b28c9dee234fd9ff4d8a83adf03fc113658811bde25d86"
+    },
+    "render": {
+      "path": "assets/museum/museum-fictional-quadruped-skeleton-mount-01/v1.0.0/thumbnail.png",
+      "size": 402379,
+      "sha256": "df735d9d13599f93a81a529a78aef34039f3fd2b034c224a5b0f26a8d92d3dc2"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

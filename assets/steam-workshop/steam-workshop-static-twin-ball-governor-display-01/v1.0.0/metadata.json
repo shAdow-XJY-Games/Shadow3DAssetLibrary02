@@ -1,0 +1,42 @@
+{
+  "id": "steam-workshop-static-twin-ball-governor-display-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "steam-workshop",
+  "style": "S01-clean-geometric",
+  "title": "Static Twin Ball Governor Display",
+  "description": "One newly authored complete static twin-ball governor display for the original steam-workshop mechanical appearance direction. Full grounded foot and pedestal, upright spindle, fixed top crosshead and bored lower sleeve, four upper/lower paired links and two faceted spherical end weights form a clear diamond linkage silhouette with fixed pins. All new geometry; no old rod, centrifuge or crank bench extracted or renamed. Fixed visual assembly only, no rotation, centrifugal response, speed regulation, working linkage, motion range, compatibility, force, manufacture, engineering or safety claim. Intentional fixed overlapping joins are not functional bearing tolerances. One model, zero scenes, three constant opaque PBR materials, metres and ground-centred origin.",
+  "bounds": {
+    "x": 1.56,
+    "y": 0.62,
+    "z": 1.82,
+    "unit": "m"
+  },
+  "triangles": 1224,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/steam-workshop/steam-workshop-static-twin-ball-governor-display-01/v1.0.0/model.glb",
+      "size": 69472,
+      "sha256": "5a87a81772d27f292340e43abbea45825125e5eeeb090688b1faf02f9df30896"
+    },
+    "blend": {
+      "path": "assets/steam-workshop/steam-workshop-static-twin-ball-governor-display-01/v1.0.0/source.blend",
+      "size": 670836,
+      "sha256": "efd036a707db83908ed50e812721b4fb096ba8254cb24efb42f38ba33ea4ce64"
+    },
+    "generator": {
+      "path": "assets/steam-workshop/steam-workshop-static-twin-ball-governor-display-01/v1.0.0/generate.py",
+      "size": 10054,
+      "sha256": "9d8a9675042ca2dd4aa7fda1407a2cd7d667b559591871e6c64ee01e7b92f289"
+    },
+    "render": {
+      "path": "assets/steam-workshop/steam-workshop-static-twin-ball-governor-display-01/v1.0.0/thumbnail.png",
+      "size": 402527,
+      "sha256": "b81a68dedc08034c56a5e664e0b793a798d1b6d165136acc3708996148d5ea4c"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
