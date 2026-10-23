@@ -1,0 +1,42 @@
+{
+  "id": "nature-continuous-three-arm-stream-confluence-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "modular",
+  "theme": "nature",
+  "style": "warm-handcrafted-village",
+  "title": "Continuous Three-Arm Stream Confluence",
+  "description": "One original complete natural stream junction module with a single continuous Y-shaped closed opaque water body and three .60m-wide terminal water ports, surrounded by three solid sloping bank wedges on one common grounded bed. Newly authored branching water planform, bank faces and full bed; not a recoloured two-port stream, added rock count or repurposed pipe/roller junction. Water and bank bottoms embed .01m into the common bed with selected real material-overlap checks; no floating strips. Five editable closed meshes and four coherent matte solid PBR roles. One module, zero scenes. Metres, native Z up, horizontal bounds-centred ground origin. Own explicit three-port geometry only: matching old bank modules, fluid continuity after assembly or universal snapping is not claimed. Static visual terrain only, no hydrology, flow animation, ecology, collision, navigation, human clearance or engineering performance claim.",
+  "bounds": {
+    "x": 3.609326601,
+    "y": 4.167691231,
+    "z": 0.74000001,
+    "unit": "m"
+  },
+  "triangles": 106,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/nature/nature-continuous-three-arm-stream-confluence-01/v1.0.0/model.glb",
+      "size": 12896,
+      "sha256": "559b1eb03a5028a975d239f86869c5c598af69a2142b2ed41dec712b496176b9"
+    },
+    "blend": {
+      "path": "assets/nature/nature-continuous-three-arm-stream-confluence-01/v1.0.0/source.blend",
+      "size": 546292,
+      "sha256": "5a27016fb7f61cca6eed57069afb85f43a5f47cc7bfbc0774a0f6fea3e547fc7"
+    },
+    "generator": {
+      "path": "assets/nature/nature-continuous-three-arm-stream-confluence-01/v1.0.0/generate.py",
+      "size": 27659,
+      "sha256": "2cd8fabce6cb6f4bc1ff8fb461792eed12bc3d65e4c0b4f27dbc31d2dea94946"
+    },
+    "render": {
+      "path": "assets/nature/nature-continuous-three-arm-stream-confluence-01/v1.0.0/thumbnail.png",
+      "size": 484962,
+      "sha256": "d754e54e3a9d6908e378d55e00efb4db806a1a124ab3d69dfd898d7a3a1da8f2"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
