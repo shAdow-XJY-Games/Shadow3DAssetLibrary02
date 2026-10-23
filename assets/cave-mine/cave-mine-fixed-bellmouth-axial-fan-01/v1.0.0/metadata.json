@@ -1,0 +1,42 @@
+{
+  "id": "cave-mine-fixed-bellmouth-axial-fan-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "cave-mine",
+  "style": "source-preserved-low-poly",
+  "title": "Fixed Bellmouth Axial Mine Fan",
+  "description": "One original complete fixed mine axial-fan appearance: one thick short annular housing expands into a real open bellmouth, around a central motor pod and six pitched solid blades. Three rear radial motor supports, a sparse eight-bar front grille with complete rim and centre, and two whole grounded skids with casing saddles form one compact apparatus. The central motor, supports and grille occupy real portions of the opening; this is not claimed as an unobstructed full bore. No old windpump, turbine wheel or screen drum is imported or rescaled. Static art only: no airflow, ventilation adequacy, rotation, hazardous-atmosphere use, electrical or explosion protection, blade-guard safety, mounting strength or equipment-operation claim.",
+  "bounds": {
+    "x": 1.2999999523162842,
+    "y": 0.7400000095367432,
+    "z": 1.3700000047683716,
+    "unit": "m"
+  },
+  "triangles": 1276,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/cave-mine/cave-mine-fixed-bellmouth-axial-fan-01/v1.0.0/model.glb",
+      "size": 126476,
+      "sha256": "8f418e28d6a9529e2fbb5d404051506af61d4343df1103e5ec88782e146054b9"
+    },
+    "blend": {
+      "path": "assets/cave-mine/cave-mine-fixed-bellmouth-axial-fan-01/v1.0.0/source.blend",
+      "size": 821088,
+      "sha256": "4dcc6d7cec26849cbae1a009b55f26d23630b4a359d041797686cbff8c19b8b8"
+    },
+    "generator": {
+      "path": "assets/cave-mine/cave-mine-fixed-bellmouth-axial-fan-01/v1.0.0/generate.py",
+      "size": 12643,
+      "sha256": "2f18abda3e01bbc2eb556bb8e4c64e9e89163b3bb3ebc5fa7bf0c984e06cc951"
+    },
+    "render": {
+      "path": "assets/cave-mine/cave-mine-fixed-bellmouth-axial-fan-01/v1.0.0/thumbnail.png",
+      "size": 594022,
+      "sha256": "be994a8f78d0dca0a5c06aa8ada19e3fd7a19c5e431fcf33f7a2994934bc1cbc"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

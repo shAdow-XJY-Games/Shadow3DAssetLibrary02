@@ -1,0 +1,42 @@
+{
+  "id": "ruins-curved-deck-timber-arch-centering-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "ruins",
+  "style": "S01-clean-geometric",
+  "title": "Curved-Deck Timber Arch Centering",
+  "description": "One newly authored complete static timber arch-centering appearance for the original ruins-restoration temporary-support and rebuilding direction. A whole thick semicircular barrel-form deck seats on two continuous curved ribs; six full fan webs rise from two springing crossbeams above a tied four-post base with two broad full ground soles. It is a curved formwork support, not a longer ladder, extra raking shores, recolored mine arch, stone damage-count variant or walkable scaffold. All nineteen meshes are closed editable solids with intentional finite assembly seats or short inserted joints; not falsely claimed one fused watertight shell. One prop and no host wall, masonry arch, ruins scene, stone placement or separate counted parts. Static visual form only: no load, shoring design, construction sequence, dismantling, arch-fit, engineering, historic accuracy, walkability or repair safety guarantee. Three opaque constant PBR materials, no textures, labels or people; preview floor excluded.",
+  "bounds": {
+    "x": 2.36,
+    "y": 0.92,
+    "z": 1.94,
+    "unit": "m"
+  },
+  "triangles": 588,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/ruins/ruins-curved-deck-timber-arch-centering-01/v1.0.0/model.glb",
+      "size": 36768,
+      "sha256": "7d74d24c5d19d717d3336d997ef09bdaa63c09b373de6ca02184b066fbaf5711"
+    },
+    "blend": {
+      "path": "assets/ruins/ruins-curved-deck-timber-arch-centering-01/v1.0.0/source.blend",
+      "size": 636520,
+      "sha256": "b09205eced1bb5779357c29f59f6ceda5e4ac9f9951c9277eec3ff4c5ac0f10e"
+    },
+    "generator": {
+      "path": "assets/ruins/ruins-curved-deck-timber-arch-centering-01/v1.0.0/generate.py",
+      "size": 10077,
+      "sha256": "3f5ea3830bcbda8d3d0529afa5900ee0d6a7768d651c6551489fa71d2527164e"
+    },
+    "render": {
+      "path": "assets/ruins/ruins-curved-deck-timber-arch-centering-01/v1.0.0/thumbnail.png",
+      "size": 528005,
+      "sha256": "feb9ada355e3df8f40ef6902f5c7002b5b567399d9be025ae5668ef5a633f8c2"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

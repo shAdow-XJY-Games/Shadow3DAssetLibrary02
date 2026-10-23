@@ -1,0 +1,42 @@
+{
+  "id": "village-continuous-elbow-roofed-timber-passage-01",
+  "version": "1.0.0",
+  "category": "modular",
+  "assetKind": "modular",
+  "theme": "village",
+  "style": "S01-clean-geometric",
+  "title": "Continuous Elbow Roofed Timber Passage",
+  "description": "One newly authored complete static village covered-passage module. A grounded full L-shaped stone floor turns between two perpendicular open end portals. Six complete timber posts with complete flat bearing heads and six whole edge headers support a single continuous solid clay-coloured elbow roof with a full flat soffit, two pitched upper ridge directions and an inner valley. The entire route and both mouths remain open, with no wall filling the elbow. Roof, ground slab and each post/header are closed editable meshes; no old canopy/house/wall mesh is imported, cropped or duplicated. This is an entire dogleg passage, not a short single-slope entrance canopy or a cantilever bus shelter, and not a new scene made by repeating those assets. Three constant opaque PBR materials; no texture, ornaments, extra furniture or copied building shell. Static illustrative architecture only, no structural load, weatherproofing, drainage, canonical construction, navigability, accessibility, installation or safety claim. One modular model and zero scenes.",
+  "bounds": {
+    "x": 3.9,
+    "y": 3.9,
+    "z": 2.9,
+    "unit": "m"
+  },
+  "triangles": 344,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/village/village-continuous-elbow-roofed-timber-passage-01/v1.0.0/model.glb",
+      "size": 23688,
+      "sha256": "d0e9f1dffe811e1d5e883d03a1a2efc6a54ee2275ce84e318375a5c9472e7088"
+    },
+    "blend": {
+      "path": "assets/village/village-continuous-elbow-roofed-timber-passage-01/v1.0.0/source.blend",
+      "size": 600244,
+      "sha256": "0c03c092c9ffe9d972c302c098b1fce490208a080a4f5f9000fe0a2051cf5656"
+    },
+    "generator": {
+      "path": "assets/village/village-continuous-elbow-roofed-timber-passage-01/v1.0.0/generate.py",
+      "size": 7940,
+      "sha256": "5fc2b7dbbce568226fd5ffb15b9919f73b1f3c8c7caf2e0976bf2b1bdb32a8e8"
+    },
+    "render": {
+      "path": "assets/village/village-continuous-elbow-roofed-timber-passage-01/v1.0.0/thumbnail.png",
+      "size": 517671,
+      "sha256": "f2f1e11af9b8e916145ad2232feec9f1ccc4cf0ed49e3437ccc69eda5031cd57"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
