@@ -1,0 +1,42 @@
+{
+  "id": "postal-scale-desk-and-pickup-locker-hall-scene-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "postal",
+  "style": "source-preserved-low-poly",
+  "title": "Scale Desk and Pickup Locker Hall",
+  "description": "One static postal service and pickup hall scene, zero new models. A complete open worktable on the left carries the original whole tabletop parcel scale at its documented unit-scale table height. A separate complete four-compartment pickup locker sits to the right and rear, preserving all four original doors, its one fixed-open lower door, eight real bored hinge pairs and all original hardware. A closed scene-only floor and central approach band distinguish the counter-side preparation position from the independent locker-front zone. Three complete old models preserve raw mesh/normal payloads, internal transforms, original fixed poses and every per-face PBR. The broad front approach and gap between the complete desk and locker are unoccupied. Different from the mailbox/cubby street corner and the table-to-rear-cubby sorting room; no copied scene relabelled as a hall. No parcels, credentials, readable display, weighing, transactions, collection service, locks or security, door movement, capacity, ergonomic or accessibility compliance, installation or public-safety certification is claimed.",
+  "bounds": {
+    "x": 4.800000190734863,
+    "y": 3.799999952316284,
+    "z": 2.0399999618530273,
+    "unit": "m"
+  },
+  "triangles": 5112,
+  "materials": 13,
+  "files": {
+    "glb": {
+      "path": "assets/postal/postal-scale-desk-and-pickup-locker-hall-scene-01/v1.0.0/model.glb",
+      "size": 272044,
+      "sha256": "a07be19312cb57d9d8dac47c7dd8c48dbafcbab7f3721e90290ca696a85080ac"
+    },
+    "blend": {
+      "path": "assets/postal/postal-scale-desk-and-pickup-locker-hall-scene-01/v1.0.0/source.blend",
+      "size": 157167,
+      "sha256": "f1d09d70c021b954a6bdafd20d95b65034a40dd1da03b4a22500418c166f6efe"
+    },
+    "generator": {
+      "path": "assets/postal/postal-scale-desk-and-pickup-locker-hall-scene-01/v1.0.0/generate.py",
+      "size": 56226,
+      "sha256": "800bec8a201943418cfd1c7e9155460ae34e94e7b5f86790d7447f3e34265621"
+    },
+    "render": {
+      "path": "assets/postal/postal-scale-desk-and-pickup-locker-hall-scene-01/v1.0.0/thumbnail.png",
+      "size": 493482,
+      "sha256": "488ef707f9e7029881fde7e8def492eefd34b0351e08cc7f1d8a4482842f4ee4"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

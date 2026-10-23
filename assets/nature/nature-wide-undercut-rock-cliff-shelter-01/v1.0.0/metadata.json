@@ -1,0 +1,42 @@
+{
+  "id": "nature-wide-undercut-rock-cliff-shelter-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "modular",
+  "theme": "nature",
+  "style": "warm-handcrafted-village",
+  "title": "Wide Undercut Rock Cliff Shelter",
+  "description": "One original complete wide undercut natural cliff terrain module. A full-width grounded irregular rear cliff connects through a shallow foot terrace to a heavy projecting angular rock roof, making a broad shaded C-section recess open at the front and both lateral ends. The unequal thick roof profile and uneven broad back are one closed continuous shared-vertex rock body, not a stack of independent slabs, central-pillar caprock, two-foot through arch or low small-mouth mound. All five full new slices and their connecting faces are authored here; no previous cliff, ravine, bridge, failed caprock or burrow geometry imported or hidden. Three opaque matte mineral roles, no texture or decor. One terrain module, zero scenes; the roof, wall and terrace are not separate assets. Metres, Z up, horizontal bounds-centred ground origin. Cut lateral outlines are explicit module boundaries; no compatibility with other cliff modules promised. Static stylised natural appearance only, no geology, erosion, navigability, usable shelter, stability, climbing or real-world safety claim.",
+  "bounds": {
+    "x": 4.613983631,
+    "y": 3.243099928,
+    "z": 2.980000019,
+    "unit": "m"
+  },
+  "triangles": 136,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/nature/nature-wide-undercut-rock-cliff-shelter-01/v1.0.0/model.glb",
+      "size": 13660,
+      "sha256": "23dafa329a391497e82a1151e3f73d270296eba9d1dbd7492399f85c4b6c9eb5"
+    },
+    "blend": {
+      "path": "assets/nature/nature-wide-undercut-rock-cliff-shelter-01/v1.0.0/source.blend",
+      "size": 504608,
+      "sha256": "c8e747500d125a1b859bfd3314a9df5accf931c06a96c2430c55d55bf8c0a9c9"
+    },
+    "generator": {
+      "path": "assets/nature/nature-wide-undercut-rock-cliff-shelter-01/v1.0.0/generate.py",
+      "size": 27388,
+      "sha256": "3f412ea048b358cac3bab060292d923f7d4b50eacfa88f0f1fb9097a018b441d"
+    },
+    "render": {
+      "path": "assets/nature/nature-wide-undercut-rock-cliff-shelter-01/v1.0.0/thumbnail.png",
+      "size": 501667,
+      "sha256": "8b42f85d4cc142bc42466379c3162b268ef1a524ea14da8accc87eafac50ef92"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

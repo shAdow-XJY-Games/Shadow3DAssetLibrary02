@@ -1,0 +1,42 @@
+{
+  "id": "steam-workshop-fixed-crosshead-crank-flywheel-bench-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "steam-workshop",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Crosshead Crank and Flywheel Bench",
+  "description": "One newly authored complete static steam-workshop drive-bench display: a grounded continuous base supports an open-top horizontal cylinder with visible separate piston, real bored front gland and a rod reaching a crosshead block between two full guides. One complete inclined two-eye connecting rod is retained on the crosshead pin and an actual offset crank pin. A separate crank disk, full shaft, two bored bearing pedestals and one full open-spoke flywheel complete the new assembly. All geometry is freshly authored, not a scene containing old cylinder/rod/gear props, not a resized cutaway cylinder or extra copied gear. The flywheel has a complete annular rim and six whole radial spokes around a hub, with real open spaces. Metres, native Z up, horizontal-bounds-centred grounded origin, three opaque solid untextured PBR materials and individually editable closed components. One complete prop, zero scene. One fixed illustrative pose only: no steam, pressure, cycle timing, torque, power, force transmission, working bearing fit, travel envelope, full-stroke collision clearance, rigging, animation, efficiency, load, stability, manufacture or safety claim.",
+  "bounds": {
+    "x": 2.45,
+    "y": 0.94,
+    "z": 0.825,
+    "unit": "m"
+  },
+  "triangles": 2256,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/steam-workshop/steam-workshop-fixed-crosshead-crank-flywheel-bench-01/v1.0.0/model.glb",
+      "size": 113384,
+      "sha256": "c1a2b167e95916e997cee714e117315f341a23e21f08297602cd57fcae17c7f6"
+    },
+    "blend": {
+      "path": "assets/steam-workshop/steam-workshop-fixed-crosshead-crank-flywheel-bench-01/v1.0.0/source.blend",
+      "size": 786488,
+      "sha256": "9ac68de098bcf6ff44670c4c15da869694d29207c3ca2a68ddfb971c0e66d162"
+    },
+    "generator": {
+      "path": "assets/steam-workshop/steam-workshop-fixed-crosshead-crank-flywheel-bench-01/v1.0.0/generate.py",
+      "size": 11896,
+      "sha256": "994e77b751bd75b4489791bde3877e6b29f60eada2fa98635a04ce87be5eedd7"
+    },
+    "render": {
+      "path": "assets/steam-workshop/steam-workshop-fixed-crosshead-crank-flywheel-bench-01/v1.0.0/thumbnail.png",
+      "size": 393427,
+      "sha256": "4f320597e7b526486d73c128ee71721ba8a68d04de11938e0430d75866aa9e7f"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
