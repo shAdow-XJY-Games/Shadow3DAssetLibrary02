@@ -1,0 +1,42 @@
+{
+  "id": "cave-mine-stepped-crusher-and-filter-inspection-bay-scene-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "cave-mine",
+  "style": "source-preserved-low-poly",
+  "title": "Stepped Crusher and Filter Inspection Bay",
+  "description": "One static mine-processing inspection bay composed from two complete qualified original equipment models. A whole open-feed twin-roll crusher stands on the low left earth bed; a whole open plate-and-frame filter press stands on the raised right bed, with its collector and pulled plate left unchanged. One connected scene-only support floor forms a low front apron, two intermediate broad treads and three risers up to the press bed. The height-separated equipment arrangement and front stepped approach differ from the older flat grizzly screen with hopper wagon on a rail siding. All original meshes, directed triangles, normals, internal transforms and full material dictionaries remain unchanged at unit scale under translation only. No individual plate, roller or frame is extracted or counted again. One scene, zero new independent models, two whole instances. The two machines are not mechanically or hydraulically connected and no actual mining process is represented. Static art only: no material or liquid, filtering, crushing, transfer, work sequence, maintenance access, human clearance, navigation, structural load, slope or stair compliance, installation or safety claim.",
+  "bounds": {
+    "x": 6.800000190734863,
+    "y": 4.0,
+    "z": 2.299999952316284,
+    "unit": "m"
+  },
+  "triangles": 4748,
+  "materials": 10,
+  "files": {
+    "glb": {
+      "path": "assets/cave-mine/cave-mine-stepped-crusher-and-filter-inspection-bay-scene-01/v1.0.0/model.glb",
+      "size": 212156,
+      "sha256": "da2b6eb907b276ee433e8812edccb3c67175ebbcbcac03fe1fdac76dc4cfc1b1"
+    },
+    "blend": {
+      "path": "assets/cave-mine/cave-mine-stepped-crusher-and-filter-inspection-bay-scene-01/v1.0.0/source.blend",
+      "size": 155171,
+      "sha256": "3c7cf7c9ed1528eba4e880006e14a113b9b247c8649e471ade2b56dd7567be68"
+    },
+    "generator": {
+      "path": "assets/cave-mine/cave-mine-stepped-crusher-and-filter-inspection-bay-scene-01/v1.0.0/generate.py",
+      "size": 53172,
+      "sha256": "2dcc283b15d481e3bcb336c2f618ad5f881bf29335bf0b04628d279267a951e2"
+    },
+    "render": {
+      "path": "assets/cave-mine/cave-mine-stepped-crusher-and-filter-inspection-bay-scene-01/v1.0.0/thumbnail.png",
+      "size": 504103,
+      "sha256": "dbbc17899714ebf748ea4f6d976a13250fd97566b940fc469a65b299969f4fe8"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "nature-whole-curled-palmate-fallen-leaf-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "nature",
+  "style": "warm-handcrafted-village",
+  "title": "Whole Curled Palmate Fallen Leaf",
+  "description": "One complete newly authored curled palmate leaf-litter prop, not a leaf extracted from an existing tree, holly wreath or waterlily pad. One connected closed thin finite lamina has an asymmetric five-main-lobe silhouette with secondary tooth points and deep intervening sinuses; its narrow full petiole continues from the same material boundary. A refined continuous bent upper/lower surface lifts the outer lobes and stalk while retaining a real finite central underside ground patch. Warm dry solid PBR, no alpha cards, decals or texture veins. No botanical species accuracy, microscopic veins, growth, seasons, wind animation or ecological simulation claim. One complete leaf prop, zero scene or extra lobe/stem model count. Metres, Z up, whole horizontal bounds-centred ground origin.",
+  "bounds": {
+    "x": 0.158999994,
+    "y": 0.197999999,
+    "z": 0.010808324,
+    "unit": "m"
+  },
+  "triangles": 976,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/nature/nature-whole-curled-palmate-fallen-leaf-01/v1.0.0/model.glb",
+      "size": 66016,
+      "sha256": "3bce770d7f21c6ed6c5196a2f26c7e1498fe59ad19aaa98d419123a7fe081df7"
+    },
+    "blend": {
+      "path": "assets/nature/nature-whole-curled-palmate-fallen-leaf-01/v1.0.0/source.blend",
+      "size": 549972,
+      "sha256": "1324b88f5b27d7fa18a7ea6644f265a4ff82d39b60e1815fef6d999125edc536"
+    },
+    "generator": {
+      "path": "assets/nature/nature-whole-curled-palmate-fallen-leaf-01/v1.0.0/generate.py",
+      "size": 27247,
+      "sha256": "824c1a27364e287849a9520073d2eadec3a3b6ee1584f87a7fbcaba77e413caf"
+    },
+    "render": {
+      "path": "assets/nature/nature-whole-curled-palmate-fallen-leaf-01/v1.0.0/thumbnail.png",
+      "size": 465314,
+      "sha256": "e70735da807dbc5dda30898405ccad7ce1ce0f0a72917960f7b2219230006e3a"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
