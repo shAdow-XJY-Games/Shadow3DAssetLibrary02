@@ -1,0 +1,42 @@
+{
+  "id": "desert-four-mouth-hollow-wind-tower-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "desert",
+  "style": "source-preserved-low-poly",
+  "title": "Four-Mouth Hollow Mudbrick Wind Tower",
+  "description": "One original fixed mudbrick-style wind-tower architectural visual. A thick square shaft remains genuinely open underneath and continues upward into four broad upper face openings between integral corner piers. A complete projecting flat cap shades the four openings, while integral hollow base and sill collars preserve the uninterrupted inner shaft. Unlike a clock tower with a transverse arch and solid clock box, a solid lighthouse with a separately floored lantern room, or blind wall niches, this is one coherent downward-open four-mouth shaft. No old geometry is imported. Static unoccupied visual only: no airflow, cooling, ventilation, load, installation, structural safety, historic reconstruction or compatibility with another roof or building is claimed.",
+  "bounds": {
+    "x": 1.2400000095367432,
+    "y": 1.2400000095367432,
+    "z": 3.3399999141693115,
+    "unit": "m"
+  },
+  "triangles": 492,
+  "materials": 2,
+  "files": {
+    "glb": {
+      "path": "assets/interior/desert-four-mouth-hollow-wind-tower-01/v1.0.0/model.glb",
+      "size": 43212,
+      "sha256": "a2c88b5056963df0817138509ebf13c9f4d28b8cc2b4bc30effb7a05c027310a"
+    },
+    "blend": {
+      "path": "assets/interior/desert-four-mouth-hollow-wind-tower-01/v1.0.0/source.blend",
+      "size": 574048,
+      "sha256": "4c744c3219dab93733aa55a9ef9ad335b8b995fb9b8c228d8ab7a1f57ab26815"
+    },
+    "generator": {
+      "path": "assets/interior/desert-four-mouth-hollow-wind-tower-01/v1.0.0/generate.py",
+      "size": 12457,
+      "sha256": "1442b98497f530dcfd82fc093b1cb8cd9e47bfe1e9e7016ba3656bcf970d8c7a"
+    },
+    "render": {
+      "path": "assets/interior/desert-four-mouth-hollow-wind-tower-01/v1.0.0/thumbnail.png",
+      "size": 487839,
+      "sha256": "204a7eb148922e6da913cfcab5b550f868f53028f08647dd541e8bdeeb83b76f"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
