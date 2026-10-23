@@ -1,0 +1,42 @@
+{
+  "id": "renewable-fixed-opposed-cup-vertical-rotor-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "renewable",
+  "style": "source-preserved-low-poly",
+  "title": "Fixed Opposed Cup Vertical Rotor",
+  "description": "One new complete fixed open-cup vertical rotor appearance. Two broad opposed thick semicylindrical cups have real concave surfaces and overlapping open mouths between full end discs, leaving a middle passage. Upper and lower short rotor stubs seat into bearing collars on a grounded portal with low and high crossbridges. Not the old narrow bowed blades, radial propeller or rimmed paddle wheel. One original whole model, zero scenes, no imported asset geometry. Static visual study only, no rotation, wind capture, electrical output, hydrodynamics, performance, bearing operation, load, structural, manufacturing or safety claim.",
+  "bounds": {
+    "x": 1.6399999856948853,
+    "y": 1.1299999952316284,
+    "z": 2.180000066757202,
+    "unit": "m"
+  },
+  "triangles": 1536,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/winter/renewable-fixed-opposed-cup-vertical-rotor-01/v1.0.0/model.glb",
+      "size": 138436,
+      "sha256": "e353b92a9d05f8eab18832be47bc75b5163dbeab1844964ff8e0d0463a9c94ce"
+    },
+    "blend": {
+      "path": "assets/winter/renewable-fixed-opposed-cup-vertical-rotor-01/v1.0.0/source.blend",
+      "size": 789056,
+      "sha256": "77a015bdf3a0a117486a1ea84a8d979cea57240b384e913c9083ebfe3d2780ce"
+    },
+    "generator": {
+      "path": "assets/winter/renewable-fixed-opposed-cup-vertical-rotor-01/v1.0.0/generate.py",
+      "size": 14523,
+      "sha256": "cb4c87c4fb3070ee7957556e04cf03aac4e9f221375769fb08832f5f7b8cf20f"
+    },
+    "render": {
+      "path": "assets/winter/renewable-fixed-opposed-cup-vertical-rotor-01/v1.0.0/thumbnail.png",
+      "size": 529011,
+      "sha256": "4740110a9c6e6cd617b007cdcc835177941c7e3051122616f3a63ec499912a62"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
