@@ -1,0 +1,42 @@
+{
+  "id": "kitchen-fixed-clamp-on-horizontal-mincer-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "kitchen",
+  "style": "source-preserved-low-poly",
+  "title": "Fixed Clamp-On Horizontal Mincer",
+  "description": "One newly authored whole fixed horizontal hand-mincer appearance: table-edge C-casting and raised pressure pad with spindle/crossbar, horizontal deep barrel with complete nine-bore front plate and lugged retaining collar, open flared top feed hopper and rear offset crank with whole wood grip. New complete original numeric geometry, no old coffee grinder, vise or mixer imported. Hopper has a real blind floor embedded into barrel top; no continuous internal processing circuit or auger is claimed. Static game-art only, one model zero scenes, no food cutting, grinding, rotation, mounting force, food-contact suitability, hygiene or safety claim. Lower C-casting is a preview datum, not a certified self-standing installation; no table host included.",
+  "bounds": {
+    "x": 0.21400000154972076,
+    "y": 0.33399999141693115,
+    "z": 0.47600001096725464,
+    "unit": "m"
+  },
+  "triangles": 3316,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/winter/kitchen-fixed-clamp-on-horizontal-mincer-01/v1.0.0/model.glb",
+      "size": 290788,
+      "sha256": "0a6ffd48089a0d4571650a3f128ccff8024df30c175b1040ef94449791a6613e"
+    },
+    "blend": {
+      "path": "assets/winter/kitchen-fixed-clamp-on-horizontal-mincer-01/v1.0.0/source.blend",
+      "size": 1002528,
+      "sha256": "7842f25188f4fcc37c8f62b6c148c4043e86a1b257f57113354e5cd7420414dc"
+    },
+    "generator": {
+      "path": "assets/winter/kitchen-fixed-clamp-on-horizontal-mincer-01/v1.0.0/generate.py",
+      "size": 18664,
+      "sha256": "4e70ab597a7f050c295e4cda2996243479f1bdc18849c365446348e741f2236d"
+    },
+    "render": {
+      "path": "assets/winter/kitchen-fixed-clamp-on-horizontal-mincer-01/v1.0.0/thumbnail.png",
+      "size": 490690,
+      "sha256": "0e730e8dbd4412be52b64f53ff14a80ddde19527504ef78b5788bb8dea20ce16"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

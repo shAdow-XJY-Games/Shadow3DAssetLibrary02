@@ -1,0 +1,42 @@
+{
+  "id": "carnival-fixed-crossshaft-drop-target-stall-01",
+  "version": "1.0.0",
+  "category": "modular",
+  "assetKind": "prop",
+  "theme": "carnival",
+  "style": "warm-handcrafted-village",
+  "title": "Fixed Cross-shaft Drop-target Stall",
+  "description": "One newly authored complete static carnival drop-target stall: independent thick round-headed paddle targets rise from a common continuous horizontal shaft, one paddle fixed tilted back, inside a tall rear-and-side receiving hood. A separate forward barrier counter spans four grounded legs and a complete braced lower frame; an open collection shelf extends behind the counter beneath the shaft. The target field consists of separately supported solid plates rather than holes in a sloping board or pegs for rings. One whole prop zero scenes. Fixed sculptural display only: no actual rotation, impact, throwing, scoring, ball return, operation, human fit, structural load or safety claim.",
+  "bounds": {
+    "x": 2.019999981,
+    "y": 1.360000014,
+    "z": 2.150000095,
+    "unit": "m"
+  },
+  "triangles": 616,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/carnival/carnival-fixed-crossshaft-drop-target-stall-01/v1.0.0/model.glb",
+      "size": 44596,
+      "sha256": "576aa3908320ddcf87f14b36b6b9806de0804b23ac0b0d79646002c821361a1e"
+    },
+    "blend": {
+      "path": "assets/carnival/carnival-fixed-crossshaft-drop-target-stall-01/v1.0.0/source.blend",
+      "size": 651400,
+      "sha256": "84e077ad36c30928d3a234f4a8dedc391797fac016572339a0e41cd918dc2d33"
+    },
+    "generator": {
+      "path": "assets/carnival/carnival-fixed-crossshaft-drop-target-stall-01/v1.0.0/generate.py",
+      "size": 29940,
+      "sha256": "8fce8bf114b6f7ec704d67ba2dee8405a0e79a412ecafe7ee5c8d00da2065168"
+    },
+    "render": {
+      "path": "assets/carnival/carnival-fixed-crossshaft-drop-target-stall-01/v1.0.0/thumbnail.png",
+      "size": 632100,
+      "sha256": "9f03b50f35bbfd6dd6a9fcfb82b398ec07f6d5dc94134cb3c4361a6daf50c1ff"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
