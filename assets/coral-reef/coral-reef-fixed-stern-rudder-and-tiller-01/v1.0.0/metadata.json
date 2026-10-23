@@ -1,0 +1,42 @@
+{
+  "id": "coral-reef-fixed-stern-rudder-and-tiller-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "coral-reef",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Stern Rudder and Tiller",
+  "description": "One newly authored complete detached static stern-rudder assembly for the original underwater-ruins shipwreck-components direction. An integral thick swept blade and tall leading stock, one whole bent head tiller, two complete U-shaped wrap straps and two downward pintles form a distinct steering-component silhouette. Six closed editable meshes with three opaque constant PBR materials. The straps surround the complete leading edge and both blade sides with intentional small inserted joints, not floating decorative plates. Metres, native Z up, ground-centred actual horizontal bounds; broad lower blade cut at Z=0. No host ship, hinge sockets, water, chain, old hull geometry or surroundings. One prop, zero scenes. One fixed visual display pose only: no motion, steering or hydrodynamic function, host fit, mounting strength, balance, seaworthiness, historical accuracy or salvage/maritime safety certification. Preview floor excluded.",
+  "bounds": {
+    "x": 1.92,
+    "y": 0.22,
+    "z": 1.76,
+    "unit": "m"
+  },
+  "triangles": 208,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/coral-reef/coral-reef-fixed-stern-rudder-and-tiller-01/v1.0.0/model.glb",
+      "size": 13684,
+      "sha256": "521641fcf1e02481fa2b74611b474988d93af46aa1263926ec12b266681fb755"
+    },
+    "blend": {
+      "path": "assets/coral-reef/coral-reef-fixed-stern-rudder-and-tiller-01/v1.0.0/source.blend",
+      "size": 555940,
+      "sha256": "dd76fec57ed4ebbe6428c03f35b2ac34ce8d328d4a70821bb6590f61df2bd43a"
+    },
+    "generator": {
+      "path": "assets/coral-reef/coral-reef-fixed-stern-rudder-and-tiller-01/v1.0.0/generate.py",
+      "size": 9469,
+      "sha256": "79281944bf670994c0cdf9ae60d95fe2ad8ac40d766126544129048770aae7b9"
+    },
+    "render": {
+      "path": "assets/coral-reef/coral-reef-fixed-stern-rudder-and-tiller-01/v1.0.0/thumbnail.png",
+      "size": 406944,
+      "sha256": "3bf72ad58461bfbeac4d92e1e759581c58d58f9ffacb49d5d1bf3ac1f209111d"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "animal-static-continuous-shoulder-long-neck-giraffe-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "animal",
+  "style": "S01-clean-geometric",
+  "title": "Static Continuous-Shoulder Long-Neck Giraffe",
+  "description": "One newly authored stylised static giraffe-like whole animal. A continuous sloping torso rises through the shoulder into a long narrowing neck as one closed mesh, carrying a small elongated head, paired complete short unbranched ossicones and pointed thick lateral ears. Four entire long legs end in integral flat dark hoof soles; a long hanging tufted tail and small eyes complete the whole silhouette. New complete body path, proportions and head geometry rather than an old deer stretched or a colour swap; coat facet colours are secondary and are not counted as structural novelty. Metres, native Z up, head -Y, actual horizontal bounds-centred ground datum. One prop, zero scene. No rig, animation, sex, age or exact species/anatomical precision claim; no animal handling, locomotion or safety claim.",
+  "bounds": {
+    "x": 0.48,
+    "y": 1.3787168526745384,
+    "z": 2.285,
+    "unit": "m"
+  },
+  "triangles": 1272,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/animal/animal-static-continuous-shoulder-long-neck-giraffe-01/v1.0.0/model.glb",
+      "size": 94104,
+      "sha256": "0c06d9e8fed2cfe598ab00534f5c504163ff796af31019e0d2e02929264673e8"
+    },
+    "blend": {
+      "path": "assets/animal/animal-static-continuous-shoulder-long-neck-giraffe-01/v1.0.0/source.blend",
+      "size": 645736,
+      "sha256": "fdc329c2dafe680cbe80eaa85b55403ecf0e638d001111bf483e4b4cd644f543"
+    },
+    "generator": {
+      "path": "assets/animal/animal-static-continuous-shoulder-long-neck-giraffe-01/v1.0.0/generate.py",
+      "size": 10815,
+      "sha256": "1990121370d9d7ffff523104707a8228de07c0cfd83da71aa191c5258ade94c7"
+    },
+    "render": {
+      "path": "assets/animal/animal-static-continuous-shoulder-long-neck-giraffe-01/v1.0.0/thumbnail.png",
+      "size": 395698,
+      "sha256": "96fa587da89810752c38cb6153c973ff6f0e08102bb5c884fc1406a09bc4ff95"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "robotics-fixed-open-waist-biped-inspector-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "robotics",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Open-Waist Biped Inspection Robot",
+  "description": "One original complete fixed standing biped inspection-robot appearance. Two broad flat toe feet support separate inclined lower-leg plates, faceted transverse knees and tapered upper-leg plates. A chamfered pelvis supports an exposed hexagonal waist with real surrounding air, an upright tapered machine chest, a short neck and one whole chamfered sensor head with an integral genuine recessed visor floor. Two lateral shoulder axles, hanging upper-arm plates, transverse elbows and forward inclined forearms terminate in two continuous open-bottom claw ends. Twenty-three closed editable meshes and four opaque constant untextured PBR materials. Metres, native Z up, complete horizontal bounds-centred ground origin, front -Y. All whole geometry is newly authored using generic mesh helpers only. No quadruped leg, rover, serial work arm, human body, clothing, mannequin or existing character geometry is imported, recoloured, scaled or reconstructed. One whole prop, zero scenes and no separately counted components. Static visual only: no walking, balancing, standing stability, rigging, animation, sensing, imaging, cognition, autonomy, inspection capability, motion, kinematics, grasp, force, power, control, load, protection, compatibility, manufacture or safety claim. Biped describes the visible two-foot body arrangement, not demonstrated locomotion.",
+  "bounds": {
+    "x": 0.91,
+    "y": 0.35,
+    "z": 1.7,
+    "unit": "m"
+  },
+  "triangles": 772,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/robotics/robotics-fixed-open-waist-biped-inspector-01/v1.0.0/model.glb",
+      "size": 54328,
+      "sha256": "edb5d7892f16b8a298504e86699500e35e8875fa70d6e90a1a7897598ba74463"
+    },
+    "blend": {
+      "path": "assets/robotics/robotics-fixed-open-waist-biped-inspector-01/v1.0.0/source.blend",
+      "size": 674892,
+      "sha256": "53b50950e6ac9fc4c85f916e2018f049c4df1d3225075c1f91d630caeb7c8aad"
+    },
+    "generator": {
+      "path": "assets/robotics/robotics-fixed-open-waist-biped-inspector-01/v1.0.0/generate.py",
+      "size": 24728,
+      "sha256": "45c61c46098a82148393c2400730d4652354e1940e48456bd38dc7b9027c38d1"
+    },
+    "render": {
+      "path": "assets/robotics/robotics-fixed-open-waist-biped-inspector-01/v1.0.0/thumbnail.png",
+      "size": 502092,
+      "sha256": "2987356b5b3b4cadac6472fa73987954fc7d8b91d9a8b9b7f2c54614e2be89f7"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

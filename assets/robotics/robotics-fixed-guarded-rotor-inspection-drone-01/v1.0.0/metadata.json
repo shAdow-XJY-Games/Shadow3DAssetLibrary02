@@ -1,0 +1,42 @@
+{
+  "id": "robotics-fixed-guarded-rotor-inspection-drone-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "robotics",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Guarded-Rotor Inspection Drone",
+  "description": "One original complete fixed aerial-inspection-robot appearance. A chamfered centre body joins four diagonal arms, each carrying a complete thick open rotor ring, low motor appearance and one continuous fixed two-lobed propeller. Each blade has genuine empty space to the surrounding ring. Two continuous ground skids with integral support posts hold the centre body. A short lower stem supports one complete open-bottom camera yoke and a compact camera with a genuinely recessed opaque lens. Twenty-four closed editable meshes and four opaque constant untextured PBR materials. Metres, native Z up, whole horizontal bounds-centred ground origin, front -Y. Every visible body, arm, ring, blade, skid and camera is newly authored; no old asset geometry imported or reconstructed. One whole model, no scene or separate part counts. This is not the old wheeled rover without wheels, an airplane with repeated propellers, or a shortened old long-lens camera. Static visual art only: no flight, thrust, aerodynamics, autonomy, inspection capability, imaging, navigation, radio, battery, control, powered motion, moving gimbal, payload, protection, operational clearance, manufacturing, installation, stability or safety claim. Guard describes a visual surrounding ring, not certified protection.",
+  "bounds": {
+    "x": 1.52,
+    "y": 1.52,
+    "z": 0.49,
+    "unit": "m"
+  },
+  "triangles": 1940,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/robotics/robotics-fixed-guarded-rotor-inspection-drone-01/v1.0.0/model.glb",
+      "size": 98788,
+      "sha256": "408772e2f5f69217357a508f3f4ef8ac065ca2381513549db0e203b76465e7fa"
+    },
+    "blend": {
+      "path": "assets/robotics/robotics-fixed-guarded-rotor-inspection-drone-01/v1.0.0/source.blend",
+      "size": 743044,
+      "sha256": "0c37ffc6322d920de3ffc587508276a00a6d5fee1ab1c657002ddf2487b1162b"
+    },
+    "generator": {
+      "path": "assets/robotics/robotics-fixed-guarded-rotor-inspection-drone-01/v1.0.0/generate.py",
+      "size": 23888,
+      "sha256": "91197f9c8ddd81ce850d15767fd7f055f7802e900fd9c9ee001f13ce0864cba5"
+    },
+    "render": {
+      "path": "assets/robotics/robotics-fixed-guarded-rotor-inspection-drone-01/v1.0.0/thumbnail.png",
+      "size": 535954,
+      "sha256": "8b45c225b586f1f42c0c398d80d0e3ebd8cd796a4b7e78e532ab198d7ab2920a"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

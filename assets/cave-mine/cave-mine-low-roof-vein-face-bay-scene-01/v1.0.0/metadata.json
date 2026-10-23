@@ -1,0 +1,42 @@
+{
+  "id": "cave-mine-low-roof-vein-face-bay-scene-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "cave-mine",
+  "style": "source-preserved-low-poly",
+  "title": "Low-Roof Mineral Vein Face Bay",
+  "description": "One static low-roof mineral-face bay scene, one scene and zero new independent models. One whole original continuous-vein rock wall forms the rear face; two complete fixed screw roof props stand on tiny scene-only plinths beneath a broad flat scene-only roof, and one complete blunt double-point pick lies on the front floor apron. All original meshes, fixed poses, unit scale, source GLB payloads and opaque PBR remain unchanged under translation only. Four scene-only closed solids add the floor, roof and two plinths. This is an open-sided cutaway, not the previous open screening siding or tall shaft/headframe/rail bay. The original irregular wall top is retained, reaching the roof underside only at its highest station; no entire wall-top contact is claimed. No ore extraction, real roof support, structural load, human clearance, navigation, working machinery, ventilation or underground safety is demonstrated.",
+  "bounds": {
+    "x": 3.200000047683716,
+    "y": 3.0,
+    "z": 2.180000066757202,
+    "unit": "m"
+  },
+  "triangles": 4354,
+  "materials": 15,
+  "files": {
+    "glb": {
+      "path": "assets/cave-mine/cave-mine-low-roof-vein-face-bay-scene-01/v1.0.0/model.glb",
+      "size": 381680,
+      "sha256": "ba8b55f877d9a1d7ab405eedcdf65591b6eecdb5973b54a5d90d2ef30aa91218"
+    },
+    "blend": {
+      "path": "assets/cave-mine/cave-mine-low-roof-vein-face-bay-scene-01/v1.0.0/source.blend",
+      "size": 1412484,
+      "sha256": "624c48cb0a06d80b28018e187c905975c70489791dc72803b8253e9996cdb9ec"
+    },
+    "generator": {
+      "path": "assets/cave-mine/cave-mine-low-roof-vein-face-bay-scene-01/v1.0.0/generate.py",
+      "size": 128857,
+      "sha256": "56a3fe0bdf361e8756b228c1e116defa9a3b9f378344da89de56eb2fa0dc6ba4"
+    },
+    "render": {
+      "path": "assets/cave-mine/cave-mine-low-roof-vein-face-bay-scene-01/v1.0.0/thumbnail.png",
+      "size": 516635,
+      "sha256": "c33562a0f8cbe66eb8e70a17e33072e3b8e14c4ab58c07ac221c2255ea203cfc"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "robotics-fixed-mast-fork-load-carrier-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "robotics",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Mast-and-Fork Load Carrier Robot",
+  "description": "One original complete fixed empty fork-carrier robot appearance. A continuous shouldered rear body with tapered roof is supported by two front wheels on one complete axle and a smaller rear wheel in a whole open bracket. A tall thick closed-loop mast retains a genuine upper opening. One fixed front carriage supports two newly authored whole L-profile forks, each with its own upright back, long forward blade and tapered nose clear of the ground. A small roof sensor-appearance pod has an opaque front disc. Twelve closed editable meshes and four constant opaque untextured PBR materials. Metres, native Z up, whole horizontal bounds-centred ground origin, front -Y. Every whole body, bracket, mast, carriage and fork is newly authored; no previous pallet jack, transport deck, wheel or lift geometry is imported or reconstructed. One whole prop, no load, scene or separately counted parts. No manual pump handle or operator seat. Static art only: no autonomy, sensing, navigation, powered drive, steering, wheel motion, lifting, mast travel, hydraulics, rigging, actual counterbalance, payload, pallet compatibility, stability, collision protection, manufacturing, installation or safety claim. The rear body is a visual counterbody only, not a certified balancing weight.",
+  "bounds": {
+    "x": 0.94,
+    "y": 1.89,
+    "z": 1.5,
+    "unit": "m"
+  },
+  "triangles": 460,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/robotics/robotics-fixed-mast-fork-load-carrier-01/v1.0.0/model.glb",
+      "size": 31696,
+      "sha256": "f38f15181174ba21e3b128dc8e29f94a5d783c072a9871fa5c0aac999458fe1b"
+    },
+    "blend": {
+      "path": "assets/robotics/robotics-fixed-mast-fork-load-carrier-01/v1.0.0/source.blend",
+      "size": 601988,
+      "sha256": "1f1ffc486e5041fc6f3f4bfa2bfe1c2df52db526e44f35b78a944c33981a86fe"
+    },
+    "generator": {
+      "path": "assets/robotics/robotics-fixed-mast-fork-load-carrier-01/v1.0.0/generate.py",
+      "size": 23807,
+      "sha256": "58004f798dfa5c2e089341d510ed8d7952ba2f4ab58e861b853143a376137520"
+    },
+    "render": {
+      "path": "assets/robotics/robotics-fixed-mast-fork-load-carrier-01/v1.0.0/thumbnail.png",
+      "size": 534082,
+      "sha256": "263bff0afa94872d49891742d22b9876517349845fdf8da99dd75ef104553823"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

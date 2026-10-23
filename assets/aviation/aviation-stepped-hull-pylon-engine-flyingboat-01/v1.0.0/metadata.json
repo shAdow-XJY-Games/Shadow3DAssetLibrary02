@@ -1,0 +1,42 @@
+{
+  "id": "aviation-stepped-hull-pylon-engine-flyingboat-01",
+  "version": "1.0.0",
+  "category": "vehicles",
+  "assetKind": "prop",
+  "theme": "aviation",
+  "style": "S01-clean-geometric",
+  "title": "Stepped-Hull Pylon-Engine Flying Boat",
+  "description": "One original static low-poly flying-boat exterior, newly authored as a continuous closed boat-bottom fuselage with narrow finite keel sole, real chines and a raised aft bottom step; opaque cockpit material belongs to the hull surface. One complete thick high main wing on a hull pedestal, a distinct above-wing engine pylon with nacelle and fixed two-blade propeller, two complete underwing outrigger floats with paired struts, wing braces, a swept dorsal fin and low horizontal tail. Seventeen complete closed connected-by-overlap components; no old aircraft or boat geometry imported, no scaled wing or wheel-count variant. One whole vehicle prop, source Z-up metres, ground datum at the hull keel. Pose is a dry static visual display, not a deployed landing-gear or flotation simulation. No moving controls, open cabin, wheel system, textures, pilots or fuel lines. No flight, buoyancy, propulsion, aerodynamics, functional sampling, production engineering or aviation safety claim.",
+  "bounds": {
+    "x": 8.1,
+    "y": 6.33,
+    "z": 2.8000000000000003,
+    "unit": "m"
+  },
+  "triangles": 620,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/aviation/aviation-stepped-hull-pylon-engine-flyingboat-01/v1.0.0/model.glb",
+      "size": 46624,
+      "sha256": "b559052421226fdef085b4576bb8e3f0a03e1e8dc548758681a9d5bd4780084f"
+    },
+    "blend": {
+      "path": "assets/aviation/aviation-stepped-hull-pylon-engine-flyingboat-01/v1.0.0/source.blend",
+      "size": 652460,
+      "sha256": "78ccf7ad1487a3df466ecaef0fdf674e378abe72b1114c300627ca5651ccc607"
+    },
+    "generator": {
+      "path": "assets/aviation/aviation-stepped-hull-pylon-engine-flyingboat-01/v1.0.0/generate.py",
+      "size": 9710,
+      "sha256": "ecd1d7e11ca5ab1f225032de5af730c08f13c4b3ba1531f35b74eb192b84734a"
+    },
+    "render": {
+      "path": "assets/aviation/aviation-stepped-hull-pylon-engine-flyingboat-01/v1.0.0/thumbnail.png",
+      "size": 360479,
+      "sha256": "0f736aeabfc479a0269542fd6de216a0c71b20c49103d3fd0f5981a467eea4ad"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

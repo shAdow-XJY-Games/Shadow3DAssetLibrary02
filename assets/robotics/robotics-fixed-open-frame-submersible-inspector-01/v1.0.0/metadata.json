@@ -1,0 +1,42 @@
+{
+  "id": "robotics-fixed-open-frame-submersible-inspector-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "robotics",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Open-Frame Submersible Inspection Robot",
+  "description": "One original complete fixed open-frame underwater-inspection-robot appearance. Two whole pierced longitudinal side frames have integral ground rails, end uprights and upper beams. Lower crossbars and full saddles support one long horizontal faceted capsule with tapered ends and a genuinely recessed opaque forward window. Two chamfered top cowls and two upper crossbars frame an open cage. Two aft-axis thick ducts and one perpendicular top duct have complete fixed three-lobed blades, motor appearances, support bars and explicit frame mounts, with true open spaces around the blades. Twenty-seven closed editable meshes and four opaque constant untextured PBR materials. Metres, native Z up, horizontal whole-bounds-centred ground origin, front -Y. All whole geometry newly authored using generic mesh helpers only; no old drone, rover, backframe, vessel, rack or optical-head geometry is copied, transformed or reconstructed. One whole prop, zero scenes, no separately counted parts. Static exterior art only: no water-tightness, pressure resistance, pressure-vessel interior, buoyancy, submergence, propulsion, thrust, rotor motion, inspection, imaging, navigation, control, tether, power, endurance, payload, protection, operational fit, stability, manufacturing or safety claim. Submersible describes the visual genre, not demonstrated underwater suitability or use guidance.",
+  "bounds": {
+    "x": 1.32,
+    "y": 1.12,
+    "z": 0.84,
+    "unit": "m"
+  },
+  "triangles": 1836,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/robotics/robotics-fixed-open-frame-submersible-inspector-01/v1.0.0/model.glb",
+      "size": 99432,
+      "sha256": "3ffd7055bd8ccaa09540214df97dce0166f6e8f7cb17588560ecfbf6c898c298"
+    },
+    "blend": {
+      "path": "assets/robotics/robotics-fixed-open-frame-submersible-inspector-01/v1.0.0/source.blend",
+      "size": 752680,
+      "sha256": "791a90d84152fa7dcb695a3308406fd1a0470473aad375da36a936a110bd7de1"
+    },
+    "generator": {
+      "path": "assets/robotics/robotics-fixed-open-frame-submersible-inspector-01/v1.0.0/generate.py",
+      "size": 25970,
+      "sha256": "0f0fd282c098aaf687e3991446c91a2194cf71890233b37548169eaecdfd4f77"
+    },
+    "render": {
+      "path": "assets/robotics/robotics-fixed-open-frame-submersible-inspector-01/v1.0.0/thumbnail.png",
+      "size": 583429,
+      "sha256": "a274d35209e0515dc6242de67505858ccc4b886ab46c4f5936b8d29a2476fdf1"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

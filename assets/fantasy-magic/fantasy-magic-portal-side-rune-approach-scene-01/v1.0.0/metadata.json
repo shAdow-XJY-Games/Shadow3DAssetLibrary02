@@ -1,0 +1,42 @@
+{
+  "id": "fantasy-magic-portal-side-rune-approach-scene-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "fantasy-magic",
+  "style": "warm-handcrafted-village",
+  "title": "Portal and Side Rune Approach",
+  "description": "One static fantasy portal-approach scene with two complete qualified existing models and zero new reusable models. The complete braided-loop portal, including its original whole threshold, stands at the rear of one low scene-only stone floor. The complete deeply incised rune pedestal stands ahead and to the right, outside the clear central approach strip; its original plinth, shaft and carved slab remain intact. Both original assets retain their full evaluated world-space oriented triangles and per-face constant opaque PBR under translation only at original scale. No new ring, changed glyph, copied colour variant, cropped old mesh, emission field or third counted floor model. Original hierarchy is explicitly baked by the established pinned reader, flat normals recomputed; original custom NORMAL bytes are not claimed. The visual approach ends at the original raised threshold, not a certified accessible route. One composed scene only, no teleportation, magic, animation, working control, collision/navigation, load or human safety guarantee.",
+  "bounds": {
+    "x": 4.800000191,
+    "y": 3.599999905,
+    "z": 2.844671488,
+    "unit": "m"
+  },
+  "triangles": 4992,
+  "materials": 8,
+  "files": {
+    "glb": {
+      "path": "assets/fantasy-magic/fantasy-magic-portal-side-rune-approach-scene-01/v1.0.0/model.glb",
+      "size": 244952,
+      "sha256": "96477bf40b825fed430a7e920b9d969fd32996fb441f94cc6fcc6b721824d4c1"
+    },
+    "blend": {
+      "path": "assets/fantasy-magic/fantasy-magic-portal-side-rune-approach-scene-01/v1.0.0/source.blend",
+      "size": 908376,
+      "sha256": "5ceecff435fe0f59979801cc2c9d15aca87633609df9b29df1576695470ca192"
+    },
+    "generator": {
+      "path": "assets/fantasy-magic/fantasy-magic-portal-side-rune-approach-scene-01/v1.0.0/generate.py",
+      "size": 119460,
+      "sha256": "eafe0f47edf37dc052e1462fab9de02279f94cf43f2f6dc2649b7b370a140373"
+    },
+    "render": {
+      "path": "assets/fantasy-magic/fantasy-magic-portal-side-rune-approach-scene-01/v1.0.0/thumbnail.png",
+      "size": 511284,
+      "sha256": "62201affc9040ebc8173c39c88ae294b2d62d5ca301c0ecf14c7327fb9f09708"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

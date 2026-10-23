@@ -1,0 +1,42 @@
+{
+  "id": "carpentry-fixed-open-long-bar-f-clamp-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "carpentry",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Open Long-Bar F Clamp",
+  "description": "One newly authored complete static long-bar F-form woodworking clamp in a fixed empty opening. A full flat steel guide bar carries a perpendicular fixed end jaw and a second jaw assembly with a real rectangular through-bar collar, complete bridge and genuinely pierced spindle boss. A separate full spindle with a closed visual six-turn helical ridge terminates in an opposed round pressure pad and a thick timber grip; the bar has one integral-purpose end stop. The complete long-bar geometry and open jaw bay differ from the existing table-edge C-mounted bench vise and elevated split bicycle-tube clamp. No old tool mesh is cropped, recoloured or stretched. Eleven editable closed components and three solid untextured PBR materials, metres, native Z up, actual horizontal bounds-centred origin and flat jaw/collar undersides in a laid-down display pose. One complete prop, zero scene. No stock, bench, product-use compatibility, slide path, screw engagement, clamping motion, force, load, thread standard, manufacture, woodworking performance or safety claim.",
+  "bounds": {
+    "x": 0.9445,
+    "y": 0.33899999999999997,
+    "z": 0.08,
+    "unit": "m"
+  },
+  "triangles": 1560,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/carpentry/carpentry-fixed-open-long-bar-f-clamp-01/v1.0.0/model.glb",
+      "size": 114768,
+      "sha256": "3d1b11a983e456f12c41fb5cc5b9e49a59d87934ea44f12610b8be92c013b95b"
+    },
+    "blend": {
+      "path": "assets/carpentry/carpentry-fixed-open-long-bar-f-clamp-01/v1.0.0/source.blend",
+      "size": 651992,
+      "sha256": "5d259c6adf6c0016f6eabec56884649e252918a9fa412acd972e44ae2c68beab"
+    },
+    "generator": {
+      "path": "assets/carpentry/carpentry-fixed-open-long-bar-f-clamp-01/v1.0.0/generate.py",
+      "size": 9263,
+      "sha256": "c783b640fef8ec0c061948baae875fbc39eba65e695ffdbfd80335ce8f1a3c29"
+    },
+    "render": {
+      "path": "assets/carpentry/carpentry-fixed-open-long-bar-f-clamp-01/v1.0.0/thumbnail.png",
+      "size": 342166,
+      "sha256": "27877a7118cf175b70a5dfa1172dcc94b0856d790b829a7b3abe29f64155c80d"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

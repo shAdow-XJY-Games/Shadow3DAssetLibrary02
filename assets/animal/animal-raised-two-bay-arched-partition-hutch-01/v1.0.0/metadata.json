@@ -1,0 +1,42 @@
+{
+  "id": "animal-raised-two-bay-arched-partition-hutch-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "animal",
+  "style": "S01-clean-geometric",
+  "title": "Raised Two-Bay Arched-Partition Hutch",
+  "description": "One newly authored static raised two-bay wooden hutch appearance. A full shared elevated floor and four ground legs carry a closed left private compartment and a genuinely open spaced-bar right compartment under one complete sloping finite roof. A complete internal partition has a real floor-level arch connecting both bays, not a painted dark doorway. Front and end bars have true air gaps and join complete sills/headers; left/front/back panels and roof overhang are whole bodies. This is a new complete layout, not the old single round-hole nest box, artificial bent burrow, wheeled delivery cage or open firewood shelter recoloured. Metres, native Z up, front -Y, horizontally centred and four full feet at ground. One prop, zero scenes. Fixed illustrative enclosure exterior only; no animal, feed, hinged movement or rig. No suitability for housing any species, animal welfare, ventilation, hygiene, drainage, load capacity, manufacture, stability or real-world safety claim.",
+  "bounds": {
+    "x": 1.4,
+    "y": 0.73,
+    "z": 1.1038,
+    "unit": "m"
+  },
+  "triangles": 408,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/animal/animal-raised-two-bay-arched-partition-hutch-01/v1.0.0/model.glb",
+      "size": 37204,
+      "sha256": "9f9d83e84878465606958d8c2265e63dad5fc83c78af0f290c21914bb964c9b3"
+    },
+    "blend": {
+      "path": "assets/animal/animal-raised-two-bay-arched-partition-hutch-01/v1.0.0/source.blend",
+      "size": 696632,
+      "sha256": "e10d605f3bb51e28715ba3c3a350002c8dedcb05a1f0b26161ca02db63735452"
+    },
+    "generator": {
+      "path": "assets/animal/animal-raised-two-bay-arched-partition-hutch-01/v1.0.0/generate.py",
+      "size": 10411,
+      "sha256": "b959c8b3e0f0aef0f1e0f634ce1cfba959b7f93787b475eb2332d10256d309be"
+    },
+    "render": {
+      "path": "assets/animal/animal-raised-two-bay-arched-partition-hutch-01/v1.0.0/thumbnail.png",
+      "size": 494416,
+      "sha256": "8967a6907f09a99a7bb5aa68096b251fc53eb6e10e32b1e976a43aea8c55c097"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "robotics-fixed-orthogonal-rail-gantry-work-robot-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "robotics",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Orthogonal-Rail Gantry Work Robot",
+  "description": "One original complete fixed gantry work-robot appearance with three clearly different rail/guide directions. Two continuous ground beams carry four posts and two long parallel upper rails. Two whole open-bottom wraparound rail shoes carry a transverse bridge; one whole wraparound bridge carriage supports a front vertical guide, a narrower downward slide, a complete end-tool crossbar and two continuous inward-hooked fingers with a true gap. The large ground-level working bay remains open, with no tabletop, roof, floor or hidden panel. Seventeen closed editable meshes and four opaque constant untextured PBR materials. Metres, native Z up, whole horizontal bounds-centred ground origin, front -Y. All complete geometry newly authored using generic mesh helpers only. No old serial arm, parallel robot, service cradle, scan workstation, hangar portal, frame or finger geometry is imported, resized or reconstructed. One whole prop, no scene or separately counted parts. Static art only: no validated kinematics, motion, reach, carriage travel, positioning precision, grasp, force, automation, sensing, control, calibration, payload, stiffness, stability, manufacture, installation, protection or workplace safety claim. Cartesian-style refers only to the visible orthogonal rail arrangement.",
+  "bounds": {
+    "x": 1.64,
+    "y": 1.8,
+    "z": 1.91,
+    "unit": "m"
+  },
+  "triangles": 268,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/robotics/robotics-fixed-orthogonal-rail-gantry-work-robot-01/v1.0.0/model.glb",
+      "size": 27324,
+      "sha256": "03160bb2b73dfdb13281a2f3cf18acf7f12281b290dafe1b862c587d8ff27e33"
+    },
+    "blend": {
+      "path": "assets/robotics/robotics-fixed-orthogonal-rail-gantry-work-robot-01/v1.0.0/source.blend",
+      "size": 616948,
+      "sha256": "07ca6932918851bb57110bbfc13ffc28ec0a35766d3db3a74ffe839172ca929c"
+    },
+    "generator": {
+      "path": "assets/robotics/robotics-fixed-orthogonal-rail-gantry-work-robot-01/v1.0.0/generate.py",
+      "size": 22747,
+      "sha256": "acc445a501375c2d9f94672febeeb2b917628a39862355dd13d982b3f7af34fe"
+    },
+    "render": {
+      "path": "assets/robotics/robotics-fixed-orthogonal-rail-gantry-work-robot-01/v1.0.0/thumbnail.png",
+      "size": 541272,
+      "sha256": "2e8b6f9444282e0fbcdde4542fb19e9c60ae71c77316082ef485c484352d15c7"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

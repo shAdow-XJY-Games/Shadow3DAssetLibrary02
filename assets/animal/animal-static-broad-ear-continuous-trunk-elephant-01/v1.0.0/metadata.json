@@ -1,0 +1,42 @@
+{
+  "id": "animal-static-broad-ear-continuous-trunk-elephant-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "animal",
+  "style": "S01-clean-geometric",
+  "title": "Static Broad-Ear Continuous-Trunk Elephant",
+  "description": "One newly authored stylised static elephant-like animal. A broad barrel torso rests on four thick column legs with complete finite flat feet. A large head narrows continuously into a long downward trunk and small curled-up tip in the same closed surface; two complete thick broad ears, small side eyes and one thin downward tail complete the whole animal. New full proportions, head/trunk trajectory and ear outlines, not a deer with its antlers removed, an enlarged rabbit, an old snake attached as a trunk or a reskinned existing quadruped. Eleven closed editable meshes and three opaque matte untextured PBR materials. Metres, native Z up, head -Y and actual horizontal bounds-centred ground datum. One prop, zero scene; no tusks, tack, platform, person, facial rig or animation. Artistic fixed elephant-like exterior only, not an exact species, sex, age or anatomical specimen; no respiratory or feeding function, locomotion, trunk manipulation, biological fidelity, animal handling or safety claim.",
+  "bounds": {
+    "x": 1.46,
+    "y": 2.658026410221946,
+    "z": 2.11,
+    "unit": "m"
+  },
+  "triangles": 1304,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/animal/animal-static-broad-ear-continuous-trunk-elephant-01/v1.0.0/model.glb",
+      "size": 93544,
+      "sha256": "66a05d883c2aa5bb0477352f01c1280c63f5402b33fa89bec007d748d3aab8ff"
+    },
+    "blend": {
+      "path": "assets/animal/animal-static-broad-ear-continuous-trunk-elephant-01/v1.0.0/source.blend",
+      "size": 638224,
+      "sha256": "faa7aee52e08e4c8683af767be9800cdc2a7ce924b25aa5cf4affd0a8f51b3d9"
+    },
+    "generator": {
+      "path": "assets/animal/animal-static-broad-ear-continuous-trunk-elephant-01/v1.0.0/generate.py",
+      "size": 10028,
+      "sha256": "33b97d2c2dcf44d40b7c21ea623ccb8470a264b9e3c42c9bca77e9a97fc25e5e"
+    },
+    "render": {
+      "path": "assets/animal/animal-static-broad-ear-continuous-trunk-elephant-01/v1.0.0/thumbnail.png",
+      "size": 360860,
+      "sha256": "f734493b237bf38a0b842545b20b38e1333f8a1a5b37f899d934ffc9b35a31b0"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

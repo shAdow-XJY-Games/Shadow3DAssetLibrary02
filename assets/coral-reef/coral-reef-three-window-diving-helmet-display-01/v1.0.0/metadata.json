@@ -1,0 +1,42 @@
+{
+  "id": "coral-reef-three-window-diving-helmet-display-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "coral-reef",
+  "style": "S01-clean-geometric",
+  "title": "Three-Window Diving Helmet Display",
+  "description": "One newly authored static stylized three-window diving-helmet display prop for the original underwater-ruins equipment direction. A complete thick faceted domed shell has three true wall apertures occupied by separate thick curved opaque illustrative window inserts, three whole raised reveal frames, two fixed front protection bars, a solid capped side connector, a closed crown cap and a broad annular neck flange open into the shell interior. Twelve closed editable solids with three opaque constant untextured PBR materials. Unlike the existing open-backed strapped firefighting facepiece, this is an enclosing bell-like head shell with frontal and lateral windows, no rear headbands, nose-mouth mask contour, cylinder or mannequin. One prop and zero scenes. Metres, native Z up and ground-centred collar datum. Windows intentionally opaque; no see-through or optical performance. Static appearance only: not real diving equipment, no breathing, oxygen supply, pressure containment, watertightness, wearer fit, protection, historical accuracy or diving/maritime safety claim. No suit, hose, wearer or scenery; preview floor excluded.",
+  "bounds": {
+    "x": 0.434,
+    "y": 0.39435565492,
+    "z": 0.399,
+    "unit": "m"
+  },
+  "triangles": 1296,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/coral-reef/coral-reef-three-window-diving-helmet-display-01/v1.0.0/model.glb",
+      "size": 69408,
+      "sha256": "717447498ffc14639ed7dc5cd94a7c112aad8174e818fbad3066ce3281b24211"
+    },
+    "blend": {
+      "path": "assets/coral-reef/coral-reef-three-window-diving-helmet-display-01/v1.0.0/source.blend",
+      "size": 642196,
+      "sha256": "dd7ff0a5d580f8eb8db94933a0050e63450c26592638603b55610cbc3c9ef1a4"
+    },
+    "generator": {
+      "path": "assets/coral-reef/coral-reef-three-window-diving-helmet-display-01/v1.0.0/generate.py",
+      "size": 11158,
+      "sha256": "d14caca4c7e0be4bb4ba2e8b6dad1a1d1f4c0d7756a29e5fa60b5f369a279519"
+    },
+    "render": {
+      "path": "assets/coral-reef/coral-reef-three-window-diving-helmet-display-01/v1.0.0/thumbnail.png",
+      "size": 532056,
+      "sha256": "96ff98c0fd24bfb44ab6376d92f012e1010ca5f5f721ee35cb6f89ed038ed04a"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
