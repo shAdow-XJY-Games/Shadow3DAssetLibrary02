@@ -1,0 +1,42 @@
+{
+  "id": "entertainment-fixed-six-pocket-billiard-table-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "entertainment",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Six Pocket Billiard Table",
+  "description": "One newly authored whole static six-pocket billiard-table exterior. The continuous thick green playing bed has four curved corner cutouts and two complete semicircular side notches, each meeting one real open-top blind pocket cup with full wall and floor. Six separate raised cushion spans and thick wood rail spans leave those six mouths open. Four whole tapered grounded legs, supported underbed crossbeams and spine, and interrupted aprons carry the whole table while keeping the pocket openings visible. No old air-puck table goal frames, pinball cabinet or table-football rods/figures are imported, removed or recoloured; the complete new bed boundary and six-pocket perimeter layout are numerically authored for this whole model. Three opaque constant untextured PBR roles; metres, Z up, full horizontally bounds-centred ground origin. One complete prop, zero scenes, no independent pocket counts. Fixed empty appearance only: no balls/cues, ruleset or regulation dimensions, cushion rebound, cloth friction, ball path or return route, scoring, playability, human ergonomics, load, manufacture or safety claim.",
+  "bounds": {
+    "x": 1.4,
+    "y": 2.38,
+    "z": 1.0,
+    "unit": "m"
+  },
+  "triangles": 2112,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/entertainment/entertainment-fixed-six-pocket-billiard-table-01/v1.0.0/model.glb",
+      "size": 103280,
+      "sha256": "2ba2bfa3465ead31d28e8506d3456e06c590f5db3bba896ec29ab0304cbf096b"
+    },
+    "blend": {
+      "path": "assets/entertainment/entertainment-fixed-six-pocket-billiard-table-01/v1.0.0/source.blend",
+      "size": 778876,
+      "sha256": "93e8ced684a7c0b619a2fcdddf6e398e42f89aa3d30dfbfcee54e183cb0b0b8c"
+    },
+    "generator": {
+      "path": "assets/entertainment/entertainment-fixed-six-pocket-billiard-table-01/v1.0.0/generate.py",
+      "size": 12119,
+      "sha256": "3f2ff80a3a1b7a9231ec20fa35e1921ce18805985dcc82d1c82aa2592be6f50e"
+    },
+    "render": {
+      "path": "assets/entertainment/entertainment-fixed-six-pocket-billiard-table-01/v1.0.0/thumbnail.png",
+      "size": 494422,
+      "sha256": "bac0356d15883f6b3da3474e1b2bab3c4948671603c2ccb5cb09f6fd0e318002"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
