@@ -1,0 +1,42 @@
+{
+  "id": "transport-fixed-low-front-bay-cargo-bicycle-01",
+  "version": "1.0.0",
+  "category": "modular",
+  "assetKind": "prop",
+  "theme": "transport",
+  "style": "warm-handcrafted-village",
+  "title": "Fixed Low Front-Bay Cargo Bicycle",
+  "description": "One newly authored complete fixed long-wheelbase front-bay cargo bicycle. The rear rider triangle, saddle, crank and handlebar station are separated from the smaller front wheel and its whole fork by a true low open thick-floor cargo bay. Two complete low longitudinal frame members carry that bay and join the remote head structure. A full exterior fixed steering-link appearance connects the control-station arm to the front-fork arm. Both annular tires, rims, spoke sets, hubs, axles, pedals and a deployed two-foot stand belong to this one whole vehicle. No old bicycle vertices imported, no boxes hung onto the old city bike, no cargo quantity variants. One static prop, zero scenes; no riding, steering, braking, drive, load, human fit or safe transportation claim.",
+  "bounds": {
+    "x": 0.939999998,
+    "y": 2.630000114,
+    "z": 1.123999953,
+    "unit": "m"
+  },
+  "triangles": 2688,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/transport/transport-fixed-low-front-bay-cargo-bicycle-01/v1.0.0/model.glb",
+      "size": 147656,
+      "sha256": "b9532bedcd18c753095821ecf0c744fc87353bc79a3c8368a4742512579e9fc9"
+    },
+    "blend": {
+      "path": "assets/transport/transport-fixed-low-front-bay-cargo-bicycle-01/v1.0.0/source.blend",
+      "size": 883916,
+      "sha256": "31d52a653c70c074a5cee0e2e1f8aa7339e0d65cc934f284dd1b0ff48ac2b2ad"
+    },
+    "generator": {
+      "path": "assets/transport/transport-fixed-low-front-bay-cargo-bicycle-01/v1.0.0/generate.py",
+      "size": 33134,
+      "sha256": "df5ea49d73e104f72e4798579e3106b6d221a796bbc1f5d4a46409626a1ff5a0"
+    },
+    "render": {
+      "path": "assets/transport/transport-fixed-low-front-bay-cargo-bicycle-01/v1.0.0/thumbnail.png",
+      "size": 512166,
+      "sha256": "c0fc6c26e6c18a8cd02a908eb29144984f4068e5bf6bb1b479c53bae7d1f871c"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

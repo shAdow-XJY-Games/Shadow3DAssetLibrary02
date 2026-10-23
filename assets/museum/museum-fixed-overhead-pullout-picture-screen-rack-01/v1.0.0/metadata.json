@@ -1,0 +1,42 @@
+{
+  "id": "museum-fixed-overhead-pullout-picture-screen-rack-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "museum",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Overhead Pullout Picture Screen Rack",
+  "description": "One newly authored complete empty museum collection picture-screen storage rack. A grounded four-post portal frame and long ground skids carry two full downward-slotted overhead channels. Each whole vertical welded open-grid screen has two hanging trolleys, each with two fixed shoulder-seated wheels and a suspension stem through the rail slot. One screen is fixed forward while the other stays in its rear position. Full low channels guide the lower screen edges without becoming horizontal shelves. The entire upper bearing relationship and vertical hanging access architecture differs from rear-hinged horizontal drying trays, leaning A-frame sheet storage and bottom-supported linked pantry baskets. Two screen positions illustrate one rack, not new assets counted by panels or hole count. All numeric geometry newly authored, no paintings, labels, old mesh instances or transparent texture grid. Three opaque untextured PBR materials, metres/native Z up and horizontal-bounds-centred ground origin. One fixed static prop, zero scenes. No rolling, sliding travel, loading method, retention, anti-tip, conservation, humidity control, load, human access, installation, manufacture or museum safety compliance is verified.",
+  "bounds": {
+    "x": 1.26,
+    "y": 2.25,
+    "z": 2.25,
+    "unit": "m"
+  },
+  "triangles": 4072,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/museum/museum-fixed-overhead-pullout-picture-screen-rack-01/v1.0.0/model.glb",
+      "size": 175476,
+      "sha256": "d771ad976efaf7a848f2a4faddaf037d1d9ccfc12e35e6ec5d7e027d636dde70"
+    },
+    "blend": {
+      "path": "assets/museum/museum-fixed-overhead-pullout-picture-screen-rack-01/v1.0.0/source.blend",
+      "size": 928868,
+      "sha256": "f3f8f921739772cd928ed70d7afad995ba29f955976a85cf7a1756340bee75dd"
+    },
+    "generator": {
+      "path": "assets/museum/museum-fixed-overhead-pullout-picture-screen-rack-01/v1.0.0/generate.py",
+      "size": 11945,
+      "sha256": "ea1d27ecd06ff246ce20ffae4f190530e043228bf1bce3f0e8d00095cfc98ce5"
+    },
+    "render": {
+      "path": "assets/museum/museum-fixed-overhead-pullout-picture-screen-rack-01/v1.0.0/thumbnail.png",
+      "size": 410106,
+      "sha256": "7f76cc78ef58fa34db800e3e567f2317f1c015559bb154d51294c420adc62555"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
