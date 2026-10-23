@@ -1,0 +1,42 @@
+{
+  "id": "steam-workshop-cutaway-volute-pump-display-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "steam-workshop",
+  "style": "S01-clean-geometric",
+  "title": "Cutaway Volute Pump Display",
+  "description": "One new whole static cutaway volute-pump display. An entire spiral-expanding thick casing has a real front opening and annular rear wall, around a separate backplate, central hub and six continuously curved impeller blades. A front axial annular intake collar remains supported by three fixed narrow bridges where the front cover is deliberately removed; a tall tangential annular outlet neck rises beside the cutoff. One grounded bed supports the casing feet, rear common shaft, two bored bearing pedestals and a double-flanged drive pulley. The new radial impeller/expanding collection casing/tangential branch topology differs from the old straight open axial-fan duct and from old vertical lever or twin-treadle piston-style pumps. All geometry newly authored rather than extracted or rearranged old objects. Three opaque constant PBR roles; closed editable solids, metres, Z up and whole horizontal ground-centred datum. One prop, zero scenes. Simplified fixed illustrative joins only; the exposed cutaway is not a sealed hydraulic chamber. Outlet neck root is a static overlap, not a validated continuous fluid passage. No rotation, pumping, pressure, flow, sealing, efficiency, belt engagement, manufacture, structural performance or equipment safety claim.",
+  "bounds": {
+    "x": 1.46,
+    "y": 1.48,
+    "z": 1.56,
+    "unit": "m"
+  },
+  "triangles": 3048,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/steam-workshop/steam-workshop-cutaway-volute-pump-display-01/v1.0.0/model.glb",
+      "size": 151080,
+      "sha256": "d73eeae50c12ea4fe491addd14c33608f5360351d9f762fcf7f9f97d6a5ccbec"
+    },
+    "blend": {
+      "path": "assets/steam-workshop/steam-workshop-cutaway-volute-pump-display-01/v1.0.0/source.blend",
+      "size": 796884,
+      "sha256": "cd5d753708e2ed220699ef67f6929885655945e2c65c336a8a95e8a8ceaa8f92"
+    },
+    "generator": {
+      "path": "assets/steam-workshop/steam-workshop-cutaway-volute-pump-display-01/v1.0.0/generate.py",
+      "size": 12176,
+      "sha256": "b2b22597d666676303a33d164faf78f2f904fcb79e97fea8a1d874fb878706d8"
+    },
+    "render": {
+      "path": "assets/steam-workshop/steam-workshop-cutaway-volute-pump-display-01/v1.0.0/thumbnail.png",
+      "size": 480619,
+      "sha256": "70b1adf41ba62700ee05b95730555d261c2f19a07b147e267dc2e0c088f58e24"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
