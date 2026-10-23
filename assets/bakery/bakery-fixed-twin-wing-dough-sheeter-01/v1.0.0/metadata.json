@@ -1,0 +1,42 @@
+{
+  "id": "bakery-fixed-twin-wing-dough-sheeter-01",
+  "version": "1.0.0",
+  "category": "modular",
+  "assetKind": "prop",
+  "theme": "bakery",
+  "style": "warm-handcrafted-village",
+  "title": "Fixed Twin-Wing Dough Sheeter",
+  "description": "One newly authored complete fixed twin-wing dough-sheeter appearance: two full thick continuous return belts with internal support decks and full transverse end rollers extend from opposite sides of a central wide-roll head. Two thick side cheeks and a continuous curved upper hood enclose a real central roll gap. A whole four-legged base and four diagonal wing braces support the entire silhouette. No reused wringer, treadmill, mixer geometry or cloth/food payload. Three constant opaque PBR roles, one prop and zero scenes. Static open belt/roller topology only; no motor, transmission, adjustable pressure, food processing, hygiene, dimension compatibility, structural load or safety performance claim.",
+  "bounds": {
+    "x": 2.319999933,
+    "y": 0.899999976,
+    "z": 1.24000001,
+    "unit": "m"
+  },
+  "triangles": 1552,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/bakery/bakery-fixed-twin-wing-dough-sheeter-01/v1.0.0/model.glb",
+      "size": 85812,
+      "sha256": "e74faf103fb4c424bbebad7444ba1994bc7cd9dca0b86155b8a3fc79606c1df8"
+    },
+    "blend": {
+      "path": "assets/bakery/bakery-fixed-twin-wing-dough-sheeter-01/v1.0.0/source.blend",
+      "size": 693584,
+      "sha256": "a76f41621f5fbec3c32846557f78effccbe33f98e8c0910cedfb71e379e4e5b3"
+    },
+    "generator": {
+      "path": "assets/bakery/bakery-fixed-twin-wing-dough-sheeter-01/v1.0.0/generate.py",
+      "size": 29646,
+      "sha256": "a87b64138a54aba7e9d20f6bda8a64ad54798ac0060e8e1e7393b8c98f8d8391"
+    },
+    "render": {
+      "path": "assets/bakery/bakery-fixed-twin-wing-dough-sheeter-01/v1.0.0/thumbnail.png",
+      "size": 502584,
+      "sha256": "5aa6a011396cfbc222b84b9ed0107b22caf2953d0aba1fcfdd1e155a72dc4486"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

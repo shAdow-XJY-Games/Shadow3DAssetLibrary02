@@ -1,0 +1,42 @@
+{
+  "id": "interior-fixed-extended-footrest-recliner-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "interior",
+  "style": "source-preserved-low-poly",
+  "title": "Fixed Extended Footrest Recliner",
+  "description": "One original complete low upholstered recliner shown with its separate full foot pad extended forward in a single fixed pose. A broad base on four finite feet supports a complete seat cushion, two enclosing padded arms and one high rear-inclined back. Each side has two consecutive pairs of full fixed crossing links and visible pins joining the base to the raised forward foot pad; the gap beneath and behind the pad remains real. All geometry newly authored, not the old two-seat sofa narrowed, the pedestal styling chair relabelled, or a stretched beach sling. Three opaque constant PBR materials, no people, textiles or textures. One furniture prop, zero scenes or extra poses. Static visual only: no working mechanism, bearings, linkage motion, motor, spring, full sweep clearance, comfort, human fit, load, stability, manufacture or safety claim.",
+  "bounds": {
+    "x": 0.949999988079071,
+    "y": 1.6762499809265137,
+    "z": 1.1050000190734863,
+    "unit": "m"
+  },
+  "triangles": 1320,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/interior/interior-fixed-extended-footrest-recliner-01/v1.0.0/model.glb",
+      "size": 135228,
+      "sha256": "cbf6cf6752048cc36993987978f31aa9ad28e76b114570c096a03c8223cd5818"
+    },
+    "blend": {
+      "path": "assets/interior/interior-fixed-extended-footrest-recliner-01/v1.0.0/source.blend",
+      "size": 840480,
+      "sha256": "9f8ab5b6af167bbb7928d8b43f83ca180fec4a2f239645fc448c44c8ecbda0fb"
+    },
+    "generator": {
+      "path": "assets/interior/interior-fixed-extended-footrest-recliner-01/v1.0.0/generate.py",
+      "size": 15002,
+      "sha256": "8866db922e08fd70bec8869b30db3bf9026153978ce3bf9c56aa2e42f6d6aa02"
+    },
+    "render": {
+      "path": "assets/interior/interior-fixed-extended-footrest-recliner-01/v1.0.0/thumbnail.png",
+      "size": 535324,
+      "sha256": "9c8b7e2204dc876d7500f9c4a05509a871eb343c54aa5541b9c190a5777d44c6"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

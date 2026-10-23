@@ -1,0 +1,42 @@
+{
+  "id": "ruins-fixed-wedged-twin-trestle-needle-shore-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "ruins",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Wedged Twin-Trestle Needle Shore",
+  "description": "One newly authored complete static needle-beam shore appearance for the original ruins-and-repair temporary-support direction. Two broad transverse ground soles carry two upright portal trestles with short whole knee braces and low longitudinal ties. Each trestle has a single thick crosshead containing a true open-top U notch. A pair of complete opposed tapered packing wedges meets on a real inclined face inside each notch and presents a flat upper bearing face. One unbroken longitudinal needle beam crosses both recessed heads and rests on those wedge packs, with a continuous empty corridor below its central span. The new notched-head/opposed-wedge/through-beam relationship is not an old wall-to-wall flying strut rotated onto the floor, an arch-centering deck flattened, or two copied splayed sawhorses with a board. No old model coordinates or instances are imported. Nineteen editable closed solids, four opaque constant timber-colour PBR roles, metres, native Z up, actual horizontal bounds-centred origin and two full planar ground soles. One whole prop, zero scenes, no independently counted beam, wedge or trestle. No host wall, building, masonry, tools, people, textures or animation. Fixed static art only: no construction procedure, real shoring design, wedge adjustment, installation or wall fit, load transfer, strength, freestanding stability, construction suitability, engineering adequacy or safety certification.",
+  "bounds": {
+    "x": 2.92,
+    "y": 1.52,
+    "z": 1.82,
+    "unit": "m"
+  },
+  "triangles": 260,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/ruins/ruins-fixed-wedged-twin-trestle-needle-shore-01/v1.0.0/model.glb",
+      "size": 30028,
+      "sha256": "6f9dc4a4276f68c94d3555f0f64a51cff56b5d92aff19631e577035d7c6db920"
+    },
+    "blend": {
+      "path": "assets/ruins/ruins-fixed-wedged-twin-trestle-needle-shore-01/v1.0.0/source.blend",
+      "size": 626708,
+      "sha256": "617a3a7ffc9a4355c98e6229ee035729e9086b501cf29b33d70e9df4b1e8ba6d"
+    },
+    "generator": {
+      "path": "assets/ruins/ruins-fixed-wedged-twin-trestle-needle-shore-01/v1.0.0/generate.py",
+      "size": 24418,
+      "sha256": "a03e06af44022f88e593d6891f0a294db973d07d1ace6ebc9492bd9604d6b019"
+    },
+    "render": {
+      "path": "assets/ruins/ruins-fixed-wedged-twin-trestle-needle-shore-01/v1.0.0/thumbnail.png",
+      "size": 531184,
+      "sha256": "fd7da3e1b75c53b37afb60a9c9405afa476e2009e54f939eb80b8f66c3d6cc26"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
