@@ -1,0 +1,42 @@
+{
+  "id": "agriculture-fixed-side-cup-crown-fruit-picker-01",
+  "version": "1.0.0",
+  "category": "modular",
+  "assetKind": "prop",
+  "theme": "agriculture",
+  "style": "warm-handcrafted-village",
+  "title": "Fixed Side-Cup Crown Fruit Picker",
+  "description": "One complete original static long-pole fruit-picker appearance. A full straight wooden pole carries a high side-mounted deep hollow collection cup via a sleeve and two short solid side supports. The cup has a complete thick bottom, inner wall, low rear lip and an integral front crown of broad inward-returning teeth separated by genuine open notches. Cup axis runs parallel to the long pole, unlike an end-mounted coplanar landing-net hoop, two padded litter jaws or a ground basket with handles. Five closed editable meshes and three opaque PBR roles; one prop and zero scenes. Fixed upright display on a genuine finite pole-end face, not a stability or use pose guarantee. No fruit, harvesting action, load, retention, human fit, spring, motion, manufacture or safety certification.",
+  "bounds": {
+    "x": 0.384000003,
+    "y": 0.280000001,
+    "z": 1.590000033,
+    "unit": "m"
+  },
+  "triangles": 844,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/agriculture/agriculture-fixed-side-cup-crown-fruit-picker-01/v1.0.0/model.glb",
+      "size": 44368,
+      "sha256": "6dab19e996fa1d6cf022669e8ed2ace7c186e2a714de16ed795a55efa67be709"
+    },
+    "blend": {
+      "path": "assets/agriculture/agriculture-fixed-side-cup-crown-fruit-picker-01/v1.0.0/source.blend",
+      "size": 545592,
+      "sha256": "cf5f6e135bbed552c13f64acf568da468d0d8a291c53f00d48689a25a3cbad55"
+    },
+    "generator": {
+      "path": "assets/agriculture/agriculture-fixed-side-cup-crown-fruit-picker-01/v1.0.0/generate.py",
+      "size": 27781,
+      "sha256": "3728f6753ce8bf81934be99ab3cd5a171e46feb29faa53b49e327d6f2bf353e0"
+    },
+    "render": {
+      "path": "assets/agriculture/agriculture-fixed-side-cup-crown-fruit-picker-01/v1.0.0/thumbnail.png",
+      "size": 467064,
+      "sha256": "6a59f8a8fc218af8a599b2578e08ccc026311ddddfef8bb7b2d2f1f7c504906b"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
