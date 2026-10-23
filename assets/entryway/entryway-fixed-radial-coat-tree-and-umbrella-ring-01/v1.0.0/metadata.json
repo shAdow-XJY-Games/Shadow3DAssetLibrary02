@@ -1,0 +1,42 @@
+{
+  "id": "entryway-fixed-radial-coat-tree-and-umbrella-ring-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "entryway",
+  "style": "source-preserved-low-poly",
+  "title": "Fixed Radial Coat Tree and Umbrella Ring",
+  "description": "One original complete fixed central coat tree with an integrated lower umbrella-ring appearance. A tapered central post rises from three whole curved feet on finite flat pads; six continuous curled radial branches at two levels form the hanging crown. A shallow thick annular drip-tray appearance and a separate open three-spoke umbrella ring attach to the same post and shared base. All numeric geometry newly authored, not the old planar twin-upright peg rack plus independent stave bin imported or resized. Three opaque constant PBR materials, no clothes, umbrellas, liquids or textures. One whole prop, zero scenes. Fixed visual furniture only: no clothing/umbrella compatibility, actual drainage, load, hanging performance, stability, manufacture or safety claim.",
+  "bounds": {
+    "x": 0.6046270132064819,
+    "y": 0.6315575242042542,
+    "z": 1.778601884841919,
+    "unit": "m"
+  },
+  "triangles": 2472,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/entryway/entryway-fixed-radial-coat-tree-and-umbrella-ring-01/v1.0.0/model.glb",
+      "size": 223704,
+      "sha256": "764df663c7dc7a781867f61c96ecbac86c452387b2c5a90fbdc8a2eda002c2e6"
+    },
+    "blend": {
+      "path": "assets/entryway/entryway-fixed-radial-coat-tree-and-umbrella-ring-01/v1.0.0/source.blend",
+      "size": 903648,
+      "sha256": "2ae385c361396ce4db772ad44f67942c209278b19bb682c37451e47a38de0ee6"
+    },
+    "generator": {
+      "path": "assets/entryway/entryway-fixed-radial-coat-tree-and-umbrella-ring-01/v1.0.0/generate.py",
+      "size": 14867,
+      "sha256": "304de562a3c50b7f054085aa686536c174a5db389c83961264dbc0769fc9369f"
+    },
+    "render": {
+      "path": "assets/entryway/entryway-fixed-radial-coat-tree-and-umbrella-ring-01/v1.0.0/thumbnail.png",
+      "size": 449858,
+      "sha256": "5ca06f120c7083ed7a55a8bad3d4ae540d001347c9bc5b2195679df74f18cdc7"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
