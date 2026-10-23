@@ -1,0 +1,42 @@
+{
+  "id": "ceramics-fixed-raised-lid-octagonal-top-loading-kiln-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "ceramics",
+  "style": "source-preserved-low-poly",
+  "title": "Fixed Raised Lid Octagonal Top Loading Kiln",
+  "description": "One original complete static top-loading pottery-kiln appearance. A continuous thick octagonal shell encloses a deep blind-bottom upper chamber with three real shallow recess bands in its complete inner wall. Two full outer retaining bands and four finite short ground legs support the body appearance. One whole thick stepped octagonal lid includes a broad recessed refractory plug face and is fixed raised around a rear horizontal hinge, with two whole side stay rods. A separate attached side controller has one blank dark inset-looking face and a small dial. New geometry is neither the old rectangular front-loading kiln turned upright nor the thin pedal bin resized: chamber boundary, lid section, internal wall bands, supports and hardware are newly constructed. Three opaque PBR roles. One complete prop, zero scenes or loose pottery. Fixed unpowered visual only, no firing or heating simulation, electrical design, thermal effectiveness, loading instructions, working motion, load, compatibility, manufacture or safety claim.",
+  "bounds": {
+    "x": 1.1211785078048706,
+    "y": 1.019580364227295,
+    "z": 1.8808174133300781,
+    "unit": "m"
+  },
+  "triangles": 848,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/ceramics/ceramics-fixed-raised-lid-octagonal-top-loading-kiln-01/v1.0.0/model.glb",
+      "size": 86064,
+      "sha256": "d4aa406b575c33de6ba3d00c32fe6c0966edb5cf22f02db15f6105e62f3583f7"
+    },
+    "blend": {
+      "path": "assets/ceramics/ceramics-fixed-raised-lid-octagonal-top-loading-kiln-01/v1.0.0/source.blend",
+      "size": 712384,
+      "sha256": "ed4e72994f31bc5c322b78a625eca7c2340150c82bfd101bdd44d81206f7c14c"
+    },
+    "generator": {
+      "path": "assets/ceramics/ceramics-fixed-raised-lid-octagonal-top-loading-kiln-01/v1.0.0/generate.py",
+      "size": 15204,
+      "sha256": "0dd2617329ef1f7168b11d3f59ddd1b436184a5e43ffd208ded1bd04ad3cf180"
+    },
+    "render": {
+      "path": "assets/ceramics/ceramics-fixed-raised-lid-octagonal-top-loading-kiln-01/v1.0.0/thumbnail.png",
+      "size": 509652,
+      "sha256": "bb77d67d5d50cc84e187a7d2cbafce57e051b56b7e8c1e6c5005f0a0d581d597"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
