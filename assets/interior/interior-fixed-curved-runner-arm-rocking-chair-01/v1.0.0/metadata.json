@@ -1,0 +1,42 @@
+{
+  "id": "interior-fixed-curved-runner-arm-rocking-chair-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "interior",
+  "style": "source-preserved-low-poly",
+  "title": "Fixed Curved-Runner Arm Rocking Chair",
+  "description": "One original complete fixed wooden arm rocking-chair appearance. Two continuous closed curved runners rise at both front and rear ends and rest on short central facets. A gently dished thick seat, four frame supports, two whole rounded-end armboards with front supports, three inclined back slats and a high crest form a complete armchair above the runners. Transverse low ties and side bearers complete the static support appearance. Entire numeric construction is newly authored, not the old four-foot dining chair or long flat-runner kick sled resized. Two opaque constant wood-colour PBR materials, no textures. One whole prop, zero scenes. Only the shown fixed resting pose: no actual motion, balance, rocking sweep, occupant suitability, ergonomics, load, manufacture or safety certification.",
+  "bounds": {
+    "x": 0.6000000238418579,
+    "y": 1.2000000476837158,
+    "z": 1.1419999599456787,
+    "unit": "m"
+  },
+  "triangles": 1092,
+  "materials": 2,
+  "files": {
+    "glb": {
+      "path": "assets/interior/interior-fixed-curved-runner-arm-rocking-chair-01/v1.0.0/model.glb",
+      "size": 105532,
+      "sha256": "14ad03341b69c8fec96d64327fe9e1e968030efe6b19241082c29ca1aa951b29"
+    },
+    "blend": {
+      "path": "assets/interior/interior-fixed-curved-runner-arm-rocking-chair-01/v1.0.0/source.blend",
+      "size": 721216,
+      "sha256": "0597374ee51e4932e5a0effaafb1a0586ad56f14ae10a95a8d6a714615bdb85c"
+    },
+    "generator": {
+      "path": "assets/interior/interior-fixed-curved-runner-arm-rocking-chair-01/v1.0.0/generate.py",
+      "size": 14579,
+      "sha256": "a9f88aad2884b8d5e1855d14d9af2ca0465ddf078f61f1eeb7b46bc1adfd0b3c"
+    },
+    "render": {
+      "path": "assets/interior/interior-fixed-curved-runner-arm-rocking-chair-01/v1.0.0/thumbnail.png",
+      "size": 551513,
+      "sha256": "1e56cfca311507ca6dd657cb69ef59a4ca3e0354d74bb6e5d028e74f18e03c04"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
