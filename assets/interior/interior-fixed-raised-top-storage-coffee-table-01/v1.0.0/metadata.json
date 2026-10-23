@@ -1,0 +1,42 @@
+{
+  "id": "interior-fixed-raised-top-storage-coffee-table-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "interior",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Raised Top Storage Coffee Table",
+  "description": "One newly authored complete low storage coffee table at a single fixed raised-top display pose. A continuous thick open-topped box encloses a genuine deep empty chamber and stands on four complete grounded feet. One whole tabletop is elevated and translated toward the front, carried by two equal parallel full links on each side, complete lower and upper anchor strips and fixed pin appearances. The box opening remains visible behind and beneath the raised top. This is not the crossed-arm cargo scissor platform, a wall-hinged changing tray, an old cubby bench or the butterfly dining leaf table renamed. Whole numeric geometry is new; three opaque constant untextured PBR materials, metres and complete XY-centred ground datum. One furniture prop, zero scenes or extra poses. Links and pins are fixed solids, not a bored moving bearing or operating four-bar proof. No real lifting, spring or damper, hinge motion, continuous travel clearance, closure fit, ergonomics, stability, load, manufacture or safety claim.",
+  "bounds": {
+    "x": 1.22,
+    "y": 0.9199999999999999,
+    "z": 0.715,
+    "unit": "m"
+  },
+  "triangles": 568,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/interior/interior-fixed-raised-top-storage-coffee-table-01/v1.0.0/model.glb",
+      "size": 37260,
+      "sha256": "e877c0780fd96c48ee35abaeccc8afd7d0561c61fb1d8ebe703ac1d3b515fc34"
+    },
+    "blend": {
+      "path": "assets/interior/interior-fixed-raised-top-storage-coffee-table-01/v1.0.0/source.blend",
+      "size": 649300,
+      "sha256": "1cf8fc294aeb3a19e0e28b9d20fe1e4fb1d9a0f65b266aab7fc3573d0ddb949f"
+    },
+    "generator": {
+      "path": "assets/interior/interior-fixed-raised-top-storage-coffee-table-01/v1.0.0/generate.py",
+      "size": 10403,
+      "sha256": "913ceda8fd5a5eec902c880e222a4ab632c889c59c1f01810ed36ee6aa26d1d6"
+    },
+    "render": {
+      "path": "assets/interior/interior-fixed-raised-top-storage-coffee-table-01/v1.0.0/thumbnail.png",
+      "size": 443239,
+      "sha256": "e7fef04ee933fc63c4ecfff8d3aaa7ea209fce509a11a58918712ca42f2d576f"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
