@@ -1,0 +1,42 @@
+{
+  "id": "ceramics-fixed-open-frame-kick-wheel-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "ceramics",
+  "style": "source-preserved-low-poly",
+  "title": "Open-Frame Traditional Pottery Kick Wheel",
+  "description": "One original complete static traditional kick-wheel pottery station: a small high work disk and a broad low solid foot flywheel share a long vertical shaft in two actual bored cross supports. Two grounded longitudinal frame rails carry the posts and an integral rear seat, leaving the low wheel and front working bay visibly open. Newly authored whole station, not the old table-mounted banding wheel with added accessories or a steam engine flywheel extracted from its bench. One model, zero scenes; no clay pot, user, loose tools, moving joints or animation. Static game-art only: no rotation, kicking operation, inertia, ergonomics, seating suitability, bearing performance, manufacture, load capacity or safety certification.",
+  "bounds": {
+    "x": 0.9959999918937683,
+    "y": 1.3700000047683716,
+    "z": 0.8379999995231628,
+    "unit": "m"
+  },
+  "triangles": 820,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/winter/ceramics-fixed-open-frame-kick-wheel-01/v1.0.0/model.glb",
+      "size": 77928,
+      "sha256": "038494b350855e9d5667ccb2f6d638baccff57624caf6ddbc4bf162797770361"
+    },
+    "blend": {
+      "path": "assets/winter/ceramics-fixed-open-frame-kick-wheel-01/v1.0.0/source.blend",
+      "size": 685696,
+      "sha256": "3b03cfe6d2cd25768ad645383552f871421102a43ef8b3b6087cd472e67ec95b"
+    },
+    "generator": {
+      "path": "assets/winter/ceramics-fixed-open-frame-kick-wheel-01/v1.0.0/generate.py",
+      "size": 14176,
+      "sha256": "2f65b437bd3fad798b543c61b9745c41622630a2c61724318dd4c0eb0230d1dc"
+    },
+    "render": {
+      "path": "assets/winter/ceramics-fixed-open-frame-kick-wheel-01/v1.0.0/thumbnail.png",
+      "size": 527112,
+      "sha256": "9a1b330450f0bbe4006cf0b6190f98b7d0fc412bbd311cae550eea73b3a12294"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

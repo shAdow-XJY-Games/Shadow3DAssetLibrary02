@@ -1,0 +1,42 @@
+{
+  "id": "classical-complete-arched-open-watercourse-span-01",
+  "version": "1.0.0",
+  "category": "modular",
+  "assetKind": "modular",
+  "theme": "classical",
+  "style": "warm-handcrafted-village",
+  "title": "Complete Arched Open Watercourse Span",
+  "description": "One newly authored complete static classical arched-watercourse span. A single grounded stone core contains two broad piers, a fully open curved arch soffit, solid filled spandrels and the entire straight horizontal channel floor. Two complete thick raised sidewalls sit on finite opposed deck patches to form a genuinely open U-shaped upper channel with two open longitudinal ends. The lower arch passage crosses perpendicular to that upper channel, producing two real separated open-space levels. Not a copied exposed voussoir arch with a reused tray placed on it, not a gate with its mechanism removed, and not a longer ordinary bridge. Three closed editable meshes and three opaque constant stone PBR values; one modular asset, zero scenes. Static illustrative geometry only: no flowing water, hydraulic capacity, slope/drop, historical reconstruction, structural load, stability, navigation, public safety or neighbor-snap compatibility claim. Metres, native Z up, horizontally centred, two finite ground soles.",
+  "bounds": {
+    "x": 3.599999905,
+    "y": 0.899999976,
+    "z": 2.900000095,
+    "unit": "m"
+  },
+  "triangles": 112,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/classical/classical-complete-arched-open-watercourse-span-01/v1.0.0/model.glb",
+      "size": 9372,
+      "sha256": "8b68033ec007d0d93de8332bfd0e1b98e80d2accd4984f6d4ec8f2df419ac7d1"
+    },
+    "blend": {
+      "path": "assets/classical/classical-complete-arched-open-watercourse-span-01/v1.0.0/source.blend",
+      "size": 512348,
+      "sha256": "5be618a9ec6432058ef4b193975a60f4354dc1e9bd4d802179ba07f047573b31"
+    },
+    "generator": {
+      "path": "assets/classical/classical-complete-arched-open-watercourse-span-01/v1.0.0/generate.py",
+      "size": 27277,
+      "sha256": "ee92f605df3e150cb222d43081f995e606d3b235b54472e771c4987c85bca322"
+    },
+    "render": {
+      "path": "assets/classical/classical-complete-arched-open-watercourse-span-01/v1.0.0/thumbnail.png",
+      "size": 503973,
+      "sha256": "9c528a853e88c8ed87c23b6bd1cf5540c6932b97edf5b31a3294512d0e18336a"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

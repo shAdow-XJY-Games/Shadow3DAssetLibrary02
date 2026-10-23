@@ -1,0 +1,42 @@
+{
+  "id": "winter-fixed-open-highback-snowboard-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "winter",
+  "style": "source-preserved-low-poly",
+  "title": "Wide Board with Open Highback Bindings",
+  "description": "One original complete static snowboard with a single continuous wide sidecut board, lifted blunt ends, dark running base and two transverse open highback bindings. Each whole binding has an inset footbed, a curved heel-back shell rising behind an empty foot bay, two genuinely arched thick straps and fixed side buckles. The wide shared board and cross-board highback strap structure are not a quantity or width edit of the earlier separate alpine skis with toe and heel release housings. One model, zero scenes; no boots, rider, logos or loose accessories. Static visual only: no riding, turning, snow interaction, release system, binding adjustment, wearable fit, compatibility, load or sports-safety certification.",
+  "bounds": {
+    "x": 0.33000001311302185,
+    "y": 1.559999942779541,
+    "z": 0.23499999940395355,
+    "unit": "m"
+  },
+  "triangles": 724,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/winter/winter-fixed-open-highback-snowboard-01/v1.0.0/model.glb",
+      "size": 71868,
+      "sha256": "52715e852ddf413c68ba7bb1e3e915f5f41bcb86842370c860c86c5e0fd7b7fa"
+    },
+    "blend": {
+      "path": "assets/winter/winter-fixed-open-highback-snowboard-01/v1.0.0/source.blend",
+      "size": 698128,
+      "sha256": "ccfa62c5b91202885774bd7c955b0e6d0cc45674b7eb30556e72b0d3cea4e4d6"
+    },
+    "generator": {
+      "path": "assets/winter/winter-fixed-open-highback-snowboard-01/v1.0.0/generate.py",
+      "size": 14739,
+      "sha256": "cb84f7009f120f966c6fa8c1dd070dd3ecbcd1227f1eaf9688906e37a5ca747e"
+    },
+    "render": {
+      "path": "assets/winter/winter-fixed-open-highback-snowboard-01/v1.0.0/thumbnail.png",
+      "size": 458435,
+      "sha256": "3cfffe260805729dc113d92d7aa891f5003ae46720932ece9286ef1150950bfe"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

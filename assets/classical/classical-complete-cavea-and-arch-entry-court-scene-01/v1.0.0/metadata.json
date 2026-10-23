@@ -1,0 +1,42 @@
+{
+  "id": "classical-complete-cavea-and-arch-entry-court-scene-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "classical",
+  "style": "warm-handcrafted-village",
+  "title": "Cavea and Arch Entry Court",
+  "description": "One static classical theatre-approach scene. One complete qualified semicircular tiered cavea faces a complete old exposed stone arch across a shared open forecourt. Two intact unit-scale instances of two existing models, translations only; every old evaluated oriented triangle and opaque constant PBR retained before explicitly declared float32 output storage. No column instances, old arch cuts, seat-count changes, invented roof or new individual architectural model. One scene-only flat stone base seats every complete original ground interface. Full transformed-coordinate checks, all distinct instance AABBs separated, whole actual downward sole/contact patches and selected approach rays are checked; not a whole navigation-space or crowd-access proof. One scene and zero new models. No historical reconstruction, use capacity, structure, public safety or accessibility claim.",
+  "bounds": {
+    "x": 9.300000191,
+    "y": 8.399999619,
+    "z": 3.154999971,
+    "unit": "m"
+  },
+  "triangles": 3384,
+  "materials": 8,
+  "files": {
+    "glb": {
+      "path": "assets/classical/classical-complete-cavea-and-arch-entry-court-scene-01/v1.0.0/model.glb",
+      "size": 122188,
+      "sha256": "ddfe8ef7cc233ac3b243839d8f14002e9ba53df8717e927f520ab8eef6224550"
+    },
+    "blend": {
+      "path": "assets/classical/classical-complete-cavea-and-arch-entry-court-scene-01/v1.0.0/source.blend",
+      "size": 806032,
+      "sha256": "1b0814375ec3a666cf5d8f9cee1c0faadb9d7466381e6a8e6a07e9811f149353"
+    },
+    "generator": {
+      "path": "assets/classical/classical-complete-cavea-and-arch-entry-court-scene-01/v1.0.0/generate.py",
+      "size": 76410,
+      "sha256": "97ca00847c35c1d9f9016950f5760f9348f0ac8b5d615b9f5932fcb1368a28f9"
+    },
+    "render": {
+      "path": "assets/classical/classical-complete-cavea-and-arch-entry-court-scene-01/v1.0.0/thumbnail.png",
+      "size": 510082,
+      "sha256": "d9ec4dad1ab1cb20e35d3a0531cc9d77f6a14c9c1fb1236029896164d6e9c4ad"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "renewable-static-three-bow-vertical-axis-turbine-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "renewable",
+  "style": "S01-clean-geometric",
+  "title": "Static Three-Bow Vertical-Axis Turbine",
+  "description": "One complete newly authored static vertical-axis wind-turbine appearance with three continuous outward-bowed thick blades joining lower and upper rotor hubs around one long vertical shaft. Each complete blade has a six-point closed section and twenty connected axial bands; the three bows surround a real open swept-looking interior without a solid rotor disc. Two broad fixed hubs receive the blade ends, and a tapered pedestal joins the complete square finite ground foundation. Unlike the existing horizontal-axis tower/nacelle and radial flat three-blade propeller, the whole rotor architecture is upright and supported at both blade ends. Eight separate closed editable meshes and four constant opaque PBR materials, metres/native Z up/horizontal bounds-centred ground origin. Exactly one whole illustrative model and zero scenes. All joins and the rotor are static; no animation, specified aerodynamic profile, continuous swept clearance, power generation, efficiency, wind-speed rating, bearing fit, load, manufacture, engineering or safety claim.",
+  "bounds": {
+    "x": 1.431760642208861,
+    "y": 1.536667541341529,
+    "z": 3.36,
+    "unit": "m"
+  },
+  "triangles": 1172,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/renewable/renewable-static-three-bow-vertical-axis-turbine-01/v1.0.0/model.glb",
+      "size": 59824,
+      "sha256": "98de65e875f526963b04eb5ade6ad669af88f85b2f89603618661c7897537174"
+    },
+    "blend": {
+      "path": "assets/renewable/renewable-static-three-bow-vertical-axis-turbine-01/v1.0.0/source.blend",
+      "size": 640532,
+      "sha256": "164fa60301d9285051b7ca6bd944555a654db0bb6934d46d171923f993330750"
+    },
+    "generator": {
+      "path": "assets/renewable/renewable-static-three-bow-vertical-axis-turbine-01/v1.0.0/generate.py",
+      "size": 9262,
+      "sha256": "ebf84581dc5344805bd575f8315fef9b9b292d3f87b61c1ff66643014ad395d9"
+    },
+    "render": {
+      "path": "assets/renewable/renewable-static-three-bow-vertical-axis-turbine-01/v1.0.0/thumbnail.png",
+      "size": 346826,
+      "sha256": "6949c5f3d0f02a5069374a5d2034d63b4d7d107285cbe1d16d9cded22aea8950"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

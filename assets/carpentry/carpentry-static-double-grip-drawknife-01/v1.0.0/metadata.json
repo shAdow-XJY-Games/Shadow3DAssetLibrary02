@@ -1,0 +1,42 @@
+{
+  "id": "carpentry-static-double-grip-drawknife-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "carpentry",
+  "style": "S01-clean-geometric",
+  "title": "Static Double Grip Drawknife",
+  "description": "One newly authored complete fixed drawknife-inspired woodworking handtool. A single continuous broad straight steel-style blade narrows and returns at both ends into two parallel tangs; two whole shaped faceted hardwood grips and fixed collars form the double-handled open silhouette. The central space between returned grips remains open. This is not an old toothed handsaw, U-channel gouge or curved single-handled sickle with changed length or material. All geometry newly authored, three solid opaque constant PBR roles, metres and complete horizontal bounds-centred ground origin, one prop and zero scenes. Finite blunt blade thickness for game art only; no sharp edge, cutting or shaving performance, internal bored grip, tang tolerances, hand fit, manufacture, joint strength or safety claim. Fixed tang roots meet the solid grips as visual assembly, not a mechanical insertion certificate.",
+  "bounds": {
+    "x": 0.555,
+    "y": 0.28200000000000003,
+    "z": 0.05,
+    "unit": "m"
+  },
+  "triangles": 380,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/carpentry/carpentry-static-double-grip-drawknife-01/v1.0.0/model.glb",
+      "size": 21108,
+      "sha256": "43f524ce14f4d14b2baacbca97b405099e8a95fdcfff3215219f0afcefdb635c"
+    },
+    "blend": {
+      "path": "assets/carpentry/carpentry-static-double-grip-drawknife-01/v1.0.0/source.blend",
+      "size": 560608,
+      "sha256": "0e5b3f5368953006206c41dab28fc26d191bfe0d94de4373eafac094d355f0fe"
+    },
+    "generator": {
+      "path": "assets/carpentry/carpentry-static-double-grip-drawknife-01/v1.0.0/generate.py",
+      "size": 9865,
+      "sha256": "77c3aac447d785e92e2eed599be935af59070b597d50d8615766437acc5f0a8e"
+    },
+    "render": {
+      "path": "assets/carpentry/carpentry-static-double-grip-drawknife-01/v1.0.0/thumbnail.png",
+      "size": 339621,
+      "sha256": "87d77ad1655a9771d368ab62605c1b195384618755ab1693593acf76397b5d29"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

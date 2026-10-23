@@ -1,0 +1,42 @@
+{
+  "id": "coral-reef-complete-hull-anchor-landmark-scene-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "coral-reef",
+  "style": "warm-handcrafted-village",
+  "title": "Whole Wreck Hull and Anchor Landmark",
+  "description": "One static stylized underwater wreck-landmark composition: an entire old fractured ribbed hull section occupies the rear-left seabed, a complete stocked twin-fluke anchor stands outside its forward-right mouth, and one entire branching coral sits on a separated forward-left ground patch. Three complete unit-scale old model instances with unchanged original oriented triangles, material values and components; translations only, explicitly float32 stored after translation. The broad concave hold and broken longitudinal ends remain exposed and a selected longitudinal hold ray is retained. Anchor is deliberately a fixed upright display pose, not a simulated abandoned physical balance. One flat scene-only sandy support receives each full actual bottom patch. This is one scene and zero new independent models, not new coral count, chopped hull or recolored seabed scene. No marine biology, water effect, buoyancy, ship reconstruction, archaeology, load, anchoring or diving safety claim; selected rays are not a whole navigation-space proof.",
+  "bounds": {
+    "x": 6.400000095,
+    "y": 4.599999905,
+    "z": 1.769999981,
+    "unit": "m"
+  },
+  "triangles": 1204,
+  "materials": 10,
+  "files": {
+    "glb": {
+      "path": "assets/coral-reef/coral-reef-complete-hull-anchor-landmark-scene-01/v1.0.0/model.glb",
+      "size": 81648,
+      "sha256": "d93f976491ed805a1fa6957c5ff19b1567e6465fe8e973859c631caa729ec4d7"
+    },
+    "blend": {
+      "path": "assets/coral-reef/coral-reef-complete-hull-anchor-landmark-scene-01/v1.0.0/source.blend",
+      "size": 781736,
+      "sha256": "d1373bc059532685c36645f8ad37888ce32c0677da4186cc75c92c81c29e0f6d"
+    },
+    "generator": {
+      "path": "assets/coral-reef/coral-reef-complete-hull-anchor-landmark-scene-01/v1.0.0/generate.py",
+      "size": 65029,
+      "sha256": "5a02d71a9b67a9d293d6486ec2de955f4804d4c57e8b5ae462e4811e04ddc649"
+    },
+    "render": {
+      "path": "assets/coral-reef/coral-reef-complete-hull-anchor-landmark-scene-01/v1.0.0/thumbnail.png",
+      "size": 511403,
+      "sha256": "ff5e97955543c1296be8b1fb150b0c96c90050177b6a6835020978b4804908f6"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

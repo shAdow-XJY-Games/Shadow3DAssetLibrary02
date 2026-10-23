@@ -1,0 +1,42 @@
+{
+  "id": "animal-static-raised-thorax-folded-foreleg-mantis-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "animal",
+  "style": "S01-clean-geometric",
+  "title": "Static Raised-Thorax Folded-Foreleg Mantis",
+  "description": "One newly authored whole stylised mantis-like static exterior. A broad beveled triangular head with rounded corner eyes and two fine antennae sits above a long narrow upward-sloping front thorax, which continues directly into a broad low tapering abdomen. Four complete rearward walking legs reach finite flat ground toes. The two held-up front limbs each have a long proximal section and one complete thick femur bending into a much thinner returning tibia around a genuine open gap, rather than a two-finger pincer palm. All whole stations, head outline and limb paths are new: no beetle shell deletion, dragonfly wing removal, scorpion chela reuse, caterpillar stretching or count-only variant. One continuous body skin plus intentionally embedded separate whole appendage/head roots; not a welded biological model. One prop, zero scenes or separate component counts. Metres, Z up, head/front -Y and full horizontal bounds-centred grounded origin. Opaque untextured matte PBR. Deliberately wingless artistic exterior, not an exact adult or juvenile species, scientific anatomy, flight, prey capture, gripping, joint motion, gait, rig, animation, welfare, stability or handling-safety claim.",
+  "bounds": {
+    "x": 1.275852,
+    "y": 2.17,
+    "z": 1.493473,
+    "unit": "m"
+  },
+  "triangles": 1112,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/animal/animal-static-raised-thorax-folded-foreleg-mantis-01/v1.0.0/model.glb",
+      "size": 84392,
+      "sha256": "472958f274b3c4ec41343224252a7f5d7f655ca7efeb3b961aa938526a8e298a"
+    },
+    "blend": {
+      "path": "assets/animal/animal-static-raised-thorax-folded-foreleg-mantis-01/v1.0.0/source.blend",
+      "size": 647840,
+      "sha256": "b2927ad9380c4544d8faeb2278badc726018d514e45507830798fc3830aa00f8"
+    },
+    "generator": {
+      "path": "assets/animal/animal-static-raised-thorax-folded-foreleg-mantis-01/v1.0.0/generate.py",
+      "size": 25536,
+      "sha256": "fd8388eb2b34955d2c2211e2c2690b775ca300cfafe9e7cf7b9288d0ab295a22"
+    },
+    "render": {
+      "path": "assets/animal/animal-static-raised-thorax-folded-foreleg-mantis-01/v1.0.0/thumbnail.png",
+      "size": 486507,
+      "sha256": "fcadb3ec17e636ab4b0e3a5ad11aa346ba0851c12ea3efea1a94e1b255c20938"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

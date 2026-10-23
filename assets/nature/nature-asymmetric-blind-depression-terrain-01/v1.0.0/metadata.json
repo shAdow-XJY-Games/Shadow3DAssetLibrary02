@@ -1,0 +1,42 @@
+{
+  "id": "nature-asymmetric-blind-depression-terrain-01",
+  "version": "1.0.0",
+  "category": "modular",
+  "assetKind": "modular",
+  "theme": "nature",
+  "style": "warm-handcrafted-village",
+  "title": "Asymmetric Deep Blind Depression Terrain",
+  "description": "One complete coarse faceted natural-terrain appearance: a broad irregular grounded rock-and-earth mass grades up around a genuinely open asymmetric downward depression with unequal wall inclinations, an offset low finite floor and intact material underneath. A single connected closed mesh carries the entire surrounding terrain, sloped shoulders, pit rim, interior walls and blind bottom. No vessel handle, separate ring, hidden filler, water, duplicated rock pieces or borrowed hollow-log section. This is a static game terrain form, not an asserted sinkhole formation process, cave system, geological reconstruction, traversable path, erosion or water/drainage simulation. One modular terrain object, zero scenes; no existing module snap compatibility or safety claim. Metres, Z up, true whole horizontal bounds centred, full bottom Z0.",
+  "bounds": {
+    "x": 7.300000191,
+    "y": 5.650000095,
+    "z": 2.5,
+    "unit": "m"
+  },
+  "triangles": 140,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/nature/nature-asymmetric-blind-depression-terrain-01/v1.0.0/model.glb",
+      "size": 10532,
+      "sha256": "dae4a2d2302c40f138c5e23d92cf3f45907d22c972a8a62280e4550f158dd720"
+    },
+    "blend": {
+      "path": "assets/nature/nature-asymmetric-blind-depression-terrain-01/v1.0.0/source.blend",
+      "size": 502084,
+      "sha256": "0b3b727fbd43eeb2ccadf8cc79623780ca4b77e65aa84b9b4765799bbd965bb0"
+    },
+    "generator": {
+      "path": "assets/nature/nature-asymmetric-blind-depression-terrain-01/v1.0.0/generate.py",
+      "size": 26278,
+      "sha256": "09b7aace867a51b3c48cc53201912af8da834545f704263de06a17dc441f4fb3"
+    },
+    "render": {
+      "path": "assets/nature/nature-asymmetric-blind-depression-terrain-01/v1.0.0/thumbnail.png",
+      "size": 490632,
+      "sha256": "44d00b41d1d4b26de68ab049a5c905ce901e243f64e5e061b49fcad4ed449333"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

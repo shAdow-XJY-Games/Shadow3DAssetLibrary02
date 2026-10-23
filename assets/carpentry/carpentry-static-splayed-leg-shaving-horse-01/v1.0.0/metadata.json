@@ -1,0 +1,42 @@
+{
+  "id": "carpentry-static-splayed-leg-shaving-horse-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "carpentry",
+  "style": "S01-clean-geometric",
+  "title": "Static Splayed Leg Shaving Horse",
+  "description": "One newly authored complete fixed shaving-horse-inspired woodworking bench: a long chamfered sitting plank on four splayed full legs and long stretchers, a full inclined dark work bed on two fixed supports, paired whole side lever cheeks straddling the bench and joining a transverse upper clamp head to one lower foot crossbar, with fixed axle and end caps. The rear seat remains clear; the upper head is held above the inclined bed with a visible open gap. All new geometry and three opaque constant PBR roles; no old sawhorse, bench vise or irrigation treadle meshes copied or relabelled. Metres, Z up, whole bounds centred and real foot soles at Z0. One static prop, not a simulated machine: no foot actuation, clamp force, ergonomic fit, machining performance, joint load or safety claim.",
+  "bounds": {
+    "x": 0.68,
+    "y": 1.56,
+    "z": 1.045,
+    "unit": "m"
+  },
+  "triangles": 344,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/carpentry/carpentry-static-splayed-leg-shaving-horse-01/v1.0.0/model.glb",
+      "size": 26524,
+      "sha256": "4220e0cc5a90d11b4f7443604d257ea298bbf618f4e618869b670909b95923f9"
+    },
+    "blend": {
+      "path": "assets/carpentry/carpentry-static-splayed-leg-shaving-horse-01/v1.0.0/source.blend",
+      "size": 614104,
+      "sha256": "fc98d3a85c079ce69284910deb01bb1b9df1f7d9bca910e9bbcc232df83e7a4b"
+    },
+    "generator": {
+      "path": "assets/carpentry/carpentry-static-splayed-leg-shaving-horse-01/v1.0.0/generate.py",
+      "size": 10414,
+      "sha256": "04653da5504b31bc7d9b04feec86b31a8766dd4eef7b2b7860ad6a863f5328cb"
+    },
+    "render": {
+      "path": "assets/carpentry/carpentry-static-splayed-leg-shaving-horse-01/v1.0.0/thumbnail.png",
+      "size": 452598,
+      "sha256": "6d520bf3716d8935e0095d0684abf568b0a0a3fd4e8391882515903131b80a56"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

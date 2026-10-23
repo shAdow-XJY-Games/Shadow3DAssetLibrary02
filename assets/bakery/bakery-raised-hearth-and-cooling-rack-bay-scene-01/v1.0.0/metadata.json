@@ -1,0 +1,42 @@
+{
+  "id": "bakery-raised-hearth-and-cooling-rack-bay-scene-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "bakery",
+  "style": "source-preserved-low-poly",
+  "title": "Raised Hearth and Cooling Rack Bay",
+  "description": "One static raised-hearth and cooling-rack bakery scene, one scene and zero new models. Complete original vaulted oven stands on a continuous scene-only masonry plinth with a broad intermediate front step. The complete original open three-tier cooling rack stands on the lower floor, with one complete empty baking tray seated on its actual top slats. Their real rack tray-support level and oven hearth are both approximately 0.9425 m above the scene datum, while the open central and front work area separates the whole appliances. All three original GLB payloads, nodes, full geometry and PBR are retained at unit scale, with translations only. This is a distinct oven-and-cooling preparation bay, not the existing oven plus plated-pastry display, kneading table or retail display counter. No hot food, continuous tray insertion or transfer, thermal behavior, load rating, food hygiene, human access or safety certification.",
+  "bounds": {
+    "x": 3.799999952316284,
+    "y": 2.5999999046325684,
+    "z": 1.3370000123977661,
+    "unit": "m"
+  },
+  "triangles": 1848,
+  "materials": 8,
+  "files": {
+    "glb": {
+      "path": "assets/bakery/bakery-raised-hearth-and-cooling-rack-bay-scene-01/v1.0.0/model.glb",
+      "size": 157616,
+      "sha256": "cb63c8c1a718b52400928736d314ecda5084bdb9a354cfb4672c2b2d3b2408df"
+    },
+    "blend": {
+      "path": "assets/bakery/bakery-raised-hearth-and-cooling-rack-bay-scene-01/v1.0.0/source.blend",
+      "size": 122546,
+      "sha256": "1c086d89908285470a013c36e1880756a323e6699d1791ddf71a9ffe94d67bbc"
+    },
+    "generator": {
+      "path": "assets/bakery/bakery-raised-hearth-and-cooling-rack-bay-scene-01/v1.0.0/generate.py",
+      "size": 28335,
+      "sha256": "efd95dbc2d5f03fccdca85f2326a54616ac953112503508b04a3955b0be36ac0"
+    },
+    "render": {
+      "path": "assets/bakery/bakery-raised-hearth-and-cooling-rack-bay-scene-01/v1.0.0/thumbnail.png",
+      "size": 484655,
+      "sha256": "58d9a00eb5ce1fb924a5dbf157a83c102d5545a6b3a29623f574dd1c70a05cf6"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

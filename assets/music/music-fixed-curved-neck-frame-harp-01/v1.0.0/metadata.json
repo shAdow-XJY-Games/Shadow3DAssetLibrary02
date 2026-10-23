@@ -1,0 +1,42 @@
+{
+  "id": "music-fixed-curved-neck-frame-harp-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "music",
+  "style": "source-preserved-low-poly",
+  "title": "Fixed Curved-Neck Frame Harp",
+  "description": "One original complete fixed standing frame-harp display with a broad ground foot, a long turned forepillar, one continuous gently curved neck, an inclined tapered soundbox exterior and eighteen separate unequal-length strings joined to small neck pins and the sloping soundboard. The large triangular free-string field is a different whole structure from a closed waisted guitar or violin with a fingerboard, or an upright keyboard case. New whole geometry, no old instrument mesh imported. The soundbox is a closed stylized exterior; no hollow acoustic cavity is claimed. All strings and pins are static visual geometry: no sound, tuning, note range, tension, lever action, playability, standard instrument dimensions, manufacture or structural safety claim.",
+  "bounds": {
+    "x": 0.9146608710289001,
+    "y": 0.47999998927116394,
+    "z": 1.534999966621399,
+    "unit": "m"
+  },
+  "triangles": 2128,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/music/music-fixed-curved-neck-frame-harp-01/v1.0.0/model.glb",
+      "size": 209128,
+      "sha256": "98e03abed4396a57eeceef7fe7ec98d974b1ae114a51b84d5529a08407fe9e9f"
+    },
+    "blend": {
+      "path": "assets/music/music-fixed-curved-neck-frame-harp-01/v1.0.0/source.blend",
+      "size": 982384,
+      "sha256": "077a8c71f72e79583e59a8bf96519540927312ef7688fae3cc084aa139775fae"
+    },
+    "generator": {
+      "path": "assets/music/music-fixed-curved-neck-frame-harp-01/v1.0.0/generate.py",
+      "size": 14109,
+      "sha256": "ee776984f9abd111f1189547133372d4dd4863aced555fb907ba774b8d5a26a3"
+    },
+    "render": {
+      "path": "assets/music/music-fixed-curved-neck-frame-harp-01/v1.0.0/thumbnail.png",
+      "size": 483592,
+      "sha256": "5ce723ef3fb46d7ca8716d83a8eb090f2e8c65f968b7e9a0a4cb70631529995f"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

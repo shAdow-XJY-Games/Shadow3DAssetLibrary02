@@ -1,0 +1,42 @@
+{
+  "id": "arcade-fixed-open-inspection-claw-cabinet-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "arcade",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Open-Inspection Claw Game Cabinet",
+  "description": "One newly authored complete fixed claw-game cabinet shown in an open inspection presentation without glass. The integral lower cabinet contains a true connected top drop opening and deep front receiving mouth. Four full corner posts, a back panel and a roof support two longitudinal gantry rails, a full cross bridge, a fixed carriage, a short hoist cable and one crown with three complete thick inward-curved claw fingers. A projecting fixed control ledge has a joystick and two buttons. The upper play chamber is empty, no prizes or old toy models are instances. This differs from a screen arcade cabinet and a blind-neck token receiver: the complete elevated two-axis bridge, suspended claw and connected drop/receiver architecture are visible geometry rather than painted panels. Closed editable solids with intentionally embedded fixed joins, five constant opaque PBR materials, metres/native Z up/horizontal bounds-centred ground origin. One whole display prop, zero scenes. No actual control, payment, game or prize rules, prize capture, motion, continuous swept clearance, transparent glazing, human fit, load, manufacture or safety claim. Not an operating or fully enclosed commercial game appliance.",
+  "bounds": {
+    "x": 1.14,
+    "y": 1.0350000000000001,
+    "z": 2.07,
+    "unit": "m"
+  },
+  "triangles": 804,
+  "materials": 5,
+  "files": {
+    "glb": {
+      "path": "assets/arcade/arcade-fixed-open-inspection-claw-cabinet-01/v1.0.0/model.glb",
+      "size": 49500,
+      "sha256": "a77b7eddc2a855c41db7c5cfabf48043ff7f1eba6e926822bcd072452dc12c62"
+    },
+    "blend": {
+      "path": "assets/arcade/arcade-fixed-open-inspection-claw-cabinet-01/v1.0.0/source.blend",
+      "size": 709172,
+      "sha256": "0902768f30d97dd26803602d3fe255df61850a26015d9eaaf4625836845f31e3"
+    },
+    "generator": {
+      "path": "assets/arcade/arcade-fixed-open-inspection-claw-cabinet-01/v1.0.0/generate.py",
+      "size": 11106,
+      "sha256": "ddc1e4aacb6a4ac061010e22581a72ed2bc2dd5b16ca99f3487a6d862de2fb9d"
+    },
+    "render": {
+      "path": "assets/arcade/arcade-fixed-open-inspection-claw-cabinet-01/v1.0.0/thumbnail.png",
+      "size": 499740,
+      "sha256": "60249aaa3ee84ff872003e157e4aa936e1c80430e451c0f163c981428be9e854"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

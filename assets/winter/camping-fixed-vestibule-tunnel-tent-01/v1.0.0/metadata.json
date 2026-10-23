@@ -1,0 +1,42 @@
+{
+  "id": "camping-fixed-vestibule-tunnel-tent-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "camping",
+  "style": "source-preserved-low-poly",
+  "title": "Long Tunnel Tent with Reduced Vestibule",
+  "description": "One complete static longitudinal tunnel camping tent with an integral closed floor and rear, a reduced-height forward vestibule transitioning into a taller deep sleeping cavity, and a genuinely open front entry with finite fabric returns and raised sill. Three complete parallel noncrossing hoop supports follow the enclosure; the newly authored full enclosure and vestibule topology are not an enlarged crossing-pole dome or a playground through-tunnel with extra poles. One whole model, zero scenes. No people, equipment, detached stakes or old geometry. Static game-art appearance only: no occupancy, wearable fit, pitching, deployment, weatherproofing, ventilation, insulation, load or camping safety claims.",
+  "bounds": {
+    "x": 1.9359999895095825,
+    "y": 3.5,
+    "z": 1.3880000114440918,
+    "unit": "m"
+  },
+  "triangles": 944,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/winter/camping-fixed-vestibule-tunnel-tent-01/v1.0.0/model.glb",
+      "size": 83952,
+      "sha256": "911fe4b7a3a8cabff8074d1658173b38b59e3a4ef9c3891e9e7f41315de861ef"
+    },
+    "blend": {
+      "path": "assets/winter/camping-fixed-vestibule-tunnel-tent-01/v1.0.0/source.blend",
+      "size": 657280,
+      "sha256": "1e03fdf44d9c2a72c8e1b7c7638242d948b8c2ab317e70083246d7e248e80ac5"
+    },
+    "generator": {
+      "path": "assets/winter/camping-fixed-vestibule-tunnel-tent-01/v1.0.0/generate.py",
+      "size": 14095,
+      "sha256": "07a360dfc5e7933d2d06abcd7dd24568887fc96a0bd1dafc52a78d9d4a315be4"
+    },
+    "render": {
+      "path": "assets/winter/camping-fixed-vestibule-tunnel-tent-01/v1.0.0/thumbnail.png",
+      "size": 509226,
+      "sha256": "a55148e5f1cab8ee76a312249a6ccad7a3df164fba9a82502722743b0d9a8964"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

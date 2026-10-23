@@ -1,0 +1,42 @@
+{
+  "id": "carpentry-static-cord-toggle-wooden-frame-saw-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "carpentry",
+  "style": "S01-clean-geometric",
+  "title": "Static Cord Toggle Wooden Frame Saw",
+  "description": "One newly authored complete static wooden bow-frame saw in a laid-down display pose. Two whole waisted timber stiles are joined at their middles by a full stretcher; a complete straight closed zigzag-toothed blade spans the lower ends with separate end pins and two timber grips. Two fixed upper cord strands and one retained toggle stick complete the whole open-frame silhouette, leaving genuine open bays above and below the stretcher. No old broad handsaw blade/grip or powered band-saw wheel loop is cropped, scaled or recoloured. All new editable geometry, three solid opaque PBR materials, metres and complete bounds-centred ground origin; one prop and zero scenes. Fixed static appearance only: no cutting interaction, tension adjustment, cord winding path, blade standard, frame flexure, tool performance, manufacture, joint strength or safety claim. Cord ends and fixed blade attachments intentionally meet the timber as visual joins, not mechanical tolerance certification.",
+  "bounds": {
+    "x": 0.91,
+    "y": 0.712,
+    "z": 0.073,
+    "unit": "m"
+  },
+  "triangles": 632,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/carpentry/carpentry-static-cord-toggle-wooden-frame-saw-01/v1.0.0/model.glb",
+      "size": 39604,
+      "sha256": "53dcb9d9e846a7740942730eba563484acf716465850f3d8af38cbe066de493d"
+    },
+    "blend": {
+      "path": "assets/carpentry/carpentry-static-cord-toggle-wooden-frame-saw-01/v1.0.0/source.blend",
+      "size": 601936,
+      "sha256": "7180ab636c2c2efdab09548cb327a5ed928c96d7556804c546f45d05856c3474"
+    },
+    "generator": {
+      "path": "assets/carpentry/carpentry-static-cord-toggle-wooden-frame-saw-01/v1.0.0/generate.py",
+      "size": 10233,
+      "sha256": "6b56397dd09b2c1dc10c9da30fd72f0bac4a330f2151c8c2285896a3bd2b8857"
+    },
+    "render": {
+      "path": "assets/carpentry/carpentry-static-cord-toggle-wooden-frame-saw-01/v1.0.0/thumbnail.png",
+      "size": 413523,
+      "sha256": "e57dd054f2bca32426490b097b2b8645789cbdd71edf89ae8750c8fcffd26020"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

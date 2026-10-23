@@ -1,0 +1,42 @@
+{
+  "id": "carpentry-static-twin-screw-wooden-hand-clamp-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "carpentry",
+  "style": "S01-clean-geometric",
+  "title": "Static Twin Screw Wooden Hand Clamp",
+  "description": "One newly authored complete static wooden handscrew clamp in a fixed laid-down open pose. Two full elongated timber jaws each have two actual through pockets with complete captured square-to-round bushings. Two parallel steel spindles have separate opposite-side timber grips and continuous fixed visual helical ridges; an empty front gripping bay extends beyond the front spindle. This whole double-spindle wood-jaw apparatus has no long steel guide bar, sliding F-jaw or table-edge C mount, and does not reuse or recolour the old F clamp or bench vise. Twelve separately editable closed meshes, three opaque solid PBR materials, metres, native Z-up and full horizontal bounds-centred ground origin. One prop, zero scenes. Fixed visual only: no stock, bench interface, working threads, jaw adjustment, clamping force, machining, fit standard, durability, load or safety claim. Bushes and shaft ridges intentionally fixed, not a real bearing/thread tolerance proof.",
+  "bounds": {
+    "x": 0.7,
+    "y": 0.68,
+    "z": 0.08,
+    "unit": "m"
+  },
+  "triangles": 1968,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/carpentry/carpentry-static-twin-screw-wooden-hand-clamp-01/v1.0.0/model.glb",
+      "size": 118160,
+      "sha256": "b26bc7d499fb0a14aa580673b03200838aa5aa8cbb08ae1b684d1519f6a9e1b8"
+    },
+    "blend": {
+      "path": "assets/carpentry/carpentry-static-twin-screw-wooden-hand-clamp-01/v1.0.0/source.blend",
+      "size": 678484,
+      "sha256": "91df75c98c007d6843f642b451ff3ad1a2a1aaa2e05cbaee8f7f3e0e5bb3abd6"
+    },
+    "generator": {
+      "path": "assets/carpentry/carpentry-static-twin-screw-wooden-hand-clamp-01/v1.0.0/generate.py",
+      "size": 11082,
+      "sha256": "45c30b65d571982b8cccf043acce4152244f1721692c81686dd4d37e040cc9c2"
+    },
+    "render": {
+      "path": "assets/carpentry/carpentry-static-twin-screw-wooden-hand-clamp-01/v1.0.0/thumbnail.png",
+      "size": 411377,
+      "sha256": "e05a066baa6cc29257305c8cd73fb316c5ce490f3c41ee50006754b59901e880"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

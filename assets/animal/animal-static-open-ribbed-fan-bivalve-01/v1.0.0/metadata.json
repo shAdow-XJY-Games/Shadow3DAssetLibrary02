@@ -1,0 +1,42 @@
+{
+  "id": "animal-static-open-ribbed-fan-bivalve-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "animal",
+  "style": "S01-clean-geometric",
+  "title": "Static Open Ribbed Fan Bivalve",
+  "description": "One newly authored whole stylised open fan-shell bivalve-like exterior. Two thick rounded fan valves widen from broad short rear hinge roots into scalloped front margins. Each has a genuine concave inner surface, a complete finite rim and actual integral radial exterior rib relief. The upper valve is held raised in one fixed open presentation, leaving real open space over the lower cavity. One broad thin mantle-like volume follows the lower bowl floor and forms a thicker rear root engaging both valves; no pearl or unrelated content. All shell grids, rib geometry and soft-body coordinates are new, not a castanet recolour, snail-shell extraction, spiral fossil, hinged luggage case or simple bowl pair. Generic mesh/export/render tools only are reused. Three closed editable meshes and three opaque matte untextured PBR materials, counted as one complete prop and zero scenes. Metres, native Z up, front opening -Y and whole horizontal bounds-centred ground origin. Static stylised art only: no exact species identification, scientific biological or organ anatomy, edible food, shell opening motion, muscle or hinge function, filtration, regeneration, marine ecology, rig, animation, welfare, handling or animal-safety claim.",
+  "bounds": {
+    "x": 0.6072,
+    "y": 0.366442,
+    "z": 0.351645,
+    "unit": "m"
+  },
+  "triangles": 2840,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/animal/animal-static-open-ribbed-fan-bivalve-01/v1.0.0/model.glb",
+      "size": 204828,
+      "sha256": "2dd7b6ec1aa3d87a9151fb99b96ba0ef16365dfb85e4b400be5db5ffbd649163"
+    },
+    "blend": {
+      "path": "assets/animal/animal-static-open-ribbed-fan-bivalve-01/v1.0.0/source.blend",
+      "size": 661156,
+      "sha256": "fcb5cf877c74b50fe621c392d04fff8013cd4e72d5444f3691b55db5dc910cff"
+    },
+    "generator": {
+      "path": "assets/animal/animal-static-open-ribbed-fan-bivalve-01/v1.0.0/generate.py",
+      "size": 23222,
+      "sha256": "5ea5eb87d5132e509c3c96263519fe6d4acdd4a4f0dff9ba3a9bf50fa28b270b"
+    },
+    "render": {
+      "path": "assets/animal/animal-static-open-ribbed-fan-bivalve-01/v1.0.0/thumbnail.png",
+      "size": 517349,
+      "sha256": "14839a9470c69dd0acd1b48fbb50d298ea7a6ed3b5b462fc009fad3425e87f17"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

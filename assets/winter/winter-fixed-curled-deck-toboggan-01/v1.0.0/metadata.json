@@ -1,0 +1,42 @@
+{
+  "id": "winter-fixed-curled-deck-toboggan-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "winter",
+  "style": "source-preserved-low-poly",
+  "title": "Continuous Curled-Deck Toboggan",
+  "description": "One complete original fixed curled-deck toboggan: a broad continuous thick wooden sliding sheet is flat underneath through its long rear deck and curls upward and back through a half-turn at the nose. Three inset transverse reinforcing battens and two continuous side cords join the curled nose to the deck. No separate runners, raised seat, riser legs or ski bindings. One whole static winter prop, not a resized old runner sled or snow scoop. No person, snow, animation, pulling performance, load, sliding behavior, ergonomics or sports-safety claim.",
+  "bounds": {
+    "x": 0.5699999928474426,
+    "y": 1.593999981880188,
+    "z": 0.4880000054836273,
+    "unit": "m"
+  },
+  "triangles": 408,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/winter/winter-fixed-curled-deck-toboggan-01/v1.0.0/model.glb",
+      "size": 39792,
+      "sha256": "8842df8c17b70d2ddb0488cc8158d0ea32ea883b9c47b7eaf3203309971f20b8"
+    },
+    "blend": {
+      "path": "assets/winter/winter-fixed-curled-deck-toboggan-01/v1.0.0/source.blend",
+      "size": 606640,
+      "sha256": "ed52b5aaab37fdb6ef6d803dc48154d2a375aa17efae40a9419527bc90143223"
+    },
+    "generator": {
+      "path": "assets/winter/winter-fixed-curled-deck-toboggan-01/v1.0.0/generate.py",
+      "size": 13614,
+      "sha256": "3629748929eb20d261528ecc1d6e4210304b35ba2842e4cb54f0c69870595e64"
+    },
+    "render": {
+      "path": "assets/winter/winter-fixed-curled-deck-toboggan-01/v1.0.0/thumbnail.png",
+      "size": 489628,
+      "sha256": "270d5a9d1ad9b70aaf0e05e64e7425d2043900415ed14b2556382e0bccf01d11"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

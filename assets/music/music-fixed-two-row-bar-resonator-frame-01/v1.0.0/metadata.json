@@ -1,0 +1,42 @@
+{
+  "id": "music-fixed-two-row-bar-resonator-frame-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "music",
+  "style": "source-preserved-low-poly",
+  "title": "Fixed Two-Row Bar and Resonator Frame",
+  "description": "One original complete fixed two-row wooden-bar percussion frame with individually separated length-graded bars, shallow arched bar undersides, four longitudinal support cords, separate open-top closed-bottom resonator-style pipes, two pipe support rails and four grounded legs. Staggered raised rear row and open pipe bank differ from a keyboard case or membrane drum. Entire new geometry. Static musical instrument exterior only; no calibrated note sequence, tuning, acoustic performance, vibration, playable suspension, manufacture, loading or structural safety claim.",
+  "bounds": {
+    "x": 1.659999966621399,
+    "y": 0.8799999952316284,
+    "z": 1.1100000143051147,
+    "unit": "m"
+  },
+  "triangles": 5240,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/music/music-fixed-two-row-bar-resonator-frame-01/v1.0.0/model.glb",
+      "size": 487764,
+      "sha256": "9a712f63cc577adf32ccad655d7e70b099a9387239d81acbe5f4803b3887f7e9"
+    },
+    "blend": {
+      "path": "assets/music/music-fixed-two-row-bar-resonator-frame-01/v1.0.0/source.blend",
+      "size": 1462624,
+      "sha256": "4b35910b52e5c76abfc81459ddbe1cc039900ad159430a7c89f3b08ddb0f0e15"
+    },
+    "generator": {
+      "path": "assets/music/music-fixed-two-row-bar-resonator-frame-01/v1.0.0/generate.py",
+      "size": 13405,
+      "sha256": "71f4da17584f3ccea9800a751b5e09739e0371d269b5125a752991956cdcb733"
+    },
+    "render": {
+      "path": "assets/music/music-fixed-two-row-bar-resonator-frame-01/v1.0.0/thumbnail.png",
+      "size": 590722,
+      "sha256": "2cc99cbff68bc1fe3d7bc06adf8eedccec81de05f78b302ab37a8c5557da85b6"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

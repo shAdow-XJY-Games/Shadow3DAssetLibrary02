@@ -1,0 +1,42 @@
+{
+  "id": "education-globe-and-solid-demonstration-corner-scene-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "education",
+  "style": "source-preserved-low-poly",
+  "title": "Globe and Solid Demonstration Corner",
+  "description": "One static education science-demonstration corner, one scene and zero new independent models. Two complete original open worktables form separated, staggered demonstration bays: one supports the complete recessed geometric solid matching kit with all three original solids, the other supports the intact axis globe. Full old GLB buffers, internal node transforms, materials and face assignments are preserved at unit scale with translations only. One connected scene-only floor and cutaway corner walls define a shared empty front observation area. Distinct from the existing abacus/blackboard learning corner and four-row-desk classroom. No geographical accuracy, educational outcomes, age suitability, ergonomics, accessibility, stability, operation, load or safety certification.",
+  "bounds": {
+    "x": 3.299999952316284,
+    "y": 2.200000047683716,
+    "z": 1.75,
+    "unit": "m"
+  },
+  "triangles": 8870,
+  "materials": 15,
+  "files": {
+    "glb": {
+      "path": "assets/education/education-globe-and-solid-demonstration-corner-scene-01/v1.0.0/model.glb",
+      "size": 507976,
+      "sha256": "2f436c348a5df4ae49f3b608735f083e3ea506b275ac25e0701b675de7b2c9d4"
+    },
+    "blend": {
+      "path": "assets/education/education-globe-and-solid-demonstration-corner-scene-01/v1.0.0/source.blend",
+      "size": 298276,
+      "sha256": "c798b4813fba8e57548adceec904be7b1a09bd6d00637dadcafe191596294a3f"
+    },
+    "generator": {
+      "path": "assets/education/education-globe-and-solid-demonstration-corner-scene-01/v1.0.0/generate.py",
+      "size": 168759,
+      "sha256": "16c750de683dcc97b13f691a68790dd014683ed4fddb804d5983e5aa0b992add"
+    },
+    "render": {
+      "path": "assets/education/education-globe-and-solid-demonstration-corner-scene-01/v1.0.0/thumbnail.png",
+      "size": 531997,
+      "sha256": "2b9397d10b307bc50c887f5a780f072909f166e6aa6936a69e461d976205c3d4"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

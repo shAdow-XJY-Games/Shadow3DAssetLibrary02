@@ -1,0 +1,42 @@
+{
+  "id": "classical-continuous-radial-tier-cavea-01",
+  "version": "1.0.0",
+  "category": "modular",
+  "assetKind": "modular",
+  "theme": "classical",
+  "style": "warm-handcrafted-village",
+  "title": "Continuous Radial-Tier Stone Cavea",
+  "description": "One original complete static classical seating-terrace module. Four broad concentric semicircular stone seating ledges rise away from an open inner semicircle; one central radial aisle interrupts every ledge with twelve smaller continuous treads. The whole stepped surface, all risers, outer retaining wall, two exposed section ends and broad ground underside are one connected closed mesh, not overlapping wedges or a curved old open-frame bleacher. New radial versus circumferential circulation is defined by the actual two different elevation fields joined in the same boundary. No borrowed model, separate bench boards, roof, railing, stage, audience or ornamental labels. One modular asset and zero scenes. Static game appearance only; not an actual historical reconstruction, capacity, ergonomic fit, navigation, accessibility, bearing or public-safety design. Metres, Z up, true horizontal bounds-centred ground origin.",
+  "bounds": {
+    "x": 8.399999619,
+    "y": 4.199999809,
+    "z": 1.679999948,
+    "unit": "m"
+  },
+  "triangles": 2712,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/classical/classical-continuous-radial-tier-cavea-01/v1.0.0/model.glb",
+      "size": 79700,
+      "sha256": "bfd101d4be77f680802d1e1d3ffff9e557949ac70b5a08efd4dad45fca401e1d"
+    },
+    "blend": {
+      "path": "assets/classical/classical-continuous-radial-tier-cavea-01/v1.0.0/source.blend",
+      "size": 596240,
+      "sha256": "71aca6bc5bf574c704333e842a09c4a73f988e4e14d185e63e9474e98bf3ffc9"
+    },
+    "generator": {
+      "path": "assets/classical/classical-continuous-radial-tier-cavea-01/v1.0.0/generate.py",
+      "size": 26531,
+      "sha256": "6870cf764241a7129d8085ca953a720c3f4ba6f59c94a6f619a965e12b9ec7d4"
+    },
+    "render": {
+      "path": "assets/classical/classical-continuous-radial-tier-cavea-01/v1.0.0/thumbnail.png",
+      "size": 504511,
+      "sha256": "d56d5fdc63f4f2717976ec603e312e5d711c14c8b89e6176038aabf19ea0bd74"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "classical-whole-three-aperture-carved-theatre-mask-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "classical",
+  "style": "warm-handcrafted-village",
+  "title": "Whole Carved Three-Aperture Theatre Mask",
+  "description": "One newly authored whole low-poly carved theatrical-mask display for the original classical simplified-sculpture direction. A rounded taper-chin face shell has a shaped forehead, integral raised nose and cheek/brow surfaces, two actual empty eye apertures and a larger actual open mouth. The continuous rear surface follows the same carved form at finite thickness; every eye and mouth boundary has complete real wall reveals. One closed connected mesh includes the whole sculpture and a small finite lower-chin sole. No old character head extracted, body removed, detachable face pieces, printed black holes, reused diving helmet, straps, glass, teeth, pedestal or background. One prop and zero scenes. An anonymous original static game sculpture: not a historical theatre-mask replica, real-person likeness, wearable device, breathing or vision performance, protective equipment, installation, stability or safety claim. Metres, Z up, horizontally bounds-centred.",
+  "bounds": {
+    "x": 0.598448515,
+    "y": 0.264561921,
+    "z": 0.959999979,
+    "unit": "m"
+  },
+  "triangles": 3620,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/classical/classical-whole-three-aperture-carved-theatre-mask-01/v1.0.0/model.glb",
+      "size": 198636,
+      "sha256": "e543d52c357ba698436a7f9466cfd81d7d2b0500ccc986767629125cf397fe0d"
+    },
+    "blend": {
+      "path": "assets/classical/classical-whole-three-aperture-carved-theatre-mask-01/v1.0.0/source.blend",
+      "size": 629276,
+      "sha256": "700d4a4d30c7fcceeec0c43f1157776c40c2b9858142e7a9988cfedeca5a18b1"
+    },
+    "generator": {
+      "path": "assets/classical/classical-whole-three-aperture-carved-theatre-mask-01/v1.0.0/generate.py",
+      "size": 27958,
+      "sha256": "9e6b02c2a2a3e9a83c43a7ecae56346ad27d8bd7aae42b488b16f5bf2d4bec76"
+    },
+    "render": {
+      "path": "assets/classical/classical-whole-three-aperture-carved-theatre-mask-01/v1.0.0/thumbnail.png",
+      "size": 478893,
+      "sha256": "3a5c8952c5cb080af623e4e990d6d886c3f882a2e1c2ee52056fbb84c7c138a5"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "winter-fixed-laced-frame-snowshoe-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "winter",
+  "style": "source-preserved-low-poly",
+  "title": "Fixed Laced-Frame Snowshoe",
+  "description": "One original complete fixed laced-frame snowshoe appearance: a broad closed oval frame with a raised nose and flat lower frame sections, separate crossing web strips, forward lacing, a narrow central shoe-cradle plate with side rails and two genuinely open arched fixed straps. No racket handle or throat, no ski board, no boot or paired duplicate. New whole geometry. Crossing strips are fixed visual material, not simulated woven tension. No wearable size, boot compatibility, walking, snow pressure, flotation, traction, binding release, cold protection, loading, manufacturing or safety claim.",
+  "bounds": {
+    "x": 0.28999999165534973,
+    "y": 0.7200000286102295,
+    "z": 0.10300000011920929,
+    "unit": "m"
+  },
+  "triangles": 1244,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/winter/winter-fixed-laced-frame-snowshoe-01/v1.0.0/model.glb",
+      "size": 128248,
+      "sha256": "5f9668052026f16fc66f7df16ace25235f88ab0727bac7f5674928eb2c14cffe"
+    },
+    "blend": {
+      "path": "assets/winter/winter-fixed-laced-frame-snowshoe-01/v1.0.0/source.blend",
+      "size": 855136,
+      "sha256": "5254b3f53cf5e0b24b357ea0edb8209b54a5770be96a64d9236ecf289db6e02e"
+    },
+    "generator": {
+      "path": "assets/winter/winter-fixed-laced-frame-snowshoe-01/v1.0.0/generate.py",
+      "size": 13627,
+      "sha256": "0a82fd3c389fabc31adc070ee49a6707377018b5b651813a1d95fe1dfd9aa57c"
+    },
+    "render": {
+      "path": "assets/winter/winter-fixed-laced-frame-snowshoe-01/v1.0.0/thumbnail.png",
+      "size": 588478,
+      "sha256": "d940f263c4ac6003f745845d4b693dbdd7f3a8ff94954acb53821a5eed8cebb9"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

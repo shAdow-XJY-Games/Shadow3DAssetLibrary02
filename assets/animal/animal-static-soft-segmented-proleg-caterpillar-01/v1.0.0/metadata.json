@@ -1,0 +1,42 @@
+{
+  "id": "animal-static-soft-segmented-proleg-caterpillar-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "animal",
+  "style": "S01-clean-geometric",
+  "title": "Static Soft-Segmented Proleg Caterpillar",
+  "description": "One newly authored complete stylised caterpillar-like juvenile exterior. A short rounded head joins one continuous gently bent and low-arched soft thorax-abdomen with real shallow segment waists and a tapered rear. Three pairs of small angled thoracic legs contrast with four grouped pairs of broad fleshy abdominal prolegs and one separated terminal pair, each with actual finite ground soles. Two small dark side eyes are seated in the head. The body is one shared-vertex closed surface, not intersecting beads, an adult beetle without wing covers, a snake with added legs, a tadpole without its fin or a millipede leg-count variant. Every profile, station and appendage newly authored; generic mesh orientation and mature export tools reused. One whole prop, zero scenes or extra growth stages. Metres, Z up, presentation front -Y and head -X; whole horizontal bounds centred. Opaque matte untextured PBR materials. Intentional embedded separate head/limb roots are a fixed art assembly, not a welded biological shell. Artistic exterior only: no species, scale, developmental accuracy, scientific specimen, internal anatomy, breathing, digestion, gripping, gait, growth, pupation, animation, animal welfare or handling-safety claim.",
+  "bounds": {
+    "x": 2.625,
+    "y": 0.53359,
+    "z": 0.458148,
+    "unit": "m"
+  },
+  "triangles": 2616,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/animal/animal-static-soft-segmented-proleg-caterpillar-01/v1.0.0/model.glb",
+      "size": 174612,
+      "sha256": "15470af7bd7b1c152c004df5e3c24dc7040c9d4b2481272a0ab174d86178c631"
+    },
+    "blend": {
+      "path": "assets/animal/animal-static-soft-segmented-proleg-caterpillar-01/v1.0.0/source.blend",
+      "size": 760828,
+      "sha256": "aa98864de312ec8c9e722c8756ff263d6f8c82757344ffd72a5639628ef1536e"
+    },
+    "generator": {
+      "path": "assets/animal/animal-static-soft-segmented-proleg-caterpillar-01/v1.0.0/generate.py",
+      "size": 24530,
+      "sha256": "cc2f389b8983a6ec5acd3dac4ce796b2f41ac1267763e0588ecc8bd0c43e50bd"
+    },
+    "render": {
+      "path": "assets/animal/animal-static-soft-segmented-proleg-caterpillar-01/v1.0.0/thumbnail.png",
+      "size": 485792,
+      "sha256": "e7f4c311358717e25738bc0bdc93ccdb5175d23de47c70a21566211c313807ca"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

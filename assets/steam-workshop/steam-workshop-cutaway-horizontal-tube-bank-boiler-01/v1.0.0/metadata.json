@@ -1,0 +1,42 @@
+{
+  "id": "steam-workshop-cutaway-horizontal-tube-bank-boiler-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "steam-workshop",
+  "style": "S01-clean-geometric",
+  "title": "Cutaway Horizontal Tube-Bank Boiler Display",
+  "description": "One complete newly authored static cutaway horizontal tube-bank boiler appearance. A genuinely thick C-section barrel omits one full upper quadrant so its inner wall and six complete hollow longitudinal tubes can be seen. Two connected solid rectangular tube plates each have six real square through-ports surrounding the circular tubes; tube bores remain clear of these plates. A whole front annular service rim and closed rear head frame the assembly, with two complete curved saddle blocks on finite ground pads and a blind open-top rear flue exterior. This is not the old closed vertical firebox boiler rotated or rescaled, and not a cutaway piston cylinder with another rod: the twin plates, longitudinal tube bank, open quadrant and two saddle architecture are all newly defined. Four constant opaque PBR materials; separate closed editable bodies with intentional fixed embedded joins, metres/native Z up/actual horizontal bounds-centred ground origin. One illustrative display model, zero scenes. No real boiler construction specification, functional combustion, steam, pressure containment, connected fluid circuits, thermodynamics, repair, load, manufacture, motion or equipment safety claim. The rear head closes the display; this is not a functioning through-flow appliance.",
+  "bounds": {
+    "x": 1.15,
+    "y": 2.0725,
+    "z": 1.99,
+    "unit": "m"
+  },
+  "triangles": 2532,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/steam-workshop/steam-workshop-cutaway-horizontal-tube-bank-boiler-01/v1.0.0/model.glb",
+      "size": 110528,
+      "sha256": "795ab7497fa2f22fba20474f1bf4bb4e74e89753f5a7097047a63242d4a4953e"
+    },
+    "blend": {
+      "path": "assets/steam-workshop/steam-workshop-cutaway-horizontal-tube-bank-boiler-01/v1.0.0/source.blend",
+      "size": 764460,
+      "sha256": "8787ef2dbcba63e826bc1f7daace40112bafc1df84ba4cebc8544ba84fc01a49"
+    },
+    "generator": {
+      "path": "assets/steam-workshop/steam-workshop-cutaway-horizontal-tube-bank-boiler-01/v1.0.0/generate.py",
+      "size": 12663,
+      "sha256": "c0e911ee3f73e4ccbc3bb991a1ce97a97aa3891754ac5df2046d21c79a735756"
+    },
+    "render": {
+      "path": "assets/steam-workshop/steam-workshop-cutaway-horizontal-tube-bank-boiler-01/v1.0.0/thumbnail.png",
+      "size": 543412,
+      "sha256": "1707f046c4708d3cc47bb233bb4a7932b81d606e347d76afe8645ba93b733fde"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

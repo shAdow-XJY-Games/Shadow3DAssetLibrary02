@@ -1,0 +1,42 @@
+{
+  "id": "astronomy-fixed-truss-reflector-rocker-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "astronomy",
+  "style": "source-preserved-low-poly",
+  "title": "Fixed Open-Truss Reflector and Rocker",
+  "description": "One newly authored complete fixed open-truss reflector-style telescope display. A closed-back square mirror box opens into eight long exposed diagonal truss rods and a short hollow front cage carrying four thin spider members, a small diagonal secondary-style disc and a side eyepiece tube. Two large side bearing discs seat into matching concave rocker cheeks on a broad circular ground base. The main body has a genuinely open long span, not the old closed-cylinder tripod telescope recolored or resized; the complete ground-rocker support differs from the counterweighted equatorial stand. All parts form one fixed whole prop. Intentional finite overlaps fix static joints; no rotation range, balancing, optical prescription, focus, tracking, alignment, telescope compatibility, historical accuracy, engineering or safety claim.",
+  "bounds": {
+    "x": 0.9800000190734863,
+    "y": 1.303581714630127,
+    "z": 1.6848453283309937,
+    "unit": "m"
+  },
+  "triangles": 3048,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/astronomy/astronomy-fixed-truss-reflector-rocker-01/v1.0.0/model.glb",
+      "size": 275124,
+      "sha256": "de50bebf2512b1608a816ed0ba62865cee8836147bfceb56b63c4d0a17ea241c"
+    },
+    "blend": {
+      "path": "assets/astronomy/astronomy-fixed-truss-reflector-rocker-01/v1.0.0/source.blend",
+      "size": 1010144,
+      "sha256": "36aee9b9ab639d1553f14d6810559c30f6c542bfe7352ff06e06c5d8d6da1c1b"
+    },
+    "generator": {
+      "path": "assets/astronomy/astronomy-fixed-truss-reflector-rocker-01/v1.0.0/generate.py",
+      "size": 14784,
+      "sha256": "d6c6dcbeb2b5b937c058a293524eed13b34040e56e8aa41f3739804f2a909a56"
+    },
+    "render": {
+      "path": "assets/astronomy/astronomy-fixed-truss-reflector-rocker-01/v1.0.0/thumbnail.png",
+      "size": 550505,
+      "sha256": "9b68b820a7073530e7c137e3003fcac968ecfe9f76f6ef5ab0f818614762fa87"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
