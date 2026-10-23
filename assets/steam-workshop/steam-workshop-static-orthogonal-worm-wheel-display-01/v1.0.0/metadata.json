@@ -1,0 +1,42 @@
+{
+  "id": "steam-workshop-static-orthogonal-worm-wheel-display-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "steam-workshop",
+  "style": "S01-clean-geometric",
+  "title": "Static Orthogonal Worm and Wheel Display",
+  "description": "One newly authored static orthogonal screw-and-toothed-wheel display for the original steam-workshop transmission-appearance direction. A grounded full base carries four whole bored bearing pedestals, two perpendicular horizontal shafts, one complete three-turn thick helical worm flight and one full bored oblique-tooth wheel, plus four fixed shaft stops. The elevated screw axis crosses above the upright wheel with a deliberate minimum20mm envelope display gap; the pair is not claimed to mesh or transmit motion. This is a whole new opposed-axis apparatus, not the old parallel-shaft spur-gear kit with changed tooth counts and not a detached soil-auger flight renamed. All geometry is new and independently editable; three opaque constant PBR materials. One model, zero scenes, metres and horizontal bounds-centred ground origin. Static illustrative display only: no conjugate tooth profile, real worm drive, speed ratio, motion range, bearing function, engineering accuracy, manufacturing, installation, power, load or safety claim. Small fixed collar/flight-to-shaft assembly overlaps are intentional visual joins, not mechanical tolerance proof.",
+  "bounds": {
+    "x": 2.2,
+    "y": 1.9,
+    "z": 1.69,
+    "unit": "m"
+  },
+  "triangles": 3344,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/steam-workshop/steam-workshop-static-orthogonal-worm-wheel-display-01/v1.0.0/model.glb",
+      "size": 166440,
+      "sha256": "e4054a776993cc993a1fe69a040cb4740b0a9ffb38b312ce5bc489fb5f306e62"
+    },
+    "blend": {
+      "path": "assets/steam-workshop/steam-workshop-static-orthogonal-worm-wheel-display-01/v1.0.0/source.blend",
+      "size": 757372,
+      "sha256": "66f13467177a51bf84665b625bcd74c0bbc6b0437295789932004f0f4ba81680"
+    },
+    "generator": {
+      "path": "assets/steam-workshop/steam-workshop-static-orthogonal-worm-wheel-display-01/v1.0.0/generate.py",
+      "size": 11583,
+      "sha256": "279229cba7736979815d9f948cc2f83275438ca27783997a0517eb0bd53d90e0"
+    },
+    "render": {
+      "path": "assets/steam-workshop/steam-workshop-static-orthogonal-worm-wheel-display-01/v1.0.0/thumbnail.png",
+      "size": 435692,
+      "sha256": "6dbb0b2a0e565a6a3774eb62ad3e2659dc55f7bfd8280823f139856afb1c9b20"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
