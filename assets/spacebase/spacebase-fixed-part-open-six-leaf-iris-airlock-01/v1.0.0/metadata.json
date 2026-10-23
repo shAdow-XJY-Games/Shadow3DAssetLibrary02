@@ -1,0 +1,42 @@
+{
+  "id": "spacebase-fixed-part-open-six-leaf-iris-airlock-01",
+  "version": "1.0.0",
+  "category": "architecture",
+  "assetKind": "modular",
+  "theme": "spacebase",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Part-Open Six-Leaf Iris Airlock",
+  "description": "One newly authored complete static architectural iris-airlock-style module for the original spacebase airlock direction. A thick circular frame has a stepped front lip, deep open throat and continuous flattened ground sole. Six complete curved thick leaves overlap in front projection in separate finite depth layers, leaving a real central through-opening; each broad outer root engages the frame. A whole chamfered side housing and fixed front boss supply drive-appearance detail. All whole leaf outlines, circular frame/ground profile and side housing coordinates are new, not an enlarged camera lens, a round recolour of the older rectangular swing hatch, a changed pose of the solid split-panel bulkhead or a fan extracted from another asset. Nine closed editable meshes, four opaque constant untextured PBR roles, metres, native Z up, front -Y and actual horizontal bounds-centred ground origin. One modular asset, zero props and zero scenes. The leaves are intentionally fixed in different axial layers: no complete cyclic over-under motion, opening range, sealing contact or linkage design is claimed. No airlock chamber, corridor, host wall, occupant or previous-module compatibility. Static game-art exterior only: no pressure containment, airtightness, decompression, working motor, aperture actuation, emergency egress, human clearance, optical iris, structural load, spaceflight readiness, manufacture, engineering or mechanical safety claim.",
+  "bounds": {
+    "x": 3.336831,
+    "y": 0.66,
+    "z": 2.936831,
+    "unit": "m"
+  },
+  "triangles": 1204,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/spacebase/spacebase-fixed-part-open-six-leaf-iris-airlock-01/v1.0.0/model.glb",
+      "size": 71596,
+      "sha256": "a76e45a704fa1f29ea01f8eb8df5c45608bdd2cb4a0ee42c3404913c65fadcbd"
+    },
+    "blend": {
+      "path": "assets/spacebase/spacebase-fixed-part-open-six-leaf-iris-airlock-01/v1.0.0/source.blend",
+      "size": 628252,
+      "sha256": "cbf962816bba156bef4d7126227100269bb3206af2cf9a8397cb58287d4098b6"
+    },
+    "generator": {
+      "path": "assets/spacebase/spacebase-fixed-part-open-six-leaf-iris-airlock-01/v1.0.0/generate.py",
+      "size": 23686,
+      "sha256": "46bc456cb3d8253c116e10ad5dbe218172a834347b8759f6f7c325cdeb925447"
+    },
+    "render": {
+      "path": "assets/spacebase/spacebase-fixed-part-open-six-leaf-iris-airlock-01/v1.0.0/thumbnail.png",
+      "size": 511443,
+      "sha256": "a80fb11be6006deeaacbeea4c412fd977a6258566e855ff2d2abea2cbcda4c06"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
