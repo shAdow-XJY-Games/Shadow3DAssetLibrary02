@@ -1,0 +1,42 @@
+{
+  "id": "interior-fixed-zigzag-louver-folding-screen-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "interior",
+  "style": "source-preserved-low-poly",
+  "title": "Fixed Zigzag Louver Folding Screen",
+  "description": "One original complete floor-standing three-leaf louver screen in one fixed zigzag pose. Three whole deep frames include their own full-height side stiles with finite low feet, top and lower crossrails. Nineteen complete inclined horizontal blades fill each frame with true narrow gaps. Two shared vertical hinge axes with full barrels and opposed leaf straps connect all three frames without a wall casing, overhead guide or separate wide stabilizer feet. All geometry newly authored, not three old freestanding lattice dividers placed together or a mounted bifold door with its frame removed. Three opaque constant PBR roles, no cloth, room or textures. One prop, zero scenes or additional poses. Static appearance only: not a complete privacy barrier because gaps remain; no working fold, hinge travel, stability, load, installation or safety certification.",
+  "bounds": {
+    "x": 1.507475733757019,
+    "y": 0.2739991545677185,
+    "z": 1.649999976158142,
+    "unit": "m"
+  },
+  "triangles": 1548,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/interior/interior-fixed-zigzag-louver-folding-screen-01/v1.0.0/model.glb",
+      "size": 193236,
+      "sha256": "5446a69916a33016f2ea6716e84207b33b8dbc6ebf2916ba34b894390cb15ce7"
+    },
+    "blend": {
+      "path": "assets/interior/interior-fixed-zigzag-louver-folding-screen-01/v1.0.0/source.blend",
+      "size": 1082400,
+      "sha256": "7021085bba22ea17cb3e29f90dc42fed481779b70fba8d96fd6096f189294f90"
+    },
+    "generator": {
+      "path": "assets/interior/interior-fixed-zigzag-louver-folding-screen-01/v1.0.0/generate.py",
+      "size": 14404,
+      "sha256": "bd0147f2fa7ab04f529c1d0c145c6f8df8579eb97b520d9a14cfc7ebb05cd2ed"
+    },
+    "render": {
+      "path": "assets/interior/interior-fixed-zigzag-louver-folding-screen-01/v1.0.0/thumbnail.png",
+      "size": 587248,
+      "sha256": "7fba7b5dbf69e2512ab058a0b809a9164a27806f2cbcd407acc3c9aa58173dfe"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
