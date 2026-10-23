@@ -1,0 +1,42 @@
+{
+  "id": "ruins-opposed-wall-timber-flying-shore-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "ruins",
+  "style": "S01-clean-geometric",
+  "title": "Opposed-Wall Timber Flying Shore",
+  "description": "One newly authored complete static opposed-wall timber flying-shore appearance for the original ruins/repair temporary-support direction. Two broad vertical wall-bearing plates face each other across an open span. A full horizontal elevated strut connects their inner faces; four whole upper/lower rakers have vertical outer ends and horizontal inner ends, joining those plates to the two sides of the central strut. Two fixed thick metal-coloured cheek plates close the central joint on its front and rear. The lower middle span stays open, with no ground sole or central floor post. This is not the old one-sided ground-raking frame doubled or an arch form with extra posts: the complete bilateral elevated support arrangement is newly authored. Nine closed editable solids and three opaque constant PBR materials, native metres, horizontal bounds-centred origin at the wall plates lowest ends. The absent host walls are intentional; the preview datum does not certify freestanding stability or installation. One model, zero scenes. No actual building, damage simulation, working joint, pressure/load transfer, construction method, dimensions fit, structural adequacy or safety guarantee.",
+  "bounds": {
+    "x": 3.8,
+    "y": 0.54,
+    "z": 2.4,
+    "unit": "m"
+  },
+  "triangles": 108,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/ruins/ruins-opposed-wall-timber-flying-shore-01/v1.0.0/model.glb",
+      "size": 12036,
+      "sha256": "45c0de3d4889a68244f0cbe5b9ff4079c7e8a4148cd4b925a780eb6f5d2b2ac0"
+    },
+    "blend": {
+      "path": "assets/ruins/ruins-opposed-wall-timber-flying-shore-01/v1.0.0/source.blend",
+      "size": 564400,
+      "sha256": "f214f72b68364869492cf80d78a2d998a1fcff2caec604163d27564569836893"
+    },
+    "generator": {
+      "path": "assets/ruins/ruins-opposed-wall-timber-flying-shore-01/v1.0.0/generate.py",
+      "size": 9313,
+      "sha256": "1dd14c0e56859a8d60595b8e29e55a7ffc2662871aa1a4cabc7a4383cb832bcb"
+    },
+    "render": {
+      "path": "assets/ruins/ruins-opposed-wall-timber-flying-shore-01/v1.0.0/thumbnail.png",
+      "size": 442175,
+      "sha256": "10ef77af7539c3006b0698620cc3a10c3b0ca2180f53db4f5ea4db24e35f580f"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
