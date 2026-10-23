@@ -1,0 +1,42 @@
+{
+  "id": "technology-fixed-open-band-stereo-headset-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "technology",
+  "style": "source-preserved-low-poly",
+  "title": "Fixed Open-Band Stereo Headset",
+  "description": "One newly authored complete static stereo head-mounted display exterior: broad finite solid visor casing with a true bottom nose notch, separate opaque front cover, two deep rear eyecup rings with recessed opaque ocular discs, two side roots, one rear open head band with curved pad, a broad arched top strap and fixed rear adjustment dial. Two blank shallow front inserts and one top button are subordinate integral details. Whole rear head space remains empty, no mannequin or pedestal. All new numeric geometry, not a breathing facepiece, diving helmet or binocular assembly. One whole game-art prop and zero scenes, opaque untextured PBR. No optical transmission, field of view, display, tracking, wearer fit, motion, electrical operation, protection, manufacture or safety claim.",
+  "bounds": {
+    "x": 0.25200000405311584,
+    "y": 0.3310000002384186,
+    "z": 0.21349012851715088,
+    "unit": "m"
+  },
+  "triangles": 1492,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/technology/technology-fixed-open-band-stereo-headset-01/v1.0.0/model.glb",
+      "size": 136736,
+      "sha256": "c0a81203d0ca9909c33624aada1f57c14e4a7563b8820dd2a61b7e2e80f3771f"
+    },
+    "blend": {
+      "path": "assets/technology/technology-fixed-open-band-stereo-headset-01/v1.0.0/source.blend",
+      "size": 793536,
+      "sha256": "fba75dd92da942f341245afef8714409457556c4ee588a005c1af5d46a852863"
+    },
+    "generator": {
+      "path": "assets/technology/technology-fixed-open-band-stereo-headset-01/v1.0.0/generate.py",
+      "size": 17797,
+      "sha256": "889369c3fb510c5b86ab5cc1e0020df493308e08007a7bd253f5a96288ebba1b"
+    },
+    "render": {
+      "path": "assets/technology/technology-fixed-open-band-stereo-headset-01/v1.0.0/thumbnail.png",
+      "size": 517670,
+      "sha256": "006c93b16505c6b06cd8d5257c9d7ad3d9315109f72c945ec1a7ea6df0366bd8"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
