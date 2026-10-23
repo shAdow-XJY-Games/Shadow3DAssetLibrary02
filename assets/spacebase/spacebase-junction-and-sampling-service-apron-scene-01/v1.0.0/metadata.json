@@ -1,0 +1,42 @@
+{
+  "id": "spacebase-junction-and-sampling-service-apron-scene-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "spacebase",
+  "style": "source-preserved-low-poly",
+  "title": "Junction and Sampling Service Apron",
+  "description": "One static spacebase service-apron scene using three complete qualified original models at unit scale and unchanged orientation. A full continuous three-way floor-wall-ceiling junction occupies the rear, with all three end mouths left empty; a complete twin-wing solar array occupies a separated front-left service pad and one complete fixed dual-link sampling rover is parked on the front-right ground. Every original mesh, triangle, internal node, normal buffer and per-face opaque PBR assignment remains intact. A single low scene-only ground with a straight contrasting central approach band is the only new geometry. The central front approach and separate left/right equipment zones define an outdoor service forecourt rather than a reused warehouse or a quantity variant of solar panels. One scene, zero new independent models, three complete instances of three already qualified models. No cables connect the array or vehicle; no airlock doors, astronauts, payload or operational route simulation. Static arrangement only: no generation, charging, pressure containment, flight, navigation/accessibility, docking compatibility, rover operation, structure, installation or safety claim.",
+  "bounds": {
+    "x": 10.399999618530273,
+    "y": 10.0,
+    "z": 3.369999885559082,
+    "unit": "m"
+  },
+  "triangles": 4844,
+  "materials": 14,
+  "files": {
+    "glb": {
+      "path": "assets/spacebase/spacebase-junction-and-sampling-service-apron-scene-01/v1.0.0/model.glb",
+      "size": 229696,
+      "sha256": "7a7f38c1df5d6d12cd91439545ff22359a00e60c4b91c2d8d4cb8c133d837036"
+    },
+    "blend": {
+      "path": "assets/spacebase/spacebase-junction-and-sampling-service-apron-scene-01/v1.0.0/source.blend",
+      "size": 173335,
+      "sha256": "c0e344f13bcc065a3cda381d6823b16e730d9d25ec554473d391b6e8ee1fc170"
+    },
+    "generator": {
+      "path": "assets/spacebase/spacebase-junction-and-sampling-service-apron-scene-01/v1.0.0/generate.py",
+      "size": 63301,
+      "sha256": "1d39be5f7fdf6bde9f57f4a15ff039aa7ec850d81a6f95257b310ae60ecfee86"
+    },
+    "render": {
+      "path": "assets/spacebase/spacebase-junction-and-sampling-service-apron-scene-01/v1.0.0/thumbnail.png",
+      "size": 534396,
+      "sha256": "62e30d996b443f6f56aa2623b1f7486e9cb28c0b7bc71f397a2e4b545f720b28"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

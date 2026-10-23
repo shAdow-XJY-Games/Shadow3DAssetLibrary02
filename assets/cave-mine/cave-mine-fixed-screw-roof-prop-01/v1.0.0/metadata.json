@@ -1,0 +1,42 @@
+{
+  "id": "cave-mine-fixed-screw-roof-prop-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "cave-mine",
+  "style": "source-preserved-low-poly",
+  "title": "Fixed Screw Roof Prop",
+  "description": "One original complete fixed axial mine roof-prop appearance: a broad square ground plate carries a real hollow lower tube, an annular adjustment collar with two short fixed handles, a partly enclosed upper spindle with one continuous six-turn raised thread, and a broad flat head plate. The assembled spindle occupies the lower tube and collar bore; no unobstructed through-channel is claimed. Newly authored whole vertical support, not an old press screw extracted or a curved arch/diagonal timber shore resized. No roof host is included. Static visual only: no real adjustment, operating instructions, certified thread engagement, load capacity, stability, underground installation, roof support or safety performance.",
+  "bounds": {
+    "x": 0.6000000238418579,
+    "y": 0.4000000059604645,
+    "z": 1.940000057220459,
+    "unit": "m"
+  },
+  "triangles": 1904,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/cave-mine/cave-mine-fixed-screw-roof-prop-01/v1.0.0/model.glb",
+      "size": 166068,
+      "sha256": "47a39e0f9e5e4ee3f7f7b4459d72cad10dfa31b4575b95cf1dbc1fcd4142d93f"
+    },
+    "blend": {
+      "path": "assets/cave-mine/cave-mine-fixed-screw-roof-prop-01/v1.0.0/source.blend",
+      "size": 783584,
+      "sha256": "31c3faa71aa89a59ddd95453bbc5938e70affd81132a0c4f677d437be9ddf238"
+    },
+    "generator": {
+      "path": "assets/cave-mine/cave-mine-fixed-screw-roof-prop-01/v1.0.0/generate.py",
+      "size": 12023,
+      "sha256": "0cea29ce67afedbae5ed6990904291d1efc6c16724b00192cee29c576daaa80e"
+    },
+    "render": {
+      "path": "assets/cave-mine/cave-mine-fixed-screw-roof-prop-01/v1.0.0/thumbnail.png",
+      "size": 435133,
+      "sha256": "a40a2b4526e2d4411c51095444cb5116a8cfca61d6e25700435a867cfb2ded1f"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

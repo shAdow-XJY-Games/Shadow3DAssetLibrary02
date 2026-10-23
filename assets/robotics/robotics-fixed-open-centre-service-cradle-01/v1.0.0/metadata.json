@@ -1,0 +1,42 @@
+{
+  "id": "robotics-fixed-open-centre-service-cradle-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "robotics",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Open-Centre Robot Service Cradle",
+  "description": "One original empty stationary robot-service fixture appearance in a fixed static pose. A continuous grounded front-open U plinth carries two complete longitudinal service beds, each with a genuine open upper groove, integral side lips and a descending front approach. A continuous chamfer-cornered rear portal frames the open bay and supports a fixed upper carriage, octagonal descending stem and shallow transverse diagnostic-bar appearance. Two short inward fixture pads and a small sloped side control pod remain attached to the portal; the broad central ground approach, space between the beds and upper work bay stay genuinely empty. Ten individually editable closed connected meshes, four opaque constant untextured PBR materials, metres, native Z up, front -Y, entire horizontal bounds-centred grounded origin. All complete base, bed, portal and fixture shapes are newly authored. No old robot, worktable, scissor lift, charging cup, scan workstation or scene geometry is imported or extracted. One complete prop, zero new scenes or separately counted parts. No robot or payload is supplied. No robot fit or compatibility, driving or insertion path, lift motion, carriage travel, powered diagnostics, optics, sensing, charging, clamp actuation or force, repair operation, electrical function, load, stability, ergonomics, manufacture, installation or safety performance is claimed.",
+  "bounds": {
+    "x": 1.89,
+    "y": 2.27,
+    "z": 1.78,
+    "unit": "m"
+  },
+  "triangles": 268,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/robotics/robotics-fixed-open-centre-service-cradle-01/v1.0.0/model.glb",
+      "size": 22768,
+      "sha256": "72ef99a5e0cfab3bcc93f5a5e934d25ef636a126363d4419e8f73721906ef70c"
+    },
+    "blend": {
+      "path": "assets/robotics/robotics-fixed-open-centre-service-cradle-01/v1.0.0/source.blend",
+      "size": 581112,
+      "sha256": "bd65fcb2a7513a6ee0a07d00c1e285f5819079932b43d25a8dbb5b408bde492e"
+    },
+    "generator": {
+      "path": "assets/robotics/robotics-fixed-open-centre-service-cradle-01/v1.0.0/generate.py",
+      "size": 22925,
+      "sha256": "6648a19bb34bd56ecbeac5b4842d2ebd841d64bf234df1cea64c644a9fbb4abc"
+    },
+    "render": {
+      "path": "assets/robotics/robotics-fixed-open-centre-service-cradle-01/v1.0.0/thumbnail.png",
+      "size": 544960,
+      "sha256": "73537593994a11e397854321e1d864df11dc4d0b195d6d513f720c9bfbfa613e"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

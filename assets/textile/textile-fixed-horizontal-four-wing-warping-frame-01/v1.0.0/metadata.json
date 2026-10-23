@@ -1,0 +1,42 @@
+{
+  "id": "textile-fixed-horizontal-four-wing-warping-frame-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "textile",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Horizontal Four-Wing Warping Frame",
+  "description": "One newly authored complete empty static textile warping-frame prop. Two full grounded timber stands carry separate genuinely pierced bearing blocks and a continuous horizontal sixteen-sided axle. Two crossed end frames are connected by four full longitudinal winding rails, making a broad open four-wing winding cage rather than a planar weaving loom, a circular spinning wheel or an inclined-peg spool rack. A fixed offset crank and complete grip belong to the same supported assembly. The full real through holes exactly surround the matching fixed axle, while the cage clears the stand uprights. No old mesh is copied or recoloured. Seventeen editable closed solid components and three constant opaque untextured PBR materials, metres, native Z up and actual horizontal bounds-centred ground datum. No thread, cloth, spool, drive belt, treadle, label, texture or scene. Static illustrative form only: no operational rotation, motion clearance, weaving, yarn tension, calibrated yarn length, manufacture, loading, stability, compatibility or safety claim. One complete prop and zero scenes.",
+  "bounds": {
+    "x": 1.9500000000000002,
+    "y": 1.0,
+    "z": 1.4465165042944954,
+    "unit": "m"
+  },
+  "triangles": 532,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/textile/textile-fixed-horizontal-four-wing-warping-frame-01/v1.0.0/model.glb",
+      "size": 32320,
+      "sha256": "57104fd1cf1f0b6085341127dfa520088476954598d50366277fe40220c02255"
+    },
+    "blend": {
+      "path": "assets/textile/textile-fixed-horizontal-four-wing-warping-frame-01/v1.0.0/source.blend",
+      "size": 624200,
+      "sha256": "4688bd4fda5a8d2d6956503ab69038c1e73af4e6cac9a5e79725445ed9bf6140"
+    },
+    "generator": {
+      "path": "assets/textile/textile-fixed-horizontal-four-wing-warping-frame-01/v1.0.0/generate.py",
+      "size": 8720,
+      "sha256": "0957b5c47ead88a436d46651a32449b05bf4908c857a552bc28921ffea27d22f"
+    },
+    "render": {
+      "path": "assets/textile/textile-fixed-horizontal-four-wing-warping-frame-01/v1.0.0/thumbnail.png",
+      "size": 456551,
+      "sha256": "e472a5ba39e12334045eb876ed3feede4230a03cb0188d818d1eacbd9d81ff1c"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
