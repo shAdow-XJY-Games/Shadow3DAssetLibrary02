@@ -1,0 +1,42 @@
+{
+  "id": "steam-workshop-fixed-rack-pinion-arbor-press-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "steam-workshop",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Rack and Pinion Arbor Press",
+  "description": "One newly authored whole fixed arbor-press appearance for the original steam-workshop gear-transmission visual direction. A grounded foot carries one continuous thick C-shaped casting with a real open throat, a complete slotted lower anvil, two whole left-open ram guides, one long rectangular ram with twelve integral trapezoid rack teeth and a broad flat pressing nose. A separate whole toothed pinion, fixed supported axle, hub and long diagonal hand lever form the side drive appearance. One visible retaining pin fixes the ram in its displayed height and joins it to the upper guide and rear casting. This is not the old column drill without a bit, a citrus cone with a new color or a basket screw press without a basket: no motor, belt cover, drill spindle, fruit cone, screw spindle, basket or liquid collector is used. Every whole coordinate is new; only generic mesh/export/render tools are reused. Closed editable components with three opaque PBR materials, metres, Z up and actual whole horizontal bounds centred over the ground datum. One model, zero scenes. Intentional fixed overlap joins and deliberate small pinion-to-rack display clearance are not a validated conjugate gear mesh. Static illustrative art only; no pressing force, working transmission, continuous engagement, sliding stroke, rotation, release, workholding, manufacture, stability, load or equipment safety claim.",
+  "bounds": {
+    "x": 1.06,
+    "y": 0.72,
+    "z": 1.61043550385249,
+    "unit": "m"
+  },
+  "triangles": 1020,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/steam-workshop/steam-workshop-fixed-rack-pinion-arbor-press-01/v1.0.0/model.glb",
+      "size": 54532,
+      "sha256": "eb3a4c21670520b95b9fa2e924f5a60ef58c4c65644db0eee1671c9c4e96b1ab"
+    },
+    "blend": {
+      "path": "assets/steam-workshop/steam-workshop-fixed-rack-pinion-arbor-press-01/v1.0.0/source.blend",
+      "size": 645988,
+      "sha256": "2d628e71442503a0797d83eef3b3df5516f93c22eb285ee35a48208c7f093c95"
+    },
+    "generator": {
+      "path": "assets/steam-workshop/steam-workshop-fixed-rack-pinion-arbor-press-01/v1.0.0/generate.py",
+      "size": 12382,
+      "sha256": "0d0a09a3cfa2bd3b2b753d475534dcce2c0393d017f95321108e5fd433028f49"
+    },
+    "render": {
+      "path": "assets/steam-workshop/steam-workshop-fixed-rack-pinion-arbor-press-01/v1.0.0/thumbnail.png",
+      "size": 425089,
+      "sha256": "181ef2ede22af375ff1a7f7b50d2a79a26a0ae314a1353d918a9d9968a0f3619"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
