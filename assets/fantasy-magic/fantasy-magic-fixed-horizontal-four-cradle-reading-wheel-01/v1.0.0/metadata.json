@@ -1,0 +1,42 @@
+{
+  "id": "fantasy-magic-fixed-horizontal-four-cradle-reading-wheel-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "fantasy-magic",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Horizontal Four-Cradle Reading Wheel",
+  "description": "One newly authored whole static reading-wheel furniture appearance for a fantasy study. Two continuous open triangular side stands on full long runners carry one complete horizontal shaft and two large open spoke-and-rim carriers. Four complete inclined reading boards, each with an integral raised front retaining lip, are individually suspended from the paired rims by short side straps and short pivots. All boards retain the same fixed reading attitude while occupying distinct upper/front/back/lower positions; no shaft crosses their reading surfaces. Two full low ties connect the stand runners, and the boards, rims and centre shaft remain raised clear of one another in this stored pose. This is not a vertical radial book tower turned sideways, a repeated V-scanner cradle, or a yarn swift with books attached. No old model vertices, books, gear train or animation are imported. Four opaque constant untextured PBR materials, metres, native Z up, true horizontal-bounds-centred ground origin. One whole prop, zero scenes or separately counted shelves. Small intentional static overlaps join fixed pins, straps, spokes and frame; no actual rotation, self-leveling, motion clearance, gear synchronization, book compatibility, capacity, ergonomic, load, stability, manufacturing or safety claim.",
+  "bounds": {
+    "x": 1.38,
+    "y": 1.32,
+    "z": 1.76,
+    "unit": "m"
+  },
+  "triangles": 1456,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/fantasy-magic/fantasy-magic-fixed-horizontal-four-cradle-reading-wheel-01/v1.0.0/model.glb",
+      "size": 90776,
+      "sha256": "d7558401871c25688069cafc1157c08bad42ed4b30a1b17a2955e275c5d79e8b"
+    },
+    "blend": {
+      "path": "assets/fantasy-magic/fantasy-magic-fixed-horizontal-four-cradle-reading-wheel-01/v1.0.0/source.blend",
+      "size": 794264,
+      "sha256": "7e45eec3cf32fe91950f040383ee7bd395d2c47cbc260124048756d24b26f8da"
+    },
+    "generator": {
+      "path": "assets/fantasy-magic/fantasy-magic-fixed-horizontal-four-cradle-reading-wheel-01/v1.0.0/generate.py",
+      "size": 25566,
+      "sha256": "6f6821655c87cdafe57b2497ce5fba1d1da0b9a9cf9510d414ceabb347849ebb"
+    },
+    "render": {
+      "path": "assets/fantasy-magic/fantasy-magic-fixed-horizontal-four-cradle-reading-wheel-01/v1.0.0/thumbnail.png",
+      "size": 596151,
+      "sha256": "f5f577d75f6082ef0d2eab7879cb3b6bb3bf3a2a8e3507b98a570e08eed33e69"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

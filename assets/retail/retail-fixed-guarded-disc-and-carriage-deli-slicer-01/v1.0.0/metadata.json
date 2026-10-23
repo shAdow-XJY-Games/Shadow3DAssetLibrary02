@@ -1,0 +1,42 @@
+{
+  "id": "retail-fixed-guarded-disc-and-carriage-deli-slicer-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "retail",
+  "style": "source-preserved-low-poly",
+  "title": "Fixed Guarded Disc and Carriage Deli Slicer",
+  "description": "One original complete static countertop deli-slicer appearance. A broad footed low motor base supports one slightly inclined full blunt closed circular disk, a complete rear housing web, a thick partial perimeter guard and a smaller central face cover. Beside the disk, two full low guide rods carry one whole L-section tray with a raised side wall, an underside carriage block and a fixed pusher plate with its projecting grip. A blank control knob completes the empty apparatus. All geometry is newly authored: not the twin abrasive-wheel grinder with a recoloured wheel, the spoked trough-fed chaff cutter or the clamped horizontal mincer. Three opaque PBR roles. One complete prop, zero scenes or food items. Static visual only; no sharpened cutting edge, powered or sliding motion, material removal, operational clearance, food handling instruction, sanitation, load, manufacture or safety claim.",
+  "bounds": {
+    "x": 0.6000000238418579,
+    "y": 0.5097953677177429,
+    "z": 0.52446448802948,
+    "unit": "m"
+  },
+  "triangles": 1892,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/retail/retail-fixed-guarded-disc-and-carriage-deli-slicer-01/v1.0.0/model.glb",
+      "size": 176072,
+      "sha256": "89613564c29131082ee396614eaed1726442f81c277a69b96dc39620a5f0c825"
+    },
+    "blend": {
+      "path": "assets/retail/retail-fixed-guarded-disc-and-carriage-deli-slicer-01/v1.0.0/source.blend",
+      "size": 852800,
+      "sha256": "d07f4fc9dc1971adfd56ff24678dcf705be0f5ce888b20f33136aef1ff9d5cb2"
+    },
+    "generator": {
+      "path": "assets/retail/retail-fixed-guarded-disc-and-carriage-deli-slicer-01/v1.0.0/generate.py",
+      "size": 15174,
+      "sha256": "d2176c0dc4cf410acb242c4af27c64038007983a30e9938190b59aedd632fcb8"
+    },
+    "render": {
+      "path": "assets/retail/retail-fixed-guarded-disc-and-carriage-deli-slicer-01/v1.0.0/thumbnail.png",
+      "size": 510402,
+      "sha256": "9489a0f4ba0e1e00825c21aba097448663aa729b6fae2d87c5bb023a06f35dc8"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

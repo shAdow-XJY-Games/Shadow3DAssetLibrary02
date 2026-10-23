@@ -1,0 +1,42 @@
+{
+  "id": "military-fixed-twin-well-field-kitchen-trailer-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "military",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Twin Well Field Kitchen Trailer",
+  "description": "One complete original static parked field-kitchen trailer appearance for non-weapon camp logistics. A low full stove casing has a genuine front firebox mouth, two perforated top panels around two deep empty cooking wells, and one tall rear flue exterior. Its own whole chassis, full axle, two complete wheels, converging drawbar, open tow eye and grounded parking foot form one equipment prop, not an old cargo trailer loaded with separate existing pots. Three opaque PBR materials, metres/native Z up, horizontal bounds-centred ground origin. Fixed empty exterior display only, no fire, fuel, pressure, working plumbing, food, person, weapon, insignia or vehicle host. No heating, cooking, sanitation, towing, braking, load, stability or operational/safety capability is verified. The blind flue is not claimed connected to a functional gas passage.",
+  "bounds": {
+    "x": 1.92,
+    "y": 2.12,
+    "z": 1.82,
+    "unit": "m"
+  },
+  "triangles": 2336,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/construction/military-fixed-twin-well-field-kitchen-trailer-01/v1.0.0/model.glb",
+      "size": 114220,
+      "sha256": "48bde60e108f14944b1d7eccd0cef15b31ae7545c70e32ddbf1d933f33ef763b"
+    },
+    "blend": {
+      "path": "assets/construction/military-fixed-twin-well-field-kitchen-trailer-01/v1.0.0/source.blend",
+      "size": 781592,
+      "sha256": "22f4b45206a0a1803488651750b6c40e86c4a210eb20c92ce70805003975ba1a"
+    },
+    "generator": {
+      "path": "assets/construction/military-fixed-twin-well-field-kitchen-trailer-01/v1.0.0/generate.py",
+      "size": 11887,
+      "sha256": "9744c07394761b55fc7707b083a1e7729ca5877c5b8e5d24a85c37425038bf08"
+    },
+    "render": {
+      "path": "assets/construction/military-fixed-twin-well-field-kitchen-trailer-01/v1.0.0/thumbnail.png",
+      "size": 402601,
+      "sha256": "707046531ef1138716832d95383702240bad604bf10b8ffb6c1c31d1f1a7283e"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
