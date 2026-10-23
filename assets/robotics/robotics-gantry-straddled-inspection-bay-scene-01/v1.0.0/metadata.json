@@ -1,0 +1,42 @@
+{
+  "id": "robotics-gantry-straddled-inspection-bay-scene-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "robotics",
+  "style": "source-preserved-low-poly",
+  "title": "Gantry-Straddled Inspection Bay",
+  "description": "A static robot inspection-bay composition: the complete orthogonal-rail gantry straddles the complete circumferential-wheel pipe inspector parked on the floor inside its open ground bay, while the complete empty open-ring service positioner stands outside to the right. A single scene-only slab has a distinct external front approach band. This nested overhead/ground relationship differs from the earlier four-corner service court and the parallel cargo-transfer workzone. All three original models remain whole, at unit scale and unchanged fixed pose; original buffers, internal node transforms, directed triangles and per-face materials are preserved. One scene, zero new models. The gantry tool remains clear of the inspector; the ring is empty. No lifting, holding, mechanical compatibility, inspection performance, human access compliance, workflow, operation or safety is claimed. The pipe inspector rests on the same four faceted wheel edges as its original static model, not invented finite-area soles.",
+  "bounds": {
+    "x": 4.800000190734863,
+    "y": 3.4000000953674316,
+    "z": 1.9900000095367432,
+    "unit": "m"
+  },
+  "triangles": 2480,
+  "materials": 14,
+  "files": {
+    "glb": {
+      "path": "assets/robotics/robotics-gantry-straddled-inspection-bay-scene-01/v1.0.0/model.glb",
+      "size": 148532,
+      "sha256": "013fb971b8020e979ce8671193f97c8f745603818d1a25297f96b231801e4da2"
+    },
+    "blend": {
+      "path": "assets/robotics/robotics-gantry-straddled-inspection-bay-scene-01/v1.0.0/source.blend",
+      "size": 148153,
+      "sha256": "c04df4c5a7d227e8224a05cfd70162d0cddaaaa2b30eeb8a2ccb11b3cec0936a"
+    },
+    "generator": {
+      "path": "assets/robotics/robotics-gantry-straddled-inspection-bay-scene-01/v1.0.0/generate.py",
+      "size": 47442,
+      "sha256": "dfa43eccaa8c1e0aabccc10ffd3709725c702f3333102550a0f2c75e9a48b6ae"
+    },
+    "render": {
+      "path": "assets/robotics/robotics-gantry-straddled-inspection-bay-scene-01/v1.0.0/thumbnail.png",
+      "size": 477804,
+      "sha256": "f7483caf97cb115dc56b14ba58f7ebe3ae01f34577938686431816e5a168a59d"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

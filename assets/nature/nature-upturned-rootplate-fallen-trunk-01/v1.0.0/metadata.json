@@ -1,0 +1,42 @@
+{
+  "id": "nature-upturned-rootplate-fallen-trunk-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "nature",
+  "style": "warm-handcrafted-village",
+  "title": "Upturned Rootplate and Fallen Broken Trunk",
+  "description": "One original whole stylised uprooted tree remnant: a tall irregular near-vertical root-and-soil plate at the thick basal end of a long leaning fallen broken trunk. A single continuous shared-vertex wood body joins the trunk to six unequal tapering exposed root arms across the plate, not detached decorative sticks. A separate closed crumbled soil plate has a finite ground sole and a real volumetric attachment with the wood hub. Dark fibrous bark, shaded bark, exposed pale broken end and matte soil use four opaque untextured PBR roles. Two editable complete meshes, one prop, zero scenes. No existing standing stump, Y-log or mangrove vertices are imported or merely rotated. Metres, native Z up, horizontal bounds-centred ground origin. Static woodland dressing only; no botanical species, root biology, storm simulation, growth, stability, physics, collision or navigation claim.",
+  "bounds": {
+    "x": 3.422150373,
+    "y": 2.069999933,
+    "z": 1.889999986,
+    "unit": "m"
+  },
+  "triangles": 636,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/nature/nature-upturned-rootplate-fallen-trunk-01/v1.0.0/model.glb",
+      "size": 41560,
+      "sha256": "52ad22fc3fab0f81b3134f803829e4dba92cf096f6a14fd25a4c8e30a13dd87c"
+    },
+    "blend": {
+      "path": "assets/nature/nature-upturned-rootplate-fallen-trunk-01/v1.0.0/source.blend",
+      "size": 559864,
+      "sha256": "8d9019110d496753d67afbbbcbc95d9848084f894fb392f0a9b5c8658b02b8d7"
+    },
+    "generator": {
+      "path": "assets/nature/nature-upturned-rootplate-fallen-trunk-01/v1.0.0/generate.py",
+      "size": 30435,
+      "sha256": "1fb6333ac4071227c7a4d195e6b77449cd4f5b55fafe6da4e0938fe29ac08bca"
+    },
+    "render": {
+      "path": "assets/nature/nature-upturned-rootplate-fallen-trunk-01/v1.0.0/thumbnail.png",
+      "size": 485199,
+      "sha256": "ffd524e577ce0bba658a898b426544bdaf4295b686fff5abaf9c22a209eeac27"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

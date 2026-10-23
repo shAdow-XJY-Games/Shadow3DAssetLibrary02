@@ -1,0 +1,42 @@
+{
+  "id": "village-static-split-half-door-and-frame-01",
+  "version": "1.0.0",
+  "category": "architecture",
+  "assetKind": "modular",
+  "theme": "village",
+  "style": "S01-clean-geometric",
+  "title": "Static Split Half Door and Frame",
+  "description": "One newly authored complete static horizontally split village door assembly. A full U-shaped timber frame surrounds a closed lower leaf and a separately outward-resting upper leaf, each with two distinct fixed vertical hinge stations, full straps and a pull. The upper half is held at58degrees while the lower half remains across the doorway, leaving an actual upper entry aperture and a full lower boundary. These are newly authored separate upper/lower whole leaves, not a recolored single full-height door, a second side-by-side door or copied old moving parts. All components are closed editable solids and three constant opaque PBR materials; native metres and bounds-centred ground datum. One modular model, zero scenes. Only the illustrated fixed pose is provided; no animation, continuous sweep, hinge physics, compatible old host, actual animal/child containment, lock security, manufacture, load or safety guarantee. No building or scenery; preview floor excluded.",
+  "bounds": {
+    "x": 1.4,
+    "y": 1.150592751206608,
+    "z": 2.25,
+    "unit": "m"
+  },
+  "triangles": 420,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/village/village-static-split-half-door-and-frame-01/v1.0.0/model.glb",
+      "size": 29124,
+      "sha256": "0249c7d774e8f842d7019c1e683b6696ccc54142093558d601d5a6dafdfe3391"
+    },
+    "blend": {
+      "path": "assets/village/village-static-split-half-door-and-frame-01/v1.0.0/source.blend",
+      "size": 599728,
+      "sha256": "b5400d0336c658927099e9f478f32aa0c4bbd8862e212ccbea1ee891dd8a486f"
+    },
+    "generator": {
+      "path": "assets/village/village-static-split-half-door-and-frame-01/v1.0.0/generate.py",
+      "size": 9552,
+      "sha256": "7debfd26022cb2ca33fd5e0942da24eeeb5e17ed9c202eb2c5d844ac71fec85e"
+    },
+    "render": {
+      "path": "assets/village/village-static-split-half-door-and-frame-01/v1.0.0/thumbnail.png",
+      "size": 486863,
+      "sha256": "06f19229e1464fc0f48ed310828e3bc4e9f10df8ea238bf33e95a874f2ef3129"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

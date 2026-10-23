@@ -1,0 +1,42 @@
+{
+  "id": "robotics-fixed-horizontal-elbow-quill-work-arm-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "robotics",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Horizontal-Elbow Quill Work Robot",
+  "description": "One original complete fixed horizontal-elbow work-robot appearance. A grounded chamfered plinth and tall faceted pedestal support a vertical shoulder seat and one broad raised horizontal proximal casing with a chamfered upper band. A separate vertical elbow body meets a second lower horizontal forearm casing, which turns forwards in plan and includes a real through-guide near its far end. One complete long vertical quill passes with visible circumferential clearance through that guide: a lower flange seats under the case, a narrow shaft projects above to an upper stop, and a continuous lower neck ends in an integral downward-open thick cup with blind inner roof. Seven closed editable meshes, four opaque constant untextured PBR roles, metres, native Z up, front -Y and complete horizontal bounds-centred grounded origin. Every whole casing, pedestal, opening, quill and cup profile newly authored using generic mesh helpers only. Not an old vertical-plane serial robot reposed, a component extracted from a parallel robot or gantry, a desk lamp or a tool swap. One complete prop, no scene, workpiece or separately counted parts. Fixed static art only: the SCARA-like arrangement describes the visible parallel vertical axes and two horizontal casing levels, not validated kinematics, compliance, degrees of freedom, trajectory, rotation, sliding motion, guide fit, suction, grasp, force, calibration, programming, power, payload, stability, manufacture, installation or safety performance.",
+  "bounds": {
+    "x": 1.108434,
+    "y": 0.751556,
+    "z": 0.9,
+    "unit": "m"
+  },
+  "triangles": 1404,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/robotics/robotics-fixed-horizontal-elbow-quill-work-arm-01/v1.0.0/model.glb",
+      "size": 69528,
+      "sha256": "45711c640f0ecd8afdbef6a3b75572a2e06f7566fd7e46afae71b1ad74398d88"
+    },
+    "blend": {
+      "path": "assets/robotics/robotics-fixed-horizontal-elbow-quill-work-arm-01/v1.0.0/source.blend",
+      "size": 627384,
+      "sha256": "a79e5f6856d19af24b6fb79c85fcd42cd203fe320147189a2c63a5c4f444bd89"
+    },
+    "generator": {
+      "path": "assets/robotics/robotics-fixed-horizontal-elbow-quill-work-arm-01/v1.0.0/generate.py",
+      "size": 24253,
+      "sha256": "821d83fa40c7226593c89f5f35f0fe6f5dd09fe8ef60dd712a68608984313bd4"
+    },
+    "render": {
+      "path": "assets/robotics/robotics-fixed-horizontal-elbow-quill-work-arm-01/v1.0.0/thumbnail.png",
+      "size": 492895,
+      "sha256": "4eef4f7c58b2fbd70401d215f3f89159277026f5b7344092b6f7c062c37532b0"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "construction-open-entry-and-parked-excavator-bay-scene-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "construction",
+  "style": "source-preserved-low-poly",
+  "title": "Open Entry and Parked Excavator Bay",
+  "description": "One static construction entrance and parked-machine bay. Two complete original road barricades define a wide central gap at the front edge; the complete compact tracked excavator remains parked behind the left boundary with its original fixed arm and open bucket pose. The whole low caged work light sits separately behind the right boundary. A single scene-only paved pad and contrasting central entry band organize the forecourt. Four complete instances of three old models remain at unit scale and unchanged pose, preserving every mesh, directed triangle, original node transform, normal buffer and per-face PBR. This original construction enclosure-entrance scene is distinct from the earlier scaffold/barrow worksite and mixer preparation bay. One scene, zero new models. The barricades do not close a secure perimeter; no people, traffic, active lighting, excavation, hydraulics, access compliance, construction procedure or operational safety is claimed.",
+  "bounds": {
+    "x": 6.0,
+    "y": 6.400000095367432,
+    "z": 2.125,
+    "unit": "m"
+  },
+  "triangles": 3396,
+  "materials": 16,
+  "files": {
+    "glb": {
+      "path": "assets/construction/construction-open-entry-and-parked-excavator-bay-scene-01/v1.0.0/model.glb",
+      "size": 221116,
+      "sha256": "d71bf263e6e9a88b960a61c6046d1712e6c906983afef121e747a6be760a5a31"
+    },
+    "blend": {
+      "path": "assets/construction/construction-open-entry-and-parked-excavator-bay-scene-01/v1.0.0/source.blend",
+      "size": 159799,
+      "sha256": "43176a75760601c618a979f77d3d9d9619eec8e535d028428d7a8ff000b36930"
+    },
+    "generator": {
+      "path": "assets/construction/construction-open-entry-and-parked-excavator-bay-scene-01/v1.0.0/generate.py",
+      "size": 55234,
+      "sha256": "c6da68c69e5ce6c377a7ad958102fb87b85c380352db56b3fa43361cae90b94e"
+    },
+    "render": {
+      "path": "assets/construction/construction-open-entry-and-parked-excavator-bay-scene-01/v1.0.0/thumbnail.png",
+      "size": 503181,
+      "sha256": "83dd669f76ff66f411b5fca0b6b591818aa2f6165b1b644b3494441b8f02c369"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

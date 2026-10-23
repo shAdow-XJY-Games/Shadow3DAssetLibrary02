@@ -1,0 +1,42 @@
+{
+  "id": "interior-fixed-drop-door-cavity-oven-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "interior",
+  "style": "source-preserved-low-poly",
+  "title": "Fixed Drop-Door Cavity Oven",
+  "description": "One original static standalone rectangular oven with a true deep front-open chamber, continuous thick five-sided housing and upper control fascia, two levels of real side shelf rails, one open wire-style grid rack and a fixed horizontal bottom-hinged thick door. The door has a recessed opaque inner panel and an underside bridge handle; two hinge barrels visibly join the door to the lower sill. Three fixed controls and four feet complete the single appliance. This is not the old solid stove box, masonry arch oven, or combined side-open toy kitchen resized. No heating, power, food safety, load, hinge motion or appliance compliance is demonstrated.",
+  "bounds": {
+    "x": 0.6399999856948853,
+    "y": 1.1100000143051147,
+    "z": 0.7300000190734863,
+    "unit": "m"
+  },
+  "triangles": 1324,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/interior/interior-fixed-drop-door-cavity-oven-01/v1.0.0/model.glb",
+      "size": 124536,
+      "sha256": "cddd6f448462276e64ad3c48795eed916166b28016c85be04227a515a952c7e1"
+    },
+    "blend": {
+      "path": "assets/interior/interior-fixed-drop-door-cavity-oven-01/v1.0.0/source.blend",
+      "size": 793536,
+      "sha256": "ec1b446d076e204c33ff1b34ae1dd3d30336fbf9e6fb1e4b6c3abbaa227847ae"
+    },
+    "generator": {
+      "path": "assets/interior/interior-fixed-drop-door-cavity-oven-01/v1.0.0/generate.py",
+      "size": 13853,
+      "sha256": "b725f1c0daa172916409d06a61778a8f5db74cdbe7bd43f697099f4e9ad6df7b"
+    },
+    "render": {
+      "path": "assets/interior/interior-fixed-drop-door-cavity-oven-01/v1.0.0/thumbnail.png",
+      "size": 540347,
+      "sha256": "440a5b94dc47be61a09033d53f5280508af97787a86a4ef168f62f1860ac31c2"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

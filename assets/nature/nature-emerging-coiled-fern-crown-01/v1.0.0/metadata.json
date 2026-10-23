@@ -1,0 +1,42 @@
+{
+  "id": "nature-emerging-coiled-fern-crown-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "nature",
+  "style": "warm-handcrafted-village",
+  "title": "Emerging Coiled Fern Crown",
+  "description": "One original stylised low woodland fern crown with three unequal upright emerging fronds whose continuous flattened rachises end in true separated inward coils. Each entire frond is one closed tapering solid, joined by a real finite overlap to a small grounded basal sheath. New coiled terminal silhouettes are not the old mature pinnate fern with more leaves, a rotated old arching rachis or a recoloured grass clump; no prior plant mesh imported. Four editable closed meshes, four opaque matte plant PBR roles. One reusable static prop, zero scenes; fronds are not separate assets. Metres, native Z up, horizontal bounds-centred ground origin. Stylised emerging plant shape only, no botanical species accuracy, growth animation, growth timing, wind, physics, collision, ecology or navigation claim.",
+  "bounds": {
+    "x": 0.161973327,
+    "y": 0.12014734,
+    "z": 0.598498046,
+    "unit": "m"
+  },
+  "triangles": 1436,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/nature/nature-emerging-coiled-fern-crown-01/v1.0.0/model.glb",
+      "size": 85204,
+      "sha256": "2752ad498d168ba30829af30753b338874594e808ac4fb29f0fc57ad36c0f88a"
+    },
+    "blend": {
+      "path": "assets/nature/nature-emerging-coiled-fern-crown-01/v1.0.0/source.blend",
+      "size": 587444,
+      "sha256": "01b629687c8716b77861eb1a0911b82f958b9fa09bfd571f1f994fec053f8cf5"
+    },
+    "generator": {
+      "path": "assets/nature/nature-emerging-coiled-fern-crown-01/v1.0.0/generate.py",
+      "size": 26525,
+      "sha256": "c57de85998e0d03f02036fd22f1dfd6be9a1f119608d25f2d19454d57ea02c8a"
+    },
+    "render": {
+      "path": "assets/nature/nature-emerging-coiled-fern-crown-01/v1.0.0/thumbnail.png",
+      "size": 479034,
+      "sha256": "340574e3f74a287455992787703211b099c9ce2685daac8287c9635d0fcfb5fe"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

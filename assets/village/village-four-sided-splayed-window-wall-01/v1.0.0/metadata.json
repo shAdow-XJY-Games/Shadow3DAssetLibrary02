@@ -1,0 +1,42 @@
+{
+  "id": "village-four-sided-splayed-window-wall-01",
+  "version": "1.0.0",
+  "category": "architecture",
+  "assetKind": "modular",
+  "theme": "village",
+  "style": "S01-clean-geometric",
+  "title": "Four-Sided Splayed Window Wall",
+  "description": "One newly authored complete static thick masonry wall module with an unglazed four-sided splayed through-window. The broad room-side rectangle continuously narrows along the wall depth to a smaller exterior rectangle through full left/right sloped jambs, sloped head and sloped sill. Both mouths and the entire taper between them are genuinely empty. One closed connected wall ring, no inserted opaque window, crossbar, copied frame, overlapping lintel boxes or separate sill. Unlike existing constant-section open window walls, this aperture changes both width and height through its depth, not merely wall thickness or color. One modular model, zero scenes. Two opaque constant PBR face materials distinguish masonry from cut reveals. Native metres, bounds-centred ground datum. Static illustrative geometry only; no lighting-performance, defensive use, canonical building interface, structural load, installation or safety guarantee. Preview floor excluded.",
+  "bounds": {
+    "x": 2.2,
+    "y": 0.6,
+    "z": 2.6,
+    "unit": "m"
+  },
+  "triangles": 32,
+  "materials": 2,
+  "files": {
+    "glb": {
+      "path": "assets/village/village-four-sided-splayed-window-wall-01/v1.0.0/model.glb",
+      "size": 3276,
+      "sha256": "2293876f2167ed37554306af271edb3e0bbbdfe8468e06c3c6d344feea58990a"
+    },
+    "blend": {
+      "path": "assets/village/village-four-sided-splayed-window-wall-01/v1.0.0/source.blend",
+      "size": 500124,
+      "sha256": "a63ca3e6c69416f8cdc2429645a50b6951651f4bc0e1b0013ea87a52e39cb69f"
+    },
+    "generator": {
+      "path": "assets/village/village-four-sided-splayed-window-wall-01/v1.0.0/generate.py",
+      "size": 8890,
+      "sha256": "555a1ec60566476adc537dd5ee0f43c098ac5e10935e1ebd48a3f6752310fa5f"
+    },
+    "render": {
+      "path": "assets/village/village-four-sided-splayed-window-wall-01/v1.0.0/thumbnail.png",
+      "size": 481950,
+      "sha256": "b2dc496852e2850315a4b35f6e45987ee7ca4025e1b57e254037f68cc0691beb"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

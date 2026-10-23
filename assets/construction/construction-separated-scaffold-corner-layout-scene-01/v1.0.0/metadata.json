@@ -1,0 +1,42 @@
+{
+  "id": "construction-separated-scaffold-corner-layout-scene-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "construction",
+  "style": "source-preserved-low-poly",
+  "title": "Separated Scaffold Corner Layout",
+  "description": "One static scaffold-corner layout scene using the complete continuous concave-L corner and two whole independently guarded straight modules at original unit scale, one rotated exactly ninety degrees. Their original nominal ten-millimetre deck gaps and every obstructing end guard remain. They are separated display units, not a connected accessible walkway. A single low scene-only ground supports all original complete finite feet; the open inner corner and front approach remain empty. All original meshes, full directed triangles, internal transforms, normal buffers and per-face opaque PBR materials remain intact. This is the original scaffold scene program, distinct from the older single scaffold with wheelbarrow and the mixer preparation bay. One scene, zero new independent models; two unique reused models and three complete instances. No climbing, passage, installation compatibility, load, stability, fall protection, construction use or safety claim.",
+  "bounds": {
+    "x": 4.0,
+    "y": 4.0,
+    "z": 1.9500000476837158,
+    "unit": "m"
+  },
+  "triangles": 2448,
+  "materials": 11,
+  "files": {
+    "glb": {
+      "path": "assets/construction/construction-separated-scaffold-corner-layout-scene-01/v1.0.0/model.glb",
+      "size": 174392,
+      "sha256": "b76a2b18dc2e88d1d985daec6a91a431b9ce65f27463f08b9cd70e58231d6e47"
+    },
+    "blend": {
+      "path": "assets/construction/construction-separated-scaffold-corner-layout-scene-01/v1.0.0/source.blend",
+      "size": 139277,
+      "sha256": "d8f8de4bb9fb3f34d42b680b2e9c0a63aa69349d5bde3d2a6168172a3f74344b"
+    },
+    "generator": {
+      "path": "assets/construction/construction-separated-scaffold-corner-layout-scene-01/v1.0.0/generate.py",
+      "size": 47221,
+      "sha256": "9c45ccb4373866009bf7252c4569a2b71f008433c2b25960ae193eacc5601694"
+    },
+    "render": {
+      "path": "assets/construction/construction-separated-scaffold-corner-layout-scene-01/v1.0.0/thumbnail.png",
+      "size": 512927,
+      "sha256": "3a8f8aa56a436f573731c29ab44801115fc57f37dc82ab9e373ee598940df918"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

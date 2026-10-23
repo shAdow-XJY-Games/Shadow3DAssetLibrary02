@@ -1,0 +1,42 @@
+{
+  "id": "village-integral-half-turn-landing-stair-01",
+  "version": "1.0.0",
+  "category": "architecture",
+  "assetKind": "modular",
+  "theme": "village",
+  "style": "S01-clean-geometric",
+  "title": "Integral Half-Turn Landing Stair",
+  "description": "One newly authored continuous static half-turn stone stair module. Six rectangular treads ascend one straight flight to a full-width rectangular intermediate landing; a second parallel straight flight reverses direction and rises through six more rectangular treads to the upper terminal. The landing crosses a real open-front central slot, connecting the two flights as one closed grounded stone mass with no internal duplicate cells, floating treads or overlaid riser pieces. This differs from existing annular90/270degree winder stairs, which turn on radial wedge treads without a full reversing landing, and from the single-flight boarding stair cart. One modular model, zero scenes. Stone body and full upward treads/platform use two opaque constant PBR face materials. Native metres, horizontal-bounds-centred ground datum. No building, rails, passengers, copied steps or site scenery. Static illustrative geometry only; no pedestrian suitability, code compliance, accessibility, railing protection, actual load, host fit, installation or safety claim.",
+  "bounds": {
+    "x": 2.4,
+    "y": 3.45,
+    "z": 2.16,
+    "unit": "m"
+  },
+  "triangles": 492,
+  "materials": 2,
+  "files": {
+    "glb": {
+      "path": "assets/village/village-integral-half-turn-landing-stair-01/v1.0.0/model.glb",
+      "size": 15360,
+      "sha256": "924e886d44aa5548c39fc4348aa19714d1eda0462267c87b0323350aadb629c9"
+    },
+    "blend": {
+      "path": "assets/village/village-integral-half-turn-landing-stair-01/v1.0.0/source.blend",
+      "size": 524992,
+      "sha256": "8e7db29f0555410aa41bc153d84bb847db0c44d32c592afff6873c79b1d20821"
+    },
+    "generator": {
+      "path": "assets/village/village-integral-half-turn-landing-stair-01/v1.0.0/generate.py",
+      "size": 9284,
+      "sha256": "ac562c0195ca72a1bd0708f271c09487a53d36576dbe5b7bbef10d9105af4080"
+    },
+    "render": {
+      "path": "assets/village/village-integral-half-turn-landing-stair-01/v1.0.0/thumbnail.png",
+      "size": 451992,
+      "sha256": "5b81700a7666750e076d1b98b8eb775a78a3238b4c9ddb48ede5a47abe8346ad"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

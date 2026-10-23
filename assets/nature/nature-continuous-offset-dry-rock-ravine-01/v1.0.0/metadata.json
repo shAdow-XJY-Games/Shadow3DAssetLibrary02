@@ -1,0 +1,42 @@
+{
+  "id": "nature-continuous-offset-dry-rock-ravine-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "modular",
+  "theme": "nature",
+  "style": "warm-handcrafted-village",
+  "title": "Continuous Offset Dry Rock Ravine",
+  "description": "One original complete dry rocky ravine terrain module: two unequal high jagged cliff walls connect through a continuous solid gently rising dry floor around a slight offset passage, open at both ends and overhead. One closed shared-vertex rock-and-floor mesh rather than repeated loose walls or scattered rocks. The tall enclosing irregular cross-sections and new dry channel are authored as a whole; no prior stream, mine wall, cliff or failed mudbank geometry imported, hidden or recoloured. Three coherent opaque matte mineral/earth roles without textures. One terrain module, zero scenes; the two cliff sides are not separate assets. Metres, native Z up, horizontal bounds-centred ground origin. End outlines are explicit but compatibility or repetition with other modules is not claimed. Static visual terrain only, no geology, erosion, water simulation, navigability, human clearance, collision, stability, climbing or safety claim.",
+  "bounds": {
+    "x": 4.21999979,
+    "y": 3.873561144,
+    "z": 2.448064089,
+    "unit": "m"
+  },
+  "triangles": 146,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/nature/nature-continuous-offset-dry-rock-ravine-01/v1.0.0/model.glb",
+      "size": 13028,
+      "sha256": "b1357c3ce1fd9855924f27d1f1466dd47dbad2a63e438d0d3f9f565987740c1d"
+    },
+    "blend": {
+      "path": "assets/nature/nature-continuous-offset-dry-rock-ravine-01/v1.0.0/source.blend",
+      "size": 505100,
+      "sha256": "ee27bdde6d205aab217aef4f55fa8fe44b64415f8450f41a9f0b962ca2eaca84"
+    },
+    "generator": {
+      "path": "assets/nature/nature-continuous-offset-dry-rock-ravine-01/v1.0.0/generate.py",
+      "size": 27065,
+      "sha256": "f1955c0618f14666cdecf2a5beb10a46b9c5394bb3af99c2753f1675dbbc3b4e"
+    },
+    "render": {
+      "path": "assets/nature/nature-continuous-offset-dry-rock-ravine-01/v1.0.0/thumbnail.png",
+      "size": 500963,
+      "sha256": "5c6884c12d1541cda92e78577db792c59f95674e2cf774c859039ee447171aaf"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

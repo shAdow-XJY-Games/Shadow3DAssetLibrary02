@@ -1,0 +1,42 @@
+{
+  "id": "village-continuous-four-slope-hip-roof-shell-01",
+  "version": "1.0.0",
+  "category": "architecture",
+  "assetKind": "modular",
+  "theme": "village",
+  "style": "S01-clean-geometric",
+  "title": "Continuous Four-Slope Hip Roof Shell",
+  "description": "One newly authored complete static four-slope hipped roof module. Two long trapezoidal roof planes meet a finite central ridge; two triangular end hips meet the same ridge endpoints and all four outer eave corners. One continuous closed 120mm vertically thick shell has a matching four-plane underside and an entirely unfilled underside opening, not a solid roof-shaped block or a gabled repeat with end walls. Four continuous fascia edges at local Z=0 mounting datum. Clay exterior, darker fascia and timber-toned underside are face materials on the same solid, without overlay planes. Unlike the existing two-slope clay repeat, porch cottage, gabled shop house or L-turn passage, both short ends are pitched roof planes and the ridge terminates inside the rectangle. One modular model, zero scenes. Static appearance only; no host house, canonical dimensional fit, structural support, weatherproofing, roof installation, drainage or building-safety guarantee. Preview floor excluded.",
+  "bounds": {
+    "x": 4,
+    "y": 6,
+    "z": 1.52,
+    "unit": "m"
+  },
+  "triangles": 20,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/village/village-continuous-four-slope-hip-roof-shell-01/v1.0.0/model.glb",
+      "size": 3660,
+      "sha256": "ddced3de35de9316b3abf610fcdd093ca814e7b5204696f92f08864f813db618"
+    },
+    "blend": {
+      "path": "assets/village/village-continuous-four-slope-hip-roof-shell-01/v1.0.0/source.blend",
+      "size": 522688,
+      "sha256": "bff09d90262ec57fa74c8f598fdf1e30bf0537d1ae9833aab74d86ba0a6a8bff"
+    },
+    "generator": {
+      "path": "assets/village/village-continuous-four-slope-hip-roof-shell-01/v1.0.0/generate.py",
+      "size": 9025,
+      "sha256": "2ecefeed9c5058e648770c7975cc7f912adc5e926d0a39dbfbe6a6d0f6aac927"
+    },
+    "render": {
+      "path": "assets/village/village-continuous-four-slope-hip-roof-shell-01/v1.0.0/thumbnail.png",
+      "size": 422620,
+      "sha256": "275652c7b5e4aeb89700ec1986edc174cce92f328f7d53403bfdb2f0f130d07d"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

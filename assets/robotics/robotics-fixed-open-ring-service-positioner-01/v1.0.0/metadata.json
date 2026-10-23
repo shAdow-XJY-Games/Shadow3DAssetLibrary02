@@ -1,0 +1,42 @@
+{
+  "id": "robotics-fixed-open-ring-service-positioner-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "robotics",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Open-Ring Robot Service Positioner",
+  "description": "One original complete empty fixed robot-service fixture appearance. A full flat-ground chamfered plinth carries two separate tapered bearing columns. Two opposed horizontal trunnion bodies support one thick octagonal through receiver in a fixed inclined pose. Four continuous stepped inward jaws meet its actual inner facets while leaving the central work opening and spaces between jaws empty. A closed side drive-case exterior meets the outside of the right column. Eleven closed editable meshes and four opaque constant untextured PBR materials. Metres, native Z up, complete horizontal bounds-centred ground origin, front -Y. All whole geometry is newly authored using generic mesh helpers only. No old service cradle, mixer drum, handwheel, display console, frame, machine or component geometry is extracted, resized, transformed or reconstructed. One complete prop, no scene or separately counted parts. No robot or workpiece is included and compatibility with existing assets is not claimed. Static art only: no rotation, tilt travel, clamping force, fit, calibration, alignment, servicing access adequacy, motion, motor or gear mechanism, electrical control, load capacity, stability, manufacture or safety claim. Positioner is a visual fixture category, not validated tooling or construction guidance.",
+  "bounds": {
+    "x": 1.7,
+    "y": 0.56,
+    "z": 1.085152,
+    "unit": "m"
+  },
+  "triangles": 392,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/robotics/robotics-fixed-open-ring-service-positioner-01/v1.0.0/model.glb",
+      "size": 28904,
+      "sha256": "23d9106d996f2ac9aec2e124768892a44d5597e2917f921b005beca8df24c24f"
+    },
+    "blend": {
+      "path": "assets/robotics/robotics-fixed-open-ring-service-positioner-01/v1.0.0/source.blend",
+      "size": 593408,
+      "sha256": "d13cfc6361192014dedcb75c171323c6a34cde2d6a497d1c77eaecd152673c77"
+    },
+    "generator": {
+      "path": "assets/robotics/robotics-fixed-open-ring-service-positioner-01/v1.0.0/generate.py",
+      "size": 22936,
+      "sha256": "5d3f9d836509c31b3579e1945b2ebda1314e7aae08fc28b0fd5645b99a8649f8"
+    },
+    "render": {
+      "path": "assets/robotics/robotics-fixed-open-ring-service-positioner-01/v1.0.0/thumbnail.png",
+      "size": 510446,
+      "sha256": "7c441983401d27840ec2a00893e550c204ae69e077af4c05e0230d35d353990d"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

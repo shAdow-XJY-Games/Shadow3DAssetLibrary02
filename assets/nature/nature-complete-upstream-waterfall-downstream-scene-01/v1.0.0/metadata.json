@@ -1,0 +1,42 @@
+{
+  "id": "nature-complete-upstream-waterfall-downstream-scene-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "nature",
+  "style": "warm-handcrafted-village",
+  "title": "Complete Upstream Waterfall Downstream",
+  "description": "One static connected stream-height-drop scene, zero new reusable models. Three complete original module instances retain the entire original waterfall terrain/water plus two full narrow-to-wide stream modules including all bed, banks, water and inset rocks. The upstream module is rotated exactly180 degrees and raised1.10m; the downstream module remains unit scale at the original low level. Their actual narrow terrain caps and water-top edges match the original documented waterfall ports. One new scene-only continuous stepped/sloping foundation supports all actual bottom faces, including the upstream portion of the waterfall underside. All original world-space oriented geometry and per-face constant opaque PBR are retained; no rocks, banks or water are cropped or recoloured. Original normals/hierarchy are explicitly baked/recomputed by the mature importer. The original paired water-bottom V gaps of20mm remain and are disclosed: only surface continuity, not watertight joined liquid volume. No animated flow, hydrology, collision/navigation, ecology, load, scientific or safety claim. One scene, zero new model count.",
+  "bounds": {
+    "x": 6.599999905,
+    "y": 4.599999905,
+    "z": 1.945524931,
+    "unit": "m"
+  },
+  "triangles": 932,
+  "materials": 10,
+  "files": {
+    "glb": {
+      "path": "assets/nature/nature-complete-upstream-waterfall-downstream-scene-01/v1.0.0/model.glb",
+      "size": 87544,
+      "sha256": "6ee1151428c66e1126917f09fdd1c89c05dcda482ccb67a518a54b86817bd6dc"
+    },
+    "blend": {
+      "path": "assets/nature/nature-complete-upstream-waterfall-downstream-scene-01/v1.0.0/source.blend",
+      "size": 803996,
+      "sha256": "6d79dceaeb30e1c7d1c5bef1774c178b4e2c04c2a354fe44c1c0dc0480e31454"
+    },
+    "generator": {
+      "path": "assets/nature/nature-complete-upstream-waterfall-downstream-scene-01/v1.0.0/generate.py",
+      "size": 54312,
+      "sha256": "3469fc3b4742558bb7a8a16dc33142f601e8b875b7ff5a96a3a029a2912de0d5"
+    },
+    "render": {
+      "path": "assets/nature/nature-complete-upstream-waterfall-downstream-scene-01/v1.0.0/thumbnail.png",
+      "size": 510323,
+      "sha256": "e41e1e06973152e4f510f3684e5f82b660418b89f3bf18bffe1f440abd526b02"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

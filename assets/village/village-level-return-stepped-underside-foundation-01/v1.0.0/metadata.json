@@ -1,0 +1,42 @@
+{
+  "id": "village-level-return-stepped-underside-foundation-01",
+  "version": "1.0.0",
+  "category": "architecture",
+  "assetKind": "modular",
+  "theme": "village",
+  "style": "S01-clean-geometric",
+  "title": "Level Return Foundation With Stepped Underside",
+  "description": "One newly authored continuous L-return village foundation module. Its entire upper wall seat stays level at1.4m while the underside rises through three distinct complete footing levels0/0.4/0.8m along the long arm and turns into the highest perpendicular return. This is a stepped underside for a rising-site visual interface, not walking stairs: there are no ascending top treads. A single connected closed solid joins all transitions and the corner, with two opaque PBR face materials distinguishing the continuous upper seat from stone sides. The original flat square foundation tile has neither this rising underside nor the integral right-angle return. Native metres, ground datum at the lowest footing and XYbounds centre. One model, zero scenes. No terrain, wall, automatic terrain fit, structural engineering, drainage, soil interaction, construction, load or safety guarantee. Only the lowest footing contacts the preview plane; the higher footings intentionally remain raised because the intended slope host is not included.",
+  "bounds": {
+    "x": 2.4,
+    "y": 3.0,
+    "z": 1.4,
+    "unit": "m"
+  },
+  "triangles": 64,
+  "materials": 2,
+  "files": {
+    "glb": {
+      "path": "assets/village/village-level-return-stepped-underside-foundation-01/v1.0.0/model.glb",
+      "size": 4284,
+      "sha256": "0a5169ea439ba5182001d4b82f44fc916556da42e20c4c7ce66ccff5433d7ae1"
+    },
+    "blend": {
+      "path": "assets/village/village-level-return-stepped-underside-foundation-01/v1.0.0/source.blend",
+      "size": 501880,
+      "sha256": "b5dae0e47bbd1d5e6e021925e111bbff414b89fba81c4ed9fd79b0ece2ca445c"
+    },
+    "generator": {
+      "path": "assets/village/village-level-return-stepped-underside-foundation-01/v1.0.0/generate.py",
+      "size": 9404,
+      "sha256": "29cbd3cba22db43cc29bb4e427fba2b0672ce3762ca1ea7b3aaad1e41721100a"
+    },
+    "render": {
+      "path": "assets/village/village-level-return-stepped-underside-foundation-01/v1.0.0/thumbnail.png",
+      "size": 363719,
+      "sha256": "9232e8f8b600ceaaca0a849ae4964935ed8e58bee4bf84f0089d3db93b38ae8d"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

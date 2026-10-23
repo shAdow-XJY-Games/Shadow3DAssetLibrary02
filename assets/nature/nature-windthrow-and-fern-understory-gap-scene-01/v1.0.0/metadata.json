@@ -1,0 +1,42 @@
+{
+  "id": "nature-windthrow-and-fern-understory-gap-scene-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "nature",
+  "style": "warm-handcrafted-village",
+  "title": "Windthrow and Fern Understory Gap",
+  "description": "One static woodland windthrow and understory-gap scene, zero new reusable models. Four entire qualified existing assets retain the complete upright low-fork canopy tree, uprooted rootplate-and-fallen-trunk, mature pinnate fern and compact emerging coiled fern crown. One low scene-only forest-earth floor supports all complete original ground interfaces. The fallen remnant is the central low barrier, standing canopy stays behind it, and two different whole understory forms flank a reserved clear foreground gap; no man-made soil-road modules or extra repeated trees. All original evaluated world geometry, complete oriented triangles and per-face opaque PBR remain unchanged at unit scale. Original hierarchy/normals are explicitly baked/recomputed. This is a visual habitat composition, not a measured regeneration process, ecological claim, collision/navigation, walkability or safety certification. One scene, zero new model count.",
+  "bounds": {
+    "x": 6.199999809,
+    "y": 6.699999809,
+    "z": 3.699514627,
+    "unit": "m"
+  },
+  "triangles": 5286,
+  "materials": 19,
+  "files": {
+    "glb": {
+      "path": "assets/nature/nature-windthrow-and-fern-understory-gap-scene-01/v1.0.0/model.glb",
+      "size": 581864,
+      "sha256": "653457aa9514fc2ec30c87273de7abaed96a424fa3045d4f67d0576c053fabf9"
+    },
+    "blend": {
+      "path": "assets/nature/nature-windthrow-and-fern-understory-gap-scene-01/v1.0.0/source.blend",
+      "size": 1724172,
+      "sha256": "e5a6778f30f928bb40b331ea08fcaea7e7ef608826bd32dc0330eff66a0a99a4"
+    },
+    "generator": {
+      "path": "assets/nature/nature-windthrow-and-fern-understory-gap-scene-01/v1.0.0/generate.py",
+      "size": 197174,
+      "sha256": "de2d6fc625d356b9818b887f8eb72fb2527f8a0d3bda90d9e3386431f8f274c1"
+    },
+    "render": {
+      "path": "assets/nature/nature-windthrow-and-fern-understory-gap-scene-01/v1.0.0/thumbnail.png",
+      "size": 529748,
+      "sha256": "a42608df0244921ce80539e013e9c098591a2b1599cae1e6704af7fc143a0fdc"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

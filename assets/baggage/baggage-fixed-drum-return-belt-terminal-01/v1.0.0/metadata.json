@@ -1,0 +1,42 @@
+{
+  "id": "baggage-fixed-drum-return-belt-terminal-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "baggage",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Drum and Return-Belt Terminal",
+  "description": "One newly authored complete static baggage belt-terminal module on four grounded legs. A single continuous thick capsule-loop belt includes full flat top and lower return spans and both curved end wraps. Two full transverse steel drums, two complete axles and four genuinely bored square bearing blocks sit in an open twin-rail frame with lower ties and transverse stretchers. Exposed drum ends and the lower return path distinguish this whole supported belt assembly from the existing many-roller straight table, radial roller bend, and fully grounded checkout cabinet with its bare belt shell. No old mesh extracted, wheel-count variant, cargo or scene. Nineteen closed editable components and three constant opaque untextured PBR materials; metres, native Z up and horizontal-bounds-centred ground origin. Fixed visual display only: no belt motion, tension, shaft rotation, drive, baggage transfer, throughput, compatible coupling, certified clearance, load, manufacture or operational safety claim.",
+  "bounds": {
+    "x": 1.516,
+    "y": 0.97,
+    "z": 0.958,
+    "unit": "m"
+  },
+  "triangles": 1464,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/baggage/baggage-fixed-drum-return-belt-terminal-01/v1.0.0/model.glb",
+      "size": 67036,
+      "sha256": "9609462743a986f245562c6fd5bcf0ca51188ca74f7f80ba41087dea110299cd"
+    },
+    "blend": {
+      "path": "assets/baggage/baggage-fixed-drum-return-belt-terminal-01/v1.0.0/source.blend",
+      "size": 683684,
+      "sha256": "b2ac07f875df3a64e71018e703183d1c486b9caeb7a220ce1c57bdd4046e7347"
+    },
+    "generator": {
+      "path": "assets/baggage/baggage-fixed-drum-return-belt-terminal-01/v1.0.0/generate.py",
+      "size": 9026,
+      "sha256": "8c3f17a84bb18962bbf4dc0a2bd5c19348adab81285d782427a4c7342844f880"
+    },
+    "render": {
+      "path": "assets/baggage/baggage-fixed-drum-return-belt-terminal-01/v1.0.0/thumbnail.png",
+      "size": 452399,
+      "sha256": "c2fa56c354b106c81db8c1fd6553e6631fb75027de5d24d0a2ec025939a1ab30"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

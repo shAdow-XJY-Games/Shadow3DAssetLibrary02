@@ -1,0 +1,42 @@
+{
+  "id": "robotics-fixed-circumferential-wheel-pipe-inspector-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "robotics",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Circumferential-Wheel Pipe Inspection Robot",
+  "description": "One original complete static pipe-inspection-robot appearance. A narrow twelve-facet axial body has tapered shoulders and an integral blind forward optical recess, with a separately editable fully backed opaque lens. Two axially separated groups each carry three whole continuous radial-to-tangential dogleg arms, three short tangent-axis connectors and three complete bevel-shouldered wheels. Each wheel plane contains the long axis and its own radial direction: one upper and two lower angled wheels surround the body at each end. Real open spaces separate the body, arms and wheels, while every arm root meets a true body flat and every wheel connector meets the arm and wheel faces. Twenty closed editable meshes and four constant opaque untextured PBR roles. All whole profiles and dimensions newly authored; only generic mesh orientation/triangulation and mature export/render infrastructure reused. Not an old planar rover with extra wheels, a rescaled sampling chassis, a drone rotor or an extracted ROV capsule. One whole prop, no pipe, scene, payload or separately counted parts. Metres, native Z up, front -Y, whole horizontal bounds-centred origin and actual lower wheel edges at Z0. Static exterior game art only: no pipe diameter compatibility, centring or expansion, working joints, spring force, wheel motion, driving, traction, balance, autonomous navigation, inspection sensing, power, pressure or water resistance, load-bearing tire contact area, engineering or safety claim. Pipe inspection names the visual genre, not demonstrated operational suitability or instructions.",
+  "bounds": {
+    "x": 0.688678,
+    "y": 1.06,
+    "z": 0.599678,
+    "unit": "m"
+  },
+  "triangles": 1800,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/robotics/robotics-fixed-circumferential-wheel-pipe-inspector-01/v1.0.0/model.glb",
+      "size": 88500,
+      "sha256": "f941f50a35657f8d8f7d6466bbdb071d92445c75456e27decac71000aed724ce"
+    },
+    "blend": {
+      "path": "assets/robotics/robotics-fixed-circumferential-wheel-pipe-inspector-01/v1.0.0/source.blend",
+      "size": 716340,
+      "sha256": "1832d4886d5a2c1cf3bd05aa65d41e8a5284aaf1d8ab38ac0f7d711d2fb211aa"
+    },
+    "generator": {
+      "path": "assets/robotics/robotics-fixed-circumferential-wheel-pipe-inspector-01/v1.0.0/generate.py",
+      "size": 23368,
+      "sha256": "41819191dd265abf0cae149e2a033d20e6c8126329ddeaf01baea9644f2a3905"
+    },
+    "render": {
+      "path": "assets/robotics/robotics-fixed-circumferential-wheel-pipe-inspector-01/v1.0.0/thumbnail.png",
+      "size": 498840,
+      "sha256": "3326e1e3fa4305d3a77a2dcdab6b4a52077884130f04c30952bafa77d88c6591"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

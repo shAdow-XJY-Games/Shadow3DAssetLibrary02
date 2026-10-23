@@ -1,0 +1,42 @@
+{
+  "id": "robotics-fixed-column-through-guide-radial-work-arm-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "robotics",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Column and Through-Guide Radial Work Arm",
+  "description": "One original complete fixed radial work-robot appearance. A continuous faceted ground plinth, tapered pedestal and tall narrow column include an integral lower shoulder and upper end stop. A thick annular sleeve has a genuine full bore with visible space around that column and rests on the complete lower shoulder. A separate chamfered guide over the sleeve has a real horizontal through-passage. One long straight beam runs through it with a lower seat, positive side and top space, a separate rear stop clear of the column and a continuous forward-open U end tool with two integral prongs. Six closed editable meshes and four opaque constant untextured PBR roles; metres, native Z up, front -Y and full horizontal bounds-centred ground origin. Every complete profile and dimension newly authored using generic mesh helpers only. This is not a removed gantry beam, reposed two-link elbow arm, renamed drill head, old table sleeve or end-tool-only variant. One whole prop, no workpiece, scene or independently counted parts. Static visual art only: column, sleeve, radial and guide describe visible geometry, not degrees of freedom, validated movement, trajectory, sliding or rotation, assembly path, fit, grasp, precision, actuation, load, anchoring, stability, manufacture, installation or safety performance.",
+  "bounds": {
+    "x": 0.784628,
+    "y": 1.902314,
+    "z": 1.55,
+    "unit": "m"
+  },
+  "triangles": 628,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/robotics/robotics-fixed-column-through-guide-radial-work-arm-01/v1.0.0/model.glb",
+      "size": 35536,
+      "sha256": "515ba4aae744a4abdc06c63aeb4d779a3882afdee3cd98b91a15cd9360f0db8c"
+    },
+    "blend": {
+      "path": "assets/robotics/robotics-fixed-column-through-guide-radial-work-arm-01/v1.0.0/source.blend",
+      "size": 580428,
+      "sha256": "d0f1140b696570948595631089c97e4125b5c4e3c7a893c0c47ea6d23281c223"
+    },
+    "generator": {
+      "path": "assets/robotics/robotics-fixed-column-through-guide-radial-work-arm-01/v1.0.0/generate.py",
+      "size": 23293,
+      "sha256": "44bbbcd99c8426d92fc96135e526747d5a14bcfab3f74f0f96b47aee205777ae"
+    },
+    "render": {
+      "path": "assets/robotics/robotics-fixed-column-through-guide-radial-work-arm-01/v1.0.0/thumbnail.png",
+      "size": 492732,
+      "sha256": "ae8d0daffad26a774f31b8abd22b5f0255204a303694f195d6a2183f2c21f2f9"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

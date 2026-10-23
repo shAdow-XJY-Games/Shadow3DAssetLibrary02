@@ -1,0 +1,42 @@
+{
+  "id": "village-open-loading-gambrel-half-loft-storehouse-01",
+  "version": "1.0.0",
+  "category": "architecture",
+  "assetKind": "modular",
+  "theme": "village",
+  "style": "S01-clean-geometric",
+  "title": "Open Loading Gambrel Half-Loft Storehouse",
+  "description": "One newly authored complete open-loading village storehouse shell. Four-pitch gambrel roof, full side and rear enclosure, ground slab and rear half-depth elevated timber loft form a double-height front bay with a distinct open upper loading front. The front is permanently open by design, not a preview cutaway; no roof or wall is hidden in export. Side wall upper edges meet the actual inclined underside and the rear wall follows the whole folded roof profile. The full ground opening and upper loading aperture are separated by a front timber header, with the rear loft visibly set back. Nine closed editable solids, three opaque constant PBR materials, native metres. One new architecture model, zero assembled scenes. Unlike the prior single-floor assembled storehouse or full-storey shop-house, this is a different whole gambrel/half-loft spatial shell, not additional copies of old wall modules. No access stairs, cargo, door leaves, physics, manufacture, loading capacity, building-code compliance, compatible host or safety assurance.",
+  "bounds": {
+    "x": 4.2,
+    "y": 5.3,
+    "z": 4.5,
+    "unit": "m"
+  },
+  "triangles": 144,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/village/village-open-loading-gambrel-half-loft-storehouse-01/v1.0.0/model.glb",
+      "size": 13180,
+      "sha256": "e20ad68821f0b28e44fc883482b29c3a7ef4b4ba28ffae22094bc5c1922cae1b"
+    },
+    "blend": {
+      "path": "assets/village/village-open-loading-gambrel-half-loft-storehouse-01/v1.0.0/source.blend",
+      "size": 566344,
+      "sha256": "07a91a3e2c3adafd09d3e81c4083deac045e34d12330af3908b785a1a02acce1"
+    },
+    "generator": {
+      "path": "assets/village/village-open-loading-gambrel-half-loft-storehouse-01/v1.0.0/generate.py",
+      "size": 9400,
+      "sha256": "ca43f8100114474e2e045d64a8955214b002891970989eeefa9d47020945dac7"
+    },
+    "render": {
+      "path": "assets/village/village-open-loading-gambrel-half-loft-storehouse-01/v1.0.0/thumbnail.png",
+      "size": 559763,
+      "sha256": "3ce5bd7c6e1632961bb7826166c9b88a99bb3913766a12fa1ffa5bb4563635c7"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

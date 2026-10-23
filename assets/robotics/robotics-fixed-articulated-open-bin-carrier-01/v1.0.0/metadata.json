@@ -1,0 +1,42 @@
+{
+  "id": "robotics-fixed-articulated-open-bin-carrier-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "robotics",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Articulated Open-Bin Carrier Robot",
+  "description": "One original whole fixed split-chassis transport-robot appearance. A low closed front electronics body on one axle and two ground wheels carries two complete pierced clevis plates. A continuous capped vertical pin passes with real shaft clearance through both plates and the short pierced rear-body tongue. That tongue rests on the lower clevis with a real gap below the upper plate, and connects to the full bottom of a newly authored deep open tapered bin. The complete rear bin, its separate underside frame, axle and two ground wheels form one22-degree fixed bent body relation to the front. An opaque front panel is fully backed. Fourteen closed editable meshes, four opaque constant untextured PBR materials, metres, native Z up, front -Y and complete horizontal bounds-centred ground origin. All whole shapes and dimensions are newly authored; no old rover, low platform, fork carrier, cargo-trailer tub, drawbar or eye is imported or extracted. The central captured joint and bent two-body structure are the novelty, not a deck replaced by a bin or a wheel-count variant. One empty prop, no cargo or scene. Static art only: no drive, autonomy, sensing, articulation range, steering, towing, assembly trajectory, bearing fit, load, stability, braking, manufacture, transport or equipment safety, nor compatibility with prior assets.",
+  "bounds": {
+    "x": 1.279978,
+    "y": 2.067701,
+    "z": 0.75,
+    "unit": "m"
+  },
+  "triangles": 992,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/robotics/robotics-fixed-articulated-open-bin-carrier-01/v1.0.0/model.glb",
+      "size": 55876,
+      "sha256": "8f99fa1e0e1bd11d9455d4dca26c1d78a69fe8454e1b14eaa43fac4fa30636f5"
+    },
+    "blend": {
+      "path": "assets/robotics/robotics-fixed-articulated-open-bin-carrier-01/v1.0.0/source.blend",
+      "size": 640696,
+      "sha256": "bf0db7968f7526c655ec9d65a33df18d9ca787e8120ddf6062875ebddf0cbf86"
+    },
+    "generator": {
+      "path": "assets/robotics/robotics-fixed-articulated-open-bin-carrier-01/v1.0.0/generate.py",
+      "size": 25239,
+      "sha256": "fe7e20b6bb04dbf5765ec6d8a6a7d2a2590bc67635d83024b04b7b31399ed02e"
+    },
+    "render": {
+      "path": "assets/robotics/robotics-fixed-articulated-open-bin-carrier-01/v1.0.0/thumbnail.png",
+      "size": 486858,
+      "sha256": "3083f1d1541a87d93705056d85cc725bd9defba4ccaaee5b197372f5d87b1ff5"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

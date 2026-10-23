@@ -1,0 +1,42 @@
+{
+  "id": "nature-asymmetric-massive-rock-bridge-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "nature",
+  "style": "warm-handcrafted-village",
+  "title": "Asymmetric Massive Natural Rock Bridge",
+  "description": "One original whole natural rock-bridge formation with a heavy uneven fractured crest, two unequal broad grounded buttresses and one genuinely open low wide underpass through its entire depth. The irregular front and rear outlines differ; intermediate depth facets create a continuous substantial stone mass rather than stacked rocks, a thin table ledge or a regular manufactured arch. One connected closed editable mesh and three coherent matte opaque stone PBR roles. All numeric geometry is newly authored; no existing outcrop, escarpment, failed mudbank or mine arch is recoloured, resized, cut apart or imported. One reusable static terrain prop, zero scenes; two rock feet and repeated facets are not separate assets. Metres, native Z up, whole horizontal bounds-centred ground origin. No natural-formation scientific reconstruction, erosion simulation, walking/collision/navigation, stability, load, engineering or safe traversal claim. No plants, water, text, textures or animated effects.",
+  "bounds": {
+    "x": 3.925912619,
+    "y": 1.474907637,
+    "z": 2.339999914,
+    "unit": "m"
+  },
+  "triangles": 122,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/nature/nature-asymmetric-massive-rock-bridge-01/v1.0.0/model.glb",
+      "size": 12568,
+      "sha256": "d0f513ebea82282482509b6826e06d2ee16f33740941e74db551f3cd98780bd9"
+    },
+    "blend": {
+      "path": "assets/nature/nature-asymmetric-massive-rock-bridge-01/v1.0.0/source.blend",
+      "size": 503808,
+      "sha256": "97d72e21f2daacbd9e292a2adaa262905ee2d5f4f4356d6ce75a13eeaf9629ab"
+    },
+    "generator": {
+      "path": "assets/nature/nature-asymmetric-massive-rock-bridge-01/v1.0.0/generate.py",
+      "size": 27254,
+      "sha256": "c54ff6843a69eb88b1d10c6497e4e256132ebcfce0484cd4ddea9b095834fa9d"
+    },
+    "render": {
+      "path": "assets/nature/nature-asymmetric-massive-rock-bridge-01/v1.0.0/thumbnail.png",
+      "size": 481430,
+      "sha256": "779ee10115f08935eb24e51dc4ff25174f22341d5367200bc802d51453a76eca"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
