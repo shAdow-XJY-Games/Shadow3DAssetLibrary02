@@ -1,0 +1,42 @@
+{
+  "id": "sports-fixed-curved-head-vaulting-table-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "sports",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Curved Head Vaulting Table",
+  "description": "One newly authored complete fixed vaulting-table exterior. A wide short crowned head has a progressively rising forward nose, changing side width and full thick curved lower shell, carried on a broad underhead saddle and one rear-offset tapered column. A whole connected fork-ended ground chassis has genuine front/rear recesses and a wide central column mount. All numeric head/base/column meshes are newly authored. It is not the existing long narrow horizontal two-pommel horse with its handles removed or a shortened balance beam: the complete broad head geometry and single offset support/base layout are different. Three opaque untextured solid PBR roles, metres, Z up, full horizontally bounds-centred ground origin. One complete prop, zero scenes, no athlete, springboard or extra equipment counts. Static illustrative exterior only: no official apparatus dimensions, adjustment, padding response, athlete fit, vault technique, loading, stability, manufacture or safety claim.",
+  "bounds": {
+    "x": 1.02,
+    "y": 1.37,
+    "z": 1.352,
+    "unit": "m"
+  },
+  "triangles": 218,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/sports/sports-fixed-curved-head-vaulting-table-01/v1.0.0/model.glb",
+      "size": 16952,
+      "sha256": "4b71d980e70895e5abcac36a9500542d83d839a6a6b0655ff04e6fececfec723"
+    },
+    "blend": {
+      "path": "assets/sports/sports-fixed-curved-head-vaulting-table-01/v1.0.0/source.blend",
+      "size": 551864,
+      "sha256": "3084f43cd515699c3c8571540dee6b25214fd08d2b0ff26df389fb3b9c84f41f"
+    },
+    "generator": {
+      "path": "assets/sports/sports-fixed-curved-head-vaulting-table-01/v1.0.0/generate.py",
+      "size": 10921,
+      "sha256": "5abe224c8f14e7ef65242d08e7c7c8a08f0753e513a33c4abfa4607086778940"
+    },
+    "render": {
+      "path": "assets/sports/sports-fixed-curved-head-vaulting-table-01/v1.0.0/thumbnail.png",
+      "size": 469836,
+      "sha256": "6da984ff9b0003e4b397db2f3c82a47cc0beda651991d306efc177d87d81a470"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
