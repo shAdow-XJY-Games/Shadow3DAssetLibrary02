@@ -1,0 +1,42 @@
+{
+  "id": "fitness-fixed-front-crank-rear-roller-elliptical-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "fitness",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Front-Crank Rear-Roller Elliptical",
+  "description": "One newly authored complete static front-crank/rear-roller elliptical-trainer appearance. Two continuous long grounded rails and transverse feet support an opaque front resistance case with one through axle and two opposed short fixed cranks. Each crank joins a whole long descending pedal link, a complete rimmed open foot tray and a rear supporting roller actually seated on its own rail in this pose. Two complete bent hand arms share a fixed high cross axle on the front mast, connect through lower pins to their pedal links and terminate in separate thick grips; a blank console completes the mast. This is not a seat deleted from the old upright cycle, a rail rower with its saddle replaced, or the old freely suspended air-walker fitted with longer platforms: the entire crank-link-rear-roller support topology is newly authored. Three opaque constant PBR roles; closed editable solids, metres, Z up and horizontal bounds-centred grounded feet. One whole prop, zero scenes. Fixed geometry only, no solved continuous linkage path, elliptical trajectory accuracy, pedal clearance throughout motion, rotation, exercise prescription, resistance, display or electrical operation, ergonomics, human fit, loading, manufacture or fitness-equipment safety claim.",
+  "bounds": {
+    "x": 0.89,
+    "y": 1.935,
+    "z": 1.615953166428684,
+    "unit": "m"
+  },
+  "triangles": 1628,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/fitness/fitness-fixed-front-crank-rear-roller-elliptical-01/v1.0.0/model.glb",
+      "size": 94152,
+      "sha256": "c3849bb09e63370794a093fba7eca9d86d48fb37ec767b558509a4cc71913ea1"
+    },
+    "blend": {
+      "path": "assets/fitness/fitness-fixed-front-crank-rear-roller-elliptical-01/v1.0.0/source.blend",
+      "size": 743500,
+      "sha256": "9e1ea1027adf9f9931b1d71ed9e84d465929d0e398e93adb0ea5b37340edce10"
+    },
+    "generator": {
+      "path": "assets/fitness/fitness-fixed-front-crank-rear-roller-elliptical-01/v1.0.0/generate.py",
+      "size": 12744,
+      "sha256": "ae023c127e12a0c7b400a7a5bfa82fb424f8872efac16186381628418d565449"
+    },
+    "render": {
+      "path": "assets/fitness/fitness-fixed-front-crank-rear-roller-elliptical-01/v1.0.0/thumbnail.png",
+      "size": 400364,
+      "sha256": "79ad9ea0b286678be29c4753d7d8fc4378a1fb8ff3d9cdddf018a49697f83bd3"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
