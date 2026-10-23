@@ -1,0 +1,42 @@
+{
+  "id": "animal-static-two-lobed-arched-leg-spider-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "animal",
+  "style": "S01-clean-geometric",
+  "title": "Static Two-Lobed Arched-Leg Spider",
+  "description": "One newly authored stylised whole spider-like exterior. A compact low rounded head-thorax flows through a genuinely narrow continuous pedicel into a much larger high bulbous abdomen. Four pairs of complete high-arched tapering legs spread from the front body into eight finite flat toe caps. Two short bent blunt front palps and eight small low unstalked eye bumps belong to the same fixed animal. Every whole body station, leg/palp path and eye placement is newly drawn; this is not a scorpion with its tail removed, a shell-less beetle, a crab with changed pincers or a leg-count/colour variant. The two body lobes and connecting waist are one continuous closed skin; separate full appendages have intentional finite embedded roots. One prop, zero scenes and zero separately counted limbs. Metres, native Z up, front -Y and full horizontal bounds-centred grounded display. Four opaque matte untextured PBR roles. Static artistic appearance only: no exact species, life-size, scientific anatomy, venom or dangerousness identification, web-making, gait, rig, animation, optical behaviour, physical stability or biological/ecological performance claim.",
+  "bounds": {
+    "x": 1.941857,
+    "y": 1.879016,
+    "z": 0.754428,
+    "unit": "m"
+  },
+  "triangles": 1696,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/animal/animal-static-two-lobed-arched-leg-spider-01/v1.0.0/model.glb",
+      "size": 127548,
+      "sha256": "65009ecb8a82db2b242dd9967d248c354b66e2bd2aaa465e829d5c402bbcc334"
+    },
+    "blend": {
+      "path": "assets/animal/animal-static-two-lobed-arched-leg-spider-01/v1.0.0/source.blend",
+      "size": 705600,
+      "sha256": "e6fca20a8b3603961f5c338bfffadc1c20ba0710e3c986c3e40966cfa629669f"
+    },
+    "generator": {
+      "path": "assets/animal/animal-static-two-lobed-arched-leg-spider-01/v1.0.0/generate.py",
+      "size": 24213,
+      "sha256": "d5e85cdc8c72f61a14682858cde444f5e6f5f4be2f7cfa58fcbb4335ad5951b1"
+    },
+    "render": {
+      "path": "assets/animal/animal-static-two-lobed-arched-leg-spider-01/v1.0.0/thumbnail.png",
+      "size": 511271,
+      "sha256": "c097a8ae499b2659ae1b25b9c7e9bdfb86600185a00b28c3e102867f8cc1174f"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
