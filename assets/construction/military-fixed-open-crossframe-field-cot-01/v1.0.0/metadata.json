@@ -1,0 +1,42 @@
+{
+  "id": "military-fixed-open-crossframe-field-cot-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "military",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Open Crossframe Field Cot",
+  "description": "One original complete fixed-open field cot for a non-weapon camp sleeping-equipment visual. Two full longitudinal side rails and two full end tension crossbars carry a single closed thick shallow-sag canvas sleeping surface. Three complete transverse crossed trestles have separate front/rear bar layers, fixed shared pivot pins and six broad ground pads. No mattress, pillow, raised backrest, shelter, person, weapon or insignia. This is not the four-post slatted bedroom bed recoloured, a lengthened folding armchair or the integral inclined side-frame beach chaise. All geometry newly authored; twenty closed editable meshes and three opaque untextured PBR roles, metres/native Z up/horizontal bounds-centred ground origin. One fixed deployed static prop, zero scenes. No real folding trajectory, fabric tension, sleeping suitability, load rating, stability, manufacturing fit, military specification or operational/safety claim.",
+  "bounds": {
+    "x": 0.81,
+    "y": 2.07,
+    "z": 0.49,
+    "unit": "m"
+  },
+  "triangles": 432,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/construction/military-fixed-open-crossframe-field-cot-01/v1.0.0/model.glb",
+      "size": 33596,
+      "sha256": "c0f8f74d64ee81313a00192712879d8c943108655d67f02e0b33e8ce1e0e9f6a"
+    },
+    "blend": {
+      "path": "assets/construction/military-fixed-open-crossframe-field-cot-01/v1.0.0/source.blend",
+      "size": 632716,
+      "sha256": "164ac248d5b78abb5194e3605821c96c6b27801d6d7fbab84a2c5f776bc9d889"
+    },
+    "generator": {
+      "path": "assets/construction/military-fixed-open-crossframe-field-cot-01/v1.0.0/generate.py",
+      "size": 10400,
+      "sha256": "45084af36a9cc2dffea8883a870b34fa4680b23c394bde7d40c4b6293933914e"
+    },
+    "render": {
+      "path": "assets/construction/military-fixed-open-crossframe-field-cot-01/v1.0.0/thumbnail.png",
+      "size": 348003,
+      "sha256": "4d90ed4d772ccdd553665ae03215adfd292c8c04c5aaf2064c830c24c0411300"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
