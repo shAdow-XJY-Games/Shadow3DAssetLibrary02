@@ -1,0 +1,42 @@
+{
+  "id": "ruins-open-crown-arch-rebuilding-bay-scene-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "ruins",
+  "style": "S01-clean-geometric",
+  "title": "Open-Crown Arch Rebuilding Display Bay",
+  "description": "One static reconstruction-stage display scene for the original ruins/repair direction. One complete previously published timber arch-centering model remains at original scale and shape, with its two soles on a new finite ground slab. Two new scene-only notched masonry abutments and six faceted rising arch blocks follow the original deck facets while leaving a clearly open crown gap. The entire old timber form, ribs, fan webs, posts, ties and ground soles remain present; nothing is cut away or recoloured. One complete original empty wheelbarrow stands beside a clear frontal approach, retaining its full tub, wheel, handles and rear feet. Both old models preserve all original oriented triangles and constant opaque PBR values, with only declared whole translations; no old independent part is extracted or counted anew. New masonry is context authored only for this scene and is not separately listed as an independent model. This is not the old breached-wall staged workzone with separated raking shores, nor an altered break count in an old arch. One scene, zero new independent models. Static illustrative arrangement only: no real construction sequence, installed-load proof, masonry bond, mortar, arch-bearing certification, human navigation or repair safety guarantee.",
+  "bounds": {
+    "x": 5.2,
+    "y": 3.6,
+    "z": 2.1564761642153503,
+    "unit": "m"
+  },
+  "triangles": 1244,
+  "materials": 9,
+  "files": {
+    "glb": {
+      "path": "assets/ruins/ruins-open-crown-arch-rebuilding-bay-scene-01/v1.0.0/model.glb",
+      "size": 81488,
+      "sha256": "1dc32c0921f1e5b2794c8038fec694719a4c13de70eda0f8f822c3ab3c24735b"
+    },
+    "blend": {
+      "path": "assets/ruins/ruins-open-crown-arch-rebuilding-bay-scene-01/v1.0.0/source.blend",
+      "size": 860428,
+      "sha256": "c335b3af64f8cbad3ec52dbcb6225c44cd62cf3bd4f419bf2e6c5149994c0f06"
+    },
+    "generator": {
+      "path": "assets/ruins/ruins-open-crown-arch-rebuilding-bay-scene-01/v1.0.0/generate.py",
+      "size": 20271,
+      "sha256": "7f7598cb7ff666721fdc53ea17f0f4352f51839c7951479609a56a44fb7e090b"
+    },
+    "render": {
+      "path": "assets/ruins/ruins-open-crown-arch-rebuilding-bay-scene-01/v1.0.0/thumbnail.png",
+      "size": 427573,
+      "sha256": "e916accff44b8e422b0da712a690f87f5d3f5e3e18e5115a525b1be820699f7e"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
