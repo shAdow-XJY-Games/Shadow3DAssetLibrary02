@@ -1,0 +1,42 @@
+{
+  "id": "interior-fixed-half-retracted-pocket-door-module-01",
+  "version": "1.0.0",
+  "category": "modular",
+  "assetKind": "modular",
+  "theme": "interior",
+  "style": "source-preserved-low-poly",
+  "title": "Fixed Half-Retracted Pocket Door Module",
+  "description": "One original fixed half-retracted interior pocket-door module. A continuous grounded two-skin wall cassette has a genuine full-height internal pocket and an open right mouth; a full header and right jamb bound the adjacent opening. One complete thick sliding-leaf appearance extends from inside the pocket into part of that opening, leaving a visibly clear remaining opening. The leaf has a real shallow recessed finger pull with a closed back. Two fixed stems and captive heads join the leaf to a continuous genuinely slotted overhead channel. This is a newly authored whole wall-pocket and one-leaf assembly, not an existing hinged or bifold kit with a changed angle. One static modular asset, zero scenes. No motion sweep, operative sliding, hardware load rating, host-wall compatibility, installation, building regulations, fire rating, acoustic performance, human passage, accessibility or structural safety certification.",
+  "bounds": {
+    "x": 2.0,
+    "y": 0.25999999046325684,
+    "z": 2.1500000953674316,
+    "unit": "m"
+  },
+  "triangles": 644,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/interior/interior-fixed-half-retracted-pocket-door-module-01/v1.0.0/model.glb",
+      "size": 59584,
+      "sha256": "dc955169de90ce5358a9cef839dd28d206d89f3d83fc638ac4a0406138d4cf62"
+    },
+    "blend": {
+      "path": "assets/interior/interior-fixed-half-retracted-pocket-door-module-01/v1.0.0/source.blend",
+      "size": 637760,
+      "sha256": "7c60523f9ef23415087088204d3e085eedc9eb167203db94c25904a423638723"
+    },
+    "generator": {
+      "path": "assets/interior/interior-fixed-half-retracted-pocket-door-module-01/v1.0.0/generate.py",
+      "size": 14248,
+      "sha256": "e552d2499de3964ae7c11dfeff24c6dab2f677b547cfd0c74354a53eb1528a22"
+    },
+    "render": {
+      "path": "assets/interior/interior-fixed-half-retracted-pocket-door-module-01/v1.0.0/thumbnail.png",
+      "size": 494471,
+      "sha256": "95460bea0ab4e153751f802b649ca21dffef2727202dc5651bd8d47f50b31b34"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "public-fixed-twin-pendulum-air-walker-01",
+  "version": "1.0.0",
+  "category": "modular",
+  "assetKind": "prop",
+  "theme": "public-service",
+  "style": "warm-handcrafted-village",
+  "title": "Fixed Twin-pendulum Park Air Walker",
+  "description": "One complete newly authored static park air-walker exercise apparatus. A continuous inverted-U upper handrail and two full grounded runner shoes support two independent transverse axle journals. Each journal carries its own long rigid pendulum arm descending to a complete thick open foot tray with real raised side rims; the two pedals are fixed in opposite fore-and-aft positions. The open central standing region and separated suspended pedal platforms differ from a seated cycling crank, sliding rowing carriage or a rope-suspended swing seat. Nine closed editable meshes and four opaque PBR materials, one prop and zero scenes. Static game-art appearance only: no real motion, bearing clearance, exercise guidance, user fit, load, stability, anchoring or public-fitness safety certification.",
+  "bounds": {
+    "x": 1.399999976,
+    "y": 1.24000001,
+    "z": 1.25,
+    "unit": "m"
+  },
+  "triangles": 316,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/public-service/public-fixed-twin-pendulum-air-walker-01/v1.0.0/model.glb",
+      "size": 22924,
+      "sha256": "798231dba6e804876010cd42b1dd1879b2dab48d04ba31cb4c290c11e9d342fb"
+    },
+    "blend": {
+      "path": "assets/public-service/public-fixed-twin-pendulum-air-walker-01/v1.0.0/source.blend",
+      "size": 571672,
+      "sha256": "cbf604509a1280249543c9332b3830067b2e7e701236ba45d1dc556ce572a94c"
+    },
+    "generator": {
+      "path": "assets/public-service/public-fixed-twin-pendulum-air-walker-01/v1.0.0/generate.py",
+      "size": 27825,
+      "sha256": "0a344d82c257d7d96de2df37f72e893de7b5aeb783ca6228f6ac838b5c018f11"
+    },
+    "render": {
+      "path": "assets/public-service/public-fixed-twin-pendulum-air-walker-01/v1.0.0/thumbnail.png",
+      "size": 519257,
+      "sha256": "2fe3a266d7bed08a9a5291a06cfb79785f71c7fd2f5f20d21f97d21781953508"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

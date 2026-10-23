@@ -1,0 +1,42 @@
+{
+  "id": "farming-static-twin-wheel-chain-bucket-lift-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "farming",
+  "style": "S01-clean-geometric",
+  "title": "Static Twin Wheel Chain Bucket Lift",
+  "description": "One new whole static dry chain-bucket irrigation-lift appearance: two vertically separated open-rim wheels on full axles and a grounded braced timber frame carry two continuous closed capsule-shaped chain-route bands and a fixed row of ten whole thick open buckets. The ascending buckets face upward, return-side buckets downward and the two turning buckets sideways. A separate elevated sloping U-section outlet gutter on its full support stands beside the upper route. This is not the previous single paddle waterwheel, single-rope well, piston/treadle pump or an extra row of buckets on an old model. All visible geometry new, three opaque PBR roles, metres and whole XY-centred ground origin. Stylized continuous bands indicate chain routing; individual articulated chain links, sprocket engagement, empty-cycle trajectories, liquid pickup/discharge, drive input, motion, pressure/lift/flow efficiency, bearings, load/stability/manufacture and safety are not modeled or certified. Dry visual game prop, not operating instructions.",
+  "bounds": {
+    "x": 1.34,
+    "y": 2.27,
+    "z": 2.7,
+    "unit": "m"
+  },
+  "triangles": 1816,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/farming/farming-static-twin-wheel-chain-bucket-lift-01/v1.0.0/model.glb",
+      "size": 98540,
+      "sha256": "63d9767b94aa735fbfb964bd4e187a5c7df7468f1ca2c11e4478e83b453052a8"
+    },
+    "blend": {
+      "path": "assets/farming/farming-static-twin-wheel-chain-bucket-lift-01/v1.0.0/source.blend",
+      "size": 808980,
+      "sha256": "4b0070e28898a9a4aa4a78d7ee38d4ef1d1fa6330678d50c536f35514066f1dc"
+    },
+    "generator": {
+      "path": "assets/farming/farming-static-twin-wheel-chain-bucket-lift-01/v1.0.0/generate.py",
+      "size": 11531,
+      "sha256": "5c4140635033b491d3aeef7a842fb72e865a5e9c9b8291e26bb58297713ee1d3"
+    },
+    "render": {
+      "path": "assets/farming/farming-static-twin-wheel-chain-bucket-lift-01/v1.0.0/thumbnail.png",
+      "size": 485944,
+      "sha256": "c93891398be5c2aa7ecc14504068bd140be93ed4c9ac1e1cd8d22344ca88bfed"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
