@@ -1,0 +1,42 @@
+{
+  "id": "laboratory-fixed-double-jaw-burette-stand-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "laboratory",
+  "style": "source-preserved-low-poly",
+  "title": "Fixed Double-Jaw Burette Stand",
+  "description": "One newly authored whole static laboratory double-jaw burette-stand appearance: chamfered base and upright rod, two bored sleeves with reach arms and true split-front fixed jaws, one complete long thick open tube, fixed lateral valve exterior and hollow narrow outlet, with a whole empty receiving flask on the base. New complete numeric geometry, not an old graduated cylinder, pipette rack or honey strainer modified. Nine solid ticks are illustrative only. Opaque constant PBR game-art, one model zero scenes; no transparent liquid, continuous fluid circuit, dosing, calibration, chemical experiment, electrical or safety use claim.",
+  "bounds": {
+    "x": 0.36000001430511475,
+    "y": 0.27000001072883606,
+    "z": 0.7329999804496765,
+    "unit": "m"
+  },
+  "triangles": 2352,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/winter/laboratory-fixed-double-jaw-burette-stand-01/v1.0.0/model.glb",
+      "size": 217972,
+      "sha256": "e8936e9af9f04380091d2fc94e761b99b6500d5297953ef2d7faf6cce916440f"
+    },
+    "blend": {
+      "path": "assets/winter/laboratory-fixed-double-jaw-burette-stand-01/v1.0.0/source.blend",
+      "size": 955712,
+      "sha256": "e99a7d3f2cd4fec353e7967dffd0de6785086ab2e4af067588727c7885f7c72a"
+    },
+    "generator": {
+      "path": "assets/winter/laboratory-fixed-double-jaw-burette-stand-01/v1.0.0/generate.py",
+      "size": 15988,
+      "sha256": "6b6d9608c8ada8f0085f531ecaf987e5a2fb9a749080f77c916c2f03f9fe11d0"
+    },
+    "render": {
+      "path": "assets/winter/laboratory-fixed-double-jaw-burette-stand-01/v1.0.0/thumbnail.png",
+      "size": 458639,
+      "sha256": "c2015acd5eddd27103170f7829720b90bfb6e1e16a71bf77085fe00a5cd985cc"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
