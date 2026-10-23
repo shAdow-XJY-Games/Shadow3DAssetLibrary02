@@ -1,0 +1,42 @@
+{
+  "id": "steam-workshop-fixed-elevated-beam-engine-display-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "steam-workshop",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Elevated Beam Engine Display",
+  "description": "One newly authored complete fixed beam-engine appearance for the original steam-workshop piston and transmission-display direction. A broad single bed supports a vertical front-cutaway cylinder with visible piston, full top gland and long upright piston stem. Two tall tapered standards carry a transverse high spindle and one continuous three-eyed inclined walking beam. The cylinder-side eye/pin joins the upright stem; the opposite beam end has a separate complete long two-eye rod descending to an offset crank pin. A grounded paired-bearing crankshaft carries a complete open-spoke flywheel. Real beam and rod bores, complete cylinder chamber/front opening and flywheel windows are geometry, with fixed pins and retainers visibly connecting the two linkage paths. All whole coordinates, proportions and layout are newly authored, not old horizontal crosshead machinery rotated, a water sweep with a wheel, or old complete props arranged together. Only mature generic mesh, export and rendering infrastructure reused. Separate closed editable components use three opaque solid PBR materials, metres, native Z up, front -Y and whole horizontal bounds-centred grounded bed. One complete model, zero scenes. This is a single frozen illustrative display: no functioning steam engine, pressure, thermal effects, sealing, parallel-motion accuracy, continuous kinematics or stroke clearance, power, load, stability, manufacture, installation or safety claim.",
+  "bounds": {
+    "x": 3.45,
+    "y": 1.55,
+    "z": 2.439280909969468,
+    "unit": "m"
+  },
+  "triangles": 4252,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/steam-workshop/steam-workshop-fixed-elevated-beam-engine-display-01/v1.0.0/model.glb",
+      "size": 205568,
+      "sha256": "c123c1f4b77f5fdf03b3ef5642916f96566fb3d4d482e33929eec76b69b1a475"
+    },
+    "blend": {
+      "path": "assets/steam-workshop/steam-workshop-fixed-elevated-beam-engine-display-01/v1.0.0/source.blend",
+      "size": 921828,
+      "sha256": "15fcae6a880fce9bc8f650323d218296a6e59816ec7669d97eed9c256e1f0adc"
+    },
+    "generator": {
+      "path": "assets/steam-workshop/steam-workshop-fixed-elevated-beam-engine-display-01/v1.0.0/generate.py",
+      "size": 13990,
+      "sha256": "9af45705668268c1406828d39fb33c56a70d683da0aa4de4950cd56d2ec34016"
+    },
+    "render": {
+      "path": "assets/steam-workshop/steam-workshop-fixed-elevated-beam-engine-display-01/v1.0.0/thumbnail.png",
+      "size": 458550,
+      "sha256": "b8cf49e4798326ad63977b867e1dc41e0b3b1d75da2429c429dc0a9508003b8f"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

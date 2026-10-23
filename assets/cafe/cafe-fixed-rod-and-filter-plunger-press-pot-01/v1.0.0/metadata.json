@@ -1,0 +1,42 @@
+{
+  "id": "cafe-fixed-rod-and-filter-plunger-press-pot-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "cafe",
+  "style": "source-preserved-low-poly",
+  "title": "Fixed Rod-and-Filter Plunger Press Pot",
+  "description": "One original complete fixed plunger-press coffee-pot appearance. A tall genuinely hollow opaque vessel has a continuous thick floor/wall and short integral flared rim pour lip. Two annular support bands, three vertical ties and one continuous open C handle form its outer cradle. A seated annular lid has a real central through-hole; a single long fixed rod passes through it from a high knob to a coarse internal ring-and-cross filter appearance. The filter is deliberately a simplified four-window static detail, not a working fine screen. All geometry newly authored, not the moka or gooseneck kettle resized. One whole prop, zero scenes. Four constant opaque PBR roles, no textures or transparent glass. No plunger motion sweep, actual filtration/brewing/pressing, fluid, heat, pressure, food-contact suitability, handling, manufacture or safety certification.",
+  "bounds": {
+    "x": 0.218941792845726,
+    "y": 0.1509999930858612,
+    "z": 0.3580000102519989,
+    "unit": "m"
+  },
+  "triangles": 2576,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/cafe/cafe-fixed-rod-and-filter-plunger-press-pot-01/v1.0.0/model.glb",
+      "size": 226052,
+      "sha256": "dd54ff897e2d296c201e8c354fc15385854662a69fad965e66891f102fa551fc"
+    },
+    "blend": {
+      "path": "assets/cafe/cafe-fixed-rod-and-filter-plunger-press-pot-01/v1.0.0/source.blend",
+      "size": 900832,
+      "sha256": "fc7830272a5ae4cb3fc7cb05a9d61837eaa654abb7320349b6e3b1c745eead35"
+    },
+    "generator": {
+      "path": "assets/cafe/cafe-fixed-rod-and-filter-plunger-press-pot-01/v1.0.0/generate.py",
+      "size": 15326,
+      "sha256": "8557cd9bdb86b0f959da6969f69aea6ce13f5378b2566e04a71be1d5cc2065c3"
+    },
+    "render": {
+      "path": "assets/cafe/cafe-fixed-rod-and-filter-plunger-press-pot-01/v1.0.0/thumbnail.png",
+      "size": 459713,
+      "sha256": "a8f8420ac8f082d8403ee21c5d939bf174017b553dbc8bd1df49259144bd5247"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

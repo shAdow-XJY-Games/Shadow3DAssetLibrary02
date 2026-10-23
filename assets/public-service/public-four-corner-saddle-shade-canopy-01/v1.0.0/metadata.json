@@ -1,0 +1,42 @@
+{
+  "id": "public-four-corner-saddle-shade-canopy-01",
+  "version": "1.0.0",
+  "category": "modular",
+  "assetKind": "modular",
+  "theme": "public-service",
+  "style": "warm-handcrafted-village",
+  "title": "Four-corner Saddle Shade Canopy",
+  "description": "One complete newly authored static park shade canopy. Its single continuous closed thin roof is an anticlastic saddle: two diagonal corners rise while the other two fall, and all four plan edges curve inward. Four independently grounded square posts support real near-corner roof patches, with no central pole, umbrella ribs, barrel ribs or copied single-slope entrance roof. The center stays visibly open beneath the cloth-like surface. Four complete flat shoes and four posts plus one whole thick roof, nine closed meshes and three opaque constant PBR values. One modular asset and zero scenes. Static game-art approximation only: no real fabric tension, cable system, wind/rain protection, drainage, engineering, installation, human clearance, load or park-safety certification.",
+  "bounds": {
+    "x": 3.200000048,
+    "y": 3.200000048,
+    "z": 3.24000001,
+    "unit": "m"
+  },
+  "triangles": 1856,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/public-service/public-four-corner-saddle-shade-canopy-01/v1.0.0/model.glb",
+      "size": 107164,
+      "sha256": "5ce9a0bae8838a45354d100d17e6523a2bc07f9ba09be559d155739587aa04ee"
+    },
+    "blend": {
+      "path": "assets/public-service/public-four-corner-saddle-shade-canopy-01/v1.0.0/source.blend",
+      "size": 605248,
+      "sha256": "52ac79cc4ffcc6a9928aa4aba085a7b32b35dec1a71de72482f33416317095da"
+    },
+    "generator": {
+      "path": "assets/public-service/public-four-corner-saddle-shade-canopy-01/v1.0.0/generate.py",
+      "size": 27829,
+      "sha256": "04fe155ef2f8a96c219b5d17c2a09ec44427b71cd1b73cb142b412f7fd961a0e"
+    },
+    "render": {
+      "path": "assets/public-service/public-four-corner-saddle-shade-canopy-01/v1.0.0/thumbnail.png",
+      "size": 501974,
+      "sha256": "c0f349ffd98f69bd69bb089e2ec1ab37764a25599136153c6780ae0f332a5aee"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
