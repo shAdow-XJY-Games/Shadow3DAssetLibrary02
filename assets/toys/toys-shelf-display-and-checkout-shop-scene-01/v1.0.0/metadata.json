@@ -1,0 +1,42 @@
+{
+  "id": "toys-shelf-display-and-checkout-shop-scene-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "toys",
+  "style": "source-preserved-low-poly",
+  "title": "Toy Shelf Display and Checkout Shop",
+  "description": "One static toy-shop display scene, one scene and zero new independent models. Five complete original qualified assets are preserved at unit scale: freestanding pierced A-frame bookcase, a wooden toy car on its real lowest shelf tray, a seated fabric bear on a low scene-only display plinth, an open worktable and a complete open-till register on its actual tabletop. Only the whole wooden car turns exactly 90 degrees to present its broad grip-window side; other original poses remain unchanged. A single continuous floor/plinth solid provides the low bear display and open front aisle. Car wheel soles fit inside the actual shelf floor, below the next full shelf; the register footprint lies inside the complete tabletop, and all unrelated whole objects remain separated. This is retail display and checkout staging, not the earlier play-kitchen and floor-play arrangement. Original raw GLB vertex/normal payloads, internal nodes, every full component and per-face solid PBR are retained, not resized toys or extracted shelf parts. No labels, price text, money, customers, child scale, toy age suitability, payment function, merchandise protection, load capacity, shelving stability, accessibility or safety certification is claimed.",
+  "bounds": {
+    "x": 4.199999809265137,
+    "y": 3.4000000953674316,
+    "z": 1.7200000286102295,
+    "unit": "m"
+  },
+  "triangles": 10458,
+  "materials": 15,
+  "files": {
+    "glb": {
+      "path": "assets/toys/toys-shelf-display-and-checkout-shop-scene-01/v1.0.0/model.glb",
+      "size": 624440,
+      "sha256": "2466b5654f245fbd5973ca671f5196f77be79e5a28c8a2eb9537e8e7f76f5c5f"
+    },
+    "blend": {
+      "path": "assets/toys/toys-shelf-display-and-checkout-shop-scene-01/v1.0.0/source.blend",
+      "size": 286858,
+      "sha256": "667af7f580beb8e4816c48776aa52b2a3abd4bd211747a7c384f45c21a2ae695"
+    },
+    "generator": {
+      "path": "assets/toys/toys-shelf-display-and-checkout-shop-scene-01/v1.0.0/generate.py",
+      "size": 187032,
+      "sha256": "929ed8fb8c52150bc426fa4c01c733429aa5d0ef57505b2d4e0d3cf49f38f4f8"
+    },
+    "render": {
+      "path": "assets/toys/toys-shelf-display-and-checkout-shop-scene-01/v1.0.0/thumbnail.png",
+      "size": 483729,
+      "sha256": "b26f6be71e0eebaa86c13fba825030f6bb14addd5396b94daa63285bb4d05d08"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
