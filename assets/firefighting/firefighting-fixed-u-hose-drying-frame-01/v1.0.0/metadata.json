@@ -1,0 +1,42 @@
+{
+  "id": "firefighting-fixed-u-hose-drying-frame-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "firefighting",
+  "style": "source-preserved-low-poly",
+  "title": "Fixed U Hose Drying Frame",
+  "description": "One original complete static fire-station hose-drying-frame appearance. Two tall uprights, broad longitudinal flat feet and four full diagonal braces carry a transverse top beam and one broad rounded saddle. One whole continuous flattened hollow hose rises from a lower round end, turns over the saddle through a complete U bend, and descends to a second unequal-height round end; both real open mouths have separate complete annular coupling appearances. All geometry newly authored, not the old multi-turn reel unwound, a clipped clothesline recoloured or repeated hose instances. Three opaque constant PBR roles. One complete prop, zero scenes or loose extra hoses. Static visual only: no drying effectiveness, air or liquid flow, pressure containment, actual hanging equilibrium, lifting mechanism, hose compatibility, load, manufacturing or safety claim.",
+  "bounds": {
+    "x": 1.0299999713897705,
+    "y": 0.8799999952316284,
+    "z": 2.7720000743865967,
+    "unit": "m"
+  },
+  "triangles": 2344,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/firefighting/firefighting-fixed-u-hose-drying-frame-01/v1.0.0/model.glb",
+      "size": 206672,
+      "sha256": "c71e79027cfd1e8d44a3cf9265ff666467b3f0beeabe1334347b350c42701a1b"
+    },
+    "blend": {
+      "path": "assets/firefighting/firefighting-fixed-u-hose-drying-frame-01/v1.0.0/source.blend",
+      "size": 856384,
+      "sha256": "039952e202408932338b1ed5e9cdf80e93bb982cff755fbde39c37b88da0b3d8"
+    },
+    "generator": {
+      "path": "assets/firefighting/firefighting-fixed-u-hose-drying-frame-01/v1.0.0/generate.py",
+      "size": 14592,
+      "sha256": "8ddc52a0514b6e3f72439c704af0a71fc75ac98e28e839c10d8a5f26371f9c61"
+    },
+    "render": {
+      "path": "assets/firefighting/firefighting-fixed-u-hose-drying-frame-01/v1.0.0/thumbnail.png",
+      "size": 474896,
+      "sha256": "61129451628e5177b7fbd27e40ae8480242d9f20f009494125c651dfe6c766d7"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "library-fixed-upper-rail-and-wheeled-ladder-01",
+  "version": "1.0.0",
+  "category": "modular",
+  "assetKind": "modular",
+  "theme": "library",
+  "style": "source-preserved-low-poly",
+  "title": "Fixed Upper Rail And Wheeled Library Ladder",
+  "description": "One original complete fixed library rail-ladder module appearance. A single open inclined flight with seven full horizontal treads and two continuous side rails has two lower transverse-travel wheels, two complete upper open hanger cheeks and exposed rail rollers. One full horizontal guide track with integral end stops and three rear anchor brackets is included as part of the assembly, not a separate asset. Unlike the four-foot folding A-frame, this has no rear ground branch or folding limiter; unlike the pocket door, its exposed upper rollers and lower wheels support an inclined open ladder rather than a leaf enclosed in a wall cassette. All geometry newly authored. Three opaque PBR roles. One modular asset, zero scenes, books, host wall or bookcase. Fixed visual pose only: no actual sliding, climbing suitability, human fit, attachment compatibility, balance, brake, load, installation or safety claim.",
+  "bounds": {
+    "x": 1.840000033378601,
+    "y": 1.0,
+    "z": 2.509999990463257,
+    "unit": "m"
+  },
+  "triangles": 1548,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/library/library-fixed-upper-rail-and-wheeled-ladder-01/v1.0.0/model.glb",
+      "size": 147592,
+      "sha256": "f174ff447b42162e067c942021aa58b8232d1895c9acb3a9670251e753df38f0"
+    },
+    "blend": {
+      "path": "assets/library/library-fixed-upper-rail-and-wheeled-ladder-01/v1.0.0/source.blend",
+      "size": 823680,
+      "sha256": "439bf3b4bfa04db776bc2d05a3db13a82783d7b510b2ba3509c0a1eee59e0841"
+    },
+    "generator": {
+      "path": "assets/library/library-fixed-upper-rail-and-wheeled-ladder-01/v1.0.0/generate.py",
+      "size": 15181,
+      "sha256": "8b5db064e7b8da17ab1c55c52f364b6c710e887030f64f61ed948c97fd7453ab"
+    },
+    "render": {
+      "path": "assets/library/library-fixed-upper-rail-and-wheeled-ladder-01/v1.0.0/thumbnail.png",
+      "size": 491967,
+      "sha256": "eddcabd63594aa2b11c10d6cc77f6fc4f166c6c8d01a74653db322ee17a5b3ca"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
