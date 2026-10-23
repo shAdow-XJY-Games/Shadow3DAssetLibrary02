@@ -1,0 +1,42 @@
+{
+  "id": "desert-open-slatted-barrel-shade-frame-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "desert",
+  "style": "source-preserved-low-poly",
+  "title": "Open Slatted Barrel-Shade Frame",
+  "description": "One original complete static open slatted barrel-shade frame. Four square timber posts carry two thick curved end ribs with actual flat post seats, two low longitudinal side ties, and thirteen separate rigid longitudinal roof slats that follow the curved ribs. Full-length gaps between every slat remain open to sky; the canopy is not covered by any hidden sheet. Both end arches and all sides remain open. New complete frame geometry, not a clay single-slope canopy recolored, a sagging cloth shelter, or a low arched tunnel enlarged. Static shading-themed visual only: no UV, weather, load, wind resistance, occupancy, installation, or structural safety performance is claimed.",
+  "bounds": {
+    "x": 2.559999942779541,
+    "y": 2.5999999046325684,
+    "z": 3.0199999809265137,
+    "unit": "m"
+  },
+  "triangles": 564,
+  "materials": 2,
+  "files": {
+    "glb": {
+      "path": "assets/interior/desert-open-slatted-barrel-shade-frame-01/v1.0.0/model.glb",
+      "size": 61636,
+      "sha256": "e3f3c278435061b8be692d5a56a16f171e3b79ff1f04a7322722988e788f122a"
+    },
+    "blend": {
+      "path": "assets/interior/desert-open-slatted-barrel-shade-frame-01/v1.0.0/source.blend",
+      "size": 671488,
+      "sha256": "7dfcf0a0efab17edb342d0b525ae2cab04ffa658cd1eda1588b91c71ea2892f0"
+    },
+    "generator": {
+      "path": "assets/interior/desert-open-slatted-barrel-shade-frame-01/v1.0.0/generate.py",
+      "size": 12904,
+      "sha256": "2050c86562c5bbc3d55db0fc7d8810028d054129aa6ac0a975d77e40770a3345"
+    },
+    "render": {
+      "path": "assets/interior/desert-open-slatted-barrel-shade-frame-01/v1.0.0/thumbnail.png",
+      "size": 553141,
+      "sha256": "7806ce5339f8ee9841a65455dbffa8426cc4e5f93011643e2ca56233a0ddbe44"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
