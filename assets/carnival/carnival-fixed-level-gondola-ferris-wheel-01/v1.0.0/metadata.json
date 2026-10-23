@@ -1,0 +1,42 @@
+{
+  "id": "carnival-fixed-level-gondola-ferris-wheel-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "carnival",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Level Gondola Ferris Wheel",
+  "description": "One newly authored complete static observation-wheel exterior: two continuous open vertical wheel rims, twelve radial spokes and bored hubs on one horizontal axle, supported by two complete outside A-frames with four broad grounded feet and low cross ties. Six separate whole open-top thick cabin shells all keep their floors level in world space; each has its own cross-rim pivot and four complete suspension links. No old waterwheel paddles or carousel horses are rearranged into this mesh set. Unlike a paddle waterwheel, the repeated perimeter components are open cabins below their own pivots, not fixed radial paddle boards; unlike a carousel, the main axle is horizontal and the wheel planes are vertical. Three opaque untextured constant PBR roles, metres, Z up, full bounds-centred ground origin. One complete exterior model, zero scenes, not six standalone cabin assets. Fixed demonstration pose only, no rotation, clearance through full travel, passengers, restraint, balance, drive, load, dimensions compliance, manufacture, operability or safety claim.",
+  "bounds": {
+    "x": 2.8000000000000003,
+    "y": 1.6500000000000001,
+    "z": 3.4000000000000004,
+    "unit": "m"
+  },
+  "triangles": 3556,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/carnival/carnival-fixed-level-gondola-ferris-wheel-01/v1.0.0/model.glb",
+      "size": 191848,
+      "sha256": "e71175d4fa5f564fb30a4d70380a2dccfcaa5a124500851e913158df9569a498"
+    },
+    "blend": {
+      "path": "assets/carnival/carnival-fixed-level-gondola-ferris-wheel-01/v1.0.0/source.blend",
+      "size": 1027624,
+      "sha256": "474b6ffcac1853ebafe3282d08f6500ef9f45d65445df09a28e91cfbc4571c12"
+    },
+    "generator": {
+      "path": "assets/carnival/carnival-fixed-level-gondola-ferris-wheel-01/v1.0.0/generate.py",
+      "size": 11328,
+      "sha256": "24d49033c78ed0e2d8ce39b7a49f4526d17fbe47b3bb2682f1f518a940026dde"
+    },
+    "render": {
+      "path": "assets/carnival/carnival-fixed-level-gondola-ferris-wheel-01/v1.0.0/thumbnail.png",
+      "size": 548304,
+      "sha256": "237b76273b7c837eb2d99efcc5cc51eba19781d6ed4726dbfad6e05eb1ce95da"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
