@@ -1,0 +1,42 @@
+{
+  "id": "spacebase-fixed-caged-access-lift-tower-01",
+  "version": "1.0.0",
+  "category": "architecture",
+  "assetKind": "modular",
+  "theme": "spacebase",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Caged Access-Lift Tower",
+  "description": "One original complete static spacebase landing-service access-tower appearance. A broad grounded footing carries two full-height inward-facing C-channel columns and one overhead header, leaving a real open vertical shaft. One fixed hollow car has an open front, floor, sidewalls, rear wall and roof; the same continuous shared-boundary material shell extends forward into a narrower open-ended access trough with low side guards. Two short fixed cleats join the car to the inner channel webs, while two thin solid suspension-appearance members meet the roof and header. Nine closed editable meshes and four opaque constant untextured PBR materials. All whole geometry newly authored using generic mesh helpers only: not a resized forklift carriage, a scissor table with arms removed, or an old horizontal corridor placed on tall posts. One modular facility and zero scenes, no vehicle or separately counted parts. Metres, native Z up, front -Y, actual ground footing Z0 and complete horizontal envelope centred. Static game art only: no powered elevator, travel, lifting, working guide or cable, human boarding suitability, craft fit, docking compatibility, navigation, accessibility, doors, fall protection, payload, structural load, stability, manufacture, installation, spaceflight or safety claim. No real equipment construction or operating instructions.",
+  "bounds": {
+    "x": 2.3,
+    "y": 2.95,
+    "z": 3.6,
+    "unit": "m"
+  },
+  "triangles": 460,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/spacebase/spacebase-fixed-caged-access-lift-tower-01/v1.0.0/model.glb",
+      "size": 26324,
+      "sha256": "ea0ceaa61d98f6ebb9bd59ff5e85e428a6b145f2e98418e74d04020c2240ce3d"
+    },
+    "blend": {
+      "path": "assets/spacebase/spacebase-fixed-caged-access-lift-tower-01/v1.0.0/source.blend",
+      "size": 586644,
+      "sha256": "5199cd6f15b1fae85c8876a9cd6103ce9fa1149bcfba217cd74817bdd94f88fa"
+    },
+    "generator": {
+      "path": "assets/spacebase/spacebase-fixed-caged-access-lift-tower-01/v1.0.0/generate.py",
+      "size": 23794,
+      "sha256": "39788d66f6c0819e80c4ca9b8eb4733cadb846b51c8ab64f758ae6ebbd58bf22"
+    },
+    "render": {
+      "path": "assets/spacebase/spacebase-fixed-caged-access-lift-tower-01/v1.0.0/thumbnail.png",
+      "size": 544403,
+      "sha256": "54bd99adfa8aa97ba18e0a59a3b18954d5e36d78c5014c2143638b1e17591490"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

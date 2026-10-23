@@ -1,0 +1,42 @@
+{
+  "id": "spacebase-octagonal-well-outlet-landing-platform-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "modular",
+  "theme": "spacebase",
+  "style": "S01-clean-geometric",
+  "title": "Octagonal Well-and-Outlet Landing Platform",
+  "description": "One original complete static spacebase landing-facility appearance, not an isolated landing leg or a rearrangement of existing platforms. One continuous grounded octagonal plinth has a broad upper landing field around a real square top well. The well opens into a wider low inner chamber that continues out through the front wall, with complete material floor, ceiling and side boundaries. A whole solid side approach reaches the landing field through a short level upper landing. The plinth is one connected closed shared-boundary mesh, with no buried closed primitive seams or internal construction-cell faces. Landing-field border markings are face material assignments rather than coplanar overlays. Two closed editable meshes and four opaque constant untextured PBR materials. Metres, native Z up, front -Y, actual ground bottom Z0 and complete horizontal envelope centred. No craft, old landing struts, copied sector-platform piers, solar arrays or reused railway ramp geometry. Static art only: not a working landing pad, launch system, exhaust duct, thermal protection system, gas-flow simulation, structural design, load rating, accessibility provision or safety instruction; no real vehicle fit, landing, operation or engineering performance claim.",
+  "bounds": {
+    "x": 6.7,
+    "y": 4.4,
+    "z": 1.1,
+    "unit": "m"
+  },
+  "triangles": 488,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/spacebase/spacebase-octagonal-well-outlet-landing-platform-01/v1.0.0/model.glb",
+      "size": 18468,
+      "sha256": "7d0436cf851747ac477455e947eed1bbaaef64d20cf6e1574d73f7cc836bd199"
+    },
+    "blend": {
+      "path": "assets/spacebase/spacebase-octagonal-well-outlet-landing-platform-01/v1.0.0/source.blend",
+      "size": 552472,
+      "sha256": "28cc8d46f4167e90d5d892e614739b548ad2ea68d17244ebb921b708e4913217"
+    },
+    "generator": {
+      "path": "assets/spacebase/spacebase-octagonal-well-outlet-landing-platform-01/v1.0.0/generate.py",
+      "size": 23593,
+      "sha256": "5fc12be4085173ecab5c3d8a6a190997d91fa18b593633c00f6d7f221ac58bd1"
+    },
+    "render": {
+      "path": "assets/spacebase/spacebase-octagonal-well-outlet-landing-platform-01/v1.0.0/thumbnail.png",
+      "size": 489696,
+      "sha256": "a1810079e9db628e43e86f1ad96babb4c6be177e9164da3b347433581631db89"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "firefighting-raised-ladder-and-training-facade-court-scene-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "firefighting",
+  "style": "source-preserved-low-poly",
+  "title": "Raised Ladder and Training Facade Court",
+  "description": "One static firefighting training-court appearance, one scene and zero new independent models. The complete published raised-ladder truck is parked at unit scale with every original deployed outrigger, road wheel, fixed nested ladder and opaque cab pane unchanged; only a whole exact half-turn and translation orient it toward a freestanding practice facade. The complete existing partly raised sectional doorway sits in a separate right-hand lower opening, retaining both curved tracks, all panels, rollers, jambs and rear tie. One connected scene-only concrete floor and tall facade provide that lower doorway opening and a separate high left window. The raised ladder tip remains visibly short of the facade and does not claim a docked climbing route; no vehicle passage through the low partly-open door is asserted. Both old objects retain full raw GLB geometry, normals, internal nodes and every per-face PBR, not extracted subparts or redrawn equipment. The deep open forecourt, ladder-facing high opening and separate door practice position differ from the earlier hydrant and hose-reel water-point bay and generic equipment-cabinet corner. No people, fire, water, rescue procedure, training effectiveness, vehicle or ladder motion, door motion, clear-path certification, human fit, structural strength, accessibility, stability or safety suitability is claimed.",
+  "bounds": {
+    "x": 12.0,
+    "y": 12.0,
+    "z": 6.119999885559082,
+    "unit": "m"
+  },
+  "triangles": 6676,
+  "materials": 11,
+  "files": {
+    "glb": {
+      "path": "assets/firefighting/firefighting-raised-ladder-and-training-facade-court-scene-01/v1.0.0/model.glb",
+      "size": 391780,
+      "sha256": "c9e1e1414b7489f85304103b2a51358e76a7a7e00fa521468c208ae61fa4a7d5"
+    },
+    "blend": {
+      "path": "assets/firefighting/firefighting-raised-ladder-and-training-facade-court-scene-01/v1.0.0/source.blend",
+      "size": 185709,
+      "sha256": "d33b70df95a90f9709bb0a9e26954630aae0f63ce6f283bfea78e5e274ad5cb9"
+    },
+    "generator": {
+      "path": "assets/firefighting/firefighting-raised-ladder-and-training-facade-court-scene-01/v1.0.0/generate.py",
+      "size": 72955,
+      "sha256": "1c05865050eff4004ad120daf9b5e5517d7381a1929c23e72a1aca64aead8241"
+    },
+    "render": {
+      "path": "assets/firefighting/firefighting-raised-ladder-and-training-facade-court-scene-01/v1.0.0/thumbnail.png",
+      "size": 533446,
+      "sha256": "d61e79e3791d492f5cd6fbe52bb95cf561c3458aa69ee19ef17bf4f9683bb664"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
