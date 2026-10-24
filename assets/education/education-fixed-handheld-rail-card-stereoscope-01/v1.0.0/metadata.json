@@ -1,0 +1,42 @@
+{
+  "id": "education-fixed-handheld-rail-card-stereoscope-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "education",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Handheld Rail Card Stereoscope",
+  "description": "One newly authored whole static handheld paired-card-viewer appearance. A single continuous eye board contains two real ports and a bottom nose notch. A complete finite-thickness short curved hood leaves the face and lower side genuinely open; two deep annular eye rims hold recessed opaque ocular discs. A whole shaped lower handgrip joins one long exposed central rail. Farther along that rail, a separate full slotted saddle and fixed clamp carry a whole grooved transverse channel containing one blank thick card with two subordinate blank panels. The viewing interval above the rail remains open, unlike a bellows camera; there are no head bands or electronic visor. All numeric geometry newly authored, no old headset/camera/card models or components imported. One prop, zero scenes, not additional card, rail, handle or lenses. Four opaque constant untextured PBR materials, metres, Z up and actual horizontal-bounds-centred lower-grip origin. Small intentional fixed material overlaps establish this static assembly. Visual appearance only: no real optical transmission, stereoscopic perception, magnification, focus, adjustment, imaging, historical calibration, fit, manufacture, stability, balance, ergonomics or safe handling claim.",
+  "bounds": {
+    "x": 0.228,
+    "y": 0.529,
+    "z": 0.328,
+    "unit": "m"
+  },
+  "triangles": 1640,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/education/education-fixed-handheld-rail-card-stereoscope-01/v1.0.0/model.glb",
+      "size": 84524,
+      "sha256": "1424d93fcc146906c31dc46e835bd4a78acf2a93253e0ee19110598d43de71c9"
+    },
+    "blend": {
+      "path": "assets/education/education-fixed-handheld-rail-card-stereoscope-01/v1.0.0/source.blend",
+      "size": 675900,
+      "sha256": "dd6fd841af8192abd679728bb00895fa043e31c7c6ea2a7168f8e95a05fe2482"
+    },
+    "generator": {
+      "path": "assets/education/education-fixed-handheld-rail-card-stereoscope-01/v1.0.0/generate.py",
+      "size": 27263,
+      "sha256": "d866cdc1585637d8bdc92ff49539afc73f6fe808eb4aeaca58bb10c45ea3cb6e"
+    },
+    "render": {
+      "path": "assets/education/education-fixed-handheld-rail-card-stereoscope-01/v1.0.0/thumbnail.png",
+      "size": 524252,
+      "sha256": "63702376f9448a5f9d5ee6216fc1b03e24dba3422d0de3873c6e2296590c6f53"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

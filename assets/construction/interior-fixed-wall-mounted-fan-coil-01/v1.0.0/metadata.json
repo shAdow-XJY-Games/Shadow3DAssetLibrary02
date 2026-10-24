@@ -1,0 +1,42 @@
+{
+  "id": "interior-fixed-wall-mounted-fan-coil-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "military",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Wall Mounted Fan Coil",
+  "description": "One original static wall-mounted fan-coil exterior appearance: a complete wide shallow faceted housing has six actual upper intake openings and one continuous low front discharge aperture, with a fixed inclined whole long guide vane seated at both ends. A recessed dark internal baffle and full rear mounting plate with two finite returns complete the isolated unit. New geometry, no axial fan, locker door, grille or appliance imported. Three opaque untextured PBR materials, metre game coordinates, Z-up, centred horizontal bounds and lower-edge datum. One static prop, zero scenes; no supplied wall, indoor room, wiring, pipe or remote. This is an exterior visual model, not a claim to contain a working heat exchanger or motor. No airflow, cooling, heating, filtration, refrigerant, electrical, mounting, load, manufacture, installation or safety performance is claimed.",
+  "bounds": {
+    "x": 1.12,
+    "y": 0.347,
+    "z": 0.32,
+    "unit": "m"
+  },
+  "triangles": 1424,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/construction/interior-fixed-wall-mounted-fan-coil-01/v1.0.0/model.glb",
+      "size": 41844,
+      "sha256": "a1b916b8931ac7cff10891d63745fb9d0d5c941de49573a754463719a083585c"
+    },
+    "blend": {
+      "path": "assets/construction/interior-fixed-wall-mounted-fan-coil-01/v1.0.0/source.blend",
+      "size": 621448,
+      "sha256": "7f5ac4cdc30060a295e484c2c93210f4f4cfa6cf397af4a40f2aecf6b62cd53e"
+    },
+    "generator": {
+      "path": "assets/construction/interior-fixed-wall-mounted-fan-coil-01/v1.0.0/generate.py",
+      "size": 10695,
+      "sha256": "25c866523dcb02db3411826ee4745af6e141b436b2c900d8976819e8aaa667f9"
+    },
+    "render": {
+      "path": "assets/construction/interior-fixed-wall-mounted-fan-coil-01/v1.0.0/thumbnail.png",
+      "size": 334124,
+      "sha256": "fdb1a8459aa75ff294c086fd256203ead12bca261bef30c66c1f6a11a57489da"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

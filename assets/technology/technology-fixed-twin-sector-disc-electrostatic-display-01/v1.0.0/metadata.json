@@ -1,0 +1,42 @@
+{
+  "id": "technology-fixed-twin-sector-disc-electrostatic-display-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "technology",
+  "style": "source-preserved-low-poly",
+  "title": "Fixed Twin-Sector-Disc Electrostatic Display",
+  "description": "One newly authored complete static twin-disc electrostatic-machine appearance. A common chamfered base and front/rear axle standards hold two separate parallel sector-covered plates, central hubs, a lower handwheel with offset grip and one complete fixed belt. Two opaque side canisters support separate bent collecting-arm appearances and two inward rounded terminal rods with an open central gap. All geometry is newly authored, not old grinding wheels or a slotted optical drum rearranged. One prop and zero scenes. Opaque constant PBR; no transparent glass, electrical circuit, wiring, charge production, sparks, usable generator, operating instructions, electrical specification, manufacturing or safety claim.",
+  "bounds": {
+    "x": 1.1200000047683716,
+    "y": 0.6200000047683716,
+    "z": 1.0099999904632568,
+    "unit": "m"
+  },
+  "triangles": 3220,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/technology/technology-fixed-twin-sector-disc-electrostatic-display-01/v1.0.0/model.glb",
+      "size": 315748,
+      "sha256": "c560959f6ffda617ee07cbd07896c869791fe8a6844ba93182e49f61c24d0b78"
+    },
+    "blend": {
+      "path": "assets/technology/technology-fixed-twin-sector-disc-electrostatic-display-01/v1.0.0/source.blend",
+      "size": 1208160,
+      "sha256": "d6d5f7b49258e594bd92fa0873d950d6d17f735b6093f3331c23fbd3d2c559bf"
+    },
+    "generator": {
+      "path": "assets/technology/technology-fixed-twin-sector-disc-electrostatic-display-01/v1.0.0/generate.py",
+      "size": 17240,
+      "sha256": "538df90994258751747899f6a7f0b5bdae3e74c86fe0150c894441416803eadd"
+    },
+    "render": {
+      "path": "assets/technology/technology-fixed-twin-sector-disc-electrostatic-display-01/v1.0.0/thumbnail.png",
+      "size": 548796,
+      "sha256": "dc001405628e3d18d09f0387028c13099a52f244465bea0c5d3cbde4ae2cdfbe"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

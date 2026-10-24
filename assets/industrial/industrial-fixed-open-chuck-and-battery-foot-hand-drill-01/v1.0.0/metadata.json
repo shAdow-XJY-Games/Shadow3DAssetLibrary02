@@ -1,0 +1,42 @@
+{
+  "id": "industrial-fixed-open-chuck-and-battery-foot-hand-drill-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "industrial",
+  "style": "source-preserved-low-poly",
+  "title": "Fixed Open Chuck and Battery Foot Hand Drill",
+  "description": "One newly authored complete static battery-foot handheld drill appearance. A broad chamfered lower battery-shaped case supports a complete canted grip with a separate front trigger. A horizontal stepped motor housing, rear cap and thick front collar lead to a genuine annular chuck with three separate finite blunt inner jaws and an empty central recess. A plain top selector completes the case. Three opaque untextured PBR roles, one prop and zero scenes. No bit, battery cells, wiring, motor internals, spinning, drilling, clamping, electrical ratings, operating instructions, ergonomics, fit or safety claim. Newly authored whole geometry, not a sweep-brace drill, barcode scanner or hair dryer resized. Chuck recess is partly occupied by its jaws and closed rear housing, not an unobstructed full-assembly bore.",
+  "bounds": {
+    "x": 0.10999999940395355,
+    "y": 0.29499998688697815,
+    "z": 0.29899999499320984,
+    "unit": "m"
+  },
+  "triangles": 1020,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/industrial/industrial-fixed-open-chuck-and-battery-foot-hand-drill-01/v1.0.0/model.glb",
+      "size": 93968,
+      "sha256": "e837c32ca6b320a81e24d8a83e8a939b3b0d6a8674bde432aa656ef420a62cf6"
+    },
+    "blend": {
+      "path": "assets/industrial/industrial-fixed-open-chuck-and-battery-foot-hand-drill-01/v1.0.0/source.blend",
+      "size": 698688,
+      "sha256": "17cd3a79dc8eb8dce525c9e1060f35d2cebd2eda98450470e974c9e1800f3b91"
+    },
+    "generator": {
+      "path": "assets/industrial/industrial-fixed-open-chuck-and-battery-foot-hand-drill-01/v1.0.0/generate.py",
+      "size": 14208,
+      "sha256": "ba04a35b0a3880c48a64a2de167e5a86f42c57992fd1bd0a14a2920bdb2eb2dc"
+    },
+    "render": {
+      "path": "assets/industrial/industrial-fixed-open-chuck-and-battery-foot-hand-drill-01/v1.0.0/thumbnail.png",
+      "size": 488553,
+      "sha256": "8894de87842c21c30aa060e85c55dbe372760cbbce97c708087a7300831b65e0"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
