@@ -1,0 +1,42 @@
+{
+  "id": "animal-static-low-carapace-long-flipper-sea-turtle-01",
+  "version": "1.0.0",
+  "category": "modular",
+  "assetKind": "prop",
+  "theme": "animal",
+  "style": "warm-handcrafted-village",
+  "title": "Static Low-Carapace Long-Flipper Sea Turtle",
+  "description": "One newly authored complete stylised sea-turtle-like animal in a fixed low resting pose. A wide elongated low shield-shaped carapace narrows towards the rear and includes a closed pale belly and thick continuous rim. Two very long swept foreflippers and two shorter rear steering-flipper silhouettes project from the body as full thick solids, not scaled cylindrical tortoise legs. A short forward neck merges into a blunt small head with lateral eyes; a small tapered tail lies behind the shell. All shell, head and flipper boundaries are new, not old tortoise or seal component arrays. One static animal prop, zero scenes, no surrounding water or sand. No exact species/anatomy, swimming, gait, buoyancy, rig, animation, interaction or ecological performance claim.",
+  "bounds": {
+    "x": 2.279999971,
+    "y": 1.845000029,
+    "z": 0.36500001,
+    "unit": "m"
+  },
+  "triangles": 816,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/animal/animal-static-low-carapace-long-flipper-sea-turtle-01/v1.0.0/model.glb",
+      "size": 50048,
+      "sha256": "515914c4a27e83b1707e2c33bc78d2c6eb46a9a81ba1acfd918fef19e25c12e6"
+    },
+    "blend": {
+      "path": "assets/animal/animal-static-low-carapace-long-flipper-sea-turtle-01/v1.0.0/source.blend",
+      "size": 590092,
+      "sha256": "0bbda5d2b4e3abd303a284c9b84a349a2261550244f39157456638a9b26651cb"
+    },
+    "generator": {
+      "path": "assets/animal/animal-static-low-carapace-long-flipper-sea-turtle-01/v1.0.0/generate.py",
+      "size": 29069,
+      "sha256": "dc0967272ddb379b1d812b00cfb4c5ad8ca7dc0d6b3785c6b8900d52b4df7b7a"
+    },
+    "render": {
+      "path": "assets/animal/animal-static-low-carapace-long-flipper-sea-turtle-01/v1.0.0/thumbnail.png",
+      "size": 457065,
+      "sha256": "4ad5d60f32308bd8395fafead5170a5665e36ce053fcf11cf393efa26e52f580"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
