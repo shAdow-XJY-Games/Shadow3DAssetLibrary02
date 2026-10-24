@@ -1,0 +1,42 @@
+{
+  "id": "railway-fixed-open-stand-and-lowered-throw-lever-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "railway",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Open Stand and Lowered Throw Lever",
+  "description": "One newly authored complete static manual railway-switchstand-style exterior. A full elongated cast ground plate carries a lower annular bearing and four whole splayed legs supporting an upper bored bridge. One continuous upright shaft passes through the two fixed bearings and supports one plain unlettered upper target disc. A distinct collar and proud transverse fulcrum carry a full long lowered throw lever, one solid counterweight, a complete terminal grip and a separate fixed rest on the plate extension. A low hub, short full connection crank, proud vertical pin and short lateral link end in one genuine empty annular terminal eye. Open leg-frame spaces and the unoccupied link eye are actual geometry. This is a whole stand, not the existing service-signal mast with a replaced lamp head: it has a full low operating-lever/rest and separate lower crank/link structure. The old turnout only contains rail layers, sleepers, guard rails and a fixed transverse tie; none is imported or reassembled here. No bare winding drum, ratchet wheel or old winch component. One prop, zero scenes; no rail section, train, installation bolts, labels, standard signal colors, light or operational state. Four opaque constant untextured PBR materials, metres, Z up and actual bounds-centred ground origin. Fixed illustrative art only: no switch animation, synchronized target motion, real route indication, signaling, locking, mechanical transmission, throw length, force, torque, continuous travel, railway installation fit, manufacture, regulatory compliance or safety claim.",
+  "bounds": {
+    "x": 0.94,
+    "y": 0.48,
+    "z": 1.475,
+    "unit": "m"
+  },
+  "triangles": 2396,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/railway/railway-fixed-open-stand-and-lowered-throw-lever-01/v1.0.0/model.glb",
+      "size": 124060,
+      "sha256": "8a7665342964d84286e586269f2dce6ee6bc20db8028f1be7c1d56a480db7cf3"
+    },
+    "blend": {
+      "path": "assets/railway/railway-fixed-open-stand-and-lowered-throw-lever-01/v1.0.0/source.blend",
+      "size": 748144,
+      "sha256": "173665ff5c6d01e53abcd6fcadb558640225da6ebb2c29685c10b54efa5b0238"
+    },
+    "generator": {
+      "path": "assets/railway/railway-fixed-open-stand-and-lowered-throw-lever-01/v1.0.0/generate.py",
+      "size": 28949,
+      "sha256": "aaab79cecdd8503d995c23b8e186cde2b009f38ebafb7b64df122492a2ade159"
+    },
+    "render": {
+      "path": "assets/railway/railway-fixed-open-stand-and-lowered-throw-lever-01/v1.0.0/thumbnail.png",
+      "size": 482847,
+      "sha256": "218d86ae69ed146b80c3ce78ab2c292bce74bd1a44b1d9575feade4223a46d37"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

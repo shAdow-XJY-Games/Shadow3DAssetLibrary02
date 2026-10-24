@@ -1,0 +1,42 @@
+{
+  "id": "industrial-fixed-sliding-jaw-and-thumbwheel-adjustable-wrench-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "industrial",
+  "style": "source-preserved-low-poly",
+  "title": "Fixed Sliding Jaw and Thumbwheel Adjustable Wrench",
+  "description": "One newly authored whole static adjustable-wrench appearance. A continuous long tapered handle and broad fixed-jaw head include a real end hanging hole and an actual through-window below the jaw. A separate whole sliding-jaw appearance has a long transverse stem captured within the fixed head channel and a tall opposed flat jaw in one fixed open pose. A supported transverse axle carries one whole annular-ridged thumbwheel visible through the head window. A short dark inset handle pad leaves the end hole unobstructed. All finite geometry newly authored, no old fixed open-jaw wrench isolated from a wall kit. One prop, zero scenes, three opaque materials. No moving adjustment, helical gear engagement, calibrated jaw opening, torque, gripping capacity, operating guidance or safety claim.",
+  "bounds": {
+    "x": 0.0820000022649765,
+    "y": 0.3100000023841858,
+    "z": 0.02199999988079071,
+    "unit": "m"
+  },
+  "triangles": 4544,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/industrial/industrial-fixed-sliding-jaw-and-thumbwheel-adjustable-wrench-01/v1.0.0/model.glb",
+      "size": 386084,
+      "sha256": "7c96a47029f306fbe2f25e62c184935bff2def5edb074d777f7c50fb43edf11c"
+    },
+    "blend": {
+      "path": "assets/industrial/industrial-fixed-sliding-jaw-and-thumbwheel-adjustable-wrench-01/v1.0.0/source.blend",
+      "size": 1065152,
+      "sha256": "2ec83435c2a654c2565e473cc0b74b8e21eb34f9c825e7adaa3a6a38ca06facb"
+    },
+    "generator": {
+      "path": "assets/industrial/industrial-fixed-sliding-jaw-and-thumbwheel-adjustable-wrench-01/v1.0.0/generate.py",
+      "size": 17989,
+      "sha256": "ba5e2ec91047bc37585809ff6a0e9e9698f78a97c64f67d81ddfe4a5cc67fc1e"
+    },
+    "render": {
+      "path": "assets/industrial/industrial-fixed-sliding-jaw-and-thumbwheel-adjustable-wrench-01/v1.0.0/thumbnail.png",
+      "size": 465003,
+      "sha256": "e33c3a10bbb7472ec1c3cdf54b8279f5fea205a16d9329f65b9790b088b72ab1"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
