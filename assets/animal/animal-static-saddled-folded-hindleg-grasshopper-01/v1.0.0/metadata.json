@@ -1,0 +1,42 @@
+{
+  "id": "animal-static-saddled-folded-hindleg-grasshopper-01",
+  "version": "1.0.0",
+  "category": "modular",
+  "assetKind": "prop",
+  "theme": "animal",
+  "style": "warm-handcrafted-village",
+  "title": "Static Saddled Folded-Hindleg Grasshopper",
+  "description": "One newly authored complete static stylised grasshopper-like insect: a compact upright wedge-like head with lateral eyes and two short antennae, a broad saddle-like pronotum, a low long tapering body with two narrow back-folded forewing forms, four thin walking legs and two much larger rear femora returning through thin tibiae to grounded toes. Whole body stations and limb paths are new; no old mantis head, grasping forelimb, beetle cover or leg geometry imported. Rear rather than front limbs dominate the folded silhouette. One whole animal prop, zero scenes; separate editable bodies are intentionally seated or embedded at static joins, not an anatomically welded skin. No exact species or life stage, internal anatomy, thin hindwings, motion, rig, gait, jump, flight, pest, ecological or handling-safety claim.",
+  "bounds": {
+    "x": 0.917894185,
+    "y": 1.510969877,
+    "z": 0.683919489,
+    "unit": "m"
+  },
+  "triangles": 1376,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/animal/animal-static-saddled-folded-hindleg-grasshopper-01/v1.0.0/model.glb",
+      "size": 84708,
+      "sha256": "936c6825cd82d42bd187863652b171e3b3e8f9020fa9f1f174af10ea88ef0cbc"
+    },
+    "blend": {
+      "path": "assets/animal/animal-static-saddled-folded-hindleg-grasshopper-01/v1.0.0/source.blend",
+      "size": 626592,
+      "sha256": "c2ccfae4c8e591ddef4a40b32f1e2e036200db9aabc535eca8de4ac0fb95e605"
+    },
+    "generator": {
+      "path": "assets/animal/animal-static-saddled-folded-hindleg-grasshopper-01/v1.0.0/generate.py",
+      "size": 30704,
+      "sha256": "aa6c7e2b658fb3f73655536674ca6f2a1bebe2e0886c90c8411956056c58cdb9"
+    },
+    "render": {
+      "path": "assets/animal/animal-static-saddled-folded-hindleg-grasshopper-01/v1.0.0/thumbnail.png",
+      "size": 492455,
+      "sha256": "8bac9b1d9023acff6a3f6089aaf0cb9bd0628a0cc61eeaabf685c56647f54942"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

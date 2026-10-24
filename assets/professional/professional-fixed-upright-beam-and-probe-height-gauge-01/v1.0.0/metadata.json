@@ -1,0 +1,42 @@
+{
+  "id": "professional-fixed-upright-beam-and-probe-height-gauge-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "professional",
+  "style": "source-preserved-low-poly",
+  "title": "Fixed Upright Beam And Probe Height Gauge",
+  "description": "One newly authored whole static upright height-gauge appearance. A broad chamfered ground base and full foot boss support a tall rectangular datum beam. A complete thick sleeve carriage has a real vertical beam opening occupied by the fixed upright; its separate horizontal reach arm ends in one integral downturned blunt probe. A second complete upper collar and a fixed short vertical fine-adjusting spindle with a broad blank wheel join the main carriage. A front lock knob and a separate blank index plate complete the whole tool. Sparse raised beam marks are illustrative and not a calibrated scale. No round laboratory rod, split vessel jaw, fluid tube, flask, C-shaped micrometer frame or old geometry is reused. One model, zero scenes, four opaque constant PBR materials, metres and native Z up. Fixed intentional root intersections do not model running fits. Static appearance only: no height readings, calibrated graduations, precision, actual marking, travel, screw engagement, fabrication, handling or safety claim.",
+  "bounds": {
+    "x": 0.3240000009536743,
+    "y": 0.20000000298023224,
+    "z": 0.6600000262260437,
+    "unit": "m"
+  },
+  "triangles": 680,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/professional/professional-fixed-upright-beam-and-probe-height-gauge-01/v1.0.0/model.glb",
+      "size": 75072,
+      "sha256": "cac13a6d1cbd737699f3a8a5eb8ffb1ad2aedb0372cb39051d8d96072c8c4128"
+    },
+    "blend": {
+      "path": "assets/professional/professional-fixed-upright-beam-and-probe-height-gauge-01/v1.0.0/source.blend",
+      "size": 754336,
+      "sha256": "94b0d1fac80dfc4f54bdd3e321996a61262bc14f1d4ac9c220635de9df6b083a"
+    },
+    "generator": {
+      "path": "assets/professional/professional-fixed-upright-beam-and-probe-height-gauge-01/v1.0.0/generate.py",
+      "size": 16476,
+      "sha256": "7a90fb91d0d32d49b14c7aa8356023b0107288dfcc1b0287982573075abce30d"
+    },
+    "render": {
+      "path": "assets/professional/professional-fixed-upright-beam-and-probe-height-gauge-01/v1.0.0/thumbnail.png",
+      "size": 446913,
+      "sha256": "e7cc157c817a01b69e44aa08c10ef7a7a1d7b5cb280b0a0e014ace16213e53b5"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
