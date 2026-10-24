@@ -1054,6 +1054,11 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary02",
       "commit": "e4875f0794b9fa6423cbda685d2e00f7d1b4ba2f"
+    },
+    "original-continuous-five-1296-volume02-20261024": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary02",
+      "commit": "f29e194ed30c09a21534c33869a0b742f699622b"
     }
   },
   "assets": [
@@ -29823,6 +29828,221 @@
       "status": "verified",
       "license": "All rights reserved",
       "sourceId": "original-continuous-four-1291-volume02-20261024"
+    },
+    {
+      "id": "entertainment-fixed-annular-ditch-and-peg-disc-board-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "music",
+      "style": "S01-clean-geometric",
+      "title": "Fixed Annular Ditch and Peg Disc Board",
+      "description": "One newly authored complete circular tabletop disc-game board exterior in a fixed empty pose. A single continuous thick body includes a broad raised playing field, real deep blind centre pocket, full lower annular collecting ditch and a high complete outer rim. Eight short integral-rooted obstacle pegs stand around the centre and three finite feet support the whole board. Two thin field circles are material regions of the same continuous top triangles, not overlay rings or textures. No loose tokens counted as new models. This is not the old flat rectangular five-peg ring-toss plank with its count changed, a two-axis perforated maze with its walls removed, a serving basin filled with a disc, or a round version of an air-puck table: the complete centre-pocket/raised-field/annular-ditch boundary is newly authored as one connected solid. Three opaque constant untextured PBR roles; metres, Z up and full horizontal ground centering. One model and zero scenes. Static illustrative game object only: no regulation dimensions or rules, scoring, playability, rebound or friction physics, token fit, user age suitability, manufacture or toy-safety claim.",
+      "bounds": {
+        "x": 0.91,
+        "y": 0.91,
+        "z": 0.155,
+        "unit": "m"
+      },
+      "triangles": 2912,
+      "materials": 3,
+      "files": {
+        "glb": {
+          "path": "assets/music/entertainment-fixed-annular-ditch-and-peg-disc-board-01/v1.0.0/model.glb",
+          "size": 131320,
+          "sha256": "cf81d01c49fb3d206373c8d01f3a54637fba97f950d8f023ee0d47f3e92dfc33"
+        },
+        "blend": {
+          "path": "assets/music/entertainment-fixed-annular-ditch-and-peg-disc-board-01/v1.0.0/source.blend",
+          "size": 729676,
+          "sha256": "a6dfdad37c2086de65b51db3f002e89258eac1c8da17a1231becceddf0226ef9"
+        },
+        "generator": {
+          "path": "assets/music/entertainment-fixed-annular-ditch-and-peg-disc-board-01/v1.0.0/generate.py",
+          "size": 10512,
+          "sha256": "beba85748f276d0972a7edf3836c57e010a059024f58dc021e434744788839d0"
+        },
+        "render": {
+          "path": "assets/music/entertainment-fixed-annular-ditch-and-peg-disc-board-01/v1.0.0/thumbnail.png",
+          "size": 464838,
+          "sha256": "b19025e8d9caf2790ef2f28050c3186f0c78480e808784c09bb8bbf734768de6"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-continuous-five-1296-volume02-20261024"
+    },
+    {
+      "id": "interior-fixed-suspended-ceiling-fan-light-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "interior",
+      "style": "S01-clean-geometric",
+      "title": "Fixed Suspended Ceiling Fan Light",
+      "description": "One original complete suspended ceiling fan and light exterior. A full ceiling canopy and long downrod carry a closed rounded motor housing. Four broad whole horizontal paddles extend on their own bounded offset root brackets with finite mount caps; the lower neck, collar and opaque lamp diffuser form one central light appearance below the rotor plane. Two full pull-control chain exteriors end in finite small grips. No turbine, mine fan or chandelier mesh is imported or rescaled: the full suspended open horizontal-paddle mounting and lower diffuser differ from a grounded tall mast/nacelle vertical rotor and a skid-mounted bellmouth duct fan. Three constant opaque PBR materials, metres Z up, true whole XY centred. One isolated fixture, zero scenes; host ceiling is omitted, and minimum displayed Z is an export datum, not a ground-support claim. No animated rotation, blade sweep, airflow, cooling, illumination, electrical circuit, mounting load, installation or safety performance claim.",
+      "bounds": {
+        "x": 1.3125655171340558,
+        "y": 1.3125655171340558,
+        "z": 1.0050000000000001,
+        "unit": "m"
+      },
+      "triangles": 1984,
+      "materials": 3,
+      "files": {
+        "glb": {
+          "path": "assets/interior/interior-fixed-suspended-ceiling-fan-light-01/v1.0.0/model.glb",
+          "size": 105524,
+          "sha256": "622597ef63bc91d4cff17c1357d8fefc1a954d011b95d6c75fc4abfbc82cdc44"
+        },
+        "blend": {
+          "path": "assets/interior/interior-fixed-suspended-ceiling-fan-light-01/v1.0.0/source.blend",
+          "size": 744216,
+          "sha256": "6523975773470a6445a91678e50c528a4d9fd87ca9cbb0cfe516b9fb382fa0ba"
+        },
+        "generator": {
+          "path": "assets/interior/interior-fixed-suspended-ceiling-fan-light-01/v1.0.0/generate.py",
+          "size": 11000,
+          "sha256": "819eb6a630271ef3035b2d7a15793ed670a6fcb400ff341795383a785c75235d"
+        },
+        "render": {
+          "path": "assets/interior/interior-fixed-suspended-ceiling-fan-light-01/v1.0.0/thumbnail.png",
+          "size": 363149,
+          "sha256": "65d72225468dc5c9e2e4eb4ad901f5476e21d3e0ce9b664ec372e6b82dddfd2d"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-continuous-five-1296-volume02-20261024"
+    },
+    {
+      "id": "nature-whole-open-spathe-and-spadix-plant-01",
+      "version": "1.0.0",
+      "category": "modular",
+      "assetKind": "prop",
+      "theme": "nature",
+      "style": "warm-handcrafted-village",
+      "title": "Whole Open Spathe and Spadix Plant",
+      "description": "One newly authored complete stylised above-ground arum-like plant: an upright flowering stalk carries one thick asymmetric scrolled spathe around a separate blunt central spadix. The open bract has a high recurved rear tip, lower spreading side margins and a real open front seam; it is not a sealed pitcher tube or a separate hood over a vessel. Two whole sagittate leaf blades with basal lobes rise on unequal complete petioles from the same small crown. One whole static plant prop, zero scenes. Tiny actual flowers, roots, reproductive detail and exact species are not represented. No growth, propagation, cultivation, food, medicinal or ecological claim.",
+      "bounds": {
+        "x": 0.689997375,
+        "y": 0.372088343,
+        "z": 0.930000007,
+        "unit": "m"
+      },
+      "triangles": 2660,
+      "materials": 3,
+      "files": {
+        "glb": {
+          "path": "assets/nature/nature-whole-open-spathe-and-spadix-plant-01/v1.0.0/model.glb",
+          "size": 146484,
+          "sha256": "944afdb26524ad70f719ccf21829e99dd5d1f8582274b21c52f3cd1e8272c953"
+        },
+        "blend": {
+          "path": "assets/nature/nature-whole-open-spathe-and-spadix-plant-01/v1.0.0/source.blend",
+          "size": 628336,
+          "sha256": "967bfaf57a0a7bd918b8b0b39fc6c04a4dbf74f48ee5ab90cc1b7d762de206e1"
+        },
+        "generator": {
+          "path": "assets/nature/nature-whole-open-spathe-and-spadix-plant-01/v1.0.0/generate.py",
+          "size": 29493,
+          "sha256": "d77608b1dc49cc8754f68c593404299308c8e0924c781117d903bc08dd974374"
+        },
+        "render": {
+          "path": "assets/nature/nature-whole-open-spathe-and-spadix-plant-01/v1.0.0/thumbnail.png",
+          "size": 504104,
+          "sha256": "b43e7786fba26621b86101c87c286c5a41c9617413830c9767d0d5bad996845b"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-continuous-five-1296-volume02-20261024"
+    },
+    {
+      "id": "professional-fixed-recessed-dial-meter-and-twin-probes-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "professional",
+      "style": "source-preserved-low-poly",
+      "title": "Fixed Recessed Dial Meter and Twin Probes",
+      "description": "One newly authored complete static portable multimeter appearance in a flat display pose. A compact protected case has a real blind upper screen well with a recessed opaque blank plate, one broad lower rotary-selector appearance with a raised pointer grip, and three finite annular front sockets. Two of those sockets carry complete fixed plugs and full curved leads; each lead terminates in a long insulated-looking probe grip, shoulder stop and short blunt metal-looking tip. A whole dark perimeter bumper retains the case. All numeric shapes and cable paths newly authored, no game-console casing or controls imported. One prop and zero scenes, three opaque materials; the probes are parts of the complete instrument, not separate assets. No display numbers, calibrated selector range, voltage/current, wiring, measurement performance, live testing, insulation or electrical-safety claim.",
+      "bounds": {
+        "x": 0.2720000147819519,
+        "y": 0.2609785795211792,
+        "z": 0.05299999937415123,
+        "unit": "m"
+      },
+      "triangles": 2284,
+      "materials": 3,
+      "files": {
+        "glb": {
+          "path": "assets/professional/professional-fixed-recessed-dial-meter-and-twin-probes-01/v1.0.0/model.glb",
+          "size": 205480,
+          "sha256": "23427800391eacda28a988508482f3c65b0c07fa66c25d5b3f0d167ab63b786c"
+        },
+        "blend": {
+          "path": "assets/professional/professional-fixed-recessed-dial-meter-and-twin-probes-01/v1.0.0/source.blend",
+          "size": 873184,
+          "sha256": "7267c54f3ec76b54f0fccec60e5af62c8a2bdc1cf046c1f106369fb514f2c021"
+        },
+        "generator": {
+          "path": "assets/professional/professional-fixed-recessed-dial-meter-and-twin-probes-01/v1.0.0/generate.py",
+          "size": 15687,
+          "sha256": "40fa3e41a3ea76868d2b6f3700f50de024ebca1a0f3ccb0ffaf9f35c4d984dec"
+        },
+        "render": {
+          "path": "assets/professional/professional-fixed-recessed-dial-meter-and-twin-probes-01/v1.0.0/thumbnail.png",
+          "size": 490948,
+          "sha256": "0cc3192e378d920dcde9d729e7451f6f7df739dfba34983042e82db603eddfe2"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-continuous-five-1296-volume02-20261024"
+    },
+    {
+      "id": "professional-fixed-shoe-last-anvil-and-tripod-stand-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "professional",
+      "style": "S01-clean-geometric",
+      "title": "Fixed Shoe Last Anvil and Tripod Stand",
+      "description": "One newly authored complete static cobbler-style shoe-last anvil stand exterior. Three full low splayed cast legs join independent broad grounded feet to one annular root collar and an entire vertical bored sleeve. One exposed fixed upper stem enters the sleeve and the underside of a full solid asymmetric shoe-bottom-shaped anvil head. The head has a broad rounded forefoot, narrowing middle waist, distinct rear heel and genuine raised underside arch; its lighter upper facets are actual material assignments on the same closed mesh. A separate complete side thumb-screw appearance belongs to the sleeve. All numeric geometry is new, with no old smith anvil, timber stump, boot shell, sole, lace or foot model imported, filled, scaled or reused. Unlike the old rectangular face/conical-horn smith anvil on a bound timber stump, this has a complete shoe-contoured head on an open thin-stem tripod assembly. Unlike footwear it is a closed solid repair-head appearance without a wearable cavity, cuff or upper. One prop, zero scenes, no shoe, person, loose tools or surrounding workbench. Four opaque constant untextured PBR materials, metres, Z up and actual whole horizontal bounds-centred ground origin. Static game-art only: no real shoe size, shaping, repair effectiveness, striking or clamping capacity, adjustable stem travel, screw action, replaceable-head fit, load, stability, manufacture, ergonomics or occupational safety claim.",
+      "bounds": {
+        "x": 0.530759,
+        "y": 0.47,
+        "z": 0.838,
+        "unit": "m"
+      },
+      "triangles": 1156,
+      "materials": 4,
+      "files": {
+        "glb": {
+          "path": "assets/professional/professional-fixed-shoe-last-anvil-and-tripod-stand-01/v1.0.0/model.glb",
+          "size": 64768,
+          "sha256": "0c62f86ae103ae53b61107a06f73f3339a29c4600dfe435a0c687b4095f82e10"
+        },
+        "blend": {
+          "path": "assets/professional/professional-fixed-shoe-last-anvil-and-tripod-stand-01/v1.0.0/source.blend",
+          "size": 634808,
+          "sha256": "ed664065ec40c615c6f75a43f1371f3dbbdb565c8775900435f730af485c9e54"
+        },
+        "generator": {
+          "path": "assets/professional/professional-fixed-shoe-last-anvil-and-tripod-stand-01/v1.0.0/generate.py",
+          "size": 25757,
+          "sha256": "6c0d5a4e5ea564f9188dc454e738f8b393081f594dd4705af7c4281bdab269df"
+        },
+        "render": {
+          "path": "assets/professional/professional-fixed-shoe-last-anvil-and-tripod-stand-01/v1.0.0/thumbnail.png",
+          "size": 496025,
+          "sha256": "eb6e596664eab0d1326d1e3873202deb74a21334ad633b13ea4342f3db9ff9ae"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-continuous-five-1296-volume02-20261024"
     }
   ]
 }
