@@ -1,0 +1,42 @@
+{
+  "id": "nature-whole-asymmetric-crescent-sand-dune-01",
+  "version": "1.0.0",
+  "category": "modular",
+  "assetKind": "prop",
+  "theme": "nature",
+  "style": "warm-handcrafted-village",
+  "title": "Whole Asymmetric Crescent Sand Dune",
+  "description": "One newly authored complete crescent sand-dune terrain form. A broad low convex rear slope rises to a continuous asymmetric curved crest; a shorter steeper concave front face descends between two unequal tapering low horns. All slopes, horn tips and the finite crescent underside share one closed editable material boundary. No enclosed blind pit, flat rectangular foundation, repeated piles or borrowed rock geometry. One static terrain prop and zero scenes; no exact geological site, wind transport, sediment, slope stability, navigation, walking, collision or physical simulation claim.",
+  "bounds": {
+    "x": 5.45666647,
+    "y": 3.750701189,
+    "z": 0.913309693,
+    "unit": "m"
+  },
+  "triangles": 2216,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/nature/nature-whole-asymmetric-crescent-sand-dune-01/v1.0.0/model.glb",
+      "size": 86808,
+      "sha256": "2afc133fa50070cfb35d0cb14fdcab4753056a60c1f72e2ad6c89108ad6000cf"
+    },
+    "blend": {
+      "path": "assets/nature/nature-whole-asymmetric-crescent-sand-dune-01/v1.0.0/source.blend",
+      "size": 578148,
+      "sha256": "4ce457992e245c88fdf20123451e08ea20a2b9ae34e7d2595f6e90ced9ec23a3"
+    },
+    "generator": {
+      "path": "assets/nature/nature-whole-asymmetric-crescent-sand-dune-01/v1.0.0/generate.py",
+      "size": 27318,
+      "sha256": "adb4c987324500e4b6f8bf7694e896a08868fc5754612c0c3708f1b020620cdf"
+    },
+    "render": {
+      "path": "assets/nature/nature-whole-asymmetric-crescent-sand-dune-01/v1.0.0/thumbnail.png",
+      "size": 468896,
+      "sha256": "6b58d6b3cda7f771b0f9173bd4f3963bbf8fe9ffa9a25c6d0054ed6928afdd09"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

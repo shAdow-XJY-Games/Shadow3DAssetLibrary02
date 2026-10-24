@@ -1,0 +1,42 @@
+{
+  "id": "nature-whole-open-paired-lobe-flytrap-plant-01",
+  "version": "1.0.0",
+  "category": "modular",
+  "assetKind": "prop",
+  "theme": "nature",
+  "style": "warm-handcrafted-village",
+  "title": "Whole Open Paired-Lobe Flytrap Plant",
+  "description": "One complete newly authored low basal flytrap-like plant. Broad flattened tapering petioles rise from a small grounded crown and terminate in paired concave upward-folded leaf lobes joined along curved midribs. Slender individually curved marginal bristles extend from actual thick leaf edges, leaving open intervals, with two low spreading immature leaves completing the whole crown. No pitcher tube, animal shell valves, radial shell ribs or mantle; no old plant geometry is reused. One static stylized model and zero scenes, not a rig or working trap. No exact species accuracy, capture, feeding, digestion, growth, cultivation, ecological, medical or safety claim.",
+  "bounds": {
+    "x": 0.489690572,
+    "y": 0.385467589,
+    "z": 0.268996805,
+    "unit": "m"
+  },
+  "triangles": 3156,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/nature/nature-whole-open-paired-lobe-flytrap-plant-01/v1.0.0/model.glb",
+      "size": 191540,
+      "sha256": "cd47104d02e5c69e91a16d7598eba872fd3eb07ea1c0d2a5aa5e52d7b6abb142"
+    },
+    "blend": {
+      "path": "assets/nature/nature-whole-open-paired-lobe-flytrap-plant-01/v1.0.0/source.blend",
+      "size": 823432,
+      "sha256": "01e6f6c94a95168edc029c8eae6b0fb158dec0202219b1590ab1fe201a33af9a"
+    },
+    "generator": {
+      "path": "assets/nature/nature-whole-open-paired-lobe-flytrap-plant-01/v1.0.0/generate.py",
+      "size": 29696,
+      "sha256": "353e7b3a87150066a513a267fd7d5f89172a4f87df2487d2ef11d0c3a73aee55"
+    },
+    "render": {
+      "path": "assets/nature/nature-whole-open-paired-lobe-flytrap-plant-01/v1.0.0/thumbnail.png",
+      "size": 494328,
+      "sha256": "d4898a26af83dc44769600eae1760aefb303f86a91d3b377dbc5298164c02fe1"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

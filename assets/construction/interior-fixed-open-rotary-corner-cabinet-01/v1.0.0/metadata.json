@@ -1,0 +1,42 @@
+{
+  "id": "interior-fixed-open-rotary-corner-cabinet-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "interior",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Open Rotary Corner Cabinet",
+  "description": "One newly authored complete static corner kitchen cabinet with a genuine concave L access opening and two whole doors fixed swung apart. A continuous L countertop and matching notched floor stand on a grounded plinth, with four full rear and return walls. One central vertical spindle and complete end bearings support two full three-quarter circular tray floors with continuous curved retaining rims and integral-position hubs. The missing quarter opens toward the corner access rather than being a fixed polygon shelf or a linear pullout carriage. All numerical geometry is new; no old cabinet or carousel parts imported. Three opaque constant PBR roles, metre game units, Z-up, horizontal bounds-centred ground origin. One complete furniture prop, zero scenes, no dishes or host kitchen. Fixed visual display only: no rotation or full travel clearance, hinges in motion, synchronization, installation compatibility, load, storage suitability, manufacture or safety certification is claimed.",
+  "bounds": {
+    "x": 1.1525889466813029,
+    "y": 1.1299279338180335,
+    "z": 0.915,
+    "unit": "m"
+  },
+  "triangles": 1652,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/construction/interior-fixed-open-rotary-corner-cabinet-01/v1.0.0/model.glb",
+      "size": 84204,
+      "sha256": "b40e54dd104bc908456cd14b8aa8c21aecd6e5602ca541626a2ae540665e50d4"
+    },
+    "blend": {
+      "path": "assets/construction/interior-fixed-open-rotary-corner-cabinet-01/v1.0.0/source.blend",
+      "size": 717076,
+      "sha256": "9e19008006e464a8016d4ad8076c0bf818bd3e172813dbe55ac795f99ff1f002"
+    },
+    "generator": {
+      "path": "assets/construction/interior-fixed-open-rotary-corner-cabinet-01/v1.0.0/generate.py",
+      "size": 10708,
+      "sha256": "4832378e38a713281f850a78e06e2467465fe57e69345552bf734b8538e7b9b6"
+    },
+    "render": {
+      "path": "assets/construction/interior-fixed-open-rotary-corner-cabinet-01/v1.0.0/thumbnail.png",
+      "size": 468958,
+      "sha256": "ec3169cd82b7baec73fe76ae87341b71f097b408e1a5f0f25d617dc77f7508a5"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
