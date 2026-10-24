@@ -1,0 +1,42 @@
+{
+  "id": "sports-fixed-twin-bridge-ice-skate-display-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "sports",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Twin Bridge Ice Skate Display",
+  "description": "One newly authored complete static ice-skate exterior. A low forward instep and high rear ankle form one thick hollow boot with an oblique open throat and full inner floor, over a thin continuous outsole. Two whole separated raised bridges connect the shoe to a single continuous narrow blade with raised rounded ends and a finite central ground edge; the long under-arch stays genuinely open. Six coarse fixed crossed laces are actual solids. No old winter boot mesh is imported or extracted: the old snow pair has bulky folded cuffs, four independent ground tread/heel blocks per foot and no suspended blade-bearing structure, whereas this new whole assembly has a low hard shoe silhouette, continuous narrow runner and two elevated supports. Three opaque untextured PBR roles, metres, Z up and full horizontally centred ground origin. One complete skate prop, zero scenes or paired-colour variants. No foot, wearer, ice terrain, sharpened-edge detail, fastening motion or extra equipment. Static illustrative appearance only: no skating ability, blade sharpening, actual balance, fit, grip, speed, structural load, manufacture or safety claim.",
+  "bounds": {
+    "x": 0.116,
+    "y": 0.364,
+    "z": 0.28500000000000003,
+    "unit": "m"
+  },
+  "triangles": 828,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/sports/sports-fixed-twin-bridge-ice-skate-display-01/v1.0.0/model.glb",
+      "size": 66592,
+      "sha256": "f18be14bf1887ce5a400cddf0e6fff984e287427e7920f97624e51ca0a8b4e86"
+    },
+    "blend": {
+      "path": "assets/sports/sports-fixed-twin-bridge-ice-skate-display-01/v1.0.0/source.blend",
+      "size": 640240,
+      "sha256": "559b067b7252570dbd065e464d2cfb781ea9b3e2b6d42394d48df98446d93c3e"
+    },
+    "generator": {
+      "path": "assets/sports/sports-fixed-twin-bridge-ice-skate-display-01/v1.0.0/generate.py",
+      "size": 11895,
+      "sha256": "a0e0e6eb49ade74153f0321a6e2a9ffaf4529e67c121070a9d61f4bf8ca95ca0"
+    },
+    "render": {
+      "path": "assets/sports/sports-fixed-twin-bridge-ice-skate-display-01/v1.0.0/thumbnail.png",
+      "size": 378685,
+      "sha256": "5332fb79b6b283f6da5b046cd29d9ca047ec5482a70e4e8bd428d06ce9dbca95"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

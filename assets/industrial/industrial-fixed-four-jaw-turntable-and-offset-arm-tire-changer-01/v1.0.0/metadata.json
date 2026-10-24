@@ -1,0 +1,42 @@
+{
+  "id": "industrial-fixed-four-jaw-turntable-and-offset-arm-tire-changer-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "industrial",
+  "style": "source-preserved-low-poly",
+  "title": "Fixed Four Jaw Turntable and Offset Arm Tire Changer",
+  "description": "One newly authored complete static four-jaw tire-service turntable machine appearance. Four grounded pads carry a low chamfered cabinet and a broad annular top platter with four whole radial L-shaped clamp jaws. A tall rear mast supports a fixed swung offset arm, its thick guide collar, descending stem and blunt hooked rim-tool head. Three front foot-pedal plates meet a low transverse axle. Three opaque untextured PBR roles, one prop and zero scenes. Not a bench drill or pottery wheel recoloured: no drill bit, belt hood or open-legged workbench. No tire, wheel, air supply, internal transmission, actuation, fitting instructions, force, pressure, dimensional compatibility, engineering or safety claim. The platter centre opening is occupied below by its support and is not claimed a full assembled through bore.",
+  "bounds": {
+    "x": 0.6200000047683716,
+    "y": 0.7036474347114563,
+    "z": 1.4700000286102295,
+    "unit": "m"
+  },
+  "triangles": 1244,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/industrial/industrial-fixed-four-jaw-turntable-and-offset-arm-tire-changer-01/v1.0.0/model.glb",
+      "size": 119632,
+      "sha256": "046f6544804f202a4c4e39cd1223d1f1011d1be92599edbb6a9356ef49325c5e"
+    },
+    "blend": {
+      "path": "assets/industrial/industrial-fixed-four-jaw-turntable-and-offset-arm-tire-changer-01/v1.0.0/source.blend",
+      "size": 770816,
+      "sha256": "f0216c66ec4e534176131078b1f1b3c66e22862aa54a1c6b67edf963bc7072c7"
+    },
+    "generator": {
+      "path": "assets/industrial/industrial-fixed-four-jaw-turntable-and-offset-arm-tire-changer-01/v1.0.0/generate.py",
+      "size": 14906,
+      "sha256": "242bad23ac8afffbb8bf3be1a57166ae006f4a9292d8eea35322b372b1466d75"
+    },
+    "render": {
+      "path": "assets/industrial/industrial-fixed-four-jaw-turntable-and-offset-arm-tire-changer-01/v1.0.0/thumbnail.png",
+      "size": 472964,
+      "sha256": "975fee339b71356fa2bc1f17d367d36c15377da48831973b7dff5e1f56bb7b1a"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

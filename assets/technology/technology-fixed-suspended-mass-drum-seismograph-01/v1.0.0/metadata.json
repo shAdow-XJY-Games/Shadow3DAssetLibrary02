@@ -1,0 +1,42 @@
+{
+  "id": "technology-fixed-suspended-mass-drum-seismograph-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "technology",
+  "style": "source-preserved-low-poly",
+  "title": "Fixed Suspended-Mass Drum Seismograph",
+  "description": "One newly authored complete fixed spring-suspended mass and horizontal recording-drum instrument display. Four finite feet and a common plinth carry a rear two-post portal with a real continuous helical suspension, one thick hanging mass, a long forward recording arm and stylus, and an independently supported horizontal blank drum with end heads, axle and side handwheel. All whole numeric geometry is new; no clock, churn or optical drum imported. One static game-art prop and zero scenes. Opaque solid PBR only, no graph or readings. No seismic sensing, response, calibrated motion, paper transport, working linkage, scientific accuracy, manufacturing, load or safety claim.",
+  "bounds": {
+    "x": 0.9599999785423279,
+    "y": 0.699999988079071,
+    "z": 1.0399999618530273,
+    "unit": "m"
+  },
+  "triangles": 3064,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/technology/technology-fixed-suspended-mass-drum-seismograph-01/v1.0.0/model.glb",
+      "size": 272804,
+      "sha256": "7874813dbfc3e1a9cf0c2e4f615609eb88d9159c3f77506ae8c77d3b928e7c1a"
+    },
+    "blend": {
+      "path": "assets/technology/technology-fixed-suspended-mass-drum-seismograph-01/v1.0.0/source.blend",
+      "size": 1002528,
+      "sha256": "325962a450ab71f4734bdb2ce011c85f880c2fad377898af7f7269f7baba0983"
+    },
+    "generator": {
+      "path": "assets/technology/technology-fixed-suspended-mass-drum-seismograph-01/v1.0.0/generate.py",
+      "size": 16372,
+      "sha256": "a25ef6de5ebdbe92b5228be5e2947936ec4f6f971e6f367410d5bf0e2ade7509"
+    },
+    "render": {
+      "path": "assets/technology/technology-fixed-suspended-mass-drum-seismograph-01/v1.0.0/thumbnail.png",
+      "size": 528225,
+      "sha256": "bd33cc0655de35c59029ca048aba8487527dfb7d84d2fe47fde6be6841b96d54"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "education-fixed-board-mounted-four-bar-pantograph-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "education",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Board-Mounted Four-Bar Copying Pantograph",
+  "description": "One newly authored whole static board-mounted copying-instrument appearance. A complete low chamfer-corner drawing board supports one fixed flanged origin pedestal. Four whole flat round-ended bars occupy separated axial layers and form a genuinely open parallelogram: one long member extends back to the fixed origin, while a second whole long member extends beyond the lower right joint to a separate copying-pencil sleeve. Four complete headed vertical pins join the corners. A distinct blunt tracing stem with upper grip stands at the lower left joint; a separate short blunt pencil-like body occupies the real bore of the extended-end sleeve. Two small plain blank thickened pads sit below the respective tips, without art or drawing result. No old drawing-compass legs, toolbox link meshes or table model imported; all numeric geometry newly authored. One prop and zero scenes, not additional boards, pads, arms or pens. Four constant opaque untextured PBR materials, metres, Z up, actual horizontal-bounds-centred ground origin. Small fixed material overlaps join the static tool; pins enter solid bars rather than claimed moving bearings. Visual appearance only: no real articulation, accurate copying/resizing ratio, calibration, drawing, marking, stylus fit, educational efficacy, manufacture or safe handling claim.",
+  "bounds": {
+    "x": 0.88,
+    "y": 0.75,
+    "z": 0.163,
+    "unit": "m"
+  },
+  "triangles": 1812,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/education/education-fixed-board-mounted-four-bar-pantograph-01/v1.0.0/model.glb",
+      "size": 93912,
+      "sha256": "b7f4548c6d4319f370bb68982610fe95b2e047903f8240f56f1f1c7c8ee4fc24"
+    },
+    "blend": {
+      "path": "assets/education/education-fixed-board-mounted-four-bar-pantograph-01/v1.0.0/source.blend",
+      "size": 690484,
+      "sha256": "3163c1e28720e0a6d3a91e1d3ce5733241ab1b1a0541ee3ebcc821e00b05066a"
+    },
+    "generator": {
+      "path": "assets/education/education-fixed-board-mounted-four-bar-pantograph-01/v1.0.0/generate.py",
+      "size": 26730,
+      "sha256": "d49039f29451d9d9f91e314757368fc8aba749a5f710be82d383c795098f7527"
+    },
+    "render": {
+      "path": "assets/education/education-fixed-board-mounted-four-bar-pantograph-01/v1.0.0/thumbnail.png",
+      "size": 489652,
+      "sha256": "4556715cf881892ad530c97a216487b160524644c51476f4d4c5dc635ee56bf8"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

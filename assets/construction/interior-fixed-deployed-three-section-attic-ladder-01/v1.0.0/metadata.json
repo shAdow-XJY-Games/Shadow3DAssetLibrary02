@@ -1,0 +1,42 @@
+{
+  "id": "interior-fixed-deployed-three-section-attic-ladder-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "military",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Deployed Three Section Attic Ladder",
+  "description": "One original complete fixed-deployed attic access ladder appearance. A thick horizontal ceiling curb has a real through-opening. Its lowered whole hatch panel lies behind the first of three distinct ladder sections; explicit section hinge plates and cross pins join the six full rails, with nine whole horizontal treads, two grounded shoes, top hinge bearings and paired fixed two-link side limiters connected to the curb. All geometry newly authored, no old A-frame, wheeled library ladder or vertical airlock model reused. Three opaque constant PBR materials, metre game units, Z-up, horizontally centred ground origin. One static prop, zero scenes, no surrounding ceiling or host building. The ceiling curb is an intentionally unsupported mounting interface without a supplied host. No folding motion, mechanism clearance, locking, climbing, accessibility, load, fit, installation, manufacture or building safety capability is claimed.",
+  "bounds": {
+    "x": 0.86,
+    "y": 2.618566967449836,
+    "z": 2.56,
+    "unit": "m"
+  },
+  "triangles": 840,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/construction/interior-fixed-deployed-three-section-attic-ladder-01/v1.0.0/model.glb",
+      "size": 58516,
+      "sha256": "5e414b2e9fd804eddefd55560a53e6ca8d4341af3c353fa7d46d8d3cb7d0f23f"
+    },
+    "blend": {
+      "path": "assets/construction/interior-fixed-deployed-three-section-attic-ladder-01/v1.0.0/source.blend",
+      "size": 724020,
+      "sha256": "8ad1320711b8cdbd4d8bced2dd9963b0260c75c4b421e38177501738f3e84212"
+    },
+    "generator": {
+      "path": "assets/construction/interior-fixed-deployed-three-section-attic-ladder-01/v1.0.0/generate.py",
+      "size": 10926,
+      "sha256": "b271a12b06bd29f5442ef7a4e1850df805ad9b5d136224051062f040fa5f4278"
+    },
+    "render": {
+      "path": "assets/construction/interior-fixed-deployed-three-section-attic-ladder-01/v1.0.0/thumbnail.png",
+      "size": 379529,
+      "sha256": "9c88861b228d1a951cb67dc90eb276083947952534baa3e21858d584436bb533"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

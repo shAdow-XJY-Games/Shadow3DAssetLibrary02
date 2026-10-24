@@ -1,0 +1,42 @@
+{
+  "id": "sports-fixed-raised-corner-rope-boxing-ring-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "sports",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Raised Corner Rope Boxing Ring",
+  "description": "One newly authored complete static boxing-ring display: a whole raised square platform and canvas deck, four full-height integrated corner posts, three continuous rounded-square solid rope loops, four tall diagonal inner corner pads and twelve fixed corner ties. A single complete three-tread side access stair reaches the deck edge. The centre remains genuinely open. This is a complete connected equipment model, not a scene of duplicated museum stanchions or court fence modules: the old fence has rigid parallel rails and vertical infill, while the museum barrier has two freestanding circular bases and one sagging rope. All new geometry is independently built for a raised enclosed ring with continuous ninety-degree corner paths and supported inner pads. Three opaque untextured PBR roles, metre scale, Z up, full ground-centred origin. One whole model, zero new scenes, no people, gloves, signs, logos or floor beyond the equipment. No claimed rope elasticity, tension adjustment, training suitability, sports regulation dimensions, fall protection, actual access, load capacity, manufacture, structural stability or safety certification. Static visual illustration only.",
+  "bounds": {
+    "x": 4.0,
+    "y": 4.85,
+    "z": 2.02,
+    "unit": "m"
+  },
+  "triangles": 1252,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/sports/sports-fixed-raised-corner-rope-boxing-ring-01/v1.0.0/model.glb",
+      "size": 93932,
+      "sha256": "560cc03ce5ff9e4596649c7833edb5fc2c75276f92afae21ab6a927d787eecd9"
+    },
+    "blend": {
+      "path": "assets/sports/sports-fixed-raised-corner-rope-boxing-ring-01/v1.0.0/source.blend",
+      "size": 704632,
+      "sha256": "5c57f3d129b06da36f9e6c5062446130c12351580e79da081ea46ce9b1fcdffe"
+    },
+    "generator": {
+      "path": "assets/sports/sports-fixed-raised-corner-rope-boxing-ring-01/v1.0.0/generate.py",
+      "size": 11437,
+      "sha256": "10b33f1d2bb3d708ffe5161a8ea0d791f3805c58017e9da603f749bfa7c40036"
+    },
+    "render": {
+      "path": "assets/sports/sports-fixed-raised-corner-rope-boxing-ring-01/v1.0.0/thumbnail.png",
+      "size": 467087,
+      "sha256": "a14ccb6eb08ce5e2ae2b8fe580ab57c0e849a127e54c97897db5cd1d6fda10cc"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
