@@ -1194,6 +1194,11 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary02",
       "commit": "9c9391f008cfa412f98a30ba8ff4fdc7340d3f2f"
+    },
+    "original-continuous-four-1421-volume02-20261025": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary02",
+      "commit": "23b4e1ea3591ef3f5c4559fd6dcc15ee069c1beb"
     }
   },
   "assets": [
@@ -35381,6 +35386,178 @@
       "status": "verified",
       "license": "All rights reserved",
       "sourceId": "original-continuous-two-1417-volume02-20261025"
+    },
+    {
+      "id": "fantasy-fixed-open-v-fold-gatehouse-book-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "fantasy",
+      "style": "S01-clean-geometric",
+      "title": "Fixed Open V Fold Gatehouse Book",
+      "description": "One original complete open pop-up-style gatehouse book in a single fixed artistic pose. A continuous thick open hard cover and spine carry two full sloped page blocks. Two whole thin paper facade panels meet along a genuine upright central V crease; each has a finite complete foot tab seated into its own page. Their lower cut edges form an actual empty arched doorway across the fold, while the upper cut edges form distinct crenellated tower/parapet silhouettes. It is not a closed-book set with a building placed on top, a printed castle image, or the old folded boat/lantern/fan recoloured. Every mesh is newly authored; no old architecture or paper mesh imported. One complete prop, zero scenes, seven closed solids, three opaque constant untextured PBR materials, metres, centred ground datum. Static fictional paper-art representation only: no readable text, unfolding or closing proof, rig, animation, paper engineering, manufacture, durability, protective or safety claim.",
+      "bounds": {
+        "x": 0.41,
+        "y": 0.3,
+        "z": 0.18,
+        "unit": "m"
+      },
+      "triangles": 252,
+      "materials": 3,
+      "files": {
+        "glb": {
+          "path": "assets/fantasy/fantasy-fixed-open-v-fold-gatehouse-book-01/v1.0.0/model.glb",
+          "size": 17300,
+          "sha256": "f0d0eb1d3776274aa76a2b113a9025e8d152948e6564d1e9a297c0fec89f47b4"
+        },
+        "blend": {
+          "path": "assets/fantasy/fantasy-fixed-open-v-fold-gatehouse-book-01/v1.0.0/source.blend",
+          "size": 562936,
+          "sha256": "4570ebf02047ee3f98616c25ff0bb0610f4e0fe9ebe97fb9c64307b98dcf7cf9"
+        },
+        "generator": {
+          "path": "assets/fantasy/fantasy-fixed-open-v-fold-gatehouse-book-01/v1.0.0/generate.py",
+          "size": 10285,
+          "sha256": "2679a05f71da43ba0008bfa6e8419e9bacee24881f36d32f8e8cc68827480f2f"
+        },
+        "render": {
+          "path": "assets/fantasy/fantasy-fixed-open-v-fold-gatehouse-book-01/v1.0.0/thumbnail.png",
+          "size": 388399,
+          "sha256": "63e222dc97b9906d0106d4212f9de78af500a6561de9e6abbba59906314bf2dd"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-continuous-four-1421-volume02-20261025"
+    },
+    {
+      "id": "fitness-fixed-a-frame-trunnion-and-ankle-holder-table-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "fitness",
+      "style": "S01-clean-geometric",
+      "title": "Fixed A Frame Trunnion and Ankle Holder Table",
+      "description": "One newly authored whole static A-frame inversion-table exterior in a fixed empty upright-rest presentation. Two full high A side frames with spread ties and front/rear crossmembers stand on four finite pads. A complete transverse trunnion shaft joins the high sleeves and one continuous long chamfered upholstered board with its full rear spine. A separate full lower extension leads to an actual foot-rest plate and a central bracket carrying two complete opposed ankle-roller rows, each with its own transverse axle and separate thick pads. Two entire curved side handrails root into the high sleeves and front frame legs. This is not a rotated old press bench, its seat/back replacement, low slant board or an oval mirror stand with a different face; all geometry is newly authored. Three opaque constant untextured PBR roles, metres, Z up and actual whole horizontal-bounds-centred ground origin. One prop, zero scenes, no person. Static illustrative exterior only: no exercise guidance, inversion movement, therapy, medical benefit, suitability, body dimensions, actual restraint, locking, adjustment, stability, load capacity, manufacture or safety is modeled or verified.",
+      "bounds": {
+        "x": 1.0239892617448065,
+        "y": 1.46,
+        "z": 1.7517883389762265,
+        "unit": "m"
+      },
+      "triangles": 1260,
+      "materials": 3,
+      "files": {
+        "glb": {
+          "path": "assets/fitness/fitness-fixed-a-frame-trunnion-and-ankle-holder-table-01/v1.0.0/model.glb",
+          "size": 78860,
+          "sha256": "c3e655797bf2a1b7356471ca870ff1ceb14a13d32a883344bc2a9b3084b599d8"
+        },
+        "blend": {
+          "path": "assets/fitness/fitness-fixed-a-frame-trunnion-and-ankle-holder-table-01/v1.0.0/source.blend",
+          "size": 719008,
+          "sha256": "cc19cadb33cb144735747e7c416816663c5a951f0eaca9b8705733970303c936"
+        },
+        "generator": {
+          "path": "assets/fitness/fitness-fixed-a-frame-trunnion-and-ankle-holder-table-01/v1.0.0/generate.py",
+          "size": 12447,
+          "sha256": "f8719ef9020d61c1845bcfca8b63b5903eb4e27bb9f852dd47ff2e14d6f6ceca"
+        },
+        "render": {
+          "path": "assets/fitness/fitness-fixed-a-frame-trunnion-and-ankle-holder-table-01/v1.0.0/thumbnail.png",
+          "size": 418210,
+          "sha256": "273b350e64cd5c231186fbb6af06ecf548995f6960dfdcf356c118a38be384c2"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-continuous-four-1421-volume02-20261025"
+    },
+    {
+      "id": "professional-fixed-drawplate-and-windlass-drawing-bench-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "professional",
+      "style": "S01-clean-geometric",
+      "title": "Fixed Drawplate and Windlass Drawing Bench",
+      "description": "One newly authored complete fixed traditional metalworking drawbench-style exterior. Four complete grounded legs and two crossheads carry long separated guide rails. A full square fixed drawplate has one genuine circular empty through-bore above its entire cross-bed foot. A separate whole bridge carriage supports two long blunt open gripping halves and their common upright pin; a full rear lug joins a single continuous finite flat strap which runs toward and wraps partway around a transverse windlass barrel. Two complete bearing towers support the whole axle, broad barrel, both flanges and an outboard open three-spoke handwheel with a fixed grip. Unlike the old rope-forming bench, there are no three independent hook axes, three-hole separator, forming strands or far capture eye; unlike the old metal lathe there is no chuck, tail quill, cutting tool or cross-feed slide. All geometry is newly authored, not old bench components rearranged. One prop, zero scenes, no wire or workpiece. Four opaque constant untextured PBR materials, metres, Z up, actual horizontally centred bounds and grounded soles. Static illustrative appearance only: no wire reduction, pulling action, clamping, carriage travel, drum rotation, strap tension, gear ratio, material processing, manufacture, operation, load, ergonomic fit or machinery safety guarantee. Rigging, animation and interaction are not made and outside this static asset.",
+      "bounds": {
+        "x": 2.388,
+        "y": 0.83,
+        "z": 1.255,
+        "unit": "m"
+      },
+      "triangles": 1728,
+      "materials": 4,
+      "files": {
+        "glb": {
+          "path": "assets/professional/professional-fixed-drawplate-and-windlass-drawing-bench-01/v1.0.0/model.glb",
+          "size": 98992,
+          "sha256": "b73a28ead62f4f9129e1a5fe7ce639a087e51c6ca16d01fd7079b0f85b451e68"
+        },
+        "blend": {
+          "path": "assets/professional/professional-fixed-drawplate-and-windlass-drawing-bench-01/v1.0.0/source.blend",
+          "size": 776416,
+          "sha256": "b67a3f7752e485bfaa2332e8383b70d2ff502f01be0fdae2948525532dbb6889"
+        },
+        "generator": {
+          "path": "assets/professional/professional-fixed-drawplate-and-windlass-drawing-bench-01/v1.0.0/generate.py",
+          "size": 28783,
+          "sha256": "53063d019256176b27e5048f209001a0f12547a456d90737ad0a279dc40138f9"
+        },
+        "render": {
+          "path": "assets/professional/professional-fixed-drawplate-and-windlass-drawing-bench-01/v1.0.0/thumbnail.png",
+          "size": 527951,
+          "sha256": "856a023dd910c138498afe3d042057c4a46040da15bf2e154e12a84e036d524e"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-continuous-four-1421-volume02-20261025"
+    },
+    {
+      "id": "professional-fixed-front-disc-and-rear-squeegee-floor-scrubber-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "professional",
+      "style": "source-preserved-low-poly",
+      "title": "Fixed Front Disc and Rear Squeegee Floor Scrubber",
+      "description": "One original complete fixed walk-behind floor-scrubber visual prop. A broad low horizontal brush-disc appearance under a separate round deck cap sits at the front of an integrated contoured lower tank body and separate rounded upper tank exterior. Two full rear wheels, a full bowed trailing dark squeegee strip with separate backing and mounting arms, one short attached hose, a paired inclined push frame and blank control bridge complete the whole janitorial machine. Not the old barrel vacuum with a different nozzle or a snow machine with its auger removed: the integrated front disc and low trailing sweep connect to one tank chassis, no long detached wand or discharge chute. One prop zero scenes, three opaque materials, whole newly authored numerical geometry. Static unpowered exterior only, no liquid, internal hydraulic/air circuit, brush or wheel rotation, suction, cleaning result, detergent handling, electricity, hygiene, load, manufacture or safe machine use claim. Rigging, animation and interaction are not made.",
+      "bounds": {
+        "x": 0.7099999785423279,
+        "y": 1.3170000314712524,
+        "z": 0.9900000095367432,
+        "unit": "m"
+      },
+      "triangles": 2304,
+      "materials": 3,
+      "files": {
+        "glb": {
+          "path": "assets/professional/professional-fixed-front-disc-and-rear-squeegee-floor-scrubber-01/v1.0.0/model.glb",
+          "size": 207908,
+          "sha256": "c7bf2a71d673a37013fac9e8325ce351a47cfa1f21fb3a760043045f2b49ba5c"
+        },
+        "blend": {
+          "path": "assets/professional/professional-fixed-front-disc-and-rear-squeegee-floor-scrubber-01/v1.0.0/source.blend",
+          "size": 880128,
+          "sha256": "dd40c1a879bd3cc6647eb733f293ecf0931146dec572e7318d70f07805437cda"
+        },
+        "generator": {
+          "path": "assets/professional/professional-fixed-front-disc-and-rear-squeegee-floor-scrubber-01/v1.0.0/generate.py",
+          "size": 16822,
+          "sha256": "1a5515ac8c1e662469b3fffc43b9ec896ec7fe8442e683de579415c50e9c968b"
+        },
+        "render": {
+          "path": "assets/professional/professional-fixed-front-disc-and-rear-squeegee-floor-scrubber-01/v1.0.0/thumbnail.png",
+          "size": 487037,
+          "sha256": "fc9ded9f0f833a64c8c1fad11534be20c956d90714ad5efcf071bad68af6451d"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-continuous-four-1421-volume02-20261025"
     }
   ]
 }
