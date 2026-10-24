@@ -1,0 +1,42 @@
+{
+  "id": "professional-fixed-open-throat-outside-micrometer-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "professional",
+  "style": "source-preserved-low-poly",
+  "title": "Fixed Open Throat Outside Micrometer",
+  "description": "One newly authored whole static outside-micrometer appearance in a fixed empty opening. A thick continuous semicircular frame has a separate curved insulating pad, fixed anvil and opposed coaxial slender spindle. A full bearing boss carries a blank sleeve, distinct fluted thimble, short ratchet-like end grip and a separate top lock knob. The open throat and measuring gap remain actual empty space. No long guide bar, travelling clamp jaw, table mount or cross handle is reused from a vise. One prop and zero scenes. Four opaque constant PBR materials, metres, native Z up, horizontal bounds-centred ground origin in a laid-flat display pose. No graduations, readings, screw engagement, movement, calibration, measurement accuracy, clamping force, fabrication, ergonomics or safety claim.",
+  "bounds": {
+    "x": 0.26499998569488525,
+    "y": 0.0860000029206276,
+    "z": 0.03449999913573265,
+    "unit": "m"
+  },
+  "triangles": 1256,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/professional/professional-fixed-open-throat-outside-micrometer-01/v1.0.0/model.glb",
+      "size": 113548,
+      "sha256": "ca6c08e6e15e9b7753dff74c35d34b2f39fb5457776fb0c57d1b89669d403598"
+    },
+    "blend": {
+      "path": "assets/professional/professional-fixed-open-throat-outside-micrometer-01/v1.0.0/source.blend",
+      "size": 743584,
+      "sha256": "35d648eb0030de2b14f2f7c50ca3111efaee0b0dd4202082d54f401c873a7e5b"
+    },
+    "generator": {
+      "path": "assets/professional/professional-fixed-open-throat-outside-micrometer-01/v1.0.0/generate.py",
+      "size": 16025,
+      "sha256": "f1e66682a8501d400ef2a8c94aeb22ddded1ab9eaace2a42183e42a8b2b1edd6"
+    },
+    "render": {
+      "path": "assets/professional/professional-fixed-open-throat-outside-micrometer-01/v1.0.0/thumbnail.png",
+      "size": 446960,
+      "sha256": "998bd78a5443734c7b4e9ef29c845d3cc3438a0b2355037101821a5a046e064e"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

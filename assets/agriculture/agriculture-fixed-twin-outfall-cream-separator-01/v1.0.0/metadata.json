@@ -1,0 +1,42 @@
+{
+  "id": "agriculture-fixed-twin-outfall-cream-separator-01",
+  "version": "1.0.0",
+  "category": "modular",
+  "assetKind": "prop",
+  "theme": "agriculture",
+  "style": "warm-handcrafted-village",
+  "title": "Fixed Twin-outfall Cream Separator",
+  "description": "One newly authored complete fixed upright cream-separator exterior. A broad finite ground flange and waisted cast pedestal carry a side hand crank with full wood grip. A central supported neck carries two separate shallow collector-like bodies at distinct heights, each with one continuously formed open pouring contour pointing in a different direction; the channels belong to the whole pan meshes rather than floating spouts. One large deep open upper receiving bowl rises above the stacked collectors. The tall bowl/dual outfall/pedestal relation is not a honey drum, open laboratory rotor or coffee grinder enlarged and recoloured. One complete static dairy-equipment game prop, zero scenes. No fluid path continuity, cream separation, speed, rotation, working tap, food contact, hygiene, throughput, manufacture or safety claim.",
+  "bounds": {
+    "x": 0.651248693,
+    "y": 0.659613729,
+    "z": 1.024999976,
+    "unit": "m"
+  },
+  "triangles": 3100,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/agriculture/agriculture-fixed-twin-outfall-cream-separator-01/v1.0.0/model.glb",
+      "size": 158996,
+      "sha256": "be543ff16451ee205bf19dbe54981f3fd7f2dc8e8ffe3093c0da57f88a71073d"
+    },
+    "blend": {
+      "path": "assets/agriculture/agriculture-fixed-twin-outfall-cream-separator-01/v1.0.0/source.blend",
+      "size": 642780,
+      "sha256": "79206a89dbe189bdf99a86823d56bfad031ee02d3edf6ffdebab24e3c13cb4e0"
+    },
+    "generator": {
+      "path": "assets/agriculture/agriculture-fixed-twin-outfall-cream-separator-01/v1.0.0/generate.py",
+      "size": 29406,
+      "sha256": "da7d8a95e78a2bb9495ebf50e162fc0472844f4402128d73ce3c82b977b6c531"
+    },
+    "render": {
+      "path": "assets/agriculture/agriculture-fixed-twin-outfall-cream-separator-01/v1.0.0/thumbnail.png",
+      "size": 513069,
+      "sha256": "4d64571e0fa577cb6b3459475be58cf79154327dd731a7f943d96428d8b56f2f"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "public-fixed-four-wing-revolving-entrance-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "public",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Four Wing Revolving Entrance",
+  "description": "One newly authored complete static revolving-entrance assembly. A full circular threshold and upper canopy bound a central full-height vertical pivot with end bearings. Two complete curved side frames form a cylindrical perimeter with genuine open windows and opposed front/back entry mouths. Four whole framed radial leaves, each with opaque inset panels and a full push bar, divide the central volume around that one shared axis. These are components of one entrance, not four separately counted doors. This is not a waist-height tripod bar gate with more arms or a duplicated bifold door: the new organization is a full-height cylindrical passage enclosure and radial leaf chambers between opposed mouths. All numeric geometry is new. Three opaque constant PBR materials, metres, Z-up, horizontal bounds-centred threshold datum. One fixed architectural prop, zero scenes, no host building, people or transparent glass claim. No rotation, closing envelope, crowd throughput, accessibility, emergency egress, weather sealing, security, fire compliance, installation, structural load, manufacture or safety certification is claimed.",
+  "bounds": {
+    "x": 2.4,
+    "y": 2.4,
+    "z": 2.425,
+    "unit": "m"
+  },
+  "triangles": 1728,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/construction/public-fixed-four-wing-revolving-entrance-01/v1.0.0/model.glb",
+      "size": 90356,
+      "sha256": "9ddead38a200f9228efa296702b367051c1b114f16c158c71f4b230667834ff1"
+    },
+    "blend": {
+      "path": "assets/construction/public-fixed-four-wing-revolving-entrance-01/v1.0.0/source.blend",
+      "size": 716248,
+      "sha256": "18df27c40d3e690df854fd41068788023893b8c4a1cc3f3bd844784308f930d8"
+    },
+    "generator": {
+      "path": "assets/construction/public-fixed-four-wing-revolving-entrance-01/v1.0.0/generate.py",
+      "size": 11947,
+      "sha256": "78fcc9478f40c8abfd1d344ecf082e38442ed00674802457c187770b8e14b63c"
+    },
+    "render": {
+      "path": "assets/construction/public-fixed-four-wing-revolving-entrance-01/v1.0.0/thumbnail.png",
+      "size": 489775,
+      "sha256": "b97102b2d00d63b9500c5619e1d0d252de4f900e458f516c29b09ab171c266f4"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

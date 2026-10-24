@@ -1,0 +1,42 @@
+{
+  "id": "agriculture-fixed-raised-bar-flax-brake-01",
+  "version": "1.0.0",
+  "category": "modular",
+  "assetKind": "prop",
+  "theme": "agriculture",
+  "style": "warm-handcrafted-village",
+  "title": "Fixed Raised-bar Flax Brake",
+  "description": "One newly authored complete fixed raised-bar flax-brake appearance for farm fibre preparation. Four timber legs on two grounded skids and full end crossbearers support three long stationary blunt jaw rails with genuine open slots between them. Two separate raised upper blunt jaw rails belong to one complete frame on a short-end transverse fixed pivot; front and rear ties plus a long forward hand lever join them. The upper frame is shown lifted so the opposed longitudinal jaw relationship is visible. One whole static prop, zero scenes. No old sheet-brake apron, loom, loose sawhorse rails or processing material imported. No fibre breaking, motion, travel envelope, sharpness, mechanical advantage, force, ergonomics, fabrication, structural or safety claim.",
+  "bounds": {
+    "x": 0.720000029,
+    "y": 1.717756152,
+    "z": 1.418583035,
+    "unit": "m"
+  },
+  "triangles": 340,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/agriculture/agriculture-fixed-raised-bar-flax-brake-01/v1.0.0/model.glb",
+      "size": 31748,
+      "sha256": "496e46ab06289e106ab26d2502c99c2b4a7b186dbbf7959336180790a9312384"
+    },
+    "blend": {
+      "path": "assets/agriculture/agriculture-fixed-raised-bar-flax-brake-01/v1.0.0/source.blend",
+      "size": 610148,
+      "sha256": "69ea5bab03816c411e18e8d1b5dc13cc86b0898ff609268f1330e60ba66788e5"
+    },
+    "generator": {
+      "path": "assets/agriculture/agriculture-fixed-raised-bar-flax-brake-01/v1.0.0/generate.py",
+      "size": 30095,
+      "sha256": "1aea08abac9e4fe1f534f2f759cf5ce15b1f4df0ee409a351bf50abb97984452"
+    },
+    "render": {
+      "path": "assets/agriculture/agriculture-fixed-raised-bar-flax-brake-01/v1.0.0/thumbnail.png",
+      "size": 541516,
+      "sha256": "73c4d67dd8fc536fcd652bd6d7109f5e684817f7db84cd857a2ec21421377440"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

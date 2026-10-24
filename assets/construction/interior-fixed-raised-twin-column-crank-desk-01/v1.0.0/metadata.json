@@ -1,0 +1,42 @@
+{
+  "id": "interior-fixed-raised-twin-column-crank-desk-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "interior",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Raised Twin Column Crank Desk",
+  "description": "One newly authored complete static raised hand-crank desk exterior. Two whole grounded T feet carry full hollow outer rectangular columns and visibly extended narrower inner columns. Complete longitudinal top bearers and local upper housings support one level chamfer-corner writing top. A full transverse shaft, external bent side crank with a thick outer grip and low rear cross tie complete the mechanism appearance. Unlike the old fixed inclined drafting board or a low storage table raised on parallel links, the support route uses two nested upright column assemblies; no old table mesh resized or imported. Three opaque constant PBR materials, metre game units, Z-up, complete horizontal bounds-centred ground origin. One furniture prop, zero scenes and no contents. Fixed elevated pose only: no hidden screw or gear internals certified, cranking or lifting action, synchronization, full travel, ergonomic height, load capacity, stability, assembly, installation or safety performance claim.",
+  "bounds": {
+    "x": 1.635,
+    "y": 0.78,
+    "z": 1.19,
+    "unit": "m"
+  },
+  "triangles": 720,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/construction/interior-fixed-raised-twin-column-crank-desk-01/v1.0.0/model.glb",
+      "size": 43284,
+      "sha256": "a511bf0c726b16f7161726e7395e93dc4fe49fb87bfd59cc00316537b2a0e882"
+    },
+    "blend": {
+      "path": "assets/construction/interior-fixed-raised-twin-column-crank-desk-01/v1.0.0/source.blend",
+      "size": 652832,
+      "sha256": "ab13e4cc9923c4ed2bde0b5649fde50345068a0c9b8a12c75c05741caaa65c2f"
+    },
+    "generator": {
+      "path": "assets/construction/interior-fixed-raised-twin-column-crank-desk-01/v1.0.0/generate.py",
+      "size": 11154,
+      "sha256": "b5502cad7fb56458c680ded6909b08ec5491b24122943615bf9b90923dc7acdb"
+    },
+    "render": {
+      "path": "assets/construction/interior-fixed-raised-twin-column-crank-desk-01/v1.0.0/thumbnail.png",
+      "size": 408710,
+      "sha256": "1f81d182410aff590fc509502ae392cf6c75873ac15f12474dfa3af305a535a7"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

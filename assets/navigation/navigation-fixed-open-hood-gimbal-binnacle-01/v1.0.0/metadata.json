@@ -1,0 +1,42 @@
+{
+  "id": "navigation-fixed-open-hood-gimbal-binnacle-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "navigation",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Open Hood Gimbal Binnacle",
+  "description": "One newly authored complete static marine binnacle-style navigation instrument exterior. A tall tapered eight-sided wooden pedestal and full ground plinth flare into an upper deck. A thick brass rear half-dome hood with its own inner curved skin and complete cut edges leaves the entire front genuinely open. Two finite side standards carry one complete horizontal suspension ring on opposed X-axis trunnions; one whole hollow compass bowl is separately suspended inside that ring by perpendicular Y-axis trunnions across real radial gaps. A central stem supports a plain ivory card with an integral eight-point uncalibrated rose and proud cap. Two complete lateral arm/post/sphere fittings belong to the whole characteristic housed instrument. All numeric geometry is new, not the old flat compass placed on a stand, an armillary sphere with its globe changed, imported components or extra separately counted fittings. One prop, zero scenes. Four opaque constant untextured PBR materials, metres, Z up, true horizontal-bounds-centred grounded origin. Small deliberate fixed attachment overlaps only. Static illustrative appearance: no magnetic response, compensation, navigation, true bearings, calibration, historical accuracy, gimbal movement, stability at sea, weather seal, manufacture, structural or operational safety claim.",
+  "bounds": {
+    "x": 0.834,
+    "y": 0.51,
+    "z": 1.265,
+    "unit": "m"
+  },
+  "triangles": 4272,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/navigation/navigation-fixed-open-hood-gimbal-binnacle-01/v1.0.0/model.glb",
+      "size": 241868,
+      "sha256": "8a5fc1d9d3869acb324a073206f05d3bd60e92c9894b873839fe4cb6c2284a57"
+    },
+    "blend": {
+      "path": "assets/navigation/navigation-fixed-open-hood-gimbal-binnacle-01/v1.0.0/source.blend",
+      "size": 859936,
+      "sha256": "31e876a76d0cc2feebb9c13bd8ddf3037db60d15424c6ee0e71e534b2a27ab89"
+    },
+    "generator": {
+      "path": "assets/navigation/navigation-fixed-open-hood-gimbal-binnacle-01/v1.0.0/generate.py",
+      "size": 29372,
+      "sha256": "37ee9d4a47972cc71b92c4a0a40a681eb121709ef64980aa05ccac23e3890ac7"
+    },
+    "render": {
+      "path": "assets/navigation/navigation-fixed-open-hood-gimbal-binnacle-01/v1.0.0/thumbnail.png",
+      "size": 538108,
+      "sha256": "f7aa8c97f9f7dc7f097f5049f37dc073e8bdd765c131da165cd290c845b1f6e3"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

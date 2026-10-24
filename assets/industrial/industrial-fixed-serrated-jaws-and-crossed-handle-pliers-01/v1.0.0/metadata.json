@@ -1,0 +1,42 @@
+{
+  "id": "industrial-fixed-serrated-jaws-and-crossed-handle-pliers-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "industrial",
+  "style": "source-preserved-low-poly",
+  "title": "Fixed Serrated Jaws and Crossed Handle Pliers",
+  "description": "One newly authored whole static combination-pliers appearance in a fixed open flat pose. Two complete separate metal arm bodies each run from a short broad jaw with a finite serrated inner contour through an overlapping central joint into the opposite long splayed handle tang. Both jaw faces occupy the same finite thickness band while the centre arms use separate layers. A fixed central pin and two broad retaining caps root the joint. Two thick closed dark overgrips follow the complete handle tangs and leave a real open space between them. Three opaque PBR roles; one prop, zero scenes. No long cutting blade, oval finger loop, continuous rear spring return, teeth texture or old visible geometry payload. Static appearance only: no gripping/cutting performance, force, motion, bearing clearance, ergonomic fit, electrical insulation or safety claim.",
+  "bounds": {
+    "x": 0.12200000137090683,
+    "y": 0.25,
+    "z": 0.03099999949336052,
+    "unit": "m"
+  },
+  "triangles": 572,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/industrial/industrial-fixed-serrated-jaws-and-crossed-handle-pliers-01/v1.0.0/model.glb",
+      "size": 53736,
+      "sha256": "e2b7553b754938d24e5bc87db75dcc297d6ef4bd77eea6f14de33a40da9feb78"
+    },
+    "blend": {
+      "path": "assets/industrial/industrial-fixed-serrated-jaws-and-crossed-handle-pliers-01/v1.0.0/source.blend",
+      "size": 629696,
+      "sha256": "b349a120e644c7c01ea4209ef0bfeb5a39141a5a33c62bae8630183a905a7d61"
+    },
+    "generator": {
+      "path": "assets/industrial/industrial-fixed-serrated-jaws-and-crossed-handle-pliers-01/v1.0.0/generate.py",
+      "size": 15152,
+      "sha256": "633ea5c93f66ac0a23637f02845f29d314db678a7eb64133c5c70bfd30f65b73"
+    },
+    "render": {
+      "path": "assets/industrial/industrial-fixed-serrated-jaws-and-crossed-handle-pliers-01/v1.0.0/thumbnail.png",
+      "size": 481330,
+      "sha256": "e812926880d1aa0542e05b13a05caecda9c53109cbbebe1bdfbd03b86fcfb444"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

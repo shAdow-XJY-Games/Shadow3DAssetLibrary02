@@ -1,0 +1,42 @@
+{
+  "id": "industrial-fixed-upright-ram-and-side-lever-bottle-jack-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "industrial",
+  "style": "source-preserved-low-poly",
+  "title": "Fixed Upright Ram and Side Lever Bottle Jack",
+  "description": "One newly authored whole static upright bottle-jack appearance. A thick chamfered common ground foot supports a stepped vertical closed cylinder housing, a separate thick upper collar and an exposed fixed coaxial ram ending in a broad square saddle with a real shallow cross recess. An adjacent smaller vertical pump housing has an exposed short plunger, a rooted open two-ear pivot bracket and transverse pin, joined to one long inclined fixed operating-style lever with a dark grip. A short lower side release spindle and blank fill plug finish the exterior. Three opaque PBR roles; one prop and zero scenes. No wheels, rising trolley arm, vehicle, load, working hydraulics, pressure, lifting travel/capacity, stability, manufacture or safety claim. Not an extracted actuator, a resized floor jack or a beverage urn renamed. All whole geometry newly authored.",
+  "bounds": {
+    "x": 0.2199999988079071,
+    "y": 0.5636247396469116,
+    "z": 0.4090000092983246,
+    "unit": "m"
+  },
+  "triangles": 1304,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/industrial/industrial-fixed-upright-ram-and-side-lever-bottle-jack-01/v1.0.0/model.glb",
+      "size": 120340,
+      "sha256": "643a0d5f4e9b1c2349af6f7b8144c4ee3a3f3223d46fc660c8e6b2814b15322f"
+    },
+    "blend": {
+      "path": "assets/industrial/industrial-fixed-upright-ram-and-side-lever-bottle-jack-01/v1.0.0/source.blend",
+      "size": 744608,
+      "sha256": "d901458bf6f8d621b95053d84fe8b47e8a0ab9676f4beaa6496dfb6a07c35f97"
+    },
+    "generator": {
+      "path": "assets/industrial/industrial-fixed-upright-ram-and-side-lever-bottle-jack-01/v1.0.0/generate.py",
+      "size": 14604,
+      "sha256": "b66f9821fbd1897b66b3c2a2917f2cc957e81b00f212033b4ca17b8e5f2c49c7"
+    },
+    "render": {
+      "path": "assets/industrial/industrial-fixed-upright-ram-and-side-lever-bottle-jack-01/v1.0.0/thumbnail.png",
+      "size": 497959,
+      "sha256": "bffeabe61bdfb584b99408ea7374096b8029f6cc1089b490da7004c94145961d"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

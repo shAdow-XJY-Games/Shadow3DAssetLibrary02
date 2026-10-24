@@ -1,0 +1,42 @@
+{
+  "id": "sports-fixed-three-arm-wooden-dummy-frame-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "sports",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Three Arm Wooden Dummy Frame",
+  "description": "One newly authored complete static wooden training-dummy exterior on its own frame. A tall continuous faceted timber cylinder is carried by two complete transverse supports between two grounded end columns. Three separate tapered projecting arms have visibly different roots, and one continuous thick lower leg bends forward and downward. Two long finite ground runners, rear column knees and a low transverse tie complete the support frame. Every whole component is newly authored numeric geometry; no hanging heavy bag, human/robot mannequin, animal body or woodworking clamp machine is reused. One whole prop and zero scenes, three opaque untextured solid PBR materials, metres, native Z up and complete horizontally centred ground datum. Static abstract equipment display only, unoccupied. No exercise or martial technique instructions, striking contact, movement, training efficacy, human anatomy, injury, resilient response, load rating, manufacture or equipment safety claim.",
+  "bounds": {
+    "x": 1.4,
+    "y": 0.9770661644496493,
+    "z": 1.58,
+    "unit": "m"
+  },
+  "triangles": 676,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/sports/sports-fixed-three-arm-wooden-dummy-frame-01/v1.0.0/model.glb",
+      "size": 44516,
+      "sha256": "6853a9b000a2d3e7f67b3bc9466b14b47cda31200149553054e1cfcd6379f105"
+    },
+    "blend": {
+      "path": "assets/sports/sports-fixed-three-arm-wooden-dummy-frame-01/v1.0.0/source.blend",
+      "size": 636652,
+      "sha256": "87ea747fc8a1f68193680ea1943b5e02539108cb8f34f59fc97790f8cddcbdfe"
+    },
+    "generator": {
+      "path": "assets/sports/sports-fixed-three-arm-wooden-dummy-frame-01/v1.0.0/generate.py",
+      "size": 10695,
+      "sha256": "d5402324b3ea33e9cddc8270e0cdb440f3cadc60a3cac86beb2b5f415003ce23"
+    },
+    "render": {
+      "path": "assets/sports/sports-fixed-three-arm-wooden-dummy-frame-01/v1.0.0/thumbnail.png",
+      "size": 503743,
+      "sha256": "72f067aa334145ffd1f924038d890fa7df0e7d940167c5d17a7794087717f5e6"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
