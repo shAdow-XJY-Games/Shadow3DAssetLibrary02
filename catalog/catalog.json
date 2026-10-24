@@ -1104,6 +1104,11 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary02",
       "commit": "0e8abf2f7d76310637d6db2a8facf51c3ed64975"
+    },
+    "original-recovered-two-1336-volume02-20261024": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary02",
+      "commit": "db85b536dc1b1662e2bcb2475b086c5b70e798f2"
     }
   },
   "assets": [
@@ -31722,6 +31727,92 @@
       "status": "verified",
       "license": "All rights reserved",
       "sourceId": "original-recovered-two-1334-volume02-20261024"
+    },
+    {
+      "id": "architecture-fixed-stepped-loop-escalator-module-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "architecture",
+      "style": "S01-clean-geometric",
+      "title": "Fixed Stepped Loop Escalator Module",
+      "description": "One original complete fixed escalator-module appearance: one continuous thick stepped annular flight with real open interior and lower return, separate stationary low/high landing plates with mounting flanges, two full opaque sloped balustrades, and two separate closed thick handrail return loops with end-entry housings. Unlike a flat running belt or a rigid stair cart, the stepped top and both terminal returns belong to one material loop, while handrails form their own continuous loops alongside two different-level landings. No old meshes imported. Three opaque PBR materials, metres and actual XY-envelope centring. One uninstalled static module, no building floors, passenger or motor/drive internals; lowest return edge is export datum, not a certified ground sole. No animation, physical chain articulation, step synchronisation, handrail movement, comb clearance, human accessibility, capacity, loading, installation or safety performance claim.",
+      "bounds": {
+        "x": 1.48,
+        "y": 4.44,
+        "z": 2.2836655817443847,
+        "unit": "m"
+      },
+      "triangles": 808,
+      "materials": 3,
+      "files": {
+        "glb": {
+          "path": "assets/architecture/architecture-fixed-stepped-loop-escalator-module-01/v1.0.0/model.glb",
+          "size": 44004,
+          "sha256": "d9e0336c5421c702557a1145b9430f5801f08816d7c4c73098eb09b196e9d1d1"
+        },
+        "blend": {
+          "path": "assets/architecture/architecture-fixed-stepped-loop-escalator-module-01/v1.0.0/source.blend",
+          "size": 629836,
+          "sha256": "ffe9bc83faf6312187088cbe53f63891c70bdcfa8b0930530e3bf08761e9ca43"
+        },
+        "generator": {
+          "path": "assets/architecture/architecture-fixed-stepped-loop-escalator-module-01/v1.0.0/generate.py",
+          "size": 11372,
+          "sha256": "5a3902a696d9225781b24720a2b051e4547bfc57f4b8cf511819d5090e859404"
+        },
+        "render": {
+          "path": "assets/architecture/architecture-fixed-stepped-loop-escalator-module-01/v1.0.0/thumbnail.png",
+          "size": 433415,
+          "sha256": "086fb40add49576c014f860cd0ba5a5037a78b4c746a84fb6017b2152b25b1e7"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-recovered-two-1336-volume02-20261024"
+    },
+    {
+      "id": "entertainment-fixed-pocketed-race-bowl-game-wheel-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "entertainment",
+      "style": "S01-clean-geometric",
+      "title": "Fixed Pocketed Race Bowl Game Wheel",
+      "description": "One newly authored complete static pocketed-bowl game-wheel appearance. A deep whole wooden race bowl has a continuous raised rim, full steep inward sloping annular track and blind central floor. A separately nested solid rotor rests on a complete central support: its entire high inner cone, low annular pocket floor and outer lip are one closed surface, with separately rooted radial dividers and alternating unmarked face-material fields. One whole central spindle carries four short crossed grips with rounded tips. No balls, chips, numbers, text, table, players or casino scene. Unlike the old flat disc-game field with center hole, eight pegs and external ditch, the complete body is a steep race bowl around a distinct conical pocketed rotor. Unlike the old centrifuge, there is no box enclosure, eight blind tube wells, controls or hinged lid. All whole numeric geometry newly authored; no old mesh imported. Three opaque constant untextured PBR roles, metres, Z up and whole horizontally bounds-centred ground origin. One whole prop, zero scenes; divider count is not separate assets. Static illustrative exterior only: no rotation, ball motion, regulatory layout or official pocket count, odds, fairness, money handling, actual gaming operation, manufacture or safety claim.",
+      "bounds": {
+        "x": 0.97,
+        "y": 0.97,
+        "z": 0.312,
+        "unit": "m"
+      },
+      "triangles": 4800,
+      "materials": 3,
+      "files": {
+        "glb": {
+          "path": "assets/music/entertainment-fixed-pocketed-race-bowl-game-wheel-01/v1.0.0/model.glb",
+          "size": 264500,
+          "sha256": "df44fafa37e637cd7b0b606980200090c4dcb9d75ffe21ce1ba91ed61b1a6ab9"
+        },
+        "blend": {
+          "path": "assets/music/entertainment-fixed-pocketed-race-bowl-game-wheel-01/v1.0.0/source.blend",
+          "size": 942508,
+          "sha256": "38ce0cf3a0d01bd708e134f45ccc0581dce5b99970c75a773434db53f2d4b707"
+        },
+        "generator": {
+          "path": "assets/music/entertainment-fixed-pocketed-race-bowl-game-wheel-01/v1.0.0/generate.py",
+          "size": 11201,
+          "sha256": "bce9046d63346dd1e56a6e65b7e31708a0100cdd3d919dc7b0ccdbe807d0c891"
+        },
+        "render": {
+          "path": "assets/music/entertainment-fixed-pocketed-race-bowl-game-wheel-01/v1.0.0/thumbnail.png",
+          "size": 526742,
+          "sha256": "6322fe211bc79b5240b05bde69172e9eb82d3885a0b4f74dc4d0b0e479cf90ab"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-recovered-two-1336-volume02-20261024"
     }
   ]
 }
