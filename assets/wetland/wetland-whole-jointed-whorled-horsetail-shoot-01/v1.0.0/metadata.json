@@ -1,0 +1,42 @@
+{
+  "id": "wetland-whole-jointed-whorled-horsetail-shoot-01",
+  "version": "1.0.0",
+  "category": "modular",
+  "assetKind": "prop",
+  "theme": "wetland",
+  "style": "warm-handcrafted-village",
+  "title": "Whole Jointed Whorled Horsetail Shoot",
+  "description": "One newly authored complete static stylised sterile horsetail shoot: a tall gradually tapering jointed main stem has five clearly spaced expanded nodal sheaths and five radial whorls of long slender angled articulated branches. Branches are actual round-to-angular narrow stems, not flat grass leaves or repeated terminal seed panicles. The lower whorls spread wider and the upper whorls shorten, forming the whole airy shoot structure. One complete specimen prop, zero scenes. No botanical species identification, hollow stem cross-section, growth sequence, care, ecology, toxicity, wind, animation or physics claim. The finite stem display sole is not a planted root system.",
+  "bounds": {
+    "x": 0.695426404,
+    "y": 0.648652494,
+    "z": 1.095000029,
+    "unit": "m"
+  },
+  "triangles": 2976,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/wetland/wetland-whole-jointed-whorled-horsetail-shoot-01/v1.0.0/model.glb",
+      "size": 181760,
+      "sha256": "b4cd1666b5a924220535f528c68b7a685ed1649c8e3ae6e94eb86e3e5a14cbfd"
+    },
+    "blend": {
+      "path": "assets/wetland/wetland-whole-jointed-whorled-horsetail-shoot-01/v1.0.0/source.blend",
+      "size": 779288,
+      "sha256": "a429f9e4e35ff9d413aa107577bf2c96bf78f9744a3f0a5c3dfb2066529d4ed6"
+    },
+    "generator": {
+      "path": "assets/wetland/wetland-whole-jointed-whorled-horsetail-shoot-01/v1.0.0/generate.py",
+      "size": 28204,
+      "sha256": "dd5843e9da19a7a5f85ba050025b0182115090e7deef18cbc83229c56e0833e2"
+    },
+    "render": {
+      "path": "assets/wetland/wetland-whole-jointed-whorled-horsetail-shoot-01/v1.0.0/thumbnail.png",
+      "size": 510203,
+      "sha256": "57384106e71901173351614ebdb281a38ff173e78d7f2eeb39701d2e53e777c9"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

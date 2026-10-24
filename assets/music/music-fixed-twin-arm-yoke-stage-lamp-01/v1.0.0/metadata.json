@@ -1,0 +1,42 @@
+{
+  "id": "music-fixed-twin-arm-yoke-stage-lamp-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "music",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Twin Arm Yoke Stage Lamp",
+  "description": "One newly authored complete fixed stage-lamp appearance. A whole low chamfered ground base carries a stepped vertical pan seat and spindle, supporting one continuous thick U-shaped yoke with a genuine open middle. Two opposed horizontal axles and outer caps support a separate deep cylindrical lamp housing in a single inclined pose. The housing has a real thick annular front opening, a deeply recessed opaque optic, a closed rear cap and three exterior rings. This is not the old one-sided task-lamp stem and downward shade, or the raised mirror head and flat stage of a classroom projector; every whole numeric component is newly authored. Three opaque constant untextured PBR materials, metres, native Z up and full horizontally centred ground datum. One complete prop and zero scenes. Unlit static game-art exterior only: no beam, emission, transparent optical simulation, pan/tilt movement or clearance guarantee, light output, focusing, electronics, cooling, electrical operation, mounting, manufacture or safety claim.",
+  "bounds": {
+    "x": 0.77,
+    "y": 0.603141245481552,
+    "z": 0.9616356398561983,
+    "unit": "m"
+  },
+  "triangles": 2220,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/music/music-fixed-twin-arm-yoke-stage-lamp-01/v1.0.0/model.glb",
+      "size": 98692,
+      "sha256": "96052abf4cdd9cd72f1770ae5651c4e7072b7f8b58271fc6ec1b1d4794658172"
+    },
+    "blend": {
+      "path": "assets/music/music-fixed-twin-arm-yoke-stage-lamp-01/v1.0.0/source.blend",
+      "size": 710648,
+      "sha256": "556191df9a87ffc6e7357e4b41fbf68011118bbd3c9c84f292f82099cf56babc"
+    },
+    "generator": {
+      "path": "assets/music/music-fixed-twin-arm-yoke-stage-lamp-01/v1.0.0/generate.py",
+      "size": 11297,
+      "sha256": "9ea89e2aa88bc06c6c3be58d70b7c9c105ae96451017cc3453e105c25ee4755b"
+    },
+    "render": {
+      "path": "assets/music/music-fixed-twin-arm-yoke-stage-lamp-01/v1.0.0/thumbnail.png",
+      "size": 439738,
+      "sha256": "ccc93eba9b1d5fc45713683115fc2ddf206fc822c18838ca718ac06003b1133c"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "fitness-fixed-twin-rail-reformer-bed-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "fitness",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Twin Rail Reformer Bed",
+  "description": "One newly authored complete static low twin-rail reformer-style training bed. A full rectangular timber-like frame on four finite feet carries two separate long rails, four fixed carriage rollers and an independent long lying pad with two raised shoulder blocks and a central headrest. A genuine open front bay contains three continuous whole coil springs between fixed crossseats, below a complete inclined transverse padded footbar with two rooted side hubs. Two rear towers support complete grooved pulleys and continuous fixed return cords ending at open hand loops resting on the carriage. This is not the old single narrow rowing rail with a saddle and front fan, or a treadmill continuous capsule belt and raised console; all geometry is newly authored as one whole bed apparatus. Three opaque constant untextured PBR roles, metres, Z up and complete horizontal ground-centred origin. One model, zero scenes. Unoccupied fixed illustrative display only: no sliding stroke, resistance, force or spring specification, exercise or therapy advice, posture/fit, load, motion clearance, manufacturing, certification or equipment safety claim.",
+  "bounds": {
+    "x": 0.8500000000000001,
+    "y": 2.3200000000000003,
+    "z": 0.901,
+    "unit": "m"
+  },
+  "triangles": 7956,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/fitness/fitness-fixed-twin-rail-reformer-bed-01/v1.0.0/model.glb",
+      "size": 575460,
+      "sha256": "954faa0f8267ed37b841339c4edcef65036e7fabe12e405330c1f708fd7278dc"
+    },
+    "blend": {
+      "path": "assets/fitness/fitness-fixed-twin-rail-reformer-bed-01/v1.0.0/source.blend",
+      "size": 1145216,
+      "sha256": "a24d61df70bcf2c82c62b731dcdc11c8fe49f131e1bc4eb6f3caea2522c10455"
+    },
+    "generator": {
+      "path": "assets/fitness/fitness-fixed-twin-rail-reformer-bed-01/v1.0.0/generate.py",
+      "size": 12413,
+      "sha256": "9fcd50643328f0bd544156403921442fa9247376257edd277d98c878ca968f44"
+    },
+    "render": {
+      "path": "assets/fitness/fitness-fixed-twin-rail-reformer-bed-01/v1.0.0/thumbnail.png",
+      "size": 444295,
+      "sha256": "3d9d3a70d548b59a21db7d24fc5c8e8f6ffd7ca85b67be17d6782a3b7a810f34"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

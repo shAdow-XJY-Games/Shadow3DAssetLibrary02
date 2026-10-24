@@ -1,0 +1,42 @@
+{
+  "id": "renovation-fixed-open-hand-body-and-raised-lever-tacker-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "renovation",
+  "style": "source-preserved-low-poly",
+  "title": "Fixed Open Hand Body and Raised Lever Tacker",
+  "description": "One newly authored complete fixed manual hand-tacker exterior. A thick closed chamfered body surrounds a genuine large hand opening. Its bottom edge seats on a whole short magazine with a separate rear retainer, while the tall front nose has a finite recessed channel and closed bridge. A single raised upper pressure lever pivots across the front body and ends in one whole dark hand pad above the rear body. A transverse pivot pin and two end caps complete the static assembly. Three opaque material roles, one prop, zero scenes. No desktop stapler base or anvil, cartridge cradle, staple payload, moving spring, working mechanism, fastening performance or safety claim.",
+  "bounds": {
+    "x": 0.06599999964237213,
+    "y": 0.23499999940395355,
+    "z": 0.19900000095367432,
+    "unit": "m"
+  },
+  "triangles": 392,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/renovation/renovation-fixed-open-hand-body-and-raised-lever-tacker-01/v1.0.0/model.glb",
+      "size": 39824,
+      "sha256": "4ae89ac5a716197af0e20789414a5137e01bb2fd4ddae71fe53286b2b0f4f4ba"
+    },
+    "blend": {
+      "path": "assets/renovation/renovation-fixed-open-hand-body-and-raised-lever-tacker-01/v1.0.0/source.blend",
+      "size": 618944,
+      "sha256": "54141262381c763920a85ae7c5a17cc38b3e6465a560d409483cf292469e42f7"
+    },
+    "generator": {
+      "path": "assets/renovation/renovation-fixed-open-hand-body-and-raised-lever-tacker-01/v1.0.0/generate.py",
+      "size": 14082,
+      "sha256": "3485356f9a00ab77a73502585dace6625a4cc87abd7d40643e9e0766d272ecf4"
+    },
+    "render": {
+      "path": "assets/renovation/renovation-fixed-open-hand-body-and-raised-lever-tacker-01/v1.0.0/thumbnail.png",
+      "size": 511572,
+      "sha256": "d6379b049533e64bb9c7f2048c5216a3fe7b0fab1a001bc2bff23f682eaa6611"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

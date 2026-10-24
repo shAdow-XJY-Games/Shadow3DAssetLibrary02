@@ -1,0 +1,42 @@
+{
+  "id": "photography-fixed-column-and-downward-bellows-enlarger-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "photography",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Column and Downward Bellows Enlarger",
+  "description": "One newly authored complete static darkroom photographic-enlarger-style exterior. A broad grounded baseboard carries an integral-foot tall rear column, one genuinely bored fixed sleeve and a full bent-profile forward support. A complete thick domed lamp house has an actual lower mouth and blind inner cavity, joining an upper rectangular pierced carrier board. One new continuous tapered thick rectangular bellows hangs downward to a separate lower pierced lens board, with a genuine interior void. A short independent rear focus guide and its stemmed knob connect the two boards. A complete downward annular objective barrel contains a recessed opaque lens-disc appearance. A blank receiving-easel plate with one full L border rests below on the same base, with the intervening space empty. No previous camera, printer, rail, lens or bellows geometry imported or reassembled. Not the horizontal front/rear-standard bed camera tipped upright, and not the old cantilever printer with a changed nozzle: no transverse head rail, spool/feed line or Y-motion build bed. One prop, zero scenes; no film, photograph, paper, projected light or electrical cable. Four opaque untextured constant PBR roles, metres, Z up, actual horizontal-bounds-centred ground origin. Static art only: no optical path, illumination, focus, projection, exposure, magnification, light seal, lamp/heat/ventilation, travel, calibration, compatibility, electrical operation, manufacture or safety claim.",
+  "bounds": {
+    "x": 0.62,
+    "y": 0.77,
+    "z": 1.135,
+    "unit": "m"
+  },
+  "triangles": 3228,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/photography/photography-fixed-column-and-downward-bellows-enlarger-01/v1.0.0/model.glb",
+      "size": 164444,
+      "sha256": "cf5f1cb751ede7b51ec8f8162f202d20553f1caffe7c49bd707b43f00e2032fd"
+    },
+    "blend": {
+      "path": "assets/photography/photography-fixed-column-and-downward-bellows-enlarger-01/v1.0.0/source.blend",
+      "size": 767260,
+      "sha256": "88b984fe6a00097bdd2721088c573dc0d8c37590797d708a5a11c22e308a07de"
+    },
+    "generator": {
+      "path": "assets/photography/photography-fixed-column-and-downward-bellows-enlarger-01/v1.0.0/generate.py",
+      "size": 29477,
+      "sha256": "ed8fa77f7372aa04f22871f36cc103cfac0cc1192ce4feb58f07e4011bad2e8a"
+    },
+    "render": {
+      "path": "assets/photography/photography-fixed-column-and-downward-bellows-enlarger-01/v1.0.0/thumbnail.png",
+      "size": 511756,
+      "sha256": "d0279af72848e430eebfeeb093f8b99681d9af3460837c50a42a888af50b4663"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
