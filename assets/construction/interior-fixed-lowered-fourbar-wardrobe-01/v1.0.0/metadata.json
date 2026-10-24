@@ -1,0 +1,42 @@
+{
+  "id": "interior-fixed-lowered-fourbar-wardrobe-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "interior",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Lowered Fourbar Wardrobe",
+  "description": "One newly authored whole static open wardrobe with a lowered hanging-rail mechanism. A complete five-sided tall cabinet and grounded recessed plinth enclose a real unpartitioned chamber. Each inner side has a full mounting plate, two separated fixed pivots, two equal parallel links and a full lowered vertical carrier with two moving pivots. One complete transverse hanging rail joins the two carriers, with a long centrally attached U pull below. The lowered rail stands outside and below its upper storage location in one fixed visual pose. Unlike a locker rod resting on fixed end pads or a linear pullout tray tower, support follows two paired four-bar link arrangements. No old cabinet or clothing model reused, no clothes or room. Three opaque constant PBR materials, metres, Z-up, horizontal bounds-centred ground origin. One complete prop, zero scenes. No mechanism movement, synchronized travel, counterbalance, storage rating, reach suitability, anti-tip, load capacity, assembly, installation or safety certification is claimed.",
+  "bounds": {
+    "x": 1.14,
+    "y": 1.1769308219777237,
+    "z": 2.03,
+    "unit": "m"
+  },
+  "triangles": 744,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/construction/interior-fixed-lowered-fourbar-wardrobe-01/v1.0.0/model.glb",
+      "size": 44804,
+      "sha256": "c926e6eb0dc17714ae364f53e06234797defe5f8f18536289421c484de8aa46a"
+    },
+    "blend": {
+      "path": "assets/construction/interior-fixed-lowered-fourbar-wardrobe-01/v1.0.0/source.blend",
+      "size": 649564,
+      "sha256": "96e37a98f11391dae06bfcdda6d808c0bdd7fa5987f2407132deac5e9128d585"
+    },
+    "generator": {
+      "path": "assets/construction/interior-fixed-lowered-fourbar-wardrobe-01/v1.0.0/generate.py",
+      "size": 11026,
+      "sha256": "a001e8cdcd5522685a7697f73ca8f3450ef46479a170d5fdc345b88d796191ae"
+    },
+    "render": {
+      "path": "assets/construction/interior-fixed-lowered-fourbar-wardrobe-01/v1.0.0/thumbnail.png",
+      "size": 457412,
+      "sha256": "58494d50ed89dbe3b2f67abcc4f3f6784513016eaa5be09b1e12c1e20056fcdb"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

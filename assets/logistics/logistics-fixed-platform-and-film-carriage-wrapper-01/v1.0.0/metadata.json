@@ -1,0 +1,42 @@
+{
+  "id": "logistics-fixed-platform-and-film-carriage-wrapper-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "logistics",
+  "style": "source-preserved-low-poly",
+  "title": "Fixed Platform and Film Carriage Wrapper",
+  "description": "One newly authored complete static floor-platform stretch-wrapper appearance. A low circular platform and its support base are joined by a grounded bridge to a tall twin-guide mast. A fixed side carriage carries one opaque annular film-roll shape with central spindle, upper and lower retaining pads and two finite vertical guide rollers. A blank control box sits on the mast exterior. Three opaque untextured PBR roles, one prop and zero scenes. No pallet, cargo, stretched sheet, true multilayer winding, motor, chain, powered lift, rotation, film tension, wrapping demonstration, throughput, operating instructions or safety claim. The opaque roll is one thick closed annular body rather than simulated transparent film layers. New complete geometry, not a pottery turntable or photo backdrop enlarged.",
+  "bounds": {
+    "x": 1.9179999828338623,
+    "y": 1.4600000381469727,
+    "z": 2.0220000743865967,
+    "unit": "m"
+  },
+  "triangles": 1636,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/logistics/logistics-fixed-platform-and-film-carriage-wrapper-01/v1.0.0/model.glb",
+      "size": 151476,
+      "sha256": "dd6ad9d9a73d36678b242d0ce2c3412337e29afaad31bc29c55269d2da5b3325"
+    },
+    "blend": {
+      "path": "assets/logistics/logistics-fixed-platform-and-film-carriage-wrapper-01/v1.0.0/source.blend",
+      "size": 810016,
+      "sha256": "65547e788871711545e2a89e7d88c1755d5aeeae74a8ee5e142c9ae5de352146"
+    },
+    "generator": {
+      "path": "assets/logistics/logistics-fixed-platform-and-film-carriage-wrapper-01/v1.0.0/generate.py",
+      "size": 14659,
+      "sha256": "5b5c67db79f954629a6a5af63669ec43b9986f8f559fe8f2d1a6358deee4648f"
+    },
+    "render": {
+      "path": "assets/logistics/logistics-fixed-platform-and-film-carriage-wrapper-01/v1.0.0/thumbnail.png",
+      "size": 478901,
+      "sha256": "07321ee0d6ae3069e861703d28ea2d5c8f453826882bd5bb379c3d526e3a5730"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
