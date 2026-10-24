@@ -1034,6 +1034,11 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary02",
       "commit": "10649d0999797493f74ee5b6071f53b5aaccf470"
+    },
+    "original-continuous-six-1277-volume02-20261024": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary02",
+      "commit": "68b631ddcf2c00495d259eed829913d984501327"
     }
   },
   "assets": [
@@ -28943,6 +28948,264 @@
       "status": "verified",
       "license": "All rights reserved",
       "sourceId": "original-continuous-three-1271-volume02-20261024"
+    },
+    {
+      "id": "harbor-fixed-open-wheel-and-cast-helm-pedestal-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "harbor",
+      "style": "S01-clean-geometric",
+      "title": "Fixed Open Wheel and Cast Helm Pedestal",
+      "description": "One newly authored complete static traditional-style wheel-helm exterior, not a detached decorative shipwheel. A whole grounded cast foot carries one continuous waisted pedestal and a full elongated horizontal bored head housing with a proud closed rear cap. One entire horizontal spindle passes from the complete beveled wheel hub through the casing. An independent thick profiled wooden rim and eight whole radial spoke-and-rounded-grip bodies form one complete large vertical open wheel; all eight inter-spoke regions and the forward gap to the head casing are actual empty space. The complete stand, casing, spindle and wheel support relationship is new numeric geometry. Unlike the existing stern-rudder blade/tiller/straps, no rudder blade or tiller is present. Unlike the existing compass binnacle, there is no hooded bowl, compass card, gimbal or side correction spheres, and none of those old meshes is imported. One prop, zero scenes. No ship deck, chain, rope, steering cable, labels, scale or displayed course. Four opaque constant untextured PBR materials, metres, Z up and actual whole horizontal bounds-centred ground origin. Fixed illustrative art only: no wheel rotation, working rudder connection, mechanical transmission, gearing, steering response, load or torque rating, bearing fit, maritime installation compatibility, weather sealing, seaworthiness, engineering, manufacture or safety claim.",
+      "bounds": {
+        "x": 1.11,
+        "y": 0.692,
+        "z": 1.605,
+        "unit": "m"
+      },
+      "triangles": 4440,
+      "materials": 4,
+      "files": {
+        "glb": {
+          "path": "assets/harbor/harbor-fixed-open-wheel-and-cast-helm-pedestal-01/v1.0.0/model.glb",
+          "size": 240252,
+          "sha256": "de6d961cdfa2cf28ffa9d6fefee220af3b58b576895ed642157ff706fce22054"
+        },
+        "blend": {
+          "path": "assets/harbor/harbor-fixed-open-wheel-and-cast-helm-pedestal-01/v1.0.0/source.blend",
+          "size": 834112,
+          "sha256": "2749ed0178ef952ce8ef54aae82b4e346efe862d41a3ce3f9826bf09eddb560e"
+        },
+        "generator": {
+          "path": "assets/harbor/harbor-fixed-open-wheel-and-cast-helm-pedestal-01/v1.0.0/generate.py",
+          "size": 25863,
+          "sha256": "b38f383d4fdf0d854e62ac9daba4a73926f2d9ea711c169f135c7542a852a95f"
+        },
+        "render": {
+          "path": "assets/harbor/harbor-fixed-open-wheel-and-cast-helm-pedestal-01/v1.0.0/thumbnail.png",
+          "size": 520688,
+          "sha256": "47a852761fc37ec8aaf5c8840e18dd189ecac8908ed2ed48f16693270fbcfdc8"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-continuous-six-1277-volume02-20261024"
+    },
+    {
+      "id": "interior-fixed-center-pivot-rooflight-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "interior",
+      "style": "S01-clean-geometric",
+      "title": "Fixed Centre Pivot Sloping Rooflight",
+      "description": "One original complete fixed-open centre-pivot sloping rooflight module. One deep whole perimeter curb with a continuous raised inner rebate surrounds a single complete framed opaque illustrative pane. The sash turns about its middle horizontal axis in the displayed pose, crossing above and below the sloping curb plane; finite side trunnions and bearing housings connect it to both side rails. Four finite exterior mounting ears and one lower-edge grip complete the assembly. This is not the old rear-edge-hinged garden cold-frame container or two parallel-depth sliding sash window; no old geometry is imported or rescaled. Three constant opaque PBR materials, metres, Z up, true whole horizontal envelope centred and lowest displayed point Z0. One isolated module, zero scenes; host roof and flashing environment are omitted, and the lowest displayed point is not claimed as a mounting sole. No transparent glazing, movement sweep, watertightness, weather, ventilation, egress, host fit, installation, support or safety claim.",
+      "bounds": {
+        "x": 1.224,
+        "y": 1.3360590849306835,
+        "z": 1.2998224543953407,
+        "unit": "m"
+      },
+      "triangles": 728,
+      "materials": 3,
+      "files": {
+        "glb": {
+          "path": "assets/interior/interior-fixed-center-pivot-rooflight-01/v1.0.0/model.glb",
+          "size": 41076,
+          "sha256": "b0a97c324ec64c47728d5e544019b50f8fbb7030b1dd29a48e72d77b08fc3771"
+        },
+        "blend": {
+          "path": "assets/interior/interior-fixed-center-pivot-rooflight-01/v1.0.0/source.blend",
+          "size": 634700,
+          "sha256": "8b22530ef28d63339c345ecc31be2c4d538b3f51e23d56b114c6676a2f3da87b"
+        },
+        "generator": {
+          "path": "assets/interior/interior-fixed-center-pivot-rooflight-01/v1.0.0/generate.py",
+          "size": 10998,
+          "sha256": "002151a0b67e4b464da750c60f0b1092ff1812c99b16768dde48f111f3690fa3"
+        },
+        "render": {
+          "path": "assets/interior/interior-fixed-center-pivot-rooflight-01/v1.0.0/thumbnail.png",
+          "size": 450605,
+          "sha256": "02e8dd932fd261b4a573d2884a4c5f2f5622f624bd8201fc9f4e910c6ddf30f2"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-continuous-six-1277-volume02-20261024"
+    },
+    {
+      "id": "interior-fixed-highback-footed-bathtub-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "interior",
+      "style": "S01-clean-geometric",
+      "title": "Fixed High Back Footed Bathtub",
+      "description": "One original complete freestanding high-back bath appearance. A single closed thick elongated vessel has a deep open interior, full inner and outer floors, continuously rounded sloping sides and a true broad rolled lip rising at one end. Four whole curved splayed metal feet are rooted into its lower belly. A separate complete two-column floor-mounted bridge tap set with finite escutcheons, two fixed controls and one entire arched spout stands beside the low end; one small inner-floor drain cap is a shallow visual detail. No old washbasin, pedestal, cabinet or faucet mesh is imported or rescaled. The low full-length deep bathing vessel and independent floor-supply support route differ from a neck-notched salon bowl on a tall pedestal or a square countertop sink. Three opaque constant PBR materials, metres, Z up, horizontal envelope centred; one whole prop, zero scenes, no water or people. Static appearance only: no usable plumbing, drainage, water containment, pressure, temperature, bathing ergonomics, support load, installation or safety claim.",
+      "bounds": {
+        "x": 1.88,
+        "y": 0.9620000000000001,
+        "z": 1.141,
+        "unit": "m"
+      },
+      "triangles": 1608,
+      "materials": 3,
+      "files": {
+        "glb": {
+          "path": "assets/interior/interior-fixed-highback-footed-bathtub-01/v1.0.0/model.glb",
+          "size": 104604,
+          "sha256": "5df224e58f4f4a119a46df9236a1a32acd3904c1c6abe59b31478d7f0ed21425"
+        },
+        "blend": {
+          "path": "assets/interior/interior-fixed-highback-footed-bathtub-01/v1.0.0/source.blend",
+          "size": 677740,
+          "sha256": "53464b59b6e104d5bcda502f4f0e40545d36954d5b4f57c239e9b6ee969b201c"
+        },
+        "generator": {
+          "path": "assets/interior/interior-fixed-highback-footed-bathtub-01/v1.0.0/generate.py",
+          "size": 10998,
+          "sha256": "0a62a2511df8045a35ebd983a00a64174e1ec5d274aaadae5ae9ff1a86ccfa61"
+        },
+        "render": {
+          "path": "assets/interior/interior-fixed-highback-footed-bathtub-01/v1.0.0/thumbnail.png",
+          "size": 371354,
+          "sha256": "d28c91ea3973d9c58ced06469285f652eab46b35fcc85d6a3ab83ccec3297d86"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-continuous-six-1277-volume02-20261024"
+    },
+    {
+      "id": "music-fixed-open-case-pinned-cylinder-box-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "music",
+      "style": "S01-clean-geometric",
+      "title": "Fixed Open Case Pinned Cylinder Music Box",
+      "description": "One newly authored complete fixed-open cylinder music-box appearance. A continuous timber-like shell has a real floor and four thick walls, with one complete recessed lid held in a fixed raised pose by hinge-style pins and side stays. Inside, two bearing blocks support a whole transverse drum and common axle. Twenty-four blunt fixed pegs project from the drum; one connected comb has twelve full fingers sharing a supported root. A side crank and grip belong to the same axle. This is not a fishing compartment box with contents swapped, a wheel-bowed instrument with strings removed, or a texture representing the internal mechanism: all geometry is independently authored as one complete musical-device exterior. Three opaque constant untextured PBR roles, metres, Z up and whole horizontally centred ground datum. One model and zero scenes. Static silent illustrative display only: no melody, tuning, audible output, actuating pin-comb contact sequence, rotating crank/drum, hinge motion, gearing or stored energy, fabrication, operation or safety claim.",
+      "bounds": {
+        "x": 0.763,
+        "y": 0.575,
+        "z": 0.64770611262,
+        "unit": "m"
+      },
+      "triangles": 1636,
+      "materials": 3,
+      "files": {
+        "glb": {
+          "path": "assets/music/music-fixed-open-case-pinned-cylinder-box-01/v1.0.0/model.glb",
+          "size": 99368,
+          "sha256": "1d9c00d9a00753570b22ad905c886b69a889fb3b9b239dc4b5ac5fe60ee6142f"
+        },
+        "blend": {
+          "path": "assets/music/music-fixed-open-case-pinned-cylinder-box-01/v1.0.0/source.blend",
+          "size": 813176,
+          "sha256": "9b1ae8b1b58062ea14838f4e46fd6af39d1163542a862837317919d98447583c"
+        },
+        "generator": {
+          "path": "assets/music/music-fixed-open-case-pinned-cylinder-box-01/v1.0.0/generate.py",
+          "size": 11721,
+          "sha256": "c5f0f12c8bbc57adf9735a1d38939d1ec035ff1e808117bdaa8cbcc17d0f46f5"
+        },
+        "render": {
+          "path": "assets/music/music-fixed-open-case-pinned-cylinder-box-01/v1.0.0/thumbnail.png",
+          "size": 526651,
+          "sha256": "71a6e83ef11b676e4f9f5eb1fb6b5ab4f5bc8c0ee06d965427748705023ac8c1"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-continuous-six-1277-volume02-20261024"
+    },
+    {
+      "id": "music-fixed-suspended-tubular-bell-frame-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "music",
+      "style": "S01-clean-geometric",
+      "title": "Fixed Suspended Tubular Bell Frame",
+      "description": "One newly authored complete fixed suspended tubular percussion-bell frame. Two grounded runners, braced portal columns and a full overhead crossbeam carry nine independently thick, genuinely open-ended tubes on rear hangers and captive transverse upper pins. A full rear damping-style rail has a dark contact face, side roots and a fixed link down to a pedal rooted on the right runner. Unlike the complete old windchest organ, these pipes hang from overhead without windchest, keyboard or mouth-cut feet. Unlike the complete old two-row bar-resonator frame, there are no bars above closed-bottom resonator cups: these full open-ended hanging tubes are the main exterior. All geometry independently authored; three opaque constant untextured PBR roles, metres, Z up, horizontal whole centering and finite ground soles. One model, zero scenes. Silent static illustration only, no tuning, audible output, playable percussion, working suspension or damping/pedal motion, load, fabrication, operation or safety claim.",
+      "bounds": {
+        "x": 1.2799999999999998,
+        "y": 0.76,
+        "z": 1.9,
+        "unit": "m"
+      },
+      "triangles": 2412,
+      "materials": 3,
+      "files": {
+        "glb": {
+          "path": "assets/music/music-fixed-suspended-tubular-bell-frame-01/v1.0.0/model.glb",
+          "size": 125132,
+          "sha256": "cd9cddc81ea0eadb87c14fada62b0b8cdca0121ba4f4e06902e6c9682176f974"
+        },
+        "blend": {
+          "path": "assets/music/music-fixed-suspended-tubular-bell-frame-01/v1.0.0/source.blend",
+          "size": 841024,
+          "sha256": "ddb8d9e3c57d404047ff77c2083d63315c68dcbb7ba3c9e5ecb170d83bf2373c"
+        },
+        "generator": {
+          "path": "assets/music/music-fixed-suspended-tubular-bell-frame-01/v1.0.0/generate.py",
+          "size": 10495,
+          "sha256": "a3f6a202d72bda1e8670224ce51255da68cd720879ad6e7ebcd7e09dac626f13"
+        },
+        "render": {
+          "path": "assets/music/music-fixed-suspended-tubular-bell-frame-01/v1.0.0/thumbnail.png",
+          "size": 480460,
+          "sha256": "7c2aca4d834e1a62907e96ffd16dad210126c1ca3121f2bc9b6d0a57159f306f"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-continuous-six-1277-volume02-20261024"
+    },
+    {
+      "id": "technology-fixed-two-ring-gimballed-flywheel-display-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "technology",
+      "style": "source-preserved-low-poly",
+      "title": "Fixed Two Ring Gimballed Flywheel Display",
+      "description": "One newly authored complete static gimballed flywheel teaching-display appearance. A broad finite ground base carries a continuous low U support, a complete upright outer ring on opposed support pins, a smaller horizontal inner ring on separate opposed pins, and two inner-ring bearing collars carrying a full transverse shaft. An independent thick brass-looking rim, four full radial spokes and a substantial hub form the central flywheel. Both surrounding rings have real open interiors and finite clearances except deliberate fixed root overlaps. No old astronomical armillary sphere, compass bowl, hood or pedestal geometry imported. One prop, zero scenes, four constant opaque PBR materials. Fixed illustrative assembly only, not a moving mechanism: no spinning, precession, angular-momentum demonstration, axis travel, calibration, bearing fit, balance, manufacturing dimensions, engineering or safety claim.",
+      "bounds": {
+        "x": 0.7200000286102295,
+        "y": 0.47699999809265137,
+        "z": 0.6330000162124634,
+        "unit": "m"
+      },
+      "triangles": 3352,
+      "materials": 4,
+      "files": {
+        "glb": {
+          "path": "assets/technology/technology-fixed-two-ring-gimballed-flywheel-display-01/v1.0.0/model.glb",
+          "size": 295776,
+          "sha256": "62d6ecadc9827b6cb3d22966483a4ae9667bfac697e0cda11c6552fc4d4ca397"
+        },
+        "blend": {
+          "path": "assets/technology/technology-fixed-two-ring-gimballed-flywheel-display-01/v1.0.0/source.blend",
+          "size": 1020672,
+          "sha256": "69d6d262ee6fc2b3f24332d6b18a8641c9d15cffa1a02c9a76c1459a6fb05bdd"
+        },
+        "generator": {
+          "path": "assets/technology/technology-fixed-two-ring-gimballed-flywheel-display-01/v1.0.0/generate.py",
+          "size": 16844,
+          "sha256": "28adc9441fcfaac927875941bb4e9e0fdafc003c514508195e41c48cdf9a0389"
+        },
+        "render": {
+          "path": "assets/technology/technology-fixed-two-ring-gimballed-flywheel-display-01/v1.0.0/thumbnail.png",
+          "size": 544280,
+          "sha256": "d811fe2dd7c60799e28548d1412067f80ac4120cfdba8086a82bd644864b7028"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-continuous-six-1277-volume02-20261024"
     }
   ]
 }
