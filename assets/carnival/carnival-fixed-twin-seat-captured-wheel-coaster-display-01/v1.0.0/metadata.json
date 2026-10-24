@@ -1,0 +1,42 @@
+{
+  "id": "carnival-fixed-twin-seat-captured-wheel-coaster-display-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "carnival",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Twin Seat Captured Wheel Coaster Display",
+  "description": "One newly authored complete static twin-seat coaster-carriage display with its short matching track support. A thick open tapered-nose body with a real floor carries two separately supported tall seats and two independent fixed lap bars with clear leg openings. Four whole outer bracket units each include a top running wheel, lower capture wheel and vertical-axis side-guide wheel; their axles and return brackets visibly join the underfloor. Two short round rails on four seats and two ground shoes hold this one fixed display pose. All numeric geometry is new: not a bumper car stripped of its steering wheel or a railway skip with its tub replaced. There is no bumper ring, pickup mast, flange-wheel wagon or shared old body mesh. One complete static mechanical prop and zero scenes, three opaque untextured PBR materials, metres, Z up and ground-centred whole bounds. The short track is part of this illustrative display, not an independently counted infrastructure kit. No passengers, continuous track, engine, coupler, motion, speed, working restraints, derailment protection, real rail clearance, load, installation, manufacture or amusement safety certification. The fixed three-direction roller arrangement is a visible structural motif only, not an engineered or operational ride.",
+  "bounds": {
+    "x": 1.22,
+    "y": 1.78,
+    "z": 1.13,
+    "unit": "m"
+  },
+  "triangles": 2472,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/carnival/carnival-fixed-twin-seat-captured-wheel-coaster-display-01/v1.0.0/model.glb",
+      "size": 135564,
+      "sha256": "d1007b0633270e62806d45f89e327f46071d3bdd454be2ede16b6a5ad3cc6c0e"
+    },
+    "blend": {
+      "path": "assets/carnival/carnival-fixed-twin-seat-captured-wheel-coaster-display-01/v1.0.0/source.blend",
+      "size": 918436,
+      "sha256": "9b0870b4c671836aa1cc1ec0d51bc84d86284d9380519c03241671ad424c19a9"
+    },
+    "generator": {
+      "path": "assets/carnival/carnival-fixed-twin-seat-captured-wheel-coaster-display-01/v1.0.0/generate.py",
+      "size": 12088,
+      "sha256": "f146f7d7c743d9404fec1ed4296c22d0cd6119cecc62d5194634f4273644195a"
+    },
+    "render": {
+      "path": "assets/carnival/carnival-fixed-twin-seat-captured-wheel-coaster-display-01/v1.0.0/thumbnail.png",
+      "size": 480122,
+      "sha256": "840869f8fae57038dd2b9862a41087e4ded0082ab0be75b198f3191d6b542fa8"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

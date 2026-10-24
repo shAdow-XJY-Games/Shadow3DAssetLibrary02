@@ -1,0 +1,42 @@
+{
+  "id": "industrial-fixed-side-wheel-and-raised-hood-balancer-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "industrial",
+  "style": "source-preserved-low-poly",
+  "title": "Fixed Side Wheel and Raised Hood Balancer",
+  "description": "One newly authored complete static side-wheel balancing-station appearance. A grounded cabinet carries a horizontal side spindle with one complete thick tyre, open five-spoke rim, hub, seated cone and end nut. A separate raised thick semicircular hood is visibly rooted through a rear arm and hinge to the cabinet, leaving the wheel exposed in this fixed display pose. An upright control head has one blank opaque panel. Three opaque untextured PBR roles, one prop and zero scenes. No wheel rotation, balancing numbers, sensors, calibration, service instructions, drive, protective performance or safety claim. Newly authored whole geometry, not the four-jaw tyre-changing machine or bench wheel grinder resized. The rim centre is occupied by the hub, cone and spindle; the open regions are the five actual spoke gaps, not a free full-assembly bore.",
+  "bounds": {
+    "x": 0.7770000100135803,
+    "y": 0.6499999761581421,
+    "z": 1.0420000553131104,
+    "unit": "m"
+  },
+  "triangles": 2144,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/industrial/industrial-fixed-side-wheel-and-raised-hood-balancer-01/v1.0.0/model.glb",
+      "size": 196280,
+      "sha256": "01e7859ad0bd785b7f067a9cc5d0b3d1292abc20080bb2f62a2668f9257580f8"
+    },
+    "blend": {
+      "path": "assets/industrial/industrial-fixed-side-wheel-and-raised-hood-balancer-01/v1.0.0/source.blend",
+      "size": 876320,
+      "sha256": "d54ebb1fd2dc70354e6d683fcef3db89ea2b201bd08c27b70c3c6a8800f45861"
+    },
+    "generator": {
+      "path": "assets/industrial/industrial-fixed-side-wheel-and-raised-hood-balancer-01/v1.0.0/generate.py",
+      "size": 15174,
+      "sha256": "107884b8686b8c0e9bea0e164ded2b41c4fb8a7338f725c25f1dd78335061961"
+    },
+    "render": {
+      "path": "assets/industrial/industrial-fixed-side-wheel-and-raised-hood-balancer-01/v1.0.0/thumbnail.png",
+      "size": 512073,
+      "sha256": "c85eae6c670f54a5f734fb4faaacdbc67946d9623663cfc5f5a0281a6494d344"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

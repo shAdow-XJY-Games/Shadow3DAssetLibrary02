@@ -1,0 +1,42 @@
+{
+  "id": "interior-fixed-part-retracted-rolltop-writing-desk-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "interior",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Part Retracted Rolltop Writing Desk",
+  "description": "One newly authored complete static rolltop writing desk. Four full grounded legs and side/rear aprons carry a permanent horizontal writing surface with open knee space. Two full shaped upper side cheeks retain curved guide lips around one continuous thick returning hood with real shallow transverse grooves. Its raised front edge and whole pull reveal the writing area and shallow rear stationery shelf/dividers. This is not a lowered hinged secretary leaf, enlarged cupboard, or a reduced sectional vehicle door with wheels. All geometry is new. Three opaque constant untextured PBR roles, metres, Z-up, full horizontal bounds-centred ground origin. One complete furniture prop and zero scenes, no contents or room. Fixed partly retracted pose only; no flexible joints, actual sliding, full-travel clearance, rolling storage mechanism, ergonomics, load capacity, manufacture, installation or safety claim.",
+  "bounds": {
+    "x": 1.3,
+    "y": 1.04,
+    "z": 1.313,
+    "unit": "m"
+  },
+  "triangles": 1480,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/construction/interior-fixed-part-retracted-rolltop-writing-desk-01/v1.0.0/model.glb",
+      "size": 80644,
+      "sha256": "7cd4939fde1164eee7b0667da4754dcaa6b9b35eba374b20a9dc60eb6f0f9cce"
+    },
+    "blend": {
+      "path": "assets/construction/interior-fixed-part-retracted-rolltop-writing-desk-01/v1.0.0/source.blend",
+      "size": 693928,
+      "sha256": "6ff57d204f2a8657482570a7df5ddf6d93ebe38e2ad8f3893f0386c6654f896a"
+    },
+    "generator": {
+      "path": "assets/construction/interior-fixed-part-retracted-rolltop-writing-desk-01/v1.0.0/generate.py",
+      "size": 11215,
+      "sha256": "8d72d53bdcafa6c5aa1afd39197acc0b24dc1eafcf4c5549f0213cee8635a6ae"
+    },
+    "render": {
+      "path": "assets/construction/interior-fixed-part-retracted-rolltop-writing-desk-01/v1.0.0/thumbnail.png",
+      "size": 528194,
+      "sha256": "ffa58e8f6da091cc065d48f4b9b8af6774f3aeb50a99dfd47e165da9cd9bbf25"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

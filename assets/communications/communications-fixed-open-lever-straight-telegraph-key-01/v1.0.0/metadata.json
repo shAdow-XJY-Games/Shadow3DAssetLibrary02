@@ -1,0 +1,42 @@
+{
+  "id": "communications-fixed-open-lever-straight-telegraph-key-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "communications",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Open Lever Straight Telegraph Key",
+  "description": "One newly authored complete static straight telegraph-key appearance on a broad grounded wooden board and low cast plate. Two full standards with genuinely bored annular bearings support a transverse axle through one continuous long narrow key lever. The forward end carries an integral-stem rounded dark finger button. A separate lower stepped contact post and upper contact tip have a true open gap beneath the lever. One complete separated-turn helical spring joins its lower seat to the rear lever, with an independent fixed top adjuster and rear rest-stop appearance. Two full stepped terminal-post appearances stand on their own dark insulating-style feet. All whole numeric geometry is newly authored; no telephone, paper punch, switch, lever or coil component imported. Distinct full exposed pivot/lever/contact/spring relationship rather than a phone casing or wide punch lid recoloured. One prop, zero scenes, no wires or connected equipment. Four opaque constant untextured PBR materials, metres, Z up and actual whole horizontal bounds-centred ground origin. Static illustrative exterior only: no electrical circuit, wiring, current, voltage, signaling, code transmission, operational contact spacing, spring response, adjustment, manufacture, insulation rating, human fit or safety claim.",
+  "bounds": {
+    "x": 0.208,
+    "y": 0.28,
+    "z": 0.126,
+    "unit": "m"
+  },
+  "triangles": 3584,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/communications/communications-fixed-open-lever-straight-telegraph-key-01/v1.0.0/model.glb",
+      "size": 210636,
+      "sha256": "4a84673538cd78d60dc65768d3c975cad2a491643afed7ef713b547d9f075d3a"
+    },
+    "blend": {
+      "path": "assets/communications/communications-fixed-open-lever-straight-telegraph-key-01/v1.0.0/source.blend",
+      "size": 806428,
+      "sha256": "33c50928d89baa60d2138b1e4261c27ce92116063014af239f12fd7f6c632f67"
+    },
+    "generator": {
+      "path": "assets/communications/communications-fixed-open-lever-straight-telegraph-key-01/v1.0.0/generate.py",
+      "size": 28116,
+      "sha256": "e097e26589de9ce5dda7b87a6987d51f1bcfe0ce1af9fd842a74918599819bc8"
+    },
+    "render": {
+      "path": "assets/communications/communications-fixed-open-lever-straight-telegraph-key-01/v1.0.0/thumbnail.png",
+      "size": 525665,
+      "sha256": "63eb4a7a6dd32fb8e61dd22e94be9cfd57801e16ecc209383ff891f2602ce9d1"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

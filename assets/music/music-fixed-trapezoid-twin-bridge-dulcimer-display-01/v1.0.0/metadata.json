@@ -1,0 +1,42 @@
+{
+  "id": "music-fixed-trapezoid-twin-bridge-dulcimer-display-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "music",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Trapezoid Twin Bridge Dulcimer Display",
+  "description": "One newly authored complete static trapezoid twin-bridge dulcimer exterior. A single thick bevel-edged low trapezoid soundbox exterior on four finite feet carries two complete long crowned bridges and two sloping side pin banks. Twelve paired string courses run transversely across the complete box, each continuous finite-thickness string rising from its separately seated edge pin to the two real bridge caps and descending to the opposite pin. The strings, support ridges and pin banks are actual closed geometry rather than painted lines. All numeric construction is new: no standing harp triangular frame, banjo drum-neck assembly or marimba wood bars and resonator tubes are reused, rearranged or detached. One whole model and zero scenes, three opaque untextured PBR materials, metres, Z up and ground-centred full envelope. This is a solid soundbox exterior, not a claimed complete hollow acoustic chamber; no false black sound-hole decals, playing hammers, scores, tuning values or strings calibrated to notes. Fixed simplified illustrative game art only, with no sound, tuning, playability, vibration, tension, timber acoustics, manufacture or safety claim.",
+  "bounds": {
+    "x": 1.22,
+    "y": 0.62,
+    "z": 0.2311247573926676,
+    "unit": "m"
+  },
+  "triangles": 2740,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/music/music-fixed-trapezoid-twin-bridge-dulcimer-display-01/v1.0.0/model.glb",
+      "size": 185320,
+      "sha256": "a7ea70e287ab8d7b4fdf8a0e5b07f6175e45d531c64ba9a27a6897a4c9c273c0"
+    },
+    "blend": {
+      "path": "assets/music/music-fixed-trapezoid-twin-bridge-dulcimer-display-01/v1.0.0/source.blend",
+      "size": 1048408,
+      "sha256": "f1cf69c69c7ca5dbe998c53ea5eca95ccbe86a3c2e35b07654191cac65b04d10"
+    },
+    "generator": {
+      "path": "assets/music/music-fixed-trapezoid-twin-bridge-dulcimer-display-01/v1.0.0/generate.py",
+      "size": 11335,
+      "sha256": "f2e1c12ca05e20a8839c4047e5d9208c826a0568e91c512aba0371d1a00c26d7"
+    },
+    "render": {
+      "path": "assets/music/music-fixed-trapezoid-twin-bridge-dulcimer-display-01/v1.0.0/thumbnail.png",
+      "size": 507337,
+      "sha256": "09c1aebff239e17ff6522b9a33d0950fc3575f8ecb9d726d24fabb01948076f1"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
