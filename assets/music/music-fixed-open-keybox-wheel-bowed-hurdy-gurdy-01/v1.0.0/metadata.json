@@ -1,0 +1,42 @@
+{
+  "id": "music-fixed-open-keybox-wheel-bowed-hurdy-gurdy-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "music",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Open Keybox Wheel Bowed Hurdy Gurdy",
+  "description": "One newly authored complete static wheel-bowed hurdy-gurdy visual. A single low oval soundbox exterior has a genuine through slot containing a complete vertical wooden-looking wheel. A longitudinal axle passes through seated front and rear blocks to an end crank and offset cylindrical handgrip. An open-topped long keybox with floor, two side rails and far stop carries ten separate fixed transverse stems and side buttons. Three continuous strings cross the exposed wheel crown between two whole tapered bridge bodies, with individual seated anchor pins. All numeric geometry is new, not a violin or banjo with a handle attached: there is no projecting fretted neck, scroll, circular membrane pot or transverse dulcimer string bank. One complete prop, zero scenes, three opaque untextured PBR materials, metres, native Z up and full horizontally centred ground datum. Solid soundbox exterior except the actual wheel slot, not a claimed internal acoustic cavity; open keybox is an inspection-style fixed display with simplified keys and string count. No working key/tangent action, turning, sound, friction, tuning, mechanical performance, manufacture or safety claim.",
+  "bounds": {
+    "x": 0.46867539162824307,
+    "y": 0.9550000000000001,
+    "z": 0.234,
+    "unit": "m"
+  },
+  "triangles": 1340,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/music/music-fixed-open-keybox-wheel-bowed-hurdy-gurdy-01/v1.0.0/model.glb",
+      "size": 86100,
+      "sha256": "9558089e6c4c255977f70da5a93cb493e76e48be19e204829e7fefb1680a503d"
+    },
+    "blend": {
+      "path": "assets/music/music-fixed-open-keybox-wheel-bowed-hurdy-gurdy-01/v1.0.0/source.blend",
+      "size": 792600,
+      "sha256": "932c755634868c677cbfbc88cc9a288fa7fa7ae22041dc7a7141b450ca8c892a"
+    },
+    "generator": {
+      "path": "assets/music/music-fixed-open-keybox-wheel-bowed-hurdy-gurdy-01/v1.0.0/generate.py",
+      "size": 12259,
+      "sha256": "a9c7189b1ed40bbe292b6434c35c0f5d9952af5a254f2909e8da637af3e7a744"
+    },
+    "render": {
+      "path": "assets/music/music-fixed-open-keybox-wheel-bowed-hurdy-gurdy-01/v1.0.0/thumbnail.png",
+      "size": 449726,
+      "sha256": "6ec3d28f0ca6ea8be906f3734a5934be38458e8fa4362b28840122874e8aa1fb"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

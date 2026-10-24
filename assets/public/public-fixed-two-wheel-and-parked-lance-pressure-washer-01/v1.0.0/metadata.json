@@ -1,0 +1,42 @@
+{
+  "id": "public-fixed-two-wheel-and-parked-lance-pressure-washer-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "public",
+  "style": "source-preserved-low-poly",
+  "title": "Fixed Two-Wheel and Parked-Lance Pressure Washer",
+  "description": "One newly authored whole static upright pressure-washer appearance. A chamfered tall motor housing and upper control panel stand on a broad front foot and two large rear wheels joined by a common axle. An actual open pulling handle rises from the back. A continuous curved exterior hose joins a lower front coupling to the grip of a parked long lance, which is retained by two finite side brackets. A separate trigger, collar and blunt nozzle complete the fixed exterior. Three opaque PBR roles; one prop, zero scenes. No water, live outlet, pressure, pump internals, cleaning operation, electrical or engineering/safety claim. Not a recoloured backpack sprayer or four-caster vacuum. All geometry newly authored; no old visible mesh payload imported.",
+  "bounds": {
+    "x": 0.4758976995944977,
+    "y": 0.4847724437713623,
+    "z": 0.9769999980926514,
+    "unit": "m"
+  },
+  "triangles": 1624,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/public/public-fixed-two-wheel-and-parked-lance-pressure-washer-01/v1.0.0/model.glb",
+      "size": 151564,
+      "sha256": "64bc07a1a9885c47381bfe028a0ec6b03d661edd1aa40af3b4b14172658ac0f4"
+    },
+    "blend": {
+      "path": "assets/public/public-fixed-two-wheel-and-parked-lance-pressure-washer-01/v1.0.0/source.blend",
+      "size": 808672,
+      "sha256": "e691af6dce1bbde27050d03a584767714641e9b1abcee2b81270182ecd155da3"
+    },
+    "generator": {
+      "path": "assets/public/public-fixed-two-wheel-and-parked-lance-pressure-washer-01/v1.0.0/generate.py",
+      "size": 15420,
+      "sha256": "4e01537d898015776dcf85d18567bf0596e65d32966533027a277707cf8298b0"
+    },
+    "render": {
+      "path": "assets/public/public-fixed-two-wheel-and-parked-lance-pressure-washer-01/v1.0.0/thumbnail.png",
+      "size": 491124,
+      "sha256": "bd052f93b58e73c9fd5f9472572976edae6ecd057c6774eccc3ec3bd69de83e7"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

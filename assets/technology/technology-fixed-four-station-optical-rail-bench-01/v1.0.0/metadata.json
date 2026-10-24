@@ -1,0 +1,42 @@
+{
+  "id": "technology-fixed-four-station-optical-rail-bench-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "technology",
+  "style": "source-preserved-low-poly",
+  "title": "Fixed Four-Station Optical Rail Bench",
+  "description": "One newly authored whole static optical teaching bench appearance. A continuous raised dovetail rail on two broad transverse feet carries four separate captured saddles with side clamp knobs and upright stems: a recessed lamp-box exterior, two independently framed opaque biconvex lens appearances, and a blank thick screen in a complete rectangular surround. All stations share one rigid rail and open axial intervals. No old camera slider or classroom projector geometry is imported. One prop and zero scenes. Four opaque constant PBR materials, no transparent glass, light beams, emission, calibration marks or readings. No optical transmission, focusing, image formation, electrical function, sliding, compatibility, measurement accuracy, manufacturing or safety claim.",
+  "bounds": {
+    "x": 1.7400000095367432,
+    "y": 0.4399999976158142,
+    "z": 0.621999979019165,
+    "unit": "m"
+  },
+  "triangles": 2264,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/technology/technology-fixed-four-station-optical-rail-bench-01/v1.0.0/model.glb",
+      "size": 210700,
+      "sha256": "adfb9167b6e9a5a75ae68f20a7d469ddf3451896dd12ef55a0439e6d900aa998"
+    },
+    "blend": {
+      "path": "assets/technology/technology-fixed-four-station-optical-rail-bench-01/v1.0.0/source.blend",
+      "size": 950560,
+      "sha256": "9edc99d50587416f4ac5d7167366f0b98f6022ba471b29ce8801c9296710d12b"
+    },
+    "generator": {
+      "path": "assets/technology/technology-fixed-four-station-optical-rail-bench-01/v1.0.0/generate.py",
+      "size": 16626,
+      "sha256": "09ea90e25a33fa6d4217c920f140abfdeffbdc795b797f7f38ebc538d07d5dc1"
+    },
+    "render": {
+      "path": "assets/technology/technology-fixed-four-station-optical-rail-bench-01/v1.0.0/thumbnail.png",
+      "size": 466943,
+      "sha256": "50d2d7a0abfeba0d60de5795d1d5b598967b5e7d424ffadbbe41bafba550cfbf"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

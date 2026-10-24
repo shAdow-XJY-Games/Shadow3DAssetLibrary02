@@ -1,0 +1,42 @@
+{
+  "id": "industrial-fixed-horizontal-ram-and-t-slot-shaper-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "industrial",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Horizontal Ram and T Slot Shaper",
+  "description": "One newly authored complete static horizontal metal-shaper-style machine exterior. A long finite cast ground base supports a tall rear boxed column and one true rectangular through ram guide. A complete broad solid horizontal ram projects to a separate vertical front slide, fixed clapper-style box, proud cross-pin, full tool holder and a short finite-blunt vertical tool blank. An independent continuous L knee carries one entire thick box table with three genuinely top-open and end-open T-section channels, each with a narrow mouth and wider lower cavity. A lower stepped elevating-post appearance and two whole open-spoke control wheels with rooted hubs and proud grips belong to this machine. All numeric geometry is new, not a saw bow/blade replaced on an old machine or lathe components rearranged. Unlike the crank-driven open-bow saw, the large solid ram, boxed column and vertically dropped tool-head over a slotted knee table define the whole assembly. One prop, zero scenes, no workpiece, loose tools or imported old asset. Four opaque constant untextured PBR materials, metres, Z up and actual whole horizontal bounds-centred ground origin. Deliberate small fixed attachment overlaps only. No reciprocating motion, cutting, machined output, tool sharpness, clamping, compatible T-slot hardware, stroke sweep, feed, drive train, force, accuracy, manufacturing, load, ergonomics or machinery safety claim.",
+  "bounds": {
+    "x": 1.385,
+    "y": 0.738,
+    "z": 1.045,
+    "unit": "m"
+  },
+  "triangles": 1908,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/industrial/industrial-fixed-horizontal-ram-and-t-slot-shaper-01/v1.0.0/model.glb",
+      "size": 106024,
+      "sha256": "1e74a93b402c47c3971e26b2a406d49fa98fe91ed41b77f7a555db3d1d024820"
+    },
+    "blend": {
+      "path": "assets/industrial/industrial-fixed-horizontal-ram-and-t-slot-shaper-01/v1.0.0/source.blend",
+      "size": 746080,
+      "sha256": "e0ccb342c8101b0ab015cd7b5a7cb1b456261151723d61a1aca14c3d470e16e4"
+    },
+    "generator": {
+      "path": "assets/industrial/industrial-fixed-horizontal-ram-and-t-slot-shaper-01/v1.0.0/generate.py",
+      "size": 28692,
+      "sha256": "e5ee7602128be38ba3f1f877f9ae05ecc679a9a689484849886b44501f539245"
+    },
+    "render": {
+      "path": "assets/industrial/industrial-fixed-horizontal-ram-and-t-slot-shaper-01/v1.0.0/thumbnail.png",
+      "size": 540473,
+      "sha256": "4c97c1336782a7aa5f7ed2782edf9f28d805f09901b9674b64c334b585067069"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
