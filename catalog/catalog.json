@@ -1094,6 +1094,11 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary02",
       "commit": "87f4e5da883da1dadc6fc91f6331675e361b43b4"
+    },
+    "original-continuous-five-1332-volume02-20261024": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary02",
+      "commit": "b277ef1fe3addb724a822e594261166f94d21b8b"
     }
   },
   "assets": [
@@ -31411,6 +31416,221 @@
       "status": "verified",
       "license": "All rights reserved",
       "sourceId": "original-continuous-two-1327-volume02-20261024"
+    },
+    {
+      "id": "animal-static-integral-spiny-back-hedgehog-01",
+      "version": "1.0.0",
+      "category": "modular",
+      "assetKind": "prop",
+      "theme": "animal",
+      "style": "warm-handcrafted-village",
+      "title": "Static Integral-Spiny-Back Hedgehog",
+      "description": "One newly authored whole stylised hedgehog-like animal in a low grounded stance. A continuous long pointed muzzle and compact head flow into a low broad domed torso. The real dorsal body boundary rises into individually tapered backward-leaning spine facets with shared perimeter vertices, not detached cones or a texture on a smooth tortoise shell. Four short complete grounded feet, two small rounded ears, two low lateral eyes and one small nose complete the whole animal. The head stays visibly free of dorsal spines. No old rabbit body, tortoise shell or animal arrays imported. One static whole prop, zero scenes. Deliberately faceted artistic exterior only; no precise species, real spine anatomy/count, defense, motion, handling or biological claim.",
+      "bounds": {
+        "x": 0.93126291,
+        "y": 1.600000024,
+        "z": 0.681158483,
+        "unit": "m"
+      },
+      "triangles": 1748,
+      "materials": 4,
+      "files": {
+        "glb": {
+          "path": "assets/animal/animal-static-integral-spiny-back-hedgehog-01/v1.0.0/model.glb",
+          "size": 110892,
+          "sha256": "0836dc700530e4cf54680a74e7f6125dba7a6cb5264345451da78fa34fd30bd5"
+        },
+        "blend": {
+          "path": "assets/animal/animal-static-integral-spiny-back-hedgehog-01/v1.0.0/source.blend",
+          "size": 635476,
+          "sha256": "6cc52f218943e8ac7a71bb9b94e804de56f4a2061273775be004db138ef669d6"
+        },
+        "generator": {
+          "path": "assets/animal/animal-static-integral-spiny-back-hedgehog-01/v1.0.0/generate.py",
+          "size": 29392,
+          "sha256": "7d249d2be377b1a2194d5f755c7b9b014b8b9086c74948e3446173ead38ca732"
+        },
+        "render": {
+          "path": "assets/animal/animal-static-integral-spiny-back-hedgehog-01/v1.0.0/thumbnail.png",
+          "size": 503759,
+          "sha256": "ae117d53232a668afdca072f6324bf2c0781f248dfe2e4e836036cf56399827d"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-continuous-five-1332-volume02-20261024"
+    },
+    {
+      "id": "carnival-fixed-twin-rotary-arm-transverse-gondola-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "carnival",
+      "style": "S01-clean-geometric",
+      "title": "Fixed Twin Rotary Arm Transverse Gondola",
+      "description": "One newly authored complete fixed twin-rotary-arm amusement-ride appearance. Two deep grounded runners, tapered bearing piers, root knees and low cross-ties support two separate upper horizontal pivots. Each full long arm extends from a low transverse gondola journal past its upper pivot to a complete counterweight housing. A whole thick open transverse tray has its own second horizontal pivot axis, full side journal roots and five empty fixed seats with individually rooted restraint appearances. This is not the old boat pendulum with one upper common axle and rigid triangular bridles, and not a Ferris wheel with full rims, spokes and multiple level cabins: the two long grounded pivot arms and one independently journalled transverse passenger tray form a different complete structure. All geometry newly authored; no old ride mesh or cabin imported. Three opaque untextured constant PBR roles, metres, Z up and whole horizontally bounds-centred ground origin. One complete prop, zero scenes; seats and counterweights are not additional assets. Fixed empty game-art display only: no real rotation, synchronized arms, ride motion or kinematics, passenger fit, restraint effectiveness, balance, drive/brake internals, loads, manufacture, installation, operation or amusement safety claim.",
+      "bounds": {
+        "x": 3.64,
+        "y": 1.975,
+        "z": 3.5900000000000003,
+        "unit": "m"
+      },
+      "triangles": 1856,
+      "materials": 3,
+      "files": {
+        "glb": {
+          "path": "assets/music/carnival-fixed-twin-rotary-arm-transverse-gondola-01/v1.0.0/model.glb",
+          "size": 112388,
+          "sha256": "ebba9a601169951353235cb29a97c430c1b1cbcc14cde9d673320ebf516d11bd"
+        },
+        "blend": {
+          "path": "assets/music/carnival-fixed-twin-rotary-arm-transverse-gondola-01/v1.0.0/source.blend",
+          "size": 875820,
+          "sha256": "17c5465c551c120ba2cc4eaadf022b52ba5f3b1191f8a1f2775bed9317c9898c"
+        },
+        "generator": {
+          "path": "assets/music/carnival-fixed-twin-rotary-arm-transverse-gondola-01/v1.0.0/generate.py",
+          "size": 12526,
+          "sha256": "562ff7a8e44bf77ba3149e7d66bfbc6194066774246379fe4e67c12170c7e16c"
+        },
+        "render": {
+          "path": "assets/music/carnival-fixed-twin-rotary-arm-transverse-gondola-01/v1.0.0/thumbnail.png",
+          "size": 525389,
+          "sha256": "fe2496d81e2f64edf792ddf47a8a0533b42b201d43064e3ad38198afb91bce41"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-continuous-five-1332-volume02-20261024"
+    },
+    {
+      "id": "professional-fixed-four-jaw-and-depth-rod-vernier-caliper-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "professional",
+      "style": "source-preserved-low-poly",
+      "title": "Fixed Four Jaw and Depth Rod Vernier Caliper",
+      "description": "One newly authored complete fixed four-jaw vernier-caliper-style hand instrument. One continuous long flat beam and fixed jaw body has a broad tapered outside jaw on one side and a smaller opposing inside jaw on the other. A complete thick carriage has an actual rectangular through opening around the beam, with its separate opposed long and short tapered jaws, a blank raised index plate and a top locking spindle and wheel. One thin flat depth rod extends past the far beam end in the fixed pose. No graduations or numeric reading are depicted. All numeric geometry newly authored, not a laid-down height gauge, re-labelled calculating slide rule, widened micrometer or old parts collage. One prop, zero scenes, three opaque materials. Static appearance only, without calibrated measurement, accuracy, working adjustment, fit, manufacture or tool safety claim.",
+      "bounds": {
+        "x": 0.0949999988079071,
+        "y": 0.32100000977516174,
+        "z": 0.029999999329447746,
+        "unit": "m"
+      },
+      "triangles": 284,
+      "materials": 3,
+      "files": {
+        "glb": {
+          "path": "assets/professional/professional-fixed-four-jaw-and-depth-rod-vernier-caliper-01/v1.0.0/model.glb",
+          "size": 30064,
+          "sha256": "470fb3975ea1a4ae7cb1dd5fc91731b79f231f80b1582b55b7b521716eacfc91"
+        },
+        "blend": {
+          "path": "assets/professional/professional-fixed-four-jaw-and-depth-rod-vernier-caliper-01/v1.0.0/source.blend",
+          "size": 602144,
+          "sha256": "df753c11e9f6832535f73946b0d7f0ea6d67f02ce5447580a54920ab58e22e06"
+        },
+        "generator": {
+          "path": "assets/professional/professional-fixed-four-jaw-and-depth-rod-vernier-caliper-01/v1.0.0/generate.py",
+          "size": 15439,
+          "sha256": "1cb3862cb4364b28914060f972a149c93857b9461f97b7fe864edc7a7d355254"
+        },
+        "render": {
+          "path": "assets/professional/professional-fixed-four-jaw-and-depth-rod-vernier-caliper-01/v1.0.0/thumbnail.png",
+          "size": 439724,
+          "sha256": "ad6c30ea906e2ae6ea607c1f76b4c19268d330bb525fd465ba672254dda6ec5c"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-continuous-five-1332-volume02-20261024"
+    },
+    {
+      "id": "technology-fixed-open-carrier-and-rule-planar-astrolabe-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "technology",
+      "style": "S01-clean-geometric",
+      "title": "Fixed Open Carrier and Rule Planar Astrolabe",
+      "description": "One newly authored complete fixed planar-astrolabe-style display laid on its full circular back. A thick mother pan has a genuinely recessed opaque blank inner plate and a complete raised limb with illustrative marks assigned to actual top faces. Above it, a physically connected multi-part open carrier combines a central bored hub, outer annulus, three complete curved branches, one full eccentric open circle and three finite-blunt pointer tongues. The empty carrier regions reveal the recessed plate through real layer depth, not a solid disk painted with star shapes. One entire two-ended rule crosses the central spindle above the carrier and carries two thick end vanes with genuine rectangular apertures. A full retaining head, shaped top suspension throne and complete open hanging ring belong to the whole instrument. All numeric geometry is new, not a pocket watch with its hands removed, a 3D armillary flattened or old complete components reassembled. No watch lid, winding crown, spherical cage, globe, table or stand. One prop, zero scenes, four opaque constant untextured PBR materials, metres, native Z up and actual horizontal-bounds-centred ground origin. Fixed fictional technology/fantasy exhibit only: no calibrated graduations, actual star map, celestial coordinates, calendar, latitude, observation, navigation, optical sighting, angle accuracy, historical reconstruction, working rotation, material strength, manufacture, wearability or safety claim.",
+      "bounds": {
+        "x": 0.368,
+        "y": 0.468,
+        "z": 0.09,
+        "unit": "m"
+      },
+      "triangles": 6304,
+      "materials": 4,
+      "files": {
+        "glb": {
+          "path": "assets/technology/technology-fixed-open-carrier-and-rule-planar-astrolabe-01/v1.0.0/model.glb",
+          "size": 256860,
+          "sha256": "24f6a86e29caff076fc4a7b5f9a84fa8ad99e1b035a26278fe6643458c683cbc"
+        },
+        "blend": {
+          "path": "assets/technology/technology-fixed-open-carrier-and-rule-planar-astrolabe-01/v1.0.0/source.blend",
+          "size": 954460,
+          "sha256": "e6177074d968c53bb1386da85b877bf2ae12eb9db394dd9cef9d81ca5095bc74"
+        },
+        "generator": {
+          "path": "assets/technology/technology-fixed-open-carrier-and-rule-planar-astrolabe-01/v1.0.0/generate.py",
+          "size": 30076,
+          "sha256": "8a56be608f642a2b4f4dbbdbd0279a55bc88478ede3409bf6a2459d118876dd4"
+        },
+        "render": {
+          "path": "assets/technology/technology-fixed-open-carrier-and-rule-planar-astrolabe-01/v1.0.0/thumbnail.png",
+          "size": 564283,
+          "sha256": "7ce334ce127b001584512ed3cd2947808af040776643e44fd3cbf13fda67e723"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-continuous-five-1332-volume02-20261024"
+    },
+    {
+      "id": "technology-fixed-upright-wound-ring-and-compass-galvanometer-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "technology",
+      "style": "source-preserved-low-poly",
+      "title": "Fixed Upright Wound Ring And Compass Galvanometer",
+      "description": "One newly authored complete static upright-ring coil galvanometer appearance. A broad chamfered ground base carries two low standards supporting one complete vertical flanged winding former. A single continuous copper-looking helical winding follows its outer groove. At the open ring centre a separate turned post carries a horizontal recessed compass-like cup with a blank pale dial, one full fixed pointed needle and an occupied central pivot. Two complete insulated terminal-post appearances stand on the same base. The upright coil and horizontal observation cup are distinct connected assemblies, not an astronomical ring sphere, a flat compass scaled up, or imported old mesh parts. No central globe, multiple crossing armillary bands, hand crank or rotor is present. One prop and zero scenes; four opaque constant PBR materials, metres, Z up and complete horizontal-bounds-centred ground origin. Static coarse illustrative apparatus only: no electrical circuit, wire connection, current, field, magnetic response, detection, angle scale, calibration, measurement, motion, manufacturing, handling or safety claim.",
+      "bounds": {
+        "x": 0.46000000834465027,
+        "y": 0.30000001192092896,
+        "z": 0.4699999988079071,
+        "unit": "m"
+      },
+      "triangles": 4760,
+      "materials": 4,
+      "files": {
+        "glb": {
+          "path": "assets/technology/technology-fixed-upright-wound-ring-and-compass-galvanometer-01/v1.0.0/model.glb",
+          "size": 410432,
+          "sha256": "b67332fd7490913bcdc778cf370f7eadcb81980e77fef3bcf6a3714791f26a93"
+        },
+        "blend": {
+          "path": "assets/technology/technology-fixed-upright-wound-ring-and-compass-galvanometer-01/v1.0.0/source.blend",
+          "size": 1154848,
+          "sha256": "6ed0c0a97d8436826607803c0e49e1444aca91f883c1cd69a52d597d818fc376"
+        },
+        "generator": {
+          "path": "assets/technology/technology-fixed-upright-wound-ring-and-compass-galvanometer-01/v1.0.0/generate.py",
+          "size": 17544,
+          "sha256": "d0a75d5dee637ce9be3fe53e3497a6df5badd7ba3a37f8e2894bdce0133d2afb"
+        },
+        "render": {
+          "path": "assets/technology/technology-fixed-upright-wound-ring-and-compass-galvanometer-01/v1.0.0/thumbnail.png",
+          "size": 554865,
+          "sha256": "db60da84b5ddcfcbd39de3a145e427e84c2ae32f8e9dd609faaf4b2c65d34335"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-continuous-five-1332-volume02-20261024"
     }
   ]
 }
