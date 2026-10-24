@@ -1,0 +1,42 @@
+{
+  "id": "music-fixed-open-case-pinned-cylinder-box-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "music",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Open Case Pinned Cylinder Music Box",
+  "description": "One newly authored complete fixed-open cylinder music-box appearance. A continuous timber-like shell has a real floor and four thick walls, with one complete recessed lid held in a fixed raised pose by hinge-style pins and side stays. Inside, two bearing blocks support a whole transverse drum and common axle. Twenty-four blunt fixed pegs project from the drum; one connected comb has twelve full fingers sharing a supported root. A side crank and grip belong to the same axle. This is not a fishing compartment box with contents swapped, a wheel-bowed instrument with strings removed, or a texture representing the internal mechanism: all geometry is independently authored as one complete musical-device exterior. Three opaque constant untextured PBR roles, metres, Z up and whole horizontally centred ground datum. One model and zero scenes. Static silent illustrative display only: no melody, tuning, audible output, actuating pin-comb contact sequence, rotating crank/drum, hinge motion, gearing or stored energy, fabrication, operation or safety claim.",
+  "bounds": {
+    "x": 0.763,
+    "y": 0.575,
+    "z": 0.64770611262,
+    "unit": "m"
+  },
+  "triangles": 1636,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/music/music-fixed-open-case-pinned-cylinder-box-01/v1.0.0/model.glb",
+      "size": 99368,
+      "sha256": "1d9c00d9a00753570b22ad905c886b69a889fb3b9b239dc4b5ac5fe60ee6142f"
+    },
+    "blend": {
+      "path": "assets/music/music-fixed-open-case-pinned-cylinder-box-01/v1.0.0/source.blend",
+      "size": 813176,
+      "sha256": "9b1ae8b1b58062ea14838f4e46fd6af39d1163542a862837317919d98447583c"
+    },
+    "generator": {
+      "path": "assets/music/music-fixed-open-case-pinned-cylinder-box-01/v1.0.0/generate.py",
+      "size": 11721,
+      "sha256": "c5f0f12c8bbc57adf9735a1d38939d1ec035ff1e808117bdaa8cbcc17d0f46f5"
+    },
+    "render": {
+      "path": "assets/music/music-fixed-open-case-pinned-cylinder-box-01/v1.0.0/thumbnail.png",
+      "size": 526651,
+      "sha256": "71a6e83ef11b676e4f9f5eb1fb6b5ab4f5bc8c0ee06d965427748705023ac8c1"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

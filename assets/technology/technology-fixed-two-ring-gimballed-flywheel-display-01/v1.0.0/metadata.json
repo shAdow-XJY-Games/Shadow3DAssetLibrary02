@@ -1,0 +1,42 @@
+{
+  "id": "technology-fixed-two-ring-gimballed-flywheel-display-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "technology",
+  "style": "source-preserved-low-poly",
+  "title": "Fixed Two Ring Gimballed Flywheel Display",
+  "description": "One newly authored complete static gimballed flywheel teaching-display appearance. A broad finite ground base carries a continuous low U support, a complete upright outer ring on opposed support pins, a smaller horizontal inner ring on separate opposed pins, and two inner-ring bearing collars carrying a full transverse shaft. An independent thick brass-looking rim, four full radial spokes and a substantial hub form the central flywheel. Both surrounding rings have real open interiors and finite clearances except deliberate fixed root overlaps. No old astronomical armillary sphere, compass bowl, hood or pedestal geometry imported. One prop, zero scenes, four constant opaque PBR materials. Fixed illustrative assembly only, not a moving mechanism: no spinning, precession, angular-momentum demonstration, axis travel, calibration, bearing fit, balance, manufacturing dimensions, engineering or safety claim.",
+  "bounds": {
+    "x": 0.7200000286102295,
+    "y": 0.47699999809265137,
+    "z": 0.6330000162124634,
+    "unit": "m"
+  },
+  "triangles": 3352,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/technology/technology-fixed-two-ring-gimballed-flywheel-display-01/v1.0.0/model.glb",
+      "size": 295776,
+      "sha256": "62d6ecadc9827b6cb3d22966483a4ae9667bfac697e0cda11c6552fc4d4ca397"
+    },
+    "blend": {
+      "path": "assets/technology/technology-fixed-two-ring-gimballed-flywheel-display-01/v1.0.0/source.blend",
+      "size": 1020672,
+      "sha256": "69d6d262ee6fc2b3f24332d6b18a8641c9d15cffa1a02c9a76c1459a6fb05bdd"
+    },
+    "generator": {
+      "path": "assets/technology/technology-fixed-two-ring-gimballed-flywheel-display-01/v1.0.0/generate.py",
+      "size": 16844,
+      "sha256": "28adc9441fcfaac927875941bb4e9e0fdafc003c514508195e41c48cdf9a0389"
+    },
+    "render": {
+      "path": "assets/technology/technology-fixed-two-ring-gimballed-flywheel-display-01/v1.0.0/thumbnail.png",
+      "size": 544280,
+      "sha256": "d811fe2dd7c60799e28548d1412067f80ac4120cfdba8086a82bd644864b7028"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

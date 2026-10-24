@@ -1,0 +1,42 @@
+{
+  "id": "interior-fixed-center-pivot-rooflight-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "interior",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Centre Pivot Sloping Rooflight",
+  "description": "One original complete fixed-open centre-pivot sloping rooflight module. One deep whole perimeter curb with a continuous raised inner rebate surrounds a single complete framed opaque illustrative pane. The sash turns about its middle horizontal axis in the displayed pose, crossing above and below the sloping curb plane; finite side trunnions and bearing housings connect it to both side rails. Four finite exterior mounting ears and one lower-edge grip complete the assembly. This is not the old rear-edge-hinged garden cold-frame container or two parallel-depth sliding sash window; no old geometry is imported or rescaled. Three constant opaque PBR materials, metres, Z up, true whole horizontal envelope centred and lowest displayed point Z0. One isolated module, zero scenes; host roof and flashing environment are omitted, and the lowest displayed point is not claimed as a mounting sole. No transparent glazing, movement sweep, watertightness, weather, ventilation, egress, host fit, installation, support or safety claim.",
+  "bounds": {
+    "x": 1.224,
+    "y": 1.3360590849306835,
+    "z": 1.2998224543953407,
+    "unit": "m"
+  },
+  "triangles": 728,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/interior/interior-fixed-center-pivot-rooflight-01/v1.0.0/model.glb",
+      "size": 41076,
+      "sha256": "b0a97c324ec64c47728d5e544019b50f8fbb7030b1dd29a48e72d77b08fc3771"
+    },
+    "blend": {
+      "path": "assets/interior/interior-fixed-center-pivot-rooflight-01/v1.0.0/source.blend",
+      "size": 634700,
+      "sha256": "8b22530ef28d63339c345ecc31be2c4d538b3f51e23d56b114c6676a2f3da87b"
+    },
+    "generator": {
+      "path": "assets/interior/interior-fixed-center-pivot-rooflight-01/v1.0.0/generate.py",
+      "size": 10998,
+      "sha256": "002151a0b67e4b464da750c60f0b1092ff1812c99b16768dde48f111f3690fa3"
+    },
+    "render": {
+      "path": "assets/interior/interior-fixed-center-pivot-rooflight-01/v1.0.0/thumbnail.png",
+      "size": 450605,
+      "sha256": "02e8dd932fd261b4a573d2884a4c5f2f5622f624bd8201fc9f4e910c6ddf30f2"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

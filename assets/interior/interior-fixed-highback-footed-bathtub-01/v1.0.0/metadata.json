@@ -1,0 +1,42 @@
+{
+  "id": "interior-fixed-highback-footed-bathtub-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "interior",
+  "style": "S01-clean-geometric",
+  "title": "Fixed High Back Footed Bathtub",
+  "description": "One original complete freestanding high-back bath appearance. A single closed thick elongated vessel has a deep open interior, full inner and outer floors, continuously rounded sloping sides and a true broad rolled lip rising at one end. Four whole curved splayed metal feet are rooted into its lower belly. A separate complete two-column floor-mounted bridge tap set with finite escutcheons, two fixed controls and one entire arched spout stands beside the low end; one small inner-floor drain cap is a shallow visual detail. No old washbasin, pedestal, cabinet or faucet mesh is imported or rescaled. The low full-length deep bathing vessel and independent floor-supply support route differ from a neck-notched salon bowl on a tall pedestal or a square countertop sink. Three opaque constant PBR materials, metres, Z up, horizontal envelope centred; one whole prop, zero scenes, no water or people. Static appearance only: no usable plumbing, drainage, water containment, pressure, temperature, bathing ergonomics, support load, installation or safety claim.",
+  "bounds": {
+    "x": 1.88,
+    "y": 0.9620000000000001,
+    "z": 1.141,
+    "unit": "m"
+  },
+  "triangles": 1608,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/interior/interior-fixed-highback-footed-bathtub-01/v1.0.0/model.glb",
+      "size": 104604,
+      "sha256": "5df224e58f4f4a119a46df9236a1a32acd3904c1c6abe59b31478d7f0ed21425"
+    },
+    "blend": {
+      "path": "assets/interior/interior-fixed-highback-footed-bathtub-01/v1.0.0/source.blend",
+      "size": 677740,
+      "sha256": "53464b59b6e104d5bcda502f4f0e40545d36954d5b4f57c239e9b6ee969b201c"
+    },
+    "generator": {
+      "path": "assets/interior/interior-fixed-highback-footed-bathtub-01/v1.0.0/generate.py",
+      "size": 10998,
+      "sha256": "0a62a2511df8045a35ebd983a00a64174e1ec5d274aaadae5ae9ff1a86ccfa61"
+    },
+    "render": {
+      "path": "assets/interior/interior-fixed-highback-footed-bathtub-01/v1.0.0/thumbnail.png",
+      "size": 371354,
+      "sha256": "d28c91ea3973d9c58ced06469285f652eab46b35fcc85d6a3ab83ccec3297d86"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

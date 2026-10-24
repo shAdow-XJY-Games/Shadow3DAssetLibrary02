@@ -1,0 +1,42 @@
+{
+  "id": "harbor-fixed-open-wheel-and-cast-helm-pedestal-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "harbor",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Open Wheel and Cast Helm Pedestal",
+  "description": "One newly authored complete static traditional-style wheel-helm exterior, not a detached decorative shipwheel. A whole grounded cast foot carries one continuous waisted pedestal and a full elongated horizontal bored head housing with a proud closed rear cap. One entire horizontal spindle passes from the complete beveled wheel hub through the casing. An independent thick profiled wooden rim and eight whole radial spoke-and-rounded-grip bodies form one complete large vertical open wheel; all eight inter-spoke regions and the forward gap to the head casing are actual empty space. The complete stand, casing, spindle and wheel support relationship is new numeric geometry. Unlike the existing stern-rudder blade/tiller/straps, no rudder blade or tiller is present. Unlike the existing compass binnacle, there is no hooded bowl, compass card, gimbal or side correction spheres, and none of those old meshes is imported. One prop, zero scenes. No ship deck, chain, rope, steering cable, labels, scale or displayed course. Four opaque constant untextured PBR materials, metres, Z up and actual whole horizontal bounds-centred ground origin. Fixed illustrative art only: no wheel rotation, working rudder connection, mechanical transmission, gearing, steering response, load or torque rating, bearing fit, maritime installation compatibility, weather sealing, seaworthiness, engineering, manufacture or safety claim.",
+  "bounds": {
+    "x": 1.11,
+    "y": 0.692,
+    "z": 1.605,
+    "unit": "m"
+  },
+  "triangles": 4440,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/harbor/harbor-fixed-open-wheel-and-cast-helm-pedestal-01/v1.0.0/model.glb",
+      "size": 240252,
+      "sha256": "de6d961cdfa2cf28ffa9d6fefee220af3b58b576895ed642157ff706fce22054"
+    },
+    "blend": {
+      "path": "assets/harbor/harbor-fixed-open-wheel-and-cast-helm-pedestal-01/v1.0.0/source.blend",
+      "size": 834112,
+      "sha256": "2749ed0178ef952ce8ef54aae82b4e346efe862d41a3ce3f9826bf09eddb560e"
+    },
+    "generator": {
+      "path": "assets/harbor/harbor-fixed-open-wheel-and-cast-helm-pedestal-01/v1.0.0/generate.py",
+      "size": 25863,
+      "sha256": "b38f383d4fdf0d854e62ac9daba4a73926f2d9ea711c169f135c7542a852a95f"
+    },
+    "render": {
+      "path": "assets/harbor/harbor-fixed-open-wheel-and-cast-helm-pedestal-01/v1.0.0/thumbnail.png",
+      "size": 520688,
+      "sha256": "47a852761fc37ec8aaf5c8840e18dd189ecac8908ed2ed48f16693270fbcfdc8"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

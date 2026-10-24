@@ -1,0 +1,42 @@
+{
+  "id": "music-fixed-suspended-tubular-bell-frame-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "music",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Suspended Tubular Bell Frame",
+  "description": "One newly authored complete fixed suspended tubular percussion-bell frame. Two grounded runners, braced portal columns and a full overhead crossbeam carry nine independently thick, genuinely open-ended tubes on rear hangers and captive transverse upper pins. A full rear damping-style rail has a dark contact face, side roots and a fixed link down to a pedal rooted on the right runner. Unlike the complete old windchest organ, these pipes hang from overhead without windchest, keyboard or mouth-cut feet. Unlike the complete old two-row bar-resonator frame, there are no bars above closed-bottom resonator cups: these full open-ended hanging tubes are the main exterior. All geometry independently authored; three opaque constant untextured PBR roles, metres, Z up, horizontal whole centering and finite ground soles. One model, zero scenes. Silent static illustration only, no tuning, audible output, playable percussion, working suspension or damping/pedal motion, load, fabrication, operation or safety claim.",
+  "bounds": {
+    "x": 1.2799999999999998,
+    "y": 0.76,
+    "z": 1.9,
+    "unit": "m"
+  },
+  "triangles": 2412,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/music/music-fixed-suspended-tubular-bell-frame-01/v1.0.0/model.glb",
+      "size": 125132,
+      "sha256": "cd9cddc81ea0eadb87c14fada62b0b8cdca0121ba4f4e06902e6c9682176f974"
+    },
+    "blend": {
+      "path": "assets/music/music-fixed-suspended-tubular-bell-frame-01/v1.0.0/source.blend",
+      "size": 841024,
+      "sha256": "ddb8d9e3c57d404047ff77c2083d63315c68dcbb7ba3c9e5ecb170d83bf2373c"
+    },
+    "generator": {
+      "path": "assets/music/music-fixed-suspended-tubular-bell-frame-01/v1.0.0/generate.py",
+      "size": 10495,
+      "sha256": "a3f6a202d72bda1e8670224ce51255da68cd720879ad6e7ebcd7e09dac626f13"
+    },
+    "render": {
+      "path": "assets/music/music-fixed-suspended-tubular-bell-frame-01/v1.0.0/thumbnail.png",
+      "size": 480460,
+      "sha256": "7c2aca4d834e1a62907e96ffd16dad210126c1ca3121f2bc9b6d0a57159f306f"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
