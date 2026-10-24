@@ -1,0 +1,42 @@
+{
+  "id": "military-fixed-twin-mirror-shutter-signal-stand-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "military",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Twin Mirror Shutter Signal Stand",
+  "description": "One original complete fixed non-weapon camp optical-signal-stand exterior: grounded three-foot splayed tripod and spreaders, one transverse instrument beam, two separate U-fork mirror supports with full round opaque metal discs/rims and transverse axle/thumbwheel exteriors, and a complete open shutter frame held in front of the larger disc by two finite forward brackets. Four fixed tilted shutter leaves and full thin axles preserve actual openings. The smaller entire fork/mirror is held at a different fixed yaw on the same beam; no optical alignment is implied. Not an imported shop wall mirror or a surveying telescope with its barrel removed: full new common-frame geometry, secondary mirror and shutter mounting relationship. Three opaque PBR materials, metres and XY-centred ground soles, one model and zero scenes. Static display only, no usable optics, signalling procedure, targeting, transmission, mirror tracking, reflection accuracy, motion, load or safety claim.",
+  "bounds": {
+    "x": 1.12,
+    "y": 0.69,
+    "z": 1.33,
+    "unit": "m"
+  },
+  "triangles": 1808,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/military/military-fixed-twin-mirror-shutter-signal-stand-01/v1.0.0/model.glb",
+      "size": 100680,
+      "sha256": "011751248a60fb717ae810458b4e7a6506009d9ba0ac481d0a1585482b51e23d"
+    },
+    "blend": {
+      "path": "assets/military/military-fixed-twin-mirror-shutter-signal-stand-01/v1.0.0/source.blend",
+      "size": 771616,
+      "sha256": "71291f37541979deaa54cb05b5c1336e99ecdd5067b54edc2902ae1656fd0fdf"
+    },
+    "generator": {
+      "path": "assets/military/military-fixed-twin-mirror-shutter-signal-stand-01/v1.0.0/generate.py",
+      "size": 11259,
+      "sha256": "d63314d846555030fe1d973fc3e50cee385befea577ad27d250cb5d2954b2c35"
+    },
+    "render": {
+      "path": "assets/military/military-fixed-twin-mirror-shutter-signal-stand-01/v1.0.0/thumbnail.png",
+      "size": 387485,
+      "sha256": "195024dd84d3068b91ef7d4dbf6ad24c641f8a3306b6da8227f490e2d4ba7a38"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

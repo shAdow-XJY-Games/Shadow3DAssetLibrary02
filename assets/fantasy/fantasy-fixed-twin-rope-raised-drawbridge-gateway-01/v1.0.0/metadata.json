@@ -1,0 +1,42 @@
+{
+  "id": "fantasy-fixed-twin-rope-raised-drawbridge-gateway-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "fantasy",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Twin Rope Raised Drawbridge Gateway",
+  "description": "One complete original static fantasy gateway exterior: full grounded stone-look jambs and continuous open semicircular arch, finite rear threshold, one raised thick timber bridge deck with underside stringers and transverse root pivot, two full upper rope paths routed over exposed wheels on finite wall brackets, deck corner lugs and hanging fixed weights. Different from a narrow counterweighted boom or a hydraulic loading deck with independently hinged lip: this complete gate passage is paired with one full-width raised bridge leaf and overhead support routes. No old model geometry imported. Three opaque untextured PBR materials, metre scale, XY-centred ground datum; one complete model and zero scenes. Fixed artistic display only, no moat, host fortification, working lift, rigging, balancing, movement, load, installation, access control or engineering/safety claim.",
+  "bounds": {
+    "x": 3.04,
+    "y": 3.0375460121043014,
+    "z": 3.64,
+    "unit": "m"
+  },
+  "triangles": 1220,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/fantasy/fantasy-fixed-twin-rope-raised-drawbridge-gateway-01/v1.0.0/model.glb",
+      "size": 74176,
+      "sha256": "76e42189c38b50fa2bed05af79ae9c09fb32f1d08a73f6868c2b17da5b814e13"
+    },
+    "blend": {
+      "path": "assets/fantasy/fantasy-fixed-twin-rope-raised-drawbridge-gateway-01/v1.0.0/source.blend",
+      "size": 693692,
+      "sha256": "ec7421094c92e6516f64f9602bfd1b4562a027db886d607786978415d29bbcba"
+    },
+    "generator": {
+      "path": "assets/fantasy/fantasy-fixed-twin-rope-raised-drawbridge-gateway-01/v1.0.0/generate.py",
+      "size": 11083,
+      "sha256": "b8b6cf7f8f5bb18c662e3a73951c68329351a1795028c3e1e9005dad429eba9b"
+    },
+    "render": {
+      "path": "assets/fantasy/fantasy-fixed-twin-rope-raised-drawbridge-gateway-01/v1.0.0/thumbnail.png",
+      "size": 495606,
+      "sha256": "0d5336779948953041d3b86814bbffc4f7a1c6b8717ade3fb6a8e2a97fb1cb9e"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
