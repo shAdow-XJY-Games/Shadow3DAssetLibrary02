@@ -1,0 +1,42 @@
+{
+  "id": "fantasy-fixed-cutaway-twin-bulb-hourglass-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "fantasy",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Cutaway Twin Bulb Hourglass",
+  "description": "One original complete fixed cutaway hourglass display. A single continuous thick double-bulb shell narrows to one true connecting throat, with the front 120-degree sector intentionally removed and both entire finite section faces closed in copper material. Two separate static warm-sand solids illustrate an upper charge and lower mound, enclosed by original broad end discs, three full columns and finite vessel seats. This is an openly cutaway opaque art display, not transparent glass and not a functioning timer. Unlike a swan-neck alembic with an offset mouth/receiver or a gimballed flywheel, its two opposed bulbs share one axial throat inside one whole fixed frame. All newly authored geometry; three opaque PBR materials, metre scale, XY-centred ground origin, one model and zero scenes. No sand simulation, timing, flow, inversion, magical effect, fragility or support/safety performance claim.",
+  "bounds": {
+    "x": 0.84,
+    "y": 0.84,
+    "z": 1.3,
+    "unit": "m"
+  },
+  "triangles": 2520,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/fantasy/fantasy-fixed-cutaway-twin-bulb-hourglass-01/v1.0.0/model.glb",
+      "size": 131176,
+      "sha256": "ccf6137cbb85ec6fef07a97b019701d46dac06e90c66ea357ac0f6e60019631a"
+    },
+    "blend": {
+      "path": "assets/fantasy/fantasy-fixed-cutaway-twin-bulb-hourglass-01/v1.0.0/source.blend",
+      "size": 699268,
+      "sha256": "bc261eed184d2a68be1b76fabe6c06324c0bfe603360e69062536810e2814354"
+    },
+    "generator": {
+      "path": "assets/fantasy/fantasy-fixed-cutaway-twin-bulb-hourglass-01/v1.0.0/generate.py",
+      "size": 10648,
+      "sha256": "5313c13e6d6951bdac4e801d97a699517715a1a06659af04077c5bac8da1ff82"
+    },
+    "render": {
+      "path": "assets/fantasy/fantasy-fixed-cutaway-twin-bulb-hourglass-01/v1.0.0/thumbnail.png",
+      "size": 481367,
+      "sha256": "182457f248730be9f3e0ebbe0cf08359757bfb1d0b9085b6156630fd88e0f804"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

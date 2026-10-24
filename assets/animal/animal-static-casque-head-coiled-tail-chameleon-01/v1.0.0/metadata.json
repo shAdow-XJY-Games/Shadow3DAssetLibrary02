@@ -1,0 +1,42 @@
+{
+  "id": "animal-static-casque-head-coiled-tail-chameleon-01",
+  "version": "1.0.0",
+  "category": "modular",
+  "assetKind": "prop",
+  "theme": "animal",
+  "style": "warm-handcrafted-village",
+  "title": "Static Casque-Head Coiled-Tail Chameleon",
+  "description": "One newly authored whole stylised chameleon-like animal in a fixed grounded pose. A laterally narrow high torso flows into a short neck and broad blunt short head with an integral raised rear casque. Two lateral rounded eye turrets have small outward pupils. Four complete bent limbs meet four thick opposed-lobe grasping-looking feet on finite soles, while a single continuously tapering tail leaves the rear body and curls through a real open spiral in the vertical plane. Whole numeric geometry is new, not a tortoise with its shell removed or a shortened crocodilian with added colour. One static animal prop, zero scenes. No exact species, anatomy, colour-changing, grasp, climbing, movement, biological, welfare or ecological function claim.",
+  "bounds": {
+    "x": 0.720000029,
+    "y": 1.984909296,
+    "z": 0.819999993,
+    "unit": "m"
+  },
+  "triangles": 2280,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/animal/animal-static-casque-head-coiled-tail-chameleon-01/v1.0.0/model.glb",
+      "size": 128976,
+      "sha256": "8cf5c3a6611c5451d73f59cf28ea63c5f91da333e681cb31aa22a043811882db"
+    },
+    "blend": {
+      "path": "assets/animal/animal-static-casque-head-coiled-tail-chameleon-01/v1.0.0/source.blend",
+      "size": 644464,
+      "sha256": "02697a717d0f03ed512f69bf9407c9440ebcf053fb0e5e04b4c1f1dbe96e8b46"
+    },
+    "generator": {
+      "path": "assets/animal/animal-static-casque-head-coiled-tail-chameleon-01/v1.0.0/generate.py",
+      "size": 29845,
+      "sha256": "274e805eaf8ca1ebcc3ce4b1b3373c1ded4a916972e69db086ced63a8d9da40f"
+    },
+    "render": {
+      "path": "assets/animal/animal-static-casque-head-coiled-tail-chameleon-01/v1.0.0/thumbnail.png",
+      "size": 466761,
+      "sha256": "8a365642ea241b7682ccf6cdac6a8d01c8301c30fa76aed7ac3b7dd44b96159a"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

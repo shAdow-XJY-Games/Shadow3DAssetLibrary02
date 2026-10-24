@@ -1,0 +1,42 @@
+{
+  "id": "entertainment-fixed-openback-foldwing-puppet-theatre-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "entertainment",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Open Back Fold Wing Puppet Theatre",
+  "description": "One newly authored complete fixed open-backed folding-wing puppet-theatre booth. A full lower front concealment screen carries a tall genuinely open performance window with a broad projecting sill, side posts and header. Two independently framed solid wings are fixed folded rearward on complete vertical hinge appearances and stand on their own finite feet. A full upper rod supports two continuous thick pleated curtains gathered by complete wrap bands; a single scalloped valance closes only the top border. The rear stays entirely open with no roof, back wall or floor. This is not a ticket booth re-labelled or a low music platform with flags: the concealment front, high aperture, supporting folded wings and curtain routing are newly authored together with no old meshes. Three opaque constant untextured PBR roles, metres, Z up and full horizontally bounds-centred ground origin. One complete prop, zero scenes and no puppet or performer. Static visual only: no folding animation, cloth simulation, hinge range, child or performer fit, actual operation, anchoring, fire behavior, loading, manufacture or safety claim.",
+  "bounds": {
+    "x": 2.1846153846153844,
+    "y": 0.9392307692307693,
+    "z": 1.7449999999999999,
+    "unit": "m"
+  },
+  "triangles": 1840,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/music/entertainment-fixed-openback-foldwing-puppet-theatre-01/v1.0.0/model.glb",
+      "size": 115284,
+      "sha256": "73a4df27ba04229bd3376b79fe07879b42b6c3bcd8eda9477b4ee3206064af3e"
+    },
+    "blend": {
+      "path": "assets/music/entertainment-fixed-openback-foldwing-puppet-theatre-01/v1.0.0/source.blend",
+      "size": 759512,
+      "sha256": "c4ddf3d50f285e557b31bc7054139d712113dd7190afca6633efa4fd5b3e6948"
+    },
+    "generator": {
+      "path": "assets/music/entertainment-fixed-openback-foldwing-puppet-theatre-01/v1.0.0/generate.py",
+      "size": 12394,
+      "sha256": "789484792ae6e239e360d796c0eb4e67112d04adf625710c1c0dcc3414e741d5"
+    },
+    "render": {
+      "path": "assets/music/entertainment-fixed-openback-foldwing-puppet-theatre-01/v1.0.0/thumbnail.png",
+      "size": 497913,
+      "sha256": "2dfd2253191f25a880816c1bb336f43a586f866284bbd44f02c15b4cd4f44f05"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

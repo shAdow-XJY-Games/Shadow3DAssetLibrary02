@@ -1,0 +1,42 @@
+{
+  "id": "education-fixed-open-case-diverging-leaf-electroscope-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "education",
+  "style": "source-preserved-low-poly",
+  "title": "Fixed Open Case Diverging Leaf Electroscope",
+  "description": "One newly authored complete static open-front leaf electroscope appearance. A broad round ground base supports one complete thick half-round observation casing with real open front, a full annular roof and a stepped bored opaque insulating neck. One continuous central metal stem passes through the occupied neck to a broad top collector plate and a short transverse lower leaf pin. Two complete thin finite leaves diverge visibly inside the observation cavity. Their lower ends remain free and clear of the case and base. The back casing is opaque and the front deliberately open, not invisible glass. No pump, disk generator, circuit, wire or reused old component is present. One whole prop, zero scenes; four constant opaque PBR materials, metres, Z up and horizontal bounds-centred ground origin. Static illustrative model only: no charging, electric field, detection, leaf response, calibration, experiment instructions, working insulation, manufacturing, handling or safety claim.",
+  "bounds": {
+    "x": 0.28999999165534973,
+    "y": 0.28999999165534973,
+    "z": 0.4440000057220459,
+    "unit": "m"
+  },
+  "triangles": 1860,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/education/education-fixed-open-case-diverging-leaf-electroscope-01/v1.0.0/model.glb",
+      "size": 163332,
+      "sha256": "28ddacd60e5e53ddddda71f35c10ac4c44bceeeedc966a4554198634eb3a59cb"
+    },
+    "blend": {
+      "path": "assets/education/education-fixed-open-case-diverging-leaf-electroscope-01/v1.0.0/source.blend",
+      "size": 806528,
+      "sha256": "8c7f4f43273cdef2e1012343b03b151bb4bd9a788b5f9214900b34cccf9c9a15"
+    },
+    "generator": {
+      "path": "assets/education/education-fixed-open-case-diverging-leaf-electroscope-01/v1.0.0/generate.py",
+      "size": 17118,
+      "sha256": "467f4bab3812bb724a4e9a5327925da401df4844808023635419850120922e8e"
+    },
+    "render": {
+      "path": "assets/education/education-fixed-open-case-diverging-leaf-electroscope-01/v1.0.0/thumbnail.png",
+      "size": 532365,
+      "sha256": "e4b54e6708752f6f2cff11c8ef09db454223e8ad77f505c01b2c89e67927cc54"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

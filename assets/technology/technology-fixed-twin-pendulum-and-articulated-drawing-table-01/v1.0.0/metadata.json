@@ -1,0 +1,42 @@
+{
+  "id": "technology-fixed-twin-pendulum-and-articulated-drawing-table-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "technology",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Twin Pendulum and Articulated Drawing Table",
+  "description": "One newly authored complete static twin-pendulum drawing-instrument appearance. A full tall four-legged wooden table with low stretchers has two true through apertures in its one-piece top. Two entire long rods extend through the actual apertures from independent perpendicular horizontal pivot mounts above the table to separate complete pierced heavy-looking weights below it. One whole upper lateral arm and one entire perpendicular extended pen arm occupy distinct axial layers and join through a proud full headed pin. The pen arm carries an independent thick bored sleeve and one full finite blunt pencil-like body touching a blank integral drawing-surface appearance. The free rod intervals above and below the table, both true tabletop holes and the complete under-table space are actual geometry. All whole coordinates are newly authored, not an old table furnished with extracted pendulum or copying-instrument parts. Unlike the old low-board pantograph there is no four-bar parallelogram or separate tracer; unlike a metronome there is no tapered case, low internal pivot or one weighted rod controlling a time display. One prop, zero scenes, no drawing, printed trajectory, operator, glass, liquid or imported old model. Four opaque constant untextured PBR materials, metres, native Z up and actual horizontal-bounds-centred ground origin. A fixed illustrative harmonograph-style exhibit only: no oscillation, coupled dynamics, damping, frequency ratio, valid traced curve, pen motion, actual marking, drawing precision, educational outcome, manufacture, stability, ergonomics or safety claim.",
+  "bounds": {
+    "x": 1.2,
+    "y": 0.96,
+    "z": 1.43,
+    "unit": "m"
+  },
+  "triangles": 1964,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/technology/technology-fixed-twin-pendulum-and-articulated-drawing-table-01/v1.0.0/model.glb",
+      "size": 112176,
+      "sha256": "ca7be1b1cb639e39c20f2ca6de040ed72c501e752019c338b6caececbc7cc7ef"
+    },
+    "blend": {
+      "path": "assets/technology/technology-fixed-twin-pendulum-and-articulated-drawing-table-01/v1.0.0/source.blend",
+      "size": 745424,
+      "sha256": "6c988fefcfdd297ef8b82efeebabcf32d9110c1a1695df770d77302df6b5c009"
+    },
+    "generator": {
+      "path": "assets/technology/technology-fixed-twin-pendulum-and-articulated-drawing-table-01/v1.0.0/generate.py",
+      "size": 29196,
+      "sha256": "5884f5bf55ea58fa32912bb44f11de7b53cbfc7cea48638bd7cb79a812cfa8c1"
+    },
+    "render": {
+      "path": "assets/technology/technology-fixed-twin-pendulum-and-articulated-drawing-table-01/v1.0.0/thumbnail.png",
+      "size": 551650,
+      "sha256": "235452857380b233399e8131abfdb2cb3efff49dd7fe3fd1ff80b1b34f83e751"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

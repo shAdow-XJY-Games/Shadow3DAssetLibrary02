@@ -1,0 +1,42 @@
+{
+  "id": "animal-static-broad-bill-short-neck-waterfowl-01",
+  "version": "1.0.0",
+  "category": "modular",
+  "assetKind": "prop",
+  "theme": "animal",
+  "style": "warm-handcrafted-village",
+  "title": "Static Broad-Bill Short-Neck Waterfowl",
+  "description": "One newly authored whole stylised duck-like waterfowl in a fixed grounded pose. A low horizontal boat-shaped torso rises at the front into a short neck and rounded head in one continuous skin; a broad flattened bill has a rounded front outline and full material thickness. Two complete side-folded tapered wings lie along the back, and two short legs meet broad shallow-webbed feet with gently scalloped front margins rather than long separated toes. Small lateral eyes and a short raised tail end complete the whole. No old upright penguin body/flipper, long wading-bird neck/bill or foot outline imported. One static animal prop, zero scenes. No exact species, age, feather anatomy, swimming, flight, gait, rig, buoyancy, biological or ecological function claim.",
+  "bounds": {
+    "x": 0.684000015,
+    "y": 1.679999948,
+    "z": 0.779999971,
+    "unit": "m"
+  },
+  "triangles": 1108,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/animal/animal-static-broad-bill-short-neck-waterfowl-01/v1.0.0/model.glb",
+      "size": 65164,
+      "sha256": "d460cd312fdb9cd23c08d4311d9489f5fac1188c988c1c07e4ebbacd1dcb1739"
+    },
+    "blend": {
+      "path": "assets/animal/animal-static-broad-bill-short-neck-waterfowl-01/v1.0.0/source.blend",
+      "size": 605352,
+      "sha256": "66b56bede8490717a7a5bac4fe45e0b0bcf457ffdec9c2e71997c19865f0950d"
+    },
+    "generator": {
+      "path": "assets/animal/animal-static-broad-bill-short-neck-waterfowl-01/v1.0.0/generate.py",
+      "size": 29688,
+      "sha256": "794cc69f09f1b692169625053a099ff4a83926fa61640e7ccea40194ac252f76"
+    },
+    "render": {
+      "path": "assets/animal/animal-static-broad-bill-short-neck-waterfowl-01/v1.0.0/thumbnail.png",
+      "size": 478872,
+      "sha256": "800cd59d05354c2851427206c3132be53c659c11ebb7a261aa36295408b5778f"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "music-fixed-twin-joint-boot-and-bocal-bassoon-display-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "music",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Twin Joint Boot and Bocal Bassoon Display",
+  "description": "One newly authored complete fixed bassoon-style display. A single broad wooden boot has two real blind insertion bores receiving independently hollow unequal-height long tapered joints. The tall bass joint ends in a small genuinely open flared bell; the shorter wing joint receives a complete thin hollow curved bocal. Separate long key rods, actual bearing roots, fixed closed key cups and small touches run along both front joints, with full ferrules at joints. An entire low stand supports the boot and rear of the instrument. Unlike the old single continuous saxophone neck/body/bow/wide bell and the low looped valveless brass horn, this has a separate full double-bored boot, parallel unequal wooden joints, narrow upper bocal and two rooted exterior key assemblies. No old instrument mesh imported or scaled. Three opaque constant untextured PBR roles, metres, Z up and full horizontally bounds-centred ground origin. One complete prop, zero scenes. Static illustrative exterior only: hidden acoustic return passage, tone holes and reed internals are not modeled or claimed. No sound, tuning, playability, breath-flow continuity, key travel, actual instrument fit, manufacture, historical accuracy or safety claim.",
+  "bounds": {
+    "x": 0.39,
+    "y": 0.4190249223594996,
+    "z": 1.38,
+    "unit": "m"
+  },
+  "triangles": 4736,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/music/music-fixed-twin-joint-boot-and-bocal-bassoon-display-01/v1.0.0/model.glb",
+      "size": 255352,
+      "sha256": "815ac50b6523893b8a4efa031481853d29fb905dde489a278a682e95acf3c89d"
+    },
+    "blend": {
+      "path": "assets/music/music-fixed-twin-joint-boot-and-bocal-bassoon-display-01/v1.0.0/source.blend",
+      "size": 1008156,
+      "sha256": "9528351027c662d3e4a1a9a52c8dd6414ccd1a24df9f92a9d283ad20c7d02e54"
+    },
+    "generator": {
+      "path": "assets/music/music-fixed-twin-joint-boot-and-bocal-bassoon-display-01/v1.0.0/generate.py",
+      "size": 12878,
+      "sha256": "11d98a40c4b5ecabe6ab03048efc95e057f36f3a042bb11d692fd11a62621e75"
+    },
+    "render": {
+      "path": "assets/music/music-fixed-twin-joint-boot-and-bocal-bassoon-display-01/v1.0.0/thumbnail.png",
+      "size": 346941,
+      "sha256": "6a7d8dda901ed06381847cd407ce9d3e70653a2e18ee1483b649d32cee88c22b"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

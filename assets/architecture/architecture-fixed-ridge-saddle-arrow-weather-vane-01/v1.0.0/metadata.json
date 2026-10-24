@@ -1,0 +1,42 @@
+{
+  "id": "architecture-fixed-ridge-saddle-arrow-weather-vane-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "architecture",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Ridge Saddle Arrow Weather Vane",
+  "description": "One original complete fixed roof-ridge weather-vane exterior. A continuous folded two-slope saddle and central shoe support a full vertical spindle, a lower fixed crossed reference arm set with four thick directional tips, and an independently orientated upper arrow carrier with broad finite arrowhead and rear tail vane, annular bearing sleeve/shoulder and top boss. This is not an extracted windpump tail or a cup anemometer: it has no tower, rotor, pump, cups, counter or old imported meshes. Three opaque PBR materials, metre scale and actual XY-envelope centring; minimum saddle-edge Z is an export datum, not a flat ground sole. Host roof omitted. Fixed decorative appearance only: no rotation, wind direction measurement, cardinal alignment, aerodynamic response, lightning protection, roof fixing, load or safety certification claim.",
+  "bounds": {
+    "x": 1.1974060392997883,
+    "y": 1.02,
+    "z": 1.255,
+    "unit": "m"
+  },
+  "triangles": 920,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/architecture/architecture-fixed-ridge-saddle-arrow-weather-vane-01/v1.0.0/model.glb",
+      "size": 51352,
+      "sha256": "8958630a0e23df03c8521fde7d7f54db715674539e70e5bc853cf46ea7f04cd3"
+    },
+    "blend": {
+      "path": "assets/architecture/architecture-fixed-ridge-saddle-arrow-weather-vane-01/v1.0.0/source.blend",
+      "size": 649772,
+      "sha256": "66fd4d23a40eba23bdb216b363142425d7587a12dea848a0cc4c6ebe4dea7359"
+    },
+    "generator": {
+      "path": "assets/architecture/architecture-fixed-ridge-saddle-arrow-weather-vane-01/v1.0.0/generate.py",
+      "size": 10588,
+      "sha256": "d63f257dbf54beea23a82825979dc336883e8f2025df36524f5c71e30aa3c7cb"
+    },
+    "render": {
+      "path": "assets/architecture/architecture-fixed-ridge-saddle-arrow-weather-vane-01/v1.0.0/thumbnail.png",
+      "size": 345215,
+      "sha256": "5cf85bc539522ff75dbf750f518c68af381d74856180d27f4b138da8015f9523"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "bakery-fixed-blade-bank-and-sloped-tray-bread-slicer-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "bakery",
+  "style": "source-preserved-low-poly",
+  "title": "Fixed Blade Bank and Sloped Tray Bread Slicer",
+  "description": "One newly authored complete fixed countertop bread-slicer-style machine appearance. Two entire tall side motor housings stand on a low common base and four pads; full upper and lower transverse retainers hold seventeen independent finite narrow blunt plate blades in one vertical bank with genuine open intervals. A continuous rear sloping empty inlet bed and separate front lower sloping receiving bed each have integrated raised side curbs. A small blank side panel and one plain button are appearance only. No circular disc, reciprocating mechanism, sliding pusher, return belt wings, loaf or sliced food is imported or included. All numeric geometry newly authored; repeated blades are parts of one complete machine, not separate assets. One prop and zero scenes with three opaque materials. Static bakery equipment art only: no moving mechanism, cutting sharpness, feed compatibility, food processing, hygiene, machine performance or operating safety claim.",
+  "bounds": {
+    "x": 0.6740000247955322,
+    "y": 0.7400000095367432,
+    "z": 0.6100000143051147,
+    "unit": "m"
+  },
+  "triangles": 496,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/bakery/bakery-fixed-blade-bank-and-sloped-tray-bread-slicer-01/v1.0.0/model.glb",
+      "size": 62492,
+      "sha256": "83234cf880c26737309ce0f100bb91e2d0e6981018964b475f70a17a38748991"
+    },
+    "blend": {
+      "path": "assets/bakery/bakery-fixed-blade-bank-and-sloped-tray-bread-slicer-01/v1.0.0/source.blend",
+      "size": 729376,
+      "sha256": "4854a4b14f950ef07e57e07f1df911c9bbb39e2da4fd3ce599879e5abe8d45d0"
+    },
+    "generator": {
+      "path": "assets/bakery/bakery-fixed-blade-bank-and-sloped-tray-bread-slicer-01/v1.0.0/generate.py",
+      "size": 14518,
+      "sha256": "4dcf4fbb3b968ba3c757abb85bb0bc8394e35e24cfbfe3402ef3e918fcf665ec"
+    },
+    "render": {
+      "path": "assets/bakery/bakery-fixed-blade-bank-and-sloped-tray-bread-slicer-01/v1.0.0/thumbnail.png",
+      "size": 536141,
+      "sha256": "b9c52c07cc65ea2f105fed2355a168aeffb6801376e77ad98f3d752d6b66346f"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
