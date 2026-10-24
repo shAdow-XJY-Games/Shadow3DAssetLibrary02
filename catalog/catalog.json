@@ -1134,6 +1134,11 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary02",
       "commit": "6ac2cfe7ec48f301a6b5b3f013d92bb8d50bc1af"
+    },
+    "original-continuous-three-1383-volume02-20261024": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary02",
+      "commit": "7d0b0a55d235610e17ecf14805e4abe2c266ff69"
     }
   },
   "assets": [
@@ -33730,6 +33735,135 @@
       "status": "verified",
       "license": "All rights reserved",
       "sourceId": "original-continuous-four-1380-volume02-20261024"
+    },
+    {
+      "id": "animal-static-low-carapace-long-flipper-sea-turtle-01",
+      "version": "1.0.0",
+      "category": "modular",
+      "assetKind": "prop",
+      "theme": "animal",
+      "style": "warm-handcrafted-village",
+      "title": "Static Low-Carapace Long-Flipper Sea Turtle",
+      "description": "One newly authored complete stylised sea-turtle-like animal in a fixed low resting pose. A wide elongated low shield-shaped carapace narrows towards the rear and includes a closed pale belly and thick continuous rim. Two very long swept foreflippers and two shorter rear steering-flipper silhouettes project from the body as full thick solids, not scaled cylindrical tortoise legs. A short forward neck merges into a blunt small head with lateral eyes; a small tapered tail lies behind the shell. All shell, head and flipper boundaries are new, not old tortoise or seal component arrays. One static animal prop, zero scenes, no surrounding water or sand. No exact species/anatomy, swimming, gait, buoyancy, rig, animation, interaction or ecological performance claim.",
+      "bounds": {
+        "x": 2.279999971,
+        "y": 1.845000029,
+        "z": 0.36500001,
+        "unit": "m"
+      },
+      "triangles": 816,
+      "materials": 4,
+      "files": {
+        "glb": {
+          "path": "assets/animal/animal-static-low-carapace-long-flipper-sea-turtle-01/v1.0.0/model.glb",
+          "size": 50048,
+          "sha256": "515914c4a27e83b1707e2c33bc78d2c6eb46a9a81ba1acfd918fef19e25c12e6"
+        },
+        "blend": {
+          "path": "assets/animal/animal-static-low-carapace-long-flipper-sea-turtle-01/v1.0.0/source.blend",
+          "size": 590092,
+          "sha256": "0bbda5d2b4e3abd303a284c9b84a349a2261550244f39157456638a9b26651cb"
+        },
+        "generator": {
+          "path": "assets/animal/animal-static-low-carapace-long-flipper-sea-turtle-01/v1.0.0/generate.py",
+          "size": 29069,
+          "sha256": "dc0967272ddb379b1d812b00cfb4c5ad8ca7dc0d6b3785c6b8900d52b4df7b7a"
+        },
+        "render": {
+          "path": "assets/animal/animal-static-low-carapace-long-flipper-sea-turtle-01/v1.0.0/thumbnail.png",
+          "size": 457065,
+          "sha256": "4ad5d60f32308bd8395fafead5170a5665e36ce053fcf11cf393efa26e52f580"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-continuous-three-1383-volume02-20261024"
+    },
+    {
+      "id": "entertainment-fixed-slotted-viewing-drum-and-inner-picture-band-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "entertainment",
+      "style": "S01-clean-geometric",
+      "title": "Fixed Slotted Viewing Drum and Inner Picture Band",
+      "description": "One newly authored complete static zoetrope-style viewing-drum toy exterior. A wide finite stepped ground pedestal and whole short turned column support one closed circular drum floor and full lower carrier rim. One connected thick cylindrical wall is open at the top, with twelve narrow genuinely through-cut vertical windows in its upper zone and an uninterrupted top rim. A complete finite-thickness inner picture-band appearance sits below the windows; simple fixed dark diamond-like motifs at different heights are true material regions of its ivory inner surface, not textures, screenshots, copied artwork or coincident cards. The full closed-bottom drum, framed view windows, lower inner image band and independent stand are newly authored as one relation, not the earlier through-centre knitting cylinder with its needles removed or the dual-reel film projector assembled in a new pose. No needle, cloth tube, clamp, yarn path, film transport, lens or light is present. Six closed editable bodies, four opaque untextured constant PBR roles, metres, native Z up and actual horizontal bounds-centred ground origin. One model, zero scenes; slots and motifs do not count separately. Static illustrative toy appearance only: no rotation, calibrated viewing geometry, frame timing, visual persistence, animation sequence, optical effect, educational outcome, mechanism fit, manufacture, load, stability, ergonomics or toy-safety claim.",
+      "bounds": {
+        "x": 0.422,
+        "y": 0.422,
+        "z": 0.445,
+        "unit": "m"
+      },
+      "triangles": 6960,
+      "materials": 4,
+      "files": {
+        "glb": {
+          "path": "assets/entertainment/entertainment-fixed-slotted-viewing-drum-and-inner-picture-band-01/v1.0.0/model.glb",
+          "size": 278452,
+          "sha256": "301fc078a2b7340857dc94b3a49b0b4d6a46ae6116c3bcd358c0eedbd1a7ff47"
+        },
+        "blend": {
+          "path": "assets/entertainment/entertainment-fixed-slotted-viewing-drum-and-inner-picture-band-01/v1.0.0/source.blend",
+          "size": 921824,
+          "sha256": "fa1a511f3890426634c46c8dc5c7574bf40dd3c04cab30069d98389183f6c4fc"
+        },
+        "generator": {
+          "path": "assets/entertainment/entertainment-fixed-slotted-viewing-drum-and-inner-picture-band-01/v1.0.0/generate.py",
+          "size": 26080,
+          "sha256": "f340dc095cdda54f7850715e2eb9b3657c75c130074a44f69e169fc8b275abf8"
+        },
+        "render": {
+          "path": "assets/entertainment/entertainment-fixed-slotted-viewing-drum-and-inner-picture-band-01/v1.0.0/thumbnail.png",
+          "size": 566272,
+          "sha256": "2f0a570d48c4f2c268982907e99385118d7269853e113639fe297430c57e7aca"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-continuous-three-1383-volume02-20261024"
+    },
+    {
+      "id": "professional-fixed-treadle-wheel-and-suspended-shaft-stand-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "professional",
+      "style": "source-preserved-low-poly",
+      "title": "Fixed Treadle Wheel and Suspended Shaft Stand",
+      "description": "One newly authored complete fixed tall treadle and suspended flexible-shaft tool stand appearance. A low open ground frame joins two low axle supports, a large open spoked wheel and an entire hinged footboard with side connecting rod and eccentric pin. An independent tall rear standard carries a small high pulley and one complete closed belt appearance rising from the large wheel. A single continuous gently arched thick flexible conduit reaches from the high axle housing to one hanging blunt handpiece, retained at a small side rest on the standard. All belong to one full apparatus, not loose tools counted separately. There is no scrollsaw worktable, pair of horizontal saw arms or vertical strip, and no drill-press worktable, rigid quill, enclosed head or motor. No old source geometry is imported. One model, zero scenes, four opaque constant PBR materials, metres, Z up, horizontally bounds-centred ground origin. Fixed illustrative overlaps only, not an engineered moving assembly. No drill bit, patient, medical use, power transmission, belt tracking, flexible drive internals, rotation, cutting, operating instructions, manufacture, stability or safety claim. Rigging, animation and interaction are not made and are outside this static delivery.",
+      "bounds": {
+        "x": 0.5440000295639038,
+        "y": 0.6700000166893005,
+        "z": 1.4017425775527954,
+        "unit": "m"
+      },
+      "triangles": 2860,
+      "materials": 4,
+      "files": {
+        "glb": {
+          "path": "assets/professional/professional-fixed-treadle-wheel-and-suspended-shaft-stand-01/v1.0.0/model.glb",
+          "size": 263116,
+          "sha256": "065bde62ff803f48db67dbdc44e3da310576fa86d0d6236fe30ba989475ab04f"
+        },
+        "blend": {
+          "path": "assets/professional/professional-fixed-treadle-wheel-and-suspended-shaft-stand-01/v1.0.0/source.blend",
+          "size": 1017312,
+          "sha256": "68e5d7c33a4fe58ffc4e8ddfdf881c3df3195c40f97433b009ab61fdfb5ded3e"
+        },
+        "generator": {
+          "path": "assets/professional/professional-fixed-treadle-wheel-and-suspended-shaft-stand-01/v1.0.0/generate.py",
+          "size": 19354,
+          "sha256": "08bfd7b19211b187f2ba94bb190838a82c64fe6bf2dbe0d8296c58cb83e3f3f4"
+        },
+        "render": {
+          "path": "assets/professional/professional-fixed-treadle-wheel-and-suspended-shaft-stand-01/v1.0.0/thumbnail.png",
+          "size": 479928,
+          "sha256": "1bf3b371acfde20a284aed3651f847327d2685b5f5df1978f51d4ebef07515e8"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-continuous-three-1383-volume02-20261024"
     }
   ]
 }
