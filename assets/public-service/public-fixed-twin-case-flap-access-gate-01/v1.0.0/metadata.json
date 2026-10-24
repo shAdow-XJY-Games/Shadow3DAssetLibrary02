@@ -1,0 +1,42 @@
+{
+  "id": "public-fixed-twin-case-flap-access-gate-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "public-service",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Twin Case Flap Access Gate",
+  "description": "One original complete single-lane flap access gate appearance. One full low mounting plinth joins two complete hollow waist-height cases. Each case has a genuine bounded slit through its inner wall, a finite internal transverse pivot and rear support, and one whole broad fan-shaped opaque flap partially extending into the central lane. Raised top caps, complete reader housings with separate opaque scan faces and finite front status insets complete the pair as one integrated assembly. The middle small gap is the fixed display between flap tips, not an accepted walk-through clearance. No old tripod arm rotor or long counterweighted boom geometry is imported: the paired vertical-plane blades enter their own side chambers instead of turning three rods around one exposed hub or raising a long beam over a roadway. Three constant opaque PBR materials, metres Z up, true XY centred, full plinth sole Z0; one complete prop, zero scenes. No motion sweep, ticket validation, access-control electronics, lock state, crowd control, emergency egress, user passage, installation, load, anti-pinch or safety performance claim.",
+  "bounds": {
+    "x": 1.44,
+    "y": 1.26,
+    "z": 1.122,
+    "unit": "m"
+  },
+  "triangles": 964,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/public-service/public-fixed-twin-case-flap-access-gate-01/v1.0.0/model.glb",
+      "size": 42100,
+      "sha256": "21436c52a4b172da63b62e29f450da2cfddd2de3a30c1e28a585dd09a886506d"
+    },
+    "blend": {
+      "path": "assets/public-service/public-fixed-twin-case-flap-access-gate-01/v1.0.0/source.blend",
+      "size": 647584,
+      "sha256": "7d825646ea7fd9447305b45061add3b4227b27b30db8c8c173b66e1131ff6a48"
+    },
+    "generator": {
+      "path": "assets/public-service/public-fixed-twin-case-flap-access-gate-01/v1.0.0/generate.py",
+      "size": 11143,
+      "sha256": "6489154a51ad517b8eee3f1381272c9743f88ee5d1de26f9de18406e4992ab33"
+    },
+    "render": {
+      "path": "assets/public-service/public-fixed-twin-case-flap-access-gate-01/v1.0.0/thumbnail.png",
+      "size": 459747,
+      "sha256": "52923eddea5940e0d42878d5706648333aaf1d2937c2cf57149cf5d4288c22bb"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "industrial-fixed-grooved-former-and-lever-tube-bender-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "industrial",
+  "style": "source-preserved-low-poly",
+  "title": "Fixed Grooved Former And Lever Tube Bender",
+  "description": "One newly authored complete static bench-base lever tube-bender appearance. A broad base with two finite transverse ground feet carries a short pedestal and full vertical pivot. A complete large circular former has a genuinely recessed circumferential side groove and a true occupied bore. Two spaced whole swing-fork cheeks carry a smaller independently grooved follower roller on a full secondary axle. A long radial lever with a complete dark grip joins the upper fork cheek. The empty interval between both grooved wheels is real geometry, and no tube or workpiece is present. All geometry newly authored, not a rack press with its ram removed, a sheet brake shortened or components extracted from either. One complete connected prop, zero scenes, four opaque constant PBR materials. Fixed intentional root overlaps are not bearing or tooling fits. Static illustrative tool only: no bending, force, travel, bend radius, material processing, actuation, manufacture, mounting, installation, stability or safety guarantee.",
+  "bounds": {
+    "x": 0.6625436544418335,
+    "y": 0.43050703406333923,
+    "z": 0.3149999976158142,
+    "unit": "m"
+  },
+  "triangles": 2100,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/industrial/industrial-fixed-grooved-former-and-lever-tube-bender-01/v1.0.0/model.glb",
+      "size": 187428,
+      "sha256": "d2921a7bcedfcf362ec18231de5abf27bca54617606da143e3660348b39ff3bb"
+    },
+    "blend": {
+      "path": "assets/industrial/industrial-fixed-grooved-former-and-lever-tube-bender-01/v1.0.0/source.blend",
+      "size": 856928,
+      "sha256": "8b83621dda39accacc5b9f6e45e94e73412ff7e98a0c525a0b8a2d1e7cabd79b"
+    },
+    "generator": {
+      "path": "assets/industrial/industrial-fixed-grooved-former-and-lever-tube-bender-01/v1.0.0/generate.py",
+      "size": 17148,
+      "sha256": "adb20f270f24b19b65f3a2354efb40a01a3460d1de5ec17c863546946968b8f6"
+    },
+    "render": {
+      "path": "assets/industrial/industrial-fixed-grooved-former-and-lever-tube-bender-01/v1.0.0/thumbnail.png",
+      "size": 492988,
+      "sha256": "c78f97fc5b48494411c9b614daae5b8903ea7240c9cb4925ca709cc6bce35b53"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
