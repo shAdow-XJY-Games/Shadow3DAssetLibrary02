@@ -1119,6 +1119,11 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary02",
       "commit": "563ea7be34bd90a2c586d662b8cde58af597bd73"
+    },
+    "original-continuous-fifteen-1363-volume02-20261024": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary02",
+      "commit": "b933148298b90c917c64c87046ca94ac3ad48247"
     }
   },
   "assets": [
@@ -32339,6 +32344,651 @@
       "status": "verified",
       "license": "All rights reserved",
       "sourceId": "original-continuous-seven-1348-volume02-20261024"
+    },
+    {
+      "id": "agriculture-fixed-clamp-and-fork-shaft-fruit-peeler-01",
+      "version": "1.0.0",
+      "category": "modular",
+      "assetKind": "prop",
+      "theme": "agriculture",
+      "style": "warm-handcrafted-village",
+      "title": "Fixed Clamp and Fork-Shaft Fruit Peeler",
+      "description": "One newly authored whole table-clamped hand-crank fruit-peeling device in a static empty pose. One open C-clamp casting grows into a tall short shaft-bearing boss, a horizontal fruit-carrier shaft ends in three long tapered prongs, and its opposite end carries a real offset crank and thick grip. An independent curved side arm reaches an open-loop blade carrier beside the fruit axis. A lower pressure screw and broad pad complete the clamp opening. This is not the old tall-post can opener with two cutting wheels, nor a vertical lever citrus press. Empty static art prop, one model and zero scenes; no actual cutting, peeling, coring, food-contact, adjustment or safe clamping performance is claimed.",
+      "bounds": {
+        "x": 0.551999986,
+        "y": 0.101000004,
+        "z": 0.335999995,
+        "unit": "m"
+      },
+      "triangles": 692,
+      "materials": 3,
+      "files": {
+        "glb": {
+          "path": "assets/agriculture/agriculture-fixed-clamp-and-fork-shaft-fruit-peeler-01/v1.0.0/model.glb",
+          "size": 41564,
+          "sha256": "06037ac79d594d67005cc0621bf3018990f387dc7a013db72757c97dac655f28"
+        },
+        "blend": {
+          "path": "assets/agriculture/agriculture-fixed-clamp-and-fork-shaft-fruit-peeler-01/v1.0.0/source.blend",
+          "size": 585716,
+          "sha256": "dd3f7136b97e1a7e8955ddc9aaa3a7e22273ccfac24371a4642e339a7d17a936"
+        },
+        "generator": {
+          "path": "assets/agriculture/agriculture-fixed-clamp-and-fork-shaft-fruit-peeler-01/v1.0.0/generate.py",
+          "size": 29854,
+          "sha256": "45c31699bcbf022496c68f3e8983dadbd50632ae6e620d7b408e1345a5df6541"
+        },
+        "render": {
+          "path": "assets/agriculture/agriculture-fixed-clamp-and-fork-shaft-fruit-peeler-01/v1.0.0/thumbnail.png",
+          "size": 485478,
+          "sha256": "69a2b2479dfc7b38624d4f234b7385aac3852a8326785af30c72508d06f95653"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-continuous-fifteen-1363-volume02-20261024"
+    },
+    {
+      "id": "animal-static-long-bill-deep-pouch-pelican-01",
+      "version": "1.0.0",
+      "category": "modular",
+      "assetKind": "prop",
+      "theme": "animal",
+      "style": "warm-handcrafted-village",
+      "title": "Static Long-Bill Deep-Pouch Pelican",
+      "description": "One newly authored whole stylised pelican-like bird in a fixed grounded pose. A deep horizontal torso continues into a thick curved rising neck and small head. Its disproportionately long narrow upper bill lies above a genuinely deep sagging lower throat-pouch exterior, forming a broad hanging keel near the head and tapering together at the far tip. Two full folded wing lobes lie on the body, short legs end in broad webbed feet, and small eyes are rooted in the head. Entire body, pouch and bill sections are new, not a lengthened old wading-bird beak or old duck arrays. One static animal prop, zero scenes. The mouth is closed exterior art, not an internal airway or articulated pouch. No precise species, anatomy, feeding, flight, swimming, rig or biological performance claim.",
+      "bounds": {
+        "x": 0.79400003,
+        "y": 2.710000038,
+        "z": 1.440000057,
+        "unit": "m"
+      },
+      "triangles": 1428,
+      "materials": 4,
+      "files": {
+        "glb": {
+          "path": "assets/animal/animal-static-long-bill-deep-pouch-pelican-01/v1.0.0/model.glb",
+          "size": 81636,
+          "sha256": "04b2baac2525a8126d6a8988fde72cda8567fbec0705d179ba382e29030ed705"
+        },
+        "blend": {
+          "path": "assets/animal/animal-static-long-bill-deep-pouch-pelican-01/v1.0.0/source.blend",
+          "size": 620748,
+          "sha256": "06520fd0e228acb3d1d1b9d7f036d6eb7ab5f2807b65f50205d999ac16a0a76f"
+        },
+        "generator": {
+          "path": "assets/animal/animal-static-long-bill-deep-pouch-pelican-01/v1.0.0/generate.py",
+          "size": 29551,
+          "sha256": "4d2559f6c5bf95f9efb773d4d9adda3e865fdd9d905ea326884ea21f50fa9e8d"
+        },
+        "render": {
+          "path": "assets/animal/animal-static-long-bill-deep-pouch-pelican-01/v1.0.0/thumbnail.png",
+          "size": 476325,
+          "sha256": "1df96c4026d819360a666da9d53bee687ff3f6286f5d202341e2cc774ea1d547"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-continuous-fifteen-1363-volume02-20261024"
+    },
+    {
+      "id": "animal-static-whole-fleece-and-coiled-horn-ram-01",
+      "version": "1.0.0",
+      "category": "modular",
+      "assetKind": "prop",
+      "theme": "animal",
+      "style": "warm-handcrafted-village",
+      "title": "Static Whole-Fleece Coiled-Horn Ram",
+      "description": "One newly authored whole stylised ram-like sheep in a fixed four-foot stance. The deep round fleece torso has one continuous scalloped surface, not a collection of detached wool balls. Its short thick neck merges into a descending blunt head, with two small outward ears, lateral eyes and two thick tapered open horn coils beside the head. Four medium stocky legs meet broad dark split-hoof outlines; a short downward tail completes the body. All body sections, complete horn paths, head and limb proportions are new rather than a recoloured pig or deer with its antlers replaced. One static animal prop, zero scenes. No exact breed, anatomical, horn function, locomotion, husbandry or handling claim.",
+      "bounds": {
+        "x": 0.815100014,
+        "y": 1.735703945,
+        "z": 1.199574947,
+        "unit": "m"
+      },
+      "triangles": 2548,
+      "materials": 3,
+      "files": {
+        "glb": {
+          "path": "assets/animal/animal-static-whole-fleece-and-coiled-horn-ram-01/v1.0.0/model.glb",
+          "size": 144484,
+          "sha256": "b0e653a1c6c56bd1cf54fa714d33776d9e32a5590efd9b2c803fb0a76e7d0e98"
+        },
+        "blend": {
+          "path": "assets/animal/animal-static-whole-fleece-and-coiled-horn-ram-01/v1.0.0/source.blend",
+          "size": 668292,
+          "sha256": "4ba39bb4db3ef3af7025c8bddb5c2d1a9d160288ca8a3b4120e06d29104329e1"
+        },
+        "generator": {
+          "path": "assets/animal/animal-static-whole-fleece-and-coiled-horn-ram-01/v1.0.0/generate.py",
+          "size": 30170,
+          "sha256": "36dc8b0bb34f175cd15dfda24d642280168ad6033a5be24621e8d799a1fb6b46"
+        },
+        "render": {
+          "path": "assets/animal/animal-static-whole-fleece-and-coiled-horn-ram-01/v1.0.0/thumbnail.png",
+          "size": 501825,
+          "sha256": "17a2d6cf3774d684cb6daa164dd53094d144e5fa347d762fcc94b97ff6ccde64"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-continuous-fifteen-1363-volume02-20261024"
+    },
+    {
+      "id": "cafe-fixed-twin-roll-and-extended-ring-tray-cup-sealer-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "cafe",
+      "style": "source-preserved-low-poly",
+      "title": "Fixed Twin Roll and Extended Ring Tray Cup Sealer",
+      "description": "One newly authored complete static countertop cup-sealing-machine-style appearance. A grounded wide base supports a tall rear enclosure and short overhead head with a fixed round underside platen exterior. A lower receiving tray is fixed extended in front on two whole parallel rails: its entire thick circular holder has a genuine open through-hole and a complete wide pull handle. Two separated full upper rolls stand on four side posts with complete transverse axles, joined visually along their lower tangents by one finite thick opaque web. Blank front controls and four full grounded feet finish the device. The whole high-case/overhead-head/extended-ring-tray/twin-roll arrangement is newly authored, not a waffle lid changed to a disk or a label tool enlarged. One prop zero scenes, three opaque materials, no cup, drink or loose film. Fixed appearance only: no complete internal film path, roll rotation, tray travel, heat, pressure, actual sealing, food hygiene, operation instructions, manufacture or equipment-safety claim.",
+      "bounds": {
+        "x": 0.3199999928474426,
+        "y": 0.546999990940094,
+        "z": 0.574999988079071,
+        "unit": "m"
+      },
+      "triangles": 1880,
+      "materials": 3,
+      "files": {
+        "glb": {
+          "path": "assets/cafe/cafe-fixed-twin-roll-and-extended-ring-tray-cup-sealer-01/v1.0.0/model.glb",
+          "size": 178236,
+          "sha256": "7654fa6e09ac8c1ebc9bfcc3d46195798979af769780fae45dfdd48ccbfce79d"
+        },
+        "blend": {
+          "path": "assets/cafe/cafe-fixed-twin-roll-and-extended-ring-tray-cup-sealer-01/v1.0.0/source.blend",
+          "size": 879680,
+          "sha256": "8a7227f9fc2d8f5f535dd168eb56f6d855b6ffb8473a6b5cdb20e48291140e95"
+        },
+        "generator": {
+          "path": "assets/cafe/cafe-fixed-twin-roll-and-extended-ring-tray-cup-sealer-01/v1.0.0/generate.py",
+          "size": 16166,
+          "sha256": "157641816848cdb24e7be75a35ad8037f8d07d2627ef65409e41a540f4de915a"
+        },
+        "render": {
+          "path": "assets/cafe/cafe-fixed-twin-roll-and-extended-ring-tray-cup-sealer-01/v1.0.0/thumbnail.png",
+          "size": 527774,
+          "sha256": "25a45af94a99ea75d889dd3c12281577487d48829aaa6435d1a2e01aec0c6f88"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-continuous-fifteen-1363-volume02-20261024"
+    },
+    {
+      "id": "fantasy-fixed-open-jaw-and-curled-tongue-mimic-chest-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "fantasy",
+      "style": "S01-clean-geometric",
+      "title": "Fixed Open Jaw and Curled Tongue Mimic Chest",
+      "description": "One original complete stylized fantasy mimic-chest creature in a fixed open-mouth pose: a continuous thick hollow eight-corner lower jaw, a separately raised continuous barrel-vault upper-jaw shell, two rows of actual projecting ivory fangs with lateral teeth, one broad continuously swept curled tongue emerging from the mouth and four short grounded creature feet. Whole rear jaw joint and shaped upper brow ridges belong to the creature. No old freezer, toy box or closed book meshes imported. The arched upper shell, inward fangs and curved organic tongue form one readable monster silhouette rather than an empty cabinet recolour or scattered loot. Three opaque constant PBR materials, metre scale, centred ground datum, one complete model and zero scenes. Stylized nonhuman fantasy art only, no animation, biting simulation, real anatomy, rigging, game mechanics, collision, manufacture or safety claim.",
+      "bounds": {
+        "x": 1.208,
+        "y": 1.3597261056223726,
+        "z": 1.1773191035380517,
+        "unit": "m"
+      },
+      "triangles": 564,
+      "materials": 3,
+      "files": {
+        "glb": {
+          "path": "assets/fantasy/fantasy-fixed-open-jaw-and-curled-tongue-mimic-chest-01/v1.0.0/model.glb",
+          "size": 51000,
+          "sha256": "feeb7271b2564a49737493346e58b08739940b475c519c28aaebad7917f1208f"
+        },
+        "blend": {
+          "path": "assets/fantasy/fantasy-fixed-open-jaw-and-curled-tongue-mimic-chest-01/v1.0.0/source.blend",
+          "size": 686204,
+          "sha256": "7e489a50516580e8cbc75540a6f8c285dc022df7c3e67bd48228997287b2f25a"
+        },
+        "generator": {
+          "path": "assets/fantasy/fantasy-fixed-open-jaw-and-curled-tongue-mimic-chest-01/v1.0.0/generate.py",
+          "size": 12365,
+          "sha256": "fffc5f1e238176381a7001d8fc5e5a2e4f724e7d18069b4276a08cc49b70e823"
+        },
+        "render": {
+          "path": "assets/fantasy/fantasy-fixed-open-jaw-and-curled-tongue-mimic-chest-01/v1.0.0/thumbnail.png",
+          "size": 543393,
+          "sha256": "cb2237785aa7ca8d769cb73b7bf662ff1a61f9238ae8a70a6f9461a50866acbc"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-continuous-fifteen-1363-volume02-20261024"
+    },
+    {
+      "id": "fantasy-fixed-rooted-three-claw-crystal-totem-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "fantasy",
+      "style": "S01-clean-geometric",
+      "title": "Fixed Rooted Three Claw Crystal Totem",
+      "description": "One original complete static fantasy crystal totem: an asymmetrically winding wood-like central stem joins three sweeping rooted feet with finite ground soles and three independently editable inward-curving tapered crown claws around one complete double-ended octagonal opaque crystal. The claw routes spread out from the stem, curve around the crystal body and turn back toward its upper point; restrained whole stem bindings finish the object. No museum crystal-cluster mesh or carved rune slab imported, no new object made by changing glyphs, prism counts or pedestal height. One newly drawn whole rooted support-and-held-core silhouette, three opaque untextured PBR materials, metre units and horizontally centred ground origin. One model and zero scenes. Invented decorative fantasy art, not a real plant or religious object; no light emission, transparency, magic effect, motion, load, stability or safety performance claimed.",
+      "bounds": {
+        "x": 0.9719025186066437,
+        "y": 0.8564184897217512,
+        "z": 2.14,
+        "unit": "m"
+      },
+      "triangles": 1044,
+      "materials": 3,
+      "files": {
+        "glb": {
+          "path": "assets/fantasy/fantasy-fixed-rooted-three-claw-crystal-totem-01/v1.0.0/model.glb",
+          "size": 69540,
+          "sha256": "74c133037add136e086aa9cae6ccb8e21adece843417196c23494d54bb29bbff"
+        },
+        "blend": {
+          "path": "assets/fantasy/fantasy-fixed-rooted-three-claw-crystal-totem-01/v1.0.0/source.blend",
+          "size": 633368,
+          "sha256": "eccb55ecebd9f51d0f0e359a0f7fb7f24d310fed6e8f349055d6c349f4b886cd"
+        },
+        "generator": {
+          "path": "assets/fantasy/fantasy-fixed-rooted-three-claw-crystal-totem-01/v1.0.0/generate.py",
+          "size": 11207,
+          "sha256": "74ca2a7ddf62c2ecf8f9b99d89b4856c848e4da60c2b7d4598d125bc2247a1a8"
+        },
+        "render": {
+          "path": "assets/fantasy/fantasy-fixed-rooted-three-claw-crystal-totem-01/v1.0.0/thumbnail.png",
+          "size": 366247,
+          "sha256": "91d9e87ecf3d9796a29c89d17ec915afca4fc8616a38ad6ac06b148b0984694b"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-continuous-fifteen-1363-volume02-20261024"
+    },
+    {
+      "id": "interior-fixed-deployed-scissor-link-attic-stair-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "interior",
+      "style": "S01-clean-geometric",
+      "title": "Fixed Deployed Scissor Link Attic Stair",
+      "description": "One original complete fixed deployed attic stair exterior with two layered scissor-link side chains, explicit outer end-node pins and seven full horizontal treads carried on separate transverse crossing axes distributed along the inclined chain. A whole true open-through ceiling curb, two fixed top hangers, separate lowered hatch and whole bottom shoes complete the module. No long segmented rigid side rails are present. Unlike the earlier three-section attic ladder, the stair support graph is a sequence of crossed side links with each tread at its own crossing axis; unlike the earlier scissor platform, there is no single lifted top deck above one paired X. Whole new geometry, not repeated copies of either asset. Three opaque PBR materials, metres and centred ground origin, one model and zero scenes. Fixed exterior only: ceiling curb is an uninstalled mounting interface without host ceiling. No contracting motion, sliding fit, locking, mechanism collision, climbing, load, accessibility, installation or building-safety capability is supplied.",
+      "bounds": {
+        "x": 0.92,
+        "y": 2.2195199697885153,
+        "z": 2.4507460674722212,
+        "unit": "m"
+      },
+      "triangles": 1920,
+      "materials": 3,
+      "files": {
+        "glb": {
+          "path": "assets/interior/interior-fixed-deployed-scissor-link-attic-stair-01/v1.0.0/model.glb",
+          "size": 124592,
+          "sha256": "441aeaeee010e3acefe2aeb7c0a2da989092a59bef2c5c0d957351451cfa5ed1"
+        },
+        "blend": {
+          "path": "assets/interior/interior-fixed-deployed-scissor-link-attic-stair-01/v1.0.0/source.blend",
+          "size": 994860,
+          "sha256": "49e81d0ea2569fea8be276cf08159a6d3125ee7e6f514b80c2d9ae231d9ac564"
+        },
+        "generator": {
+          "path": "assets/interior/interior-fixed-deployed-scissor-link-attic-stair-01/v1.0.0/generate.py",
+          "size": 11300,
+          "sha256": "09a0c002c25fb3b228e89dab351702601668050395e7948f5020e253f5bdac5b"
+        },
+        "render": {
+          "path": "assets/interior/interior-fixed-deployed-scissor-link-attic-stair-01/v1.0.0/thumbnail.png",
+          "size": 423468,
+          "sha256": "5587fcf765039cb0ff62b0215ba767dcbcc24b0f67079c65a9ebd58fa28e9663"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-continuous-fifteen-1363-volume02-20261024"
+    },
+    {
+      "id": "laboratory-fixed-sidewheel-and-front-carriage-sectioning-display-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "laboratory",
+      "style": "source-preserved-low-poly",
+      "title": "Fixed Sidewheel and Front Carriage Sectioning Display",
+      "description": "One newly authored complete fixed tabletop rotary sectioning-machine appearance. One low footed base supports a compact upright enclosed side-wheel body, a separate front vertical guide and sliding carriage, a forward empty two-jaw specimen clamp, and a lower transverse holder carrying one finite blunt rectangular plate. A large open handwheel on the side has a real hub, four spokes, an outer ring and a separate eccentric grip. The lower holder has two complete supporting cheeks and a cross bridge, not a horizontal ram or a guarded circular cutting disk. No specimen, slice, liquid, scale, exposed working blade edge or imported old geometry. One whole prop and zero scenes; four opaque constant PBR materials, metres, Z up and horizontally bounds-centred ground origin. All interfaces are fixed overlap illustrations. No working linkage, feed motion, cutting capability, biological preparation, medical utility, accuracy, manufacture or safe handling is claimed.",
+      "bounds": {
+        "x": 0.4065000116825104,
+        "y": 0.4000000059604645,
+        "z": 0.35499998927116394,
+        "unit": "m"
+      },
+      "triangles": 1424,
+      "materials": 4,
+      "files": {
+        "glb": {
+          "path": "assets/laboratory/laboratory-fixed-sidewheel-and-front-carriage-sectioning-display-01/v1.0.0/model.glb",
+          "size": 136356,
+          "sha256": "47890c557dfecd0e6e22ae4b37b566dc7003d1f2e72042d9ad943b1592cbbbef"
+        },
+        "blend": {
+          "path": "assets/laboratory/laboratory-fixed-sidewheel-and-front-carriage-sectioning-display-01/v1.0.0/source.blend",
+          "size": 823552,
+          "sha256": "f3f8092b6a13953e2a1281e5d768620e7c8a73aabc42dc99a7dcfac159ee35f1"
+        },
+        "generator": {
+          "path": "assets/laboratory/laboratory-fixed-sidewheel-and-front-carriage-sectioning-display-01/v1.0.0/generate.py",
+          "size": 17668,
+          "sha256": "eca9deeb55fc5dfa650e048a9f72450247af56aa96abcf10b2d55fbfc0264b7e"
+        },
+        "render": {
+          "path": "assets/laboratory/laboratory-fixed-sidewheel-and-front-carriage-sectioning-display-01/v1.0.0/thumbnail.png",
+          "size": 538002,
+          "sha256": "4025eb6f9d236fe629beec0332d21b9f5dd60316732a9e89af86f12961cc25cc"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-continuous-fifteen-1363-volume02-20261024"
+    },
+    {
+      "id": "professional-fixed-empty-cuff-gauge-and-bulb-display-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "professional",
+      "style": "source-preserved-low-poly",
+      "title": "Fixed Empty Cuff Gauge and Bulb Display",
+      "description": "One newly authored complete static cuff-gauge-and-bulb medical-profession visual display. A broad thick empty cylindrical cuff has full inner surfaces and a genuine open bore, plus one fixed overlapping exterior fastening tab. Two separate complete flexible hoses connect distinct lower cuff outlets to a full recessed blank round gauge case and a complete elongated bulb with neck and short valve exterior. The cuff, gauge housing and squeeze-bulb arrangement is newly authored rather than a stethoscope with a different terminal. One prop, zero scenes, three opaque materials. Fixed appearance only: no person, calibrated scale, reading, pressure or inflation, blood-pressure measurement, diagnosis, use instructions, manufacture, hygiene or medical-device performance or safety claim.",
+      "bounds": {
+        "x": 0.2460000067949295,
+        "y": 0.25783297419548035,
+        "z": 0.11900000274181366,
+        "unit": "m"
+      },
+      "triangles": 2384,
+      "materials": 3,
+      "files": {
+        "glb": {
+          "path": "assets/professional/professional-fixed-empty-cuff-gauge-and-bulb-display-01/v1.0.0/model.glb",
+          "size": 211500,
+          "sha256": "bba34259b4ef66fa4fba2f5816b095d76bd573a39f4d84d828d8f7ab3d20a884"
+        },
+        "blend": {
+          "path": "assets/professional/professional-fixed-empty-cuff-gauge-and-bulb-display-01/v1.0.0/source.blend",
+          "size": 865568,
+          "sha256": "c0fe57d99f51992784b06837b707beb5c657e8c1c0661465a1c6bce7b1e3905d"
+        },
+        "generator": {
+          "path": "assets/professional/professional-fixed-empty-cuff-gauge-and-bulb-display-01/v1.0.0/generate.py",
+          "size": 15325,
+          "sha256": "0c2536ac364a5e99a461f3135a4bc726c7e42ba5f724478508e70ee87bae002f"
+        },
+        "render": {
+          "path": "assets/professional/professional-fixed-empty-cuff-gauge-and-bulb-display-01/v1.0.0/thumbnail.png",
+          "size": 504140,
+          "sha256": "7cfb5bdf51991e411db818fe1521572cc140227625e8bbe4c6da11b8afb5f5aa"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-continuous-fifteen-1363-volume02-20261024"
+    },
+    {
+      "id": "sports-fixed-interlinked-chain-curtain-disc-basket-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "sports",
+      "style": "S01-clean-geometric",
+      "title": "Fixed Interlinked Chain-Curtain Disc Basket",
+      "description": "One newly authored complete static disc-golf-style target basket. A whole ground pedestal supports the central mast, broad upper suspension disc and separate deep open receiving basket. Twelve suspended chains each contain eight complete rectangular annular links with alternating planes, genuine open apertures and full opposed bar contact in one fixed interlocked pose. Their upper ends seat inside the suspension disc and lower ends meet a complete collar around the mast. Below, twelve continuous whole bottom-and-side wires meet a real central floor hub and full open upper rim, leaving a genuinely empty catching bowl. Unlike the old backboard basketball stand with straight net strands and an open bottom, this whole centred chain-curtain and lower catcher has no rear board or forward hoop; unlike the old horizontal crank sphere cage, it has no spherical enclosure, side axle or crank. Entire geometry newly authored, no old cage or net imported. Three opaque constant untextured PBR roles, metres, Z up and whole ground-centred origin. One complete prop, zero scenes; chains and links are not counted as independent assets. Static illustrative pose only: no disc-flight capture, rebound, chain dynamics, gameplay specification, stability, installation, load, manufacture or sporting-safety claim. No disc, player, scoring labels, textures or environment.",
+      "bounds": {
+        "x": 0.7,
+        "y": 0.7,
+        "z": 1.63,
+        "unit": "m"
+      },
+      "triangles": 5776,
+      "materials": 3,
+      "files": {
+        "glb": {
+          "path": "assets/sports/sports-fixed-interlinked-chain-curtain-disc-basket-01/v1.0.0/model.glb",
+          "size": 356628,
+          "sha256": "612c0fece36e9cbe409b64ea82d16a3590da17941fe57722675e5515908d422f"
+        },
+        "blend": {
+          "path": "assets/sports/sports-fixed-interlinked-chain-curtain-disc-basket-01/v1.0.0/source.blend",
+          "size": 1352800,
+          "sha256": "5ed1818ee42abdfed4120c96e8ac693876ff5eb11be8452d0cd13c890f7f67d1"
+        },
+        "generator": {
+          "path": "assets/sports/sports-fixed-interlinked-chain-curtain-disc-basket-01/v1.0.0/generate.py",
+          "size": 11862,
+          "sha256": "2ac8495fbd767b45cc2d5e1cb29d04d46d441681b9344025cd6a4de1cef99eeb"
+        },
+        "render": {
+          "path": "assets/sports/sports-fixed-interlinked-chain-curtain-disc-basket-01/v1.0.0/thumbnail.png",
+          "size": 396415,
+          "sha256": "3953db71d689381d585902b68a8b43568d201bb3e94d25d69ab731dee1b89cce"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-continuous-fifteen-1363-volume02-20261024"
+    },
+    {
+      "id": "sports-fixed-twin-guide-round-platform-speed-bag-stand-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "sports",
+      "style": "S01-clean-geometric",
+      "title": "Fixed Twin-Guide Round-Platform Speed Bag Stand",
+      "description": "One newly authored complete static speed-bag platform stand. Two long grounded runners and low triangular braces carry two complete tall polygonal guide posts and top/bottom cross ties. One fixed bridge has two real full-length matched-bore sleeves around those guides, rear lock-knob appearances, two forward cantilever rails and upper diagonal braces supporting a complete thick circular wooden rebound platform. A short actual underside boss and fixed connector enter one whole softly shouldered pear-shaped bag directly below the platform. This is not the previous long four-strap cylindrical heavy bag hung from a single tall eye, nor a cable/weight pulldown tower: the whole guided deck carriage and short direct bag-to-platform relationship are newly authored. All geometry new; only mature generic helpers reused. Four opaque constant untextured PBR roles, native metres and Z up, whole horizontally bounds-centred ground origin. One complete prop, zero scenes. Static fixed appearance only: no adjustment travel, sliding mechanism, hinge or swivel simulation, rebound behavior, punching response, exercise suitability, load rating, manufacture or equipment-safety claim. No athlete, text, textures or surrounding room.",
+      "bounds": {
+        "x": 0.8200000000000001,
+        "y": 1.12,
+        "z": 2.1175,
+        "unit": "m"
+      },
+      "triangles": 1756,
+      "materials": 4,
+      "files": {
+        "glb": {
+          "path": "assets/sports/sports-fixed-twin-guide-round-platform-speed-bag-stand-01/v1.0.0/model.glb",
+          "size": 99740,
+          "sha256": "4a81ccb72cc90d94895885b48c9cb8e951723abf3c3c777a29a973faf819c0bf"
+        },
+        "blend": {
+          "path": "assets/sports/sports-fixed-twin-guide-round-platform-speed-bag-stand-01/v1.0.0/source.blend",
+          "size": 732280,
+          "sha256": "3f86fd9004baa601b1998ea02d8f3bac400a7cdc5c3e0ffda8fee5e811750aff"
+        },
+        "generator": {
+          "path": "assets/sports/sports-fixed-twin-guide-round-platform-speed-bag-stand-01/v1.0.0/generate.py",
+          "size": 10964,
+          "sha256": "2a7d6239073bd591f5abeb258e3d264995ed4effe9aae2cb450a26b973c5a063"
+        },
+        "render": {
+          "path": "assets/sports/sports-fixed-twin-guide-round-platform-speed-bag-stand-01/v1.0.0/thumbnail.png",
+          "size": 400596,
+          "sha256": "2f247d5365777d1c7d7d80b95264bb0e16260d3735523c276469c658ee06cfc1"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-continuous-fifteen-1363-volume02-20261024"
+    },
+    {
+      "id": "tailoring-fixed-edge-bed-and-rear-thread-mast-overlock-machine-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "tailoring",
+      "style": "source-preserved-low-poly",
+      "title": "Fixed Edge Bed and Rear Thread Mast Overlock Machine",
+      "description": "One newly authored complete fixed tabletop overlock-sewing-machine-style exterior. A compact asymmetric case has a short projecting left head over a small outboard edge bed with a genuine needle-plate slot, a broad lower front enclosure and one full right-side handwheel. Separate blunt needle-bar and presser-foot appearances occupy the open edge-working gap. Four front tension-disc appearances are backed by the head, while an integrated rear platform holds four opaque whole cone exteriors under a tall complete mast and horizontal guide bar with four actual open eyelets. Four finite flat feet support the whole base. No large open C throat, dedicated sewing table, chair or foot treadle is copied from the old lockstitch workstation. All numeric geometry new; one prop zero scenes and three opaque materials. Static game art only: no fabric, cutting blade, continuous threading path, needle movement, actual tension, stitches, motor operation, manufacture, ergonomic or machine-safety claim.",
+      "bounds": {
+        "x": 0.35499998927116394,
+        "y": 0.3370000123977661,
+        "z": 0.48100000619888306,
+        "unit": "m"
+      },
+      "triangles": 3148,
+      "materials": 3,
+      "files": {
+        "glb": {
+          "path": "assets/tailoring/tailoring-fixed-edge-bed-and-rear-thread-mast-overlock-machine-01/v1.0.0/model.glb",
+          "size": 291852,
+          "sha256": "807059364ac8ab2541dd7f51f3ac003a79bf9f59c455a17319eaf2bc4fe40550"
+        },
+        "blend": {
+          "path": "assets/tailoring/tailoring-fixed-edge-bed-and-rear-thread-mast-overlock-machine-01/v1.0.0/source.blend",
+          "size": 1064032,
+          "sha256": "e50d91eaa8df6cb95c1791006a7d71fb60e39025d87eb03c35daca5b5bb20682"
+        },
+        "generator": {
+          "path": "assets/tailoring/tailoring-fixed-edge-bed-and-rear-thread-mast-overlock-machine-01/v1.0.0/generate.py",
+          "size": 16810,
+          "sha256": "45c78d96254106424add60d999e42b88703dfe6e3c97140c96fc35d2f837e21d"
+        },
+        "render": {
+          "path": "assets/tailoring/tailoring-fixed-edge-bed-and-rear-thread-mast-overlock-machine-01/v1.0.0/thumbnail.png",
+          "size": 499838,
+          "sha256": "17e5def6c66118156e9c251c5a2858bc9d818e8b638964518687ae002d9046a5"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-continuous-fifteen-1363-volume02-20261024"
+    },
+    {
+      "id": "technology-fixed-nested-shaft-and-radial-planetary-display-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "technology",
+      "style": "S01-clean-geometric",
+      "title": "Fixed Nested Shaft and Radial Planetary Display",
+      "description": "One newly authored complete static tabletop planetary-model display. A broad stepped ground base and three full turned columns support an annular upper deck, leaving an actual open lower bay with two independent toothed-disk appearances on complete upright shafts. A shaped side bearing block carries a full horizontal shaft, offset hand crank and grip. Above the deck, four complete truly bored concentric sleeves have different crown heights and independently carry whole bent radial arms, full outer vertical stems and closed faceted planet-model spheres. A separate complete central spindle supports the larger central sun-model sphere. The new low mechanism-base and nested-axis/radial-carrier whole relation is not an armillary ring cage with added balls or a gimballed flywheel with its rim removed; no old component geometry is reused. Four planets are subordinate parts of one illustrative device, not four separately counted models, and their arbitrary colours/sizes do not define the new asset. Closed editable solids, four opaque untextured constant PBR roles, metres, native Z up and actual horizontal bounds-centred ground datum. One model, zero scenes. Frozen fictional teaching-display exterior only: deliberate fixed overlaps and separated gear levels are not functioning bearings or a meshing drive. No motion, accurate planet identity, orbital position, astronomical time, orbital or body scale, gear ratio, calibration, instruction, manufacture, balance, stability, load, ergonomics or safety certification.",
+      "bounds": {
+        "x": 0.644104,
+        "y": 0.47,
+        "z": 0.593,
+        "unit": "m"
+      },
+      "triangles": 7088,
+      "materials": 4,
+      "files": {
+        "glb": {
+          "path": "assets/technology/technology-fixed-nested-shaft-and-radial-planetary-display-01/v1.0.0/model.glb",
+          "size": 371404,
+          "sha256": "3cd3e0391a0cc73881ab275c892761d8acd7dc867d76011cef2538310a02caba"
+        },
+        "blend": {
+          "path": "assets/technology/technology-fixed-nested-shaft-and-radial-planetary-display-01/v1.0.0/source.blend",
+          "size": 1051708,
+          "sha256": "e6c7c97e5da2353f30f34d8313370eaeece6c34527c8fb036bcfc271921a2099"
+        },
+        "generator": {
+          "path": "assets/technology/technology-fixed-nested-shaft-and-radial-planetary-display-01/v1.0.0/generate.py",
+          "size": 29428,
+          "sha256": "e5263829d8e5661fc77eb639884326f87022b886779632e5e8bf7bea92371641"
+        },
+        "render": {
+          "path": "assets/technology/technology-fixed-nested-shaft-and-radial-planetary-display-01/v1.0.0/thumbnail.png",
+          "size": 542209,
+          "sha256": "f651d9be36cc6e7080ba049382e77125c0ad5842dfcc42cf62f531a8e90857b6"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-continuous-fifteen-1363-volume02-20261024"
+    },
+    {
+      "id": "technology-fixed-round-screen-and-cross-stage-comparator-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "technology",
+      "style": "source-preserved-low-poly",
+      "title": "Fixed Round Screen and Cross Stage Comparator",
+      "description": "One newly authored complete fixed tabletop round-screen profile-comparator appearance. A broad footed base and integral-height rear support carry one large deep circular screen housing, a genuinely recessed opaque blank screen, and a separate short downward objective assembly under the housing. In front, a lower longitudinal guide frame, independent carriage, two transverse-direction rails and an upper open stage frame form two visibly distinct orthogonal slide levels. Two separate stemmed control knobs belong to the different levels. A complete side-supported short illuminator-like barrel with recessed opaque face points across the empty stage region. No workpiece, projected image, marked scale, crosshair, optical ray, old camera, bellows or imported geometry. One whole prop, zero scenes; four opaque constant PBR materials, metres, Z up and horizontally bounds-centred ground origin. Fixed overlap interfaces are artistic, not a functional mechanism. No projection, magnification, illumination, imaging, measurement, calibration, travel, adjustment, manufacture or safety capability is claimed.",
+      "bounds": {
+        "x": 0.5799999833106995,
+        "y": 0.5830000042915344,
+        "z": 0.9049999713897705,
+        "unit": "m"
+      },
+      "triangles": 2520,
+      "materials": 4,
+      "files": {
+        "glb": {
+          "path": "assets/technology/technology-fixed-round-screen-and-cross-stage-comparator-01/v1.0.0/model.glb",
+          "size": 224184,
+          "sha256": "2ebc21704bf609f4973b52fc718d5feffdb89e4ab8637533a6ec02198cfa5c86"
+        },
+        "blend": {
+          "path": "assets/technology/technology-fixed-round-screen-and-cross-stage-comparator-01/v1.0.0/source.blend",
+          "size": 918080,
+          "sha256": "bae06ce2f90008a29d50f653e87ca673194dcaebd5ad8e2c96114d64e906ebd5"
+        },
+        "generator": {
+          "path": "assets/technology/technology-fixed-round-screen-and-cross-stage-comparator-01/v1.0.0/generate.py",
+          "size": 17920,
+          "sha256": "5a7a3aa3599e33997fa397fb92b50e4e8ae4ab55aa1bf62597d5f4c81ae87385"
+        },
+        "render": {
+          "path": "assets/technology/technology-fixed-round-screen-and-cross-stage-comparator-01/v1.0.0/thumbnail.png",
+          "size": 512614,
+          "sha256": "210787a25c5d15a77d80db9bacbf97c94091812b26314b28d548cabccfd31ccf"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-continuous-fifteen-1363-volume02-20261024"
+    },
+    {
+      "id": "textile-fixed-slotted-circular-needle-bed-knitting-machine-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "textile",
+      "style": "S01-clean-geometric",
+      "title": "Fixed Slotted Circular Needle Bed Knitting Machine",
+      "description": "One newly authored complete fixed circular-knitting-device exterior. A thick whole rear C-clamp and upper cantilever support a fully open annular machine case. One connected needle cylinder has a continuous lower band and genuine open top slots; separate full blunt bent needle appearances rise through those slots. One continuous finite-thickness ribbed textile tube passes inside the annulus and hangs down with both ends truly open. A complete side drive housing, shaft, crank arm and thick grip, plus a tall mast, integrated full supply bobbin, high guide arm, real open eye and one continuous feed-yarn appearance, belong to this single device. The whole circular needle-bed and through-tube relation is newly authored, not the old C-arm sewing workstation, floor loom, current overlock edge-bed case, spool rack or yarn swift resized or recoloured. Needle count and fabric ribs are subordinate details, never separate new assets. Closed editable solids, four opaque untextured constant PBR roles, metres, native Z up and actual horizontal bounds-centred ground datum at the lower clamp jaw. One model, zero scenes, no table, operator, real stitches or cloth simulation. Fixed illustrative craft-device appearance only: no rotation, moving needles, actual knitting, yarn feed, tension, transmission, fastening fit, production rate, material performance, manufacture, load, stability, ergonomics or equipment-safety claim.",
+      "bounds": {
+        "x": 0.549,
+        "y": 0.499,
+        "z": 0.745,
+        "unit": "m"
+      },
+      "triangles": 10156,
+      "materials": 4,
+      "files": {
+        "glb": {
+          "path": "assets/textile/textile-fixed-slotted-circular-needle-bed-knitting-machine-01/v1.0.0/model.glb",
+          "size": 640952,
+          "sha256": "22720402a5b6377cc90535d35f8c1765abe4590754e9f5951d8716560a61ced0"
+        },
+        "blend": {
+          "path": "assets/textile/textile-fixed-slotted-circular-needle-bed-knitting-machine-01/v1.0.0/source.blend",
+          "size": 1279492,
+          "sha256": "b20a800c6f37604c4b06ebea57ffc06618cb5d35e83137fd1574d124095748a6"
+        },
+        "generator": {
+          "path": "assets/textile/textile-fixed-slotted-circular-needle-bed-knitting-machine-01/v1.0.0/generate.py",
+          "size": 30260,
+          "sha256": "b06e88bfc75b06ee8668bf6428c692af7b0e08dc203f9a4d99bdae1553093cbd"
+        },
+        "render": {
+          "path": "assets/textile/textile-fixed-slotted-circular-needle-bed-knitting-machine-01/v1.0.0/thumbnail.png",
+          "size": 538360,
+          "sha256": "a13963b17d05ae7624259ff350711105a60ff4d734cb79e32653c84590ba1811"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-continuous-fifteen-1363-volume02-20261024"
     }
   ]
 }
