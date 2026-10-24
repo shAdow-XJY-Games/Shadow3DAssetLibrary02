@@ -1,0 +1,42 @@
+{
+  "id": "animal-static-barrel-body-disc-snout-farm-pig-01",
+  "version": "1.0.0",
+  "category": "modular",
+  "assetKind": "prop",
+  "theme": "animal",
+  "style": "warm-handcrafted-village",
+  "title": "Static Barrel-Body Disc-Snout Farm Pig",
+  "description": "One newly authored whole stylised farm-pig-like animal in a fixed grounded stance. One broad low horizontal barrel torso narrows continuously through its short neck into a blunt head. A separate thick flattened oval snout disk is embedded on the front muzzle, with two small dark surface nostril indicators rather than claimed airway holes. Two broad thick folded ears project from the head, four short stocky legs rest in whole dark hoof-like feet with a real shallow front split, and a short tapering curled tail leaves the rear body. New whole body sections and appendage outlines, no old seated rabbit, long flat crocodile or tortoise body arrays imported. One static animal prop, zero scenes. Artistic appearance only; no exact breed, anatomy, hoof or airway function, behaviour, livestock practice, locomotion or safety claim.",
+  "bounds": {
+    "x": 0.75999999,
+    "y": 1.896504283,
+    "z": 0.800000012,
+    "unit": "m"
+  },
+  "triangles": 2084,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/animal/animal-static-barrel-body-disc-snout-farm-pig-01/v1.0.0/model.glb",
+      "size": 118484,
+      "sha256": "42d48381a9808031d0fc5a0747a0118a70b84feb9b8f4521c8c39cdcb170af3d"
+    },
+    "blend": {
+      "path": "assets/animal/animal-static-barrel-body-disc-snout-farm-pig-01/v1.0.0/source.blend",
+      "size": 651472,
+      "sha256": "0ce6ef74756fc821ced156e650a2174e4f8fb7c27f38ab542ce7b9a15f39973f"
+    },
+    "generator": {
+      "path": "assets/animal/animal-static-barrel-body-disc-snout-farm-pig-01/v1.0.0/generate.py",
+      "size": 30577,
+      "sha256": "b2959a640248f2a0653e11fb8aa72442d705c9ee4ab3f641ed2f28a327dd07ed"
+    },
+    "render": {
+      "path": "assets/animal/animal-static-barrel-body-disc-snout-farm-pig-01/v1.0.0/thumbnail.png",
+      "size": 482160,
+      "sha256": "a0234b70301322b18d20c57cce809c7fe4125b248477ea08597b3c572f0f78bd"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
