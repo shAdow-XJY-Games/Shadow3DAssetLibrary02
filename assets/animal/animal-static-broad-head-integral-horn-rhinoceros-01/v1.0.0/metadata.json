@@ -1,0 +1,42 @@
+{
+  "id": "animal-static-broad-head-integral-horn-rhinoceros-01",
+  "version": "1.0.0",
+  "category": "modular",
+  "assetKind": "prop",
+  "theme": "animal",
+  "style": "warm-handcrafted-village",
+  "title": "Static Broad-Head Integral-Horn Rhinoceros",
+  "description": "One newly authored whole stylised rhinoceros-like animal in a fixed four-foot pose. A heavy deep torso rises at the broad shoulders, then flows through a short thick neck into a long massive lowered head. Two unequal thick blunt-tipped nose horns are branches of that same connected body skin, not separate decorative cones or old pig arrays. Four full short column-like legs end in broad shallow three-lobed feet with finite soles. Small side ears, small eyes and a thin short rear tail complete the whole. All body, head, horn and foot boundaries are new. One static animal prop, zero scenes; no exact species, anatomy, horn function, gait, handling or wildlife biological claim.",
+  "bounds": {
+    "x": 0.920000017,
+    "y": 2.360800028,
+    "z": 1.289999962,
+    "unit": "m"
+  },
+  "triangles": 1352,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/animal/animal-static-broad-head-integral-horn-rhinoceros-01/v1.0.0/model.glb",
+      "size": 79140,
+      "sha256": "cdea1695c6b3bf3874e093fad9422c063b1e02ec4d94fa52c7474d12b650e3a6"
+    },
+    "blend": {
+      "path": "assets/animal/animal-static-broad-head-integral-horn-rhinoceros-01/v1.0.0/source.blend",
+      "size": 591920,
+      "sha256": "bd3eebf1e5380506f61949d24e46e446cb73597e6a2b6942def3ca947e04a48f"
+    },
+    "generator": {
+      "path": "assets/animal/animal-static-broad-head-integral-horn-rhinoceros-01/v1.0.0/generate.py",
+      "size": 29953,
+      "sha256": "17b60eb5859a0d333bca91c926fda92c4799fe376d5c9586ae925f918a55ccfa"
+    },
+    "render": {
+      "path": "assets/animal/animal-static-broad-head-integral-horn-rhinoceros-01/v1.0.0/thumbnail.png",
+      "size": 477988,
+      "sha256": "1ab978c2c6fd9885ba9ab42687346ae87aa46b610e41604cc8bb15be4f3e8a98"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

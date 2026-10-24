@@ -1,0 +1,42 @@
+{
+  "id": "kitchen-fixed-inclined-split-bed-and-open-grip-mandoline-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "kitchen",
+  "style": "source-preserved-low-poly",
+  "title": "Fixed Inclined Split Bed and Open Grip Mandoline",
+  "description": "One newly authored complete fixed inclined mandoline-style kitchen slicer visual exterior. A continuous thick open rectangular frame with an integral true upper hand opening carries two separate sloping full-width deck panels. One real transverse through-slot remains between the lower deck and a finite blunt metal-looking plate at the upper deck edge. Two raised long side guides, a complete rear U support with transverse pin and separate grounded foot pads complete the whole appliance. Newly authored original numeric geometry, not a four-face box grater flattened or a paper guillotine with a shorter cutting arm. One prop zero scenes, three opaque materials. Fixed display only: no food, hand, loose pusher, sharp edge, sliding or adjustment mechanism, slicing instructions, cutting performance, food hygiene/contact certification, stability, operation, manufacture or safety claim.",
+  "bounds": {
+    "x": 0.17800000309944153,
+    "y": 0.4440000057220459,
+    "z": 0.2054000049829483,
+    "unit": "m"
+  },
+  "triangles": 448,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/kitchen/kitchen-fixed-inclined-split-bed-and-open-grip-mandoline-01/v1.0.0/model.glb",
+      "size": 48052,
+      "sha256": "ec1b16782bc1a35cda3ae0d5864781df5f4ed01779db7c4214d3a64b58102e5c"
+    },
+    "blend": {
+      "path": "assets/kitchen/kitchen-fixed-inclined-split-bed-and-open-grip-mandoline-01/v1.0.0/source.blend",
+      "size": 648736,
+      "sha256": "2f7d9771542abf9b9fd0c712a4ff0fa8bc3c37d801cf8feb5e06eb0a14440a12"
+    },
+    "generator": {
+      "path": "assets/kitchen/kitchen-fixed-inclined-split-bed-and-open-grip-mandoline-01/v1.0.0/generate.py",
+      "size": 15321,
+      "sha256": "ebb86b2179efd3f58ffe76485cc101b28674013f630511216ae5dd212e4a1535"
+    },
+    "render": {
+      "path": "assets/kitchen/kitchen-fixed-inclined-split-bed-and-open-grip-mandoline-01/v1.0.0/thumbnail.png",
+      "size": 495270,
+      "sha256": "c050e2433b30c576b778f2a9dc0b39c515513d2693ae513c65fddbeed6a6ae6e"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

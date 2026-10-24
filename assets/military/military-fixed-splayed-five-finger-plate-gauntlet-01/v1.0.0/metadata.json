@@ -1,0 +1,42 @@
+{
+  "id": "military-fixed-splayed-five-finger-plate-gauntlet-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "military",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Splayed Five Finger Plate Gauntlet",
+  "description": "One complete original static five-finger metal gauntlet display: a single changing-width flared cuff and palm shell retains an explicit open wrist cavity, four separately splayed and gently curved continuous finger forms plus one lateral thumb carry fifteen solid dorsal plate segments and five small knuckle fasteners. Two complete annular cuff borders retain the wrist opening. The under-finger forms are solid display volumes, not claimed to provide wearable finger channels or functioning articulation. This is not the old closed padded boxing fist or a robot arm with two stepped jaws. All geometry newly authored, three opaque constant PBR materials, metres, ground datum and horizontal bounds centred. One model, no wearer or second glove. Nonweapon costume and military-fantasy art only: no hand fit, precise anatomy, working joints, protective or impact performance, manufacturing or safety claim.",
+  "bounds": {
+    "x": 0.2519949783920372,
+    "y": 0.4930016907019803,
+    "z": 0.12200000000000001,
+    "unit": "m"
+  },
+  "triangles": 1596,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/military/military-fixed-splayed-five-finger-plate-gauntlet-01/v1.0.0/model.glb",
+      "size": 103020,
+      "sha256": "e9db36a29ffb4039c166d5c8d5dac46e8847c7dd9af1cbfac3810f3d6c097aee"
+    },
+    "blend": {
+      "path": "assets/military/military-fixed-splayed-five-finger-plate-gauntlet-01/v1.0.0/source.blend",
+      "size": 732476,
+      "sha256": "ea496c9b97fbe6757bb4dc526c8bf8bd8fe1ebfc8a2eb7b14640368fa6fded42"
+    },
+    "generator": {
+      "path": "assets/military/military-fixed-splayed-five-finger-plate-gauntlet-01/v1.0.0/generate.py",
+      "size": 11545,
+      "sha256": "5e4227eeda47f82282ef3edc6e80b34320a501881cd490c9990ff48113af64a0"
+    },
+    "render": {
+      "path": "assets/military/military-fixed-splayed-five-finger-plate-gauntlet-01/v1.0.0/thumbnail.png",
+      "size": 345214,
+      "sha256": "f10ba96f00921d4e38d7e973400ee3afdc5da38893f9e5dc1abf4908b50443f0"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
