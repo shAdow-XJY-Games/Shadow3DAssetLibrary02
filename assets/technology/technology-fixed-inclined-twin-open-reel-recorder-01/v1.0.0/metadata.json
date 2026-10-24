@@ -1,0 +1,42 @@
+{
+  "id": "technology-fixed-inclined-twin-open-reel-recorder-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "technology",
+  "style": "source-preserved-low-poly",
+  "title": "Fixed Inclined Twin Open Reel Recorder",
+  "description": "One newly authored complete static open-reel audio-recorder deck appearance. A low inclined whole machine case on four finite feet carries two side-by-side open double-flange reels with separate stored-tape exterior masses, supported hubs and retaining caps. One continuous finite flat ribbon links the two masses through the lower head-and-guide area. A distinct low head cover, three guide posts, one pinch-roller appearance and a lower row of plain transport buttons and rotary controls complete the common deck. All numerical geometry is new, no old film-projector arms, reel meshes, lens or cable-drum components imported. One prop, zero scenes. Four opaque constant PBR materials. Reel windings are stylized exterior masses, not individually resolved tape layers. No recorded content, readable scales, audio recording or playback, electrical circuit, tape transport, magnetic effect, timing, speed, tension, compatibility, operation, manufacture or machinery safety claim.",
+  "bounds": {
+    "x": 0.7200000286102295,
+    "y": 0.5075323581695557,
+    "z": 0.34067922830581665,
+    "unit": "m"
+  },
+  "triangles": 4068,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/technology/technology-fixed-inclined-twin-open-reel-recorder-01/v1.0.0/model.glb",
+      "size": 374056,
+      "sha256": "708f0c54aade11d2a404eeaa8e6c3e14c6ec4a77bf8da462e4a7c14555fd0268"
+    },
+    "blend": {
+      "path": "assets/technology/technology-fixed-inclined-twin-open-reel-recorder-01/v1.0.0/source.blend",
+      "size": 1209056,
+      "sha256": "4cb4835be3a2cda955c0b27ce8557309e60f37bb326f7eb67464404cdcd52e48"
+    },
+    "generator": {
+      "path": "assets/technology/technology-fixed-inclined-twin-open-reel-recorder-01/v1.0.0/generate.py",
+      "size": 18573,
+      "sha256": "d69a49ae621281d108a4774c4e6cb6c45908e38eaf5bdc13c700542daef47935"
+    },
+    "render": {
+      "path": "assets/technology/technology-fixed-inclined-twin-open-reel-recorder-01/v1.0.0/thumbnail.png",
+      "size": 537515,
+      "sha256": "2bcf381b4ad25244b27757376ec7913c96f6561fb6e0e302f7997e08a4f1b27a"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

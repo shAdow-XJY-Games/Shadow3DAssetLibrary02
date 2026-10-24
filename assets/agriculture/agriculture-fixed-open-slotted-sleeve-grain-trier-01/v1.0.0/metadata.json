@@ -1,0 +1,42 @@
+{
+  "id": "agriculture-fixed-open-slotted-sleeve-grain-trier-01",
+  "version": "1.0.0",
+  "category": "modular",
+  "assetKind": "prop",
+  "theme": "agriculture",
+  "style": "warm-handcrafted-village",
+  "title": "Fixed Open Slotted-sleeve Grain Trier",
+  "description": "One newly authored complete fixed-open slotted-sleeve grain-trier appearance: a long thick outer tube has three genuine elongated front openings, an independent narrower inner tube has aligned actual openings and a visible inner cavity, and a complete blunt tapered closed lower end and fixed upper collar join both sleeves. A short upper stem carries one rounded transverse wood grip. All windows are real through-wall holes rather than dark decals, and the inner sleeve is complete geometry rather than a painted interior. One whole static prop, zero scenes. Not a solid soil-auger shaft, helical flight, sample rack or added slots on an imported tool. No penetration, sharpness, rotation, sample collection, sealing, food contact, fabrication, ergonomic or safety performance claim.",
+  "bounds": {
+    "x": 0.379999995,
+    "y": 0.088,
+    "z": 1.210000038,
+    "unit": "m"
+  },
+  "triangles": 2208,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/agriculture/agriculture-fixed-open-slotted-sleeve-grain-trier-01/v1.0.0/model.glb",
+      "size": 84496,
+      "sha256": "e869ee1e159b53bc817e46449824a140e7a8f9e235272df631299085cb6497a2"
+    },
+    "blend": {
+      "path": "assets/agriculture/agriculture-fixed-open-slotted-sleeve-grain-trier-01/v1.0.0/source.blend",
+      "size": 600832,
+      "sha256": "859f16483181819790e945285bb0a7c31a57fe0dcd299d018f1ca03639e54627"
+    },
+    "generator": {
+      "path": "assets/agriculture/agriculture-fixed-open-slotted-sleeve-grain-trier-01/v1.0.0/generate.py",
+      "size": 28850,
+      "sha256": "6642e2acc27acf28d781bbfcae60c299031426024df61d77df990051ce9f2030"
+    },
+    "render": {
+      "path": "assets/agriculture/agriculture-fixed-open-slotted-sleeve-grain-trier-01/v1.0.0/thumbnail.png",
+      "size": 471122,
+      "sha256": "3a994de6ec0f281cbd155d0be2c262eba25561e83593ad8527764e610c31f19f"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

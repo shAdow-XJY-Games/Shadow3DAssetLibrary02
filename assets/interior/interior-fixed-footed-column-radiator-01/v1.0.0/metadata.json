@@ -1,0 +1,42 @@
+{
+  "id": "interior-fixed-footed-column-radiator-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "interior",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Footed Column Radiator",
+  "description": "One original complete fixed footed column-radiator exterior. Five newly authored thick cast-looking sections each surround a real tall bevel-cornered opening; two full-length upper and lower headers join the thick end bands into one assembly. Four complete broad-soled feet, four header end bosses, one fixed lower valve branch/body/spindle/knob and a small capped upper vent finish the whole household heating silhouette. It is not a wall fan-coil cabinet resized or a cutaway boiler with more tubes: there is no outer appliance box, burner barrel, tube plate or simulated fire. All geometry new, three opaque constant PBR materials, metres, Z up, true grounded feet and horizontally centred envelope. One static prop, zero scenes, no room or external plumbing. Visible open column spaces are geometric openings, not a verified fluid circuit. No heating, pressure containment, water circulation, valve operation, installation, energy rating, burn protection, load or safety certification.",
+  "bounds": {
+    "x": 0.968,
+    "y": 0.29,
+    "z": 0.835,
+    "unit": "m"
+  },
+  "triangles": 1116,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/interior/interior-fixed-footed-column-radiator-01/v1.0.0/model.glb",
+      "size": 60672,
+      "sha256": "4403f318446d0b8604be26438b5e6bf06c4a0d237d5dbd2fb499cb467a0505f8"
+    },
+    "blend": {
+      "path": "assets/interior/interior-fixed-footed-column-radiator-01/v1.0.0/source.blend",
+      "size": 674132,
+      "sha256": "ee5d5ef2ef6266748f6d50b2e5a3031ddb0344553a5c91be934853017e55fffc"
+    },
+    "generator": {
+      "path": "assets/interior/interior-fixed-footed-column-radiator-01/v1.0.0/generate.py",
+      "size": 10459,
+      "sha256": "cd9d3b1cc1ca34dfc78403104a57b449820579c596ed50013d3c2d4d28dd3ee6"
+    },
+    "render": {
+      "path": "assets/interior/interior-fixed-footed-column-radiator-01/v1.0.0/thumbnail.png",
+      "size": 391552,
+      "sha256": "a408097c701e389bdba61c9f5f9b0d1793e191d7f9098a375aee1d847b4fcb0b"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "interior-fixed-part-retracted-lattice-gate-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "interior",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Part Retracted Lattice Gate",
+  "description": "One newly authored complete static partly retracted lattice entrance gate. Full opposed upright frame posts carry one continuous slotted overhead box track and a grounded lower guide. Five complete slotted vertical staves with independent upper rollers, carrier stems and lower shoes guide a connected three-height four-bay network of separate front/back diagonal links and real fixed crossover/end pins. One whole leading stile has a projecting pull loop and latch tongue; a separate receiver has a real strike recess across the remaining clear doorway. This is not a solid-panel folding screen, a scissor lifting platform turned upright or a repeated freestanding barrier. All geometry newly authored, three opaque constant PBR materials, metres, Z up and centred horizontal envelope. One complete isolated static opening fixture, zero scenes and no host building. Only the displayed fixed pose is represented: no extension kinematics, sliding or rolling operation, lock/security, pinch clearances, emergency egress, access, load, installation or safety certification.",
+  "bounds": {
+    "x": 2.21,
+    "y": 0.26339632807299884,
+    "z": 2.08,
+    "unit": "m"
+  },
+  "triangles": 4416,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/interior/interior-fixed-part-retracted-lattice-gate-01/v1.0.0/model.glb",
+      "size": 238592,
+      "sha256": "e51bdfa9e0794283eb1d9570749c1a12e29a7eaa29c5955e8305b96344af613d"
+    },
+    "blend": {
+      "path": "assets/interior/interior-fixed-part-retracted-lattice-gate-01/v1.0.0/source.blend",
+      "size": 1189312,
+      "sha256": "8f9fde2fedf002aaea26e0151062257d2d9de01c2ad4846bfda8bd7be8cfe910"
+    },
+    "generator": {
+      "path": "assets/interior/interior-fixed-part-retracted-lattice-gate-01/v1.0.0/generate.py",
+      "size": 11863,
+      "sha256": "dd1ae30f1dae7a60c5a1a3870061ad09c0f19847be913af830f3bee0a72761a0"
+    },
+    "render": {
+      "path": "assets/interior/interior-fixed-part-retracted-lattice-gate-01/v1.0.0/thumbnail.png",
+      "size": 413102,
+      "sha256": "33bee2ab1b5d5c871f9378a829cf5b91341ff9f30de9b24aed14b7edef1cca83"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

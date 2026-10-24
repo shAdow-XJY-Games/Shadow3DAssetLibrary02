@@ -1,0 +1,42 @@
+{
+  "id": "sports-fixed-twin-hoop-gymnastics-wheel-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "sports",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Twin Hoop Gymnastics Wheel",
+  "description": "One newly authored complete static twin-hoop gymnastics-wheel appearance. Two parallel whole thick open hoops rest directly on their own finite lowest facets and join through five complete cross-hoop members. Two low transverse support axes carry full foot platforms with genuine open U retention straps; the two side crossmembers carry fixed hand-grip sleeves. The entire central volume stays open without a hub, axle, radial spokes, outer support frame or hanging cabins. All numeric geometry is new: not the old observation wheel with its A-frame and gondolas removed, an enlarged hanging gymnastic ring, a vehicle wheel pair or counted accessory kit. Three opaque constant untextured PBR roles, metres, Z up and complete horizontal bounds-centred ground datum. One whole prop and zero scenes. Unoccupied fixed artistic display only: no rolling or acrobatic motion, balance, retention strength, athlete fit, competition dimensions, technique, exercise prescription, loading, manufacture or safety claim.",
+  "bounds": {
+    "x": 2.022,
+    "y": 0.62,
+    "z": 1.9987954562051724,
+    "unit": "m"
+  },
+  "triangles": 1692,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/sports/sports-fixed-twin-hoop-gymnastics-wheel-01/v1.0.0/model.glb",
+      "size": 79584,
+      "sha256": "088b2b4eea919e4a0a817384eaa226df5c5538987f78e56e9cb579ffa37ba8d3"
+    },
+    "blend": {
+      "path": "assets/sports/sports-fixed-twin-hoop-gymnastics-wheel-01/v1.0.0/source.blend",
+      "size": 677600,
+      "sha256": "1e8d3b2bf8b79998b9a39631832c258374b2ab9f3bd70eb240d776d73ba20a27"
+    },
+    "generator": {
+      "path": "assets/sports/sports-fixed-twin-hoop-gymnastics-wheel-01/v1.0.0/generate.py",
+      "size": 10526,
+      "sha256": "ef0ce9c074800c77b5b6a51b375331caecdf8db9fb8eb0454568ebeb266384aa"
+    },
+    "render": {
+      "path": "assets/sports/sports-fixed-twin-hoop-gymnastics-wheel-01/v1.0.0/thumbnail.png",
+      "size": 390837,
+      "sha256": "7966dff352376cc09106f46b17eef81a96e2e8771c5ec1b15a541ac8056680b2"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

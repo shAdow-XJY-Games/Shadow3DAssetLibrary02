@@ -1,0 +1,42 @@
+{
+  "id": "agriculture-fixed-open-headgate-handling-frame-01",
+  "version": "1.0.0",
+  "category": "modular",
+  "assetKind": "prop",
+  "theme": "agriculture",
+  "style": "warm-handcrafted-village",
+  "title": "Fixed Open Headgate Handling Frame",
+  "description": "One newly authored whole static livestock handling-frame appearance: two full grounded skids carry a narrow longitudinal open passage, three transverse post stations, paired low side kickboards, upper rails and an open rear entrance portal. The front portal contains two complete inward-waisted upright neck-bar leaves, each with fixed lower/upper bearing pins, leaving a visible narrow hourglass-shaped central opening. A fixed side release-handle silhouette belongs to the front frame. Not a semicircular pasture pocket gate, hay manger, ordinary extended fence or animal model. One complete prop, zero scenes. Fixed open display only: no animal use, restraint, veterinary efficacy, movement, locking, force, dimensions fitness, fabrication, loading, welfare or safety claim.",
+  "bounds": {
+    "x": 1.077000022,
+    "y": 2.400000095,
+    "z": 1.689838648,
+    "unit": "m"
+  },
+  "triangles": 592,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/agriculture/agriculture-fixed-open-headgate-handling-frame-01/v1.0.0/model.glb",
+      "size": 47248,
+      "sha256": "1e47b029067d195cd861686e750b99581db4e1cea896b4b7d08bce6ec5178eb5"
+    },
+    "blend": {
+      "path": "assets/agriculture/agriculture-fixed-open-headgate-handling-frame-01/v1.0.0/source.blend",
+      "size": 653884,
+      "sha256": "202e4f29d0d3ee458fbb4e1d1013f2f06851da4e614154ec3579a0fe008aef33"
+    },
+    "generator": {
+      "path": "assets/agriculture/agriculture-fixed-open-headgate-handling-frame-01/v1.0.0/generate.py",
+      "size": 29095,
+      "sha256": "1fce66b690cbfe7f11cf4f01f169bd70a848649560750af653b8c3958fe6df2d"
+    },
+    "render": {
+      "path": "assets/agriculture/agriculture-fixed-open-headgate-handling-frame-01/v1.0.0/thumbnail.png",
+      "size": 552878,
+      "sha256": "34e7e7e8721b99347f13023740e29ccf2163f6ab4ddd95012d1d317819fc5b7a"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
