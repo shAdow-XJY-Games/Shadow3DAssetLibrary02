@@ -1,0 +1,42 @@
+{
+  "id": "interior-fixed-part-raised-auditorium-seat-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "interior",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Part Raised Auditorium Seat",
+  "description": "One original complete fixed floor-mounted auditorium seat with two whole cast-style floor standards, broad fixing soles and rear back supports, two armrests, a separate broad back shell/cushion and one distinct thick seat pan/cushion held at 56 degrees on a full transverse pivot axle and end bosses. A fixed pan underside counterbalance exterior is visible; no actuation is provided. This is not a crossed-frame canvas camp chair or a continuous cantilever dining shell tilted as a whole: only the separate seat rises between fixed standards and back. All whole geometry is newly authored, three opaque PBR materials, metre scale and true XY-centred ground origin; one static model, no scene or occupant. No automatic return, spring force, human fit, seating comfort, load, installation, aisle clearance, fire or safety compliance claim.",
+  "bounds": {
+    "x": 0.71,
+    "y": 0.62,
+    "z": 1.025,
+    "unit": "m"
+  },
+  "triangles": 696,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/interior/interior-fixed-part-raised-auditorium-seat-01/v1.0.0/model.glb",
+      "size": 41728,
+      "sha256": "ba65369384aaaeb2ad6f2ec7f6d0839b36045e7554fb87a306b8fa380113a5ce"
+    },
+    "blend": {
+      "path": "assets/interior/interior-fixed-part-raised-auditorium-seat-01/v1.0.0/source.blend",
+      "size": 642352,
+      "sha256": "09acc8fee439aec4c47920177ac11ed138b0c6fee09d9502107fcba3b7235e24"
+    },
+    "generator": {
+      "path": "assets/interior/interior-fixed-part-raised-auditorium-seat-01/v1.0.0/generate.py",
+      "size": 10902,
+      "sha256": "a1a68760165ad0b17b685f1695df24abace755f202676df54dc16558794526c9"
+    },
+    "render": {
+      "path": "assets/interior/interior-fixed-part-raised-auditorium-seat-01/v1.0.0/thumbnail.png",
+      "size": 449489,
+      "sha256": "2d616e96dbfe316db7a182f25562673b09c199851cf275437c83e642b1a3e967"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

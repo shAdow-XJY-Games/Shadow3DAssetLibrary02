@@ -1,0 +1,42 @@
+{
+  "id": "kitchen-fixed-tilted-cylinder-and-side-crank-stuffer-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "kitchen",
+  "style": "source-preserved-low-poly",
+  "title": "Fixed Tilted Cylinder and Side Crank Stuffer",
+  "description": "One newly authored complete static upright hand-crank food-stuffer-style appearance in a fixed outward-tilted loading pose. A broad low base on four pads carries two whole side uprights and a top enclosed crank-head casing. A continuous thick cylindrical vessel with a real deep empty interior and floor tilts on two full side trunnions, exposing its whole rim below a separately raised round platen and long vertical stem. One lower thick tubular outlet appearance, a side drive stub, offset crank and separate grip complete the assembly. The outlet is a static short open-ended sleeve seated into the vessel wall; a continuous food-processing path is not claimed. Unlike the prior stave-basket fruit press, no stave gaps, annular basket hoops, shallow juice tray, transverse screw grip or collector spout exists; unlike the hand mincer, no horizontal barrel, hopper or pierced front grinding plate exists. One prop and zero scenes, three opaque materials, all new numeric assembly geometry. No food, liquid, pressure, processing, moving mechanism, screw engagement, food-contact/hygiene or equipment-safety claim.",
+  "bounds": {
+    "x": 0.5370000004768372,
+    "y": 0.3650779724121094,
+    "z": 0.8159999847412109,
+    "unit": "m"
+  },
+  "triangles": 1620,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/kitchen/kitchen-fixed-tilted-cylinder-and-side-crank-stuffer-01/v1.0.0/model.glb",
+      "size": 148812,
+      "sha256": "9cd7ca6b76ba14e920683974893530d10cde9bceb9b95cb97c0e1ec08ce2cc28"
+    },
+    "blend": {
+      "path": "assets/kitchen/kitchen-fixed-tilted-cylinder-and-side-crank-stuffer-01/v1.0.0/source.blend",
+      "size": 794112,
+      "sha256": "9e4dd09a86a20961ee3ca59e10c5f0ec4a68da0a3eab8ca674850a48bb3a5ab4"
+    },
+    "generator": {
+      "path": "assets/kitchen/kitchen-fixed-tilted-cylinder-and-side-crank-stuffer-01/v1.0.0/generate.py",
+      "size": 15604,
+      "sha256": "8b0bc9d1f9b76c298f2d297b676d525ba4e56bff825e981a8a84539b54b09f71"
+    },
+    "render": {
+      "path": "assets/kitchen/kitchen-fixed-tilted-cylinder-and-side-crank-stuffer-01/v1.0.0/thumbnail.png",
+      "size": 506882,
+      "sha256": "3bfbc3f2f68c1aeb529a2a3d0b8f0ddda416668307c473160fad3dd630af9318"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

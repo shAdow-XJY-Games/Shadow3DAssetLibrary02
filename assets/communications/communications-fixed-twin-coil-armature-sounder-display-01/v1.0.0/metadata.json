@@ -1,0 +1,42 @@
+{
+  "id": "communications-fixed-twin-coil-armature-sounder-display-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "communications",
+  "style": "source-preserved-low-poly",
+  "title": "Fixed Twin Coil Armature Sounder Display",
+  "description": "One newly authored complete static twin-coil telegraph-sounder appearance. A common chamfered wood board carries a low iron-yoke appearance, two vertical pole cores and two complete flanged bored bobbins with continuous copper-coloured winding appearances. A whole T-shaped armature lever spans above both pole tops and extends to a transverse pivot in two complete bored bearing standards. A front portal carries an isolated upper stop screw and blank knob; a rear post and continuous return-spring appearance reach the lever heel. Two separate terminal-post exteriors complete the same instrument. The air interval under the broad armature is real. No finger key, manual button, rotating armature, crank, commutator or old mesh is reused. One prop, zero scenes, four constant opaque PBR materials. Fixed deliberate root overlaps are not mechanical fits. No electrical circuit, wiring, voltage, current, magnetic force, movement, signaling, sound, spring response, contact adjustment, manufacture, handling or safety capability is claimed.",
+  "bounds": {
+    "x": 0.2800000011920929,
+    "y": 0.3400000035762787,
+    "z": 0.2669999897480011,
+    "unit": "m"
+  },
+  "triangles": 5644,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/communications/communications-fixed-twin-coil-armature-sounder-display-01/v1.0.0/model.glb",
+      "size": 492072,
+      "sha256": "dab331bcab8aefccd50c72e28ed20e1fe6b5fbb673bf4b10a510c6dd0420d76e"
+    },
+    "blend": {
+      "path": "assets/communications/communications-fixed-twin-coil-armature-sounder-display-01/v1.0.0/source.blend",
+      "size": 1305600,
+      "sha256": "5a3478d58c99a7b9d393c6e87b77f12a26d83fb3c1bf4ddadb0cd1248c9e1ab8"
+    },
+    "generator": {
+      "path": "assets/communications/communications-fixed-twin-coil-armature-sounder-display-01/v1.0.0/generate.py",
+      "size": 18744,
+      "sha256": "13ab51048499a121ca29e83af4bcd89da9ed9b14a43e66f2fb73ec8a3d8bb273"
+    },
+    "render": {
+      "path": "assets/communications/communications-fixed-twin-coil-armature-sounder-display-01/v1.0.0/thumbnail.png",
+      "size": 552412,
+      "sha256": "63765ec6fe2ba6659325eaa4e9de75328f92ef3a7f2131c9371cecdd8216d1a5"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
