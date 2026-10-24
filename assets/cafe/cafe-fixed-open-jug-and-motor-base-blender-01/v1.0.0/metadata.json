@@ -1,0 +1,42 @@
+{
+  "id": "cafe-fixed-open-jug-and-motor-base-blender-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "cafe",
+  "style": "source-preserved-low-poly",
+  "title": "Fixed Open Jug and Motor Base Blender",
+  "description": "One original complete static countertop jug-blender appearance. Four short grounded feet carry a chamfered motor-base housing with a blank front dial. A short collar supports a newly authored tapered chamfered thick-walled jug with a genuine deep open cavity, solid floor and continuous forward pouring lip. A whole open rectangular side handle meets its upper and lower wall. A small fixed hub and four blunt thick paddles lie at the jug floor. Three opaque untextured PBR materials; the jug is intentionally opaque, not glass. Entire geometry newly authored, not the serving pitcher transplanted or a dough-mixer bowl resized. One prop and zero scenes. Fixed open-top display only; no lid, cable, internal motor or circuitry, food, liquid, motion, blending instructions, powered function, capacity, hygiene or safety claim. Hidden lower paddles are not claimed visible from every camera.",
+  "bounds": {
+    "x": 0.30399999022483826,
+    "y": 0.26499998569488525,
+    "z": 0.47999998927116394,
+    "unit": "m"
+  },
+  "triangles": 1006,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/cafe/cafe-fixed-open-jug-and-motor-base-blender-01/v1.0.0/model.glb",
+      "size": 94964,
+      "sha256": "8d845919537fb5a2c5cfd6b1dc50fc4e7e73277b3468a1ef0ea1766a4547bff1"
+    },
+    "blend": {
+      "path": "assets/cafe/cafe-fixed-open-jug-and-motor-base-blender-01/v1.0.0/source.blend",
+      "size": 711240,
+      "sha256": "2e55e1cba44b0c856d10449a94b6e76778841b6e7c85562e572b10e2caf57516"
+    },
+    "generator": {
+      "path": "assets/cafe/cafe-fixed-open-jug-and-motor-base-blender-01/v1.0.0/generate.py",
+      "size": 14806,
+      "sha256": "59dc9063b6f6a9f8da5446a5036fba7c71304d4d6936034b5534412d749bfeba"
+    },
+    "render": {
+      "path": "assets/cafe/cafe-fixed-open-jug-and-motor-base-blender-01/v1.0.0/thumbnail.png",
+      "size": 492293,
+      "sha256": "ccbe9f8f6bb24f75c3eb2bec98d08993b12690e58ce4cec28864c8949cee2fa7"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

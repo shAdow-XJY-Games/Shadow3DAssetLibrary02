@@ -1,0 +1,42 @@
+{
+  "id": "agriculture-fixed-ring-guided-splitting-wedge-stand-01",
+  "version": "1.0.0",
+  "category": "modular",
+  "assetKind": "prop",
+  "theme": "agriculture",
+  "style": "warm-handcrafted-village",
+  "title": "Fixed Ring-guided Splitting-wedge Stand",
+  "description": "One newly authored complete stationary ring-guided splitting-wedge stand appearance. A thick annular grounded foot, two full upright posts and an elevated annular guide surround a broad fixed central upright wedge with finite blunt crest. A transverse lower bearing beam and two triangular side gussets connect the wedge to the grounded frame. True open top ring and open lower frame, no inserted log, detached axe, moving handle or simulated split. Whole support-and-wedge structure differs from a handheld bored axe, a timber sawhorse and an inclined flow-divider chute. One model zero scenes. Static blunt game prop only; no chopping, impact, sharpness, guide/protection effectiveness, log capacity, manufacturing, operation, load or safety claim.",
+  "bounds": {
+    "x": 0.579999983,
+    "y": 0.579999983,
+    "z": 0.545000017,
+    "unit": "m"
+  },
+  "triangles": 576,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/agriculture/agriculture-fixed-ring-guided-splitting-wedge-stand-01/v1.0.0/model.glb",
+      "size": 30764,
+      "sha256": "c0e964555582531f0e003f068baf416bfa0a3a38975177a48675335744128d5d"
+    },
+    "blend": {
+      "path": "assets/agriculture/agriculture-fixed-ring-guided-splitting-wedge-stand-01/v1.0.0/source.blend",
+      "size": 553596,
+      "sha256": "b817e3647ac8703fe47c4395a2f13ced89931a148e399dcd357e4535397db6e1"
+    },
+    "generator": {
+      "path": "assets/agriculture/agriculture-fixed-ring-guided-splitting-wedge-stand-01/v1.0.0/generate.py",
+      "size": 28456,
+      "sha256": "4c2ced7993bed7db4b985098e86a6f5a7f058b1874120f8c48d2a8682fa75209"
+    },
+    "render": {
+      "path": "assets/agriculture/agriculture-fixed-ring-guided-splitting-wedge-stand-01/v1.0.0/thumbnail.png",
+      "size": 525827,
+      "sha256": "2a951ced64ab8fbc9d904ed2a56ba3cf366459ba6860639505f2c59f2c168eeb"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

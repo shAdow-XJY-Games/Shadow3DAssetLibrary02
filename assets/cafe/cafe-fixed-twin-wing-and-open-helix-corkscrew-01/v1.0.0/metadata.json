@@ -1,0 +1,42 @@
+{
+  "id": "cafe-fixed-twin-wing-and-open-helix-corkscrew-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "cafe",
+  "style": "source-preserved-low-poly",
+  "title": "Fixed Twin Wing and Open Helix Corkscrew",
+  "description": "One original complete static winged-corkscrew appearance in a fixed raised-wing display pose. A thick annular bottle-neck guide supports two upright cage rails and an upper collar. A short central stem meets a real open-centre three-and-half-turn thick wire helix with blunt capped ends; no broad soil-auger flight or solid threaded cylinder is substituted. Two side pivots carry whole opposing raised levers with distinct grip paddles, and a separate upper open turn ring completes the hand tool. Three opaque untextured PBR roles. One prop and zero scenes. No bottle, cork, geared internal mechanism, sharp tip, moving linkage, opening instructions, force/load, bottle fit, ergonomic or safety claim. The grounded guide ring is a static display datum; stem and spiral occupy part of its axis, not a wholly empty assembled bore.",
+  "bounds": {
+    "x": 0.17294000089168549,
+    "y": 0.0560000017285347,
+    "z": 0.20000000298023224,
+    "unit": "m"
+  },
+  "triangles": 3564,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/cafe/cafe-fixed-twin-wing-and-open-helix-corkscrew-01/v1.0.0/model.glb",
+      "size": 309068,
+      "sha256": "e1665651eda150cad014a346c83fb14a915e7580f1fef551a696576e477388ea"
+    },
+    "blend": {
+      "path": "assets/cafe/cafe-fixed-twin-wing-and-open-helix-corkscrew-01/v1.0.0/source.blend",
+      "size": 993024,
+      "sha256": "295d83ae42911f5d70c948c55e977b164df375a83ffa29e42c35e5b23e23aa9e"
+    },
+    "generator": {
+      "path": "assets/cafe/cafe-fixed-twin-wing-and-open-helix-corkscrew-01/v1.0.0/generate.py",
+      "size": 14692,
+      "sha256": "343c34f7210e9dd2049452f33bdfac9a915b4564c85152553d594bb87924c9a9"
+    },
+    "render": {
+      "path": "assets/cafe/cafe-fixed-twin-wing-and-open-helix-corkscrew-01/v1.0.0/thumbnail.png",
+      "size": 475837,
+      "sha256": "6e8bb489e2b04dbfe842a8bda6898ff0d347d72431cbb757bd7b10f514897d5f"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

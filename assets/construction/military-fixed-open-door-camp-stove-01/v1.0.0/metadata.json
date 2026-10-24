@@ -1,0 +1,42 @@
+{
+  "id": "military-fixed-open-door-camp-stove-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "military",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Open Door Camp Stove",
+  "description": "One original fixed camp-stove appearance with a complete thick hollow horizontal firebox, real open front loading aperture, integral thick open-top square flue visibly connected through the top, one fixed swung-away complete door with hinge barrels and attached grip, four grounded legs and two whole lateral carry loops. Newly authored closed surfaces, no old appliance resized or imported. Three opaque untextured PBR materials, metre game units, Z-up, horizontal bounds-centred ground origin; one static prop, zero scenes. No fuel, fire, smoke, contents or occupants. No combustion, heating, ventilation, emissions, pressure, cooking, thermal insulation, folding, manufacture, installation, load or real-world safety capability is claimed; not equipment construction guidance.",
+  "bounds": {
+    "x": 0.6420213350074382,
+    "y": 1.0086202452876094,
+    "z": 1.12,
+    "unit": "m"
+  },
+  "triangles": 1244,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/construction/military-fixed-open-door-camp-stove-01/v1.0.0/model.glb",
+      "size": 48312,
+      "sha256": "1e5f0b3b11cae806539b0ab831f47a38d3f6c4270d7e53aa45e626d303c52f4d"
+    },
+    "blend": {
+      "path": "assets/construction/military-fixed-open-door-camp-stove-01/v1.0.0/source.blend",
+      "size": 634956,
+      "sha256": "fe92ac053bbec6ac9c16ad8f75363a9218ed8f2529574f2d2b37777b16e4b0d7"
+    },
+    "generator": {
+      "path": "assets/construction/military-fixed-open-door-camp-stove-01/v1.0.0/generate.py",
+      "size": 10387,
+      "sha256": "6991d11b3b50d8564a28cfdb6f9271f3a47cb6851c0f2c0c4eff5f8ccf4e634d"
+    },
+    "render": {
+      "path": "assets/construction/military-fixed-open-door-camp-stove-01/v1.0.0/thumbnail.png",
+      "size": 370855,
+      "sha256": "c15e7077de138f334de0b2cf0b9123acc9d7234ddea3ba8188908a3284c9a008"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

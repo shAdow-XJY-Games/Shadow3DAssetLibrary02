@@ -1,0 +1,42 @@
+{
+  "id": "entertainment-fixed-open-slotted-optical-drum-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "entertainment",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Open Slotted Optical Drum",
+  "description": "One newly authored complete tabletop optical-toy-style display in a single fixed pose. A whole turned flat-footed wooden-style base and short annular collar support a separate full vertical spindle. The spindle enters the solid floor of one continuous connected open-top cylindrical drum, whose lower wall rises into twelve broad upper panels separated by twelve genuine narrow top-open vertical viewing slots. A complete thick ivory band is fixed inside the lower drum wall, carrying one invented sequence of twelve small dark ball-height relief marks. True central cavity, slot mouths, under-drum gap, collar shaft bore and material thickness are geometric rather than decals. All new numeric construction; no old domed herb-censer lid, pleated lantern, dual-reel projector or imported mesh instances. One whole prop and zero scenes; slots and phase motifs are not separate reusable models. Four opaque constant PBR materials, metres, Z up and actual horizontal bounds-centred ground origin. Small fixed material overlaps establish the display assembly. Static art only: no spinning, image animation, persistence-of-vision effect, pupil/view alignment, optical performance, working bearing, educational efficacy, fabrication, mechanical strength or safety claim. The interior motifs are a fictional fixed pattern, not a verified functioning optical sequence.",
+  "bounds": {
+    "x": 0.55,
+    "y": 0.55,
+    "z": 0.4,
+    "unit": "m"
+  },
+  "triangles": 3504,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/entertainment/entertainment-fixed-open-slotted-optical-drum-01/v1.0.0/model.glb",
+      "size": 200048,
+      "sha256": "3d482688460a933b518856786b1acc0c1fb0175f27c8cccae588b8b725d2e76d"
+    },
+    "blend": {
+      "path": "assets/entertainment/entertainment-fixed-open-slotted-optical-drum-01/v1.0.0/source.blend",
+      "size": 792032,
+      "sha256": "18654d5a6cca19f4a10e926ca779783a4ebd14a0f31fd7e87afbdcd4d5de1068"
+    },
+    "generator": {
+      "path": "assets/entertainment/entertainment-fixed-open-slotted-optical-drum-01/v1.0.0/generate.py",
+      "size": 25466,
+      "sha256": "952f409d41ba852354ffbf1dbecc126fe58eb0a89b27f849b3e651dfbf5b6fdc"
+    },
+    "render": {
+      "path": "assets/entertainment/entertainment-fixed-open-slotted-optical-drum-01/v1.0.0/thumbnail.png",
+      "size": 544695,
+      "sha256": "8914fa735a19387d7a0461cfc80f672cbf85482f45e4189dd4a0b43a62613a08"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

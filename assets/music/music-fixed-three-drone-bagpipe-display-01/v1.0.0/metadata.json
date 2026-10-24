@@ -1,0 +1,42 @@
+{
+  "id": "music-fixed-three-drone-bagpipe-display-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "music",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Three Drone Bagpipe Display",
+  "description": "One newly authored complete static three-drone bagpipe exterior. One asymmetric thick inflated bag supports three unequal long fixed drone pipes, a separate forward-angled blowpipe and a downward chanter exterior. Each pipe has its own complete stock/collar attachment; the long drones and other distal ends have real recessed open mouths rather than painted black discs. No previous panflute pipes or organ meshes are copied, extracted or rescaled: the complete central bag, five differently directed attached pipes and all stepped profiles are new. The open-top graduated parallel bundle of a panflute and the large windchest/manual/pedal console of an organ are different whole arrangements. Three opaque untextured PBR roles, metres, native Z up and complete horizontally centred ground origin. One instrument-shaped prop, zero scenes, people, straps or logos. Empty static artistic exterior only; the bag is a closed visual solid and distal mouth recesses do not establish connected air passages, reeds, working finger holes, pressure storage, acoustic tuning, pitch, sound, performance, playability, cultural authenticity, manufacture or safety.",
+  "bounds": {
+    "x": 0.6398945265512762,
+    "y": 0.27,
+    "z": 1.0020892133153556,
+    "unit": "m"
+  },
+  "triangles": 4268,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/music/music-fixed-three-drone-bagpipe-display-01/v1.0.0/model.glb",
+      "size": 228992,
+      "sha256": "8c3ed1f64b3361d15da0f1265912dd38acdfc02ccd2044273422a2a1557e3726"
+    },
+    "blend": {
+      "path": "assets/music/music-fixed-three-drone-bagpipe-display-01/v1.0.0/source.blend",
+      "size": 825692,
+      "sha256": "bc1bb184c05a231a7be909a92158eab554cf18406487b9327f172dea3d8de28d"
+    },
+    "generator": {
+      "path": "assets/music/music-fixed-three-drone-bagpipe-display-01/v1.0.0/generate.py",
+      "size": 11337,
+      "sha256": "55cfe9cdabfbe042dad57a53298df93e92a7fc83c8ec05c9e3267036a6bf4c78"
+    },
+    "render": {
+      "path": "assets/music/music-fixed-three-drone-bagpipe-display-01/v1.0.0/thumbnail.png",
+      "size": 369879,
+      "sha256": "986da92c38a1389a972dfb19b5c0d6ff66116d58c761c591000c5181e49d9332"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

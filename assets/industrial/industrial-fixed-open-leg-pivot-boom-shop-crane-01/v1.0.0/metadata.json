@@ -1,0 +1,42 @@
+{
+  "id": "industrial-fixed-open-leg-pivot-boom-shop-crane-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "industrial",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Open-Leg Pivot-Boom Shop Crane",
+  "description": "One newly authored whole static empty wheeled shop-crane appearance. Two long low chassis legs form a broad real open front bay on four complete fixed fork/hub/axle/wheel assemblies with finite flat ground facets. A full rear crossmember, upright mast and two whole gussets support paired high cheeks, a complete transverse pin and one entire long inclined overhead boom. A thick diagonal cylinder-shaped body and separate smooth rod reach from a whole lower bracket to a short boom pin; a small adjacent pump-like body, socket and full fixed side handle complete the exterior. One short hanging stem, full shank and continuous thick open hook occupy the empty boom tip. It is not the older fixed-column I-beam trolley hoist, enlarged saddle jack or copied machinery assembly; all numeric geometry newly authored and no old model imported. One prop and zero scenes with no payload. Four opaque constant untextured PBR materials, metres, Z up, actual horizontal bounds-centred ground origin. Small fixed overlaps join whole components; no working bearings or hydraulic internals. Static illustrative art only: no pumping, pressure, lifting, loading, boom travel, folding, rolling, steering, load rating, stability, vehicle/service compatibility, operation, fabrication or safety claim.",
+  "bounds": {
+    "x": 1.014,
+    "y": 1.496,
+    "z": 1.768746,
+    "unit": "m"
+  },
+  "triangles": 2204,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/industrial/industrial-fixed-open-leg-pivot-boom-shop-crane-01/v1.0.0/model.glb",
+      "size": 119808,
+      "sha256": "fec8a3303cd3c76bdab941f54cf3d76b51abc81cb2d0e18dc2fb685094b4607e"
+    },
+    "blend": {
+      "path": "assets/industrial/industrial-fixed-open-leg-pivot-boom-shop-crane-01/v1.0.0/source.blend",
+      "size": 828268,
+      "sha256": "0ec07fbbd96b6269278b4f095872ff64ed91ca9ec4dca608d6239fbbd4003c1d"
+    },
+    "generator": {
+      "path": "assets/industrial/industrial-fixed-open-leg-pivot-boom-shop-crane-01/v1.0.0/generate.py",
+      "size": 29014,
+      "sha256": "896d31f515ffe4a63596d5344520d3e4ec6e553c22cae6aa1a1f87fabcd2cd90"
+    },
+    "render": {
+      "path": "assets/industrial/industrial-fixed-open-leg-pivot-boom-shop-crane-01/v1.0.0/thumbnail.png",
+      "size": 525057,
+      "sha256": "23534c4fef336ae1c83f498242aa4144b6248e96681a132129f165196e588d62"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

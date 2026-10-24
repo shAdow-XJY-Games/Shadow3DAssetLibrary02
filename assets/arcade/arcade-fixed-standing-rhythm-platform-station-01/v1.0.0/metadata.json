@@ -1,0 +1,42 @@
+{
+  "id": "arcade-fixed-standing-rhythm-platform-station-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "arcade",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Standing Rhythm Platform Station",
+  "description": "One newly authored complete static standing rhythm-game station exterior. A single continuous thick ground chassis joins a tall sculpted display-and-speaker housing to a broad projecting nine-tile foot-control platform. Each chamfered tile is a real separate thick solid; four have physical raised directional triangle silhouettes. A single continuously curved return bar has two full roots and collars at the rear of the standing platform. The inclined front display is an opaque blank solid with a separate bezel and top header; two low circular speaker faces complete the upright body. All whole numerical shapes are new, not an old arcade cabinet or joystick deck copied onto an added floor, not a seated racer with its seat removed, and not a changed screen texture. Three constant opaque untextured PBR roles, metres, native Z up, whole horizontal bounds-centred ground origin. One complete prop, zero scenes. Static visual only: no player, game/software, rhythm sensing, electronics, moving buttons, input response, screen-replacement API, human fit, exercise guidance, grip strength, load rating or safety claim.",
+  "bounds": {
+    "x": 1.44,
+    "y": 2.52,
+    "z": 2.09,
+    "unit": "m"
+  },
+  "triangles": 1436,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/arcade/arcade-fixed-standing-rhythm-platform-station-01/v1.0.0/model.glb",
+      "size": 83300,
+      "sha256": "a569b0e085dfb1fe83832eeeaeaf6bfb8e070550ebb56ff88125a5b8dca673ad"
+    },
+    "blend": {
+      "path": "assets/arcade/arcade-fixed-standing-rhythm-platform-station-01/v1.0.0/source.blend",
+      "size": 710032,
+      "sha256": "b76b552a684c17c7ea05c10d717eb2e3e9ca4ead4c76fc96535c8a24fd462e86"
+    },
+    "generator": {
+      "path": "assets/arcade/arcade-fixed-standing-rhythm-platform-station-01/v1.0.0/generate.py",
+      "size": 12524,
+      "sha256": "4e8add8d6de98cbf7cd4d01f1cbc52dc8296d8efbc595eed9ba08486a19a91a8"
+    },
+    "render": {
+      "path": "assets/arcade/arcade-fixed-standing-rhythm-platform-station-01/v1.0.0/thumbnail.png",
+      "size": 499663,
+      "sha256": "5e336321f42e37b2ce94b2c2fd985b168018e268f0310e505423c57a14ad7971"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

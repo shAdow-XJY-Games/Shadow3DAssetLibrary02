@@ -1,0 +1,42 @@
+{
+  "id": "renovation-fixed-open-cradle-and-pushrod-caulking-tool-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "renovation",
+  "style": "source-preserved-low-poly",
+  "title": "Fixed Open Cradle and Pushrod Caulking Tool",
+  "description": "One original complete static empty hand caulking-tool appearance. A long thick open-topped U-section cartridge cradle joins a whole front annulus and rear guide plate. A separate fixed pushing disk sits inside near the rear, connected to a long rod and blunt curved rear return. A full canted main grip with flat display heel and a separate squeeze trigger leave a real gap between them; a transverse pivot belongs to the rear housing. Three opaque untextured PBR roles. One prop and zero scenes. Newly authored geometry, not an F-clamp or hair-dryer housing relabelled. No cartridge, nozzle, sealant, ratchet internals, spring, moving action, dispensing instructions, pressure/load, fit, ergonomics or safety claim. Open cradle is partly occupied by the push disk; no wholly empty assembled bore or stable-use certification is claimed.",
+  "bounds": {
+    "x": 0.09600000083446503,
+    "y": 0.4968975782394409,
+    "z": 0.2280000001192093,
+    "unit": "m"
+  },
+  "triangles": 1356,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/renovation/renovation-fixed-open-cradle-and-pushrod-caulking-tool-01/v1.0.0/model.glb",
+      "size": 121208,
+      "sha256": "9818a02f59ffc77525cea98a6f9ea1490b76ffa76e74b18b541ebcbba149e666"
+    },
+    "blend": {
+      "path": "assets/renovation/renovation-fixed-open-cradle-and-pushrod-caulking-tool-01/v1.0.0/source.blend",
+      "size": 726912,
+      "sha256": "95a8178123562eef1e30a4c353952cc4eedbf928bb7254a69d386964602cf6b7"
+    },
+    "generator": {
+      "path": "assets/renovation/renovation-fixed-open-cradle-and-pushrod-caulking-tool-01/v1.0.0/generate.py",
+      "size": 15386,
+      "sha256": "398d9ebcdeca52790f6045061f902a7893033b6b39069f21c401f1a2a56327a2"
+    },
+    "render": {
+      "path": "assets/renovation/renovation-fixed-open-cradle-and-pushrod-caulking-tool-01/v1.0.0/thumbnail.png",
+      "size": 472453,
+      "sha256": "10c9279adf4e9978f89717be7b0861ac67f5ab6763c80fe11d7a61e3cd64e510"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

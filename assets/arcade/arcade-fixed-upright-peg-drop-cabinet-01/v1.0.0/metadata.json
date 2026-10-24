@@ -1,0 +1,42 @@
+{
+  "id": "arcade-fixed-upright-peg-drop-cabinet-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "arcade",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Upright Peg Drop Cabinet",
+  "description": "One newly authored complete static upright peg-drop game cabinet. A continuous shallow backward-leaning field has seven staggered rows of physically projecting closed pins, complete side cheeks and an open upper token-entry tray. A full lower trough has seven whole partitions forming eight open receiving bays. Two long grounded shoes, paired front legs, rear braces and a low cross tie support the complete cabinet; one token is fixed at the upper entry. All numeric geometry is new: this is not the existing low sloping pinball table with flippers/launcher removed, a teaching abacus with beads recoloured, or a hole-target table placed upright. The full downward peg field, entry and separated receiving bays belong to one whole apparatus rather than independent peg or bin assets. Three constant opaque untextured PBR roles, metres, native Z up and actual full horizontal-bounds-centred ground origin. One model, zero scenes. Unoccupied static illustrative exterior only: no simulated gravity, guaranteed token path, capture, randomness, odds, prizes, scoring, wager, electronics, interactive gameplay, user fit, structural loading, manufacture or safety claim.",
+  "bounds": {
+    "x": 1.18,
+    "y": 0.7588600000000001,
+    "z": 2.3249999999999997,
+    "unit": "m"
+  },
+  "triangles": 2120,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/arcade/arcade-fixed-upright-peg-drop-cabinet-01/v1.0.0/model.glb",
+      "size": 128716,
+      "sha256": "48ce2776430f606f3ecaf232488cc30653860de0801f3f13adabe0d5e5a9b2e8"
+    },
+    "blend": {
+      "path": "assets/arcade/arcade-fixed-upright-peg-drop-cabinet-01/v1.0.0/source.blend",
+      "size": 936388,
+      "sha256": "3c2a2d9c4c338bfad2800e8463f2c6ac58c4b0c292ca376c0fb8b8cbf1183b5a"
+    },
+    "generator": {
+      "path": "assets/arcade/arcade-fixed-upright-peg-drop-cabinet-01/v1.0.0/generate.py",
+      "size": 11208,
+      "sha256": "8d0debe10d6ddbaf15f8a4790f79a01a19052a559dfc516b97bff4862a97282f"
+    },
+    "render": {
+      "path": "assets/arcade/arcade-fixed-upright-peg-drop-cabinet-01/v1.0.0/thumbnail.png",
+      "size": 463422,
+      "sha256": "bb40da760b63b69085fa998641e42c06406bb455a997d5309dad09da82aeb306"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

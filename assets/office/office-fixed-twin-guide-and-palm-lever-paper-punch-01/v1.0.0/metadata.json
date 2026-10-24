@@ -1,0 +1,42 @@
+{
+  "id": "office-fixed-twin-guide-and-palm-lever-paper-punch-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "office",
+  "style": "source-preserved-low-poly",
+  "title": "Fixed Twin Guide and Palm Lever Paper Punch",
+  "description": "One original complete static twin-hole desktop paper-punch appearance. A broad low collecting tray supports a die deck with two actual holes lined by complete circular die rings. Two rear-supported annular vertical guide bodies surround separate fixed pins above the deck, with an actual paper-entry gap below. A wide thick raised palm lever spans the pair and joins a whole transverse rear pivot. Three opaque untextured PBR roles. This is neither a widened stapler nor the single-side-arm paper cutter relabelled. One prop and zero scenes. Static fixed raised pose only, no paper, animated action, sharpened cutting edges, force transmission, punching alignment certification, operation instructions, capacity, ergonomic or safety claim. Circular bores open into the shallow tray, not through the entire assembled ground base.",
+  "bounds": {
+    "x": 0.15800000727176666,
+    "y": 0.1120000034570694,
+    "z": 0.08399999886751175,
+    "unit": "m"
+  },
+  "triangles": 1688,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/office/office-fixed-twin-guide-and-palm-lever-paper-punch-01/v1.0.0/model.glb",
+      "size": 152232,
+      "sha256": "850b149c818356b975b33cd6942115920b6569adb81624ca7982d6e24e9eaca1"
+    },
+    "blend": {
+      "path": "assets/office/office-fixed-twin-guide-and-palm-lever-paper-punch-01/v1.0.0/source.blend",
+      "size": 787616,
+      "sha256": "ce0797fd8c3753e14551f3fb4b8cdea9bc3dc1086b0609eaef57c6b7676c2521"
+    },
+    "generator": {
+      "path": "assets/office/office-fixed-twin-guide-and-palm-lever-paper-punch-01/v1.0.0/generate.py",
+      "size": 14702,
+      "sha256": "ff64006265f17e024b2305624453bd4143b1b9839c746490a9aff69ab4ca4fca"
+    },
+    "render": {
+      "path": "assets/office/office-fixed-twin-guide-and-palm-lever-paper-punch-01/v1.0.0/thumbnail.png",
+      "size": 483905,
+      "sha256": "a5d40aff0492c59f5b10816475b328b6bd351e1ad08153c0c719a5271b7d0c70"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

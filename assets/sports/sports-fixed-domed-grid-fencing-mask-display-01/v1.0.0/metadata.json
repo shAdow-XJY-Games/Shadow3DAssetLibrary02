@@ -1,0 +1,42 @@
+{
+  "id": "sports-fixed-domed-grid-fencing-mask-display-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "sports",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Domed Grid Fencing Mask Display",
+  "description": "One newly authored complete static fencing-mask display. Twenty-six complete closed bowed metal wires form a genuinely open convex elliptical face cage, all ending in one thick continuous oval rim. The rear remains open and two complete fixed retention arches meet the rim; a broad closed canvas-coloured throat bib descends from the lower perimeter to a finite flat display edge. The front is not an opaque visor, painted grid, cylindrical bee veil, or solid diving-helmet shell with window decals. All numeric mask geometry is new, with no head, mannequin, sword, stand, transparent texture or equipment scene. Three solid opaque PBR roles, metre units, Z up and whole horizontal-bounds-centred ground origin. One static prop and zero scenes. Coarse game-art wires and fixed bands only: no wearer/head fit, fastening, impact or puncture resistance, vision, certified mesh spacing, protective efficacy, manufacture or sports safety claim.",
+  "bounds": {
+    "x": 0.29,
+    "y": 0.2870784609690826,
+    "z": 0.51,
+    "unit": "m"
+  },
+  "triangles": 9540,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/sports/sports-fixed-domed-grid-fencing-mask-display-01/v1.0.0/model.glb",
+      "size": 634732,
+      "sha256": "c72175ec19c393f274fa58cc188ebcc1db9ad3e2ee8e5a3eb938aca50fa2ee95"
+    },
+    "blend": {
+      "path": "assets/sports/sports-fixed-domed-grid-fencing-mask-display-01/v1.0.0/source.blend",
+      "size": 1170720,
+      "sha256": "73a8733607ba1e5a9f1147aa124b7680d25ad1ef1177eb6cef78e53c86e77dcd"
+    },
+    "generator": {
+      "path": "assets/sports/sports-fixed-domed-grid-fencing-mask-display-01/v1.0.0/generate.py",
+      "size": 11217,
+      "sha256": "80c91136245141b5958c8aeae9f11e8645aa0be84b4962ea984437d0a86a0cda"
+    },
+    "render": {
+      "path": "assets/sports/sports-fixed-domed-grid-fencing-mask-display-01/v1.0.0/thumbnail.png",
+      "size": 405554,
+      "sha256": "eea1f2705888d091e8a820c815304db5acf1b7e15d39e5464b42cd86c644e42c"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

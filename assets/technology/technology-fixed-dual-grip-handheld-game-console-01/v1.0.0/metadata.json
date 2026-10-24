@@ -1,0 +1,42 @@
+{
+  "id": "technology-fixed-dual-grip-handheld-game-console-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "technology",
+  "style": "source-preserved-low-poly",
+  "title": "Fixed Dual-Grip Handheld Game Console",
+  "description": "One newly authored complete static dual-grip handheld game console exterior. The continuous thick wide housing has shaped left and right grip lobes, a genuine central blind rectangular display well with opaque blank inset, two base-stem-cap joystick assemblies, one integral union-cross directional control, four separate blank thick action buttons, two small blank menu buttons and two rear shoulder controls. All numeric whole geometry newly authored, no radio, scanner, arcade racer or laptop geometry reused. One game-art prop, zero scenes, metres, opaque untextured PBR. No brand, game artwork, software, operating display, electrical function, control motion, ergonomics, compatibility, manufacture or safety claim.",
+  "bounds": {
+    "x": 0.3160000145435333,
+    "y": 0.15700000524520874,
+    "z": 0.04500000178813934,
+    "unit": "m"
+  },
+  "triangles": 908,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/technology/technology-fixed-dual-grip-handheld-game-console-01/v1.0.0/model.glb",
+      "size": 88892,
+      "sha256": "d8cc1229c6350aa8baec5288f7f9b7fdfcbe6aac92b66ccd7c12e7b65a164f32"
+    },
+    "blend": {
+      "path": "assets/technology/technology-fixed-dual-grip-handheld-game-console-01/v1.0.0/source.blend",
+      "size": 737536,
+      "sha256": "3fb6f46edb6149706c9ae68f1d2a4cc8c4ae01ac8d64d7258f5d03599dbeda2a"
+    },
+    "generator": {
+      "path": "assets/technology/technology-fixed-dual-grip-handheld-game-console-01/v1.0.0/generate.py",
+      "size": 16707,
+      "sha256": "059afd82a8c943da24a89786830a7909d362815ea63a32a246e47d8e41108c0c"
+    },
+    "render": {
+      "path": "assets/technology/technology-fixed-dual-grip-handheld-game-console-01/v1.0.0/thumbnail.png",
+      "size": 455949,
+      "sha256": "6a97de325ed963bbb337673d97be97ed063f8ddcac86f02aa708921958c2871c"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "carnival-fixed-radial-suspended-chair-ride-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "carnival",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Radial Suspended Chair Ride",
+  "description": "One newly authored complete static suspended-chair ride exterior. A broad grounded plinth and tall tapered central mast carry an upper collar, six real radial crown ribs and a continuous annular overhead chain carrier. Six whole thick seat-and-back shells hang beneath this ring, each on four continuous fixed suspension bars with two connected side armrests. There is no passenger deck, no horse-piercing upright pole and no horizontal observation-wheel axle: the new support route is entirely from mast to upper crown to suspended chair shells, rather than the old carousel platform or A-frame swing repeated as a scene. All numeric geometry is newly authored; chairs are components of one complete apparatus, never six extra models. Three opaque constant PBR roles, metres, native Z up and full horizontal-bounds-centred ground origin. One complete prop, zero scenes. Unoccupied stationary illustration only: no rotation, chains or ropes dynamics, full-travel clearance, restraints, passenger fit, load, stability, drive, manufacture, ride performance or safety claim.",
+  "bounds": {
+    "x": 2.85,
+    "y": 2.865296752345482,
+    "z": 2.95,
+    "unit": "m"
+  },
+  "triangles": 1744,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/carnival/carnival-fixed-radial-suspended-chair-ride-01/v1.0.0/model.glb",
+      "size": 113096,
+      "sha256": "e964e4e8e9874005e1e5bea8e0d2fce94c4ae9929ed9dd9e6e8852f3a4cb2f6c"
+    },
+    "blend": {
+      "path": "assets/carnival/carnival-fixed-radial-suspended-chair-ride-01/v1.0.0/source.blend",
+      "size": 855968,
+      "sha256": "f911fae84c2f23507a147b98e29e895729c1e993c56391cb9fb480caca39fcf8"
+    },
+    "generator": {
+      "path": "assets/carnival/carnival-fixed-radial-suspended-chair-ride-01/v1.0.0/generate.py",
+      "size": 10904,
+      "sha256": "dac261faa4ec803b3ac630fb3a6ca7bcb16218785ecf061f14d2dedef713200f"
+    },
+    "render": {
+      "path": "assets/carnival/carnival-fixed-radial-suspended-chair-ride-01/v1.0.0/thumbnail.png",
+      "size": 535923,
+      "sha256": "d0c64aa097fda09e51634315d2978d98289206169201eea2ea804d5e471d7b20"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "public-fixed-single-disc-and-tilted-handle-floor-buffer-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "public",
+  "style": "source-preserved-low-poly",
+  "title": "Fixed Single Disc and Tilted Handle Floor Buffer",
+  "description": "One newly authored complete static single-disc floor-buffer appearance for a public/commercial cleaning equipment prop. A broad low circular pad and bell-shaped protective cover carry a central vertical motor housing with a stepped top cap. Two rear transport wheels are supported by a complete transverse yoke; a fixed inclined pole rises from a transverse pivot to a two-hand cross-grip and small blank control box. Three opaque untextured PBR roles. One prop and zero scenes. No liquid tank, hose, collection drum or reel cutter. No powered motion, bristles simulation, cleaning result, operating instructions, floor compatibility, balance/load or electrical and user safety claim. Newly authored whole structure, not a canister vacuum or reel mower recoloured.",
+  "bounds": {
+    "x": 0.47200000286102295,
+    "y": 0.984000027179718,
+    "z": 1.0750000476837158,
+    "unit": "m"
+  },
+  "triangles": 2120,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/public/public-fixed-single-disc-and-tilted-handle-floor-buffer-01/v1.0.0/model.glb",
+      "size": 188768,
+      "sha256": "9e12cadecd096a9153af68a57defdd96c08a46eb0c3c4d1ae853ff3700ba2a05"
+    },
+    "blend": {
+      "path": "assets/public/public-fixed-single-disc-and-tilted-handle-floor-buffer-01/v1.0.0/source.blend",
+      "size": 836000,
+      "sha256": "7c55704aa2fdf3692504db477acca2e0aed1e96422b8e6a72909b96568eecd7f"
+    },
+    "generator": {
+      "path": "assets/public/public-fixed-single-disc-and-tilted-handle-floor-buffer-01/v1.0.0/generate.py",
+      "size": 14271,
+      "sha256": "d3453284bdc4278bd95a8b9dd8df5a0dd5557f4b17f1ea912c24e800267802de"
+    },
+    "render": {
+      "path": "assets/public/public-fixed-single-disc-and-tilted-handle-floor-buffer-01/v1.0.0/thumbnail.png",
+      "size": 450371,
+      "sha256": "f85db8a6bcd0de3d4a01adaff0350e72c82e3d0a7f6507db9b186346cad85a06"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

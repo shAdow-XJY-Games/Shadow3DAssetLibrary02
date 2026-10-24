@@ -1,0 +1,42 @@
+{
+  "id": "entertainment-fixed-cabinet-disc-and-flared-horn-gramophone-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "entertainment",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Cabinet Disc and Flared Horn Gramophone",
+  "description": "One newly authored complete static cabinet gramophone appearance: four full finite feet, lower plinth, enclosed wooden-style cabinet and broad top deck support a separate profiled platter, whole dark record disc with a genuine centre bore, plain small label and fixed spindle. A single continuously curved hollow arm rises from a small round soundbox above the record through a rear neck into one broad forward-upward flared horn with real inner walls and open annular mouth. A whole annular support post roots the neck in the cabinet, and one complete bent side crank ends in a separate thick grip. The broad horn is not a solid flower or dark disk; the disc/soundbox relation is part of the same whole record-player silhouette. All numeric geometry newly authored, not a reused locator horn or pottery workbench. One prop and zero scenes; no loose records or separately counted stands. Four opaque constant untextured PBR materials, metres, Z up, actual horizontal-bounds-centred grounded origin. Small fixed material overlaps join complete parts. Static visual art only: no playback, encoded sound, acoustic transfer, amplification, speed, groove tracking, stylus suitability, working winding mechanism, historic reconstruction, movable bearings, fabrication, electrical/structural performance or safety claim.",
+  "bounds": {
+    "x": 0.685,
+    "y": 0.49471,
+    "z": 0.964035,
+    "unit": "m"
+  },
+  "triangles": 3744,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/entertainment/entertainment-fixed-cabinet-disc-and-flared-horn-gramophone-01/v1.0.0/model.glb",
+      "size": 233264,
+      "sha256": "c0bfc253bbd92fe0eccf788e80756e662b4080933ac299d48d6d5eaacb3f95e9"
+    },
+    "blend": {
+      "path": "assets/entertainment/entertainment-fixed-cabinet-disc-and-flared-horn-gramophone-01/v1.0.0/source.blend",
+      "size": 809148,
+      "sha256": "2a2cbcace01433eb12b3641d127b65035f658f67c9ba1764e5371fc3b12ed8a6"
+    },
+    "generator": {
+      "path": "assets/entertainment/entertainment-fixed-cabinet-disc-and-flared-horn-gramophone-01/v1.0.0/generate.py",
+      "size": 27807,
+      "sha256": "b5e3f783d5d11c42f7ee48724b2fc7d7c079dd5ca03ef693129e5a2d0110c431"
+    },
+    "render": {
+      "path": "assets/entertainment/entertainment-fixed-cabinet-disc-and-flared-horn-gramophone-01/v1.0.0/thumbnail.png",
+      "size": 559075,
+      "sha256": "0f49f4e4629bc489311d7148a7825a470fb5ef15947e19f40133ff53279461fc"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "music-fixed-curved-keyed-saxophone-display-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "music",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Curved Keyed Saxophone Display",
+  "description": "One newly authored complete static saxophone display exterior. A single continuous thick hollow variable-radius tube runs through a curved upper neck, long inclined body, low semicircular return and widening upright open bell. A separate dark open mouth sleeve seats on the upper tube. A whole front key shaft, two real shaft supports and six separate closed key cups with touch faces and lever bridges form the fixed keyed exterior. A complete low grounded display stand has a bow cradle and a rear body support. All instrument geometry is new, not the old low horizontal looped bugle raised on end, separate open organ pipes combined, or a reshaped pocket harmonica. Three opaque constant untextured PBR roles, metres, native Z up, full horizontally bounds-centred ground origin. One complete instrument-with-display-support prop, zero scenes. Fixed illustrative exterior only: closed key cups do not claim actual tone-hole operation; no reed, airflow, acoustic tuning, fingering accuracy, music, key motion, instrument playability, manufacture, support load or safety claim.",
+  "bounds": {
+    "x": 0.7889999999999999,
+    "y": 0.4,
+    "z": 1.21,
+    "unit": "m"
+  },
+  "triangles": 5432,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/music/music-fixed-curved-keyed-saxophone-display-01/v1.0.0/model.glb",
+      "size": 371992,
+      "sha256": "0ad8d49e832fea7baf8a53a6c2ee1fa799444ad8501f9e954e84e7ce69f2e7b0"
+    },
+    "blend": {
+      "path": "assets/music/music-fixed-curved-keyed-saxophone-display-01/v1.0.0/source.blend",
+      "size": 939620,
+      "sha256": "611d768666b45b05a22550ffefbccd0bcf35fabec80fba2b8632bc58bff5e3dc"
+    },
+    "generator": {
+      "path": "assets/music/music-fixed-curved-keyed-saxophone-display-01/v1.0.0/generate.py",
+      "size": 11551,
+      "sha256": "adbb61d4e14fc8c4d42616b3934524ec6c304544bb6d592f20adb5197b618220"
+    },
+    "render": {
+      "path": "assets/music/music-fixed-curved-keyed-saxophone-display-01/v1.0.0/thumbnail.png",
+      "size": 376437,
+      "sha256": "89179a86c4b328771cc88b1cf4b4e013c02b5e5bfe4dd84901280da4aac4439d"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

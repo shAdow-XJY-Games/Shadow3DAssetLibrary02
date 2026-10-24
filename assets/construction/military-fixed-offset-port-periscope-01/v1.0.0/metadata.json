@@ -1,0 +1,42 @@
+{
+  "id": "military-fixed-offset-port-periscope-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "military",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Offset Port Periscope",
+  "description": "One original complete fixed handheld-periscope appearance: an unbroken hollow vertical rectangular case joins an upper forward mouth to a lower rearward mouth, at different heights and opposite directions. Both rims have real apertures, with open interior depth; complete side carrying bow and grip. All geometry newly authored, no telescope or rangefinder imported, three opaque PBR materials, metre units, Z-up and centred ground origin. Static game-art observer prop only: no optical alignment, mirrors, magnification, observation capability, range, manufacture, protective or safety performance is claimed.",
+  "bounds": {
+    "x": 0.22999999999999998,
+    "y": 0.312,
+    "z": 0.8,
+    "unit": "m"
+  },
+  "triangles": 592,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/construction/military-fixed-offset-port-periscope-01/v1.0.0/model.glb",
+      "size": 25704,
+      "sha256": "3e65ccc62a863544547a5be94120f6612626f286463ad0850c747a09daf052b8"
+    },
+    "blend": {
+      "path": "assets/construction/military-fixed-offset-port-periscope-01/v1.0.0/source.blend",
+      "size": 571972,
+      "sha256": "d7e004d120c3c9b679c30d95900872bc5a4b20d268c48b7ed793ee452e4be185"
+    },
+    "generator": {
+      "path": "assets/construction/military-fixed-offset-port-periscope-01/v1.0.0/generate.py",
+      "size": 10050,
+      "sha256": "abb94db026be140e71935cd1c5242eb326ea5eaeb9ad61981748cf98bc801981"
+    },
+    "render": {
+      "path": "assets/construction/military-fixed-offset-port-periscope-01/v1.0.0/thumbnail.png",
+      "size": 331878,
+      "sha256": "6282d84617ade1d7b22eca41c4908c49eadff8311289db130e2f7049a1cd689a"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "industrial-fixed-spread-linkage-five-tray-toolbox-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "industrial",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Spread Linkage Five-Tray Toolbox",
+  "description": "One newly authored complete empty portable linkage toolbox in a single fixed expanded pose. A whole deep central tub with full ground floor and four walls carries two complete shallow open trays spread upward and outward on each side. Sixteen whole round-ended side link bars occupy front and rear axial layers, attached by twenty-four complete fixed headed pins through the visual tray walls and solid bars. A single full central carrying arch and thick grip connect into the base endwalls; two entire upper outer lids remain raised on full longitudinal fixed shafts. All five tray cavities and their connecting spread relation are real geometry, not painted black wells, loose stacked boxes, subdivided bait-box cells or shortened drying-rack shelves. Every numerical shell, linkage and pose is newly authored; no old asset mesh is imported. One prop and zero scenes, with no contents, tools, separate storage accessories or repeated asset count. Four opaque constant untextured PBR materials, metres, Z up, actual bounds-centred grounded origin. Small intentional overlaps join this fixed assembly; the pin-bearing bars are solid static material, not claimed working bored links. Visual art only: no folding path, hinge travel, pin fit, carrying capacity, rated load, dimensional compatibility, tool storage suitability, stability, fabrication or safety claim.",
+  "bounds": {
+    "x": 1.323279,
+    "y": 0.586,
+    "z": 0.627305,
+    "unit": "m"
+  },
+  "triangles": 4540,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/industrial/industrial-fixed-spread-linkage-five-tray-toolbox-01/v1.0.0/model.glb",
+      "size": 216276,
+      "sha256": "a5b23e3b2ddf118312dbe6aa5056a7283c4ad06e08356b6eceb049220ad3890c"
+    },
+    "blend": {
+      "path": "assets/industrial/industrial-fixed-spread-linkage-five-tray-toolbox-01/v1.0.0/source.blend",
+      "size": 1022372,
+      "sha256": "af2414c917d8bdfefc32cbc1c62274d36401dcf0a99d2bc1b246692d9824144a"
+    },
+    "generator": {
+      "path": "assets/industrial/industrial-fixed-spread-linkage-five-tray-toolbox-01/v1.0.0/generate.py",
+      "size": 25923,
+      "sha256": "08dad88605b2f0b72f4e6f904f69eb73008a3ad969d7884f11925448b46d55bd"
+    },
+    "render": {
+      "path": "assets/industrial/industrial-fixed-spread-linkage-five-tray-toolbox-01/v1.0.0/thumbnail.png",
+      "size": 523247,
+      "sha256": "36bbcc84c83259f6dd8aa716395dfd50efdca49bad01e7c496ba9ed81ef0ed03"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

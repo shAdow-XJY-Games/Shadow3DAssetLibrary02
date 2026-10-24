@@ -1,0 +1,42 @@
+{
+  "id": "sports-fixed-double-recurve-bow-display-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "sports",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Double Recurve Bow Display",
+  "description": "One newly authored complete static recurve-bow visual prop, lying on its broad central grip sole. A single closed shared-vertex body forms the thick central core and both tapering limbs; each limb curves away and reverses near its terminal tip. A complete proud grip shell and one separate closed slender tip-to-tip cord form the whole display. The open long asymmetric bow-and-string silhouette is not the closed oval lattice racket, rectangular blade-and-toggle saw frame, a music instrument or pieces extracted from either. No arrow, sights, release, stringing mechanism or moving pose. Three opaque untextured PBR materials, metres, native Z up and complete horizontally bounds-centred ground origin. One prop and zero scenes. Artistic proportions and fixed joins only; no draw weight, stored energy, range, projectile, elasticity, material suitability, construction instructions, hand fit, operability, manufacture or sporting safety claim.",
+  "bounds": {
+    "x": 0.385,
+    "y": 1.622,
+    "z": 0.06,
+    "unit": "m"
+  },
+  "triangles": 188,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/sports/sports-fixed-double-recurve-bow-display-01/v1.0.0/model.glb",
+      "size": 12156,
+      "sha256": "0f8702c681652aaad5ff33f8e7c22f98addb5d511fc8c9a1139bd029a98f2fc2"
+    },
+    "blend": {
+      "path": "assets/sports/sports-fixed-double-recurve-bow-display-01/v1.0.0/source.blend",
+      "size": 541000,
+      "sha256": "e7012aeaf6139b093bbd871dd814e8f1534109d1665a1df5dcfb1f0765549040"
+    },
+    "generator": {
+      "path": "assets/sports/sports-fixed-double-recurve-bow-display-01/v1.0.0/generate.py",
+      "size": 10011,
+      "sha256": "b9dd7ae81a399a8cfe9cdc9b0b03e76b459a9185059506a73ed643725952ab37"
+    },
+    "render": {
+      "path": "assets/sports/sports-fixed-double-recurve-bow-display-01/v1.0.0/thumbnail.png",
+      "size": 297453,
+      "sha256": "184cda592b77770331fd424b55616d98b69287edad64bfe814d6300aeb6690a0"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

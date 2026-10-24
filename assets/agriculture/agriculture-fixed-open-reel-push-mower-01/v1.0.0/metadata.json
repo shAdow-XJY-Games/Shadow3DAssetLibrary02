@@ -1,0 +1,42 @@
+{
+  "id": "agriculture-fixed-open-reel-push-mower-01",
+  "version": "1.0.0",
+  "category": "modular",
+  "assetKind": "prop",
+  "theme": "agriculture",
+  "style": "warm-handcrafted-village",
+  "title": "Fixed Open-Reel Push Mower",
+  "description": "One original complete fixed-pose hand-push reel mower appearance. Two large grounded side wheels surround an open transverse reel made of continuous thick twisted longitudinal strips on two radial spiders and a central axle. A low separate bed-bar, small rear full roller and paired rising push frame with cross-grip complete the tool. No hopper, engine cover, snow casing, chute or crop feed trough; not an old machine with parts removed. Static blunt game-art prop only: no blade contact, motion, transmission, cutting, grass processing, ergonomics, capacity, manufacturing or safety claim.",
+  "bounds": {
+    "x": 0.790000021,
+    "y": 1.353999972,
+    "z": 1.05400002,
+    "unit": "m"
+  },
+  "triangles": 1532,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/agriculture/agriculture-fixed-open-reel-push-mower-01/v1.0.0/model.glb",
+      "size": 93536,
+      "sha256": "c306b5d67edadc11dcf7245b03c4b28e19218a3f0bdd8489785a1601079c1ce7"
+    },
+    "blend": {
+      "path": "assets/agriculture/agriculture-fixed-open-reel-push-mower-01/v1.0.0/source.blend",
+      "size": 688576,
+      "sha256": "0d6a9315516d7923199b261870785026d3e8ef0ec339e3372d7aeb3ea486315f"
+    },
+    "generator": {
+      "path": "assets/agriculture/agriculture-fixed-open-reel-push-mower-01/v1.0.0/generate.py",
+      "size": 30074,
+      "sha256": "6df93211b7545f67ee31271319898d0ee9ade122e10f58b24d6961432fddf179"
+    },
+    "render": {
+      "path": "assets/agriculture/agriculture-fixed-open-reel-push-mower-01/v1.0.0/thumbnail.png",
+      "size": 523113,
+      "sha256": "a33c89f5a131e0389aef1fe4a4fd272515f45452c3aec35d4b1a62fb0116b634"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

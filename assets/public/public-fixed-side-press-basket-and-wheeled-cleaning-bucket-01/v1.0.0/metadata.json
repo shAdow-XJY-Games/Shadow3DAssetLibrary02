@@ -1,0 +1,42 @@
+{
+  "id": "public-fixed-side-press-basket-and-wheeled-cleaning-bucket-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "public",
+  "style": "source-preserved-low-poly",
+  "title": "Fixed Side Press Basket and Wheeled Cleaning Bucket",
+  "description": "One newly authored complete static side-press wringer-bucket appearance for commercial cleaning. A thick chamfered open deep bucket stands on four small caster assemblies with real forks and axles. Two rim brackets carry a genuinely open-topped, through-slotted raised wringer basket with finite bottom openings. A separate fixed pressure plate inside the basket joins a transverse shaft and long raised side lever with a full grip. Three opaque untextured PBR roles, one prop and zero scenes. No mop, cloth, water, fluid simulation, squeezing action, pressure, capacity, cleaning performance, instructions, stability/load or safety claim. Newly authored complete geometry, not the brush-wash basin or two-roll cloth wringer resized. Basket slots exist in actual geometry; the internal plate occludes some assembled sight lines.",
+  "bounds": {
+    "x": 0.41499999165534973,
+    "y": 0.550000011920929,
+    "z": 0.8930683732032776,
+    "unit": "m"
+  },
+  "triangles": 1892,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/public/public-fixed-side-press-basket-and-wheeled-cleaning-bucket-01/v1.0.0/model.glb",
+      "size": 173876,
+      "sha256": "3cc3fa433005dc447b3874546c581312e84f44cfa9478cf1067dbb14b79bf6b7"
+    },
+    "blend": {
+      "path": "assets/public/public-fixed-side-press-basket-and-wheeled-cleaning-bucket-01/v1.0.0/source.blend",
+      "size": 843392,
+      "sha256": "7309bc9d38df7e0567600449812e16e9c5c712f211ed811717bc571900b14ffb"
+    },
+    "generator": {
+      "path": "assets/public/public-fixed-side-press-basket-and-wheeled-cleaning-bucket-01/v1.0.0/generate.py",
+      "size": 15146,
+      "sha256": "63805e87909f81ce69dec7f1b4ff2f22fbe6691ff787a4aa77ebb7f14e93e7b9"
+    },
+    "render": {
+      "path": "assets/public/public-fixed-side-press-basket-and-wheeled-cleaning-bucket-01/v1.0.0/thumbnail.png",
+      "size": 522620,
+      "sha256": "851aa2c0b9cdfc42c76b03bc1e37c5537027bbee3cccd67a3290c118759cdc61"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

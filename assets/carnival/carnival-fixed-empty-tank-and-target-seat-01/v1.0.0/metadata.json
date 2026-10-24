@@ -1,0 +1,42 @@
+{
+  "id": "carnival-fixed-empty-tank-and-target-seat-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "carnival",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Empty Tank and Target Seat",
+  "description": "One newly authored complete static empty dunk-game exterior. A broad grounded chassis carries a thick round tank with an actual empty interior and integral bottom. Two full rear bearing towers support a continuous transverse seat shaft, a whole fixed seat board with lower ribs and short back stops. A separately grounded side support carries a forward-and-upward target arm with a full circular target plate and raised centre; a visible side coupling rod and finite seat ear connect the stored fixed arrangement. All tank, seat, shaft, supports and target geometry is newly authored, not extracted from an old dye vat, elevated observation chair or paddle-target stall. Three opaque constant untextured PBR materials, metres, native Z up and whole horizontal bounds-centred ground origin. One whole prop and zero scenes. Empty stylised display only: no water, person, ball, active release, moving seat, working game, scoring, human fit, load rating, operation or safety claim.",
+  "bounds": {
+    "x": 2.22,
+    "y": 1.82,
+    "z": 2.005,
+    "unit": "m"
+  },
+  "triangles": 1940,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/carnival/carnival-fixed-empty-tank-and-target-seat-01/v1.0.0/model.glb",
+      "size": 103268,
+      "sha256": "9ee41aedbe718f3adaea4c4cb874c5c701107e14fa4948294687290919f2dacf"
+    },
+    "blend": {
+      "path": "assets/carnival/carnival-fixed-empty-tank-and-target-seat-01/v1.0.0/source.blend",
+      "size": 746404,
+      "sha256": "4e30ff379424b22e65e8ad56705e6a5074a5d9053c66de66db504ea051a71bc7"
+    },
+    "generator": {
+      "path": "assets/carnival/carnival-fixed-empty-tank-and-target-seat-01/v1.0.0/generate.py",
+      "size": 10966,
+      "sha256": "0320da3d9ef809130a9096d22f390e0124469868d8855e08ed5437523cf70d42"
+    },
+    "render": {
+      "path": "assets/carnival/carnival-fixed-empty-tank-and-target-seat-01/v1.0.0/thumbnail.png",
+      "size": 498068,
+      "sha256": "d5ab0665750855ea1d9b7e19b25d37682eabbafc069f88e670c2db48ece1e160"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "entertainment-fixed-hand-cranked-open-sphere-cage-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "entertainment",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Hand Cranked Open Sphere Cage",
+  "description": "One newly authored complete empty hand-cranked spherical draw-cage visual assembly. Twelve complete curved solid longitudinal wires join two polar hubs; three full annular latitude ties leave genuine open grid windows throughout the hollow sphere. One continuous horizontal axle spans both bored stand sleeves and extends to a complete exterior crank arm and grip. Two A-shaped support branches meet one finite grounded base. All cage and stand geometry is newly authored, not an opaque globe with removed continents or the earlier cylindrical garden drum relabelled. The whole open sphere, its axle, fixed crank and support count as one prop, zero scenes. No balls, numbers, lettering, animated pose, hinges, access-door mechanism or prizes. Three opaque constant PBR roles, metre units, native Z up and complete horizontally centred ground origin. Empty fixed illustrative appearance only; no actual mixing, ball retention, rotation range, randomness, probability, fair selection, gambling, construction, human fit, load capacity or safety claim.",
+  "bounds": {
+    "x": 1.115,
+    "y": 0.614,
+    "z": 0.8370000000000001,
+    "unit": "m"
+  },
+  "triangles": 6696,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/entertainment/entertainment-fixed-hand-cranked-open-sphere-cage-01/v1.0.0/model.glb",
+      "size": 364488,
+      "sha256": "a4659066b9b9a2f19b897bf0ab15886d3ef53dd76716747a8274738fb59b62f3"
+    },
+    "blend": {
+      "path": "assets/entertainment/entertainment-fixed-hand-cranked-open-sphere-cage-01/v1.0.0/source.blend",
+      "size": 1003172,
+      "sha256": "7817d78c7022cb8c1f62a5b465148a4f733660977cdff4610b40bcdcc918e0f3"
+    },
+    "generator": {
+      "path": "assets/entertainment/entertainment-fixed-hand-cranked-open-sphere-cage-01/v1.0.0/generate.py",
+      "size": 10608,
+      "sha256": "4439d12e6f7f08fe56755626bfd931efe49c0b28e2216fdc96c2e11eb186843e"
+    },
+    "render": {
+      "path": "assets/entertainment/entertainment-fixed-hand-cranked-open-sphere-cage-01/v1.0.0/thumbnail.png",
+      "size": 486062,
+      "sha256": "c127e3e610d5a1b443471a4cbfd3bf44eb3b52123c973ab0f0ae4c2bf0dbf286"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

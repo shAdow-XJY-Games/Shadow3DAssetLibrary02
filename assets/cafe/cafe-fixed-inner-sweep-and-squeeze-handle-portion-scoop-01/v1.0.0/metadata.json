@@ -1,0 +1,42 @@
+{
+  "id": "cafe-fixed-inner-sweep-and-squeeze-handle-portion-scoop-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "cafe",
+  "style": "source-preserved-low-poly",
+  "title": "Fixed Inner Sweep and Squeeze Handle Portion Scoop",
+  "description": "One original complete static squeeze-handle portion-scoop appearance. A thick near-hemispherical open bowl has a real continuous inner wall, solid floor and rounded rim. A separate thick curved sweep strip sits inside, connected visually to a short rear spindle. A long fixed upper handle and a separate lowered squeeze lever join at a transverse pivot with a short linkage appearance. Three opaque untextured PBR roles. Newly authored whole geometry, not the simple measuring spoon recoloured or resized. One prop and zero scenes. No ice cream or other food, spring or gear internals, animated scraping/release, instructions, measured portion volume, food-contact or hygiene certification, grip or safety claim. The small flat bowl underside is a display datum; no working mechanics or stable-use claim.",
+  "bounds": {
+    "x": 0.0820000022649765,
+    "y": 0.2280000001192093,
+    "z": 0.04899999871850014,
+    "unit": "m"
+  },
+  "triangles": 1540,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/cafe/cafe-fixed-inner-sweep-and-squeeze-handle-portion-scoop-01/v1.0.0/model.glb",
+      "size": 135116,
+      "sha256": "ac8188fe7e0c5a8bd7ca32fa1b914d588b693f9f644df1ad265b0850c1d50cdc"
+    },
+    "blend": {
+      "path": "assets/cafe/cafe-fixed-inner-sweep-and-squeeze-handle-portion-scoop-01/v1.0.0/source.blend",
+      "size": 738112,
+      "sha256": "b4bfc2c44be334701016201260623aa711b89127665d114c2a67d10589501ed1"
+    },
+    "generator": {
+      "path": "assets/cafe/cafe-fixed-inner-sweep-and-squeeze-handle-portion-scoop-01/v1.0.0/generate.py",
+      "size": 14304,
+      "sha256": "5b10827a9fa87cfea800ab8ee432316632276a63750bea825bf9700a58f73480"
+    },
+    "render": {
+      "path": "assets/cafe/cafe-fixed-inner-sweep-and-squeeze-handle-portion-scoop-01/v1.0.0/thumbnail.png",
+      "size": 482040,
+      "sha256": "c4cc90dd617920eb84ca08a928d20e0b655f372cfefc0b065c78f8150411a756"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "cafe-fixed-open-grid-plate-waffle-machine-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "cafe",
+  "style": "source-preserved-low-poly",
+  "title": "Fixed Open Grid Plate Waffle Machine",
+  "description": "One original complete fixed-open countertop waffle-machine appearance. A broad chamfered casing on four grounded feet carries a whole lower mould plate with twenty-five true finite square recesses. A matching complete upper mould plate is fixed raised ninety-five degrees with its gridded face visible, seated on a thick lid casing and connected by two rear hinge stands and one complete horizontal pin. A wide whole lifting bridge reaches around the upper front edge; two small blank control dials belong to the lower fascia. Three opaque untextured PBR roles. New complete geometry, not the two-slot toaster relabelled or a miniature front-loading oven. One prop and zero scenes; no food, cord, heating element, animated hinge, cooking instructions, thermal performance, powered operation, food-contact or safety claim.",
+  "bounds": {
+    "x": 0.38999998569488525,
+    "y": 0.5569746494293213,
+    "z": 0.566279947757721,
+    "unit": "m"
+  },
+  "triangles": 2416,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/cafe/cafe-fixed-open-grid-plate-waffle-machine-01/v1.0.0/model.glb",
+      "size": 215104,
+      "sha256": "593ad87214043a359f269760bae379ffcffc8306bef7beefd0393d6a7c451fd6"
+    },
+    "blend": {
+      "path": "assets/cafe/cafe-fixed-open-grid-plate-waffle-machine-01/v1.0.0/source.blend",
+      "size": 878560,
+      "sha256": "2babb191202960e74f36f1974c15e3c9ff51eef9004e7358fa65db7c35ea6552"
+    },
+    "generator": {
+      "path": "assets/cafe/cafe-fixed-open-grid-plate-waffle-machine-01/v1.0.0/generate.py",
+      "size": 14683,
+      "sha256": "b29a88f1434f4613de1fbe3cb38c3d8406f5decfe27387bae5eb8c6a96cba778"
+    },
+    "render": {
+      "path": "assets/cafe/cafe-fixed-open-grid-plate-waffle-machine-01/v1.0.0/thumbnail.png",
+      "size": 520031,
+      "sha256": "7a7573ff3da73d20369a2c76889763ed2e7010bba03c4a031586b6fd256a9ef7"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

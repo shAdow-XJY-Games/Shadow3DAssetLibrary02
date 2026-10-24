@@ -1,0 +1,42 @@
+{
+  "id": "industrial-fixed-open-bed-three-jaw-bench-lathe-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "industrial",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Open Bed Three Jaw Bench Lathe",
+  "description": "One newly authored whole fixed metal-lathe-style bench machine. Two broad finite base feet support a long low bed and two separated raised metal ways. A high complete left headstock carries a horizontal short spindle, thick bevelled annular chuck with genuine central front recess and three separate stepped radial jaws. A distinct saddle bridges both ways and joins a dropped front apron, transverse upper slide, compound plate and whole toolpost with a short fixed tool blank. An independently placed opposing tailstock spans both ways and supports a projecting quill and complete pointed centre. Three open-spoke handwheels with rooted hubs and grips distinguish tail feed, saddle feed and cross feed. One smooth full front rod joins its end supports and the apron. All geometry newly authored; no old spring-pole lathe, drill press, power hacksaw or accessory instances imported. One prop, zero scenes and no separately counted workpiece, machine base or hand tools. Four opaque constant PBR materials, metres, Z up and actual horizontally bounds-centred bottom-foot origin. Small intentional fixed material overlaps establish the assembled appearance. Static illustrative equipment only: no rotation, jaw travel, clamping, cutting, feed pitch, transmission, electrical drive, tolerances, workpiece fit, manufacture, anchoring, load, ergonomics or machinery safety claim. No functional construction or operation instructions.",
+  "bounds": {
+    "x": 1.585,
+    "y": 0.7,
+    "z": 0.648,
+    "unit": "m"
+  },
+  "triangles": 1940,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/industrial/industrial-fixed-open-bed-three-jaw-bench-lathe-01/v1.0.0/model.glb",
+      "size": 119196,
+      "sha256": "13af86022d062b501a7678bb618600edde10e172b34545d1e25ded06be7f051a"
+    },
+    "blend": {
+      "path": "assets/industrial/industrial-fixed-open-bed-three-jaw-bench-lathe-01/v1.0.0/source.blend",
+      "size": 843140,
+      "sha256": "8745c2b57358e50007c617cf7d741f2ade3930a6b0bd23e6f3ba8af2bad2b213"
+    },
+    "generator": {
+      "path": "assets/industrial/industrial-fixed-open-bed-three-jaw-bench-lathe-01/v1.0.0/generate.py",
+      "size": 29843,
+      "sha256": "089cd0ed8a81b7925a17f52e8256a840159e9e0358fdbbb5f5db225140be62b9"
+    },
+    "render": {
+      "path": "assets/industrial/industrial-fixed-open-bed-three-jaw-bench-lathe-01/v1.0.0/thumbnail.png",
+      "size": 515351,
+      "sha256": "6af11f4796ec65c239975ea485ca567363d05e81ccf97f6772ce0dd2e3f725a5"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

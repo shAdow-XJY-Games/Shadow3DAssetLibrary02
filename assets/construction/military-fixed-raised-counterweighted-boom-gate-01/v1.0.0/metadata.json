@@ -1,0 +1,42 @@
+{
+  "id": "military-fixed-raised-counterweighted-boom-gate-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "military",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Raised Counterweighted Boom Gate",
+  "description": "One complete original fixed partly raised counterweighted entrance-boom appearance for non-weapon camp logistics scenery. A full broad-footed column and two rounded pivot cheeks support one transverse fixed axle; the single long boom continues to a short weighted tail, with a separate whole pull handle. Across the opening, a complete independently grounded receiving pedestal has an empty U catch. The long upward-sweeping arm and short thick counterweight are not a hinged vertical fence leaf, serial scissor barrier or recoloured road-warning board. Entire geometry newly authored. Three opaque untextured PBR materials, metre scale, native Z up and whole horizontal-bounds-centred ground origin. One complete prop, zero scenes. Fixed display only, no verified movement, balancing, counterweight sizing, latch operation, traffic control, barrier effectiveness, clearance, manufacture, structural capacity or safety claim.",
+  "bounds": {
+    "x": 3.418965753143297,
+    "y": 0.6,
+    "z": 2.0662419252117488,
+    "unit": "m"
+  },
+  "triangles": 308,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/construction/military-fixed-raised-counterweighted-boom-gate-01/v1.0.0/model.glb",
+      "size": 26180,
+      "sha256": "d16d665d143b5285d0b30af6aba6c600ca2d38a58063913f30e178657683aef2"
+    },
+    "blend": {
+      "path": "assets/construction/military-fixed-raised-counterweighted-boom-gate-01/v1.0.0/source.blend",
+      "size": 612160,
+      "sha256": "667bf3a5dcfe6356db39ad40f42e133b2c5737e741a575da35d47ed7702c6d59"
+    },
+    "generator": {
+      "path": "assets/construction/military-fixed-raised-counterweighted-boom-gate-01/v1.0.0/generate.py",
+      "size": 10411,
+      "sha256": "80426486cdcb2b5d9020290cc062e66f34b6e9763cf36d57d3b4da4d49a435be"
+    },
+    "render": {
+      "path": "assets/construction/military-fixed-raised-counterweighted-boom-gate-01/v1.0.0/thumbnail.png",
+      "size": 333197,
+      "sha256": "70cde41a650f04808f7664e5b5b7d347a84b7fc5bd93018c962e4ee9a195ddd0"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

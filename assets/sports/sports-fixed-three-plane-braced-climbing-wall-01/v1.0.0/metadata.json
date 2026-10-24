@@ -1,0 +1,42 @@
+{
+  "id": "sports-fixed-three-plane-braced-climbing-wall-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "sports",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Three Plane Braced Climbing Wall",
+  "description": "One newly authored complete static braced climbing-wall exterior. A single continuous thick wall changes from a lower slab incline to a vertical middle and then a real forward overhang, sharing the physical folds rather than using decorative surface panels. Eighteen small asymmetric solid faceted holds have full embedded backs on their respective whole wall faces. Two long grounded skids, complete rear diagonal stays, near-wall uprights and real cross ties support the tall folded wall. All geometry is new, not the old open triangular climbing dome flattened into a board, the low passing board resized, or a natural cliff recoloured with grips. The three-plane continuous wall and its full rear frame form one whole apparatus; individual grips are not separately counted assets. Three opaque constant untextured PBR roles, metres, native Z up and full horizontal-bounds-centred ground origin. One prop, zero scenes. Empty static illustrative appearance only: no route grading, climbability, fall protection, body/child fit, anchoring, load capacity, hold strength, manufacture or climbing/sports safety claim.",
+  "bounds": {
+    "x": 1.9,
+    "y": 1.42,
+    "z": 2.4,
+    "unit": "m"
+  },
+  "triangles": 604,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/sports/sports-fixed-three-plane-braced-climbing-wall-01/v1.0.0/model.glb",
+      "size": 50836,
+      "sha256": "9aec4d3ef479d42c36e08d9bae3699a8043dfb8042417d51cd62f899111c86ef"
+    },
+    "blend": {
+      "path": "assets/sports/sports-fixed-three-plane-braced-climbing-wall-01/v1.0.0/source.blend",
+      "size": 679036,
+      "sha256": "c790b34d378e9e96bd3650ef4b010af96d4604a0697fcbc20daff869e231b556"
+    },
+    "generator": {
+      "path": "assets/sports/sports-fixed-three-plane-braced-climbing-wall-01/v1.0.0/generate.py",
+      "size": 11069,
+      "sha256": "c547425cf982d6a5800dd521fa4d03c94a2a66c297763fe05fd767f4b64d7fe2"
+    },
+    "render": {
+      "path": "assets/sports/sports-fixed-three-plane-braced-climbing-wall-01/v1.0.0/thumbnail.png",
+      "size": 477044,
+      "sha256": "31d29c34583b88baa8a484ab593840014e5cd12b22ebd7f5eebf4586ade7962d"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

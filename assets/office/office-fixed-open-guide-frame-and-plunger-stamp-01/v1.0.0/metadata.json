@@ -1,0 +1,42 @@
+{
+  "id": "office-fixed-open-guide-frame-and-plunger-stamp-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "office",
+  "style": "source-preserved-low-poly",
+  "title": "Fixed Open Guide Frame and Plunger Stamp",
+  "description": "One original complete static open-frame plunger desk-stamp appearance. A whole rectangular annular foot, four corner posts and upper guide ring form actual open side windows. A central rectangular plunger supports a broad chamfered top press cap and a lower full stamping platen with a separate blank pad. The pad is fixed raised inside the base opening with visible clearance, not painted onto a solid block. Three opaque untextured PBR roles. One prop and zero scenes. Newly authored geometry, not a narrow stapler or a paired-hole paper punch scaled. No text, logo, identity, official seal, imprint, ink, spring, internal self-inking mechanism, stamping action, instructions, authentication or safety claim; static blank office-tool appearance only.",
+  "bounds": {
+    "x": 0.0860000029206276,
+    "y": 0.06400000303983688,
+    "z": 0.09799999743700027,
+    "unit": "m"
+  },
+  "triangles": 272,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/office/office-fixed-open-guide-frame-and-plunger-stamp-01/v1.0.0/model.glb",
+      "size": 26796,
+      "sha256": "b86e93bf001b9cf1b36c0df51a352268b2706d637eef0b67a1a96233a86856ea"
+    },
+    "blend": {
+      "path": "assets/office/office-fixed-open-guide-frame-and-plunger-stamp-01/v1.0.0/source.blend",
+      "size": 586688,
+      "sha256": "79a57a3c8b4bd3df77b85cbb3c18307ba82ff6b3cf1270dec756eff7a15978a8"
+    },
+    "generator": {
+      "path": "assets/office/office-fixed-open-guide-frame-and-plunger-stamp-01/v1.0.0/generate.py",
+      "size": 13544,
+      "sha256": "41515cf5f99a511b4c85662361f185da942cf8128649499ddd5c5b63f435a830"
+    },
+    "render": {
+      "path": "assets/office/office-fixed-open-guide-frame-and-plunger-stamp-01/v1.0.0/thumbnail.png",
+      "size": 510395,
+      "sha256": "6af3744ee610628c020f3414d8373009e86dedfc41a2d51d666776e92cd5f9ad"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

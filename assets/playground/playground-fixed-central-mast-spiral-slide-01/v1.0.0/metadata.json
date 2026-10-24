@@ -1,0 +1,42 @@
+{
+  "id": "playground-fixed-central-mast-spiral-slide-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "playground",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Central Mast Spiral Slide",
+  "description": "One newly authored complete static spiral-slide frame. One continuous thick open U-section chute descends through three quarters of a turn around a central mast and then transitions into a low straight runout with its own ground shoe. Four full radial underside carriers connect the chute to the mast. A separate complete high entry platform in the open quadrant has two grounded posts, finite guard posts/rails and a whole inclined two-rail ladder with seven fixed rungs and grounded feet. Every whole numeric model part is new, not a rotated or recoloured version of the old single-direction small slide, a winding stone staircase with treads hidden, or an old industrial screw channel. Three constant opaque untextured PBR roles, metres, native Z up, full horizontally bounds-centred ground origin. One whole prop, zero scenes. Unoccupied fixed illustrative exterior only: no sliding-speed or body-clearance analysis, usable climbing route, official facility dimensions, protection or containment, child suitability, structural strength, anchoring, loading, manufacture or playground safety claim.",
+  "bounds": {
+    "x": 2.46,
+    "y": 2.13,
+    "z": 2.146,
+    "unit": "m"
+  },
+  "triangles": 1272,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/playground/playground-fixed-central-mast-spiral-slide-01/v1.0.0/model.glb",
+      "size": 93748,
+      "sha256": "a1c502001c6d2f48bbd84263b8c182392dfd1ac3b261eedbaa90b9c31efd9d86"
+    },
+    "blend": {
+      "path": "assets/playground/playground-fixed-central-mast-spiral-slide-01/v1.0.0/source.blend",
+      "size": 728896,
+      "sha256": "a2c5c12f8e05b524b362cb7550ef123d8a38885b0d66efc9baab1726b36f6e36"
+    },
+    "generator": {
+      "path": "assets/playground/playground-fixed-central-mast-spiral-slide-01/v1.0.0/generate.py",
+      "size": 11314,
+      "sha256": "285794eb3e765ab7bc98c3f40191f95e8e0f0f84bbb3b061535aa04a11ed2f37"
+    },
+    "render": {
+      "path": "assets/playground/playground-fixed-central-mast-spiral-slide-01/v1.0.0/thumbnail.png",
+      "size": 549255,
+      "sha256": "c94384e783167d1bb57c0cdd76640bdafe61c4a5d0547056817496486c7938f9"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "sports-fixed-hollow-cuff-boxing-glove-display-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "sports",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Hollow Cuff Boxing Glove Display",
+  "description": "One newly authored complete static empty boxing-glove visual display. A thick changing-width curled-fist body rises and rounds forward over a real recessed wrist cavity, with an independently closed inward-curled padded thumb embedded at its root and tip. A complete wide annular wrist cuff and narrow solid binding retain a genuinely open lower wrist aperture rather than a black decal. This is not a hand cropped from the raincoat worker: that old whole figure has simple three-section solid straight glove roots with no separate curled thumb, padded knuckle profile or open glove wrist. All glove geometry is new, three opaque untextured PBR roles, metres, Z up and complete horizontal-bounds-centred ground origin. One glove counts as one prop, zero scenes; no fist, wearer, partner glove, laces, logo or training scene. Fixed static artistic appearance only, no precise hand anatomy, wearer fit, fastening, padding response, impact absorption, punching performance, sport compliance, manufacture or protective/sports safety claim.",
+  "bounds": {
+    "x": 0.217,
+    "y": 0.17,
+    "z": 0.315,
+    "unit": "m"
+  },
+  "triangles": 1240,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/sports/sports-fixed-hollow-cuff-boxing-glove-display-01/v1.0.0/model.glb",
+      "size": 79032,
+      "sha256": "09fd11e6f3e325eafc4b52659381776765838140e020226e6d50b97dcaf24865"
+    },
+    "blend": {
+      "path": "assets/sports/sports-fixed-hollow-cuff-boxing-glove-display-01/v1.0.0/source.blend",
+      "size": 602372,
+      "sha256": "0842ad2c8d18713e093ae4317cf5f7c7deec810c2b7cde4694e99384d98ba108"
+    },
+    "generator": {
+      "path": "assets/sports/sports-fixed-hollow-cuff-boxing-glove-display-01/v1.0.0/generate.py",
+      "size": 11089,
+      "sha256": "aab9374514650e3ce377b45179e1c4bd695d5cae34ee42c6c37a18bd6e86d5ba"
+    },
+    "render": {
+      "path": "assets/sports/sports-fixed-hollow-cuff-boxing-glove-display-01/v1.0.0/thumbnail.png",
+      "size": 466273,
+      "sha256": "a62f3413cfda09c64a6e09b6f7139a8f25bc78c9d59c43ff40ade7cb87f86c06"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "military-fixed-stone-filled-wire-gabion-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "military",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Stone Filled Wire Gabion",
+  "description": "One complete original fixed stone-filled wire gabion appearance for camp and defensive-environment static art. Six genuinely perforated continuous wire-grid panels form a closed-top containment basket around eighteen newly authored full faceted stone bodies. Visible gaps between wire cells and irregular stone edges establish containment rather than an opaque painted box. No casters, cargo access door, warning-board facade or old rock asset imports. The mesh enclosure is the new whole structure; fill count does not define a separate variant. Three opaque untextured PBR materials, metre units, Z-up, ground origin centred on horizontal bounds. One complete prop, zero scenes. Fixed visual display only: no ballistic protection, blast resistance, structural retention, wall stability, load rating, drainage, construction procedure, military deployment or safety claim.",
+  "bounds": {
+    "x": 1.4,
+    "y": 0.818,
+    "z": 0.866,
+    "unit": "m"
+  },
+  "triangles": 6432,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/construction/military-fixed-stone-filled-wire-gabion-01/v1.0.0/model.glb",
+      "size": 243340,
+      "sha256": "6acd42a8867c8ac124c6a3f16e377e5eb5dbb9e8da83699088e27aa475299558"
+    },
+    "blend": {
+      "path": "assets/construction/military-fixed-stone-filled-wire-gabion-01/v1.0.0/source.blend",
+      "size": 969732,
+      "sha256": "8cc16fc1264290474d63fb72a131779d35372e8359dcfd4aac2834ea669cb7e0"
+    },
+    "generator": {
+      "path": "assets/construction/military-fixed-stone-filled-wire-gabion-01/v1.0.0/generate.py",
+      "size": 11152,
+      "sha256": "a86374eea366d8ce8313622059848873245c56c374ebbd0dba2b522ed2e642ab"
+    },
+    "render": {
+      "path": "assets/construction/military-fixed-stone-filled-wire-gabion-01/v1.0.0/thumbnail.png",
+      "size": 489241,
+      "sha256": "d82cac1808a5c92f860b845678942b219959b3d329b85561c98dd346a957b43f"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

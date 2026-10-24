@@ -1,0 +1,42 @@
+{
+  "id": "cafe-fixed-open-grip-and-twin-cage-hand-mixer-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "cafe",
+  "style": "source-preserved-low-poly",
+  "title": "Fixed Open Grip and Twin Cage Hand Mixer",
+  "description": "One original whole static handheld twin-beater mixer appearance: a chamfered horizontal motor housing carries an actual open upper grip, a blank control, two separate lower collars and shafts, and two complete open wire cages built from crossed thick loops. Three opaque untextured PBR roles, one prop and zero scenes. No bowl, food, powered motion, internal transmission, working electrical parts, food-contact certification, ergonomic, stability or safety claim. Lowest cage wires define only a display datum; the handheld appliance is not claimed self-standing in use. Not the old countertop stand mixer or jug blender resized or stripped of a bowl.",
+  "bounds": {
+    "x": 0.11699999868869781,
+    "y": 0.2199999988079071,
+    "z": 0.33550000190734863,
+    "unit": "m"
+  },
+  "triangles": 3000,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/cafe/cafe-fixed-open-grip-and-twin-cage-hand-mixer-01/v1.0.0/model.glb",
+      "size": 260728,
+      "sha256": "90511b13a9ea221c2c7bf11d6696670285cf1e874bcaf6af6407e9c109731834"
+    },
+    "blend": {
+      "path": "assets/cafe/cafe-fixed-open-grip-and-twin-cage-hand-mixer-01/v1.0.0/source.blend",
+      "size": 920448,
+      "sha256": "d66726815283d30e69971c2dc6fda12fabdf0a3c7c10d5ea23de128cbee633c9"
+    },
+    "generator": {
+      "path": "assets/cafe/cafe-fixed-open-grip-and-twin-cage-hand-mixer-01/v1.0.0/generate.py",
+      "size": 14630,
+      "sha256": "26a730ed8f504f40a6fe219f33be939f2017eb9ec52fe8208f32ada5e92054e1"
+    },
+    "render": {
+      "path": "assets/cafe/cafe-fixed-open-grip-and-twin-cage-hand-mixer-01/v1.0.0/thumbnail.png",
+      "size": 481191,
+      "sha256": "d55b7603a5acb11870e23c5ce184f5285f1a9024edbcdeefaaa4b1f436b0bdc2"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

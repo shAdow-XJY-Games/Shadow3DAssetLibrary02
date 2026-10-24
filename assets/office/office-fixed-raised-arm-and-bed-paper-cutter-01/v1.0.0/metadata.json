@@ -1,0 +1,42 @@
+{
+  "id": "office-fixed-raised-arm-and-bed-paper-cutter-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "office",
+  "style": "source-preserved-low-poly",
+  "title": "Fixed Raised Arm and Bed Paper Cutter",
+  "description": "One original complete static desktop paper-cutter appearance. A broad chamfered flat sheet bed on four grounded feet carries a complete rear alignment fence, a fixed perpendicular paper stop and a separate long side counter strip. A full thick blunt cutting-arm silhouette is held thirty-five degrees above its right side, joined through two rear hinge supports and a complete horizontal pin, with a long dark grip at its raised end. Three opaque untextured PBR roles. All complete geometry newly authored; not a desktop stapler enlarged or a crop-cutter wheel removed from its stand. One prop and zero scenes. No paper, cutting animation, sharpened edge, measurement marks, operating instructions, cutting accuracy, hand clearance, working mechanism, manufacture or safety claim.",
+  "bounds": {
+    "x": 0.5329999923706055,
+    "y": 0.7007956504821777,
+    "z": 0.6036708354949951,
+    "unit": "m"
+  },
+  "triangles": 480,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/office/office-fixed-raised-arm-and-bed-paper-cutter-01/v1.0.0/model.glb",
+      "size": 50152,
+      "sha256": "e456a2ad4f2ba03dada168c2c052b57bf00f5f1251a2e9416594e8385a5b56bb"
+    },
+    "blend": {
+      "path": "assets/office/office-fixed-raised-arm-and-bed-paper-cutter-01/v1.0.0/source.blend",
+      "size": 647616,
+      "sha256": "38634fb2c4f5ca427601174aa489132c576560a990e2a03f28dae99c6ef4ce2e"
+    },
+    "generator": {
+      "path": "assets/office/office-fixed-raised-arm-and-bed-paper-cutter-01/v1.0.0/generate.py",
+      "size": 14084,
+      "sha256": "79b421182863689b48dc9eefc1e6f495fd7daa7e425d584d2adf704e43f27157"
+    },
+    "render": {
+      "path": "assets/office/office-fixed-raised-arm-and-bed-paper-cutter-01/v1.0.0/thumbnail.png",
+      "size": 468698,
+      "sha256": "20c07979a6ccff543729274c258b1d57c256535038d7473b7488584d7fb1dcaa"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

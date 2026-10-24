@@ -1,0 +1,42 @@
+{
+  "id": "military-static-six-ended-crossed-beam-barricade-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "military",
+  "style": "S01-clean-geometric",
+  "title": "Static Six Ended Crossed Beam Barricade",
+  "description": "One complete original fixed six-ended crossed-beam barricade appearance for non-weapon military-camp environment art. Three full blunt-ended I-section beams meet in a static central crossing: two diagonals form an X and a third complete transverse beam supplies front/back projection. Each beam has actual continuous web and flange channels, not flat painted strips; two small central plates and four fixed rivet heads complete the visible joint. No spikes, blades, explosives, weapons, operating parts, people or terrain. This is not the old flat warning board on feet or a station cabinet with three one-ended tubular turnstile arms. All geometry newly authored, one prop zero scenes. Three opaque untextured PBR materials, metre art scale, Z-up and bounds-centred ground origin. Grounding is a static edge-contact pose; no stability, vehicle stopping, military effectiveness, protection level, collision behaviour, engineering, assembly instructions, manufacture, loading or safety claim.",
+  "bounds": {
+    "x": 1.3859292911256333,
+    "y": 1.72,
+    "z": 1.3859292911256333,
+    "unit": "m"
+  },
+  "triangles": 284,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/construction/military-static-six-ended-crossed-beam-barricade-01/v1.0.0/model.glb",
+      "size": 18620,
+      "sha256": "92db6882066441d68f7677b83d1f60d894e4ebfa7d44a23d548375df4130e6e3"
+    },
+    "blend": {
+      "path": "assets/construction/military-static-six-ended-crossed-beam-barricade-01/v1.0.0/source.blend",
+      "size": 573904,
+      "sha256": "9e656b00be5760dbafe1813aff92121c8208b8b128f2147d25979ed86d411784"
+    },
+    "generator": {
+      "path": "assets/construction/military-static-six-ended-crossed-beam-barricade-01/v1.0.0/generate.py",
+      "size": 9821,
+      "sha256": "582faeefac59b7512d46be18486b95d7861a6827b82deadfa6974014491d955f"
+    },
+    "render": {
+      "path": "assets/construction/military-static-six-ended-crossed-beam-barricade-01/v1.0.0/thumbnail.png",
+      "size": 376395,
+      "sha256": "0bc61ad4f852a0f731050c8ac39d9190688fba8a21cde81fc8ffcef62a093007"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

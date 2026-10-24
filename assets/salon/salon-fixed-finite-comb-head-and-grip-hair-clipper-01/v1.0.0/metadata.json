@@ -1,0 +1,42 @@
+{
+  "id": "salon-fixed-finite-comb-head-and-grip-hair-clipper-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "salon",
+  "style": "source-preserved-low-poly",
+  "title": "Fixed Finite Comb Head and Grip Hair Clipper",
+  "description": "One original complete static handheld hair-clipper appearance in a fixed upright display pose. A contoured full grip housing broadens into the head shoulder. A complete thick finite comb head has twelve actual blunt-ended teeth with open slots between them; a shorter separate top plate stops behind the comb tips. Two round retaining heads, a long inset-colour face cover and one blank raised side control complete the whole hand tool. Three opaque untextured PBR roles. Not return-bow sheep shears or an opaque handheld scanner relabelled. One prop and zero scenes. No animated blades, sharpened cutting edge, cable, motor, electrical circuit, hair-cutting procedure, grooming performance, skin-contact, hygiene, ergonomic or safety claim. Flat heel is a display datum, not a stability certification.",
+  "bounds": {
+    "x": 0.07199999690055847,
+    "y": 0.07000000029802322,
+    "z": 0.1860000044107437,
+    "unit": "m"
+  },
+  "triangles": 704,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/salon/salon-fixed-finite-comb-head-and-grip-hair-clipper-01/v1.0.0/model.glb",
+      "size": 64520,
+      "sha256": "5e50979bf934328414770782d8e205300b31cce4cffc5c9d279b5fa9d1599cc4"
+    },
+    "blend": {
+      "path": "assets/salon/salon-fixed-finite-comb-head-and-grip-hair-clipper-01/v1.0.0/source.blend",
+      "size": 644480,
+      "sha256": "c49c65de49a8dbd478001a7c41f475e728237c9ebd3c72f2bbad76e023baf04f"
+    },
+    "generator": {
+      "path": "assets/salon/salon-fixed-finite-comb-head-and-grip-hair-clipper-01/v1.0.0/generate.py",
+      "size": 14206,
+      "sha256": "27c1dc5d514b90dccb07c9e4e220e986043a1c9528b9ebf969bb1a7133ae5309"
+    },
+    "render": {
+      "path": "assets/salon/salon-fixed-finite-comb-head-and-grip-hair-clipper-01/v1.0.0/thumbnail.png",
+      "size": 478282,
+      "sha256": "ef905e6e9cebbce77c577166e2f1e185b8a675b937c609b6112e9dbe60476f44"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

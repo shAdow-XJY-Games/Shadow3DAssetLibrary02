@@ -1,0 +1,42 @@
+{
+  "id": "arcade-fixed-caged-hoop-return-station-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "arcade",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Caged Hoop Return Station",
+  "description": "One newly authored complete static arcade hoop-return station. Four grounded shoes and an open tied leg frame support one continuous rear-high to front-low return surface and a flat receiving bay. Two full side catch cages with sloping front rails, actual spaced bars and upper crossmembers rise into a rear backboard integrated with the same frame. A real open upper hoop, sparse closed basket strands and an open lower ring hang above the return floor; one static ball rests in the front receiving bay. All whole geometry is new, not a freestanding basketball stand arranged beside a previous lane, a hole-target table with its printed scoring changed, or the existing upward-curved roll-launch cabinet fitted with a new target. Three opaque constant untextured PBR roles, metres, native Z up and whole horizontal bounds-centred ground origin. One complete prop, zero scenes. Static unoccupied visual only: no electronics, actual scoring, ball simulation, guaranteed return route or containment, playable game, human fit, impact resistance, loading, manufacture or safety claim.",
+  "bounds": {
+    "x": 1.26,
+    "y": 2.1925,
+    "z": 2.23,
+    "unit": "m"
+  },
+  "triangles": 2476,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/arcade/arcade-fixed-caged-hoop-return-station-01/v1.0.0/model.glb",
+      "size": 171216,
+      "sha256": "e724be537be045866102f59833e8c08fee813d91679c0de353f8b776908d4cde"
+    },
+    "blend": {
+      "path": "assets/arcade/arcade-fixed-caged-hoop-return-station-01/v1.0.0/source.blend",
+      "size": 904708,
+      "sha256": "758f96a226339eea28d5b705b57fc7f8dbcec80572277d4f1888060e1c95eeb4"
+    },
+    "generator": {
+      "path": "assets/arcade/arcade-fixed-caged-hoop-return-station-01/v1.0.0/generate.py",
+      "size": 12466,
+      "sha256": "bfc568aa7ff787044196e547ed4119c9e3a55dd49f501d9aec515487bbb54c42"
+    },
+    "render": {
+      "path": "assets/arcade/arcade-fixed-caged-hoop-return-station-01/v1.0.0/thumbnail.png",
+      "size": 539575,
+      "sha256": "cca4189e17c36d1a173510c71e41ddd0dd4cff2901c11305c9d2242967420a70"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

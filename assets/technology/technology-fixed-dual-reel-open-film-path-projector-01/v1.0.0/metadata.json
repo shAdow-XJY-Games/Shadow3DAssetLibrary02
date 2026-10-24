@@ -1,0 +1,42 @@
+{
+  "id": "technology-fixed-dual-reel-open-film-path-projector-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "technology",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Dual Reel Open Film Path Projector",
+  "description": "One newly authored complete static film-projector-style device. A low chamfered base on two long finite shoes carries a high machine-case exterior, two independent inclined reel arms and separate upper feed and lower take-up axes. Both whole reels have open-spoke front and rear flanges, supported hubs and retaining caps, with shallow annular stored-film exterior masses. One genuine connected thick flat exposed ribbon runs from the upper mass through a broad guide loop, a straight slot between two rooted gate cheeks and a lower guide loop into the lower mass. A horizontal thick annular lens housing contains a visibly recessed opaque optic; a full open carry handle and fixed front control complete the machine. All numerical geometry new, no old overhead projector, camera, cable reel, hose winding or component instances imported. One complete prop, zero scenes. Four opaque constant PBR materials, metres, Z up and actual horizontal-bounds-centred bottom-shoe origin. Stored-film masses are exterior annuli, not resolved continuous windings; only the exposed ribbon is a single continuous piece. Deliberately stylized fixed relationships and small assembly overlaps, no sprocket holes or actual film frames. No rotation, transport, tension, sprocket engagement, focus, exposure, optical imaging, illumination, projection, electric drive, heat management, historical reproduction, manufacture, compatibility, ergonomics, load or machinery safety claim.",
+  "bounds": {
+    "x": 0.832,
+    "y": 0.36,
+    "z": 0.86,
+    "unit": "m"
+  },
+  "triangles": 3328,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/technology/technology-fixed-dual-reel-open-film-path-projector-01/v1.0.0/model.glb",
+      "size": 180988,
+      "sha256": "40bb47a429519be9190682beb835d52a84de5c7a98dcd23f40eee2bd6fbb48f0"
+    },
+    "blend": {
+      "path": "assets/technology/technology-fixed-dual-reel-open-film-path-projector-01/v1.0.0/source.blend",
+      "size": 975108,
+      "sha256": "b53a3f255b0e501950ad6a25d7d347ff844865d32fb95cb7fe97a24f13c04217"
+    },
+    "generator": {
+      "path": "assets/technology/technology-fixed-dual-reel-open-film-path-projector-01/v1.0.0/generate.py",
+      "size": 29804,
+      "sha256": "8c649912619b35829188be933e4a65fadc70368031d1b1144f9f650ba2f45400"
+    },
+    "render": {
+      "path": "assets/technology/technology-fixed-dual-reel-open-film-path-projector-01/v1.0.0/thumbnail.png",
+      "size": 548891,
+      "sha256": "5099d182d6e9724aea4f82d8e4a738f45305cd8ebd4bc00d43851954bd12d470"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

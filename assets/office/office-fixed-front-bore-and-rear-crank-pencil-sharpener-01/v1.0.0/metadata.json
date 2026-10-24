@@ -1,0 +1,42 @@
+{
+  "id": "office-fixed-front-bore-and-rear-crank-pencil-sharpener-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "office",
+  "style": "source-preserved-low-poly",
+  "title": "Fixed Front Bore and Rear Crank Pencil Sharpener",
+  "description": "One original complete static manual desktop pencil-sharpener appearance. A low chamfered grounded foot supports a closed collection-case exterior and a short horizontal drum housing. The front circular face has an actual narrow blind pencil-entry channel with complete inner wall and floor, surrounded by a separate annular guide rim. A rear stub shaft carries a full offset crank arm and separate faceted axial grip. A small front collection-case pull belongs to the whole tool. Three opaque untextured PBR materials. Not the vertical open-hopper coffee hand mill or handheld hair dryer relabelled. One prop and zero scenes. Fixed pose only; no pencil, exposed cutting elements, internal mechanism, chip path, working crank action, sharpening procedure, fit specification, output quality or safety claim. The front bore is intentionally blind, not an assembled through-channel.",
+  "bounds": {
+    "x": 0.15600000321865082,
+    "y": 0.23100000619888306,
+    "z": 0.15399999916553497,
+    "unit": "m"
+  },
+  "triangles": 1108,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/office/office-fixed-front-bore-and-rear-crank-pencil-sharpener-01/v1.0.0/model.glb",
+      "size": 99476,
+      "sha256": "6d648e18cfd98742451fdfde3973b764f98c8522a0d9aabaf4f2e751760583c9"
+    },
+    "blend": {
+      "path": "assets/office/office-fixed-front-bore-and-rear-crank-pencil-sharpener-01/v1.0.0/source.blend",
+      "size": 694432,
+      "sha256": "67e964e4ac2dcdc8a302718b1340aef64ff295fd449a12911b89a48da1f6e155"
+    },
+    "generator": {
+      "path": "assets/office/office-fixed-front-bore-and-rear-crank-pencil-sharpener-01/v1.0.0/generate.py",
+      "size": 14271,
+      "sha256": "42d1c3ed555529df5594d936c5e191b7bd1f8ce50deb75aac42fabdc097ff59b"
+    },
+    "render": {
+      "path": "assets/office/office-fixed-front-bore-and-rear-crank-pencil-sharpener-01/v1.0.0/thumbnail.png",
+      "size": 476203,
+      "sha256": "94910359165b527400af07e2573a2f4f6936029a84f04b67c6e73d14bf93966e"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

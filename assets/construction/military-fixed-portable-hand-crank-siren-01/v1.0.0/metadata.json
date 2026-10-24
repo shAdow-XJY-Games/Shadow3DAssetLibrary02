@@ -1,0 +1,42 @@
+{
+  "id": "military-fixed-portable-hand-crank-siren-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "military",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Portable Hand Crank Siren",
+  "description": "One whole original static portable hand-crank siren appearance for non-weapon camp logistics art. A connected horizontal slotted drum housing has two continuous end rings and eight integral axial ribs around an inert recessed rotor web and coarse paddles. A closed rear case, projecting fixed offset crank with separate grip, full carrying arch and complete ground pedestal establish the whole appliance. Not an upright coffee hopper with a crank, a closed warning-light dome or an alarm clock. Three opaque untextured PBR materials, metre units, Z-up and bounds-centred ground origin. This is a deliberately fixed illustrative prop: no sound generation, acoustic output, warning coverage, rotation, gearing, mechanical fit, pressure, fabrication, military use or safety capability is verified.",
+  "bounds": {
+    "x": 0.63,
+    "y": 0.54,
+    "z": 0.7698822324556579,
+    "unit": "m"
+  },
+  "triangles": 1252,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/construction/military-fixed-portable-hand-crank-siren-01/v1.0.0/model.glb",
+      "size": 67200,
+      "sha256": "bd37e6c1d39919991361ac3e400b6995b152c064ade35e1655450eb7fca205a2"
+    },
+    "blend": {
+      "path": "assets/construction/military-fixed-portable-hand-crank-siren-01/v1.0.0/source.blend",
+      "size": 672140,
+      "sha256": "7a819f9568b88fae2e45cc95bf5b7eeaa5f816b04f0d06a49c71b8b9a56e13eb"
+    },
+    "generator": {
+      "path": "assets/construction/military-fixed-portable-hand-crank-siren-01/v1.0.0/generate.py",
+      "size": 10652,
+      "sha256": "ed5b57c8ca78a0b732d2b455003d5bcb1ea5d868a94376d4881e5b7f6db60952"
+    },
+    "render": {
+      "path": "assets/construction/military-fixed-portable-hand-crank-siren-01/v1.0.0/thumbnail.png",
+      "size": 448024,
+      "sha256": "66dcd4d4f81b46f0184a7157f7743b64a971acb28c020f6ecdc3497da6e5161c"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

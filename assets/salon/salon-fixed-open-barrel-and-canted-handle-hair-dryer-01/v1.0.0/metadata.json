@@ -1,0 +1,42 @@
+{
+  "id": "salon-fixed-open-barrel-and-canted-handle-hair-dryer-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "salon",
+  "style": "source-preserved-low-poly",
+  "title": "Fixed Open Barrel and Canted Handle Hair Dryer",
+  "description": "One original complete static handheld hair-dryer appearance in a fixed upright display pose. A thick stepped circular barrel has an actual narrowed open front mouth and complete inner wall. Its rear end carries a whole annular retaining rim and six real radial grille spokes around a small central hub, leaving actual open sectors. A full canted handle with broad flat heel meets the underside, with one small blank side control. Three opaque untextured PBR roles. Entire geometry newly authored, not the large stand hood dryer shrunk or a solid scanner body recoloured. One prop and zero scenes; no cord, fan, heating coil, airflow, operating procedure, heat output, hair-treatment performance, stable-use pose, hand-fit or electrical/safety claim. The grip is a static display support, not certification of equilibrium; no continuous assembled internal air circuit is claimed.",
+  "bounds": {
+    "x": 0.14000000059604645,
+    "y": 0.32899999618530273,
+    "z": 0.3050000071525574,
+    "unit": "m"
+  },
+  "triangles": 1604,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/salon/salon-fixed-open-barrel-and-canted-handle-hair-dryer-01/v1.0.0/model.glb",
+      "size": 143568,
+      "sha256": "027e30e65873281b919c2cc9499798436112a17374c2a5324d1fbd041a4c59d9"
+    },
+    "blend": {
+      "path": "assets/salon/salon-fixed-open-barrel-and-canted-handle-hair-dryer-01/v1.0.0/source.blend",
+      "size": 764096,
+      "sha256": "bef6a198c63d681f9e1b87871932e50a280f1f92546a90ec247277117c79273c"
+    },
+    "generator": {
+      "path": "assets/salon/salon-fixed-open-barrel-and-canted-handle-hair-dryer-01/v1.0.0/generate.py",
+      "size": 14168,
+      "sha256": "c73fe1a3fe91ba3a23fb2003454b246d5770a5f3d7383abc57087ab48386cde4"
+    },
+    "render": {
+      "path": "assets/salon/salon-fixed-open-barrel-and-canted-handle-hair-dryer-01/v1.0.0/thumbnail.png",
+      "size": 482477,
+      "sha256": "be3118b100c1e5dad4c3748714bcc581f64f1fca05456ef4cc6d3e41353ab2a8"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

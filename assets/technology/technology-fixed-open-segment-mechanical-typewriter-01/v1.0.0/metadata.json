@@ -1,0 +1,42 @@
+{
+  "id": "technology-fixed-open-segment-mechanical-typewriter-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "technology",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Open Segment Mechanical Typewriter",
+  "description": "One newly authored whole fixed mechanical typewriter appearance. A low chamfered base on four finite feet and two continuous rising case sides support an inclined keyboard deck, four staggered rows of independent round stemmed blank keys and a separately supported long front space bar. An actual thick open semicircular segment carries distinct inward-sloping resting typebars with separated inner ends. The high rear transverse carriage bridge and whole through axle support a full horizontal round platen, two offset side knobs, a continuous curved rear paper guard, a thin forward bail with complete end arms and one fixed angled left return lever with grip. No display, drawer, paper sheet, printed letters or logo. All numeric geometry is new, not the earlier cash register altered to remove its till, a laptop with round keys, or an instrument key row counted as a new object. Four opaque constant PBR roles, metres, Z up and actual horizontal-bounds-centred bottom-foot origin. One prop, zero scenes. Deliberately stylized key and bar counts and fixed small material overlaps; not a historical reproduction or full internal mechanism. No character mapping, key-to-bar linkage, typing, impression, ink transfer, paper feed, carriage travel, line spacing, alignment, moving clearance, ergonomics, manufacture, load or machinery safety claim.",
+  "bounds": {
+    "x": 0.482,
+    "y": 0.356,
+    "z": 0.255,
+    "unit": "m"
+  },
+  "triangles": 5960,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/technology/technology-fixed-open-segment-mechanical-typewriter-01/v1.0.0/model.glb",
+      "size": 322428,
+      "sha256": "3aa52f6efb76f697865ee426064b7a99c5f76764d0afa5429687c2754866d7f7"
+    },
+    "blend": {
+      "path": "assets/technology/technology-fixed-open-segment-mechanical-typewriter-01/v1.0.0/source.blend",
+      "size": 1251536,
+      "sha256": "3d77662c31d9700d9e6b067fbc29532881cbafe16b7db9f3199f0a690981eddb"
+    },
+    "generator": {
+      "path": "assets/technology/technology-fixed-open-segment-mechanical-typewriter-01/v1.0.0/generate.py",
+      "size": 29263,
+      "sha256": "e6a8319a80b887db94ff49b28328f81b9c07acfda034f8e0740891948bb8fad8"
+    },
+    "render": {
+      "path": "assets/technology/technology-fixed-open-segment-mechanical-typewriter-01/v1.0.0/thumbnail.png",
+      "size": 570804,
+      "sha256": "104b486d4a9e1adca4c6427b12843e8454d7e79a18825afcfefecf85d830a460"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

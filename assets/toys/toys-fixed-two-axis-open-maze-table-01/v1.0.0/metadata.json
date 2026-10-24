@@ -1,0 +1,42 @@
+{
+  "id": "toys-fixed-two-axis-open-maze-table-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "toys",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Two Axis Open Maze Table",
+  "description": "One newly authored complete static tabletop maze-game exterior. A deep grounded collection base and continuous outer support rim carry a whole open intermediate frame on front/rear pins. A separate complete maze tray is held on perpendicular side pins in one gently tilted pose; two distinct control knobs terminate the two axes. The tray has a single shared-vertex thick floor with three genuine through-drop apertures, four perimeter rails, fixed raised maze walls and one stationary display ball. All whole geometry is new, not the fixed inclined pinball cabinet with its targets replaced, a quarter-turn modular grooved track, or an abacus given a horizontal board. Three constant opaque untextured PBR roles, metres, native Z up, full horizontally bounds-centred ground origin. One whole prop, zero scenes. Fixed illustrative pose only: no solved ball route, game rules, playable scoring, physics, axis motion through all angles, dynamic collision guarantees, controls or transfer mechanism, user fit, manufacture or toy-safety claim.",
+  "bounds": {
+    "x": 0.98,
+    "y": 0.9550000000000001,
+    "z": 0.3610442440106053,
+    "unit": "m"
+  },
+  "triangles": 1196,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/toys/toys-fixed-two-axis-open-maze-table-01/v1.0.0/model.glb",
+      "size": 67148,
+      "sha256": "68f9f0fa77ab8b8d468bdaca69ccdfae28ee712b956ad715e87b2348d67d20e9"
+    },
+    "blend": {
+      "path": "assets/toys/toys-fixed-two-axis-open-maze-table-01/v1.0.0/source.blend",
+      "size": 687696,
+      "sha256": "0aa7e2d8eac845d4c154199e201c3dfa7b85d712bb65bb62a2540e8dfef64796"
+    },
+    "generator": {
+      "path": "assets/toys/toys-fixed-two-axis-open-maze-table-01/v1.0.0/generate.py",
+      "size": 12041,
+      "sha256": "0b13472cf9298d88af8bf23e3f800b279aa232851e2cd22c348e9cba6375f763"
+    },
+    "render": {
+      "path": "assets/toys/toys-fixed-two-axis-open-maze-table-01/v1.0.0/thumbnail.png",
+      "size": 505987,
+      "sha256": "0f03f845732a8652af5d4cf2cad80f0dde7aed0cb2f0aed2f3010b0e95502d2e"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

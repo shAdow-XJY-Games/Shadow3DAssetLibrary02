@@ -1,0 +1,42 @@
+{
+  "id": "cafe-fixed-open-hopper-and-fork-dose-grinder-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "cafe",
+  "style": "source-preserved-low-poly",
+  "title": "Fixed Open Hopper and Fork Dose Grinder",
+  "description": "One original complete static professional countertop coffee-grinder appearance. Four whole short feet support one broad base, a tall faceted motor body and a wider upper adjustment-collar appearance. A large thick flared opaque hopper has a real deep open chamber and blind floor. At the front, a whole downward hollow delivery-tube appearance ends above a genuinely open twin-prong support fork, with a separate shallow catch well below. One blank control face and small fixed adjustment lever are included. Newly authored geometry is not the hand-crank grinder enlarged or the espresso group removed from its appliance: the separate front dispensing gap, fork and tall motor arrangement define a different complete object. Three opaque PBR roles. One prop, zero scenes, beans, cups or portafilters. Static visual only; no grinding mechanism, continuous process path, dosing accuracy, electrical operation, food handling instruction, cleaning procedure, load or safety claim.",
+  "bounds": {
+    "x": 0.35899999737739563,
+    "y": 0.4749999940395355,
+    "z": 0.699999988079071,
+    "unit": "m"
+  },
+  "triangles": 1404,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/cafe/cafe-fixed-open-hopper-and-fork-dose-grinder-01/v1.0.0/model.glb",
+      "size": 128480,
+      "sha256": "2b7e2223e78088a67babcfdf24841699478b42d9e24f355c0762bd70f59611fe"
+    },
+    "blend": {
+      "path": "assets/cafe/cafe-fixed-open-hopper-and-fork-dose-grinder-01/v1.0.0/source.blend",
+      "size": 755808,
+      "sha256": "8d21d35b5aad8d50cf9f7a0f218974727558324390338f5091f64e2b0813e04c"
+    },
+    "generator": {
+      "path": "assets/cafe/cafe-fixed-open-hopper-and-fork-dose-grinder-01/v1.0.0/generate.py",
+      "size": 15186,
+      "sha256": "1549710195f7d03df8536b1e7c35f0637099e65e0acf7367c0dd8f65e9d08b44"
+    },
+    "render": {
+      "path": "assets/cafe/cafe-fixed-open-hopper-and-fork-dose-grinder-01/v1.0.0/thumbnail.png",
+      "size": 495945,
+      "sha256": "5f61f169255d54d34f324cb0fef02799056ff97bfcf0327532dcf271626ca106"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "sports-fixed-guyed-twin-gymnastic-ring-frame-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "sports",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Guyed Twin Gymnastic Ring Frame",
+  "description": "One newly authored complete static gymnastic twin-ring frame. Two high upright columns carry a full transverse portal beam above two independent long flat hanging straps. Each strap terminates in a complete round-section wooden-looking ring with a genuine open centre. Four continuous outward stays connect the upper columns to four separate finite grounded anchor shoes; two broad main column shoes complete the six-point footprint. Every whole numeric component is newly authored. This is not the old one-column cantilever heavy-bag stand with rings substituted for the bag, the A-frame swing with its seat removed, or a raised version of rigid parallel bars: the full high portal, four outward stay routes and independent hanging grips form a different complete apparatus. Three constant opaque untextured PBR roles, metres, native Z up, full horizontally bounds-centred ground origin. One complete prop, zero scenes. Unoccupied fixed display only: no swinging or gymnastics motion, adjustable height, strap or cable tension, anchoring installation, athlete fit, official dimensions, stability, loading, manufacture or sports-equipment safety claim.",
+  "bounds": {
+    "x": 2.8272,
+    "y": 2.28,
+    "z": 3.28,
+    "unit": "m"
+  },
+  "triangles": 2124,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/sports/sports-fixed-guyed-twin-gymnastic-ring-frame-01/v1.0.0/model.glb",
+      "size": 120180,
+      "sha256": "0dddb260caebd41c4a34ac132e8b245a8d61affdc253feea9388fbd42a72cc10"
+    },
+    "blend": {
+      "path": "assets/sports/sports-fixed-guyed-twin-gymnastic-ring-frame-01/v1.0.0/source.blend",
+      "size": 719408,
+      "sha256": "9fa4250a46457c4469a81518feb1997401e1176cf3518f15877723284b2bf541"
+    },
+    "generator": {
+      "path": "assets/sports/sports-fixed-guyed-twin-gymnastic-ring-frame-01/v1.0.0/generate.py",
+      "size": 10493,
+      "sha256": "6227dd1ae25e75cf3fa918276091e15d2cb82361416a0fb1a477e43a02a3af4f"
+    },
+    "render": {
+      "path": "assets/sports/sports-fixed-guyed-twin-gymnastic-ring-frame-01/v1.0.0/thumbnail.png",
+      "size": 437732,
+      "sha256": "2efe1401179b2a09d239940a2fc4ee5a0eddd1ef82e454dc9a08383acd84e60c"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

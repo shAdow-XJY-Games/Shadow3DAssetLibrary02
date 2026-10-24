@@ -1,0 +1,42 @@
+{
+  "id": "carnival-fixed-open-boat-pendulum-ride-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "carnival",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Open Boat Pendulum Ride",
+  "description": "One newly authored complete static boat-shaped pendulum ride exterior. Four broad grounded shoes, two outside A-frames and low cross ties carry two truly bored top bearings and one continuous horizontal axle. Two rigid side suspension bridles connect that axle to complete bow and stern crossmembers on a newly shaped long open boat shell. The shell has rising narrow ends, a broad lower middle, full thick bottom and walls, separate closed end bulkheads and four transverse benches. All whole numerical shapes are new; no existing swing seat, boat asset, carousel horse or Ferris-wheel rim/cabin is imported, extracted, recoloured or counted again. It has one suspended boat rather than a wheel and multiple level cabins, or a rope-hung narrow plank. Three opaque constant untextured PBR materials. Metres, native Z up, horizontal bounds-centred ground datum. One complete prop, zero scenes. Fixed display only: no rotation or swing envelope, drive, latch, brake, restraint, passenger fit, load capacity, assembly instructions, stability or amusement-ride safety claim; no people, surrounding fairground, animation or operational mechanism.",
+  "bounds": {
+    "x": 2.555,
+    "y": 2.11,
+    "z": 2.43,
+    "unit": "m"
+  },
+  "triangles": 1744,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/carnival/carnival-fixed-open-boat-pendulum-ride-01/v1.0.0/model.glb",
+      "size": 95212,
+      "sha256": "a9cca5fb406fc891085a0aedfe2b7646da731af37b87c468d718ee2377ae3f45"
+    },
+    "blend": {
+      "path": "assets/carnival/carnival-fixed-open-boat-pendulum-ride-01/v1.0.0/source.blend",
+      "size": 758892,
+      "sha256": "13208620bcc7b012ab60708fcc9184a6cc1ecb50eb09ee3ad955bd992f740f6a"
+    },
+    "generator": {
+      "path": "assets/carnival/carnival-fixed-open-boat-pendulum-ride-01/v1.0.0/generate.py",
+      "size": 11610,
+      "sha256": "248d5ed714ff7e837802e25ec5af18c4e8471f6adb8bd2a4358f5a2596a64108"
+    },
+    "render": {
+      "path": "assets/carnival/carnival-fixed-open-boat-pendulum-ride-01/v1.0.0/thumbnail.png",
+      "size": 561855,
+      "sha256": "afa0202ffd73e0c0cddcfe15a0f84edc647d22ea64fa0c66f6d493fa73ab8729"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

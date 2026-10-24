@@ -1,0 +1,42 @@
+{
+  "id": "restaurant-fixed-raised-dome-and-round-serving-dish-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "restaurant",
+  "style": "source-preserved-low-poly",
+  "title": "Fixed Raised Dome and Round Serving Dish",
+  "description": "One original whole static raised-dome round buffet serving-dish appearance. A genuinely thick open round basin has a full floor, inner wall and rim. Its separate hollow domed lid is fixed raised on a rear transverse hinge, with a top knob following the lid. Two full open side carry handles and four compact legs support the basin; a lower cross shelf holds one empty unlit cup. Three opaque untextured PBR roles, one prop and zero scenes. Newly authored complete geometry, not a shallow baking tray or skewer brazier relabelled. No food, liquid, flame, fuel, operative heater, movement, instructions, thermal behavior, capacity, food-contact hygiene or safety claim. The raised lid hides parts of the rear rim in the intended view; inner bowl and cover are actual geometry.",
+  "bounds": {
+    "x": 0.6200000047683716,
+    "y": 0.605567455291748,
+    "z": 0.7232400178909302,
+    "unit": "m"
+  },
+  "triangles": 2888,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/restaurant/restaurant-fixed-raised-dome-and-round-serving-dish-01/v1.0.0/model.glb",
+      "size": 252976,
+      "sha256": "a5907e814f7598a1a8e03c53c112b1ffa5b06a7d319859d2a1ab9e2d4001add5"
+    },
+    "blend": {
+      "path": "assets/restaurant/restaurant-fixed-raised-dome-and-round-serving-dish-01/v1.0.0/source.blend",
+      "size": 922016,
+      "sha256": "3592bc4b01b0222c9c33b02ebba41dfb094bc99055792cea984d1046072c8ebd"
+    },
+    "generator": {
+      "path": "assets/restaurant/restaurant-fixed-raised-dome-and-round-serving-dish-01/v1.0.0/generate.py",
+      "size": 14781,
+      "sha256": "c93f8a525cdde7055986c089537f4807b8b023fa9779dfe16b9eeb2e7fd5d99b"
+    },
+    "render": {
+      "path": "assets/restaurant/restaurant-fixed-raised-dome-and-round-serving-dish-01/v1.0.0/thumbnail.png",
+      "size": 509051,
+      "sha256": "87ffcfc16c41b3eef1b48f790d2cf3d829943a212954dc43b9807ca4b1615a04"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

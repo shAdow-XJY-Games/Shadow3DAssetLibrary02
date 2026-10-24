@@ -1,0 +1,42 @@
+{
+  "id": "agriculture-fixed-open-hatch-barrel-churn-01",
+  "version": "1.0.0",
+  "category": "modular",
+  "assetKind": "prop",
+  "theme": "agriculture",
+  "style": "warm-handcrafted-village",
+  "title": "Fixed Open-Hatch Barrel Churn",
+  "description": "One original complete fixed-pose horizontal barrel churn appearance. A truly thick bilged wooden chamber with two closed end heads has a bounded upper access opening and raised attached lid, two end trunnions in grounded timber support frames, a long lower frame tie and an offset side crank. Fixed internal paddle boards are visible through the open hatch. No old mixer shell, grain fan housing or press basket is reused. One static game-art prop only: no rotation, seal, churning, mixing, dairy processing, hygiene, capacity, structural, manufacturing or safety claim.",
+  "bounds": {
+    "x": 1.25,
+    "y": 0.579999983,
+    "z": 1.259416461,
+    "unit": "m"
+  },
+  "triangles": 1848,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/agriculture/agriculture-fixed-open-hatch-barrel-churn-01/v1.0.0/model.glb",
+      "size": 96496,
+      "sha256": "ba273b3c4426fe3d7e6aea7b45ab06e7efd5748e5f9f2919b6e8a221c583a68a"
+    },
+    "blend": {
+      "path": "assets/agriculture/agriculture-fixed-open-hatch-barrel-churn-01/v1.0.0/source.blend",
+      "size": 646732,
+      "sha256": "015c12123c7a8ded0d4e3a2486d43c173d0bd39028e3b74f51b2f376bc5bd423"
+    },
+    "generator": {
+      "path": "assets/agriculture/agriculture-fixed-open-hatch-barrel-churn-01/v1.0.0/generate.py",
+      "size": 30213,
+      "sha256": "e0ebfbdaaea48ac50d4eb18cffa407d9437a60641e40e9d3d1f0ba126f5016ab"
+    },
+    "render": {
+      "path": "assets/agriculture/agriculture-fixed-open-hatch-barrel-churn-01/v1.0.0/thumbnail.png",
+      "size": 550292,
+      "sha256": "a74386377638967c4f868cd503efde456a0d4ab8d8c03a62b962a413ff7fa707"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

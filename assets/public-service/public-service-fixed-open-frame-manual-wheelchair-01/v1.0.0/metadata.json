@@ -1,0 +1,42 @@
+{
+  "id": "public-service-fixed-open-frame-manual-wheelchair-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "public-service",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Open-Frame Manual Wheelchair Appearance",
+  "description": "One newly authored whole fixed manual-wheelchair appearance under the public-service equipment direction. Two large open-spoked rear wheels have separate outboard hand rims with real gaps and individual spacing mounts; two much smaller front wheels sit in complete open caster forks. Full bent side frames integrate the rear push handles, seat rails and descending forward leg supports, with lower chassis rails, rear axle uprights and a fixed crossed under-seat brace pair. Complete thin seat/back panels, two independent open-underarm pads and two separated forward foot plates finish the one seated mobility silhouette. This is not an upholstered recliner placed on a trolley, a bicycle with a chair payload or wheel-count variation of a storage cart; no old model vertices are imported. Four opaque constant PBR materials, metres, Z up and true horizontal-bounds-centred ground origin. One static prop, zero scenes or separate wheel/seat assets. All joints are a fixed illustrative pose with small intentional embedded connections. No rolling, steering, braking, folding, propulsion, user dimensions, posture, disability fit, medical or rehabilitation suitability, transport performance, accessibility compliance, load, stability, manufacture or safety claim; not an operable or certified mobility-device design.",
+  "bounds": {
+    "x": 0.828,
+    "y": 1.09,
+    "z": 0.976,
+    "unit": "m"
+  },
+  "triangles": 4224,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/public-service/public-service-fixed-open-frame-manual-wheelchair-01/v1.0.0/model.glb",
+      "size": 235352,
+      "sha256": "05d43d920c63f172c4fe4028a512ef80ad551643bc279f0fee9fa97357d1f052"
+    },
+    "blend": {
+      "path": "assets/public-service/public-service-fixed-open-frame-manual-wheelchair-01/v1.0.0/source.blend",
+      "size": 1067860,
+      "sha256": "848d198d62c43cee77b741ed25511dbd7dfb853a8ce7cfbe07b8a44ef83f5b1d"
+    },
+    "generator": {
+      "path": "assets/public-service/public-service-fixed-open-frame-manual-wheelchair-01/v1.0.0/generate.py",
+      "size": 28854,
+      "sha256": "b5ed036b8035ce7e6a6ad81e4851048c7348b3d7d869911df710ae3c8af2db4a"
+    },
+    "render": {
+      "path": "assets/public-service/public-service-fixed-open-frame-manual-wheelchair-01/v1.0.0/thumbnail.png",
+      "size": 558070,
+      "sha256": "bdd13c18e21c8ae56b913dab6ff2f518aeda4857de51b2c2e415392f59fec796"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

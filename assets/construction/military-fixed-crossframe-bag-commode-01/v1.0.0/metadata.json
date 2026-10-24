@@ -1,0 +1,42 @@
+{
+  "id": "military-fixed-crossframe-bag-commode-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "military",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Crossframe Bag Commode",
+  "description": "One complete original fixed-expanded portable camp sanitary-fixture appearance. Two separately layered crossed side frames and fixed pivots carry an oval thick seat ring with a true open centre. A complete closed-material flexible-looking collection bag has an open mouth flange under that ring, an actual blind bottom, broad side folds and visible clearance above the lower frame. Four finite foot pads and two low stretchers complete the whole support. No backrest, arms, canvas seat, rigid ceramic pedestal, cistern or flush button. All geometry newly authored, not a clipped camping chair or a reduced old household toilet. Three opaque untextured PBR materials, metre units, Z-up, horizontal-bounds-centred ground origin. One static prop, zero scenes. No person, waste or fluids. No actual folding, sealing, containment performance, load capacity, ergonomics, fit, sanitation, use, manufacture, installation or health/safety certification.",
+  "bounds": {
+    "x": 0.576,
+    "y": 0.582,
+    "z": 0.487,
+    "unit": "m"
+  },
+  "triangles": 1360,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/construction/military-fixed-crossframe-bag-commode-01/v1.0.0/model.glb",
+      "size": 92728,
+      "sha256": "8808dcc688c87285b4c0017460d8b286f404abc312a67d25b86166f25ef1d219"
+    },
+    "blend": {
+      "path": "assets/construction/military-fixed-crossframe-bag-commode-01/v1.0.0/source.blend",
+      "size": 664320,
+      "sha256": "fd4e8d905cfc59fce29135d126530e0616eefd05a04fa678168b1573cb5a7964"
+    },
+    "generator": {
+      "path": "assets/construction/military-fixed-crossframe-bag-commode-01/v1.0.0/generate.py",
+      "size": 10484,
+      "sha256": "eb68d69a025f7df58894594c5db4b1c28496041ca0ead1a631e4d79b5dea5d16"
+    },
+    "render": {
+      "path": "assets/construction/military-fixed-crossframe-bag-commode-01/v1.0.0/thumbnail.png",
+      "size": 470634,
+      "sha256": "b9a555e1e697156dad0c4af1fff8d134f10bda87d4b4cf39ca835bd3963fc234"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

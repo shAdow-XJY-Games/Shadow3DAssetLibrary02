@@ -1,0 +1,42 @@
+{
+  "id": "sports-fixed-curved-deck-coil-springboard-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "sports",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Curved Deck Coil Springboard",
+  "description": "One newly authored complete fixed gymnastics springboard exterior. A whole broad timber section rises continuously from a low anchored toe into a rounded raised rear deck, with a separate full curved top pad. Four complete three-turn closed coil tubes rise from finite lower sockets on a continuous grounded base into individual upper sockets under the deck. All deck contours, base and spring placement are newly authored, not the old rigid slant-board cheeks with a changed angle, a radial trampoline rescaled into a rectangle, or an accessory detached from the vaulting table. Three opaque constant untextured PBR roles, metres, native Z up, full horizontally bounds-centred ground origin. One whole prop, zero scenes. A single unoccupied static illustrative pose only: no elastic deformation, bounce or spring force, dynamic clearance, official dimensions, athlete fit, training instruction, padding performance, loading, manufacture or sports-equipment safety claim.",
+  "bounds": {
+    "x": 0.6,
+    "y": 1.31,
+    "z": 0.26595565496891516,
+    "unit": "m"
+  },
+  "triangles": 3412,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/sports/sports-fixed-curved-deck-coil-springboard-01/v1.0.0/model.glb",
+      "size": 226044,
+      "sha256": "c65608303a26c65d36b2465813e82214652dd78f9aa1b75477b2b24fad34d1e1"
+    },
+    "blend": {
+      "path": "assets/sports/sports-fixed-curved-deck-coil-springboard-01/v1.0.0/source.blend",
+      "size": 770536,
+      "sha256": "537fefcac934d1864490bb9939dc86263470f6e506f2c981ac7537906874679d"
+    },
+    "generator": {
+      "path": "assets/sports/sports-fixed-curved-deck-coil-springboard-01/v1.0.0/generate.py",
+      "size": 11221,
+      "sha256": "fc1a764332e72b96c231a6ceabfdfe0c9c79570f17c35611451243881640d572"
+    },
+    "render": {
+      "path": "assets/sports/sports-fixed-curved-deck-coil-springboard-01/v1.0.0/thumbnail.png",
+      "size": 338260,
+      "sha256": "c87a54b2b08e897e70b77ebba7851c0a39bbc50c1e16a4be38a8a77308e1f442"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

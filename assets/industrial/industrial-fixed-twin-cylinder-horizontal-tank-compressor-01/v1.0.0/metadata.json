@@ -1,0 +1,42 @@
+{
+  "id": "industrial-fixed-twin-cylinder-horizontal-tank-compressor-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "industrial",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Twin Cylinder Horizontal Tank Compressor",
+  "description": "One newly authored complete portable compressor-style exterior. A whole domed horizontal solid receiver-like tank rests in two full curved saddles on its own low chassis, two flat-grounded front wheels, complete axle/bearing blocks and two finite rear feet. One entire open inclined rear push handle joins both rails. A full upper mounting bed supports a separate motor casing and shouldered crankcase; two inclined complete finned barrel solids with thick independent heads distinguish the pump silhouette. Full shafts carry one small annular pulley and one large five-spoke open pulley, linked by one continuous closed thick flat belt with real unequal curved ends and two tangent runs. One whole curved solid delivery-tube exterior connects a head to the tank shoulder; a small recessed blank gauge is subordinate. All coordinates newly authored, no old truck cab deletion, boiler rotation, volute impeller or imported meshes. One prop, zero scenes; no separately counted tank, motor or accessories. Four opaque constant PBR roles, metres, Z up and true horizontal bounds-centred ground datum. Small fixed material overlaps establish assembly roots. Static illustrative art only: no pressure vessel interior, seals, fluid circuit, capacity, pumping, belt tension or motion, cooling, wiring, electrical operation, structural performance, manufacture, repair or equipment safety claim. The exposed drive is a static display, not a safe operating arrangement.",
+  "bounds": {
+    "x": 1.234158,
+    "y": 0.564,
+    "z": 0.856849,
+    "unit": "m"
+  },
+  "triangles": 5136,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/industrial/industrial-fixed-twin-cylinder-horizontal-tank-compressor-01/v1.0.0/model.glb",
+      "size": 290892,
+      "sha256": "3a3a01a1de9d7e25366ab3075310ad753cee3b86d1346dc737d8ac68f5426344"
+    },
+    "blend": {
+      "path": "assets/industrial/industrial-fixed-twin-cylinder-horizontal-tank-compressor-01/v1.0.0/source.blend",
+      "size": 995752,
+      "sha256": "7ccb0696fd9efa4fa29a1b809ef036a0acc8f117da5170851cd34140eec5b171"
+    },
+    "generator": {
+      "path": "assets/industrial/industrial-fixed-twin-cylinder-horizontal-tank-compressor-01/v1.0.0/generate.py",
+      "size": 32524,
+      "sha256": "753f0e66d3761a97173f1e96f3f42c590a5489ad4f5ce791daa160fef864d73e"
+    },
+    "render": {
+      "path": "assets/industrial/industrial-fixed-twin-cylinder-horizontal-tank-compressor-01/v1.0.0/thumbnail.png",
+      "size": 519610,
+      "sha256": "550a49f328fcf3a49c34e2b99d8bb93a626dca95c2944938d9267d8abdbb86aa"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

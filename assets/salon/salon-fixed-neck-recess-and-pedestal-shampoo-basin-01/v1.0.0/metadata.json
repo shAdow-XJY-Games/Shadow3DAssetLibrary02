@@ -1,0 +1,42 @@
+{
+  "id": "salon-fixed-neck-recess-and-pedestal-shampoo-basin-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "salon",
+  "style": "source-preserved-low-poly",
+  "title": "Fixed Neck Recess and Pedestal Shampoo Basin",
+  "description": "One original complete static salon shampoo-basin appearance. A thick oval bowl has a genuinely lowered and inward-recessed front neck lip, taller rear walls, a complete deep inner floor and full outer underside. One enclosed tapered pedestal widens to a full grounded foot, and a small rear deck carries an entire fixed angular faucet exterior and two blank controls. Three opaque untextured PBR roles. Newly authored complete professional basin, not the rectangular laboratory sink resized and not the styling chair stripped of its seat. One prop and zero scenes; no chair, hair, person, water, pipes or drain simulation. Static visual only, with no neck fit, accessibility, hydraulic function, sanitation, load, installation or safety claim.",
+  "bounds": {
+    "x": 0.6800000071525574,
+    "y": 0.675000011920929,
+    "z": 1.1200000047683716,
+    "unit": "m"
+  },
+  "triangles": 1088,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/salon/salon-fixed-neck-recess-and-pedestal-shampoo-basin-01/v1.0.0/model.glb",
+      "size": 96324,
+      "sha256": "17bb71799101049f32fb045ae47575a011acb7c9e5808f70a601a03969bda427"
+    },
+    "blend": {
+      "path": "assets/salon/salon-fixed-neck-recess-and-pedestal-shampoo-basin-01/v1.0.0/source.blend",
+      "size": 682784,
+      "sha256": "c5179ad732f3b4db2a3f56d38b1c4f15dba8741c66cbd0c3d57513baa61eab37"
+    },
+    "generator": {
+      "path": "assets/salon/salon-fixed-neck-recess-and-pedestal-shampoo-basin-01/v1.0.0/generate.py",
+      "size": 14036,
+      "sha256": "088389338942ee3b8459063a1c7c9f5f0afc77341dbd763d275f5673637973be"
+    },
+    "render": {
+      "path": "assets/salon/salon-fixed-neck-recess-and-pedestal-shampoo-basin-01/v1.0.0/thumbnail.png",
+      "size": 471011,
+      "sha256": "156984168005c2dd500432b37d5acd36eb68647f9337a3f0f169c72bd09aa3ce"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

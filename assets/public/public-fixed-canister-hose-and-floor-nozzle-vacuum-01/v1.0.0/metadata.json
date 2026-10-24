@@ -1,0 +1,42 @@
+{
+  "id": "public-fixed-canister-hose-and-floor-nozzle-vacuum-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "public",
+  "style": "source-preserved-low-poly",
+  "title": "Fixed Canister Hose and Floor Nozzle Vacuum",
+  "description": "One original complete static commercial canister-vacuum appearance. A low faceted cylindrical collection-body exterior on four caster wheels carries a stepped top motor cap, complete open carry handle and two side retention latches. One continuous thick curved hose exterior joins its front socket to the top of a full rigid sloping wand, which reaches a separate wide flattened grounded floor nozzle with an actual shallow underside recess. Three opaque untextured PBR roles. Entire new assembly, not the tall pleated-filter and lower-bag workshop dust collector scaled down, and not a backpack sprayer relabelled. One prop and zero scenes. Fixed exterior visual only; no interior air circuit, active suction, dust filtration, electrical operation, health protection, cleaning instructions, wheel travel, mechanical load or safety claim.",
+  "bounds": {
+    "x": 1.0247782468795776,
+    "y": 1.4769999980926514,
+    "z": 0.8756042122840881,
+    "unit": "m"
+  },
+  "triangles": 2596,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/public/public-fixed-canister-hose-and-floor-nozzle-vacuum-01/v1.0.0/model.glb",
+      "size": 236112,
+      "sha256": "f9eaa062d2c822ab3812be41244819bf4e2a914e61e02156a27e8f5ef542cba9"
+    },
+    "blend": {
+      "path": "assets/public/public-fixed-canister-hose-and-floor-nozzle-vacuum-01/v1.0.0/source.blend",
+      "size": 936352,
+      "sha256": "883ce54b2f40f918c0f0ea9c0180f2194d5612365ebd407792f37f817bee8d10"
+    },
+    "generator": {
+      "path": "assets/public/public-fixed-canister-hose-and-floor-nozzle-vacuum-01/v1.0.0/generate.py",
+      "size": 15798,
+      "sha256": "a67a3d3e2b329516d9cf1a2af0f40dce9d1c37576d9355f03e32372184df2eab"
+    },
+    "render": {
+      "path": "assets/public/public-fixed-canister-hose-and-floor-nozzle-vacuum-01/v1.0.0/thumbnail.png",
+      "size": 490048,
+      "sha256": "8d4b1d249e2ad0642951c28bf801679315bb14834ab5396fcdedc33ab5a3d992"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

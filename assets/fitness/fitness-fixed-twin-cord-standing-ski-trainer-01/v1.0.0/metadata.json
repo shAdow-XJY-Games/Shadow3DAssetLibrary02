@@ -1,0 +1,42 @@
+{
+  "id": "fitness-fixed-twin-cord-standing-ski-trainer-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "fitness",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Twin Cord Standing Ski Trainer",
+  "description": "One newly authored complete static standing ski-training machine exterior. A long low ground plinth includes a raised empty standing tread, while two whole outward-rising frame columns support separate upper pulley forks. Each of two continuous fixed cords runs from the low enclosure over its own upper pulley to its own short hanging grip. One low deep annular fan enclosure includes a separate internal wheel, complete hub and axle, and real open radial front grille. New full numeric geometry is not the old rowing rail/seat/foot-tray assembly or the guided cassette/weight-rod pulldown tower reassembled; this model has no seat carriage, foot straps, weight cassette or single overhead pull bar. The whole two-cord standing layout and floor platform belong to one prop, zero scenes. Three opaque constant PBR roles, metres, native Z up and full horizontal-bounds-centred ground origin. Fixed unoccupied illustrative appearance only: no force transmission, exercise prescription, resistance, power, cable tension or motion, human fit, health benefits, loading, manufacture or safety claim.",
+  "bounds": {
+    "x": 1.05,
+    "y": 1.45,
+    "z": 2.186,
+    "unit": "m"
+  },
+  "triangles": 1888,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/fitness/fitness-fixed-twin-cord-standing-ski-trainer-01/v1.0.0/model.glb",
+      "size": 116816,
+      "sha256": "19f1ac491f7794ef2adb190588b635d295c7e77db6437cb5174b14f410e76e56"
+    },
+    "blend": {
+      "path": "assets/fitness/fitness-fixed-twin-cord-standing-ski-trainer-01/v1.0.0/source.blend",
+      "size": 771372,
+      "sha256": "f5dff67f45315772cf97fc51f460f2eb1831f8d97ec7e0efa3265e94d5dc7745"
+    },
+    "generator": {
+      "path": "assets/fitness/fitness-fixed-twin-cord-standing-ski-trainer-01/v1.0.0/generate.py",
+      "size": 11227,
+      "sha256": "dfa61b59c4325b33afff2c753e50c369d67ba1d64795b9b1cf0125574c5859df"
+    },
+    "render": {
+      "path": "assets/fitness/fitness-fixed-twin-cord-standing-ski-trainer-01/v1.0.0/thumbnail.png",
+      "size": 373139,
+      "sha256": "b72835f2b7db7c66f2f431b91c711870786e2225c55700fac4ff44c33772aaae"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

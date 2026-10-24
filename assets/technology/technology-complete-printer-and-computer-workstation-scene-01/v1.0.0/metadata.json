@@ -1,0 +1,42 @@
+{
+  "id": "technology-complete-printer-and-computer-workstation-scene-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "technology",
+  "style": "source-preserved-low-poly",
+  "title": "Complete Printer and Computer Workstation",
+  "description": "One complete static technology fabrication demonstration workstation scene: the entire original open worktable supports the entire original single-column cantilever printer on its left and the entire original fixed-open portable computer on its right. All three complete previous model IDs retain their full original GLB buffer payloads, per-face materials, normals and internal hierarchy with unit-scale rigid translations only. Both complete device envelopes lie on the real finite table top with an open gap between their stations; the table has a clear front under-table opening and stands on one finite scene-only floor. This layout is not the communications bench/cable reel/mast service bay or the carpentry joint/plane/rack scene. One scene, zero new independent models. No operating printer, connected computer, wiring, fabrication process, worker, loading, ergonomic or electrical/safety assertion.",
+  "bounds": {
+    "x": 1.600000023841858,
+    "y": 1.2000000476837158,
+    "z": 1.6164605617523193,
+    "unit": "m"
+  },
+  "triangles": 4672,
+  "materials": 12,
+  "files": {
+    "glb": {
+      "path": "assets/technology/technology-complete-printer-and-computer-workstation-scene-01/v1.0.0/model.glb",
+      "size": 465204,
+      "sha256": "c420eda08da6356239ea4fdac134d61dbea780379de8f62bb3e932951525b934"
+    },
+    "blend": {
+      "path": "assets/technology/technology-complete-printer-and-computer-workstation-scene-01/v1.0.0/source.blend",
+      "size": 1805088,
+      "sha256": "f0d756b76f3bb13004bb73a83f23640f758076766158c511f072cd57f7226e55"
+    },
+    "generator": {
+      "path": "assets/technology/technology-complete-printer-and-computer-workstation-scene-01/v1.0.0/generate.py",
+      "size": 115020,
+      "sha256": "e8f2a16c9756a0e581ccee94b317c61a2df15e90b541048c6405c2746aee87ae"
+    },
+    "render": {
+      "path": "assets/technology/technology-complete-printer-and-computer-workstation-scene-01/v1.0.0/thumbnail.png",
+      "size": 519753,
+      "sha256": "da20b1d69576622ebae63048692ff84b3865389ee25469fab7053e74b771c4ad"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

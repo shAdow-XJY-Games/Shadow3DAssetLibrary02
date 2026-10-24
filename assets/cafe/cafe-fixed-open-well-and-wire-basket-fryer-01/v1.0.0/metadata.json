@@ -1,0 +1,42 @@
+{
+  "id": "cafe-fixed-open-well-and-wire-basket-fryer-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "cafe",
+  "style": "source-preserved-low-poly",
+  "title": "Fixed Open Well and Wire Basket Fryer",
+  "description": "One original complete static countertop basket-fryer appearance. A thick rectangular open well with an actual inner floor and four walls sits on four grounded feet. A taller rear control housing with blank fascia and fixed dial belongs to this appliance. A complete five-sided open-lattice basket is held in one raised fixed position by two whole side resting lugs over the well rim; the bottom and four sides contain true finite square openings, never dark painted spots. A whole long open-loop lifting handle projects from its front and ends in a dark grip. Three opaque untextured PBR roles. Newly authored complete equipment, not the old long vented brazier or laboratory sink relabelled. One prop and zero scenes; no oil, food, heating element, cord, moving basket, cooking process, electrical operation, food-contact, load or safety claim.",
+  "bounds": {
+    "x": 0.3400000035762787,
+    "y": 0.7749999761581421,
+    "z": 0.49000000953674316,
+    "unit": "m"
+  },
+  "triangles": 2716,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/cafe/cafe-fixed-open-well-and-wire-basket-fryer-01/v1.0.0/model.glb",
+      "size": 237424,
+      "sha256": "4f602bb74dfffb6b007fc4e4aa306e495f1b85c379e92d1068bc1e007c971dd8"
+    },
+    "blend": {
+      "path": "assets/cafe/cafe-fixed-open-well-and-wire-basket-fryer-01/v1.0.0/source.blend",
+      "size": 898048,
+      "sha256": "98861d91b8a432eced58b58a673db263209e5a26bcd5c8ce3ec5f1297a79ae64"
+    },
+    "generator": {
+      "path": "assets/cafe/cafe-fixed-open-well-and-wire-basket-fryer-01/v1.0.0/generate.py",
+      "size": 14786,
+      "sha256": "216fb406c8709d1c0d6f3767ab3830f3c614010e475c46f118f4fa9fcf64dbbc"
+    },
+    "render": {
+      "path": "assets/cafe/cafe-fixed-open-well-and-wire-basket-fryer-01/v1.0.0/thumbnail.png",
+      "size": 515157,
+      "sha256": "a6162c5bc57d18cb4d4f451d65d7f0af51afabd1fef7d9d4072f20c3f452f74a"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "industrial-fixed-raised-saddle-trolley-floor-jack-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "industrial",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Raised Saddle Trolley Floor Jack",
+  "description": "One newly authored whole static low trolley floor-jack appearance. Two complete shaped low chassis cheeks and three transverse members enclose a longitudinal inclined cylinder and a separate smooth fixed rod. Two large front wheels share one full axle; two smaller rear wheels each occupy a genuine open U-fork with a full axle and hub. A single broad rising central arm joins full rear bearing lugs and a transverse pin, ending at a short upright neck beneath a thick shallow horizontal round saddle pan with a true open dish. A separate narrow offset side retaining link and short pin distinguish the fixed saddle relation. One long inclined handle enters a rooted rear socket and terminates in a transverse grip. All coordinates newly authored, with no pallet-jack forks or old scissor-lift components imported. One prop, zero scenes; wheels, support and mechanism are not separately counted assets. Four opaque constant PBR materials. Metres, Z up, actual horizontal bounds-centred origin and finite wheel ground facets. Intentional small fixed material overlaps establish assembly roots. Static illustrative equipment only: no hydraulic circuit, pumping, lifting travel, kinematic closure, pressure, strength, stability, vehicle or saddle fit, servicing, manufacture, anchoring or safety claim; no vehicle/load or operating demonstration.",
+  "bounds": {
+    "x": 1.073,
+    "y": 0.468,
+    "z": 0.858,
+    "unit": "m"
+  },
+  "triangles": 1944,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/industrial/industrial-fixed-raised-saddle-trolley-floor-jack-01/v1.0.0/model.glb",
+      "size": 103584,
+      "sha256": "f55db41fdc07a119a94abc5a6241095c0989357cd3ea659fd30f2a0f9439886b"
+    },
+    "blend": {
+      "path": "assets/industrial/industrial-fixed-raised-saddle-trolley-floor-jack-01/v1.0.0/source.blend",
+      "size": 782932,
+      "sha256": "79b017affd552252094ee6635c98311e55a3493cc1f85f6c727990d496d3051e"
+    },
+    "generator": {
+      "path": "assets/industrial/industrial-fixed-raised-saddle-trolley-floor-jack-01/v1.0.0/generate.py",
+      "size": 29051,
+      "sha256": "572fc00fee865f6cdbe66e8e4a92cb9f137460f118dfd04e0daa9fdf37f05b21"
+    },
+    "render": {
+      "path": "assets/industrial/industrial-fixed-raised-saddle-trolley-floor-jack-01/v1.0.0/thumbnail.png",
+      "size": 501850,
+      "sha256": "a04ab991ad65fe17aab2c3f9ca6aa8722b60b9e735b63a889b9771cf017e2fce"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

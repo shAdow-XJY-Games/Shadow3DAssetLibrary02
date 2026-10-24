@@ -1,0 +1,42 @@
+{
+  "id": "carnival-fixed-guide-and-bell-high-striker-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "carnival",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Guide and Bell High Striker",
+  "description": "One newly authored complete static high-striker carnival-game exterior: a broad grounded platform carries a low long strike lever with transverse fixed axle and two bored fulcrum bearings, a broad round strike pad, and one tall rear tower. Two full-height inward-return guide stiles leave a genuine front slot around a low fixed puck; eight physical unnumbered level batons sit behind the slot. A whole thick hollow bell is open below and supported through its crown by a top bracket and rear mast. All whole numeric meshes are new. It is not an old camshaft/two-stamp ore mill with a bell added: there are no cams, paired long stamper rods, mortar or flywheel; the base lever, single upright guided-puck layout and top target form a distinct complete static game apparatus. Three opaque constant untextured PBR roles, metres, Z up, full horizontal bounds-centred ground origin. One complete prop, zero scenes. No mallet or people, calibrated strength scale, score, force transfer, slider motion, bell sound, functioning game, instruction, load or safety claim.",
+  "bounds": {
+    "x": 0.96,
+    "y": 1.3599999999999999,
+    "z": 2.6975000000000002,
+    "unit": "m"
+  },
+  "triangles": 1736,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/carnival/carnival-fixed-guide-and-bell-high-striker-01/v1.0.0/model.glb",
+      "size": 101260,
+      "sha256": "d60d8627eac18a7fe90cc4578741954b75eb23b2d193bd51501641ebf7e4a262"
+    },
+    "blend": {
+      "path": "assets/carnival/carnival-fixed-guide-and-bell-high-striker-01/v1.0.0/source.blend",
+      "size": 735416,
+      "sha256": "b7ad6a702aa45bab92fab53ca63a9d982fa733a1fe6e1a1bb9111b752b6ab807"
+    },
+    "generator": {
+      "path": "assets/carnival/carnival-fixed-guide-and-bell-high-striker-01/v1.0.0/generate.py",
+      "size": 11238,
+      "sha256": "91f7f800521b2aa7ac48ffe98f0aaab0f642a916d721cc6b09ebfe89b565eab7"
+    },
+    "render": {
+      "path": "assets/carnival/carnival-fixed-guide-and-bell-high-striker-01/v1.0.0/thumbnail.png",
+      "size": 409062,
+      "sha256": "fd1e10b6afd723aa25bf73c8676deb5953a567d6e40b9787c21c598694f94fbd"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "technology-fixed-open-clamshell-portable-computer-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "technology",
+  "style": "source-preserved-low-poly",
+  "title": "Fixed Open Clamshell Portable Computer",
+  "description": "One newly authored complete fixed-open portable computer exterior: a thin whole lower chassis with real keyboard and touchpad blind wells, individual thick blank keycaps and inset touch surface, four underside feet, two coaxial fixed hinge barrels, and a separate backward-leaning thick display lid with a true shallow bezel recess occupied by an opaque blank display. One tiny top inset is a static visual detail. All numeric geometry newly authored, no cash-register till, scan table or star-console parts reused. One whole game-art prop and zero scenes, metres and opaque untextured PBR; no software, operating display, communication, electrical circuit, hinge movement, engineering, compatibility or safety claim.",
+  "bounds": {
+    "x": 0.3400000035762787,
+    "y": 0.307009220123291,
+    "z": 0.24684655666351318,
+    "unit": "m"
+  },
+  "triangles": 2112,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/technology/technology-fixed-open-clamshell-portable-computer-01/v1.0.0/model.glb",
+      "size": 220600,
+      "sha256": "bbaec87d322c94f4bd897dfdbf6c4aca1003778bd17776b0d64d10734705b4b8"
+    },
+    "blend": {
+      "path": "assets/technology/technology-fixed-open-clamshell-portable-computer-01/v1.0.0/source.blend",
+      "size": 1093472,
+      "sha256": "30799b489c3f6e59703e4d60a0e6870e960d870c550640c4c38936d8816a4d95"
+    },
+    "generator": {
+      "path": "assets/technology/technology-fixed-open-clamshell-portable-computer-01/v1.0.0/generate.py",
+      "size": 15835,
+      "sha256": "b3baf9e1cba622c197f87af46d99d87abf292ce559b7b5e34d25b4639c2bd979"
+    },
+    "render": {
+      "path": "assets/technology/technology-fixed-open-clamshell-portable-computer-01/v1.0.0/thumbnail.png",
+      "size": 494784,
+      "sha256": "508a8617102fb91e49b41aafcddeef5f97693b171f60e25d758431660727b0f2"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
