@@ -1,0 +1,42 @@
+{
+  "id": "photography-fixed-twin-magazine-turret-cine-camera-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "photography",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Twin Magazine Turret Cine Camera",
+  "description": "One newly authored complete static hand-cranked cine-camera-style exterior. A whole bevelled grounded drive body carries one continuous double-lobed sealed upper film-magazine shape with a separately proud whole matching lid. A complete front turret disc sits on its own hub and carries three unequal genuinely hollow lens barrels with recessed opaque optical-appearance discs. Two finite side roots carry a full longitudinal finder tube and rear eyecup. A whole open upper handle seats in the central magazine saddle; a separate side spindle, fixed crank arm and full grip belong to the lower body. No old tripod box, long-barrel grip camera, projector reel or lens geometry is imported. This is a new complete magazine/drive-body/three-lens-turret layout, not two discs added to a reused camera. Four opaque constant untextured PBR roles, metres, Z up and whole horizontal-bounds-centred finite body sole. One complete model, zero scenes. Static illustrative exterior only: internal film and transport are not modeled, and no optics, exposure, imaging, focus, turret selection, winding, motion, historical authenticity, interchangeable fit, handling, manufacture or safety claim. No tripod, film strip, brands, text, photographer or environment.",
+  "bounds": {
+    "x": 0.5,
+    "y": 0.44400000000000006,
+    "z": 0.637,
+    "unit": "m"
+  },
+  "triangles": 2844,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/photography/photography-fixed-twin-magazine-turret-cine-camera-01/v1.0.0/model.glb",
+      "size": 132152,
+      "sha256": "3c146f12d4aa10a370c4aa75cb6feb7b52d75737d6804bd6095993bca3f04173"
+    },
+    "blend": {
+      "path": "assets/photography/photography-fixed-twin-magazine-turret-cine-camera-01/v1.0.0/source.blend",
+      "size": 809408,
+      "sha256": "082caca230795345dd310c7a7952b8935c0c68f0b264ed255034f590243fbccc"
+    },
+    "generator": {
+      "path": "assets/photography/photography-fixed-twin-magazine-turret-cine-camera-01/v1.0.0/generate.py",
+      "size": 12212,
+      "sha256": "521ab5dab71b64a7051986b8009c875ce7d3071e411d0586f3a6e07ec42273d8"
+    },
+    "render": {
+      "path": "assets/photography/photography-fixed-twin-magazine-turret-cine-camera-01/v1.0.0/thumbnail.png",
+      "size": 439221,
+      "sha256": "a0ad61668243d9315d5e8d81abd7a039c79f51dbfa155f6852e1955023492433"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

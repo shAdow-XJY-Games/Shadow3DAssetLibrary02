@@ -1,0 +1,42 @@
+{
+  "id": "underwater-fixed-open-back-and-front-port-camera-housing-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "underwater",
+  "style": "source-preserved-low-poly",
+  "title": "Fixed Open Back and Front Port Camera Housing",
+  "description": "One newly authored complete static underwater-camera-housing display in an open-back pose. A single shared-vertex thick rectangular hollow main shell has a genuinely round forward port through its front wall. A full short front lens-port surround holds one opaque recessed illustrative insert. The rear opening is empty, with a complete shallow door permanently swung aside on two full hinge barrels and a long pin. Two independent complete side handles join the main housing, and a top control knob, shutter-like plunger and side latch remain subordinate hardware. No camera body, lens apparatus, diver or scenery is inserted or counted separately. Unlike a diving helmet this is an equipment box with a hinged access door and two handles, not a domed head shell with neck collar; unlike a bellows camera there are no bed rails, standards, bellows or screen. Every visible mesh is newly authored. One whole model, zero scenes, four opaque constant PBR materials, metres, Z up and horizontally centred ground origin. The empty housing and opaque port insert are static illustrative exterior art only, not compatible camera equipment. No optical transmission, sealing, pressure resistance, waterproofing, diving use, control operation, manufacture or safety claim. Rigging, animation and interaction are not made and are outside this static delivery.",
+  "bounds": {
+    "x": 0.628000020980835,
+    "y": 0.7343811988830566,
+    "z": 0.320499986410141,
+    "unit": "m"
+  },
+  "triangles": 1448,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/underwater/underwater-fixed-open-back-and-front-port-camera-housing-01/v1.0.0/model.glb",
+      "size": 133016,
+      "sha256": "3f46e14e869c31eaeffd316ec7bc82158e0ff7787ebf426228ca07746aa63233"
+    },
+    "blend": {
+      "path": "assets/underwater/underwater-fixed-open-back-and-front-port-camera-housing-01/v1.0.0/source.blend",
+      "size": 788608,
+      "sha256": "6626d72bcfcfa25341088894369239214a9e4e5a2aa5d731bd6b0dcae0740034"
+    },
+    "generator": {
+      "path": "assets/underwater/underwater-fixed-open-back-and-front-port-camera-housing-01/v1.0.0/generate.py",
+      "size": 18306,
+      "sha256": "c8fa874e902416c92aebbe7fa39bd245021a2fc8bf86b98a47e9971e7fcfef4f"
+    },
+    "render": {
+      "path": "assets/underwater/underwater-fixed-open-back-and-front-port-camera-housing-01/v1.0.0/thumbnail.png",
+      "size": 511550,
+      "sha256": "28363f2a8d066bdb22de4260c18bc2dbec88c34234379e6537a596cc99c808e6"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "military-fixed-empty-chest-and-back-cuirass-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "military",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Empty Chest and Back Cuirass",
+  "description": "One complete original empty static chest-and-back armour display. Two separately closed thick curved plate shells have a narrowed waist, widened chest, real concave side-arm contours and dipped neck edges. Two continuous thick shoulder bridges and two waist-side bands connect the front and back plates around an actually empty torso space; the upper neck opening, lateral arm spaces and lower waist remain physically open, with eight small solid fasteners seated at their connecting regions. No person, torso fill, mannequin, helmet, gauntlets or other outfit parts are included. All geometry newly authored, not an apron worker stripped of limbs or a backpack enlarged into armour. Three opaque constant PBR materials, metres, lowest waist datum, one model and zero scenes. Invented nonweapon military/fantasy costume appearance only; no wearable fit, exact anatomy, articulation, deformation, impact protection, historical precision, manufacturing or safety claim. No rig, animation or interaction is made or validated.",
+  "bounds": {
+    "x": 0.452,
+    "y": 0.3336068777667314,
+    "z": 0.5619841155951191,
+    "unit": "m"
+  },
+  "triangles": 1040,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/military/military-fixed-empty-chest-and-back-cuirass-01/v1.0.0/model.glb",
+      "size": 64960,
+      "sha256": "8b7fb7819b19e4e1713701d422220e5873ff114634d2c450b0f0c7fee218e9e5"
+    },
+    "blend": {
+      "path": "assets/military/military-fixed-empty-chest-and-back-cuirass-01/v1.0.0/source.blend",
+      "size": 637828,
+      "sha256": "98e45ed204867a7995f9c97ed352cd830344456a8b56dc3c3e082557e79b156f"
+    },
+    "generator": {
+      "path": "assets/military/military-fixed-empty-chest-and-back-cuirass-01/v1.0.0/generate.py",
+      "size": 10875,
+      "sha256": "7ba1723bcd298528d8fdcb301e44f79a911a8c96682549078092adfc3ca92838"
+    },
+    "render": {
+      "path": "assets/military/military-fixed-empty-chest-and-back-cuirass-01/v1.0.0/thumbnail.png",
+      "size": 485593,
+      "sha256": "c0dc06fc4ba081202139c1d2f9863135d290fc321e41fb7c34bac601c07d9cc9"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

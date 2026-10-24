@@ -1,0 +1,42 @@
+{
+  "id": "military-fixed-convex-kite-shield-with-rear-loops-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "military",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Convex Kite Shield with Rear Loops",
+  "description": "One complete original fixed convex kite-shield display with a pointed flat-ended lower silhouette, broad shouldered crown, one shared-vertex thick outward-bowed body, a complete finite perimeter rim and a seated low faceted centre boss. Two entire thick arched rear straps have four embedded finite mounting feet and real empty space between each arch and the body. One shield, no wearer, weapon, emblem, lettering or stand. Newly drawn defensive-costume art, not the old narrow surfboard with its fin removed or a welding hood with a viewing insert. Three opaque constant PBR materials, metres, horizontal bounds centred and lowest edge at ground. Static invented appearance only, no arm fit, protective or impact performance, balance, working fastening, historical precision, manufacturing or safety claim.",
+  "bounds": {
+    "x": 0.64,
+    "y": 0.33668173250303435,
+    "z": 1.14,
+    "unit": "m"
+  },
+  "triangles": 416,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/military/military-fixed-convex-kite-shield-with-rear-loops-01/v1.0.0/model.glb",
+      "size": 29064,
+      "sha256": "8d1f344c1139f6c297417b80baec941d019fd096dde1de4efa1ee5d86abc50a3"
+    },
+    "blend": {
+      "path": "assets/military/military-fixed-convex-kite-shield-with-rear-loops-01/v1.0.0/source.blend",
+      "size": 581004,
+      "sha256": "a6561b8291e94416786dfeb4b6128c9c8f56feaaa4e8235ed6c80fa633e062d6"
+    },
+    "generator": {
+      "path": "assets/military/military-fixed-convex-kite-shield-with-rear-loops-01/v1.0.0/generate.py",
+      "size": 11796,
+      "sha256": "286dc6c4f9f780fc68c53b76490c8f1910dc1cf7b6d57d9d0220b26f9a966f6b"
+    },
+    "render": {
+      "path": "assets/military/military-fixed-convex-kite-shield-with-rear-loops-01/v1.0.0/thumbnail.png",
+      "size": 396424,
+      "sha256": "86032a4fbfe17e7f022bd8a14de50561335cd1b0e13854a635490a5ad1871b07"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

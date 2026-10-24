@@ -1,0 +1,42 @@
+{
+  "id": "public-service-fixed-four-wheel-and-high-grip-rollator-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "public-service",
+  "style": "source-preserved-low-poly",
+  "title": "Fixed Four Wheel and High Grip Rollator",
+  "description": "One newly authored complete fixed four-wheel rollator-style public-service visual prop. Two continuous inclined side tubes rise from front caster forks into distinct high rearward handgrips; separate trailing legs and full seat rails support a low small seat. Four similarly sized whole tires, complete open forks and axles, a fixed bowed upper crosspad, and an empty thick tapered underseat bag with a visible forward mouth form the whole walking-support silhouette. Two distinct fixed brake-lever appearances and complete exterior cables finish the hand-control areas. This is not a manual wheelchair with its large handrims removed or a tall hamper cart shortened; all numerical geometry is original. One prop zero scenes, three opaque materials. Static artistic appearance only, no person, medical or rehabilitation suitability, posture or disability fit, folding, steering, braking, transmission, actual movement, ergonomic assessment, load, stability, manufacture, certification or safe mobility-device use claim. No rigging, animation or interaction is made.",
+  "bounds": {
+    "x": 0.6240000128746033,
+    "y": 0.7599999904632568,
+    "z": 0.9449999928474426,
+    "unit": "m"
+  },
+  "triangles": 3608,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/public-service/public-service-fixed-four-wheel-and-high-grip-rollator-01/v1.0.0/model.glb",
+      "size": 331572,
+      "sha256": "b441602ab31de737633e42f53418595219eebf5fd6c8cf3c3110c39f6881f9be"
+    },
+    "blend": {
+      "path": "assets/public-service/public-service-fixed-four-wheel-and-high-grip-rollator-01/v1.0.0/source.blend",
+      "size": 1115552,
+      "sha256": "3a1a6afe6cb83db0cb22d26e6aa553214f6840e1727bd392acf4767099d6c192"
+    },
+    "generator": {
+      "path": "assets/public-service/public-service-fixed-four-wheel-and-high-grip-rollator-01/v1.0.0/generate.py",
+      "size": 16560,
+      "sha256": "be703a4533e983c48a883ae33ef54e85fda91cec6a33441b583d6764bbb8be82"
+    },
+    "render": {
+      "path": "assets/public-service/public-service-fixed-four-wheel-and-high-grip-rollator-01/v1.0.0/thumbnail.png",
+      "size": 509508,
+      "sha256": "522d755bf3eeae6f22cb2daa759299b1277cea744cf1cdb4c9cd8b9c7a4ef679"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
