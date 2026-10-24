@@ -1099,6 +1099,11 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary02",
       "commit": "b277ef1fe3addb724a822e594261166f94d21b8b"
+    },
+    "original-recovered-two-1334-volume02-20261024": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary02",
+      "commit": "0e8abf2f7d76310637d6db2a8facf51c3ed64975"
     }
   },
   "assets": [
@@ -31631,6 +31636,92 @@
       "status": "verified",
       "license": "All rights reserved",
       "sourceId": "original-continuous-five-1332-volume02-20261024"
+    },
+    {
+      "id": "animal-static-barrel-body-disc-snout-farm-pig-01",
+      "version": "1.0.0",
+      "category": "modular",
+      "assetKind": "prop",
+      "theme": "animal",
+      "style": "warm-handcrafted-village",
+      "title": "Static Barrel-Body Disc-Snout Farm Pig",
+      "description": "One newly authored whole stylised farm-pig-like animal in a fixed grounded stance. One broad low horizontal barrel torso narrows continuously through its short neck into a blunt head. A separate thick flattened oval snout disk is embedded on the front muzzle, with two small dark surface nostril indicators rather than claimed airway holes. Two broad thick folded ears project from the head, four short stocky legs rest in whole dark hoof-like feet with a real shallow front split, and a short tapering curled tail leaves the rear body. New whole body sections and appendage outlines, no old seated rabbit, long flat crocodile or tortoise body arrays imported. One static animal prop, zero scenes. Artistic appearance only; no exact breed, anatomy, hoof or airway function, behaviour, livestock practice, locomotion or safety claim.",
+      "bounds": {
+        "x": 0.75999999,
+        "y": 1.896504283,
+        "z": 0.800000012,
+        "unit": "m"
+      },
+      "triangles": 2084,
+      "materials": 3,
+      "files": {
+        "glb": {
+          "path": "assets/animal/animal-static-barrel-body-disc-snout-farm-pig-01/v1.0.0/model.glb",
+          "size": 118484,
+          "sha256": "42d48381a9808031d0fc5a0747a0118a70b84feb9b8f4521c8c39cdcb170af3d"
+        },
+        "blend": {
+          "path": "assets/animal/animal-static-barrel-body-disc-snout-farm-pig-01/v1.0.0/source.blend",
+          "size": 651472,
+          "sha256": "0ce6ef74756fc821ced156e650a2174e4f8fb7c27f38ab542ce7b9a15f39973f"
+        },
+        "generator": {
+          "path": "assets/animal/animal-static-barrel-body-disc-snout-farm-pig-01/v1.0.0/generate.py",
+          "size": 30577,
+          "sha256": "b2959a640248f2a0653e11fb8aa72442d705c9ee4ab3f641ed2f28a327dd07ed"
+        },
+        "render": {
+          "path": "assets/animal/animal-static-barrel-body-disc-snout-farm-pig-01/v1.0.0/thumbnail.png",
+          "size": 482160,
+          "sha256": "a0234b70301322b18d20c57cce809c7fe4125b248477ea08597b3c572f0f78bd"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-recovered-two-1334-volume02-20261024"
+    },
+    {
+      "id": "education-fixed-cross-slot-twin-slider-ellipsograph-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "education",
+      "style": "source-preserved-low-poly",
+      "title": "Fixed Cross Slot Twin Slider Ellipsograph",
+      "description": "One newly authored complete static orthogonal-slot ellipse-trammel appearance. A single connected thick plate has two perpendicular real recessed tracks separating four raised quadrants over a continuous floor. Two separate elongated sliders occupy different track axes and carry two spaced headed pins on one complete long straight coupling arm. A genuinely bored end sleeve holds one finite blunt stylus body at the extended arm end. The tracks remain openly visible beyond the sliders. There is no four-bar parallelogram, pendulum weight, fixed radial anchor or paired hinged compass legs; no old source geometry is imported. One whole prop, zero scenes; four opaque constant PBR materials, metres, Z up and horizontal-bounds-centred ground origin. All joints are fixed deliberate overlaps for a static appearance only. No movement, actual ellipse construction, marking, adjustment, ratio, measurement, calibration, manufacture, handling or safety claim.",
+      "bounds": {
+        "x": 0.4399999976158142,
+        "y": 0.4920710623264313,
+        "z": 0.10400000214576721,
+        "unit": "m"
+      },
+      "triangles": 976,
+      "materials": 4,
+      "files": {
+        "glb": {
+          "path": "assets/education/education-fixed-cross-slot-twin-slider-ellipsograph-01/v1.0.0/model.glb",
+          "size": 89232,
+          "sha256": "2fb6eb524e82a753fe032100ffcd32a024a82bbc92f488ff1bd4c4473272f2ba"
+        },
+        "blend": {
+          "path": "assets/education/education-fixed-cross-slot-twin-slider-ellipsograph-01/v1.0.0/source.blend",
+          "size": 707520,
+          "sha256": "6b92b4173ffcdca0350bc04cbd5c13103c66880a47045b99671ab8cea3e26ec0"
+        },
+        "generator": {
+          "path": "assets/education/education-fixed-cross-slot-twin-slider-ellipsograph-01/v1.0.0/generate.py",
+          "size": 16771,
+          "sha256": "2852da349b06939d11e5c7563776c487f18449b8db9b26bf44a6ccba794e1e99"
+        },
+        "render": {
+          "path": "assets/education/education-fixed-cross-slot-twin-slider-ellipsograph-01/v1.0.0/thumbnail.png",
+          "size": 480974,
+          "sha256": "7ac73fd0d112e1405b1e42f60704a1b9b2c650c5f1942b0a00df550909ff0204"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-recovered-two-1334-volume02-20261024"
     }
   ]
 }
