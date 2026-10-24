@@ -1,0 +1,42 @@
+{
+  "id": "public-service-fixed-open-cuff-and-offset-grip-forearm-crutch-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "public-service",
+  "style": "source-preserved-low-poly",
+  "title": "Fixed Open Cuff and Offset Grip Forearm Crutch",
+  "description": "One original complete fixed forearm-crutch visual prop: one full lower shaft bends back above a forward independent handgrip to a short offset upper stem. A thick C-shaped forearm cradle has a real open front sector and a complete finite inner wall, mounted through its rear saddle. A full grip core and dark sleeve, distinct fixed collar and a closed flared ground ferrule finish the single object. Not a shortened axillary crutch: no paired long rails, cross grip or underarm pad. One prop zero scenes, three opaque materials. Static empty public-service appearance only, no person, rehabilitation or medical suitability, fit, adjustment, load, balance, stability, human-contact assessment, manufacturing or safe mobility-device use claim. No rigging, animation or interaction.",
+  "bounds": {
+    "x": 0.14790983498096466,
+    "y": 0.24300000071525574,
+    "z": 1.0880000591278076,
+    "unit": "m"
+  },
+  "triangles": 876,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/public-service/public-service-fixed-open-cuff-and-offset-grip-forearm-crutch-01/v1.0.0/model.glb",
+      "size": 79376,
+      "sha256": "63d76ab86a451166f24bb82743e26146a13e9928d0ac53c6b46006e013eebd4c"
+    },
+    "blend": {
+      "path": "assets/public-service/public-service-fixed-open-cuff-and-offset-grip-forearm-crutch-01/v1.0.0/source.blend",
+      "size": 663744,
+      "sha256": "be66d38987f34d84dc252eb7e6baf948cf6ab2025e1a1ce2d205160062f79258"
+    },
+    "generator": {
+      "path": "assets/public-service/public-service-fixed-open-cuff-and-offset-grip-forearm-crutch-01/v1.0.0/generate.py",
+      "size": 14784,
+      "sha256": "86e957a2077d19d43863ddb007d9b67c88c49a24bf4d4443d3f3aa167707a1f5"
+    },
+    "render": {
+      "path": "assets/public-service/public-service-fixed-open-cuff-and-offset-grip-forearm-crutch-01/v1.0.0/thumbnail.png",
+      "size": 424547,
+      "sha256": "fae8cae91a227ca631e83f33e372bd1d04674a1009de24a163a0e89c9f5d2415"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
