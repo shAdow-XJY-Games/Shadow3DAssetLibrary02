@@ -1139,6 +1139,11 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary02",
       "commit": "7d0b0a55d235610e17ecf14805e4abe2c266ff69"
+    },
+    "original-three-models-one-scene-1387-volume02-20261024": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary02",
+      "commit": "50c8bc85f71ea8c87cae0a4d90976040bead6b12"
     }
   },
   "assets": [
@@ -33864,6 +33869,178 @@
       "status": "verified",
       "license": "All rights reserved",
       "sourceId": "original-continuous-three-1383-volume02-20261024"
+    },
+    {
+      "id": "carnival-fixed-cutaway-globe-and-crank-dispenser-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "carnival",
+      "style": "S01-clean-geometric",
+      "title": "Fixed Cutaway Globe and Crank Dispenser",
+      "description": "One newly authored complete fixed cutaway globe-reservoir hand-crank dispenser appearance. A single thick spherical rear half-shell and full capped top outline an intentionally open-front reservoir above a complete sloping feed funnel and real narrow throat. A continuous rear-and-side lower housing on a full turned ground pedestal supports a whole horizontal spindle, an open four-web fixed metering wheel, front crank arm and grip. One continuous thick U-section discharge channel bends down and forward to the low front mouth. Six fixed coloured balls are connected illustrative contents of this one machine, not separately counted models. No old popcorn roof cabinet, hanging kettle or open candy-floss spinner pan is imported or resized; this complete globe/funnel/turning-dial/chute arrangement is new geometry. Four opaque constant untextured PBR roles; the blue reservoir is genuinely cut away and is not claimed to be transparent glass. Metres, Z up, whole horizontal bounds-centred ground origin. One model and zero scenes. Static exhibit only: no rotation, dispensing, ball dynamics, payment, vending, hygiene, food contact, quantity measurement, manufacture, load, age suitability or safety claim. No text, prices, player or environment.",
+      "bounds": {
+        "x": 0.48,
+        "y": 0.5249999999999999,
+        "z": 1.014,
+        "unit": "m"
+      },
+      "triangles": 10224,
+      "materials": 4,
+      "files": {
+        "glb": {
+          "path": "assets/carnival/carnival-fixed-cutaway-globe-and-crank-dispenser-01/v1.0.0/model.glb",
+          "size": 561596,
+          "sha256": "93f9c19760affb6901d6e579a792302b8492d6963bed302fe2e363d0b327f07a"
+        },
+        "blend": {
+          "path": "assets/carnival/carnival-fixed-cutaway-globe-and-crank-dispenser-01/v1.0.0/source.blend",
+          "size": 1208068,
+          "sha256": "8708114674515dc2a1b74b38e895d26adacf3df2c253ba6fa56c0a7dd5621181"
+        },
+        "generator": {
+          "path": "assets/carnival/carnival-fixed-cutaway-globe-and-crank-dispenser-01/v1.0.0/generate.py",
+          "size": 12923,
+          "sha256": "2fc2ece8ee50e32ee17025a41944f651ad2f5ae9e11ee2b6be111f40d16b03cf"
+        },
+        "render": {
+          "path": "assets/carnival/carnival-fixed-cutaway-globe-and-crank-dispenser-01/v1.0.0/thumbnail.png",
+          "size": 463739,
+          "sha256": "7b3dc6c068c2c31eee037d220d74a7f18dd4e1733f9059b9862a2b355c2b9ea1"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-three-models-one-scene-1387-volume02-20261024"
+    },
+    {
+      "id": "professional-complete-two-level-metrology-workbench-scene-01",
+      "version": "1.0.0",
+      "category": "scenes",
+      "assetKind": "scene",
+      "theme": "professional",
+      "style": "source-preserved-low-poly",
+      "title": "Complete Two Level Metrology Workbench",
+      "description": "One complete static professional metrology-themed inspection workbench scene. The entire original open worktable stands on one scene-only floor. A separate scene-only raised rectangular surface plate on the rear tabletop supports the complete unchanged height gauge on the left and complete unchanged articulated dial-probe stand on the right, leaving a clear central inspection-looking area between their whole envelopes. The complete original four-jaw caliper lies on the lower front strip of the original tabletop, rotated by one exact signed-axis quarter turn. All four whole source assets preserve their full GLB buffer payloads, complete internal node hierarchy, oriented geometry, normals and full PBR dictionaries; no component is deleted or resized. This two-level rear instrument zone and lower front hand-tool strip differ from a side-by-side printer/computer bench or floor-mounted steam piston maintenance corner. One scene zero new independent models; the plate and floor are only scene support geometry. Static visual composition only: no workpiece, calibrated datum, measurement, reading, probe contact, magnetic holding, machine process, ergonomics, load, stability, installation or safety certification. No animation, rigging or interaction was made or claimed.",
+      "bounds": {
+        "x": 1.600000023841858,
+        "y": 1.2000000476837158,
+        "z": 1.6600000858306885,
+        "unit": "m"
+      },
+      "triangles": 3412,
+      "materials": 14,
+      "files": {
+        "glb": {
+          "path": "assets/professional/professional-complete-two-level-metrology-workbench-scene-01/v1.0.0/model.glb",
+          "size": 329824,
+          "sha256": "ef980a0ee18999c10dd357df4ca496a3b15b64255f454313e41ff54c8d2c7c51"
+        },
+        "blend": {
+          "path": "assets/professional/professional-complete-two-level-metrology-workbench-scene-01/v1.0.0/source.blend",
+          "size": 1496544,
+          "sha256": "9069b0c2d778786fd594a34754910928fc7b9c67050ff1acb74255ee60bbd67a"
+        },
+        "generator": {
+          "path": "assets/professional/professional-complete-two-level-metrology-workbench-scene-01/v1.0.0/generate.py",
+          "size": 105074,
+          "sha256": "03a7233b514b54ca6b237f33a609367e6a50db0ec1b23ac2fd1410e78d0bff22"
+        },
+        "render": {
+          "path": "assets/professional/professional-complete-two-level-metrology-workbench-scene-01/v1.0.0/thumbnail.png",
+          "size": 514334,
+          "sha256": "2595df837c77cda0defe585854a2d928a8c37b9b410493508d94fa65b8253d8d"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-three-models-one-scene-1387-volume02-20261024"
+    },
+    {
+      "id": "technology-fixed-cutaway-cistern-and-long-tube-barometer-display-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "technology",
+      "style": "S01-clean-geometric",
+      "title": "Fixed Cutaway Cistern and Long Tube Barometer Display",
+      "description": "One newly authored complete static cistern-barometer-style display with an explicitly open-front opaque cutaway. A broad chamfered ground foot carries a tall shaped backing board. One continuous thick vessel expands into a complete lower cistern and narrows into a long upper blind bore with a solid rounded cap; the front 120-degree sector is deliberately absent, while both full finite section faces are closed in contrasting material. Three whole rear bridges attach the vessel to the backing board. A parallel blank ivory read-plate on two separate rear brackets carries a genuinely open fixed rectangular cursor and a small side knob. A full lower stem and broad knob belong to the same cistern assembly. This whole tall cistern/long-tube/parallel-read-plate relation is newly authored, not the old short twin piston pump with its bell cover, the cuff with round gauge and squeeze bulb, or a desk burner stretched taller. No old model vertices or complete parts are imported. Four opaque untextured constant PBR roles, closed editable bodies, metres, native Z up and actual horizontal bounds-centred ground datum. One prop, zero scenes. Static illustrative exhibit only: no mercury or other fluid, transparent glass, sealed pressure system, vacuum, fluid column, calibrated divisions, vernier reading, temperature measurement, atmospheric measurement, motion, physical demonstration, historical reconstruction, material compatibility, manufacture, handling or safety performance claim. Rigging, animation and interaction are not made and are outside this static deliverable.",
+      "bounds": {
+        "x": 0.33,
+        "y": 0.218,
+        "z": 1.11,
+        "unit": "m"
+      },
+      "triangles": 1790,
+      "materials": 4,
+      "files": {
+        "glb": {
+          "path": "assets/technology/technology-fixed-cutaway-cistern-and-long-tube-barometer-display-01/v1.0.0/model.glb",
+          "size": 105548,
+          "sha256": "80ae33c745ed150d167dda07768abadba611973be5abad95af80f9eb1666c0ee"
+        },
+        "blend": {
+          "path": "assets/technology/technology-fixed-cutaway-cistern-and-long-tube-barometer-display-01/v1.0.0/source.blend",
+          "size": 678680,
+          "sha256": "1f965eec611ec06d33f52bc334bec640695f3a295132baaa6fd12e361c693257"
+        },
+        "generator": {
+          "path": "assets/technology/technology-fixed-cutaway-cistern-and-long-tube-barometer-display-01/v1.0.0/generate.py",
+          "size": 27566,
+          "sha256": "3e9c9162f0c500618ee7fd15d65f6aec641808d773ca61f1190b1e2990c03e03"
+        },
+        "render": {
+          "path": "assets/technology/technology-fixed-cutaway-cistern-and-long-tube-barometer-display-01/v1.0.0/thumbnail.png",
+          "size": 505870,
+          "sha256": "66a0f193bf4eebfa87042f74a264954eefe88830138c9d45d613b26660aa8e1c"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-three-models-one-scene-1387-volume02-20261024"
+    },
+    {
+      "id": "underwater-fixed-closed-nose-and-dual-grip-propulsion-display-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "underwater",
+      "style": "source-preserved-low-poly",
+      "title": "Fixed Closed Nose and Dual Grip Propulsion Display",
+      "description": "One newly authored complete static dual-grip underwater propulsion-device appearance. A long closed rounded forebody joins a shorter narrow rear housing and an open thick annular tail shroud. Two complete outboard handles bridge between the forebody shoulders and the rear ring, leaving generous true hand openings. A central blunt hub, three broad pitched blades, two radial supports and a full rear grille lie inside the ring. One shallow top control pad and two integrated short resting ribs belong to the apparatus. Unlike a mine ventilation fan this is not an open inlet bellmouth mounted on skids, and unlike a hair dryer it has no single downward grip or open forward outlet. No old mesh imported. One model, zero scenes, metres, Z up, centred ground origin, four opaque constant PBR materials. Illustrative fixed assembly only. No actual motor, battery internals, waterproofing, pressure rating, thrust, propulsion, diving use, operation, manufacturing or safety claim. Rigging, animation and interaction are not made and are outside this static delivery.",
+      "bounds": {
+        "x": 0.550000011920929,
+        "y": 0.7480000257492065,
+        "z": 0.3449999988079071,
+        "unit": "m"
+      },
+      "triangles": 1900,
+      "materials": 4,
+      "files": {
+        "glb": {
+          "path": "assets/underwater/underwater-fixed-closed-nose-and-dual-grip-propulsion-display-01/v1.0.0/model.glb",
+          "size": 176708,
+          "sha256": "9a6ad3cbe8d474ee51369f8dda53b3190d87943f1f7307c4fa4e5f52ad22399e"
+        },
+        "blend": {
+          "path": "assets/underwater/underwater-fixed-closed-nose-and-dual-grip-propulsion-display-01/v1.0.0/source.blend",
+          "size": 876864,
+          "sha256": "9183cdf69cc9ac7c236a44c5ea82b7a09b120b50b032b24274cd9ad888641ab2"
+        },
+        "generator": {
+          "path": "assets/underwater/underwater-fixed-closed-nose-and-dual-grip-propulsion-display-01/v1.0.0/generate.py",
+          "size": 17990,
+          "sha256": "1d03a1e4067c385c7c1c2a2cecd3c83f25c2de8cd97f7c17639f1a10450fd409"
+        },
+        "render": {
+          "path": "assets/underwater/underwater-fixed-closed-nose-and-dual-grip-propulsion-display-01/v1.0.0/thumbnail.png",
+          "size": 571187,
+          "sha256": "a5c59e298f353afae9129c06d7097636719cec416b4153c775823141f8b7d220"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-three-models-one-scene-1387-volume02-20261024"
     }
   ]
 }
