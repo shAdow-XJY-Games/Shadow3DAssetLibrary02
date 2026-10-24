@@ -1089,6 +1089,11 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary02",
       "commit": "e620aa4fbba5cdffb59d6793ed6421eccf236814"
+    },
+    "original-continuous-two-1327-volume02-20261024": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary02",
+      "commit": "87f4e5da883da1dadc6fc91f6331675e361b43b4"
     }
   },
   "assets": [
@@ -31320,6 +31325,92 @@
       "status": "verified",
       "license": "All rights reserved",
       "sourceId": "original-continuous-ten-1325-volume02-20261024"
+    },
+    {
+      "id": "renovation-fixed-slotted-handle-and-blunt-extension-utility-knife-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "renovation",
+      "style": "source-preserved-low-poly",
+      "title": "Fixed Slotted Handle and Blunt Extension Utility Knife",
+      "description": "One newly authored complete fixed extended utility-knife-style renovation hand-tool appearance. A continuous closed thick sleeve body has a real forward narrow blade throat and a long top thumb-slider slot. One whole finite blunt flat trapezoidal blade appearance extends from the sleeve through a separately modeled complete collar; a distinct slider stem and cap, full rear end cap and two side grip panels complete the small assembly. All numeric geometry newly authored, not a cut-out drawknife, changed shears or miniaturized paper cutter. One prop and zero scenes with three opaque materials. Fixed game-art only, without sharpness, motion, edge performance, cutting instructions, mechanism locking, manufacture or operating-safety claim.",
+      "bounds": {
+        "x": 0.04800000041723251,
+        "y": 0.25,
+        "z": 0.03200000151991844,
+        "unit": "m"
+      },
+      "triangles": 392,
+      "materials": 3,
+      "files": {
+        "glb": {
+          "path": "assets/renovation/renovation-fixed-slotted-handle-and-blunt-extension-utility-knife-01/v1.0.0/model.glb",
+          "size": 38908,
+          "sha256": "4a9ab027d59cc2d1abfc5a7474c98f0ce2f1041a0ce56a31520acecaf8a25035"
+        },
+        "blend": {
+          "path": "assets/renovation/renovation-fixed-slotted-handle-and-blunt-extension-utility-knife-01/v1.0.0/source.blend",
+          "size": 614240,
+          "sha256": "6fd680ecd3d7dbffd45a8f1378a966b8c573384a56acb18f0de6e4ad326984f3"
+        },
+        "generator": {
+          "path": "assets/renovation/renovation-fixed-slotted-handle-and-blunt-extension-utility-knife-01/v1.0.0/generate.py",
+          "size": 14220,
+          "sha256": "08a1b581c3cda27b2a910dfebaf91407036dadc7aade54aea7b7c2f20fbf6f9f"
+        },
+        "render": {
+          "path": "assets/renovation/renovation-fixed-slotted-handle-and-blunt-extension-utility-knife-01/v1.0.0/thumbnail.png",
+          "size": 485826,
+          "sha256": "574afcb006b4e75fe164975be774139d6291801b9c67db4e3c17accd33c18511"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-continuous-two-1327-volume02-20261024"
+    },
+    {
+      "id": "toys-fixed-eight-string-jointed-marionette-display-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "toys",
+      "style": "S01-clean-geometric",
+      "title": "Fixed Eight String Jointed Marionette Display",
+      "description": "One newly authored complete fixed wooden marionette display. A rounded head, narrow neck, full shaped torso and separate pelvis lead to two-section arms and legs, blunt hands and long wooden shoes. Eight paired-cheek joint appearances contain actual transverse pins. Eight whole solid suspension cords connect the head, shoulders, hands and knees to complete crossed wooden control bars, themselves supported by an entire rear stand and finite low base. The puppet remains visibly above the base. Unlike the existing raised spring-box half figure, there is no case or spring and the entire four-limbed body is independently suspended. Unlike the fixed open-waist inspection robot, there is no sensor visor, claw, machine chest or grounded foot support: the new rounded wood parts, hanging cord routes and control assembly form one different complete toy. No old body meshes imported or scaled. Three opaque constant untextured PBR roles, metres, Z up and whole horizontally bounds-centred ground origin. One whole prop, zero scenes. Fixed static illustration only: no string rigging, animation, joint travel, realistic tension or balance, control operation, child fit, load, manufacture or toy-safety claim.",
+      "bounds": {
+        "x": 0.66,
+        "y": 0.565,
+        "z": 1.585,
+        "unit": "m"
+      },
+      "triangles": 3344,
+      "materials": 3,
+      "files": {
+        "glb": {
+          "path": "assets/music/toys-fixed-eight-string-jointed-marionette-display-01/v1.0.0/model.glb",
+          "size": 193384,
+          "sha256": "7f7ae19d3e86740040b1d9833feffa0fcd6fb498935b0fdc8251057dc87983d9"
+        },
+        "blend": {
+          "path": "assets/music/toys-fixed-eight-string-jointed-marionette-display-01/v1.0.0/source.blend",
+          "size": 956284,
+          "sha256": "9c584aca3d34875db01d1117f3cc41dec1db8444270afba35aea3808892e8bf9"
+        },
+        "generator": {
+          "path": "assets/music/toys-fixed-eight-string-jointed-marionette-display-01/v1.0.0/generate.py",
+          "size": 12758,
+          "sha256": "a20eceb48b7d9478273e6629df1cf866d2eaf5bc2524637fd85884c229e39183"
+        },
+        "render": {
+          "path": "assets/music/toys-fixed-eight-string-jointed-marionette-display-01/v1.0.0/thumbnail.png",
+          "size": 372555,
+          "sha256": "9b7a69acf5008d2d4f3c5c5bd2322f81aff28a9de65eead4ef6594403842c5cd"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-continuous-two-1327-volume02-20261024"
     }
   ]
 }
