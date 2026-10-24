@@ -1,0 +1,42 @@
+{
+  "id": "animal-static-wide-cephalofoil-hammerhead-shark-01",
+  "version": "1.0.0",
+  "category": "modular",
+  "assetKind": "prop",
+  "theme": "animal",
+  "style": "warm-handcrafted-village",
+  "title": "Static Wide-Cephalofoil Hammerhead Shark",
+  "description": "One newly authored whole stylised hammerhead-shark-like exterior. A genuinely transverse broad flattened cephalofoil joins continuously through a narrowed neck to an elongated tapered trunk and narrow tail peduncle. Widely separated lateral eyes sit at the head wings. Two large swept pectoral fins, two small pelvic fins, a tall swept first dorsal and low secondary dorsal, and a clearly unequal upper/lower caudal silhouette form one static animal. Every body/head station and complete fin outline is new, not an old fork-tail fish with a head accessory or widened ray disc. One model, zero scenes. Fixed resting game-art datum only, not natural standing support, exact species/anatomy, gills/mouth internals, teeth, swimming, predation, rig, animation or interaction.",
+  "bounds": {
+    "x": 2.079999924,
+    "y": 3.299999952,
+    "z": 1.029999971,
+    "unit": "m"
+  },
+  "triangles": 580,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/animal/animal-static-wide-cephalofoil-hammerhead-shark-01/v1.0.0/model.glb",
+      "size": 39584,
+      "sha256": "98766fe70c7b37e6088db87b0a768ccd1ed26c2bae4b320b8c96b261c5d6d476"
+    },
+    "blend": {
+      "path": "assets/animal/animal-static-wide-cephalofoil-hammerhead-shark-01/v1.0.0/source.blend",
+      "size": 587624,
+      "sha256": "2868460515b06bf38dc864df4d6b18e291866775b2bac9f78a083ed7156de765"
+    },
+    "generator": {
+      "path": "assets/animal/animal-static-wide-cephalofoil-hammerhead-shark-01/v1.0.0/generate.py",
+      "size": 29419,
+      "sha256": "19d39a9630356a65f31c117698e7c4cbc9ee3ce41fdcb84a4a6fe1e0f89a357a"
+    },
+    "render": {
+      "path": "assets/animal/animal-static-wide-cephalofoil-hammerhead-shark-01/v1.0.0/thumbnail.png",
+      "size": 463766,
+      "sha256": "2b206bbbf360402da23c9a4237eb70f79e6d45be4e81acbe3c2d6778af2cd139"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

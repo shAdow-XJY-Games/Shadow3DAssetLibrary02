@@ -1,0 +1,42 @@
+{
+  "id": "technology-fixed-rounded-dome-and-windowed-belt-column-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "technology",
+  "style": "source-preserved-low-poly",
+  "title": "Fixed Rounded Dome and Windowed Belt Column",
+  "description": "One newly authored complete static dome-and-belt-column teaching-display appearance. A broad low motor-style housing supports one thick windowed upright column, two separate horizontal rollers on full through axles and one continuous wide closed belt. A large rounded upper terminal-like dome closes over the column, with a subordinate side housing and fixed blank knob at the base. The window is real open geometry and the return belt has a true empty centre. Not the old two vertical sector discs with collecting arms or the horseshoe-yoke rotor and crank rearranged. One whole prop, zero scenes. Four opaque constant PBR materials, no transparent or emissive effects. Fixed stylized visual only; no voltage, current, charge, circuit, wiring, sparks, electricity demonstration, electrical design, motion, operating steps, safety, manufacturing, historical reproduction or functional performance. Rigging, animation and interaction are not made and are outside this static asset scope.",
+  "bounds": {
+    "x": 0.5799999833106995,
+    "y": 0.5,
+    "z": 1.4390000104904175,
+    "unit": "m"
+  },
+  "triangles": 1362,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/technology/technology-fixed-rounded-dome-and-windowed-belt-column-01/v1.0.0/model.glb",
+      "size": 124512,
+      "sha256": "b6cd2afb071546c8886950a8dda7d323323ef35d85b5ecc0fc0a035335455eb1"
+    },
+    "blend": {
+      "path": "assets/technology/technology-fixed-rounded-dome-and-windowed-belt-column-01/v1.0.0/source.blend",
+      "size": 774280,
+      "sha256": "e91d8d590a83b34276fae3e56d49952eeeb5948048aae04225eed7ed8e613126"
+    },
+    "generator": {
+      "path": "assets/technology/technology-fixed-rounded-dome-and-windowed-belt-column-01/v1.0.0/generate.py",
+      "size": 16900,
+      "sha256": "9f904788b7a9e67258fe2df0f63d0ddda32153cb886a2345373ee801cf409055"
+    },
+    "render": {
+      "path": "assets/technology/technology-fixed-rounded-dome-and-windowed-belt-column-01/v1.0.0/thumbnail.png",
+      "size": 454423,
+      "sha256": "9f08d4648c1cde400b601c9f5fb844058f4cc0fd714327e6937ae820f9592f33"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

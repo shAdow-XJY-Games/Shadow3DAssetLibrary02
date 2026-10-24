@@ -1,0 +1,42 @@
+{
+  "id": "military-whole-armour-storage-and-inspection-alcove-scene-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "military",
+  "style": "S01-clean-geometric",
+  "title": "Whole Armour Storage and Inspection Alcove",
+  "description": "One static armour storage and inspection alcove scene, zero new independent models. Four complete qualified original objects are reused at unit scale with original mesh topology and face PBR: empty cuirass on a lower rear shelf, raised-visor empty helmet on a separate upper shelf, convex shield in a low right parking channel, and splayed gauntlet on the low front inspection bench. A scene-only back wall and short left return enclose the asymmetric vertical storage zone; the left front approach and middle strip remain open. No extra duplicate armour, wearer, weapon or rearranged equipment cabinet. Whole models remain uncut; geometry is translated only. Opaque constant PBR, metres, centred floor. Fixed artistic storage layout only, not an armour fitting or repair procedure, protective performance, physical load test, accessibility, egress, animation or safety claim.",
+  "bounds": {
+    "x": 3.0,
+    "y": 2.2,
+    "z": 1.75,
+    "unit": "m"
+  },
+  "triangles": 4656,
+  "materials": 14,
+  "files": {
+    "glb": {
+      "path": "assets/military/military-whole-armour-storage-and-inspection-alcove-scene-01/v1.0.0/model.glb",
+      "size": 292316,
+      "sha256": "2a26403d5934ccd49a33f601fd407ede52828dfb12ed33c633067ff66b31c144"
+    },
+    "blend": {
+      "path": "assets/military/military-whole-armour-storage-and-inspection-alcove-scene-01/v1.0.0/source.blend",
+      "size": 1383644,
+      "sha256": "19fc8a869f6b7d38cbd8442d38076435fe9dc24bb9ab69f5d15b462ea60ff818"
+    },
+    "generator": {
+      "path": "assets/military/military-whole-armour-storage-and-inspection-alcove-scene-01/v1.0.0/generate.py",
+      "size": 237056,
+      "sha256": "f63b04ecbb025d74da8f16829bdaf865c00133667ce5374b94ff382d1ee0baaf"
+    },
+    "render": {
+      "path": "assets/military/military-whole-armour-storage-and-inspection-alcove-scene-01/v1.0.0/thumbnail.png",
+      "size": 489263,
+      "sha256": "e09532da8e365bb6f3bcfdc3baed11a1c01abb6b470e42824d1a73a02e78be2d"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
