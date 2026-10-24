@@ -1154,6 +1154,11 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary02",
       "commit": "c30781d032cac6033630fa8c50ced47b6ceef76e"
+    },
+    "original-continuous-three-1401-volume02-20261025": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary02",
+      "commit": "db4182c4e35e00571631c8777e0cf0a8d999a00a"
     }
   },
   "assets": [
@@ -34524,6 +34529,135 @@
       "status": "verified",
       "license": "All rights reserved",
       "sourceId": "original-four-models-two-scenes-1398-volume02-20261025"
+    },
+    {
+      "id": "animal-static-oval-fin-skirt-cuttlefish-01",
+      "version": "1.0.0",
+      "category": "modular",
+      "assetKind": "prop",
+      "theme": "animal",
+      "style": "warm-handcrafted-village",
+      "title": "Static Oval Fin-Skirt Cuttlefish",
+      "description": "One original whole stylised cuttlefish-like animal resting low: a long broad oval mantle incorporates a true continuous thin lateral fin skirt in its closed surface, with a closed broad ventral resting patch. A short distinct forward head has large side eyes; eight short tapered forward arms and two longer club-ended tentacles form a front bundle rather than a radial octopus skirt. All mantle cross-sections, fin boundary and appendage paths are new, not an old octopus body stretched or a jellyfish bell rotated. One static prop, zero scenes. Artistic exterior only: no exact species/anatomy, internal shell/gills, suction detail, ink release, feeding, swimming, camouflage, rigging, animation or interaction claimed.",
+      "bounds": {
+        "x": 1.139999986,
+        "y": 2.972973824,
+        "z": 0.412,
+        "unit": "m"
+      },
+      "triangles": 1384,
+      "materials": 4,
+      "files": {
+        "glb": {
+          "path": "assets/animal/animal-static-oval-fin-skirt-cuttlefish-01/v1.0.0/model.glb",
+          "size": 83416,
+          "sha256": "7f669009eb8a203695b75ce68225ce027a4cca15e3784290e7eb2adcf0684260"
+        },
+        "blend": {
+          "path": "assets/animal/animal-static-oval-fin-skirt-cuttlefish-01/v1.0.0/source.blend",
+          "size": 635168,
+          "sha256": "31e8a254df62758fdbd3f3110f042ac603a3c922b913fa9cc38ef6ed45d8d49d"
+        },
+        "generator": {
+          "path": "assets/animal/animal-static-oval-fin-skirt-cuttlefish-01/v1.0.0/generate.py",
+          "size": 29381,
+          "sha256": "ba057282c45d93b24a8e65d23bc1eb0bdecc29ff9bbea474b7b155a6fd2783f2"
+        },
+        "render": {
+          "path": "assets/animal/animal-static-oval-fin-skirt-cuttlefish-01/v1.0.0/thumbnail.png",
+          "size": 474551,
+          "sha256": "4c8d3631f35c6f398e7a24a42d62da5a26fbc4c09aad13609bf01bd713cbd86c"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-continuous-three-1401-volume02-20261025"
+    },
+    {
+      "id": "military-fixed-raised-eye-slot-visor-helmet-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "military",
+      "style": "S01-clean-geometric",
+      "title": "Fixed Raised Eye Slot Visor Helmet",
+      "description": "One complete original fixed raised-visor costume helmet. A thick hollow crowned main shell has a fully open lower neck and one broad actual front face aperture; the separately connected curved face visor is held upward about two finite side pivot axes and contains two genuinely empty horizontal eye slots separated by its centre bridge. A closed crown cap, complete lower neck rim and visible paired pivot caps complete the object. The supplied pose alone is static: no hinge rig, animation, collision, wearer or head insert. It is not the old fixed three-window diving bulb with its glass recoloured, the open wire fencing mask, or a weld hood supported only by head bands; the whole head crown remains beneath the independently raised facial shell. All new geometry, three opaque constant PBR materials, metres, centred ground datum, one model and zero scenes. Invented nonweapon military/fantasy costume appearance only; no fit, precise history or anatomy, visibility performance, working articulation, impact protection, manufacturing or safety claim.",
+      "bounds": {
+        "x": 0.37,
+        "y": 0.40474133590469585,
+        "z": 0.3988287486898946,
+        "unit": "m"
+      },
+      "triangles": 1412,
+      "materials": 3,
+      "files": {
+        "glb": {
+          "path": "assets/military/military-fixed-raised-eye-slot-visor-helmet-01/v1.0.0/model.glb",
+          "size": 70952,
+          "sha256": "07b9ce9cda02ffcbeac9ac18f2bbd71e787803309e2cfe296aafe466cf8f0772"
+        },
+        "blend": {
+          "path": "assets/military/military-fixed-raised-eye-slot-visor-helmet-01/v1.0.0/source.blend",
+          "size": 630064,
+          "sha256": "7e6268b5a505e52bcb960be9723fd2924a68489961dcf703f0152ba6ead27a05"
+        },
+        "generator": {
+          "path": "assets/military/military-fixed-raised-eye-slot-visor-helmet-01/v1.0.0/generate.py",
+          "size": 11409,
+          "sha256": "14bd5bff683d5fdcce4f940097b0e4b34777c1f94d0ea654a4787b4bb30ae203"
+        },
+        "render": {
+          "path": "assets/military/military-fixed-raised-eye-slot-visor-helmet-01/v1.0.0/thumbnail.png",
+          "size": 442749,
+          "sha256": "10cc65be62f9a2b843a9da1b1298b23275e17f94b4118a0f751d7994077b56a1"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-continuous-three-1401-volume02-20261025"
+    },
+    {
+      "id": "professional-fixed-slotted-bed-and-crosshead-book-sewing-frame-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "professional",
+      "style": "S01-clean-geometric",
+      "title": "Fixed Slotted Bed and Crosshead Book Sewing Frame",
+      "description": "One newly authored complete static book-sewing support-frame appearance with one blank unbound text-block display. A wide thick ground-level work platform has a genuine long narrow through slot and complete material end bridges. Two whole tall shouldered posts carry separate genuinely bored upper sleeves, one full horizontal crosshead rail and two pierced octagonal fixed lock-cap appearances. Three entire finite support cords descend from the crosshead into three local slot-bridging keys, leaving the remaining slot genuinely open. The complete blank text-block form rests flat behind the cords; shallow stepped edge bands suggest layered signatures, but no separate leaves or stitched connection is claimed. This whole slotted-platform, post-through-crosshead and horizontal text-block relation is newly authored, not the old standing weaving frame with fewer warp threads, nor the complete treadle loom with its pedals removed. There is no lower woven-cloth panel, front/rear warp drum, shed, reed, treadle or reused old model geometry. Four opaque untextured constant PBR roles, closed editable bodies, metres, native Z up and actual horizontal bounds-centred ground datum. One whole prop, zero scenes or separately counted books, cords and tools. Fixed craft-preparation appearance only: no sewn pages, needle, thread path through signatures, real screw adjustment, cord tension, bookbinding process, paper strength, archival compatibility, motion, manufacture, load, ergonomics or equipment safety claim. Rigging, animation and interaction are not made and are outside this static deliverable.",
+      "bounds": {
+        "x": 0.76,
+        "y": 0.46,
+        "z": 0.56,
+        "unit": "m"
+      },
+      "triangles": 1708,
+      "materials": 4,
+      "files": {
+        "glb": {
+          "path": "assets/professional/professional-fixed-slotted-bed-and-crosshead-book-sewing-frame-01/v1.0.0/model.glb",
+          "size": 93376,
+          "sha256": "d9cf4003ebe5b34565d89e2246869dc8e41ff8b57417e6e196485d9b377e4411"
+        },
+        "blend": {
+          "path": "assets/professional/professional-fixed-slotted-bed-and-crosshead-book-sewing-frame-01/v1.0.0/source.blend",
+          "size": 685072,
+          "sha256": "f98f20a6e7101aaaf627f9468d9b7c1f03c77ff9b4d85ae49dfbebcbb5267671"
+        },
+        "generator": {
+          "path": "assets/professional/professional-fixed-slotted-bed-and-crosshead-book-sewing-frame-01/v1.0.0/generate.py",
+          "size": 27054,
+          "sha256": "ed5df0ef39cdbc51adc42120aaaeab603e73136995c85cc439b57d28f2a4fdb2"
+        },
+        "render": {
+          "path": "assets/professional/professional-fixed-slotted-bed-and-crosshead-book-sewing-frame-01/v1.0.0/thumbnail.png",
+          "size": 538137,
+          "sha256": "9f0a24d3a92dc345d8a9648592b163a673091fe9171866ec82bf4bbfdf872330"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-continuous-three-1401-volume02-20261025"
     }
   ]
 }
