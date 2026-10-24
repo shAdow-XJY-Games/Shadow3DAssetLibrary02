@@ -1,0 +1,42 @@
+{
+  "id": "renovation-fixed-slotted-handle-and-blunt-extension-utility-knife-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "renovation",
+  "style": "source-preserved-low-poly",
+  "title": "Fixed Slotted Handle and Blunt Extension Utility Knife",
+  "description": "One newly authored complete fixed extended utility-knife-style renovation hand-tool appearance. A continuous closed thick sleeve body has a real forward narrow blade throat and a long top thumb-slider slot. One whole finite blunt flat trapezoidal blade appearance extends from the sleeve through a separately modeled complete collar; a distinct slider stem and cap, full rear end cap and two side grip panels complete the small assembly. All numeric geometry newly authored, not a cut-out drawknife, changed shears or miniaturized paper cutter. One prop and zero scenes with three opaque materials. Fixed game-art only, without sharpness, motion, edge performance, cutting instructions, mechanism locking, manufacture or operating-safety claim.",
+  "bounds": {
+    "x": 0.04800000041723251,
+    "y": 0.25,
+    "z": 0.03200000151991844,
+    "unit": "m"
+  },
+  "triangles": 392,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/renovation/renovation-fixed-slotted-handle-and-blunt-extension-utility-knife-01/v1.0.0/model.glb",
+      "size": 38908,
+      "sha256": "4a9ab027d59cc2d1abfc5a7474c98f0ce2f1041a0ce56a31520acecaf8a25035"
+    },
+    "blend": {
+      "path": "assets/renovation/renovation-fixed-slotted-handle-and-blunt-extension-utility-knife-01/v1.0.0/source.blend",
+      "size": 614240,
+      "sha256": "6fd680ecd3d7dbffd45a8f1378a966b8c573384a56acb18f0de6e4ad326984f3"
+    },
+    "generator": {
+      "path": "assets/renovation/renovation-fixed-slotted-handle-and-blunt-extension-utility-knife-01/v1.0.0/generate.py",
+      "size": 14220,
+      "sha256": "08a1b581c3cda27b2a910dfebaf91407036dadc7aade54aea7b7c2f20fbf6f9f"
+    },
+    "render": {
+      "path": "assets/renovation/renovation-fixed-slotted-handle-and-blunt-extension-utility-knife-01/v1.0.0/thumbnail.png",
+      "size": 485826,
+      "sha256": "574afcb006b4e75fe164975be774139d6291801b9c67db4e3c17accd33c18511"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
