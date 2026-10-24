@@ -1049,6 +1049,11 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary02",
       "commit": "c78e6060fd927ad7be6461e5d9f1417610acb172"
+    },
+    "original-continuous-four-1291-volume02-20261024": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary02",
+      "commit": "e4875f0794b9fa6423cbda685d2e00f7d1b4ba2f"
     }
   },
   "assets": [
@@ -29646,6 +29651,178 @@
       "status": "verified",
       "license": "All rights reserved",
       "sourceId": "original-continuous-six-1287-volume02-20261024"
+    },
+    {
+      "id": "interior-fixed-part-unfolded-pullout-sofa-bed-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "interior",
+      "style": "S01-clean-geometric",
+      "title": "Fixed Part Unfolded Pullout Sofa Bed",
+      "description": "One original complete sofa with its own partly unfolded pullout bed carrier. A low upholstered back shell, two complete arms, rear underframe, anchor blocks and four feet surround the rear section of one continuous three-frame folding assembly. Two whole rectangular bed frames lie out in front on two complete grounded U supports, while the third whole foot frame remains angled upward about its real end-to-end hinge pins. Three separate thick mattress sections rest on their respective complete open frames and cross supports; rear carrier links join the assembly to the sofa anchors. No imported sofa or separate bed is placed as a scene. This low internally folding carrier differs from the ordinary fixed two-seat sofa and tall cabinet wall-bed with one full pivoting mattress. Three constant opaque PBR materials, metres Z up, true XY envelope centred, grounded soles, one complete prop and zero scenes. Fixed partly unfolded appearance only; no sleeping surface usability, full folding clearance, pullout travel, upholstery simulation, comfort, load, balance, installation or safety claim.",
+      "bounds": {
+        "x": 1.81,
+        "y": 2.3079937725707715,
+        "z": 0.99,
+        "unit": "m"
+      },
+      "triangles": 1384,
+      "materials": 3,
+      "files": {
+        "glb": {
+          "path": "assets/interior/interior-fixed-part-unfolded-pullout-sofa-bed-01/v1.0.0/model.glb",
+          "size": 88620,
+          "sha256": "d9a3b0d82352b79ab63ffb6a9952920b8fa281e12193b4c7995e1ac9c52e50ce"
+        },
+        "blend": {
+          "path": "assets/interior/interior-fixed-part-unfolded-pullout-sofa-bed-01/v1.0.0/source.blend",
+          "size": 762580,
+          "sha256": "37482d1f90a386cd5b6375bc8c81851dda6fe893841c84b7af76a7e32468cca1"
+        },
+        "generator": {
+          "path": "assets/interior/interior-fixed-part-unfolded-pullout-sofa-bed-01/v1.0.0/generate.py",
+          "size": 11933,
+          "sha256": "7f73330979290a5ac79a0cc89d11df3bccd091b9964249161d0a44a4a0cd22c7"
+        },
+        "render": {
+          "path": "assets/interior/interior-fixed-part-unfolded-pullout-sofa-bed-01/v1.0.0/thumbnail.png",
+          "size": 422568,
+          "sha256": "676ea3a6793eb570a0d50c3df0043fded871c64baad679dccbf6d642c8cc227e"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-continuous-four-1291-volume02-20261024"
+    },
+    {
+      "id": "nature-whole-fused-fissure-living-stone-01",
+      "version": "1.0.0",
+      "category": "modular",
+      "assetKind": "prop",
+      "theme": "nature",
+      "style": "warm-handcrafted-village",
+      "title": "Whole Fused-fissure Living Stone",
+      "description": "One newly authored complete above-ground living-stone succulent body: two broad fleshy leaf crowns remain fused through one continuous tapering lower body, while a real narrow curved finite-depth fissure divides their upper faces. The low broad crowns carry integral irregular muted window-like face patches; these opaque matte colour regions are not simulated translucent tissue. This is one connected closed mesh, not two detached cotyledons, an exposed radicle, jointed cactus paddles, a pair of rocks or a pot arrangement. One static stylised plant-body prop, zero scenes. Roots and flowers are not depicted. No exact species, biological scale, growth, propagation, cultivation, medicinal, ecological or physiological claim.",
+      "bounds": {
+        "x": 0.159390002,
+        "y": 0.128340006,
+        "z": 0.101872556,
+        "unit": "m"
+      },
+      "triangles": 3168,
+      "materials": 3,
+      "files": {
+        "glb": {
+          "path": "assets/nature/nature-whole-fused-fissure-living-stone-01/v1.0.0/model.glb",
+          "size": 219368,
+          "sha256": "9c5009d7478da855ab8d98772d31bb707aea0db757d29d84f700efa0d1dd0f92"
+        },
+        "blend": {
+          "path": "assets/nature/nature-whole-fused-fissure-living-stone-01/v1.0.0/source.blend",
+          "size": 650412,
+          "sha256": "5bfdca717f53b07f3176eddb83541360a72a982c578c9648c2a0fb0987f4d5cb"
+        },
+        "generator": {
+          "path": "assets/nature/nature-whole-fused-fissure-living-stone-01/v1.0.0/generate.py",
+          "size": 28204,
+          "sha256": "0678bbd0c8f3ac14cccece272405d2def9f427e3f1aaee90fa2be207105eeada"
+        },
+        "render": {
+          "path": "assets/nature/nature-whole-fused-fissure-living-stone-01/v1.0.0/thumbnail.png",
+          "size": 498843,
+          "sha256": "b3b623aa2754a3cdc69ea7948a0cf3c6ccb6ce8174ba0c34d0e5974b116f3129"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-continuous-four-1291-volume02-20261024"
+    },
+    {
+      "id": "professional-fixed-three-foot-blank-disc-spherometer-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "professional",
+      "style": "source-preserved-low-poly",
+      "title": "Fixed Three Foot Blank Disc Spherometer",
+      "description": "One newly authored complete static three-foot spherometer appearance. Three equal-height integral finite-foot legs support three full radial arms and one genuinely bored central boss. A vertical central spindle with a separate continuous finite helical thread appearance extends below the frame without touching the ground, and carries a broad blank circular wheel with a short top grip. One rear arm supports a slim upright index post and a small blank fixed index blade above the wheel edge. The three feet, open inter-arm spaces and central spindle are all complete visible geometry; no C-shaped micrometer jaw, surveying telescope or old tripod meshes reused. One prop, zero scenes, four constant opaque PBR materials. No graduations, readings or calibrated screw pitch. Deliberate fixed root overlaps are not running-thread clearances. Static illustrative tool only: no curvature, depth or radius measurement, adjustment, metrology accuracy, working thread, manufacture, stability or safety guarantee.",
+      "bounds": {
+        "x": 0.245826855301857,
+        "y": 0.2128923088312149,
+        "z": 0.20999999344348907,
+        "unit": "m"
+      },
+      "triangles": 5048,
+      "materials": 4,
+      "files": {
+        "glb": {
+          "path": "assets/professional/professional-fixed-three-foot-blank-disc-spherometer-01/v1.0.0/model.glb",
+          "size": 434448,
+          "sha256": "f68ec48ce5599de75cdb3348eb6c117ea031978a1f9120688b202876a0715b5b"
+        },
+        "blend": {
+          "path": "assets/professional/professional-fixed-three-foot-blank-disc-spherometer-01/v1.0.0/source.blend",
+          "size": 1182400,
+          "sha256": "09c1e5af8299b6f08f372c0f0c12d0a8efe5a1fed818ac9505e39b727302c5d1"
+        },
+        "generator": {
+          "path": "assets/professional/professional-fixed-three-foot-blank-disc-spherometer-01/v1.0.0/generate.py",
+          "size": 17304,
+          "sha256": "2a52e9dc722ff070e398b5e10fe1f77c0aec7c7821506fd61efe5d160e52fe1a"
+        },
+        "render": {
+          "path": "assets/professional/professional-fixed-three-foot-blank-disc-spherometer-01/v1.0.0/thumbnail.png",
+          "size": 498014,
+          "sha256": "e8542bf1f0566a43b1172e643549a65ac4307e402a651e7ac300743126c0d7de"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-continuous-four-1291-volume02-20261024"
+    },
+    {
+      "id": "toys-fixed-raised-spring-puppet-crank-box-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "music",
+      "style": "S01-clean-geometric",
+      "title": "Fixed Raised Spring Puppet Crank Box",
+      "description": "One newly authored complete fixed raised spring-puppet toy-box appearance. A deep whole red case has a true open cavity, floor and walls, with a recessed lid fixed back on hinge pins and stays. One continuous 5.5-turn closed helical spring joins the inner floor mount to a full flared puppet torso and neck. A new closed rounded toy head, simple blank eyes, round nose and conical cap are permanently attached above it. A through-bearing side shaft and crank grip are fixed on the case. No old bird rider body or saddle, no music-box pinned drum or comb and no shape-sorter pieces are imported: the complete deep-box/raised-coil/puppet exterior is independently authored, counted as one toy not separate character or spring assets. Three opaque constant untextured PBR roles; metres, Z up, whole horizontally centred finite ground sole. One model and zero scenes. Static nonfunctional art only: no concealed gearing, catch or release, stored energy, actual popping, cranking, spring motion, surprise effect, age suitability, pinch or swallowing protection, toy certification, fabrication or safety claim.",
+      "bounds": {
+        "x": 0.495,
+        "y": 0.4716,
+        "z": 1.125,
+        "unit": "m"
+      },
+      "triangles": 3740,
+      "materials": 3,
+      "files": {
+        "glb": {
+          "path": "assets/music/toys-fixed-raised-spring-puppet-crank-box-01/v1.0.0/model.glb",
+          "size": 261356,
+          "sha256": "fb36ee718b158c0966318cf50292e472c81dfc0400aaeff4f8258859ce89841a"
+        },
+        "blend": {
+          "path": "assets/music/toys-fixed-raised-spring-puppet-crank-box-01/v1.0.0/source.blend",
+          "size": 811320,
+          "sha256": "47b127493f73ad5c6c5328ec97aa01065acab1828fb55b99fd6f09055f7c22e7"
+        },
+        "generator": {
+          "path": "assets/music/toys-fixed-raised-spring-puppet-crank-box-01/v1.0.0/generate.py",
+          "size": 11867,
+          "sha256": "1c939af634310eb5d7b3c772af934771f3b853c69c60fab3ca656638e5f3c8f2"
+        },
+        "render": {
+          "path": "assets/music/toys-fixed-raised-spring-puppet-crank-box-01/v1.0.0/thumbnail.png",
+          "size": 422042,
+          "sha256": "bca0b41620d6db091fd56172201da1fd574390057c014c912f86fb786010acbc"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-continuous-four-1291-volume02-20261024"
     }
   ]
 }
