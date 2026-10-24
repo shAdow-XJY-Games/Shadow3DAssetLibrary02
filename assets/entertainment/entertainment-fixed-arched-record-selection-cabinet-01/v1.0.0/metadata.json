@@ -1,0 +1,42 @@
+{
+  "id": "entertainment-fixed-arched-record-selection-cabinet-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "entertainment",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Arched Record Selection Cabinet",
+  "description": "One newly authored complete static jukebox-style record-selection cabinet. A continuous thick upright arched case and full rear wall stand on one ground plinth; an open upper bay holds five whole dark fixed records with plain small centres on a common stepped support rack. A complete pitched central selector fascia carries eight separate blank fixed buttons. The lower continuous compartment contains a real recessed thick driver cone behind seven separated full vertical grille rails with actual open gaps, inside a continuous contrasting arch trim. This is not the old rectangular open-driver speaker cabinet with circular exposed baffles and reflex duct, or a low gramophone cabinet with a horizontal single platter and tall external flared horn; all numeric geometry is independently authored as one upright stacked record-selection equipment appearance. One whole model, zero scenes; records and buttons are constituents, not extra assets. Three constant opaque untextured PBR roles, metres, Z up and whole ground-centred origin. No glass, luminous tubes, labels, trademarks, music, loose media or room. The upper bay is deliberately open for the fixed display, not a simulated transparent enclosure. No selector mechanism, record-changing motion, playback, sound, acoustic/electrical performance, historical authenticity, load, fabrication or safety claim.",
+  "bounds": {
+    "x": 1.08,
+    "y": 0.6759999999999999,
+    "z": 1.6350000000000002,
+    "unit": "m"
+  },
+  "triangles": 1992,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/entertainment/entertainment-fixed-arched-record-selection-cabinet-01/v1.0.0/model.glb",
+      "size": 112308,
+      "sha256": "53b6b12fb0bebe88c99f7821d8377f54324a5b9840da1c7fc17c148df19cc11c"
+    },
+    "blend": {
+      "path": "assets/entertainment/entertainment-fixed-arched-record-selection-cabinet-01/v1.0.0/source.blend",
+      "size": 809300,
+      "sha256": "6cefffb66cc3f1be82ef126025744def5c62a91c7cb03238d929d052012855f0"
+    },
+    "generator": {
+      "path": "assets/entertainment/entertainment-fixed-arched-record-selection-cabinet-01/v1.0.0/generate.py",
+      "size": 12219,
+      "sha256": "b8141b5f398ebcd268270b32192a8f822364d6be4068c61a6a93bef6466c4085"
+    },
+    "render": {
+      "path": "assets/entertainment/entertainment-fixed-arched-record-selection-cabinet-01/v1.0.0/thumbnail.png",
+      "size": 545139,
+      "sha256": "c691d954ffb3fbe8db2ea42000deb89ba49ba466974728cc52999a2cfb1a122d"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

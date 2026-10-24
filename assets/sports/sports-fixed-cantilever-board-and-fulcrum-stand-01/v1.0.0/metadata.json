@@ -1,0 +1,42 @@
+{
+  "id": "sports-fixed-cantilever-board-and-fulcrum-stand-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "sports",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Cantilever Board and Fulcrum Stand",
+  "description": "One newly authored complete fixed low diving-board-style display. A single long thin rounded-nose cantilever board rests on a full transverse faceted roller and is retained at its rear heel by a whole lower crossseat, two side cheeks and top clamp plate. A paired ground-shoe stand has four uprights, side diagonals and complete crossheads; two rear stringers carry three genuine separate treads and short two-sided access handrails. The long unsupported forward overhang and full open space beneath it distinguish the complete assembly from the old short inclined pool starting platform with sculpted side cheeks and front U-grip, and from the old curved gymnastics springboard with four complete coil springs on a low full base. None of those old geometries is imported, length-scaled or combined; all constituent solids are newly authored as one whole equipment appearance. Three opaque untextured PBR roles, metres and Z up, complete horizontal ground-centred origin. One model, zero scenes, no swimmer, water, pool rim or surrounding floor. Entire pose is static illustrative art: no flexibility, spring action, adjustable fulcrum, loading, real access, sporting dimensions, swimming-pool suitability, manufacture, stability or safety certification.",
+  "bounds": {
+    "x": 1.0,
+    "y": 3.78,
+    "z": 1.35,
+    "unit": "m"
+  },
+  "triangles": 400,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/sports/sports-fixed-cantilever-board-and-fulcrum-stand-01/v1.0.0/model.glb",
+      "size": 36460,
+      "sha256": "629741d4f0a0da827c665408d9fc4fc1870e3c49523480c02ec5904d7a6afd84"
+    },
+    "blend": {
+      "path": "assets/sports/sports-fixed-cantilever-board-and-fulcrum-stand-01/v1.0.0/source.blend",
+      "size": 667948,
+      "sha256": "06704e086df38af2635a5500520c318f070810ce1d86056fe28193af54fc1603"
+    },
+    "generator": {
+      "path": "assets/sports/sports-fixed-cantilever-board-and-fulcrum-stand-01/v1.0.0/generate.py",
+      "size": 11645,
+      "sha256": "3ccae395822f433583b14034720fda39bb4cdf448369252a63d2744a3b11ba3f"
+    },
+    "render": {
+      "path": "assets/sports/sports-fixed-cantilever-board-and-fulcrum-stand-01/v1.0.0/thumbnail.png",
+      "size": 350684,
+      "sha256": "13f186446e8ed59062efa0b580a4da387301ca128c3f7df6d0fec9305584364d"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
