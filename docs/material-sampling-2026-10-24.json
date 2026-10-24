@@ -1,0 +1,461 @@
+{
+  "schemaVersion": 1,
+  "batch": "material-preservation-sample-01",
+  "date": "2026-10-24",
+  "scope": "Six deliberately selected assets: three from frozen Volume01 and three recent Volume02 assets. This is a sample, not a complete-library audit or cross-engine visual certification.",
+  "method": "Read immutable repository generators and GLB payloads for old samples; compare SHA256 to catalog. Read previously delivered current local generators/GLBs and compare same catalog hashes for recent samples. Parse GLB JSON materials. Check native-file presence only. No Blender execution, model modification or image rerender.",
+  "result": "All six sampled GLBs contain their own PBR material values and all six generator/GLB hashes match catalog.",
+  "not_verified": [
+    "All other assets",
+    "Blender native contents reopened",
+    "Visual parity between renderers",
+    "Complete original lighting saved in every native file"
+  ],
+  "samples": [
+    {
+      "id": "camping-backpack-01",
+      "repository": "Shadow3DAssetLibrary",
+      "commit": "7f2b4370dc1b200e1a63e2a74c58684a43e7a216",
+      "generator_path": "assets/camping/camping-backpack-01/v1.0.0/generate.py",
+      "glb_path": "assets/camping/camping-backpack-01/v1.0.0/model.glb",
+      "generator_sha256_verified": "d71ef16447c9da2457d83c88aac7ef09ab68f10d9c071890137a25c46cff41c7",
+      "glb_sha256_verified": "4d72eb96a680ad832eff4cc7d2d6c3ae892fc14733c11303562c9c3196edc140",
+      "materials": [
+        {
+          "doubleSided": true,
+          "name": "teal",
+          "pbrMetallicRoughness": {
+            "baseColorFactor": [
+              0.054999999701976776,
+              0.1899999976158142,
+              0.20000000298023224,
+              1
+            ],
+            "metallicFactor": 0,
+            "roughnessFactor": 0.8299999833106995
+          }
+        },
+        {
+          "doubleSided": true,
+          "name": "sand",
+          "pbrMetallicRoughness": {
+            "baseColorFactor": [
+              0.6800000071525574,
+              0.4300000071525574,
+              0.2199999988079071,
+              1
+            ],
+            "metallicFactor": 0,
+            "roughnessFactor": 0.8299999833106995
+          }
+        },
+        {
+          "doubleSided": true,
+          "name": "honey",
+          "pbrMetallicRoughness": {
+            "baseColorFactor": [
+              0.47999998927116394,
+              0.2549999952316284,
+              0.10499999672174454,
+              1
+            ],
+            "metallicFactor": 0,
+            "roughnessFactor": 0.8299999833106995
+          }
+        }
+      ],
+      "images": 0,
+      "textures": 0,
+      "extensionsUsed": [],
+      "blend_exists_in_remote_directory": true,
+      "blend_bytes": 669260,
+      "blend_opened": false,
+      "material_count": 3,
+      "roughness_range": [
+        0.8299999833106995,
+        0.8299999833106995
+      ],
+      "metallic_range": [
+        0,
+        0
+      ],
+      "source_url": "https://github.com/shAdow-XJY-Games/Shadow3DAssetLibrary/blob/7f2b4370dc1b200e1a63e2a74c58684a43e7a216/assets/camping/camping-backpack-01/v1.0.0/generate.py",
+      "model_url": "https://github.com/shAdow-XJY-Games/Shadow3DAssetLibrary/blob/7f2b4370dc1b200e1a63e2a74c58684a43e7a216/assets/camping/camping-backpack-01/v1.0.0/model.glb"
+    },
+    {
+      "id": "interior-two-seat-sofa-01",
+      "repository": "Shadow3DAssetLibrary",
+      "commit": "9c6fc921100857f8e99748d8261b41759272b52b",
+      "generator_path": "assets/interior/interior-two-seat-sofa-01/v1.0.0/generate.py",
+      "glb_path": "assets/interior/interior-two-seat-sofa-01/v1.0.0/model.glb",
+      "generator_sha256_verified": "2d419abe55efda3403cd51ce503fb3c1f08b52353a66a656ef7b3a784bac532d",
+      "glb_sha256_verified": "90c1ebb73e2aa82d5342ded399b319ea5f9356c885fd21429a0ac85696e686ce",
+      "materials": [
+        {
+          "doubleSided": true,
+          "name": "Seafoam upholstery",
+          "pbrMetallicRoughness": {
+            "baseColorFactor": [
+              0.1899999976158142,
+              0.4000000059604645,
+              0.3499999940395355,
+              1
+            ],
+            "metallicFactor": 0,
+            "roughnessFactor": 0.8299999833106995
+          }
+        },
+        {
+          "doubleSided": true,
+          "name": "Honey maple support",
+          "pbrMetallicRoughness": {
+            "baseColorFactor": [
+              0.47999998927116394,
+              0.2549999952316284,
+              0.10499999672174454,
+              1
+            ],
+            "metallicFactor": 0,
+            "roughnessFactor": 0.7300000190734863
+          }
+        },
+        {
+          "doubleSided": true,
+          "name": "Deep seafoam foundation",
+          "pbrMetallicRoughness": {
+            "baseColorFactor": [
+              0.11500000208616257,
+              0.26499998569488525,
+              0.23499999940395355,
+              1
+            ],
+            "metallicFactor": 0,
+            "roughnessFactor": 0.800000011920929
+          }
+        }
+      ],
+      "images": 0,
+      "textures": 0,
+      "extensionsUsed": [],
+      "blend_exists_in_remote_directory": true,
+      "blend_bytes": 594228,
+      "blend_opened": false,
+      "material_count": 3,
+      "roughness_range": [
+        0.7300000190734863,
+        0.8299999833106995
+      ],
+      "metallic_range": [
+        0,
+        0
+      ],
+      "source_url": "https://github.com/shAdow-XJY-Games/Shadow3DAssetLibrary/blob/9c6fc921100857f8e99748d8261b41759272b52b/assets/interior/interior-two-seat-sofa-01/v1.0.0/generate.py",
+      "model_url": "https://github.com/shAdow-XJY-Games/Shadow3DAssetLibrary/blob/9c6fc921100857f8e99748d8261b41759272b52b/assets/interior/interior-two-seat-sofa-01/v1.0.0/model.glb"
+    },
+    {
+      "id": "education-open-rear-sloped-teacher-lectern-01",
+      "repository": "Shadow3DAssetLibrary",
+      "commit": "1a9b90c2f341e68a95c57852f285b28a4e87e9a0",
+      "generator_path": "assets/education/education-open-rear-sloped-teacher-lectern-01/v1.0.0/generate.py",
+      "glb_path": "assets/education/education-open-rear-sloped-teacher-lectern-01/v1.0.0/model.glb",
+      "generator_sha256_verified": "1b17eb6b5863923c4cfb9d8e421c2560e190d54cb690b89af6c54a39a51627e6",
+      "glb_sha256_verified": "aa3072e17311074c7d8541897ca9beee69c4b9eda447d8e23ea326cf37f2fd1a",
+      "materials": [
+        {
+          "doubleSided": true,
+          "name": "Plinth_Graphite",
+          "pbrMetallicRoughness": {
+            "baseColorFactor": [
+              0.04500000178813934,
+              0.052000001072883606,
+              0.057999998331069946,
+              1
+            ],
+            "metallicFactor": 0.07999999821186066,
+            "roughnessFactor": 0.7599999904632568
+          }
+        },
+        {
+          "doubleSided": true,
+          "name": "Shell_QuietTeal",
+          "pbrMetallicRoughness": {
+            "baseColorFactor": [
+              0.10000000149011612,
+              0.2800000011920929,
+              0.28999999165534973,
+              1
+            ],
+            "metallicFactor": 0.05000000074505806,
+            "roughnessFactor": 0.6100000143051147
+          }
+        },
+        {
+          "doubleSided": true,
+          "name": "Interior_WarmBirch",
+          "pbrMetallicRoughness": {
+            "baseColorFactor": [
+              0.6200000047683716,
+              0.4300000071525574,
+              0.23999999463558197,
+              1
+            ],
+            "metallicFactor": 0,
+            "roughnessFactor": 0.6800000071525574
+          }
+        },
+        {
+          "doubleSided": true,
+          "name": "Desktop_DeepSlate",
+          "pbrMetallicRoughness": {
+            "baseColorFactor": [
+              0.054999999701976776,
+              0.08500000089406967,
+              0.10999999940395355,
+              1
+            ],
+            "metallicFactor": 0,
+            "roughnessFactor": 0.7300000190734863
+          }
+        }
+      ],
+      "images": 0,
+      "textures": 0,
+      "extensionsUsed": [],
+      "blend_exists_in_remote_directory": true,
+      "blend_bytes": 542236,
+      "blend_opened": false,
+      "material_count": 4,
+      "roughness_range": [
+        0.6100000143051147,
+        0.7599999904632568
+      ],
+      "metallic_range": [
+        0,
+        0.07999999821186066
+      ],
+      "source_url": "https://github.com/shAdow-XJY-Games/Shadow3DAssetLibrary/blob/1a9b90c2f341e68a95c57852f285b28a4e87e9a0/assets/education/education-open-rear-sloped-teacher-lectern-01/v1.0.0/generate.py",
+      "model_url": "https://github.com/shAdow-XJY-Games/Shadow3DAssetLibrary/blob/1a9b90c2f341e68a95c57852f285b28a4e87e9a0/assets/education/education-open-rear-sloped-teacher-lectern-01/v1.0.0/model.glb"
+    },
+    {
+      "id": "animal-static-single-hump-swept-neck-camel-01",
+      "repository": "Shadow3DAssetLibrary02",
+      "commit": "563ea7be34bd90a2c586d662b8cde58af597bd73",
+      "generator_path": "assets/animal/animal-static-single-hump-swept-neck-camel-01/v1.0.0/generate.py",
+      "glb_path": "assets/animal/animal-static-single-hump-swept-neck-camel-01/v1.0.0/model.glb",
+      "generator_sha256_verified": "b3db8b57b7c85b71d0bf473f97ec5e8abfe54010147deef4178d07cc60838255",
+      "glb_sha256_verified": "5dc48f845b15871a9455b9f38f59858d2d248298a06bdfee61216a76f3ebf4d2",
+      "materials": [
+        {
+          "doubleSided": true,
+          "name": "DarkPadsAndTailTuft",
+          "pbrMetallicRoughness": {
+            "baseColorFactor": [
+              0.23999999463558197,
+              0.17000000178813934,
+              0.0949999988079071,
+              1
+            ],
+            "metallicFactor": 0,
+            "roughnessFactor": 0.9100000262260437
+          }
+        },
+        {
+          "doubleSided": true,
+          "name": "WarmSandWholeCoat",
+          "pbrMetallicRoughness": {
+            "baseColorFactor": [
+              0.5099999904632568,
+              0.3700000047683716,
+              0.20000000298023224,
+              1
+            ],
+            "metallicFactor": 0,
+            "roughnessFactor": 0.9399999976158142
+          }
+        },
+        {
+          "doubleSided": true,
+          "name": "SmallDarkEyes",
+          "pbrMetallicRoughness": {
+            "baseColorFactor": [
+              0.02199999988079071,
+              0.017000000923871994,
+              0.009999999776482582,
+              1
+            ],
+            "metallicFactor": 0,
+            "roughnessFactor": 0.6499999761581421
+          }
+        }
+      ],
+      "images": 0,
+      "textures": 0,
+      "extensionsUsed": [],
+      "blend_present_locally": true,
+      "blend_opened": false,
+      "material_count": 3,
+      "roughness_range": [
+        0.6499999761581421,
+        0.9399999976158142
+      ],
+      "metallic_range": [
+        0,
+        0
+      ],
+      "source_url": "https://github.com/shAdow-XJY-Games/Shadow3DAssetLibrary02/blob/563ea7be34bd90a2c586d662b8cde58af597bd73/assets/animal/animal-static-single-hump-swept-neck-camel-01/v1.0.0/generate.py",
+      "model_url": "https://github.com/shAdow-XJY-Games/Shadow3DAssetLibrary02/blob/563ea7be34bd90a2c586d662b8cde58af597bd73/assets/animal/animal-static-single-hump-swept-neck-camel-01/v1.0.0/model.glb"
+    },
+    {
+      "id": "sports-fixed-ridged-blade-v-spliced-cricket-bat-01",
+      "repository": "Shadow3DAssetLibrary02",
+      "commit": "563ea7be34bd90a2c586d662b8cde58af597bd73",
+      "generator_path": "assets/sports/sports-fixed-ridged-blade-v-spliced-cricket-bat-01/v1.0.0/generate.py",
+      "glb_path": "assets/sports/sports-fixed-ridged-blade-v-spliced-cricket-bat-01/v1.0.0/model.glb",
+      "generator_sha256_verified": "f8e75c043e9fa38d96b5dde16df6b8ab85065553354d07011b842a274df58065",
+      "glb_sha256_verified": "c1c6323bb79a1043fe058c30aa78584ceed90921ee3f192480ef83fa4b1834a5",
+      "materials": [
+        {
+          "doubleSided": true,
+          "name": "WholeRidgedBlade_PaleWillow",
+          "pbrMetallicRoughness": {
+            "baseColorFactor": [
+              0.699999988079071,
+              0.5199999809265137,
+              0.28999999165534973,
+              1
+            ],
+            "metallicFactor": 0,
+            "roughnessFactor": 0.7599999904632568
+          }
+        },
+        {
+          "doubleSided": true,
+          "name": "WholeSplicedHandle_WarmWood",
+          "pbrMetallicRoughness": {
+            "baseColorFactor": [
+              0.4000000059604645,
+              0.23000000417232513,
+              0.10000000149011612,
+              1
+            ],
+            "metallicFactor": 0,
+            "roughnessFactor": 0.75
+          }
+        },
+        {
+          "doubleSided": true,
+          "name": "WholeGripRegion_DarkRubber",
+          "pbrMetallicRoughness": {
+            "baseColorFactor": [
+              0.06499999761581421,
+              0.07500000298023224,
+              0.08500000089406967,
+              1
+            ],
+            "metallicFactor": 0,
+            "roughnessFactor": 0.8299999833106995
+          }
+        }
+      ],
+      "images": 0,
+      "textures": 0,
+      "extensionsUsed": [],
+      "blend_present_locally": true,
+      "blend_opened": false,
+      "material_count": 3,
+      "roughness_range": [
+        0.75,
+        0.8299999833106995
+      ],
+      "metallic_range": [
+        0,
+        0
+      ],
+      "source_url": "https://github.com/shAdow-XJY-Games/Shadow3DAssetLibrary02/blob/563ea7be34bd90a2c586d662b8cde58af597bd73/assets/sports/sports-fixed-ridged-blade-v-spliced-cricket-bat-01/v1.0.0/generate.py",
+      "model_url": "https://github.com/shAdow-XJY-Games/Shadow3DAssetLibrary02/blob/563ea7be34bd90a2c586d662b8cde58af597bd73/assets/sports/sports-fixed-ridged-blade-v-spliced-cricket-bat-01/v1.0.0/model.glb"
+    },
+    {
+      "id": "education-fixed-clamp-stem-and-prism-drawing-aid-01",
+      "repository": "Shadow3DAssetLibrary02",
+      "commit": "563ea7be34bd90a2c586d662b8cde58af597bd73",
+      "generator_path": "assets/education/education-fixed-clamp-stem-and-prism-drawing-aid-01/v1.0.0/generate.py",
+      "glb_path": "assets/education/education-fixed-clamp-stem-and-prism-drawing-aid-01/v1.0.0/model.glb",
+      "generator_sha256_verified": "bb633ce68e047796f3e8c33ee526c066d770c3000f8666a0476eccea8e38357a",
+      "glb_sha256_verified": "f489561fa127d0bb8e9a9a0244cb428039eca76e5fe8c14bb3adb88cbda07a8e",
+      "materials": [
+        {
+          "name": "MutedBlueClampAndFork",
+          "doubleSided": true,
+          "pbrMetallicRoughness": {
+            "baseColorFactor": [
+              0.06,
+              0.18,
+              0.21,
+              1
+            ],
+            "metallicFactor": 0.0,
+            "roughnessFactor": 0.64
+          }
+        },
+        {
+          "name": "WarmBrassStemAndScrew",
+          "doubleSided": true,
+          "pbrMetallicRoughness": {
+            "baseColorFactor": [
+              0.54,
+              0.4,
+              0.2,
+              1
+            ],
+            "metallicFactor": 0.0,
+            "roughnessFactor": 0.48
+          }
+        },
+        {
+          "name": "CharcoalThumbWheelAndMask",
+          "doubleSided": true,
+          "pbrMetallicRoughness": {
+            "baseColorFactor": [
+              0.055,
+              0.065,
+              0.07,
+              1
+            ],
+            "metallicFactor": 0.0,
+            "roughnessFactor": 0.61
+          }
+        },
+        {
+          "name": "OpaquePalePrism",
+          "doubleSided": true,
+          "pbrMetallicRoughness": {
+            "baseColorFactor": [
+              0.57,
+              0.72,
+              0.7,
+              1
+            ],
+            "metallicFactor": 0.0,
+            "roughnessFactor": 0.53
+          }
+        }
+      ],
+      "images": 0,
+      "textures": 0,
+      "extensionsUsed": [],
+      "blend_present_locally": true,
+      "blend_opened": false,
+      "material_count": 4,
+      "roughness_range": [
+        0.48,
+        0.64
+      ],
+      "metallic_range": [
+        0.0,
+        0.0
+      ],
+      "source_url": "https://github.com/shAdow-XJY-Games/Shadow3DAssetLibrary02/blob/563ea7be34bd90a2c586d662b8cde58af597bd73/assets/education/education-fixed-clamp-stem-and-prism-drawing-aid-01/v1.0.0/generate.py",
+      "model_url": "https://github.com/shAdow-XJY-Games/Shadow3DAssetLibrary02/blob/563ea7be34bd90a2c586d662b8cde58af597bd73/assets/education/education-fixed-clamp-stem-and-prism-drawing-aid-01/v1.0.0/model.glb"
+    }
+  ]
+}

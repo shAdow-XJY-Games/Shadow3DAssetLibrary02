@@ -1,0 +1,89 @@
+{
+  "schemaVersion": 1,
+  "id": "shadow-pbr-appearance-v1",
+  "status": "Documented integration baseline; not automatically applied to existing assets or current Gallery viewer",
+  "goal": "Preserve material character across projects, not reproduce thumbnail camera or fixed studio lighting",
+  "authoritative_asset_input": "Each GLB material and supported extensions; never replace all assets with one material",
+  "asset_specific": [
+    "baseColorFactor",
+    "baseColorTexture",
+    "metallicFactor",
+    "roughnessFactor",
+    "metallicRoughnessTexture",
+    "normalTexture",
+    "occlusionTexture",
+    "emissiveFactor",
+    "emissiveTexture",
+    "alphaMode",
+    "alphaCutoff",
+    "doubleSided",
+    "supported material extensions",
+    "authored normals/tangents/UVs"
+  ],
+  "common_runtime": {
+    "shading": "glTF 2.0 metallic-roughness PBR",
+    "lighting_space": "Linear-sRGB or an explicitly managed equivalent",
+    "output_color_space": "sRGB for ordinary SDR display",
+    "base_color_and_emissive_texture_encoding": "sRGB",
+    "numeric_base_color_factor_encoding": "Linear; do not apply a second sRGB conversion to glTF factors",
+    "normal_metallic_roughness_occlusion_texture_encoding": "Non-color data",
+    "display_transform_reference": "AgX where supported, compare corresponding implementation/look; not guaranteed pixel-identical to Blender",
+    "exposure_start_ev": 0,
+    "threejs_exposure_start_multiplier": 1,
+    "exposure_values_are": "Suggested integration starting points, not an audit claim that every historic thumbnail used these exact values",
+    "postprocessing": "Avoid extra saturation/contrast or duplicate tone mapping until baseline matches",
+    "environment": "Use project-appropriate diffuse light and reflection environment. Neutral environment for material comparison; no fixed light positions or camera required.",
+    "contact_shadow_or_ao": "Recommended for comparable depth, not embedded by default and not a substitute for material values"
+  },
+  "do_not_global_override": [
+    "roughness",
+    "metallic",
+    "baseColor",
+    "opacity",
+    "flat/smooth normals"
+  ],
+  "not_required_to_copy": [
+    "thumbnail camera pose",
+    "orthographic projection",
+    "studio light count or positions",
+    "Cycles sample count in a real-time engine"
+  ],
+  "limitations": [
+    "Lighting still changes perceived roughness, highlights and metal reflections",
+    "Renderer BRDF, shadows, indirect light and display transform can differ",
+    "Generic Blender nodes not represented in GLB do not automatically transfer",
+    "No guarantee of identical appearance in arbitrary lighting or unsupported renderers"
+  ],
+  "observed_thumbnail_common_subset": {
+    "sample_scope": "Six representative current generator sources plus the old sample batch; not full library",
+    "current_engine": "Cycles",
+    "current_display_transform": "AgX",
+    "current_thumbnail_resolution": [
+      640,
+      640
+    ],
+    "current_common_final_samples": 128,
+    "historic_exception": "camping-backpack-01 uses 48 samples",
+    "current_common_denoising": false,
+    "area_lighting": "Several distinct three-area-light presets were observed; not one identical universal lighting configuration",
+    "native_save_order": "Some early scripts save source.blend before adding the thumbnail lights/camera; regenerate preview scene from generate.py if exact authoring setup is needed"
+  },
+  "gallery_observation": {
+    "repository": "shAdow-XJY-Games/Shadow3DAssetGallery",
+    "viewer_blob": "b600c355a271bb4afc681b65f20e462da9b69e4a",
+    "output_color_space": "sRGB",
+    "tone_mapping": "ACESFilmic",
+    "camera": "Perspective38deg",
+    "hemisphere_light_intensity": 2.4,
+    "directional_light_intensity": 3,
+    "environment_map_assigned": false,
+    "shadow_map_enabled": false,
+    "ground_receiver_added": false,
+    "note": "Observed code before this documentation commit; this change does not alter the viewer."
+  },
+  "references": [
+    "https://registry.khronos.org/glTF/specs/2.0/glTF-2.0.html",
+    "https://threejs.org/manual/pages/color-management.html",
+    "https://threejs.org/docs/pages/WebGLRenderer.html"
+  ]
+}
