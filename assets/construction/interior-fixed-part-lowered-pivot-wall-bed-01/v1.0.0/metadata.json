@@ -1,0 +1,42 @@
+{
+  "id": "interior-fixed-part-lowered-pivot-wall-bed-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "military",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Part Lowered Pivot Wall Bed",
+  "description": "One original complete static wall-bed assembly in a partly lowered display pose. A full grounded tall cabinet has a real open storage chamber. Paired side pivot bearings support one entire inclined bed unit with an outer closure panel, full side/end rails, six complete support slats, a thick bevelled mattress and head pillow. Two fixed stays and one whole folded underside U foot complete the mechanism appearance. No existing bed, cot or secretary-cabinet mesh imported or resized. Three opaque PBR materials, metre game units, Z-up, horizontal-bounds-centred ground origin. One prop, zero scenes and no host wall or room. The partly lowered bed and tucked foot are intentionally not in a grounded sleeping configuration. No folding animation, locking, balance, lift assistance, sleeping suitability, load capacity, attachment, manufacture, installation or safety certification is claimed.",
+  "bounds": {
+    "x": 1.5099999999999998,
+    "y": 2.2623519290997924,
+    "z": 2.46,
+    "unit": "m"
+  },
+  "triangles": 672,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/construction/interior-fixed-part-lowered-pivot-wall-bed-01/v1.0.0/model.glb",
+      "size": 43964,
+      "sha256": "e7081392d8575c5949555a81d1172be05535b594b2048bd492116374c4ea65c7"
+    },
+    "blend": {
+      "path": "assets/construction/interior-fixed-part-lowered-pivot-wall-bed-01/v1.0.0/source.blend",
+      "size": 641056,
+      "sha256": "84419b45b6970b717c362eef85b655a4490156fb43ba188374768f459b1d397d"
+    },
+    "generator": {
+      "path": "assets/construction/interior-fixed-part-lowered-pivot-wall-bed-01/v1.0.0/generate.py",
+      "size": 11438,
+      "sha256": "26b2c186964f17044a44340f14ec39112d7765032fa7355600b0edc04586f9e5"
+    },
+    "render": {
+      "path": "assets/construction/interior-fixed-part-lowered-pivot-wall-bed-01/v1.0.0/thumbnail.png",
+      "size": 514792,
+      "sha256": "42daf2ae53eca4e565cfe8ed168d0a2b686d967894975e166e1dd9d3ef1adf87"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
