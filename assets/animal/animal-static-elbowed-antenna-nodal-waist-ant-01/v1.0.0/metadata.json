@@ -1,0 +1,42 @@
+{
+  "id": "animal-static-elbowed-antenna-nodal-waist-ant-01",
+  "version": "1.0.0",
+  "category": "modular",
+  "assetKind": "prop",
+  "theme": "animal",
+  "style": "warm-handcrafted-village",
+  "title": "Static Elbowed-Antenna Nodal-Waist Ant",
+  "description": "One newly authored complete stylised ant-like insect in a fixed walking-ground display. A broad distinct head narrows through a neck into a slimmer middle body; a genuinely narrow stalk with a raised petiole-like node then leads into a larger bulbous rear gaster. These body regions and both constrictions share one continuous closed skin. Six fine bent walking legs root only into the middle body; two visibly elbowed antennae, two small lateral eyes and paired short curved mandibular forms belong to the same whole. Not a spider with two legs removed, a shell-deleted beetle, a bead chain or an old body with a tail replaced. One whole prop, zero scenes. No exact species, caste, life scale, scientific anatomy, colony behaviour, biting, gait, rig, biological or ecological function claim.",
+  "bounds": {
+    "x": 0.907680392,
+    "y": 1.645841002,
+    "z": 0.456687689,
+    "unit": "m"
+  },
+  "triangles": 1692,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/animal/animal-static-elbowed-antenna-nodal-waist-ant-01/v1.0.0/model.glb",
+      "size": 98676,
+      "sha256": "02ad07d830839b9067fc9faa48e6ac6f858825ab615513ce0be3e4649fb1957a"
+    },
+    "blend": {
+      "path": "assets/animal/animal-static-elbowed-antenna-nodal-waist-ant-01/v1.0.0/source.blend",
+      "size": 616488,
+      "sha256": "f9712da75fcfaca4bce44f9030fab726bf405fddbc4ca267a6e7c7c4c34d9522"
+    },
+    "generator": {
+      "path": "assets/animal/animal-static-elbowed-antenna-nodal-waist-ant-01/v1.0.0/generate.py",
+      "size": 29263,
+      "sha256": "9b786278883f689c274a3624938e3352aacff6b157948f2fe15c77513a92b12d"
+    },
+    "render": {
+      "path": "assets/animal/animal-static-elbowed-antenna-nodal-waist-ant-01/v1.0.0/thumbnail.png",
+      "size": 491674,
+      "sha256": "49e4f3e2b8e4d561e9011dfdb5e54a7bf489b2a1b7569202a8cbff37b051c716"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
