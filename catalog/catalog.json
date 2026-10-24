@@ -1149,6 +1149,11 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary02",
       "commit": "c79d4b628f3f2c04cf6fe3bb040a47ee71b336b4"
+    },
+    "original-four-models-two-scenes-1398-volume02-20261025": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary02",
+      "commit": "c30781d032cac6033630fa8c50ced47b6ceef76e"
     }
   },
   "assets": [
@@ -34261,6 +34266,264 @@
       "status": "verified",
       "license": "All rights reserved",
       "sourceId": "original-continuous-five-1392-volume02-20261024"
+    },
+    {
+      "id": "coral-reef-whole-rock-shelter-turtle-approach-scene-01",
+      "version": "1.0.0",
+      "category": "scenes",
+      "assetKind": "scene",
+      "theme": "coral-reef",
+      "style": "source-preserved-faceted-natural-ecology",
+      "title": "Rock Shelter and Resting Sea Turtle Approach",
+      "description": "One static underwater ecology composition of four complete original models: a broad projecting rock roof and open shallow recess behind a whole resting sea turtle on the unobstructed sandy approach, with one complete branching coral and one complete ribbon seaweed holdfast outside opposite entrance flanks. All original geometry and full opaque PBR retained at unit scale. Turtle remains outside the rock foot terrace, not intersecting or falsely supported on its slope; no claim the whole turtle lies under the roof. Four whole source instances, one scene-only continuous sandy floor, zero new independent models. No water simulation, exact species/ecosystem fidelity, swimming, rigging, navigation or diving safety claim.",
+      "bounds": {
+        "x": 7.599999905,
+        "y": 6.199999809,
+        "z": 3.105000019,
+        "unit": "m"
+      },
+      "triangles": 1972,
+      "materials": 16,
+      "files": {
+        "glb": {
+          "path": "assets/coral-reef/coral-reef-whole-rock-shelter-turtle-approach-scene-01/v1.0.0/model.glb",
+          "size": 148176,
+          "sha256": "cfee39e1600eeff8afb0f5227e16e354a7101ac4e3ae350c900793c6f3c614e7"
+        },
+        "blend": {
+          "path": "assets/coral-reef/coral-reef-whole-rock-shelter-turtle-approach-scene-01/v1.0.0/source.blend",
+          "size": 968772,
+          "sha256": "1b4ed1b2a0750ec377119d9e7371e443a93f025760a37de77f30659029eab50a"
+        },
+        "generator": {
+          "path": "assets/coral-reef/coral-reef-whole-rock-shelter-turtle-approach-scene-01/v1.0.0/generate.py",
+          "size": 92052,
+          "sha256": "cc3e201d55d944e6fd3d561b626f0c11ba6f634f81ffc773d80a304794d82556"
+        },
+        "render": {
+          "path": "assets/coral-reef/coral-reef-whole-rock-shelter-turtle-approach-scene-01/v1.0.0/thumbnail.png",
+          "size": 500878,
+          "sha256": "fdb59d99d1f931782cf1b84a7d5b14f32ebee30461fff1323c74ad464b406502"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-four-models-two-scenes-1398-volume02-20261025"
+    },
+    {
+      "id": "animal-static-long-abdomen-tailfan-lobster-01",
+      "version": "1.0.0",
+      "category": "modular",
+      "assetKind": "prop",
+      "theme": "animal",
+      "style": "warm-handcrafted-village",
+      "title": "Static Long-Abdomen Tailfan Lobster",
+      "description": "One original stylised whole lobster-like crustacean in a fixed grounded pose. A long low forecarapace continues into a narrowing visibly ridged abdomen and a wide scalloped horizontal tail fan. Two newly drawn complete thick forward chela-bearing limbs have unequal integral fingers around genuine open notches; eight short lateral walking limbs support the body, two long swept antennae and small dorsal eyes extend from the forebody. New whole body, appendage paths and fan boundaries, not old crab/scorpion arrays or a count/colour variant. One model, zero scenes. Artistic external form only, no exact species/anatomy, feeding, gripping, swimming, rigging, animation or interaction claim.",
+      "bounds": {
+        "x": 1.700000048,
+        "y": 4.051013947,
+        "z": 0.485000014,
+        "unit": "m"
+      },
+      "triangles": 1948,
+      "materials": 4,
+      "files": {
+        "glb": {
+          "path": "assets/animal/animal-static-long-abdomen-tailfan-lobster-01/v1.0.0/model.glb",
+          "size": 114940,
+          "sha256": "9e5e060300bec92bdc60f9a0a613217f54d2f81fe8673034bddfbddab5afbec9"
+        },
+        "blend": {
+          "path": "assets/animal/animal-static-long-abdomen-tailfan-lobster-01/v1.0.0/source.blend",
+          "size": 666828,
+          "sha256": "3a05e36d423321ba64cb5d5a8115bb2212ea1113e1cad4fc16b0878b1a68ec43"
+        },
+        "generator": {
+          "path": "assets/animal/animal-static-long-abdomen-tailfan-lobster-01/v1.0.0/generate.py",
+          "size": 29999,
+          "sha256": "053a5436e84c52d421d0638087965dae2b1bb4c211d7b45c31fd0c8b635dfde3"
+        },
+        "render": {
+          "path": "assets/animal/animal-static-long-abdomen-tailfan-lobster-01/v1.0.0/thumbnail.png",
+          "size": 492071,
+          "sha256": "17b3c93b1af6993f8e84619fa5cc02df21327c2301b496e2bed295eed6eb4b4b"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-four-models-two-scenes-1398-volume02-20261025"
+    },
+    {
+      "id": "photography-fixed-three-arm-caster-and-column-pedestal-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "photography",
+      "style": "S01-clean-geometric",
+      "title": "Fixed Three Arm Caster and Column Camera Pedestal",
+      "description": "One newly authored complete fixed studio-camera-pedestal exterior. Three full low radial arms join one central hub and terminate in complete thick U-fork caster groups with separate grounded faceted tyres and transverse axles. One broad lower column and narrower fixed raised stem carry a whole upper pan-bearing exterior, connected open U-yoke, transverse tilt axle and empty camera-mounting plate. A large genuinely open horizontal ring is supported by three complete radial spokes around the lower column; a side-rooted rear pan arm ends in a thick whole grip. No camera, scene, rails, cargo deck or old trolley mesh is imported. The whole caster/column/ring/yoke layout is newly authored rather than an existing luggage trolley or tabletop dual-rod slide with changed wheel counts. Three opaque constant untextured PBR materials, metres, Z up, whole horizontally centred bounds and three finite flat tyre soles at ground. One model, zero scenes. Static appearance only; no steering, rolling, telescoping travel, hydraulic or pneumatic internals, tilt or pan range, camera fitting dimensions, load capacity, stability, manufacture or equipment safety claim.",
+      "bounds": {
+        "x": 1.0669093347380545,
+        "y": 1.0115327508175123,
+        "z": 1.394,
+        "unit": "m"
+      },
+      "triangles": 2412,
+      "materials": 3,
+      "files": {
+        "glb": {
+          "path": "assets/photography/photography-fixed-three-arm-caster-and-column-pedestal-01/v1.0.0/model.glb",
+          "size": 129168,
+          "sha256": "0bfcf7633759e552737cde04d9913cfc6261526715eb2d9bced105bc1fc1521b"
+        },
+        "blend": {
+          "path": "assets/photography/photography-fixed-three-arm-caster-and-column-pedestal-01/v1.0.0/source.blend",
+          "size": 771920,
+          "sha256": "cb56b0c9cfdb08e899d8abe18610cf16540085a9d3c96d8ca9bfa9e1f4257d5f"
+        },
+        "generator": {
+          "path": "assets/photography/photography-fixed-three-arm-caster-and-column-pedestal-01/v1.0.0/generate.py",
+          "size": 12273,
+          "sha256": "de3df0283142b0bc3bb31c687d247ebf9a279b9ccab34af51c6759356b23d2c5"
+        },
+        "render": {
+          "path": "assets/photography/photography-fixed-three-arm-caster-and-column-pedestal-01/v1.0.0/thumbnail.png",
+          "size": 365161,
+          "sha256": "3d16a299aad537a1c1606ae75a4c9e00662fbdde5235af9fdd5640f0aadf3eff"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-four-models-two-scenes-1398-volume02-20261025"
+    },
+    {
+      "id": "photography-fixed-raised-clapper-and-blank-slate-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "photography",
+      "style": "S01-clean-geometric",
+      "title": "Fixed Raised Clapper and Blank Slate",
+      "description": "One newly authored complete fixed open film-clapperboard appearance. A full thick blank dark slate carries a separate continuous lower striking rail. A second whole long upper rail is fixed raised about a true left-side hinge eye, two complete rooted cheek-and-eye supports and one continuous transverse pin. Both rails are single closed meshes partitioned by shared vertices into diagonal ivory and charcoal material regions, not thin coplanar stripes laid on top. The slate itself has no writing, labels, brands, numerals or graphics. No old classroom board, easel or bait-box mesh is imported; the complete upper/lower clapper and offset pivot relationship is newly authored. Three opaque constant untextured PBR materials, metres, Z up, horizontally bounds-centred whole finite bottom sole. One complete prop, zero scenes. Static illustrative display only: no clap impact, acoustic timing, synchronization, actual hinge motion or closure clearance, writing usability, handheld ergonomics, stability, manufacture or safety claim.",
+      "bounds": {
+        "x": 0.36,
+        "y": 0.088,
+        "z": 0.44281867239080464,
+        "unit": "m"
+      },
+      "triangles": 872,
+      "materials": 3,
+      "files": {
+        "glb": {
+          "path": "assets/photography/photography-fixed-raised-clapper-and-blank-slate-01/v1.0.0/model.glb",
+          "size": 47500,
+          "sha256": "c6cdf4d3ddbfb22f0394c2063ea069aa17ac3747b6ee6e9d1e7095b18d740985"
+        },
+        "blend": {
+          "path": "assets/photography/photography-fixed-raised-clapper-and-blank-slate-01/v1.0.0/source.blend",
+          "size": 605572,
+          "sha256": "cc445e0d52c1ac3e6822bbd5aaf81ee6aa08e05143051185e261fa3a29a32c8d"
+        },
+        "generator": {
+          "path": "assets/photography/photography-fixed-raised-clapper-and-blank-slate-01/v1.0.0/generate.py",
+          "size": 11710,
+          "sha256": "4c08f454f110373d4d98b775cd9f0fdf6d05e11b5140ee138d9cf48ae58a8c56"
+        },
+        "render": {
+          "path": "assets/photography/photography-fixed-raised-clapper-and-blank-slate-01/v1.0.0/thumbnail.png",
+          "size": 383641,
+          "sha256": "dc32705456c1d3454abaf6899cb73a27c189a81c2d3b9ccee3b817fb39b4c4d6"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-four-models-two-scenes-1398-volume02-20261025"
+    },
+    {
+      "id": "technology-fixed-raised-blade-and-open-fork-switch-display-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "technology",
+      "style": "S01-clean-geometric",
+      "title": "Fixed Raised Blade and Open Fork Switch Display",
+      "description": "One newly authored complete static single-blade knife-switch-style exhibit. A long chamfered ground board carries two distinct full insulating-style feet, two entire metal strap exteriors and two blank binding-post appearances. At the rear, a complete bridge and two genuinely bored annular ears support a full headed transverse pin and an independently bored blade-root collar. One long thick finite-blunt plate rises from this end hinge at a fixed angle and terminates inside a whole long dark grip. The separate front contact is one continuous thick U-shaped fork with a genuine deep empty slot and flared mouth, visibly clear of the raised plate. All numeric geometry is newly authored, not the earlier straight telegraph key rotated: there is no central balanced lever, finger button, spring, rear rest or under-lever point-contact pair. It is also not the twin-coil sounder with its electromagnets removed. Four opaque untextured constant PBR roles, closed editable bodies, metres, native Z up and actual horizontal bounds-centred ground datum. One prop, zero scenes; no wires or energised equipment. Fixed illustrative exterior only: no electrical circuit or wiring instructions, conductive continuity, voltage or current rating, insulation effectiveness, arc control, actual switching or disconnection, operating travel, mechanism fit, manufacture, handling, ergonomics or electrical safety guarantee. Rigging, animation and interaction are not made and are outside this static deliverable.",
+      "bounds": {
+        "x": 0.24,
+        "y": 0.44,
+        "z": 0.398593,
+        "unit": "m"
+      },
+      "triangles": 1760,
+      "materials": 4,
+      "files": {
+        "glb": {
+          "path": "assets/technology/technology-fixed-raised-blade-and-open-fork-switch-display-01/v1.0.0/model.glb",
+          "size": 90212,
+          "sha256": "476f533f45ab0e91f20fb6f45ce8583547a9979681c7661c427f7e72d34f41d0"
+        },
+        "blend": {
+          "path": "assets/technology/technology-fixed-raised-blade-and-open-fork-switch-display-01/v1.0.0/source.blend",
+          "size": 687504,
+          "sha256": "225736a7c11c8905b88070a69c2f5b7fbe2f8baa4fd374ad06178eedd51d427f"
+        },
+        "generator": {
+          "path": "assets/technology/technology-fixed-raised-blade-and-open-fork-switch-display-01/v1.0.0/generate.py",
+          "size": 27282,
+          "sha256": "3f7ce72be48ad70141374d5f1acf97a5031937466259f78dc7d949c57cadeba1"
+        },
+        "render": {
+          "path": "assets/technology/technology-fixed-raised-blade-and-open-fork-switch-display-01/v1.0.0/thumbnail.png",
+          "size": 517265,
+          "sha256": "c1a90451e3750b1280cdc324d79a4c31c9fc1bcc8f1aad58a7b70d1825eff88e"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-four-models-two-scenes-1398-volume02-20261025"
+    },
+    {
+      "id": "underwater-whole-equipment-separated-staging-scene-01",
+      "version": "1.0.0",
+      "category": "scenes",
+      "assetKind": "scene",
+      "theme": "underwater",
+      "style": "source-preserved-low-poly",
+      "title": "Whole Diving Equipment Separated Staging Mat",
+      "description": "One static diving-equipment staging composition with three complete already-qualified original assets: a whole twin-cylinder storage backframe at rear left, a complete dual-grip propulsion-device display at front centre, and one entire full-foot diving fin at right. Each original model retains its complete original binary geometry buffers, meshes, material dictionaries, hierarchy and metadata; only a new parent translation places the full instance on one bounded low scene-only preparation mat. All three are unit scale, no parts removed or recoloured, no machinery or prop counted as newly made. One scene, zero new independent models. The front apparatus and low fin are separated from the tall storage backframe, leaving a central visual approach space rather than an equipment pile. Complete original finite lower faces rest on the same mat top; this is a static display arrangement, not a ready-to-dive configuration or connected life-support system. No user, gas, water, pressure, breathing circuit, cables, simulation, control operation, movement, carrying suitability, optical effect, instruction or safety claim. Rigging, animation and interaction are not made and are outside this static scene delivery.",
+      "bounds": {
+        "x": 2.5,
+        "y": 2.0999999046325684,
+        "z": 1.4199999570846558,
+        "unit": "m"
+      },
+      "triangles": 2468,
+      "materials": 13,
+      "files": {
+        "glb": {
+          "path": "assets/underwater/underwater-whole-equipment-separated-staging-scene-01/v1.0.0/model.glb",
+          "size": 222124,
+          "sha256": "ca03ab94d3e94a7db03e99c25d51986f2c72ed6c3983030ae58879a82ac9c639"
+        },
+        "blend": {
+          "path": "assets/underwater/underwater-whole-equipment-separated-staging-scene-01/v1.0.0/source.blend",
+          "size": 1207040,
+          "sha256": "6536daf46922c49093d2fa4f1e6e864aed6d1f369d32783a73180b6322a7506f"
+        },
+        "generator": {
+          "path": "assets/underwater/underwater-whole-equipment-separated-staging-scene-01/v1.0.0/generate.py",
+          "size": 68283,
+          "sha256": "c597768af251c9fc2eca458d0b263e12e780d641a2b9cc541947acd07bc00d23"
+        },
+        "render": {
+          "path": "assets/underwater/underwater-whole-equipment-separated-staging-scene-01/v1.0.0/thumbnail.png",
+          "size": 472996,
+          "sha256": "39dbdaa259cf3bea4c7549993d99a64614ee05edf67149d49ed453199d52d7e4"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-four-models-two-scenes-1398-volume02-20261025"
     }
   ]
 }
