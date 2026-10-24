@@ -1,0 +1,42 @@
+{
+  "id": "retail-fixed-open-feed-and-stack-tray-note-counter-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "retail",
+  "style": "source-preserved-low-poly",
+  "title": "Fixed Open Feed and Stack Tray Note Counter",
+  "description": "One newly authored complete static tabletop banknote-counter appearance. A common low appliance base carries two full shaped side cheeks, an inclined open rear feed hopper with two finite side guides, two exposed transverse feed rollers, and a front lowered receiving tray with side lips and end stop. A forward sloping control bridge bears a blank opaque panel and two plain buttons. Two finite star-profile stacker wheels and their transverse shaft sit above the receiving tray. Three opaque untextured PBR roles, one prop and zero scenes. No banknotes, denomination, text, numerical result, authentication, counting, conveyance, motor, wiring, operational accuracy or safety claim. Newly authored complete geometry, not a widened receipt printer or shortened logistics roller table.",
+  "bounds": {
+    "x": 0.3059999942779541,
+    "y": 0.36899998784065247,
+    "z": 0.32179999351501465,
+    "unit": "m"
+  },
+  "triangles": 964,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/retail/retail-fixed-open-feed-and-stack-tray-note-counter-01/v1.0.0/model.glb",
+      "size": 94680,
+      "sha256": "1ec3693b8bf3ba142b3caf4b6fa6eb1485d4e4eec2279217a6d75b17aef0bfbc"
+    },
+    "blend": {
+      "path": "assets/retail/retail-fixed-open-feed-and-stack-tray-note-counter-01/v1.0.0/source.blend",
+      "size": 730048,
+      "sha256": "86a7447099488743d2212caac415490ca8f4848ca5315827060a66e3dfc189b5"
+    },
+    "generator": {
+      "path": "assets/retail/retail-fixed-open-feed-and-stack-tray-note-counter-01/v1.0.0/generate.py",
+      "size": 15090,
+      "sha256": "39b04ed6f4b3b6670cf3bb34f4ab3c28d06a1450ffc26703c46f63ebcb5db1a4"
+    },
+    "render": {
+      "path": "assets/retail/retail-fixed-open-feed-and-stack-tray-note-counter-01/v1.0.0/thumbnail.png",
+      "size": 516148,
+      "sha256": "177d1984e197cc26b76ef83892e5a2c8b8309b3f38bbf6822ff2afc624206d8c"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

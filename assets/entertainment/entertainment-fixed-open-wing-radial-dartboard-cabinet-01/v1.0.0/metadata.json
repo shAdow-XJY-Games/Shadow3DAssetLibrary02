@@ -1,0 +1,42 @@
+{
+  "id": "entertainment-fixed-open-wing-radial-dartboard-cabinet-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "entertainment",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Open Wing Radial Dartboard Cabinet",
+  "description": "One newly authored complete fixed-open dartboard cabinet exterior. A full shallow wooden back-and-side enclosure with a grounded bottom sill and wider top cornice carries a separate thick radial target disc. Two whole door wings are fixed outward on four visible hinge barrels; each has one blank inset inner panel. The continuous closed target disc has real connected radial face subdivision with alternating pale and dark sectors, red and green ring zones, a central face and separate thin proud annular and radial boundaries. All colours are opaque constant face-material assignments, never an image texture or overlapping flat decal. No old cabinet or target mesh is imported. One whole model and zero scenes, five opaque untextured PBR materials, metres, Z up and whole ground-centred origin. Door pose is fixed; no arrows, darts, numbers, scoring apparatus, wall, working wall fasteners, characters, throwing simulation, impact response, load or safety performance are supplied. Static illustrative game art only; the ground-centred presentation does not claim a freestanding use configuration.",
+  "bounds": {
+    "x": 0.8017597569286274,
+    "y": 0.41114795609476884,
+    "z": 0.734,
+    "unit": "m"
+  },
+  "triangles": 5592,
+  "materials": 5,
+  "files": {
+    "glb": {
+      "path": "assets/entertainment/entertainment-fixed-open-wing-radial-dartboard-cabinet-01/v1.0.0/model.glb",
+      "size": 251280,
+      "sha256": "f594943d98d3f0b68651982bb5fe352304f54e611eecb42ab934a2eefb2f03bf"
+    },
+    "blend": {
+      "path": "assets/entertainment/entertainment-fixed-open-wing-radial-dartboard-cabinet-01/v1.0.0/source.blend",
+      "size": 1056020,
+      "sha256": "19b980c5ef4958b39439a87e996f92b59fc0afbfc0a9624ffb11b2b3828f85cb"
+    },
+    "generator": {
+      "path": "assets/entertainment/entertainment-fixed-open-wing-radial-dartboard-cabinet-01/v1.0.0/generate.py",
+      "size": 11811,
+      "sha256": "6b9594472008daf46cf39a7094fbf5156aa1a11d75e78829889d73f55deeaa79"
+    },
+    "render": {
+      "path": "assets/entertainment/entertainment-fixed-open-wing-radial-dartboard-cabinet-01/v1.0.0/thumbnail.png",
+      "size": 566229,
+      "sha256": "5257f7b3e48839947272af5aa80cf792e2fcb7fec146f07d2815e9ff443c291c"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

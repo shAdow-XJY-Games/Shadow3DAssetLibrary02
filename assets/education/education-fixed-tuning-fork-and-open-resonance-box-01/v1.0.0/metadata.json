@@ -1,0 +1,42 @@
+{
+  "id": "education-fixed-tuning-fork-and-open-resonance-box-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "education",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Tuning Fork and Open Resonance Box",
+  "description": "One newly authored complete static classroom acoustic-demonstration-prop appearance. A single continuous metal fork includes its lower stem, rounded U heel and two equal long parallel tines, with a genuinely open rounded central slot. The integral stem stands through the roof of a complete thick wooden rectangular box. Both opposite end mouths open into one real continuous interior passage, with modeled inner walls and end rims rather than painted darkness. One whole annular fixed mount collar roots the fork at the box roof. All three whole meshes are new, with no prior bar instrument, pipe bank, wood box or fork component imported. This differs as an integrated stem-mounted two-prong fork and hollow box, not fewer keyboard bars, more resonator pipes or a renamed slingshot. One prop, zero scenes, no mallet or second loose instrument. Four opaque constant untextured PBR materials, metres, Z up, actual whole bounds-centred horizontal origin and finite grounded box bottom. Static illustrative appearance only: no frequency, pitch, vibration, resonance response, acoustic amplification, tuning calibration, playability, manufacture, material suitability, operation or safety claim.",
+  "bounds": {
+    "x": 0.18,
+    "y": 0.32,
+    "z": 0.49,
+    "unit": "m"
+  },
+  "triangles": 448,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/education/education-fixed-tuning-fork-and-open-resonance-box-01/v1.0.0/model.glb",
+      "size": 24928,
+      "sha256": "346cdc77a5fa5449db647a67b7e549e62e411303399b8549406e974f81a3c6dc"
+    },
+    "blend": {
+      "path": "assets/education/education-fixed-tuning-fork-and-open-resonance-box-01/v1.0.0/source.blend",
+      "size": 555356,
+      "sha256": "89c5df43db628aa455b78bc3d0db31986b9fd2588a56a0db6cf4c0f6a3297d86"
+    },
+    "generator": {
+      "path": "assets/education/education-fixed-tuning-fork-and-open-resonance-box-01/v1.0.0/generate.py",
+      "size": 23967,
+      "sha256": "4af63145858a82a9d6321b64d3188542fdbf791abc45209a4d77e7814d71c092"
+    },
+    "render": {
+      "path": "assets/education/education-fixed-tuning-fork-and-open-resonance-box-01/v1.0.0/thumbnail.png",
+      "size": 494205,
+      "sha256": "8f1c30a2f9894e9907036167972540f1fce19c21b6570d638db6b7013de246e3"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
