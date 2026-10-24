@@ -1059,6 +1059,11 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary02",
       "commit": "f29e194ed30c09a21534c33869a0b742f699622b"
+    },
+    "original-three-and-theme-maintenance-1299-volume02-20261024": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary02",
+      "commit": "322ab3976e4e7575133e91b39310effd5f24742f"
     }
   },
   "assets": [
@@ -29404,7 +29409,7 @@
       "version": "1.0.0",
       "category": "props",
       "assetKind": "prop",
-      "theme": "music",
+      "theme": "entertainment",
       "style": "S01-clean-geometric",
       "title": "Fixed Guided Pinsetting Deck Machine",
       "description": "One newly authored complete fixed pinsetting-machine visual display. A grounded braced double-side chassis has four whole guide shafts and bored setting-deck carriage sleeves. Four connected full perforated row plates have one, two, three and four real through-apertures in a triangular ten-position layout, supported on full crossrails. A distinct low sweep bar belongs to two side journal arms. Upper fixed lift links, a rear housing and transverse shaft with end discs complete the machinery exterior. No old bowling pins, lane or loose balls imported or counted; not a scaled desk plunger or inclined carnival target table with extra holes. Three opaque untextured constant PBR roles; metres, Z up and whole horizontal ground centering. One whole machine prop and zero scenes. Static empty illustrative machinery appearance only: no pin compatibility, feeding or gripping internals, ball return, regulation geometry, lifting or sweep motion, complete drive transmission, operating instructions, power, load, fabrication or safety claim.",
@@ -29429,8 +29434,8 @@
         },
         "generator": {
           "path": "assets/music/entertainment-fixed-guided-pinsetting-deck-machine-01/v1.0.0/generate.py",
-          "size": 12329,
-          "sha256": "789997b766e9c5ea695b6f9c21a427257e825e3334bc2d572024d8777f937861"
+          "size": 12337,
+          "sha256": "8defbf3613ebbc381c6ccc10cdbab09812d9b69dfaa6f4c6b36a4cfc59475db3"
         },
         "render": {
           "path": "assets/music/entertainment-fixed-guided-pinsetting-deck-machine-01/v1.0.0/thumbnail.png",
@@ -29440,7 +29445,7 @@
       },
       "status": "verified",
       "license": "All rights reserved",
-      "sourceId": "original-continuous-six-1287-volume02-20261024"
+      "sourceId": "original-three-and-theme-maintenance-1299-volume02-20261024"
     },
     {
       "id": "interior-fixed-one-piece-upover-door-01",
@@ -29533,7 +29538,7 @@
       "version": "1.0.0",
       "category": "props",
       "assetKind": "prop",
-      "theme": "music",
+      "theme": "playground",
       "style": "S01-clean-geometric",
       "title": "Fixed Central Mast Rope Pyramid",
       "description": "One newly authored complete fixed four-face rope-net pyramid apparatus. One full tall central mast stands on a grounded foot and four diagonal ties connect it to a continuous square perimeter with four broad corner feet. Four thick primary ropes join the crown to the corner anchors. Each triangular face carries whole gently sagged transverse ropes and complete rising ropes with small alternating depth offsets, leaving actual open mesh spaces rather than painted netting. This is not the old triangulated rigid-rod low dome reshaped by adding rods: its full central-mast and crown-to-anchor support layout and four woven-looking faces are different, independently authored numeric geometry. No old climbing wall or cable trolley reused. Three opaque constant untextured PBR roles; metres, Z up and whole horizontal ground centering. One whole apparatus and zero scenes. Empty static art only; fixed rope overlaps and shallow sag are illustrative, not a tension simulation. No climbability, age or human fit, entrapment/fall protection, load, anchoring, elastic motion, installation, fabrication or playground safety claim.",
@@ -29558,8 +29563,8 @@
         },
         "generator": {
           "path": "assets/music/playground-fixed-central-mast-rope-pyramid-01/v1.0.0/generate.py",
-          "size": 11377,
-          "sha256": "c488f4d6db10d2ca7ecacae486c4c73775acc34618d1da2e0ac9b447ce945bf4"
+          "size": 11382,
+          "sha256": "429bebfd526faa989e099a3f2fd4e5dc55a1a35f220ec4a6edbaa06f8823af1d"
         },
         "render": {
           "path": "assets/music/playground-fixed-central-mast-rope-pyramid-01/v1.0.0/thumbnail.png",
@@ -29569,7 +29574,7 @@
       },
       "status": "verified",
       "license": "All rights reserved",
-      "sourceId": "original-continuous-six-1287-volume02-20261024"
+      "sourceId": "original-three-and-theme-maintenance-1299-volume02-20261024"
     },
     {
       "id": "professional-fixed-binaural-tubes-and-disc-stethoscope-01",
@@ -29791,7 +29796,7 @@
       "version": "1.0.0",
       "category": "props",
       "assetKind": "prop",
-      "theme": "music",
+      "theme": "toys",
       "style": "S01-clean-geometric",
       "title": "Fixed Raised Spring Puppet Crank Box",
       "description": "One newly authored complete fixed raised spring-puppet toy-box appearance. A deep whole red case has a true open cavity, floor and walls, with a recessed lid fixed back on hinge pins and stays. One continuous 5.5-turn closed helical spring joins the inner floor mount to a full flared puppet torso and neck. A new closed rounded toy head, simple blank eyes, round nose and conical cap are permanently attached above it. A through-bearing side shaft and crank grip are fixed on the case. No old bird rider body or saddle, no music-box pinned drum or comb and no shape-sorter pieces are imported: the complete deep-box/raised-coil/puppet exterior is independently authored, counted as one toy not separate character or spring assets. Three opaque constant untextured PBR roles; metres, Z up, whole horizontally centred finite ground sole. One model and zero scenes. Static nonfunctional art only: no concealed gearing, catch or release, stored energy, actual popping, cranking, spring motion, surprise effect, age suitability, pinch or swallowing protection, toy certification, fabrication or safety claim.",
@@ -29816,8 +29821,8 @@
         },
         "generator": {
           "path": "assets/music/toys-fixed-raised-spring-puppet-crank-box-01/v1.0.0/generate.py",
-          "size": 11867,
-          "sha256": "1c939af634310eb5d7b3c772af934771f3b853c69c60fab3ca656638e5f3c8f2"
+          "size": 11866,
+          "sha256": "4b983d04947da0a6771c217989e43efc79dd7e935d68979796764e5f2341d935"
         },
         "render": {
           "path": "assets/music/toys-fixed-raised-spring-puppet-crank-box-01/v1.0.0/thumbnail.png",
@@ -29827,14 +29832,14 @@
       },
       "status": "verified",
       "license": "All rights reserved",
-      "sourceId": "original-continuous-four-1291-volume02-20261024"
+      "sourceId": "original-three-and-theme-maintenance-1299-volume02-20261024"
     },
     {
       "id": "entertainment-fixed-annular-ditch-and-peg-disc-board-01",
       "version": "1.0.0",
       "category": "props",
       "assetKind": "prop",
-      "theme": "music",
+      "theme": "entertainment",
       "style": "S01-clean-geometric",
       "title": "Fixed Annular Ditch and Peg Disc Board",
       "description": "One newly authored complete circular tabletop disc-game board exterior in a fixed empty pose. A single continuous thick body includes a broad raised playing field, real deep blind centre pocket, full lower annular collecting ditch and a high complete outer rim. Eight short integral-rooted obstacle pegs stand around the centre and three finite feet support the whole board. Two thin field circles are material regions of the same continuous top triangles, not overlay rings or textures. No loose tokens counted as new models. This is not the old flat rectangular five-peg ring-toss plank with its count changed, a two-axis perforated maze with its walls removed, a serving basin filled with a disc, or a round version of an air-puck table: the complete centre-pocket/raised-field/annular-ditch boundary is newly authored as one connected solid. Three opaque constant untextured PBR roles; metres, Z up and full horizontal ground centering. One model and zero scenes. Static illustrative game object only: no regulation dimensions or rules, scoring, playability, rebound or friction physics, token fit, user age suitability, manufacture or toy-safety claim.",
@@ -29859,8 +29864,8 @@
         },
         "generator": {
           "path": "assets/music/entertainment-fixed-annular-ditch-and-peg-disc-board-01/v1.0.0/generate.py",
-          "size": 10512,
-          "sha256": "beba85748f276d0972a7edf3836c57e010a059024f58dc021e434744788839d0"
+          "size": 10520,
+          "sha256": "ecc74a7d15062e2629b12d3f7031e3171605267f8722c0be71f4062813b3bb0e"
         },
         "render": {
           "path": "assets/music/entertainment-fixed-annular-ditch-and-peg-disc-board-01/v1.0.0/thumbnail.png",
@@ -29870,7 +29875,7 @@
       },
       "status": "verified",
       "license": "All rights reserved",
-      "sourceId": "original-continuous-five-1296-volume02-20261024"
+      "sourceId": "original-three-and-theme-maintenance-1299-volume02-20261024"
     },
     {
       "id": "interior-fixed-suspended-ceiling-fan-light-01",
@@ -30043,6 +30048,135 @@
       "status": "verified",
       "license": "All rights reserved",
       "sourceId": "original-continuous-five-1296-volume02-20261024"
+    },
+    {
+      "id": "industrial-fixed-grooved-former-and-lever-tube-bender-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "industrial",
+      "style": "source-preserved-low-poly",
+      "title": "Fixed Grooved Former And Lever Tube Bender",
+      "description": "One newly authored complete static bench-base lever tube-bender appearance. A broad base with two finite transverse ground feet carries a short pedestal and full vertical pivot. A complete large circular former has a genuinely recessed circumferential side groove and a true occupied bore. Two spaced whole swing-fork cheeks carry a smaller independently grooved follower roller on a full secondary axle. A long radial lever with a complete dark grip joins the upper fork cheek. The empty interval between both grooved wheels is real geometry, and no tube or workpiece is present. All geometry newly authored, not a rack press with its ram removed, a sheet brake shortened or components extracted from either. One complete connected prop, zero scenes, four opaque constant PBR materials. Fixed intentional root overlaps are not bearing or tooling fits. Static illustrative tool only: no bending, force, travel, bend radius, material processing, actuation, manufacture, mounting, installation, stability or safety guarantee.",
+      "bounds": {
+        "x": 0.6625436544418335,
+        "y": 0.43050703406333923,
+        "z": 0.3149999976158142,
+        "unit": "m"
+      },
+      "triangles": 2100,
+      "materials": 4,
+      "files": {
+        "glb": {
+          "path": "assets/industrial/industrial-fixed-grooved-former-and-lever-tube-bender-01/v1.0.0/model.glb",
+          "size": 187428,
+          "sha256": "d2921a7bcedfcf362ec18231de5abf27bca54617606da143e3660348b39ff3bb"
+        },
+        "blend": {
+          "path": "assets/industrial/industrial-fixed-grooved-former-and-lever-tube-bender-01/v1.0.0/source.blend",
+          "size": 856928,
+          "sha256": "8b83621dda39accacc5b9f6e45e94e73412ff7e98a0c525a0b8a2d1e7cabd79b"
+        },
+        "generator": {
+          "path": "assets/industrial/industrial-fixed-grooved-former-and-lever-tube-bender-01/v1.0.0/generate.py",
+          "size": 17148,
+          "sha256": "adb20f270f24b19b65f3a2354efb40a01a3460d1de5ec17c863546946968b8f6"
+        },
+        "render": {
+          "path": "assets/industrial/industrial-fixed-grooved-former-and-lever-tube-bender-01/v1.0.0/thumbnail.png",
+          "size": 492988,
+          "sha256": "c78f97fc5b48494411c9b614daae5b8903ea7240c9cb4925ca709cc6bce35b53"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-three-and-theme-maintenance-1299-volume02-20261024"
+    },
+    {
+      "id": "public-fixed-twin-case-flap-access-gate-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "public-service",
+      "style": "S01-clean-geometric",
+      "title": "Fixed Twin Case Flap Access Gate",
+      "description": "One original complete single-lane flap access gate appearance. One full low mounting plinth joins two complete hollow waist-height cases. Each case has a genuine bounded slit through its inner wall, a finite internal transverse pivot and rear support, and one whole broad fan-shaped opaque flap partially extending into the central lane. Raised top caps, complete reader housings with separate opaque scan faces and finite front status insets complete the pair as one integrated assembly. The middle small gap is the fixed display between flap tips, not an accepted walk-through clearance. No old tripod arm rotor or long counterweighted boom geometry is imported: the paired vertical-plane blades enter their own side chambers instead of turning three rods around one exposed hub or raising a long beam over a roadway. Three constant opaque PBR materials, metres Z up, true XY centred, full plinth sole Z0; one complete prop, zero scenes. No motion sweep, ticket validation, access-control electronics, lock state, crowd control, emergency egress, user passage, installation, load, anti-pinch or safety performance claim.",
+      "bounds": {
+        "x": 1.44,
+        "y": 1.26,
+        "z": 1.122,
+        "unit": "m"
+      },
+      "triangles": 964,
+      "materials": 3,
+      "files": {
+        "glb": {
+          "path": "assets/public-service/public-fixed-twin-case-flap-access-gate-01/v1.0.0/model.glb",
+          "size": 42100,
+          "sha256": "21436c52a4b172da63b62e29f450da2cfddd2de3a30c1e28a585dd09a886506d"
+        },
+        "blend": {
+          "path": "assets/public-service/public-fixed-twin-case-flap-access-gate-01/v1.0.0/source.blend",
+          "size": 647584,
+          "sha256": "7d825646ea7fd9447305b45061add3b4227b27b30db8c8c173b66e1131ff6a48"
+        },
+        "generator": {
+          "path": "assets/public-service/public-fixed-twin-case-flap-access-gate-01/v1.0.0/generate.py",
+          "size": 11143,
+          "sha256": "6489154a51ad517b8eee3f1381272c9743f88ee5d1de26f9de18406e4992ab33"
+        },
+        "render": {
+          "path": "assets/public-service/public-fixed-twin-case-flap-access-gate-01/v1.0.0/thumbnail.png",
+          "size": 459747,
+          "sha256": "52923eddea5940e0d42878d5706648333aaf1d2937c2cf57149cf5d4288c22bb"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-three-and-theme-maintenance-1299-volume02-20261024"
+    },
+    {
+      "id": "toys-fixed-open-ladder-frame-pedal-kart-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "toys",
+      "style": "S01-clean-geometric",
+      "title": "Fixed Open Ladder Frame Pedal Kart",
+      "description": "One newly authored complete fixed open pedal-kart exterior. A low full ladder chassis carries four thick annular tires with finite bottom tread facets and distinct hubs, a whole rear axle on two bearings, and two front kingpin carriers with separate stub axles and a real transverse steering tie link. A full inclined column joins a three-spoke open steering ring. An independent pedal shaft has two opposed fixed cranks and whole tread pedals; one closed thick chain-band appearance joins two fixed sprocket discs beside the low seat. The seat pan, inclined back and risers are rooted on the chassis. This is not an old bumper-car shell stripped away or a bicycle given extra wheels: all low chassis, independent front carriers, rear axle and low-seated pedal layout are newly authored together; no old mesh imports. Three opaque constant untextured PBR roles, metres, Z up and actual whole horizontal ground centering. One model and zero scenes. Empty fixed art only: no functioning steering or differential, chain travel, gear teeth engagement, brakes, drive performance, racing or road use, rider fit, load, engineering, fabrication or safety claim.",
+      "bounds": {
+        "x": 1.07,
+        "y": 1.398266501601991,
+        "z": 0.7627509355961665,
+        "unit": "m"
+      },
+      "triangles": 3704,
+      "materials": 3,
+      "files": {
+        "glb": {
+          "path": "assets/music/toys-fixed-open-ladder-frame-pedal-kart-01/v1.0.0/model.glb",
+          "size": 200948,
+          "sha256": "c3ff80f6b385d083f58aeac58a27a3579eaff2d1837cabb648a12d647a8da5b4"
+        },
+        "blend": {
+          "path": "assets/music/toys-fixed-open-ladder-frame-pedal-kart-01/v1.0.0/source.blend",
+          "size": 947836,
+          "sha256": "281cc095445df7f1f6869e7cbda0d0f5899d3315430e75afe812bce5f4b8c901"
+        },
+        "generator": {
+          "path": "assets/music/toys-fixed-open-ladder-frame-pedal-kart-01/v1.0.0/generate.py",
+          "size": 13171,
+          "sha256": "8cd693189af30caaa5e4134601a7fe8fc8d1b5a72a5c1ca60b0e5b1fff5a92c9"
+        },
+        "render": {
+          "path": "assets/music/toys-fixed-open-ladder-frame-pedal-kart-01/v1.0.0/thumbnail.png",
+          "size": 414471,
+          "sha256": "c55a7776ac1fe5abbc3e83c5d0e9be10c0d5cda9ac2e076e27066d2caf192f4f"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-three-and-theme-maintenance-1299-volume02-20261024"
     }
   ]
 }
