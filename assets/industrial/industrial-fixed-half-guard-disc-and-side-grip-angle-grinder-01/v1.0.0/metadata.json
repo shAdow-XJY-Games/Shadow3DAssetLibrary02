@@ -1,0 +1,42 @@
+{
+  "id": "industrial-fixed-half-guard-disc-and-side-grip-angle-grinder-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "industrial",
+  "style": "source-preserved-low-poly",
+  "title": "Fixed Half Guard Disc and Side Grip Angle Grinder",
+  "description": "One newly authored complete static handheld right-angle disc-grinder appearance. A long faceted grip-shaped motor housing and rear cap connect to a short right-angle head. A perpendicular lower spindle and flange carry one solid blunt circular disc, partly enclosed by one continuous thick semicircular L-section guard with a real open front half. A lateral auxiliary handle has its own rooted stem and full grip, and a blank top switch completes the casing. Three opaque untextured PBR roles, one prop and zero scenes. No teeth, spark, cutting edge simulation, cable or powered internals; no rotation, grinding/cutting performance, operation instructions, protective effectiveness, compatibility, balance or safety claim. Not the old coaxial twin-wheel bench grinder scaled down or the dryer with a disk attached. Lowest disc is only a static display datum.",
+  "bounds": {
+    "x": 0.24899999797344208,
+    "y": 0.3684999942779541,
+    "z": 0.16099999845027924,
+    "unit": "m"
+  },
+  "triangles": 1136,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/industrial/industrial-fixed-half-guard-disc-and-side-grip-angle-grinder-01/v1.0.0/model.glb",
+      "size": 103852,
+      "sha256": "8d856d9cc064168a39531d1ebc9e87c6d2bd0625c740c93b97228e770a3ae800"
+    },
+    "blend": {
+      "path": "assets/industrial/industrial-fixed-half-guard-disc-and-side-grip-angle-grinder-01/v1.0.0/source.blend",
+      "size": 711680,
+      "sha256": "1912bbf96e1811bea72b7e642658038fad437c2113c6a14e87a849a35e9d258c"
+    },
+    "generator": {
+      "path": "assets/industrial/industrial-fixed-half-guard-disc-and-side-grip-angle-grinder-01/v1.0.0/generate.py",
+      "size": 14950,
+      "sha256": "cc484fac68291024cf8c0054a967ba50d24eaa9a2ca0bb8fb4c58f57151968f1"
+    },
+    "render": {
+      "path": "assets/industrial/industrial-fixed-half-guard-disc-and-side-grip-angle-grinder-01/v1.0.0/thumbnail.png",
+      "size": 491673,
+      "sha256": "4b7b48190587b833f9ed59ac7aa68cb5ee91b1842b02c31d1d8f0eacb4dca452"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

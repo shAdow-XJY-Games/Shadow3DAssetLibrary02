@@ -1,0 +1,42 @@
+{
+  "id": "village-fixed-open-grated-sump-box-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "military",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Open Grated Sump Box",
+  "description": "One original whole deep grated sump box appearance. A thick continuous square well has a real blind bottom substantially below its side outlet sill; the open rectangular outlet passes through the complete side wall and integral projecting collar. One complete connected eight-slot grid lid is fixed raised at its rear hinges, showing both grate openings and the full deep chamber. All new geometry, no drain arm, culvert slab, well or grating imported. Three constant opaque PBR materials, metre game units, Z-up, horizontally centred ground origin. One static infrastructure prop, zero scenes, no water, debris, pipe, surrounding pavement or host ground. Exposed outside wall surfaces represent an isolated uninstalled module. No actual drainage, sediment removal, water tightness, hinges, load, pipe fitting, installation, manufacturing or safety certification is claimed.",
+  "bounds": {
+    "x": 1.1,
+    "y": 0.9159999999999999,
+    "z": 1.4776622785314228,
+    "unit": "m"
+  },
+  "triangles": 876,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/construction/village-fixed-open-grated-sump-box-01/v1.0.0/model.glb",
+      "size": 30344,
+      "sha256": "b0dac30262198bf104353b568594b9520cb23b02dc4f8e0f2e9546bd8b23a0dc"
+    },
+    "blend": {
+      "path": "assets/construction/village-fixed-open-grated-sump-box-01/v1.0.0/source.blend",
+      "size": 582536,
+      "sha256": "5cd690fe24bc1a7fd89ae891375a6313d923f74bc3afb804ff1e3da90143b60a"
+    },
+    "generator": {
+      "path": "assets/construction/village-fixed-open-grated-sump-box-01/v1.0.0/generate.py",
+      "size": 10262,
+      "sha256": "2537cffad5b189adfe6382366ce6e6efc673cc989c53f20f0df51302307c16d9"
+    },
+    "render": {
+      "path": "assets/construction/village-fixed-open-grated-sump-box-01/v1.0.0/thumbnail.png",
+      "size": 404054,
+      "sha256": "814bd2c581fdbf9da3f4d2663294785be2bb86796c4b5b623257da5099621e56"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
