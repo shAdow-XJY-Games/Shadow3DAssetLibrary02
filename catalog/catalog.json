@@ -1164,6 +1164,11 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary02",
       "commit": "7ee9b6722951e588d02134aad10fdad5e4471cf5"
+    },
+    "original-three-models-one-scene-1407-volume02-20261025": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary02",
+      "commit": "650ade4bbeb0adeeeb79d3a5bba4608ee46276e6"
     }
   },
   "assets": [
@@ -34749,6 +34754,178 @@
       "status": "verified",
       "license": "All rights reserved",
       "sourceId": "original-continuous-two-1403-volume02-20261025"
+    },
+    {
+      "id": "animal-static-wide-cephalofoil-hammerhead-shark-01",
+      "version": "1.0.0",
+      "category": "modular",
+      "assetKind": "prop",
+      "theme": "animal",
+      "style": "warm-handcrafted-village",
+      "title": "Static Wide-Cephalofoil Hammerhead Shark",
+      "description": "One newly authored whole stylised hammerhead-shark-like exterior. A genuinely transverse broad flattened cephalofoil joins continuously through a narrowed neck to an elongated tapered trunk and narrow tail peduncle. Widely separated lateral eyes sit at the head wings. Two large swept pectoral fins, two small pelvic fins, a tall swept first dorsal and low secondary dorsal, and a clearly unequal upper/lower caudal silhouette form one static animal. Every body/head station and complete fin outline is new, not an old fork-tail fish with a head accessory or widened ray disc. One model, zero scenes. Fixed resting game-art datum only, not natural standing support, exact species/anatomy, gills/mouth internals, teeth, swimming, predation, rig, animation or interaction.",
+      "bounds": {
+        "x": 2.079999924,
+        "y": 3.299999952,
+        "z": 1.029999971,
+        "unit": "m"
+      },
+      "triangles": 580,
+      "materials": 4,
+      "files": {
+        "glb": {
+          "path": "assets/animal/animal-static-wide-cephalofoil-hammerhead-shark-01/v1.0.0/model.glb",
+          "size": 39584,
+          "sha256": "98766fe70c7b37e6088db87b0a768ccd1ed26c2bae4b320b8c96b261c5d6d476"
+        },
+        "blend": {
+          "path": "assets/animal/animal-static-wide-cephalofoil-hammerhead-shark-01/v1.0.0/source.blend",
+          "size": 587624,
+          "sha256": "2868460515b06bf38dc864df4d6b18e291866775b2bac9f78a083ed7156de765"
+        },
+        "generator": {
+          "path": "assets/animal/animal-static-wide-cephalofoil-hammerhead-shark-01/v1.0.0/generate.py",
+          "size": 29419,
+          "sha256": "19d39a9630356a65f31c117698e7c4cbc9ee3ce41fdcb84a4a6fe1e0f89a357a"
+        },
+        "render": {
+          "path": "assets/animal/animal-static-wide-cephalofoil-hammerhead-shark-01/v1.0.0/thumbnail.png",
+          "size": 463766,
+          "sha256": "2b206bbbf360402da23c9a4237eb70f79e6d45be4e81acbe3c2d6778af2cd139"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-three-models-one-scene-1407-volume02-20261025"
+    },
+    {
+      "id": "entertainment-fixed-arched-hood-and-hairpin-ball-return-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "entertainment",
+      "style": "S01-clean-geometric",
+      "title": "Fixed Arched Hood and Hairpin Ball Return",
+      "description": "One newly authored complete fixed empty bowling-ball-return-terminal appearance. A thick continuous rounded hood forms a genuine bounded frontal arched opening and deep recess, with a complete closed proud rear casing. One whole tubular hairpin cradle emerges from two finite seats inside that opening: its long separated limbs run forward and join around the receiving end as a continuous curved stop. A broad rear plinth, lower connecting spine, remote front foot and raised transverse rail seat make one connected support chassis. The lower hood has a small proud blank service panel; no ball, pin, lane, display, powered mechanism or separate furniture is included. All geometry is new, not an extracted ball trolley tier, cage return floor or pinsetter part. Three opaque constant untextured PBR roles, metres, Z up and true whole horizontal-bounds-centred ground datum. One complete model, zero scenes. Empty static exterior only: the covered lower lift and transport machinery are not modeled, and no ball circulation, rolling dynamics, collection capacity, regulation-ball clearance, feeding, motion, load, manufacture or sporting/equipment safety claim.",
+      "bounds": {
+        "x": 0.56,
+        "y": 1.724,
+        "z": 0.898,
+        "unit": "m"
+      },
+      "triangles": 984,
+      "materials": 3,
+      "files": {
+        "glb": {
+          "path": "assets/entertainment/entertainment-fixed-arched-hood-and-hairpin-ball-return-01/v1.0.0/model.glb",
+          "size": 56748,
+          "sha256": "9bade066f3933250f58dccfde42c00c98fde7c5d2cb1fa906d4aab68e1b6ca89"
+        },
+        "blend": {
+          "path": "assets/entertainment/entertainment-fixed-arched-hood-and-hairpin-ball-return-01/v1.0.0/source.blend",
+          "size": 625536,
+          "sha256": "2abc1430c95bc1b866724308667f0c56f00f1f72dc8f57927e878ed6b6fd59bf"
+        },
+        "generator": {
+          "path": "assets/entertainment/entertainment-fixed-arched-hood-and-hairpin-ball-return-01/v1.0.0/generate.py",
+          "size": 11890,
+          "sha256": "f1fc9237ee3a0000ccb36de7c8aca703c2f8303ba833084ec5c678d86a7604cd"
+        },
+        "render": {
+          "path": "assets/entertainment/entertainment-fixed-arched-hood-and-hairpin-ball-return-01/v1.0.0/thumbnail.png",
+          "size": 431388,
+          "sha256": "cbdb92c12c1102cbc53010db1b0090fbaad2020020e28b82abaf3833442ff392"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-three-models-one-scene-1407-volume02-20261025"
+    },
+    {
+      "id": "military-whole-armour-storage-and-inspection-alcove-scene-01",
+      "version": "1.0.0",
+      "category": "scenes",
+      "assetKind": "scene",
+      "theme": "military",
+      "style": "S01-clean-geometric",
+      "title": "Whole Armour Storage and Inspection Alcove",
+      "description": "One static armour storage and inspection alcove scene, zero new independent models. Four complete qualified original objects are reused at unit scale with original mesh topology and face PBR: empty cuirass on a lower rear shelf, raised-visor empty helmet on a separate upper shelf, convex shield in a low right parking channel, and splayed gauntlet on the low front inspection bench. A scene-only back wall and short left return enclose the asymmetric vertical storage zone; the left front approach and middle strip remain open. No extra duplicate armour, wearer, weapon or rearranged equipment cabinet. Whole models remain uncut; geometry is translated only. Opaque constant PBR, metres, centred floor. Fixed artistic storage layout only, not an armour fitting or repair procedure, protective performance, physical load test, accessibility, egress, animation or safety claim.",
+      "bounds": {
+        "x": 3.0,
+        "y": 2.2,
+        "z": 1.75,
+        "unit": "m"
+      },
+      "triangles": 4656,
+      "materials": 14,
+      "files": {
+        "glb": {
+          "path": "assets/military/military-whole-armour-storage-and-inspection-alcove-scene-01/v1.0.0/model.glb",
+          "size": 292316,
+          "sha256": "2a26403d5934ccd49a33f601fd407ede52828dfb12ed33c633067ff66b31c144"
+        },
+        "blend": {
+          "path": "assets/military/military-whole-armour-storage-and-inspection-alcove-scene-01/v1.0.0/source.blend",
+          "size": 1383644,
+          "sha256": "19fc8a869f6b7d38cbd8442d38076435fe9dc24bb9ab69f5d15b462ea60ff818"
+        },
+        "generator": {
+          "path": "assets/military/military-whole-armour-storage-and-inspection-alcove-scene-01/v1.0.0/generate.py",
+          "size": 237056,
+          "sha256": "f63b04ecbb025d74da8f16829bdaf865c00133667ce5374b94ff382d1ee0baaf"
+        },
+        "render": {
+          "path": "assets/military/military-whole-armour-storage-and-inspection-alcove-scene-01/v1.0.0/thumbnail.png",
+          "size": 489263,
+          "sha256": "e09532da8e365bb6f3bcfdc3baed11a1c01abb6b470e42824d1a73a02e78be2d"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-three-models-one-scene-1407-volume02-20261025"
+    },
+    {
+      "id": "technology-fixed-rounded-dome-and-windowed-belt-column-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "technology",
+      "style": "source-preserved-low-poly",
+      "title": "Fixed Rounded Dome and Windowed Belt Column",
+      "description": "One newly authored complete static dome-and-belt-column teaching-display appearance. A broad low motor-style housing supports one thick windowed upright column, two separate horizontal rollers on full through axles and one continuous wide closed belt. A large rounded upper terminal-like dome closes over the column, with a subordinate side housing and fixed blank knob at the base. The window is real open geometry and the return belt has a true empty centre. Not the old two vertical sector discs with collecting arms or the horseshoe-yoke rotor and crank rearranged. One whole prop, zero scenes. Four opaque constant PBR materials, no transparent or emissive effects. Fixed stylized visual only; no voltage, current, charge, circuit, wiring, sparks, electricity demonstration, electrical design, motion, operating steps, safety, manufacturing, historical reproduction or functional performance. Rigging, animation and interaction are not made and are outside this static asset scope.",
+      "bounds": {
+        "x": 0.5799999833106995,
+        "y": 0.5,
+        "z": 1.4390000104904175,
+        "unit": "m"
+      },
+      "triangles": 1362,
+      "materials": 4,
+      "files": {
+        "glb": {
+          "path": "assets/technology/technology-fixed-rounded-dome-and-windowed-belt-column-01/v1.0.0/model.glb",
+          "size": 124512,
+          "sha256": "b6cd2afb071546c8886950a8dda7d323323ef35d85b5ecc0fc0a035335455eb1"
+        },
+        "blend": {
+          "path": "assets/technology/technology-fixed-rounded-dome-and-windowed-belt-column-01/v1.0.0/source.blend",
+          "size": 774280,
+          "sha256": "e91d8d590a83b34276fae3e56d49952eeeb5948048aae04225eed7ed8e613126"
+        },
+        "generator": {
+          "path": "assets/technology/technology-fixed-rounded-dome-and-windowed-belt-column-01/v1.0.0/generate.py",
+          "size": 16900,
+          "sha256": "9f904788b7a9e67258fe2df0f63d0ddda32153cb886a2345373ee801cf409055"
+        },
+        "render": {
+          "path": "assets/technology/technology-fixed-rounded-dome-and-windowed-belt-column-01/v1.0.0/thumbnail.png",
+          "size": 454423,
+          "sha256": "9f08d4648c1cde400b601c9f5fb844058f4cc0fd714327e6937ae820f9592f33"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-three-models-one-scene-1407-volume02-20261025"
     }
   ]
 }
