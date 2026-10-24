@@ -1,0 +1,42 @@
+{
+  "id": "military-fixed-twin-pontoon-walkway-section-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "military",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Twin Pontoon Walkway Section",
+  "description": "One complete original fixed pontoon-walkway appearance for non-weapon camp logistics scenery. Two full transverse double-ended tapered closed floats carry two whole crossbearers, three full longitudinal stringers and a complete plank route with two open ends. Four fixed posts and full side rails border the route. The complete float-support/deck relationship is newly authored, not old pier tiles with extra piles, a recoloured arched ground bridge or old open skiffs arranged below a deck. Three opaque untextured PBR materials, metres/native Z up/horizontal bounds-centred origin. Dry-display pose rests on the two finite float bottom soles; no water or other host is included. One whole static prop, zero scenes. No buoyancy, flotation, stability, load, bridge joining, crossing access, towing, military operation, fabrication or pedestrian safety is verified.",
+  "bounds": {
+    "x": 3.2,
+    "y": 3.1,
+    "z": 1.3920000000000001,
+    "unit": "m"
+  },
+  "triangles": 532,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/construction/military-fixed-twin-pontoon-walkway-section-01/v1.0.0/model.glb",
+      "size": 42084,
+      "sha256": "dc0c2aa212d197ccae67d7b8d6ac11f709aef92c9b3a04e8f986fb623d046044"
+    },
+    "blend": {
+      "path": "assets/construction/military-fixed-twin-pontoon-walkway-section-01/v1.0.0/source.blend",
+      "size": 679696,
+      "sha256": "f546cedeecf2bee0caa31422837ac5e141757606a27ce6dc7a59e88bb38f5170"
+    },
+    "generator": {
+      "path": "assets/construction/military-fixed-twin-pontoon-walkway-section-01/v1.0.0/generate.py",
+      "size": 9854,
+      "sha256": "e9f5b9759fe4dbc0e0301f672935d746cc074cca07f90d5a7b9358567ff58c53"
+    },
+    "render": {
+      "path": "assets/construction/military-fixed-twin-pontoon-walkway-section-01/v1.0.0/thumbnail.png",
+      "size": 409659,
+      "sha256": "69b6cae6c5aeb1c4cf14b93cc0ffa3643b211bdfc2f477e906d54de220b0d29d"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

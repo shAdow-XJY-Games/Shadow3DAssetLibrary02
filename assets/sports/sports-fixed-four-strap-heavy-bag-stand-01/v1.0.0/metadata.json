@@ -1,0 +1,42 @@
+{
+  "id": "sports-fixed-four-strap-heavy-bag-stand-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "sports",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Four Strap Heavy Bag Stand",
+  "description": "One newly authored complete static suspended heavy-bag stand exterior. Two long grounded skids and a rear crossmember leave the front floor approach open. A rear-offset upright has two broad lower diagonal braces and an upper diagonal knee beneath a forward cantilever. One genuine bored hanging eye carries four separate complete suspension links into four thick top webbing roots on a whole long shouldered bag. The bag remains visibly above the floor between the skids. All complete numeric meshes are newly authored, not a basketball stand with a different attachment or a tripod winch with new cargo; there is no winch, sheave, cable payout or hook. Three opaque solid untextured PBR roles; metres, Z up, full horizontally bounds-centred ground datum. One complete prop and zero scenes. Empty fixed appearance only: no training instruction, user fit, impact absorption, swinging trajectory, joint articulation, load, stability, manufacture, installation or equipment-safety claim.",
+  "bounds": {
+    "x": 1.28,
+    "y": 1.7,
+    "z": 2.3499999999999996,
+    "unit": "m"
+  },
+  "triangles": 768,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/sports/sports-fixed-four-strap-heavy-bag-stand-01/v1.0.0/model.glb",
+      "size": 49580,
+      "sha256": "a45aa56242e73b44ab3c115e529e7346045b6926cffaff94fd0ccb99191cb5df"
+    },
+    "blend": {
+      "path": "assets/sports/sports-fixed-four-strap-heavy-bag-stand-01/v1.0.0/source.blend",
+      "size": 641592,
+      "sha256": "6435734f6e0b1ce4557f5b4513f7699c9eea9a3b9c7c1fa89be67ca76a5343ee"
+    },
+    "generator": {
+      "path": "assets/sports/sports-fixed-four-strap-heavy-bag-stand-01/v1.0.0/generate.py",
+      "size": 10260,
+      "sha256": "5a41fa723b02e1465d3eff6648d19b1b3284009da7a1e4f83a543abc946ffbf1"
+    },
+    "render": {
+      "path": "assets/sports/sports-fixed-four-strap-heavy-bag-stand-01/v1.0.0/thumbnail.png",
+      "size": 417265,
+      "sha256": "a23d1662b687345c59801a510b2ac2702a000a259c5ed64da974acb6a9adb1e9"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
