@@ -1,0 +1,42 @@
+{
+  "id": "music-fixed-solid-double-cutaway-electric-guitar-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "music",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Solid Double Cutaway Electric Guitar",
+  "description": "One newly authored whole static solid-body electric guitar appearance, laid on its own real broad flat back. A single closed bevel-edged thin solid body has a true asymmetric double-cutaway outline and two complete horns around the full neck heel. A continuous long tapered neck and dark fingerboard lead to an offset six-inline-tuner peghead. Two separate full pickup blocks, a bridge mounting plate with six actual saddle blocks, six continuous bridge-to-nut-to-post strings, seventeen fixed frets, six shaft/post/button tuners, two full control knobs and a fixed selector complete the instrument exterior. No acoustic soundhole, membrane pot, inherited stand or copied guitar geometry. Three-dimensional cutaways and solid-body hardware change the whole structure rather than its paint, scale or string count. Generic unbranded styling, no performer, amplifier, cable or decorative logo. Four opaque constant untextured PBR materials, metres, Z up and actual horizontal-bounds-centred ground origin. One model and zero scenes. Static illustrative art only: electrical internals, signal generation, acoustic or amplified sound, tuning, string tension, playability, human fit, manufacture and performance are not modeled or verified.",
+  "bounds": {
+    "x": 0.363,
+    "y": 1.323,
+    "z": 0.085,
+    "unit": "m"
+  },
+  "triangles": 2228,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/music/music-fixed-solid-double-cutaway-electric-guitar-01/v1.0.0/model.glb",
+      "size": 143972,
+      "sha256": "b237883fd9d8b0c03d5bc8dc693e657d8aab010e73644916c45a005815c49e2c"
+    },
+    "blend": {
+      "path": "assets/music/music-fixed-solid-double-cutaway-electric-guitar-01/v1.0.0/source.blend",
+      "size": 938628,
+      "sha256": "95dbb31279136c97fe9e377550a918baac1bce3c3739624c762dda63c488ddb0"
+    },
+    "generator": {
+      "path": "assets/music/music-fixed-solid-double-cutaway-electric-guitar-01/v1.0.0/generate.py",
+      "size": 13176,
+      "sha256": "9f8b0ce248f2ef8763d7c7fd573e8b1076b1ee45fda3d0a456411a0b80c8cf38"
+    },
+    "render": {
+      "path": "assets/music/music-fixed-solid-double-cutaway-electric-guitar-01/v1.0.0/thumbnail.png",
+      "size": 356113,
+      "sha256": "52a15269529a07fcea713d45ecb0cb95495777dd6072f813d7a0f4a89d72fe08"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
