@@ -1,0 +1,42 @@
+{
+  "id": "entertainment-fixed-offset-baffle-dice-tower-and-tray-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "entertainment",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Offset Baffle Dice Tower and Tray",
+  "description": "One newly authored whole fixed tabletop dice-tower-style accessory with its receiving tray. A complete thick floor continues from beneath the tall open-top tower into the low forward tray. The tower has full rear and left walls, one whole right wall with a genuinely cut-through tall observation window, and a full front wall with a real low exit. Two entire opposed inclined wooden deflectors and a separate full lower forward discharge ramp create the visible staggered internal route, with their finite ends seated into the surrounding walls. Complete low tray sidewalls, end wall and recessed dark liner belong to this one object. Not a shallow pin field with pins removed or the old one-plane ore splitter reduced in scale: the complete vertical internal baffle chamber and forward receiving layout are newly authored, no old geometry imports. Three opaque constant untextured PBR roles, metres, Z up, ground-centred whole bounds. One complete prop and zero scenes. Fixed illustrative display with an intentionally open observation side only: no dice dynamics, rolling clearance certification, randomization, fairness, probabilities, gambling, moving mechanism, manufacturing, age suitability or safety claim. No loose dice, playing pieces, numbers, text or environment.",
+  "bounds": {
+    "x": 0.188,
+    "y": 0.372,
+    "z": 0.348,
+    "unit": "m"
+  },
+  "triangles": 180,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/entertainment/entertainment-fixed-offset-baffle-dice-tower-and-tray-01/v1.0.0/model.glb",
+      "size": 16712,
+      "sha256": "899724b4b5c89bbc3d4e164deb6dd8b4dd3d585b689085c80abcb15953e96561"
+    },
+    "blend": {
+      "path": "assets/entertainment/entertainment-fixed-offset-baffle-dice-tower-and-tray-01/v1.0.0/source.blend",
+      "size": 582120,
+      "sha256": "e59b5fab733ad9f0b162f792aebbc3d633a3e3edd9be7e5b10227e2da0de68f3"
+    },
+    "generator": {
+      "path": "assets/entertainment/entertainment-fixed-offset-baffle-dice-tower-and-tray-01/v1.0.0/generate.py",
+      "size": 11421,
+      "sha256": "9fdf3133808aa6f3abcc1e26ef68749bb36af0bde7e7a84bf1ace509822aaa1b"
+    },
+    "render": {
+      "path": "assets/entertainment/entertainment-fixed-offset-baffle-dice-tower-and-tray-01/v1.0.0/thumbnail.png",
+      "size": 563140,
+      "sha256": "2fe440213876a2be2acda418ac0301e32ef238a4b0265835f4f4584262ae69f5"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

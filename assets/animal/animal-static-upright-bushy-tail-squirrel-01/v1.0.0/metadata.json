@@ -1,0 +1,42 @@
+{
+  "id": "animal-static-upright-bushy-tail-squirrel-01",
+  "version": "1.0.0",
+  "category": "modular",
+  "assetKind": "prop",
+  "theme": "animal",
+  "style": "warm-handcrafted-village",
+  "title": "Static Upright Bushy-Tail Squirrel",
+  "description": "One newly authored whole stylised squirrel-like animal in a fixed seated pose. A pear-shaped body rises into a short forward-pointing head with small rounded ears and dark eyes. Its huge thick tapering bushy tail leaves the rump, swells behind the back, then curls forward above the shoulders in one continuous closed skin; no detached fur clumps or borrowed flat kangaroo tail. Two full haunch-to-foot solids provide broad grounded hind feet, and two short bent forearms hold their small paws before the chest. New whole sections, limb and tail paths, not a rabbit with shortened ears or old kangaroo proportions. One static animal prop, zero scenes. No exact species, anatomy, fur simulation, articulation, locomotion or biological claim.",
+  "bounds": {
+    "x": 0.699999988,
+    "y": 1.202661276,
+    "z": 1.4889189,
+    "unit": "m"
+  },
+  "triangles": 1548,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/animal/animal-static-upright-bushy-tail-squirrel-01/v1.0.0/model.glb",
+      "size": 89820,
+      "sha256": "2bfc373ca7684c40f885ef0e9be4ec145b046ed20ca6e93460352d2ef596b9a9"
+    },
+    "blend": {
+      "path": "assets/animal/animal-static-upright-bushy-tail-squirrel-01/v1.0.0/source.blend",
+      "size": 600812,
+      "sha256": "01d8afdde33bf4fa78dbfcc6f87c5894fe5bb4d61980a66aa4ef63718a2d05ef"
+    },
+    "generator": {
+      "path": "assets/animal/animal-static-upright-bushy-tail-squirrel-01/v1.0.0/generate.py",
+      "size": 30045,
+      "sha256": "70130cf52cffbfee322df6d31a06a55c473aec36cda8e44c4e7fd1ddd531b46e"
+    },
+    "render": {
+      "path": "assets/animal/animal-static-upright-bushy-tail-squirrel-01/v1.0.0/thumbnail.png",
+      "size": 518872,
+      "sha256": "3671088095d0749981516e2ccf339e96a3c12ef4f5e7ac9bcaef93c4c1fb6e7f"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

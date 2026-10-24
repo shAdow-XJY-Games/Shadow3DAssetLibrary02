@@ -1,0 +1,42 @@
+{
+  "id": "laboratory-fixed-windowed-collar-and-open-tube-burner-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "laboratory",
+  "style": "source-preserved-low-poly",
+  "title": "Fixed Windowed Collar and Open Tube Burner",
+  "description": "One newly authored complete fixed unlit laboratory tube-burner appearance. A broad low faceted base supports a short lower body, an entire thick cylindrical collar with two actual opposed side windows, and an independent tall open thick-walled vertical tube. A single complete side ring-ended connector and short separate valve-stem and plain knob finish the base assembly. The collar windows and upper mouth are actual mesh apertures with finite inner walls, not painted marks. One whole prop and zero scenes, not the old canister-top camping stove with fuel-can exterior and three cookware arms, and not a wick lamp extracted from the stacked siphon brewer. No old component geometry is imported. Four opaque constant PBR materials; metres, Z up, whole horizontal bounds-centred ground origin. This is fixed artistic exterior geometry only, with no gas contents, hose, flame, ignition, combustion, heat, working valve, mixing path, pressure, operating instructions, manufacture, compatibility, stability or laboratory safety claim.",
+  "bounds": {
+    "x": 0.1420000046491623,
+    "y": 0.1420000046491623,
+    "z": 0.2460000067949295,
+    "unit": "m"
+  },
+  "triangles": 1468,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/laboratory/laboratory-fixed-windowed-collar-and-open-tube-burner-01/v1.0.0/model.glb",
+      "size": 129056,
+      "sha256": "8b32949c8f2488c0c1ef471b70330fa15ad28a1e0628152a23b81c84555e21d1"
+    },
+    "blend": {
+      "path": "assets/laboratory/laboratory-fixed-windowed-collar-and-open-tube-burner-01/v1.0.0/source.blend",
+      "size": 753216,
+      "sha256": "e9bffe35b2fb2b8bf0579febcb5dcddb7b756a294f38cd48e8f0b46645ae7093"
+    },
+    "generator": {
+      "path": "assets/laboratory/laboratory-fixed-windowed-collar-and-open-tube-burner-01/v1.0.0/generate.py",
+      "size": 17479,
+      "sha256": "54d97bd247a2bd048b43f11d940b68666316eaca5c668930f32c2135ade12dac"
+    },
+    "render": {
+      "path": "assets/laboratory/laboratory-fixed-windowed-collar-and-open-tube-burner-01/v1.0.0/thumbnail.png",
+      "size": 468607,
+      "sha256": "643a23e5a3079ecdf78681ac52afb527d0bf9c167559249ade0c99b86ad4c062"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

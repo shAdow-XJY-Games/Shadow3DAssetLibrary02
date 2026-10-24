@@ -1,0 +1,42 @@
+{
+  "id": "animal-static-wide-bill-flat-tail-platypus-01",
+  "version": "1.0.0",
+  "category": "modular",
+  "assetKind": "prop",
+  "theme": "animal",
+  "style": "warm-handcrafted-village",
+  "title": "Static Wide-Bill Flat-Tail Platypus",
+  "description": "One newly authored whole stylised platypus-like animal in a fixed low four-foot pose. A long rounded low body narrows continuously into a small forward head without a raised bird neck. Its front carries a broad flattened rounded bill and its rear a very wide flat thick paddle tail. Four short splayed leg-to-web-foot solids connect the low torso to full fan-shaped grounded soles, unlike seal flippers or a two-foot duck. Two small side eyes sit behind the bill. New whole body, paddle, feet and bill outlines; no old seal or waterfowl arrays reused. One static animal prop, zero scenes. Static artistic appearance only, no exact species, anatomical, biological, gait, swimming, burrowing or animal-handling claim.",
+  "bounds": {
+    "x": 1.059999943,
+    "y": 2.549999952,
+    "z": 0.469999999,
+    "unit": "m"
+  },
+  "triangles": 1288,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/animal/animal-static-wide-bill-flat-tail-platypus-01/v1.0.0/model.glb",
+      "size": 72516,
+      "sha256": "d195949524fd9fdd839b31c97a640f0cb5477dbbdf65cc2d3cad2b8dc5a68c86"
+    },
+    "blend": {
+      "path": "assets/animal/animal-static-wide-bill-flat-tail-platypus-01/v1.0.0/source.blend",
+      "size": 584752,
+      "sha256": "1fefb31cbd89a11080543ba5ed37bcd27db581ce06fb1f5473a81aa009e52fb3"
+    },
+    "generator": {
+      "path": "assets/animal/animal-static-wide-bill-flat-tail-platypus-01/v1.0.0/generate.py",
+      "size": 29304,
+      "sha256": "bf2b4780a942c85a1931650453a0c8e34e80c6efe3fb190f09d2d355b0656c3b"
+    },
+    "render": {
+      "path": "assets/animal/animal-static-wide-bill-flat-tail-platypus-01/v1.0.0/thumbnail.png",
+      "size": 467632,
+      "sha256": "523ef7f9595a6cf670e30b19097335c0f1daede6ee84752bc584439a6f3f1d11"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

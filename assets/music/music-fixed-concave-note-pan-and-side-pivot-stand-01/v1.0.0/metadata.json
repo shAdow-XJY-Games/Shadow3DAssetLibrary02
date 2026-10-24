@@ -1,0 +1,42 @@
+{
+  "id": "music-fixed-concave-note-pan-and-side-pivot-stand-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "music",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Concave Note Pan and Side Pivot Stand",
+  "description": "One newly authored whole static concave steel-pan-style instrument on its own lateral-pivot stand. One continuous shared-vertex metal body forms the complete open dish with spatially dished note-field relief, finite underside thickness, returned outer rim and deep circumferential skirt. The relief is actual geometry, not textures or disconnected decorative tiles. Two whole side pivots pass through genuinely bored stand bearings; independent fixed outer knobs, complete twin grounded runners, uprights, diagonal braces and a low cross tie form one supported display assembly. Unlike the old sealed copper kettle drum it has no membrane, tension hoop or head covering; unlike the bossed hanging gong its playing face is a horizontal concave field and its suspension is lateral rather than overhead. No old meshes imported, detached, scaled or recoloured. Three opaque constant untextured PBR roles, metres, Z up, whole horizontal bounds centred on the ground. One complete model and zero scenes. Static nonfunctional illustrative art only: no calibrated note map, pitch, tuning, sound, acoustic response, pan adjustment, musician ergonomics, cultural authenticity, manufacture, stability, load or safety claim. No sticks, loose notes, performer or environment.",
+  "bounds": {
+    "x": 0.93,
+    "y": 0.635,
+    "z": 1.125,
+    "unit": "m"
+  },
+  "triangles": 3844,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/music/music-fixed-concave-note-pan-and-side-pivot-stand-01/v1.0.0/model.glb",
+      "size": 274604,
+      "sha256": "d5ca2a6fe6fcee6de60976f2d7a4fe2c53bfa4028d83f7d643779b3f51ae6d2d"
+    },
+    "blend": {
+      "path": "assets/music/music-fixed-concave-note-pan-and-side-pivot-stand-01/v1.0.0/source.blend",
+      "size": 789188,
+      "sha256": "6d4dcb3cd4f08969de004568e7b012b3b43891211c2cc8d67f6bfde14b06ecf0"
+    },
+    "generator": {
+      "path": "assets/music/music-fixed-concave-note-pan-and-side-pivot-stand-01/v1.0.0/generate.py",
+      "size": 12028,
+      "sha256": "3255a5a7a5b5fe1441657ee5d13c2eccd9862787a1641fcac5a1e11216d8bff6"
+    },
+    "render": {
+      "path": "assets/music/music-fixed-concave-note-pan-and-side-pivot-stand-01/v1.0.0/thumbnail.png",
+      "size": 440457,
+      "sha256": "f1637a86c0e6d1886012ba7766121aec9fa10db5138a590f03502902a6fcf86c"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

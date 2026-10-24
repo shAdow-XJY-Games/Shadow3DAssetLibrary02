@@ -1,0 +1,42 @@
+{
+  "id": "fantasy-whole-bent-tip-and-waved-brim-hat-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "fantasy",
+  "style": "S01-clean-geometric",
+  "title": "Whole Bent Tip and Waved Brim Fantasy Hat",
+  "description": "One complete original fixed fantasy pointed hat: one shared-vertex closed material shell joins a broad unevenly waved brim to a tall tapering crown whose final tip curves sideways and downward. Explicit outer and inner crown surfaces leave the full underside head cavity open; the brim has finite edge thickness rather than a double-sided card. A whole tapered brown band and one genuinely hollow rectangular buckle complete the object. No head, wearer, stand, veil, feather, lettering or texture. Newly drawn continuous curved shell, not an enlarged beekeeping dome with its veil deleted or a party crown with more points. Three opaque constant PBR materials, metres and lowest brim datum, one model and zero scenes. Invented decorative costume appearance only: no wearer fit, cloth deformation, protective capability, historical/religious accuracy or magical effect claimed.",
+  "bounds": {
+    "x": 0.68,
+    "y": 0.6873130676676125,
+    "z": 0.47590868905054906,
+    "unit": "m"
+  },
+  "triangles": 1312,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/fantasy/fantasy-whole-bent-tip-and-waved-brim-hat-01/v1.0.0/model.glb",
+      "size": 93376,
+      "sha256": "ff790aff4d05943118ae6b97063cca5970ef4e146a2c597a29982fa592356682"
+    },
+    "blend": {
+      "path": "assets/fantasy/fantasy-whole-bent-tip-and-waved-brim-hat-01/v1.0.0/source.blend",
+      "size": 601640,
+      "sha256": "35c6e8f9b64b926a95a712fa23e4373a135540bf7228d6631f7bd7df57b8689c"
+    },
+    "generator": {
+      "path": "assets/fantasy/fantasy-whole-bent-tip-and-waved-brim-hat-01/v1.0.0/generate.py",
+      "size": 10885,
+      "sha256": "31562318d3aa08a6120bca4989e676763cf4c5ada114235239aa5eecdfeb554d"
+    },
+    "render": {
+      "path": "assets/fantasy/fantasy-whole-bent-tip-and-waved-brim-hat-01/v1.0.0/thumbnail.png",
+      "size": 388825,
+      "sha256": "998db5fb1eae14f8acf2b6ac52536fcfcbda0317f245210e884496e7f9b719dc"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

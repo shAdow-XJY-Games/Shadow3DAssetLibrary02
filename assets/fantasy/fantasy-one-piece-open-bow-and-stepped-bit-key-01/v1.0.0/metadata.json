@@ -1,0 +1,42 @@
+{
+  "id": "fantasy-one-piece-open-bow-and-stepped-bit-key-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "fantasy",
+  "style": "S01-clean-geometric",
+  "title": "One Piece Open Bow and Stepped Bit Fantasy Key",
+  "description": "One newly authored complete fictional fantasy key lying flat on its broad back. One shared-vertex closed mesh connects an octagonal genuinely pierced grip bow to a long full shank and one broad asymmetrically stepped bit with two real open edge notches. The bow-to-shank junction is a welded continuous material boundary, not separate touching rings and rods. Face-level warm brass, back bronze and edge gold are three ordinary opaque PBR materials with no textures. Metre units and centred ground datum; one model and zero scenes. No existing wrench, instrument key, jewellery ring or container geometry imported. Decorative invented key silhouette only: not specified for any real lock, access system, working ward pattern, opening method, mechanism, tolerances, manufacturing or security performance.",
+  "bounds": {
+    "x": 0.48750000000000004,
+    "y": 0.19,
+    "z": 0.018,
+    "unit": "m"
+  },
+  "triangles": 128,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/fantasy/fantasy-one-piece-open-bow-and-stepped-bit-key-01/v1.0.0/model.glb",
+      "size": 8008,
+      "sha256": "6e16f1a380a8fe61ec9d195e4930706ff4b477a4990cd27133492c495caecfeb"
+    },
+    "blend": {
+      "path": "assets/fantasy/fantasy-one-piece-open-bow-and-stepped-bit-key-01/v1.0.0/source.blend",
+      "size": 528492,
+      "sha256": "780aa696ef42eae044699237cc4c0af8660c0e1583b686d23eb059e0b1eb050c"
+    },
+    "generator": {
+      "path": "assets/fantasy/fantasy-one-piece-open-bow-and-stepped-bit-key-01/v1.0.0/generate.py",
+      "size": 10199,
+      "sha256": "2e94ea231408bbc9baa522fedd2339612834b42d5b9a6f0e7ade23f657bbc250"
+    },
+    "render": {
+      "path": "assets/fantasy/fantasy-one-piece-open-bow-and-stepped-bit-key-01/v1.0.0/thumbnail.png",
+      "size": 336123,
+      "sha256": "ec5789ef77e839e8ab770b2788dcff258e48244f9aa11e24cb7d2e0000b6b2ee"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

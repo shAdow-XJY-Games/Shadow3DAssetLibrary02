@@ -1,0 +1,42 @@
+{
+  "id": "agriculture-fixed-two-wheel-open-log-arch-01",
+  "version": "1.0.0",
+  "category": "modular",
+  "assetKind": "prop",
+  "theme": "agriculture",
+  "style": "warm-handcrafted-village",
+  "title": "Fixed Two-Wheel Open Log Arch",
+  "description": "One newly authored whole empty two-wheel forestry log-arch exterior in a fixed parked pose. A tall continuous open arch spans between two large low wheels, leaving a clear under-arch space with no cargo bed or tub. Two forward converging draw rails lead to a transverse handgrip and a short parked support leg. A central short suspension boss and thick open link carry two broad curved tong jaws in a fixed open pose below the arch crown. The entire suspended-load frame, wheels and draw geometry are newly authored, not an old handcart with a pallet removed or a cant-hook on a trolley. One static equipment prop, zero scenes, no log instance. No lifting, skidding, capacity, towing, stability or safe operational function claim.",
+  "bounds": {
+    "x": 1.488000035,
+    "y": 1.592851281,
+    "z": 1.105000019,
+    "unit": "m"
+  },
+  "triangles": 1060,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/agriculture/agriculture-fixed-two-wheel-open-log-arch-01/v1.0.0/model.glb",
+      "size": 60904,
+      "sha256": "c3774da8cfbf012f5bec50e1f415a2981a00d8111fcc0eaaaf5aaf1194073319"
+    },
+    "blend": {
+      "path": "assets/agriculture/agriculture-fixed-two-wheel-open-log-arch-01/v1.0.0/source.blend",
+      "size": 608376,
+      "sha256": "3652f13f6b6b8348b058535d4cc85164e057f0a02133e3b4e31caa7cb35b6b0d"
+    },
+    "generator": {
+      "path": "assets/agriculture/agriculture-fixed-two-wheel-open-log-arch-01/v1.0.0/generate.py",
+      "size": 29749,
+      "sha256": "6fb65bea188b0c1b363c1494c1785298015beb98fc2141ea4a8177fc72aa8256"
+    },
+    "render": {
+      "path": "assets/agriculture/agriculture-fixed-two-wheel-open-log-arch-01/v1.0.0/thumbnail.png",
+      "size": 506877,
+      "sha256": "4b2964df61b75e5efda0eef65ffb9d753be0872de6e230bd1b427114dc40fdf7"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

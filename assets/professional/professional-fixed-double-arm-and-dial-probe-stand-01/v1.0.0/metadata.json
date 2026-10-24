@@ -1,0 +1,42 @@
+{
+  "id": "professional-fixed-double-arm-and-dial-probe-stand-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "professional",
+  "style": "source-preserved-low-poly",
+  "title": "Fixed Double Arm and Dial Probe Stand",
+  "description": "One newly authored complete fixed articulated dial-probe-stand visual prop. A thick chamfered rectangular ground base with a proud blank switch-like side control supports a short upright and three complete side-locked round pivot joints. Two separate long round links form a bent elbow, carrying a short front reach and independent circular instrument housing. Its complete raised annular bezel encloses one recessed opaque blank face; a finite lower stem and blunt axial probe extend beneath the whole case. All original numeric geometry, not a straight height-gauge beam with another face or a laboratory vessel stand renamed. One prop zero scenes, three opaque materials. Static workshop appearance only: no numerical scale, reading, calibration, probe motion, magnetic holding, force, actual measurement, operation, manufacture or safety claim.",
+  "bounds": {
+    "x": 0.35600000619888306,
+    "y": 0.12700000405311584,
+    "z": 0.367000013589859,
+    "unit": "m"
+  },
+  "triangles": 1896,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/professional/professional-fixed-double-arm-and-dial-probe-stand-01/v1.0.0/model.glb",
+      "size": 173596,
+      "sha256": "47cc5060a118b8c9064933713577bccb72cca560996998262e935ab6352771b2"
+    },
+    "blend": {
+      "path": "assets/professional/professional-fixed-double-arm-and-dial-probe-stand-01/v1.0.0/source.blend",
+      "size": 834432,
+      "sha256": "d4eaeccf9687711d551c8f627dde7b3a95e463a24fd946e5c6034458a70f66ea"
+    },
+    "generator": {
+      "path": "assets/professional/professional-fixed-double-arm-and-dial-probe-stand-01/v1.0.0/generate.py",
+      "size": 15392,
+      "sha256": "c893f9253f242db5da6a21c5856c76660c7663293df988c131353d1dab692e66"
+    },
+    "render": {
+      "path": "assets/professional/professional-fixed-double-arm-and-dial-probe-stand-01/v1.0.0/thumbnail.png",
+      "size": 474675,
+      "sha256": "0f4ea66be04848173a2d2861633b8b31a698db65aa68e16ee0f06095b51494e4"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

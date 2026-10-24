@@ -1,0 +1,42 @@
+{
+  "id": "technology-fixed-cylinder-mandrel-and-reproducer-phonograph-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "technology",
+  "style": "source-preserved-low-poly",
+  "title": "Fixed Cylinder Mandrel and Reproducer Phonograph",
+  "description": "One newly authored complete fixed low-bed cylinder phonograph appearance. One broad footed wooden-style base carries two short unequal end stocks supporting a horizontal mandrel and one complete thick bored blank cylinder. A separate parallel guide rod with a genuinely bored carriage sleeve and a lower smooth feed-rod appearance support a full reproducer carrier, small round head and finite blunt contact link above the cylinder. A single complete thick flared horn with real inner walls and annular mouth rises directly from that carrier head. A separate fixed side crank and thick grip complete the apparatus. This is not the old closed gramophone cabinet with a vertical spindle and flat platter, nor an old metal lathe with chuck jaws, ways, compound tool post or opposing pointed centre. No old source geometry is imported. Cylinder and horn belong to one whole prop, not extra media or parts. Zero scenes; four opaque constant PBR materials, metres, Z up and horizontally bounds-centred ground origin. The cylinder is blank and encodes no audio. All interfaces are fixed artistic overlaps. No recording, playback, acoustic path, amplification, groove tracking, feed pitch, movement, historical fidelity, manufacture, compatibility or safety claim.",
+  "bounds": {
+    "x": 0.6050000190734863,
+    "y": 0.4769848585128784,
+    "z": 0.5809848308563232,
+    "unit": "m"
+  },
+  "triangles": 2448,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/technology/technology-fixed-cylinder-mandrel-and-reproducer-phonograph-01/v1.0.0/model.glb",
+      "size": 218880,
+      "sha256": "5974824b66958ed5682901a50b9696e54bfa859fa1f58ec48f85861ccab35a11"
+    },
+    "blend": {
+      "path": "assets/technology/technology-fixed-cylinder-mandrel-and-reproducer-phonograph-01/v1.0.0/source.blend",
+      "size": 910016,
+      "sha256": "3e897150879a87fddbb1d60cd0601b859ae83b7acdce9089ac3daafcfc879cf9"
+    },
+    "generator": {
+      "path": "assets/technology/technology-fixed-cylinder-mandrel-and-reproducer-phonograph-01/v1.0.0/generate.py",
+      "size": 18206,
+      "sha256": "1edc9981c4fbe86dd86a02dff73f2f498e1b3f68e2232130cf5926772be59a97"
+    },
+    "render": {
+      "path": "assets/technology/technology-fixed-cylinder-mandrel-and-reproducer-phonograph-01/v1.0.0/thumbnail.png",
+      "size": 547975,
+      "sha256": "fcfae21164850319888db1d6e517491aa9a6c1179bde2f74026d94314ddf0ab9"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

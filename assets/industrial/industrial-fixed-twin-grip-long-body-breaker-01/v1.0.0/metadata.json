@@ -1,0 +1,42 @@
+{
+  "id": "industrial-fixed-twin-grip-long-body-breaker-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "industrial",
+  "style": "source-preserved-low-poly",
+  "title": "Fixed Twin Grip Long Body Breaker",
+  "description": "One newly authored complete fixed T-handled long-body breaker appearance. A substantial stepped vertical chamber casing joins an independent broad upper head carrying opposed metal handle bars and two complete dark grip sleeves. A small separate top trigger and side ring-ended inlet appearance finish the head. Below the casing, a genuine thick annular lower collar with a lateral pivot and one complete bent retaining link surrounds a single short blunt-ended lower stem. All components belong to one entire industrial prop; no separate bits or accessories are counted. No old drill, auger or other mesh is imported. Unlike the old battery-foot pistol-grip drill there is no horizontal motor/chuck, battery pack or three jaws; unlike the manual soil auger there is no narrow flight-bearing shaft or helical wing. Metres, Z up, horizontally bounds-centred and finite blunt stem sole at ground. Four opaque constant PBR materials. Static artistic overlaps only; no internal hammer or pneumatic mechanism, power source, impact, cutting, drilling, demolition, handling, pressure, tool compatibility, structural or safety claim.",
+  "bounds": {
+    "x": 0.5600000023841858,
+    "y": 0.13600000739097595,
+    "z": 0.9769999980926514,
+    "unit": "m"
+  },
+  "triangles": 1456,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/industrial/industrial-fixed-twin-grip-long-body-breaker-01/v1.0.0/model.glb",
+      "size": 131892,
+      "sha256": "1950a2688c05c698cdf210fd947d7fc1a2f2f9ed0979aa0b84778d060258cd22"
+    },
+    "blend": {
+      "path": "assets/industrial/industrial-fixed-twin-grip-long-body-breaker-01/v1.0.0/source.blend",
+      "size": 780096,
+      "sha256": "dacba0e02ae548856b6b08508011d4b92d17c7eb30ea6b76f551acb126aee57b"
+    },
+    "generator": {
+      "path": "assets/industrial/industrial-fixed-twin-grip-long-body-breaker-01/v1.0.0/generate.py",
+      "size": 17321,
+      "sha256": "a7969767a61b2530e540d97f24056cc48c00e5255910eb6b81ed96afba103b7d"
+    },
+    "render": {
+      "path": "assets/industrial/industrial-fixed-twin-grip-long-body-breaker-01/v1.0.0/thumbnail.png",
+      "size": 460544,
+      "sha256": "e193d0f6e81c9b0f24882707a32f27116c75574682f3358891c9044f4b73ec50"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

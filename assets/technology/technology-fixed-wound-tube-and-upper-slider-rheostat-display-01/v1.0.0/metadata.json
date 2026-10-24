@@ -1,0 +1,42 @@
+{
+  "id": "technology-fixed-wound-tube-and-upper-slider-rheostat-display-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "technology",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Wound Tube and Upper Slider Rheostat Display",
+  "description": "One newly authored complete static sliding-contact resistor-style instrument exterior. One low chamfered ground board carries two full end feet, tapered uprights and genuinely bored circular seats around one entire hollow horizontal ceramic-looking tube. One independently editable continuous finite-thickness wire-appearance helix wraps the tube, with real spacing between its turns. Two complete raised posts carry a separate full upper guide bar, and one truly bored fixed sleeve on that bar carries a whole bent front contact-arm appearance with a finite toe, a vertical stem and broad knob. Two isolated terminal-insulator/post exteriors root in the same board without supplied cables or claimed internal connection. The full horizontal wound-tube and overhead sliding-contact relation is newly authored, not the old four-station optical bench rearranged, the twin upright coils and hinged armature of a sounder reused, or extra turns counted as an asset. Four opaque untextured constant PBR roles, closed editable bodies, metres, native Z up and actual horizontal bounds-centred ground datum. One model, zero scenes. Fixed illustrative exterior only: no electrical schematic, circuit continuity, conductive contact, resistance value, current or voltage rating, heating, electrical operation, movable slider, material performance, calibration, manufacture, handling, ergonomics or safety claim.",
+  "bounds": {
+    "x": 0.602,
+    "y": 0.216,
+    "z": 0.305,
+    "unit": "m"
+  },
+  "triangles": 10052,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/technology/technology-fixed-wound-tube-and-upper-slider-rheostat-display-01/v1.0.0/model.glb",
+      "size": 717952,
+      "sha256": "d4df9cb85f99885082aa1e25a49b6898a84c520f1b0f22cedb139d58585ee3f1"
+    },
+    "blend": {
+      "path": "assets/technology/technology-fixed-wound-tube-and-upper-slider-rheostat-display-01/v1.0.0/source.blend",
+      "size": 1160260,
+      "sha256": "1e588f847155dd91a2ca918c679103ebbe9e63ee66a3141bb2a730cd59c17369"
+    },
+    "generator": {
+      "path": "assets/technology/technology-fixed-wound-tube-and-upper-slider-rheostat-display-01/v1.0.0/generate.py",
+      "size": 27546,
+      "sha256": "a0e0a1c0b8f4014565408bca6742317114eaa92060737b088955f851c6b219c7"
+    },
+    "render": {
+      "path": "assets/technology/technology-fixed-wound-tube-and-upper-slider-rheostat-display-01/v1.0.0/thumbnail.png",
+      "size": 534706,
+      "sha256": "65cc62f05aa8d2abee3e1e57c3413c8879c45ad044d925b35de8939bbd8388a4"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

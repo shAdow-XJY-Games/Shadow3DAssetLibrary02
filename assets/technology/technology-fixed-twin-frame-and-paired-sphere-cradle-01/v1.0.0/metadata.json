@@ -1,0 +1,42 @@
+{
+  "id": "technology-fixed-twin-frame-and-paired-sphere-cradle-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "technology",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Twin Frame and Paired Sphere Cradle",
+  "description": "One newly authored complete fixed tabletop suspension-cradle appearance. One broad chamfered finite ground base carries two parallel whole continuous inverted-U frames, each with both feet rooted in the same base. Five complete closed faceted heavy-looking spheres hang from ten independently continuous finite-thickness line appearances: each sphere has one front-frame line and one rear-frame line converging into its upper body. Four spheres form one level close row and the left end sphere occupies a fixed raised side pose. The double support planes and paired line geometry are explicit, not a single musical tube-hanging portal changed to balls or the long through-table rods and articulated pen arms of the previous drawing instrument. No previous frame, ball or line coordinates are imported. Sphere count is a subordinate feature of this one whole device, never multiple assets. Four opaque untextured constant PBR roles, metres, native Z up and actual horizontal bounds-centred ground datum. One model, zero scenes. Illustrative static display only: no simulated collision, momentum or energy transfer, conservation demonstration, synchronized period, physical trajectory, tension, real mass/material elasticity, exact contact, educational result, moving suspension, manufacture, stability, load, ergonomics or safety claim.",
+  "bounds": {
+    "x": 0.618,
+    "y": 0.286,
+    "z": 0.325,
+    "unit": "m"
+  },
+  "triangles": 4156,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/technology/technology-fixed-twin-frame-and-paired-sphere-cradle-01/v1.0.0/model.glb",
+      "size": 245920,
+      "sha256": "bb3f66b4c72023e768b2970dfd414b024e58a8ed1d21bf3bb53099eda9464f81"
+    },
+    "blend": {
+      "path": "assets/technology/technology-fixed-twin-frame-and-paired-sphere-cradle-01/v1.0.0/source.blend",
+      "size": 833728,
+      "sha256": "04b607d797c49c333621413cdeaa17f83687f32be7d47e96a605d7da6d8edf40"
+    },
+    "generator": {
+      "path": "assets/technology/technology-fixed-twin-frame-and-paired-sphere-cradle-01/v1.0.0/generate.py",
+      "size": 24703,
+      "sha256": "cc00d24c1af827feca7b45395ab79c4d7dfdfad578918834f01fcd147c5802c7"
+    },
+    "render": {
+      "path": "assets/technology/technology-fixed-twin-frame-and-paired-sphere-cradle-01/v1.0.0/thumbnail.png",
+      "size": 529650,
+      "sha256": "87256b9574022ae5ac99cd08f594bb5e2e35a1948f98c6c94b66d6dfc57d9c21"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
