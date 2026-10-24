@@ -1,0 +1,42 @@
+{
+  "id": "music-fixed-openback-hook-rim-five-string-banjo-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "music",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Open Back Hook Rim Five String Banjo",
+  "description": "One newly authored whole static five-string banjo appearance, laid on the actual finite annular rear edge. A genuinely open-back thick circular timber pot carries a complete thin solid top membrane, two open metal-style bands and twelve continuous bent fixed tension hooks. A full tapered neck and fretboard continue into a polygonal peghead with four separate shaft/button tuners; a fifth whole side tuner sits partway down the neck with its own shorter string. Twelve actual fixed frets, a complete two-foot bridge with a real under-arch, a tail anchor and five continuous supported visual strings complete the whole instrument. This is not an extracted old drum-kit snare, a circular replacement mesh on the old guitar, or a violin with new color: all numeric geometry is new and its membrane pot, open back, outer hook rim, long fretted neck and asymmetric short-string routing form one integrated instrument identity. One model, zero scenes. Three opaque untextured PBR roles, metres, native Z up and horizontal ground-centred origin. The open back faces the ground in this static presentation; its actual geometry is not asserted visible in the hero. No performer, stand, case, logo, ornament or licensed design. Deliberately stylized counts/proportions: no tuning, sound, tension, playability, acoustic system, ergonomics, manufacture or safety claim.",
+  "bounds": {
+    "x": 0.38275344078128565,
+    "y": 1.036376714423358,
+    "z": 0.12529999660409494,
+    "unit": "m"
+  },
+  "triangles": 3156,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/music/music-fixed-openback-hook-rim-five-string-banjo-01/v1.0.0/model.glb",
+      "size": 195700,
+      "sha256": "6865d6fee6096a272ae1167fbfdd24f34bdc07169fdd9b8074a3832c50eb33ff"
+    },
+    "blend": {
+      "path": "assets/music/music-fixed-openback-hook-rim-five-string-banjo-01/v1.0.0/source.blend",
+      "size": 913708,
+      "sha256": "a58bd0c702c111eada0fe35d2ada63a57c25fafad7a6bc226fccf8634a656e14"
+    },
+    "generator": {
+      "path": "assets/music/music-fixed-openback-hook-rim-five-string-banjo-01/v1.0.0/generate.py",
+      "size": 12896,
+      "sha256": "902412b06e465aaeb10c0fb71ce1629d5ec1b09dbe3d707f1b1bf69171575491"
+    },
+    "render": {
+      "path": "assets/music/music-fixed-openback-hook-rim-five-string-banjo-01/v1.0.0/thumbnail.png",
+      "size": 402045,
+      "sha256": "c5cd6a85f3826fc0174d201d4f3770ce70b8e0b5a73cd9717daad01d8a674dee"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

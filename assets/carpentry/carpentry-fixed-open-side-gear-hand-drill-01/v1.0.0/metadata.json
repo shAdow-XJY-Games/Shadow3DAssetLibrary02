@@ -1,0 +1,42 @@
+{
+  "id": "carpentry-fixed-open-side-gear-hand-drill-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "carpentry",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Open Side Gear Hand Drill",
+  "description": "One newly authored complete static side-gear hand-drill appearance. A continuous open C-shaped bearing frame supports one straight spindle, two complete bored collars, a whole long upper shaped wooden handgrip, a tapered lower chuck exterior and a short finite-blunt bit-like tip. One perpendicular full axle roots a separate large open annular toothed side wheel with four full spokes. A full offset front crank carries its own complete short spindle and distinct wood crank grip. A separate small perpendicular tooth ring surrounds the main spindle behind the large wheel; its tooth surfaces are deliberately separated, so no working mesh is represented. All numeric geometry newly authored, not the old continuous sweep-brace crank with an added wheel or a scaled column drill press. One prop, zero scenes. Four opaque constant untextured PBR materials, metres, Z up and actual horizontally bounds-centred finite-tip ground origin. Small intentional fixed overlaps connect solid parts; bore language does not claim rotating bearing fit. Static visual equipment only: no functional gear mesh, ratio, speed, torque, crank travel, drilling, cutting, sharpness, chuck fit, work holding, manufacture, stability, balance, ergonomics or safe handling claim.",
+  "bounds": {
+    "x": 0.17793,
+    "y": 0.163,
+    "z": 0.487,
+    "unit": "m"
+  },
+  "triangles": 2712,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/carpentry/carpentry-fixed-open-side-gear-hand-drill-01/v1.0.0/model.glb",
+      "size": 137084,
+      "sha256": "eda4eb31e133083e509f5e3d755f4d717c3f0ed5017cd5e680463165b06a05fe"
+    },
+    "blend": {
+      "path": "assets/carpentry/carpentry-fixed-open-side-gear-hand-drill-01/v1.0.0/source.blend",
+      "size": 749040,
+      "sha256": "0adc0c775ae881a627cce46c1df61903967c3457a322059f78d200270ad662c1"
+    },
+    "generator": {
+      "path": "assets/carpentry/carpentry-fixed-open-side-gear-hand-drill-01/v1.0.0/generate.py",
+      "size": 27617,
+      "sha256": "3548295e3ff7344a111754a8600a298949d58f20a231cf527faf2d2be96eefbb"
+    },
+    "render": {
+      "path": "assets/carpentry/carpentry-fixed-open-side-gear-hand-drill-01/v1.0.0/thumbnail.png",
+      "size": 492105,
+      "sha256": "f5457a95b69e763dee842f769d9c0455211fa11796d891a8190fe43e3c772eff"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

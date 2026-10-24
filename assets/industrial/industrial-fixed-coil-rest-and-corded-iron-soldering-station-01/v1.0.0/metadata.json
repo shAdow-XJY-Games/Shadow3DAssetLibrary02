@@ -1,0 +1,42 @@
+{
+  "id": "industrial-fixed-coil-rest-and-corded-iron-soldering-station-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "industrial",
+  "style": "source-preserved-low-poly",
+  "title": "Fixed Coil Rest and Corded Iron Soldering Station",
+  "description": "One newly authored complete static repair-workbench soldering-station appearance. A single broad base carries a left control housing with blank inset-like opaque panel, knob and switch, and a right inclined genuinely open helical rest with its attached mounting stem. A parked iron-shaped grip, collar, shaft and blunt closed tip follow the rest axis; one continuous curved attached cord joins the grip rear to the housing. Three opaque untextured PBR roles, one prop and zero scenes. No temperature values, wiring, powered heat, solder, fumes, electronics performance, operating steps, ergonomic or safety claims. The rest centre is partly occupied by the parked iron and is not an unobstructed assembly bore. New whole geometry, not a corkscrew or vacuum hose resized.",
+  "bounds": {
+    "x": 0.3140000104904175,
+    "y": 0.2509309649467468,
+    "z": 0.24192796647548676,
+    "unit": "m"
+  },
+  "triangles": 2500,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/industrial/industrial-fixed-coil-rest-and-corded-iron-soldering-station-01/v1.0.0/model.glb",
+      "size": 219492,
+      "sha256": "5f3801bcfb7dc72ad39559324b3014b307e743979dddc9ab8608d8915cae57bf"
+    },
+    "blend": {
+      "path": "assets/industrial/industrial-fixed-coil-rest-and-corded-iron-soldering-station-01/v1.0.0/source.blend",
+      "size": 869152,
+      "sha256": "97a0a7904377b12c8490057bb9c87e5a75d32db661cac2f4875807ff91386f95"
+    },
+    "generator": {
+      "path": "assets/industrial/industrial-fixed-coil-rest-and-corded-iron-soldering-station-01/v1.0.0/generate.py",
+      "size": 15629,
+      "sha256": "14cbdd693b5e6be0da6574b89ee96c5da99f1fc309f6ad954dd122aa7139d845"
+    },
+    "render": {
+      "path": "assets/industrial/industrial-fixed-coil-rest-and-corded-iron-soldering-station-01/v1.0.0/thumbnail.png",
+      "size": 485376,
+      "sha256": "6bf34949bc823b478d1180188cc5c53fd695d755328e0fd38b0ba185090f7bd3"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
