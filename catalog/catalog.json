@@ -1144,6 +1144,11 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary02",
       "commit": "50c8bc85f71ea8c87cae0a4d90976040bead6b12"
+    },
+    "original-continuous-five-1392-volume02-20261024": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary02",
+      "commit": "c79d4b628f3f2c04cf6fe3bb040a47ee71b336b4"
     }
   },
   "assets": [
@@ -34041,6 +34046,221 @@
       "status": "verified",
       "license": "All rights reserved",
       "sourceId": "original-three-models-one-scene-1387-volume02-20261024"
+    },
+    {
+      "id": "military-fixed-convex-kite-shield-with-rear-loops-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "military",
+      "style": "S01-clean-geometric",
+      "title": "Fixed Convex Kite Shield with Rear Loops",
+      "description": "One complete original fixed convex kite-shield display with a pointed flat-ended lower silhouette, broad shouldered crown, one shared-vertex thick outward-bowed body, a complete finite perimeter rim and a seated low faceted centre boss. Two entire thick arched rear straps have four embedded finite mounting feet and real empty space between each arch and the body. One shield, no wearer, weapon, emblem, lettering or stand. Newly drawn defensive-costume art, not the old narrow surfboard with its fin removed or a welding hood with a viewing insert. Three opaque constant PBR materials, metres, horizontal bounds centred and lowest edge at ground. Static invented appearance only, no arm fit, protective or impact performance, balance, working fastening, historical precision, manufacturing or safety claim.",
+      "bounds": {
+        "x": 0.64,
+        "y": 0.33668173250303435,
+        "z": 1.14,
+        "unit": "m"
+      },
+      "triangles": 416,
+      "materials": 3,
+      "files": {
+        "glb": {
+          "path": "assets/military/military-fixed-convex-kite-shield-with-rear-loops-01/v1.0.0/model.glb",
+          "size": 29064,
+          "sha256": "8d1f344c1139f6c297417b80baec941d019fd096dde1de4efa1ee5d86abc50a3"
+        },
+        "blend": {
+          "path": "assets/military/military-fixed-convex-kite-shield-with-rear-loops-01/v1.0.0/source.blend",
+          "size": 581004,
+          "sha256": "a6561b8291e94416786dfeb4b6128c9c8f56feaaa4e8235ed6c80fa633e062d6"
+        },
+        "generator": {
+          "path": "assets/military/military-fixed-convex-kite-shield-with-rear-loops-01/v1.0.0/generate.py",
+          "size": 11796,
+          "sha256": "286dc6c4f9f780fc68c53b76490c8f1910dc1cf7b6d57d9d0220b26f9a966f6b"
+        },
+        "render": {
+          "path": "assets/military/military-fixed-convex-kite-shield-with-rear-loops-01/v1.0.0/thumbnail.png",
+          "size": 396424,
+          "sha256": "86032a4fbfe17e7f022bd8a14de50561335cd1b0e13854a635490a5ad1871b07"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-continuous-five-1392-volume02-20261024"
+    },
+    {
+      "id": "military-fixed-empty-chest-and-back-cuirass-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "military",
+      "style": "S01-clean-geometric",
+      "title": "Fixed Empty Chest and Back Cuirass",
+      "description": "One complete original empty static chest-and-back armour display. Two separately closed thick curved plate shells have a narrowed waist, widened chest, real concave side-arm contours and dipped neck edges. Two continuous thick shoulder bridges and two waist-side bands connect the front and back plates around an actually empty torso space; the upper neck opening, lateral arm spaces and lower waist remain physically open, with eight small solid fasteners seated at their connecting regions. No person, torso fill, mannequin, helmet, gauntlets or other outfit parts are included. All geometry newly authored, not an apron worker stripped of limbs or a backpack enlarged into armour. Three opaque constant PBR materials, metres, lowest waist datum, one model and zero scenes. Invented nonweapon military/fantasy costume appearance only; no wearable fit, exact anatomy, articulation, deformation, impact protection, historical precision, manufacturing or safety claim. No rig, animation or interaction is made or validated.",
+      "bounds": {
+        "x": 0.452,
+        "y": 0.3336068777667314,
+        "z": 0.5619841155951191,
+        "unit": "m"
+      },
+      "triangles": 1040,
+      "materials": 3,
+      "files": {
+        "glb": {
+          "path": "assets/military/military-fixed-empty-chest-and-back-cuirass-01/v1.0.0/model.glb",
+          "size": 64960,
+          "sha256": "8b7fb7819b19e4e1713701d422220e5873ff114634d2c450b0f0c7fee218e9e5"
+        },
+        "blend": {
+          "path": "assets/military/military-fixed-empty-chest-and-back-cuirass-01/v1.0.0/source.blend",
+          "size": 637828,
+          "sha256": "98e45ed204867a7995f9c97ed352cd830344456a8b56dc3c3e082557e79b156f"
+        },
+        "generator": {
+          "path": "assets/military/military-fixed-empty-chest-and-back-cuirass-01/v1.0.0/generate.py",
+          "size": 10875,
+          "sha256": "7ba1723bcd298528d8fdcb301e44f79a911a8c96682549078092adfc3ca92838"
+        },
+        "render": {
+          "path": "assets/military/military-fixed-empty-chest-and-back-cuirass-01/v1.0.0/thumbnail.png",
+          "size": 485593,
+          "sha256": "c0dc06fc4ba081202139c1d2f9863135d290fc321e41fb7c34bac601c07d9cc9"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-continuous-five-1392-volume02-20261024"
+    },
+    {
+      "id": "photography-fixed-twin-magazine-turret-cine-camera-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "photography",
+      "style": "S01-clean-geometric",
+      "title": "Fixed Twin Magazine Turret Cine Camera",
+      "description": "One newly authored complete static hand-cranked cine-camera-style exterior. A whole bevelled grounded drive body carries one continuous double-lobed sealed upper film-magazine shape with a separately proud whole matching lid. A complete front turret disc sits on its own hub and carries three unequal genuinely hollow lens barrels with recessed opaque optical-appearance discs. Two finite side roots carry a full longitudinal finder tube and rear eyecup. A whole open upper handle seats in the central magazine saddle; a separate side spindle, fixed crank arm and full grip belong to the lower body. No old tripod box, long-barrel grip camera, projector reel or lens geometry is imported. This is a new complete magazine/drive-body/three-lens-turret layout, not two discs added to a reused camera. Four opaque constant untextured PBR roles, metres, Z up and whole horizontal-bounds-centred finite body sole. One complete model, zero scenes. Static illustrative exterior only: internal film and transport are not modeled, and no optics, exposure, imaging, focus, turret selection, winding, motion, historical authenticity, interchangeable fit, handling, manufacture or safety claim. No tripod, film strip, brands, text, photographer or environment.",
+      "bounds": {
+        "x": 0.5,
+        "y": 0.44400000000000006,
+        "z": 0.637,
+        "unit": "m"
+      },
+      "triangles": 2844,
+      "materials": 4,
+      "files": {
+        "glb": {
+          "path": "assets/photography/photography-fixed-twin-magazine-turret-cine-camera-01/v1.0.0/model.glb",
+          "size": 132152,
+          "sha256": "3c146f12d4aa10a370c4aa75cb6feb7b52d75737d6804bd6095993bca3f04173"
+        },
+        "blend": {
+          "path": "assets/photography/photography-fixed-twin-magazine-turret-cine-camera-01/v1.0.0/source.blend",
+          "size": 809408,
+          "sha256": "082caca230795345dd310c7a7952b8935c0c68f0b264ed255034f590243fbccc"
+        },
+        "generator": {
+          "path": "assets/photography/photography-fixed-twin-magazine-turret-cine-camera-01/v1.0.0/generate.py",
+          "size": 12212,
+          "sha256": "521ab5dab71b64a7051986b8009c875ce7d3071e411d0586f3a6e07ec42273d8"
+        },
+        "render": {
+          "path": "assets/photography/photography-fixed-twin-magazine-turret-cine-camera-01/v1.0.0/thumbnail.png",
+          "size": 439221,
+          "sha256": "a0ad61668243d9315d5e8d81abd7a039c79f51dbfa155f6852e1955023492433"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-continuous-five-1392-volume02-20261024"
+    },
+    {
+      "id": "public-service-fixed-four-wheel-and-high-grip-rollator-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "public-service",
+      "style": "source-preserved-low-poly",
+      "title": "Fixed Four Wheel and High Grip Rollator",
+      "description": "One newly authored complete fixed four-wheel rollator-style public-service visual prop. Two continuous inclined side tubes rise from front caster forks into distinct high rearward handgrips; separate trailing legs and full seat rails support a low small seat. Four similarly sized whole tires, complete open forks and axles, a fixed bowed upper crosspad, and an empty thick tapered underseat bag with a visible forward mouth form the whole walking-support silhouette. Two distinct fixed brake-lever appearances and complete exterior cables finish the hand-control areas. This is not a manual wheelchair with its large handrims removed or a tall hamper cart shortened; all numerical geometry is original. One prop zero scenes, three opaque materials. Static artistic appearance only, no person, medical or rehabilitation suitability, posture or disability fit, folding, steering, braking, transmission, actual movement, ergonomic assessment, load, stability, manufacture, certification or safe mobility-device use claim. No rigging, animation or interaction is made.",
+      "bounds": {
+        "x": 0.6240000128746033,
+        "y": 0.7599999904632568,
+        "z": 0.9449999928474426,
+        "unit": "m"
+      },
+      "triangles": 3608,
+      "materials": 3,
+      "files": {
+        "glb": {
+          "path": "assets/public-service/public-service-fixed-four-wheel-and-high-grip-rollator-01/v1.0.0/model.glb",
+          "size": 331572,
+          "sha256": "b441602ab31de737633e42f53418595219eebf5fd6c8cf3c3110c39f6881f9be"
+        },
+        "blend": {
+          "path": "assets/public-service/public-service-fixed-four-wheel-and-high-grip-rollator-01/v1.0.0/source.blend",
+          "size": 1115552,
+          "sha256": "3a1a6afe6cb83db0cb22d26e6aa553214f6840e1727bd392acf4767099d6c192"
+        },
+        "generator": {
+          "path": "assets/public-service/public-service-fixed-four-wheel-and-high-grip-rollator-01/v1.0.0/generate.py",
+          "size": 16560,
+          "sha256": "be703a4533e983c48a883ae33ef54e85fda91cec6a33441b583d6764bbb8be82"
+        },
+        "render": {
+          "path": "assets/public-service/public-service-fixed-four-wheel-and-high-grip-rollator-01/v1.0.0/thumbnail.png",
+          "size": 509508,
+          "sha256": "522d755bf3eeae6f22cb2daa759299b1277cea744cf1cdb4c9cd8b9c7a4ef679"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-continuous-five-1392-volume02-20261024"
+    },
+    {
+      "id": "underwater-fixed-open-back-and-front-port-camera-housing-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "underwater",
+      "style": "source-preserved-low-poly",
+      "title": "Fixed Open Back and Front Port Camera Housing",
+      "description": "One newly authored complete static underwater-camera-housing display in an open-back pose. A single shared-vertex thick rectangular hollow main shell has a genuinely round forward port through its front wall. A full short front lens-port surround holds one opaque recessed illustrative insert. The rear opening is empty, with a complete shallow door permanently swung aside on two full hinge barrels and a long pin. Two independent complete side handles join the main housing, and a top control knob, shutter-like plunger and side latch remain subordinate hardware. No camera body, lens apparatus, diver or scenery is inserted or counted separately. Unlike a diving helmet this is an equipment box with a hinged access door and two handles, not a domed head shell with neck collar; unlike a bellows camera there are no bed rails, standards, bellows or screen. Every visible mesh is newly authored. One whole model, zero scenes, four opaque constant PBR materials, metres, Z up and horizontally centred ground origin. The empty housing and opaque port insert are static illustrative exterior art only, not compatible camera equipment. No optical transmission, sealing, pressure resistance, waterproofing, diving use, control operation, manufacture or safety claim. Rigging, animation and interaction are not made and are outside this static delivery.",
+      "bounds": {
+        "x": 0.628000020980835,
+        "y": 0.7343811988830566,
+        "z": 0.320499986410141,
+        "unit": "m"
+      },
+      "triangles": 1448,
+      "materials": 4,
+      "files": {
+        "glb": {
+          "path": "assets/underwater/underwater-fixed-open-back-and-front-port-camera-housing-01/v1.0.0/model.glb",
+          "size": 133016,
+          "sha256": "3f46e14e869c31eaeffd316ec7bc82158e0ff7787ebf426228ca07746aa63233"
+        },
+        "blend": {
+          "path": "assets/underwater/underwater-fixed-open-back-and-front-port-camera-housing-01/v1.0.0/source.blend",
+          "size": 788608,
+          "sha256": "6626d72bcfcfa25341088894369239214a9e4e5a2aa5d731bd6b0dcae0740034"
+        },
+        "generator": {
+          "path": "assets/underwater/underwater-fixed-open-back-and-front-port-camera-housing-01/v1.0.0/generate.py",
+          "size": 18306,
+          "sha256": "c8fa874e902416c92aebbe7fa39bd245021a2fc8bf86b98a47e9971e7fcfef4f"
+        },
+        "render": {
+          "path": "assets/underwater/underwater-fixed-open-back-and-front-port-camera-housing-01/v1.0.0/thumbnail.png",
+          "size": 511550,
+          "sha256": "28363f2a8d066bdb22de4260c18bc2dbec88c34234379e6537a596cc99c808e6"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-continuous-five-1392-volume02-20261024"
     }
   ]
 }
