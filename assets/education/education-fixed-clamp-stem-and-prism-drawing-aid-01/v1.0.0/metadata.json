@@ -1,0 +1,42 @@
+{
+  "id": "education-fixed-clamp-stem-and-prism-drawing-aid-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "education",
+  "style": "source-preserved-low-poly",
+  "title": "Fixed Clamp Stem and Prism Drawing Aid",
+  "description": "One newly authored complete fixed clamp-mounted prism drawing-aid appearance. One thick open C-clamp includes full top and lower jaws, a vertical screw, broad contact pad and lower thumb wheel. A single inclined outer sleeve and a narrower overlapping inner stem reach to a full elbow head and short overhanging carrier. At the end a continuous fork supports one solid finite triangular prism appearance, with a separate thick upper mask containing a genuine small viewing aperture. There is no microscope specimen stage or long ocular barrel, no paired-eye hood, card rail or imported old instrument part. The host desk and drawing are omitted. One whole prop, zero scenes; four opaque constant PBR materials, metres, Z up and horizontally bounds-centred lowest-knob datum. The pale prism is deliberately opaque, not transparent optical glass. All joints are fixed overlaps for illustration only. No transmitted image, ray path, optical performance, tracing accuracy, adjustable range, historical precision, desk compatibility, clamping force, manufacture or safe handling claim.",
+  "bounds": {
+    "x": 0.0820000022649765,
+    "y": 0.39899998903274536,
+    "z": 0.5979999899864197,
+    "unit": "m"
+  },
+  "triangles": 856,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/education/education-fixed-clamp-stem-and-prism-drawing-aid-01/v1.0.0/model.glb",
+      "size": 81184,
+      "sha256": "f489561fa127d0bb8e9a9a0244cb428039eca76e5fe8c14bb3adb88cbda07a8e"
+    },
+    "blend": {
+      "path": "assets/education/education-fixed-clamp-stem-and-prism-drawing-aid-01/v1.0.0/source.blend",
+      "size": 708192,
+      "sha256": "091ae0fad81e3180dc212c44dfc00116c6ef2c98232a0953e517c118107dbffa"
+    },
+    "generator": {
+      "path": "assets/education/education-fixed-clamp-stem-and-prism-drawing-aid-01/v1.0.0/generate.py",
+      "size": 17259,
+      "sha256": "bb633ce68e047796f3e8c33ee526c066d770c3000f8666a0476eccea8e38357a"
+    },
+    "render": {
+      "path": "assets/education/education-fixed-clamp-stem-and-prism-drawing-aid-01/v1.0.0/thumbnail.png",
+      "size": 478063,
+      "sha256": "fd6bfdaaae7e0366f176a8fafeba1ff9965a9ca9a1ad240e693ad963cda97148"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "professional-fixed-three-strand-and-guide-rope-twisting-bench-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "professional",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Three Strand and Guide Rope Twisting Bench",
+  "description": "One newly authored complete fixed rope-craft twisting-bench exterior. Two broad ground stands and full crossheads support a long open two-rail bed. A complete shaped head plate carries three independent longitudinal axles and open C-shaped hook bars, with distinct rear wheel/crank appearances supported on their own shafts. A separate low slider crossbar and pedestal carry one whole thick separator block with three true through guides. A distant complete tapered tailstock carries a full end shaft and capture eye. Three independently editable continuous finite-thickness strands run from the three hooks, pass separately through their respective guides, converge and form a fixed helical bundle ending at the far eye. No old winch drum, ratchet/pawl, four-wing winding cage, spool frame or existing rope-coil geometry is reused. The entire new longitudinal strand-forming relation, rather than hook count or wood colour, defines this whole object. Four opaque constant untextured PBR roles, metres, native Z up and actual horizontal-bounds-centred ground datum. One model, zero scenes, no operator or surroundings. Fixed illustrative craft-device exterior only: axially offset wheel appearances do not establish actual meshing gears or a transmission; no rotation, carriage movement, strand tension, fiber twist, rope formation, production rate, rope length or strength, mechanical advantage, working fastener, manufacture, ergonomics, stability, bearing load or safety claim.",
+  "bounds": {
+    "x": 1.755,
+    "y": 0.58,
+    "z": 1.08,
+    "unit": "m"
+  },
+  "triangles": 7180,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/professional/professional-fixed-three-strand-and-guide-rope-twisting-bench-01/v1.0.0/model.glb",
+      "size": 486444,
+      "sha256": "709ca836677ec91976d2f82f79186562f2ff179ee79f35868ff3919deed08621"
+    },
+    "blend": {
+      "path": "assets/professional/professional-fixed-three-strand-and-guide-rope-twisting-bench-01/v1.0.0/source.blend",
+      "size": 1067460,
+      "sha256": "807fd54ed63eedd3c3c075cc4edbfb3ae0f2c44501daf490ae68fdd3a6169ebc"
+    },
+    "generator": {
+      "path": "assets/professional/professional-fixed-three-strand-and-guide-rope-twisting-bench-01/v1.0.0/generate.py",
+      "size": 30372,
+      "sha256": "be77819dd7fa26ff9ef2e875d0c4f29d29ed3974d3e76be023f872e70599b922"
+    },
+    "render": {
+      "path": "assets/professional/professional-fixed-three-strand-and-guide-rope-twisting-bench-01/v1.0.0/thumbnail.png",
+      "size": 540079,
+      "sha256": "abf859c660de0d729f7ccbbb9eda8f1f4252ca6bc555d715f1b369a30eaf7173"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

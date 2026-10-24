@@ -1,0 +1,42 @@
+{
+  "id": "technology-fixed-slotted-drum-and-counter-carriage-calculator-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "technology",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Slotted Drum and Counter Carriage Calculator",
+  "description": "One newly authored whole fixed hand-crank mechanical-calculator exterior. Four feet and a chamfered low base support a complete raised arched selector casing with seven real curved through-slots and two full rounded end cheeks. Seven independent continuous radial selector levers run from the full transverse axle through different parts of the real slots to finite grips. A separate complete low counter carriage projects to the right: floor, long walls and end cheeks support one thick connected nine-window plate with real apertures, revealing individual blank drums below. A high right offset crank has a full hub, radial arm and axial grip; lower carriage-end stems and reset knobs belong to the same machine. No keyboard, till drawer, paper roller, typebar fan, screen, numbers, text or texture. Every numeric construction is newly authored; no old cash register or typewriter meshes stripped, rescaled or recombined. One prop, zero scenes, four opaque constant untextured PBR roles, metres, native Z up and actual horizontal-bounds-centred ground origin. Fixed stylized professional technology exhibit only: no arithmetic result, input digit mapping, accuracy, counter carry, gear train, calculating linkage, selector movement, crank operation, carriage travel, reset function, historical reproduction, manufacture, ergonomics, stability or machinery safety claim.",
+  "bounds": {
+    "x": 0.457,
+    "y": 0.325,
+    "z": 0.219978,
+    "unit": "m"
+  },
+  "triangles": 4076,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/technology/technology-fixed-slotted-drum-and-counter-carriage-calculator-01/v1.0.0/model.glb",
+      "size": 195968,
+      "sha256": "4be904a089ddff0e4846968b4935567e99dfa13bf880fc32aaf05925dbc75c65"
+    },
+    "blend": {
+      "path": "assets/technology/technology-fixed-slotted-drum-and-counter-carriage-calculator-01/v1.0.0/source.blend",
+      "size": 970452,
+      "sha256": "edeefb127b47135961fa6b429977539fc68f704cefc2dc39a328610d1c3b6f59"
+    },
+    "generator": {
+      "path": "assets/technology/technology-fixed-slotted-drum-and-counter-carriage-calculator-01/v1.0.0/generate.py",
+      "size": 29766,
+      "sha256": "4920acf7089577a18ba6b821fe0e761a20f7c5852a5d93db6d94f6767e2d6c0b"
+    },
+    "render": {
+      "path": "assets/technology/technology-fixed-slotted-drum-and-counter-carriage-calculator-01/v1.0.0/thumbnail.png",
+      "size": 542089,
+      "sha256": "f6f5f05545344f9c86c1e2b43616f83ad08916666abfd0dcfa25d386b611f08b"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

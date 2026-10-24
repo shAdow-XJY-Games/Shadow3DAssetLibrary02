@@ -1,0 +1,42 @@
+{
+  "id": "sports-fixed-ridged-blade-v-spliced-cricket-bat-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "sports",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Ridged Blade V-Spliced Cricket Bat",
+  "description": "One newly authored complete static cricket-bat exterior lying on its full flat front face. A long broad shouldered blade has a genuinely varying thick rear spine, thin finite outer edges and a full-depth stopped V opening at its upper shoulder. A separate whole handle has a matching long V tongue, a short shape-changing shoulder transition and an octagonal round grip with a dark face-material region. The tongue side faces coincide with the actual sloping splice boundaries; no decorative pasted V stripe or floating grip. Unlike the old continuous rotational baseball barrel or constant-thickness oval table-tennis blade with opposed scales, this is a new complete ridged blade and socketed handle construction. Two closed editable meshes and three opaque constant untextured PBR roles, native metres and Z up, whole horizontally bounds-centred ground origin. One complete prop, zero scenes; handle is not a separate counted asset. Static illustrative appearance only: no regulation equipment dimensions, wood construction prescription, impact behavior, strength, hand fit, sporting performance, playability, manufacture or safety claim. No ball, player, markings, texture, rig or scene.",
+  "bounds": {
+    "x": 0.87,
+    "y": 0.128,
+    "z": 0.052,
+    "unit": "m"
+  },
+  "triangles": 152,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/sports/sports-fixed-ridged-blade-v-spliced-cricket-bat-01/v1.0.0/model.glb",
+      "size": 11100,
+      "sha256": "c1c6323bb79a1043fe058c30aa78584ceed90921ee3f192480ef83fa4b1834a5"
+    },
+    "blend": {
+      "path": "assets/sports/sports-fixed-ridged-blade-v-spliced-cricket-bat-01/v1.0.0/source.blend",
+      "size": 534436,
+      "sha256": "463eab0110948815acc9c3294d76f9796e9ff94bbf977eb7ca21b0ead31f3cf0"
+    },
+    "generator": {
+      "path": "assets/sports/sports-fixed-ridged-blade-v-spliced-cricket-bat-01/v1.0.0/generate.py",
+      "size": 11319,
+      "sha256": "f8e75c043e9fa38d96b5dde16df6b8ab85065553354d07011b842a274df58065"
+    },
+    "render": {
+      "path": "assets/sports/sports-fixed-ridged-blade-v-spliced-cricket-bat-01/v1.0.0/thumbnail.png",
+      "size": 302057,
+      "sha256": "dce6e2acd5dc5ba2fc13674489ebc1bf1542545a29cc4e453e213e821fdb0199"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

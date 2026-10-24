@@ -1,0 +1,42 @@
+{
+  "id": "animal-static-single-hump-swept-neck-camel-01",
+  "version": "1.0.0",
+  "category": "modular",
+  "assetKind": "prop",
+  "theme": "animal",
+  "style": "warm-handcrafted-village",
+  "title": "Static Single-Hump Swept-Neck Camel",
+  "description": "One newly authored whole stylised single-hump camel-like animal in a fixed grounded pose. A deep torso rises into one broad-based high dorsal hump in the very same continuous skin. Its front neck root sweeps low and forwards before curving upwards into a small elongated blunt head, rather than a straight stretched giraffe neck. Four long joint-shaped legs end in broad thick two-lobed pad feet with shallow front clefts; two small thick ears, low lateral eyes and a hanging tapered tufted tail complete the whole. All body sections, curved neck/head and appendage outlines are newly authored, not old deer or giraffe arrays with antlers removed or hump decoration attached. One animal prop, zero scenes; no saddle or rider. Static artistic exterior only, no exact species/anatomy, riding, load capacity, gait, animal handling or biological claim.",
+  "bounds": {
+    "x": 0.670000017,
+    "y": 2.673232794,
+    "z": 1.799999952,
+    "unit": "m"
+  },
+  "triangles": 1872,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/animal/animal-static-single-hump-swept-neck-camel-01/v1.0.0/model.glb",
+      "size": 107492,
+      "sha256": "5dc48f845b15871a9455b9f38f59858d2d248298a06bdfee61216a76f3ebf4d2"
+    },
+    "blend": {
+      "path": "assets/animal/animal-static-single-hump-swept-neck-camel-01/v1.0.0/source.blend",
+      "size": 629760,
+      "sha256": "afee08976ad30562ef9e32c573488e2d9fbcd807b8dc95801671aa0249c3a471"
+    },
+    "generator": {
+      "path": "assets/animal/animal-static-single-hump-swept-neck-camel-01/v1.0.0/generate.py",
+      "size": 29961,
+      "sha256": "b3db8b57b7c85b71d0bf473f97ec5e8abfe54010147deef4178d07cc60838255"
+    },
+    "render": {
+      "path": "assets/animal/animal-static-single-hump-swept-neck-camel-01/v1.0.0/thumbnail.png",
+      "size": 492866,
+      "sha256": "97d0e4f2bbe7189912e1bfeb376979d4fb0263c7cc3c61e4c843041a13149c4c"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

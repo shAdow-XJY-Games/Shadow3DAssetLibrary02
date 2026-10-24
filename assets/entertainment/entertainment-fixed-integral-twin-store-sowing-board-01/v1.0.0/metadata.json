@@ -1,0 +1,42 @@
+{
+  "id": "entertainment-fixed-integral-twin-store-sowing-board-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "entertainment",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Integral Twin-Store Sowing Board",
+  "description": "One newly authored complete static empty sowing-game board. A single connected solid wooden body includes two parallel rows of deep dished blind receiving wells and two much longer full-width end stores, a continuous finite surrounding rim and a complete ground underside. All cavity floors, sloping walls, top bridges, outer walls and underside share actual indexed vertices; no intersecting inserted bowls, hidden support box or overlaid color patches. This whole longitudinal cavity network differs from the existing circular pegged disc field and annular ditch, and from an assembled plank seedling tray with a single soil bed. New full geometry, not a resized old board or a different number of separately copied containers. One editable closed mesh, two opaque constant untextured PBR wood roles assigned to existing faces, metres, native Z up and whole ground-centred origin. One complete prop, zero scenes. Empty static illustrative art only: no stones, counted playable set, named regional rules, scoring simulation, probability, cultural reconstruction, child suitability, manufacture or toy-safety claim.",
+  "bounds": {
+    "x": 0.64,
+    "y": 0.19,
+    "z": 0.048,
+    "unit": "m"
+  },
+  "triangles": 960,
+  "materials": 2,
+  "files": {
+    "glb": {
+      "path": "assets/entertainment/entertainment-fixed-integral-twin-store-sowing-board-01/v1.0.0/model.glb",
+      "size": 41608,
+      "sha256": "6687160abda2fdba6db80c71daeff8de534567249ca9a8239bbdf078bde63890"
+    },
+    "blend": {
+      "path": "assets/entertainment/entertainment-fixed-integral-twin-store-sowing-board-01/v1.0.0/source.blend",
+      "size": 550264,
+      "sha256": "5781bbdbf2bf5e409decde4ebe4a1f5551bec8b9e7c7755ed5bde12cdc47621a"
+    },
+    "generator": {
+      "path": "assets/entertainment/entertainment-fixed-integral-twin-store-sowing-board-01/v1.0.0/generate.py",
+      "size": 10721,
+      "sha256": "92e05923f60af7623193155e327717adba0f1ba114da42c7fd9e913efce96a4e"
+    },
+    "render": {
+      "path": "assets/entertainment/entertainment-fixed-integral-twin-store-sowing-board-01/v1.0.0/thumbnail.png",
+      "size": 392147,
+      "sha256": "0e28cf7373001845d8bddd49533f6c5b2de56bb29afc223e1117385491a96a22"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
