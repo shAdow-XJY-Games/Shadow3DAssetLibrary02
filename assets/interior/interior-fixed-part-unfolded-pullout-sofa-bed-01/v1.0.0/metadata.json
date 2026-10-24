@@ -1,0 +1,42 @@
+{
+  "id": "interior-fixed-part-unfolded-pullout-sofa-bed-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "interior",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Part Unfolded Pullout Sofa Bed",
+  "description": "One original complete sofa with its own partly unfolded pullout bed carrier. A low upholstered back shell, two complete arms, rear underframe, anchor blocks and four feet surround the rear section of one continuous three-frame folding assembly. Two whole rectangular bed frames lie out in front on two complete grounded U supports, while the third whole foot frame remains angled upward about its real end-to-end hinge pins. Three separate thick mattress sections rest on their respective complete open frames and cross supports; rear carrier links join the assembly to the sofa anchors. No imported sofa or separate bed is placed as a scene. This low internally folding carrier differs from the ordinary fixed two-seat sofa and tall cabinet wall-bed with one full pivoting mattress. Three constant opaque PBR materials, metres Z up, true XY envelope centred, grounded soles, one complete prop and zero scenes. Fixed partly unfolded appearance only; no sleeping surface usability, full folding clearance, pullout travel, upholstery simulation, comfort, load, balance, installation or safety claim.",
+  "bounds": {
+    "x": 1.81,
+    "y": 2.3079937725707715,
+    "z": 0.99,
+    "unit": "m"
+  },
+  "triangles": 1384,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/interior/interior-fixed-part-unfolded-pullout-sofa-bed-01/v1.0.0/model.glb",
+      "size": 88620,
+      "sha256": "d9a3b0d82352b79ab63ffb6a9952920b8fa281e12193b4c7995e1ac9c52e50ce"
+    },
+    "blend": {
+      "path": "assets/interior/interior-fixed-part-unfolded-pullout-sofa-bed-01/v1.0.0/source.blend",
+      "size": 762580,
+      "sha256": "37482d1f90a386cd5b6375bc8c81851dda6fe893841c84b7af76a7e32468cca1"
+    },
+    "generator": {
+      "path": "assets/interior/interior-fixed-part-unfolded-pullout-sofa-bed-01/v1.0.0/generate.py",
+      "size": 11933,
+      "sha256": "7f73330979290a5ac79a0cc89d11df3bccd091b9964249161d0a44a4a0cd22c7"
+    },
+    "render": {
+      "path": "assets/interior/interior-fixed-part-unfolded-pullout-sofa-bed-01/v1.0.0/thumbnail.png",
+      "size": 422568,
+      "sha256": "676ea3a6793eb570a0d50c3df0043fded871c64baad679dccbf6d642c8cc227e"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "toys-fixed-raised-spring-puppet-crank-box-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "music",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Raised Spring Puppet Crank Box",
+  "description": "One newly authored complete fixed raised spring-puppet toy-box appearance. A deep whole red case has a true open cavity, floor and walls, with a recessed lid fixed back on hinge pins and stays. One continuous 5.5-turn closed helical spring joins the inner floor mount to a full flared puppet torso and neck. A new closed rounded toy head, simple blank eyes, round nose and conical cap are permanently attached above it. A through-bearing side shaft and crank grip are fixed on the case. No old bird rider body or saddle, no music-box pinned drum or comb and no shape-sorter pieces are imported: the complete deep-box/raised-coil/puppet exterior is independently authored, counted as one toy not separate character or spring assets. Three opaque constant untextured PBR roles; metres, Z up, whole horizontally centred finite ground sole. One model and zero scenes. Static nonfunctional art only: no concealed gearing, catch or release, stored energy, actual popping, cranking, spring motion, surprise effect, age suitability, pinch or swallowing protection, toy certification, fabrication or safety claim.",
+  "bounds": {
+    "x": 0.495,
+    "y": 0.4716,
+    "z": 1.125,
+    "unit": "m"
+  },
+  "triangles": 3740,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/music/toys-fixed-raised-spring-puppet-crank-box-01/v1.0.0/model.glb",
+      "size": 261356,
+      "sha256": "fb36ee718b158c0966318cf50292e472c81dfc0400aaeff4f8258859ce89841a"
+    },
+    "blend": {
+      "path": "assets/music/toys-fixed-raised-spring-puppet-crank-box-01/v1.0.0/source.blend",
+      "size": 811320,
+      "sha256": "47b127493f73ad5c6c5328ec97aa01065acab1828fb55b99fd6f09055f7c22e7"
+    },
+    "generator": {
+      "path": "assets/music/toys-fixed-raised-spring-puppet-crank-box-01/v1.0.0/generate.py",
+      "size": 11867,
+      "sha256": "1c939af634310eb5d7b3c772af934771f3b853c69c60fab3ca656638e5f3c8f2"
+    },
+    "render": {
+      "path": "assets/music/toys-fixed-raised-spring-puppet-crank-box-01/v1.0.0/thumbnail.png",
+      "size": 422042,
+      "sha256": "bca0b41620d6db091fd56172201da1fd574390057c014c912f86fb786010acbc"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

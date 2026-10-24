@@ -1,0 +1,42 @@
+{
+  "id": "professional-fixed-three-foot-blank-disc-spherometer-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "professional",
+  "style": "source-preserved-low-poly",
+  "title": "Fixed Three Foot Blank Disc Spherometer",
+  "description": "One newly authored complete static three-foot spherometer appearance. Three equal-height integral finite-foot legs support three full radial arms and one genuinely bored central boss. A vertical central spindle with a separate continuous finite helical thread appearance extends below the frame without touching the ground, and carries a broad blank circular wheel with a short top grip. One rear arm supports a slim upright index post and a small blank fixed index blade above the wheel edge. The three feet, open inter-arm spaces and central spindle are all complete visible geometry; no C-shaped micrometer jaw, surveying telescope or old tripod meshes reused. One prop, zero scenes, four constant opaque PBR materials. No graduations, readings or calibrated screw pitch. Deliberate fixed root overlaps are not running-thread clearances. Static illustrative tool only: no curvature, depth or radius measurement, adjustment, metrology accuracy, working thread, manufacture, stability or safety guarantee.",
+  "bounds": {
+    "x": 0.245826855301857,
+    "y": 0.2128923088312149,
+    "z": 0.20999999344348907,
+    "unit": "m"
+  },
+  "triangles": 5048,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/professional/professional-fixed-three-foot-blank-disc-spherometer-01/v1.0.0/model.glb",
+      "size": 434448,
+      "sha256": "f68ec48ce5599de75cdb3348eb6c117ea031978a1f9120688b202876a0715b5b"
+    },
+    "blend": {
+      "path": "assets/professional/professional-fixed-three-foot-blank-disc-spherometer-01/v1.0.0/source.blend",
+      "size": 1182400,
+      "sha256": "09c1e5af8299b6f08f372c0f0c12d0a8efe5a1fed818ac9505e39b727302c5d1"
+    },
+    "generator": {
+      "path": "assets/professional/professional-fixed-three-foot-blank-disc-spherometer-01/v1.0.0/generate.py",
+      "size": 17304,
+      "sha256": "2a52e9dc722ff070e398b5e10fe1f77c0aec7c7821506fd61efe5d160e52fe1a"
+    },
+    "render": {
+      "path": "assets/professional/professional-fixed-three-foot-blank-disc-spherometer-01/v1.0.0/thumbnail.png",
+      "size": 498014,
+      "sha256": "e8542bf1f0566a43b1172e643549a65ac4307e402a651e7ac300743126c0d7de"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
