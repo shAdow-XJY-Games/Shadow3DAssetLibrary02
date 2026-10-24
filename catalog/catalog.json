@@ -1189,6 +1189,11 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary02",
       "commit": "513a9ff602aa6d7022cbac87288b8bf5f12270f8"
+    },
+    "original-continuous-two-1417-volume02-20261025": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary02",
+      "commit": "9c9391f008cfa412f98a30ba8ff4fdc7340d3f2f"
     }
   },
   "assets": [
@@ -35290,6 +35295,92 @@
       "status": "verified",
       "license": "All rights reserved",
       "sourceId": "original-one-model-two-scenes-1415-volume02-20261025"
+    },
+    {
+      "id": "military-fixed-upright-crossarm-quintain-display-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "military",
+      "style": "S01-clean-geometric",
+      "title": "Fixed Upright Crossarm Quintain Display",
+      "description": "One complete original fixed quintain-style camp display exterior. A wide crossed grounded base and four whole diagonal braces support a tall central post; the upper vertical spindle passes through a complete thick arm-head collar beneath a retaining cap. One whole elevated horizontal crossarm connects a broad shaped timber target board at one end and a genuine hanging-eye, alternating closed links and one complete shouldered sack at the opposite end. No weapon, projectile, person or old prop is imported. Unlike the old low horizontal-shaft two-seat seesaw, fixed three-front-arm wooden dummy, or rear-offset braced heavy-bag cantilever, the new whole structure centres on the vertical head/post and asymmetric two-ended arm relationship. One prop, zero scenes, three opaque constant PBR materials, metres, whole horizontal bounds-centred ground origin. Fixed artistic appearance only: no rig, animation, working rotation, striking action, training technique or efficacy, historical precision, balance, load, manufacture or equipment safety claim.",
+      "bounds": {
+        "x": 2.015,
+        "y": 0.88,
+        "z": 2.1,
+        "unit": "m"
+      },
+      "triangles": 1916,
+      "materials": 3,
+      "files": {
+        "glb": {
+          "path": "assets/military/military-fixed-upright-crossarm-quintain-display-01/v1.0.0/model.glb",
+          "size": 95948,
+          "sha256": "db4660a5e19c3fb3b95ef507a3f3e891e9d16a03bbe49f5053394759fbd21f86"
+        },
+        "blend": {
+          "path": "assets/military/military-fixed-upright-crossarm-quintain-display-01/v1.0.0/source.blend",
+          "size": 708064,
+          "sha256": "d41836784a15bd6831c6c1314a039fb689c6c5b5ebec25923dee558650cb781a"
+        },
+        "generator": {
+          "path": "assets/military/military-fixed-upright-crossarm-quintain-display-01/v1.0.0/generate.py",
+          "size": 10719,
+          "sha256": "379d84830077631d33da5f148c6fd7ff42a7f97ea90b1ddaddb07697302e566d"
+        },
+        "render": {
+          "path": "assets/military/military-fixed-upright-crossarm-quintain-display-01/v1.0.0/thumbnail.png",
+          "size": 407206,
+          "sha256": "69c679ca9c7e3552c5f2a424733a8e153ee30a0dadcac3914376bd0f6dcd9c0a"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-continuous-two-1417-volume02-20261025"
+    },
+    {
+      "id": "music-fixed-arched-shell-and-staggered-bridge-zither-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "music",
+      "style": "S01-clean-geometric",
+      "title": "Fixed Arched Shell and Staggered Bridge Zither",
+      "description": "One newly authored whole static long arched zither appearance. A complete thin-walled soundbox shell has a true faceted barrel-arched top, thick sides and a broad finite flat bottom; two closed material end pieces complete its internal hollow chamber. Two continuous curved end bridges follow the actual soundboard. Fourteen independent complete two-foot triangular bridges are staggered diagonally along the board, each with a finite crown and its own continuous lengthwise string running from real rear pin across the rear bank and bridge to the front bank and pin. The bridges have genuine small open throats between their two material feet, not printed triangular symbols. New full numeric construction, not a scaled trapezoid dulcimer or changed count of transverse doubled strings: no twin uninterrupted central bridges, neck or membrane pot. Three opaque constant untextured PBR roles, metres, Z up, true horizontal-envelope-centred ground origin. One model, zero scenes. The internal chamber is modeled but not claimed visible in the hero. Generic simplified instrument appearance, not a historical replica or specification. Static only: bridge adjustment, string tension, tuning, regional authenticity, sound, acoustics, playability and manufacture are not verified.",
+      "bounds": {
+        "x": 0.44,
+        "y": 1.584,
+        "z": 0.25083363751761406,
+        "unit": "m"
+      },
+      "triangles": 3056,
+      "materials": 3,
+      "files": {
+        "glb": {
+          "path": "assets/music/music-fixed-arched-shell-and-staggered-bridge-zither-01/v1.0.0/model.glb",
+          "size": 192104,
+          "sha256": "620a979183365bbf4e0df092a18c01f8bedf7c1bb731aa318b8db3efb3bcb1f6"
+        },
+        "blend": {
+          "path": "assets/music/music-fixed-arched-shell-and-staggered-bridge-zither-01/v1.0.0/source.blend",
+          "size": 1028484,
+          "sha256": "c64741623bb956dc07f4c6bd01352a699a3ce7fdf4ab217404d9d71abe6dba29"
+        },
+        "generator": {
+          "path": "assets/music/music-fixed-arched-shell-and-staggered-bridge-zither-01/v1.0.0/generate.py",
+          "size": 12405,
+          "sha256": "6f155a3bce494cd7b7a248c2769ab30dbf97a16fd12d51cdb3928026019522a7"
+        },
+        "render": {
+          "path": "assets/music/music-fixed-arched-shell-and-staggered-bridge-zither-01/v1.0.0/thumbnail.png",
+          "size": 474163,
+          "sha256": "0a01066cb4854b9acc8a5ba469ace74d669a37d2ce371975750a3ab487ad254a"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-continuous-two-1417-volume02-20261025"
     }
   ]
 }
