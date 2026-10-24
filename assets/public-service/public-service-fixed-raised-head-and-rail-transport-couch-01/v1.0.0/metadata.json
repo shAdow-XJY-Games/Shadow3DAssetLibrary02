@@ -1,0 +1,42 @@
+{
+  "id": "public-service-fixed-raised-head-and-rail-transport-couch-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "public-service",
+  "style": "source-preserved-low-poly",
+  "title": "Fixed Raised Head and Rail Transport Couch",
+  "description": "One original complete fixed raised-head transport-couch visual prop. Four equal small tires in full open forks support a narrow open lower chassis. Two independent layered crossed supports carry a long upper platform with a separate fixed inclined head panel and cushion. Two raised open tubular side barriers with full intermediate stanchions, a separate head-end push handle and distinct fixed pivot exteriors complete the whole medical transport furniture silhouette. Newly authored complete geometry, not the old bed with wheels or a renamed cargo lift. One prop zero scenes, three opaque materials. Static unoccupied artistic exterior only: no actual patient transport, lifting, folding, adjustment, wheel steering, brake action, force, load, stability, ergonomics, hygiene, clinical suitability, certification or medical-device safety claim. No rigging animation or interaction is supplied.",
+  "bounds": {
+    "x": 0.7379999756813049,
+    "y": 1.9670000076293945,
+    "z": 1.3339999914169312,
+    "unit": "m"
+  },
+  "triangles": 3256,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/public-service/public-service-fixed-raised-head-and-rail-transport-couch-01/v1.0.0/model.glb",
+      "size": 306660,
+      "sha256": "03868fccdcea62841ec799544dcac7e1ac417fad67982e88f2232a6d9c8921e6"
+    },
+    "blend": {
+      "path": "assets/public-service/public-service-fixed-raised-head-and-rail-transport-couch-01/v1.0.0/source.blend",
+      "size": 1113760,
+      "sha256": "38b29e653b84d562ed21c96c468027e8ec877375d8391449e585e5bac438ba5e"
+    },
+    "generator": {
+      "path": "assets/public-service/public-service-fixed-raised-head-and-rail-transport-couch-01/v1.0.0/generate.py",
+      "size": 16448,
+      "sha256": "c09722334565ab5266db7f9930804aaea02f036828aab6196044fbda8e6214ea"
+    },
+    "render": {
+      "path": "assets/public-service/public-service-fixed-raised-head-and-rail-transport-couch-01/v1.0.0/thumbnail.png",
+      "size": 518270,
+      "sha256": "1ec453c89e00e6f5b285491a917d15d4a09ed74b7f65eca8d77439d1e4055752"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
