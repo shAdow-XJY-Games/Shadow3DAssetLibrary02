@@ -1,0 +1,42 @@
+{
+  "id": "photography-fixed-parallel-arm-and-level-carrier-camera-jib-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "photography",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Parallel Arm and Level Carrier Camera Jib",
+  "description": "One newly authored whole static empty camera jib. Four broad ground pads, two long rails and a full crossmember support an upright stepped column with two full braces and a high two-cheek fork. Two complete parallel arms run from the paired rear axes to two real far axes; the upper arm continues behind the column as a full tail carrying a bored counterweight and fixed grip. All four transverse pins span their complete cheeks and arms. Two full far carrier cheeks connect both forward axes and the cross-seat beneath them, ending in an empty horizontal camera mounting plate. It is not a single grip-boom stand with a spigot, a one-arm hydraulic shop crane with a hook, or a gate boom with a separate catchpost. Entirely new numeric geometry, no imported old asset. Three opaque constant untextured PBR materials, metres, Z up, actual horizontal-bounds-centred ground origin. One model and zero scenes. Fixed illustrative art only; no camera, payload, real bearings, rigging, animation, automatic leveling, movement range, balance, load rating, manufacture, operation or equipment-safety claim.",
+  "bounds": {
+    "x": 2.6849999999999996,
+    "y": 0.95,
+    "z": 2.23,
+    "unit": "m"
+  },
+  "triangles": 1884,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/entertainment/photography-fixed-parallel-arm-and-level-carrier-camera-jib-01/v1.0.0/model.glb",
+      "size": 104340,
+      "sha256": "36a1b3e0213aa71d056dfc2cc19c06190068538a3bf352c2c4aec0bb9e0a55b2"
+    },
+    "blend": {
+      "path": "assets/entertainment/photography-fixed-parallel-arm-and-level-carrier-camera-jib-01/v1.0.0/source.blend",
+      "size": 789608,
+      "sha256": "3ebc115f8332060aac9b260917da7105101b98b35703de94d8a10cf7f0cdf351"
+    },
+    "generator": {
+      "path": "assets/entertainment/photography-fixed-parallel-arm-and-level-carrier-camera-jib-01/v1.0.0/generate.py",
+      "size": 12186,
+      "sha256": "2b7bdd1dfd2233be19c6fc7d3f4e9e759aff228afc4d80b90612ab20c19347f6"
+    },
+    "render": {
+      "path": "assets/entertainment/photography-fixed-parallel-arm-and-level-carrier-camera-jib-01/v1.0.0/thumbnail.png",
+      "size": 355403,
+      "sha256": "950969498a7bd61d49318337baf1585a7992a7568e5168b127ad62df51a3a439"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

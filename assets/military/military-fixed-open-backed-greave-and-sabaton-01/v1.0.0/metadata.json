@@ -1,0 +1,42 @@
+{
+  "id": "military-fixed-open-backed-greave-and-sabaton-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "military",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Open Backed Greave and Sabaton",
+  "description": "One complete original empty fixed lower-leg costume armour assembly. A tall thick curved shin channel remains open at the back, with a wider separate curved knee cup, visible paired finite ankle axis caps, and a forward-projecting roof of overlapping thick arched foot plates. The foot underside is genuinely open; there is no inner foot, boot sole, closed inner floor, tall closed boot shaft, lace, hidden stand or wearer. All geometry is new, not a recoloured or stretched winter boot and not a gauntlet finger moved into a leg pose. The tall open channel to low broad forward foot roof is the defining complete silhouette, not the number of plates. One static prop, zero scenes, three opaque constant PBR materials, metres and whole bounds-centred ground origin. Fixed invented military/fantasy costume appearance only: no rig, animation, working joint, wearer fit, anatomical or historical accuracy, protective performance, fabrication or safety claim.",
+  "bounds": {
+    "x": 0.23766433649797689,
+    "y": 0.39575399708983894,
+    "z": 0.544,
+    "unit": "m"
+  },
+  "triangles": 1444,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/military/military-fixed-open-backed-greave-and-sabaton-01/v1.0.0/model.glb",
+      "size": 84036,
+      "sha256": "fca6bc6568edbf38268f99e3774b88d0cbc49c9bbd4ea25b3a48b87c94fa13d9"
+    },
+    "blend": {
+      "path": "assets/military/military-fixed-open-backed-greave-and-sabaton-01/v1.0.0/source.blend",
+      "size": 650404,
+      "sha256": "dca34271c29e24d0df1eb95d26e2c96c743c715c33f29fc9280daffc905d0e5e"
+    },
+    "generator": {
+      "path": "assets/military/military-fixed-open-backed-greave-and-sabaton-01/v1.0.0/generate.py",
+      "size": 10797,
+      "sha256": "0f487b3b3cfa6d0c9da774b06b234972aa9550caf0151e9b4ad573db57e910dc"
+    },
+    "render": {
+      "path": "assets/military/military-fixed-open-backed-greave-and-sabaton-01/v1.0.0/thumbnail.png",
+      "size": 363515,
+      "sha256": "1fc12d7c9cce2ac4cab106c5e2fecf2061656a9b94e6f8c0dfba494bdba226d9"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

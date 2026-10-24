@@ -1,0 +1,42 @@
+{
+  "id": "professional-whole-printing-and-book-sewing-workcorner-scene-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "professional",
+  "style": "source-preserved-low-poly",
+  "title": "Whole Printing and Book Sewing Workcorner",
+  "description": "One static publishing and traditional bookmaking workcorner, one scene and zero new independent models. An unchanged complete raised crank desk and complete open worktable stand at right angles as separated arms of an L: the higher rear-left desk supports the whole fixed-open platen printing press on both entire original long shoes, turned by an exact quarter turn, while the forward-right table supports the entire slotted-bed book-sewing frame and its single blank textblock. The original empty open bookcase stands separately beyond the two stations. All five complete distinct model instances retain their original mesh attributes, index payloads, per-face material assignments, complete material dictionaries and internal node hierarchy at unit scale; only exact quarter-turn parent matrices and translations are added. Both full press shoes stay on the actual wider desk top; the whole unchanged desk crank and support columns remain present, with no lowered or resized geometry. A single finite low floor defines a common empty front approach area. Not the earlier two parallel laboratory tables or the one-table alchemy corner, not a stack of extra books, and not new variants of the tables or machines. Static visual display only: no printing, ink transfer, sewn page connection, tension adjustment, linkage motion, working production flow, human access compliance, load, stability or safety assurance. Rigging, animation and interaction are not made and are outside this static scene.",
+  "bounds": {
+    "x": 3.4000000953674316,
+    "y": 3.200000047683716,
+    "z": 2.2764410972595215,
+    "unit": "m"
+  },
+  "triangles": 4960,
+  "materials": 18,
+  "files": {
+    "glb": {
+      "path": "assets/professional/professional-whole-printing-and-book-sewing-workcorner-scene-01/v1.0.0/model.glb",
+      "size": 308196,
+      "sha256": "1a021837467419c442f5ea7d1a63094d033649f4e5ab8f958f51f74da783bca3"
+    },
+    "blend": {
+      "path": "assets/professional/professional-whole-printing-and-book-sewing-workcorner-scene-01/v1.0.0/source.blend",
+      "size": 1778520,
+      "sha256": "fb2ca694ccdad8496592883cdfb7dea89f731619f6ccc7d2fd9209a65efe4bfa"
+    },
+    "generator": {
+      "path": "assets/professional/professional-whole-printing-and-book-sewing-workcorner-scene-01/v1.0.0/generate.py",
+      "size": 85194,
+      "sha256": "f99081d16cbdb595977a8b0ca0b04ee2071bad8e45b76facf5d5aca41abe5202"
+    },
+    "render": {
+      "path": "assets/professional/professional-whole-printing-and-book-sewing-workcorner-scene-01/v1.0.0/thumbnail.png",
+      "size": 530905,
+      "sha256": "60f71f124dd18a12c027230d9316d9e6d8311fe9f64e65aba38939c3a32691e8"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
