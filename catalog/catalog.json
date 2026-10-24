@@ -1079,6 +1079,11 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary02",
       "commit": "684151aa4e56be39988db1cb06a6518d16fcbb3e"
+    },
+    "original-four-and-dock-label-maintenance-1315-volume02-20261024": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary02",
+      "commit": "70490ed0c16553db4b05276db33eeaf7d0c1078d"
     }
   },
   "assets": [
@@ -30413,9 +30418,9 @@
       "version": "1.0.0",
       "category": "props",
       "assetKind": "prop",
-      "theme": "interior",
+      "theme": "construction",
       "style": "S01-clean-geometric",
-      "title": "Fixed One Piece Up And Over Door",
+      "title": "Fixed Raised Hinged Lip Dock Leveler",
       "description": "One original complete fixed raised hinged-lip dock leveller exterior: low open receiving frame, rear pivot towers and continuous axle, one thick inclined deck with two underside beams, separate front hinged full-width lip, finite hinge knuckles, sloping cylinder/rod and mounting ears plus a fixed support prop. Unlike a solid ramp on wedges or a vertically translating scissor platform, the whole deck rises from its rear hinge and terminates in an independently tilted front lip. No old model meshes imported. Three opaque PBR materials, metre scale, true XY centred and frame soles on Z0. One static model, zero scenes; host dock and vehicle omitted. No hydraulic, movement, docking fit, load, installation, traffic or safety performance claim.",
       "bounds": {
         "x": 1.8860000000000001,
@@ -30438,8 +30443,8 @@
         },
         "generator": {
           "path": "assets/construction/architecture-fixed-raised-hinged-lip-dock-leveler-01/v1.0.0/generate.py",
-          "size": 10829,
-          "sha256": "36429ae2d03cb54632418950cd2f67414a92d45dc42ee213562cd6b3cd53ad30"
+          "size": 10837,
+          "sha256": "ef99d21dae1049586ed011d89e511fdc5f74517efbce3e94cd24b18dc9b3f75c"
         },
         "render": {
           "path": "assets/construction/architecture-fixed-raised-hinged-lip-dock-leveler-01/v1.0.0/thumbnail.png",
@@ -30449,7 +30454,7 @@
       },
       "status": "verified",
       "license": "All rights reserved",
-      "sourceId": "original-continuous-six-1309-volume02-20261024"
+      "sourceId": "original-four-and-dock-label-maintenance-1315-volume02-20261024"
     },
     {
       "id": "music-fixed-rope-laced-open-foot-goblet-drum-01",
@@ -30708,6 +30713,178 @@
       "status": "verified",
       "license": "All rights reserved",
       "sourceId": "original-continuous-two-1311-volume02-20261024"
+    },
+    {
+      "id": "communications-fixed-twin-coil-armature-sounder-display-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "communications",
+      "style": "source-preserved-low-poly",
+      "title": "Fixed Twin Coil Armature Sounder Display",
+      "description": "One newly authored complete static twin-coil telegraph-sounder appearance. A common chamfered wood board carries a low iron-yoke appearance, two vertical pole cores and two complete flanged bored bobbins with continuous copper-coloured winding appearances. A whole T-shaped armature lever spans above both pole tops and extends to a transverse pivot in two complete bored bearing standards. A front portal carries an isolated upper stop screw and blank knob; a rear post and continuous return-spring appearance reach the lever heel. Two separate terminal-post exteriors complete the same instrument. The air interval under the broad armature is real. No finger key, manual button, rotating armature, crank, commutator or old mesh is reused. One prop, zero scenes, four constant opaque PBR materials. Fixed deliberate root overlaps are not mechanical fits. No electrical circuit, wiring, voltage, current, magnetic force, movement, signaling, sound, spring response, contact adjustment, manufacture, handling or safety capability is claimed.",
+      "bounds": {
+        "x": 0.2800000011920929,
+        "y": 0.3400000035762787,
+        "z": 0.2669999897480011,
+        "unit": "m"
+      },
+      "triangles": 5644,
+      "materials": 4,
+      "files": {
+        "glb": {
+          "path": "assets/communications/communications-fixed-twin-coil-armature-sounder-display-01/v1.0.0/model.glb",
+          "size": 492072,
+          "sha256": "dab331bcab8aefccd50c72e28ed20e1fe6b5fbb673bf4b10a510c6dd0420d76e"
+        },
+        "blend": {
+          "path": "assets/communications/communications-fixed-twin-coil-armature-sounder-display-01/v1.0.0/source.blend",
+          "size": 1305600,
+          "sha256": "5a3478d58c99a7b9d393c6e87b77f12a26d83fb3c1bf4ddadb0cd1248c9e1ab8"
+        },
+        "generator": {
+          "path": "assets/communications/communications-fixed-twin-coil-armature-sounder-display-01/v1.0.0/generate.py",
+          "size": 18744,
+          "sha256": "13ab51048499a121ca29e83af4bcd89da9ed9b14a43e66f2fb73ec8a3d8bb273"
+        },
+        "render": {
+          "path": "assets/communications/communications-fixed-twin-coil-armature-sounder-display-01/v1.0.0/thumbnail.png",
+          "size": 552412,
+          "sha256": "63765ec6fe2ba6659325eaa4e9de75328f92ef3a7f2131c9371cecdd8216d1a5"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-four-and-dock-label-maintenance-1315-volume02-20261024"
+    },
+    {
+      "id": "entertainment-fixed-open-stepped-token-pusher-cabinet-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "entertainment",
+      "style": "S01-clean-geometric",
+      "title": "Fixed Open Stepped Token Pusher Cabinet",
+      "description": "One newly authored complete fixed token-pusher cabinet appearance. An open-front observation case shows an independent raised rear tray on two whole longitudinal guide bodies, a lower broad collecting deck, and a distinct fixed front pusher face. Three continuous open inclined feed channels root in the back wall and terminate at the upper bed. A complete front drop chute leads outside the lower pedestal into a genuine low receiving pocket under an overhanging hood. Twenty plain fixed discs are inseparable scene-free display contents of this one machine, not separately counted assets or currency. This is not the old upright peg field or three-drum-window cabinet with symbols swapped: the horizontal two-level tray and complete front discharge arrangement are newly authored together. Three opaque constant untextured PBR roles, metres, Z up and whole horizontal bounds-centred ground origin. One model and zero scenes. Static art only: no moving tray, force or coin dynamics, playability, fairness, odds, payment, prize, monetary return, machinery manufacture or safety claim.",
+      "bounds": {
+        "x": 0.88,
+        "y": 0.897,
+        "z": 1.6824999999999999,
+        "unit": "m"
+      },
+      "triangles": 2280,
+      "materials": 3,
+      "files": {
+        "glb": {
+          "path": "assets/music/entertainment-fixed-open-stepped-token-pusher-cabinet-01/v1.0.0/model.glb",
+          "size": 117912,
+          "sha256": "5737be52639149449fe797231f6d1d204205e2b6a346fd450f81c197d107accf"
+        },
+        "blend": {
+          "path": "assets/music/entertainment-fixed-open-stepped-token-pusher-cabinet-01/v1.0.0/source.blend",
+          "size": 871108,
+          "sha256": "abe4d930291fc00d3d96963271675cda39be045fd3f84a796eb8df51efc35f35"
+        },
+        "generator": {
+          "path": "assets/music/entertainment-fixed-open-stepped-token-pusher-cabinet-01/v1.0.0/generate.py",
+          "size": 11607,
+          "sha256": "470a97fa482e822372081d568b8aa13d4f678b6a0e01b84a2905147e5d701531"
+        },
+        "render": {
+          "path": "assets/music/entertainment-fixed-open-stepped-token-pusher-cabinet-01/v1.0.0/thumbnail.png",
+          "size": 549040,
+          "sha256": "11dfad177d11e47b50d4e1ccca0a0767bd82f4158e4bc805a00906660b6f8d2b"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-four-and-dock-label-maintenance-1315-volume02-20261024"
+    },
+    {
+      "id": "interior-fixed-part-raised-auditorium-seat-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "interior",
+      "style": "S01-clean-geometric",
+      "title": "Fixed Part Raised Auditorium Seat",
+      "description": "One original complete fixed floor-mounted auditorium seat with two whole cast-style floor standards, broad fixing soles and rear back supports, two armrests, a separate broad back shell/cushion and one distinct thick seat pan/cushion held at 56 degrees on a full transverse pivot axle and end bosses. A fixed pan underside counterbalance exterior is visible; no actuation is provided. This is not a crossed-frame canvas camp chair or a continuous cantilever dining shell tilted as a whole: only the separate seat rises between fixed standards and back. All whole geometry is newly authored, three opaque PBR materials, metre scale and true XY-centred ground origin; one static model, no scene or occupant. No automatic return, spring force, human fit, seating comfort, load, installation, aisle clearance, fire or safety compliance claim.",
+      "bounds": {
+        "x": 0.71,
+        "y": 0.62,
+        "z": 1.025,
+        "unit": "m"
+      },
+      "triangles": 696,
+      "materials": 3,
+      "files": {
+        "glb": {
+          "path": "assets/interior/interior-fixed-part-raised-auditorium-seat-01/v1.0.0/model.glb",
+          "size": 41728,
+          "sha256": "ba65369384aaaeb2ad6f2ec7f6d0839b36045e7554fb87a306b8fa380113a5ce"
+        },
+        "blend": {
+          "path": "assets/interior/interior-fixed-part-raised-auditorium-seat-01/v1.0.0/source.blend",
+          "size": 642352,
+          "sha256": "09acc8fee439aec4c47920177ac11ed138b0c6fee09d9502107fcba3b7235e24"
+        },
+        "generator": {
+          "path": "assets/interior/interior-fixed-part-raised-auditorium-seat-01/v1.0.0/generate.py",
+          "size": 10902,
+          "sha256": "a1a68760165ad0b17b685f1695df24abace755f202676df54dc16558794526c9"
+        },
+        "render": {
+          "path": "assets/interior/interior-fixed-part-raised-auditorium-seat-01/v1.0.0/thumbnail.png",
+          "size": 449489,
+          "sha256": "2d616e96dbfe316db7a182f25562673b09c199851cf275437c83e642b1a3e967"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-four-and-dock-label-maintenance-1315-volume02-20261024"
+    },
+    {
+      "id": "kitchen-fixed-tilted-cylinder-and-side-crank-stuffer-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "kitchen",
+      "style": "source-preserved-low-poly",
+      "title": "Fixed Tilted Cylinder and Side Crank Stuffer",
+      "description": "One newly authored complete static upright hand-crank food-stuffer-style appearance in a fixed outward-tilted loading pose. A broad low base on four pads carries two whole side uprights and a top enclosed crank-head casing. A continuous thick cylindrical vessel with a real deep empty interior and floor tilts on two full side trunnions, exposing its whole rim below a separately raised round platen and long vertical stem. One lower thick tubular outlet appearance, a side drive stub, offset crank and separate grip complete the assembly. The outlet is a static short open-ended sleeve seated into the vessel wall; a continuous food-processing path is not claimed. Unlike the prior stave-basket fruit press, no stave gaps, annular basket hoops, shallow juice tray, transverse screw grip or collector spout exists; unlike the hand mincer, no horizontal barrel, hopper or pierced front grinding plate exists. One prop and zero scenes, three opaque materials, all new numeric assembly geometry. No food, liquid, pressure, processing, moving mechanism, screw engagement, food-contact/hygiene or equipment-safety claim.",
+      "bounds": {
+        "x": 0.5370000004768372,
+        "y": 0.3650779724121094,
+        "z": 0.8159999847412109,
+        "unit": "m"
+      },
+      "triangles": 1620,
+      "materials": 3,
+      "files": {
+        "glb": {
+          "path": "assets/kitchen/kitchen-fixed-tilted-cylinder-and-side-crank-stuffer-01/v1.0.0/model.glb",
+          "size": 148812,
+          "sha256": "9cd7ca6b76ba14e920683974893530d10cde9bceb9b95cb97c0e1ec08ce2cc28"
+        },
+        "blend": {
+          "path": "assets/kitchen/kitchen-fixed-tilted-cylinder-and-side-crank-stuffer-01/v1.0.0/source.blend",
+          "size": 794112,
+          "sha256": "9e4dd09a86a20961ee3ca59e10c5f0ec4a68da0a3eab8ca674850a48bb3a5ab4"
+        },
+        "generator": {
+          "path": "assets/kitchen/kitchen-fixed-tilted-cylinder-and-side-crank-stuffer-01/v1.0.0/generate.py",
+          "size": 15604,
+          "sha256": "8b0bc9d1f9b76c298f2d297b676d525ba4e56bff825e981a8a84539b54b09f71"
+        },
+        "render": {
+          "path": "assets/kitchen/kitchen-fixed-tilted-cylinder-and-side-crank-stuffer-01/v1.0.0/thumbnail.png",
+          "size": 506882,
+          "sha256": "3bfbc3f2f68c1aeb529a2a3d0b8f0ddda416668307c473160fad3dd630af9318"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-four-and-dock-label-maintenance-1315-volume02-20261024"
     }
   ]
 }
