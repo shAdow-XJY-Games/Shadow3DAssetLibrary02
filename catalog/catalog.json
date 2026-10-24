@@ -1184,6 +1184,11 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary02",
       "commit": "4e170d79116c15cc1550b38ffc5fbbc720856b3d"
+    },
+    "original-one-model-two-scenes-1415-volume02-20261025": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary02",
+      "commit": "513a9ff602aa6d7022cbac87288b8bf5f12270f8"
     }
   },
   "assets": [
@@ -35156,6 +35161,135 @@
       "status": "verified",
       "license": "All rights reserved",
       "sourceId": "original-continuous-one-1412-volume02-20261025"
+    },
+    {
+      "id": "animal-static-open-mouth-continuous-fin-moray-01",
+      "version": "1.0.0",
+      "category": "modular",
+      "assetKind": "prop",
+      "theme": "animal",
+      "style": "warm-handcrafted-village",
+      "title": "Static Open-Mouth Continuous-Fin Moray",
+      "description": "One newly authored whole stylised moray-like fish exterior: a long laterally compressed curved trunk narrows continuously into a fin-fringed tail. Real dorsal and anal median margins share the whole body surface along its length, not separate decoration plates. A broad blunt head has a real forward-opening thick-lipped blind mouth cavity and small lateral eyes; no tongue, limb, external pectoral fins or snake-scale claim. Every full path, tall section, fin margin and mouth wall is newly drawn, not old S-snake arrays recoloured or an ordinary fish stretched. One static animal prop, zero scenes. Lowermost finite fin underside is a display datum only, not living support or species anatomy. No teeth/gills/internal organs, bite, dangerousness, swimming, animation, rig or interaction claim.",
+      "bounds": {
+        "x": 0.889849305,
+        "y": 2.994804382,
+        "z": 0.550000012,
+        "unit": "m"
+      },
+      "triangles": 692,
+      "materials": 4,
+      "files": {
+        "glb": {
+          "path": "assets/animal/animal-static-open-mouth-continuous-fin-moray-01/v1.0.0/model.glb",
+          "size": 41544,
+          "sha256": "f325143fe49ba31b1a9b7da98889aed7c7313f2e93142d5c355819b2f7b2f2f4"
+        },
+        "blend": {
+          "path": "assets/animal/animal-static-open-mouth-continuous-fin-moray-01/v1.0.0/source.blend",
+          "size": 555416,
+          "sha256": "d29f7f816ae42db34ea91f42e56ff454a101eb253f8380e77c41a1f5b0266af6"
+        },
+        "generator": {
+          "path": "assets/animal/animal-static-open-mouth-continuous-fin-moray-01/v1.0.0/generate.py",
+          "size": 29273,
+          "sha256": "264130a12f9425ab7a7b95727a9df15d1e622a46db9cfb8c9eab8a9fc63f05a1"
+        },
+        "render": {
+          "path": "assets/animal/animal-static-open-mouth-continuous-fin-moray-01/v1.0.0/thumbnail.png",
+          "size": 460978,
+          "sha256": "83e2764049ee4382faee8241c3dce6561fc2fa4785432f28ecd13f498d998c7e"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-one-model-two-scenes-1415-volume02-20261025"
+    },
+    {
+      "id": "education-whole-stepped-electrostatic-exhibit-scene-01",
+      "version": "1.0.0",
+      "category": "scenes",
+      "assetKind": "scene",
+      "theme": "education",
+      "style": "source-preserved-low-poly",
+      "title": "Whole Stepped Electrostatic Instrument Exhibit",
+      "description": "One static educational instrument-exhibit scene, zero new independent models. Three complete previously qualified instruments retain every original GLB buffer, node hierarchy, normal and per-face PBR material at unit scale: a rounded dome and windowed belt-column display on the broad left low plinth, a complete twin-sector-disc electrostatic-machine appearance on the taller rear-right plinth, and the complete open-case leaf electroscope on a separate lower front-right inspection plinth. The three different-height closed plinths and one shared finite floor are new scene-only geometry, not separately delivered furniture. All entire original finite bottom faces rest on their respective true finite top surfaces; no original mesh is extracted or recoloured. The left-tall and rear-right raised displays form an elevated exhibit pair while the small low front station leaves a central open floor strip, not the old two staggered worktables with a globe and solids or a single microscope table with sample vials. One scene, no connected experiment. No conductors, voltages, charge production, sparks, operation, educational reliability, physical demonstration, human suitability, accessibility, load, material, electrical or equipment safety claim. Static fixed placement only; rigging, animation and interaction not made and outside delivery scope.",
+      "bounds": {
+        "x": 3.700000047683716,
+        "y": 2.799999952316284,
+        "z": 1.819000005722046,
+        "unit": "m"
+      },
+      "triangles": 6490,
+      "materials": 14,
+      "files": {
+        "glb": {
+          "path": "assets/education/education-whole-stepped-electrostatic-exhibit-scene-01/v1.0.0/model.glb",
+          "size": 611088,
+          "sha256": "251e96b0bc27afbacd590e8d0cc9a12bf905a59b8c3009c5f2d1df008d46ce71"
+        },
+        "blend": {
+          "path": "assets/education/education-whole-stepped-electrostatic-exhibit-scene-01/v1.0.0/source.blend",
+          "size": 1946152,
+          "sha256": "519779b23db01455fca4621dbdc1bc21e0e0adcea287ea105fd95802d1ab90ab"
+        },
+        "generator": {
+          "path": "assets/education/education-whole-stepped-electrostatic-exhibit-scene-01/v1.0.0/generate.py",
+          "size": 130804,
+          "sha256": "8328c05b0edab00105d797f7df579b31708c20bb94ca7b6f8e13bfef1c80a2fe"
+        },
+        "render": {
+          "path": "assets/education/education-whole-stepped-electrostatic-exhibit-scene-01/v1.0.0/thumbnail.png",
+          "size": 476545,
+          "sha256": "908602273a3589dc02961bf31678d47c69cbc4ace3f7f0359e5f415d36c1fa7d"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-one-model-two-scenes-1415-volume02-20261025"
+    },
+    {
+      "id": "public-service-complete-mobility-equipment-display-scene-01",
+      "version": "1.0.0",
+      "category": "scenes",
+      "assetKind": "scene",
+      "theme": "public-service",
+      "style": "source-preserved-low-poly",
+      "title": "Complete Mobility Equipment Display",
+      "description": "One complete static public-service mobility-equipment display scene, counted as one scene and zero new independent models. The whole original manual wheelchair occupies the left freestanding bay, the complete original four-wheel rollator occupies a separated middle bay, and one complete original open-cuff forearm crutch rests on a low right scene-only stand with a rear restraint appearance. A single continuous scene-only floor leaves a clear front visual circulation strip rather than an enclosing fixture wall or a service counter queue. Every original raw GLB buffer, local POSITION and NORMAL, material dictionary, per-face assignment and internal hierarchy is retained exactly; only declared whole-assembly translations at unit scale are added. New support geometry belongs only to this composition, not separately counted equipment. Static unoccupied exhibit only: no clinical treatment, patient guidance, medical suitability, device operation, load, balance, accessibility or circulation-code compliance, physical restraint performance, installation or safety certification. Rigging, animation and interaction are not made.",
+      "bounds": {
+        "x": 3.4000000953674316,
+        "y": 2.200000047683716,
+        "z": 1.2080000638961792,
+        "unit": "m"
+      },
+      "triangles": 8780,
+      "materials": 12,
+      "files": {
+        "glb": {
+          "path": "assets/public-service/public-service-complete-mobility-equipment-display-scene-01/v1.0.0/model.glb",
+          "size": 655492,
+          "sha256": "29237fe4f8163eae3319029c50c8800c287f5257f7040f613475bc5e197902eb"
+        },
+        "blend": {
+          "path": "assets/public-service/public-service-complete-mobility-equipment-display-scene-01/v1.0.0/source.blend",
+          "size": 2184296,
+          "sha256": "c58f7dcae5f9ba7954e5b7bad78b00bcb17f0c42d37f8903d1ff0a3704b39bd3"
+        },
+        "generator": {
+          "path": "assets/public-service/public-service-complete-mobility-equipment-display-scene-01/v1.0.0/generate.py",
+          "size": 174045,
+          "sha256": "7eed2718e6e5a5210717e223782a537a60ce912427d0caa7e070b1bb584a82a1"
+        },
+        "render": {
+          "path": "assets/public-service/public-service-complete-mobility-equipment-display-scene-01/v1.0.0/thumbnail.png",
+          "size": 462365,
+          "sha256": "6ad3e699948c0ebcd1f23f5c122a49fcd9c463b047f3e8a1a910396c9970eb71"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-one-model-two-scenes-1415-volume02-20261025"
     }
   ]
 }
