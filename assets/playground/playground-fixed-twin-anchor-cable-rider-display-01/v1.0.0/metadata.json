@@ -1,0 +1,42 @@
+{
+  "id": "playground-fixed-twin-anchor-cable-rider-display-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "playground",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Twin Anchor Cable Rider Display",
+  "description": "One newly authored complete static playground cable-rider display. Two complete splayed end-anchor structures on four finite ground feet connect through one continuous shallow-sag solid cable. A fixed trolley midway along the span has two separate fully profiled grooved wheels on through axles, two complete side cheeks and a lower crossbar. A continuous pendant rod carries one thick round disc seat. The cable, trolley and seat physically join the two anchor ends into one complete apparatus, not a landscape scene or scattered independently counted props. Entire numeric geometry is new: no old A-frame swing crossbeam or four-rope plank-seat assembly reused; there is no rigid top beam spanning the two ends. One whole model and zero scenes, three opaque untextured PBR materials, metres, native Z up and complete horizontally centred ground envelope. Empty static illustrative apparatus only. No cable travel, wheel motion, tension, braking, fall-zone, installation, anchoring, loading, rider suitability, engineering or playground safety claim.",
+  "bounds": {
+    "x": 4.28,
+    "y": 1.5,
+    "z": 2.44,
+    "unit": "m"
+  },
+  "triangles": 1784,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/playground/playground-fixed-twin-anchor-cable-rider-display-01/v1.0.0/model.glb",
+      "size": 110272,
+      "sha256": "a4f8d48cc5486fc86080ffc8488d71193693dec810f35c202c306aca3fab5dd6"
+    },
+    "blend": {
+      "path": "assets/playground/playground-fixed-twin-anchor-cable-rider-display-01/v1.0.0/source.blend",
+      "size": 733444,
+      "sha256": "63bef13754e3c49c1b49244650a71f52df8b3a9ce8f46e2e380640d32f1c118b"
+    },
+    "generator": {
+      "path": "assets/playground/playground-fixed-twin-anchor-cable-rider-display-01/v1.0.0/generate.py",
+      "size": 11132,
+      "sha256": "c6333a76c536a75d7e49a6051a58bd34cd90875255eb91d66ef0cad7020783b4"
+    },
+    "render": {
+      "path": "assets/playground/playground-fixed-twin-anchor-cable-rider-display-01/v1.0.0/thumbnail.png",
+      "size": 382734,
+      "sha256": "c446540e53aed62c9baf8a5b76c80792a49ad362bfcf337c3179e683c0b1fcdd"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

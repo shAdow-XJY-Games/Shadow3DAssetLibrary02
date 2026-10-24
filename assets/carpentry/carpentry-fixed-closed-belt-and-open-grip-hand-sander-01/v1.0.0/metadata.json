@@ -1,0 +1,42 @@
+{
+  "id": "carpentry-fixed-closed-belt-and-open-grip-hand-sander-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "carpentry",
+  "style": "source-preserved-low-poly",
+  "title": "Fixed Closed Belt and Open Grip Hand Sander",
+  "description": "One newly authored complete static portable belt-sander appearance. A single thick continuous capsule-loop belt has real flat upper and lower spans and both end wraps around two finite transverse drums. Separate axles and full side cheeks root an upper motor case, a genuine open rear grip with underside trigger, and a front round control-grip knob. A rear cap and short cable entry complete the whole exterior. Three opaque untextured PBR roles, one prop and zero scenes. No abrasive grit, dust, workpiece, belt motion, drive, electrical operation, sanding performance, ergonomics or safety claim. Newly authored whole geometry, not a shortened baggage belt or an angle grinder resized. Drum contact is static geometry and not a tension or moving-clearance proof.",
+  "bounds": {
+    "x": 0.11599999666213989,
+    "y": 0.2939999997615814,
+    "z": 0.21899999678134918,
+    "unit": "m"
+  },
+  "triangles": 1044,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/carpentry/carpentry-fixed-closed-belt-and-open-grip-hand-sander-01/v1.0.0/model.glb",
+      "size": 97208,
+      "sha256": "69f73666956b7e41409898bebbd9f4da4538445d9f4554fc5b3be4e5db3da778"
+    },
+    "blend": {
+      "path": "assets/carpentry/carpentry-fixed-closed-belt-and-open-grip-hand-sander-01/v1.0.0/source.blend",
+      "size": 710784,
+      "sha256": "5b7b1b98519bc25bcee113105445d0a842559ade822f440071e7fdacb6e0eda4"
+    },
+    "generator": {
+      "path": "assets/carpentry/carpentry-fixed-closed-belt-and-open-grip-hand-sander-01/v1.0.0/generate.py",
+      "size": 14804,
+      "sha256": "eaf2c1ebb41341126560d5a74fb9bac1a62c45d965f476eda968d55f70f46141"
+    },
+    "render": {
+      "path": "assets/carpentry/carpentry-fixed-closed-belt-and-open-grip-hand-sander-01/v1.0.0/thumbnail.png",
+      "size": 511679,
+      "sha256": "3f198dd71955799f6f07a46815c49aed1d5ce123552a8d87c258e3ba85296766"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

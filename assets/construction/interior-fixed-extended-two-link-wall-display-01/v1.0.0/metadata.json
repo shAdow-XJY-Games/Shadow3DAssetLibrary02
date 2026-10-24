@@ -1,0 +1,42 @@
+{
+  "id": "interior-fixed-extended-two-link-wall-display-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "interior",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Extended Two Link Wall Display",
+  "description": "One newly authored complete static extended wall-display assembly. A thick connected wall plate has four actual through slots and paired full pivot forks. Two distinct horizontal articulated arms meet three vertical pivot barrels in a zigzag extended arrangement. A whole terminal U yoke, horizontal pitch axle, rear cross mount and local boss carry a complete wide recessed screen housing with an opaque blank inset panel. One continuous fixed rear cable route completes the exterior. Unlike the grounded stem-and-shade task lamp or base-hinged portable computer, the support runs from a vertical mounting plate through two separated yaw joints and a terminal pitch seat to a broad upright display. No old screen or bracket mesh reused. Three opaque constant PBR roles, metre game units, native Z-up, horizontal bounds-centred isolated mounting datum. One prop, zero scenes, no host wall or installation fasteners. Static art only: no signal, display operation, wiring, joint motion, full-travel clearance, mounting compatibility, load capacity, installation, manufacture or safety certification is claimed.",
+  "bounds": {
+    "x": 1.4,
+    "y": 0.5267932935061665,
+    "z": 0.6821461177812419,
+    "unit": "m"
+  },
+  "triangles": 776,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/construction/interior-fixed-extended-two-link-wall-display-01/v1.0.0/model.glb",
+      "size": 44732,
+      "sha256": "5b4a41b89b2ab995290940b7fddb356426e4ed440978b1a4d1ba7980a3accd5b"
+    },
+    "blend": {
+      "path": "assets/construction/interior-fixed-extended-two-link-wall-display-01/v1.0.0/source.blend",
+      "size": 632708,
+      "sha256": "6e492cad0bcad61b3cae47a5d94f8aee1b67c74dd4f214dfb76a54762c7b02ca"
+    },
+    "generator": {
+      "path": "assets/construction/interior-fixed-extended-two-link-wall-display-01/v1.0.0/generate.py",
+      "size": 11922,
+      "sha256": "c60266b2763665adeb97bee7249a6b7d988af384d6c6b308909c99fd8e44a67b"
+    },
+    "render": {
+      "path": "assets/construction/interior-fixed-extended-two-link-wall-display-01/v1.0.0/thumbnail.png",
+      "size": 368625,
+      "sha256": "394a78f47abd3025f82a7459f70a2e2f92960ba66ab881d2383f2e9fd8fab172"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
