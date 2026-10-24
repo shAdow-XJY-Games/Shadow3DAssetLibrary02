@@ -1,0 +1,42 @@
+{
+  "id": "architecture-fixed-stepped-loop-escalator-module-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "architecture",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Stepped Loop Escalator Module",
+  "description": "One original complete fixed escalator-module appearance: one continuous thick stepped annular flight with real open interior and lower return, separate stationary low/high landing plates with mounting flanges, two full opaque sloped balustrades, and two separate closed thick handrail return loops with end-entry housings. Unlike a flat running belt or a rigid stair cart, the stepped top and both terminal returns belong to one material loop, while handrails form their own continuous loops alongside two different-level landings. No old meshes imported. Three opaque PBR materials, metres and actual XY-envelope centring. One uninstalled static module, no building floors, passenger or motor/drive internals; lowest return edge is export datum, not a certified ground sole. No animation, physical chain articulation, step synchronisation, handrail movement, comb clearance, human accessibility, capacity, loading, installation or safety performance claim.",
+  "bounds": {
+    "x": 1.48,
+    "y": 4.44,
+    "z": 2.2836655817443847,
+    "unit": "m"
+  },
+  "triangles": 808,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/architecture/architecture-fixed-stepped-loop-escalator-module-01/v1.0.0/model.glb",
+      "size": 44004,
+      "sha256": "d9e0336c5421c702557a1145b9430f5801f08816d7c4c73098eb09b196e9d1d1"
+    },
+    "blend": {
+      "path": "assets/architecture/architecture-fixed-stepped-loop-escalator-module-01/v1.0.0/source.blend",
+      "size": 629836,
+      "sha256": "ffe9bc83faf6312187088cbe53f63891c70bdcfa8b0930530e3bf08761e9ca43"
+    },
+    "generator": {
+      "path": "assets/architecture/architecture-fixed-stepped-loop-escalator-module-01/v1.0.0/generate.py",
+      "size": 11372,
+      "sha256": "5a3902a696d9225781b24720a2b051e4547bfc57f4b8cf511819d5090e859404"
+    },
+    "render": {
+      "path": "assets/architecture/architecture-fixed-stepped-loop-escalator-module-01/v1.0.0/thumbnail.png",
+      "size": 433415,
+      "sha256": "086fb40add49576c014f860cd0ba5a5037a78b4c746a84fb6017b2152b25b1e7"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

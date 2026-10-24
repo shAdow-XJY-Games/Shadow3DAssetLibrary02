@@ -1,0 +1,42 @@
+{
+  "id": "entertainment-fixed-pocketed-race-bowl-game-wheel-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "entertainment",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Pocketed Race Bowl Game Wheel",
+  "description": "One newly authored complete static pocketed-bowl game-wheel appearance. A deep whole wooden race bowl has a continuous raised rim, full steep inward sloping annular track and blind central floor. A separately nested solid rotor rests on a complete central support: its entire high inner cone, low annular pocket floor and outer lip are one closed surface, with separately rooted radial dividers and alternating unmarked face-material fields. One whole central spindle carries four short crossed grips with rounded tips. No balls, chips, numbers, text, table, players or casino scene. Unlike the old flat disc-game field with center hole, eight pegs and external ditch, the complete body is a steep race bowl around a distinct conical pocketed rotor. Unlike the old centrifuge, there is no box enclosure, eight blind tube wells, controls or hinged lid. All whole numeric geometry newly authored; no old mesh imported. Three opaque constant untextured PBR roles, metres, Z up and whole horizontally bounds-centred ground origin. One whole prop, zero scenes; divider count is not separate assets. Static illustrative exterior only: no rotation, ball motion, regulatory layout or official pocket count, odds, fairness, money handling, actual gaming operation, manufacture or safety claim.",
+  "bounds": {
+    "x": 0.97,
+    "y": 0.97,
+    "z": 0.312,
+    "unit": "m"
+  },
+  "triangles": 4800,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/music/entertainment-fixed-pocketed-race-bowl-game-wheel-01/v1.0.0/model.glb",
+      "size": 264500,
+      "sha256": "df44fafa37e637cd7b0b606980200090c4dcb9d75ffe21ce1ba91ed61b1a6ab9"
+    },
+    "blend": {
+      "path": "assets/music/entertainment-fixed-pocketed-race-bowl-game-wheel-01/v1.0.0/source.blend",
+      "size": 942508,
+      "sha256": "38ce0cf3a0d01bd708e134f45ccc0581dce5b99970c75a773434db53f2d4b707"
+    },
+    "generator": {
+      "path": "assets/music/entertainment-fixed-pocketed-race-bowl-game-wheel-01/v1.0.0/generate.py",
+      "size": 11201,
+      "sha256": "bce9046d63346dd1e56a6e65b7e31708a0100cdd3d919dc7b0ccdbe807d0c891"
+    },
+    "render": {
+      "path": "assets/music/entertainment-fixed-pocketed-race-bowl-game-wheel-01/v1.0.0/thumbnail.png",
+      "size": 526742,
+      "sha256": "6322fe211bc79b5240b05bde69172e9eb82d3885a0b4f74dc4d0b0e479cf90ab"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
