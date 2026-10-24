@@ -1,0 +1,42 @@
+{
+  "id": "communications-fixed-plug-cord-operator-switchboard-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "communications",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Plug Cord Operator Switchboard",
+  "description": "One newly authored complete static manual telephone-switchboard-style operator console. Two tall grounded step-shaped wooden side pedestals, full back, raised socket board and forward-projecting thick gently sloped plug desk form one integrated cabinet with a genuine front knee bay. A single dark upper face carries twelve complete blind socket cups with actual finite bore walls and closed backs, not painted dots or claimed holes through the solid backboard. Four complete lower cups and four blank controls form the forward plug bank. Two full upper plugs and two full lower plugs are joined by two independently continuous thick closed cords, each dropping in front of the desk into a broad hanging U and returning outside the lip to its parked lower grip. The other cup mouths remain empty. A blank header belongs to the same complete console. All numeric geometry is new: no old rotary phone, handmic, distribution box, wire component or desk imported or reassembled. Not a door-open box given more ports, nor a phone placed on furniture. One prop and zero scenes; individual ports, plugs, cords and controls do not count as extra assets. Four opaque constant untextured PBR materials, metres, Z up and actual horizontal-bounds-centred ground origin. Fixed illustrative art only: no electrical circuits, continuity, signaling, switching, connection instructions, functional telephone service, socket compatibility, flexible cable dynamics, historical accuracy, operator ergonomics, manufacture, load or safety claim.",
+  "bounds": {
+    "x": 0.93,
+    "y": 0.892133,
+    "z": 1.41,
+    "unit": "m"
+  },
+  "triangles": 8420,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/communications/communications-fixed-plug-cord-operator-switchboard-01/v1.0.0/model.glb",
+      "size": 468044,
+      "sha256": "7813747ff1471642461590fb3adf489e5277b2c5c3b7fb17713b83f18c481a9a"
+    },
+    "blend": {
+      "path": "assets/communications/communications-fixed-plug-cord-operator-switchboard-01/v1.0.0/source.blend",
+      "size": 1141352,
+      "sha256": "248662fcd2a14ba462e7ad40a7043210bb0dfbee3c6f5aa8e29dd3ed5e2da8d3"
+    },
+    "generator": {
+      "path": "assets/communications/communications-fixed-plug-cord-operator-switchboard-01/v1.0.0/generate.py",
+      "size": 28131,
+      "sha256": "fa3e32231f70d801a7fc84ee43d31ad2b41a73dc6ec4a7b96f0122b6c92a58d2"
+    },
+    "render": {
+      "path": "assets/communications/communications-fixed-plug-cord-operator-switchboard-01/v1.0.0/thumbnail.png",
+      "size": 595859,
+      "sha256": "c851469703218f81984e1159eafc38dfc661ffce8ca8c5f798df70755b9c0477"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "education-fixed-twin-barrel-bell-cover-air-pump-bench-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "education",
+  "style": "source-preserved-low-poly",
+  "title": "Fixed Twin Barrel Bell Cover Air Pump Bench",
+  "description": "One newly authored whole static hand-cranked twin-barrel air-pump demonstration bench appearance. A single long wooden base on four finite feet carries two upright barrel exteriors with occupied annular glands, separate piston-style rods and transverse cross pins. A central pedestal supports a complete open-spoke handwheel, shaft, opposite fixed crank arms and two whole sloping connecting links, with an offset wood grip. Beside the pump, a round supported plate carries one thick opaque bell-shaped hollow cover; a fixed solid connecting tube exterior joins the pump housing to the plate support. All geometry is newly authored, not a twin-treadle water pump shortened or a portable tank compressor with its motor removed. One complete connected instrument display, zero scenes. Four opaque constant PBR materials, metres, native Z up, whole horizontal bounds-centred ground origin. The opaque bell hides its interior in normal view. No evacuated chamber, transparent glass, seals, continuous air circuit, valves, vacuum, pressure, rotation, pumping, physics demonstration, calibration, construction, installation, handling or equipment safety claim.",
+  "bounds": {
+    "x": 1.0199999809265137,
+    "y": 0.5070000290870667,
+    "z": 0.6299999952316284,
+    "unit": "m"
+  },
+  "triangles": 3084,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/education/education-fixed-twin-barrel-bell-cover-air-pump-bench-01/v1.0.0/model.glb",
+      "size": 286364,
+      "sha256": "6266c04d0d7986c4285a94df1733e963ab21ec5d4feb1f8408802df1fc0ca948"
+    },
+    "blend": {
+      "path": "assets/education/education-fixed-twin-barrel-bell-cover-air-pump-bench-01/v1.0.0/source.blend",
+      "size": 1075328,
+      "sha256": "58fe07fbba43bac0e971f7027846970bfcfadc6e74ffcb224017a1821fdefc7d"
+    },
+    "generator": {
+      "path": "assets/education/education-fixed-twin-barrel-bell-cover-air-pump-bench-01/v1.0.0/generate.py",
+      "size": 18079,
+      "sha256": "623cfc9244b80c78361fe24834f04aa5d014425279ff6707cb596903525fbd24"
+    },
+    "render": {
+      "path": "assets/education/education-fixed-twin-barrel-bell-cover-air-pump-bench-01/v1.0.0/thumbnail.png",
+      "size": 519772,
+      "sha256": "a52f5d1d685f287bbf7261c0b2c2696ec580098580eb7fef1843240b39cb7a0c"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

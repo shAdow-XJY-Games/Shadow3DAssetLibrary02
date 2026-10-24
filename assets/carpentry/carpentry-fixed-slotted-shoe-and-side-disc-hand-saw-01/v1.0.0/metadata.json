@@ -1,0 +1,42 @@
+{
+  "id": "carpentry-fixed-slotted-shoe-and-side-disc-hand-saw-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "carpentry",
+  "style": "source-preserved-low-poly",
+  "title": "Fixed Slotted Shoe and Side Disc Hand Saw",
+  "description": "One newly authored whole static hand circular-saw appearance. A single full rectangular shoe has a genuine long narrow through slot. A broad blunt upright side disc sits on a complete transverse motor spindle, with its lowest fixed arc inside the shoe slot above the ground. An entire thick upper half-circle hood has a real inner opening and side flange, rooted back into the transverse motor housing. Rear and front mounting bridges join the motor to the shoe, while an actual open rear grip with trigger and a front rounded knob define the portable whole tool. Three opaque PBR roles; one prop and zero scenes. No sharp teeth, workpiece, cutting depth setup, powered rotation, moving guard, electrical or engineering/safety claim. Not an angle grinder with resized disc or a jigsaw with a substituted strip; whole geometry newly authored.",
+  "bounds": {
+    "x": 0.1850000023841858,
+    "y": 0.3240000009536743,
+    "z": 0.23199999332427979,
+    "unit": "m"
+  },
+  "triangles": 1652,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/carpentry/carpentry-fixed-slotted-shoe-and-side-disc-hand-saw-01/v1.0.0/model.glb",
+      "size": 150432,
+      "sha256": "02337665c044c2d1efedc06f4803ff26b83f36e4a6689a5d4f004ab9dad0238a"
+    },
+    "blend": {
+      "path": "assets/carpentry/carpentry-fixed-slotted-shoe-and-side-disc-hand-saw-01/v1.0.0/source.blend",
+      "size": 792992,
+      "sha256": "839cb0520ba1050af5179d2d0567d9920db2c20178d8f38a581e1e044341fefb"
+    },
+    "generator": {
+      "path": "assets/carpentry/carpentry-fixed-slotted-shoe-and-side-disc-hand-saw-01/v1.0.0/generate.py",
+      "size": 15350,
+      "sha256": "96ef7137c558886595000b43a813a4b8b942c0a5b1f1c48ec6bbbbca0f8200c1"
+    },
+    "render": {
+      "path": "assets/carpentry/carpentry-fixed-slotted-shoe-and-side-disc-hand-saw-01/v1.0.0/thumbnail.png",
+      "size": 496309,
+      "sha256": "f90943d1515004ec18294ba90de9aac79090ad8f0b41f9e8397de324f39a5fc1"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
