@@ -1,0 +1,42 @@
+{
+  "id": "professional-fixed-binaural-tubes-and-disc-stethoscope-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "professional",
+  "style": "source-preserved-low-poly",
+  "title": "Fixed Binaural Tubes and Disc Stethoscope",
+  "description": "One newly authored complete fixed stethoscope visual prop laid in a gentle planar display pose. Two distinct bent metal-looking binaural tubes end in separate closed soft eartips, with no visor, headband or earcup shells. Two full flexible branch tubes meet a finite central connector and one continuous long curved tube that terminates in a short chestpiece neck. A complete stepped circular chestpiece carries a separate opaque diaphragm-looking disc. All tube paths and whole components are original numeric geometry. One prop, zero scenes, three opaque materials. Fixed stylized medical-profession appearance only: no patient, sound propagation, diagnosis, disease, use instructions, calibration, medical-device performance, hygiene or safety claim.",
+  "bounds": {
+    "x": 0.24668516218662262,
+    "y": 0.39998704195022583,
+    "z": 0.014999999664723873,
+    "unit": "m"
+  },
+  "triangles": 1972,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/professional/professional-fixed-binaural-tubes-and-disc-stethoscope-01/v1.0.0/model.glb",
+      "size": 174936,
+      "sha256": "03d79ee7e83d3c03d91bb187cc14a9a865c20c7b665662e1b5bab89b6ed79ae1"
+    },
+    "blend": {
+      "path": "assets/professional/professional-fixed-binaural-tubes-and-disc-stethoscope-01/v1.0.0/source.blend",
+      "size": 805312,
+      "sha256": "03e0b3287d2d54a8aa3058dd8355a356c12d9bde71a3e006768d20e737aaf97f"
+    },
+    "generator": {
+      "path": "assets/professional/professional-fixed-binaural-tubes-and-disc-stethoscope-01/v1.0.0/generate.py",
+      "size": 14851,
+      "sha256": "43b4d0762794fb7ef86c9aaedf4169d7999ad14d22bf90c5cb820fb714abb942"
+    },
+    "render": {
+      "path": "assets/professional/professional-fixed-binaural-tubes-and-disc-stethoscope-01/v1.0.0/thumbnail.png",
+      "size": 445873,
+      "sha256": "c160869eae3e66d9d9080f4b3566621ef3c8c43e30dc6961f88bb923e7b1c676"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

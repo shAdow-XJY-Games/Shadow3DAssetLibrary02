@@ -1,0 +1,42 @@
+{
+  "id": "entertainment-fixed-guided-pinsetting-deck-machine-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "music",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Guided Pinsetting Deck Machine",
+  "description": "One newly authored complete fixed pinsetting-machine visual display. A grounded braced double-side chassis has four whole guide shafts and bored setting-deck carriage sleeves. Four connected full perforated row plates have one, two, three and four real through-apertures in a triangular ten-position layout, supported on full crossrails. A distinct low sweep bar belongs to two side journal arms. Upper fixed lift links, a rear housing and transverse shaft with end discs complete the machinery exterior. No old bowling pins, lane or loose balls imported or counted; not a scaled desk plunger or inclined carnival target table with extra holes. Three opaque untextured constant PBR roles; metres, Z up and whole horizontal ground centering. One whole machine prop and zero scenes. Static empty illustrative machinery appearance only: no pin compatibility, feeding or gripping internals, ball return, regulation geometry, lifting or sweep motion, complete drive transmission, operating instructions, power, load, fabrication or safety claim.",
+  "bounds": {
+    "x": 1.64,
+    "y": 1.7425,
+    "z": 1.78,
+    "unit": "m"
+  },
+  "triangles": 3752,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/music/entertainment-fixed-guided-pinsetting-deck-machine-01/v1.0.0/model.glb",
+      "size": 180388,
+      "sha256": "6bc965658663c73b56c0915d09a2a27a43d20e82e8e8cbe9dabdc35e6fc7e19c"
+    },
+    "blend": {
+      "path": "assets/music/entertainment-fixed-guided-pinsetting-deck-machine-01/v1.0.0/source.blend",
+      "size": 977884,
+      "sha256": "3510badb2bfe88277e9f490ad33a626fb34f7fa94bfb7fba49e3c0627d513467"
+    },
+    "generator": {
+      "path": "assets/music/entertainment-fixed-guided-pinsetting-deck-machine-01/v1.0.0/generate.py",
+      "size": 12329,
+      "sha256": "789997b766e9c5ea695b6f9c21a427257e825e3334bc2d572024d8777f937861"
+    },
+    "render": {
+      "path": "assets/music/entertainment-fixed-guided-pinsetting-deck-machine-01/v1.0.0/thumbnail.png",
+      "size": 527333,
+      "sha256": "680e7e7dbfab4d13d5d256ae17e70c9a1f974ac8cd40a974f18346f799daaf0e"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

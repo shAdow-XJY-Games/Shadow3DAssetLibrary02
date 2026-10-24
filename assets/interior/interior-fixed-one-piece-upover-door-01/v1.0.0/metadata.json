@@ -1,0 +1,42 @@
+{
+  "id": "interior-fixed-one-piece-upover-door-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "interior",
+  "style": "S01-clean-geometric",
+  "title": "Fixed One Piece Up And Over Door",
+  "description": "One original complete rigid one-piece up-and-over doorway appearance held in a partly raised pose. Two full grounded jambs and header support straight inward-open overhead channels and a rear tie. A single whole thick rigid door panel, with full rear stiffeners and one lower pull, is guided by two top-end rollers and separately connected at middle side points to two whole swing arms on finite jamb pivots. Fixed counterbalance-case and short link exteriors flank the opening. The rigid leaf projects forward at its lower end while its upper rollers sit back in straight tracks. This is not the old chain of ten hinged door sections in curved return tracks, nor two leaves folding around vertical hinges; no old door meshes are imported. Three constant opaque PBR materials, metres Z up, true XY envelope-centred and grounded jamb soles at Z0; one complete static module, zero scenes, no host building. No opening animation, full motion clearance, spring behaviour, motor, roller-load fit, support load, weather, accessibility, anti-pinch, installation or safety certification claim.",
+  "bounds": {
+    "x": 2.8899999999999997,
+    "y": 2.3423214285714287,
+    "z": 2.46,
+    "unit": "m"
+  },
+  "triangles": 1112,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/interior/interior-fixed-one-piece-upover-door-01/v1.0.0/model.glb",
+      "size": 70760,
+      "sha256": "707944aef2ef7da12b814ee5daae07a29a555ae4d78cd91d965e6cbc3c78750a"
+    },
+    "blend": {
+      "path": "assets/interior/interior-fixed-one-piece-upover-door-01/v1.0.0/source.blend",
+      "size": 720256,
+      "sha256": "faa5238a06c7464fa9970a8539af86e0030ca923cfc54dd9967a47f85aaf73f1"
+    },
+    "generator": {
+      "path": "assets/interior/interior-fixed-one-piece-upover-door-01/v1.0.0/generate.py",
+      "size": 11709,
+      "sha256": "c6c120d7ec42bab82747c8c112f911df35286b9c5db1dc75fcdaefc5a0554934"
+    },
+    "render": {
+      "path": "assets/interior/interior-fixed-one-piece-upover-door-01/v1.0.0/thumbnail.png",
+      "size": 470189,
+      "sha256": "999994da9193a728f215d222b5fd1cfb32a45dc1690de74618482d814c3df1c9"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

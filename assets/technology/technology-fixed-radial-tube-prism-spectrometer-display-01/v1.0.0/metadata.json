@@ -1,0 +1,42 @@
+{
+  "id": "technology-fixed-radial-tube-prism-spectrometer-display-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "technology",
+  "style": "source-preserved-low-poly",
+  "title": "Fixed Radial Tube Prism Spectrometer Display",
+  "description": "One newly authored complete static prism-spectrometer teaching-instrument appearance. Three finite feet and short splayed supports carry a broad round ungraduated bearing table. Two independent radial arms support long horizontal recessed optical-tube appearances at different azimuths, one ending in a real narrow empty slit frame and the other in a smaller recessed eyecup. A separate raised central circular prism table carries one whole opaque triangular prism appearance, with three short adjustment-screw exteriors and plain thumbwheels. All numeric geometry is newly authored for this circular two-axis arrangement, not an old tripod survey telescope or a straight optical rail reused. Four constant opaque PBR materials, one prop and zero scenes. No transparent glass, emitted beams, spectrum, numbers or calibrated scales. Fixed visual only: no optical transmission, collimation, dispersion, imaging, angular reading, accuracy, axis movement, calibration, material properties, manufacture or safety claim.",
+  "bounds": {
+    "x": 1.214728593826294,
+    "y": 0.54958575963974,
+    "z": 0.33899998664855957,
+    "unit": "m"
+  },
+  "triangles": 4668,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/technology/technology-fixed-radial-tube-prism-spectrometer-display-01/v1.0.0/model.glb",
+      "size": 419324,
+      "sha256": "310bd8c044f8db4f83de1005747ace61d0616e5a7f24740f2b96c25436326720"
+    },
+    "blend": {
+      "path": "assets/technology/technology-fixed-radial-tube-prism-spectrometer-display-01/v1.0.0/source.blend",
+      "size": 1243328,
+      "sha256": "cb816afe83fc4bdfe5386a476bc5aedb8f21d1d6b063f83ec5d0806a1febdc8e"
+    },
+    "generator": {
+      "path": "assets/technology/technology-fixed-radial-tube-prism-spectrometer-display-01/v1.0.0/generate.py",
+      "size": 17981,
+      "sha256": "3bed0f561d3ba5dd52c41b1e6ec14dbfe4729dc52d267676ac672ca611743bdf"
+    },
+    "render": {
+      "path": "assets/technology/technology-fixed-radial-tube-prism-spectrometer-display-01/v1.0.0/thumbnail.png",
+      "size": 488407,
+      "sha256": "1263c528ebb4db55016ddeb4e831b0c4fc9a26d4326196ec0ecd390040783b47"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

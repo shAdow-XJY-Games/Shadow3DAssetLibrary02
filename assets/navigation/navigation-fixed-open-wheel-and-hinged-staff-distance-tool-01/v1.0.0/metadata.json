@@ -1,0 +1,42 @@
+{
+  "id": "navigation-fixed-open-wheel-and-hinged-staff-distance-tool-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "navigation",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Open Wheel and Hinged Staff Distance Tool",
+  "description": "One newly authored complete static push-along measuring-wheel-style exterior in a fixed parked stance. One whole narrow annular rubber tread has an actual flat ground facet around a separate full open rim, six complete spokes and one thick hub. A proud transverse axle joins the hub to both legs of a single complete inverted U fork, leaving real side intervals and an open gap above the wheel. Two whole long sloping staff segments meet at a distinct fixed mid-handle hinge and terminate in one thick D-style grip with a genuine through opening. A full side-mounted counter case has a blank unlit face; an independent entire sloping parking leg ends in a broad grounded foot. All geometry is new: no old handtruck frame/toe plate/wheels or planimeter arm/wheel meshes imported, scaled, extracted or reassembled. Unlike the old low two-arm table-tracing planimeter, this is a full upright single-ground-wheel hand tool without a pole weight or tracing stylus. Unlike the existing cargo handtruck, no load platform, paired rail frame or cargo bay exists. One prop, zero scenes, no cargo, road, terrain strip, numbers, calibrated scale, wiring or second model. Four opaque constant untextured PBR materials, metres, Z up and actual whole horizontal bounds-centred ground origin. Illustrative static art only: no rolling or folding animation, wheel circumference calibration, distance counting, measuring accuracy, odometry, readout, scientific performance, stability, manufacture, load, ergonomics or handling safety claim.",
+  "bounds": {
+    "x": 0.339,
+    "y": 0.909465,
+    "z": 1.38,
+    "unit": "m"
+  },
+  "triangles": 1396,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/navigation/navigation-fixed-open-wheel-and-hinged-staff-distance-tool-01/v1.0.0/model.glb",
+      "size": 77660,
+      "sha256": "cb3928c9fbfe653733ff0b1e27491ff889a7d24ce85270b6c1b12132d150aab8"
+    },
+    "blend": {
+      "path": "assets/navigation/navigation-fixed-open-wheel-and-hinged-staff-distance-tool-01/v1.0.0/source.blend",
+      "size": 688668,
+      "sha256": "fe1705716ec416c1f2383cdb1d393667201a6f8cf8cbaacc88a28824267f7ebf"
+    },
+    "generator": {
+      "path": "assets/navigation/navigation-fixed-open-wheel-and-hinged-staff-distance-tool-01/v1.0.0/generate.py",
+      "size": 27568,
+      "sha256": "7392bba6221d865f8eb140a2d2c643e92b387720a3bcd29baf7dc10ce7f55cd4"
+    },
+    "render": {
+      "path": "assets/navigation/navigation-fixed-open-wheel-and-hinged-staff-distance-tool-01/v1.0.0/thumbnail.png",
+      "size": 484076,
+      "sha256": "f39f5e5aada0bd849920d760dd6f92cb0010b94fd0295fb475cff68bf7e05060"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

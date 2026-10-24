@@ -1,0 +1,42 @@
+{
+  "id": "playground-fixed-central-mast-rope-pyramid-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "music",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Central Mast Rope Pyramid",
+  "description": "One newly authored complete fixed four-face rope-net pyramid apparatus. One full tall central mast stands on a grounded foot and four diagonal ties connect it to a continuous square perimeter with four broad corner feet. Four thick primary ropes join the crown to the corner anchors. Each triangular face carries whole gently sagged transverse ropes and complete rising ropes with small alternating depth offsets, leaving actual open mesh spaces rather than painted netting. This is not the old triangulated rigid-rod low dome reshaped by adding rods: its full central-mast and crown-to-anchor support layout and four woven-looking faces are different, independently authored numeric geometry. No old climbing wall or cable trolley reused. Three opaque constant untextured PBR roles; metres, Z up and whole horizontal ground centering. One whole apparatus and zero scenes. Empty static art only; fixed rope overlaps and shallow sag are illustrative, not a tension simulation. No climbability, age or human fit, entrapment/fall protection, load, anchoring, elastic motion, installation, fabrication or playground safety claim.",
+  "bounds": {
+    "x": 2.88,
+    "y": 2.88,
+    "z": 2.6,
+    "unit": "m"
+  },
+  "triangles": 7844,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/music/playground-fixed-central-mast-rope-pyramid-01/v1.0.0/model.glb",
+      "size": 596688,
+      "sha256": "c71d483df703cddae1f2a216fd3f171da25687ce2989c37c0aaffa233b496857"
+    },
+    "blend": {
+      "path": "assets/music/playground-fixed-central-mast-rope-pyramid-01/v1.0.0/source.blend",
+      "size": 1245484,
+      "sha256": "929e0237b11e0c019b2d2d64f7c06959c8a8252529ef211610f7ec1cd982db4a"
+    },
+    "generator": {
+      "path": "assets/music/playground-fixed-central-mast-rope-pyramid-01/v1.0.0/generate.py",
+      "size": 11377,
+      "sha256": "c488f4d6db10d2ca7ecacae486c4c73775acc34618d1da2e0ac9b447ce945bf4"
+    },
+    "render": {
+      "path": "assets/music/playground-fixed-central-mast-rope-pyramid-01/v1.0.0/thumbnail.png",
+      "size": 556752,
+      "sha256": "0e81fcd67634e7a43b97ac7c9aca79047b2a61879eae5894e4f107e2328a53b4"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
