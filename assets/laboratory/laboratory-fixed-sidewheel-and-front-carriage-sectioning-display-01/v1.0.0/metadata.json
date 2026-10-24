@@ -1,0 +1,42 @@
+{
+  "id": "laboratory-fixed-sidewheel-and-front-carriage-sectioning-display-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "laboratory",
+  "style": "source-preserved-low-poly",
+  "title": "Fixed Sidewheel and Front Carriage Sectioning Display",
+  "description": "One newly authored complete fixed tabletop rotary sectioning-machine appearance. One low footed base supports a compact upright enclosed side-wheel body, a separate front vertical guide and sliding carriage, a forward empty two-jaw specimen clamp, and a lower transverse holder carrying one finite blunt rectangular plate. A large open handwheel on the side has a real hub, four spokes, an outer ring and a separate eccentric grip. The lower holder has two complete supporting cheeks and a cross bridge, not a horizontal ram or a guarded circular cutting disk. No specimen, slice, liquid, scale, exposed working blade edge or imported old geometry. One whole prop and zero scenes; four opaque constant PBR materials, metres, Z up and horizontally bounds-centred ground origin. All interfaces are fixed overlap illustrations. No working linkage, feed motion, cutting capability, biological preparation, medical utility, accuracy, manufacture or safe handling is claimed.",
+  "bounds": {
+    "x": 0.4065000116825104,
+    "y": 0.4000000059604645,
+    "z": 0.35499998927116394,
+    "unit": "m"
+  },
+  "triangles": 1424,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/laboratory/laboratory-fixed-sidewheel-and-front-carriage-sectioning-display-01/v1.0.0/model.glb",
+      "size": 136356,
+      "sha256": "47890c557dfecd0e6e22ae4b37b566dc7003d1f2e72042d9ad943b1592cbbbef"
+    },
+    "blend": {
+      "path": "assets/laboratory/laboratory-fixed-sidewheel-and-front-carriage-sectioning-display-01/v1.0.0/source.blend",
+      "size": 823552,
+      "sha256": "f3f8092b6a13953e2a1281e5d768620e7c8a73aabc42dc99a7dcfac159ee35f1"
+    },
+    "generator": {
+      "path": "assets/laboratory/laboratory-fixed-sidewheel-and-front-carriage-sectioning-display-01/v1.0.0/generate.py",
+      "size": 17668,
+      "sha256": "eca9deeb55fc5dfa650e048a9f72450247af56aa96abcf10b2d55fbfc0264b7e"
+    },
+    "render": {
+      "path": "assets/laboratory/laboratory-fixed-sidewheel-and-front-carriage-sectioning-display-01/v1.0.0/thumbnail.png",
+      "size": 538002,
+      "sha256": "4025eb6f9d236fe629beec0332d21b9f5dd60316732a9e89af86f12961cc25cc"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

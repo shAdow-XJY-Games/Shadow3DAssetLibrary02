@@ -1,0 +1,42 @@
+{
+  "id": "agriculture-fixed-clamp-and-fork-shaft-fruit-peeler-01",
+  "version": "1.0.0",
+  "category": "modular",
+  "assetKind": "prop",
+  "theme": "agriculture",
+  "style": "warm-handcrafted-village",
+  "title": "Fixed Clamp and Fork-Shaft Fruit Peeler",
+  "description": "One newly authored whole table-clamped hand-crank fruit-peeling device in a static empty pose. One open C-clamp casting grows into a tall short shaft-bearing boss, a horizontal fruit-carrier shaft ends in three long tapered prongs, and its opposite end carries a real offset crank and thick grip. An independent curved side arm reaches an open-loop blade carrier beside the fruit axis. A lower pressure screw and broad pad complete the clamp opening. This is not the old tall-post can opener with two cutting wheels, nor a vertical lever citrus press. Empty static art prop, one model and zero scenes; no actual cutting, peeling, coring, food-contact, adjustment or safe clamping performance is claimed.",
+  "bounds": {
+    "x": 0.551999986,
+    "y": 0.101000004,
+    "z": 0.335999995,
+    "unit": "m"
+  },
+  "triangles": 692,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/agriculture/agriculture-fixed-clamp-and-fork-shaft-fruit-peeler-01/v1.0.0/model.glb",
+      "size": 41564,
+      "sha256": "06037ac79d594d67005cc0621bf3018990f387dc7a013db72757c97dac655f28"
+    },
+    "blend": {
+      "path": "assets/agriculture/agriculture-fixed-clamp-and-fork-shaft-fruit-peeler-01/v1.0.0/source.blend",
+      "size": 585716,
+      "sha256": "dd3f7136b97e1a7e8955ddc9aaa3a7e22273ccfac24371a4642e339a7d17a936"
+    },
+    "generator": {
+      "path": "assets/agriculture/agriculture-fixed-clamp-and-fork-shaft-fruit-peeler-01/v1.0.0/generate.py",
+      "size": 29854,
+      "sha256": "45c31699bcbf022496c68f3e8983dadbd50632ae6e620d7b408e1345a5df6541"
+    },
+    "render": {
+      "path": "assets/agriculture/agriculture-fixed-clamp-and-fork-shaft-fruit-peeler-01/v1.0.0/thumbnail.png",
+      "size": 485478,
+      "sha256": "69a2b2479dfc7b38624d4f234b7385aac3852a8326785af30c72508d06f95653"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

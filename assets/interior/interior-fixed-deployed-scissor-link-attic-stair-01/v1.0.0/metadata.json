@@ -1,0 +1,42 @@
+{
+  "id": "interior-fixed-deployed-scissor-link-attic-stair-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "interior",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Deployed Scissor Link Attic Stair",
+  "description": "One original complete fixed deployed attic stair exterior with two layered scissor-link side chains, explicit outer end-node pins and seven full horizontal treads carried on separate transverse crossing axes distributed along the inclined chain. A whole true open-through ceiling curb, two fixed top hangers, separate lowered hatch and whole bottom shoes complete the module. No long segmented rigid side rails are present. Unlike the earlier three-section attic ladder, the stair support graph is a sequence of crossed side links with each tread at its own crossing axis; unlike the earlier scissor platform, there is no single lifted top deck above one paired X. Whole new geometry, not repeated copies of either asset. Three opaque PBR materials, metres and centred ground origin, one model and zero scenes. Fixed exterior only: ceiling curb is an uninstalled mounting interface without host ceiling. No contracting motion, sliding fit, locking, mechanism collision, climbing, load, accessibility, installation or building-safety capability is supplied.",
+  "bounds": {
+    "x": 0.92,
+    "y": 2.2195199697885153,
+    "z": 2.4507460674722212,
+    "unit": "m"
+  },
+  "triangles": 1920,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/interior/interior-fixed-deployed-scissor-link-attic-stair-01/v1.0.0/model.glb",
+      "size": 124592,
+      "sha256": "441aeaeee010e3acefe2aeb7c0a2da989092a59bef2c5c0d957351451cfa5ed1"
+    },
+    "blend": {
+      "path": "assets/interior/interior-fixed-deployed-scissor-link-attic-stair-01/v1.0.0/source.blend",
+      "size": 994860,
+      "sha256": "49e81d0ea2569fea8be276cf08159a6d3125ee7e6f514b80c2d9ae231d9ac564"
+    },
+    "generator": {
+      "path": "assets/interior/interior-fixed-deployed-scissor-link-attic-stair-01/v1.0.0/generate.py",
+      "size": 11300,
+      "sha256": "09a0c002c25fb3b228e89dab351702601668050395e7948f5020e253f5bdac5b"
+    },
+    "render": {
+      "path": "assets/interior/interior-fixed-deployed-scissor-link-attic-stair-01/v1.0.0/thumbnail.png",
+      "size": 423468,
+      "sha256": "5587fcf765039cb0ff62b0215ba767dcbcc24b0f67079c65a9ebd58fa28e9663"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

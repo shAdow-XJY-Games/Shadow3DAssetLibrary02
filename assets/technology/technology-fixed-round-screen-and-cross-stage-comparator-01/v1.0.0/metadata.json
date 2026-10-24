@@ -1,0 +1,42 @@
+{
+  "id": "technology-fixed-round-screen-and-cross-stage-comparator-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "technology",
+  "style": "source-preserved-low-poly",
+  "title": "Fixed Round Screen and Cross Stage Comparator",
+  "description": "One newly authored complete fixed tabletop round-screen profile-comparator appearance. A broad footed base and integral-height rear support carry one large deep circular screen housing, a genuinely recessed opaque blank screen, and a separate short downward objective assembly under the housing. In front, a lower longitudinal guide frame, independent carriage, two transverse-direction rails and an upper open stage frame form two visibly distinct orthogonal slide levels. Two separate stemmed control knobs belong to the different levels. A complete side-supported short illuminator-like barrel with recessed opaque face points across the empty stage region. No workpiece, projected image, marked scale, crosshair, optical ray, old camera, bellows or imported geometry. One whole prop, zero scenes; four opaque constant PBR materials, metres, Z up and horizontally bounds-centred ground origin. Fixed overlap interfaces are artistic, not a functional mechanism. No projection, magnification, illumination, imaging, measurement, calibration, travel, adjustment, manufacture or safety capability is claimed.",
+  "bounds": {
+    "x": 0.5799999833106995,
+    "y": 0.5830000042915344,
+    "z": 0.9049999713897705,
+    "unit": "m"
+  },
+  "triangles": 2520,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/technology/technology-fixed-round-screen-and-cross-stage-comparator-01/v1.0.0/model.glb",
+      "size": 224184,
+      "sha256": "2ebc21704bf609f4973b52fc718d5feffdb89e4ab8637533a6ec02198cfa5c86"
+    },
+    "blend": {
+      "path": "assets/technology/technology-fixed-round-screen-and-cross-stage-comparator-01/v1.0.0/source.blend",
+      "size": 918080,
+      "sha256": "bae06ce2f90008a29d50f653e87ca673194dcaebd5ad8e2c96114d64e906ebd5"
+    },
+    "generator": {
+      "path": "assets/technology/technology-fixed-round-screen-and-cross-stage-comparator-01/v1.0.0/generate.py",
+      "size": 17920,
+      "sha256": "5a7a3aa3599e33997fa397fb92b50e4e8ae4ab55aa1bf62597d5f4c81ae87385"
+    },
+    "render": {
+      "path": "assets/technology/technology-fixed-round-screen-and-cross-stage-comparator-01/v1.0.0/thumbnail.png",
+      "size": 512614,
+      "sha256": "210787a25c5d15a77d80db9bacbf97c94091812b26314b28d548cabccfd31ccf"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

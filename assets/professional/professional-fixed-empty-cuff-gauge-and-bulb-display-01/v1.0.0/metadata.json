@@ -1,0 +1,42 @@
+{
+  "id": "professional-fixed-empty-cuff-gauge-and-bulb-display-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "professional",
+  "style": "source-preserved-low-poly",
+  "title": "Fixed Empty Cuff Gauge and Bulb Display",
+  "description": "One newly authored complete static cuff-gauge-and-bulb medical-profession visual display. A broad thick empty cylindrical cuff has full inner surfaces and a genuine open bore, plus one fixed overlapping exterior fastening tab. Two separate complete flexible hoses connect distinct lower cuff outlets to a full recessed blank round gauge case and a complete elongated bulb with neck and short valve exterior. The cuff, gauge housing and squeeze-bulb arrangement is newly authored rather than a stethoscope with a different terminal. One prop, zero scenes, three opaque materials. Fixed appearance only: no person, calibrated scale, reading, pressure or inflation, blood-pressure measurement, diagnosis, use instructions, manufacture, hygiene or medical-device performance or safety claim.",
+  "bounds": {
+    "x": 0.2460000067949295,
+    "y": 0.25783297419548035,
+    "z": 0.11900000274181366,
+    "unit": "m"
+  },
+  "triangles": 2384,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/professional/professional-fixed-empty-cuff-gauge-and-bulb-display-01/v1.0.0/model.glb",
+      "size": 211500,
+      "sha256": "bba34259b4ef66fa4fba2f5816b095d76bd573a39f4d84d828d8f7ab3d20a884"
+    },
+    "blend": {
+      "path": "assets/professional/professional-fixed-empty-cuff-gauge-and-bulb-display-01/v1.0.0/source.blend",
+      "size": 865568,
+      "sha256": "c0fe57d99f51992784b06837b707beb5c657e8c1c0661465a1c6bce7b1e3905d"
+    },
+    "generator": {
+      "path": "assets/professional/professional-fixed-empty-cuff-gauge-and-bulb-display-01/v1.0.0/generate.py",
+      "size": 15325,
+      "sha256": "0c2536ac364a5e99a461f3135a4bc726c7e42ba5f724478508e70ee87bae002f"
+    },
+    "render": {
+      "path": "assets/professional/professional-fixed-empty-cuff-gauge-and-bulb-display-01/v1.0.0/thumbnail.png",
+      "size": 504140,
+      "sha256": "7cfb5bdf51991e411db818fe1521572cc140227625e8bbe4c6da11b8afb5f5aa"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "sports-fixed-twin-guide-round-platform-speed-bag-stand-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "sports",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Twin-Guide Round-Platform Speed Bag Stand",
+  "description": "One newly authored complete static speed-bag platform stand. Two long grounded runners and low triangular braces carry two complete tall polygonal guide posts and top/bottom cross ties. One fixed bridge has two real full-length matched-bore sleeves around those guides, rear lock-knob appearances, two forward cantilever rails and upper diagonal braces supporting a complete thick circular wooden rebound platform. A short actual underside boss and fixed connector enter one whole softly shouldered pear-shaped bag directly below the platform. This is not the previous long four-strap cylindrical heavy bag hung from a single tall eye, nor a cable/weight pulldown tower: the whole guided deck carriage and short direct bag-to-platform relationship are newly authored. All geometry new; only mature generic helpers reused. Four opaque constant untextured PBR roles, native metres and Z up, whole horizontally bounds-centred ground origin. One complete prop, zero scenes. Static fixed appearance only: no adjustment travel, sliding mechanism, hinge or swivel simulation, rebound behavior, punching response, exercise suitability, load rating, manufacture or equipment-safety claim. No athlete, text, textures or surrounding room.",
+  "bounds": {
+    "x": 0.8200000000000001,
+    "y": 1.12,
+    "z": 2.1175,
+    "unit": "m"
+  },
+  "triangles": 1756,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/sports/sports-fixed-twin-guide-round-platform-speed-bag-stand-01/v1.0.0/model.glb",
+      "size": 99740,
+      "sha256": "4a81ccb72cc90d94895885b48c9cb8e951723abf3c3c777a29a973faf819c0bf"
+    },
+    "blend": {
+      "path": "assets/sports/sports-fixed-twin-guide-round-platform-speed-bag-stand-01/v1.0.0/source.blend",
+      "size": 732280,
+      "sha256": "3f86fd9004baa601b1998ea02d8f3bac400a7cdc5c3e0ffda8fee5e811750aff"
+    },
+    "generator": {
+      "path": "assets/sports/sports-fixed-twin-guide-round-platform-speed-bag-stand-01/v1.0.0/generate.py",
+      "size": 10964,
+      "sha256": "2a7d6239073bd591f5abeb258e3d264995ed4effe9aae2cb450a26b973c5a063"
+    },
+    "render": {
+      "path": "assets/sports/sports-fixed-twin-guide-round-platform-speed-bag-stand-01/v1.0.0/thumbnail.png",
+      "size": 400596,
+      "sha256": "2f247d5365777d1c7d7d80b95264bb0e16260d3735523c276469c658ee06cfc1"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

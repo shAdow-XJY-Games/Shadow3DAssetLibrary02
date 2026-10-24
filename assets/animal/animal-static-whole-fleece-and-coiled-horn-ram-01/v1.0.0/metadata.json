@@ -1,0 +1,42 @@
+{
+  "id": "animal-static-whole-fleece-and-coiled-horn-ram-01",
+  "version": "1.0.0",
+  "category": "modular",
+  "assetKind": "prop",
+  "theme": "animal",
+  "style": "warm-handcrafted-village",
+  "title": "Static Whole-Fleece Coiled-Horn Ram",
+  "description": "One newly authored whole stylised ram-like sheep in a fixed four-foot stance. The deep round fleece torso has one continuous scalloped surface, not a collection of detached wool balls. Its short thick neck merges into a descending blunt head, with two small outward ears, lateral eyes and two thick tapered open horn coils beside the head. Four medium stocky legs meet broad dark split-hoof outlines; a short downward tail completes the body. All body sections, complete horn paths, head and limb proportions are new rather than a recoloured pig or deer with its antlers replaced. One static animal prop, zero scenes. No exact breed, anatomical, horn function, locomotion, husbandry or handling claim.",
+  "bounds": {
+    "x": 0.815100014,
+    "y": 1.735703945,
+    "z": 1.199574947,
+    "unit": "m"
+  },
+  "triangles": 2548,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/animal/animal-static-whole-fleece-and-coiled-horn-ram-01/v1.0.0/model.glb",
+      "size": 144484,
+      "sha256": "b0e653a1c6c56bd1cf54fa714d33776d9e32a5590efd9b2c803fb0a76e7d0e98"
+    },
+    "blend": {
+      "path": "assets/animal/animal-static-whole-fleece-and-coiled-horn-ram-01/v1.0.0/source.blend",
+      "size": 668292,
+      "sha256": "4ba39bb4db3ef3af7025c8bddb5c2d1a9d160288ca8a3b4120e06d29104329e1"
+    },
+    "generator": {
+      "path": "assets/animal/animal-static-whole-fleece-and-coiled-horn-ram-01/v1.0.0/generate.py",
+      "size": 30170,
+      "sha256": "36dc8b0bb34f175cd15dfda24d642280168ad6033a5be24621e8d799a1fb6b46"
+    },
+    "render": {
+      "path": "assets/animal/animal-static-whole-fleece-and-coiled-horn-ram-01/v1.0.0/thumbnail.png",
+      "size": 501825,
+      "sha256": "17a2d6cf3774d684cb6daa164dd53094d144e5fa347d762fcc94b97ff6ccde64"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "fantasy-fixed-rooted-three-claw-crystal-totem-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "fantasy",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Rooted Three Claw Crystal Totem",
+  "description": "One original complete static fantasy crystal totem: an asymmetrically winding wood-like central stem joins three sweeping rooted feet with finite ground soles and three independently editable inward-curving tapered crown claws around one complete double-ended octagonal opaque crystal. The claw routes spread out from the stem, curve around the crystal body and turn back toward its upper point; restrained whole stem bindings finish the object. No museum crystal-cluster mesh or carved rune slab imported, no new object made by changing glyphs, prism counts or pedestal height. One newly drawn whole rooted support-and-held-core silhouette, three opaque untextured PBR materials, metre units and horizontally centred ground origin. One model and zero scenes. Invented decorative fantasy art, not a real plant or religious object; no light emission, transparency, magic effect, motion, load, stability or safety performance claimed.",
+  "bounds": {
+    "x": 0.9719025186066437,
+    "y": 0.8564184897217512,
+    "z": 2.14,
+    "unit": "m"
+  },
+  "triangles": 1044,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/fantasy/fantasy-fixed-rooted-three-claw-crystal-totem-01/v1.0.0/model.glb",
+      "size": 69540,
+      "sha256": "74c133037add136e086aa9cae6ccb8e21adece843417196c23494d54bb29bbff"
+    },
+    "blend": {
+      "path": "assets/fantasy/fantasy-fixed-rooted-three-claw-crystal-totem-01/v1.0.0/source.blend",
+      "size": 633368,
+      "sha256": "eccb55ecebd9f51d0f0e359a0f7fb7f24d310fed6e8f349055d6c349f4b886cd"
+    },
+    "generator": {
+      "path": "assets/fantasy/fantasy-fixed-rooted-three-claw-crystal-totem-01/v1.0.0/generate.py",
+      "size": 11207,
+      "sha256": "74ca2a7ddf62c2ecf8f9b99d89b4856c848e4da60c2b7d4598d125bc2247a1a8"
+    },
+    "render": {
+      "path": "assets/fantasy/fantasy-fixed-rooted-three-claw-crystal-totem-01/v1.0.0/thumbnail.png",
+      "size": 366247,
+      "sha256": "91d9e87ecf3d9796a29c89d17ec915afca4fc8616a38ad6ac06b148b0984694b"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

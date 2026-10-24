@@ -1,0 +1,42 @@
+{
+  "id": "animal-static-long-bill-deep-pouch-pelican-01",
+  "version": "1.0.0",
+  "category": "modular",
+  "assetKind": "prop",
+  "theme": "animal",
+  "style": "warm-handcrafted-village",
+  "title": "Static Long-Bill Deep-Pouch Pelican",
+  "description": "One newly authored whole stylised pelican-like bird in a fixed grounded pose. A deep horizontal torso continues into a thick curved rising neck and small head. Its disproportionately long narrow upper bill lies above a genuinely deep sagging lower throat-pouch exterior, forming a broad hanging keel near the head and tapering together at the far tip. Two full folded wing lobes lie on the body, short legs end in broad webbed feet, and small eyes are rooted in the head. Entire body, pouch and bill sections are new, not a lengthened old wading-bird beak or old duck arrays. One static animal prop, zero scenes. The mouth is closed exterior art, not an internal airway or articulated pouch. No precise species, anatomy, feeding, flight, swimming, rig or biological performance claim.",
+  "bounds": {
+    "x": 0.79400003,
+    "y": 2.710000038,
+    "z": 1.440000057,
+    "unit": "m"
+  },
+  "triangles": 1428,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/animal/animal-static-long-bill-deep-pouch-pelican-01/v1.0.0/model.glb",
+      "size": 81636,
+      "sha256": "04b2baac2525a8126d6a8988fde72cda8567fbec0705d179ba382e29030ed705"
+    },
+    "blend": {
+      "path": "assets/animal/animal-static-long-bill-deep-pouch-pelican-01/v1.0.0/source.blend",
+      "size": 620748,
+      "sha256": "06520fd0e228acb3d1d1b9d7f036d6eb7ab5f2807b65f50205d999ac16a0a76f"
+    },
+    "generator": {
+      "path": "assets/animal/animal-static-long-bill-deep-pouch-pelican-01/v1.0.0/generate.py",
+      "size": 29551,
+      "sha256": "4d2559f6c5bf95f9efb773d4d9adda3e865fdd9d905ea326884ea21f50fa9e8d"
+    },
+    "render": {
+      "path": "assets/animal/animal-static-long-bill-deep-pouch-pelican-01/v1.0.0/thumbnail.png",
+      "size": 476325,
+      "sha256": "1df96c4026d819360a666da9d53bee687ff3f6286f5d202341e2cc774ea1d547"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

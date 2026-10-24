@@ -1,0 +1,42 @@
+{
+  "id": "technology-fixed-nested-shaft-and-radial-planetary-display-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "technology",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Nested Shaft and Radial Planetary Display",
+  "description": "One newly authored complete static tabletop planetary-model display. A broad stepped ground base and three full turned columns support an annular upper deck, leaving an actual open lower bay with two independent toothed-disk appearances on complete upright shafts. A shaped side bearing block carries a full horizontal shaft, offset hand crank and grip. Above the deck, four complete truly bored concentric sleeves have different crown heights and independently carry whole bent radial arms, full outer vertical stems and closed faceted planet-model spheres. A separate complete central spindle supports the larger central sun-model sphere. The new low mechanism-base and nested-axis/radial-carrier whole relation is not an armillary ring cage with added balls or a gimballed flywheel with its rim removed; no old component geometry is reused. Four planets are subordinate parts of one illustrative device, not four separately counted models, and their arbitrary colours/sizes do not define the new asset. Closed editable solids, four opaque untextured constant PBR roles, metres, native Z up and actual horizontal bounds-centred ground datum. One model, zero scenes. Frozen fictional teaching-display exterior only: deliberate fixed overlaps and separated gear levels are not functioning bearings or a meshing drive. No motion, accurate planet identity, orbital position, astronomical time, orbital or body scale, gear ratio, calibration, instruction, manufacture, balance, stability, load, ergonomics or safety certification.",
+  "bounds": {
+    "x": 0.644104,
+    "y": 0.47,
+    "z": 0.593,
+    "unit": "m"
+  },
+  "triangles": 7088,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/technology/technology-fixed-nested-shaft-and-radial-planetary-display-01/v1.0.0/model.glb",
+      "size": 371404,
+      "sha256": "3cd3e0391a0cc73881ab275c892761d8acd7dc867d76011cef2538310a02caba"
+    },
+    "blend": {
+      "path": "assets/technology/technology-fixed-nested-shaft-and-radial-planetary-display-01/v1.0.0/source.blend",
+      "size": 1051708,
+      "sha256": "e6c7c97e5da2353f30f34d8313370eaeece6c34527c8fb036bcfc271921a2099"
+    },
+    "generator": {
+      "path": "assets/technology/technology-fixed-nested-shaft-and-radial-planetary-display-01/v1.0.0/generate.py",
+      "size": 29428,
+      "sha256": "e5263829d8e5661fc77eb639884326f87022b886779632e5e8bf7bea92371641"
+    },
+    "render": {
+      "path": "assets/technology/technology-fixed-nested-shaft-and-radial-planetary-display-01/v1.0.0/thumbnail.png",
+      "size": 542209,
+      "sha256": "f651d9be36cc6e7080ba049382e77125c0ad5842dfcc42cf62f531a8e90857b6"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

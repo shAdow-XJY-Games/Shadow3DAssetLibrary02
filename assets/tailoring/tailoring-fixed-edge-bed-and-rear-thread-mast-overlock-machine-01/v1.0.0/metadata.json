@@ -1,0 +1,42 @@
+{
+  "id": "tailoring-fixed-edge-bed-and-rear-thread-mast-overlock-machine-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "tailoring",
+  "style": "source-preserved-low-poly",
+  "title": "Fixed Edge Bed and Rear Thread Mast Overlock Machine",
+  "description": "One newly authored complete fixed tabletop overlock-sewing-machine-style exterior. A compact asymmetric case has a short projecting left head over a small outboard edge bed with a genuine needle-plate slot, a broad lower front enclosure and one full right-side handwheel. Separate blunt needle-bar and presser-foot appearances occupy the open edge-working gap. Four front tension-disc appearances are backed by the head, while an integrated rear platform holds four opaque whole cone exteriors under a tall complete mast and horizontal guide bar with four actual open eyelets. Four finite flat feet support the whole base. No large open C throat, dedicated sewing table, chair or foot treadle is copied from the old lockstitch workstation. All numeric geometry new; one prop zero scenes and three opaque materials. Static game art only: no fabric, cutting blade, continuous threading path, needle movement, actual tension, stitches, motor operation, manufacture, ergonomic or machine-safety claim.",
+  "bounds": {
+    "x": 0.35499998927116394,
+    "y": 0.3370000123977661,
+    "z": 0.48100000619888306,
+    "unit": "m"
+  },
+  "triangles": 3148,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/tailoring/tailoring-fixed-edge-bed-and-rear-thread-mast-overlock-machine-01/v1.0.0/model.glb",
+      "size": 291852,
+      "sha256": "807059364ac8ab2541dd7f51f3ac003a79bf9f59c455a17319eaf2bc4fe40550"
+    },
+    "blend": {
+      "path": "assets/tailoring/tailoring-fixed-edge-bed-and-rear-thread-mast-overlock-machine-01/v1.0.0/source.blend",
+      "size": 1064032,
+      "sha256": "e50d91eaa8df6cb95c1791006a7d71fb60e39025d87eb03c35daca5b5bb20682"
+    },
+    "generator": {
+      "path": "assets/tailoring/tailoring-fixed-edge-bed-and-rear-thread-mast-overlock-machine-01/v1.0.0/generate.py",
+      "size": 16810,
+      "sha256": "45c78d96254106424add60d999e42b88703dfe6e3c97140c96fc35d2f837e21d"
+    },
+    "render": {
+      "path": "assets/tailoring/tailoring-fixed-edge-bed-and-rear-thread-mast-overlock-machine-01/v1.0.0/thumbnail.png",
+      "size": 499838,
+      "sha256": "17e5def6c66118156e9c251c5a2858bc9d818e8b638964518687ae002d9046a5"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

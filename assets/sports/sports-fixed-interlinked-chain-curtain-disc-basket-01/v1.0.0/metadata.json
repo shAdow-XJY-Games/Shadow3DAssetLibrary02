@@ -1,0 +1,42 @@
+{
+  "id": "sports-fixed-interlinked-chain-curtain-disc-basket-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "sports",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Interlinked Chain-Curtain Disc Basket",
+  "description": "One newly authored complete static disc-golf-style target basket. A whole ground pedestal supports the central mast, broad upper suspension disc and separate deep open receiving basket. Twelve suspended chains each contain eight complete rectangular annular links with alternating planes, genuine open apertures and full opposed bar contact in one fixed interlocked pose. Their upper ends seat inside the suspension disc and lower ends meet a complete collar around the mast. Below, twelve continuous whole bottom-and-side wires meet a real central floor hub and full open upper rim, leaving a genuinely empty catching bowl. Unlike the old backboard basketball stand with straight net strands and an open bottom, this whole centred chain-curtain and lower catcher has no rear board or forward hoop; unlike the old horizontal crank sphere cage, it has no spherical enclosure, side axle or crank. Entire geometry newly authored, no old cage or net imported. Three opaque constant untextured PBR roles, metres, Z up and whole ground-centred origin. One complete prop, zero scenes; chains and links are not counted as independent assets. Static illustrative pose only: no disc-flight capture, rebound, chain dynamics, gameplay specification, stability, installation, load, manufacture or sporting-safety claim. No disc, player, scoring labels, textures or environment.",
+  "bounds": {
+    "x": 0.7,
+    "y": 0.7,
+    "z": 1.63,
+    "unit": "m"
+  },
+  "triangles": 5776,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/sports/sports-fixed-interlinked-chain-curtain-disc-basket-01/v1.0.0/model.glb",
+      "size": 356628,
+      "sha256": "612c0fece36e9cbe409b64ea82d16a3590da17941fe57722675e5515908d422f"
+    },
+    "blend": {
+      "path": "assets/sports/sports-fixed-interlinked-chain-curtain-disc-basket-01/v1.0.0/source.blend",
+      "size": 1352800,
+      "sha256": "5ed1818ee42abdfed4120c96e8ac693876ff5eb11be8452d0cd13c890f7f67d1"
+    },
+    "generator": {
+      "path": "assets/sports/sports-fixed-interlinked-chain-curtain-disc-basket-01/v1.0.0/generate.py",
+      "size": 11862,
+      "sha256": "2ac8495fbd767b45cc2d5e1cb29d04d46d441681b9344025cd6a4de1cef99eeb"
+    },
+    "render": {
+      "path": "assets/sports/sports-fixed-interlinked-chain-curtain-disc-basket-01/v1.0.0/thumbnail.png",
+      "size": 396415,
+      "sha256": "3953db71d689381d585902b68a8b43568d201bb3e94d25d69ab731dee1b89cce"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
