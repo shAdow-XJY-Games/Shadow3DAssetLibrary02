@@ -1,0 +1,42 @@
+{
+  "id": "entertainment-fixed-annular-ditch-and-peg-disc-board-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "music",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Annular Ditch and Peg Disc Board",
+  "description": "One newly authored complete circular tabletop disc-game board exterior in a fixed empty pose. A single continuous thick body includes a broad raised playing field, real deep blind centre pocket, full lower annular collecting ditch and a high complete outer rim. Eight short integral-rooted obstacle pegs stand around the centre and three finite feet support the whole board. Two thin field circles are material regions of the same continuous top triangles, not overlay rings or textures. No loose tokens counted as new models. This is not the old flat rectangular five-peg ring-toss plank with its count changed, a two-axis perforated maze with its walls removed, a serving basin filled with a disc, or a round version of an air-puck table: the complete centre-pocket/raised-field/annular-ditch boundary is newly authored as one connected solid. Three opaque constant untextured PBR roles; metres, Z up and full horizontal ground centering. One model and zero scenes. Static illustrative game object only: no regulation dimensions or rules, scoring, playability, rebound or friction physics, token fit, user age suitability, manufacture or toy-safety claim.",
+  "bounds": {
+    "x": 0.91,
+    "y": 0.91,
+    "z": 0.155,
+    "unit": "m"
+  },
+  "triangles": 2912,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/music/entertainment-fixed-annular-ditch-and-peg-disc-board-01/v1.0.0/model.glb",
+      "size": 131320,
+      "sha256": "cf81d01c49fb3d206373c8d01f3a54637fba97f950d8f023ee0d47f3e92dfc33"
+    },
+    "blend": {
+      "path": "assets/music/entertainment-fixed-annular-ditch-and-peg-disc-board-01/v1.0.0/source.blend",
+      "size": 729676,
+      "sha256": "a6dfdad37c2086de65b51db3f002e89258eac1c8da17a1231becceddf0226ef9"
+    },
+    "generator": {
+      "path": "assets/music/entertainment-fixed-annular-ditch-and-peg-disc-board-01/v1.0.0/generate.py",
+      "size": 10512,
+      "sha256": "beba85748f276d0972a7edf3836c57e010a059024f58dc021e434744788839d0"
+    },
+    "render": {
+      "path": "assets/music/entertainment-fixed-annular-ditch-and-peg-disc-board-01/v1.0.0/thumbnail.png",
+      "size": 464838,
+      "sha256": "b19025e8d9caf2790ef2f28050c3186f0c78480e808784c09bb8bbf734768de6"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "interior-fixed-suspended-ceiling-fan-light-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "interior",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Suspended Ceiling Fan Light",
+  "description": "One original complete suspended ceiling fan and light exterior. A full ceiling canopy and long downrod carry a closed rounded motor housing. Four broad whole horizontal paddles extend on their own bounded offset root brackets with finite mount caps; the lower neck, collar and opaque lamp diffuser form one central light appearance below the rotor plane. Two full pull-control chain exteriors end in finite small grips. No turbine, mine fan or chandelier mesh is imported or rescaled: the full suspended open horizontal-paddle mounting and lower diffuser differ from a grounded tall mast/nacelle vertical rotor and a skid-mounted bellmouth duct fan. Three constant opaque PBR materials, metres Z up, true whole XY centred. One isolated fixture, zero scenes; host ceiling is omitted, and minimum displayed Z is an export datum, not a ground-support claim. No animated rotation, blade sweep, airflow, cooling, illumination, electrical circuit, mounting load, installation or safety performance claim.",
+  "bounds": {
+    "x": 1.3125655171340558,
+    "y": 1.3125655171340558,
+    "z": 1.0050000000000001,
+    "unit": "m"
+  },
+  "triangles": 1984,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/interior/interior-fixed-suspended-ceiling-fan-light-01/v1.0.0/model.glb",
+      "size": 105524,
+      "sha256": "622597ef63bc91d4cff17c1357d8fefc1a954d011b95d6c75fc4abfbc82cdc44"
+    },
+    "blend": {
+      "path": "assets/interior/interior-fixed-suspended-ceiling-fan-light-01/v1.0.0/source.blend",
+      "size": 744216,
+      "sha256": "6523975773470a6445a91678e50c528a4d9fd87ca9cbb0cfe516b9fb382fa0ba"
+    },
+    "generator": {
+      "path": "assets/interior/interior-fixed-suspended-ceiling-fan-light-01/v1.0.0/generate.py",
+      "size": 11000,
+      "sha256": "819eb6a630271ef3035b2d7a15793ed670a6fcb400ff341795383a785c75235d"
+    },
+    "render": {
+      "path": "assets/interior/interior-fixed-suspended-ceiling-fan-light-01/v1.0.0/thumbnail.png",
+      "size": 363149,
+      "sha256": "65d72225468dc5c9e2e4eb4ad901f5476e21d3e0ce9b664ec372e6b82dddfd2d"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "professional-fixed-recessed-dial-meter-and-twin-probes-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "professional",
+  "style": "source-preserved-low-poly",
+  "title": "Fixed Recessed Dial Meter and Twin Probes",
+  "description": "One newly authored complete static portable multimeter appearance in a flat display pose. A compact protected case has a real blind upper screen well with a recessed opaque blank plate, one broad lower rotary-selector appearance with a raised pointer grip, and three finite annular front sockets. Two of those sockets carry complete fixed plugs and full curved leads; each lead terminates in a long insulated-looking probe grip, shoulder stop and short blunt metal-looking tip. A whole dark perimeter bumper retains the case. All numeric shapes and cable paths newly authored, no game-console casing or controls imported. One prop and zero scenes, three opaque materials; the probes are parts of the complete instrument, not separate assets. No display numbers, calibrated selector range, voltage/current, wiring, measurement performance, live testing, insulation or electrical-safety claim.",
+  "bounds": {
+    "x": 0.2720000147819519,
+    "y": 0.2609785795211792,
+    "z": 0.05299999937415123,
+    "unit": "m"
+  },
+  "triangles": 2284,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/professional/professional-fixed-recessed-dial-meter-and-twin-probes-01/v1.0.0/model.glb",
+      "size": 205480,
+      "sha256": "23427800391eacda28a988508482f3c65b0c07fa66c25d5b3f0d167ab63b786c"
+    },
+    "blend": {
+      "path": "assets/professional/professional-fixed-recessed-dial-meter-and-twin-probes-01/v1.0.0/source.blend",
+      "size": 873184,
+      "sha256": "7267c54f3ec76b54f0fccec60e5af62c8a2bdc1cf046c1f106369fb514f2c021"
+    },
+    "generator": {
+      "path": "assets/professional/professional-fixed-recessed-dial-meter-and-twin-probes-01/v1.0.0/generate.py",
+      "size": 15687,
+      "sha256": "40fa3e41a3ea76868d2b6f3700f50de024ebca1a0f3ccb0ffaf9f35c4d984dec"
+    },
+    "render": {
+      "path": "assets/professional/professional-fixed-recessed-dial-meter-and-twin-probes-01/v1.0.0/thumbnail.png",
+      "size": 490948,
+      "sha256": "0cc3192e378d920dcde9d729e7451f6f7df739dfba34983042e82db603eddfe2"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
