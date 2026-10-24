@@ -1,0 +1,42 @@
+{
+  "id": "music-fixed-bossed-gong-and-twin-loop-frame-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "music",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Bossed Gong and Twin Loop Frame",
+  "description": "One newly authored complete static suspended bossed gong with its whole frame. A single continuous thick metal-style material has a closed raised central boss, sloping shoulder, broad shallow face and returned outer rim; it is neither a membrane covering a kettle nor an annular cymbal pierced at its centre. Two complete annular eyes seat at the upper rim with their actual holes beyond the disc outline. Two closed thick cord loops pass through those holes and over the full crossbeam. Two whole uprights, transverse ground shoes, rear diagonal stays and a low full tie form a complete connected support frame. Entire numeric geometry is new, not a drum-kit cymbal rotated/recoloured, a timpani head detached or a reused beam prop arrangement. One whole model and zero scenes, three opaque untextured PBR roles, metres, Z up and whole ground-centred origin. No striker, player, stage, inscriptions, texture or claimed cultural reconstruction. The pose is fixed illustrative game art only: no swing, percussion response, pitch, timbre, physical rope forces, acoustic transfer, working suspension, load, stability, fabrication or safety certification.",
+  "bounds": {
+    "x": 1.48,
+    "y": 0.72,
+    "z": 1.7219994171514952,
+    "unit": "m"
+  },
+  "triangles": 2240,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/music/music-fixed-bossed-gong-and-twin-loop-frame-01/v1.0.0/model.glb",
+      "size": 135220,
+      "sha256": "ae2770a18891ae859b01dbe257d0f802954273dd396ef087128ba35d24b9d5ea"
+    },
+    "blend": {
+      "path": "assets/music/music-fixed-bossed-gong-and-twin-loop-frame-01/v1.0.0/source.blend",
+      "size": 697896,
+      "sha256": "71431eb0df4d90e3a2c91cc797a7f284e480cc177f504718df708197a2e760fc"
+    },
+    "generator": {
+      "path": "assets/music/music-fixed-bossed-gong-and-twin-loop-frame-01/v1.0.0/generate.py",
+      "size": 11360,
+      "sha256": "27aeb771fdd5d5cc9885fc39ff237e48414ed39aad591db203d84c22f8ff4f82"
+    },
+    "render": {
+      "path": "assets/music/music-fixed-bossed-gong-and-twin-loop-frame-01/v1.0.0/thumbnail.png",
+      "size": 485720,
+      "sha256": "c1d95cd9fdb273fda03d7d40ccc032225828fd01000f7f0833e17c0c41c5aa52"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "carnival-fixed-suspended-kettle-and-open-popcorn-cabinet-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "carnival",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Suspended Kettle and Open Popcorn Cabinet",
+  "description": "One newly authored complete static popcorn-cabinet machine exterior shown as an intentionally open display. Four full corner posts rise from a low four-foot cabinet base to a broad cornice and sloping canopy crown. Two independent roof-hung straps support bored kettle bearings and short side trunnions. A thick open kettle with an actual interior floor is fixed slightly tipped; a separate lifted cover and hinge arm expose the mouth. A right crank and dark grip are attached to its side spindle. Below is one continuous empty rectangular receiving trough with four finite walls and a complete floor. All numeric geometry is new, not a fantasy cauldron transplanted, a bakery shelf cabinet recoloured or a scene of existing props. One whole model and zero scenes, three opaque untextured PBR materials, metres and ground-centred Z up. There are deliberately no glass panels or doors; the large front and side openings are real and are not claimed to contain transparent glazing. No popcorn, food, heater, cable, motor internals, lamp, rotating stirrer, working pour, operating recipe, thermal behaviour, hygiene, manufacturing or safety claim. Fixed illustrative game art only.",
+  "bounds": {
+    "x": 0.675,
+    "y": 0.538,
+    "z": 1.13,
+    "unit": "m"
+  },
+  "triangles": 1708,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/carnival/carnival-fixed-suspended-kettle-and-open-popcorn-cabinet-01/v1.0.0/model.glb",
+      "size": 93864,
+      "sha256": "7ee9601313330fb1ae89a3dbeff1e42bfb5ea89953bee2a4c7b8cd7d6fa95dad"
+    },
+    "blend": {
+      "path": "assets/carnival/carnival-fixed-suspended-kettle-and-open-popcorn-cabinet-01/v1.0.0/source.blend",
+      "size": 724664,
+      "sha256": "489c9d870fcc98d374dd10684ed10186dc769a0341d9c32f14d219d7fea7725c"
+    },
+    "generator": {
+      "path": "assets/carnival/carnival-fixed-suspended-kettle-and-open-popcorn-cabinet-01/v1.0.0/generate.py",
+      "size": 12136,
+      "sha256": "d24f095b93217797b39f23ccb996287ff63045a0d4ec55d832670300b2f4ef0e"
+    },
+    "render": {
+      "path": "assets/carnival/carnival-fixed-suspended-kettle-and-open-popcorn-cabinet-01/v1.0.0/thumbnail.png",
+      "size": 464738,
+      "sha256": "a3de8487c7c0b13f633b1c3bc1e25b58c785fdd74a7ed3cc74d278ffecdb4154"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

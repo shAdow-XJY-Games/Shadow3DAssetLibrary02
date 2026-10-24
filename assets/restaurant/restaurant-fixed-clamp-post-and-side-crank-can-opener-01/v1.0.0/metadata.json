@@ -1,0 +1,42 @@
+{
+  "id": "restaurant-fixed-clamp-post-and-side-crank-can-opener-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "restaurant",
+  "style": "source-preserved-low-poly",
+  "title": "Fixed Clamp Post and Side Crank Can Opener",
+  "description": "One newly authored complete static professional upright table-clamp can-opener appearance. A single open C-casting with raised screw pressure pad and transverse handle carries a tall narrow rectangular post and overhanging head. Under the head are one finite toothed-looking feed wheel with complete axle and a separate nearby blunt disk and its own mounting cheek and axle. A single offset side crank carries a thick end grip. Three opaque untextured PBR roles, one prop and zero scenes. No can or host table, motion, meshing mechanism, cutting or opening demonstration, mounting force, food contact, hygiene or safety claim. The lower clamp casting is only a preview datum, not a certified self-standing installation. New complete geometry, not a mincer with its hopper removed or a resized bench drill press.",
+  "bounds": {
+    "x": 0.20000000298023224,
+    "y": 0.25200000405311584,
+    "z": 0.45899999141693115,
+    "unit": "m"
+  },
+  "triangles": 1084,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/restaurant/restaurant-fixed-clamp-post-and-side-crank-can-opener-01/v1.0.0/model.glb",
+      "size": 102488,
+      "sha256": "0d8835ae43459d98c5e67f5854f7d1d1709f4f8593ef734a0cb1e2dd1d5f036d"
+    },
+    "blend": {
+      "path": "assets/restaurant/restaurant-fixed-clamp-post-and-side-crank-can-opener-01/v1.0.0/source.blend",
+      "size": 724672,
+      "sha256": "9d205fee8184fc84d9f5445d285e0c166bac4b81e28a1c28e6f88c4f9a3a6876"
+    },
+    "generator": {
+      "path": "assets/restaurant/restaurant-fixed-clamp-post-and-side-crank-can-opener-01/v1.0.0/generate.py",
+      "size": 14590,
+      "sha256": "39a926602f5f8cbd6ee692f434bcbe67362c581ab62e8aecf0f2daa5462c7197"
+    },
+    "render": {
+      "path": "assets/restaurant/restaurant-fixed-clamp-post-and-side-crank-can-opener-01/v1.0.0/thumbnail.png",
+      "size": 478517,
+      "sha256": "c5fd48726c3082ac274212e1ca95a941c26d48069a00479c0bc36a573a2511ff"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

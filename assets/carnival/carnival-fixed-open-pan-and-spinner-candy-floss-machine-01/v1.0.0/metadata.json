@@ -1,0 +1,42 @@
+{
+  "id": "carnival-fixed-open-pan-and-spinner-candy-floss-machine-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "carnival",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Open Pan and Spinner Candy Floss Machine",
+  "description": "One newly authored complete static candy-floss machine exterior. Four finite feet carry a chamfered tapered motor housing with a fixed front control fascia, blank dial and rocker. A full short support collar holds a single continuous broad shallow receiving pan with sloping walls, rolled thick lip and real empty floor. A separate central spindle carries a genuinely open blind-bottom spinner cup with a clear annular gap to the pan. All geometry is new, not a detached dough-mixer bowl, a centrifuge with its lid removed or an enlarged blender jug. One whole model and zero scenes. Three opaque constant untextured PBR materials, metres, Z up and whole ground-centred origin. Empty fixed illustrative game-art display only: no sugar, floss, sticks, operating recipe, heat element, working outlets, internal motor, wiring, rotation, speed, food handling, hygiene, fabrication or safety certification.",
+  "bounds": {
+    "x": 0.64,
+    "y": 0.64,
+    "z": 0.448,
+    "unit": "m"
+  },
+  "triangles": 2000,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/carnival/carnival-fixed-open-pan-and-spinner-candy-floss-machine-01/v1.0.0/model.glb",
+      "size": 106904,
+      "sha256": "8f5cb537d2e1afbecbb89be8815bbde40ff47292b9b5f05ac9b6398808c588f3"
+    },
+    "blend": {
+      "path": "assets/carnival/carnival-fixed-open-pan-and-spinner-candy-floss-machine-01/v1.0.0/source.blend",
+      "size": 680428,
+      "sha256": "def0bd1f57e36f2fd4600be6467018e0c890eebd789a4d8a8169c7518e9119aa"
+    },
+    "generator": {
+      "path": "assets/carnival/carnival-fixed-open-pan-and-spinner-candy-floss-machine-01/v1.0.0/generate.py",
+      "size": 10603,
+      "sha256": "0a8a5e6e979a62f8791720ad06dddf9872d446ec03d18163f97bf957b7b4094d"
+    },
+    "render": {
+      "path": "assets/carnival/carnival-fixed-open-pan-and-spinner-candy-floss-machine-01/v1.0.0/thumbnail.png",
+      "size": 502483,
+      "sha256": "724adce6307223513ed0f9c67817e7db8d631cebda45a473123ac123b4d7d16e"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
