@@ -1,0 +1,42 @@
+{
+  "id": "military-fixed-upright-crossarm-quintain-display-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "military",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Upright Crossarm Quintain Display",
+  "description": "One complete original fixed quintain-style camp display exterior. A wide crossed grounded base and four whole diagonal braces support a tall central post; the upper vertical spindle passes through a complete thick arm-head collar beneath a retaining cap. One whole elevated horizontal crossarm connects a broad shaped timber target board at one end and a genuine hanging-eye, alternating closed links and one complete shouldered sack at the opposite end. No weapon, projectile, person or old prop is imported. Unlike the old low horizontal-shaft two-seat seesaw, fixed three-front-arm wooden dummy, or rear-offset braced heavy-bag cantilever, the new whole structure centres on the vertical head/post and asymmetric two-ended arm relationship. One prop, zero scenes, three opaque constant PBR materials, metres, whole horizontal bounds-centred ground origin. Fixed artistic appearance only: no rig, animation, working rotation, striking action, training technique or efficacy, historical precision, balance, load, manufacture or equipment safety claim.",
+  "bounds": {
+    "x": 2.015,
+    "y": 0.88,
+    "z": 2.1,
+    "unit": "m"
+  },
+  "triangles": 1916,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/military/military-fixed-upright-crossarm-quintain-display-01/v1.0.0/model.glb",
+      "size": 95948,
+      "sha256": "db4660a5e19c3fb3b95ef507a3f3e891e9d16a03bbe49f5053394759fbd21f86"
+    },
+    "blend": {
+      "path": "assets/military/military-fixed-upright-crossarm-quintain-display-01/v1.0.0/source.blend",
+      "size": 708064,
+      "sha256": "d41836784a15bd6831c6c1314a039fb689c6c5b5ebec25923dee558650cb781a"
+    },
+    "generator": {
+      "path": "assets/military/military-fixed-upright-crossarm-quintain-display-01/v1.0.0/generate.py",
+      "size": 10719,
+      "sha256": "379d84830077631d33da5f148c6fd7ff42a7f97ea90b1ddaddb07697302e566d"
+    },
+    "render": {
+      "path": "assets/military/military-fixed-upright-crossarm-quintain-display-01/v1.0.0/thumbnail.png",
+      "size": 407206,
+      "sha256": "69c679ca9c7e3552c5f2a424733a8e153ee30a0dadcac3914376bd0f6dcd9c0a"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
