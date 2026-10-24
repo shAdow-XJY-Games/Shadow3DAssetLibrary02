@@ -1,0 +1,42 @@
+{
+  "id": "technology-fixed-toroidal-crown-and-spiral-coil-display-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "technology",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Toroidal Crown and Spiral Coil Display",
+  "description": "One newly authored complete static science-exhibit coil-tower appearance on a single chamfered ground base. A full stepped lower pedestal supports a tall closed opaque barrel wrapped by one whole continuous separated-turn copper-looking helix. A short central upper stem and three complete radial struts carry a broad thick closed toroidal crown with genuine open sectors around the centre. One separate complete broad planar copper-looking spiral surrounds the lower barrel across a real air gap and rests on four full opaque radial rails attached to the pedestal. Its free ends are capped; the tall winding ends terminate inside the opaque barrel. One blank front plate belongs to the base. This is a whole vertical tower with distinct upper ring, tall helical body and broad lower spiral, not the old twin-disc electrostatic machine with its discs removed, not a soldering-iron rest enlarged and not imported components rearranged. One prop, zero scenes; no separate asset count for turns, crown or supports. Four opaque constant untextured PBR materials, metres, Z up and actual horizontal-bounds-centred ground origin. Coarse fictional illustrative static art only: no electrical wiring, circuit, supply, capacitor, spark gap, voltage, frequency, turn specification, live connection, field, discharge, arcs, electrical operation, instructional construction, exact historic device, insulation, engineering or safety claim.",
+  "bounds": {
+    "x": 0.9,
+    "y": 0.73,
+    "z": 1.182,
+    "unit": "m"
+  },
+  "triangles": 9236,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/technology/technology-fixed-toroidal-crown-and-spiral-coil-display-01/v1.0.0/model.glb",
+      "size": 654472,
+      "sha256": "d3ce777a7b5428d217ee2d503d9b6793ee212ff487b75de50090d5fcd60ecff9"
+    },
+    "blend": {
+      "path": "assets/technology/technology-fixed-toroidal-crown-and-spiral-coil-display-01/v1.0.0/source.blend",
+      "size": 1091888,
+      "sha256": "ffb36f4e01a0ccf3be195fbcf793232b71b223cafc7ec86fab9bc6feffafd9a8"
+    },
+    "generator": {
+      "path": "assets/technology/technology-fixed-toroidal-crown-and-spiral-coil-display-01/v1.0.0/generate.py",
+      "size": 27180,
+      "sha256": "d0c7d519bdebce2e3cff893f0b1a09479e51e542851ce9d4e58bcf7db6daec0f"
+    },
+    "render": {
+      "path": "assets/technology/technology-fixed-toroidal-crown-and-spiral-coil-display-01/v1.0.0/thumbnail.png",
+      "size": 569530,
+      "sha256": "ae25d214e86f17639af0eed3ef7ab4e26e76d5c2a53c532628a14788b9f2c712"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

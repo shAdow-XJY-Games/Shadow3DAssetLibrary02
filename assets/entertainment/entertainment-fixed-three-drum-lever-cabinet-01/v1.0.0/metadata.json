@@ -1,0 +1,42 @@
+{
+  "id": "entertainment-fixed-three-drum-lever-cabinet-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "entertainment",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Three Drum Lever Cabinet",
+  "description": "One newly authored complete static three-drum lever amusement-cabinet appearance. A whole grounded pedestal supports a deep upper case with three real front apertures and three complete independent fixed drums on a shared transverse shaft. Thick window dividers and brows stand forward of the drum surfaces. A separate rooted side hub carries a fixed inclined lever and rounded knob. Beneath the reel chamber, a complete open-front receiving pocket has a real floor, rear, side walls and low lip. All whole numeric geometry is new, not the arched record cabinet with records recoloured, the vertical peg-drop field, a projected graphic screen or old case with a lever accessory. Three opaque constant untextured PBR roles, metres, Z up and complete horizontally centred ground origin. One whole prop and zero scenes. Blank static illustrative exterior only: no money, branding, numbers, prize symbols, wagering, payout, probabilities, randomisation, playable rules, rotating drums, lever linkage, electronics, manufacture or safety claim.",
+  "bounds": {
+    "x": 0.9670000000000001,
+    "y": 0.7130000000000001,
+    "z": 1.5374999999999999,
+    "unit": "m"
+  },
+  "triangles": 892,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/entertainment/entertainment-fixed-three-drum-lever-cabinet-01/v1.0.0/model.glb",
+      "size": 61540,
+      "sha256": "ffd03fa7db60546b7baa17f0f59b82aa0098b34912f906c94a7e53cfa042c257"
+    },
+    "blend": {
+      "path": "assets/entertainment/entertainment-fixed-three-drum-lever-cabinet-01/v1.0.0/source.blend",
+      "size": 694516,
+      "sha256": "93d1b342e4c4af20af98554cf8658b99c4ae2e12721d5e2f300cbd4e38ede1bf"
+    },
+    "generator": {
+      "path": "assets/entertainment/entertainment-fixed-three-drum-lever-cabinet-01/v1.0.0/generate.py",
+      "size": 11267,
+      "sha256": "1a179523f956303d70c472803add8e2565014ad9f584d7a77a15e97b8037a285"
+    },
+    "render": {
+      "path": "assets/entertainment/entertainment-fixed-three-drum-lever-cabinet-01/v1.0.0/thumbnail.png",
+      "size": 499557,
+      "sha256": "93574aa6ec978044e34a7cfb32755ef99968957c61332fee942f6c076c8c482a"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

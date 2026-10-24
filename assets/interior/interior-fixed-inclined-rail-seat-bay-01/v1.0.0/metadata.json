@@ -1,0 +1,42 @@
+{
+  "id": "interior-fixed-inclined-rail-seat-bay-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "interior",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Inclined Rail Seat Bay",
+  "description": "One newly authored complete fixed inclined-rail seat installation appearance. A single continuous eight-tread stair plinth carries four complete finite anchor brackets and two uninterrupted inclined round guide rails. Two genuinely bored inclined carriage collars surround the rails and join a compact fixed saddle housing. A horizontal padded seat, full padded back, two open armrests and a forward footplate remain level in this one mid-slope pose. Whole end plates and support stems belong to the assembly. No old wheelchair, wheeled ladder or vertical lift cabin meshes are imported; the inclined captive carrier and horizontally seated support route are newly built. Three opaque untextured PBR materials, metres, Z up, centred horizontal bounds and grounded stair sole. One complete static prop, zero scenes and no people. No actual travel, drive internals, braking, collision-free motion, seat swivel, user fit, accessibility, boarding, fall protection, load, installation or safety certification. Not construction or operating instructions.",
+  "bounds": {
+    "x": 2.4,
+    "y": 1.82,
+    "z": 2.03,
+    "unit": "m"
+  },
+  "triangles": 1572,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/interior/interior-fixed-inclined-rail-seat-bay-01/v1.0.0/model.glb",
+      "size": 100012,
+      "sha256": "9e3e0fbffd133765bc8265e95e90334dd9984b25996b53c3d29e31d519efa703"
+    },
+    "blend": {
+      "path": "assets/interior/interior-fixed-inclined-rail-seat-bay-01/v1.0.0/source.blend",
+      "size": 740420,
+      "sha256": "c8cbf78c368cf575181fd945cde4a0a28a6545485e19608787d006c5ee8c1d94"
+    },
+    "generator": {
+      "path": "assets/interior/interior-fixed-inclined-rail-seat-bay-01/v1.0.0/generate.py",
+      "size": 10821,
+      "sha256": "91b1eb8d24a2bda3a3855d67ef0a55fc125d47f04e1286a015607022f901c370"
+    },
+    "render": {
+      "path": "assets/interior/interior-fixed-inclined-rail-seat-bay-01/v1.0.0/thumbnail.png",
+      "size": 417037,
+      "sha256": "b1f9fc8d4bbca4577d38f3641374865dfa1c9fbeffaf93cb76819bb13fe5b591"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

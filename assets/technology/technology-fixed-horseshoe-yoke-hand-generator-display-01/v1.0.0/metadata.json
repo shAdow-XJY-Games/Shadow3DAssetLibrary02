@@ -1,0 +1,42 @@
+{
+  "id": "technology-fixed-horseshoe-yoke-hand-generator-display-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "technology",
+  "style": "source-preserved-low-poly",
+  "title": "Fixed Horseshoe Yoke Hand Generator Display",
+  "description": "One newly authored complete static hand-cranked generator teaching-display appearance. A chamfered wooden base carries a thick continuous U-shaped yoke with two inward pole shoes, a separate shaft and cylindrical rotor with four whole copper-coloured winding-loop appearances, two complete bearing pedestals, a split-ring appearance with paired brush blocks and one offset crank with wooden grip. All parts are newly authored as one connected display, zero scenes. Not old twin sector discs, terminal canisters or a compressor motor rearranged. Four opaque constant PBR materials. There is no electrical circuit, supplied wiring, electrical specification, usable generator, current, voltage, magnetic-field, rotation, demonstration performance, construction, installation, handling or equipment safety claim.",
+  "bounds": {
+    "x": 0.6000000238418579,
+    "y": 0.7114999890327454,
+    "z": 0.4099999964237213,
+    "unit": "m"
+  },
+  "triangles": 1100,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/technology/technology-fixed-horseshoe-yoke-hand-generator-display-01/v1.0.0/model.glb",
+      "size": 109996,
+      "sha256": "7b322c11f6c7a0e65582d6d7f56c00cce96228cee68b958e28222bfc527f81ef"
+    },
+    "blend": {
+      "path": "assets/technology/technology-fixed-horseshoe-yoke-hand-generator-display-01/v1.0.0/source.blend",
+      "size": 796672,
+      "sha256": "9a155c79b8e3758e08877de254ba6321c7fcea0d1a896f379b584a3b3bcaf406"
+    },
+    "generator": {
+      "path": "assets/technology/technology-fixed-horseshoe-yoke-hand-generator-display-01/v1.0.0/generate.py",
+      "size": 16794,
+      "sha256": "71a2a650a5223094e84b7c9b3ad678a1a1407edb98219a70bb608544f2e7fee8"
+    },
+    "render": {
+      "path": "assets/technology/technology-fixed-horseshoe-yoke-hand-generator-display-01/v1.0.0/thumbnail.png",
+      "size": 522634,
+      "sha256": "f3811defd7cc5df63b17179215100f7b53ce786637eb5227974c8dbce7ebe3a5"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

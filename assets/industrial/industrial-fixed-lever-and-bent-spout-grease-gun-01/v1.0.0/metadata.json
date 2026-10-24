@@ -1,0 +1,42 @@
+{
+  "id": "industrial-fixed-lever-and-bent-spout-grease-gun-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "industrial",
+  "style": "source-preserved-low-poly",
+  "title": "Fixed Lever and Bent Spout Grease Gun",
+  "description": "One newly authored whole static lever grease-gun appearance. A complete horizontal closed barrel has separate thick front and rear end collars resting on the ground. A front pump-head exterior carries two actual top ears and a transverse fixed pivot beneath one long raised flat lever and its whole end grip. A continuous narrow rigid bent front spout ends in a blunt exterior coupling, while a separate straight rear pull rod terminates in a transverse T grip. Three opaque PBR roles; one prop and zero scenes. No open cartridge cradle, downward pistol handle, backpack tank, fluid, internal pumping circuit, pressure, lubrication operation, repair instruction or safety claim. Entire geometry newly authored; not an old caulking tool recoloured or an isolated cylinder counted as a whole machine.",
+  "bounds": {
+    "x": 0.1120000034570694,
+    "y": 0.6570000052452087,
+    "z": 0.2240000069141388,
+    "unit": "m"
+  },
+  "triangles": 1324,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/industrial/industrial-fixed-lever-and-bent-spout-grease-gun-01/v1.0.0/model.glb",
+      "size": 120880,
+      "sha256": "804b59dc20a5819f0beb45938f11a89c0be0019402c48fec38ff4f45c4e6e06c"
+    },
+    "blend": {
+      "path": "assets/industrial/industrial-fixed-lever-and-bent-spout-grease-gun-01/v1.0.0/source.blend",
+      "size": 742144,
+      "sha256": "39f3499f57cbf08c430f13a61d007c0bfefca4a34195e4252b0b9f87e25235c4"
+    },
+    "generator": {
+      "path": "assets/industrial/industrial-fixed-lever-and-bent-spout-grease-gun-01/v1.0.0/generate.py",
+      "size": 15215,
+      "sha256": "d167f956255ce1e0c9ac8a6c3e7068f446f2a882c1480802043bc2c10ccd943f"
+    },
+    "render": {
+      "path": "assets/industrial/industrial-fixed-lever-and-bent-spout-grease-gun-01/v1.0.0/thumbnail.png",
+      "size": 472314,
+      "sha256": "808ca09206827f730e332af6bd83202363c1a5b2c5f15968b7fe6140ad8b595e"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

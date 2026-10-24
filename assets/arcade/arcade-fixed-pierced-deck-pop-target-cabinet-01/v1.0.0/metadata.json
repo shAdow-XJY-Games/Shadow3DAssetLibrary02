@@ -1,0 +1,42 @@
+{
+  "id": "arcade-fixed-pierced-deck-pop-target-cabinet-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "arcade",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Pierced Deck Pop Target Cabinet",
+  "description": "One newly authored complete static pop-target amusement cabinet. A whole low grounded cabinet supports six thick deck panels with genuine round through openings and raised annular rims. Six complete round-topped targets have continuous stems seated on the lower cabinet top and are fixed at different visible heights within the real holes. A blank rear header and blank front inset complete the case. One separately modelled mallet is parked in its attached side holder and joined to the cabinet by a continuous solid tether cord. Numeric geometry is new, not a vertical peg-drop field, inclined roll lane, ring-toss table or rearranged old game props. The six targets and deck pieces count only as parts of this one whole model, zero scenes. Three opaque untextured PBR materials, metres, native Z up and full horizontally centred ground datum. Static simplified game-art exterior only, no animal faces or licensed characters. No popping motion, scoring, sensors, electronics, playable rules, impact response, operating amusement machine, manufacture or safety claim.",
+  "bounds": {
+    "x": 1.1705536878490872,
+    "y": 1.1275,
+    "z": 1.2475,
+    "unit": "m"
+  },
+  "triangles": 4304,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/arcade/arcade-fixed-pierced-deck-pop-target-cabinet-01/v1.0.0/model.glb",
+      "size": 198620,
+      "sha256": "835739693afa7eef83dc9fc3b1c1db1c847bb823362275cfda86b8f28d3044c5"
+    },
+    "blend": {
+      "path": "assets/arcade/arcade-fixed-pierced-deck-pop-target-cabinet-01/v1.0.0/source.blend",
+      "size": 910768,
+      "sha256": "f8ff27f005e9993c29a7831dcc4b25b10815cdb1591fb6d32ad066204fa7b187"
+    },
+    "generator": {
+      "path": "assets/arcade/arcade-fixed-pierced-deck-pop-target-cabinet-01/v1.0.0/generate.py",
+      "size": 12004,
+      "sha256": "37c5cdf5cd3e8308acc24db4fd3472a975dc83dc9b21f64a7e65949244a1dbbc"
+    },
+    "render": {
+      "path": "assets/arcade/arcade-fixed-pierced-deck-pop-target-cabinet-01/v1.0.0/thumbnail.png",
+      "size": 531765,
+      "sha256": "f931a8584f4086fb215b2a52469dd0ff5a0464325592fb4807486fbee2bb527b"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
