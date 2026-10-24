@@ -1174,6 +1174,11 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary02",
       "commit": "7443d4b17f8b57843c9501534961fd214b3ac320"
+    },
+    "original-two-models-one-scene-1411-volume02-20261025": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary02",
+      "commit": "76789661ba62b3746c7e267f56610d77f02824e1"
     }
   },
   "assets": [
@@ -34974,6 +34979,135 @@
       "status": "verified",
       "license": "All rights reserved",
       "sourceId": "original-continuous-one-1408-volume02-20261025"
+    },
+    {
+      "id": "military-fixed-open-backed-greave-and-sabaton-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "military",
+      "style": "S01-clean-geometric",
+      "title": "Fixed Open Backed Greave and Sabaton",
+      "description": "One complete original empty fixed lower-leg costume armour assembly. A tall thick curved shin channel remains open at the back, with a wider separate curved knee cup, visible paired finite ankle axis caps, and a forward-projecting roof of overlapping thick arched foot plates. The foot underside is genuinely open; there is no inner foot, boot sole, closed inner floor, tall closed boot shaft, lace, hidden stand or wearer. All geometry is new, not a recoloured or stretched winter boot and not a gauntlet finger moved into a leg pose. The tall open channel to low broad forward foot roof is the defining complete silhouette, not the number of plates. One static prop, zero scenes, three opaque constant PBR materials, metres and whole bounds-centred ground origin. Fixed invented military/fantasy costume appearance only: no rig, animation, working joint, wearer fit, anatomical or historical accuracy, protective performance, fabrication or safety claim.",
+      "bounds": {
+        "x": 0.23766433649797689,
+        "y": 0.39575399708983894,
+        "z": 0.544,
+        "unit": "m"
+      },
+      "triangles": 1444,
+      "materials": 3,
+      "files": {
+        "glb": {
+          "path": "assets/military/military-fixed-open-backed-greave-and-sabaton-01/v1.0.0/model.glb",
+          "size": 84036,
+          "sha256": "fca6bc6568edbf38268f99e3774b88d0cbc49c9bbd4ea25b3a48b87c94fa13d9"
+        },
+        "blend": {
+          "path": "assets/military/military-fixed-open-backed-greave-and-sabaton-01/v1.0.0/source.blend",
+          "size": 650404,
+          "sha256": "dca34271c29e24d0df1eb95d26e2c96c743c715c33f29fc9280daffc905d0e5e"
+        },
+        "generator": {
+          "path": "assets/military/military-fixed-open-backed-greave-and-sabaton-01/v1.0.0/generate.py",
+          "size": 10797,
+          "sha256": "0f487b3b3cfa6d0c9da774b06b234972aa9550caf0151e9b4ad573db57e910dc"
+        },
+        "render": {
+          "path": "assets/military/military-fixed-open-backed-greave-and-sabaton-01/v1.0.0/thumbnail.png",
+          "size": 363515,
+          "sha256": "1fc12d7c9cce2ac4cab106c5e2fecf2061656a9b94e6f8c0dfba494bdba226d9"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-two-models-one-scene-1411-volume02-20261025"
+    },
+    {
+      "id": "photography-fixed-parallel-arm-and-level-carrier-camera-jib-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "photography",
+      "style": "S01-clean-geometric",
+      "title": "Fixed Parallel Arm and Level Carrier Camera Jib",
+      "description": "One newly authored whole static empty camera jib. Four broad ground pads, two long rails and a full crossmember support an upright stepped column with two full braces and a high two-cheek fork. Two complete parallel arms run from the paired rear axes to two real far axes; the upper arm continues behind the column as a full tail carrying a bored counterweight and fixed grip. All four transverse pins span their complete cheeks and arms. Two full far carrier cheeks connect both forward axes and the cross-seat beneath them, ending in an empty horizontal camera mounting plate. It is not a single grip-boom stand with a spigot, a one-arm hydraulic shop crane with a hook, or a gate boom with a separate catchpost. Entirely new numeric geometry, no imported old asset. Three opaque constant untextured PBR materials, metres, Z up, actual horizontal-bounds-centred ground origin. One model and zero scenes. Fixed illustrative art only; no camera, payload, real bearings, rigging, animation, automatic leveling, movement range, balance, load rating, manufacture, operation or equipment-safety claim.",
+      "bounds": {
+        "x": 2.6849999999999996,
+        "y": 0.95,
+        "z": 2.23,
+        "unit": "m"
+      },
+      "triangles": 1884,
+      "materials": 3,
+      "files": {
+        "glb": {
+          "path": "assets/entertainment/photography-fixed-parallel-arm-and-level-carrier-camera-jib-01/v1.0.0/model.glb",
+          "size": 104340,
+          "sha256": "36a1b3e0213aa71d056dfc2cc19c06190068538a3bf352c2c4aec0bb9e0a55b2"
+        },
+        "blend": {
+          "path": "assets/entertainment/photography-fixed-parallel-arm-and-level-carrier-camera-jib-01/v1.0.0/source.blend",
+          "size": 789608,
+          "sha256": "3ebc115f8332060aac9b260917da7105101b98b35703de94d8a10cf7f0cdf351"
+        },
+        "generator": {
+          "path": "assets/entertainment/photography-fixed-parallel-arm-and-level-carrier-camera-jib-01/v1.0.0/generate.py",
+          "size": 12186,
+          "sha256": "2b7bdd1dfd2233be19c6fc7d3f4e9e759aff228afc4d80b90612ab20c19347f6"
+        },
+        "render": {
+          "path": "assets/entertainment/photography-fixed-parallel-arm-and-level-carrier-camera-jib-01/v1.0.0/thumbnail.png",
+          "size": 355403,
+          "sha256": "950969498a7bd61d49318337baf1585a7992a7568e5168b127ad62df51a3a439"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-two-models-one-scene-1411-volume02-20261025"
+    },
+    {
+      "id": "professional-whole-printing-and-book-sewing-workcorner-scene-01",
+      "version": "1.0.0",
+      "category": "scenes",
+      "assetKind": "scene",
+      "theme": "professional",
+      "style": "source-preserved-low-poly",
+      "title": "Whole Printing and Book Sewing Workcorner",
+      "description": "One static publishing and traditional bookmaking workcorner, one scene and zero new independent models. An unchanged complete raised crank desk and complete open worktable stand at right angles as separated arms of an L: the higher rear-left desk supports the whole fixed-open platen printing press on both entire original long shoes, turned by an exact quarter turn, while the forward-right table supports the entire slotted-bed book-sewing frame and its single blank textblock. The original empty open bookcase stands separately beyond the two stations. All five complete distinct model instances retain their original mesh attributes, index payloads, per-face material assignments, complete material dictionaries and internal node hierarchy at unit scale; only exact quarter-turn parent matrices and translations are added. Both full press shoes stay on the actual wider desk top; the whole unchanged desk crank and support columns remain present, with no lowered or resized geometry. A single finite low floor defines a common empty front approach area. Not the earlier two parallel laboratory tables or the one-table alchemy corner, not a stack of extra books, and not new variants of the tables or machines. Static visual display only: no printing, ink transfer, sewn page connection, tension adjustment, linkage motion, working production flow, human access compliance, load, stability or safety assurance. Rigging, animation and interaction are not made and are outside this static scene.",
+      "bounds": {
+        "x": 3.4000000953674316,
+        "y": 3.200000047683716,
+        "z": 2.2764410972595215,
+        "unit": "m"
+      },
+      "triangles": 4960,
+      "materials": 18,
+      "files": {
+        "glb": {
+          "path": "assets/professional/professional-whole-printing-and-book-sewing-workcorner-scene-01/v1.0.0/model.glb",
+          "size": 308196,
+          "sha256": "1a021837467419c442f5ea7d1a63094d033649f4e5ab8f958f51f74da783bca3"
+        },
+        "blend": {
+          "path": "assets/professional/professional-whole-printing-and-book-sewing-workcorner-scene-01/v1.0.0/source.blend",
+          "size": 1778520,
+          "sha256": "fb2ca694ccdad8496592883cdfb7dea89f731619f6ccc7d2fd9209a65efe4bfa"
+        },
+        "generator": {
+          "path": "assets/professional/professional-whole-printing-and-book-sewing-workcorner-scene-01/v1.0.0/generate.py",
+          "size": 85194,
+          "sha256": "f99081d16cbdb595977a8b0ca0b04ee2071bad8e45b76facf5d5aca41abe5202"
+        },
+        "render": {
+          "path": "assets/professional/professional-whole-printing-and-book-sewing-workcorner-scene-01/v1.0.0/thumbnail.png",
+          "size": 530905,
+          "sha256": "60f71f124dd18a12c027230d9316d9e6d8311fe9f64e65aba38939c3a32691e8"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-two-models-one-scene-1411-volume02-20261025"
     }
   ]
 }
