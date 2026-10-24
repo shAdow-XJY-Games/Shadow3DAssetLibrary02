@@ -1199,6 +1199,11 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary02",
       "commit": "23b4e1ea3591ef3f5c4559fd6dcc15ee069c1beb"
+    },
+    "original-continuous-eight-1429-volume02-20261025": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary02",
+      "commit": "d4e5dec02e346f793cfcaa8c9770d5c51e731250"
     }
   },
   "assets": [
@@ -35558,6 +35563,350 @@
       "status": "verified",
       "license": "All rights reserved",
       "sourceId": "original-continuous-four-1421-volume02-20261025"
+    },
+    {
+      "id": "animal-static-broad-rostrum-horizontal-fluke-whale-01",
+      "version": "1.0.0",
+      "category": "modular",
+      "assetKind": "prop",
+      "theme": "animal",
+      "style": "warm-handcrafted-village",
+      "title": "Static Broad-Rostrum Horizontal-Fluke Whale",
+      "description": "One newly drawn whole stylised whale-like exterior: a broad blunt flattened rostrum blends through a massive rounded head and deep arched trunk into a slender raised tail stock. Two long thick curved-outline pectoral flippers sweep beside the front body; one low swept dorsal rises posteriorly. A single complete wide horizontal tail fluke has two broad lateral lobes and a true open central trailing V notch. Small lateral eyes and pale lower body aid reading. Entire body sections and flipper/fluke outlines are new, not a hammerhead with tail rotated, old seal with hind flippers joined, or fish enlarged. One static animal prop, zero scenes; finite low belly datum for game placement only. No exact species, internal organs, blowhole/respiration/feeding, swimming, buoyancy, biological behaviour, rig, animation or interaction claim.",
+      "bounds": {
+        "x": 2.799999952,
+        "y": 3.74000001,
+        "z": 0.920000017,
+        "unit": "m"
+      },
+      "triangles": 676,
+      "materials": 4,
+      "files": {
+        "glb": {
+          "path": "assets/animal/animal-static-broad-rostrum-horizontal-fluke-whale-01/v1.0.0/model.glb",
+          "size": 41728,
+          "sha256": "ed2210cd0407683d87d0c2883f5aad6720021b08bc330c63a05e6bdc15691b73"
+        },
+        "blend": {
+          "path": "assets/animal/animal-static-broad-rostrum-horizontal-fluke-whale-01/v1.0.0/source.blend",
+          "size": 576056,
+          "sha256": "230bf6759b7a188c39c4c2a1e549d9118300b6c370b43e3d625bda5b3fea17f2"
+        },
+        "generator": {
+          "path": "assets/animal/animal-static-broad-rostrum-horizontal-fluke-whale-01/v1.0.0/generate.py",
+          "size": 29422,
+          "sha256": "7f5ad559845f73e558252552ec806e8b9331d57b5654bcf6dc34a3dc3eaf5ed9"
+        },
+        "render": {
+          "path": "assets/animal/animal-static-broad-rostrum-horizontal-fluke-whale-01/v1.0.0/thumbnail.png",
+          "size": 469789,
+          "sha256": "d202482795f647cc15695c80427a7a2404bc2498e3a2816fbff6c6a48e536e46"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-continuous-eight-1429-volume02-20261025"
+    },
+    {
+      "id": "animal-static-open-whorl-hooded-nautilus-01",
+      "version": "1.0.0",
+      "category": "modular",
+      "assetKind": "prop",
+      "theme": "animal",
+      "style": "warm-handcrafted-village",
+      "title": "Static Open-Whorl Hooded Nautilus",
+      "description": "One new complete stylised nautilus-like exterior: a laterally compressed expanding open whorl shell has actual coiled volume and a finite thick terminal aperture, with a recessed blind cavity partly occupied by a rounded protruding hood/head. Two lateral eyes and ten unequal forward tapered tentacles form a compact front bundle rather than terrestrial snail eye stalks or a trailing squid mantle. The entire shell sweep, head and tentacle paths are newly authored, not an old solid relief snail shell extracted or an octopus placed in a bowl. The inner curl remains visibly open as a stylised game-art simplification; no exact tight biological chamber construction or species anatomy is claimed. One static animal prop, zero scenes. Small flattened lower-shell patch is only a placement datum. No living tissue, chamber pressure, feeding, swimming, buoyancy, rig, animation or interaction claim.",
+      "bounds": {
+        "x": 0.35800001,
+        "y": 1.108183503,
+        "z": 0.848240852,
+        "unit": "m"
+      },
+      "triangles": 2216,
+      "materials": 4,
+      "files": {
+        "glb": {
+          "path": "assets/animal/animal-static-open-whorl-hooded-nautilus-01/v1.0.0/model.glb",
+          "size": 129144,
+          "sha256": "f0145ca5c5cb72025f444410f45a46343d4009c2fbcea567b8130404040f391b"
+        },
+        "blend": {
+          "path": "assets/animal/animal-static-open-whorl-hooded-nautilus-01/v1.0.0/source.blend",
+          "size": 664556,
+          "sha256": "96e6643c2f64d643640cde90af21020e23fa0f89492755a0b56b7014c1fa0751"
+        },
+        "generator": {
+          "path": "assets/animal/animal-static-open-whorl-hooded-nautilus-01/v1.0.0/generate.py",
+          "size": 30191,
+          "sha256": "b1c837bf9cdbd26177ec066cacff101489f02a240e1d8fcca8c82ab8494661cb"
+        },
+        "render": {
+          "path": "assets/animal/animal-static-open-whorl-hooded-nautilus-01/v1.0.0/thumbnail.png",
+          "size": 485971,
+          "sha256": "06c0840b192793f60a133c03e393c5a11b66277b1ae20763c336b0bc16d36df6"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-continuous-eight-1429-volume02-20261025"
+    },
+    {
+      "id": "education-fixed-cutaway-bulb-and-four-vane-rotor-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "education",
+      "style": "source-preserved-low-poly",
+      "title": "Fixed Cutaway Bulb and Four Vane Rotor",
+      "description": "One newly authored complete static light-mill-style bulb display. One broad round foot supports a narrow neck and a continuous thick rounded rear bulb shell, with the front half genuinely removed and both finite section faces closed. A central full needle-like support rises from the foot into an independent hub and four complete radial arms carrying finite two-faced vertical vanes. Each vane is one closed mesh with contrasting constant dark and pale opposing faces, not two coplanar plates. The opaque rear half shell is an explicit cutaway, not invisible glass. Unlike the twin-bulb hourglass with axial throat and sand masses, and unlike a cylindrical chamber with a long suspended horizontal ball rod. All visible geometry newly authored; generic mesh/export helpers only. One fixed whole prop, zero scenes. No rotation, light response, thermal or radiative physics, vacuum, bearing performance, energy demonstration, manufacturing, handling, material or safety claim. Rigging, animation and interaction not made and outside scope.",
+      "bounds": {
+        "x": 0.4560000002384186,
+        "y": 0.40799999237060547,
+        "z": 0.7085000276565552,
+        "unit": "m"
+      },
+      "triangles": 2340,
+      "materials": 4,
+      "files": {
+        "glb": {
+          "path": "assets/education/education-fixed-cutaway-bulb-and-four-vane-rotor-01/v1.0.0/model.glb",
+          "size": 211688,
+          "sha256": "3974aadc7052b41fbf97736316151f43afbc59c0ce59412978e71d63498294d0"
+        },
+        "blend": {
+          "path": "assets/education/education-fixed-cutaway-bulb-and-four-vane-rotor-01/v1.0.0/source.blend",
+          "size": 883936,
+          "sha256": "806a6d5af81f93a69637b0c228cca7a5ed4725536b447608a584ff86ba22836d"
+        },
+        "generator": {
+          "path": "assets/education/education-fixed-cutaway-bulb-and-four-vane-rotor-01/v1.0.0/generate.py",
+          "size": 17411,
+          "sha256": "265df5309197f456e8004a984809e23fa723b20a22a33f9bf4d11d1794773a9a"
+        },
+        "render": {
+          "path": "assets/education/education-fixed-cutaway-bulb-and-four-vane-rotor-01/v1.0.0/thumbnail.png",
+          "size": 514134,
+          "sha256": "2488d5e4162d2cf0b7e02c516b73c4b7fc9d2a71648ea754104b7ac27e67487d"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-continuous-eight-1429-volume02-20261025"
+    },
+    {
+      "id": "education-fixed-cutaway-chamber-and-suspended-ball-rod-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "education",
+      "style": "source-preserved-low-poly",
+      "title": "Fixed Cutaway Chamber and Suspended Ball Rod",
+      "description": "One newly authored complete fixed torsion-fibre ball-and-rod apparatus appearance: a broad round low base, thick front-cutaway cylindrical chamber, tall open-sided suspension tower and one continuous fine vertical suspension carrying a complete horizontal rod with a spherical terminal and counterweight. A second independent bent support rises from the base and ends in a fixed neighbouring sphere, with a real air gap between the spheres. The upper head is a blank finite cap, not a graduated dial. The case is opaque with an actual front cutaway, not invisible glass. This is not the equal-arm two-pan balance with transverse fulcrum and pan wires, nor the collector plate and diverging leaves of the electroscope. All visible construction newly authored; only generic mesh and export helpers reused. One whole static low-poly display, zero scenes. No charge, force, torsion response, measurement, calibrated scale, physical experiment, working insulation, electrical design, safety, operating steps, manufacturing or historical accuracy. Rigging, animation and interaction not made and outside scope.",
+      "bounds": {
+        "x": 0.6000000238418579,
+        "y": 0.6000000238418579,
+        "z": 0.8654999732971191,
+        "unit": "m"
+      },
+      "triangles": 2120,
+      "materials": 4,
+      "files": {
+        "glb": {
+          "path": "assets/education/education-fixed-cutaway-chamber-and-suspended-ball-rod-01/v1.0.0/model.glb",
+          "size": 189100,
+          "sha256": "348a58999a5c585b522f49656a2e0f306d95834e682b5f3576669cf27849b9d8"
+        },
+        "blend": {
+          "path": "assets/education/education-fixed-cutaway-chamber-and-suspended-ball-rod-01/v1.0.0/source.blend",
+          "size": 863872,
+          "sha256": "b7f7c098bc157434259e84ed61082da6429067c60d8e2d2a81e05a80f13880dc"
+        },
+        "generator": {
+          "path": "assets/education/education-fixed-cutaway-chamber-and-suspended-ball-rod-01/v1.0.0/generate.py",
+          "size": 17719,
+          "sha256": "13895661fb13530b351e90f3af2bed852e70d0fed00786d52703b5b92a726aa1"
+        },
+        "render": {
+          "path": "assets/education/education-fixed-cutaway-chamber-and-suspended-ball-rod-01/v1.0.0/thumbnail.png",
+          "size": 495923,
+          "sha256": "855a8fb9b3615de34830ad550a80a1f72fb38d66337696f1a43835ca19053337"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-continuous-eight-1429-volume02-20261025"
+    },
+    {
+      "id": "fantasy-fixed-whole-folded-paper-crane-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "fantasy",
+      "style": "S01-clean-geometric",
+      "title": "Fixed Whole Folded Paper Crane",
+      "description": "One original complete fixed folded-paper crane-inspired prop. A finite-thickness open creased central body has its own complete inner floor, inner and outer fold walls, paper rims and a small finite keel underside. Two broad pointed wings have actual nonplanar ridge facets and full reverse faces; one continuous narrow folded neck rises from the body and bends into a pointed beak, while a separate complete folded tail rises behind. The neck and tail roots are fixed into the inner keel and the wing roots enter the side folds. No feather texture, eyes, animal skin, organic bird body, old paper boat hull or old pinwheel sail is imported or rescaled. All vertices and whole component paths are new. One prop, zero scenes, five closed thin solids, two opaque matte constant PBR face colours, metres and whole bounds-centred ground datum. Static invented paper-art appearance only: no precise traditional fold pattern, single-sheet unfolding proof, craft instructions, flight, rig, animation, physical balance, manufacture or safety claim.",
+      "bounds": {
+        "x": 0.46,
+        "y": 0.3614297055602352,
+        "z": 0.23079994123696188,
+        "unit": "m"
+      },
+      "triangles": 128,
+      "materials": 2,
+      "files": {
+        "glb": {
+          "path": "assets/fantasy/fantasy-fixed-whole-folded-paper-crane-01/v1.0.0/model.glb",
+          "size": 15672,
+          "sha256": "25c39d58292b6bf7f85f1c61756bab02ff64ffedf6bff8bc1c7cfa5a36c87b0e"
+        },
+        "blend": {
+          "path": "assets/fantasy/fantasy-fixed-whole-folded-paper-crane-01/v1.0.0/source.blend",
+          "size": 523752,
+          "sha256": "00315bb7278c82fb54548ed88a01aedb84a810ac3d6675427d124b29530cdae8"
+        },
+        "generator": {
+          "path": "assets/fantasy/fantasy-fixed-whole-folded-paper-crane-01/v1.0.0/generate.py",
+          "size": 10738,
+          "sha256": "7289751cd1e8664dad7f8fb4f1b220e012718d8f7d1a4449f501f536a5ff1b0b"
+        },
+        "render": {
+          "path": "assets/fantasy/fantasy-fixed-whole-folded-paper-crane-01/v1.0.0/thumbnail.png",
+          "size": 315682,
+          "sha256": "03311c74ac5142aa5e8913cf44695fbb41dbb5de4896d040d8daba5c2ab47b45"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-continuous-eight-1429-volume02-20261025"
+    },
+    {
+      "id": "photography-fixed-open-hood-and-angled-panel-prompting-rig-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "photography",
+      "style": "S01-clean-geometric",
+      "title": "Fixed Open Hood and Angled Panel Prompting Rig",
+      "description": "One newly authored complete static empty prompting-rig exterior. Two long equipment rails on four grounded pads and two full cross-ties carry a lower upward-facing blank monitor case and a separate high rear camera mounting plate. Two complete thick flared hood cheeks with true open front and rear, an overhanging roof and finite lower brackets surround one independent 45-degree finite-thickness reflector-style sheet. Two full cross-clamps and two continuous inclined edge retainers support the whole sheet. It is not a view camera with another lens, an enclosed bellows box or an old slider with a screen pasted on: all geometry is new and the low screen, angled sheet, open hood and high empty rear camera station form one integrated equipment layout. Four opaque constant untextured PBR roles, metres, Z up, whole horizontal-envelope-centred ground origin. One prop and zero scenes. Deliberately opaque smoked-metal reflector-style panel, not simulated transmissive glass; no optical transparency or beam-splitter function promised. No camera, displayed text, screen electronics, live reflection, prompting software, optical alignment, motion, standard fit, load, manufacturing or equipment-safety claim.",
+      "bounds": {
+        "x": 0.66,
+        "y": 1.03,
+        "z": 0.781,
+        "unit": "m"
+      },
+      "triangles": 608,
+      "materials": 4,
+      "files": {
+        "glb": {
+          "path": "assets/photography/photography-fixed-open-hood-and-angled-panel-prompting-rig-01/v1.0.0/model.glb",
+          "size": 43284,
+          "sha256": "c4f4cec5db6695e3069e6bc3ec820acc43a38dd9e27a375f5ea74a2e255648f7"
+        },
+        "blend": {
+          "path": "assets/photography/photography-fixed-open-hood-and-angled-panel-prompting-rig-01/v1.0.0/source.blend",
+          "size": 688888,
+          "sha256": "735c3eba617b06faf9bcf86883a87166d88feeec8858a210454bd6d165f0f6e8"
+        },
+        "generator": {
+          "path": "assets/photography/photography-fixed-open-hood-and-angled-panel-prompting-rig-01/v1.0.0/generate.py",
+          "size": 11685,
+          "sha256": "670d5f3d08d3dfd24332df1581a8a0c9908559d835d02a75e444e9a7e0c1117f"
+        },
+        "render": {
+          "path": "assets/photography/photography-fixed-open-hood-and-angled-panel-prompting-rig-01/v1.0.0/thumbnail.png",
+          "size": 438324,
+          "sha256": "4e0346471787b94aa7749717f81b48a5dd0e791a899fde404fe6e219bb2a5fc4"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-continuous-eight-1429-volume02-20261025"
+    },
+    {
+      "id": "professional-fixed-horizontal-lap-and-oblique-dop-faceting-machine-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "professional",
+      "style": "S01-clean-geometric",
+      "title": "Fixed Horizontal Lap and Oblique Dop Faceting Machine",
+      "description": "One newly authored complete fixed lapidary-faceting-machine-style exterior. A common low chamfered footed case supports a genuinely open circular basin with a full recessed floor, separate broad horizontal lap disk and central spindle cap. Beside it, one tall round mast passes through a whole truly bored carriage sleeve. A complete open U-plan fork carrier spans a transverse head pivot; a separate slanted casing carries one entire oblique blunt dop shaft, shallow fluted blank index wheel and independent blank pivot-face disk. The shaft ends visibly above the lap without a gem or sample. Full side and base knobs complete the common machine. No old treadle grindstone, pottery kick wheel, height-gauge carriage or visible coordinates are reused. The whole basin/lap and side-mast/angled-head relationship, rather than dial count or colours, defines this asset. One prop, zero scenes, four opaque constant untextured PBR materials, metres, Z up, actual horizontal bounds centre and finite ground soles. Static illustrative appearance only: no motor, drive, rotation, tilt or carriage travel, indexing precision, stone holding, cutting, grinding, polishing, coolant, electrical wiring, processing rate, operating instructions, manufacture, ergonomic fit, stability or equipment safety claim. Rigging, animation and interaction are not made and outside this static scope.",
+      "bounds": {
+        "x": 0.645,
+        "y": 0.437,
+        "z": 0.668,
+        "unit": "m"
+      },
+      "triangles": 2896,
+      "materials": 4,
+      "files": {
+        "glb": {
+          "path": "assets/professional/professional-fixed-horizontal-lap-and-oblique-dop-faceting-machine-01/v1.0.0/model.glb",
+          "size": 148684,
+          "sha256": "28399efb60faff4b207e1c165909742eff980b3366d0d915e76803b50871e054"
+        },
+        "blend": {
+          "path": "assets/professional/professional-fixed-horizontal-lap-and-oblique-dop-faceting-machine-01/v1.0.0/source.blend",
+          "size": 793976,
+          "sha256": "10522294969f0a61786a467d9e545877893ad5c6c8bbfdc93374663174f8adcd"
+        },
+        "generator": {
+          "path": "assets/professional/professional-fixed-horizontal-lap-and-oblique-dop-faceting-machine-01/v1.0.0/generate.py",
+          "size": 28644,
+          "sha256": "7d43c8e64afe75efca30ecd3deca14660b15dfaa79eaba276df97ce7efba57f9"
+        },
+        "render": {
+          "path": "assets/professional/professional-fixed-horizontal-lap-and-oblique-dop-faceting-machine-01/v1.0.0/thumbnail.png",
+          "size": 546653,
+          "sha256": "3e9c66e9302345efa0cb307b1289cbcf5e4132c8ce8201fe0f9cc213253cf0cf"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-continuous-eight-1429-volume02-20261025"
+    },
+    {
+      "id": "technology-fixed-horizontal-coil-and-opposed-terminal-display-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "technology",
+      "style": "source-preserved-low-poly",
+      "title": "Fixed Horizontal Coil and Opposed Terminal Display",
+      "description": "One newly authored complete static historical induction-coil-style exterior. A low chamfered box base carries two end saddles and one complete thick horizontal closed winding barrel with broad end cheeks. Two separate tall stepped insulator appearances rise beside it and support opposed short horizontal terminal rods with a real central air gap. A small front leaf-contact appearance, independent support and blank knob belong to the same base. All geometry newly authored, no old instrument mesh extracted, no extra winding turns counted as assets. Not the long hollow sliding-contact rheostat with overhead guide and slider, nor the two upright sounder coils under a hinged T armature. One complete illustrative prop, zero scenes, four opaque constant PBR materials. No supplied cables, electrical continuity, internal circuit, working coil, voltage, current, sparks, induction, operating steps, functional physics, insulation, manufacturing, historical precision, handling or safety claim. Static fixed display only; rigging, animation and interaction not made and outside scope.",
+      "bounds": {
+        "x": 0.6299999952316284,
+        "y": 0.36000001430511475,
+        "z": 0.4345000088214874,
+        "unit": "m"
+      },
+      "triangles": 4540,
+      "materials": 4,
+      "files": {
+        "glb": {
+          "path": "assets/technology/technology-fixed-horizontal-coil-and-opposed-terminal-display-01/v1.0.0/model.glb",
+          "size": 397260,
+          "sha256": "e02b7df90a09a5b16cf5933cb8a5dd53b561043bbff6940e845d2efa1b2b5812"
+        },
+        "blend": {
+          "path": "assets/technology/technology-fixed-horizontal-coil-and-opposed-terminal-display-01/v1.0.0/source.blend",
+          "size": 1167840,
+          "sha256": "3138f259186b7e75560db7640e3a35a7f7ff8a9f3962f524dab51f8a3561c6f1"
+        },
+        "generator": {
+          "path": "assets/technology/technology-fixed-horizontal-coil-and-opposed-terminal-display-01/v1.0.0/generate.py",
+          "size": 18050,
+          "sha256": "5b8cdf43e078520a8facba7a328de696032cb3e4565327d561ca3bdf4516cbf1"
+        },
+        "render": {
+          "path": "assets/technology/technology-fixed-horizontal-coil-and-opposed-terminal-display-01/v1.0.0/thumbnail.png",
+          "size": 557638,
+          "sha256": "19fc788a072aa85f19568e494bcf4c772bc36e60724988f5879176b4d26be890"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-continuous-eight-1429-volume02-20261025"
     }
   ]
 }
