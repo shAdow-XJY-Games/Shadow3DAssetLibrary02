@@ -1,0 +1,42 @@
+{
+  "id": "animal-static-integral-spiny-back-hedgehog-01",
+  "version": "1.0.0",
+  "category": "modular",
+  "assetKind": "prop",
+  "theme": "animal",
+  "style": "warm-handcrafted-village",
+  "title": "Static Integral-Spiny-Back Hedgehog",
+  "description": "One newly authored whole stylised hedgehog-like animal in a low grounded stance. A continuous long pointed muzzle and compact head flow into a low broad domed torso. The real dorsal body boundary rises into individually tapered backward-leaning spine facets with shared perimeter vertices, not detached cones or a texture on a smooth tortoise shell. Four short complete grounded feet, two small rounded ears, two low lateral eyes and one small nose complete the whole animal. The head stays visibly free of dorsal spines. No old rabbit body, tortoise shell or animal arrays imported. One static whole prop, zero scenes. Deliberately faceted artistic exterior only; no precise species, real spine anatomy/count, defense, motion, handling or biological claim.",
+  "bounds": {
+    "x": 0.93126291,
+    "y": 1.600000024,
+    "z": 0.681158483,
+    "unit": "m"
+  },
+  "triangles": 1748,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/animal/animal-static-integral-spiny-back-hedgehog-01/v1.0.0/model.glb",
+      "size": 110892,
+      "sha256": "0836dc700530e4cf54680a74e7f6125dba7a6cb5264345451da78fa34fd30bd5"
+    },
+    "blend": {
+      "path": "assets/animal/animal-static-integral-spiny-back-hedgehog-01/v1.0.0/source.blend",
+      "size": 635476,
+      "sha256": "6cc52f218943e8ac7a71bb9b94e804de56f4a2061273775be004db138ef669d6"
+    },
+    "generator": {
+      "path": "assets/animal/animal-static-integral-spiny-back-hedgehog-01/v1.0.0/generate.py",
+      "size": 29392,
+      "sha256": "7d249d2be377b1a2194d5f755c7b9b014b8b9086c74948e3446173ead38ca732"
+    },
+    "render": {
+      "path": "assets/animal/animal-static-integral-spiny-back-hedgehog-01/v1.0.0/thumbnail.png",
+      "size": 503759,
+      "sha256": "ae117d53232a668afdca072f6324bf2c0781f248dfe2e4e836036cf56399827d"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

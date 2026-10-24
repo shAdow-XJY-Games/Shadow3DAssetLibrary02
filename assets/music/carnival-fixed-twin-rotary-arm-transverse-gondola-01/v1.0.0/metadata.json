@@ -1,0 +1,42 @@
+{
+  "id": "carnival-fixed-twin-rotary-arm-transverse-gondola-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "carnival",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Twin Rotary Arm Transverse Gondola",
+  "description": "One newly authored complete fixed twin-rotary-arm amusement-ride appearance. Two deep grounded runners, tapered bearing piers, root knees and low cross-ties support two separate upper horizontal pivots. Each full long arm extends from a low transverse gondola journal past its upper pivot to a complete counterweight housing. A whole thick open transverse tray has its own second horizontal pivot axis, full side journal roots and five empty fixed seats with individually rooted restraint appearances. This is not the old boat pendulum with one upper common axle and rigid triangular bridles, and not a Ferris wheel with full rims, spokes and multiple level cabins: the two long grounded pivot arms and one independently journalled transverse passenger tray form a different complete structure. All geometry newly authored; no old ride mesh or cabin imported. Three opaque untextured constant PBR roles, metres, Z up and whole horizontally bounds-centred ground origin. One complete prop, zero scenes; seats and counterweights are not additional assets. Fixed empty game-art display only: no real rotation, synchronized arms, ride motion or kinematics, passenger fit, restraint effectiveness, balance, drive/brake internals, loads, manufacture, installation, operation or amusement safety claim.",
+  "bounds": {
+    "x": 3.64,
+    "y": 1.975,
+    "z": 3.5900000000000003,
+    "unit": "m"
+  },
+  "triangles": 1856,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/music/carnival-fixed-twin-rotary-arm-transverse-gondola-01/v1.0.0/model.glb",
+      "size": 112388,
+      "sha256": "ebba9a601169951353235cb29a97c430c1b1cbcc14cde9d673320ebf516d11bd"
+    },
+    "blend": {
+      "path": "assets/music/carnival-fixed-twin-rotary-arm-transverse-gondola-01/v1.0.0/source.blend",
+      "size": 875820,
+      "sha256": "17c5465c551c120ba2cc4eaadf022b52ba5f3b1191f8a1f2775bed9317c9898c"
+    },
+    "generator": {
+      "path": "assets/music/carnival-fixed-twin-rotary-arm-transverse-gondola-01/v1.0.0/generate.py",
+      "size": 12526,
+      "sha256": "562ff7a8e44bf77ba3149e7d66bfbc6194066774246379fe4e67c12170c7e16c"
+    },
+    "render": {
+      "path": "assets/music/carnival-fixed-twin-rotary-arm-transverse-gondola-01/v1.0.0/thumbnail.png",
+      "size": 525389,
+      "sha256": "fe2496d81e2f64edf792ddf47a8a0533b42b201d43064e3ad38198afb91bce41"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

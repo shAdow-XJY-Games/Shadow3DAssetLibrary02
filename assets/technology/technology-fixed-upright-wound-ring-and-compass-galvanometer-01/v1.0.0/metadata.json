@@ -1,0 +1,42 @@
+{
+  "id": "technology-fixed-upright-wound-ring-and-compass-galvanometer-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "technology",
+  "style": "source-preserved-low-poly",
+  "title": "Fixed Upright Wound Ring And Compass Galvanometer",
+  "description": "One newly authored complete static upright-ring coil galvanometer appearance. A broad chamfered ground base carries two low standards supporting one complete vertical flanged winding former. A single continuous copper-looking helical winding follows its outer groove. At the open ring centre a separate turned post carries a horizontal recessed compass-like cup with a blank pale dial, one full fixed pointed needle and an occupied central pivot. Two complete insulated terminal-post appearances stand on the same base. The upright coil and horizontal observation cup are distinct connected assemblies, not an astronomical ring sphere, a flat compass scaled up, or imported old mesh parts. No central globe, multiple crossing armillary bands, hand crank or rotor is present. One prop and zero scenes; four opaque constant PBR materials, metres, Z up and complete horizontal-bounds-centred ground origin. Static coarse illustrative apparatus only: no electrical circuit, wire connection, current, field, magnetic response, detection, angle scale, calibration, measurement, motion, manufacturing, handling or safety claim.",
+  "bounds": {
+    "x": 0.46000000834465027,
+    "y": 0.30000001192092896,
+    "z": 0.4699999988079071,
+    "unit": "m"
+  },
+  "triangles": 4760,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/technology/technology-fixed-upright-wound-ring-and-compass-galvanometer-01/v1.0.0/model.glb",
+      "size": 410432,
+      "sha256": "b67332fd7490913bcdc778cf370f7eadcb81980e77fef3bcf6a3714791f26a93"
+    },
+    "blend": {
+      "path": "assets/technology/technology-fixed-upright-wound-ring-and-compass-galvanometer-01/v1.0.0/source.blend",
+      "size": 1154848,
+      "sha256": "6ed0c0a97d8436826607803c0e49e1444aca91f883c1cd69a52d597d818fc376"
+    },
+    "generator": {
+      "path": "assets/technology/technology-fixed-upright-wound-ring-and-compass-galvanometer-01/v1.0.0/generate.py",
+      "size": 17544,
+      "sha256": "d0a75d5dee637ce9be3fe53e3497a6df5badd7ba3a37f8e2894bdce0133d2afb"
+    },
+    "render": {
+      "path": "assets/technology/technology-fixed-upright-wound-ring-and-compass-galvanometer-01/v1.0.0/thumbnail.png",
+      "size": 554865,
+      "sha256": "db60da84b5ddcfcbd39de3a145e427e84c2ae32f8e9dd609faaf4b2c65d34335"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

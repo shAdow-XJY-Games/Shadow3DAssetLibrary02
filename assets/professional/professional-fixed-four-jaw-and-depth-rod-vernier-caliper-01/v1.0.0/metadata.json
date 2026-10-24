@@ -1,0 +1,42 @@
+{
+  "id": "professional-fixed-four-jaw-and-depth-rod-vernier-caliper-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "professional",
+  "style": "source-preserved-low-poly",
+  "title": "Fixed Four Jaw and Depth Rod Vernier Caliper",
+  "description": "One newly authored complete fixed four-jaw vernier-caliper-style hand instrument. One continuous long flat beam and fixed jaw body has a broad tapered outside jaw on one side and a smaller opposing inside jaw on the other. A complete thick carriage has an actual rectangular through opening around the beam, with its separate opposed long and short tapered jaws, a blank raised index plate and a top locking spindle and wheel. One thin flat depth rod extends past the far beam end in the fixed pose. No graduations or numeric reading are depicted. All numeric geometry newly authored, not a laid-down height gauge, re-labelled calculating slide rule, widened micrometer or old parts collage. One prop, zero scenes, three opaque materials. Static appearance only, without calibrated measurement, accuracy, working adjustment, fit, manufacture or tool safety claim.",
+  "bounds": {
+    "x": 0.0949999988079071,
+    "y": 0.32100000977516174,
+    "z": 0.029999999329447746,
+    "unit": "m"
+  },
+  "triangles": 284,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/professional/professional-fixed-four-jaw-and-depth-rod-vernier-caliper-01/v1.0.0/model.glb",
+      "size": 30064,
+      "sha256": "470fb3975ea1a4ae7cb1dd5fc91731b79f231f80b1582b55b7b521716eacfc91"
+    },
+    "blend": {
+      "path": "assets/professional/professional-fixed-four-jaw-and-depth-rod-vernier-caliper-01/v1.0.0/source.blend",
+      "size": 602144,
+      "sha256": "df753c11e9f6832535f73946b0d7f0ea6d67f02ce5447580a54920ab58e22e06"
+    },
+    "generator": {
+      "path": "assets/professional/professional-fixed-four-jaw-and-depth-rod-vernier-caliper-01/v1.0.0/generate.py",
+      "size": 15439,
+      "sha256": "1cb3862cb4364b28914060f972a149c93857b9461f97b7fe864edc7a7d355254"
+    },
+    "render": {
+      "path": "assets/professional/professional-fixed-four-jaw-and-depth-rod-vernier-caliper-01/v1.0.0/thumbnail.png",
+      "size": 439724,
+      "sha256": "ad6c30ea906e2ae6ea607c1f76b4c19268d330bb525fd465ba672254dda6ec5c"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

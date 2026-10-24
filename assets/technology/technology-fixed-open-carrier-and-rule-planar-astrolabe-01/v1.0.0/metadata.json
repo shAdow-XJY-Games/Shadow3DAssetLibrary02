@@ -1,0 +1,42 @@
+{
+  "id": "technology-fixed-open-carrier-and-rule-planar-astrolabe-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "technology",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Open Carrier and Rule Planar Astrolabe",
+  "description": "One newly authored complete fixed planar-astrolabe-style display laid on its full circular back. A thick mother pan has a genuinely recessed opaque blank inner plate and a complete raised limb with illustrative marks assigned to actual top faces. Above it, a physically connected multi-part open carrier combines a central bored hub, outer annulus, three complete curved branches, one full eccentric open circle and three finite-blunt pointer tongues. The empty carrier regions reveal the recessed plate through real layer depth, not a solid disk painted with star shapes. One entire two-ended rule crosses the central spindle above the carrier and carries two thick end vanes with genuine rectangular apertures. A full retaining head, shaped top suspension throne and complete open hanging ring belong to the whole instrument. All numeric geometry is new, not a pocket watch with its hands removed, a 3D armillary flattened or old complete components reassembled. No watch lid, winding crown, spherical cage, globe, table or stand. One prop, zero scenes, four opaque constant untextured PBR materials, metres, native Z up and actual horizontal-bounds-centred ground origin. Fixed fictional technology/fantasy exhibit only: no calibrated graduations, actual star map, celestial coordinates, calendar, latitude, observation, navigation, optical sighting, angle accuracy, historical reconstruction, working rotation, material strength, manufacture, wearability or safety claim.",
+  "bounds": {
+    "x": 0.368,
+    "y": 0.468,
+    "z": 0.09,
+    "unit": "m"
+  },
+  "triangles": 6304,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/technology/technology-fixed-open-carrier-and-rule-planar-astrolabe-01/v1.0.0/model.glb",
+      "size": 256860,
+      "sha256": "24f6a86e29caff076fc4a7b5f9a84fa8ad99e1b035a26278fe6643458c683cbc"
+    },
+    "blend": {
+      "path": "assets/technology/technology-fixed-open-carrier-and-rule-planar-astrolabe-01/v1.0.0/source.blend",
+      "size": 954460,
+      "sha256": "e6177074d968c53bb1386da85b877bf2ae12eb9db394dd9cef9d81ca5095bc74"
+    },
+    "generator": {
+      "path": "assets/technology/technology-fixed-open-carrier-and-rule-planar-astrolabe-01/v1.0.0/generate.py",
+      "size": 30076,
+      "sha256": "8a56be608f642a2b4f4dbbdbd0279a55bc88478ede3409bf6a2459d118876dd4"
+    },
+    "render": {
+      "path": "assets/technology/technology-fixed-open-carrier-and-rule-planar-astrolabe-01/v1.0.0/thumbnail.png",
+      "size": 564283,
+      "sha256": "7ce334ce127b001584512ed3cd2947808af040776643e44fd3cbf13fda67e723"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
