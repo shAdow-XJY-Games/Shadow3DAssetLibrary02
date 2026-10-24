@@ -1,0 +1,42 @@
+{
+  "id": "fitness-fixed-a-frame-trunnion-and-ankle-holder-table-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "fitness",
+  "style": "S01-clean-geometric",
+  "title": "Fixed A Frame Trunnion and Ankle Holder Table",
+  "description": "One newly authored whole static A-frame inversion-table exterior in a fixed empty upright-rest presentation. Two full high A side frames with spread ties and front/rear crossmembers stand on four finite pads. A complete transverse trunnion shaft joins the high sleeves and one continuous long chamfered upholstered board with its full rear spine. A separate full lower extension leads to an actual foot-rest plate and a central bracket carrying two complete opposed ankle-roller rows, each with its own transverse axle and separate thick pads. Two entire curved side handrails root into the high sleeves and front frame legs. This is not a rotated old press bench, its seat/back replacement, low slant board or an oval mirror stand with a different face; all geometry is newly authored. Three opaque constant untextured PBR roles, metres, Z up and actual whole horizontal-bounds-centred ground origin. One prop, zero scenes, no person. Static illustrative exterior only: no exercise guidance, inversion movement, therapy, medical benefit, suitability, body dimensions, actual restraint, locking, adjustment, stability, load capacity, manufacture or safety is modeled or verified.",
+  "bounds": {
+    "x": 1.0239892617448065,
+    "y": 1.46,
+    "z": 1.7517883389762265,
+    "unit": "m"
+  },
+  "triangles": 1260,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/fitness/fitness-fixed-a-frame-trunnion-and-ankle-holder-table-01/v1.0.0/model.glb",
+      "size": 78860,
+      "sha256": "c3e655797bf2a1b7356471ca870ff1ceb14a13d32a883344bc2a9b3084b599d8"
+    },
+    "blend": {
+      "path": "assets/fitness/fitness-fixed-a-frame-trunnion-and-ankle-holder-table-01/v1.0.0/source.blend",
+      "size": 719008,
+      "sha256": "cc19cadb33cb144735747e7c416816663c5a951f0eaca9b8705733970303c936"
+    },
+    "generator": {
+      "path": "assets/fitness/fitness-fixed-a-frame-trunnion-and-ankle-holder-table-01/v1.0.0/generate.py",
+      "size": 12447,
+      "sha256": "f8719ef9020d61c1845bcfca8b63b5903eb4e27bb9f852dd47ff2e14d6f6ceca"
+    },
+    "render": {
+      "path": "assets/fitness/fitness-fixed-a-frame-trunnion-and-ankle-holder-table-01/v1.0.0/thumbnail.png",
+      "size": 418210,
+      "sha256": "273b350e64cd5c231186fbb6af06ecf548995f6960dfdcf356c118a38be384c2"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

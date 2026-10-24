@@ -1,0 +1,42 @@
+{
+  "id": "professional-fixed-drawplate-and-windlass-drawing-bench-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "professional",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Drawplate and Windlass Drawing Bench",
+  "description": "One newly authored complete fixed traditional metalworking drawbench-style exterior. Four complete grounded legs and two crossheads carry long separated guide rails. A full square fixed drawplate has one genuine circular empty through-bore above its entire cross-bed foot. A separate whole bridge carriage supports two long blunt open gripping halves and their common upright pin; a full rear lug joins a single continuous finite flat strap which runs toward and wraps partway around a transverse windlass barrel. Two complete bearing towers support the whole axle, broad barrel, both flanges and an outboard open three-spoke handwheel with a fixed grip. Unlike the old rope-forming bench, there are no three independent hook axes, three-hole separator, forming strands or far capture eye; unlike the old metal lathe there is no chuck, tail quill, cutting tool or cross-feed slide. All geometry is newly authored, not old bench components rearranged. One prop, zero scenes, no wire or workpiece. Four opaque constant untextured PBR materials, metres, Z up, actual horizontally centred bounds and grounded soles. Static illustrative appearance only: no wire reduction, pulling action, clamping, carriage travel, drum rotation, strap tension, gear ratio, material processing, manufacture, operation, load, ergonomic fit or machinery safety guarantee. Rigging, animation and interaction are not made and outside this static asset.",
+  "bounds": {
+    "x": 2.388,
+    "y": 0.83,
+    "z": 1.255,
+    "unit": "m"
+  },
+  "triangles": 1728,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/professional/professional-fixed-drawplate-and-windlass-drawing-bench-01/v1.0.0/model.glb",
+      "size": 98992,
+      "sha256": "b73a28ead62f4f9129e1a5fe7ce639a087e51c6ca16d01fd7079b0f85b451e68"
+    },
+    "blend": {
+      "path": "assets/professional/professional-fixed-drawplate-and-windlass-drawing-bench-01/v1.0.0/source.blend",
+      "size": 776416,
+      "sha256": "b67a3f7752e485bfaa2332e8383b70d2ff502f01be0fdae2948525532dbb6889"
+    },
+    "generator": {
+      "path": "assets/professional/professional-fixed-drawplate-and-windlass-drawing-bench-01/v1.0.0/generate.py",
+      "size": 28783,
+      "sha256": "53063d019256176b27e5048f209001a0f12547a456d90737ad0a279dc40138f9"
+    },
+    "render": {
+      "path": "assets/professional/professional-fixed-drawplate-and-windlass-drawing-bench-01/v1.0.0/thumbnail.png",
+      "size": 527951,
+      "sha256": "856a023dd910c138498afe3d042057c4a46040da15bf2e154e12a84e036d524e"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

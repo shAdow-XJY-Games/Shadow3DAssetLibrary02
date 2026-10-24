@@ -1,0 +1,42 @@
+{
+  "id": "professional-fixed-front-disc-and-rear-squeegee-floor-scrubber-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "professional",
+  "style": "source-preserved-low-poly",
+  "title": "Fixed Front Disc and Rear Squeegee Floor Scrubber",
+  "description": "One original complete fixed walk-behind floor-scrubber visual prop. A broad low horizontal brush-disc appearance under a separate round deck cap sits at the front of an integrated contoured lower tank body and separate rounded upper tank exterior. Two full rear wheels, a full bowed trailing dark squeegee strip with separate backing and mounting arms, one short attached hose, a paired inclined push frame and blank control bridge complete the whole janitorial machine. Not the old barrel vacuum with a different nozzle or a snow machine with its auger removed: the integrated front disc and low trailing sweep connect to one tank chassis, no long detached wand or discharge chute. One prop zero scenes, three opaque materials, whole newly authored numerical geometry. Static unpowered exterior only, no liquid, internal hydraulic/air circuit, brush or wheel rotation, suction, cleaning result, detergent handling, electricity, hygiene, load, manufacture or safe machine use claim. Rigging, animation and interaction are not made.",
+  "bounds": {
+    "x": 0.7099999785423279,
+    "y": 1.3170000314712524,
+    "z": 0.9900000095367432,
+    "unit": "m"
+  },
+  "triangles": 2304,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/professional/professional-fixed-front-disc-and-rear-squeegee-floor-scrubber-01/v1.0.0/model.glb",
+      "size": 207908,
+      "sha256": "c7bf2a71d673a37013fac9e8325ce351a47cfa1f21fb3a760043045f2b49ba5c"
+    },
+    "blend": {
+      "path": "assets/professional/professional-fixed-front-disc-and-rear-squeegee-floor-scrubber-01/v1.0.0/source.blend",
+      "size": 880128,
+      "sha256": "dd40c1a879bd3cc6647eb733f293ecf0931146dec572e7318d70f07805437cda"
+    },
+    "generator": {
+      "path": "assets/professional/professional-fixed-front-disc-and-rear-squeegee-floor-scrubber-01/v1.0.0/generate.py",
+      "size": 16822,
+      "sha256": "1a5515ac8c1e662469b3fffc43b9ec896ec7fe8442e683de579415c50e9c968b"
+    },
+    "render": {
+      "path": "assets/professional/professional-fixed-front-disc-and-rear-squeegee-floor-scrubber-01/v1.0.0/thumbnail.png",
+      "size": 487037,
+      "sha256": "fc9ded9f0f833a64c8c1fad11534be20c956d90714ad5efcf071bad68af6451d"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

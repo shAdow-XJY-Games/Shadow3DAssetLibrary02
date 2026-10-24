@@ -1,0 +1,42 @@
+{
+  "id": "fantasy-fixed-open-v-fold-gatehouse-book-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "fantasy",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Open V Fold Gatehouse Book",
+  "description": "One original complete open pop-up-style gatehouse book in a single fixed artistic pose. A continuous thick open hard cover and spine carry two full sloped page blocks. Two whole thin paper facade panels meet along a genuine upright central V crease; each has a finite complete foot tab seated into its own page. Their lower cut edges form an actual empty arched doorway across the fold, while the upper cut edges form distinct crenellated tower/parapet silhouettes. It is not a closed-book set with a building placed on top, a printed castle image, or the old folded boat/lantern/fan recoloured. Every mesh is newly authored; no old architecture or paper mesh imported. One complete prop, zero scenes, seven closed solids, three opaque constant untextured PBR materials, metres, centred ground datum. Static fictional paper-art representation only: no readable text, unfolding or closing proof, rig, animation, paper engineering, manufacture, durability, protective or safety claim.",
+  "bounds": {
+    "x": 0.41,
+    "y": 0.3,
+    "z": 0.18,
+    "unit": "m"
+  },
+  "triangles": 252,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/fantasy/fantasy-fixed-open-v-fold-gatehouse-book-01/v1.0.0/model.glb",
+      "size": 17300,
+      "sha256": "f0d0eb1d3776274aa76a2b113a9025e8d152948e6564d1e9a297c0fec89f47b4"
+    },
+    "blend": {
+      "path": "assets/fantasy/fantasy-fixed-open-v-fold-gatehouse-book-01/v1.0.0/source.blend",
+      "size": 562936,
+      "sha256": "4570ebf02047ee3f98616c25ff0bb0610f4e0fe9ebe97fb9c64307b98dcf7cf9"
+    },
+    "generator": {
+      "path": "assets/fantasy/fantasy-fixed-open-v-fold-gatehouse-book-01/v1.0.0/generate.py",
+      "size": 10285,
+      "sha256": "2679a05f71da43ba0008bfa6e8419e9bacee24881f36d32f8e8cc68827480f2f"
+    },
+    "render": {
+      "path": "assets/fantasy/fantasy-fixed-open-v-fold-gatehouse-book-01/v1.0.0/thumbnail.png",
+      "size": 388399,
+      "sha256": "63e222dc97b9906d0106d4212f9de78af500a6561de9e6abbba59906314bf2dd"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
