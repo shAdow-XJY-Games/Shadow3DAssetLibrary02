@@ -1,0 +1,42 @@
+{
+  "id": "photography-fixed-raised-clapper-and-blank-slate-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "photography",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Raised Clapper and Blank Slate",
+  "description": "One newly authored complete fixed open film-clapperboard appearance. A full thick blank dark slate carries a separate continuous lower striking rail. A second whole long upper rail is fixed raised about a true left-side hinge eye, two complete rooted cheek-and-eye supports and one continuous transverse pin. Both rails are single closed meshes partitioned by shared vertices into diagonal ivory and charcoal material regions, not thin coplanar stripes laid on top. The slate itself has no writing, labels, brands, numerals or graphics. No old classroom board, easel or bait-box mesh is imported; the complete upper/lower clapper and offset pivot relationship is newly authored. Three opaque constant untextured PBR materials, metres, Z up, horizontally bounds-centred whole finite bottom sole. One complete prop, zero scenes. Static illustrative display only: no clap impact, acoustic timing, synchronization, actual hinge motion or closure clearance, writing usability, handheld ergonomics, stability, manufacture or safety claim.",
+  "bounds": {
+    "x": 0.36,
+    "y": 0.088,
+    "z": 0.44281867239080464,
+    "unit": "m"
+  },
+  "triangles": 872,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/photography/photography-fixed-raised-clapper-and-blank-slate-01/v1.0.0/model.glb",
+      "size": 47500,
+      "sha256": "c6cdf4d3ddbfb22f0394c2063ea069aa17ac3747b6ee6e9d1e7095b18d740985"
+    },
+    "blend": {
+      "path": "assets/photography/photography-fixed-raised-clapper-and-blank-slate-01/v1.0.0/source.blend",
+      "size": 605572,
+      "sha256": "cc445e0d52c1ac3e6822bbd5aaf81ee6aa08e05143051185e261fa3a29a32c8d"
+    },
+    "generator": {
+      "path": "assets/photography/photography-fixed-raised-clapper-and-blank-slate-01/v1.0.0/generate.py",
+      "size": 11710,
+      "sha256": "4c08f454f110373d4d98b775cd9f0fdf6d05e11b5140ee138d9cf48ae58a8c56"
+    },
+    "render": {
+      "path": "assets/photography/photography-fixed-raised-clapper-and-blank-slate-01/v1.0.0/thumbnail.png",
+      "size": 383641,
+      "sha256": "dc32705456c1d3454abaf6899cb73a27c189a81c2d3b9ccee3b817fb39b4c4d6"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

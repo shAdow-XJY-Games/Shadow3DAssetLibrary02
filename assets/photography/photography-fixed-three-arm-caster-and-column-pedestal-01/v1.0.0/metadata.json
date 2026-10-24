@@ -1,0 +1,42 @@
+{
+  "id": "photography-fixed-three-arm-caster-and-column-pedestal-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "photography",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Three Arm Caster and Column Camera Pedestal",
+  "description": "One newly authored complete fixed studio-camera-pedestal exterior. Three full low radial arms join one central hub and terminate in complete thick U-fork caster groups with separate grounded faceted tyres and transverse axles. One broad lower column and narrower fixed raised stem carry a whole upper pan-bearing exterior, connected open U-yoke, transverse tilt axle and empty camera-mounting plate. A large genuinely open horizontal ring is supported by three complete radial spokes around the lower column; a side-rooted rear pan arm ends in a thick whole grip. No camera, scene, rails, cargo deck or old trolley mesh is imported. The whole caster/column/ring/yoke layout is newly authored rather than an existing luggage trolley or tabletop dual-rod slide with changed wheel counts. Three opaque constant untextured PBR materials, metres, Z up, whole horizontally centred bounds and three finite flat tyre soles at ground. One model, zero scenes. Static appearance only; no steering, rolling, telescoping travel, hydraulic or pneumatic internals, tilt or pan range, camera fitting dimensions, load capacity, stability, manufacture or equipment safety claim.",
+  "bounds": {
+    "x": 1.0669093347380545,
+    "y": 1.0115327508175123,
+    "z": 1.394,
+    "unit": "m"
+  },
+  "triangles": 2412,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/photography/photography-fixed-three-arm-caster-and-column-pedestal-01/v1.0.0/model.glb",
+      "size": 129168,
+      "sha256": "0bfcf7633759e552737cde04d9913cfc6261526715eb2d9bced105bc1fc1521b"
+    },
+    "blend": {
+      "path": "assets/photography/photography-fixed-three-arm-caster-and-column-pedestal-01/v1.0.0/source.blend",
+      "size": 771920,
+      "sha256": "cb56b0c9cfdb08e899d8abe18610cf16540085a9d3c96d8ca9bfa9e1f4257d5f"
+    },
+    "generator": {
+      "path": "assets/photography/photography-fixed-three-arm-caster-and-column-pedestal-01/v1.0.0/generate.py",
+      "size": 12273,
+      "sha256": "de3df0283142b0bc3bb31c687d247ebf9a279b9ccab34af51c6759356b23d2c5"
+    },
+    "render": {
+      "path": "assets/photography/photography-fixed-three-arm-caster-and-column-pedestal-01/v1.0.0/thumbnail.png",
+      "size": 365161,
+      "sha256": "3d16a299aad537a1c1606ae75a4c9e00662fbdde5235af9fdd5640f0aadf3eff"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

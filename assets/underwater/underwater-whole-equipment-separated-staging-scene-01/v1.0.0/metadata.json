@@ -1,0 +1,42 @@
+{
+  "id": "underwater-whole-equipment-separated-staging-scene-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "underwater",
+  "style": "source-preserved-low-poly",
+  "title": "Whole Diving Equipment Separated Staging Mat",
+  "description": "One static diving-equipment staging composition with three complete already-qualified original assets: a whole twin-cylinder storage backframe at rear left, a complete dual-grip propulsion-device display at front centre, and one entire full-foot diving fin at right. Each original model retains its complete original binary geometry buffers, meshes, material dictionaries, hierarchy and metadata; only a new parent translation places the full instance on one bounded low scene-only preparation mat. All three are unit scale, no parts removed or recoloured, no machinery or prop counted as newly made. One scene, zero new independent models. The front apparatus and low fin are separated from the tall storage backframe, leaving a central visual approach space rather than an equipment pile. Complete original finite lower faces rest on the same mat top; this is a static display arrangement, not a ready-to-dive configuration or connected life-support system. No user, gas, water, pressure, breathing circuit, cables, simulation, control operation, movement, carrying suitability, optical effect, instruction or safety claim. Rigging, animation and interaction are not made and are outside this static scene delivery.",
+  "bounds": {
+    "x": 2.5,
+    "y": 2.0999999046325684,
+    "z": 1.4199999570846558,
+    "unit": "m"
+  },
+  "triangles": 2468,
+  "materials": 13,
+  "files": {
+    "glb": {
+      "path": "assets/underwater/underwater-whole-equipment-separated-staging-scene-01/v1.0.0/model.glb",
+      "size": 222124,
+      "sha256": "ca03ab94d3e94a7db03e99c25d51986f2c72ed6c3983030ae58879a82ac9c639"
+    },
+    "blend": {
+      "path": "assets/underwater/underwater-whole-equipment-separated-staging-scene-01/v1.0.0/source.blend",
+      "size": 1207040,
+      "sha256": "6536daf46922c49093d2fa4f1e6e864aed6d1f369d32783a73180b6322a7506f"
+    },
+    "generator": {
+      "path": "assets/underwater/underwater-whole-equipment-separated-staging-scene-01/v1.0.0/generate.py",
+      "size": 68283,
+      "sha256": "c597768af251c9fc2eca458d0b263e12e780d641a2b9cc541947acd07bc00d23"
+    },
+    "render": {
+      "path": "assets/underwater/underwater-whole-equipment-separated-staging-scene-01/v1.0.0/thumbnail.png",
+      "size": 472996,
+      "sha256": "39dbdaa259cf3bea4c7549993d99a64614ee05edf67149d49ed453199d52d7e4"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

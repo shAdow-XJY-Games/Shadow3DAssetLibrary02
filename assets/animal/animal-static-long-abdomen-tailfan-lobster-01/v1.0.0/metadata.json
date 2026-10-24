@@ -1,0 +1,42 @@
+{
+  "id": "animal-static-long-abdomen-tailfan-lobster-01",
+  "version": "1.0.0",
+  "category": "modular",
+  "assetKind": "prop",
+  "theme": "animal",
+  "style": "warm-handcrafted-village",
+  "title": "Static Long-Abdomen Tailfan Lobster",
+  "description": "One original stylised whole lobster-like crustacean in a fixed grounded pose. A long low forecarapace continues into a narrowing visibly ridged abdomen and a wide scalloped horizontal tail fan. Two newly drawn complete thick forward chela-bearing limbs have unequal integral fingers around genuine open notches; eight short lateral walking limbs support the body, two long swept antennae and small dorsal eyes extend from the forebody. New whole body, appendage paths and fan boundaries, not old crab/scorpion arrays or a count/colour variant. One model, zero scenes. Artistic external form only, no exact species/anatomy, feeding, gripping, swimming, rigging, animation or interaction claim.",
+  "bounds": {
+    "x": 1.700000048,
+    "y": 4.051013947,
+    "z": 0.485000014,
+    "unit": "m"
+  },
+  "triangles": 1948,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/animal/animal-static-long-abdomen-tailfan-lobster-01/v1.0.0/model.glb",
+      "size": 114940,
+      "sha256": "9e5e060300bec92bdc60f9a0a613217f54d2f81fe8673034bddfbddab5afbec9"
+    },
+    "blend": {
+      "path": "assets/animal/animal-static-long-abdomen-tailfan-lobster-01/v1.0.0/source.blend",
+      "size": 666828,
+      "sha256": "3a05e36d423321ba64cb5d5a8115bb2212ea1113e1cad4fc16b0878b1a68ec43"
+    },
+    "generator": {
+      "path": "assets/animal/animal-static-long-abdomen-tailfan-lobster-01/v1.0.0/generate.py",
+      "size": 29999,
+      "sha256": "053a5436e84c52d421d0638087965dae2b1bb4c211d7b45c31fd0c8b635dfde3"
+    },
+    "render": {
+      "path": "assets/animal/animal-static-long-abdomen-tailfan-lobster-01/v1.0.0/thumbnail.png",
+      "size": 492071,
+      "sha256": "17b3c93b1af6993f8e84619fa5cc02df21327c2301b496e2bed295eed6eb4b4b"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

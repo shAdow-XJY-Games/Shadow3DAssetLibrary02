@@ -1,0 +1,42 @@
+{
+  "id": "coral-reef-whole-rock-shelter-turtle-approach-scene-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "coral-reef",
+  "style": "source-preserved-faceted-natural-ecology",
+  "title": "Rock Shelter and Resting Sea Turtle Approach",
+  "description": "One static underwater ecology composition of four complete original models: a broad projecting rock roof and open shallow recess behind a whole resting sea turtle on the unobstructed sandy approach, with one complete branching coral and one complete ribbon seaweed holdfast outside opposite entrance flanks. All original geometry and full opaque PBR retained at unit scale. Turtle remains outside the rock foot terrace, not intersecting or falsely supported on its slope; no claim the whole turtle lies under the roof. Four whole source instances, one scene-only continuous sandy floor, zero new independent models. No water simulation, exact species/ecosystem fidelity, swimming, rigging, navigation or diving safety claim.",
+  "bounds": {
+    "x": 7.599999905,
+    "y": 6.199999809,
+    "z": 3.105000019,
+    "unit": "m"
+  },
+  "triangles": 1972,
+  "materials": 16,
+  "files": {
+    "glb": {
+      "path": "assets/coral-reef/coral-reef-whole-rock-shelter-turtle-approach-scene-01/v1.0.0/model.glb",
+      "size": 148176,
+      "sha256": "cfee39e1600eeff8afb0f5227e16e354a7101ac4e3ae350c900793c6f3c614e7"
+    },
+    "blend": {
+      "path": "assets/coral-reef/coral-reef-whole-rock-shelter-turtle-approach-scene-01/v1.0.0/source.blend",
+      "size": 968772,
+      "sha256": "1b4ed1b2a0750ec377119d9e7371e443a93f025760a37de77f30659029eab50a"
+    },
+    "generator": {
+      "path": "assets/coral-reef/coral-reef-whole-rock-shelter-turtle-approach-scene-01/v1.0.0/generate.py",
+      "size": 92052,
+      "sha256": "cc3e201d55d944e6fd3d561b626f0c11ba6f634f81ffc773d80a304794d82556"
+    },
+    "render": {
+      "path": "assets/coral-reef/coral-reef-whole-rock-shelter-turtle-approach-scene-01/v1.0.0/thumbnail.png",
+      "size": 500878,
+      "sha256": "fdb59d99d1f931782cf1b84a7d5b14f32ebee30461fff1323c74ad464b406502"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
