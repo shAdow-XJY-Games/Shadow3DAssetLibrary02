@@ -1,0 +1,42 @@
+{
+  "id": "education-fixed-cutaway-chamber-and-suspended-ball-rod-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "education",
+  "style": "source-preserved-low-poly",
+  "title": "Fixed Cutaway Chamber and Suspended Ball Rod",
+  "description": "One newly authored complete fixed torsion-fibre ball-and-rod apparatus appearance: a broad round low base, thick front-cutaway cylindrical chamber, tall open-sided suspension tower and one continuous fine vertical suspension carrying a complete horizontal rod with a spherical terminal and counterweight. A second independent bent support rises from the base and ends in a fixed neighbouring sphere, with a real air gap between the spheres. The upper head is a blank finite cap, not a graduated dial. The case is opaque with an actual front cutaway, not invisible glass. This is not the equal-arm two-pan balance with transverse fulcrum and pan wires, nor the collector plate and diverging leaves of the electroscope. All visible construction newly authored; only generic mesh and export helpers reused. One whole static low-poly display, zero scenes. No charge, force, torsion response, measurement, calibrated scale, physical experiment, working insulation, electrical design, safety, operating steps, manufacturing or historical accuracy. Rigging, animation and interaction not made and outside scope.",
+  "bounds": {
+    "x": 0.6000000238418579,
+    "y": 0.6000000238418579,
+    "z": 0.8654999732971191,
+    "unit": "m"
+  },
+  "triangles": 2120,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/education/education-fixed-cutaway-chamber-and-suspended-ball-rod-01/v1.0.0/model.glb",
+      "size": 189100,
+      "sha256": "348a58999a5c585b522f49656a2e0f306d95834e682b5f3576669cf27849b9d8"
+    },
+    "blend": {
+      "path": "assets/education/education-fixed-cutaway-chamber-and-suspended-ball-rod-01/v1.0.0/source.blend",
+      "size": 863872,
+      "sha256": "b7f7c098bc157434259e84ed61082da6429067c60d8e2d2a81e05a80f13880dc"
+    },
+    "generator": {
+      "path": "assets/education/education-fixed-cutaway-chamber-and-suspended-ball-rod-01/v1.0.0/generate.py",
+      "size": 17719,
+      "sha256": "13895661fb13530b351e90f3af2bed852e70d0fed00786d52703b5b92a726aa1"
+    },
+    "render": {
+      "path": "assets/education/education-fixed-cutaway-chamber-and-suspended-ball-rod-01/v1.0.0/thumbnail.png",
+      "size": 495923,
+      "sha256": "855a8fb9b3615de34830ad550a80a1f72fb38d66337696f1a43835ca19053337"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "animal-static-open-whorl-hooded-nautilus-01",
+  "version": "1.0.0",
+  "category": "modular",
+  "assetKind": "prop",
+  "theme": "animal",
+  "style": "warm-handcrafted-village",
+  "title": "Static Open-Whorl Hooded Nautilus",
+  "description": "One new complete stylised nautilus-like exterior: a laterally compressed expanding open whorl shell has actual coiled volume and a finite thick terminal aperture, with a recessed blind cavity partly occupied by a rounded protruding hood/head. Two lateral eyes and ten unequal forward tapered tentacles form a compact front bundle rather than terrestrial snail eye stalks or a trailing squid mantle. The entire shell sweep, head and tentacle paths are newly authored, not an old solid relief snail shell extracted or an octopus placed in a bowl. The inner curl remains visibly open as a stylised game-art simplification; no exact tight biological chamber construction or species anatomy is claimed. One static animal prop, zero scenes. Small flattened lower-shell patch is only a placement datum. No living tissue, chamber pressure, feeding, swimming, buoyancy, rig, animation or interaction claim.",
+  "bounds": {
+    "x": 0.35800001,
+    "y": 1.108183503,
+    "z": 0.848240852,
+    "unit": "m"
+  },
+  "triangles": 2216,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/animal/animal-static-open-whorl-hooded-nautilus-01/v1.0.0/model.glb",
+      "size": 129144,
+      "sha256": "f0145ca5c5cb72025f444410f45a46343d4009c2fbcea567b8130404040f391b"
+    },
+    "blend": {
+      "path": "assets/animal/animal-static-open-whorl-hooded-nautilus-01/v1.0.0/source.blend",
+      "size": 664556,
+      "sha256": "96e6643c2f64d643640cde90af21020e23fa0f89492755a0b56b7014c1fa0751"
+    },
+    "generator": {
+      "path": "assets/animal/animal-static-open-whorl-hooded-nautilus-01/v1.0.0/generate.py",
+      "size": 30191,
+      "sha256": "b1c837bf9cdbd26177ec066cacff101489f02a240e1d8fcca8c82ab8494661cb"
+    },
+    "render": {
+      "path": "assets/animal/animal-static-open-whorl-hooded-nautilus-01/v1.0.0/thumbnail.png",
+      "size": 485971,
+      "sha256": "06c0840b192793f60a133c03e393c5a11b66277b1ae20763c336b0bc16d36df6"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

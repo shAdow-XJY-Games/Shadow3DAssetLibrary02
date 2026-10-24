@@ -1,0 +1,42 @@
+{
+  "id": "fantasy-fixed-whole-folded-paper-crane-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "fantasy",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Whole Folded Paper Crane",
+  "description": "One original complete fixed folded-paper crane-inspired prop. A finite-thickness open creased central body has its own complete inner floor, inner and outer fold walls, paper rims and a small finite keel underside. Two broad pointed wings have actual nonplanar ridge facets and full reverse faces; one continuous narrow folded neck rises from the body and bends into a pointed beak, while a separate complete folded tail rises behind. The neck and tail roots are fixed into the inner keel and the wing roots enter the side folds. No feather texture, eyes, animal skin, organic bird body, old paper boat hull or old pinwheel sail is imported or rescaled. All vertices and whole component paths are new. One prop, zero scenes, five closed thin solids, two opaque matte constant PBR face colours, metres and whole bounds-centred ground datum. Static invented paper-art appearance only: no precise traditional fold pattern, single-sheet unfolding proof, craft instructions, flight, rig, animation, physical balance, manufacture or safety claim.",
+  "bounds": {
+    "x": 0.46,
+    "y": 0.3614297055602352,
+    "z": 0.23079994123696188,
+    "unit": "m"
+  },
+  "triangles": 128,
+  "materials": 2,
+  "files": {
+    "glb": {
+      "path": "assets/fantasy/fantasy-fixed-whole-folded-paper-crane-01/v1.0.0/model.glb",
+      "size": 15672,
+      "sha256": "25c39d58292b6bf7f85f1c61756bab02ff64ffedf6bff8bc1c7cfa5a36c87b0e"
+    },
+    "blend": {
+      "path": "assets/fantasy/fantasy-fixed-whole-folded-paper-crane-01/v1.0.0/source.blend",
+      "size": 523752,
+      "sha256": "00315bb7278c82fb54548ed88a01aedb84a810ac3d6675427d124b29530cdae8"
+    },
+    "generator": {
+      "path": "assets/fantasy/fantasy-fixed-whole-folded-paper-crane-01/v1.0.0/generate.py",
+      "size": 10738,
+      "sha256": "7289751cd1e8664dad7f8fb4f1b220e012718d8f7d1a4449f501f536a5ff1b0b"
+    },
+    "render": {
+      "path": "assets/fantasy/fantasy-fixed-whole-folded-paper-crane-01/v1.0.0/thumbnail.png",
+      "size": 315682,
+      "sha256": "03311c74ac5142aa5e8913cf44695fbb41dbb5de4896d040d8daba5c2ab47b45"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

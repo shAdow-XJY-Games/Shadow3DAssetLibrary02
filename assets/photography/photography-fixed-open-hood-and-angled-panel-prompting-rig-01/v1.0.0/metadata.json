@@ -1,0 +1,42 @@
+{
+  "id": "photography-fixed-open-hood-and-angled-panel-prompting-rig-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "photography",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Open Hood and Angled Panel Prompting Rig",
+  "description": "One newly authored complete static empty prompting-rig exterior. Two long equipment rails on four grounded pads and two full cross-ties carry a lower upward-facing blank monitor case and a separate high rear camera mounting plate. Two complete thick flared hood cheeks with true open front and rear, an overhanging roof and finite lower brackets surround one independent 45-degree finite-thickness reflector-style sheet. Two full cross-clamps and two continuous inclined edge retainers support the whole sheet. It is not a view camera with another lens, an enclosed bellows box or an old slider with a screen pasted on: all geometry is new and the low screen, angled sheet, open hood and high empty rear camera station form one integrated equipment layout. Four opaque constant untextured PBR roles, metres, Z up, whole horizontal-envelope-centred ground origin. One prop and zero scenes. Deliberately opaque smoked-metal reflector-style panel, not simulated transmissive glass; no optical transparency or beam-splitter function promised. No camera, displayed text, screen electronics, live reflection, prompting software, optical alignment, motion, standard fit, load, manufacturing or equipment-safety claim.",
+  "bounds": {
+    "x": 0.66,
+    "y": 1.03,
+    "z": 0.781,
+    "unit": "m"
+  },
+  "triangles": 608,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/photography/photography-fixed-open-hood-and-angled-panel-prompting-rig-01/v1.0.0/model.glb",
+      "size": 43284,
+      "sha256": "c4f4cec5db6695e3069e6bc3ec820acc43a38dd9e27a375f5ea74a2e255648f7"
+    },
+    "blend": {
+      "path": "assets/photography/photography-fixed-open-hood-and-angled-panel-prompting-rig-01/v1.0.0/source.blend",
+      "size": 688888,
+      "sha256": "735c3eba617b06faf9bcf86883a87166d88feeec8858a210454bd6d165f0f6e8"
+    },
+    "generator": {
+      "path": "assets/photography/photography-fixed-open-hood-and-angled-panel-prompting-rig-01/v1.0.0/generate.py",
+      "size": 11685,
+      "sha256": "670d5f3d08d3dfd24332df1581a8a0c9908559d835d02a75e444e9a7e0c1117f"
+    },
+    "render": {
+      "path": "assets/photography/photography-fixed-open-hood-and-angled-panel-prompting-rig-01/v1.0.0/thumbnail.png",
+      "size": 438324,
+      "sha256": "4e0346471787b94aa7749717f81b48a5dd0e791a899fde404fe6e219bb2a5fc4"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

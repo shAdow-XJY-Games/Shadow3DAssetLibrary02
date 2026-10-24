@@ -1,0 +1,42 @@
+{
+  "id": "animal-static-broad-rostrum-horizontal-fluke-whale-01",
+  "version": "1.0.0",
+  "category": "modular",
+  "assetKind": "prop",
+  "theme": "animal",
+  "style": "warm-handcrafted-village",
+  "title": "Static Broad-Rostrum Horizontal-Fluke Whale",
+  "description": "One newly drawn whole stylised whale-like exterior: a broad blunt flattened rostrum blends through a massive rounded head and deep arched trunk into a slender raised tail stock. Two long thick curved-outline pectoral flippers sweep beside the front body; one low swept dorsal rises posteriorly. A single complete wide horizontal tail fluke has two broad lateral lobes and a true open central trailing V notch. Small lateral eyes and pale lower body aid reading. Entire body sections and flipper/fluke outlines are new, not a hammerhead with tail rotated, old seal with hind flippers joined, or fish enlarged. One static animal prop, zero scenes; finite low belly datum for game placement only. No exact species, internal organs, blowhole/respiration/feeding, swimming, buoyancy, biological behaviour, rig, animation or interaction claim.",
+  "bounds": {
+    "x": 2.799999952,
+    "y": 3.74000001,
+    "z": 0.920000017,
+    "unit": "m"
+  },
+  "triangles": 676,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/animal/animal-static-broad-rostrum-horizontal-fluke-whale-01/v1.0.0/model.glb",
+      "size": 41728,
+      "sha256": "ed2210cd0407683d87d0c2883f5aad6720021b08bc330c63a05e6bdc15691b73"
+    },
+    "blend": {
+      "path": "assets/animal/animal-static-broad-rostrum-horizontal-fluke-whale-01/v1.0.0/source.blend",
+      "size": 576056,
+      "sha256": "230bf6759b7a188c39c4c2a1e549d9118300b6c370b43e3d625bda5b3fea17f2"
+    },
+    "generator": {
+      "path": "assets/animal/animal-static-broad-rostrum-horizontal-fluke-whale-01/v1.0.0/generate.py",
+      "size": 29422,
+      "sha256": "7f5ad559845f73e558252552ec806e8b9331d57b5654bcf6dc34a3dc3eaf5ed9"
+    },
+    "render": {
+      "path": "assets/animal/animal-static-broad-rostrum-horizontal-fluke-whale-01/v1.0.0/thumbnail.png",
+      "size": 469789,
+      "sha256": "d202482795f647cc15695c80427a7a2404bc2498e3a2816fbff6c6a48e536e46"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

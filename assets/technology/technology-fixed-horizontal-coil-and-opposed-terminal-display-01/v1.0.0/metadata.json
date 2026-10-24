@@ -1,0 +1,42 @@
+{
+  "id": "technology-fixed-horizontal-coil-and-opposed-terminal-display-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "technology",
+  "style": "source-preserved-low-poly",
+  "title": "Fixed Horizontal Coil and Opposed Terminal Display",
+  "description": "One newly authored complete static historical induction-coil-style exterior. A low chamfered box base carries two end saddles and one complete thick horizontal closed winding barrel with broad end cheeks. Two separate tall stepped insulator appearances rise beside it and support opposed short horizontal terminal rods with a real central air gap. A small front leaf-contact appearance, independent support and blank knob belong to the same base. All geometry newly authored, no old instrument mesh extracted, no extra winding turns counted as assets. Not the long hollow sliding-contact rheostat with overhead guide and slider, nor the two upright sounder coils under a hinged T armature. One complete illustrative prop, zero scenes, four opaque constant PBR materials. No supplied cables, electrical continuity, internal circuit, working coil, voltage, current, sparks, induction, operating steps, functional physics, insulation, manufacturing, historical precision, handling or safety claim. Static fixed display only; rigging, animation and interaction not made and outside scope.",
+  "bounds": {
+    "x": 0.6299999952316284,
+    "y": 0.36000001430511475,
+    "z": 0.4345000088214874,
+    "unit": "m"
+  },
+  "triangles": 4540,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/technology/technology-fixed-horizontal-coil-and-opposed-terminal-display-01/v1.0.0/model.glb",
+      "size": 397260,
+      "sha256": "e02b7df90a09a5b16cf5933cb8a5dd53b561043bbff6940e845d2efa1b2b5812"
+    },
+    "blend": {
+      "path": "assets/technology/technology-fixed-horizontal-coil-and-opposed-terminal-display-01/v1.0.0/source.blend",
+      "size": 1167840,
+      "sha256": "3138f259186b7e75560db7640e3a35a7f7ff8a9f3962f524dab51f8a3561c6f1"
+    },
+    "generator": {
+      "path": "assets/technology/technology-fixed-horizontal-coil-and-opposed-terminal-display-01/v1.0.0/generate.py",
+      "size": 18050,
+      "sha256": "5b8cdf43e078520a8facba7a328de696032cb3e4565327d561ca3bdf4516cbf1"
+    },
+    "render": {
+      "path": "assets/technology/technology-fixed-horizontal-coil-and-opposed-terminal-display-01/v1.0.0/thumbnail.png",
+      "size": 557638,
+      "sha256": "19fc788a072aa85f19568e494bcf4c772bc36e60724988f5879176b4d26be890"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "education-fixed-cutaway-bulb-and-four-vane-rotor-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "education",
+  "style": "source-preserved-low-poly",
+  "title": "Fixed Cutaway Bulb and Four Vane Rotor",
+  "description": "One newly authored complete static light-mill-style bulb display. One broad round foot supports a narrow neck and a continuous thick rounded rear bulb shell, with the front half genuinely removed and both finite section faces closed. A central full needle-like support rises from the foot into an independent hub and four complete radial arms carrying finite two-faced vertical vanes. Each vane is one closed mesh with contrasting constant dark and pale opposing faces, not two coplanar plates. The opaque rear half shell is an explicit cutaway, not invisible glass. Unlike the twin-bulb hourglass with axial throat and sand masses, and unlike a cylindrical chamber with a long suspended horizontal ball rod. All visible geometry newly authored; generic mesh/export helpers only. One fixed whole prop, zero scenes. No rotation, light response, thermal or radiative physics, vacuum, bearing performance, energy demonstration, manufacturing, handling, material or safety claim. Rigging, animation and interaction not made and outside scope.",
+  "bounds": {
+    "x": 0.4560000002384186,
+    "y": 0.40799999237060547,
+    "z": 0.7085000276565552,
+    "unit": "m"
+  },
+  "triangles": 2340,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/education/education-fixed-cutaway-bulb-and-four-vane-rotor-01/v1.0.0/model.glb",
+      "size": 211688,
+      "sha256": "3974aadc7052b41fbf97736316151f43afbc59c0ce59412978e71d63498294d0"
+    },
+    "blend": {
+      "path": "assets/education/education-fixed-cutaway-bulb-and-four-vane-rotor-01/v1.0.0/source.blend",
+      "size": 883936,
+      "sha256": "806a6d5af81f93a69637b0c228cca7a5ed4725536b447608a584ff86ba22836d"
+    },
+    "generator": {
+      "path": "assets/education/education-fixed-cutaway-bulb-and-four-vane-rotor-01/v1.0.0/generate.py",
+      "size": 17411,
+      "sha256": "265df5309197f456e8004a984809e23fa723b20a22a33f9bf4d11d1794773a9a"
+    },
+    "render": {
+      "path": "assets/education/education-fixed-cutaway-bulb-and-four-vane-rotor-01/v1.0.0/thumbnail.png",
+      "size": 514134,
+      "sha256": "2488d5e4162d2cf0b7e02c516b73c4b7fc9d2a71648ea754104b7ac27e67487d"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

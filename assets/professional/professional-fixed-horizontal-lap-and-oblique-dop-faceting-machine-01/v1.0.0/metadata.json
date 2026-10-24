@@ -1,0 +1,42 @@
+{
+  "id": "professional-fixed-horizontal-lap-and-oblique-dop-faceting-machine-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "professional",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Horizontal Lap and Oblique Dop Faceting Machine",
+  "description": "One newly authored complete fixed lapidary-faceting-machine-style exterior. A common low chamfered footed case supports a genuinely open circular basin with a full recessed floor, separate broad horizontal lap disk and central spindle cap. Beside it, one tall round mast passes through a whole truly bored carriage sleeve. A complete open U-plan fork carrier spans a transverse head pivot; a separate slanted casing carries one entire oblique blunt dop shaft, shallow fluted blank index wheel and independent blank pivot-face disk. The shaft ends visibly above the lap without a gem or sample. Full side and base knobs complete the common machine. No old treadle grindstone, pottery kick wheel, height-gauge carriage or visible coordinates are reused. The whole basin/lap and side-mast/angled-head relationship, rather than dial count or colours, defines this asset. One prop, zero scenes, four opaque constant untextured PBR materials, metres, Z up, actual horizontal bounds centre and finite ground soles. Static illustrative appearance only: no motor, drive, rotation, tilt or carriage travel, indexing precision, stone holding, cutting, grinding, polishing, coolant, electrical wiring, processing rate, operating instructions, manufacture, ergonomic fit, stability or equipment safety claim. Rigging, animation and interaction are not made and outside this static scope.",
+  "bounds": {
+    "x": 0.645,
+    "y": 0.437,
+    "z": 0.668,
+    "unit": "m"
+  },
+  "triangles": 2896,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/professional/professional-fixed-horizontal-lap-and-oblique-dop-faceting-machine-01/v1.0.0/model.glb",
+      "size": 148684,
+      "sha256": "28399efb60faff4b207e1c165909742eff980b3366d0d915e76803b50871e054"
+    },
+    "blend": {
+      "path": "assets/professional/professional-fixed-horizontal-lap-and-oblique-dop-faceting-machine-01/v1.0.0/source.blend",
+      "size": 793976,
+      "sha256": "10522294969f0a61786a467d9e545877893ad5c6c8bbfdc93374663174f8adcd"
+    },
+    "generator": {
+      "path": "assets/professional/professional-fixed-horizontal-lap-and-oblique-dop-faceting-machine-01/v1.0.0/generate.py",
+      "size": 28644,
+      "sha256": "7d43c8e64afe75efca30ecd3deca14660b15dfaa79eaba276df97ce7efba57f9"
+    },
+    "render": {
+      "path": "assets/professional/professional-fixed-horizontal-lap-and-oblique-dop-faceting-machine-01/v1.0.0/thumbnail.png",
+      "size": 546653,
+      "sha256": "3e9c66e9302345efa0cb307b1289cbcf5e4132c8ce8201fe0f9cc213253cf0cf"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
