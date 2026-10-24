@@ -1,0 +1,42 @@
+{
+  "id": "professional-complete-two-level-metrology-workbench-scene-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "professional",
+  "style": "source-preserved-low-poly",
+  "title": "Complete Two Level Metrology Workbench",
+  "description": "One complete static professional metrology-themed inspection workbench scene. The entire original open worktable stands on one scene-only floor. A separate scene-only raised rectangular surface plate on the rear tabletop supports the complete unchanged height gauge on the left and complete unchanged articulated dial-probe stand on the right, leaving a clear central inspection-looking area between their whole envelopes. The complete original four-jaw caliper lies on the lower front strip of the original tabletop, rotated by one exact signed-axis quarter turn. All four whole source assets preserve their full GLB buffer payloads, complete internal node hierarchy, oriented geometry, normals and full PBR dictionaries; no component is deleted or resized. This two-level rear instrument zone and lower front hand-tool strip differ from a side-by-side printer/computer bench or floor-mounted steam piston maintenance corner. One scene zero new independent models; the plate and floor are only scene support geometry. Static visual composition only: no workpiece, calibrated datum, measurement, reading, probe contact, magnetic holding, machine process, ergonomics, load, stability, installation or safety certification. No animation, rigging or interaction was made or claimed.",
+  "bounds": {
+    "x": 1.600000023841858,
+    "y": 1.2000000476837158,
+    "z": 1.6600000858306885,
+    "unit": "m"
+  },
+  "triangles": 3412,
+  "materials": 14,
+  "files": {
+    "glb": {
+      "path": "assets/professional/professional-complete-two-level-metrology-workbench-scene-01/v1.0.0/model.glb",
+      "size": 329824,
+      "sha256": "ef980a0ee18999c10dd357df4ca496a3b15b64255f454313e41ff54c8d2c7c51"
+    },
+    "blend": {
+      "path": "assets/professional/professional-complete-two-level-metrology-workbench-scene-01/v1.0.0/source.blend",
+      "size": 1496544,
+      "sha256": "9069b0c2d778786fd594a34754910928fc7b9c67050ff1acb74255ee60bbd67a"
+    },
+    "generator": {
+      "path": "assets/professional/professional-complete-two-level-metrology-workbench-scene-01/v1.0.0/generate.py",
+      "size": 105074,
+      "sha256": "03a7233b514b54ca6b237f33a609367e6a50db0ec1b23ac2fd1410e78d0bff22"
+    },
+    "render": {
+      "path": "assets/professional/professional-complete-two-level-metrology-workbench-scene-01/v1.0.0/thumbnail.png",
+      "size": 514334,
+      "sha256": "2595df837c77cda0defe585854a2d928a8c37b9b410493508d94fa65b8253d8d"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

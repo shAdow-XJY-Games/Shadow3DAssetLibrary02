@@ -1,0 +1,42 @@
+{
+  "id": "underwater-fixed-closed-nose-and-dual-grip-propulsion-display-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "underwater",
+  "style": "source-preserved-low-poly",
+  "title": "Fixed Closed Nose and Dual Grip Propulsion Display",
+  "description": "One newly authored complete static dual-grip underwater propulsion-device appearance. A long closed rounded forebody joins a shorter narrow rear housing and an open thick annular tail shroud. Two complete outboard handles bridge between the forebody shoulders and the rear ring, leaving generous true hand openings. A central blunt hub, three broad pitched blades, two radial supports and a full rear grille lie inside the ring. One shallow top control pad and two integrated short resting ribs belong to the apparatus. Unlike a mine ventilation fan this is not an open inlet bellmouth mounted on skids, and unlike a hair dryer it has no single downward grip or open forward outlet. No old mesh imported. One model, zero scenes, metres, Z up, centred ground origin, four opaque constant PBR materials. Illustrative fixed assembly only. No actual motor, battery internals, waterproofing, pressure rating, thrust, propulsion, diving use, operation, manufacturing or safety claim. Rigging, animation and interaction are not made and are outside this static delivery.",
+  "bounds": {
+    "x": 0.550000011920929,
+    "y": 0.7480000257492065,
+    "z": 0.3449999988079071,
+    "unit": "m"
+  },
+  "triangles": 1900,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/underwater/underwater-fixed-closed-nose-and-dual-grip-propulsion-display-01/v1.0.0/model.glb",
+      "size": 176708,
+      "sha256": "9a6ad3cbe8d474ee51369f8dda53b3190d87943f1f7307c4fa4e5f52ad22399e"
+    },
+    "blend": {
+      "path": "assets/underwater/underwater-fixed-closed-nose-and-dual-grip-propulsion-display-01/v1.0.0/source.blend",
+      "size": 876864,
+      "sha256": "9183cdf69cc9ac7c236a44c5ea82b7a09b120b50b032b24274cd9ad888641ab2"
+    },
+    "generator": {
+      "path": "assets/underwater/underwater-fixed-closed-nose-and-dual-grip-propulsion-display-01/v1.0.0/generate.py",
+      "size": 17990,
+      "sha256": "1d03a1e4067c385c7c1c2a2cecd3c83f25c2de8cd97f7c17639f1a10450fd409"
+    },
+    "render": {
+      "path": "assets/underwater/underwater-fixed-closed-nose-and-dual-grip-propulsion-display-01/v1.0.0/thumbnail.png",
+      "size": 571187,
+      "sha256": "a5c59e298f353afae9129c06d7097636719cec416b4153c775823141f8b7d220"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

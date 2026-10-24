@@ -1,0 +1,42 @@
+{
+  "id": "technology-fixed-cutaway-cistern-and-long-tube-barometer-display-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "technology",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Cutaway Cistern and Long Tube Barometer Display",
+  "description": "One newly authored complete static cistern-barometer-style display with an explicitly open-front opaque cutaway. A broad chamfered ground foot carries a tall shaped backing board. One continuous thick vessel expands into a complete lower cistern and narrows into a long upper blind bore with a solid rounded cap; the front 120-degree sector is deliberately absent, while both full finite section faces are closed in contrasting material. Three whole rear bridges attach the vessel to the backing board. A parallel blank ivory read-plate on two separate rear brackets carries a genuinely open fixed rectangular cursor and a small side knob. A full lower stem and broad knob belong to the same cistern assembly. This whole tall cistern/long-tube/parallel-read-plate relation is newly authored, not the old short twin piston pump with its bell cover, the cuff with round gauge and squeeze bulb, or a desk burner stretched taller. No old model vertices or complete parts are imported. Four opaque untextured constant PBR roles, closed editable bodies, metres, native Z up and actual horizontal bounds-centred ground datum. One prop, zero scenes. Static illustrative exhibit only: no mercury or other fluid, transparent glass, sealed pressure system, vacuum, fluid column, calibrated divisions, vernier reading, temperature measurement, atmospheric measurement, motion, physical demonstration, historical reconstruction, material compatibility, manufacture, handling or safety performance claim. Rigging, animation and interaction are not made and are outside this static deliverable.",
+  "bounds": {
+    "x": 0.33,
+    "y": 0.218,
+    "z": 1.11,
+    "unit": "m"
+  },
+  "triangles": 1790,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/technology/technology-fixed-cutaway-cistern-and-long-tube-barometer-display-01/v1.0.0/model.glb",
+      "size": 105548,
+      "sha256": "80ae33c745ed150d167dda07768abadba611973be5abad95af80f9eb1666c0ee"
+    },
+    "blend": {
+      "path": "assets/technology/technology-fixed-cutaway-cistern-and-long-tube-barometer-display-01/v1.0.0/source.blend",
+      "size": 678680,
+      "sha256": "1f965eec611ec06d33f52bc334bec640695f3a295132baaa6fd12e361c693257"
+    },
+    "generator": {
+      "path": "assets/technology/technology-fixed-cutaway-cistern-and-long-tube-barometer-display-01/v1.0.0/generate.py",
+      "size": 27566,
+      "sha256": "3e9c9162f0c500618ee7fd15d65f6aec641808d773ca61f1190b1e2990c03e03"
+    },
+    "render": {
+      "path": "assets/technology/technology-fixed-cutaway-cistern-and-long-tube-barometer-display-01/v1.0.0/thumbnail.png",
+      "size": 505870,
+      "sha256": "66a0f193bf4eebfa87042f74a264954eefe88830138c9d45d613b26660aa8e1c"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
