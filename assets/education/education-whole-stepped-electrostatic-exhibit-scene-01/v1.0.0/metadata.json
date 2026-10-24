@@ -1,0 +1,42 @@
+{
+  "id": "education-whole-stepped-electrostatic-exhibit-scene-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "education",
+  "style": "source-preserved-low-poly",
+  "title": "Whole Stepped Electrostatic Instrument Exhibit",
+  "description": "One static educational instrument-exhibit scene, zero new independent models. Three complete previously qualified instruments retain every original GLB buffer, node hierarchy, normal and per-face PBR material at unit scale: a rounded dome and windowed belt-column display on the broad left low plinth, a complete twin-sector-disc electrostatic-machine appearance on the taller rear-right plinth, and the complete open-case leaf electroscope on a separate lower front-right inspection plinth. The three different-height closed plinths and one shared finite floor are new scene-only geometry, not separately delivered furniture. All entire original finite bottom faces rest on their respective true finite top surfaces; no original mesh is extracted or recoloured. The left-tall and rear-right raised displays form an elevated exhibit pair while the small low front station leaves a central open floor strip, not the old two staggered worktables with a globe and solids or a single microscope table with sample vials. One scene, no connected experiment. No conductors, voltages, charge production, sparks, operation, educational reliability, physical demonstration, human suitability, accessibility, load, material, electrical or equipment safety claim. Static fixed placement only; rigging, animation and interaction not made and outside delivery scope.",
+  "bounds": {
+    "x": 3.700000047683716,
+    "y": 2.799999952316284,
+    "z": 1.819000005722046,
+    "unit": "m"
+  },
+  "triangles": 6490,
+  "materials": 14,
+  "files": {
+    "glb": {
+      "path": "assets/education/education-whole-stepped-electrostatic-exhibit-scene-01/v1.0.0/model.glb",
+      "size": 611088,
+      "sha256": "251e96b0bc27afbacd590e8d0cc9a12bf905a59b8c3009c5f2d1df008d46ce71"
+    },
+    "blend": {
+      "path": "assets/education/education-whole-stepped-electrostatic-exhibit-scene-01/v1.0.0/source.blend",
+      "size": 1946152,
+      "sha256": "519779b23db01455fca4621dbdc1bc21e0e0adcea287ea105fd95802d1ab90ab"
+    },
+    "generator": {
+      "path": "assets/education/education-whole-stepped-electrostatic-exhibit-scene-01/v1.0.0/generate.py",
+      "size": 130804,
+      "sha256": "8328c05b0edab00105d797f7df579b31708c20bb94ca7b6f8e13bfef1c80a2fe"
+    },
+    "render": {
+      "path": "assets/education/education-whole-stepped-electrostatic-exhibit-scene-01/v1.0.0/thumbnail.png",
+      "size": 476545,
+      "sha256": "908602273a3589dc02961bf31678d47c69cbc4ace3f7f0359e5f415d36c1fa7d"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

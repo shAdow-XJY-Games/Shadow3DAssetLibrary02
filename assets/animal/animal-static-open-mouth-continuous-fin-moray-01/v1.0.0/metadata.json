@@ -1,0 +1,42 @@
+{
+  "id": "animal-static-open-mouth-continuous-fin-moray-01",
+  "version": "1.0.0",
+  "category": "modular",
+  "assetKind": "prop",
+  "theme": "animal",
+  "style": "warm-handcrafted-village",
+  "title": "Static Open-Mouth Continuous-Fin Moray",
+  "description": "One newly authored whole stylised moray-like fish exterior: a long laterally compressed curved trunk narrows continuously into a fin-fringed tail. Real dorsal and anal median margins share the whole body surface along its length, not separate decoration plates. A broad blunt head has a real forward-opening thick-lipped blind mouth cavity and small lateral eyes; no tongue, limb, external pectoral fins or snake-scale claim. Every full path, tall section, fin margin and mouth wall is newly drawn, not old S-snake arrays recoloured or an ordinary fish stretched. One static animal prop, zero scenes. Lowermost finite fin underside is a display datum only, not living support or species anatomy. No teeth/gills/internal organs, bite, dangerousness, swimming, animation, rig or interaction claim.",
+  "bounds": {
+    "x": 0.889849305,
+    "y": 2.994804382,
+    "z": 0.550000012,
+    "unit": "m"
+  },
+  "triangles": 692,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/animal/animal-static-open-mouth-continuous-fin-moray-01/v1.0.0/model.glb",
+      "size": 41544,
+      "sha256": "f325143fe49ba31b1a9b7da98889aed7c7313f2e93142d5c355819b2f7b2f2f4"
+    },
+    "blend": {
+      "path": "assets/animal/animal-static-open-mouth-continuous-fin-moray-01/v1.0.0/source.blend",
+      "size": 555416,
+      "sha256": "d29f7f816ae42db34ea91f42e56ff454a101eb253f8380e77c41a1f5b0266af6"
+    },
+    "generator": {
+      "path": "assets/animal/animal-static-open-mouth-continuous-fin-moray-01/v1.0.0/generate.py",
+      "size": 29273,
+      "sha256": "264130a12f9425ab7a7b95727a9df15d1e622a46db9cfb8c9eab8a9fc63f05a1"
+    },
+    "render": {
+      "path": "assets/animal/animal-static-open-mouth-continuous-fin-moray-01/v1.0.0/thumbnail.png",
+      "size": 460978,
+      "sha256": "83e2764049ee4382faee8241c3dce6561fc2fa4785432f28ecd13f498d998c7e"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "public-service-complete-mobility-equipment-display-scene-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "public-service",
+  "style": "source-preserved-low-poly",
+  "title": "Complete Mobility Equipment Display",
+  "description": "One complete static public-service mobility-equipment display scene, counted as one scene and zero new independent models. The whole original manual wheelchair occupies the left freestanding bay, the complete original four-wheel rollator occupies a separated middle bay, and one complete original open-cuff forearm crutch rests on a low right scene-only stand with a rear restraint appearance. A single continuous scene-only floor leaves a clear front visual circulation strip rather than an enclosing fixture wall or a service counter queue. Every original raw GLB buffer, local POSITION and NORMAL, material dictionary, per-face assignment and internal hierarchy is retained exactly; only declared whole-assembly translations at unit scale are added. New support geometry belongs only to this composition, not separately counted equipment. Static unoccupied exhibit only: no clinical treatment, patient guidance, medical suitability, device operation, load, balance, accessibility or circulation-code compliance, physical restraint performance, installation or safety certification. Rigging, animation and interaction are not made.",
+  "bounds": {
+    "x": 3.4000000953674316,
+    "y": 2.200000047683716,
+    "z": 1.2080000638961792,
+    "unit": "m"
+  },
+  "triangles": 8780,
+  "materials": 12,
+  "files": {
+    "glb": {
+      "path": "assets/public-service/public-service-complete-mobility-equipment-display-scene-01/v1.0.0/model.glb",
+      "size": 655492,
+      "sha256": "29237fe4f8163eae3319029c50c8800c287f5257f7040f613475bc5e197902eb"
+    },
+    "blend": {
+      "path": "assets/public-service/public-service-complete-mobility-equipment-display-scene-01/v1.0.0/source.blend",
+      "size": 2184296,
+      "sha256": "c58f7dcae5f9ba7954e5b7bad78b00bcb17f0c42d37f8903d1ff0a3704b39bd3"
+    },
+    "generator": {
+      "path": "assets/public-service/public-service-complete-mobility-equipment-display-scene-01/v1.0.0/generate.py",
+      "size": 174045,
+      "sha256": "7eed2718e6e5a5210717e223782a537a60ce912427d0caa7e070b1bb584a82a1"
+    },
+    "render": {
+      "path": "assets/public-service/public-service-complete-mobility-equipment-display-scene-01/v1.0.0/thumbnail.png",
+      "size": 462365,
+      "sha256": "6ad3e699948c0ebcd1f23f5c122a49fcd9c463b047f3e8a1a910396c9970eb71"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
