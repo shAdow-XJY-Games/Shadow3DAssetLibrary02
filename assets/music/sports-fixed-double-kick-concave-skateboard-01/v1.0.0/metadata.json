@@ -1,0 +1,42 @@
+{
+  "id": "sports-fixed-double-kick-concave-skateboard-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "sports",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Double Kick Concave Skateboard",
+  "description": "One newly authored complete static double-kick skateboard exterior. A single continuous thick deck has genuine transverse concavity and longitudinally raised rounded ends, not a flat board with separate wedges. Two independent lower truck assemblies each include a base plate seated in the deck underside, a shouldered transverse hanger, a full inclined kingpin and bushing, a separate pivot root and continuous cross axle. Four complete annular wheels with distinct hubs rest on finite tread facets. No old scooter body, snowboard, pedal kart chassis or imported mesh is used. The open low board with inclined truck joints is not a scooter stripped of its handle or a snowboard given decorative wheels. Three opaque constant untextured PBR roles, metres, Z up and actual whole horizontal bounds-centred ground origin. One model and zero scenes. Fixed illustrative art only: no rolling or steering simulation, truck articulation, suspension, rider fit, grip, tricks, road use, loading, manufacture or safety claim.",
+  "bounds": {
+    "x": 0.26,
+    "y": 0.87,
+    "z": 0.18311999999999998,
+    "unit": "m"
+  },
+  "triangles": 2428,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/music/sports-fixed-double-kick-concave-skateboard-01/v1.0.0/model.glb",
+      "size": 121336,
+      "sha256": "fd6554cb3961d4c4bb1a737a5613e5c2de7943a4a62457e5d5b99c97f7dbda57"
+    },
+    "blend": {
+      "path": "assets/music/sports-fixed-double-kick-concave-skateboard-01/v1.0.0/source.blend",
+      "size": 745008,
+      "sha256": "e7c4b6672d318355e87b7351c883a90ce741b51bf3e0ca075c2ea99fdc6a91ca"
+    },
+    "generator": {
+      "path": "assets/music/sports-fixed-double-kick-concave-skateboard-01/v1.0.0/generate.py",
+      "size": 11169,
+      "sha256": "f783c26492d0ee46c64417dd56b62ba221f22c3797c6aedc700dd5ccdfc31e14"
+    },
+    "render": {
+      "path": "assets/music/sports-fixed-double-kick-concave-skateboard-01/v1.0.0/thumbnail.png",
+      "size": 331596,
+      "sha256": "376fe56b4ce8a1d7988da3b9e5735dd6b03c44354469e1d4cefb915fcb4471dc"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

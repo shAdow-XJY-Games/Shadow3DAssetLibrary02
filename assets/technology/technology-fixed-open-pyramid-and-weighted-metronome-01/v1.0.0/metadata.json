@@ -1,0 +1,42 @@
+{
+  "id": "technology-fixed-open-pyramid-and-weighted-metronome-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "technology",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Open Pyramid and Weighted Metronome",
+  "description": "One newly authored complete static pyramid-metronome-style exterior. A broad grounded wooden plinth carries a single connected thick tapered case with a true tall trapezoidal front opening, full inner floor, rear, sides and ceiling. A rear-rooted low bearing and proud horizontal axle support one whole slightly inclined rod extending both below and above the pivot. The rod carries a broad flattened lower counterweight and a separate pierced faceted upper sliding-weight appearance, with real free intervals to the case. A blank tapered strip follows the rear inner wall, and one complete side stem with a flat butterfly key belongs to the case. This whole low-pivot two-sided weighted-rod structure within a tapered deep chamber is new geometry, not the old open-pillar clock with its dial removed, a roof-hung round bob, or the music box with its pinned drum and comb replaced. No old meshes imported, scaled or reassembled. One prop, zero scenes, no loose lid, musician, table, calibrated scale, numbers or surrounding instrument. Four opaque constant untextured PBR materials, metres, Z up and actual horizontal-bounds-centred ground origin. Fixed illustrative game-art only: no ticking, sound, oscillation, tempo, beats-per-minute reading, mass calibration, winding, spring, escapement, clockwork timing, adjustment, manufacturing, stability, ergonomics or safety claim.",
+  "bounds": {
+    "x": 0.267,
+    "y": 0.184,
+    "z": 0.335,
+    "unit": "m"
+  },
+  "triangles": 380,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/technology/technology-fixed-open-pyramid-and-weighted-metronome-01/v1.0.0/model.glb",
+      "size": 28736,
+      "sha256": "3d77348f13228e27c8d747b5fd3208d46d4128c260fd03e1839245ba137c77e3"
+    },
+    "blend": {
+      "path": "assets/technology/technology-fixed-open-pyramid-and-weighted-metronome-01/v1.0.0/source.blend",
+      "size": 587712,
+      "sha256": "69b33ed83cfda56725c6f4005f87cec2b9e188aba1f64e691acb1fb137af0358"
+    },
+    "generator": {
+      "path": "assets/technology/technology-fixed-open-pyramid-and-weighted-metronome-01/v1.0.0/generate.py",
+      "size": 27371,
+      "sha256": "d97c07a3af006080c18561131a8761355752806eed0c1ac520e062b52d3ca623"
+    },
+    "render": {
+      "path": "assets/technology/technology-fixed-open-pyramid-and-weighted-metronome-01/v1.0.0/thumbnail.png",
+      "size": 559678,
+      "sha256": "5ddb9393a1d02748d47ed19132bca97b677ff560852dcbe254f32224162136a5"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

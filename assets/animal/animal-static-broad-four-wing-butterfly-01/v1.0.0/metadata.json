@@ -1,0 +1,42 @@
+{
+  "id": "animal-static-broad-four-wing-butterfly-01",
+  "version": "1.0.0",
+  "category": "modular",
+  "assetKind": "prop",
+  "theme": "animal",
+  "style": "warm-handcrafted-village",
+  "title": "Static Broad Four-Wing Butterfly",
+  "description": "One newly authored complete stylised butterfly-like insect in a fixed spread-wing display. A short rounded head, stout compact thorax and tapered abdomen support two broad swept triangular forewings and two separate rounded fan-like hindwings, each with finite thickness and integral opaque colour fields rather than texture cards. The broader forewing trailing regions now partially overlap the lower hindwing upper margins in plan, producing a continuous paired butterfly silhouette rather than four isolated paddle panels. Two curved antennae end in visibly enlarged clubs; six fine bent legs reach finite short flat toes. All body stations, wing outlines and appendage paths are new, not old dragonfly wings widened, bat membranes divided, folded fans or leaf parts. One whole prop, zero scenes. Opaque stylised exterior only: no exact species, microscopic scales, translucency, flight, rig, gait, biological or ecological function claim.",
+  "bounds": {
+    "x": 2.059999943,
+    "y": 1.429999948,
+    "z": 0.366400003,
+    "unit": "m"
+  },
+  "triangles": 1228,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/animal/animal-static-broad-four-wing-butterfly-01/v1.0.0/model.glb",
+      "size": 79664,
+      "sha256": "5810d6e811797014345d6649ad93f84602b46d46fffff2e2a5823d7801597045"
+    },
+    "blend": {
+      "path": "assets/animal/animal-static-broad-four-wing-butterfly-01/v1.0.0/source.blend",
+      "size": 603312,
+      "sha256": "d9bb01c8a6d511adb5e0b363e46f1815ba915b81f3f44bf5966c53cc726d3213"
+    },
+    "generator": {
+      "path": "assets/animal/animal-static-broad-four-wing-butterfly-01/v1.0.0/generate.py",
+      "size": 30252,
+      "sha256": "2a193b052137195d9f9bde87ac7f7049b33f5a40085ed2e5d3904f030791782e"
+    },
+    "render": {
+      "path": "assets/animal/animal-static-broad-four-wing-butterfly-01/v1.0.0/thumbnail.png",
+      "size": 513771,
+      "sha256": "9240a3e37e274d8d2b60c8d4b9872d3709c323c784f5f01789faeeb216c24fcb"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

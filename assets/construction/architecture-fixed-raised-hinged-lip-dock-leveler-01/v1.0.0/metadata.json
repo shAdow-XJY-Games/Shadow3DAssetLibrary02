@@ -1,0 +1,42 @@
+{
+  "id": "architecture-fixed-raised-hinged-lip-dock-leveler-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "interior",
+  "style": "S01-clean-geometric",
+  "title": "Fixed One Piece Up And Over Door",
+  "description": "One original complete fixed raised hinged-lip dock leveller exterior: low open receiving frame, rear pivot towers and continuous axle, one thick inclined deck with two underside beams, separate front hinged full-width lip, finite hinge knuckles, sloping cylinder/rod and mounting ears plus a fixed support prop. Unlike a solid ramp on wedges or a vertically translating scissor platform, the whole deck rises from its rear hinge and terminates in an independently tilted front lip. No old model meshes imported. Three opaque PBR materials, metre scale, true XY centred and frame soles on Z0. One static model, zero scenes; host dock and vehicle omitted. No hydraulic, movement, docking fit, load, installation, traffic or safety performance claim.",
+  "bounds": {
+    "x": 1.8860000000000001,
+    "y": 2.208718352226829,
+    "z": 0.937549773043108,
+    "unit": "m"
+  },
+  "triangles": 1128,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/construction/architecture-fixed-raised-hinged-lip-dock-leveler-01/v1.0.0/model.glb",
+      "size": 66188,
+      "sha256": "502c827afef264188020ae1c69cd3dbeffc61e697118ce0d36e885d35c2feb31"
+    },
+    "blend": {
+      "path": "assets/construction/architecture-fixed-raised-hinged-lip-dock-leveler-01/v1.0.0/source.blend",
+      "size": 716500,
+      "sha256": "0d0d544d17d586f8273be94e0d93365aae1e363afda5f90079b53be08dc8cce3"
+    },
+    "generator": {
+      "path": "assets/construction/architecture-fixed-raised-hinged-lip-dock-leveler-01/v1.0.0/generate.py",
+      "size": 10829,
+      "sha256": "36429ae2d03cb54632418950cd2f67414a92d45dc42ee213562cd6b3cd53ad30"
+    },
+    "render": {
+      "path": "assets/construction/architecture-fixed-raised-hinged-lip-dock-leveler-01/v1.0.0/thumbnail.png",
+      "size": 443324,
+      "sha256": "3d9b8bcb710ea4422ba961c796165d7ce7d47e5124e1f653f0b60e3703862d62"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

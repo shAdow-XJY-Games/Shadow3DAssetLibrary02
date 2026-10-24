@@ -1,0 +1,42 @@
+{
+  "id": "music-fixed-rope-laced-open-foot-goblet-drum-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "music",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Rope Laced Open Foot Goblet Drum",
+  "description": "One newly authored complete static rope-laced goblet hand-drum appearance. A single continuous thick shell narrows from the broad upper chamber into a waisted stem and flares into its own genuinely open annular ground foot; the internal channel runs through the waist to the open underside. A complete finite-thickness upper head closes the chamber above. One full upper lacing/head hoop and one narrow waist hoop anchor twelve entire triangular rope loops outside the tapered body. This is not an old drum kit cylinder reshaped by scale or a copper kettle lifted onto a stand: the full continuous open-foot goblet volume and hoop-to-waist rope routing are newly authored together, with no old geometry imports. Three opaque constant untextured PBR roles, metres, Z up and whole horizontal bounds-centred ground origin. One model and zero scenes. Fixed visual display only: no playable sound, tuning, membrane vibration, rope tension, acoustic performance, traditional construction authenticity, physical stability, manufacture or safety claim.",
+  "bounds": {
+    "x": 0.418,
+    "y": 0.418,
+    "z": 0.688,
+    "unit": "m"
+  },
+  "triangles": 3648,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/music/music-fixed-rope-laced-open-foot-goblet-drum-01/v1.0.0/model.glb",
+      "size": 201776,
+      "sha256": "2e2d5fe922539e25c603b64d5107e9622ff17cf084b3a53256c983abe64dc241"
+    },
+    "blend": {
+      "path": "assets/music/music-fixed-rope-laced-open-foot-goblet-drum-01/v1.0.0/source.blend",
+      "size": 787480,
+      "sha256": "f114c95c6e00ab37d371934c682e273326837b14dd1e2caa0974ead8d9506a96"
+    },
+    "generator": {
+      "path": "assets/music/music-fixed-rope-laced-open-foot-goblet-drum-01/v1.0.0/generate.py",
+      "size": 10502,
+      "sha256": "f948ce167ea258fb190a42dc8a3658770011c629392323c06b0d34d60cfe5594"
+    },
+    "render": {
+      "path": "assets/music/music-fixed-rope-laced-open-foot-goblet-drum-01/v1.0.0/thumbnail.png",
+      "size": 465640,
+      "sha256": "9083c4900c7b69d7f68d4e35fd30b60d9e884f22bcff446f0004b361037968aa"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
