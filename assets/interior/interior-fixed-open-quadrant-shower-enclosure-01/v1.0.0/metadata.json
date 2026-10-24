@@ -1,0 +1,42 @@
+{
+  "id": "interior-fixed-open-quadrant-shower-enclosure-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "interior",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Open Quadrant Shower Enclosure",
+  "description": "One original complete fixed partly-open quarter-round shower enclosure appearance. A single thick quadrant tray has a full inner floor, outer sole and continuously raised recessed rim. Two complete back infills meet at a corner, three full upright posts carry separated inner and outer curved guide rails at top and bottom, and one whole fixed curved opaque screen overlaps a second complete inner-radius framed sliding leaf. The leading leaf is held away from the side jamb, leaving a real broad arc entry; short finite guide blocks and an external grip complete its shown support route. Newly authored fixed rear riser, shower head and mixer are included. Not an old standalone beach shower, resized bath, or cylindrical four-wing central revolving entrance; no prior mesh imported. Three opaque PBR materials, metres Z up, whole XY bounds centred and tray sole at Z0; one complete prop, zero scenes. No transparency, water, working drain, plumbing, slider animation, weather or water seal, hygiene, user fit, installation, support load or safety claim.",
+  "bounds": {
+    "x": 1.127,
+    "y": 1.1270000000000002,
+    "z": 2.09,
+    "unit": "m"
+  },
+  "triangles": 2604,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/interior/interior-fixed-open-quadrant-shower-enclosure-01/v1.0.0/model.glb",
+      "size": 135996,
+      "sha256": "ea3a76ac89a39606855bd592234a5c4baab96c5b2a051f155c0202f0abf2f3e1"
+    },
+    "blend": {
+      "path": "assets/interior/interior-fixed-open-quadrant-shower-enclosure-01/v1.0.0/source.blend",
+      "size": 791584,
+      "sha256": "1fd6d602980afe4ebadb39292e63b8b158a4c3c578537f76443b5eb840e53196"
+    },
+    "generator": {
+      "path": "assets/interior/interior-fixed-open-quadrant-shower-enclosure-01/v1.0.0/generate.py",
+      "size": 12236,
+      "sha256": "079b0bcc1a2b337911e8219b8ca1831bd4a111758c90560aac8521fcd39074ca"
+    },
+    "render": {
+      "path": "assets/interior/interior-fixed-open-quadrant-shower-enclosure-01/v1.0.0/thumbnail.png",
+      "size": 466144,
+      "sha256": "57cf06be5d4a2b9b2a8bd618f241e683910ecbc26322300061efdf7f0729cdad"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
