@@ -1,0 +1,42 @@
+{
+  "id": "animal-static-oval-fin-skirt-cuttlefish-01",
+  "version": "1.0.0",
+  "category": "modular",
+  "assetKind": "prop",
+  "theme": "animal",
+  "style": "warm-handcrafted-village",
+  "title": "Static Oval Fin-Skirt Cuttlefish",
+  "description": "One original whole stylised cuttlefish-like animal resting low: a long broad oval mantle incorporates a true continuous thin lateral fin skirt in its closed surface, with a closed broad ventral resting patch. A short distinct forward head has large side eyes; eight short tapered forward arms and two longer club-ended tentacles form a front bundle rather than a radial octopus skirt. All mantle cross-sections, fin boundary and appendage paths are new, not an old octopus body stretched or a jellyfish bell rotated. One static prop, zero scenes. Artistic exterior only: no exact species/anatomy, internal shell/gills, suction detail, ink release, feeding, swimming, camouflage, rigging, animation or interaction claimed.",
+  "bounds": {
+    "x": 1.139999986,
+    "y": 2.972973824,
+    "z": 0.412,
+    "unit": "m"
+  },
+  "triangles": 1384,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/animal/animal-static-oval-fin-skirt-cuttlefish-01/v1.0.0/model.glb",
+      "size": 83416,
+      "sha256": "7f669009eb8a203695b75ce68225ce027a4cca15e3784290e7eb2adcf0684260"
+    },
+    "blend": {
+      "path": "assets/animal/animal-static-oval-fin-skirt-cuttlefish-01/v1.0.0/source.blend",
+      "size": 635168,
+      "sha256": "31e8a254df62758fdbd3f3110f042ac603a3c922b913fa9cc38ef6ed45d8d49d"
+    },
+    "generator": {
+      "path": "assets/animal/animal-static-oval-fin-skirt-cuttlefish-01/v1.0.0/generate.py",
+      "size": 29381,
+      "sha256": "ba057282c45d93b24a8e65d23bc1eb0bdecc29ff9bbea474b7b155a6fd2783f2"
+    },
+    "render": {
+      "path": "assets/animal/animal-static-oval-fin-skirt-cuttlefish-01/v1.0.0/thumbnail.png",
+      "size": 474551,
+      "sha256": "4c8d3631f35c6f398e7a24a42d62da5a26fbc4c09aad13609bf01bd713cbd86c"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
