@@ -1234,6 +1234,11 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary02",
       "commit": "67a8ddf9c6a78d0de2f1c2141e53c34cd8b79c4e"
+    },
+    "original-qualified-batch-981-volume02-20261025": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary02",
+      "commit": "808a3e07a22753251218aa1e7e0fb8dc09527981"
     }
   },
   "assets": [
@@ -42903,6 +42908,522 @@
       "status": "verified",
       "license": "All rights reserved",
       "sourceId": "original-qualified-batch-969-volume02-20261025"
+    },
+    {
+      "id": "agriculture-whole-winnower-riddle-cleaning-workbay-scene-01",
+      "version": "1.0.0",
+      "category": "scenes",
+      "assetKind": "scene",
+      "theme": "agriculture",
+      "style": "source-preserved-faceted-natural-ecology",
+      "title": "Whole Winnower and Seed Riddle Cleaning Workbay",
+      "description": "One static grain-cleaning workbay scene, zero new models. Two entire qualified unit-scale original apparatus occupy separate stations on one finite scene-only floor: the rounded drum-cased winnower with its high open hopper and sloping discharge trough at left, and the tall suspended open seed-riddle grid with lower collection pan at right. The distinct complete output and handle regions remain visible above a shared empty front strip. Every original oriented world triangle and per-face opaque constant PBR is retained with only whole translations and float32 storage; hierarchy and normals are baked/recomputed, not original GLB bytes. No extracted components, duplicate machines, rescaling or recoloring. Unlike the existing silo service yard this contains neither silo, barrow, tool rack nor basket. Static illustrative arrangement only; no grain flow, screening, airflow, machinery operation, food suitability, navigation, reach or structural safety claim.",
+      "bounds": {
+        "x": 3.599999905,
+        "y": 2.5,
+        "z": 1.24000001,
+        "unit": "m"
+      },
+      "triangles": 1912,
+      "materials": 8,
+      "files": {
+        "glb": {
+          "path": "assets/agriculture/agriculture-whole-winnower-riddle-cleaning-workbay-scene-01/v1.0.0/model.glb",
+          "size": 117708,
+          "sha256": "8fcfe42b0e4a709aa97f881ee75d80618bb5a17245b873bb0479b9274caa4903"
+        },
+        "blend": {
+          "path": "assets/agriculture/agriculture-whole-winnower-riddle-cleaning-workbay-scene-01/v1.0.0/source.blend",
+          "size": 964540,
+          "sha256": "c049e78daac8428303e59b4fa9f4d627cbf7e79660c5b27ae74e9430a5cf8d83"
+        },
+        "generator": {
+          "path": "assets/agriculture/agriculture-whole-winnower-riddle-cleaning-workbay-scene-01/v1.0.0/generate.py",
+          "size": 62402,
+          "sha256": "fe1322209f2c2108e390ced02ad0614fbc3cdc5855183d77902dc870ad081a17"
+        },
+        "render": {
+          "path": "assets/agriculture/agriculture-whole-winnower-riddle-cleaning-workbay-scene-01/v1.0.0/thumbnail.png",
+          "size": 512703,
+          "sha256": "07d7af9baa765bc34ed692c901f2b166dc2740b4041d2d385a7628a618342e5e"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-981-volume02-20261025"
+    },
+    {
+      "id": "animal-static-rounded-belly-short-fan-tail-puffer-01",
+      "version": "1.0.0",
+      "category": "modular",
+      "assetKind": "prop",
+      "theme": "animal",
+      "style": "warm-handcrafted-village",
+      "title": "Whole Rounded Belly and Short Fan Tail Puffer",
+      "description": "One newly authored complete stylized static puffer-like fish exterior. A broad nearly rounded head-belly skin tapers quickly into a short narrow posterior peduncle and a rounded vertical fan tail. Two large seated lateral eyes, a thick genuinely recessed small circular lip, two short broad swept pectoral fins and one small rear dorsal fin form a whole short-bodied fish silhouette. No radial spines, old urchin test, elongated fusiform trunk or concave fork tail copied, and not an old fish globally scaled. New entire profiles and fin shapes, no imported old visible mesh. Small flat lowest belly datum is a display/export choice, not a natural grounded pose. One static model zero scenes. Opaque solid PBR; no exact species, inflation, swimming, breathing, toxicity, biological anatomy, buoyancy, rig, animation or ecological/safety claim.",
+      "bounds": {
+        "x": 1.320000052,
+        "y": 1.38499999,
+        "z": 0.860000014,
+        "unit": "m"
+      },
+      "triangles": 1060,
+      "materials": 4,
+      "files": {
+        "glb": {
+          "path": "assets/animal/animal-static-rounded-belly-short-fan-tail-puffer-01/v1.0.0/model.glb",
+          "size": 61620,
+          "sha256": "a31da912be841fb2ab4ff84bd378222f223a068e9570b074c23edf6bdd02b859"
+        },
+        "blend": {
+          "path": "assets/animal/animal-static-rounded-belly-short-fan-tail-puffer-01/v1.0.0/source.blend",
+          "size": 592552,
+          "sha256": "2f4ce56c66c05f22d2ff565386480558cccd43d4b270289b885cb72ff0fbfd36"
+        },
+        "generator": {
+          "path": "assets/animal/animal-static-rounded-belly-short-fan-tail-puffer-01/v1.0.0/generate.py",
+          "size": 29741,
+          "sha256": "8b8d6435227dcea57d120e63293c8efe740cb3668c8ec2375bbfccb2b76b5902"
+        },
+        "render": {
+          "path": "assets/animal/animal-static-rounded-belly-short-fan-tail-puffer-01/v1.0.0/thumbnail.png",
+          "size": 478603,
+          "sha256": "2cc42946841f7cd3f2ec83c7ca748dcb793e70db521822784ada1a50a0bad825"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-981-volume02-20261025"
+    },
+    {
+      "id": "carpentry-fixed-separated-beds-and-rear-fence-jointer-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "carpentry",
+      "style": "source-preserved-low-poly",
+      "title": "Fixed Separated Beds and Rear Fence Jointer",
+      "description": "One newly authored complete static long-bed jointer-style machine exterior. A footed low chamfered cabinet supports two separate long metal-looking beds with a genuine central transverse opening and a small fixed height difference. One complete blunt drum and shaft are recessed below that mouth on full bearing supports. A broad high rear fence spans both beds and is rooted by two complete bent support stays. A whole rounded raised mouth guard connects to its fixed side pivot and arm; a proud front panel and one blank switch finish the exterior. No old bandsaw or thickness-planer geometry is imported: the open-top long beds and independent fence differ from a tall band-wheel housing and from an overhead-head feed portal. Three opaque materials, one model zero scenes. Empty fixed visual art only, no sharpened cutter edges, timber payload, spindle motion, feed, cutting or thickness performance, fence adjustment, effective guarding, operating instructions, manufacture, load or safety certification. Rigging animation and interaction not made.",
+      "bounds": {
+        "x": 1.7400000095367432,
+        "y": 0.5547122955322266,
+        "z": 1.065000057220459,
+        "unit": "m"
+      },
+      "triangles": 844,
+      "materials": 3,
+      "files": {
+        "glb": {
+          "path": "assets/carpentry/carpentry-fixed-separated-beds-and-rear-fence-jointer-01/v1.0.0/model.glb",
+          "size": 85748,
+          "sha256": "0f0b52a239879ad88fe345984d640fa6b5c6af6779ba559a52b7e6270ca0ffed"
+        },
+        "blend": {
+          "path": "assets/carpentry/carpentry-fixed-separated-beds-and-rear-fence-jointer-01/v1.0.0/source.blend",
+          "size": 726016,
+          "sha256": "9f0d75ae3ad467bd8f319cfc72a768a892e6941ce538a52afe31a588310aca75"
+        },
+        "generator": {
+          "path": "assets/carpentry/carpentry-fixed-separated-beds-and-rear-fence-jointer-01/v1.0.0/generate.py",
+          "size": 15654,
+          "sha256": "a9a097f03cd515db897c8e0105cbd4c06f3e53b2802da733615a1bd1d412cfac"
+        },
+        "render": {
+          "path": "assets/carpentry/carpentry-fixed-separated-beds-and-rear-fence-jointer-01/v1.0.0/thumbnail.png",
+          "size": 490820,
+          "sha256": "d3b7546d94f268bd9b5a0221d1e85847b04f16c8b2d7dd042d100d66b16141b5"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-981-volume02-20261025"
+    },
+    {
+      "id": "entertainment-whole-pinsetter-and-return-preparation-layout-scene-01",
+      "version": "1.0.0",
+      "category": "scenes",
+      "assetKind": "scene",
+      "theme": "entertainment",
+      "style": "source-preserved-low-poly",
+      "title": "Whole Pinsetter and Return Preparation Layout",
+      "description": "One static empty bowling-equipment preparation layout using two complete qualified originals and zero new independent models. A whole guided pinsetting machine occupies the far end of a long blank approach strip; the intact hood-and-hairpin ball-return terminal sits near the front on a separated side bay. The machine face and return cradle both point toward the near preparation area, but their complete ground footprints do not overlap. A single continuous scene-only floor has a pale central longitudinal region assigned to its own original top triangles, not a coplanar decal. This lengthwise far-machine and near-side-terminal organization is not the old court end-goal layout, table skittles or the previous side-by-side mechanical-effects workcorner. Both complete source GLBs, all mesh buffers, internal hierarchy, oriented geometry and full PBR remain unchanged at original unit scale; only whole translations are made. No pins are inserted into unvalidated machine apertures, no ball or hidden transfer path is implied. One scene zero new independent models, two whole reused props. This is a compressed static equipment exhibit, not a regulation bowling lane or operational alley. No working pinsetter, ball circulation, rolling path, scoring, dimensions compliance, ergonomic clearance, installation, load, operation or safety claim. Rigging animation interaction are not made.",
+      "bounds": {
+        "x": 2.9000000953674316,
+        "y": 5.900000095367432,
+        "z": 1.8600000143051147,
+        "unit": "m"
+      },
+      "triangles": 4796,
+      "materials": 8,
+      "files": {
+        "glb": {
+          "path": "assets/entertainment/entertainment-whole-pinsetter-and-return-preparation-layout-scene-01/v1.0.0/model.glb",
+          "size": 244316,
+          "sha256": "1d5a7aadc32f54ddee819068e306424c1ba6891395e8d91b523c5fa7ee3f4168"
+        },
+        "blend": {
+          "path": "assets/entertainment/entertainment-whole-pinsetter-and-return-preparation-layout-scene-01/v1.0.0/source.blend",
+          "size": 1395296,
+          "sha256": "4a82cced66475ce7f806e343c9d16476fc960f9fabe5a4f1b01d0a1447d47183"
+        },
+        "generator": {
+          "path": "assets/entertainment/entertainment-whole-pinsetter-and-return-preparation-layout-scene-01/v1.0.0/generate.py",
+          "size": 86527,
+          "sha256": "bd959c0f237f28dcf58ae75fac843cc1b83e5cd592de429e8797b8da12b0df0d"
+        },
+        "render": {
+          "path": "assets/entertainment/entertainment-whole-pinsetter-and-return-preparation-layout-scene-01/v1.0.0/thumbnail.png",
+          "size": 514911,
+          "sha256": "a0c193e9391f1811a317dc980759d48b29612fb2769bb57ffe0c0d98dfef5663"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-981-volume02-20261025"
+    },
+    {
+      "id": "fantasy-static-four-hoof-and-upright-human-torso-centaur-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "magic",
+      "style": "S01-clean-geometric",
+      "title": "Static Four Hoof and Upright Human Torso Centaur",
+      "description": "One independently authored whole static centaur-inspired fantasy character. A complete new deep quadruped trunk has four entire jointed standing legs with integral broad finite hooves and one hanging tapered tail. A new continuous clothed human-like waist, chest, shoulders, neck and head rises from the front of that lower trunk; two complete relaxed bent arms terminate in blunt stylised hands. Embedded dark eyes and a finite blunt nose define the face, while tunic/hair colours are integral surface regions. All proportions, sections and limb paths are newly authored as one coherent static character, not a catalog horse with its head removed and an extracted marionette set on top; no old mesh or old character coordinates are imported. One character prop, zero scenes; five opaque constant untextured PBR roles, metres, Z up, full horizontal bounds-centred ground origin on four actual hoof soles. No weapons or extra costume assets. Stylised fantasy art only, not human/equine anatomical fidelity, species realism, load-bearing/riding, biological or safety claim. Fine articulated fingers, rigging, skeletal animation, motion, interaction and collision are not produced or verified and are outside this static delivery.",
+      "bounds": {
+        "x": 1.124,
+        "y": 1.907967,
+        "z": 2.32,
+        "unit": "m"
+      },
+      "triangles": 2352,
+      "materials": 5,
+      "files": {
+        "glb": {
+          "path": "assets/magic/fantasy-static-four-hoof-and-upright-human-torso-centaur-01/v1.0.0/model.glb",
+          "size": 173052,
+          "sha256": "51755ec56aca13d1068b36971a2335e5d23ca6cd16c76ed27189b42cb7c6afef"
+        },
+        "blend": {
+          "path": "assets/magic/fantasy-static-four-hoof-and-upright-human-torso-centaur-01/v1.0.0/source.blend",
+          "size": 737340,
+          "sha256": "7a457f1639c0202d8c596f1c118ab4396c75c39f7ac8a79436112e69fa7444ca"
+        },
+        "generator": {
+          "path": "assets/magic/fantasy-static-four-hoof-and-upright-human-torso-centaur-01/v1.0.0/generate.py",
+          "size": 27692,
+          "sha256": "0b6b28e1af1f8a433a30b792cc3394ae381c4db596b628e1fcf774a7480ea4b9"
+        },
+        "render": {
+          "path": "assets/magic/fantasy-static-four-hoof-and-upright-human-torso-centaur-01/v1.0.0/thumbnail.png",
+          "size": 491769,
+          "sha256": "913e1faf2810168e0a7bcbb658e895a89844a7bc2defdad3b926b870e77a8c74"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-981-volume02-20261025"
+    },
+    {
+      "id": "publishing-fixed-long-bed-and-traversing-cylinder-proof-press-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "publishing",
+      "style": "source-preserved-low-poly",
+      "title": "Fixed Long Bed and Traversing Cylinder Proof Press",
+      "description": "One newly authored complete static long-bed cylinder-proof-press appearance. Four whole grounded shoes and legs carry two long side beams, low cross ties and one full empty horizontal type bed. Two raised longitudinal rails extend beyond a complete fixed carriage: each actual underside-grooved saddle supports a full bearing seat, and one transverse shaft carries a single broad closed cylinder above the bed. A separate full open-spoked side handwheel has its entire annular rim, hub and outboard crank grip; finite rail-end stops finish the exterior. No old printing platen, cloth-wringer or lying-press parts are imported, resized or cropped. Three opaque materials, one prop zero scenes. Fixed empty occupational display only: no letters, artwork, paper, ink, sharp edge, cylinder rolling, carriage travel, driven gears, pressure, printing capability, manufacture, operating instructions or equipment safety. Rigging animation and interaction not made.",
+      "bounds": {
+        "x": 0.9120000004768372,
+        "y": 1.3700000047683716,
+        "z": 0.6650000214576721,
+        "unit": "m"
+      },
+      "triangles": 1428,
+      "materials": 3,
+      "files": {
+        "glb": {
+          "path": "assets/publishing/publishing-fixed-long-bed-and-traversing-cylinder-proof-press-01/v1.0.0/model.glb",
+          "size": 142052,
+          "sha256": "428ca306e3025a4c305ce614bdc534954009125b1f10dc768222730ead8b2226"
+        },
+        "blend": {
+          "path": "assets/publishing/publishing-fixed-long-bed-and-traversing-cylinder-proof-press-01/v1.0.0/source.blend",
+          "size": 843168,
+          "sha256": "236d4ab21079bff011c3891597fed556023d43dbcba52167eb7b44c013d1ffa3"
+        },
+        "generator": {
+          "path": "assets/publishing/publishing-fixed-long-bed-and-traversing-cylinder-proof-press-01/v1.0.0/generate.py",
+          "size": 15690,
+          "sha256": "d4203e107df6d462fc197c921e48b6df1b120e435896772d3e461a169c17c3c3"
+        },
+        "render": {
+          "path": "assets/publishing/publishing-fixed-long-bed-and-traversing-cylinder-proof-press-01/v1.0.0/thumbnail.png",
+          "size": 502415,
+          "sha256": "fa84891cd66f4dac4a73e3a924ec0631b2cd1740066adebbadd547d17b8e1ef1"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-981-volume02-20261025"
+    },
+    {
+      "id": "railway-fixed-circular-pit-and-centre-pivot-turntable-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "railway",
+      "style": "S01-clean-geometric",
+      "title": "Fixed Circular Pit and Centre Pivot Turntable",
+      "description": "One whole original fixed railway turntable appearance: continuous circular pit floor and raised rim, complete circular running ring, central pedestal, complete narrow girder and planked rail bridge, two I-section tracks, end wheels and axles, and one side handrail. The pit is open around the bridge and below its deck rather than a flat decorated disc. No old turnout, train, bench or machine mesh imported. Three opaque constant PBR materials, metres, Z up and horizontal bounds-centred ground origin. One static prop, zero scenes. No rotation, track gauge compatibility, rail alignment, load rating, engineering design, installation, traversability or operating safety claim.",
+      "bounds": {
+        "x": 4.3,
+        "y": 4.3,
+        "z": 0.871,
+        "unit": "m"
+      },
+      "triangles": 2124,
+      "materials": 3,
+      "files": {
+        "glb": {
+          "path": "assets/railway/railway-fixed-circular-pit-and-centre-pivot-turntable-01/v1.0.0/model.glb",
+          "size": 113180,
+          "sha256": "527ae4096bc7b20223ede97b850f34f73efb54061a20b9427b3fc19a22d1ce55"
+        },
+        "blend": {
+          "path": "assets/railway/railway-fixed-circular-pit-and-centre-pivot-turntable-01/v1.0.0/source.blend",
+          "size": 802540,
+          "sha256": "054c78165a6b4207446aec8dcd30e41082f01cf30b8a5fbb97275b979590f2fb"
+        },
+        "generator": {
+          "path": "assets/railway/railway-fixed-circular-pit-and-centre-pivot-turntable-01/v1.0.0/generate.py",
+          "size": 10665,
+          "sha256": "4a23cd317d3f7e3d2932143e044f61eb0673e7967904ebbe35fa8622c8b1ed69"
+        },
+        "render": {
+          "path": "assets/railway/railway-fixed-circular-pit-and-centre-pivot-turntable-01/v1.0.0/thumbnail.png",
+          "size": 407438,
+          "sha256": "a93f1f8c251eb9b218b180c1fb0f826f1a4e90c94fa6969db41c07f539d70657"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-981-volume02-20261025"
+    },
+    {
+      "id": "railway-fixed-rocking-beam-and-crank-handcar-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "railway",
+      "style": "S01-clean-geometric",
+      "title": "Fixed Rocking Beam and Crank Handcar",
+      "description": "One complete newly authored static railway pump-handcar appearance. Four complete flanged wheels on two continuous transverse axles support a low frame and paired long standing boards separated by a true central slot. Two open A-shaped pedestal supports carry a transverse pivot and one inclined full rocking beam with two wide transverse hand grips. An entire connecting rod descends through the deck gap to an offset front-axle crank and its real cross pin. This is not the old toolbox inspection trolley with a different push handle: the central open pumping structure and through-deck drive path are independently drawn. Three opaque constant PBR materials, metres, Z up and horizontal bounds-centred ground origin. No old vehicle or grindstone meshes imported. One prop, zero scenes; no person, track, rigging or animation. Static visual roots and overlaps only, not engineered bearings. No pumping, propulsion, gear ratio, travel, rail gauge compatibility, load, ergonomics, manufacture or operating safety claim.",
+      "bounds": {
+        "x": 2.04,
+        "y": 1.54,
+        "z": 1.2892000000000001,
+        "unit": "m"
+      },
+      "triangles": 2572,
+      "materials": 3,
+      "files": {
+        "glb": {
+          "path": "assets/railway/railway-fixed-rocking-beam-and-crank-handcar-01/v1.0.0/model.glb",
+          "size": 123420,
+          "sha256": "c9ccac468173d20001945f01462ec55a7a7649c746763308031a79aea610a981"
+        },
+        "blend": {
+          "path": "assets/railway/railway-fixed-rocking-beam-and-crank-handcar-01/v1.0.0/source.blend",
+          "size": 803660,
+          "sha256": "e49d1e7ade98792344d52f6e1ea66221d23ef6dd4ab9ba4da60753bccc93905b"
+        },
+        "generator": {
+          "path": "assets/railway/railway-fixed-rocking-beam-and-crank-handcar-01/v1.0.0/generate.py",
+          "size": 12078,
+          "sha256": "4ae5cfb72f046624b1e353adefde5402d66e434e1d84788708d9384e6ea70cb8"
+        },
+        "render": {
+          "path": "assets/railway/railway-fixed-rocking-beam-and-crank-handcar-01/v1.0.0/thumbnail.png",
+          "size": 449656,
+          "sha256": "e570db3fd661ebfa1f331a4bc883ed410cc495fa236e3793f261f3ec19d79082"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-981-volume02-20261025"
+    },
+    {
+      "id": "spacebase-fixed-faceted-cabin-and-four-foot-lander-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "spacebase",
+      "style": "source-preserved-low-poly",
+      "title": "Fixed Faceted Cabin And Four Foot Lander",
+      "description": "One newly authored complete fictional four-foot landing-craft exterior. A broad octagonal lower equipment body supports an offset faceted upper cabin with two opaque dark front facet windows. A continuous thick downward-open blind bell sits under the common stage. Four independent new short inclined legs and eight complete side braces join the lower body to four whole round low footpads. A complete front ladder with two long rails and five full cross rungs joins a small fixed front hatch to the forward pad. All geometry newly authored; no old isolated landing-strut modules or rover meshes copied, resized, extracted or counted again. Unlike the existing single inclined stepped barrel and its paired side links, this asset is a whole craft body and cabin with short triangular leg frames arranged around one underbody bell. Unlike the sampling rover, it has no wheels, dual-link side bogies, receiver well or coring tower. One prop zero scenes, four opaque constant PBR roles, metre units Z up. Fictional game-art appearance only, no real mission design, interior, occupants, terrain or national markings. Blind bell is a thick decorative exterior, not a propulsion nozzle. Fixed overlaps are visual roots only. No flight, propulsion, landing, deployment, ladder use, structure, pressure, human occupancy, space qualification, manufacture or safety capability. Rigging animation and interaction not made.",
+      "bounds": {
+        "x": 2.799999952316284,
+        "y": 2.799999952316284,
+        "z": 1.850000023841858,
+        "unit": "m"
+      },
+      "triangles": 1300,
+      "materials": 4,
+      "files": {
+        "glb": {
+          "path": "assets/spacebase/spacebase-fixed-faceted-cabin-and-four-foot-lander-01/v1.0.0/model.glb",
+          "size": 130332,
+          "sha256": "00c854a13701afa925f6a9b24f5bf612b874b8ad3cf40572af787bbbd33e6302"
+        },
+        "blend": {
+          "path": "assets/spacebase/spacebase-fixed-faceted-cabin-and-four-foot-lander-01/v1.0.0/source.blend",
+          "size": 828496,
+          "sha256": "6f523cbe0c92067596d33198a5fd39601f4091c0cce55345795ed8b20b239229"
+        },
+        "generator": {
+          "path": "assets/spacebase/spacebase-fixed-faceted-cabin-and-four-foot-lander-01/v1.0.0/generate.py",
+          "size": 18043,
+          "sha256": "c379cface611d5cbc839e37e73f44204d5001d5fe70e00cdf8a600a91416b341"
+        },
+        "render": {
+          "path": "assets/spacebase/spacebase-fixed-faceted-cabin-and-four-foot-lander-01/v1.0.0/thumbnail.png",
+          "size": 533514,
+          "sha256": "41a0cf559fd17da88f1249f88e4ce95bf7e6f31d2a22cc00e4bd8280ba649a61"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-981-volume02-20261025"
+    },
+    {
+      "id": "sports-fixed-blunt-tip-and-deep-cup-guard-epee-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "sports",
+      "style": "source-preserved-low-poly",
+      "title": "Fixed Blunt Tip And Deep Cup Guard Epee",
+      "description": "One newly authored complete static blunt fencing-implement appearance. A continuous long slender tapered triangular-section rod passes through the narrow central root of a complete thick open cup guard. The deep rear-facing guard has a real interior and full rolled-looking rim; a short dark subtly waisted axial grip, front ferrule and independent rear pommel sit behind it. A separate oversized blunt terminal button caps the forward end. All whole components are new numeric geometry, not a golf club with a resized striking head or an old portion scoop with its handles removed. Unlike the offset cavity-back iron head and heel shaft, the long fine rod continues through a coaxial protective-cup shape to the short hand section. Unlike the squeeze scoop there is no swept ribbon, lever pair or pivot. One prop zero scenes; four opaque constant PBR roles, metre units Z up and bounds-centred ground datum. Fixed horizontal display only. The guard has a small finite flat bottom strip as an artistic display contact; no balance or real-use claim. No sharpened point or edge, flex simulation, electrical scoring mechanism, sports dimensions, fit, combat instruction, actual fighting or sporting performance, protective efficacy, manufacture or safety capability. No person, mask, mat, rig, animation or interaction.",
+      "bounds": {
+        "x": 0.1592295616865158,
+        "y": 1.100000023841858,
+        "z": 0.1592295616865158,
+        "unit": "m"
+      },
+      "triangles": 1236,
+      "materials": 4,
+      "files": {
+        "glb": {
+          "path": "assets/sports/sports-fixed-blunt-tip-and-deep-cup-guard-epee-01/v1.0.0/model.glb",
+          "size": 109160,
+          "sha256": "b88b99182c2cd9194ab1a6ca4200da2662390a54ebb4296e287c8fd00bea0a88"
+        },
+        "blend": {
+          "path": "assets/sports/sports-fixed-blunt-tip-and-deep-cup-guard-epee-01/v1.0.0/source.blend",
+          "size": 722528,
+          "sha256": "e25dd4599cd6e5e7348ae9693358478804c6b2f931c6c89d5d2695f6cab051f2"
+        },
+        "generator": {
+          "path": "assets/sports/sports-fixed-blunt-tip-and-deep-cup-guard-epee-01/v1.0.0/generate.py",
+          "size": 17754,
+          "sha256": "dc680b4b963030ba629aa2b1ecc39332e677d39545a7d6c196da11d6d76312a7"
+        },
+        "render": {
+          "path": "assets/sports/sports-fixed-blunt-tip-and-deep-cup-guard-epee-01/v1.0.0/thumbnail.png",
+          "size": 389815,
+          "sha256": "0ea1c7a8fb6969dd2f00f17acf2e08e934d8bf44565b3452954980c303e078da"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-981-volume02-20261025"
+    },
+    {
+      "id": "technology-fixed-offset-shafts-and-orthogonal-key-disc-coupling-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "technology",
+      "style": "S01-clean-geometric",
+      "title": "Fixed Offset Shafts and Orthogonal Key Disc Coupling",
+      "description": "One independently authored complete static offset-parallel-shaft connector display. A single broad foot supports two whole pedestals and complete bored bearing sleeves at different fixed heights. Two horizontal collared shafts terminate in two entire circular hubs, one with a real vertical recessed inward groove and the other with a perpendicular horizontal groove. One central closed disc has two integral full raised tongues on its opposite faces; the complete keys enter the matching real slots, while broad exposed axial sections of each fixed tongue make their perpendicular relation readable. Display spacing is intentionally extended for visibility, not an engineering proportion or operating configuration. All disc faces, finite slot floors/sidewalls, raised-key risers and peripheral walls are newly authored continuous material surfaces; not separate blocks pasted on old disks. No old Cardan forks/trunnions, drawing-trammel plates/sliders or other asset geometry imported. This is one whole Oldham-style illustrative connection assembly, zero scenes and no extra counted components. Four opaque constant untextured PBR roles, metres, Z up and horizontal-bounds-centred whole ground sole. Fixed artistic overlaps and intervals only; no working fit, sliding, velocity, torque/power transmission, shaft compatibility, lubrication, manufacture, load, installation, engineering or safety claims. Rigging, motion and interaction are not produced or verified.",
+      "bounds": {
+        "x": 1.44,
+        "y": 0.6,
+        "z": 0.665,
+        "unit": "m"
+      },
+      "triangles": 2696,
+      "materials": 4,
+      "files": {
+        "glb": {
+          "path": "assets/technology/technology-fixed-offset-shafts-and-orthogonal-key-disc-coupling-01/v1.0.0/model.glb",
+          "size": 117292,
+          "sha256": "e8816b06767b56676e78e7892215aff3275441c4f21828e21e6765e2c41d9c0e"
+        },
+        "blend": {
+          "path": "assets/technology/technology-fixed-offset-shafts-and-orthogonal-key-disc-coupling-01/v1.0.0/source.blend",
+          "size": 712404,
+          "sha256": "6f4f91cd7464854bed86c95e2258a4e37ab92d99d3ef775aa771574938a44b61"
+        },
+        "generator": {
+          "path": "assets/technology/technology-fixed-offset-shafts-and-orthogonal-key-disc-coupling-01/v1.0.0/generate.py",
+          "size": 28073,
+          "sha256": "08c266651cf86ab116e5be07cc941d86ce286f9c2f806ac08eeaf50e0f452890"
+        },
+        "render": {
+          "path": "assets/technology/technology-fixed-offset-shafts-and-orthogonal-key-disc-coupling-01/v1.0.0/thumbnail.png",
+          "size": 509174,
+          "sha256": "451529299652ed809491ecf8bdd8f8ddb6a73f2ebd8f0b4342d1746743a77b48"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-981-volume02-20261025"
+    },
+    {
+      "id": "technology-fixed-open-races-and-pocketed-ball-bearing-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "technology",
+      "style": "S01-clean-geometric",
+      "title": "Fixed Open Races and Pocketed Ball Bearing",
+      "description": "One newly authored whole static open ball-bearing appearance. Two complete concentric thick annular races have genuinely concave opposed grooves around a row of complete rounded balls. The central shaft bore is entirely open. One complete continuous lower annular cage with full upright separators defines actual upper-open ball pockets; this is an open comb-like cage, not claimed closed ball windows or a sealed bearing. Its low ring intentionally engages the fixed ball bottoms. Race and ball clearances are fixed illustrative separations, not running fits. No old gimbal, single bored rod-end sphere, shaft, pedestal or machine mesh imported. Three opaque constant PBR materials, metres, Z up and full horizontal-bounds-centred ground origin; one prop, zero scenes. Static display only: no rolling, friction, speed, precision, lubrication, bearing fit, load or torque transfer, installation, manufacture or mechanical safety claim.",
+      "bounds": {
+        "x": 0.72,
+        "y": 0.72,
+        "z": 0.12,
+        "unit": "m"
+      },
+      "triangles": 5368,
+      "materials": 3,
+      "files": {
+        "glb": {
+          "path": "assets/technology/technology-fixed-open-races-and-pocketed-ball-bearing-01/v1.0.0/model.glb",
+          "size": 293024,
+          "sha256": "ea7df4584841c75d9ec3c595a4d83357805fcfcedf422704e2d7d0d9ae213638"
+        },
+        "blend": {
+          "path": "assets/technology/technology-fixed-open-races-and-pocketed-ball-bearing-01/v1.0.0/source.blend",
+          "size": 866836,
+          "sha256": "fb40d150b7dc5f5294feb8b77b0979cad8d05de3db275237f6fb48b74558b18b"
+        },
+        "generator": {
+          "path": "assets/technology/technology-fixed-open-races-and-pocketed-ball-bearing-01/v1.0.0/generate.py",
+          "size": 10903,
+          "sha256": "5d057e8c12e8c0e13834485a379e0ca3fc669b1dfda7b738d756be1bcfb0b114"
+        },
+        "render": {
+          "path": "assets/technology/technology-fixed-open-races-and-pocketed-ball-bearing-01/v1.0.0/thumbnail.png",
+          "size": 504875,
+          "sha256": "4e539aa653fe06c12fc5e6a8b74bda6b4cf2b9d415aff3979aba19d8ef3e4e79"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-981-volume02-20261025"
     }
   ]
 }
