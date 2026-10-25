@@ -1,0 +1,42 @@
+{
+  "id": "technology-fixed-three-offset-discs-and-six-link-connector-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "technology",
+  "style": "source-preserved-low-poly",
+  "title": "Fixed Three Offset Discs And Six Link Connector",
+  "description": "One newly authored complete fixed parallel-shaft six-link connector display. A broad low base carries two whole bored bearing pedestals and two short fixed horizontal shafts at different transverse positions. Three whole thin circular plates occupy separate axial layers: the first and last belong to the two shafts, while the middle plate is elevated and offset sideways. Two distinct sets of three complete flat-ended links connect matching perimeter positions of adjacent plates through twelve whole transverse fixed pins. The open gaps between the three plates and the two visible link layers are the main relationship, rather than perpendicular sliding tongues in the old Oldham disc or the fork-cross of the old Cardan joint. All mesh geometry newly authored; no old disks, shafts, forks or keys imported. Four opaque constant PBR materials, metres Z up, one whole static illustrative prop and zero scenes. This deliberately spaced fixed Schmidt-inspired arrangement does not validate linkage closure over a trajectory, constant velocity, shaft misalignment limits, pivot bearing fits, torque transmission, mechanical efficiency, motion, fabrication, loading, installation or safety. Pins intentionally overlap plates and solid links as fixed artistic joins, not free-running joints. No rig, animation or interaction.",
+  "bounds": {
+    "x": 1.2599999904632568,
+    "y": 0.7400000095367432,
+    "z": 0.7200000286102295,
+    "unit": "m"
+  },
+  "triangles": 2184,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/technology/technology-fixed-three-offset-discs-and-six-link-connector-01/v1.0.0/model.glb",
+      "size": 204440,
+      "sha256": "1b370e7f1d771eb1bbceb98d081d89b9f0250b8640df307a2d59e4f1796f2fd4"
+    },
+    "blend": {
+      "path": "assets/technology/technology-fixed-three-offset-discs-and-six-link-connector-01/v1.0.0/source.blend",
+      "size": 932192,
+      "sha256": "10c85169ad163c4a1b7d7a2e0e283ece09ece7b623a8785b53e65b31201ad66b"
+    },
+    "generator": {
+      "path": "assets/technology/technology-fixed-three-offset-discs-and-six-link-connector-01/v1.0.0/generate.py",
+      "size": 17476,
+      "sha256": "f5a144db5fd843b5d6f602d54cafd41a78eaa76f20604f717d06e6f56e404e07"
+    },
+    "render": {
+      "path": "assets/technology/technology-fixed-three-offset-discs-and-six-link-connector-01/v1.0.0/thumbnail.png",
+      "size": 494451,
+      "sha256": "863dcb9deb39cc928373302fa47b67bcb0668b96cc65fbc513df364efb9c9d19"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

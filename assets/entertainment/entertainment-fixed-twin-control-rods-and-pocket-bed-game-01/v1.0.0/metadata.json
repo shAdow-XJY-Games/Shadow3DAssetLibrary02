@@ -1,0 +1,42 @@
+{
+  "id": "entertainment-fixed-twin-control-rods-and-pocket-bed-game-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "entertainment",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Twin Control Rods and Pocket Bed Game",
+  "description": "One newly authored complete static two-rod ball-control tabletop game appearance. A whole long grounded timber bed supports one continuous upper landing board with five genuine through apertures over the separate full blind bottom, bounded by real raised side and end rims. Two separate full long thin rods extend from independent rear pivot plinths to projecting front handgrips, slightly fanning apart above the open pockets; short fixed front saddles represent the displayed resting pose. One complete ball is visibly seated across both rods. The whole bed, pierced landing board, paired rod support architecture and ball are newly authored, not old gimballed maze geometry with obstacles removed and not the tabletop suspended-ball skittle set with renamed pieces. There is no gimbal frame, tilting playing floor, maze walls, overhead mast, tether or skittle targets. One game prop/kit zero scenes; subordinate ball and rods not separately counted. Four opaque untextured PBR roles, metres, Z up, full horizontal envelope centre on the finite bed underside. Fixed illustrative still life only: intentional tiny ball/rod support overlaps do not validate ball movement. No playable physics, rod travel, scoring, rules, coordination training, human fit, durability, manufacturing or toy/child safety. Rigging, animation and interaction not made.",
+  "bounds": {
+    "x": 0.33,
+    "y": 1.4362348198114874,
+    "z": 0.26402658606274154,
+    "unit": "m"
+  },
+  "triangles": 1244,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/entertainment/entertainment-fixed-twin-control-rods-and-pocket-bed-game-01/v1.0.0/model.glb",
+      "size": 71932,
+      "sha256": "a4cc65662641314c27c836007f091e898ab07fe84ddd1aa27287b5ab9fc78b61"
+    },
+    "blend": {
+      "path": "assets/entertainment/entertainment-fixed-twin-control-rods-and-pocket-bed-game-01/v1.0.0/source.blend",
+      "size": 686012,
+      "sha256": "555327adaf457bbab9f1f43c9a7badf3afede433aee5442eec0037c7da34c3f7"
+    },
+    "generator": {
+      "path": "assets/entertainment/entertainment-fixed-twin-control-rods-and-pocket-bed-game-01/v1.0.0/generate.py",
+      "size": 11990,
+      "sha256": "9c6bf01462e4f1b5265d5e8dbd94bca092c2b6eab99a9c8b3e29825c74f9c78e"
+    },
+    "render": {
+      "path": "assets/entertainment/entertainment-fixed-twin-control-rods-and-pocket-bed-game-01/v1.0.0/thumbnail.png",
+      "size": 390801,
+      "sha256": "3fb5c8b7cea3d17a3b1c4c8209a2a0c3c9b42d4f20e41f91cc44c0dcae6f757a"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

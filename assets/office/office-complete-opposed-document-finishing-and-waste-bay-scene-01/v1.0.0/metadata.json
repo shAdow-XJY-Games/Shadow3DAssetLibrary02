@@ -1,0 +1,42 @@
+{
+  "id": "office-complete-opposed-document-finishing-and-waste-bay-scene-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "office",
+  "style": "source-preserved-low-poly",
+  "title": "Complete Opposed Document Finishing and Waste Bay",
+  "description": "One static document-finishing preparation bay, one scene zero new independent models. Two complete unchanged worktables stand as separate facing stations across an open central aisle: the left table supports the entire twin blind-pocket paper-folder cutaway, facing inward, and the right supports the whole fixed raised-arm paper cutter facing the opposite way. A complete pullout-bin shredder stands independently at the back of the central approach, its original extended bin facing forward, with clear floor intervals from both tables. The two tables are whole repeated instances, not two new assets. All original raw GLB buffers, complete meshes, local normals, face PBR assignments and internal hierarchy are unchanged at unit scale; only exact quarter-turn parent placement and one finite floor are new. Unlike the old side-by-side copier and one pickup table, there are two opposed raised processing-tool stations and one separate lower waste endpoint, not an L-shaped printing-and-sewing/bookcase corner relabelled. No paper, users, disassembled parts, connected feed, cutting, folding, shredding, ergonomic access, load or operation/safety performance claim. Rigging animation interaction not made.",
+  "bounds": {
+    "x": 3.0,
+    "y": 2.5999999046325684,
+    "z": 1.6270502805709839,
+    "unit": "m"
+  },
+  "triangles": 4408,
+  "materials": 15,
+  "files": {
+    "glb": {
+      "path": "assets/office/office-complete-opposed-document-finishing-and-waste-bay-scene-01/v1.0.0/model.glb",
+      "size": 417224,
+      "sha256": "5e144e773365c92b026811a1fb8d53007554f09a2be03b22b2d4551929709d1a"
+    },
+    "blend": {
+      "path": "assets/office/office-complete-opposed-document-finishing-and-waste-bay-scene-01/v1.0.0/source.blend",
+      "size": 1700592,
+      "sha256": "3867bfe2460f823214e5633dd6d37d3eeb1031568545ce6d47202772f8e7c89b"
+    },
+    "generator": {
+      "path": "assets/office/office-complete-opposed-document-finishing-and-waste-bay-scene-01/v1.0.0/generate.py",
+      "size": 127012,
+      "sha256": "846c9ce34783461b6cfba1ce8ad9c4d5107e73245560c4cd36b299e5b15011f1"
+    },
+    "render": {
+      "path": "assets/office/office-complete-opposed-document-finishing-and-waste-bay-scene-01/v1.0.0/thumbnail.png",
+      "size": 494045,
+      "sha256": "1bdd2442f84bd8346c8b93d183d6e14c8c0fcde3414624a3eea9d107ec7e3254"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
