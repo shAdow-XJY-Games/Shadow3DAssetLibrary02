@@ -1,0 +1,42 @@
+{
+  "id": "technology-fixed-orthogonal-elbow-chain-platform-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "technology",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Orthogonal Elbow Chain Platform",
+  "description": "One newly authored complete static orthogonal-fold-link platform display. Two entire thick parallel end plates are connected by two independent outward-bent elbow chains. Each chain has two complete broad fixed links, three retained transverse pin axes and full opposing plate-ear seats; the second chain is perpendicular in plan to the first, so its axes are orthogonal rather than parallel. Lower and upper links occupy separated transverse layers joined only at displayed fixed axes. The central volume is visibly open, with no crossed centre pin, sliding rollers, hydraulic ram or hidden column. This is not an existing two-sided X scissor lift rescaled or a cupboard hinge relabelled: new full geometry, two three-axis elbow routes meeting common upper and lower plates. Three opaque PBR materials, metre Z-up, full horizontal-envelope-centred ground origin, one static mechanism-art prop and zero scenes. Fixed explanatory appearance only; no actual movement, parallel-motion constraint, travel, exact kinematic geometry, joint fit, load, lifting, balance, fabrication, installation or safety validation. Pin/solid overlaps are deliberate static joins, not functional bore fits. No rig, animation or interaction.",
+  "bounds": {
+    "x": 1.1156183659602448,
+    "y": 1.1156183659602448,
+    "z": 1.0,
+    "unit": "m"
+  },
+  "triangles": 1352,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/technology/technology-fixed-orthogonal-elbow-chain-platform-01/v1.0.0/model.glb",
+      "size": 74176,
+      "sha256": "add4c1b9ac2c99b4d0a7898f9c97a5c1e8989ccd1ab89451df4190d0c42c311f"
+    },
+    "blend": {
+      "path": "assets/technology/technology-fixed-orthogonal-elbow-chain-platform-01/v1.0.0/source.blend",
+      "size": 737836,
+      "sha256": "0355ef75e5acfb013764b19cdc5d6128555ea8912029ca9107467b72f70d8e35"
+    },
+    "generator": {
+      "path": "assets/technology/technology-fixed-orthogonal-elbow-chain-platform-01/v1.0.0/generate.py",
+      "size": 11306,
+      "sha256": "8dc51e326c40501177668594ee57a9a96f7b31f412470651594bfd146cd29f2c"
+    },
+    "render": {
+      "path": "assets/technology/technology-fixed-orthogonal-elbow-chain-platform-01/v1.0.0/thumbnail.png",
+      "size": 442333,
+      "sha256": "8f072a8558ba0b41f4e315e9d18205b33d06ea7c072aeef06a275f540c879432"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
