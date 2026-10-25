@@ -1,0 +1,42 @@
+{
+  "id": "carpentry-fixed-inline-grip-and-slotted-shoe-reciprocating-saw-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "carpentry",
+  "style": "source-preserved-low-poly",
+  "title": "Fixed Inline Grip and Slotted Shoe Reciprocating Saw",
+  "description": "One newly authored complete fixed handheld reciprocating-saw exterior. One long contoured in-line motor housing joins a thick forward grip boot and an entire rear through-opening D grip with a blank trigger cue. A single long finite blunt straight strip emerges through a genuine rectangular slot in a separate transverse front shoe; two whole short stays connect that shoe to the front boot. A blank side selector and short cable-entry cue complete the body. The whole long-axis grip/boot/strip/shoe relationship differs from the old upper-grip vertical jigsaw and the broad guide-and-chain saw, and no old geometry is imported. Three opaque materials, one prop zero scenes. All edges are finite and blunt, with no sharp cutting teeth. Empty fixed tool appearance only: no workpiece, motor internals, reciprocation, cutting, electrical function, stroke or adjustment, manufacture, handling suitability, guard adequacy or safety claim. Rigging animation interaction not made.",
+  "bounds": {
+    "x": 0.11800000071525574,
+    "y": 0.824999988079071,
+    "z": 0.20000000298023224,
+    "unit": "m"
+  },
+  "triangles": 548,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/carpentry/carpentry-fixed-inline-grip-and-slotted-shoe-reciprocating-saw-01/v1.0.0/model.glb",
+      "size": 53864,
+      "sha256": "cd33a728fba87fdb770f9f395b6639e41cb857b1d617fb991154e604354b7139"
+    },
+    "blend": {
+      "path": "assets/carpentry/carpentry-fixed-inline-grip-and-slotted-shoe-reciprocating-saw-01/v1.0.0/source.blend",
+      "size": 641120,
+      "sha256": "02e469702eff5ea600cb8bdf70726cc362779ac8e4fde736ebdc159fef561e22"
+    },
+    "generator": {
+      "path": "assets/carpentry/carpentry-fixed-inline-grip-and-slotted-shoe-reciprocating-saw-01/v1.0.0/generate.py",
+      "size": 15939,
+      "sha256": "fe1a24d46a49c53061113064924cded929b11de29220c3485aee2be55b9fde98"
+    },
+    "render": {
+      "path": "assets/carpentry/carpentry-fixed-inline-grip-and-slotted-shoe-reciprocating-saw-01/v1.0.0/thumbnail.png",
+      "size": 449399,
+      "sha256": "6d73c888395cb770bbfe4d9b96a96128d0bc198cc65998f0da2a96472dce6e93"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

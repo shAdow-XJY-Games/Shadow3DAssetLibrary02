@@ -1,0 +1,42 @@
+{
+  "id": "carpentry-fixed-long-belt-and-side-disc-bench-sander-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "carpentry",
+  "style": "source-preserved-low-poly",
+  "title": "Fixed Long Belt and Side Disc Bench Sander",
+  "description": "One newly authored complete fixed belt-and-disc bench-sander exterior. A continuous grounded common base and integrated motor plinth carry a long raised closed capsule belt on two full finite drums, side cheeks and four rooted bed supports. A continuous end fence stands clear of the rear wrap. The same motor/base also carries one perpendicular blunt side disc with a separate back plate, genuinely spaced lower semicircular rim guard and its own complete small worktable supported on an inclined rooted bracket. A visible gap remains between disc face and table edge. All geometry original; not an imported handheld sander without its grip or a twin-wheel grinder with a renamed wheel. Three opaque materials, one prop zero scenes. Static workshop art only, no abrasive removal, belt tracking or tension, drive internals, rotation, adjustment, guarding adequacy, machining or electrical operation, manufacture, load or safety assurance. Rigging animation interaction not made.",
+  "bounds": {
+    "x": 0.7369999885559082,
+    "y": 0.6499999761581421,
+    "z": 0.4740000069141388,
+    "unit": "m"
+  },
+  "triangles": 2088,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/carpentry/carpentry-fixed-long-belt-and-side-disc-bench-sander-01/v1.0.0/model.glb",
+      "size": 192496,
+      "sha256": "8eb485b6ac2cd906eaa377a604a2924308b664d217e5a336ee9ed4ee277646c6"
+    },
+    "blend": {
+      "path": "assets/carpentry/carpentry-fixed-long-belt-and-side-disc-bench-sander-01/v1.0.0/source.blend",
+      "size": 879456,
+      "sha256": "e60e9a1d3238ccda6c06d4a90d32b458131d859ff916747112d683ff704c2892"
+    },
+    "generator": {
+      "path": "assets/carpentry/carpentry-fixed-long-belt-and-side-disc-bench-sander-01/v1.0.0/generate.py",
+      "size": 16791,
+      "sha256": "5c940258b10593a4d24ca148638884b188899b9191d3470b8b4dcab0ab729f8e"
+    },
+    "render": {
+      "path": "assets/carpentry/carpentry-fixed-long-belt-and-side-disc-bench-sander-01/v1.0.0/thumbnail.png",
+      "size": 502920,
+      "sha256": "acb489f035793d987ba272c727580ec107067e5cd728f377a01fda7f0b885981"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
