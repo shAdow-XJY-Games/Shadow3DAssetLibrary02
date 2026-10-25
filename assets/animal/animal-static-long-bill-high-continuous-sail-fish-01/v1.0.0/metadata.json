@@ -1,0 +1,42 @@
+{
+  "id": "animal-static-long-bill-high-continuous-sail-fish-01",
+  "version": "1.0.0",
+  "category": "modular",
+  "assetKind": "prop",
+  "theme": "animal",
+  "style": "warm-handcrafted-village",
+  "title": "Static Long-Bill High-Continuous-Sail Fish",
+  "description": "One newly authored complete stylised sailfish-like exterior. A very long narrow upper bill grows directly from the tapered angular head of one elongated muscular body, narrowing behind to a slim caudal stock. A single tall broad continuous dorsal sail with rounded leading crown and gradually falling scalloped upper margin spans most of the back; a deep crescent forked tail and two long swept pectoral fins contrast with the narrow body and small lower fins. The whole axial head-bill/body profile, sail and crescent caudal are new, not an old short-headed fish stretched or a lionfish with repeated spines removed. No old visible meshes imported. One model zero scenes. Small finite lowest-belly presentation datum is artistic support, not natural standing or buoyancy. No exact species, anatomy, sail mechanics, swimming, rig, animation, interaction, live animal care or safety claim.",
+  "bounds": {
+    "x": 1.75999999,
+    "y": 3.829999924,
+    "z": 1.610000014,
+    "unit": "m"
+  },
+  "triangles": 804,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/animal/animal-static-long-bill-high-continuous-sail-fish-01/v1.0.0/model.glb",
+      "size": 49616,
+      "sha256": "e2e34c6daeb8094a85eeb1deb2a8363f6b340a1a118360c2b2c6ca656b4bbd43"
+    },
+    "blend": {
+      "path": "assets/animal/animal-static-long-bill-high-continuous-sail-fish-01/v1.0.0/source.blend",
+      "size": 585820,
+      "sha256": "b42b4c06de83765939f105b9a140a1fc9374b931b5d1af82bd6e4f652a15b826"
+    },
+    "generator": {
+      "path": "assets/animal/animal-static-long-bill-high-continuous-sail-fish-01/v1.0.0/generate.py",
+      "size": 30065,
+      "sha256": "8edd6af4485e3465f241c867490149fc3bd9b5413514495cd3bc1a10cdfda561"
+    },
+    "render": {
+      "path": "assets/animal/animal-static-long-bill-high-continuous-sail-fish-01/v1.0.0/thumbnail.png",
+      "size": 465613,
+      "sha256": "6ae19a5be13f676270fe7328f1b7f460e5b206b299d55079d7162ff335b95a37"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

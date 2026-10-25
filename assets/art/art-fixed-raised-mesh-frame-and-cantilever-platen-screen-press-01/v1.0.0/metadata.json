@@ -1,0 +1,42 @@
+{
+  "id": "art-fixed-raised-mesh-frame-and-cantilever-platen-screen-press-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "art",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Raised Mesh Frame and Cantilever Platen Screen Press",
+  "description": "One newly authored complete single-station screen-printing-press appearance in a fixed raised-frame pose. Two whole grounded rails and a rear crossmember carry a short rear column and long forward cantilever arm beneath one complete blank garment-shaped platen. Two rear hinge roots and a common axle carry two real clamp-body appearances and one continuous rectangular raised screen frame. A single connected thin open lattice spans the complete frame opening with genuine through-cells, not transparent texture or a solid gray sheet. Two whole side stays fix the display angle. The rear hinge/forward empty platen/raised open-mesh relationship is new, not the old vertical chase and lever platen press or rotary duplicator repurposed. No prior press mesh imported; no squeegee, ink, garment or artwork included. One complete prop, zero scenes, four opaque constant PBR materials, metres Z up and whole horizontal ground datum. Static workshop appearance only: no stencil, ink transfer, mesh tension, hinge sweep, clamping, registration, manufacturing, installation, capacity or machinery safety claim.",
+  "bounds": {
+    "x": 0.54,
+    "y": 0.82,
+    "z": 0.75486435705454,
+    "unit": "m"
+  },
+  "triangles": 3992,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/art/art-fixed-raised-mesh-frame-and-cantilever-platen-screen-press-01/v1.0.0/model.glb",
+      "size": 171576,
+      "sha256": "a870c671ef424d7791409284f3675c0afe9383ed8ef7fa49923ff5cab8a3e132"
+    },
+    "blend": {
+      "path": "assets/art/art-fixed-raised-mesh-frame-and-cantilever-platen-screen-press-01/v1.0.0/source.blend",
+      "size": 854048,
+      "sha256": "f7def891a213148bb0f996b75ebe00089631be4a7f04f8403316d822ee1921b9"
+    },
+    "generator": {
+      "path": "assets/art/art-fixed-raised-mesh-frame-and-cantilever-platen-screen-press-01/v1.0.0/generate.py",
+      "size": 12364,
+      "sha256": "1e7fe8b2a9b75bff4919799a2094c51ae7fa39fee2701aa3264f821f4e91fdb7"
+    },
+    "render": {
+      "path": "assets/art/art-fixed-raised-mesh-frame-and-cantilever-platen-screen-press-01/v1.0.0/thumbnail.png",
+      "size": 452138,
+      "sha256": "2cff499e32641b024a8db3dfd79c191c8a18103958480b3e8dc2978d7871f91f"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
