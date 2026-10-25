@@ -1,0 +1,42 @@
+{
+  "id": "art-fixed-broad-foot-muller-and-flat-grinding-slab-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "art",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Broad Foot Muller and Flat Grinding Slab",
+  "description": "One newly authored complete empty pigment-grinding display set, counted as one prop: one thick chamfer-cornered flat stone slab and one whole broad-foot hand muller standing on its full flat top. The muller is one continuous closed radial body with a wide flat sole, gently bevelled outer foot, narrowing conical shoulder, concave waist and rounded bulb grip; it is not an old tapered pestle enlarged. Its complete finite lower disc rests exactly on the planar slab, with generous visible working surface around it. Unlike the old deep mortar the receiving surface is open and planar without bowl cavity or rim, and unlike a chopping board the slab has no handle, hanging hole or grain-strip kit. Both pieces are independently authored full meshes and the combined working set counts once, not one asset per piece. Two opaque solid PBR roles, metres native Z up and whole horizontal-bounds-centred ground origin. Static illustrative art-tool exterior only: no pigment, grinding action, abrasive/material compatibility, chemical preparation, hand fit, glass transmission, hygiene, manufacture or safety claim. No rigging, animation or interaction.",
+  "bounds": {
+    "x": 0.36,
+    "y": 0.32,
+    "z": 0.191,
+    "unit": "m"
+  },
+  "triangles": 828,
+  "materials": 2,
+  "files": {
+    "glb": {
+      "path": "assets/art/art-fixed-broad-foot-muller-and-flat-grinding-slab-01/v1.0.0/model.glb",
+      "size": 45636,
+      "sha256": "05d5632af8b9d4dfc5c085495614346f211e67b1fe9b5635c226e270b7d37a82"
+    },
+    "blend": {
+      "path": "assets/art/art-fixed-broad-foot-muller-and-flat-grinding-slab-01/v1.0.0/source.blend",
+      "size": 547740,
+      "sha256": "64397c06c565a2fa88be6b93fc6059004b87a76663d853563488d4e624ebba80"
+    },
+    "generator": {
+      "path": "assets/art/art-fixed-broad-foot-muller-and-flat-grinding-slab-01/v1.0.0/generate.py",
+      "size": 9893,
+      "sha256": "9bd4dffc2e58d4f839caac2d6dc859ab56d77039e7f2dae7bb72543716b14250"
+    },
+    "render": {
+      "path": "assets/art/art-fixed-broad-foot-muller-and-flat-grinding-slab-01/v1.0.0/thumbnail.png",
+      "size": 358060,
+      "sha256": "49e74df310813b016920267d446630da60eba5c91b8851ac22766e7d0972a6f0"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
