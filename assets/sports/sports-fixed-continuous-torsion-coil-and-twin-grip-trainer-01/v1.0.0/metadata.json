@@ -1,0 +1,42 @@
+{
+  "id": "sports-fixed-continuous-torsion-coil-and-twin-grip-trainer-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "sports",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Continuous Torsion Coil and Twin Grip Trainer",
+  "description": "One newly authored complete fixed-open hand-gripper-style exterior lying on the full flat lower faces of its two long chamfered grips. A single continuous circular-section metal-like wire follows a spaced two-and-a-half-turn helix with an actual open centre, then two complete diverging tails enter the independent grips. The grip contours and continuous coil/tails are one newly authored assembly, not old bow shears with blades cropped or an extracted balance spring with handles attached. One whole model zero scenes, two opaque PBR roles, metres Z up and horizontal-envelope-centred ground datum. Only one fixed illustrative pose; no elastic response, spring force, grip resistance, adjustability, training or therapeutic effect, ergonomics, manufacture, fitness instruction or safety capability. No moving binding, animation or interaction.",
+  "bounds": {
+    "x": 0.11945349091317772,
+    "y": 0.19102732189771943,
+    "z": 0.03899057180578512,
+    "unit": "m"
+  },
+  "triangles": 2656,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/sports/sports-fixed-continuous-torsion-coil-and-twin-grip-trainer-01/v1.0.0/model.glb",
+      "size": 205864,
+      "sha256": "8669d4561751338f5e1a9d998cd757dd93bd65fbd76ea9dcc5e65c48d9387017"
+    },
+    "blend": {
+      "path": "assets/sports/sports-fixed-continuous-torsion-coil-and-twin-grip-trainer-01/v1.0.0/source.blend",
+      "size": 651056,
+      "sha256": "b0d6c91ccafe4f38f9add87956e0d3bfe10945cb055c653f9677b40191d0ccca"
+    },
+    "generator": {
+      "path": "assets/sports/sports-fixed-continuous-torsion-coil-and-twin-grip-trainer-01/v1.0.0/generate.py",
+      "size": 10511,
+      "sha256": "f94748c5894d5974c0a265124bbe548b7050df3bb84fddcafa60260c2ec392f6"
+    },
+    "render": {
+      "path": "assets/sports/sports-fixed-continuous-torsion-coil-and-twin-grip-trainer-01/v1.0.0/thumbnail.png",
+      "size": 436746,
+      "sha256": "e26024d0a77a3a48860b371d495e58eeaab6415bbd9a680351d5b77d2a0696dd"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

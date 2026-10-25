@@ -1,0 +1,42 @@
+{
+  "id": "salon-complete-facing-chair-and-mirror-preparation-scene-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "salon",
+  "style": "source-preserved-low-poly",
+  "title": "Complete Facing Chair and Mirror Preparation Station",
+  "description": "One complete static salon preparation station, one scene and zero new independent models. One entire original pedestal styling chair faces a whole unchanged freestanding floor mirror across an empty visible interval. Behind and to the side, one complete open worktable supports the whole original handheld dryer and whole original hair clipper, separately placed at their existing display heels. This opposing chair/mirror station and detached tool-preparation tabletop is not the old same-direction garment-sample, mirror and hanger display. The mirror retains its original floor base and rear supports and is not relabelled wall-mounted. All five original raw GLB buffers, local POSITION/NORMAL, material dictionaries, face assignments and internal hierarchy remain exact at original unit scale; only whole rigid quarter turns, translations and one finite scene-only floor are new. No original piece extracted, resized or recoloured. No occupant, reflected image accuracy, treatment, power, heat, electrical connection, ergonomic fit, correct professional workflow, load, access or safety certification. Rigging animation and interaction not made.",
+  "bounds": {
+    "x": 3.4000000953674316,
+    "y": 2.799999952316284,
+    "z": 1.7399998903274536,
+    "unit": "m"
+  },
+  "triangles": 4180,
+  "materials": 17,
+  "files": {
+    "glb": {
+      "path": "assets/salon/salon-complete-facing-chair-and-mirror-preparation-scene-01/v1.0.0/model.glb",
+      "size": 359240,
+      "sha256": "867ec06e6f499fcca41b5bcf4b45b3327c642bda51156f15ca0bbc8320d597e2"
+    },
+    "blend": {
+      "path": "assets/salon/salon-complete-facing-chair-and-mirror-preparation-scene-01/v1.0.0/source.blend",
+      "size": 1604188,
+      "sha256": "6c4d9096c69760c95de4fc356ac43513238dcb99c3f85fd055389d16f672a606"
+    },
+    "generator": {
+      "path": "assets/salon/salon-complete-facing-chair-and-mirror-preparation-scene-01/v1.0.0/generate.py",
+      "size": 140853,
+      "sha256": "6e151b020c07ba51b35fbdfa95ce58e5ef8902924813d3f348b64de7e5cec9d8"
+    },
+    "render": {
+      "path": "assets/salon/salon-complete-facing-chair-and-mirror-preparation-scene-01/v1.0.0/thumbnail.png",
+      "size": 484647,
+      "sha256": "b33d8c668056419ee3052bb8ae5ae06e97df768225fa02743921646da645e1b0"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

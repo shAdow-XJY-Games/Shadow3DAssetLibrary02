@@ -1,0 +1,42 @@
+{
+  "id": "characters-static-rounded-helmet-and-padded-space-crew-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "characters",
+  "style": "S01-clean-geometric",
+  "title": "Static Rounded Helmet and Padded Space Crew",
+  "description": "One newly authored complete static clothed space-crew character. A continuous broad rounded padded torso and hip body joins two thick separate knee-shaped legs and full projecting flat-soled boots. Two entire bent voluminous sleeves terminate in closed gloves with integral thumb bulges and full short cuffs. A broad neck ring supports a newly drawn rounded helmet with a real shallow inset front well and an integral opaque gold-looking face panel. A complete chamfered rear equipment pack and one blank chest unit root in the suit body. No exposed skin, real-person likeness, text, logo or brand. All body proportions, limb paths and helmet construction are new numerical geometry: not the old apron worker recoloured or dressed, not an extracted three-window diving helmet placed on a mannequin, and no borrowed body mesh. One character prop zero scenes; four opaque constant PBR materials, metres, native Z up, horizontal bounds-centred two-boot ground datum. Fixed stylised costume appearance only; the helmet and clothing are opaque solid visual forms without a hidden human or wearable interior. No wearable fit, anatomy accuracy, pressure seal, breathing, oxygen, thermal/radiation protection, life support, spaceworthiness, locomotion, manufacture or safety claim. Separately editable static meshes only; no skeleton, skinning, animation, dressing or interaction made or verified.",
+  "bounds": {
+    "x": 1.087892,
+    "y": 0.64,
+    "z": 1.995,
+    "unit": "m"
+  },
+  "triangles": 1920,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/characters/characters-static-rounded-helmet-and-padded-space-crew-01/v1.0.0/model.glb",
+      "size": 131684,
+      "sha256": "c6bd747882ad56559b6f2e617ec6272cb3ca3c3448968b11e390268c090ef96a"
+    },
+    "blend": {
+      "path": "assets/characters/characters-static-rounded-helmet-and-padded-space-crew-01/v1.0.0/source.blend",
+      "size": 695924,
+      "sha256": "0d0d415d1900db9cadf5358992e9c03f74c1640555832c4579418f9ae9ea0901"
+    },
+    "generator": {
+      "path": "assets/characters/characters-static-rounded-helmet-and-padded-space-crew-01/v1.0.0/generate.py",
+      "size": 27681,
+      "sha256": "637687a1cc63289b94db5d4b5ea254b7c93dae62d987933958dab6a4c607f409"
+    },
+    "render": {
+      "path": "assets/characters/characters-static-rounded-helmet-and-padded-space-crew-01/v1.0.0/thumbnail.png",
+      "size": 490343,
+      "sha256": "5aaf2fcf47e65a12d8ef2e2bd23431599921a33cfe72532b3e7b6cc0e357a2ba"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

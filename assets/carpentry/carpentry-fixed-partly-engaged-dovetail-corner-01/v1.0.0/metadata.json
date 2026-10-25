@@ -1,0 +1,42 @@
+{
+  "id": "carpentry-fixed-partly-engaged-dovetail-corner-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "carpentry",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Partly Engaged Dovetail Corner",
+  "description": "One newly authored complete static corner-joinery sample with two perpendicular upright wooden boards. The first is one continuous board with three integral flared dovetails. The second is a whole board whose front-edge sockets genuinely widen across its thickness to surround those tails, not a flat comb plate or painted line. The first board is deliberately partly withdrawn by 21 mm along the display axis, exposing the front portions of the tails and the remaining rear socket recesses, with small side gaps. Both entire boards rest on their bottom edges. Unlike the old rectangular mortise-and-single-tenon T sample, same-plane transport combs or lengthwise hooked scarf, this is a perpendicular casework corner with widening paired interfaces. Three opaque wood PBR materials, metre Z-up ground-centred origin, one prop and zero scenes. No fasteners, glue, tools, cabinet, assembly animation, manufacturing drawing, tolerances, strength, shrinkage, furniture suitability or safety claim.",
+  "bounds": {
+    "x": 0.45,
+    "y": 0.41100000000000003,
+    "z": 0.34,
+    "unit": "m"
+  },
+  "triangles": 120,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/carpentry/carpentry-fixed-partly-engaged-dovetail-corner-01/v1.0.0/model.glb",
+      "size": 8164,
+      "sha256": "5e4f894264057ba10334662c9b8fc92f9f1eb7bd4551bb4f4b0bf080ad2ba6b1"
+    },
+    "blend": {
+      "path": "assets/carpentry/carpentry-fixed-partly-engaged-dovetail-corner-01/v1.0.0/source.blend",
+      "size": 532708,
+      "sha256": "926bdfde804c81933f717983234ffab388cebcb76b8a1f8322547420fdc8b28b"
+    },
+    "generator": {
+      "path": "assets/carpentry/carpentry-fixed-partly-engaged-dovetail-corner-01/v1.0.0/generate.py",
+      "size": 10729,
+      "sha256": "99136153245561200847d1468e827a0355c6c3645822dea43b31aac5c3235df5"
+    },
+    "render": {
+      "path": "assets/carpentry/carpentry-fixed-partly-engaged-dovetail-corner-01/v1.0.0/thumbnail.png",
+      "size": 465386,
+      "sha256": "059b8f26185af580a4b85be6b0700fc5d832fb0ae804f35b9b9889b69f450748"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
