@@ -1274,6 +1274,11 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary02",
       "commit": "efc213c1ffea3dd7e7e8049297f2b5a531295750"
+    },
+    "original-qualified-batch-1035-volume02-20261025": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary02",
+      "commit": "cdb60b6471a1386e26c8e28bd0ea7bb5b243a5ac"
     }
   },
   "assets": [
@@ -45695,6 +45700,92 @@
       "status": "verified",
       "license": "All rights reserved",
       "sourceId": "original-qualified-batch-1033-volume02-20261025"
+    },
+    {
+      "id": "agriculture-fixed-alternating-chute-twin-pan-sample-divider-01",
+      "version": "1.0.0",
+      "category": "modular",
+      "assetKind": "prop",
+      "theme": "agriculture",
+      "style": "warm-handcrafted-village",
+      "title": "Fixed Alternating-Chute Twin-Pan Sample Divider",
+      "description": "One newly authored complete static agricultural sample-divider appearance. A bank of six true thick open U-section channels receives from a narrow row of upper mouths and descends alternately toward opposite front and rear sides. Two independent full open receiver pans sit below the opposed outlets on the common low plinth. Two continuous sloping cross-supports and four full legs carry the channel bank. All channel floors, sides, open ends, receiver cavity walls/bottoms and frame members are actual closed finite geometry. The alternating opposite-side routing and paired lower receivers differ from one shared ore chute with a centre ridge feeding two adjacent same-side valleys; not a changed ridge count, slotted grain probe or repeated standalone containers. One complete static prop zero scenes, not a separable kit. No real sample division accuracy, flow, processing, food contact, moving parts, capacity, fabrication, load or safety claim.",
+      "bounds": {
+        "x": 1.100000024,
+        "y": 1.5,
+        "z": 1.100000024,
+        "unit": "m"
+      },
+      "triangles": 308,
+      "materials": 4,
+      "files": {
+        "glb": {
+          "path": "assets/agriculture/agriculture-fixed-alternating-chute-twin-pan-sample-divider-01/v1.0.0/model.glb",
+          "size": 26812,
+          "sha256": "4e077590684e086888259a2006f3a2aad6ec3dfd761a6c2cb3bc92150894f6c5"
+        },
+        "blend": {
+          "path": "assets/agriculture/agriculture-fixed-alternating-chute-twin-pan-sample-divider-01/v1.0.0/source.blend",
+          "size": 604232,
+          "sha256": "91eedde88b20e0525c250d3561e43c74f95d08a5558e37afa882710ab50b8c68"
+        },
+        "generator": {
+          "path": "assets/agriculture/agriculture-fixed-alternating-chute-twin-pan-sample-divider-01/v1.0.0/generate.py",
+          "size": 29365,
+          "sha256": "79e798c00e0db97cb424b465c5dd05da0353c7be670f1cb0a66947b50ce36714"
+        },
+        "render": {
+          "path": "assets/agriculture/agriculture-fixed-alternating-chute-twin-pan-sample-divider-01/v1.0.0/thumbnail.png",
+          "size": 529869,
+          "sha256": "ada0bff0c36ee42e7f7349e1563ac158937a561561e957cae7b3ca40ff1b19e9"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1035-volume02-20261025"
+    },
+    {
+      "id": "sports-fixed-open-ear-shell-and-projecting-facebar-helmet-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "sports",
+      "style": "S01-clean-geometric",
+      "title": "Fixed Open Ear Shell and Projecting Facebar Helmet",
+      "description": "One newly authored complete empty football-style helmet exterior. A continuous thick crowned shell has a large open face, open lower neck and two real side ear ports. A separate coarse projecting face-bar assembly is rooted at both shell sides, with two broad bent horizontal bars and two short front vertical bars, not a dense domed fencing grid or a raised visor plate. A shallow concave chin cup and two fixed straps complete the static empty appearance. All geometry is opaque solid low-poly art, no wearer or imported old helmet numeric geometry. One whole model zero scenes. No impact protection, certification, fitting, wearing, materials specification, sporting suitability, mechanism or safety capability is claimed; rigging and animation not made.",
+      "bounds": {
+        "x": 0.30193023427003446,
+        "y": 0.41876,
+        "z": 0.316,
+        "unit": "m"
+      },
+      "triangles": 1668,
+      "materials": 4,
+      "files": {
+        "glb": {
+          "path": "assets/sports/sports-fixed-open-ear-shell-and-projecting-facebar-helmet-01/v1.0.0/model.glb",
+          "size": 98328,
+          "sha256": "6517f1634ddd8b08a41f956d02e2212fcf69cce21210ee935b8f66599ff9ab5c"
+        },
+        "blend": {
+          "path": "assets/sports/sports-fixed-open-ear-shell-and-projecting-facebar-helmet-01/v1.0.0/source.blend",
+          "size": 681148,
+          "sha256": "6352387a41ffbe6443abd2d4870ff17e5137a9fa15868f988376a6d8f37e195d"
+        },
+        "generator": {
+          "path": "assets/sports/sports-fixed-open-ear-shell-and-projecting-facebar-helmet-01/v1.0.0/generate.py",
+          "size": 11634,
+          "sha256": "d90739d0df2a84a7c4d1640946e7f6fcfc69cf100f655a88c0d3f3c4a339cd7e"
+        },
+        "render": {
+          "path": "assets/sports/sports-fixed-open-ear-shell-and-projecting-facebar-helmet-01/v1.0.0/thumbnail.png",
+          "size": 463689,
+          "sha256": "f19fb67ff055466dd2710d967638e45d7a081b58b419238d292eb4ead5964778"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1035-volume02-20261025"
     }
   ]
 }
