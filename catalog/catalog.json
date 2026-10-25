@@ -1514,6 +1514,11 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary02",
       "commit": "92fa5d6ea0dac000826c3290316a95992f31392f"
+    },
+    "original-qualified-batch-1159-volume02-20261025": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary02",
+      "commit": "616104666c85ff3cc273dc49407a7417a1f0e673"
     }
   },
   "assets": [
@@ -51310,6 +51315,49 @@
       "status": "verified",
       "license": "All rights reserved",
       "sourceId": "original-qualified-batch-1158-volume02-20261025"
+    },
+    {
+      "id": "transport-fixed-open-spoke-and-top-drive-steam-traction-engine-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "transport",
+      "style": "S01-clean-geometric",
+      "title": "Fixed Open Spoke and Top Drive Steam Traction Engine",
+      "description": "One newly authored complete steam-road-traction-engine-style static exterior. A small-wheel front crossframe and large open-spoke rear driving-wheel pair support a long narrow chassis and an open rear footplate. A complete horizontal boiler exterior with integral bands joins a separate upright rear firebox; a tall blind hollow flared front stack rises from its crown. A complete top-mounted cylinder, fixed piston rod and crosshead, open two-rail guides, separate inclined connecting rod, offset crank pin and transverse shaft meet a full open-spoke side flywheel. Rear guard panels and one entire fixed steering-column/rim assembly complete the open operator area. Every road wheel has a connected shared hub, spokes and rim with genuine clear openings and a full finite ground facet. The whole front crossframe, rear firebox/footplate and elevated engine arrangement is newly authored together, not a toy railway locomotive resized or given fewer wheels, and not a pre-existing bench engine placed on a cart. No prior mesh or machine subassembly is imported. One prop zero scenes, four opaque constant PBR materials, metres/native Z up, front -Y and horizontally bounds-centred whole-wheel-ground datum. Closed boiler and cylinder exteriors only; no internal pressure or combustion system, working gear train, steering linkage, moving bearing fit, cylinder stroke, rolling, steam, towing, traction, output, load rating, fuel, fabrication, operation or safety performance is made or verified. No driver, brand, text or track. Rigging, animation and interaction are not produced.",
+      "bounds": {
+        "x": 2.312,
+        "y": 4.031025,
+        "z": 2.66,
+        "unit": "m"
+      },
+      "triangles": 4272,
+      "materials": 4,
+      "files": {
+        "glb": {
+          "path": "assets/transport/transport-fixed-open-spoke-and-top-drive-steam-traction-engine-01/v1.0.0/model.glb",
+          "size": 195748,
+          "sha256": "6adb9677f1ac7d7708944a0a5b43762b20b31fed8cd4533dee45af0a9a339bcc"
+        },
+        "blend": {
+          "path": "assets/transport/transport-fixed-open-spoke-and-top-drive-steam-traction-engine-01/v1.0.0/source.blend",
+          "size": 904060,
+          "sha256": "78a95a5b8f1457ef516a503660c3c1736fe40ea3df285001b848d914f7be3fff"
+        },
+        "generator": {
+          "path": "assets/transport/transport-fixed-open-spoke-and-top-drive-steam-traction-engine-01/v1.0.0/generate.py",
+          "size": 32311,
+          "sha256": "c3013f5108f2103cc6796d4bbffe1e724a3cb970b0c9daab5400eba773f3ab5e"
+        },
+        "render": {
+          "path": "assets/transport/transport-fixed-open-spoke-and-top-drive-steam-traction-engine-01/v1.0.0/thumbnail.png",
+          "size": 570828,
+          "sha256": "92a5e51c0f7280383ea15d5b71c80fd0cb8ed52ce54a83df142302db506ae11d"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1159-volume02-20261025"
     }
   ]
 }
