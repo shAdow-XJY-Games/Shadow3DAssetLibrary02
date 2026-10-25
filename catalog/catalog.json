@@ -1384,6 +1384,11 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary02",
       "commit": "8885ac9cd085b179e124caad5145f5ec61cd3faf"
+    },
+    "original-qualified-batch-1094-volume02-20261025": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary02",
+      "commit": "2f349c0ad81344f0eaa6249ae583cfdc6e19657b"
     }
   },
   "assets": [
@@ -48342,6 +48347,92 @@
       "status": "verified",
       "license": "All rights reserved",
       "sourceId": "original-qualified-batch-1092-volume02-20261025"
+    },
+    {
+      "id": "music-fixed-u-return-rod-ball-and-open-tine-box-rattle-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "music",
+      "style": "S01-clean-geometric",
+      "title": "Fixed U Return Rod Ball and Open Tine Box Rattle",
+      "description": "One newly authored complete fixed U-return-rod rattle-style percussion appearance. A single continuous round-section metal rod makes a broad rear return between a whole round wooden ball and a thick rectangular wooden resonator box. The box is one closed wall mesh with a genuine full front opening and deep blind interior, not a black mouth decal. Six complete finite short metal tines are rooted into its inside roof and stop above its floor, visible through the opening. All parts are newly authored whole geometry, not a castanet shell reshaped or a cabasa handle retained with bead loops removed. The complete ball-to-return-rod-to-open-tine-chamber relation distinguishes it from the old paired cord-linked pear shells and the straight-grip externally beaded cylinder. One whole prop zero scenes, four opaque constant PBR appearances, metres native Z up and complete horizontal-envelope-centred ground origin on the box bottom. Static stylized instrument appearance only; no elastic response, rattling, sound, tuned pitch, hand fit, impact resistance, playability, manufacture or safety claim. No rig, animation or interaction.",
+      "bounds": {
+        "x": 0.28300000000000003,
+        "y": 0.25927975432332817,
+        "z": 0.08,
+        "unit": "m"
+      },
+      "triangles": 876,
+      "materials": 4,
+      "files": {
+        "glb": {
+          "path": "assets/music/music-fixed-u-return-rod-ball-and-open-tine-box-rattle-01/v1.0.0/model.glb",
+          "size": 56096,
+          "sha256": "5d5c7af3cc6fe7da06bf97e407bbb3a05cadc7c8375a29153d1fdce62b55575b"
+        },
+        "blend": {
+          "path": "assets/music/music-fixed-u-return-rod-ball-and-open-tine-box-rattle-01/v1.0.0/source.blend",
+          "size": 633820,
+          "sha256": "c067e2771c09c8be5589055f41d3062dbf4a38359070a32cf9462ef7aa890dba"
+        },
+        "generator": {
+          "path": "assets/music/music-fixed-u-return-rod-ball-and-open-tine-box-rattle-01/v1.0.0/generate.py",
+          "size": 10895,
+          "sha256": "6cd211fa5f0d4de65a7284c145c914781ad78a637a0ad1a89c27279888ee1f6b"
+        },
+        "render": {
+          "path": "assets/music/music-fixed-u-return-rod-ball-and-open-tine-box-rattle-01/v1.0.0/thumbnail.png",
+          "size": 397295,
+          "sha256": "439f9d2971ce728db11bbcd606c6bbf1d2ac148fef0101be05a72cdc43bd5f96"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1094-volume02-20261025"
+    },
+    {
+      "id": "professional-fixed-dual-sight-housing-and-cantilever-stand-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "professional",
+      "style": "source-preserved-low-poly",
+      "title": "Fixed Dual Sight Housing and Cantilever Stand",
+      "description": "One newly authored complete fixed dual-sight instrument-head and cantilever-stand exterior. A broad grounded plinth, thick lower sleeve and narrower tall post carry a full upper cantilever and short descending head support. Two thick flattened rounded housings join under a complete upper bridge; each has one genuine short open circular sight passage, an annular rim, blank lower and upper front dials and a side dial. Two rear roots attach one whole small forehead-pad appearance behind the bridge. This is a phoropter-style static art prop, not handheld binoculars mounted on a pole or the old separate-column slit lamp renamed. All geometry new, three opaque constant materials, one prop zero scenes. No patient, transparent lens, optical train, calibration, scale, prescription, diagnostic or examination ability, human fit, motion, balance or load verification, installation, medical operation or safety claim. Rigging animation interaction not made.",
+      "bounds": {
+        "x": 0.7689999938011169,
+        "y": 0.47999998927116394,
+        "z": 1.590000033378601,
+        "unit": "m"
+      },
+      "triangles": 2396,
+      "materials": 3,
+      "files": {
+        "glb": {
+          "path": "assets/professional/professional-fixed-dual-sight-housing-and-cantilever-stand-01/v1.0.0/model.glb",
+          "size": 217036,
+          "sha256": "f0523b67931a602ab4abc68660d183d4cae8114816c107f6cb86944eab9eb93b"
+        },
+        "blend": {
+          "path": "assets/professional/professional-fixed-dual-sight-housing-and-cantilever-stand-01/v1.0.0/source.blend",
+          "size": 899840,
+          "sha256": "787b31e1f852d0986aa4dafe9ce9035948184bdbd374b39aac06a6298793580d"
+        },
+        "generator": {
+          "path": "assets/professional/professional-fixed-dual-sight-housing-and-cantilever-stand-01/v1.0.0/generate.py",
+          "size": 15983,
+          "sha256": "91fd25e1bf9fde4d0b383656d943eba1dd2acce3af03c17a7f5aefffc26f2269"
+        },
+        "render": {
+          "path": "assets/professional/professional-fixed-dual-sight-housing-and-cantilever-stand-01/v1.0.0/thumbnail.png",
+          "size": 442485,
+          "sha256": "85c5737daaaaf6ca2c35f09c264bb0cd94f1e5eb7d111ba5e9063e7d7cc83387"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1094-volume02-20261025"
     }
   ]
 }
