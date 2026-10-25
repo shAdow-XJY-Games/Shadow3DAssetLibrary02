@@ -1524,6 +1524,11 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary02",
       "commit": "5f3ab1c33ccc6053bd975c0065d3254e28850fb3"
+    },
+    "original-qualified-batch-1164-volume02-20261025": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary02",
+      "commit": "da7251ce466094f305ca8c808dfee1ed6147dc78"
     }
   },
   "assets": [
@@ -51449,6 +51454,135 @@
       "status": "verified",
       "license": "All rights reserved",
       "sourceId": "original-qualified-batch-1161-volume02-20261025"
+    },
+    {
+      "id": "architecture-whole-spherical-sail-vault-and-four-piers-01",
+      "version": "1.0.0",
+      "category": "architecture",
+      "assetKind": "modular",
+      "theme": "classical",
+      "style": "S01-clean-geometric",
+      "title": "Whole Spherical Sail Vault and Four Piers",
+      "description": "One complete newly authored spherical sail-vault architectural bay. A single thick doubly curved spherical shell covers a square footprint: its round upper cap continues into four complete curved corner fields, descending onto four grounded piers with broad capitals and feet. Four real arched side openings lead into one unobstructed central space. The round cap and corner fields share exact shell vertices; this is not a hemispherical old dome placed on an existing vault, two crossed cylindrical roofs, a roof recolour or added pier count. The old groin-vault bay has diagonal cylinder-intersection groins; this new whole shell has continuous spherical curvature without those creases. Three opaque constant PBR appearances distinguish the integral upper exterior cap, stone inner/corner shell and pier bodies. All numeric geometry newly authored, no old model imported. Metres Z-up and horizontal complete-envelope centred ground origin, one complete static architectural module zero scenes. Artistic spherical sail-vault exterior only: no structural thrust, load capacity, precise historic construction, weatherproofing, installation, modular fit, accessibility, building-code or safety claim; no animation or interactive construction.",
+      "bounds": {
+        "x": 2.96,
+        "y": 2.96,
+        "z": 2.91205627485,
+        "unit": "m"
+      },
+      "triangles": 3120,
+      "materials": 3,
+      "files": {
+        "glb": {
+          "path": "assets/classical/architecture-whole-spherical-sail-vault-and-four-piers-01/v1.0.0/model.glb",
+          "size": 215912,
+          "sha256": "0a6f587ea2be92692b1aa99b5bac2edab1ebbe98ef50e8118716d90c3f7c26a7"
+        },
+        "blend": {
+          "path": "assets/classical/architecture-whole-spherical-sail-vault-and-four-piers-01/v1.0.0/source.blend",
+          "size": 745528,
+          "sha256": "3c61d4c210d5f33b1936382f7894efff8eabc9cb2dea66624a55fe47b7af61c4"
+        },
+        "generator": {
+          "path": "assets/classical/architecture-whole-spherical-sail-vault-and-four-piers-01/v1.0.0/generate.py",
+          "size": 12014,
+          "sha256": "26eb16ab576b5a7e4daf396d5071bcc0e0e400d0caf7416e7255254b1edc5b4f"
+        },
+        "render": {
+          "path": "assets/classical/architecture-whole-spherical-sail-vault-and-four-piers-01/v1.0.0/thumbnail.png",
+          "size": 424741,
+          "sha256": "e56a6ead6c9d37b0a600e435553ec05b8a313b8966b80626bd18dec695be4979"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1164-volume02-20261025"
+    },
+    {
+      "id": "art-fixed-double-sided-fork-and-central-grip-brayer-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "art",
+      "style": "S01-clean-geometric",
+      "title": "Fixed Double Sided Fork and Central Grip Brayer",
+      "description": "One newly authored complete handheld inking-brayer exterior in a fixed horizontal display pose. One continuous thick U-plan metal fork has a full rear crossbridge and two side arms supporting the ends of a complete through axle. A full broad plain profiled roller has a genuine occupied axial bore, separate outer bearing collars and small end caps. One central short tang enters an entire swelling wooden grip aligned perpendicular to the roller axis. Unlike the old paint roller, there is no long single-sided bent return shank carrying the roller cantilevered from only one end; unlike the old rolling pin, there are no two opposing axial hand grips. The complete both-end fork support and central perpendicular grip define this new whole hand tool, not colour or dimensions. All visible numeric geometry newly authored; no roller, handle or frame mesh imported. Three opaque constant PBR materials, metres Z up, whole horizontal bounds centred and a finite lower roller facet at ground. One whole art prop zero scenes. Static empty tool appearance only: no ink, printing, rotation, pressure, coating uniformity, bearing travel, hand fit, rubber composition, manufacture or safety claim. No rigging, animation or interaction.",
+      "bounds": {
+        "x": 0.264,
+        "y": 0.42378331270024894,
+        "z": 0.08956662540049772,
+        "unit": "m"
+      },
+      "triangles": 1324,
+      "materials": 4,
+      "files": {
+        "glb": {
+          "path": "assets/art/art-fixed-double-sided-fork-and-central-grip-brayer-01/v1.0.0/model.glb",
+          "size": 66096,
+          "sha256": "243f97f513e87339c5bf6580d90f110824c91a554a25c7775bfbf19f27905ef3"
+        },
+        "blend": {
+          "path": "assets/art/art-fixed-double-sided-fork-and-central-grip-brayer-01/v1.0.0/source.blend",
+          "size": 629980,
+          "sha256": "602c252d070cb98749c497d7cc77a14d5d5268798b41010af05e1aa23096a48c"
+        },
+        "generator": {
+          "path": "assets/art/art-fixed-double-sided-fork-and-central-grip-brayer-01/v1.0.0/generate.py",
+          "size": 10757,
+          "sha256": "b36de023e2afcc72b8a58a8b865c65e4f351d647712d858323e715af740c26b9"
+        },
+        "render": {
+          "path": "assets/art/art-fixed-double-sided-fork-and-central-grip-brayer-01/v1.0.0/thumbnail.png",
+          "size": 353744,
+          "sha256": "274a6141f4ea87da0971b3f423259f7e5651042a867b3fdf3bbc2a5bda7db31b"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1164-volume02-20261025"
+    },
+    {
+      "id": "public-fixed-double-foot-and-t-grip-floor-pump-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "public",
+      "style": "source-preserved-low-poly",
+      "title": "Fixed Double Foot and T Grip Floor Pump",
+      "description": "One newly authored complete static T-handle floor-pump appearance. A continuous broad double-wing foot with two finite pads supports a tall thick bored cylinder, full upper gland and independent fixed raised plunger rod. One full transverse T shaft carries two whole palm grips. A low tilted round housing has a recessed blank opaque face; one continuous curved hose runs from its lower side socket around to a short fixed chuck retained at the upper barrel. The chuck has a finite mouth recess and a complete short lever. All numeric geometry new, not the village water pump with its spout removed, nor a barrel extracted from the paired-crank bell-chamber bench. Three opaque PBR roles, metres Z up and bounds-centred grounded origin; one prop zero scenes. Fixed exterior only: no pressure readings, pumping, inflation, internal valves, air circuit, hose compatibility, plunger or chuck motion, ergonomics, manufacturing, operating instructions or safety claim. Rigging animation interaction not made.",
+      "bounds": {
+        "x": 0.464977890253067,
+        "y": 0.24777190387248993,
+        "z": 0.8140000104904175,
+        "unit": "m"
+      },
+      "triangles": 2604,
+      "materials": 3,
+      "files": {
+        "glb": {
+          "path": "assets/public/public-fixed-double-foot-and-t-grip-floor-pump-01/v1.0.0/model.glb",
+          "size": 234048,
+          "sha256": "57b521fcf8d506314eb9d576a8d3335211f6916a945df9218e67fa6ddd9f353d"
+        },
+        "blend": {
+          "path": "assets/public/public-fixed-double-foot-and-t-grip-floor-pump-01/v1.0.0/source.blend",
+          "size": 918432,
+          "sha256": "937a5c55264f8695bd96b8078cdee03be038a166e2237c146b4779dda08f7d20"
+        },
+        "generator": {
+          "path": "assets/public/public-fixed-double-foot-and-t-grip-floor-pump-01/v1.0.0/generate.py",
+          "size": 17387,
+          "sha256": "4ca34057ad83d5df1d5917ec4622fd33173fc35c5bff94d1e6590c0a97cde509"
+        },
+        "render": {
+          "path": "assets/public/public-fixed-double-foot-and-t-grip-floor-pump-01/v1.0.0/thumbnail.png",
+          "size": 464336,
+          "sha256": "09326138747fb7f2c148652a2b9d57e0b3af88d2c10af8867a068a73ed8fc132"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1164-volume02-20261025"
     }
   ]
 }
