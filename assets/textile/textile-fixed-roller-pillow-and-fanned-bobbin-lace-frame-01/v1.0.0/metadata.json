@@ -1,0 +1,42 @@
+{
+  "id": "textile-fixed-roller-pillow-and-fanned-bobbin-lace-frame-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "textile",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Roller Pillow and Fanned Bobbin Lace Frame",
+  "description": "One newly authored complete roller-pillow lace-working apparatus in a fixed illustrative pose. Two long finite feet and cross rails carry two end standards, a continuous transverse shaft and a thick softly rounded horizontal roll pillow. A small pin field rises from the crown; twelve continuous solid thread lines fan down toward complete turned wooden bobbins, each with a neck, shoulder and long grip. A low front catch board belongs to the same support frame. Unlike the old seamed pin cushion this is not a cushion-and-loose-pins kit: the roller, bearing frame and suspended connected bobbins define one whole apparatus. Unlike the full floor loom there is no fore/aft warp-cloth pair, heddle castle, reed beater or treadle system. All visible geometry newly authored, no extracted old cushion or loom mesh. Four opaque constant PBR materials, metres, native Z up and horizontal full-bounds-centred ground origin. One complete static prop zero scenes. Thread and pin layout is an illustrative frozen arrangement, not a verified lace pattern, weaving sequence, tension equilibrium, rotating mechanism, ergonomic tool or safe functional apparatus. No cloth, rigging, animation, interaction, sharpness or performance claim.",
+  "bounds": {
+    "x": 0.652,
+    "y": 0.6200000000000001,
+    "z": 0.4831384487565602,
+    "unit": "m"
+  },
+  "triangles": 4424,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/textile/textile-fixed-roller-pillow-and-fanned-bobbin-lace-frame-01/v1.0.0/model.glb",
+      "size": 259920,
+      "sha256": "4f1314514dd8263a4eff3e1b1ed3393c3422f2916334f314ff761802a72e03e0"
+    },
+    "blend": {
+      "path": "assets/textile/textile-fixed-roller-pillow-and-fanned-bobbin-lace-frame-01/v1.0.0/source.blend",
+      "size": 1052576,
+      "sha256": "ff58fb92f040b71646299ab409bc46424d053e4ce63a07ec2d7f4fad4eaf809d"
+    },
+    "generator": {
+      "path": "assets/textile/textile-fixed-roller-pillow-and-fanned-bobbin-lace-frame-01/v1.0.0/generate.py",
+      "size": 11326,
+      "sha256": "39a68880313abe7026dfcaf8d0154791369544ae925e7d52144e830ee3834837"
+    },
+    "render": {
+      "path": "assets/textile/textile-fixed-roller-pillow-and-fanned-bobbin-lace-frame-01/v1.0.0/thumbnail.png",
+      "size": 548736,
+      "sha256": "94b5f74c18fe5a2b00dbcdb1877d09dc1485b13408b7ecd5c1794964213843d2"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

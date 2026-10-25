@@ -1,0 +1,42 @@
+{
+  "id": "industrial-fixed-round-head-and-deep-hex-socket-wrench-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "industrial",
+  "style": "source-preserved-low-poly",
+  "title": "Round Head And Deep Hex Socket Wrench",
+  "description": "One newly authored complete fixed socket-wrench-style exterior, laid on its full low body facets. A single continuous thick long handle flows through a narrow neck into one broad rounded head. A separate proud front cover and small fixed selector tab belong to the head; a whole square drive block extends forward into the rear square opening of one complete deep socket. That socket is a continuous closed thick shell with a true front six-sided cavity, full internal step and rear smaller square passage, rather than a black painted circle or solid cylinder. A separate full dark grip pad belongs to the long tail. All whole numerical geometry is newly authored, not an adjustable wrench with its movable jaw renamed or the two-sided V-jaw tap frame reduced. One model zero scenes, four opaque constant PBR roles, metres native Z up, full horizontal bounds-centred resting datum. This is a fixed artistic assembly only, not a working ratchet: there are no internal pawls, springs, gear teeth or bearing system. No reversal, ratcheting, socket interchangeability, fastener fit, calibrated size, torque, leverage, fastening, adjustment, manufacture, installation, operating instructions or tool safety capability. The square interface has deliberate fixed overlap rather than validated fit. No fastener, hand, workpiece, animation, rig or interaction.",
+  "bounds": {
+    "x": 0.31700000166893005,
+    "y": 0.10700000077486038,
+    "z": 0.07999999821186066,
+    "unit": "m"
+  },
+  "triangles": 584,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/industrial/industrial-fixed-round-head-and-deep-hex-socket-wrench-01/v1.0.0/model.glb",
+      "size": 54208,
+      "sha256": "a326a224d25f51f2e14c38ff8da546b69b09bfa35ae7815176f96a72d24ff11a"
+    },
+    "blend": {
+      "path": "assets/industrial/industrial-fixed-round-head-and-deep-hex-socket-wrench-01/v1.0.0/source.blend",
+      "size": 649504,
+      "sha256": "cd95ede59fbe429ddf58f52a8a025311e2402eb0fc4e2f29531c67c78b7387ff"
+    },
+    "generator": {
+      "path": "assets/industrial/industrial-fixed-round-head-and-deep-hex-socket-wrench-01/v1.0.0/generate.py",
+      "size": 16974,
+      "sha256": "9d8c8bef44c54cbb5e39ad4b01df616636a54654abefea0bcefd2769f559fc41"
+    },
+    "render": {
+      "path": "assets/industrial/industrial-fixed-round-head-and-deep-hex-socket-wrench-01/v1.0.0/thumbnail.png",
+      "size": 424992,
+      "sha256": "f9b7debce30f0aed6b2f5f68f737a4f5d44d6ccfbeb432685825a7c92923e86f"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

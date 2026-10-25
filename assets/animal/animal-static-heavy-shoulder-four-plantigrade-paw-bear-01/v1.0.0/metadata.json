@@ -1,0 +1,42 @@
+{
+  "id": "animal-static-heavy-shoulder-four-plantigrade-paw-bear-01",
+  "version": "1.0.0",
+  "category": "modular",
+  "assetKind": "prop",
+  "theme": "animal",
+  "style": "warm-handcrafted-village",
+  "title": "Static Heavy-Shoulder Four-Plantigrade-Paw Bear",
+  "description": "One newly authored whole static stylised quadrupedal bear-like animal. A continuous lower tapered muzzle and broad forehead run into a short thick descending neck and a massive high shoulder, deep long belly and rounded rear rump. Four complete thick differently shaped limbs meet the ground through long wide plantigrade-looking integral paws, rather than a toy seated butt and dangling padded arms or ape knuckles. Small rounded upright ears, two recessed-position whole eye details, a broad dark muzzle nose and a very short rear tail complete the entire silhouette. No imported toy or animal geometry. One whole model zero scenes. No exact bear species, fur simulation, biological scale, behavior, locomotion, foot biomechanics, rig or animation claim.",
+  "bounds": {
+    "x": 1.153851271,
+    "y": 2.670000076,
+    "z": 1.600000024,
+    "unit": "m"
+  },
+  "triangles": 1908,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/animal/animal-static-heavy-shoulder-four-plantigrade-paw-bear-01/v1.0.0/model.glb",
+      "size": 110168,
+      "sha256": "6414109d58145d3f5fb4f30ce903aa554ead974e70bcfee91bb8bbedfb242787"
+    },
+    "blend": {
+      "path": "assets/animal/animal-static-heavy-shoulder-four-plantigrade-paw-bear-01/v1.0.0/source.blend",
+      "size": 636672,
+      "sha256": "555d03865ecfb21e1125d91a1512e967fca85dda3fa7f4389e28fb71be2185c3"
+    },
+    "generator": {
+      "path": "assets/animal/animal-static-heavy-shoulder-four-plantigrade-paw-bear-01/v1.0.0/generate.py",
+      "size": 29855,
+      "sha256": "a2f54e55be3b6baffc6e0cccf4a00c5b291e98420bba5f28887bcdae84d89dcd"
+    },
+    "render": {
+      "path": "assets/animal/animal-static-heavy-shoulder-four-plantigrade-paw-bear-01/v1.0.0/thumbnail.png",
+      "size": 487408,
+      "sha256": "6089765bc5bce406ab663486db0061bb58afd84aa324cd6d7ae367e9092b1e0b"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

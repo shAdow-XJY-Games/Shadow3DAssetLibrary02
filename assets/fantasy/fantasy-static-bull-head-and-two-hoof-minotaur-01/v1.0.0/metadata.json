@@ -1,0 +1,42 @@
+{
+  "id": "fantasy-static-bull-head-and-two-hoof-minotaur-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "fantasy",
+  "style": "S01-clean-geometric",
+  "title": "Static Bull Head and Two Hoof Minotaur",
+  "description": "One independently authored whole static minotaur-inspired fantasy character: a broad upright chest and covered hip stand above two bent legs ending in whole actually cleft hooves. Two long relaxed arms end in blunt stylized hands. A thick neck carries a complete broad bull-like head with descending blunt dark muzzle, lateral ears, two full curved outward-upturned horns and seated dark eyes. A short hanging tail has a widened dark tip. All proportions, sections and limb paths are newly drawn as one coherent bipedal fantasy figure, not an extracted cow head pasted onto an old person or a recoloured centaur with two legs removed. Three opaque PBR materials, metres, Z up, full horizontal envelope centred at the two finite hoof soles. Integral dark lower-torso wrap covers the hips; no weapons or extra costume props. Static fictional art only, not anatomical realism, gait, strength, behavioral or safety functionality. Fine articulated fingers, rigging, animation, interaction and collision are not produced or verified and are outside delivery.",
+  "bounds": {
+    "x": 1.38,
+    "y": 0.9570633909777093,
+    "z": 2.540672498511964,
+    "unit": "m"
+  },
+  "triangles": 1724,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/fantasy/fantasy-static-bull-head-and-two-hoof-minotaur-01/v1.0.0/model.glb",
+      "size": 127120,
+      "sha256": "cc1385426051162f55143a38e76ece79b651868c45c3570e6549dc35e27def7a"
+    },
+    "blend": {
+      "path": "assets/fantasy/fantasy-static-bull-head-and-two-hoof-minotaur-01/v1.0.0/source.blend",
+      "size": 693244,
+      "sha256": "9056a2751f29638e1f0740134f94e2db20b72bf7267fa34d1efd44a47205913e"
+    },
+    "generator": {
+      "path": "assets/fantasy/fantasy-static-bull-head-and-two-hoof-minotaur-01/v1.0.0/generate.py",
+      "size": 13231,
+      "sha256": "de341f47ef4942047aa72f27e6877c7357597b248d9cfac29112e0c811ef393d"
+    },
+    "render": {
+      "path": "assets/fantasy/fantasy-static-bull-head-and-two-hoof-minotaur-01/v1.0.0/thumbnail.png",
+      "size": 415165,
+      "sha256": "c919203c1b7f4f06808484fb8afa377472a169eea2cbc45107a237afe8b29459"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

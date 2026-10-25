@@ -1,0 +1,42 @@
+{
+  "id": "agriculture-fixed-wide-header-reel-and-grain-body-combine-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "agriculture",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Wide Header Reel and Grain Body Combine",
+  "description": "One newly authored complete generic combine-harvester-style vehicle exterior. Four full unequal front/rear tyres and complete hubs/axles support a high shouldered main body with a separate genuinely window-open forward cab and fixed seat. A whole broad sloping feeder neck projects down to a very wide low empty header with continuous floor/rear wall and full end cheeks. Above it, two complete supports carry one transverse axle, full radial spiders and five straight thick longitudinal reel bats; this is not the old hand-push mower enlarged, its twisted strips copied, or a paver given more wheels. One entire upper flared thick-walled grain box has a genuinely empty top chamber. A separate continuous long bent side tube has actual inner and outer walls and an open tip. All geometry and whole layout newly authored; no old visible mesh imported, no separate accessory counted as another model. Four opaque constant PBR materials, metres, native Z up and complete horizontal-envelope-centred ground origin on four full finite tyre facets. One prop zero scenes. Simplified fixed occupational game art, not any particular manufacturer model. No crops, blade sharpness, gathering, conveying, threshing, cleaning, grain unloading, capacity, engine, powertrain, steering, motion, hydraulic system, load, manufacture, fit, operation or safety performance. Rigging, animation and interaction not made or verified.",
+  "bounds": {
+    "x": 5.292111,
+    "y": 5.98,
+    "z": 3.13,
+    "unit": "m"
+  },
+  "triangles": 2600,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/agriculture/agriculture-fixed-wide-header-reel-and-grain-body-combine-01/v1.0.0/model.glb",
+      "size": 141104,
+      "sha256": "1d25a1e9d524812811d145d8496c63129efe51e4dc10b976a780987d9548b4ba"
+    },
+    "blend": {
+      "path": "assets/agriculture/agriculture-fixed-wide-header-reel-and-grain-body-combine-01/v1.0.0/source.blend",
+      "size": 891532,
+      "sha256": "510e963e059019d9d9b34f24bbf83a77ab0b998fa269c1a576b847c403d7aef1"
+    },
+    "generator": {
+      "path": "assets/agriculture/agriculture-fixed-wide-header-reel-and-grain-body-combine-01/v1.0.0/generate.py",
+      "size": 30522,
+      "sha256": "f8dbf3a73685b4accfca34265caa75bd5cc1d362c9ec64277548e3d0a63162d0"
+    },
+    "render": {
+      "path": "assets/agriculture/agriculture-fixed-wide-header-reel-and-grain-body-combine-01/v1.0.0/thumbnail.png",
+      "size": 601697,
+      "sha256": "d94d24417e96ef2d188454ca4c7d317b573097ee28edeefc0b6e92bc29840f54"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
