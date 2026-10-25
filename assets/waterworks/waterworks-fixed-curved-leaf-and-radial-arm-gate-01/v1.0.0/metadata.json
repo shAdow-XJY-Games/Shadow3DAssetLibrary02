@@ -1,0 +1,42 @@
+{
+  "id": "waterworks-fixed-curved-leaf-and-radial-arm-gate-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "waterworks",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Curved Leaf and Radial Arm Gate",
+  "description": "One newly authored complete static radial-gate appearance. A continuous dry channel floor and low sides carry two taller rear bearing piers. One full thick cylindrical-segment leaf spans the opening; two complete curved inner ribs connect to paired radial support arms converging at independent side pivot axles and bored bearings. The lower leaf edge is visibly separated from the dry floor. Unlike the straight-guide half-open sluice or paired mitred canal leaves, this entire relationship uses a curved skin, side radial triangles and elevated transverse pivot axis, not a rotated old plate or different gate count. Sixteen closed editable meshes and three opaque PBR materials, metres Z up and complete horizontal-bounds-centred ground origin. New geometry only, one static prop and zero scenes. No water, seals, lift gear, rigging or animation. Illustrative fixed joins, not running fits. No water retention, flow regulation, hydraulic pressure, movement, bearing capacity, structural loading, real manufacture, civil installation or safety claim.",
+  "bounds": {
+    "x": 2.0519999999999996,
+    "y": 2.05,
+    "z": 1.745862266136438,
+    "unit": "m"
+  },
+  "triangles": 1280,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/waterworks/waterworks-fixed-curved-leaf-and-radial-arm-gate-01/v1.0.0/model.glb",
+      "size": 64056,
+      "sha256": "d6a45112285a8a9cdec06b0c32d53ddd41f4c6700f63ba15365c4d6d1951e18e"
+    },
+    "blend": {
+      "path": "assets/waterworks/waterworks-fixed-curved-leaf-and-radial-arm-gate-01/v1.0.0/source.blend",
+      "size": 659972,
+      "sha256": "dffb01934cab083365ea3dd9fe41b9eb0fb474f86eeb91a7c10adc83ac63f11f"
+    },
+    "generator": {
+      "path": "assets/waterworks/waterworks-fixed-curved-leaf-and-radial-arm-gate-01/v1.0.0/generate.py",
+      "size": 11307,
+      "sha256": "591bda15e11ce5694c61efb5bb38028c660f13402e37ee3d0359c6deaaa95120"
+    },
+    "render": {
+      "path": "assets/waterworks/waterworks-fixed-curved-leaf-and-radial-arm-gate-01/v1.0.0/thumbnail.png",
+      "size": 461303,
+      "sha256": "50ce5ef6734e00fe86843b69a1787448207855b8c8e56ffdd20af867c2576439"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
