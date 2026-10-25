@@ -1,0 +1,42 @@
+{
+  "id": "carpentry-fixed-long-rail-bed-and-crosshead-band-sawmill-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "carpentry",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Long Rail Bed and Crosshead Band Sawmill",
+  "description": "One newly authored complete empty rail-bed horizontal band-head sawmill static exterior. A connected long two-rail ground bed has four transverse full empty bunks and finite feet. Four whole bored rail wheels with independent axles carry one complete twin-column portal carriage at a fixed position over the bed. A separate rear cross-head with two end saddles spans the columns and supports two side-by-side whole six-window spoked wheels on complete transverse axles. One continuous finite-width blunt band wraps both wheels with full straight upper and lower runs and curved returns. The carriage has an open lower working throat, full top cross-beam, plain rear motor-shaped housing and a bent side handle. No log, timber, scene props or loose extracted subcomponents. Every full bed, frame, wheel window, band and assembly coordinate is newly authored; no old machine meshes imported or rescaled. Unlike the old compact vertical bench bandsaw, this has a long ground rail bed, four-wheel portal carriage, raised cross-bed horizontal band head and empty transverse bunks, not a short slotted worktable beneath stacked wheels. Unlike the old radial-arm saw, it has no single rear column with a hanging circular disc on a short overhead fore-aft arm. One prop zero scenes, four opaque constant PBR materials, metres, Z up, centred horizontal bounds. Static game-art appearance only: no cutting, sharpness, blade motion, drive, wheel tracking, travel, adjustment, workholding, load, tolerance, electrical performance, manufacture, operation or safety claim. Rigging, animation and interaction are not made or verified.",
+  "bounds": {
+    "x": 2.48,
+    "y": 4.3,
+    "z": 2.2,
+    "unit": "m"
+  },
+  "triangles": 6796,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/carpentry/carpentry-fixed-long-rail-bed-and-crosshead-band-sawmill-01/v1.0.0/model.glb",
+      "size": 254032,
+      "sha256": "57f7f3e14e03c213652cf25886efdcb49daf50c92455cc043e71b4411e3c9651"
+    },
+    "blend": {
+      "path": "assets/carpentry/carpentry-fixed-long-rail-bed-and-crosshead-band-sawmill-01/v1.0.0/source.blend",
+      "size": 974660,
+      "sha256": "bd6ce5324edfc09cc1f6b9ea1d9133c3d71cbd8eacfb4a937c4a5df5e4c78f67"
+    },
+    "generator": {
+      "path": "assets/carpentry/carpentry-fixed-long-rail-bed-and-crosshead-band-sawmill-01/v1.0.0/generate.py",
+      "size": 28384,
+      "sha256": "dcd7c315352dc3315ce3cbf6f418843a3a65fc6da5b1696296f989495db6e4a7"
+    },
+    "render": {
+      "path": "assets/carpentry/carpentry-fixed-long-rail-bed-and-crosshead-band-sawmill-01/v1.0.0/thumbnail.png",
+      "size": 526808,
+      "sha256": "e5c6017904121453159dc4797c8d1df2e59de3fc33b0182f2984f25f18abb61e"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

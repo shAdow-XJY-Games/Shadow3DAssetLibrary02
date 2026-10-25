@@ -1,0 +1,42 @@
+{
+  "id": "carnival-fixed-lattice-mast-and-guided-seat-ring-drop-tower-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "carnival",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Lattice Mast and Guided Seat Ring Drop Tower",
+  "description": "One newly authored complete stationary drop-tower-style amusement apparatus exterior. A shared broad grounded plinth carries a full four-chord open square lattice tower with alternating diagonal bracing and four continuous exterior guide rails. One real open-centred thick square carriage ring surrounds the tower in a fixed low pose. Four paired roller sets and complete bearing cheeks meet the corresponding rails; fixed low support shoulders under the ring make the displayed support explicit. Four whole outward-facing seat/back shells are rooted by full radial carriers to this one carriage, with complete fixed curved upper-body bars, and the tower ends in a stepped full cap with four rail stops. This is not a suspended-chair canopy with fewer seats, a grooved weight cassette on a two-rod pulldown portal renamed, or old props combined: all geometry newly authored, counted together as one apparatus and zero scenes. Four opaque PBR roles, metres Z up and whole horizontal-envelope-centred ground datum. Unoccupied static illustrative exterior only; the fixed seat ring is not a simulation of free fall. No passenger fit, operating lift, rope/drive system, travel range, brake, restraint performance, installation, structural load, ride operation, fabrication or safety capability. Rigging animation and interaction not made.",
+  "bounds": {
+    "x": 2.0999999046325684,
+    "y": 2.0999999046325684,
+    "z": 4.505000114440918,
+    "unit": "m"
+  },
+  "triangles": 3364,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/carnival/carnival-fixed-lattice-mast-and-guided-seat-ring-drop-tower-01/v1.0.0/model.glb",
+      "size": 248204,
+      "sha256": "bfa20d64b7be3ea883c805970981153ab2865fc78ffe5fd91f68d2c795144d89"
+    },
+    "blend": {
+      "path": "assets/carnival/carnival-fixed-lattice-mast-and-guided-seat-ring-drop-tower-01/v1.0.0/source.blend",
+      "size": 1333736,
+      "sha256": "c8adaf168749a332a9d94657a18a2e9f66b8a28e6613452793d52b9055f2571d"
+    },
+    "generator": {
+      "path": "assets/carnival/carnival-fixed-lattice-mast-and-guided-seat-ring-drop-tower-01/v1.0.0/generate.py",
+      "size": 13503,
+      "sha256": "67180a57576fcf2589839cda6eab94d21146c29e158b1e506cc1defee92c898a"
+    },
+    "render": {
+      "path": "assets/carnival/carnival-fixed-lattice-mast-and-guided-seat-ring-drop-tower-01/v1.0.0/thumbnail.png",
+      "size": 447891,
+      "sha256": "97a3372644545b5cc0d8322fa363d68f69b4c3f02a284edb744d8b2316dae0f9"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
