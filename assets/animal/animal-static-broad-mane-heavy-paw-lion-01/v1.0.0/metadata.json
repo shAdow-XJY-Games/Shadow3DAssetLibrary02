@@ -1,0 +1,42 @@
+{
+  "id": "animal-static-broad-mane-heavy-paw-lion-01",
+  "version": "1.0.0",
+  "category": "modular",
+  "assetKind": "prop",
+  "theme": "animal",
+  "style": "warm-handcrafted-village",
+  "title": "Static Broad-Mane Heavy-Paw Lion",
+  "description": "One newly authored complete static stylised mane-bearing big cat. A wide short muzzle and rounded brow join through the neck to a deep shoulder chest and long muscular torso; a thick uneven complete mane swells beneath and beside the head into the front shoulder, while two small rounded ears rise above. Four separately shaped heavy full limbs end in broad rounded integral finite paws, with bent rear hocks. A long narrow curved tail terminates in a genuinely thicker pointed tuft. No copied fox body or extracted griffin torso, costume head or painted stripes. One entire animal model zero scenes. No exact species anatomy, fur simulation, locomotion, behavior, biological scale, rig or animation claim.",
+  "bounds": {
+    "x": 0.995570362,
+    "y": 2.863640547,
+    "z": 1.539999962,
+    "unit": "m"
+  },
+  "triangles": 1864,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/animal/animal-static-broad-mane-heavy-paw-lion-01/v1.0.0/model.glb",
+      "size": 107248,
+      "sha256": "d5591a8e7e0849cfab1cad1486051089099ec5381eae3ee196b72f3f54b3ec00"
+    },
+    "blend": {
+      "path": "assets/animal/animal-static-broad-mane-heavy-paw-lion-01/v1.0.0/source.blend",
+      "size": 640512,
+      "sha256": "3fa3ae167bee044b4e2e5a76abba168fadcaf34d71d291e977ccf340e9e46674"
+    },
+    "generator": {
+      "path": "assets/animal/animal-static-broad-mane-heavy-paw-lion-01/v1.0.0/generate.py",
+      "size": 30774,
+      "sha256": "05d848340eb33d1248c4b01412c43f3b539dad5edd256dc2afa23533e9b618cd"
+    },
+    "render": {
+      "path": "assets/animal/animal-static-broad-mane-heavy-paw-lion-01/v1.0.0/thumbnail.png",
+      "size": 484194,
+      "sha256": "bdb5d7fcbbe4d1751717ceb788102cc45918fc3894148bf71d8c53dfc4fa7df9"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

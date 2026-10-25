@@ -1,0 +1,42 @@
+{
+  "id": "architecture-fixed-alternating-paddle-and-spine-stair-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "architecture",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Alternating Paddle and Spine Stair",
+  "description": "One newly authored complete static alternating-paddle stair appearance. A whole inclined central backbone with broad ground mounting foot supports eight separate complete horizontal L-outline treads. Broad forward foot-shaped surfaces alternate left and right, leaving genuinely deep opposite-side recesses rather than identical full-width rungs. Full under-tread mounting stems join the spine; a broad top mounting landing completes the flight. Two whole continuous inclined side handrails join three complete posts per side. No old ladder mesh is imported and the difference is not tread count or ladder height: the alternating broad-half/notched-half footprint and single central spine form the whole new flight. Three opaque PBR materials, metre Z-up, full horizontal-envelope-centred ground origin. One isolated static architectural prop, no host building or scene. Fixed game-art appearance only; no human gait, climbing suitability, clearance, guard adequacy, accessibility, building-code compliance, load, anchorage, manufacture, installation or safety. No animation or interaction.",
+  "bounds": {
+    "x": 0.8,
+    "y": 1.8227845371937885,
+    "z": 3.280274669424135,
+    "unit": "m"
+  },
+  "triangles": 676,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/architecture/architecture-fixed-alternating-paddle-and-spine-stair-01/v1.0.0/model.glb",
+      "size": 44712,
+      "sha256": "371c4093711bed8202975e45dfd0561a7f7389b4fed0371e99f8e0b644390b91"
+    },
+    "blend": {
+      "path": "assets/architecture/architecture-fixed-alternating-paddle-and-spine-stair-01/v1.0.0/source.blend",
+      "size": 678232,
+      "sha256": "49e6dd591d33e002ff0b4d2496862407b96d414561e76f81e25eeb12bf307967"
+    },
+    "generator": {
+      "path": "assets/architecture/architecture-fixed-alternating-paddle-and-spine-stair-01/v1.0.0/generate.py",
+      "size": 11164,
+      "sha256": "387a61e93bc31c453698d3436c441a57cee2e782a820c59f4044dbeae2e391da"
+    },
+    "render": {
+      "path": "assets/architecture/architecture-fixed-alternating-paddle-and-spine-stair-01/v1.0.0/thumbnail.png",
+      "size": 411668,
+      "sha256": "d75d4cb193af33e61abd30093efe6a9d1c7cc552a49316929fe2dada7340577b"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

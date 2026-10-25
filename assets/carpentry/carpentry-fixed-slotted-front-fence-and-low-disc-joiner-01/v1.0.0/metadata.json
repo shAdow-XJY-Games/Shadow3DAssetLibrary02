@@ -1,0 +1,42 @@
+{
+  "id": "carpentry-fixed-slotted-front-fence-and-low-disc-joiner-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "carpentry",
+  "style": "source-preserved-low-poly",
+  "title": "Fixed Slotted Front Fence and Low Disc Joiner",
+  "description": "One newly authored complete static front-fence biscuit-joiner-style exterior. One low broad gear head has a true finite front slot, a fixed retracted blunt horizontal disk and central spindle. Its long rear axial motor grip ends in a cap, cable cue and grounded heel. A separate full tall front face has a matching true slot and a continuous forward-projecting horizontal upper ledge. Two whole side carriages, vertical guides and proud locking knobs attach that fence to the head, while a complete upper auxiliary arch has a true empty grip opening. This whole tall referencing face and ledge ahead of the low enclosed head and rear grip differs from the exposed upright circular saw on a long ground shoe and the vertical dual-post router. All geometry newly authored; no old components imported. Three opaque constant PBR roles, metres Z up, grounded horizontal-envelope-centred origin. One prop zero scenes. Fixed illustrative exterior only: no cutting teeth, workpiece, motor, disk rotation, plunge or fence adjustment, joinery accuracy, electrical capability, manufacture, handling suitability or safety claim. Rigging animation interaction not made.",
+  "bounds": {
+    "x": 0.23399999737739563,
+    "y": 0.5699999928474426,
+    "z": 0.1720000058412552,
+    "unit": "m"
+  },
+  "triangles": 1348,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/carpentry/carpentry-fixed-slotted-front-fence-and-low-disc-joiner-01/v1.0.0/model.glb",
+      "size": 126164,
+      "sha256": "6bd6e383bf926df19406207b2d7cec002ce81524e835789ebaf0c970eca4453b"
+    },
+    "blend": {
+      "path": "assets/carpentry/carpentry-fixed-slotted-front-fence-and-low-disc-joiner-01/v1.0.0/source.blend",
+      "size": 768352,
+      "sha256": "c785cf45fc5d501eecb9530b5aa0a2e120342f42eb90d108cfa650f7adf57e9a"
+    },
+    "generator": {
+      "path": "assets/carpentry/carpentry-fixed-slotted-front-fence-and-low-disc-joiner-01/v1.0.0/generate.py",
+      "size": 16675,
+      "sha256": "6fc2758fcb475b8834367b031c822a7cc36231f2a87259ad02d3fa422adbbd30"
+    },
+    "render": {
+      "path": "assets/carpentry/carpentry-fixed-slotted-front-fence-and-low-disc-joiner-01/v1.0.0/thumbnail.png",
+      "size": 478721,
+      "sha256": "ee4dfd242a9a94619683361e14dbcb5dd4bf3b1d0fd7acd192587eb05366c852"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
