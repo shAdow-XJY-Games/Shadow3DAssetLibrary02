@@ -1,0 +1,42 @@
+{
+  "id": "textile-fixed-straight-slotted-bed-and-cross-carriage-knitter-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "textile",
+  "style": "source-preserved-low-poly",
+  "title": "Fixed Straight Slotted Bed And Cross Carriage Knitter",
+  "description": "One newly authored complete static flat-bed knitting-device exterior. A single continuous wide straight needle bed has twenty-four true front-open notches and a solid rear band, with separate whole blunt bent needle appearances rooted at the rear and projecting through those openings. Two long straight guide rails and two end supports carry one fixed cross-bed carriage, its actual undercut saddle housings, wide upper bridge, complete raised open handgrip and top selector knob. A rear mast with one complete open guide eye and two broad low ground shoes finish the whole apparatus. This is not the circular slotted-cylinder device unrolled, a copied printing cylinder replaced by needles, or repeated old parts: the new straight comb bed, transverse fixed carriage and end-supported guide structure are authored together from new numeric geometry. Four opaque constant PBR roles, metres Z up and horizontal bounds-centred finite ground datum. One prop zero scenes; needle count is a subordinate detail not a variant family. No cloth, supply yarn, stitch simulation, moving needles, working carriage, feed, tension, knitting capability, ergonomic suitability, installation, manufacture, load or safety claim. Static empty exterior only.",
+  "bounds": {
+    "x": 1.3339999914169312,
+    "y": 0.44999998807907104,
+    "z": 0.6200000047683716,
+    "unit": "m"
+  },
+  "triangles": 3296,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/textile/textile-fixed-straight-slotted-bed-and-cross-carriage-knitter-01/v1.0.0/model.glb",
+      "size": 307984,
+      "sha256": "26fbda2205b3d9a0599ab73f2af54295334bb97f3b0b5dc56450fef0e5f3ba55"
+    },
+    "blend": {
+      "path": "assets/textile/textile-fixed-straight-slotted-bed-and-cross-carriage-knitter-01/v1.0.0/source.blend",
+      "size": 1122592,
+      "sha256": "dd1503345692e0b75eecab7bd66bbeb5a20cb89833c33c4a906970241de41690"
+    },
+    "generator": {
+      "path": "assets/textile/textile-fixed-straight-slotted-bed-and-cross-carriage-knitter-01/v1.0.0/generate.py",
+      "size": 18330,
+      "sha256": "d3c6d248accbada1d1b11e87d9f34141f3809cfec506bef949e71f650e152869"
+    },
+    "render": {
+      "path": "assets/textile/textile-fixed-straight-slotted-bed-and-cross-carriage-knitter-01/v1.0.0/thumbnail.png",
+      "size": 476353,
+      "sha256": "1d120636fbec8d734fa3f143331142e922a6d732e751b61c96644e42cadb0fad"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

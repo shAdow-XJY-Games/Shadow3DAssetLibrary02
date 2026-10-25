@@ -1,0 +1,42 @@
+{
+  "id": "technology-fixed-forked-anchor-and-tooth-wheel-pendulum-display-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "technology",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Forked Anchor and Tooth Wheel Pendulum Display",
+  "description": "One newly authored complete fixed anchor-and-tooth-wheel exhibit. A whole grounded plinth and continuous open rear standard support two separate parallel transverse shafts in full bored rings. One entire blunt-tipped radial tooth wheel sits on the lower shaft; a whole forked anchor with two descending arms and opposing end heels is retained on the upper shaft, with a complete long rear rod and low disk bob. The end heels are visibly posed clear of the wheel, not falsely presented as a validated engaged mechanism. Unlike the old open table clock, no dial, hour markers or hands are present; unlike the complete ratchet winch, there is no winding drum, hand crank or independently grounded single pawl. The entire anchor/shaft/rod relationship is newly authored rather than extracted old clockwork or doubled old pawls. Four opaque constant PBR roles, metres, Z up and horizontally centred ground datum. One prop zero scenes. Static illustrative shape only: no escapement action, tooth/pallet profile accuracy, timing, oscillation, winding, power input, rate, engagement, mechanical fit, manufacture, stability, operation or safety performance. Rigging, animation and interaction are not made.",
+  "bounds": {
+    "x": 1.28,
+    "y": 0.91,
+    "z": 1.26,
+    "unit": "m"
+  },
+  "triangles": 1620,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/technology/technology-fixed-forked-anchor-and-tooth-wheel-pendulum-display-01/v1.0.0/model.glb",
+      "size": 82880,
+      "sha256": "e38161c68912c6cd43867517cd0338e1ab25092b28acc7d063470dab6b5c42d4"
+    },
+    "blend": {
+      "path": "assets/technology/technology-fixed-forked-anchor-and-tooth-wheel-pendulum-display-01/v1.0.0/source.blend",
+      "size": 684316,
+      "sha256": "44a838e36628a67b202604eaca6bfc0efe198f559fa7b7bded138f495b9ccc0a"
+    },
+    "generator": {
+      "path": "assets/technology/technology-fixed-forked-anchor-and-tooth-wheel-pendulum-display-01/v1.0.0/generate.py",
+      "size": 26312,
+      "sha256": "b7e9831607226ecfe66c6f1ec37159b46175d433ec8aa1791493d6eb6acdd4c7"
+    },
+    "render": {
+      "path": "assets/technology/technology-fixed-forked-anchor-and-tooth-wheel-pendulum-display-01/v1.0.0/thumbnail.png",
+      "size": 553446,
+      "sha256": "9fcbb704fd60f673559f9bbe4f90823d3ba3cd1e574bb5a444c3d7a310c4fc1f"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

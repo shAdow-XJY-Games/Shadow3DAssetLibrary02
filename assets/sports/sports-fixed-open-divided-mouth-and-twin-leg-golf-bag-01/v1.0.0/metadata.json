@@ -1,0 +1,42 @@
+{
+  "id": "sports-fixed-open-divided-mouth-and-twin-leg-golf-bag-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "sports",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Open Divided Mouth and Twin Leg Golf Bag",
+  "description": "One newly authored complete empty fixed golf-stand-bag appearance. A long subtly tapered oval thick shell has a real open mouth, continuous inner walls and full blind bottom, with one short upper divider splitting the opening into two visible compartments. A separate thick mouth band follows the entire rim. The body leans back above a broad low grounded heel, while two independent narrow legs descend from side pivots towards separated forward feet, forming one whole supported stand-bag pose. A continuous curved broad shoulder strap roots at two different body heights and a short side carry grip is separately rooted. All numerical parts are new: no old solid closed rolltop backpack reshaped, no travel case stripped of its lid, no old cylinder simply fitted with counted extra legs. There is no solid cap filling the bag mouth, no club contents and no closure simulation. One whole prop zero scenes, four opaque solid PBR roles, metres Z up and full horizontal bounds-centred ground datum. Static empty exterior only; no capacity, actual club fit, strap strength, folding/hinge motion, carry comfort, load, stability, fabrication, weather resistance or sporting safety claim.",
+  "bounds": {
+    "x": 0.71,
+    "y": 1.0533028543872323,
+    "z": 1.1519221327058962,
+    "unit": "m"
+  },
+  "triangles": 896,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/sports/sports-fixed-open-divided-mouth-and-twin-leg-golf-bag-01/v1.0.0/model.glb",
+      "size": 52448,
+      "sha256": "402c043ba2bbc321cbd40433ae09fd1fb6833d123481d2497c40af26c52febc5"
+    },
+    "blend": {
+      "path": "assets/sports/sports-fixed-open-divided-mouth-and-twin-leg-golf-bag-01/v1.0.0/source.blend",
+      "size": 653416,
+      "sha256": "84522eaeb05faafc5e88d8123ed5d406de1d8995e876bb8f3bde95003ec6fd01"
+    },
+    "generator": {
+      "path": "assets/sports/sports-fixed-open-divided-mouth-and-twin-leg-golf-bag-01/v1.0.0/generate.py",
+      "size": 11333,
+      "sha256": "cd0eff7a95b65470982f529c1b3a500d0183c59aabed7e2d48f64e112996c2e2"
+    },
+    "render": {
+      "path": "assets/sports/sports-fixed-open-divided-mouth-and-twin-leg-golf-bag-01/v1.0.0/thumbnail.png",
+      "size": 442249,
+      "sha256": "2b2aa31d04334c98a2425a116cd08975db1f021e017101e29cf9daa2964b3da7"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
