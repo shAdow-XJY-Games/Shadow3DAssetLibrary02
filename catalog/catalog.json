@@ -1319,6 +1319,11 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary02",
       "commit": "dc5470b7c477a91adfa075c6e93f28a889b8f7e0"
+    },
+    "original-qualified-batch-1059-volume02-20261025": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary02",
+      "commit": "8d7361b40257a592c1e20bf131a9778a4e8ca8be"
     }
   },
   "assets": [
@@ -46686,6 +46691,178 @@
       "status": "verified",
       "license": "All rights reserved",
       "sourceId": "original-qualified-batch-1055-volume02-20261025"
+    },
+    {
+      "id": "agriculture-whole-trier-divider-sample-intake-corner-scene-01",
+      "version": "1.0.0",
+      "category": "scenes",
+      "assetKind": "scene",
+      "theme": "agriculture",
+      "style": "source-preserved-faceted-natural-ecology",
+      "title": "Whole Trier and Divider Sample Intake Corner",
+      "description": "One static agricultural sample-intake preparation corner scene, zero new models. Three entire qualified originals retain unit scale, every oriented world triangle and opaque per-face constant PBR: the fixed six alternating opposed-chute divider with both complete receiver pans at right, the complete open slotted-sleeve grain trier in the left-front tool position, and the complete gathered sack in the separate rear-left intake position. One finite scene-only floor under all whole original bases and a clear front strip establish separate intake/tool/division stations without interpenetration, extracting a receiver or filling the sack. Unlike the older grain-silo service yard or winnower/riddle cleaning workbay, these are complete sampling-preparation objects, not duplicates or a replacement grain-cleaning machine. The dock sack retains its original small sewn markings and is not relabelled as newly authored grain packaging; contents are unspecified. Only whole translations and IEEE754 float32 storage are applied; original hierarchy and normals are baked/recomputed and not claimed byte-identical. Static illustrative arrangement only: no real sampling accuracy, grain flow, tool operation, food contact, workflow ergonomics, navigation, load or safety validation.",
+      "bounds": {
+        "x": 3.0,
+        "y": 2.400000095,
+        "z": 1.335000038,
+        "unit": "m"
+      },
+      "triangles": 3224,
+      "materials": 11,
+      "files": {
+        "glb": {
+          "path": "assets/agriculture/agriculture-whole-trier-divider-sample-intake-corner-scene-01/v1.0.0/model.glb",
+          "size": 169372,
+          "sha256": "f48558af7181287d1151ae636d60e75c2d9ef3ad68c929ac76030965ffe26892"
+        },
+        "blend": {
+          "path": "assets/agriculture/agriculture-whole-trier-divider-sample-intake-corner-scene-01/v1.0.0/source.blend",
+          "size": 971776,
+          "sha256": "e03cb23b78729b87d44e799ba8a41720e5d247cd06b1e91b5068fccb3def0517"
+        },
+        "generator": {
+          "path": "assets/agriculture/agriculture-whole-trier-divider-sample-intake-corner-scene-01/v1.0.0/generate.py",
+          "size": 77134,
+          "sha256": "74c03efcccac21a0e253609a0f4ae7856a3342f1f7c60eed7784f1e0ddcea6e0"
+        },
+        "render": {
+          "path": "assets/agriculture/agriculture-whole-trier-divider-sample-intake-corner-scene-01/v1.0.0/thumbnail.png",
+          "size": 499088,
+          "sha256": "a87786786eea5425e0995de3bc476cb38944f6db0524935170f71809e0422056"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1059-volume02-20261025"
+    },
+    {
+      "id": "construction-fixed-paired-lift-arms-and-wide-bucket-wheel-loader-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "construction",
+      "style": "S01-clean-geometric",
+      "title": "Fixed Paired Lift Arms and Wide Bucket Wheel Loader",
+      "description": "One newly authored complete wheel-loader-style static machine exterior. Two compact whole chassis bodies have a real separated waist and opposing lower/upper tongues joined by a visible fixed vertical pin. Four large complete annular tyres and two whole transverse axles support the short rear power hood and a new window-open cabin with its full seat. Two independent broad bent front lift arms and their cross shaft carry one genuinely hollow wide bucket, built from a continuous thick bent back/floor and whole side cheeks. An independent short central rocker and long tilt link meet the bucket upper back; two separate closed cylinder-and-rod appearances meet the arms. It is not the older tracked excavator with different wheels: there is no slewing deck, narrow dipper or narrow toothed scoop, and no long grader arch or central angled blade. All visible coordinates newly authored, no old vehicle or bucket mesh imported. One prop zero scenes; four opaque constant PBR roles, metres, native Z up, full horizontal bounds-centred four-tyre ground origin. Fixed exterior art only. No driving, steering, articulation, lifting, tipping, hydraulic or engine internals, digging/loading output, traction, occupancy, machine control, manufacture, strength, engineering or safety performance. No glass or operator. Rigging animation and interaction not made.",
+      "bounds": {
+        "x": 2.148,
+        "y": 4.486,
+        "z": 2.19,
+        "unit": "m"
+      },
+      "triangles": 2656,
+      "materials": 4,
+      "files": {
+        "glb": {
+          "path": "assets/construction/construction-fixed-paired-lift-arms-and-wide-bucket-wheel-loader-01/v1.0.0/model.glb",
+          "size": 125732,
+          "sha256": "7b8f90efa195435573de7caf8db8474d1ea94ca002f7f08c14ce28dc122afcf9"
+        },
+        "blend": {
+          "path": "assets/construction/construction-fixed-paired-lift-arms-and-wide-bucket-wheel-loader-01/v1.0.0/source.blend",
+          "size": 826760,
+          "sha256": "d14c22f92f7d444172074ff6a6972652d0ae11ee62f44fd398e39cc029026e79"
+        },
+        "generator": {
+          "path": "assets/construction/construction-fixed-paired-lift-arms-and-wide-bucket-wheel-loader-01/v1.0.0/generate.py",
+          "size": 29547,
+          "sha256": "0a81b215771d7df30e038ac5bc7a876d9441a02974797179f4d4c538a9dea384"
+        },
+        "render": {
+          "path": "assets/construction/construction-fixed-paired-lift-arms-and-wide-bucket-wheel-loader-01/v1.0.0/thumbnail.png",
+          "size": 558321,
+          "sha256": "65ff5ebe1a536219687fd343caaf0eaebbca51a14b74a8fa5466f258555f2810"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1059-volume02-20261025"
+    },
+    {
+      "id": "kitchen-fixed-twin-open-grips-and-radial-fruit-wedger-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "kitchen",
+      "style": "source-preserved-low-poly",
+      "title": "Fixed Twin Open Grips and Radial Fruit Wedger",
+      "description": "One newly authored complete fixed two-hand radial fruit-divider-style exterior. One thick continuous round outer rim connects eight full finite blunt radial plates to a central genuinely through-bored core ring. Eight actual open sector spaces remain between the plates. Two independently closed thick side grips have real open hand spaces and finite roots embedded in the outer rim. This whole flat radial divider with opposed open grips differs from the horizontal fork-shaft peeling machine and the single wheel in a long hand fork; no old geometry is reused or rescaled. Three opaque materials, one prop zero scenes. No fruit, sharp edge, slicing or coring action, food fit, hand force, ergonomics, hygiene, manufacture or safety performance. Rigging animation interaction not made.",
+      "bounds": {
+        "x": 0.2160000056028366,
+        "y": 0.11599999666213989,
+        "z": 0.026000000536441803,
+        "unit": "m"
+      },
+      "triangles": 1280,
+      "materials": 3,
+      "files": {
+        "glb": {
+          "path": "assets/kitchen/kitchen-fixed-twin-open-grips-and-radial-fruit-wedger-01/v1.0.0/model.glb",
+          "size": 116540,
+          "sha256": "fb1ba7225dda450dba5cc75fc7c7b71e14c56b989ca9e2f897804969fa2f7d01"
+        },
+        "blend": {
+          "path": "assets/kitchen/kitchen-fixed-twin-open-grips-and-radial-fruit-wedger-01/v1.0.0/source.blend",
+          "size": 732512,
+          "sha256": "4ac88b662eda609ae486ef7c051c42a492c2256b111752db33be4878a43e2140"
+        },
+        "generator": {
+          "path": "assets/kitchen/kitchen-fixed-twin-open-grips-and-radial-fruit-wedger-01/v1.0.0/generate.py",
+          "size": 14413,
+          "sha256": "f44de73315dbded1307c8dc42800cbf5b4599fe0d562a6470891f98d1fb8189d"
+        },
+        "render": {
+          "path": "assets/kitchen/kitchen-fixed-twin-open-grips-and-radial-fruit-wedger-01/v1.0.0/thumbnail.png",
+          "size": 491882,
+          "sha256": "a9b48b8df56c36419ad93d55769cb0890360baed868eb523d43a39b3f1ed8f51"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1059-volume02-20261025"
+    },
+    {
+      "id": "photography-fixed-twin-pin-bed-and-raised-head-film-splicer-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "photography",
+      "style": "S01-clean-geometric",
+      "title": "Fixed Twin Pin Bed and Raised Head Film Splicer",
+      "description": "One newly authored complete empty tabletop film-splicer-style exterior. A low whole ground base carries two narrow aligned registration beds separated at the central joint, two edge guides per bed and eight short locating pins. Each bed has its own rear-hinged raised clamping leaf and continuous hinge axle. A separate short broad central punch/cut-head silhouette is held raised about its own supported rear hinge, above the central gap. One side upright supports a complete open annular tape-roll appearance on its transverse spindle. The whole organization differs from a broad paper sheet bed with a long side cutting arm, or a dual-reel inspection bench: no old meshes are imported, and no detached component is counted separately. One model zero scenes, four opaque PBR roles, metres Z up and horizontal-envelope-centred ground datum. Fixed illustrative empty exterior only, with blunt thick head and no film or adhesive strip: no perforation pitch compatibility, cutting or splicing, pressure, motion, accuracy, manufacture or hand safety capability.",
+      "bounds": {
+        "x": 0.37,
+        "y": 0.22,
+        "z": 0.19162954015122405,
+        "unit": "m"
+      },
+      "triangles": 1424,
+      "materials": 4,
+      "files": {
+        "glb": {
+          "path": "assets/photography/photography-fixed-twin-pin-bed-and-raised-head-film-splicer-01/v1.0.0/model.glb",
+          "size": 83868,
+          "sha256": "9abd4940aea1b557c3b7b8775d34699801c9ab9b212df32d4e76dec2ff360172"
+        },
+        "blend": {
+          "path": "assets/photography/photography-fixed-twin-pin-bed-and-raised-head-film-splicer-01/v1.0.0/source.blend",
+          "size": 774620,
+          "sha256": "b718f8a16a719a38d5ed47aed29075ec3962a1099eba3cb393397cb43e5425e6"
+        },
+        "generator": {
+          "path": "assets/photography/photography-fixed-twin-pin-bed-and-raised-head-film-splicer-01/v1.0.0/generate.py",
+          "size": 11510,
+          "sha256": "8db1db496f25d56b9e2d5b4b8f34e3e92b2a8de84c703bf371759ea6463f0312"
+        },
+        "render": {
+          "path": "assets/photography/photography-fixed-twin-pin-bed-and-raised-head-film-splicer-01/v1.0.0/thumbnail.png",
+          "size": 435510,
+          "sha256": "e8bc540b223b63b9ac5d6b937690d91efb9caa8fa5472f1ac1ad8dcda42458c9"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1059-volume02-20261025"
     }
   ]
 }
