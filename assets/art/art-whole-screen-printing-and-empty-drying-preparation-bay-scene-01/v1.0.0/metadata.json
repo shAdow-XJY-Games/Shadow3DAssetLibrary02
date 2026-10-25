@@ -1,0 +1,42 @@
+{
+  "id": "art-whole-screen-printing-and-empty-drying-preparation-bay-scene-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "art",
+  "style": "source-preserved-low-poly",
+  "title": "Whole Screen Printing and Empty Drying Preparation Bay",
+  "description": "One static screen-printing preparation bay containing four complete qualified originals at unchanged unit scale. A whole open worktable at the left supports the entire raised-screen-frame and cantilever-platen press, rigidly turned ninety degrees so its empty platen points inward. The complete six-tray drying rack stands independently at the rear-right with its open tray fronts toward the shared central floor; a whole two-basin painting tool cart stands separately at the forward-right edge. These three separated stations form an open-sided working bay, not the earlier side-by-side enlarger desk and rack or the two loaded L-shaped printing/sewing tables with a bookcase. Every original mesh, oriented triangle, internal hierarchy and complete PBR dictionary is preserved. No trays, leaves, cart basins or press parts are extracted, resized or recoloured. Only one scene-only finite floor is new. One scene and zero new models, four whole instances. No artwork, paper, ink, wet print or working material flow is supplied. Static placement only: no printing, drying speed, screen tension, press/cart motion, ergonomic clearance, chemical handling, equipment compatibility, load, installation or safe-workplace claim. Rigging, animation and interaction are not made.",
+  "bounds": {
+    "x": 3.4000000953674316,
+    "y": 2.9000000953674316,
+    "z": 1.734864354133606,
+    "unit": "m"
+  },
+  "triangles": 19204,
+  "materials": 16,
+  "files": {
+    "glb": {
+      "path": "assets/art/art-whole-screen-printing-and-empty-drying-preparation-bay-scene-01/v1.0.0/model.glb",
+      "size": 711956,
+      "sha256": "90823462f8cb0a18e62566ceec29eaccc6aaef9a40b03d08e8ab0541bf444e20"
+    },
+    "blend": {
+      "path": "assets/art/art-whole-screen-printing-and-empty-drying-preparation-bay-scene-01/v1.0.0/source.blend",
+      "size": 2935148,
+      "sha256": "cee0ce2a67455973d42d1e289f4ac82f6f19dd51e2d0c8f58a4dc299f6629e5d"
+    },
+    "generator": {
+      "path": "assets/art/art-whole-screen-printing-and-empty-drying-preparation-bay-scene-01/v1.0.0/generate.py",
+      "size": 184580,
+      "sha256": "8cd361300c04c4f45f2d879a56045b05e6579a141786ad93dd86bb86aad65394"
+    },
+    "render": {
+      "path": "assets/art/art-whole-screen-printing-and-empty-drying-preparation-bay-scene-01/v1.0.0/thumbnail.png",
+      "size": 521903,
+      "sha256": "2ed9f92b25ea81b00987430239bbd7152a77e98451de77452acf735e6ae596fc"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
