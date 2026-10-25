@@ -1,0 +1,42 @@
+{
+  "id": "professional-fixed-twin-curved-jaws-and-blank-clamp-meter-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "professional",
+  "style": "source-preserved-low-poly",
+  "title": "Fixed Twin Curved Jaws and Blank Clamp Meter",
+  "description": "One newly authored complete static handheld clamp-meter-style exterior, resting flat in a fixed slightly open jaw pose. A full tapered case carries a genuinely recessed blank opaque screen, one plain rotary selector with raised grip and two small blank controls. Two entire thick curved upper jaws surround a real open central throat, with a finite visible gap between their upper ends; their lower roots seat into the case neck. One complete side trigger-and-pivot arm and proud pivot pin belong to the same whole device. There are no leads, probes, wire or current-carrying sample. New numeric geometry throughout, not the old probe multimeter recoloured or a micrometer with renamed parts. One prop zero scenes, three opaque PBR roles, metres and centred grounded origin. Static exterior only: no jaw movement, electrical measurement, readings, accuracy, insulation, voltage or current rating, circuit use, operation or safety claim. Rigging animation interaction not made.",
+  "bounds": {
+    "x": 0.11794860661029816,
+    "y": 0.3137945234775543,
+    "z": 0.04500000178813934,
+    "unit": "m"
+  },
+  "triangles": 964,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/professional/professional-fixed-twin-curved-jaws-and-blank-clamp-meter-01/v1.0.0/model.glb",
+      "size": 90472,
+      "sha256": "7e4ec21cc4066157b4f322d15be98dd26cbadf31237344755b1e22415e9980df"
+    },
+    "blend": {
+      "path": "assets/professional/professional-fixed-twin-curved-jaws-and-blank-clamp-meter-01/v1.0.0/source.blend",
+      "size": 697120,
+      "sha256": "f580bd5c815cd0d12599f789b601759fe7c2bfd509eac278c72d27a8c42ded4a"
+    },
+    "generator": {
+      "path": "assets/professional/professional-fixed-twin-curved-jaws-and-blank-clamp-meter-01/v1.0.0/generate.py",
+      "size": 16802,
+      "sha256": "fe47f49092a24e3b83069724c2c86c248c141c0b5a6fc3025b18f1a6283336ec"
+    },
+    "render": {
+      "path": "assets/professional/professional-fixed-twin-curved-jaws-and-blank-clamp-meter-01/v1.0.0/thumbnail.png",
+      "size": 510673,
+      "sha256": "32671921896a06f06dfafd85b3af92c55900bfa43e69e4a4bcff4ba33202cd6d"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

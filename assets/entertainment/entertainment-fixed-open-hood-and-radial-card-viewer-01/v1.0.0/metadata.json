@@ -1,0 +1,42 @@
+{
+  "id": "entertainment-fixed-open-hood-and-radial-card-viewer-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "entertainment",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Open Hood and Radial Card Viewer",
+  "description": "One newly authored complete hand-cranked radial-card viewing-device appearance in a deliberately open-front cutaway pose. A full broad ground pedestal and lower cabinet carry two side bearing uprights, one continuous horizontal axle and a complete root cylinder with twenty-four independently thick blank radial cards. A thick curved rear housing has fully modeled cut edges rather than invisible missing polygons. Separate rooted side stays carry one true rectangular through-open viewing hood above the front of the card pack. A complete side crank and grip belong to the same axis. Unlike the old slotted vertical-axis viewing drum, there is no enclosing open-top cylinder, ring picture strip or circumferential slit field. Unlike the old pinned-cylinder music box, there is no comb, pin array or hinged case lid: the broad radial card pack and front viewing hood define this whole apparatus. All numeric geometry newly authored, no old model imported. Four opaque constant PBR roles, metre Z up and horizontal full-bounds-centred ground origin. One complete static prop zero scenes. Generic mutoscope-inspired exhibition exterior, not a historical replica: cards are intentionally blank, no film frames, verified sight line, lens optics, card-release mechanism, timed flip, motion, projected imagery, animation effect, coin operation, manufacture, load or equipment safety. Rigging animation and interaction not made.",
+  "bounds": {
+    "x": 0.668,
+    "y": 0.7019026802930584,
+    "z": 1.165,
+    "unit": "m"
+  },
+  "triangles": 1612,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/entertainment/entertainment-fixed-open-hood-and-radial-card-viewer-01/v1.0.0/model.glb",
+      "size": 100756,
+      "sha256": "62e474633e7d7e8775e591f128dd494e5b780e8a3e7f40de074bc9dc75a8a2b6"
+    },
+    "blend": {
+      "path": "assets/entertainment/entertainment-fixed-open-hood-and-radial-card-viewer-01/v1.0.0/source.blend",
+      "size": 840376,
+      "sha256": "850a544c5977152ba8ebd63a8a52e5593071d1f3f1aedfdcdee7f3cc80749476"
+    },
+    "generator": {
+      "path": "assets/entertainment/entertainment-fixed-open-hood-and-radial-card-viewer-01/v1.0.0/generate.py",
+      "size": 12245,
+      "sha256": "31ad5491188d19458e6b961f15cc0d3b9c7a36d5faf2a4161411c659aa599f45"
+    },
+    "render": {
+      "path": "assets/entertainment/entertainment-fixed-open-hood-and-radial-card-viewer-01/v1.0.0/thumbnail.png",
+      "size": 481721,
+      "sha256": "085638475d4b1046f90cfb59a3a7d8bda715f5f0e207f904d6eca178c4e050f6"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
