@@ -1439,6 +1439,11 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary02",
       "commit": "b67c26f6977afefcb37eded1e329cd5986d5da0c"
+    },
+    "original-qualified-batch-1119-volume02-20261025": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary02",
+      "commit": "8b699ad61c80e5368a2654205b7c399e84ea1fae"
     }
   },
   "assets": [
@@ -49429,6 +49434,135 @@
       "status": "verified",
       "license": "All rights reserved",
       "sourceId": "original-qualified-batch-1116-volume02-20261025"
+    },
+    {
+      "id": "construction-fixed-gooseneck-open-bowl-and-raised-apron-motor-scraper-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "construction",
+      "style": "S01-clean-geometric",
+      "title": "Fixed Gooseneck Open Bowl and Raised Apron Motor Scraper",
+      "description": "One newly authored complete generic wheel-tractor scraper exterior. A short front single-axle tractor station carries a sloping closed power hood and genuine window-open cab with fixed seat. A whole high gooseneck bridge and broad transverse pull-yoke lead to two outboard descending arms on a long central empty bowl. The bowl has a complete thick floor and rear wall, two full sloping cheeks, and an open low front mouth with blunt finite lip. A separate whole curved raised apron has full side arms and fixed pivots, leaving a real visible gap above the mouth. The rear bowl has its own complete axle carrier and two full wheels, plus a short rear cross-block. All four full tyres have finite ground facets; all four full hubs and both axles remain complete. No old loader arms/bucket, paver hopper/tracks/screed, or component mesh is reused. Four opaque constant PBR materials, metres, native Z up, horizontal bounds centred, one prop zero scenes. Static construction game art only; no excavation, cutting, loading, hauling, driving, steering, articulation, apron movement, engine, fluid circuits, transmission, manufacture, fit, ground traction, pushing, load, performance or safety claim. No exact manufacturer model or real-machine dimensions. Rigging, animation and interaction not made or verified.",
+      "bounds": {
+        "x": 3.27,
+        "y": 6.216,
+        "z": 2.51,
+        "unit": "m"
+      },
+      "triangles": 2180,
+      "materials": 4,
+      "files": {
+        "glb": {
+          "path": "assets/construction/construction-fixed-gooseneck-open-bowl-and-raised-apron-motor-scraper-01/v1.0.0/model.glb",
+          "size": 109904,
+          "sha256": "87fe168a728d1d5928a3bcde00c4d9e53ea2177a96d66da964d503dea6404d13"
+        },
+        "blend": {
+          "path": "assets/construction/construction-fixed-gooseneck-open-bowl-and-raised-apron-motor-scraper-01/v1.0.0/source.blend",
+          "size": 786672,
+          "sha256": "8a4dd3417eec2a61a88cce553a12dbf1362b3abbb4ecb6f1043fe23862fcb017"
+        },
+        "generator": {
+          "path": "assets/construction/construction-fixed-gooseneck-open-bowl-and-raised-apron-motor-scraper-01/v1.0.0/generate.py",
+          "size": 29277,
+          "sha256": "853089c2861a77d8dad1256351bc6169c11db82722fb3ada3c13ad56225c2fb8"
+        },
+        "render": {
+          "path": "assets/construction/construction-fixed-gooseneck-open-bowl-and-raised-apron-motor-scraper-01/v1.0.0/thumbnail.png",
+          "size": 555696,
+          "sha256": "f6409789251777c92db7f6e781b7b5fd5ccd300d3dfef50307ff3a06a3d0daf9"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1119-volume02-20261025"
+    },
+    {
+      "id": "industrial-fixed-tail-screw-and-toggle-link-locking-pliers-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "industrial",
+      "style": "source-preserved-low-poly",
+      "title": "Fixed Tail Screw and Toggle Link Locking Pliers",
+      "description": "One newly authored complete fixed locking-pliers-style exterior. A single continuous curved fixed jaw and long rear handle oppose a separate short curved moving-jaw appearance. A distinct lower handle joins the jaw through a second complete fixed pin. One entire rear toggle link spans from that lower handle toward the fixed handle rear seat, with an independent inner release lever and a complete longitudinal adjusting screw ending in a broad cap. Four full pins and proud caps retain the illustrated joints. Both jaws are thick and blunt, with a fixed real gap and no workpiece. This is not the old crossed single-pivot combination pliers with different teeth or a base-mounted hold-down clamp with its base removed: all bodies and whole linkage relations are newly authored. Three opaque constant PBR roles, metres Z up, grounded horizontal-envelope-centred origin. One prop zero scenes. Static illustrative shape only: no valid over-centre locking trajectory, gripping/cutting force, adjustment range, thread engagement, bearing clearances, manufacture, hand fit, electrical insulation or safety claim. Rigging animation interaction not made.",
+      "bounds": {
+        "x": 0.12099999934434891,
+        "y": 0.34700000286102295,
+        "z": 0.05299999937415123,
+        "unit": "m"
+      },
+      "triangles": 928,
+      "materials": 3,
+      "files": {
+        "glb": {
+          "path": "assets/industrial/industrial-fixed-tail-screw-and-toggle-link-locking-pliers-01/v1.0.0/model.glb",
+          "size": 89632,
+          "sha256": "123d38df5663f004c5db160997fd1c9783fc74214a2b8d4db09ef66d08408653"
+        },
+        "blend": {
+          "path": "assets/industrial/industrial-fixed-tail-screw-and-toggle-link-locking-pliers-01/v1.0.0/source.blend",
+          "size": 707200,
+          "sha256": "8f8890bfa47f96b36938f64a64238cf3a4656e54436611fb65287cd92a5c3c5f"
+        },
+        "generator": {
+          "path": "assets/industrial/industrial-fixed-tail-screw-and-toggle-link-locking-pliers-01/v1.0.0/generate.py",
+          "size": 17185,
+          "sha256": "2adc4b9dc77958957cebcea57e4ca8f2d14558ca23b828dc0a0d793599373fb6"
+        },
+        "render": {
+          "path": "assets/industrial/industrial-fixed-tail-screw-and-toggle-link-locking-pliers-01/v1.0.0/thumbnail.png",
+          "size": 495178,
+          "sha256": "4e6db7fad75bda36867d21b28f8b09fd2f534fec895956461977ed1f7026c5aa"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1119-volume02-20261025"
+    },
+    {
+      "id": "photography-fixed-chimney-chamber-and-cross-slide-lantern-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "photography",
+      "style": "S01-clean-geometric",
+      "title": "Fixed Chimney Chamber and Cross Slide Lantern",
+      "description": "One newly authored complete fixed magic-lantern-style film-history prop. Two finite shoes and a common long bed carry a genuine thick hollow lamp chamber with a side opening and an entire door held aside, a real open square upper chimney with a raised weather-cap appearance, and a separate forward lens-support saddle. A complete transverse two-aperture slide carrier crosses the space between the chamber and the long stepped annular lens housing. One carrier aperture contains a blank opaque insert; the other remains genuinely open. An empty unlit inner chamber floor, independent recess-ended barrel and fixed side knob complete the device. No camera tripod, reels, film ribbon, prior machine case or old visible mesh is imported. The complete hollow chamber/vent stack, side access and transverse slide relationship is newly constructed rather than a renamed camera body. Four opaque constant PBR materials, one prop zero scenes, metres native Z up and whole horizontal-bounds-centred finite shoe origin. Static historical-style illustrative appearance only, not a particular historical replica: no flame, fuel, heat, ventilation performance, optics, transparency, image projection, focusing, sliding, operation, electrical or mechanical function, fabrication, compatibility or safety claim. Rigging animation and interaction not made.",
+      "bounds": {
+        "x": 0.5147125247364301,
+        "y": 0.599,
+        "z": 0.474,
+        "unit": "m"
+      },
+      "triangles": 2024,
+      "materials": 4,
+      "files": {
+        "glb": {
+          "path": "assets/photography/photography-fixed-chimney-chamber-and-cross-slide-lantern-01/v1.0.0/model.glb",
+          "size": 83060,
+          "sha256": "2f2fe6bdc4a2c1120bac3575ab98d83892dc4f2fc83f662ed9c778294326d9a5"
+        },
+        "blend": {
+          "path": "assets/photography/photography-fixed-chimney-chamber-and-cross-slide-lantern-01/v1.0.0/source.blend",
+          "size": 755892,
+          "sha256": "ed548d5dbd921dd547345ecc71794ef536d28c049c6c9b7580e0ba8dcd3c0d8f"
+        },
+        "generator": {
+          "path": "assets/photography/photography-fixed-chimney-chamber-and-cross-slide-lantern-01/v1.0.0/generate.py",
+          "size": 13271,
+          "sha256": "ae78df5a2209e72a78aaad4bdab3c974058df2c5758034a175b094b2b21e326e"
+        },
+        "render": {
+          "path": "assets/photography/photography-fixed-chimney-chamber-and-cross-slide-lantern-01/v1.0.0/thumbnail.png",
+          "size": 509201,
+          "sha256": "e06887e67eee2241b46de46a683e5eb809ad58614a94295867fb6a665c73a44d"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1119-volume02-20261025"
     }
   ]
 }
