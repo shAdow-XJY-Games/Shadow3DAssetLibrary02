@@ -1,0 +1,42 @@
+{
+  "id": "technology-fixed-twin-eccentric-and-curved-slot-link-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "technology",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Twin Eccentric and Curved Slot Link",
+  "description": "One complete newly authored fixed twin-eccentric curved-link mechanical exhibit. Two displaced complete discs share one transverse shaft in two bored pedestal bearings; each disc has its own full encircling annular strap and long connecting rod to a different end of a single thick curved slotted link. The curved link has a genuine continuous curved through opening and finite closed end bridges. A separate block occupies the middle slot, with its complete output stem offset in front of the link and passing through an independent bored guide on the common low grounded bed. A fixed rear support and actual visible pins keep the artistic arrangement coherent. Unlike the old direct-pin straight yoke there are paired eccentric straps and rods feeding a separate curved intermediary; unlike the old crosshead drive there is no piston chamber, flywheel or single rod directly driving a slider. All numeric geometry newly authored without old mesh imports. Three opaque PBR materials, metres Z-up and complete horizontal bounds-centred ground origin, one static model zero scenes. Fixed artistic geometry only: no kinematic solution, valve timing, transmission, travel, mechanical ratio, fit, bearing motion, force, torque, manufacture, operation or engineering safety claim; no animation or interaction.",
+  "bounds": {
+    "x": 1.82,
+    "y": 0.74,
+    "z": 0.7100000000000001,
+    "unit": "m"
+  },
+  "triangles": 3080,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/technology/technology-fixed-twin-eccentric-and-curved-slot-link-01/v1.0.0/model.glb",
+      "size": 145104,
+      "sha256": "90e587c209db89c6e7db0a3690613d0f5773bd515135e1bc1fe858bb0ec28216"
+    },
+    "blend": {
+      "path": "assets/technology/technology-fixed-twin-eccentric-and-curved-slot-link-01/v1.0.0/source.blend",
+      "size": 803204,
+      "sha256": "39dd8b9b4a06ac2ded2f5f28790d7f73072242c773158221ad0b48e99d7fe085"
+    },
+    "generator": {
+      "path": "assets/technology/technology-fixed-twin-eccentric-and-curved-slot-link-01/v1.0.0/generate.py",
+      "size": 12149,
+      "sha256": "c1b3becd43b9b6903a9eef6f41f02463f3b3e8dddef5ee7bd2f6c61a0cca0cba"
+    },
+    "render": {
+      "path": "assets/technology/technology-fixed-twin-eccentric-and-curved-slot-link-01/v1.0.0/thumbnail.png",
+      "size": 371296,
+      "sha256": "76b14b8ace8c03bb80344009292953d5d030f16e4a310caa68248664e6fc0219"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
