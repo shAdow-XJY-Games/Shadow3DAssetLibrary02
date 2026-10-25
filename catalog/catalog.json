@@ -1474,6 +1474,11 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary02",
       "commit": "bf9613e8d2c688526e33ad9ae6fc75e6b66a385a"
+    },
+    "original-qualified-batch-1141-volume02-20261025": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary02",
+      "commit": "b812d941ed17875d748420995f83150d797c3dd8"
     }
   },
   "assets": [
@@ -50410,6 +50415,135 @@
       "status": "verified",
       "license": "All rights reserved",
       "sourceId": "original-qualified-batch-1138-volume02-20261025"
+    },
+    {
+      "id": "art-fixed-broad-foot-muller-and-flat-grinding-slab-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "art",
+      "style": "S01-clean-geometric",
+      "title": "Fixed Broad Foot Muller and Flat Grinding Slab",
+      "description": "One newly authored complete empty pigment-grinding display set, counted as one prop: one thick chamfer-cornered flat stone slab and one whole broad-foot hand muller standing on its full flat top. The muller is one continuous closed radial body with a wide flat sole, gently bevelled outer foot, narrowing conical shoulder, concave waist and rounded bulb grip; it is not an old tapered pestle enlarged. Its complete finite lower disc rests exactly on the planar slab, with generous visible working surface around it. Unlike the old deep mortar the receiving surface is open and planar without bowl cavity or rim, and unlike a chopping board the slab has no handle, hanging hole or grain-strip kit. Both pieces are independently authored full meshes and the combined working set counts once, not one asset per piece. Two opaque solid PBR roles, metres native Z up and whole horizontal-bounds-centred ground origin. Static illustrative art-tool exterior only: no pigment, grinding action, abrasive/material compatibility, chemical preparation, hand fit, glass transmission, hygiene, manufacture or safety claim. No rigging, animation or interaction.",
+      "bounds": {
+        "x": 0.36,
+        "y": 0.32,
+        "z": 0.191,
+        "unit": "m"
+      },
+      "triangles": 828,
+      "materials": 2,
+      "files": {
+        "glb": {
+          "path": "assets/art/art-fixed-broad-foot-muller-and-flat-grinding-slab-01/v1.0.0/model.glb",
+          "size": 45636,
+          "sha256": "05d5632af8b9d4dfc5c085495614346f211e67b1fe9b5635c226e270b7d37a82"
+        },
+        "blend": {
+          "path": "assets/art/art-fixed-broad-foot-muller-and-flat-grinding-slab-01/v1.0.0/source.blend",
+          "size": 547740,
+          "sha256": "64397c06c565a2fa88be6b93fc6059004b87a76663d853563488d4e624ebba80"
+        },
+        "generator": {
+          "path": "assets/art/art-fixed-broad-foot-muller-and-flat-grinding-slab-01/v1.0.0/generate.py",
+          "size": 9893,
+          "sha256": "9bd4dffc2e58d4f839caac2d6dc859ab56d77039e7f2dae7bb72543716b14250"
+        },
+        "render": {
+          "path": "assets/art/art-fixed-broad-foot-muller-and-flat-grinding-slab-01/v1.0.0/thumbnail.png",
+          "size": 358060,
+          "sha256": "49e74df310813b016920267d446630da60eba5c91b8851ac22766e7d0972a6f0"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1141-volume02-20261025"
+    },
+    {
+      "id": "fantasy-whole-raised-arm-drape-and-open-eye-ghost-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "fantasy",
+      "style": "S01-clean-geometric",
+      "title": "Whole Raised Arm Drape and Open Eye Ghost",
+      "description": "One independently authored whole static sheet-ghost fantasy character. A single continuous thick draped shell expands into two raised cloth-covered arm silhouettes and a rounded head. Both actual front eye apertures lead into the complete hollow interior, with real thickness reveals; the entire lower hem remains open and rests on its broad finite annular edge. No separate sticks, concealed person or floating eye cards are used. The outer and inner cloth surfaces and eye reveals are actual face material regions of one connected editable mesh. New whole proportions and topology, not a white recolour of the old raincoat worker or theatre mask with a skirt attached. Three opaque PBR materials, metre Z-up, complete ground-centred horizontal envelope. One fictional static figure, zero scenes. No real person, anatomy, wearable garment, breathing or vision performance, spirit behavior, fabric simulation, rig, animation, interaction, installation or safety claim.",
+      "bounds": {
+        "x": 1.6760000000000002,
+        "y": 0.5614239231390199,
+        "z": 1.725,
+        "unit": "m"
+      },
+      "triangles": 1672,
+      "materials": 3,
+      "files": {
+        "glb": {
+          "path": "assets/fantasy/fantasy-whole-raised-arm-drape-and-open-eye-ghost-01/v1.0.0/model.glb",
+          "size": 129168,
+          "sha256": "e341ca3adfad7a72347e6aa195be853015c98f1720513e90e4f03f13eb28c89a"
+        },
+        "blend": {
+          "path": "assets/fantasy/fantasy-whole-raised-arm-drape-and-open-eye-ghost-01/v1.0.0/source.blend",
+          "size": 611844,
+          "sha256": "bd50e85d468c0e523790874955214b7426b79db44acc0ef6ffc6ceb54ee7ccb5"
+        },
+        "generator": {
+          "path": "assets/fantasy/fantasy-whole-raised-arm-drape-and-open-eye-ghost-01/v1.0.0/generate.py",
+          "size": 11212,
+          "sha256": "6fffcaec99cc8cbcab1c1cf0d01a03c5e3c956397682115e89e4e40cea8a1f9e"
+        },
+        "render": {
+          "path": "assets/fantasy/fantasy-whole-raised-arm-drape-and-open-eye-ghost-01/v1.0.0/thumbnail.png",
+          "size": 390250,
+          "sha256": "9d2c78f8d3814f4f8b265603e35f12660bb0fa3ef4ff2f9eb279951aac3b6e6e"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1141-volume02-20261025"
+    },
+    {
+      "id": "technology-fixed-six-slot-collet-and-open-holder-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "technology",
+      "style": "S01-clean-geometric",
+      "title": "Fixed Six Slot Collet and Open Holder",
+      "description": "One complete newly authored static slotted-collet holder display. A thick through-bored sleeve and complete open hex exterior lock ring surround a projecting tapered collet. The collet is one continuous thick annular body: six actual axial slots start at its open front and end at a complete rear ring, not six unrelated floating fingers or painted grooves. A genuine common central opening remains empty; no stock or cutter is supplied. A shallow whole base and saddle support the assembly. Unlike the old complete three-jaw lathe or opposed-jaw spider coupling, this new whole relation is a slotted tapered sleeve retained within a bored holder and open lock ring, with no old meshes or jaw coordinates imported. Three opaque PBR materials, metres Z-up and whole-horizontal-envelope centred ground origin. Fixed explanatory art only: no elasticity, compression, clamping, real threads, concentricity, fit, torque, spindle compatibility, machining, operation or safety claim; no animation or interaction.",
+      "bounds": {
+        "x": 0.71,
+        "y": 0.47000000000000003,
+        "z": 0.5813546265191241,
+        "unit": "m"
+      },
+      "triangles": 2400,
+      "materials": 3,
+      "files": {
+        "glb": {
+          "path": "assets/technology/technology-fixed-six-slot-collet-and-open-holder-01/v1.0.0/model.glb",
+          "size": 104424,
+          "sha256": "56d4c98af5c5051b138938d438b92654fa798b2fd4950d4b5104826d48bea35d"
+        },
+        "blend": {
+          "path": "assets/technology/technology-fixed-six-slot-collet-and-open-holder-01/v1.0.0/source.blend",
+          "size": 669604,
+          "sha256": "a9dd9128e3995142fe17287e05de6021b83055fdb2b1d2c017459f41b1b0160f"
+        },
+        "generator": {
+          "path": "assets/technology/technology-fixed-six-slot-collet-and-open-holder-01/v1.0.0/generate.py",
+          "size": 11180,
+          "sha256": "2ec36673d3c93fcec07fbd6e65836a053eebec9963a5d469954aa1dfed798528"
+        },
+        "render": {
+          "path": "assets/technology/technology-fixed-six-slot-collet-and-open-holder-01/v1.0.0/thumbnail.png",
+          "size": 441619,
+          "sha256": "2363fc0fbea240b77e0d6fb13b15754f94230f3be1ad095d3160c14474a2f185"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1141-volume02-20261025"
     }
   ]
 }
