@@ -1,0 +1,42 @@
+{
+  "id": "carpentry-fixed-through-feed-and-extension-table-thickness-planer-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "carpentry",
+  "style": "source-preserved-low-poly",
+  "title": "Fixed Through Feed and Extension Table Thickness Planer",
+  "description": "One newly authored complete static bench thickness-planer appearance. A low grounded chamfered base carries a full central feed bed, two tall side columns and a broad upper motor head with a separate top cover. A genuine low rectangular passage remains open from front to back between the bed and recessed feed-roll silhouettes. Two entire flat extension tables extend in opposite directions on whole transverse hinge axles and finite support braces. A complete offset height-crank silhouette on the right and a blank front rocker enclosure finish the exterior. Not a bench drill with a wider table or an exposed hand wringer recoloured; no old geometry imported. Three opaque PBR roles, one model zero scenes. Empty fixed static art only: no cutting edges, timber payload, feed or height adjustment, motor, machining performance, dust collection, manufacture, load or safety claim. Rigging animation and interaction not made.",
+  "bounds": {
+    "x": 0.6430000066757202,
+    "y": 0.7400000095367432,
+    "z": 0.49000000953674316,
+    "unit": "m"
+  },
+  "triangles": 960,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/carpentry/carpentry-fixed-through-feed-and-extension-table-thickness-planer-01/v1.0.0/model.glb",
+      "size": 100232,
+      "sha256": "0da9ba44579ceef7f5b6221913448eba32fd71bb4e82bfcf0cd4300a9cc57860"
+    },
+    "blend": {
+      "path": "assets/carpentry/carpentry-fixed-through-feed-and-extension-table-thickness-planer-01/v1.0.0/source.blend",
+      "size": 771936,
+      "sha256": "32add01dae21fb50ffaa1e92567f0128435fede659935ccbd4fd55596a1504c0"
+    },
+    "generator": {
+      "path": "assets/carpentry/carpentry-fixed-through-feed-and-extension-table-thickness-planer-01/v1.0.0/generate.py",
+      "size": 15701,
+      "sha256": "d9c14c58ab3f0701260405d35be26c5b21b34807d427c273849773cc4afe06cb"
+    },
+    "render": {
+      "path": "assets/carpentry/carpentry-fixed-through-feed-and-extension-table-thickness-planer-01/v1.0.0/thumbnail.png",
+      "size": 525985,
+      "sha256": "aeb82d16b4a86dcc7204f23b6375dc360bb8bf36a115845c7e890555f3362a3e"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

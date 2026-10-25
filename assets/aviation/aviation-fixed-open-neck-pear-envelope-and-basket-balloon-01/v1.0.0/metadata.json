@@ -1,0 +1,42 @@
+{
+  "id": "aviation-fixed-open-neck-pear-envelope-and-basket-balloon-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "aviation",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Open Neck Pear Envelope and Basket Balloon",
+  "description": "One independently authored complete fixed balloon-style exterior. A broad upper pear-shaped envelope is a continuous thick closed material shell with a genuine hollow interior and a narrow downward-open neck; integral alternating face-color gores mark its exterior. A whole empty tapered rounded-corner basket has a complete bottom, true inner floor and four continuously connected walls with restrained integral horizontal relief, plus a separate full open thick rim. Four complete long rope exteriors link basket walls into the lower envelope material. Four shorter rooted uprights and a closed top carrier support two small complete open cup-style equipment exteriors below the actual neck. The entire geometry is new, not the old long horizontal airship rotated or reshaped, not an old dye basket extracted, a large lamp, or repeated decorative balloon count. One complete prop, zero scenes; four opaque constant untextured PBR roles, metres, Z up, horizontal bounds-centred ground origin on the basket full sole. Wicker-like bands do not claim a physically woven basket; open cups are only burner-style outer shapes. No gas, fuel containers, plumbing, flame, hot air, occupants, mooring, loaded cables, inflation, lift, flight, stability, payload, thermal behavior, manufacture, safe operation, rigging, animation or interaction. Static illustrative art, not real balloon equipment design or use instructions.",
+  "bounds": {
+    "x": 2.15,
+    "y": 2.15,
+    "z": 4.28,
+    "unit": "m"
+  },
+  "triangles": 3580,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/aviation/aviation-fixed-open-neck-pear-envelope-and-basket-balloon-01/v1.0.0/model.glb",
+      "size": 197384,
+      "sha256": "23bc5a7e29ce22ed74f07d5e59b6a0fd5f8014e09257e350ff5221524cb93d87"
+    },
+    "blend": {
+      "path": "assets/aviation/aviation-fixed-open-neck-pear-envelope-and-basket-balloon-01/v1.0.0/source.blend",
+      "size": 800916,
+      "sha256": "6ca445765a0060ac6e70b87c0b0160ff7cbf1aa5d68b74db8258ce3f3d9826df"
+    },
+    "generator": {
+      "path": "assets/aviation/aviation-fixed-open-neck-pear-envelope-and-basket-balloon-01/v1.0.0/generate.py",
+      "size": 27611,
+      "sha256": "1759697f9217fa0cb48ed0b8008b2e0e9a115c497fd39b10c11c160feca4096f"
+    },
+    "render": {
+      "path": "assets/aviation/aviation-fixed-open-neck-pear-envelope-and-basket-balloon-01/v1.0.0/thumbnail.png",
+      "size": 512054,
+      "sha256": "47ca5f523527cb2da1fd0c869fa6f9b5863b595de0d3f0f15b38305c97321160"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

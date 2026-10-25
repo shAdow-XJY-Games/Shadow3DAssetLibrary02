@@ -1,0 +1,42 @@
+{
+  "id": "theater-whole-mechanical-effects-preparation-workcorner-scene-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "theater",
+  "style": "source-preserved-low-poly",
+  "title": "Whole Mechanical Effects Preparation Workcorner",
+  "description": "One static theatrical mechanical-effects preparation workcorner using four complete qualified originals and zero new independent models: a whole raised crank desk, complete pinned-cylinder open-case music box on its real full desk top, separate whole slatted-drum and cloth-apron wind machine, and complete suspended tubular-bell frame on the scene-only floor. The small bench mechanism is raised for inspection while the larger hand-cranked cloth drum and tall hanging-pipe station occupy separate floor bays beside it; there is no audience stage, piano bench, shared score or inward-facing ensemble rehearsal circle. Complete original local meshes, hierarchy, oriented triangles and full PBR are preserved without extraction, rescaling or recolouring. Only the desk undergoes one rigid ninety-degree rotation and all four instances are translated. One scene and zero new models. Static equipment arrangement only: no working sound effects, audio, operation, tuning, friction, cloth simulation, rotation, damping, ergonomics, load, stability or safety certification. No rigging, animation or interaction.",
+  "bounds": {
+    "x": 3.700000047683716,
+    "y": 3.4000000953674316,
+    "z": 1.9800000190734863,
+    "unit": "m"
+  },
+  "triangles": 6908,
+  "materials": 14,
+  "files": {
+    "glb": {
+      "path": "assets/theater/theater-whole-mechanical-effects-preparation-workcorner-scene-01/v1.0.0/model.glb",
+      "size": 396660,
+      "sha256": "d3f964b32dfbfc323e7c5e0f4d4d677ad75c8383d2141d2bdbcc8c1e8d1c4f32"
+    },
+    "blend": {
+      "path": "assets/theater/theater-whole-mechanical-effects-preparation-workcorner-scene-01/v1.0.0/source.blend",
+      "size": 2174716,
+      "sha256": "238c134a2f2edd24d64b56973354d1710c31057c51303835354622d1d48efd6b"
+    },
+    "generator": {
+      "path": "assets/theater/theater-whole-mechanical-effects-preparation-workcorner-scene-01/v1.0.0/generate.py",
+      "size": 125643,
+      "sha256": "47861f761d7a19bdbeb264b76772f313a7a2e76f52963f3a9cdc8dd7805197c8"
+    },
+    "render": {
+      "path": "assets/theater/theater-whole-mechanical-effects-preparation-workcorner-scene-01/v1.0.0/thumbnail.png",
+      "size": 528771,
+      "sha256": "e5003775f28f4a82a474127d53c09c97f83d85aaf47019b7f1fce393a6bdc60a"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

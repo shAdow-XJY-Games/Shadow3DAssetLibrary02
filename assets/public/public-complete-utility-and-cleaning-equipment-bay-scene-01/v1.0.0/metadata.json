@@ -1,0 +1,42 @@
+{
+  "id": "public-complete-utility-and-cleaning-equipment-bay-scene-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "public",
+  "style": "source-preserved-low-poly",
+  "title": "Complete Utility and Cleaning Equipment Bay",
+  "description": "One complete static public-service utility and cleaning-equipment preparation bay, counted as one scene and zero new independent models. Four full original assets stand at unit scale on a single finite floor: a complete offset-basin sink at rear left, a whole wheeled side-press cleaning bucket separately at front left, a full upright floor cleaner at rear right, and an entire single-disc buffer at front right. The paired left and right stations leave an actual broad central open aisle and finite fore-aft gaps, not the three inline stations of the earlier dishwashing scene renamed. All source GLB raw buffers, local POSITION/NORMAL, PBR material dictionaries, face assignments and internal hierarchies are preserved byte-exact. Only whole-model translations and a scene-only support slab are new. No asset is extracted, resized, recoloured or counted as a new prop. Static empty equipment display only: no plumbing connections, water, chemicals, cleaning or hygiene sequence, machine operation, suction, electrical, load, stability or safety certification. Rigging, animation and interaction are not made.",
+  "bounds": {
+    "x": 3.200000047683716,
+    "y": 2.5999999046325684,
+    "z": 1.369999885559082,
+    "unit": "m"
+  },
+  "triangles": 5320,
+  "materials": 15,
+  "files": {
+    "glb": {
+      "path": "assets/public/public-complete-utility-and-cleaning-equipment-bay-scene-01/v1.0.0/model.glb",
+      "size": 480152,
+      "sha256": "d1555fcfec549041265a139dd81b4bad5233196657cc93370e9c80e861e03758"
+    },
+    "blend": {
+      "path": "assets/public/public-complete-utility-and-cleaning-equipment-bay-scene-01/v1.0.0/source.blend",
+      "size": 1660712,
+      "sha256": "7fce5ede8e792e816c9530c3387fd55ea4f8c8a19c51a71f872fe4db6027b9a3"
+    },
+    "generator": {
+      "path": "assets/public/public-complete-utility-and-cleaning-equipment-bay-scene-01/v1.0.0/generate.py",
+      "size": 139014,
+      "sha256": "8f1d77ec34981111d9a4061fa3669e4b594c7bc5110a252f59ff326771a9c566"
+    },
+    "render": {
+      "path": "assets/public/public-complete-utility-and-cleaning-equipment-bay-scene-01/v1.0.0/thumbnail.png",
+      "size": 486384,
+      "sha256": "81d86ec593015e8c22b2fccc4a2569739f288e6cd8b8f1c1d4ad046c5f79b68e"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

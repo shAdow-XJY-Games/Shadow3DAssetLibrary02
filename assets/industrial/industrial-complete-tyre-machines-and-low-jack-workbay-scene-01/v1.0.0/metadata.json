@@ -1,0 +1,42 @@
+{
+  "id": "industrial-complete-tyre-machines-and-low-jack-workbay-scene-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "industrial",
+  "style": "source-preserved-low-poly",
+  "title": "Complete Tyre Machines and Low Jack Workbay",
+  "description": "One complete static tyre-service-equipment workbay, one scene and zero new independent models. The whole original four-jaw tyre-changing machine occupies the left rear station, the entire side-wheel raised-hood balancing machine stands at right rear, and the full low trolley floor jack occupies a separate front bay. An actual broad open strip separates the two rear machines, with a transverse gap between them and the whole foreground jack. The machine pedestals, front pedals, wheel/hood, jack arm, four wheels and long handle remain complete and at original unit scale. This differs from the existing tabletop wheel-fixture and suspended-bicycle workbay: no worktable, bicycle clamp or tool back wall is substituted or renamed. Every original GLB buffer, local POSITION/NORMAL, material dictionary, face assignment and internal hierarchy remains byte-exact; only whole-instance translations and one finite scene-only support floor are new. No original part is extracted, resized, recoloured or counted anew. Static empty equipment composition only, no vehicle, load, tyre handling, machine connections, repair steps, operation, lifting, calibration, ergonomics, certified workflow, installation or safety claim. Rigging animation and interaction are not made.",
+  "bounds": {
+    "x": 2.9000000953674316,
+    "y": 2.4000000953674316,
+    "z": 1.5299999713897705,
+    "unit": "m"
+  },
+  "triangles": 5344,
+  "materials": 12,
+  "files": {
+    "glb": {
+      "path": "assets/industrial/industrial-complete-tyre-machines-and-low-jack-workbay-scene-01/v1.0.0/model.glb",
+      "size": 423052,
+      "sha256": "068db9315bd132c80d28905a7afb4899711857c8c4f8ca5df1a75db7b52e26cc"
+    },
+    "blend": {
+      "path": "assets/industrial/industrial-complete-tyre-machines-and-low-jack-workbay-scene-01/v1.0.0/source.blend",
+      "size": 1672504,
+      "sha256": "b323165fa6dcbd6867a39fe52a194325b5e6ca824031c00356e47a25a73da731"
+    },
+    "generator": {
+      "path": "assets/industrial/industrial-complete-tyre-machines-and-low-jack-workbay-scene-01/v1.0.0/generate.py",
+      "size": 126723,
+      "sha256": "5958d31f0b0bb72a2417fe98f6b29579a56cadff85301d26e57329a5f08cdf50"
+    },
+    "render": {
+      "path": "assets/industrial/industrial-complete-tyre-machines-and-low-jack-workbay-scene-01/v1.0.0/thumbnail.png",
+      "size": 472036,
+      "sha256": "9d0a9084d9d054935e276a92c7175047855dd8a4ee13a5640ddbe29a9a03e6dd"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

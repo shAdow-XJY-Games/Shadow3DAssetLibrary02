@@ -1,0 +1,42 @@
+{
+  "id": "underwater-fixed-cutaway-open-bottom-diving-bell-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "underwater",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Cutaway Open Bottom Diving Bell",
+  "description": "One newly authored complete fixed cutaway open-bottom diving-bell display. A thick tapered cylindrical rear-and-side wall meets a full hollow domed roof above a wide genuinely open lower ballast ring. An intentional front sector is removed for display, exposing two curved internal side seats and their fixed roots while leaving the central bottom opening unfilled. Four full exterior straps meet the lower ring and roof shoulders; a rooted upper hanging eye and a short inlet collar complete the vessel silhouette. Small integral display feet raise the open mouth above the ground. This is a sectioned chamber with internal occupancy space and suspension, not an enlarged wearable three-window helmet or a lab torsion case with a different rod. No old meshes imported, three opaque constant PBR materials, metres and centred ground datum. One static exhibit model, zero scenes. The front cutaway is intentionally not sealed; no person, breathing system, air retention, pressure, diving, buoyancy, hoisting capacity, fabrication, historical reconstruction or safety claim. Rigging, animation and interaction not made.",
+  "bounds": {
+    "x": 1.72,
+    "y": 1.72,
+    "z": 2.44,
+    "unit": "m"
+  },
+  "triangles": 2172,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/underwater/underwater-fixed-cutaway-open-bottom-diving-bell-01/v1.0.0/model.glb",
+      "size": 115812,
+      "sha256": "4b459389dc68549c21a99f49e88fa7926b9f458792671cea4e3050304d0f5104"
+    },
+    "blend": {
+      "path": "assets/underwater/underwater-fixed-cutaway-open-bottom-diving-bell-01/v1.0.0/source.blend",
+      "size": 726564,
+      "sha256": "ace4febb2472178b35f81ff7554c4177c2fe1edf1340d236e754040bada7a373"
+    },
+    "generator": {
+      "path": "assets/underwater/underwater-fixed-cutaway-open-bottom-diving-bell-01/v1.0.0/generate.py",
+      "size": 13027,
+      "sha256": "8385d357ad37d3a7a4e8575cdb1e892534d2e6debb0feb641c791313ba35f4ce"
+    },
+    "render": {
+      "path": "assets/underwater/underwater-fixed-cutaway-open-bottom-diving-bell-01/v1.0.0/thumbnail.png",
+      "size": 518105,
+      "sha256": "db5efb3412c06fe68c56f845631a1d0e5cf80e365f64877b7f57a07941f7a050"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

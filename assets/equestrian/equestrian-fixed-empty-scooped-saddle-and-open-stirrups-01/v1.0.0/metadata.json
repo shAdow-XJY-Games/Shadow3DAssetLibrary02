@@ -1,0 +1,42 @@
+{
+  "id": "equestrian-fixed-empty-scooped-saddle-and-open-stirrups-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "equestrian",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Empty Scooped Saddle and Open Stirrups",
+  "description": "One newly authored complete empty fixed riding-saddle appearance. A single thick double-curved seat scoops down between its narrow raised front pommel and broad rear cantle. Two full broad leather-looking skirts descend from the seat sides, with two whole fixed stirrup leathers carrying separate complete metal-looking open stirrups with finite flat lower treads. All geometry is newly drawn; no cycle saddle, cargo pack yoke, animal or old harness mesh is imported or extracted. Unlike an empty caravan pack frame, there are no wooden cargo ledges or horns; unlike a cycle seat, there is a whole skirt-and-stirrup system and no post or wheel. Three opaque constant PBR materials, metres, Z up and full horizontal-bounds-centred ground origin; one prop, zero scenes, no horse, rider or cargo. Fixed stylized display only: no live-animal fit, equestrian compatibility, welfare assessment, seat or stirrup ergonomics, strap adjustment, manufacture, carrying load, mounting or riding safety claim.",
+  "bounds": {
+    "x": 0.838,
+    "y": 0.73,
+    "z": 0.645,
+    "unit": "m"
+  },
+  "triangles": 348,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/equestrian/equestrian-fixed-empty-scooped-saddle-and-open-stirrups-01/v1.0.0/model.glb",
+      "size": 25540,
+      "sha256": "330dc51778d451761e3e979398c4ddc0fd04a553a3196665d4ffd9169d90529a"
+    },
+    "blend": {
+      "path": "assets/equestrian/equestrian-fixed-empty-scooped-saddle-and-open-stirrups-01/v1.0.0/source.blend",
+      "size": 568064,
+      "sha256": "05b4031e48d4beebd0fd9d41f82724d6959cbaba8ed650989715ed0cb28f4f92"
+    },
+    "generator": {
+      "path": "assets/equestrian/equestrian-fixed-empty-scooped-saddle-and-open-stirrups-01/v1.0.0/generate.py",
+      "size": 11583,
+      "sha256": "5c73b6a045626692af72e6730923cb0359527dd7400afdbe46ab8dcf8759dd05"
+    },
+    "render": {
+      "path": "assets/equestrian/equestrian-fixed-empty-scooped-saddle-and-open-stirrups-01/v1.0.0/thumbnail.png",
+      "size": 509092,
+      "sha256": "cab492e102ea9b14507acdf50b870b1d7a1160c32774ac33d45c8439cb3a72d2"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

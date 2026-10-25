@@ -1,0 +1,42 @@
+{
+  "id": "technology-fixed-cutaway-spherical-rod-end-joint-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "technology",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Cutaway Spherical Rod End Joint",
+  "description": "One newly authored whole static cutaway spherical rod-end connector appearance. A complete grounded six-sided short stem and flared shoulder root into one thick three-quarter outer eye. Its inner wall follows a genuinely concave spherical seat, with both full cut-section faces closing the intentionally absent upper sector. Inside, a separate whole truncated spherical member has a real open cylindrical through-bore and is fixed at an authored oblique angle. The upper cutaway reveals its curved interface rather than hiding an assumed sphere behind a flat ring. No crossed trunnion, fork arms, gimbal carriers, imported machine joint or old mesh is used. Three opaque constant PBR materials, metres, Z up and complete horizontal-bounds-centred ground origin; one prop, zero scenes. Static illustrative connector only: no joint rotation, angular travel, friction, bearing fit, torque or force transfer, fastening, host compatibility, manufacture, load capacity or mechanical safety claim.",
+  "bounds": {
+    "x": 0.38,
+    "y": 0.2707455398374533,
+    "z": 0.54,
+    "unit": "m"
+  },
+  "triangles": 2978,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/technology/technology-fixed-cutaway-spherical-rod-end-joint-01/v1.0.0/model.glb",
+      "size": 157608,
+      "sha256": "1a6821a0820b0a880028dbcb53669f79e8847f36bbcd3ee6def9c31871082c40"
+    },
+    "blend": {
+      "path": "assets/technology/technology-fixed-cutaway-spherical-rod-end-joint-01/v1.0.0/source.blend",
+      "size": 691636,
+      "sha256": "0617aaa01883ef230ed9e2ce93c7ab7e44478dad6964f3636e18e618bfb5651e"
+    },
+    "generator": {
+      "path": "assets/technology/technology-fixed-cutaway-spherical-rod-end-joint-01/v1.0.0/generate.py",
+      "size": 11169,
+      "sha256": "d6b0ff4edb82d6fd4f59609ce54d51156e5ea3a076512cdb90bdf36c3aa32d5d"
+    },
+    "render": {
+      "path": "assets/technology/technology-fixed-cutaway-spherical-rod-end-joint-01/v1.0.0/thumbnail.png",
+      "size": 439645,
+      "sha256": "fa1a09d150975169aed4fe7e735034d1c52cc3d6d8bea9b291e4f2abb106dc1b"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "industrial-fixed-v-saddle-and-arched-chain-pipe-vise-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "industrial",
+  "style": "source-preserved-low-poly",
+  "title": "Fixed V Saddle and Arched Chain Pipe Vise",
+  "description": "One newly authored complete fixed chain pipe-vise-style appearance. A thick ground mounting plate has four genuine through apertures. Two full parallel V-groove saddle bodies flank an empty central channel below one arched chain of fifteen complete alternating open links. A fixed left end anchor and separate right spindle guide attach both chain ends; the right side has a whole vertical externally profiled spindle, transverse handle and two end stops. All plate, saddle, guide and assembly geometry is new; only generic closed-link and mesh primitives are reused, with no old visible geometry payload. This is not the earlier table-edge clamp-on flat-jaw vise or a sport basket with more links. Three opaque constant PBR roles; one model zero scenes. Empty static visual display only, no pipe, force, chain tension, gripping, adjustment motion, thread engagement, mounting specification, load, manufacture or safety certification. Rigging, animation and interaction not made.",
+  "bounds": {
+    "x": 0.3799999952316284,
+    "y": 0.20999999344348907,
+    "z": 0.22499999403953552,
+    "unit": "m"
+  },
+  "triangles": 1416,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/industrial/industrial-fixed-v-saddle-and-arched-chain-pipe-vise-01/v1.0.0/model.glb",
+      "size": 138808,
+      "sha256": "113d5a1d9715bc0ef33e1a846c3f806c7f01f3b8a9ab36e24d0d1647b023bc7e"
+    },
+    "blend": {
+      "path": "assets/industrial/industrial-fixed-v-saddle-and-arched-chain-pipe-vise-01/v1.0.0/source.blend",
+      "size": 818304,
+      "sha256": "3ded76980cd082d18654a364c698ce73d2bd664128253c0455ff5638940499d8"
+    },
+    "generator": {
+      "path": "assets/industrial/industrial-fixed-v-saddle-and-arched-chain-pipe-vise-01/v1.0.0/generate.py",
+      "size": 17353,
+      "sha256": "5eaf33c3166b86b5fdb64463508b67f9c28cadf0bcc82af9c4ddbfc0765be590"
+    },
+    "render": {
+      "path": "assets/industrial/industrial-fixed-v-saddle-and-arched-chain-pipe-vise-01/v1.0.0/thumbnail.png",
+      "size": 480771,
+      "sha256": "1db3527214e8ca4e4c6d27b2c939349babb5b84f80263522ab872487c4c4dc96"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

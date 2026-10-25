@@ -1,0 +1,42 @@
+{
+  "id": "animal-static-palm-antler-dropped-muzzle-moose-01",
+  "version": "1.0.0",
+  "category": "modular",
+  "assetKind": "prop",
+  "theme": "animal",
+  "style": "warm-handcrafted-village",
+  "title": "Static Palm-Antler Dropped-Muzzle Moose",
+  "description": "One complete newly authored static stylised moose-like animal. A high broad front shoulder slopes toward the lower rounded rump, carried by four long narrow bent legs with full dark hoof soles. A thick short sloping neck continues into a long deep overhanging muzzle, with large side ears, small eyes and a tapered throat bell beneath. Two complete thick palm-shaped antlers broaden from rooted stems into genuine wide continuous plates with open notches between marginal points, rather than adding branches to the old slender deer beam. New whole body and limb sections, dropped face and broad antler outlines; no old deer or horse mesh reshaped. One static model, zero scenes; no exact species/anatomy, gait, animal behaviour, antler growth, collision, rig or biological claim.",
+  "bounds": {
+    "x": 2.359999895,
+    "y": 2.450000048,
+    "z": 2.720000029,
+    "unit": "m"
+  },
+  "triangles": 1692,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/animal/animal-static-palm-antler-dropped-muzzle-moose-01/v1.0.0/model.glb",
+      "size": 98844,
+      "sha256": "f094772c64229b539d9abb4da381fa481979b70a782707785d04d8bde790b7a6"
+    },
+    "blend": {
+      "path": "assets/animal/animal-static-palm-antler-dropped-muzzle-moose-01/v1.0.0/source.blend",
+      "size": 641092,
+      "sha256": "6ce2f83f5ce1900462bc31295997c5da45a78d7d4256a1d2890d0163b9bd94d2"
+    },
+    "generator": {
+      "path": "assets/animal/animal-static-palm-antler-dropped-muzzle-moose-01/v1.0.0/generate.py",
+      "size": 30364,
+      "sha256": "b2f2dad358983940e74dba41cb5e7591b38b34b74124145ae4a9a24e1299b695"
+    },
+    "render": {
+      "path": "assets/animal/animal-static-palm-antler-dropped-muzzle-moose-01/v1.0.0/thumbnail.png",
+      "size": 490482,
+      "sha256": "284c8f719b3bc22bafa55fa2b2e5f9e73e94b700e7f746c99debeba82f070bdb"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

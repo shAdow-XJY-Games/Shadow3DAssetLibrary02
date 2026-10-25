@@ -1,0 +1,42 @@
+{
+  "id": "theater-fixed-slatted-drum-and-cloth-apron-wind-machine-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "theater",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Slatted Drum and Cloth Apron Wind Machine",
+  "description": "One newly authored whole fixed theatrical wind-machine appearance. Two grounded open timber side frames support two real bored bearing sleeves and a continuous transverse axle. An open slatted drum has two full annular end hoops, six complete radial spokes on each side and twenty separate longitudinal curved slats with genuine open gaps. A single continuous finite-thickness cloth-apron exterior passes over the upper drum and joins two complete front/back clamping bars supported by the frame; a side crank and separate grip attach to the through axle. Entire geometry new, not old solid pinned music-box cylinder with its comb removed, nor two solid toothed carding drums rescaled or an imported wheel used as a kit part. One whole prop, zero scenes. Four opaque untextured PBR roles, metres, Z up, horizontal envelope centred, two finite frame shoes grounded. Cloth is one static closed solid surface, not cloth simulation or validated friction contact. No sound synthesis, airflow, wind strength, drum rotation, mechanical drive, tension, friction, historical accuracy, manufacture, operation or safety claim. No rigging, animation, interaction or scene.",
+  "bounds": {
+    "x": 1.385,
+    "y": 1.12,
+    "z": 1.0939999999999999,
+    "unit": "m"
+  },
+  "triangles": 2128,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/theater/theater-fixed-slatted-drum-and-cloth-apron-wind-machine-01/v1.0.0/model.glb",
+      "size": 125484,
+      "sha256": "0cbf63b2c1a6836a0af0fd59144f33848deed5968824491a73e97cec2e38ed5c"
+    },
+    "blend": {
+      "path": "assets/theater/theater-fixed-slatted-drum-and-cloth-apron-wind-machine-01/v1.0.0/source.blend",
+      "size": 905300,
+      "sha256": "67d21112b5924a9f7e20aa0b4299481fccaa5c6644a0fd7defa66bf81e970c5c"
+    },
+    "generator": {
+      "path": "assets/theater/theater-fixed-slatted-drum-and-cloth-apron-wind-machine-01/v1.0.0/generate.py",
+      "size": 11510,
+      "sha256": "5576df8263c4c7cd2cc8fd6efb674e3a5e455248cc4a0c854568eeecd7141de1"
+    },
+    "render": {
+      "path": "assets/theater/theater-fixed-slatted-drum-and-cloth-apron-wind-machine-01/v1.0.0/thumbnail.png",
+      "size": 515508,
+      "sha256": "85a663d71decf139e7e965df6a2935ef07230e635334110bb259a7ee25eb67d0"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

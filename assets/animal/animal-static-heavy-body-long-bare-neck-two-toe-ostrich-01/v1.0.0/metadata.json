@@ -1,0 +1,42 @@
+{
+  "id": "animal-static-heavy-body-long-bare-neck-two-toe-ostrich-01",
+  "version": "1.0.0",
+  "category": "modular",
+  "assetKind": "prop",
+  "theme": "animal",
+  "style": "warm-handcrafted-village",
+  "title": "Static Heavy-Body Long-Bare-Neck Two-Toe Ostrich",
+  "description": "One complete newly authored static stylised ostrich-like bird. A very heavy broad oval feather mass stands on two long bare bent legs with whole genuine two-toe feet, rather than the narrow wader torso and three-toe ground shape. A long thin mostly bare neck rises from the forward body and curves into one small low head with a short broad blunt bill; two small folded side wings and a short broad rear plume are subordinate to the huge body, unlike a peacock open fan. Whole body/neck/legs/feet and wing outlines newly authored, not old wader proportions or peacock train removal. One static model, zero scenes. No exact species, feather filaments, gait, running, flight, biological function, rig or anatomical precision claim.",
+  "bounds": {
+    "x": 1.320000052,
+    "y": 2.619999886,
+    "z": 2.99000001,
+    "unit": "m"
+  },
+  "triangles": 1496,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/animal/animal-static-heavy-body-long-bare-neck-two-toe-ostrich-01/v1.0.0/model.glb",
+      "size": 85992,
+      "sha256": "082ccd1f0fdedea05a34073921ad532594eeb04b55eb35f12f54f1086ae41c29"
+    },
+    "blend": {
+      "path": "assets/animal/animal-static-heavy-body-long-bare-neck-two-toe-ostrich-01/v1.0.0/source.blend",
+      "size": 627920,
+      "sha256": "b064a1878378c3f3dcdce299efb53e15a3c899c046f093125a6aa4091976bc3a"
+    },
+    "generator": {
+      "path": "assets/animal/animal-static-heavy-body-long-bare-neck-two-toe-ostrich-01/v1.0.0/generate.py",
+      "size": 30424,
+      "sha256": "816d8db532c24fc47a9221683d5882e4cab8db7196ec4e4335a0d2004c4ed2a6"
+    },
+    "render": {
+      "path": "assets/animal/animal-static-heavy-body-long-bare-neck-two-toe-ostrich-01/v1.0.0/thumbnail.png",
+      "size": 472601,
+      "sha256": "7236fef2f77d7a74eff1c2e87dba8517dc424425a3640a1ff887e209f003dfe7"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

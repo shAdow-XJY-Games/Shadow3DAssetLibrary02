@@ -1,0 +1,42 @@
+{
+  "id": "toys-fixed-funnel-and-alternating-open-trough-ballrun-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "toys",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Funnel and Alternating Open Trough Ball Run",
+  "description": "One newly authored complete empty tabletop gravity-ball-run appearance. Two grounded full side posts and a rear cross header carry three separate full-length thick open U troughs, alternating slope direction. Each low end has a real open falling mouth positioned above the next higher receiving end, and each upper end has a complete raised stop. A true open tapered top funnel with a hollow neck is carried by its full annular collar and rear bracket. A lower broad open collection tray sits between the complete frame shoes. Every trough has two real underside carriers rooted into the rear frame; there are no painted tracks, closed false bores or extracted pieces of old assets. The supported alternating open channels and funnel are not an upright peg-drop field with more pins, nor a scaled continuous human spiral slide. One whole prop, zero scenes. Four opaque untextured PBR roles, metres, Z up, full XY envelope centred and two finite ground shoes. Empty fixed visual display only: no ball supplied, no rolling dynamics, transfer success, speed, puzzle logic, child suitability, manufacture or safety claim. No rigging, animation or interaction.",
+  "bounds": {
+    "x": 1.3299999999999998,
+    "y": 0.445,
+    "z": 1.32,
+    "unit": "m"
+  },
+  "triangles": 1200,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/toys/toys-fixed-funnel-and-alternating-open-trough-ballrun-01/v1.0.0/model.glb",
+      "size": 78240,
+      "sha256": "c542701debb45fe2d35989b20b6a1e6e88cd683b8d62bc73b4d53bd366f4adb8"
+    },
+    "blend": {
+      "path": "assets/toys/toys-fixed-funnel-and-alternating-open-trough-ballrun-01/v1.0.0/source.blend",
+      "size": 762524,
+      "sha256": "681b50948a5f676e6e5e89eed64f7c59cc8f88c98a4390e7094c0c7bd9000a2c"
+    },
+    "generator": {
+      "path": "assets/toys/toys-fixed-funnel-and-alternating-open-trough-ballrun-01/v1.0.0/generate.py",
+      "size": 11381,
+      "sha256": "64be8171d317a026543b4d0ecc06e4dc1dfac8c68de04a63abd5ab8a87336ff8"
+    },
+    "render": {
+      "path": "assets/toys/toys-fixed-funnel-and-alternating-open-trough-ballrun-01/v1.0.0/thumbnail.png",
+      "size": 513818,
+      "sha256": "31a2442fb9dd9ec75e0cc3f3b7535bf8ec87a497637ec0d6af034501b88a7b4c"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

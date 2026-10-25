@@ -1,0 +1,42 @@
+{
+  "id": "music-whole-console-and-tape-recording-preparation-workcorner-scene-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "music",
+  "style": "source-preserved-low-poly",
+  "title": "Whole Console and Tape Recording Preparation Workcorner",
+  "description": "One static audio-recording preparation workcorner containing five complete qualified originals at unchanged unit scale: a full raised crank desk supporting the whole slotted-fader mixing console faces inward from the left, and a separate whole lower open worktable supports the complete twin-reel recorder and slotted desk microphone along the rear. The two surfaces form an open control-and-pickup layout with clear front access; there is no stage, audience, instrument rehearsal circle or large floor-level mechanical-effects apparatus. Both desks and all three appliances retain every original mesh, hierarchy, oriented triangle and full opaque PBR. Only the raised desk and its whole console rotate rigidly ninety degrees; the other full instances translate. One scene-only flat floor, one scene, zero new independent models. Static unoccupied equipment placement only: no audio recording, playback, wiring, electrical compatibility, acoustics, control operation, reel motion, ergonomic fit, accessibility, load, installation or safety capability. Rigging, animation and interaction are not made and outside this delivery.",
+  "bounds": {
+    "x": 3.100000023841858,
+    "y": 2.700000047683716,
+    "z": 1.6670000553131104,
+    "unit": "m"
+  },
+  "triangles": 7796,
+  "materials": 18,
+  "files": {
+    "glb": {
+      "path": "assets/music/music-whole-console-and-tape-recording-preparation-workcorner-scene-01/v1.0.0/model.glb",
+      "size": 644716,
+      "sha256": "e515395f15ca6cc8ddc4b578b8e8cb8b0db09e4f35a0181c1b696d72d734a909"
+    },
+    "blend": {
+      "path": "assets/music/music-whole-console-and-tape-recording-preparation-workcorner-scene-01/v1.0.0/source.blend",
+      "size": 2277744,
+      "sha256": "4df19c735cd8e3fcbabac1d1e3b1cbb12aee1ae5a38ae59d79aa663378b348c2"
+    },
+    "generator": {
+      "path": "assets/music/music-whole-console-and-tape-recording-preparation-workcorner-scene-01/v1.0.0/generate.py",
+      "size": 196719,
+      "sha256": "fc5aad8f3834a1187cb3c6090f21169a372a137169bac243e8d7f6b8f4362fcd"
+    },
+    "render": {
+      "path": "assets/music/music-whole-console-and-tape-recording-preparation-workcorner-scene-01/v1.0.0/thumbnail.png",
+      "size": 502547,
+      "sha256": "c22a41194b41f641f1ab2383462b6baf287c57af73d1f1f52efad15e839a3a4b"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

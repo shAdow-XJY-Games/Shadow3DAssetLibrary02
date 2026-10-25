@@ -1,0 +1,42 @@
+{
+  "id": "pet-care-fixed-hubless-track-and-four-roller-cradle-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "pet-care",
+  "style": "source-preserved-low-poly",
+  "title": "Fixed Hubless Track And Four Roller Cradle",
+  "description": "One newly authored complete static hubless pet running-wheel appearance. One continuous broad annular shell combines an open central passage, full inward running surface and two integral outer tracking rims. Four separate small rollers sit beneath the two rims on fixed transverse axles in a low grounded cradle with paired complete bearing cheeks. Unlike the old walking-drum timber hoist, there are no central axle, spokes, tall bearing posts, winding drum, lifting tower or hook. Unlike the complete twin-hoop gymnastics wheel, there are no open gaps between hoop crossbars, foot platforms, hand grips or direct ring-to-ground contact: a continuous deep inner track and under-rim four-roller cradle define this complete apparatus. All geometry newly authored; no old meshes extracted or rearranged. One prop, zero scenes. Four opaque constant PBR roles, metres, Z up and horizontal ground-centred bounds. The empty centre contains no animal. Small fixed rim-to-roller overlaps are static visual contacts, not validated rolling bearings, running clearance or motion. No rotation, exercise, pet suitability, ergonomics, welfare, traction, loading, pinch protection, manufacture or safety claim. Rigging, animation and interaction not made and outside static scope.",
+  "bounds": {
+    "x": 1.2899999618530273,
+    "y": 0.5299999713897705,
+    "z": 1.4450000524520874,
+    "unit": "m"
+  },
+  "triangles": 2116,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/pet-care/pet-care-fixed-hubless-track-and-four-roller-cradle-01/v1.0.0/model.glb",
+      "size": 192892,
+      "sha256": "a9238f8eff3339b8b009af19bbf8f39e337a6f3b264b3115c71627e99e3a719a"
+    },
+    "blend": {
+      "path": "assets/pet-care/pet-care-fixed-hubless-track-and-four-roller-cradle-01/v1.0.0/source.blend",
+      "size": 886960,
+      "sha256": "84c4d3e417d6c88ad4777c2c5cd3cdf82882da47b8fa36f6dfa647c1bee74136"
+    },
+    "generator": {
+      "path": "assets/pet-care/pet-care-fixed-hubless-track-and-four-roller-cradle-01/v1.0.0/generate.py",
+      "size": 17650,
+      "sha256": "79633bb11815af4db30c941e169f7dbc7bb4634704448fb5299fda6719edee5c"
+    },
+    "render": {
+      "path": "assets/pet-care/pet-care-fixed-hubless-track-and-four-roller-cradle-01/v1.0.0/thumbnail.png",
+      "size": 497893,
+      "sha256": "77862c79d6ebbbbbc34b06fbc6edd32cae5c9fd57eb579c7eaab16ab1f91f4ad"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

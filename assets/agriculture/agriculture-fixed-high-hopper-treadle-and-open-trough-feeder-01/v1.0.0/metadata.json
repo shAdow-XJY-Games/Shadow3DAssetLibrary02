@@ -1,0 +1,42 @@
+{
+  "id": "agriculture-fixed-high-hopper-treadle-and-open-trough-feeder-01",
+  "version": "1.0.0",
+  "category": "modular",
+  "assetKind": "prop",
+  "theme": "agriculture",
+  "style": "warm-handcrafted-village",
+  "title": "Fixed High Hopper Treadle and Open Trough Feeder",
+  "description": "One complete newly authored static agricultural dry-feed display assembly. A tall rectangular storage hopper has full thick walls and a genuinely inclined internal bottom descending to a low front throat above a separate shallow receiving channel. One full raised trough cover is held in a fixed open pose above that channel. A wide low front tread plate, two complete long side levers, two side rising rods and visible fixed pivots connect around the hopper to the cover, all carried by a whole low rail-and-foot frame. Unlike the circular foot-pedal waste bin, the low front feed channel and high rear storage volume are distinct; unlike the bell poultry drinker there is no radial reservoir/tray. No copied old mesh parts or changed bucket count. One static model, zero scenes; empty. No working pedal, validated linkage travel, actual dispensing, pest exclusion, animal suitability, hygiene, food safety, load or manufacturing claim.",
+  "bounds": {
+    "x": 1.039999962,
+    "y": 1.519999981,
+    "z": 1.139999986,
+    "unit": "m"
+  },
+  "triangles": 600,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/agriculture/agriculture-fixed-high-hopper-treadle-and-open-trough-feeder-01/v1.0.0/model.glb",
+      "size": 49280,
+      "sha256": "9630b35363cc614f632b51041d03f562077e57a758a29baf68894d5417271c7b"
+    },
+    "blend": {
+      "path": "assets/agriculture/agriculture-fixed-high-hopper-treadle-and-open-trough-feeder-01/v1.0.0/source.blend",
+      "size": 687000,
+      "sha256": "0eb56f9d342acbc62502af34a23e2e9fb620ead3e78bb4dedb6d1ff054facf71"
+    },
+    "generator": {
+      "path": "assets/agriculture/agriculture-fixed-high-hopper-treadle-and-open-trough-feeder-01/v1.0.0/generate.py",
+      "size": 31982,
+      "sha256": "325b3eac91d07518032c2c294ef47a2aaf71254da8ad5a42f84ca3f70703f693"
+    },
+    "render": {
+      "path": "assets/agriculture/agriculture-fixed-high-hopper-treadle-and-open-trough-feeder-01/v1.0.0/thumbnail.png",
+      "size": 533766,
+      "sha256": "30b1e738d937fb25ef1aefee7541f82ab3af408a8adb8cfb0b0e1131619da818"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

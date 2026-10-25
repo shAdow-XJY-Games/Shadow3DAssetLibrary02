@@ -1,0 +1,42 @@
+{
+  "id": "sports-fixed-swept-wing-and-triangle-control-frame-hang-glider-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "sports",
+  "style": "source-preserved-low-poly",
+  "title": "Fixed Swept Wing And Triangle Control Frame Hang Glider",
+  "description": "One newly authored complete fixed swept-wing hang-glider appearance. A single finite-thickness folded wing spans two swept leading-edge tubes and a complete longitudinal keel, with two underside cross tubes, a whole triangular lower control frame, an upper kingpost and four continuous fixed stay lines. Two small finite shoes on the lower control bar provide the static display ground datum. The broad left and right wing surfaces are continuous shared-vertex geometry with opaque face-assigned panels, not a copied kite, rotated windsurf sail or texture plane. No board, hull, mast-root deck, wishbone grip, foot straps, diamond cross spar or ribbon tail is reused. All geometric coordinates newly authored; one prop zero scenes, four opaque constant PBR roles, metres Z up. It is an empty fixed display without pilot, harness or independent stand. Tube intersections and stay ends are deliberately embedded visual roots, not validated joints, tensioned cables or flying structure. No aerodynamic lift, stability, aircraft certification, structural strength, attachment, folding, control, launch, operation, manufacture, user fit or flight safety claim; dimensions are invented for static game-art identification. Rigging, animation and interaction not made.",
+  "bounds": {
+    "x": 4.136312961578369,
+    "y": 2.158510208129883,
+    "z": 1.7899999618530273,
+    "unit": "m"
+  },
+  "triangles": 548,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/sports/sports-fixed-swept-wing-and-triangle-control-frame-hang-glider-01/v1.0.0/model.glb",
+      "size": 59564,
+      "sha256": "aea27a18cac5085fc1d70fd285796d7b406bb8544d04527f5abd2f14be339fb0"
+    },
+    "blend": {
+      "path": "assets/sports/sports-fixed-swept-wing-and-triangle-control-frame-hang-glider-01/v1.0.0/source.blend",
+      "size": 692528,
+      "sha256": "c4e25701aba69491d4e881055dfd57cc65aaa04def156f6776e14c3888faf082"
+    },
+    "generator": {
+      "path": "assets/sports/sports-fixed-swept-wing-and-triangle-control-frame-hang-glider-01/v1.0.0/generate.py",
+      "size": 17814,
+      "sha256": "ec4d8bb3d0854b1fa454995c3561ef36eaebd91245f2777befe22f56efd403cc"
+    },
+    "render": {
+      "path": "assets/sports/sports-fixed-swept-wing-and-triangle-control-frame-hang-glider-01/v1.0.0/thumbnail.png",
+      "size": 478667,
+      "sha256": "9d13d3abf501385c585b6f4dd8a814c6a30a6e21c552b657eee57a3909c236d2"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

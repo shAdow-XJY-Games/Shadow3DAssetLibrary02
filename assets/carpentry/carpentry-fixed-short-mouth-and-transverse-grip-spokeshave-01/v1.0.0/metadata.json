@@ -1,0 +1,42 @@
+{
+  "id": "carpentry-fixed-short-mouth-and-transverse-grip-spokeshave-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "carpentry",
+  "style": "source-preserved-low-poly",
+  "title": "Fixed Short Mouth and Transverse Grip Spokeshave",
+  "description": "One newly authored complete static spokeshave-style woodworking hand tool. One short wide metal sole has a genuine transverse through mouth and raised rear bearing. Two whole cast side wings lead laterally into full shaped wooden grips with finite root collars. A separate low inclined finite blunt iron and raised pressure cap occupy the central bed, with two fixed stem-and-head adjuster appearances. The two transverse grips, short open sole and central clamped plate differ from the earlier long hand plane with front knob/rear tote and from the bare double-grip drawknife. All visible geometry newly authored, no old tool or blade payload imported. Three opaque untextured PBR roles, one model zero scenes. No wood, sharp edge below the sole, cutting, sharpening, adjustment motion, ergonomic fit, manufacture, load or safety certification. Rigging animation and interaction not made.",
+  "bounds": {
+    "x": 0.43306028842926025,
+    "y": 0.07271597534418106,
+    "z": 0.05000000074505806,
+    "unit": "m"
+  },
+  "triangles": 1044,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/carpentry/carpentry-fixed-short-mouth-and-transverse-grip-spokeshave-01/v1.0.0/model.glb",
+      "size": 96460,
+      "sha256": "59214b3c6f6be0a24461ce3c33bfca2120092fdd7db2f0551d1c963ad31a2f51"
+    },
+    "blend": {
+      "path": "assets/carpentry/carpentry-fixed-short-mouth-and-transverse-grip-spokeshave-01/v1.0.0/source.blend",
+      "size": 701376,
+      "sha256": "002155ba66e6c37505b63ec0e259bc5c9706c8ac10cba581811419417e79945f"
+    },
+    "generator": {
+      "path": "assets/carpentry/carpentry-fixed-short-mouth-and-transverse-grip-spokeshave-01/v1.0.0/generate.py",
+      "size": 16350,
+      "sha256": "d3c47d107d8a7807c2ca73550014a7ba4a9ae8b07bc169a2fa42ecc6fc762d21"
+    },
+    "render": {
+      "path": "assets/carpentry/carpentry-fixed-short-mouth-and-transverse-grip-spokeshave-01/v1.0.0/thumbnail.png",
+      "size": 445945,
+      "sha256": "1d8dcddaeeedc0fdd0a982d1405b2f66b8f309082a0fe9426aecb85d054e6e1b"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "transport-fixed-continuous-skirt-and-aft-duct-hovercraft-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "transport",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Continuous Skirt and Aft Duct Hovercraft",
+  "description": "One newly authored whole static small hovercraft-style exterior. A broad continuous rounded-rectangle annular skirt has a swollen outer profile, finite lower annular sole and true downward-open centre under one complete deck. A shaped forward cowl with integral opaque windscreen-style face, two full side coamings, one complete seated pilot station and open steering wheel define the cockpit. At the rear, two deck saddles carry one whole flared thick duct, a supported central motor-and-hub exterior, four complete fixed pitched blades and a sparse four-bar front grille. Two full vertical rear vane exteriors join a complete lower carrier and deck roots. All geometry is independently authored, not a work skiff with an imported mine fan, twin old floats with wheels removed, a count or color variant, or an existing boat scene. The thick skirt and deck enclose an open underside rather than a sealed flotation hull. One model, zero scenes; four opaque constant untextured PBR roles, metres, Z up and whole horizontally bounds-centred ground origin on the skirt sole. Opaque windscreen appearance does not supply cabin glazing, light transmission or a hidden enclosed cabin. No occupant, water, cushion field, external hose, motor internals, rigging, animation or interaction. Fixed illustrative game art only: no buoyancy, hovering, inflation, thrust, airflow, propulsion, steering, control response, blade-guard safety, occupancy fit, stability, load, manufacture or real vehicle operation and safety claim.",
+  "bounds": {
+    "x": 1.545,
+    "y": 2.987,
+    "z": 1.73,
+    "unit": "m"
+  },
+  "triangles": 3060,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/transport/transport-fixed-continuous-skirt-and-aft-duct-hovercraft-01/v1.0.0/model.glb",
+      "size": 174380,
+      "sha256": "fbe17e90062b587edbb7ee811cd1dcf4e2c53da4a7e25f740909fc849399b91f"
+    },
+    "blend": {
+      "path": "assets/transport/transport-fixed-continuous-skirt-and-aft-duct-hovercraft-01/v1.0.0/source.blend",
+      "size": 858664,
+      "sha256": "e104e971cb560d4b8dd59c6afb7f2dbb102b8770d1f5b56a584a8784dae7da67"
+    },
+    "generator": {
+      "path": "assets/transport/transport-fixed-continuous-skirt-and-aft-duct-hovercraft-01/v1.0.0/generate.py",
+      "size": 30565,
+      "sha256": "5c24d2fcc75d8459cb770ba39973544f6efda63028e4bc3f833f5d3bd5b65601"
+    },
+    "render": {
+      "path": "assets/transport/transport-fixed-continuous-skirt-and-aft-duct-hovercraft-01/v1.0.0/thumbnail.png",
+      "size": 539372,
+      "sha256": "7331df4faef90efe71a4095bf3defed9653dff163b5efb4271b01ff4337ef979"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

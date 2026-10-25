@@ -1,0 +1,42 @@
+{
+  "id": "construction-fixed-front-hopper-and-rear-screed-tracked-paver-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "construction",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Front Hopper and Rear Screed Tracked Paver",
+  "description": "One independently authored whole tracked paving-machine exterior: a low complete chassis on two thick polygonal hollow track loops and full rooted wheels/axles, a very broad front flared receiving hopper with real open empty mouth and full floor, a central sloped power-cover shape, and a complete rear open operator platform with one seat, blank side console and full U rails. Two long continuous draw arms link the chassis to a wide separate low screed-style exterior behind the machine. Every mesh is newly authored in this source; no old excavator, railway wagon, hopper, cabin or track mesh is imported or extracted. The full front receiving tub to rear spreading-block silhouette is the distinguishing whole structure, not a wheel/count/colour variant. One prop, zero scenes; four opaque solid PBR materials, metres, Z up, horizontally bounds-centred ground datum on both whole flat track soles. No conveyor, auger, engine or hydraulic internals, material flow, asphalt, paving/levelling ability, drive, turning, operator use, loads, guarding, manufacture, engineering, safety, rigging, animation or interaction. Static low-poly visual exterior only, not equipment design or operation guidance.",
+  "bounds": {
+    "x": 2.5,
+    "y": 3.79,
+    "z": 1.46,
+    "unit": "m"
+  },
+  "triangles": 1044,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/construction/construction-fixed-front-hopper-and-rear-screed-tracked-paver-01/v1.0.0/model.glb",
+      "size": 63732,
+      "sha256": "c54e943b35fc357e9c85a0dd52b02a9f490fa34ef7d4d9d4b09aa8900bee16aa"
+    },
+    "blend": {
+      "path": "assets/construction/construction-fixed-front-hopper-and-rear-screed-tracked-paver-01/v1.0.0/source.blend",
+      "size": 704652,
+      "sha256": "21dc08186a01a996bde3749d73471316c68bfb246b887c439c820645c5fb5412"
+    },
+    "generator": {
+      "path": "assets/construction/construction-fixed-front-hopper-and-rear-screed-tracked-paver-01/v1.0.0/generate.py",
+      "size": 28471,
+      "sha256": "97912338e53603a2480e038157158d4fd570a69faf9d46d7285bb7ade64ab4d3"
+    },
+    "render": {
+      "path": "assets/construction/construction-fixed-front-hopper-and-rear-screed-tracked-paver-01/v1.0.0/thumbnail.png",
+      "size": 535136,
+      "sha256": "8aa47615ec16dfed3d3c985f4f86ef6f9d3f26692effb4d2493e03ab60c09e26"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

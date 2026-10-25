@@ -1,0 +1,42 @@
+{
+  "id": "construction-fixed-high-arch-and-central-moldboard-grader-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "construction",
+  "style": "S01-clean-geometric",
+  "title": "Fixed High Arch and Central Moldboard Grader",
+  "description": "One independently authored complete grader-style machine exterior. A long narrow high arched front beam spans from a front axle to a rear power chassis on two rear axles. Beneath the genuine arch void, a whole horizontal annular carrier, complete crossbar/stem and two rooted hangers support one long thick genuinely curved moldboard at a fixed diagonal angle. A rear opaque sloped engine cover and elevated open station with floor, seat, blank console, four posts and a full roof complete the machine. Six complete annular tyres have actual finite ground facets and separate full hubs/axles; tyre count is not claimed as the structural novelty. The whole arch/central blade and rear power-station relation is new, with no old pickup/excavator/paver mesh imported, copied or scaled. No receiving hopper, cargo bed, bucket, trailing screed, glass or external source assets. One static prop, zero scenes; four opaque constant PBR roles, metres, Z up and full horizontal bounds-centred finite tyre sole datum. No hydraulic/engine internals, articulation, steering, wheel motion, blade adjustment, grading, material removal, traction, occupancy, loads, guarding, manufacture, machine operation, engineering/safety, rigging, animation or interaction verified. Static low-poly visual exterior only, not equipment guidance.",
+  "bounds": {
+    "x": 2.368165,
+    "y": 4.52,
+    "z": 2.23,
+    "unit": "m"
+  },
+  "triangles": 2580,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/construction/construction-fixed-high-arch-and-central-moldboard-grader-01/v1.0.0/model.glb",
+      "size": 129428,
+      "sha256": "75abbee929434c74bea0af3c0591bae1ed630f9321ad428e2bbf528a2519c352"
+    },
+    "blend": {
+      "path": "assets/construction/construction-fixed-high-arch-and-central-moldboard-grader-01/v1.0.0/source.blend",
+      "size": 837668,
+      "sha256": "9c01d187d6b14da56aba7a78dbbd2edff6f997d83ec970f9116c22b50a7d81b3"
+    },
+    "generator": {
+      "path": "assets/construction/construction-fixed-high-arch-and-central-moldboard-grader-01/v1.0.0/generate.py",
+      "size": 29091,
+      "sha256": "9763cc52b4c86fab3c941c217ddd50ea4f4e9c9bef59ab69487f2ace6dc4369f"
+    },
+    "render": {
+      "path": "assets/construction/construction-fixed-high-arch-and-central-moldboard-grader-01/v1.0.0/thumbnail.png",
+      "size": 550946,
+      "sha256": "7ce27d290d48e437ee2c1cd761acff9b48cb14f57d5f29298dcb7e8fe7de9732"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

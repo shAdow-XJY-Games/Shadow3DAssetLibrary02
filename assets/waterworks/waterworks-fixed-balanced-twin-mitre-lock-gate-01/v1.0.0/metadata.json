@@ -1,0 +1,42 @@
+{
+  "id": "waterworks-fixed-balanced-twin-mitre-lock-gate-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "waterworks",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Balanced Twin Mitre Lock Gate",
+  "description": "One newly authored complete fixed double-mitre canal-gate module. A short continuous U-shaped stone canal mouth carries two full vertical heel pivots and opposed thick timber gate leaves meeting at a central V-shaped mitre. Each leaf has whole front reinforcing rails and a diagonal brace, plus one long rooted balance beam extending outward over the corresponding bank, small grip and fixed upper tread boards. Unlike the old vertically sliding sluice, there is no rising plate/threaded stem/C guide; unlike the raised drawbridge, there is no horizontally hinged deck or high rope counterweights. The paired vertical-axis mitre/shore-balance arrangement is newly drawn as one static apparatus, not an old gate recolour. Three opaque PBR materials, metres, horizontally centred complete ground sole. One module, zero scenes. No water, animation, seal, hydraulic pressure, working pivot/balance, passage clearance, navigation, public access, installation or safety claim.",
+  "bounds": {
+    "x": 5.150187000411645,
+    "y": 2.5,
+    "z": 1.92,
+    "unit": "m"
+  },
+  "triangles": 644,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/waterworks/waterworks-fixed-balanced-twin-mitre-lock-gate-01/v1.0.0/model.glb",
+      "size": 45236,
+      "sha256": "fd92505c11a7de3706cc854d8971e260b7ee6425c5b6a835a50cfac282c680cb"
+    },
+    "blend": {
+      "path": "assets/waterworks/waterworks-fixed-balanced-twin-mitre-lock-gate-01/v1.0.0/source.blend",
+      "size": 676504,
+      "sha256": "1c9e9ff2151113e9f49bb416be5c85d59b3ad7bf3b23a4bba7589bc133414653"
+    },
+    "generator": {
+      "path": "assets/waterworks/waterworks-fixed-balanced-twin-mitre-lock-gate-01/v1.0.0/generate.py",
+      "size": 11987,
+      "sha256": "c18a41bc3f3bb659abbb7a1ff0642867cd99bed4c317ea2d555e804073770845"
+    },
+    "render": {
+      "path": "assets/waterworks/waterworks-fixed-balanced-twin-mitre-lock-gate-01/v1.0.0/thumbnail.png",
+      "size": 456227,
+      "sha256": "363be8f456720b6a71165e6d05c593b566dafaf78d887c0d168290bc612713f2"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

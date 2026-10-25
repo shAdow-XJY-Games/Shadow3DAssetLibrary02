@@ -1,0 +1,42 @@
+{
+  "id": "sports-fixed-cavity-back-iron-head-and-tapered-shaft-club-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "sports",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Cavity Back Iron Head and Tapered Shaft Club",
+  "description": "One newly authored complete static cavity-back iron-style golf club, laid on its full flat striking-face display datum. A broad offset rounded-toe metal head has a varying-thickness sloped rear rim and a genuine finite blind back cavity with complete inner floor and walls. A whole oblique heel hosel joins a continuous long tapering shaft to the head; a thick tapered grip and small whole end cap complete the single club. This is not a rotational wooden baseball barrel, a long ridged cricket blade, or an old bat with its head rescaled: all head, cavity, heel-neck and shaft coordinates are newly authored. One model, zero scenes. Four opaque untextured PBR roles, metres and native Z up. Artistic proportions only: no exact sporting dimensions, loft rating, impact, ball launch, shaft flex, grip fit, swing clearance, structural strength, equipment performance, manufacture or safety claim. No ball, player, bag, rig, animation or interaction.",
+  "bounds": {
+    "x": 0.27089287631087133,
+    "y": 1.1574560273847148,
+    "z": 0.041999999999999996,
+    "unit": "m"
+  },
+  "triangles": 380,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/sports/sports-fixed-cavity-back-iron-head-and-tapered-shaft-club-01/v1.0.0/model.glb",
+      "size": 23188,
+      "sha256": "e7e9f7d062474ee02c0d19c62e7d2b1b4acf5e0bb2c5650a6a196019f2f67adf"
+    },
+    "blend": {
+      "path": "assets/sports/sports-fixed-cavity-back-iron-head-and-tapered-shaft-club-01/v1.0.0/source.blend",
+      "size": 583856,
+      "sha256": "bab53bfc3b38954eface4281eb014d562e5c84fbd344f33cc6a3d6f8a8e9f28b"
+    },
+    "generator": {
+      "path": "assets/sports/sports-fixed-cavity-back-iron-head-and-tapered-shaft-club-01/v1.0.0/generate.py",
+      "size": 10658,
+      "sha256": "760bddefedc5df309bebfb978f11ff5e1111c7f631cf8143beb64ecc1177cff5"
+    },
+    "render": {
+      "path": "assets/sports/sports-fixed-cavity-back-iron-head-and-tapered-shaft-club-01/v1.0.0/thumbnail.png",
+      "size": 262027,
+      "sha256": "c1a53f6d6ad714114c2dac169026d929f4e86602c42ba13de1bcb5e4e03815d7"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "archaeology-fixed-open-anthropoid-stone-sarcophagus-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "archaeology",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Open Anthropoid Stone Sarcophagus",
+  "description": "One newly authored complete stylized empty anthropoid stone sarcophagus and matching displaced lid. A continuous deep thick lower shell has an integrated faceted rounded head lobe, narrow neck, broad shoulder transitions and long tapered foot end, a true empty cavity and full inner floor. Its matching full shallow crowned stone lid is shifted sideways onto two low complete display rests, exposing the entire vessel mouth. The anthropoid perimeter drives both whole bodies; no oval bathing vessel, rectangular chest, creature jaw, figure or old mesh is imported. Three opaque constant PBR materials, metres, Z up and complete horizontally centred ground origin. One static prop, zero scenes. No body, mummy, remains, inscription, burial practice, historical or archaeological precision, lid motion, sealing, lifting, load, installation or safety claim.",
+  "bounds": {
+    "x": 2.1999999999999997,
+    "y": 2.51,
+    "z": 0.68,
+    "unit": "m"
+  },
+  "triangles": 304,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/archaeology/archaeology-fixed-open-anthropoid-stone-sarcophagus-01/v1.0.0/model.glb",
+      "size": 20476,
+      "sha256": "982faea7535003e666776aa3a8ca8710532cb061e83fc901d512c1a56e10e7bd"
+    },
+    "blend": {
+      "path": "assets/archaeology/archaeology-fixed-open-anthropoid-stone-sarcophagus-01/v1.0.0/source.blend",
+      "size": 551884,
+      "sha256": "bf2262026f94de0da826dd55871c75444107c799a4e3204bf97009bd3e766a32"
+    },
+    "generator": {
+      "path": "assets/archaeology/archaeology-fixed-open-anthropoid-stone-sarcophagus-01/v1.0.0/generate.py",
+      "size": 11168,
+      "sha256": "e13715d83e11b575a56cd87620cb559b3e532b0b4c814466bd15151a027b8d1e"
+    },
+    "render": {
+      "path": "assets/archaeology/archaeology-fixed-open-anthropoid-stone-sarcophagus-01/v1.0.0/thumbnail.png",
+      "size": 463334,
+      "sha256": "8654eb26207e243abd16d51c1a3af8353fb6641d899666639bce1d44509fee1d"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

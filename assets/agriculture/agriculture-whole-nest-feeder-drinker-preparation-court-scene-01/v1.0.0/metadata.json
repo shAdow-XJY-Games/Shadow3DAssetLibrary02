@@ -1,0 +1,42 @@
+{
+  "id": "agriculture-whole-nest-feeder-drinker-preparation-court-scene-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "agriculture",
+  "style": "source-preserved-faceted-natural-ecology",
+  "title": "Whole Nest Feeder and Drinker Preparation Court",
+  "description": "One static poultry-equipment preparation court scene, zero new reusable models. Three entire qualified unit-scale originals stand on a single finite scene-only ground floor: the raised sloped laying-nest chamber and external collection trough at rear left, the complete high storage hopper and low treadle-feed channel at rear right, and the complete bell-reservoir drinking tray in a distinct left-front bay. Both high apparatus fronts face an empty common approach strip, while the low drinker remains visually separate. Every original oriented world triangle and per-face constant opaque PBR is retained, with only whole translations and explicit float32 storage. Node hierarchy and normals are baked/recomputed, not original GLB bytes. No parts extracted, no recoloring or rescaling, no extra animal or duplicate equipment. One scene zero new models. Static illustrative equipment arrangement only; no actual feeding, egg movement, water supply, linkage travel, animal accommodation, hygiene, access, structural safety or husbandry suitability claim.",
+  "bounds": {
+    "x": 3.400000095,
+    "y": 3.200000048,
+    "z": 1.480000019,
+    "unit": "m"
+  },
+  "triangles": 2152,
+  "materials": 12,
+  "files": {
+    "glb": {
+      "path": "assets/agriculture/agriculture-whole-nest-feeder-drinker-preparation-court-scene-01/v1.0.0/model.glb",
+      "size": 153352,
+      "sha256": "1a15a9468151f53f89d1a8a3124f8281ccaed5fe4e0e695ca47305cd2015542e"
+    },
+    "blend": {
+      "path": "assets/agriculture/agriculture-whole-nest-feeder-drinker-preparation-court-scene-01/v1.0.0/source.blend",
+      "size": 1089932,
+      "sha256": "6d7f1ec3efbfbfb75bbd9c4a602bea15a04948905b7c4a56a0f5ec209bf86f25"
+    },
+    "generator": {
+      "path": "assets/agriculture/agriculture-whole-nest-feeder-drinker-preparation-court-scene-01/v1.0.0/generate.py",
+      "size": 74386,
+      "sha256": "0af1324dc8f36ff0fa5f965d1a102db185cb5994130cce3e560bbdffd4425ad4"
+    },
+    "render": {
+      "path": "assets/agriculture/agriculture-whole-nest-feeder-drinker-preparation-court-scene-01/v1.0.0/thumbnail.png",
+      "size": 520866,
+      "sha256": "884ff1ed8a9f37464001bb3dc96d5728f8bceab0e3a38a3923c6b456b151505f"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

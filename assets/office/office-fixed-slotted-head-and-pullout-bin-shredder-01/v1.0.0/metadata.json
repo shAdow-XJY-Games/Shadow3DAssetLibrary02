@@ -1,0 +1,42 @@
+{
+  "id": "office-fixed-slotted-head-and-pullout-bin-shredder-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "office",
+  "style": "source-preserved-low-poly",
+  "title": "Fixed Slotted Head and Pullout Bin Shredder",
+  "description": "One newly authored complete fixed office-shredder-style exterior in an open-bin display pose. A continuous three-sided lower cabinet on four complete small caster exteriors carries a thick whole top head with a genuine narrow full-thickness slot and one blank control. Two finite extended rails support a separate deep empty rectangular waste bin with a continuous floor, four thick walls, full raised open rim and front bridge pull handle. All geometry new, not a pedal waste bin with a replacement lid or receipt printer resized. Three opaque untextured PBR roles; one model zero scenes. No paper, cutter teeth, motor, feed rollers, circuit, moving parts, shredding or paper handling performance, electrical or safety certification. Pullout pose is fixed, no clearance animation, load or stability claim. Rigging animation and interaction not made.",
+  "bounds": {
+    "x": 0.47600001096725464,
+    "y": 0.6959999799728394,
+    "z": 0.699999988079071,
+    "unit": "m"
+  },
+  "triangles": 1184,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/office/office-fixed-slotted-head-and-pullout-bin-shredder-01/v1.0.0/model.glb",
+      "size": 110904,
+      "sha256": "203d7b88d5ee859bebb8b7d1684774e3620ac9751b5a40dfee42cb09b15e8a83"
+    },
+    "blend": {
+      "path": "assets/office/office-fixed-slotted-head-and-pullout-bin-shredder-01/v1.0.0/source.blend",
+      "size": 740576,
+      "sha256": "65f4c1588d9facd5014ce5b52010075436558ca16eec3cf271a4ea6bd7f06885"
+    },
+    "generator": {
+      "path": "assets/office/office-fixed-slotted-head-and-pullout-bin-shredder-01/v1.0.0/generate.py",
+      "size": 15579,
+      "sha256": "6e9bbd5a6b39a348cd8ed0b2e666b68d9fb42560ebe42c096a3807487473bc00"
+    },
+    "render": {
+      "path": "assets/office/office-fixed-slotted-head-and-pullout-bin-shredder-01/v1.0.0/thumbnail.png",
+      "size": 512265,
+      "sha256": "95f143ea191498ef96610f5c1eb8924dbd636ff7750aa15327667d59a18bc5f2"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "agriculture-fixed-sloped-nest-and-front-collection-trough-01",
+  "version": "1.0.0",
+  "category": "modular",
+  "assetKind": "prop",
+  "theme": "agriculture",
+  "style": "warm-handcrafted-village",
+  "title": "Fixed Sloped Nest and Front Collection Trough",
+  "description": "One newly authored complete static agricultural laying-nest display. Four full legs carry one deep open-front shaded chamber, a continuous visibly inclined floor descending toward the front, and a lower external full-width receiving trough with a genuine open channel and intact raised front lip. The chamber has full side/back walls and an overhanging sloped roof; the collector has a fixed partly raised shallow cover attached along its back hinge line. One complete small oval egg-shaped display solid sits in the exposed collector to clarify the illustrative relation, not an extra asset. New whole floor-to-collector layout, not extra bays of the old flat-floor hutch or a round-entry bird box. One static model, zero scenes. No real egg transport, working hinge, animal-housing suitability, welfare, hygiene, food safety, construction or load claim.",
+  "bounds": {
+    "x": 1.139999986,
+    "y": 1.360000014,
+    "z": 1.355000019,
+    "unit": "m"
+  },
+  "triangles": 372,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/agriculture/agriculture-fixed-sloped-nest-and-front-collection-trough-01/v1.0.0/model.glb",
+      "size": 30304,
+      "sha256": "491c10316ac8f5db291656e1911eb7869f06c1030b7e971f1be56d2f91414854"
+    },
+    "blend": {
+      "path": "assets/agriculture/agriculture-fixed-sloped-nest-and-front-collection-trough-01/v1.0.0/source.blend",
+      "size": 604572,
+      "sha256": "d8690d6bd92e8d2a099e018c40d89efd4277c4345ced9192f7ce13f2b19e66a0"
+    },
+    "generator": {
+      "path": "assets/agriculture/agriculture-fixed-sloped-nest-and-front-collection-trough-01/v1.0.0/generate.py",
+      "size": 30345,
+      "sha256": "cf7488167f234b424fc692b1d5c0f62cf44b7f6357c7eb7caa56097b562de792"
+    },
+    "render": {
+      "path": "assets/agriculture/agriculture-fixed-sloped-nest-and-front-collection-trough-01/v1.0.0/thumbnail.png",
+      "size": 555850,
+      "sha256": "a32ed17a89c5eceb821720ae201b99814c55813ff6cab1bb52c3bc0914f8f256"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

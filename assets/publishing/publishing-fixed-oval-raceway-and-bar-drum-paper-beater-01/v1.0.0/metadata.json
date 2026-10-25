@@ -1,0 +1,42 @@
+{
+  "id": "publishing-fixed-oval-raceway-and-bar-drum-paper-beater-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "publishing",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Oval Raceway and Bar Drum Paper Beater",
+  "description": "One newly authored complete fixed papermaking-beater-style exterior. A long oval thick-walled tub has a full recessed inner floor and exterior bottom; a complete rounded central partition creates two real longitudinal channels connected around both ends. Four grounded legs and two long low ties support the tub. A single whole drum with integrated blunt longitudinal raised bars spans only one channel, carried on a full transverse shaft and two genuinely bored collars rooted on the partition and outer rim. A full low plate sits on the channel floor beneath the drum, with an actual empty interval above it. A complete outboard thick-rim wheel has a whole hub and four full spokes with true open sectors. New numeric construction throughout, not an old rectangular sink with a complete old carder placed inside, not a double-cylinder wringer or color/count variant. One model, zero scenes; four opaque constant untextured PBR roles, metres, Z up, whole horizontal bounds-centred ground origin. The top is intentionally open and empty. No liquid, fibres, paper sheets, motor, belt, sharp cutting edges, rigging, animation or interaction. Static stylized exterior only, no circulation, drainage, pulping, transmission, rotation, bearing fit, processing capacity, manufacture, load, safe access or operating/engineering guarantee.",
+  "bounds": {
+    "x": 1.585,
+    "y": 2.76,
+    "z": 1.49,
+    "unit": "m"
+  },
+  "triangles": 2252,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/publishing/publishing-fixed-oval-raceway-and-bar-drum-paper-beater-01/v1.0.0/model.glb",
+      "size": 113560,
+      "sha256": "22153eeba8bf5459e854c14fabbae6199b8649dcd53a34797efd241b3a5a3074"
+    },
+    "blend": {
+      "path": "assets/publishing/publishing-fixed-oval-raceway-and-bar-drum-paper-beater-01/v1.0.0/source.blend",
+      "size": 744272,
+      "sha256": "f356104d38b363a2f09043be019e23684e614ee4d93898dfccdcf2ec3ff13fde"
+    },
+    "generator": {
+      "path": "assets/publishing/publishing-fixed-oval-raceway-and-bar-drum-paper-beater-01/v1.0.0/generate.py",
+      "size": 27705,
+      "sha256": "9b11f0f456db8673b9869ca047ee898dad4080d12a8b8aad9f339ff131075cf3"
+    },
+    "render": {
+      "path": "assets/publishing/publishing-fixed-oval-raceway-and-bar-drum-paper-beater-01/v1.0.0/thumbnail.png",
+      "size": 537197,
+      "sha256": "5fb48384c3dd28155463ae371192333292f3a69e96f97b93e40213815074e40c"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

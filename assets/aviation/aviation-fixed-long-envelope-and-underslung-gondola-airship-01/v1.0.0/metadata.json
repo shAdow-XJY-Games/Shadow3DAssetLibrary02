@@ -1,0 +1,42 @@
+{
+  "id": "aviation-fixed-long-envelope-and-underslung-gondola-airship-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "aviation",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Long Envelope and Underslung Gondola Airship",
+  "description": "One newly authored complete static airship-style exterior. A broad continuous long rounded envelope tapers at both ends above a separate short low gondola with integral opaque window-style faces. Four whole suspension roots visibly link the cabin to the envelope. Four complete thick radial tail planes root into the aft body. Two independently authored short lateral carriers hold complete tapered engine nacelles and fixed three-blade propeller exteriors beside the cabin. Two whole low skids and four short roots give the parked art a finite ground sole. No model geometry is imported or extracted from the small airplane or flyingboat: this has no main lifting wing, boat-bottom hull, floats, wheel gear or enlarged old plane fuselage. One model, zero scenes; four opaque constant untextured PBR roles, metres, Z up, whole bounds-centred ground origin. This is a stylized exterior with opaque color regions, not transparent glazing or an accessible interior. No internal envelope cells, gas, pressure, lifting field, motor internals, mooring, occupants, control system, rigging, animation or interaction. No actual buoyancy, inflation, aerodynamics, propulsion, landing, payload, flight, manufacture, operational suitability or safety claim.",
+  "bounds": {
+    "x": 2.94,
+    "y": 6.95,
+    "z": 3.57,
+    "unit": "m"
+  },
+  "triangles": 1828,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/aviation/aviation-fixed-long-envelope-and-underslung-gondola-airship-01/v1.0.0/model.glb",
+      "size": 123928,
+      "sha256": "51496ba20ffc26baf2dc1c19731e4200ce58af096dd87c597889f740c708199b"
+    },
+    "blend": {
+      "path": "assets/aviation/aviation-fixed-long-envelope-and-underslung-gondola-airship-01/v1.0.0/source.blend",
+      "size": 757120,
+      "sha256": "344a77931562b67ce6eb64e4608ed1727557734072e4f25788661b62ccd3dc56"
+    },
+    "generator": {
+      "path": "assets/aviation/aviation-fixed-long-envelope-and-underslung-gondola-airship-01/v1.0.0/generate.py",
+      "size": 27792,
+      "sha256": "0ff64b6563083fbc22a64caec6ec883a38eb310d3986871a6957957898816711"
+    },
+    "render": {
+      "path": "assets/aviation/aviation-fixed-long-envelope-and-underslung-gondola-airship-01/v1.0.0/thumbnail.png",
+      "size": 521577,
+      "sha256": "b9ebc82f22d9cb7511262a76799c4906d944067ce77071ba7f28432056b1e007"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

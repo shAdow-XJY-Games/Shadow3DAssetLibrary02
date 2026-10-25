@@ -1,0 +1,42 @@
+{
+  "id": "animal-static-grounded-loop-continuous-raised-hood-cobra-01",
+  "version": "1.0.0",
+  "category": "modular",
+  "assetKind": "prop",
+  "theme": "animal",
+  "style": "warm-handcrafted-village",
+  "title": "Static Grounded-Loop Raised-Hood Cobra",
+  "description": "One complete newly authored stylised static cobra-like snake. Its tapered tail and low curved loop rest on finite flattened underside facets; the same continuous closed skin rises from the loop into a broad thick laterally spread neck hood, then narrows into a small rounded head. Hood, head, neck, loop and tail share full mesh rings, not a separate leaf or plate attached to an old snake. The hood has actual broad material width and real thickness, two small eyes are seated in the forward head; belly and dorsal colors are integral faces. Not the old horizontal S snake with more turns or simply raised path points. One static model, zero scenes; no exact species, venom/danger identification, animal behaviour, defence mechanism, biology, rig, movement or handling claim.",
+  "bounds": {
+    "x": 1.359104037,
+    "y": 1.236999035,
+    "z": 2.035000086,
+    "unit": "m"
+  },
+  "triangles": 820,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/animal/animal-static-grounded-loop-continuous-raised-hood-cobra-01/v1.0.0/model.glb",
+      "size": 47368,
+      "sha256": "68327fe63861d001dbef69b83bbc529104099f20ca64fcab405b796199864bd4"
+    },
+    "blend": {
+      "path": "assets/animal/animal-static-grounded-loop-continuous-raised-hood-cobra-01/v1.0.0/source.blend",
+      "size": 559648,
+      "sha256": "c5f4a7ee315825ca3ecd56546aefcd5bfd1066ccc60119b3caa21f9260724562"
+    },
+    "generator": {
+      "path": "assets/animal/animal-static-grounded-loop-continuous-raised-hood-cobra-01/v1.0.0/generate.py",
+      "size": 28771,
+      "sha256": "0a87f91da268e5004e48f4e66a8d3a9b033660c86dc7e68c0c69e1e8d5f2948c"
+    },
+    "render": {
+      "path": "assets/animal/animal-static-grounded-loop-continuous-raised-hood-cobra-01/v1.0.0/thumbnail.png",
+      "size": 477405,
+      "sha256": "00726e86742b307ba73181446ea449cec14c8c119209e8abcf7abcafd8773d26"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

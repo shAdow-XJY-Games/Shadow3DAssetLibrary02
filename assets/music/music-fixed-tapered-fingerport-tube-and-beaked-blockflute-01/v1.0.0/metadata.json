@@ -1,0 +1,42 @@
+{
+  "id": "music-fixed-tapered-fingerport-tube-and-beaked-blockflute-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "music",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Tapered Fingerport Tube and Beaked Blockflute",
+  "description": "One newly authored complete static blockflute-style exterior. A whole long tapered thick-wall body has seven genuine front finger apertures and one separate rear thumb aperture, a modest flared open lower bell and continuous empty inner bore. A complete upper head transitions from a rounded socket to a flattened beak, with a genuinely open narrow mouth and separate front window through its wall. All aperture reveals close the finite wall thickness; they are not dark discs or printed marks. Newly authored complete axial profiles and opening layout, no old vessel-flute body, bagpipe pipe or panpipe imported, cut or resized. Unlike the old broad blind ovoid chamber with two finger rows and short side neck, this has a long through-bore and end-to-end head/body arrangement; unlike seven bound stopped panpipes it is one full single-body instrument. Two opaque constant PBR roles, metres, Z up, horizontal-envelope-centred ground datum on the full lower bell annulus. One model, zero scenes. Upright illustrative display only, not a physical balance guarantee. The external head window is shown, but a sound-producing internal block, ramp and calibrated windway are not modeled or validated. No pitch, acoustic response, playing, breath resistance, hygiene, manufacturing, ergonomic or safety claim. No person, stand, rig, animation or interaction.",
+  "bounds": {
+    "x": 0.048,
+    "y": 0.048,
+    "z": 0.455,
+    "unit": "m"
+  },
+  "triangles": 4004,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/music/music-fixed-tapered-fingerport-tube-and-beaked-blockflute-01/v1.0.0/model.glb",
+      "size": 177816,
+      "sha256": "6012b8d0ca7430c2ae46bdd5328f66d325b827699472e4b89976b6c2fc4d2a83"
+    },
+    "blend": {
+      "path": "assets/music/music-fixed-tapered-fingerport-tube-and-beaked-blockflute-01/v1.0.0/source.blend",
+      "size": 718956,
+      "sha256": "f3c73f83660df09d860f8911974767250a7cb8df57e9c0348128d3cbd94890dd"
+    },
+    "generator": {
+      "path": "assets/music/music-fixed-tapered-fingerport-tube-and-beaked-blockflute-01/v1.0.0/generate.py",
+      "size": 12029,
+      "sha256": "12ce6c4e226754d791734c2a3085288b5bf1340e7951a56ef7e6b097b4b6c232"
+    },
+    "render": {
+      "path": "assets/music/music-fixed-tapered-fingerport-tube-and-beaked-blockflute-01/v1.0.0/thumbnail.png",
+      "size": 317647,
+      "sha256": "8803485016e5eaefc962e7476b89be7e3f1e59db0c6f34eb1265c9b442a38624"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "architecture-fixed-open-aisle-flying-buttress-interface-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "architecture",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Open Aisle Flying Buttress Interface",
+  "description": "One newly authored complete static architectural flying-buttress interface. A tall complete wall with one genuinely open through-window and thick coping is connected above the window to a remote lower tapered pier by one continuous rising curved flying arch. The asymmetric high-wall to low-outboard-pier relationship leaves a true open side aisle beneath the flyer, with separate complete grounded bases. Not a symmetric freestanding gateway arch with different pillar heights, not a crossed barrel roof or extra pillars around an old vault. All geometry independently authored on mature mesh tools, three opaque matte stone PBR roles, metres, centred horizontal ground origin. One complete module, zero scenes. No adjoining building or terrain, structural thrust/load capacity, masonry engineering, historical reconstruction, attachment compatibility, walkability or safety claim.",
+  "bounds": {
+    "x": 3.24,
+    "y": 1.76,
+    "z": 4.3,
+    "unit": "m"
+  },
+  "triangles": 272,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/architecture/architecture-fixed-open-aisle-flying-buttress-interface-01/v1.0.0/model.glb",
+      "size": 16428,
+      "sha256": "2e48352ccb21db86a80ca1e512bd9d83919ef36836188c13992b87bc6765d1af"
+    },
+    "blend": {
+      "path": "assets/architecture/architecture-fixed-open-aisle-flying-buttress-interface-01/v1.0.0/source.blend",
+      "size": 563988,
+      "sha256": "986b6f3f1676843606e679e6a45e1c7b9856ccabe618a94567725318e6b42f3b"
+    },
+    "generator": {
+      "path": "assets/architecture/architecture-fixed-open-aisle-flying-buttress-interface-01/v1.0.0/generate.py",
+      "size": 10862,
+      "sha256": "3cb41f2ecc3cb732f083cbc730a5c00d8ec508b67d6ddcb1403119cdf8151c71"
+    },
+    "render": {
+      "path": "assets/architecture/architecture-fixed-open-aisle-flying-buttress-interface-01/v1.0.0/thumbnail.png",
+      "size": 434913,
+      "sha256": "53d89cc7d2aaf5729e0008407ffde67b431436358d7947d20fb5c624ababd7e9"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

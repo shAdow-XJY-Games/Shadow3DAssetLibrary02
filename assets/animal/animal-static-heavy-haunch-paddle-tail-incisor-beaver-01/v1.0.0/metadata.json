@@ -1,0 +1,42 @@
+{
+  "id": "animal-static-heavy-haunch-paddle-tail-incisor-beaver-01",
+  "version": "1.0.0",
+  "category": "modular",
+  "assetKind": "prop",
+  "theme": "animal",
+  "style": "warm-handcrafted-village",
+  "title": "Static Heavy-Haunch Paddle-Tail Beaver",
+  "description": "One complete newly authored stylised static beaver-like animal in a low crouched four-foot pose. Its broad high rounded rear haunch transitions into a lower thick short neck and blunt cheeked forward head with small round ears. Two short forelegs and two large bent hind legs end in finite whole feet; a very broad flattened oval tail extends backward through a narrow real root. Two distinct thick front incisors emerge below a short dark nose, not a platypus bill. Whole sections, limb paths and tail are newly authored, not an old squirrel tail swap or platypus bill replacement. One static model, zero scenes. No exact species, fur simulation, tooth articulation, gait, gnawing, swimming, biological function or rig claim.",
+  "bounds": {
+    "x": 1.069096208,
+    "y": 2.744999886,
+    "z": 1.100000024,
+    "unit": "m"
+  },
+  "triangles": 1588,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/animal/animal-static-heavy-haunch-paddle-tail-incisor-beaver-01/v1.0.0/model.glb",
+      "size": 93268,
+      "sha256": "259b86610b4c8ce059013aa394cb615778d61d4628d8b4d8e15b1f2ef8a42fac"
+    },
+    "blend": {
+      "path": "assets/animal/animal-static-heavy-haunch-paddle-tail-incisor-beaver-01/v1.0.0/source.blend",
+      "size": 635684,
+      "sha256": "8abef6c5adade794a0c63eb5aaf97db30f34b655bd382dc082a10faa3e9a0c05"
+    },
+    "generator": {
+      "path": "assets/animal/animal-static-heavy-haunch-paddle-tail-incisor-beaver-01/v1.0.0/generate.py",
+      "size": 29909,
+      "sha256": "31c9cd4436efbb2a93dd505440146eaf38d8203d445fab619ab86f9f4808e928"
+    },
+    "render": {
+      "path": "assets/animal/animal-static-heavy-haunch-paddle-tail-incisor-beaver-01/v1.0.0/thumbnail.png",
+      "size": 481398,
+      "sha256": "f9a65d5d8fea6568a2a7b30bda90b970d374262f850fda9eb68538a463c72b9d"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

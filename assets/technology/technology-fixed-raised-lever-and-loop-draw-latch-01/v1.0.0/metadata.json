@@ -1,0 +1,42 @@
+{
+  "id": "technology-fixed-raised-lever-and-loop-draw-latch-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "technology",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Raised Lever and Loop Draw Latch",
+  "description": "One newly authored complete static raised-lever draw-latch appearance. Two full metal-looking mounting plates remain separated across a deliberate joint gap. The first carries complete rooted pivot cheeks, a transverse retained-looking pin, one long raised lever with overgrip and an offset draw-loop pivot. One whole closed wire-like loop spans the gap and is captured under the open return of the complete keeper hook on the second plate. Small proud mount caps remain visual details only. Unlike a toggle hold-down clamp, no long pressure arm, vertical pressure spindle, pad or four-axis toggle linkage is present; unlike a fixed carabiner, there are two independent mounts and a draw loop. All new geometry, no old clamp or box parts imported. Three opaque constant PBR materials, metres, Z up and complete horizontal-bounds-centred ground datum; one connector prop, zero scenes, no host door or lid. Fixed illustrative overlaps only. No over-centre action, locking, operating motion, clamping force, fastening, load rating, manufacture, host compatibility or safety claim.",
+  "bounds": {
+    "x": 0.452,
+    "y": 0.13,
+    "z": 0.201,
+    "unit": "m"
+  },
+  "triangles": 528,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/technology/technology-fixed-raised-lever-and-loop-draw-latch-01/v1.0.0/model.glb",
+      "size": 35340,
+      "sha256": "c8166bad78e8f5409219fadf6da9dfe2c67c510ac7aaf0023029ffbb0830ebfb"
+    },
+    "blend": {
+      "path": "assets/technology/technology-fixed-raised-lever-and-loop-draw-latch-01/v1.0.0/source.blend",
+      "size": 610152,
+      "sha256": "313110b70ce04ad10fe22d4164399b8553bdc222508873d07619faa6a4613678"
+    },
+    "generator": {
+      "path": "assets/technology/technology-fixed-raised-lever-and-loop-draw-latch-01/v1.0.0/generate.py",
+      "size": 11602,
+      "sha256": "64ae71fe89922db6aaa3293d90a52fe44e5eede9df14a24da62f7d8e12f5457e"
+    },
+    "render": {
+      "path": "assets/technology/technology-fixed-raised-lever-and-loop-draw-latch-01/v1.0.0/thumbnail.png",
+      "size": 352902,
+      "sha256": "70721994008e0d4a9545d75887c6ced14eed76ba32844068ab948115918e7a19"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

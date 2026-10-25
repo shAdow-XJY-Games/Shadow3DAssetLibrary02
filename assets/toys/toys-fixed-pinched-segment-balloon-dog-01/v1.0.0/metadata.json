@@ -1,0 +1,42 @@
+{
+  "id": "toys-fixed-pinched-segment-balloon-dog-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "toys",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Pinched Segment Balloon Dog",
+  "description": "One newly authored whole static balloon-dog-style toy sculpture. Rounded elongated swollen segments narrow into short pinch necks to form a horizontal body, four upright resting legs, raised neck, long snout, paired small upright ears and a raised short tail; a small joining twist and tied nozzle belong to the same toy. Four lower leg ends have finite flat display soles. Every visible shape is new rather than recolouring a biological rabbit or replacing a wooden rocking-horse material: there is no carved animal torso, seated haunch, saddle, handle, runner, eye or fur. Separate closed solids with intentional concealed embeddings show one fixed knot arrangement; they are not an actual single continuous inflated tube. Two opaque untextured PBR roles, metres, Z up, horizontal-envelope-centred. One toy model, zero scenes. No internal air chamber, thin membrane, inflation, gas pressure, twist procedure, elasticity, balance, durability, child suitability or safety performance claimed. No rigging, animation, interaction or species anatomy.",
+  "bounds": {
+    "x": 0.16599999999999998,
+    "y": 0.79,
+    "z": 0.6359208458200665,
+    "unit": "m"
+  },
+  "triangles": 2868,
+  "materials": 2,
+  "files": {
+    "glb": {
+      "path": "assets/toys/toys-fixed-pinched-segment-balloon-dog-01/v1.0.0/model.glb",
+      "size": 155908,
+      "sha256": "8c6a0e015100310cad80fcf9e0ead91bf393506c45d33f8a6df171fc7773b7fb"
+    },
+    "blend": {
+      "path": "assets/toys/toys-fixed-pinched-segment-balloon-dog-01/v1.0.0/source.blend",
+      "size": 703940,
+      "sha256": "69b75937c06d9281950c7d042c2b647ef9735aa643240f6ffd45339c64a5b316"
+    },
+    "generator": {
+      "path": "assets/toys/toys-fixed-pinched-segment-balloon-dog-01/v1.0.0/generate.py",
+      "size": 10537,
+      "sha256": "fac7e2d065ef60c9f628d52a7c03bb2514cd61049e97551c8c4192fa9555b3cc"
+    },
+    "render": {
+      "path": "assets/toys/toys-fixed-pinched-segment-balloon-dog-01/v1.0.0/thumbnail.png",
+      "size": 433735,
+      "sha256": "f809e737dcf9d8fd07c0dec1597635c2e65575a671bd81611fd75fb7b758e57d"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

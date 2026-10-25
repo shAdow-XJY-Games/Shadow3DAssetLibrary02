@@ -1,0 +1,42 @@
+{
+  "id": "music-fixed-slotted-fader-and-raised-meter-mixing-console-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "music",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Slotted Fader and Raised Meter Mixing Console",
+  "description": "One newly authored complete static audio-mixing-console exterior. A continuous low inclined wedge case on four finite feet carries one complete thick faceplate with four genuine long through-slots backed by the real case surface. Four separate short stems rise through the slots into broad fixed fader caps at different positions. A rear rotary-control field and one full raised meter bridge with two genuinely recessed blank opaque meter panels complete the same desk unit; two whole shaped timber side cheeks bound its sides. New complete geometry, no old joystick controller, keyboard or tape-deck components imported. The slotted fader field and raised paired meter bridge are a different whole interface arrangement from the old flat ball-joystick/four-button deck and the twin-reel/continuous-tape recorder. Channel count is subordinate detail, not a series of counted variants. One prop, zero scenes; four opaque constant PBR roles, metres, Z up and horizontally bounds-centred ground origin. Empty blank display only: no printed scales, signal, audio mixing, electrical circuit, metering, fader or knob operation, calibration, compatibility, ergonomic or safety claim. No cables, instrument, rigging, animation or interaction.",
+  "bounds": {
+    "x": 0.77,
+    "y": 0.71,
+    "z": 0.397,
+    "unit": "m"
+  },
+  "triangles": 1332,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/music/music-fixed-slotted-fader-and-raised-meter-mixing-console-01/v1.0.0/model.glb",
+      "size": 75596,
+      "sha256": "057f000d5f605447e602e4f534b592c1775475857c2e6c2d6b0249ba953a577a"
+    },
+    "blend": {
+      "path": "assets/music/music-fixed-slotted-fader-and-raised-meter-mixing-console-01/v1.0.0/source.blend",
+      "size": 764912,
+      "sha256": "935d09b02f1e80c77e7dfbcccb8981625b9dc9c36d3656ed972c0dd20352bd3e"
+    },
+    "generator": {
+      "path": "assets/music/music-fixed-slotted-fader-and-raised-meter-mixing-console-01/v1.0.0/generate.py",
+      "size": 12297,
+      "sha256": "0c1c8703eddef92744416578c2eac036ad6266fe557229e0f60efaefee326d89"
+    },
+    "render": {
+      "path": "assets/music/music-fixed-slotted-fader-and-raised-meter-mixing-console-01/v1.0.0/thumbnail.png",
+      "size": 501403,
+      "sha256": "9c60563904e5e187597a6c864be07ae531ccc0f55e9c0fdca1681932fb7d6b8d"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

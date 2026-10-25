@@ -1,0 +1,42 @@
+{
+  "id": "public-fixed-wide-head-and-upright-body-vacuum-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "public",
+  "style": "source-preserved-low-poly",
+  "title": "Fixed Wide Head and Upright Body Vacuum",
+  "description": "One newly authored complete fixed upright-vacuum-style exterior. A broad rectangular floor head has a true finite underside cavity and is joined through a substantial rear neck to a whole leaning tapered dust-body exterior. One rear axle and two complete wheels meet the display ground; a genuine empty upper hand loop, one short attached rear return tube and blank upper control complete the whole single-station appliance. The body is one closed loft with plain material regions, not a separate canister on a long rod. All geometry new, not the old canister and wand set merged or a circular buffer with a replacement head. Three opaque untextured PBR roles, one model zero scenes. No internal suction path, air movement, power, brush rotation, cleaning performance, dust handling, animation, load, stability, manufacture or safety certification. Rigging and interaction not made.",
+  "bounds": {
+    "x": 0.44600000977516174,
+    "y": 0.5578121542930603,
+    "z": 1.1169999837875366,
+    "unit": "m"
+  },
+  "triangles": 1048,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/public/public-fixed-wide-head-and-upright-body-vacuum-01/v1.0.0/model.glb",
+      "size": 95780,
+      "sha256": "a2623c142272613069e7eb47164f003b191cf3feef31b32f40df5c345644bfda"
+    },
+    "blend": {
+      "path": "assets/public/public-fixed-wide-head-and-upright-body-vacuum-01/v1.0.0/source.blend",
+      "size": 692432,
+      "sha256": "6834004944161ed0a420460bb7c4f5e28896538db1200aac3f190ec87edf5e2d"
+    },
+    "generator": {
+      "path": "assets/public/public-fixed-wide-head-and-upright-body-vacuum-01/v1.0.0/generate.py",
+      "size": 15931,
+      "sha256": "76c65c866b76618dc0949b989ee7fb0d89b7a9c46e212362d7e428f90d37c172"
+    },
+    "render": {
+      "path": "assets/public/public-fixed-wide-head-and-upright-body-vacuum-01/v1.0.0/thumbnail.png",
+      "size": 454372,
+      "sha256": "5a75b6951c75f6895581cfc2d80ce56e35f6985430c8a26da872b334c8524d43"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

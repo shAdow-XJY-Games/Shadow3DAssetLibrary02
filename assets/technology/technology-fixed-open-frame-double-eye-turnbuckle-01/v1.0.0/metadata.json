@@ -1,0 +1,42 @@
+{
+  "id": "technology-fixed-open-frame-double-eye-turnbuckle-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "technology",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Open Frame Double Eye Turnbuckle",
+  "description": "One newly authored complete fixed open-frame double-eye turnbuckle appearance. One continuous central metal-looking body surrounds a long genuine through-window, with two actual occupied axial sleeve openings through its complete end blocks. Two opposed complete terminal assemblies extend from opposite ends; each full pierced eye has an integral short neck rooted into a separate complete round shank. Two entire short helical surface ridges on the exposed stems have opposite winding directions as static visual cues, not functional screw geometry. Unlike a planar fixed carabiner gate or a two-jaw hand clamp, this is one longitudinal windowed frame with two opposed axial terminal eyes. No old ring, clamp jaw or spindle mesh is imported. Three opaque constant PBR materials, metres, Z up and horizontal-bounds-centred ground datum. One connector prop, zero scenes, no rope or load. No tensioning, thread engagement, adjustment, fastening, thread standard, force transmission, manufacture, assembly compatibility, load rating or safety claim.",
+  "bounds": {
+    "x": 1.38,
+    "y": 0.09,
+    "z": 0.16,
+    "unit": "m"
+  },
+  "triangles": 2448,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/technology/technology-fixed-open-frame-double-eye-turnbuckle-01/v1.0.0/model.glb",
+      "size": 152408,
+      "sha256": "250e2dc4cfecf8a337b737d40b57e29834b403f7d9377562dd73776ac6c6596c"
+    },
+    "blend": {
+      "path": "assets/technology/technology-fixed-open-frame-double-eye-turnbuckle-01/v1.0.0/source.blend",
+      "size": 681384,
+      "sha256": "63a524e4f429b8d19a08d93aaa82e7a4429cd5b949051506458a00582e841c46"
+    },
+    "generator": {
+      "path": "assets/technology/technology-fixed-open-frame-double-eye-turnbuckle-01/v1.0.0/generate.py",
+      "size": 11623,
+      "sha256": "f2abe6909627020ca6b47fe2e6117765a159f95ea8d75a15cca827de09ad7d7a"
+    },
+    "render": {
+      "path": "assets/technology/technology-fixed-open-frame-double-eye-turnbuckle-01/v1.0.0/thumbnail.png",
+      "size": 286953,
+      "sha256": "527150b55d4b28c06c960ed4657327478b27a5f448a1be9311490b8db78194cf"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
