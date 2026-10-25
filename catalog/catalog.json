@@ -1224,6 +1224,11 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary02",
       "commit": "a8433f2760245e1d1b227c4f87c13007b67277c0"
+    },
+    "original-qualified-batch-964-volume02-20261025": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary02",
+      "commit": "3b47f9df90f7a2d1d2533e547cd30d4308783128"
     }
   },
   "assets": [
@@ -42377,6 +42382,307 @@
       "status": "verified",
       "license": "All rights reserved",
       "sourceId": "original-qualified-batch-957-volume02-20261025"
+    },
+    {
+      "id": "agriculture-fixed-long-lever-open-side-baling-press-01",
+      "version": "1.0.0",
+      "category": "modular",
+      "assetKind": "prop",
+      "theme": "agriculture",
+      "style": "warm-handcrafted-village",
+      "title": "Fixed Long Lever and Open Side Baling Press",
+      "description": "One complete newly authored static farm baling-press appearance. A deep rectangular empty chamber on one broad grounded base has full thick floor and three tall walls, with one whole front unloading gate fixed outward on a real full hinge. Two high rear timber posts and crossbeam carry a single long inclined hand lever with transverse grip. A full square ram and raised rectangular platen remain inside the chamber, guided between two separated cheeks with a visible fixed retaining pin. Unlike the round slatted fruit press, there is no screw, liquid tray or circular basket. Unlike the small C-throat rack press, there is a deep full rectangular loading chamber and large outward unloading gate, not a toothed ram or pinion. No parts reused from old machinery. One static model zero scenes; empty. No actual compression, bale production, hinge travel, mechanical advantage, pinch safety, manufacture, stability or load claim.",
+      "bounds": {
+        "x": 1.866000056,
+        "y": 2.309999943,
+        "z": 2.055000067,
+        "unit": "m"
+      },
+      "triangles": 368,
+      "materials": 4,
+      "files": {
+        "glb": {
+          "path": "assets/agriculture/agriculture-fixed-long-lever-open-side-baling-press-01/v1.0.0/model.glb",
+          "size": 31968,
+          "sha256": "4ccaa92934fd6d09d51b0c7edf82313a29a93e88ac260275fdc6cc779317f55e"
+        },
+        "blend": {
+          "path": "assets/agriculture/agriculture-fixed-long-lever-open-side-baling-press-01/v1.0.0/source.blend",
+          "size": 628544,
+          "sha256": "957033027a122bb027b0e89af7c9bada7616504d73d9d5b889405a85b8571358"
+        },
+        "generator": {
+          "path": "assets/agriculture/agriculture-fixed-long-lever-open-side-baling-press-01/v1.0.0/generate.py",
+          "size": 31201,
+          "sha256": "e3e08dd2914df1f3058f61319344ce1e13a4ee71b089015925dce62afa377d06"
+        },
+        "render": {
+          "path": "assets/agriculture/agriculture-fixed-long-lever-open-side-baling-press-01/v1.0.0/thumbnail.png",
+          "size": 537294,
+          "sha256": "aca1accb0260e9a133bf216958b85d107de860608759e5b6cf9b7106724c8bbb"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-964-volume02-20261025"
+    },
+    {
+      "id": "animal-static-broad-muzzle-dewlap-udder-cow-01",
+      "version": "1.0.0",
+      "category": "modular",
+      "assetKind": "prop",
+      "theme": "animal",
+      "style": "warm-handcrafted-village",
+      "title": "Whole Broad Muzzle Dewlap and Udder Cow",
+      "description": "One newly authored complete static bovine animal appearance. A long deep broad barrel and haunches stand on four whole finite-soled legs; a lower thick neck with integral hanging dewlap continues into a broad blunt descending muzzle. Two lateral ears, two short outward-upturned horns, two seated eyes, a small complete underside udder with four short blunt teats, and a thin hanging tail ending in a widened tuft form the full silhouette. No high horse mane or arched crest, no sheep fleece or spiral horns, no old animal meshes recolored or rescaled. Faceted stylized exterior only, not exact breed or veterinary anatomy. One model zero scenes. No rig, animation, behavior, milking, biological simulation, use or safety claim.",
+      "bounds": {
+        "x": 1.059999943,
+        "y": 3.0,
+        "z": 2.273008823,
+        "unit": "m"
+      },
+      "triangles": 1972,
+      "materials": 4,
+      "files": {
+        "glb": {
+          "path": "assets/animal/animal-static-broad-muzzle-dewlap-udder-cow-01/v1.0.0/model.glb",
+          "size": 115948,
+          "sha256": "c5babd8bcb3097cfb5a4190e6594670f67eab7fd22c962894b036932614d3c66"
+        },
+        "blend": {
+          "path": "assets/animal/animal-static-broad-muzzle-dewlap-udder-cow-01/v1.0.0/source.blend",
+          "size": 678504,
+          "sha256": "94a22224d80b94eef842d140df8bf1ba0f672c4f4600f212d01fb43e8669700d"
+        },
+        "generator": {
+          "path": "assets/animal/animal-static-broad-muzzle-dewlap-udder-cow-01/v1.0.0/generate.py",
+          "size": 31066,
+          "sha256": "6bea9a2bd6c0b6e0f9774909e88cda30ccb4b223bfdb0d551f22f083ab2e490a"
+        },
+        "render": {
+          "path": "assets/animal/animal-static-broad-muzzle-dewlap-udder-cow-01/v1.0.0/thumbnail.png",
+          "size": 492297,
+          "sha256": "cbb0c7b68e2dec8f882186b6432cf28d511482a016c5a6f7c092e1cdb88f3a5c"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-964-volume02-20261025"
+    },
+    {
+      "id": "carnival-fixed-pegged-prize-wheel-and-tripod-column-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "carnival",
+      "style": "S01-clean-geometric",
+      "title": "Fixed Pegged Prize Wheel and Tripod Column",
+      "description": "One newly authored complete static vertical prize-wheel stand exterior. Three full splayed arms end on broad grounded shoes and support a single tall rear column. A whole thick annular upright wheel sits on a transverse shaft between two full retaining caps; its radial colour sectors are assigned to original continuous wheel faces, not overlapping paper discs. Twenty-four short whole perimeter pegs project from the face, and a complete top cantilever carries a fixed tapered indicator above the rim. The through-axle column-and-flat-wheel arrangement is not the old horizontal deep race bowl with nested conical pocket rotor, nor the suspended bossed gong carried by two rope loops. Every profile and support is newly authored, no old wheel or frame mesh imported. One prop, zero scenes; four opaque constant PBR roles, metres, Z up and horizontally bounds-centred ground origin. Blank unnumbered illustrative display only: no spinning, flapper action, fair randomness, odds, prizes, gambling functionality, mechanical stability, load, installation, manufacture or safety claim. Rigging, animation and interaction are not made.",
+      "bounds": {
+        "x": 1.06,
+        "y": 0.858,
+        "z": 1.8399999999999999,
+        "unit": "m"
+      },
+      "triangles": 2336,
+      "materials": 4,
+      "files": {
+        "glb": {
+          "path": "assets/carnival/carnival-fixed-pegged-prize-wheel-and-tripod-column-01/v1.0.0/model.glb",
+          "size": 125848,
+          "sha256": "55a127fbdea56aafe66d82cbb262ea9e1c0d383d6d51e1c9559ded2c19e8a62f"
+        },
+        "blend": {
+          "path": "assets/carnival/carnival-fixed-pegged-prize-wheel-and-tripod-column-01/v1.0.0/source.blend",
+          "size": 842440,
+          "sha256": "452e9abfee09a7e068349ace984ead5f30479690307ad98cd1b4edda53e66b8a"
+        },
+        "generator": {
+          "path": "assets/carnival/carnival-fixed-pegged-prize-wheel-and-tripod-column-01/v1.0.0/generate.py",
+          "size": 10837,
+          "sha256": "56c41789ab2bfd79be48ce4514b9d2e5cdb303589d6c917b6998e374aa46736b"
+        },
+        "render": {
+          "path": "assets/carnival/carnival-fixed-pegged-prize-wheel-and-tripod-column-01/v1.0.0/thumbnail.png",
+          "size": 396993,
+          "sha256": "5a271d089d18758d1b25d6c243584c8a84ba3d9bfa5c52056757d741f8f774ea"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-964-volume02-20261025"
+    },
+    {
+      "id": "fantasy-static-raised-neck-four-foot-and-arched-membrane-dragon-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "magic",
+      "style": "S01-clean-geometric",
+      "title": "Static Raised Neck Four Foot and Arched Membrane Dragon",
+      "description": "One independently authored complete static fantasy dragon character. A single continuous volumetric mesh forms the long muzzle, raised broad head, high curved neck, deep torso and long laterally swept tapering tail, with integral belly and closed-mouth colour regions. Four whole stout bent limbs meet four complete thick three-claw flat feet with true intertoe clefts. Two backward-swept tapering horns and embedded lateral eyes distinguish the head. Two entire obliquely spread thick scalloped membranes and their complete leading arm/finger ridges root at the shoulders. All main sections, contours and numeric construction are newly drawn; no old bat wing, crocodilian body or ceremonial dragonboat head is imported, rescaled, extracted or reassembled. One stylized character prop, zero scenes; five opaque constant untextured PBR roles, metres, Z up, full horizontal bounds-centred four-foot ground origin. Fixed sculptural game-art pose only, not biological/species anatomy, flight, living-animal care, physical stability, fabrication or safety. Rigging, skeletal animation, motion, interactions and collision behaviour are not produced or verified; no such function is part of this static delivery.",
+      "bounds": {
+        "x": 3.3,
+        "y": 3.65,
+        "z": 2.3,
+        "unit": "m"
+      },
+      "triangles": 2168,
+      "materials": 5,
+      "files": {
+        "glb": {
+          "path": "assets/magic/fantasy-static-raised-neck-four-foot-and-arched-membrane-dragon-01/v1.0.0/model.glb",
+          "size": 159584,
+          "sha256": "f9eb6a629a1c52677da87c5c9b28b2bdafee37939716b87493fd47077a94faf2"
+        },
+        "blend": {
+          "path": "assets/magic/fantasy-static-raised-neck-four-foot-and-arched-membrane-dragon-01/v1.0.0/source.blend",
+          "size": 763508,
+          "sha256": "ee1f32f55c8e817b9073cfda138bbd46b0794d8deb064e85a1b4ee6c5fbd9f88"
+        },
+        "generator": {
+          "path": "assets/magic/fantasy-static-raised-neck-four-foot-and-arched-membrane-dragon-01/v1.0.0/generate.py",
+          "size": 27824,
+          "sha256": "ab4407a8170e321c2501465a68b34dc3bf208710b9bdb33d0f28de3e2489f14a"
+        },
+        "render": {
+          "path": "assets/magic/fantasy-static-raised-neck-four-foot-and-arched-membrane-dragon-01/v1.0.0/thumbnail.png",
+          "size": 512197,
+          "sha256": "4fe5bb213d9943852f0cb02e285555691a41e2e32dffa4febf6198273a40eb65"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-964-volume02-20261025"
+    },
+    {
+      "id": "industrial-fixed-longitudinal-hook-jaw-pipe-wrench-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "industrial",
+      "style": "source-preserved-low-poly",
+      "title": "Fixed Longitudinal Hook Jaw Pipe Wrench",
+      "description": "One newly authored complete fixed longitudinal-hook-jaw pipe-wrench appearance. A whole long cast handle joins a thick side spine and two separate-length bored guide regions as one continuous body. A complete long rectangular hook stem passes longitudinally through those real channels and ends in a broad upper hooked jaw with full blunt serrations. One opposed lower heel jaw is rooted on the cast head, leaving a visible open mouth. A whole annular ridged adjustment nut surrounds the stem in the interruption between the guide collars; a shallow complete grip inset finishes the handle. All geometry new, not the earlier transverse sliding flat-jaw adjustable wrench with added teeth or an open C roller cutter recoloured. Three opaque materials, one model zero scenes. Static empty visual tool only: no pipe, sharp tooth specification, helical thread engagement, moving adjustment, jaw travel or gripping action, torque, engineering, manufacture, use instructions or safety claim. Rigging animation and interaction not made.",
+      "bounds": {
+        "x": 0.09300000220537186,
+        "y": 0.4909999966621399,
+        "z": 0.04600000008940697,
+        "unit": "m"
+      },
+      "triangles": 2520,
+      "materials": 3,
+      "files": {
+        "glb": {
+          "path": "assets/industrial/industrial-fixed-longitudinal-hook-jaw-pipe-wrench-01/v1.0.0/model.glb",
+          "size": 215956,
+          "sha256": "3b2d007106948d8a778373d248aed28489570cb1a1d405524366d9c57f7fc897"
+        },
+        "blend": {
+          "path": "assets/industrial/industrial-fixed-longitudinal-hook-jaw-pipe-wrench-01/v1.0.0/source.blend",
+          "size": 838464,
+          "sha256": "a6b83cb00da6091294c0ce18b7c20d43ff14e9c473b43b8ad5fdb3945f231fd4"
+        },
+        "generator": {
+          "path": "assets/industrial/industrial-fixed-longitudinal-hook-jaw-pipe-wrench-01/v1.0.0/generate.py",
+          "size": 15535,
+          "sha256": "cc3aeffe13c9895c867405114ad2377589e63ee5687906a21f108f5cd1ed41ae"
+        },
+        "render": {
+          "path": "assets/industrial/industrial-fixed-longitudinal-hook-jaw-pipe-wrench-01/v1.0.0/thumbnail.png",
+          "size": 472778,
+          "sha256": "05c801fb5a4724231349adb1455745f767b0838e43fc1a679cdb0c4c39ab746f"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-964-volume02-20261025"
+    },
+    {
+      "id": "sports-fixed-four-eccentric-lobes-and-loop-stem-cam-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "sports",
+      "style": "source-preserved-low-poly",
+      "title": "Fixed Four Eccentric Lobes And Loop Stem Cam",
+      "description": "One newly authored complete fixed four-lobe climbing-cam exterior. Four separately editable short thick asymmetric eccentric plates lie in alternating directions along one common full axle. A complete central neck and continuous long twin-strand loop stem join that head to a true empty attachment loop. An independent wide trigger crossbar and four complete thin fixed links connect to the individual lobe plates. The whole object lies on the finite flat underside of its lowest full plate. Unlike the old two-solid D frame and gate, this whole has an articulated-looking stacked eccentric head and long loop stem, not a closing gate. Unlike the old three-hook puller, there is no radial yoke of long inward hook jaws, pressure spindle or hex screw. All numeric geometry newly authored; no old mesh imported or extracted. One prop zero scenes, four opaque constant PBR roles, metre units Z up. Fixed stylized overlaps only, no spring simulation, moving cam, mechanical linkage or real cam curve calculation. No expansion, grip, locking, crack fit, load, climbing, rescue, fall arrest, protective equipment, manufacture, real-world use or safety performance represented. Static decorative game art only; rigging animation and interaction not made.",
+      "bounds": {
+        "x": 0.12399999797344208,
+        "y": 0.296999990940094,
+        "z": 0.07400000095367432,
+        "unit": "m"
+      },
+      "triangles": 636,
+      "materials": 4,
+      "files": {
+        "glb": {
+          "path": "assets/sports/sports-fixed-four-eccentric-lobes-and-loop-stem-cam-01/v1.0.0/model.glb",
+          "size": 64384,
+          "sha256": "08b70cc9cb3377e948a9d604ea351be26270963972660126d2955aad170db2c2"
+        },
+        "blend": {
+          "path": "assets/sports/sports-fixed-four-eccentric-lobes-and-loop-stem-cam-01/v1.0.0/source.blend",
+          "size": 692960,
+          "sha256": "1d7c10a7011dfee8806b730f42e9a92eb667588c62bae64f3600129007d4b925"
+        },
+        "generator": {
+          "path": "assets/sports/sports-fixed-four-eccentric-lobes-and-loop-stem-cam-01/v1.0.0/generate.py",
+          "size": 18125,
+          "sha256": "24bdcebc4fbca8dbd13d7104ba170614c5bb7b946876d2b2a5e3feef84a860e7"
+        },
+        "render": {
+          "path": "assets/sports/sports-fixed-four-eccentric-lobes-and-loop-stem-cam-01/v1.0.0/thumbnail.png",
+          "size": 523585,
+          "sha256": "490462ed5c13f6332a0bf26c4083291f823b65df4690a319213d0ad373186d34"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-964-volume02-20261025"
+    },
+    {
+      "id": "winter-fixed-cowled-tandem-cockpit-and-four-runner-bobsled-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "winter",
+      "style": "source-preserved-low-poly",
+      "title": "Fixed Cowled Tandem Cockpit And Four Runner Bobsled",
+      "description": "One newly authored complete empty cowled tandem-seat bobsled exterior. A continuous thick closed-bottom shell joins a broad raised foredeck to a rearward oval cockpit with full inner walls and floor. Two complete low cushions with inclined back pads lie inside the cockpit. Two separate transverse underbody beams carry four independent short upturned blade runners through four complete pedestals; four body mounts join these beams into the shell underside. Unlike the complete wooden sled with five open planks and two continuous long runners, this entire vehicle has a deep integral cockpit and broad closed nose cowling on four short separated blades. Unlike the complete snowmobile, it has no track, straddle saddle, motor hood or ski steering arms. Every coordinate is newly authored with no old mesh extracted or imported. One prop zero scenes, metre units Z up, four opaque constant PBR roles. Empty static decorative game art, no people. Fixed overlaps are visual roots, not working bearings. No sliding, steering, braking, aerodynamics, speed, rider fit, load, ice or snow compatibility, manufacture, operation or safety capability. Rigging, animation and interaction not made.",
+      "bounds": {
+        "x": 1.100000023841858,
+        "y": 2.9600000381469727,
+        "z": 0.8500000238418579,
+        "unit": "m"
+      },
+      "triangles": 632,
+      "materials": 4,
+      "files": {
+        "glb": {
+          "path": "assets/winter/winter-fixed-cowled-tandem-cockpit-and-four-runner-bobsled-01/v1.0.0/model.glb",
+          "size": 66124,
+          "sha256": "3132dced2cf09cdc43e493d761c1b9802f3b6763d7b8de7ea41a2ce33137d49b"
+        },
+        "blend": {
+          "path": "assets/winter/winter-fixed-cowled-tandem-cockpit-and-four-runner-bobsled-01/v1.0.0/source.blend",
+          "size": 716032,
+          "sha256": "3045da3215dd5c7b5a929c705d2d413b1a22f1efa52deef6505509f050fb125b"
+        },
+        "generator": {
+          "path": "assets/winter/winter-fixed-cowled-tandem-cockpit-and-four-runner-bobsled-01/v1.0.0/generate.py",
+          "size": 18183,
+          "sha256": "77f679cce6d83da7247dbf487c0daa2cd624c22f35030e33d45d0a4a1abd11a9"
+        },
+        "render": {
+          "path": "assets/winter/winter-fixed-cowled-tandem-cockpit-and-four-runner-bobsled-01/v1.0.0/thumbnail.png",
+          "size": 521204,
+          "sha256": "27848ec6f830f117c2669476f6f758cb9fee286017569dd43b0d0ce2b9aadc76"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-964-volume02-20261025"
     }
   ]
 }
