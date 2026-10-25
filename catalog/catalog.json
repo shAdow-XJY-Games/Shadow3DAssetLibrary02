@@ -1404,6 +1404,11 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary02",
       "commit": "f836d5454cd8a8facd2dfc80d00671e936b4e875"
+    },
+    "original-qualified-batch-1105-volume02-20261025": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary02",
+      "commit": "0e807245a3ca1b9beafe6971d8928862243f5658"
     }
   },
   "assets": [
@@ -48749,6 +48754,178 @@
       "status": "verified",
       "license": "All rights reserved",
       "sourceId": "original-qualified-batch-1101-volume02-20261025"
+    },
+    {
+      "id": "carpentry-fixed-inline-grip-and-slotted-shoe-reciprocating-saw-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "carpentry",
+      "style": "source-preserved-low-poly",
+      "title": "Fixed Inline Grip and Slotted Shoe Reciprocating Saw",
+      "description": "One newly authored complete fixed handheld reciprocating-saw exterior. One long contoured in-line motor housing joins a thick forward grip boot and an entire rear through-opening D grip with a blank trigger cue. A single long finite blunt straight strip emerges through a genuine rectangular slot in a separate transverse front shoe; two whole short stays connect that shoe to the front boot. A blank side selector and short cable-entry cue complete the body. The whole long-axis grip/boot/strip/shoe relationship differs from the old upper-grip vertical jigsaw and the broad guide-and-chain saw, and no old geometry is imported. Three opaque materials, one prop zero scenes. All edges are finite and blunt, with no sharp cutting teeth. Empty fixed tool appearance only: no workpiece, motor internals, reciprocation, cutting, electrical function, stroke or adjustment, manufacture, handling suitability, guard adequacy or safety claim. Rigging animation interaction not made.",
+      "bounds": {
+        "x": 0.11800000071525574,
+        "y": 0.824999988079071,
+        "z": 0.20000000298023224,
+        "unit": "m"
+      },
+      "triangles": 548,
+      "materials": 3,
+      "files": {
+        "glb": {
+          "path": "assets/carpentry/carpentry-fixed-inline-grip-and-slotted-shoe-reciprocating-saw-01/v1.0.0/model.glb",
+          "size": 53864,
+          "sha256": "cd33a728fba87fdb770f9f395b6639e41cb857b1d617fb991154e604354b7139"
+        },
+        "blend": {
+          "path": "assets/carpentry/carpentry-fixed-inline-grip-and-slotted-shoe-reciprocating-saw-01/v1.0.0/source.blend",
+          "size": 641120,
+          "sha256": "02e469702eff5ea600cb8bdf70726cc362779ac8e4fde736ebdc159fef561e22"
+        },
+        "generator": {
+          "path": "assets/carpentry/carpentry-fixed-inline-grip-and-slotted-shoe-reciprocating-saw-01/v1.0.0/generate.py",
+          "size": 15939,
+          "sha256": "fe1a24d46a49c53061113064924cded929b11de29220c3485aee2be55b9fde98"
+        },
+        "render": {
+          "path": "assets/carpentry/carpentry-fixed-inline-grip-and-slotted-shoe-reciprocating-saw-01/v1.0.0/thumbnail.png",
+          "size": 449399,
+          "sha256": "6d73c888395cb770bbfe4d9b96a96128d0bc198cc65998f0da2a96472dce6e93"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1105-volume02-20261025"
+    },
+    {
+      "id": "carpentry-fixed-long-belt-and-side-disc-bench-sander-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "carpentry",
+      "style": "source-preserved-low-poly",
+      "title": "Fixed Long Belt and Side Disc Bench Sander",
+      "description": "One newly authored complete fixed belt-and-disc bench-sander exterior. A continuous grounded common base and integrated motor plinth carry a long raised closed capsule belt on two full finite drums, side cheeks and four rooted bed supports. A continuous end fence stands clear of the rear wrap. The same motor/base also carries one perpendicular blunt side disc with a separate back plate, genuinely spaced lower semicircular rim guard and its own complete small worktable supported on an inclined rooted bracket. A visible gap remains between disc face and table edge. All geometry original; not an imported handheld sander without its grip or a twin-wheel grinder with a renamed wheel. Three opaque materials, one prop zero scenes. Static workshop art only, no abrasive removal, belt tracking or tension, drive internals, rotation, adjustment, guarding adequacy, machining or electrical operation, manufacture, load or safety assurance. Rigging animation interaction not made.",
+      "bounds": {
+        "x": 0.7369999885559082,
+        "y": 0.6499999761581421,
+        "z": 0.4740000069141388,
+        "unit": "m"
+      },
+      "triangles": 2088,
+      "materials": 3,
+      "files": {
+        "glb": {
+          "path": "assets/carpentry/carpentry-fixed-long-belt-and-side-disc-bench-sander-01/v1.0.0/model.glb",
+          "size": 192496,
+          "sha256": "8eb485b6ac2cd906eaa377a604a2924308b664d217e5a336ee9ed4ee277646c6"
+        },
+        "blend": {
+          "path": "assets/carpentry/carpentry-fixed-long-belt-and-side-disc-bench-sander-01/v1.0.0/source.blend",
+          "size": 879456,
+          "sha256": "e60e9a1d3238ccda6c06d4a90d32b458131d859ff916747112d683ff704c2892"
+        },
+        "generator": {
+          "path": "assets/carpentry/carpentry-fixed-long-belt-and-side-disc-bench-sander-01/v1.0.0/generate.py",
+          "size": 16791,
+          "sha256": "5c940258b10593a4d24ca148638884b188899b9191d3470b8b4dcab0ab729f8e"
+        },
+        "render": {
+          "path": "assets/carpentry/carpentry-fixed-long-belt-and-side-disc-bench-sander-01/v1.0.0/thumbnail.png",
+          "size": 502920,
+          "sha256": "acb489f035793d987ba272c727580ec107067e5cd728f377a01fda7f0b885981"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1105-volume02-20261025"
+    },
+    {
+      "id": "sports-fixed-low-seat-and-front-handcrank-tricycle-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "music",
+      "style": "S01-clean-geometric",
+      "title": "Fixed Low Seat and Front Handcrank Tricycle",
+      "description": "One newly authored complete recumbent handcycle-style static exterior. Two separate rear spoked wheels on a full transverse axle support a long low frame and continuous reclined seat/back shell. A forward single wheel sits in a complete two-cheek fork; above it an independent elevated hand-crank axle carries two full arms and outward grips. A fixed complete loop links the upper crank-disc appearance to a separate lower front-wheel disc. Two forward foot-rest platforms lie beside the front assembly rather than forming pedals at the seat. The whole low-seat, long front reach and elevated hand-drive-to-front-wheel organization is new geometry, not the old four-wheel manual wheelchair with one caster removed or the old stationary exercise-cycle given road wheels. No old visible mesh imported. One model zero scenes; four opaque untextured PBR appearances, metres native Z up and whole horizontal-envelope-centred ground origin on three complete finite tire facets. All parts are one fixed display pose; no steering, rolling, hand propulsion, chain meshing or travel, braking, speed, seating or disability fit, rehabilitation, athletic efficacy, load, manufacture or safety is claimed. No rider, rig, animation or interaction.",
+      "bounds": {
+        "x": 0.95,
+        "y": 1.9100000000000001,
+        "z": 0.9448743716093785,
+        "unit": "m"
+      },
+      "triangles": 3296,
+      "materials": 4,
+      "files": {
+        "glb": {
+          "path": "assets/music/sports-fixed-low-seat-and-front-handcrank-tricycle-01/v1.0.0/model.glb",
+          "size": 179392,
+          "sha256": "7d14df18367d8877478d7d7a2913ba2a9b33a559711685c8068aa07debe8be23"
+        },
+        "blend": {
+          "path": "assets/music/sports-fixed-low-seat-and-front-handcrank-tricycle-01/v1.0.0/source.blend",
+          "size": 1010012,
+          "sha256": "43d75efe3d343166710ee3d02f00a1e378ee986f10dd96000b9c50806840f075"
+        },
+        "generator": {
+          "path": "assets/music/sports-fixed-low-seat-and-front-handcrank-tricycle-01/v1.0.0/generate.py",
+          "size": 12918,
+          "sha256": "271f8b71c4853b91eaad2aaed115ff5e51381e17e9ed68013dbf9075719569ee"
+        },
+        "render": {
+          "path": "assets/music/sports-fixed-low-seat-and-front-handcrank-tricycle-01/v1.0.0/thumbnail.png",
+          "size": 405773,
+          "sha256": "b2bc6079155ffda135774781838ad502f5e470b46016a7fb3158fe1d6e41b439"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1105-volume02-20261025"
+    },
+    {
+      "id": "technology-fixed-separated-conical-drum-and-shift-fork-clutch-display-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "technology",
+      "style": "source-preserved-low-poly",
+      "title": "Separated Conical Drum And Shift Fork Clutch Display",
+      "description": "One newly authored complete fixed separated-cone clutch-style exhibit. A whole low plinth supports two separate pedestal-and-bored-bearing groups and two coaxial complete short shafts. The left shaft enters the narrow back of a thick genuinely open conical drum. Across an explicit axial gap, a complete solid annular male cone narrows toward the drum and expands into its own rear hub. A separately complete bored sliding-sleeve appearance has two integral flanges surrounding a genuine outer annular groove. A whole open U fork engages that groove on both sides and continues to a grounded pivot block with a fixed side lever and grip. The conical mating silhouettes, real drum interior and visible separation are not interleaved sector jaws, an elastomer spider, rolling-ball races or an old shaft display with its colours changed. All numeric geometry newly authored, four opaque constant PBR appearances, metres native Z up, horizontal envelope centred, full finite plinth underside on the ground. One complete model zero scenes. Fixed artistic arrangement only: the shaft seats and fork contacts are illustrative mounts, not running fits or a motion solution. No torque transfer, friction coefficient, engagement, shift travel, spring force, rotation, lubrication, thermal behaviour, precision, manufacturing, installation, engineering or mechanical safety capability. No dimensions or operational instructions, animation, cutaway host machine, imported old meshes or separately counted components.",
+      "bounds": {
+        "x": 1.2200000286102295,
+        "y": 0.5885590314865112,
+        "z": 0.492000013589859,
+        "unit": "m"
+      },
+      "triangles": 2880,
+      "materials": 4,
+      "files": {
+        "glb": {
+          "path": "assets/technology/technology-fixed-separated-conical-drum-and-shift-fork-clutch-display-01/v1.0.0/model.glb",
+          "size": 254724,
+          "sha256": "eb48ddbc506f4a6425be2cdd4553d9ae80b31083156abd5802cda3c05f4586c3"
+        },
+        "blend": {
+          "path": "assets/technology/technology-fixed-separated-conical-drum-and-shift-fork-clutch-display-01/v1.0.0/source.blend",
+          "size": 958400,
+          "sha256": "99592f1f4788e23e612534cbf028c6e3ba9494e535e0f57cf74444a1410bd08d"
+        },
+        "generator": {
+          "path": "assets/technology/technology-fixed-separated-conical-drum-and-shift-fork-clutch-display-01/v1.0.0/generate.py",
+          "size": 16748,
+          "sha256": "310f0bc592895bf92611cc64231c038fa9686b988f328029db0672b25698de1e"
+        },
+        "render": {
+          "path": "assets/technology/technology-fixed-separated-conical-drum-and-shift-fork-clutch-display-01/v1.0.0/thumbnail.png",
+          "size": 476356,
+          "sha256": "a1477d8821128d0219515998eac576d3f9255f9f3e2ba46d831f6fcc4d08c5e1"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1105-volume02-20261025"
     }
   ]
 }
