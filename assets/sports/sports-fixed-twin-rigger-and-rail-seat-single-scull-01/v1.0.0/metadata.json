@@ -1,0 +1,42 @@
+{
+  "id": "sports-fixed-twin-rigger-and-rail-seat-single-scull-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "sports",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Twin Rigger and Rail Seat Single Scull",
+  "description": "One newly authored complete fixed single-scull rowing-shell exterior. A long longitudinally sampled thick hull has a genuine bounded central well, continuous fore and aft deck and a finite narrow dry-display sole. Two whole parallel seat rails carry a fixed low backless seat, with forward inclined foot supports. Two independent complete triangular outboard riggers root at four finite hull seats and carry genuinely open U-shaped oarlocks; each holds one entire long scull shaft with inner grip and broad finite outer blade. The complete hull-to-outrigger-to-oar station and internal rail-seat arrangement distinguishes this whole craft from the old open work skiff with loose paddle and transverse benches, and the closed-deck kayak with contained backrest and no outboard bearing system. All visible numeric geometry newly authored, not an old hull with accessories extracted or appended. One whole sports prop, zero scenes, four opaque constant PBR roles. Metres Z up, whole horizontal envelope centred, static dry display only; no water or occupant. No rowing, sliding, oarlock motion, fit, buoyancy, hydrostatics, hydrodynamics, racing compliance, speed, loading, operation, manufacture or water-safety claim. No rigging, animation or interaction.",
+  "bounds": {
+    "x": 5.8,
+    "y": 4.779390829767442,
+    "z": 0.40800000000000003,
+    "unit": "m"
+  },
+  "triangles": 868,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/sports/sports-fixed-twin-rigger-and-rail-seat-single-scull-01/v1.0.0/model.glb",
+      "size": 65528,
+      "sha256": "eaebf963ca06a6fa95915b9b6d91e3ed3dc8582205a524d43da1d8b9d60403a8"
+    },
+    "blend": {
+      "path": "assets/sports/sports-fixed-twin-rigger-and-rail-seat-single-scull-01/v1.0.0/source.blend",
+      "size": 716836,
+      "sha256": "cfef0418e4ae47bb542d966cb02f957c0eff350344cf9f5f7582b3f5be37c290"
+    },
+    "generator": {
+      "path": "assets/sports/sports-fixed-twin-rigger-and-rail-seat-single-scull-01/v1.0.0/generate.py",
+      "size": 13073,
+      "sha256": "779f070ea990e107a05cf6698540d8b9e54cd2e416fc9a85e3e4a4e9fba9b426"
+    },
+    "render": {
+      "path": "assets/sports/sports-fixed-twin-rigger-and-rail-seat-single-scull-01/v1.0.0/thumbnail.png",
+      "size": 315962,
+      "sha256": "bd86360697f69df5baaa2ca57f8176ee5cf6e22e84f80cbbfb68d7341f0835d3"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

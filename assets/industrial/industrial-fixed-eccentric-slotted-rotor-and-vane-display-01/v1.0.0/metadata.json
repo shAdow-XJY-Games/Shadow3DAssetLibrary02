@@ -1,0 +1,42 @@
+{
+  "id": "industrial-fixed-eccentric-slotted-rotor-and-vane-display-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "industrial",
+  "style": "source-preserved-low-poly",
+  "title": "Fixed Eccentric Slotted Rotor and Vane Display",
+  "description": "One newly authored complete static open-front eccentric-vane chamber display. A whole thick circular annular casing and rear plate with an actual offset shaft bore stand on two grounded roots and a common low bed. Inside is one offset circular rotor with four genuine deep open radial slots. Four independent blunt straight vane appearances occupy those slots and extend unequal distances into the circular chamber while stopping short of the wall. A full offset shaft, proud front boss, separate rear bored bearing and pedestal, rear retainer and four small rim caps belong to the same display. Not the old curved triangular rotor in a lobed cavity, nor the spiral volute with curved blades on a backing disk. All numeric geometry newly authored, three opaque PBR roles, metres Z up and ground-centred bounds. One model zero scenes. Front cover is intentionally absent for a static cutaway presentation; no fluid ports, sealed compartment, working pump, sliding/rotation motion, wall contact, pressure, flow, thermodynamics, manufacturing or machinery safety claim. Rigging animation interaction not made.",
+  "bounds": {
+    "x": 0.7300000190734863,
+    "y": 0.5600000023841858,
+    "z": 0.7200000286102295,
+    "unit": "m"
+  },
+  "triangles": 2304,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/industrial/industrial-fixed-eccentric-slotted-rotor-and-vane-display-01/v1.0.0/model.glb",
+      "size": 207412,
+      "sha256": "94ba5bdbeeac416903b52b5c2136855b290dda168f9b5b4ebb375a97c58109aa"
+    },
+    "blend": {
+      "path": "assets/industrial/industrial-fixed-eccentric-slotted-rotor-and-vane-display-01/v1.0.0/source.blend",
+      "size": 880128,
+      "sha256": "836550c50c7616cd5e71ad39158493bb260b81538fc25d84712b8798bb903338"
+    },
+    "generator": {
+      "path": "assets/industrial/industrial-fixed-eccentric-slotted-rotor-and-vane-display-01/v1.0.0/generate.py",
+      "size": 17588,
+      "sha256": "80d725d70ce7813cb2db7216991e39d43a315f88a2da6ddf7f3ea9339782ca83"
+    },
+    "render": {
+      "path": "assets/industrial/industrial-fixed-eccentric-slotted-rotor-and-vane-display-01/v1.0.0/thumbnail.png",
+      "size": 527264,
+      "sha256": "e16ff8221dad54951cdcca1bd838cb97d382ff4910d5c796dbd2b43501009af9"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
