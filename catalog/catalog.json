@@ -1379,6 +1379,11 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary02",
       "commit": "aa38c418246d009684e26eb2f7a1254fdf435b70"
+    },
+    "original-qualified-batch-1092-volume02-20261025": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary02",
+      "commit": "8885ac9cd085b179e124caad5145f5ec61cd3faf"
     }
   },
   "assets": [
@@ -48122,6 +48127,221 @@
       "status": "verified",
       "license": "All rights reserved",
       "sourceId": "original-qualified-batch-1087-volume02-20261025"
+    },
+    {
+      "id": "animal-static-stocky-four-pair-lobed-leg-water-bear-01",
+      "version": "1.0.0",
+      "category": "modular",
+      "assetKind": "prop",
+      "theme": "animal",
+      "style": "warm-handcrafted-village",
+      "title": "Static Stocky Four-Pair Lobed-Leg Water Bear",
+      "description": "One newly authored complete stylised enlarged water-bear-like micro-animal display. A short thick softly swollen barrel body has broad integral shallow transverse waists rather than separate intersecting beads or armor plates; its small rounded front carries one genuine thick circular short snout with a shallow blind opening. Four pairs of short broad fleshy legs splay from the low body into complete small thick lobed claw-like feet, with the rear pair turned backward. All body sections, full leg paths and joined foot outlines are new, not a caterpillar shortened or an isopod with armor recoloured. One model zero scenes, opaque low-poly static illustration at deliberately enlarged display scale, not life-size metres or a microscopic scan. No exact species, claw count, full anatomy, feeding, gait, survival, biology, rig, animation, transparency or care claim.",
+      "bounds": {
+        "x": 1.203185201,
+        "y": 1.924999952,
+        "z": 0.939999998,
+        "unit": "m"
+      },
+      "triangles": 2820,
+      "materials": 4,
+      "files": {
+        "glb": {
+          "path": "assets/animal/animal-static-stocky-four-pair-lobed-leg-water-bear-01/v1.0.0/model.glb",
+          "size": 154148,
+          "sha256": "f2beb294fd5931835a639d82dda18f615a16afa931fb2df0dceb81ae285e5e43"
+        },
+        "blend": {
+          "path": "assets/animal/animal-static-stocky-four-pair-lobed-leg-water-bear-01/v1.0.0/source.blend",
+          "size": 712920,
+          "sha256": "5105f05a1967652e085678e85ca37bc10dc5f4ad0cd2f44a02d50765ed217d13"
+        },
+        "generator": {
+          "path": "assets/animal/animal-static-stocky-four-pair-lobed-leg-water-bear-01/v1.0.0/generate.py",
+          "size": 30342,
+          "sha256": "c85d4f86fbd6fef0128b504c534d5ca018bd9daebc6e0384552bf429c2e6c24e"
+        },
+        "render": {
+          "path": "assets/animal/animal-static-stocky-four-pair-lobed-leg-water-bear-01/v1.0.0/thumbnail.png",
+          "size": 484709,
+          "sha256": "fabb3ba49e3cccd18f7cb8b045dd666c3856fe56940b5faca48b61eff684fa23"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1092-volume02-20261025"
+    },
+    {
+      "id": "carnival-fixed-lattice-mast-and-guided-seat-ring-drop-tower-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "carnival",
+      "style": "S01-clean-geometric",
+      "title": "Fixed Lattice Mast and Guided Seat Ring Drop Tower",
+      "description": "One newly authored complete stationary drop-tower-style amusement apparatus exterior. A shared broad grounded plinth carries a full four-chord open square lattice tower with alternating diagonal bracing and four continuous exterior guide rails. One real open-centred thick square carriage ring surrounds the tower in a fixed low pose. Four paired roller sets and complete bearing cheeks meet the corresponding rails; fixed low support shoulders under the ring make the displayed support explicit. Four whole outward-facing seat/back shells are rooted by full radial carriers to this one carriage, with complete fixed curved upper-body bars, and the tower ends in a stepped full cap with four rail stops. This is not a suspended-chair canopy with fewer seats, a grooved weight cassette on a two-rod pulldown portal renamed, or old props combined: all geometry newly authored, counted together as one apparatus and zero scenes. Four opaque PBR roles, metres Z up and whole horizontal-envelope-centred ground datum. Unoccupied static illustrative exterior only; the fixed seat ring is not a simulation of free fall. No passenger fit, operating lift, rope/drive system, travel range, brake, restraint performance, installation, structural load, ride operation, fabrication or safety capability. Rigging animation and interaction not made.",
+      "bounds": {
+        "x": 2.0999999046325684,
+        "y": 2.0999999046325684,
+        "z": 4.505000114440918,
+        "unit": "m"
+      },
+      "triangles": 3364,
+      "materials": 4,
+      "files": {
+        "glb": {
+          "path": "assets/carnival/carnival-fixed-lattice-mast-and-guided-seat-ring-drop-tower-01/v1.0.0/model.glb",
+          "size": 248204,
+          "sha256": "bfa20d64b7be3ea883c805970981153ab2865fc78ffe5fd91f68d2c795144d89"
+        },
+        "blend": {
+          "path": "assets/carnival/carnival-fixed-lattice-mast-and-guided-seat-ring-drop-tower-01/v1.0.0/source.blend",
+          "size": 1333736,
+          "sha256": "c8adaf168749a332a9d94657a18a2e9f66b8a28e6613452793d52b9055f2571d"
+        },
+        "generator": {
+          "path": "assets/carnival/carnival-fixed-lattice-mast-and-guided-seat-ring-drop-tower-01/v1.0.0/generate.py",
+          "size": 13503,
+          "sha256": "67180a57576fcf2589839cda6eab94d21146c29e158b1e506cc1defee92c898a"
+        },
+        "render": {
+          "path": "assets/carnival/carnival-fixed-lattice-mast-and-guided-seat-ring-drop-tower-01/v1.0.0/thumbnail.png",
+          "size": 447891,
+          "sha256": "97a3372644545b5cc0d8322fa363d68f69b4c3f02a284edb744d8b2316dae0f9"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1092-volume02-20261025"
+    },
+    {
+      "id": "carpentry-fixed-long-rail-bed-and-crosshead-band-sawmill-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "carpentry",
+      "style": "S01-clean-geometric",
+      "title": "Fixed Long Rail Bed and Crosshead Band Sawmill",
+      "description": "One newly authored complete empty rail-bed horizontal band-head sawmill static exterior. A connected long two-rail ground bed has four transverse full empty bunks and finite feet. Four whole bored rail wheels with independent axles carry one complete twin-column portal carriage at a fixed position over the bed. A separate rear cross-head with two end saddles spans the columns and supports two side-by-side whole six-window spoked wheels on complete transverse axles. One continuous finite-width blunt band wraps both wheels with full straight upper and lower runs and curved returns. The carriage has an open lower working throat, full top cross-beam, plain rear motor-shaped housing and a bent side handle. No log, timber, scene props or loose extracted subcomponents. Every full bed, frame, wheel window, band and assembly coordinate is newly authored; no old machine meshes imported or rescaled. Unlike the old compact vertical bench bandsaw, this has a long ground rail bed, four-wheel portal carriage, raised cross-bed horizontal band head and empty transverse bunks, not a short slotted worktable beneath stacked wheels. Unlike the old radial-arm saw, it has no single rear column with a hanging circular disc on a short overhead fore-aft arm. One prop zero scenes, four opaque constant PBR materials, metres, Z up, centred horizontal bounds. Static game-art appearance only: no cutting, sharpness, blade motion, drive, wheel tracking, travel, adjustment, workholding, load, tolerance, electrical performance, manufacture, operation or safety claim. Rigging, animation and interaction are not made or verified.",
+      "bounds": {
+        "x": 2.48,
+        "y": 4.3,
+        "z": 2.2,
+        "unit": "m"
+      },
+      "triangles": 6796,
+      "materials": 4,
+      "files": {
+        "glb": {
+          "path": "assets/carpentry/carpentry-fixed-long-rail-bed-and-crosshead-band-sawmill-01/v1.0.0/model.glb",
+          "size": 254032,
+          "sha256": "57f7f3e14e03c213652cf25886efdcb49daf50c92455cc043e71b4411e3c9651"
+        },
+        "blend": {
+          "path": "assets/carpentry/carpentry-fixed-long-rail-bed-and-crosshead-band-sawmill-01/v1.0.0/source.blend",
+          "size": 974660,
+          "sha256": "bd6ce5324edfc09cc1f6b9ea1d9133c3d71cbd8eacfb4a937c4a5df5e4c78f67"
+        },
+        "generator": {
+          "path": "assets/carpentry/carpentry-fixed-long-rail-bed-and-crosshead-band-sawmill-01/v1.0.0/generate.py",
+          "size": 28384,
+          "sha256": "dcd7c315352dc3315ce3cbf6f418843a3a65fc6da5b1696296f989495db6e4a7"
+        },
+        "render": {
+          "path": "assets/carpentry/carpentry-fixed-long-rail-bed-and-crosshead-band-sawmill-01/v1.0.0/thumbnail.png",
+          "size": 526808,
+          "sha256": "e5c6017904121453159dc4797c8d1df2e59de3fc33b0182f2984f25f18abb61e"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1092-volume02-20261025"
+    },
+    {
+      "id": "fantasy-fixed-raised-lattice-and-drum-portcullis-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "fantasy",
+      "style": "S01-clean-geometric",
+      "title": "Fixed Raised Lattice and Drum Portcullis",
+      "description": "One newly authored complete static portcullis gateway appearance in a fixed raised pose. Two deep grounded stone-look piers contain real inward-open guide channels. One continuous thick orthogonal timber lattice has genuine through cells and spans the guides above a clear lower opening. A full transverse upper axle and two flanged winding drums carry continuous gate-to-drum-to-rear-weight rope paths; broad separate hanging weights and an end crank complete the visible fixed assembly. The overhead rear crosshead leaves the upper winding assembly exposed. This is not an old solid sluice with holes painted on, a sideways scissor lattice gate, or a raised drawbridge deck resized. All whole geometry is newly authored; no old model imported. Three opaque PBR materials, metre Z-up, whole horizontal-bounds-centred ground origin, one isolated prop and zero scenes. Static fictional architecture only: no lifting, movement clearances, gearing, brakes, security, defense, egress, load balance, building suitability, construction or safety verification. No water, people, weapon, animation or interactive mechanism.",
+      "bounds": {
+        "x": 3.6,
+        "y": 0.98,
+        "z": 4.1049999999999995,
+        "unit": "m"
+      },
+      "triangles": 3008,
+      "materials": 3,
+      "files": {
+        "glb": {
+          "path": "assets/fantasy/fantasy-fixed-raised-lattice-and-drum-portcullis-01/v1.0.0/model.glb",
+          "size": 141764,
+          "sha256": "8b839d179bad4905617c8bb0bb250d018f2312447822da3b330f81219d1fd6f4"
+        },
+        "blend": {
+          "path": "assets/fantasy/fantasy-fixed-raised-lattice-and-drum-portcullis-01/v1.0.0/source.blend",
+          "size": 798824,
+          "sha256": "2a6c274ccd720886fe88b3b90aa23c1ea460dfa327e4ae8365a3e9e1a0496616"
+        },
+        "generator": {
+          "path": "assets/fantasy/fantasy-fixed-raised-lattice-and-drum-portcullis-01/v1.0.0/generate.py",
+          "size": 12236,
+          "sha256": "994ce7a67822a2001d68d670778e979c10e522d96e727295ea965b84f67bec2d"
+        },
+        "render": {
+          "path": "assets/fantasy/fantasy-fixed-raised-lattice-and-drum-portcullis-01/v1.0.0/thumbnail.png",
+          "size": 504409,
+          "sha256": "c9b8365604adb77a0f19028d1ab0e09a626a50f3879a442b689a0968b25d15ee"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1092-volume02-20261025"
+    },
+    {
+      "id": "music-fixed-cross-chord-bars-and-hollow-pin-string-zither-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "music",
+      "style": "S01-clean-geometric",
+      "title": "Fixed Cross Chord Bars and Hollow Pin String Zither",
+      "description": "One newly authored complete chord-bar zither-style static instrument exterior. One low clipped-shoulder hollow soundbox has a true round sound hole through the full upper skin and a finite closed bottom. Thirteen complete lengthwise strings run between two whole end banks and separately rooted anchor pins. A distinct transverse fixed chord-bar bank crosses over the strings: two complete side bearing rails support five whole crossbars with separated lower pad appearances and raised staggered buttons. This is not the old paired transverse courses crossing two central dulcimer bridges, nor a wheel-bowed pear instrument with a longitudinal keybox and side crank. The complete hollow-body, longitudinal string field and cross-string bar/control organization is new geometry, with no old visible meshes imported and no string-count variant claim. One whole model zero scenes, four opaque constant PBR roles, metres Z up and whole horizontal-envelope-centred ground datum. Fixed simplified instrument appearance only: no calibrated chord mapping, working dampers or key travel, string tension, pitch, resonance, acoustic response, playability, cultural authenticity, manufacture or safety capability. No performer, pick, case, rigging, animation or interaction.",
+      "bounds": {
+        "x": 0.4,
+        "y": 0.5800000000000001,
+        "z": 0.1605,
+        "unit": "m"
+      },
+      "triangles": 2104,
+      "materials": 4,
+      "files": {
+        "glb": {
+          "path": "assets/music/music-fixed-cross-chord-bars-and-hollow-pin-string-zither-01/v1.0.0/model.glb",
+          "size": 125900,
+          "sha256": "976f63e3c947064b232d90049f3c08f14bd5fcb46b479a7463db902fa80e576e"
+        },
+        "blend": {
+          "path": "assets/music/music-fixed-cross-chord-bars-and-hollow-pin-string-zither-01/v1.0.0/source.blend",
+          "size": 982928,
+          "sha256": "6afe1b444ee473a2377a94400c511f7f0f1b2c051b5155567bc6aba0ba52422d"
+        },
+        "generator": {
+          "path": "assets/music/music-fixed-cross-chord-bars-and-hollow-pin-string-zither-01/v1.0.0/generate.py",
+          "size": 11708,
+          "sha256": "ef75544ce3d7748e3eb72552a666911c58dd69d47a5dd0e917986d3b90d35589"
+        },
+        "render": {
+          "path": "assets/music/music-fixed-cross-chord-bars-and-hollow-pin-string-zither-01/v1.0.0/thumbnail.png",
+          "size": 522534,
+          "sha256": "dab8e5d6f3b88a20075be0605231ddf9e0db929fb17caa02b79498aa8e6163ad"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1092-volume02-20261025"
     }
   ]
 }
