@@ -1,0 +1,42 @@
+{
+  "id": "professional-fixed-dual-sight-housing-and-cantilever-stand-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "professional",
+  "style": "source-preserved-low-poly",
+  "title": "Fixed Dual Sight Housing and Cantilever Stand",
+  "description": "One newly authored complete fixed dual-sight instrument-head and cantilever-stand exterior. A broad grounded plinth, thick lower sleeve and narrower tall post carry a full upper cantilever and short descending head support. Two thick flattened rounded housings join under a complete upper bridge; each has one genuine short open circular sight passage, an annular rim, blank lower and upper front dials and a side dial. Two rear roots attach one whole small forehead-pad appearance behind the bridge. This is a phoropter-style static art prop, not handheld binoculars mounted on a pole or the old separate-column slit lamp renamed. All geometry new, three opaque constant materials, one prop zero scenes. No patient, transparent lens, optical train, calibration, scale, prescription, diagnostic or examination ability, human fit, motion, balance or load verification, installation, medical operation or safety claim. Rigging animation interaction not made.",
+  "bounds": {
+    "x": 0.7689999938011169,
+    "y": 0.47999998927116394,
+    "z": 1.590000033378601,
+    "unit": "m"
+  },
+  "triangles": 2396,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/professional/professional-fixed-dual-sight-housing-and-cantilever-stand-01/v1.0.0/model.glb",
+      "size": 217036,
+      "sha256": "f0523b67931a602ab4abc68660d183d4cae8114816c107f6cb86944eab9eb93b"
+    },
+    "blend": {
+      "path": "assets/professional/professional-fixed-dual-sight-housing-and-cantilever-stand-01/v1.0.0/source.blend",
+      "size": 899840,
+      "sha256": "787b31e1f852d0986aa4dafe9ce9035948184bdbd374b39aac06a6298793580d"
+    },
+    "generator": {
+      "path": "assets/professional/professional-fixed-dual-sight-housing-and-cantilever-stand-01/v1.0.0/generate.py",
+      "size": 15983,
+      "sha256": "91fd25e1bf9fde4d0b383656d943eba1dd2acce3af03c17a7f5aefffc26f2269"
+    },
+    "render": {
+      "path": "assets/professional/professional-fixed-dual-sight-housing-and-cantilever-stand-01/v1.0.0/thumbnail.png",
+      "size": 442485,
+      "sha256": "85c5737daaaaf6ca2c35f09c264bb0cd94f1e5eb7d111ba5e9063e7d7cc83387"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
