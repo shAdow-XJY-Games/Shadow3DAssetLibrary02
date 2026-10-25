@@ -1504,6 +1504,11 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary02",
       "commit": "a01c5b6080bb0ad79738558c1eff06ce48434b60"
+    },
+    "original-qualified-batch-1155-volume02-20261025": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary02",
+      "commit": "a38a6981765796d59a0376dbc2ec987a49c51817"
     }
   },
   "assets": [
@@ -51085,6 +51090,92 @@
       "status": "verified",
       "license": "All rights reserved",
       "sourceId": "original-qualified-batch-1153-volume02-20261025"
+    },
+    {
+      "id": "industrial-fixed-eccentric-slotted-rotor-and-vane-display-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "industrial",
+      "style": "source-preserved-low-poly",
+      "title": "Fixed Eccentric Slotted Rotor and Vane Display",
+      "description": "One newly authored complete static open-front eccentric-vane chamber display. A whole thick circular annular casing and rear plate with an actual offset shaft bore stand on two grounded roots and a common low bed. Inside is one offset circular rotor with four genuine deep open radial slots. Four independent blunt straight vane appearances occupy those slots and extend unequal distances into the circular chamber while stopping short of the wall. A full offset shaft, proud front boss, separate rear bored bearing and pedestal, rear retainer and four small rim caps belong to the same display. Not the old curved triangular rotor in a lobed cavity, nor the spiral volute with curved blades on a backing disk. All numeric geometry newly authored, three opaque PBR roles, metres Z up and ground-centred bounds. One model zero scenes. Front cover is intentionally absent for a static cutaway presentation; no fluid ports, sealed compartment, working pump, sliding/rotation motion, wall contact, pressure, flow, thermodynamics, manufacturing or machinery safety claim. Rigging animation interaction not made.",
+      "bounds": {
+        "x": 0.7300000190734863,
+        "y": 0.5600000023841858,
+        "z": 0.7200000286102295,
+        "unit": "m"
+      },
+      "triangles": 2304,
+      "materials": 3,
+      "files": {
+        "glb": {
+          "path": "assets/industrial/industrial-fixed-eccentric-slotted-rotor-and-vane-display-01/v1.0.0/model.glb",
+          "size": 207412,
+          "sha256": "94ba5bdbeeac416903b52b5c2136855b290dda168f9b5b4ebb375a97c58109aa"
+        },
+        "blend": {
+          "path": "assets/industrial/industrial-fixed-eccentric-slotted-rotor-and-vane-display-01/v1.0.0/source.blend",
+          "size": 880128,
+          "sha256": "836550c50c7616cd5e71ad39158493bb260b81538fc25d84712b8798bb903338"
+        },
+        "generator": {
+          "path": "assets/industrial/industrial-fixed-eccentric-slotted-rotor-and-vane-display-01/v1.0.0/generate.py",
+          "size": 17588,
+          "sha256": "80d725d70ce7813cb2db7216991e39d43a315f88a2da6ddf7f3ea9339782ca83"
+        },
+        "render": {
+          "path": "assets/industrial/industrial-fixed-eccentric-slotted-rotor-and-vane-display-01/v1.0.0/thumbnail.png",
+          "size": 527264,
+          "sha256": "e16ff8221dad54951cdcca1bd838cb97d382ff4910d5c796dbd2b43501009af9"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1155-volume02-20261025"
+    },
+    {
+      "id": "sports-fixed-twin-rigger-and-rail-seat-single-scull-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "sports",
+      "style": "S01-clean-geometric",
+      "title": "Fixed Twin Rigger and Rail Seat Single Scull",
+      "description": "One newly authored complete fixed single-scull rowing-shell exterior. A long longitudinally sampled thick hull has a genuine bounded central well, continuous fore and aft deck and a finite narrow dry-display sole. Two whole parallel seat rails carry a fixed low backless seat, with forward inclined foot supports. Two independent complete triangular outboard riggers root at four finite hull seats and carry genuinely open U-shaped oarlocks; each holds one entire long scull shaft with inner grip and broad finite outer blade. The complete hull-to-outrigger-to-oar station and internal rail-seat arrangement distinguishes this whole craft from the old open work skiff with loose paddle and transverse benches, and the closed-deck kayak with contained backrest and no outboard bearing system. All visible numeric geometry newly authored, not an old hull with accessories extracted or appended. One whole sports prop, zero scenes, four opaque constant PBR roles. Metres Z up, whole horizontal envelope centred, static dry display only; no water or occupant. No rowing, sliding, oarlock motion, fit, buoyancy, hydrostatics, hydrodynamics, racing compliance, speed, loading, operation, manufacture or water-safety claim. No rigging, animation or interaction.",
+      "bounds": {
+        "x": 5.8,
+        "y": 4.779390829767442,
+        "z": 0.40800000000000003,
+        "unit": "m"
+      },
+      "triangles": 868,
+      "materials": 4,
+      "files": {
+        "glb": {
+          "path": "assets/sports/sports-fixed-twin-rigger-and-rail-seat-single-scull-01/v1.0.0/model.glb",
+          "size": 65528,
+          "sha256": "eaebf963ca06a6fa95915b9b6d91e3ed3dc8582205a524d43da1d8b9d60403a8"
+        },
+        "blend": {
+          "path": "assets/sports/sports-fixed-twin-rigger-and-rail-seat-single-scull-01/v1.0.0/source.blend",
+          "size": 716836,
+          "sha256": "cfef0418e4ae47bb542d966cb02f957c0eff350344cf9f5f7582b3f5be37c290"
+        },
+        "generator": {
+          "path": "assets/sports/sports-fixed-twin-rigger-and-rail-seat-single-scull-01/v1.0.0/generate.py",
+          "size": 13073,
+          "sha256": "779f070ea990e107a05cf6698540d8b9e54cd2e416fc9a85e3e4a4e9fba9b426"
+        },
+        "render": {
+          "path": "assets/sports/sports-fixed-twin-rigger-and-rail-seat-single-scull-01/v1.0.0/thumbnail.png",
+          "size": 315962,
+          "sha256": "bd86360697f69df5baaa2ca57f8176ee5cf6e22e84f80cbbfb68d7341f0835d3"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1155-volume02-20261025"
     }
   ]
 }
