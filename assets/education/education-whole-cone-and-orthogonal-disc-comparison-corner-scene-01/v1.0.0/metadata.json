@@ -1,0 +1,42 @@
+{
+  "id": "education-whole-cone-and-orthogonal-disc-comparison-corner-scene-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "education",
+  "style": "source-preserved-low-poly",
+  "title": "Whole Cone And Orthogonal Disc Comparison Corner",
+  "description": "One static mechanical teaching comparison workcorner, one scene and zero new independent models. Three complete qualified originals remain at unit scale: a whole raised crank desk at the rear left supports the complete separated coaxial cone-clutch exhibit on its entire real flat plinth, while the complete orthogonal horizontal-disc and cross-slide roller exhibit occupies a lower forward-right floor station. The whole desk and cone exhibit rotate ninety degrees together so the cone axis runs along the desk length, facing across the open central viewing strip toward the lower perpendicular-axis example. The integral shafts are not connected across the two exhibits. A single finite scene-only floor leaves the front and central side approach visibly open. This is a different complete subject combination and actual high/low support arrangement from the incline/U-tube/pan teaching corner or two-table forming machines and front brake; the generic use of tables and a floor is not presented as a novel invention. All three original GLB buffers, complete material dictionaries, normals, internal node hierarchy and every component remain unchanged under whole-instance rigid transforms; no parts are removed, rescaled, recoloured or counted anew. Static unoccupied illustrative display only: no rotation, friction contact, torque transfer, working gearing or clutch, lesson performance, experiment, physical stability, ergonomics, accessibility, navigation, installation, load or safety certification. Rigging animation and interaction are not made.",
+  "bounds": {
+    "x": 2.9499999284744263,
+    "y": 2.5,
+    "z": 1.7620000839233398,
+    "unit": "m"
+  },
+  "triangles": 5968,
+  "materials": 12,
+  "files": {
+    "glb": {
+      "path": "assets/education/education-whole-cone-and-orthogonal-disc-comparison-corner-scene-01/v1.0.0/model.glb",
+      "size": 521812,
+      "sha256": "01b6693f3d76e1ead23dfaf5d96414fc4057a3b8f50d4d243c3c1fe0197b79fa"
+    },
+    "blend": {
+      "path": "assets/education/education-whole-cone-and-orthogonal-disc-comparison-corner-scene-01/v1.0.0/source.blend",
+      "size": 1729756,
+      "sha256": "f92154f71bbffcaa9eb3b1bc2d5142cf5f22a1d85009859391a10029da9dc081"
+    },
+    "generator": {
+      "path": "assets/education/education-whole-cone-and-orthogonal-disc-comparison-corner-scene-01/v1.0.0/generate.py",
+      "size": 113020,
+      "sha256": "1cbde0ed802ec3d662d0f62d92340ac5667843e892fad3d31d11b67b25fab1b8"
+    },
+    "render": {
+      "path": "assets/education/education-whole-cone-and-orthogonal-disc-comparison-corner-scene-01/v1.0.0/thumbnail.png",
+      "size": 485778,
+      "sha256": "c1afeef83574752268cf6249c25e300254be54d03f0c4e64252dc1dea059b63f"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
