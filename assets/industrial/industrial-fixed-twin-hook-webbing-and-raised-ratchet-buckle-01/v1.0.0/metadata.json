@@ -1,0 +1,42 @@
+{
+  "id": "industrial-fixed-twin-hook-webbing-and-raised-ratchet-buckle-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "industrial",
+  "style": "source-preserved-low-poly",
+  "title": "Twin Hook Webbing And Raised Ratchet Buckle",
+  "description": "One newly authored complete fixed ratchet-strap-style decorative assembly, laid out empty on the ground. A compact one-piece low open buckle chassis carries a transverse core and two entire toothed side disks. Two whole raised lever cheeks join a full transverse top grip, with one distinct fixed release bar between them. A single continuous finite-thickness broad strap runs from one end hook along the ground and curves into one shallow spiral around the core. The opposing short complete strap roots into the chassis rear crossbar and extends to the second whole blunt open hook. Each hook has a real open throat; both webbing bodies are complete connected solids rather than painted lines or loose disconnected patches. This low lever-buckle and opposing broad-webbing/end-hook relation is distinct from the freestanding four-foot bare drum winch with its separate offset crank and from the two-mounted draw-loop latch with a keeper hook. No old numeric geometry or meshes imported. Four opaque constant PBR roles, metres native Z up, full horizontally centred envelope and finite flat undersides, one complete prop zero scenes. Simplified fixed artistic joins and shallow spiral only: no threading diagram, complete working pawl system, ratchet engagement, tightening, reverse lock, travel, flexing, load restraint, tie-down capacity, certification, rigging or transport safety represented. No cargo, vehicle, user, installation, tension simulation, manufacture, instruction or actual equipment suitability. No animation.",
+  "bounds": {
+    "x": 0.8759999871253967,
+    "y": 0.09399999678134918,
+    "z": 0.15800000727176666,
+    "unit": "m"
+  },
+  "triangles": 1168,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/industrial/industrial-fixed-twin-hook-webbing-and-raised-ratchet-buckle-01/v1.0.0/model.glb",
+      "size": 107316,
+      "sha256": "106a6c04238961e82b3bdb7c7e568b58a783d9606b37d8a0af35dfdfb0712798"
+    },
+    "blend": {
+      "path": "assets/industrial/industrial-fixed-twin-hook-webbing-and-raised-ratchet-buckle-01/v1.0.0/source.blend",
+      "size": 743136,
+      "sha256": "318416ee074c6f8d65f2338b051da0779912d7e86b5e0f0bc4fd7133ad555146"
+    },
+    "generator": {
+      "path": "assets/industrial/industrial-fixed-twin-hook-webbing-and-raised-ratchet-buckle-01/v1.0.0/generate.py",
+      "size": 17908,
+      "sha256": "9be38bcebeecc7f1312dfff373143a0cbeb0924aeeeff1627d8eca01ba7e4502"
+    },
+    "render": {
+      "path": "assets/industrial/industrial-fixed-twin-hook-webbing-and-raised-ratchet-buckle-01/v1.0.0/thumbnail.png",
+      "size": 393391,
+      "sha256": "0c0ac455817af3ad9100ab75a6a952c3685476fcb3a5afe38537385544df4061"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

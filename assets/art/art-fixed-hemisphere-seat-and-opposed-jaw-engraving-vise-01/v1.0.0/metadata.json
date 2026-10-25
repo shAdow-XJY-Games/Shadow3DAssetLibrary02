@@ -1,0 +1,42 @@
+{
+  "id": "art-fixed-hemisphere-seat-and-opposed-jaw-engraving-vise-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "art",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Hemisphere Seat and Opposed Jaw Engraving Vise",
+  "description": "One newly authored complete engraving-ball-vise-style static exterior. A broad low concave support ring cradles one whole rounded hemispherical body. Its flat upper carrier holds two separated longitudinal guides and two opposite stepped jaw bodies with a genuine empty space above their fixed cross-axis shaft. Two distinct inner jaw-face plates and a short side adjustment knob complete the empty tool. The lower sphere-in-seat relationship and symmetric opposing top jaws are authored as one whole tool, not the old C-frame bench vise placed on a ball or a lathe chuck extracted from its headstock. There is no table-edge clamp, long bed, spindle headstock, workpiece or imported visible mesh. One model zero scenes, four opaque constant PBR appearances, metres native Z up and whole horizontal-envelope-centred ground origin on the full base sole. Fixed illustrative craft-workshop appearance only; no tilt or rotation, jaw travel, screw thread engagement, clamping force, jewelry fit, engraving process, manufacturing, installation, stability or tool-safety capability. No rig, animation or interaction.",
+  "bounds": {
+    "x": 0.29900000000000004,
+    "y": 0.26,
+    "z": 0.253,
+    "unit": "m"
+  },
+  "triangles": 1724,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/art/art-fixed-hemisphere-seat-and-opposed-jaw-engraving-vise-01/v1.0.0/model.glb",
+      "size": 97520,
+      "sha256": "91f66bde56d8648b032b4c6b03d3ab7cb4706c119fea42a152ead0e9d473af98"
+    },
+    "blend": {
+      "path": "assets/art/art-fixed-hemisphere-seat-and-opposed-jaw-engraving-vise-01/v1.0.0/source.blend",
+      "size": 688884,
+      "sha256": "a7d608bcbe116457d176bd63ba0b1fc73d508ab743f00d6f25978c117bfe2196"
+    },
+    "generator": {
+      "path": "assets/art/art-fixed-hemisphere-seat-and-opposed-jaw-engraving-vise-01/v1.0.0/generate.py",
+      "size": 10747,
+      "sha256": "5430cf6e671654ccbf27ebd114f0f3010efe04fe9fc2aa3f4ab1a855003af846"
+    },
+    "render": {
+      "path": "assets/art/art-fixed-hemisphere-seat-and-opposed-jaw-engraving-vise-01/v1.0.0/thumbnail.png",
+      "size": 436385,
+      "sha256": "e8101d9d5fb07f43e40e450ea434ab22b33de52ea488784b4369bfb547902822"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

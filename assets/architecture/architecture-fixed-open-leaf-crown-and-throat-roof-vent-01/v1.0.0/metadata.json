@@ -1,0 +1,42 @@
+{
+  "id": "architecture-fixed-open-leaf-crown-and-throat-roof-vent-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "architecture",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Open Leaf Crown and Throat Roof Vent",
+  "description": "One complete newly authored static rooftop vent appearance: a whole square flashing slab with a genuine circular opening joins a short thick hollow neck. A lower annular rim and upper domed cap retain sixteen continuously curved thick leaves around a wide bulbous crown; distinct open slots remain between the leaves. A central shaft and three radial supports occupy portions of the neck, so it is not declared unobstructed. Unlike the old horizontal mine fan or long three-bow turbine, this whole assembly combines a low broad open-slot crown over an open architectural throat and square flashing. No old mesh imported. Three opaque PBR materials, metre Z-up, ground-centred envelope. No actual ventilation, rotation, airflow, pressure, weatherproofing, roof fit, installation, load, engineering or safety claim; fixed artistic exterior only. No animation or interaction.",
+  "bounds": {
+    "x": 0.7828971676138866,
+    "y": 0.7828971676138866,
+    "z": 0.748,
+    "unit": "m"
+  },
+  "triangles": 2696,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/architecture/architecture-fixed-open-leaf-crown-and-throat-roof-vent-01/v1.0.0/model.glb",
+      "size": 186148,
+      "sha256": "765ddc1a9cc3eb902dcd5dc55a85455d71ac44aaa4496d517753116b1ea46b77"
+    },
+    "blend": {
+      "path": "assets/architecture/architecture-fixed-open-leaf-crown-and-throat-roof-vent-01/v1.0.0/source.blend",
+      "size": 773368,
+      "sha256": "8c4e55db7108625993b8cfaeab5c79562cb9c43e53063ebeaeb5c3dc57fd7768"
+    },
+    "generator": {
+      "path": "assets/architecture/architecture-fixed-open-leaf-crown-and-throat-roof-vent-01/v1.0.0/generate.py",
+      "size": 11167,
+      "sha256": "714340d7163802b6e9abe4646199ffa82e89563869f8473ffc261169fc2c0b83"
+    },
+    "render": {
+      "path": "assets/architecture/architecture-fixed-open-leaf-crown-and-throat-roof-vent-01/v1.0.0/thumbnail.png",
+      "size": 466036,
+      "sha256": "2be3551b8ed863c3211e29774bd7c6e89dc0c8dfb3455770408400167937dcfb"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
