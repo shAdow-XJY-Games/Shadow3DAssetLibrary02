@@ -1389,6 +1389,11 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary02",
       "commit": "2f349c0ad81344f0eaa6249ae583cfdc6e19657b"
+    },
+    "original-qualified-batch-1097-volume02-20261025": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary02",
+      "commit": "b2f2d739bf391e1dc15c2ab443ad3f2c1a7b422e"
     }
   },
   "assets": [
@@ -48433,6 +48438,135 @@
       "status": "verified",
       "license": "All rights reserved",
       "sourceId": "original-qualified-batch-1094-volume02-20261025"
+    },
+    {
+      "id": "interior-fixed-open-blind-cup-and-bridge-hinge-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "interior",
+      "style": "S01-clean-geometric",
+      "title": "Fixed Open Blind Cup and Bridge Hinge",
+      "description": "One newly authored complete static concealed-cup hinge appearance displayed in one fixed open pose. A whole deep blind mounting cup has a real bottom, thick rim and two complete slotted mounting ears. Four full short links on two separated transverse layers connect retained cup pins to one continuous U-section bridge arm. A distinct whole two-slot base plate and raised central mount sit under that bridge, with a proud blank top retainer. The cup opening, link gaps, bridge underside and mounting slots are actual geometric spaces, not painted holes. No old cabinet is cut apart or imported, no draw loop/keeper or pressure spindle relabelled. All whole geometry newly authored, three opaque PBR materials, metre Z-up and complete horizontal-envelope-centred ground display origin. One independent static connector prop, zero host doors or scenes. Fixed visual approximation only, not a measured hinge product or fabrication design; no motion range, four-bar kinematics, fit, installation, load, holding force, cabinetry compatibility or safety. No rig, animation or interaction.",
+      "bounds": {
+        "x": 0.461,
+        "y": 0.204,
+        "z": 0.129,
+        "unit": "m"
+      },
+      "triangles": 1612,
+      "materials": 3,
+      "files": {
+        "glb": {
+          "path": "assets/interior/interior-fixed-open-blind-cup-and-bridge-hinge-01/v1.0.0/model.glb",
+          "size": 76880,
+          "sha256": "0a2f3d0ca8cb85dad109d7c37d8a5fbcdd6ac02f5ae1a0df66a92ee7eae9840a"
+        },
+        "blend": {
+          "path": "assets/interior/interior-fixed-open-blind-cup-and-bridge-hinge-01/v1.0.0/source.blend",
+          "size": 710188,
+          "sha256": "b437db6502b74e5c52f02a6d88c4f3862781a7f3bbc1a48a2338d048a3b63253"
+        },
+        "generator": {
+          "path": "assets/interior/interior-fixed-open-blind-cup-and-bridge-hinge-01/v1.0.0/generate.py",
+          "size": 12253,
+          "sha256": "4dca152cb99f66a55589b65ef2486d73ac9323d15c1b810683fe3db6b97dfc6b"
+        },
+        "render": {
+          "path": "assets/interior/interior-fixed-open-blind-cup-and-bridge-hinge-01/v1.0.0/thumbnail.png",
+          "size": 347004,
+          "sha256": "9724ad3355eaf30c3af051ed0c8c0eefecd176d5bfa160b5fa633296a1a39ec3"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1097-volume02-20261025"
+    },
+    {
+      "id": "marine-fixed-forewell-hull-and-inclined-bucket-ladder-dredger-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "marine",
+      "style": "S01-clean-geometric",
+      "title": "Fixed Forewell Hull and Inclined Bucket Ladder Dredger",
+      "description": "One newly authored complete dry-display chain-bucket dredger vessel exterior. One joined flat-bottom work hull has two chamfered forward bow arms around a genuine long front-open ladder well and a connected aft deck. A complete oblique twin-rail ladder descends through that well beyond the bow, with two full transverse drum axles, whole thick bored drums, paired continuous closed route bands and eight entire thick open empty scoops in fixed tangent-facing poses. Four whole inclined deck bearing supports carry the upper axle. A compact closed aft station, separate plain drive housing and elevated whole open U-section rear discharge trough on two full portal stands belong to the same vessel. All hull outlines, ladder, drums, scoop walls and layout coordinates are newly authored, not the old vertical irrigation chain lift placed on old pontoons, not a walkway with equipment substituted, and no component extraction. Four opaque constant PBR materials, metres, native Z up, complete horizontal bounds centred over the finite hull sole. One prop and zero scenes; no water, operator, stock, rigging, animation or interaction. Static artistic exterior only: no buoyancy, flotation, sailing, stability, dredging, scraping, chain articulation, sprocket engagement, motion, lifting, material flow, discharge, power, hydraulic design, structural load, access, manufacture, operation or safety capability is modeled or verified.",
+      "bounds": {
+        "x": 2.86,
+        "y": 5.907995,
+        "z": 2.277995,
+        "unit": "m"
+      },
+      "triangles": 2120,
+      "materials": 4,
+      "files": {
+        "glb": {
+          "path": "assets/marine/marine-fixed-forewell-hull-and-inclined-bucket-ladder-dredger-01/v1.0.0/model.glb",
+          "size": 113492,
+          "sha256": "eaa4368e13e6a24d847ab6ae8d0751ae931f8cadb80d32bfe2f92c59e35f9b18"
+        },
+        "blend": {
+          "path": "assets/marine/marine-fixed-forewell-hull-and-inclined-bucket-ladder-dredger-01/v1.0.0/source.blend",
+          "size": 764168,
+          "sha256": "c9785f3567d381bb8f100e1516d73311e9f29bb25f52f7a09340a49b0677b621"
+        },
+        "generator": {
+          "path": "assets/marine/marine-fixed-forewell-hull-and-inclined-bucket-ladder-dredger-01/v1.0.0/generate.py",
+          "size": 29173,
+          "sha256": "70a4bb21459762e49bce63ffea53009686e678c5fde8b0d3c22a5c6e023a6351"
+        },
+        "render": {
+          "path": "assets/marine/marine-fixed-forewell-hull-and-inclined-bucket-ladder-dredger-01/v1.0.0/thumbnail.png",
+          "size": 540880,
+          "sha256": "df44ef839f7a4f90f073f9bf1c03b5817ae2a61e07cb171be4658cbcba4f3ace"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1097-volume02-20261025"
+    },
+    {
+      "id": "marine-fixed-open-canoe-single-outrigger-and-spar-sail-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "marine",
+      "style": "source-preserved-low-poly",
+      "title": "Open Canoe Single Outrigger And Spar Sail",
+      "description": "One newly authored complete fixed single-outrigger sailing-canoe-inspired exterior. One long pointed thick main hull has a genuinely open interior with continuous floor and side walls, two transverse full seat boards and an independent low mast step. A much narrower complete solid pointed float lies on only one side, joined to the main hull by two whole downward-curving booms. A leaning mast carries two long divergent spars meeting at one low forward corner; one continuous thick triangular sail has a shallow bowed centre between those spars. The main hull, offset float, connecting arms and two-spar sail form one new asymmetrical whole vessel, not an old kayak with a copied pontoon or an imported windsurf sail placed on a pedalboat. Entirely new numeric geometry, four opaque constant PBR roles, metres Z up, horizontal envelope centred, finite flat hull and float undersides for dry display. One prop zero scenes. Simplified generic visual art, not an exact traditional or cultural reconstruction. No water, occupant, paddle, rudder, rigging motion, sail adjustment, buoyancy, watertightness, flotation, stability, aerodynamic or hydrodynamic performance, steering, load, human fit, construction specification, operating instruction or safety capability. No animation or interaction.",
+      "bounds": {
+        "x": 2.7200000286102295,
+        "y": 1.2960000038146973,
+        "z": 2.290316104888916,
+        "unit": "m"
+      },
+      "triangles": 1072,
+      "materials": 4,
+      "files": {
+        "glb": {
+          "path": "assets/marine/marine-fixed-open-canoe-single-outrigger-and-spar-sail-01/v1.0.0/model.glb",
+          "size": 100012,
+          "sha256": "323a2ed59589955d0f98ad3f0cb53a0353b97a8b62e43975e82dd1d85b48a83a"
+        },
+        "blend": {
+          "path": "assets/marine/marine-fixed-open-canoe-single-outrigger-and-spar-sail-01/v1.0.0/source.blend",
+          "size": 727712,
+          "sha256": "ce540af0c74241459247ec1431428156a29c01606c029dcef740c1f5747dcee7"
+        },
+        "generator": {
+          "path": "assets/marine/marine-fixed-open-canoe-single-outrigger-and-spar-sail-01/v1.0.0/generate.py",
+          "size": 16922,
+          "sha256": "d8f80429e0d6834430b59a94feb5f7454de79dd4609dbdc6217edc83c1076899"
+        },
+        "render": {
+          "path": "assets/marine/marine-fixed-open-canoe-single-outrigger-and-spar-sail-01/v1.0.0/thumbnail.png",
+          "size": 535654,
+          "sha256": "f29257c56bef2c6706d41a2377a5ce63a140ff8ad63068052c9bc81f6abeafe5"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1097-volume02-20261025"
     }
   ]
 }
