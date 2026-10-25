@@ -1229,6 +1229,11 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary02",
       "commit": "3b47f9df90f7a2d1d2533e547cd30d4308783128"
+    },
+    "original-qualified-batch-969-volume02-20261025": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary02",
+      "commit": "67a8ddf9c6a78d0de2f1c2141e53c34cd8b79c4e"
     }
   },
   "assets": [
@@ -42683,6 +42688,221 @@
       "status": "verified",
       "license": "All rights reserved",
       "sourceId": "original-qualified-batch-964-volume02-20261025"
+    },
+    {
+      "id": "architecture-fixed-twin-tower-cable-suspension-footbridge-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "architecture",
+      "style": "S01-clean-geometric",
+      "title": "Fixed Twin Tower Cable Suspension Footbridge",
+      "description": "One newly authored complete static twin-tower suspension footbridge appearance. Two full portal towers rise from thick grounded end piers. Two continuous anchor-to-anchor cables pass over the tower tops and sag through the central span, with complete vertical hangers descending to two continuous deck-edge stringers and one full transverse-planked walking deck. Four whole outer cable-anchor blocks and two separate straight low side rails complete this one prop. This is neither a shallow arched timber-stringer bridge nor a raised gateway bridge leaf with lifting ropes: the complete central deck hangs below a continuous over-tower primary cable route. All geometry newly drawn; no old bridge mesh or scenic terrain imported. Three opaque constant PBR materials, metres, Z up and actual horizontal-bounds-centred ground origin. One model, zero scenes. No water, ravine, approach road or people. Fixed stylized display only; no cable equilibrium, structural analysis, anchor design, bridge installation, modular fit, traversability, load, fall protection, manufacture or engineering/safety claim.",
+      "bounds": {
+        "x": 4.18,
+        "y": 1.3,
+        "z": 1.7,
+        "unit": "m"
+      },
+      "triangles": 1676,
+      "materials": 3,
+      "files": {
+        "glb": {
+          "path": "assets/architecture/architecture-fixed-twin-tower-cable-suspension-footbridge-01/v1.0.0/model.glb",
+          "size": 120928,
+          "sha256": "26b940c3e72f153deb11e44be6a97b109c0dd39850782acda081612be292a73b"
+        },
+        "blend": {
+          "path": "assets/architecture/architecture-fixed-twin-tower-cable-suspension-footbridge-01/v1.0.0/source.blend",
+          "size": 870832,
+          "sha256": "e5d48a741c6f3a6b0c8f2cc7824efe44f76c42136178bdaba646e1f764b19215"
+        },
+        "generator": {
+          "path": "assets/architecture/architecture-fixed-twin-tower-cable-suspension-footbridge-01/v1.0.0/generate.py",
+          "size": 11723,
+          "sha256": "d611abf9e5be9a369c91a9af5bf82be32e6b23ac5a5cf830685489cfa3c02110"
+        },
+        "render": {
+          "path": "assets/architecture/architecture-fixed-twin-tower-cable-suspension-footbridge-01/v1.0.0/thumbnail.png",
+          "size": 398682,
+          "sha256": "80cb4faff3c365fcd6a11cd571d73c2fae3e87788a12d0ee58152bcc1beb8340"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-969-volume02-20261025"
+    },
+    {
+      "id": "desert-whole-longitudinal-ribbed-upright-arm-cactus-01",
+      "version": "1.0.0",
+      "category": "modular",
+      "assetKind": "prop",
+      "theme": "desert",
+      "style": "warm-handcrafted-village",
+      "title": "Whole Longitudinal Ribbed Upright Arm Cactus",
+      "description": "One newly authored complete stylized static desert cactus. A tall tapered central column and two unequal continuous outward-upward curved side arms have real longitudinal raised ribs and recessed grooves around their entire thick cross-sections, with rounded shrinking crowns and one complete basal ground sole. The higher narrower arm and lower broader elbow branch differ in whole trajectory, not copied paddles or repeated stem count. Unlike the old four thick flattened jointed pads, these are volumetric corrugated columnar skins with continuous bends, no planar paddle-face areoles or flat edge seats. Three closed editable whole bodies with small fixed rooted overlaps form one plant, not three separate assets. No old visible geometry imported. Opaque untextured PBR. One model zero scenes. Stylized exterior without individual spines, not exact botanical species/anatomy, growth, ecology, edible/medicinal, wind, collision, stability or safety claim.",
+      "bounds": {
+        "x": 1.718981862,
+        "y": 0.579999983,
+        "z": 2.599999905,
+        "unit": "m"
+      },
+      "triangles": 1780,
+      "materials": 3,
+      "files": {
+        "glb": {
+          "path": "assets/desert/desert-whole-longitudinal-ribbed-upright-arm-cactus-01/v1.0.0/model.glb",
+          "size": 98512,
+          "sha256": "a80edd4daba1ba16cdd644441413fe89b6eab763d8a075c2184772feddd12943"
+        },
+        "blend": {
+          "path": "assets/desert/desert-whole-longitudinal-ribbed-upright-arm-cactus-01/v1.0.0/source.blend",
+          "size": 569552,
+          "sha256": "c8d6dac6a3cec63c18d82ac233ea649df14d8c775c0549236b1b8985903a7684"
+        },
+        "generator": {
+          "path": "assets/desert/desert-whole-longitudinal-ribbed-upright-arm-cactus-01/v1.0.0/generate.py",
+          "size": 28928,
+          "sha256": "57e8de5490c9c2ce0f7f8a65da512b1f18ec076d54efc4d145f86573266b57d7"
+        },
+        "render": {
+          "path": "assets/desert/desert-whole-longitudinal-ribbed-upright-arm-cactus-01/v1.0.0/thumbnail.png",
+          "size": 483491,
+          "sha256": "fdd59ff95d2e4997d8b227c413734580fe8c77cc17f623cc7b2172a8a8e3320c"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-969-volume02-20261025"
+    },
+    {
+      "id": "entertainment-fixed-parallel-link-and-calf-cuff-platform-stilt-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "entertainment",
+      "style": "S01-clean-geometric",
+      "title": "Fixed Parallel Link and Calf Cuff Platform Stilt",
+      "description": "One newly authored complete empty fixed platform-stilt exterior. A full elongated flat ground shoe supports two separated long parallel upright links through four transverse pivot appearances; the upper links carry a distinct raised full foot deck. A rear heel stop, two arching fixed foot bands, a long offset calf support and an open-front thick calf cuff complete the single device. This is not an old crutch with a step added: it has no hand grip or hand-rest shaft, and the whole ground-shoe to raised-foot-deck parallel-link topology is new. Nor is it the old central coil pogo with paired side pedals and handlebar: no central spring, plunger or hand mast is used. All geometry newly authored. One model zero scenes, four opaque PBR materials. Empty static entertainment-equipment appearance only; no person, fitted footwear, adjustment, linkage movement, balance, spring response, wearability, load, manufacturing, performance or safe use claim. Rigging animation interaction not made.",
+      "bounds": {
+        "x": 0.1839014840956513,
+        "y": 0.4479784117710762,
+        "z": 1.02,
+        "unit": "m"
+      },
+      "triangles": 776,
+      "materials": 4,
+      "files": {
+        "glb": {
+          "path": "assets/entertainment/entertainment-fixed-parallel-link-and-calf-cuff-platform-stilt-01/v1.0.0/model.glb",
+          "size": 46116,
+          "sha256": "afa39a56551a9ef093466fba3cb39b8708cb8a432ca9c19fec35303d17a97e00"
+        },
+        "blend": {
+          "path": "assets/entertainment/entertainment-fixed-parallel-link-and-calf-cuff-platform-stilt-01/v1.0.0/source.blend",
+          "size": 674780,
+          "sha256": "043e3b09c23533dd36d38a469830c7b28dfd54c236f1da86500ba3509edd2dd0"
+        },
+        "generator": {
+          "path": "assets/entertainment/entertainment-fixed-parallel-link-and-calf-cuff-platform-stilt-01/v1.0.0/generate.py",
+          "size": 10917,
+          "sha256": "17bf03427844773ad4681d87dbc66d828985ad48720fda77913addc4735027fb"
+        },
+        "render": {
+          "path": "assets/entertainment/entertainment-fixed-parallel-link-and-calf-cuff-platform-stilt-01/v1.0.0/thumbnail.png",
+          "size": 356070,
+          "sha256": "b102b685524722f86da02040a07664a2e6c7155208b49ccf826ab72239b8ecaa"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-969-volume02-20261025"
+    },
+    {
+      "id": "medical-fixed-ovoid-bag-bent-coupler-and-open-cup-mask-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "medical",
+      "style": "source-preserved-low-poly",
+      "title": "Fixed Ovoid Bag Bent Coupler And Open Cup Mask",
+      "description": "One newly authored complete fixed bag-mask instrument exterior. One continuous low ovoid bag shape has a finite flat underside and two narrow end necks. A separate rear capped inlet-style collar and front coupling collar root into the bag. A complete bent solid connecting elbow joins the front neck to a small thick nose-mouth-only cup whose front rim surrounds a genuine deep open cavity. The cup has a narrowed upper nose contour and broad rounded lower section, with an integral thick rim and closed rear shell. No visor, headbands, patient, tubing reservoir or separate breathing system. Unlike the full-face firefighting mask, this is a small open nose-mouth cup coupled to a low hand-held bag, not a visor frame with two headbands on a plinth. Unlike the wooden hand bellows, there are no pear boards, handle pair, pleated wedge or long nozzle. All geometry newly authored, no old mesh extracted. One static prop zero scenes, four opaque constant PBR roles, metre units Z up. The bag and elbow are closed exterior solids; no internal valve, continuous airflow passage or compressible simulation. No ventilation, oxygen delivery, pressure, treatment, resuscitation efficacy, patient or wearer fit, hygiene, sterility, medical compatibility, manufacture, real use or safety function. Decorative game-art appearance only, no rigging animation or interaction.",
+      "bounds": {
+        "x": 0.18000000715255737,
+        "y": 0.5534999966621399,
+        "z": 0.17499999701976776,
+        "unit": "m"
+      },
+      "triangles": 1328,
+      "materials": 4,
+      "files": {
+        "glb": {
+          "path": "assets/medical/medical-fixed-ovoid-bag-bent-coupler-and-open-cup-mask-01/v1.0.0/model.glb",
+          "size": 116760,
+          "sha256": "aa63b70471b43bc95a086d10c7832577012742c4727eccf03574be8aa15751ae"
+        },
+        "blend": {
+          "path": "assets/medical/medical-fixed-ovoid-bag-bent-coupler-and-open-cup-mask-01/v1.0.0/source.blend",
+          "size": 732832,
+          "sha256": "84c208197fff1e4d12d529d98d9014edb37486df46498b068c7e785c1601d85a"
+        },
+        "generator": {
+          "path": "assets/medical/medical-fixed-ovoid-bag-bent-coupler-and-open-cup-mask-01/v1.0.0/generate.py",
+          "size": 17816,
+          "sha256": "d6bf5069e4ffd713c236fbaa5b0cba87d8af7411db765b10243c0fbafc0e0c21"
+        },
+        "render": {
+          "path": "assets/medical/medical-fixed-ovoid-bag-bent-coupler-and-open-cup-mask-01/v1.0.0/thumbnail.png",
+          "size": 489738,
+          "sha256": "ce0f2adbe1aacc69d28739938942fa1abcb2e2b83ce63549f485d90a4c47bcb7"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-969-volume02-20261025"
+    },
+    {
+      "id": "public-fixed-overhead-head-and-paired-basin-wash-station-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "public",
+      "style": "source-preserved-low-poly",
+      "title": "Fixed Overhead Head and Paired Basin Wash Station",
+      "description": "One newly authored complete static dual-level wash-station exterior. A full grounded flange supports one continuous tall round riser with a forward overhead return and a thick downward-open head. A separate complete waist-height empty basin has a real deep inner floor and broad round lip, carried by a rooted side arm and diagonal brace. Two whole bent outlet stems rise together above the basin into paired inward blunt heads. A full long pull rod ends in one genuinely open triangular handle, while a lower fixed lever and footpad and a small blank side paddle complete the one connected exterior. No old beach shower column or boxed drinking fountain geometry is imported; the common two-level arrangement and controls are newly authored. Three opaque materials, one prop zero scenes. Dry fixed visual art only: no water, internal supply/drainage network, spray or flow performance, emergency-use capability, decontamination, health/hygiene, human suitability, instructions, installation, certification or safety claim. Rigging animation and interaction not made.",
+      "bounds": {
+        "x": 0.5299999713897705,
+        "y": 0.8700000047683716,
+        "z": 2.2988486289978027,
+        "unit": "m"
+      },
+      "triangles": 2372,
+      "materials": 3,
+      "files": {
+        "glb": {
+          "path": "assets/public/public-fixed-overhead-head-and-paired-basin-wash-station-01/v1.0.0/model.glb",
+          "size": 212904,
+          "sha256": "896bee856692441e26c0ce2fd39deca0ffdeaa6db1723a9f803bfb69df72d329"
+        },
+        "blend": {
+          "path": "assets/public/public-fixed-overhead-head-and-paired-basin-wash-station-01/v1.0.0/source.blend",
+          "size": 883040,
+          "sha256": "d25715bebab2f421341e85ad26689e1f64c4a674f08637ddd2f74b8ba5c58759"
+        },
+        "generator": {
+          "path": "assets/public/public-fixed-overhead-head-and-paired-basin-wash-station-01/v1.0.0/generate.py",
+          "size": 16138,
+          "sha256": "f27dd38ce794db4c281a4720b1563fc59394280b4d73f9229d72224c1c768d57"
+        },
+        "render": {
+          "path": "assets/public/public-fixed-overhead-head-and-paired-basin-wash-station-01/v1.0.0/thumbnail.png",
+          "size": 452046,
+          "sha256": "c458cae699bf1ba43e24a748ba08b36a1568efb7afe7542d63998e0743bb133c"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-969-volume02-20261025"
     }
   ]
 }
