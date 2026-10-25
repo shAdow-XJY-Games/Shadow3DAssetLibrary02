@@ -1499,6 +1499,11 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary02",
       "commit": "857f22f5eabdae140d9371028cc7892c5fcde2f4"
+    },
+    "original-qualified-batch-1153-volume02-20261025": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary02",
+      "commit": "a01c5b6080bb0ad79738558c1eff06ce48434b60"
     }
   },
   "assets": [
@@ -50908,6 +50913,178 @@
       "status": "verified",
       "license": "All rights reserved",
       "sourceId": "original-qualified-batch-1149-volume02-20261025"
+    },
+    {
+      "id": "construction-fixed-tripod-mast-and-tilted-panel-cradle-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "construction",
+      "style": "source-preserved-low-poly",
+      "title": "Fixed Tripod Mast and Tilted Panel Cradle",
+      "description": "One newly authored complete empty panel-lift-style static exterior. Three low radial outriggers end in complete caster forks, wheels and pivots around one central base. A genuinely bored tall square outer mast surrounds one separate fixed raised inner section with a transverse retaining pin. A complete side bracket carries a flanged drum, through shaft and large three-spoke handwheel with a distinct offset grip. The upper open clevis and full pivot carry one broad tilted H-shaped cradle: an entire cross spine, two whole transverse rails, four small pads and two continuous front stop hooks. No panel, load, cable routing, duplicated old hoist or engine-stand payload. All geometry newly authored; three opaque PBR roles, metres Z up and whole ground-centred bounds. One prop zero scenes. Fixed visual display only: no wheel motion, telescoping travel, winch transmission, brake, board fit, lifting, load capacity, stability, construction use, installation, manufacture or safety claim. Rigging animation interaction not made.",
+      "bounds": {
+        "x": 2.1600000858306885,
+        "y": 1.3334275484085083,
+        "z": 2.706462860107422,
+        "unit": "m"
+      },
+      "triangles": 2716,
+      "materials": 3,
+      "files": {
+        "glb": {
+          "path": "assets/construction/construction-fixed-tripod-mast-and-tilted-panel-cradle-01/v1.0.0/model.glb",
+          "size": 258156,
+          "sha256": "e42d342823f82091705af285b51324a7cde6dcc66b451d8341322bbf6b4a390a"
+        },
+        "blend": {
+          "path": "assets/construction/construction-fixed-tripod-mast-and-tilted-panel-cradle-01/v1.0.0/source.blend",
+          "size": 1029760,
+          "sha256": "e3bb0940c328bf5a59b641d9e96c35b4ec12da6bc5c36d57271e2a9a1d0c294d"
+        },
+        "generator": {
+          "path": "assets/construction/construction-fixed-tripod-mast-and-tilted-panel-cradle-01/v1.0.0/generate.py",
+          "size": 18487,
+          "sha256": "cfaa4fcb765e73e7002a95fc70128e60323f6201007e925c4299e7a6e1eabee7"
+        },
+        "render": {
+          "path": "assets/construction/construction-fixed-tripod-mast-and-tilted-panel-cradle-01/v1.0.0/thumbnail.png",
+          "size": 466444,
+          "sha256": "042e88db7f0647ca49df78b57b2f9201d2a780a0e4461f1540fdd79aa8a0ff65"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1153-volume02-20261025"
+    },
+    {
+      "id": "technology-fixed-cutaway-drum-and-opposed-shoe-display-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "technology",
+      "style": "S01-clean-geometric",
+      "title": "Fixed Cutaway Drum and Opposed Shoe Display",
+      "description": "One complete newly authored fixed cutaway drum-and-shoe display on its own low grounded stand. A whole circular backing plate carries two complete opposed curved metal shoe webs and separate thick lining silhouettes. Half of a thick outer drum remains as a real curved wall with two finite section ends; the other half is deliberately absent to expose the assembly rather than made transparent. A lower broad anchor, upper eccentric spreader and whole short axle with rear lever relate the shoe ends. Two complete illustrative coil springs cross the front and terminate at finite shoe lugs. Unlike the old separated conical clutch, this is a radial two-shoe assembly around a common centre, not two axial cones and fork; unlike the paired rope cam cleat it encloses curved linings inside a drum perimeter rather than a rope guide. All numeric geometry newly authored, no old machine meshes imported. Three opaque PBR materials, metres Z-up and horizontal complete-envelope centred ground origin. Static explanatory exterior only: no braking, friction, thermal behaviour, spring force, running fit, movement, adjustment, vehicle compatibility, installation, manufacture or engineering safety claim. No rig, animation or interaction.",
+      "bounds": {
+        "x": 0.9,
+        "y": 0.42,
+        "z": 1.004047160339045,
+        "unit": "m"
+      },
+      "triangles": 5524,
+      "materials": 3,
+      "files": {
+        "glb": {
+          "path": "assets/technology/technology-fixed-cutaway-drum-and-opposed-shoe-display-01/v1.0.0/model.glb",
+          "size": 361900,
+          "sha256": "cc2a469e0416dad37bb67a395a05daf3a648a8a2c936793711f242f9cdbd842d"
+        },
+        "blend": {
+          "path": "assets/technology/technology-fixed-cutaway-drum-and-opposed-shoe-display-01/v1.0.0/source.blend",
+          "size": 921544,
+          "sha256": "53d6df9bea5cec44873d36904d3739e42615c751feeaa9ded03b0a615c0bf8c6"
+        },
+        "generator": {
+          "path": "assets/technology/technology-fixed-cutaway-drum-and-opposed-shoe-display-01/v1.0.0/generate.py",
+          "size": 12244,
+          "sha256": "1716b333f4bb049929973df6299f182054b3c27ba219cf800db692c4bbc8e051"
+        },
+        "render": {
+          "path": "assets/technology/technology-fixed-cutaway-drum-and-opposed-shoe-display-01/v1.0.0/thumbnail.png",
+          "size": 530097,
+          "sha256": "462b1073c2d4a1261d17485344ec0b51a354593328a1ab65b49b418d8211237a"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1153-volume02-20261025"
+    },
+    {
+      "id": "technology-fixed-twin-cam-and-open-pipe-coupler-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "technology",
+      "style": "S01-clean-geometric",
+      "title": "Fixed Twin Cam and Open Pipe Coupler",
+      "description": "One complete newly authored static twin-cam pipe-coupler display. A thick through-bored female sleeve has two actual opposed side windows bounded by continuous front and rear annular rings. Two whole bronze eccentric-cam and long-lever bodies rotate only in their declared fixed display pose between paired exterior support ears and real vertical pins. A separate complete open male adaptor partly enters the sleeve, with a recessed circumferential exterior seat and a fully open barb-profile tail. A low base and sleeve saddle provide the display support. Unlike the old paired cam cleat or open wafer-disc valve, this complete relation surrounds a longitudinal male/female passage, uses external lateral cam levers and contains no closure disc, radial collet fingers or rope jaws. All whole geometry newly authored; no old meshes imported. Three opaque PBR materials, metres Z-up and horizontal whole-envelope centred ground origin. Static exterior only: no seal, pressure rating, fit, hose compatibility, locking, rotation, pipe connection, flow, transport or safety claim; no rig or interaction.",
+      "bounds": {
+        "x": 0.8200000000000001,
+        "y": 0.7987169503559144,
+        "z": 0.48,
+        "unit": "m"
+      },
+      "triangles": 3328,
+      "materials": 3,
+      "files": {
+        "glb": {
+          "path": "assets/technology/technology-fixed-twin-cam-and-open-pipe-coupler-01/v1.0.0/model.glb",
+          "size": 157448,
+          "sha256": "d1af276ebfd2f851959b0755edd94a2465831b796a9fd222ee4fd5bbd4837e1c"
+        },
+        "blend": {
+          "path": "assets/technology/technology-fixed-twin-cam-and-open-pipe-coupler-01/v1.0.0/source.blend",
+          "size": 761272,
+          "sha256": "2ed85798eca91cdb1efdb08958ae4c4dd1282cca346666c6538996e00e008c86"
+        },
+        "generator": {
+          "path": "assets/technology/technology-fixed-twin-cam-and-open-pipe-coupler-01/v1.0.0/generate.py",
+          "size": 11913,
+          "sha256": "9d55e0345d82f20bcd1bbc7856463287f7a60372d5e05a8598ef56914dec75e0"
+        },
+        "render": {
+          "path": "assets/technology/technology-fixed-twin-cam-and-open-pipe-coupler-01/v1.0.0/thumbnail.png",
+          "size": 449490,
+          "sha256": "905d9693f75cfa3e03576c86625587c0b5e58fda3a06c8c9e2b9c487d2be6797"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1153-volume02-20261025"
+    },
+    {
+      "id": "transport-static-coaxial-wheels-and-standing-platform-01",
+      "version": "1.0.0",
+      "category": "vehicles",
+      "assetKind": "prop",
+      "theme": "transport",
+      "style": "source-preserved-low-poly",
+      "title": "Static Coaxial Wheels And Standing Platform",
+      "description": "One newly authored complete fixed two-wheel standing-transporter exterior, without branding. A broad transverse chamfered central platform carries two separate full foot pads and a central forward rising mast socket. Two large complete wheels share one transverse axle line immediately beside the platform, with integral closed stepped hub faces and separate thick curved upper wheel cowls tied into the platform sides. A continuous slightly rearward raked central mast rises from the socket into a wide T head with two full thick grips and a small opaque central control face. This is not a kick scooter with a wheel moved: there is no long fore-aft deck, separate front fork, rear brake or steering head over a front wheel. It is also not an old unicycle doubled: there is no fork above a tyre, saddle, direct pedal cranks or exposed spoked wheel. Every platform, wheel profile, cowl and mast is newly dimensioned together, without imported old vehicle meshes. One model zero scenes, four opaque constant PBR roles, metres Z up and whole horizontal bounds-centred origin, both finite flat tyre tread facets on ground. Fixed illustrative upright pose only, not a physically balanced resting simulation. No rider, drive system, battery, sensors, balancing mechanism, steering linkage, animation or interaction. No self-balancing, riding, range, control, manoeuvrability, load, ergonomics, manufacture, roadworthiness or safety claim.",
+      "bounds": {
+        "x": 0.8659999966621399,
+        "y": 0.5134221315383911,
+        "z": 1.1430000066757202,
+        "unit": "m"
+      },
+      "triangles": 1308,
+      "materials": 4,
+      "files": {
+        "glb": {
+          "path": "assets/transport/transport-static-coaxial-wheels-and-standing-platform-01/v1.0.0/model.glb",
+          "size": 123564,
+          "sha256": "088fa1dafaaaa2557cd7d63f7cbf1d2f84b3ab444db97d879de8e5abd755f900"
+        },
+        "blend": {
+          "path": "assets/transport/transport-static-coaxial-wheels-and-standing-platform-01/v1.0.0/source.blend",
+          "size": 782368,
+          "sha256": "318085b61523cd5db1268fc12e587548fa91022046039825dda4426820ef2931"
+        },
+        "generator": {
+          "path": "assets/transport/transport-static-coaxial-wheels-and-standing-platform-01/v1.0.0/generate.py",
+          "size": 17337,
+          "sha256": "9df862b79ce3a8fd9a7822129497b4d94937bb0dfee729920d0d011ae9d3a676"
+        },
+        "render": {
+          "path": "assets/transport/transport-static-coaxial-wheels-and-standing-platform-01/v1.0.0/thumbnail.png",
+          "size": 489340,
+          "sha256": "2b496b159ae64831f69aa74b6f8a7e9d62184812f64ac89d9c830fd41068953a"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1153-volume02-20261025"
     }
   ]
 }
