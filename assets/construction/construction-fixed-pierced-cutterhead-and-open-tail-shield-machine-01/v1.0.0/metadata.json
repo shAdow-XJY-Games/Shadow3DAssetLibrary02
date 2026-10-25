@@ -1,0 +1,42 @@
+{
+  "id": "construction-fixed-pierced-cutterhead-and-open-tail-shield-machine-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "construction",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Pierced Cutterhead and Open Tail Shield Machine",
+  "description": "One newly authored complete short tunnel-shield machine static exterior on its own connected rail carrier. A broad single thick cutter face has a central boss, continuous ring webs, six integral radial webs and twelve real through windows, with separate blunt scraper-style blocks. A full axial shaft reaches a complete rear drive housing inside a genuinely hollow long shield barrel, connected by rear radial brackets. Two concave transverse cradles seat the shell on the carrier. A full low rear U-sided bed, two complete transverse rollers and whole belt exterior emerge through the open tail on their own connected posts. All visible constructions and coordinates are newly authored, not meshes extracted from the old small axial ventilation fan or a circular iris airlock. There are no pitched fan blades, grille bars, overlapping door leaves or artificial aperture labels. One static prop zero scenes; four constant opaque PBR materials, metres, Z up, horizontal bounds centered over whole finite carrier soles. This is a compact static game-art exterior, not an engineering cutaway, full trailing construction train or operating tunnel system. No cutter motion, excavation, spoil transport, face pressure, sealing, advancing, hydraulics, ground support, manufacture, structural loading, function or safety performance is made or verified. Rigging, animation and interaction are not made or verified.",
+  "bounds": {
+    "x": 4.08,
+    "y": 5.82,
+    "z": 4.39,
+    "unit": "m"
+  },
+  "triangles": 2264,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/construction/construction-fixed-pierced-cutterhead-and-open-tail-shield-machine-01/v1.0.0/model.glb",
+      "size": 119268,
+      "sha256": "173eccbc135ad5ffd05d4e57e7e13c822fabfc14365e26da083893704c23ffcf"
+    },
+    "blend": {
+      "path": "assets/construction/construction-fixed-pierced-cutterhead-and-open-tail-shield-machine-01/v1.0.0/source.blend",
+      "size": 780784,
+      "sha256": "1193db76ace7fdf0e647a1cb76344191cf786dea08cdda28f5655e160fc1eada"
+    },
+    "generator": {
+      "path": "assets/construction/construction-fixed-pierced-cutterhead-and-open-tail-shield-machine-01/v1.0.0/generate.py",
+      "size": 28206,
+      "sha256": "400e00f4a4263da4cd9646015a4aeae9761106f4b3527da60156111c4562b51a"
+    },
+    "render": {
+      "path": "assets/construction/construction-fixed-pierced-cutterhead-and-open-tail-shield-machine-01/v1.0.0/thumbnail.png",
+      "size": 607623,
+      "sha256": "fb2ed1cc010c6b102bb48a05d4fa5b9ffcef572c1988f1ed3bad12f60ffbbb93"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
