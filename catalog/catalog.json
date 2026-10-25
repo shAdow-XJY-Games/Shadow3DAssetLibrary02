@@ -1434,6 +1434,11 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary02",
       "commit": "0f429ec57df0b6ceb15cad28672d068e12a89c1a"
+    },
+    "original-qualified-batch-1116-volume02-20261025": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary02",
+      "commit": "b67c26f6977afefcb37eded1e329cd5986d5da0c"
     }
   },
   "assets": [
@@ -49252,6 +49257,178 @@
       "status": "verified",
       "license": "All rights reserved",
       "sourceId": "original-qualified-batch-1112-volume02-20261025"
+    },
+    {
+      "id": "architecture-fixed-open-leaf-crown-and-throat-roof-vent-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "architecture",
+      "style": "S01-clean-geometric",
+      "title": "Fixed Open Leaf Crown and Throat Roof Vent",
+      "description": "One complete newly authored static rooftop vent appearance: a whole square flashing slab with a genuine circular opening joins a short thick hollow neck. A lower annular rim and upper domed cap retain sixteen continuously curved thick leaves around a wide bulbous crown; distinct open slots remain between the leaves. A central shaft and three radial supports occupy portions of the neck, so it is not declared unobstructed. Unlike the old horizontal mine fan or long three-bow turbine, this whole assembly combines a low broad open-slot crown over an open architectural throat and square flashing. No old mesh imported. Three opaque PBR materials, metre Z-up, ground-centred envelope. No actual ventilation, rotation, airflow, pressure, weatherproofing, roof fit, installation, load, engineering or safety claim; fixed artistic exterior only. No animation or interaction.",
+      "bounds": {
+        "x": 0.7828971676138866,
+        "y": 0.7828971676138866,
+        "z": 0.748,
+        "unit": "m"
+      },
+      "triangles": 2696,
+      "materials": 3,
+      "files": {
+        "glb": {
+          "path": "assets/architecture/architecture-fixed-open-leaf-crown-and-throat-roof-vent-01/v1.0.0/model.glb",
+          "size": 186148,
+          "sha256": "765ddc1a9cc3eb902dcd5dc55a85455d71ac44aaa4496d517753116b1ea46b77"
+        },
+        "blend": {
+          "path": "assets/architecture/architecture-fixed-open-leaf-crown-and-throat-roof-vent-01/v1.0.0/source.blend",
+          "size": 773368,
+          "sha256": "8c4e55db7108625993b8cfaeab5c79562cb9c43e53063ebeaeb5c3dc57fd7768"
+        },
+        "generator": {
+          "path": "assets/architecture/architecture-fixed-open-leaf-crown-and-throat-roof-vent-01/v1.0.0/generate.py",
+          "size": 11167,
+          "sha256": "714340d7163802b6e9abe4646199ffa82e89563869f8473ffc261169fc2c0b83"
+        },
+        "render": {
+          "path": "assets/architecture/architecture-fixed-open-leaf-crown-and-throat-roof-vent-01/v1.0.0/thumbnail.png",
+          "size": 466036,
+          "sha256": "2be3551b8ed863c3211e29774bd7c6e89dc0c8dfb3455770408400167937dcfb"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1116-volume02-20261025"
+    },
+    {
+      "id": "art-fixed-hemisphere-seat-and-opposed-jaw-engraving-vise-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "art",
+      "style": "S01-clean-geometric",
+      "title": "Fixed Hemisphere Seat and Opposed Jaw Engraving Vise",
+      "description": "One newly authored complete engraving-ball-vise-style static exterior. A broad low concave support ring cradles one whole rounded hemispherical body. Its flat upper carrier holds two separated longitudinal guides and two opposite stepped jaw bodies with a genuine empty space above their fixed cross-axis shaft. Two distinct inner jaw-face plates and a short side adjustment knob complete the empty tool. The lower sphere-in-seat relationship and symmetric opposing top jaws are authored as one whole tool, not the old C-frame bench vise placed on a ball or a lathe chuck extracted from its headstock. There is no table-edge clamp, long bed, spindle headstock, workpiece or imported visible mesh. One model zero scenes, four opaque constant PBR appearances, metres native Z up and whole horizontal-envelope-centred ground origin on the full base sole. Fixed illustrative craft-workshop appearance only; no tilt or rotation, jaw travel, screw thread engagement, clamping force, jewelry fit, engraving process, manufacturing, installation, stability or tool-safety capability. No rig, animation or interaction.",
+      "bounds": {
+        "x": 0.29900000000000004,
+        "y": 0.26,
+        "z": 0.253,
+        "unit": "m"
+      },
+      "triangles": 1724,
+      "materials": 4,
+      "files": {
+        "glb": {
+          "path": "assets/art/art-fixed-hemisphere-seat-and-opposed-jaw-engraving-vise-01/v1.0.0/model.glb",
+          "size": 97520,
+          "sha256": "91f66bde56d8648b032b4c6b03d3ab7cb4706c119fea42a152ead0e9d473af98"
+        },
+        "blend": {
+          "path": "assets/art/art-fixed-hemisphere-seat-and-opposed-jaw-engraving-vise-01/v1.0.0/source.blend",
+          "size": 688884,
+          "sha256": "a7d608bcbe116457d176bd63ba0b1fc73d508ab743f00d6f25978c117bfe2196"
+        },
+        "generator": {
+          "path": "assets/art/art-fixed-hemisphere-seat-and-opposed-jaw-engraving-vise-01/v1.0.0/generate.py",
+          "size": 10747,
+          "sha256": "5430cf6e671654ccbf27ebd114f0f3010efe04fe9fc2aa3f4ab1a855003af846"
+        },
+        "render": {
+          "path": "assets/art/art-fixed-hemisphere-seat-and-opposed-jaw-engraving-vise-01/v1.0.0/thumbnail.png",
+          "size": 436385,
+          "sha256": "e8101d9d5fb07f43e40e450ea434ab22b33de52ea488784b4369bfb547902822"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1116-volume02-20261025"
+    },
+    {
+      "id": "industrial-fixed-twin-hook-webbing-and-raised-ratchet-buckle-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "industrial",
+      "style": "source-preserved-low-poly",
+      "title": "Twin Hook Webbing And Raised Ratchet Buckle",
+      "description": "One newly authored complete fixed ratchet-strap-style decorative assembly, laid out empty on the ground. A compact one-piece low open buckle chassis carries a transverse core and two entire toothed side disks. Two whole raised lever cheeks join a full transverse top grip, with one distinct fixed release bar between them. A single continuous finite-thickness broad strap runs from one end hook along the ground and curves into one shallow spiral around the core. The opposing short complete strap roots into the chassis rear crossbar and extends to the second whole blunt open hook. Each hook has a real open throat; both webbing bodies are complete connected solids rather than painted lines or loose disconnected patches. This low lever-buckle and opposing broad-webbing/end-hook relation is distinct from the freestanding four-foot bare drum winch with its separate offset crank and from the two-mounted draw-loop latch with a keeper hook. No old numeric geometry or meshes imported. Four opaque constant PBR roles, metres native Z up, full horizontally centred envelope and finite flat undersides, one complete prop zero scenes. Simplified fixed artistic joins and shallow spiral only: no threading diagram, complete working pawl system, ratchet engagement, tightening, reverse lock, travel, flexing, load restraint, tie-down capacity, certification, rigging or transport safety represented. No cargo, vehicle, user, installation, tension simulation, manufacture, instruction or actual equipment suitability. No animation.",
+      "bounds": {
+        "x": 0.8759999871253967,
+        "y": 0.09399999678134918,
+        "z": 0.15800000727176666,
+        "unit": "m"
+      },
+      "triangles": 1168,
+      "materials": 4,
+      "files": {
+        "glb": {
+          "path": "assets/industrial/industrial-fixed-twin-hook-webbing-and-raised-ratchet-buckle-01/v1.0.0/model.glb",
+          "size": 107316,
+          "sha256": "106a6c04238961e82b3bdb7c7e568b58a783d9606b37d8a0af35dfdfb0712798"
+        },
+        "blend": {
+          "path": "assets/industrial/industrial-fixed-twin-hook-webbing-and-raised-ratchet-buckle-01/v1.0.0/source.blend",
+          "size": 743136,
+          "sha256": "318416ee074c6f8d65f2338b051da0779912d7e86b5e0f0bc4fd7133ad555146"
+        },
+        "generator": {
+          "path": "assets/industrial/industrial-fixed-twin-hook-webbing-and-raised-ratchet-buckle-01/v1.0.0/generate.py",
+          "size": 17908,
+          "sha256": "9be38bcebeecc7f1312dfff373143a0cbeb0924aeeeff1627d8eca01ba7e4502"
+        },
+        "render": {
+          "path": "assets/industrial/industrial-fixed-twin-hook-webbing-and-raised-ratchet-buckle-01/v1.0.0/thumbnail.png",
+          "size": 393391,
+          "sha256": "0c0ac455817af3ad9100ab75a6a952c3685476fcb3a5afe38537385544df4061"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1116-volume02-20261025"
+    },
+    {
+      "id": "professional-fixed-sloping-magazine-and-keyboard-linecaster-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "professional",
+      "style": "S01-clean-geometric",
+      "title": "Fixed Sloping Magazine and Keyboard Linecaster",
+      "description": "One newly authored complete generic early linecasting-machine-style exterior, not a reproduction of a particular maker or historical model. A joined four-shoe ground bed and two tall rising side castings carry a low inclined blank keyboard, a separate high sloping channelled matrix-store appearance, a full narrow open return-elevator frame and a bent upper distribution rail with its own opposite standard. One empty transverse open composing channel lies between the keyboard and magazine. A whole shouldered closed side casting-unit housing and rectangular mold-case exterior, plus a supported low outboard open-spoke drive wheel, belong to the same standing machine. All geometry and layout are new, not the existing tabletop typewriter raised on a stand or the old open-platen/ink-disc press with a new keyboard. There is no paper platen, fan of typebars, ink disc, impression bed, loose type or printed output. Four opaque constant PBR materials, metres, native Z up, horizontal bounds centred over the full finite ground shoes. One prop zero scenes. Simplified blank keys and channel counts do not represent a real character system. Static occupational game art only: no typing action, matrix selection, distribution, return, molten material, heater, casting, mould compatibility, pressure, temperature, drive, motion, power, historical precision, manufacture, operation, load or safety capability. Rigging, animation and interaction are not made or verified.",
+      "bounds": {
+        "x": 1.52,
+        "y": 1.5,
+        "z": 2.23,
+        "unit": "m"
+      },
+      "triangles": 5156,
+      "materials": 4,
+      "files": {
+        "glb": {
+          "path": "assets/professional/professional-fixed-sloping-magazine-and-keyboard-linecaster-01/v1.0.0/model.glb",
+          "size": 268680,
+          "sha256": "fe552d74e1765b3004536ae013105f28caa9a72e1742116fbc1f88b46dc39b28"
+        },
+        "blend": {
+          "path": "assets/professional/professional-fixed-sloping-magazine-and-keyboard-linecaster-01/v1.0.0/source.blend",
+          "size": 1149572,
+          "sha256": "53c10ef8258704f0dae109612a7e174388ec7f588f7e4f5df39138569d6d086a"
+        },
+        "generator": {
+          "path": "assets/professional/professional-fixed-sloping-magazine-and-keyboard-linecaster-01/v1.0.0/generate.py",
+          "size": 30695,
+          "sha256": "80897e3375ba44d1dea66a693fe3ba0ac5cf41d62a533fd5dc814f1b1c2740d9"
+        },
+        "render": {
+          "path": "assets/professional/professional-fixed-sloping-magazine-and-keyboard-linecaster-01/v1.0.0/thumbnail.png",
+          "size": 566553,
+          "sha256": "f9e39a9bd11813d0d451211e00c9f5aaa5ea5abde7d7b420470738fdda5510c3"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1116-volume02-20261025"
     }
   ]
 }
