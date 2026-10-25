@@ -1329,6 +1329,11 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary02",
       "commit": "7f04e319c0c434d2923e10a279dff24aa57874c2"
+    },
+    "original-qualified-batch-1064-volume02-20261025": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary02",
+      "commit": "f3a5d10bad06c632ca46fbc93fc909b244ed4a2e"
     }
   },
   "assets": [
@@ -47040,6 +47045,49 @@
       "status": "verified",
       "license": "All rights reserved",
       "sourceId": "original-qualified-batch-1063-volume02-20261025"
+    },
+    {
+      "id": "industrial-fixed-twin-drum-and-bent-manifold-pump-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "industrial",
+      "style": "source-preserved-low-poly",
+      "title": "Fixed Twin Drum And Bent Manifold Pump",
+      "description": "One newly authored complete static twin-diaphragm-pump-inspired exterior. Two broad opposed bulging drum housings with integral stepped clamp rims flank one short central drive-body exterior. Two independently continuous hollow bent manifold tubes bridge the drum pair above and below, with real forward open annular connector mouths. Four whole grounded mounting feet root beneath the drums; a small set of proud axial fastener heads belong to each rim. This is not the old two tall piston barrels below long treadles, nor a single volute casing and impeller, nor an open U tube around rollers. All drum profiles, manifold centre lines, short central housing, mounts and hardware are new numeric geometry; no old visible parts imported. Four opaque constant untextured PBR roles, metres and Z up. One complete prop zero scenes. Only exterior static artistic form: both drum interiors and the central housing are solid; no diaphragm, valve, drive, working seals, validated continuous fluid route, air circuit, pumping, displacement, flow, pressure, movement, food or medical suitability, manufacture, load or equipment safety claim. Hollow manifold end roots overlap solid drums as fixed joins, not operational ports. No fluid, rig, animation or interaction.",
+      "bounds": {
+        "x": 0.6240000128746033,
+        "y": 0.35199999809265137,
+        "z": 0.6449999809265137,
+        "unit": "m"
+      },
+      "triangles": 4748,
+      "materials": 4,
+      "files": {
+        "glb": {
+          "path": "assets/industrial/industrial-fixed-twin-drum-and-bent-manifold-pump-01/v1.0.0/model.glb",
+          "size": 415948,
+          "sha256": "a88f5eda2a932b688b9d54767cc21fc194a9f7825f3c4c3c574bee9c718a7cd0"
+        },
+        "blend": {
+          "path": "assets/industrial/industrial-fixed-twin-drum-and-bent-manifold-pump-01/v1.0.0/source.blend",
+          "size": 1195840,
+          "sha256": "2afc6cbc86616ad585d14c79ff4a0319971dfbe86f6eb3e4cbed3b9be310b7ad"
+        },
+        "generator": {
+          "path": "assets/industrial/industrial-fixed-twin-drum-and-bent-manifold-pump-01/v1.0.0/generate.py",
+          "size": 18442,
+          "sha256": "a8d6cbe085d7d4e221492b1b8c48650df9b55005a0df200f375d93714191940f"
+        },
+        "render": {
+          "path": "assets/industrial/industrial-fixed-twin-drum-and-bent-manifold-pump-01/v1.0.0/thumbnail.png",
+          "size": 541664,
+          "sha256": "5898cdd28516f24bd5264ee52d2f218605277b5b66614b54d0001a439a73948c"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1064-volume02-20261025"
     }
   ]
 }
