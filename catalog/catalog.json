@@ -1284,6 +1284,11 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary02",
       "commit": "efe603886422abd2b36eb834c1721f9cc76f430d"
+    },
+    "original-qualified-batch-1039-volume02-20261025": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary02",
+      "commit": "4f25bf6907576a09ebddab81bacce13fd6036dcc"
     }
   },
   "assets": [
@@ -45834,6 +45839,135 @@
       "status": "verified",
       "license": "All rights reserved",
       "sourceId": "original-qualified-batch-1036-volume02-20261025"
+    },
+    {
+      "id": "music-fixed-cranked-pin-barrel-and-pipe-chest-street-organ-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "music",
+      "style": "S01-clean-geometric",
+      "title": "Fixed Cranked Pin Barrel and Pipe Chest Street Organ",
+      "description": "One newly authored complete fixed hand-cranked street-organ exterior on its integral two-wheel and two-foot underframe. A tall compact timber cabinet contains an exposed transverse pinned barrel, independent row of full follower rods on a shared support shaft, a lower pleated bellows appearance and an upper chest carrying seven whole open-mouthed pipes. A continuous axle reaches a right-hand crank and offset grip. The pipes, barrel and bellows are independently newly drawn parts of one integrated cabinet, not an old keyboard organ and music box positioned together or extracted into a scene. There is no manual keyboard, pedal board or plucked comb. Real pipe bores, mouth openings, open cabinet inspection space and lower pleat valleys remain geometry. Four opaque solid PBR appearances, metres Z up and grounded whole horizontal envelope. One model zero scenes. Fixed illustrative silent exterior only: no supplied internal air channels, valves, functional pin sequence, tune, gearing, motor, sound, wheel/crank action, bellows motion, transport ergonomics, capacity, manufacture or safety claim.",
+      "bounds": {
+        "x": 1.1600000000000001,
+        "y": 0.6555405158916134,
+        "z": 1.3,
+        "unit": "m"
+      },
+      "triangles": 3340,
+      "materials": 4,
+      "files": {
+        "glb": {
+          "path": "assets/music/music-fixed-cranked-pin-barrel-and-pipe-chest-street-organ-01/v1.0.0/model.glb",
+          "size": 173800,
+          "sha256": "2aef82f2dd220b9efb25c5a2c9ecce9de8f524e9149bf7783c4414bfafce8aba"
+        },
+        "blend": {
+          "path": "assets/music/music-fixed-cranked-pin-barrel-and-pipe-chest-street-organ-01/v1.0.0/source.blend",
+          "size": 1067796,
+          "sha256": "d757666611c14d0d52ab7deb3eeb4f1eba60caab58d94567f1d5f5896244ebc3"
+        },
+        "generator": {
+          "path": "assets/music/music-fixed-cranked-pin-barrel-and-pipe-chest-street-organ-01/v1.0.0/generate.py",
+          "size": 12731,
+          "sha256": "018733725ded2b6d9667e2fe6367f7ea562c8496831010918fd746b7e0dc0757"
+        },
+        "render": {
+          "path": "assets/music/music-fixed-cranked-pin-barrel-and-pipe-chest-street-organ-01/v1.0.0/thumbnail.png",
+          "size": 562533,
+          "sha256": "85d6cba6e50753dda556e4d40ad3c503031dbcec7b6c530ff51d394d991b1d3f"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1039-volume02-20261025"
+    },
+    {
+      "id": "salon-fixed-bowed-jaws-and-raised-lever-nail-clipper-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "salon",
+      "style": "source-preserved-low-poly",
+      "title": "Fixed Bowed Jaws and Raised Lever Nail Clipper",
+      "description": "One newly authored complete fixed nail-clipper-style exterior. Two whole bowed thin plates are connected by a finite rear joining bridge and terminate in opposed curved blunt lips with a real visible front gap. A whole retained vertical post occupies actual rectangular passages near the front; its transverse head retains a separate raised slotted operating lever with a small plain thumb inset. The long lever and two continuous jaw lips are not the old four-fork staple remover or a miniature desktop stapler. All geometry new, three opaque materials, one prop zero scenes. Static grooming-tool appearance only: lips remain finite and blunt, no finger, nail, cutting, trimming, lever travel, spring response, ergonomics, bodily use, manufacture or safety claim. Rigging animation interaction not made.",
+      "bounds": {
+        "x": 0.02199999988079071,
+        "y": 0.0663599967956543,
+        "z": 0.025860000401735306,
+        "unit": "m"
+      },
+      "triangles": 736,
+      "materials": 3,
+      "files": {
+        "glb": {
+          "path": "assets/salon/salon-fixed-bowed-jaws-and-raised-lever-nail-clipper-01/v1.0.0/model.glb",
+          "size": 67288,
+          "sha256": "6141c9552e4ed72c22d60e13ab641fa171832b076fac3cb36980ac6858c73fff"
+        },
+        "blend": {
+          "path": "assets/salon/salon-fixed-bowed-jaws-and-raised-lever-nail-clipper-01/v1.0.0/source.blend",
+          "size": 648064,
+          "sha256": "a3d1e7b6d20f659d68fbb312bbcfb9c7714653517797008cf486666a9b215dff"
+        },
+        "generator": {
+          "path": "assets/salon/salon-fixed-bowed-jaws-and-raised-lever-nail-clipper-01/v1.0.0/generate.py",
+          "size": 15673,
+          "sha256": "cbe2c66721b647113b50e9018c04119d330aca99f887097e2f01cb3be87ecf76"
+        },
+        "render": {
+          "path": "assets/salon/salon-fixed-bowed-jaws-and-raised-lever-nail-clipper-01/v1.0.0/thumbnail.png",
+          "size": 496885,
+          "sha256": "c08d1489f32ed77801386ed6fd886666c8d2f057ef8db95e57fc19a21156ea6d"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1039-volume02-20261025"
+    },
+    {
+      "id": "waterworks-fixed-curved-leaf-and-radial-arm-gate-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "waterworks",
+      "style": "S01-clean-geometric",
+      "title": "Fixed Curved Leaf and Radial Arm Gate",
+      "description": "One newly authored complete static radial-gate appearance. A continuous dry channel floor and low sides carry two taller rear bearing piers. One full thick cylindrical-segment leaf spans the opening; two complete curved inner ribs connect to paired radial support arms converging at independent side pivot axles and bored bearings. The lower leaf edge is visibly separated from the dry floor. Unlike the straight-guide half-open sluice or paired mitred canal leaves, this entire relationship uses a curved skin, side radial triangles and elevated transverse pivot axis, not a rotated old plate or different gate count. Sixteen closed editable meshes and three opaque PBR materials, metres Z up and complete horizontal-bounds-centred ground origin. New geometry only, one static prop and zero scenes. No water, seals, lift gear, rigging or animation. Illustrative fixed joins, not running fits. No water retention, flow regulation, hydraulic pressure, movement, bearing capacity, structural loading, real manufacture, civil installation or safety claim.",
+      "bounds": {
+        "x": 2.0519999999999996,
+        "y": 2.05,
+        "z": 1.745862266136438,
+        "unit": "m"
+      },
+      "triangles": 1280,
+      "materials": 3,
+      "files": {
+        "glb": {
+          "path": "assets/waterworks/waterworks-fixed-curved-leaf-and-radial-arm-gate-01/v1.0.0/model.glb",
+          "size": 64056,
+          "sha256": "d6a45112285a8a9cdec06b0c32d53ddd41f4c6700f63ba15365c4d6d1951e18e"
+        },
+        "blend": {
+          "path": "assets/waterworks/waterworks-fixed-curved-leaf-and-radial-arm-gate-01/v1.0.0/source.blend",
+          "size": 659972,
+          "sha256": "dffb01934cab083365ea3dd9fe41b9eb0fb474f86eeb91a7c10adc83ac63f11f"
+        },
+        "generator": {
+          "path": "assets/waterworks/waterworks-fixed-curved-leaf-and-radial-arm-gate-01/v1.0.0/generate.py",
+          "size": 11307,
+          "sha256": "591bda15e11ce5694c61efb5bb38028c660f13402e37ee3d0359c6deaaa95120"
+        },
+        "render": {
+          "path": "assets/waterworks/waterworks-fixed-curved-leaf-and-radial-arm-gate-01/v1.0.0/thumbnail.png",
+          "size": 461303,
+          "sha256": "50ce5ef6734e00fe86843b69a1787448207855b8c8e56ffdd20af867c2576439"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1039-volume02-20261025"
     }
   ]
 }
