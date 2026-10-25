@@ -1,0 +1,42 @@
+{
+  "id": "camping-fixed-sagging-hammock-and-bowed-end-stand-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "camping",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Sagging Hammock and Bowed End Stand",
+  "description": "One newly authored complete fixed freestanding hammock appearance. A full thick double-curved cloth bed hangs deeply between two gathered fans of complete ropes and two true open suspension eyes. A low longitudinal support spine, two outward swept end posts and two transverse feet with four flat shoes form its entire stand. No overhead crossbeam, cot side rails, rigid seat plank, pillow, mattress, person, old bed or swing mesh is imported. The long sides of the cloth are not supported by rails and the full space beneath the slung bed remains open above the low spine. One prop and zero scenes; three opaque constant PBR materials, metres, Z up, horizontal bounds-centred ground origin. Fixed stylized outdoor display only: no cloth or rope simulation, suspension dynamics, knot construction, real connections, assembly, load, tipping resistance, sleeping suitability, ergonomics, manufacture or safety claim.",
+  "bounds": {
+    "x": 3.1960346226753624,
+    "y": 1.26,
+    "z": 1.2339405097431977,
+    "unit": "m"
+  },
+  "triangles": 1184,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/camping/camping-fixed-sagging-hammock-and-bowed-end-stand-01/v1.0.0/model.glb",
+      "size": 79764,
+      "sha256": "d858cfd8220e2f47a6c5d01f7f2eaea7dd43fe47a7345d7ef90c3e57dcebb515"
+    },
+    "blend": {
+      "path": "assets/camping/camping-fixed-sagging-hammock-and-bowed-end-stand-01/v1.0.0/source.blend",
+      "size": 700988,
+      "sha256": "1b3dc063cc329694226b75a85df889345a1a81cac15ed0a6e08621e52b5cf7e2"
+    },
+    "generator": {
+      "path": "assets/camping/camping-fixed-sagging-hammock-and-bowed-end-stand-01/v1.0.0/generate.py",
+      "size": 11355,
+      "sha256": "afb9abb6988f5bf622d7fa321a72867a530873b686981df0ca3e59ce31c78a7a"
+    },
+    "render": {
+      "path": "assets/camping/camping-fixed-sagging-hammock-and-bowed-end-stand-01/v1.0.0/thumbnail.png",
+      "size": 385635,
+      "sha256": "39dbd98924d7493c55fa0ae3d339e5f300e4cb1aa6339dc0f52f8b39e0cda7da"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "sports-whole-quarterpipe-approach-and-scooter-parking-scene-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "sports",
+  "style": "source-preserved-low-poly",
+  "title": "Whole Quarterpipe Approach and Scooter Parking Layout",
+  "description": "One static skating-area preparation layout using three complete qualified old props and zero new independent models. A complete concave quarter-pipe bank occupies the left rear, with its whole low toe facing an empty broad front approach strip. A separate intact three-place slotted-shell bench sits on the right side facing inward toward that open area, while one complete kick scooter is parked on the lower right outside the bank approach. The riding bank, side rest strip and separate equipment parking bay have distinct orientations and ground footprints; this is not the old seesaw and narrow ladder-slide play corner or a public waiting shelter layout. Every old mesh, internal hierarchy, oriented triangle and full PBR is preserved at original unit scale, without extracting, reshaping or recolouring the bank, bench or scooter. Only the bench rotates rigidly ninety degrees, all three whole props translate, and one scene-only flat floor is added. One scene, zero new models. Empty static illustrative layout only, not a complete skate park or a playable route. No riding, speed, braking, ramp trajectory, fall clearance, seating ergonomics, accessibility, structural load, installation, activity suitability or public safety is made or verified. Rigging, animation and interaction are not made.",
+  "bounds": {
+    "x": 4.200000047683716,
+    "y": 3.9999998807907104,
+    "z": 1.540000081062317,
+    "unit": "m"
+  },
+  "triangles": 2432,
+  "materials": 10,
+  "files": {
+    "glb": {
+      "path": "assets/sports/sports-whole-quarterpipe-approach-and-scooter-parking-scene-01/v1.0.0/model.glb",
+      "size": 127708,
+      "sha256": "e9582e29d8d6f695f7543dab769d46e082aa22b8163b2aab89922cd0153826e4"
+    },
+    "blend": {
+      "path": "assets/sports/sports-whole-quarterpipe-approach-and-scooter-parking-scene-01/v1.0.0/source.blend",
+      "size": 1069916,
+      "sha256": "51ba462a4c7c3ab0ecd1b5e447de9a9366f619ffdaf74ca2a56625582a5ee4d5"
+    },
+    "generator": {
+      "path": "assets/sports/sports-whole-quarterpipe-approach-and-scooter-parking-scene-01/v1.0.0/generate.py",
+      "size": 88787,
+      "sha256": "84060e4c68f3a8f37895ca171d55f597793f728b4f8071478f1ad677c777ca74"
+    },
+    "render": {
+      "path": "assets/sports/sports-whole-quarterpipe-approach-and-scooter-parking-scene-01/v1.0.0/thumbnail.png",
+      "size": 477031,
+      "sha256": "2b08037481a3a4efd20802b40adbeab4e162d5315e1f28d459758e3da69d0ecd"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

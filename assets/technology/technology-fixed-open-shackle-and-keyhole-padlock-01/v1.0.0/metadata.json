@@ -1,0 +1,42 @@
+{
+  "id": "technology-fixed-open-shackle-and-keyhole-padlock-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "technology",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Open Shackle and Keyhole Padlock",
+  "description": "One newly authored complete fixed open-padlock appearance: thick chamfer-corner brass-looking body with a real keyhole-shaped front-to-back opening, one complete unequal-leg round U shackle with its long leg entering the body and its short leg lifted above the receiving recess, and one entire raised inset top cap with a genuine socket opening floored by the body below. The raised cap perimeter is inset from the main body sides, not coincident exposed cover geometry. One prop, zero scenes and no loose key. Newly drawn whole geometry, no wooden puzzle-lock, carabiner or draw-latch mesh imported. Three opaque constant PBR materials, metres, Z up and horizontal bounds-centred ground origin. Stylized static exterior only; the keyhole is a simplified through opening with no internal lock mechanism, pins, wards or security system. No unlocking procedure, working lock, key compatibility, movement, strength, load, manufacture, anti-theft or safety claim.",
+  "bounds": {
+    "x": 0.36,
+    "y": 0.14,
+    "z": 0.702,
+    "unit": "m"
+  },
+  "triangles": 608,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/technology/technology-fixed-open-shackle-and-keyhole-padlock-01/v1.0.0/model.glb",
+      "size": 36080,
+      "sha256": "01584738689caed1d9bd20a3ed81e0a7850b3105485a9c56834bb2d2804d08e0"
+    },
+    "blend": {
+      "path": "assets/technology/technology-fixed-open-shackle-and-keyhole-padlock-01/v1.0.0/source.blend",
+      "size": 563624,
+      "sha256": "cb64db3d0f4891fd4ccc62752676846f4f2e82fcc20d6711a9a989fcecb35e36"
+    },
+    "generator": {
+      "path": "assets/technology/technology-fixed-open-shackle-and-keyhole-padlock-01/v1.0.0/generate.py",
+      "size": 11603,
+      "sha256": "b0eb6d74e3ab5c38cb06fb2520019e40fa931613aff46db9231e58be6dac7f34"
+    },
+    "render": {
+      "path": "assets/technology/technology-fixed-open-shackle-and-keyhole-padlock-01/v1.0.0/thumbnail.png",
+      "size": 421156,
+      "sha256": "7d93ce0812d0f4a940da323c40374afd01128c0df2304735eedf05f76d4e3e16"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
