@@ -1,0 +1,42 @@
+{
+  "id": "agriculture-fixed-alternating-chute-twin-pan-sample-divider-01",
+  "version": "1.0.0",
+  "category": "modular",
+  "assetKind": "prop",
+  "theme": "agriculture",
+  "style": "warm-handcrafted-village",
+  "title": "Fixed Alternating-Chute Twin-Pan Sample Divider",
+  "description": "One newly authored complete static agricultural sample-divider appearance. A bank of six true thick open U-section channels receives from a narrow row of upper mouths and descends alternately toward opposite front and rear sides. Two independent full open receiver pans sit below the opposed outlets on the common low plinth. Two continuous sloping cross-supports and four full legs carry the channel bank. All channel floors, sides, open ends, receiver cavity walls/bottoms and frame members are actual closed finite geometry. The alternating opposite-side routing and paired lower receivers differ from one shared ore chute with a centre ridge feeding two adjacent same-side valleys; not a changed ridge count, slotted grain probe or repeated standalone containers. One complete static prop zero scenes, not a separable kit. No real sample division accuracy, flow, processing, food contact, moving parts, capacity, fabrication, load or safety claim.",
+  "bounds": {
+    "x": 1.100000024,
+    "y": 1.5,
+    "z": 1.100000024,
+    "unit": "m"
+  },
+  "triangles": 308,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/agriculture/agriculture-fixed-alternating-chute-twin-pan-sample-divider-01/v1.0.0/model.glb",
+      "size": 26812,
+      "sha256": "4e077590684e086888259a2006f3a2aad6ec3dfd761a6c2cb3bc92150894f6c5"
+    },
+    "blend": {
+      "path": "assets/agriculture/agriculture-fixed-alternating-chute-twin-pan-sample-divider-01/v1.0.0/source.blend",
+      "size": 604232,
+      "sha256": "91eedde88b20e0525c250d3561e43c74f95d08a5558e37afa882710ab50b8c68"
+    },
+    "generator": {
+      "path": "assets/agriculture/agriculture-fixed-alternating-chute-twin-pan-sample-divider-01/v1.0.0/generate.py",
+      "size": 29365,
+      "sha256": "79e798c00e0db97cb424b465c5dd05da0353c7be670f1cb0a66947b50ce36714"
+    },
+    "render": {
+      "path": "assets/agriculture/agriculture-fixed-alternating-chute-twin-pan-sample-divider-01/v1.0.0/thumbnail.png",
+      "size": 529869,
+      "sha256": "ada0bff0c36ee42e7f7349e1563ac158937a561561e957cae7b3ca40ff1b19e9"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
