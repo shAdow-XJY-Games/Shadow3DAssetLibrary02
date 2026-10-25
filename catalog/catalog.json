@@ -1444,6 +1444,11 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary02",
       "commit": "8b699ad61c80e5368a2654205b7c399e84ea1fae"
+    },
+    "original-qualified-batch-1122-volume02-20261025": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary02",
+      "commit": "2842a83372b15243c81d33a27e015a462b50d3a2"
     }
   },
   "assets": [
@@ -49563,6 +49568,135 @@
       "status": "verified",
       "license": "All rights reserved",
       "sourceId": "original-qualified-batch-1119-volume02-20261025"
+    },
+    {
+      "id": "steam-workshop-fixed-open-wafer-and-tilted-disc-valve-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "steam-workshop",
+      "style": "S01-clean-geometric",
+      "title": "Fixed Open Wafer and Tilted Disc Valve",
+      "description": "One complete newly authored static wafer-style disc valve display. A thin whole annular body has a genuine front-to-back opening and four whole open bolt ears. A complete solid disc is fixed at an oblique angle within the throat on a full vertical stem, leaving two real visible side openings. A short upper neck supports one blank quadrant plate, root hub, long lateral lever and thick end grip. A complete shallow display foot and saddle support the assembly. Unlike the older long bulbous handwheel valve, the new main relation is thin ring housing with visible tilted closure disc and lever; not a recoloured wheel, extra pipe or extracted old part. Three opaque PBR materials, metre Z-up and whole-envelope-centred ground origin. Fixed artistic geometry only; no fluid, sealing, pressure, flow control, rotation, actuator function, calibrated stops, flange compatibility, load, installation or safety claim. No animation or interaction.",
+      "bounds": {
+        "x": 0.755145118310151,
+        "y": 0.6543555333214518,
+        "z": 0.965,
+        "unit": "m"
+      },
+      "triangles": 1764,
+      "materials": 3,
+      "files": {
+        "glb": {
+          "path": "assets/steam-workshop/steam-workshop-fixed-open-wafer-and-tilted-disc-valve-01/v1.0.0/model.glb",
+          "size": 77700,
+          "sha256": "1232415addfccaa77cb3316824609793edbba365fe509690cb7390fa2dd84e84"
+        },
+        "blend": {
+          "path": "assets/steam-workshop/steam-workshop-fixed-open-wafer-and-tilted-disc-valve-01/v1.0.0/source.blend",
+          "size": 676784,
+          "sha256": "0fa0e736d1a286ef8e3fd39daf72303289d893d3ba312712927f981039bc7374"
+        },
+        "generator": {
+          "path": "assets/steam-workshop/steam-workshop-fixed-open-wafer-and-tilted-disc-valve-01/v1.0.0/generate.py",
+          "size": 11340,
+          "sha256": "6fe17b1433a0a291df3524ac794fa0293b09dbc277ed1cd15ecb0d6fc35b4e05"
+        },
+        "render": {
+          "path": "assets/steam-workshop/steam-workshop-fixed-open-wafer-and-tilted-disc-valve-01/v1.0.0/thumbnail.png",
+          "size": 439945,
+          "sha256": "e66cbf7a8a0f9210aa503df312b6a920ba5cace54c2fd81bd27c9e918944dc78"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1122-volume02-20261025"
+    },
+    {
+      "id": "technology-fixed-open-rack-and-twin-tie-rod-steering-display-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "technology",
+      "style": "source-preserved-low-poly",
+      "title": "Open Rack And Twin Tie Rod Steering Display",
+      "description": "One newly authored complete fixed rack-and-tie-rod steering-inspired display. A common low bed supports a full horizontal integral-tooth bar in two genuinely bored rectangular guides, a separate upper toothed disk on a supported transverse input shaft, and two independently mounted vertical kingpin groups. Each end of the bar joins a whole diagonal tie rod through a complete short pin; each rod reaches a separate short steering arm on a full bored upright sleeve carrying one outward stub spindle. Two lower support columns and full capped vertical pins retain the outer assemblies. All parts are newly authored numerical geometry, not the old C-frame vertical arbor press laid sideways or an extracted vehicle axle. Unlike the leaf-pack suspension, no bowed leaves, U clamps or shackle links are used. This is one connected fixed illustrative assembly on its entire base, zero scenes, four opaque constant PBR roles, metres and native Z up. The separated gear teeth and fixed rooted link contacts illustrate only arrangement; they are not conjugate gear profiles or validated steering geometry. No wheels, vehicle, driver, wheel alignment, Ackermann accuracy, toe setting, motion, gear meshing, rotation, force transmission, stiffness, suspension, road compatibility, manufacture, installation, operating instructions or mechanical safety capability. No animation, rig or interaction.",
+      "bounds": {
+        "x": 1.7599999904632568,
+        "y": 0.6899999976158142,
+        "z": 0.4716131389141083,
+        "unit": "m"
+      },
+      "triangles": 1844,
+      "materials": 4,
+      "files": {
+        "glb": {
+          "path": "assets/technology/technology-fixed-open-rack-and-twin-tie-rod-steering-display-01/v1.0.0/model.glb",
+          "size": 176156,
+          "sha256": "a40da2d1b728eb4550dfb5745fb2d5a08e5e67491605dbda94ae42f5fd6823f7"
+        },
+        "blend": {
+          "path": "assets/technology/technology-fixed-open-rack-and-twin-tie-rod-steering-display-01/v1.0.0/source.blend",
+          "size": 898816,
+          "sha256": "31dc7996864a0efb03310eac1a4aa8f62e9c2f363a9001618a027ebe5a7ab3b7"
+        },
+        "generator": {
+          "path": "assets/technology/technology-fixed-open-rack-and-twin-tie-rod-steering-display-01/v1.0.0/generate.py",
+          "size": 17767,
+          "sha256": "893c7f78460ab89ff143f48595249ee3f1303943db72eb098baf33f79991d001"
+        },
+        "render": {
+          "path": "assets/technology/technology-fixed-open-rack-and-twin-tie-rod-steering-display-01/v1.0.0/thumbnail.png",
+          "size": 452097,
+          "sha256": "e2e6755b34e1389d26214ce519c3066e0ba7b8d82196db2e2244d02e8e3e7d28"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1122-volume02-20261025"
+    },
+    {
+      "id": "toys-fixed-twin-link-and-jointed-wing-crank-bird-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "toys",
+      "style": "S01-clean-geometric",
+      "title": "Fixed Twin Link and Jointed Wing Crank Bird",
+      "description": "One newly authored complete hand-crank winged-bird toy in a single fixed display pose. A common low wooden bed supports two fore-aft shaft standards, a full longitudinal axle, two offset crank cheeks and separate side linkage rods. Each complete rod joins a distinct short forward rocker at the root of one broad tapered thick wing. Two whole wing hinge pins run fore-aft through finite collars beside an independently authored rounded wooden bird body; a rear upright supports the body above the open crank bay. A short neck and rounded head, blunt beak, two small eyes and a whole fan tail complete the bird silhouette. A forward crank and entire hand grip belong to the low shaft. All visible geometry is newly authored: not an old spring rider with its spring removed, an old animal mounted on a base, or a string puppet with renamed limbs. The two shaft-to-wing rod paths are a fixed illustrative mechanical relationship, not an evaluated kinematic system. Four opaque constant PBR materials, one complete toy prop zero scenes, metres native Z up and complete horizontal-bounds-centred finite base datum. Static display art only: no cranking, wing motion, rigging, working joint travel, transmission ratio, flight, balance, toy operation, child suitability, handling, fabrication, pinch protection or safety claim. Animation and interaction not made.",
+      "bounds": {
+        "x": 0.826,
+        "y": 0.496,
+        "z": 0.626,
+        "unit": "m"
+      },
+      "triangles": 2620,
+      "materials": 4,
+      "files": {
+        "glb": {
+          "path": "assets/toys/toys-fixed-twin-link-and-jointed-wing-crank-bird-01/v1.0.0/model.glb",
+          "size": 145276,
+          "sha256": "939944d9c0acfeecda8a5cebfd245751f17a3455266854dc2a75571af17558f1"
+        },
+        "blend": {
+          "path": "assets/toys/toys-fixed-twin-link-and-jointed-wing-crank-bird-01/v1.0.0/source.blend",
+          "size": 839092,
+          "sha256": "c5da9d8de958b9c010c2ff47d30e1370c61b1a9365f044d6d26012ebf5a75aaa"
+        },
+        "generator": {
+          "path": "assets/toys/toys-fixed-twin-link-and-jointed-wing-crank-bird-01/v1.0.0/generate.py",
+          "size": 12522,
+          "sha256": "fd83cd272baed05a15dbaccfefc4bb49f22d2c97bf468ce48fdb63c949117c48"
+        },
+        "render": {
+          "path": "assets/toys/toys-fixed-twin-link-and-jointed-wing-crank-bird-01/v1.0.0/thumbnail.png",
+          "size": 426775,
+          "sha256": "d05c198fba2fc4819997a8be9dd45558aab232b3d4202644013327f71747806f"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1122-volume02-20261025"
     }
   ]
 }
