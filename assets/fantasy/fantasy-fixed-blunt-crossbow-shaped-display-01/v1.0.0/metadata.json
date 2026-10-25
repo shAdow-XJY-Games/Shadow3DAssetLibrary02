@@ -1,0 +1,42 @@
+{
+  "id": "fantasy-fixed-blunt-crossbow-shaped-display-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "fantasy",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Blunt Crossbow Shaped Display",
+  "description": "One complete newly authored fantasy crossbow-shaped static display prop. A broad blunt solid wooden-shaped body extends longitudinally beneath one full thick transverse curved bow silhouette. A separate fixed decorative cord, empty blunt fore-loop and solid root, butt trim and proud centre binding complete the recognizable whole. The upper body is solid: no projectile track, projectile, release catch, trigger, spring, tension adjustment or usable firing mechanism. Not a rotated old recurve bow or a frame saw with its blade removed; all geometry is new, with a distinct orthogonal stock/limb relationship. Seven closed named editable meshes and three opaque constant PBR materials, metres Z up and bounds-centred ground origin; one prop, zero scenes. Deliberately fictional artistic proportions and fixed solid joins. No weapon construction, physical fabrication, operability, launching, stored energy, range, loading, draw force, material suitability, hand fit or safety claim.",
+  "bounds": {
+    "x": 1.18,
+    "y": 1.105,
+    "z": 0.165,
+    "unit": "m"
+  },
+  "triangles": 380,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/fantasy/fantasy-fixed-blunt-crossbow-shaped-display-01/v1.0.0/model.glb",
+      "size": 22280,
+      "sha256": "ecfe193a797959436960d8ab651166458fe43b04b88d179e2362ff719653acaa"
+    },
+    "blend": {
+      "path": "assets/fantasy/fantasy-fixed-blunt-crossbow-shaped-display-01/v1.0.0/source.blend",
+      "size": 569820,
+      "sha256": "0c852bb7a863e800bc8247f12330bcbf58980f797210c7eb6423a93a0361c893"
+    },
+    "generator": {
+      "path": "assets/fantasy/fantasy-fixed-blunt-crossbow-shaped-display-01/v1.0.0/generate.py",
+      "size": 11007,
+      "sha256": "a727133756f20313cfd75d79c62ef190558d398d6fb82fc87f07f024169317c8"
+    },
+    "render": {
+      "path": "assets/fantasy/fantasy-fixed-blunt-crossbow-shaped-display-01/v1.0.0/thumbnail.png",
+      "size": 376234,
+      "sha256": "450b123fc9dfc81d995c17fe8e71503ce90ea4de10eb7143f665167852359f3e"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

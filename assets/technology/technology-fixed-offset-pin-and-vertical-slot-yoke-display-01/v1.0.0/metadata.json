@@ -1,0 +1,42 @@
+{
+  "id": "technology-fixed-offset-pin-and-vertical-slot-yoke-display-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "technology",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Offset Pin and Vertical Slot Yoke Display",
+  "description": "One newly authored whole static direct-pin slotted-yoke-style display. A complete narrow tall frame has a genuine vertical through slot and two integral horizontal stems, passing through two whole bored guide pedestals on a common grounded bed. Behind that frame one entire circular crank disc carries a separate eccentric pin through the slot and a proud retaining head. A full rear spindle, genuinely bored bearing pedestal and retaining cap complete the assembly. Unlike the old crosshead drive, there is no piston cylinder, inclined two-eye connecting rod or separate flywheel; unlike the old indexing display there is no radial multi-slot wheel or second rotating shaft. All visible geometry newly authored, not old drive parts extracted or a carrier swapped. Four opaque constant PBR materials, metres, Z up and whole centred ground datum, one prop zero scenes. Fixed illustrative roots and clear openings only; no movement, travel envelope, crank-to-slider conversion, continuous engagement, bearing fit, mechanical ratio, torque, force, friction, manufacture, installation, load, operation or safety claim. Rigging, animation and interaction are not made.",
+  "bounds": {
+    "x": 2.4,
+    "y": 0.99,
+    "z": 0.97,
+    "unit": "m"
+  },
+  "triangles": 1400,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/technology/technology-fixed-offset-pin-and-vertical-slot-yoke-display-01/v1.0.0/model.glb",
+      "size": 62380,
+      "sha256": "e6b19ed91393daf992ae36a3c65f089e972186243a646f4c3b3d9f69a003433c"
+    },
+    "blend": {
+      "path": "assets/technology/technology-fixed-offset-pin-and-vertical-slot-yoke-display-01/v1.0.0/source.blend",
+      "size": 652180,
+      "sha256": "bbd5a9f19f1857b5c47dd3de43fa83d1843ad250baa05b5ddd93353072aa4439"
+    },
+    "generator": {
+      "path": "assets/technology/technology-fixed-offset-pin-and-vertical-slot-yoke-display-01/v1.0.0/generate.py",
+      "size": 25936,
+      "sha256": "86d403da5f474eaa8f7530fafd609038b11f5a758b37b886f12e7c434851dcef"
+    },
+    "render": {
+      "path": "assets/technology/technology-fixed-offset-pin-and-vertical-slot-yoke-display-01/v1.0.0/thumbnail.png",
+      "size": 494857,
+      "sha256": "c4619303153340a6ea63099592283771fc4003772bf6d8d9e0fcb80de837d091"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

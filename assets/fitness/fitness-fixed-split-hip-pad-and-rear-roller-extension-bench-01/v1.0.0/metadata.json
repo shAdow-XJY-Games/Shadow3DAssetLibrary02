@@ -1,0 +1,42 @@
+{
+  "id": "fitness-fixed-split-hip-pad-and-rear-roller-extension-bench-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "fitness",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Split Hip Pad and Rear Roller Extension Bench",
+  "description": "One newly authored complete fixed back-extension-bench exterior. A long diagonal main spine rises from a low rear support towards a high transverse underplate carrying two separate thick inclined hip pads with a genuine centre gap. Two side handles curve down from the high pad support. The lower rear end has a whole horizontal foot platform, an independent raised transverse axle and two full ankle-like rollers separated by the central mounting post. A full low tie and steep front stay triangulate the open frame above two broad transverse ground feet. No long back cushion, seated carriage, weights, hinged seat, or slant-board deck is reused. All new numeric geometry, one complete prop and zero scenes, four opaque solid PBR roles, metres Z up, full horizontal bounds centred and finite feet at ground. Generic empty static exercise-equipment appearance only: no adjustment, body fit, exercise benefit, range of motion, force, padding performance, balance, loading, manufacturing or safety validation. No person, animation, rig or interaction.",
+  "bounds": {
+    "x": 0.86,
+    "y": 1.48,
+    "z": 1.1703122292025696,
+    "unit": "m"
+  },
+  "triangles": 576,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/fitness/fitness-fixed-split-hip-pad-and-rear-roller-extension-bench-01/v1.0.0/model.glb",
+      "size": 40776,
+      "sha256": "ac3603a8bb08acdafe8d1d31227260c3d2fa0bae747b3bc6ef22a4945d6467bf"
+    },
+    "blend": {
+      "path": "assets/fitness/fitness-fixed-split-hip-pad-and-rear-roller-extension-bench-01/v1.0.0/source.blend",
+      "size": 654708,
+      "sha256": "15b98765491551813322bbcc4b0a056817745ab8bd6d3b42c6bc8c00d8aa96f6"
+    },
+    "generator": {
+      "path": "assets/fitness/fitness-fixed-split-hip-pad-and-rear-roller-extension-bench-01/v1.0.0/generate.py",
+      "size": 11081,
+      "sha256": "5c5f7c63547bf0f6e2e0795dc8ee3ec950f622ec0e05b46e73a6fcac08f96acd"
+    },
+    "render": {
+      "path": "assets/fitness/fitness-fixed-split-hip-pad-and-rear-roller-extension-bench-01/v1.0.0/thumbnail.png",
+      "size": 429725,
+      "sha256": "6e177921da3a5f4cab3698f3744e7c9a97a1afab79cfc8b77f6065ef5aebf4db"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

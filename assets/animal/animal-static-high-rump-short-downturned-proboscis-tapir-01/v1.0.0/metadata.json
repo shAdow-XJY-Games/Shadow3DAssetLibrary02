@@ -1,0 +1,42 @@
+{
+  "id": "animal-static-high-rump-short-downturned-proboscis-tapir-01",
+  "version": "1.0.0",
+  "category": "modular",
+  "assetKind": "prop",
+  "theme": "animal",
+  "style": "warm-handcrafted-village",
+  "title": "Static High-Rump Short-Downturned-Proboscis Tapir",
+  "description": "One complete newly authored stylised tapir-like quadruped in a fixed four-foot stance. A high rounded rump slopes through a deep barrel torso into a narrow lowered head, whose entire upper muzzle continues as one short downward-curved fleshy proboscis with a small blunt tip, not a separate attached tube. Small rounded upright ears with integral pale rims, small side eyes, four complete short strong legs and shallow broad finite feet, plus a tiny low rear tail complete the animal. All actual body sections, head bend and leg/ear outlines are new. Not a pig with its disk stretched, a hornless rhinoceros or a scaled elephant with a cut-off trunk; no old visible meshes imported. One static whole animal model zero scenes. Artistic external resemblance only, no exact species, anatomical digit count, airway/feeding function, gait, live behavior, rig or handling safety claim.",
+  "bounds": {
+    "x": 0.860000014,
+    "y": 1.970000029,
+    "z": 1.330000043,
+    "unit": "m"
+  },
+  "triangles": 1576,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/animal/animal-static-high-rump-short-downturned-proboscis-tapir-01/v1.0.0/model.glb",
+      "size": 91400,
+      "sha256": "da57e5b624446ca00906230c58021aefdcf6599ebfa7e9a7ddc7df7d18d83068"
+    },
+    "blend": {
+      "path": "assets/animal/animal-static-high-rump-short-downturned-proboscis-tapir-01/v1.0.0/source.blend",
+      "size": 620668,
+      "sha256": "956780a0569df6baefd93eea0bd005af6b97e313e80aeed692b69e326e936c76"
+    },
+    "generator": {
+      "path": "assets/animal/animal-static-high-rump-short-downturned-proboscis-tapir-01/v1.0.0/generate.py",
+      "size": 29615,
+      "sha256": "901b738176f6b17f1d41567a0fb83d288a78ec469439f44025dd5ada24dc83fe"
+    },
+    "render": {
+      "path": "assets/animal/animal-static-high-rump-short-downturned-proboscis-tapir-01/v1.0.0/thumbnail.png",
+      "size": 479513,
+      "sha256": "6a0b1e6566efe9c5be357fc90df09b001e08df2c7f2e6e0f81f416ed14e01c97"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

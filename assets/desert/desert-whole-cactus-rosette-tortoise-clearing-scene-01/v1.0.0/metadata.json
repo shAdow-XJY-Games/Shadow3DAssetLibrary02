@@ -1,0 +1,42 @@
+{
+  "id": "desert-whole-cactus-rosette-tortoise-clearing-scene-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "desert",
+  "style": "source-preserved-faceted-natural-ecology",
+  "title": "Whole Cactus Rosette and Tortoise Clearing",
+  "description": "One static dry-garden wildlife display scene built from three complete qualified original models at unit scale: a tall longitudinally ribbed upright-arm cactus occupies the rear-left planted zone, a complete thick keeled serrate rosette occupies the separate right side, and one full domed tortoise stands in the open lower foreground. The tall rear silhouette and low side planting frame the entire visible tortoise without placing it inside plants or changing its limbs. One closed finite sandy floor is scene-only; a clear front strip remains. All original oriented world triangles and per-face opaque PBR are retained, only whole translations and float32 storage; original hierarchy/normals are baked/recomputed and no GLB-byte identity is claimed. Zero new reusable models, one scene. This is neither the old well/palm/canopy/bench oasis nor the mudbrick/packframe/cargo court with more plants. Static artistic arrangement only, not a claim of exact species co-occurrence, habitat, animal care, food, climate suitability, shade performance, locomotion, navigation, simulation or safety.",
+  "bounds": {
+    "x": 4.0,
+    "y": 4.0,
+    "z": 2.724999905,
+    "unit": "m"
+  },
+  "triangles": 5872,
+  "materials": 12,
+  "files": {
+    "glb": {
+      "path": "assets/desert/desert-whole-cactus-rosette-tortoise-clearing-scene-01/v1.0.0/model.glb",
+      "size": 438944,
+      "sha256": "091c113cf1f715539136e61ba763e16be2e9888713f0efe6ba4b9aeed653761e"
+    },
+    "blend": {
+      "path": "assets/desert/desert-whole-cactus-rosette-tortoise-clearing-scene-01/v1.0.0/source.blend",
+      "size": 1133120,
+      "sha256": "2d0dfc20f0e271a05d7e6fa3c7944f72f8a84dea9a48b742d374d0a5473d75dc"
+    },
+    "generator": {
+      "path": "assets/desert/desert-whole-cactus-rosette-tortoise-clearing-scene-01/v1.0.0/generate.py",
+      "size": 158977,
+      "sha256": "ba080a02c0c1fa03d0202e3fe0665628e75fe64cd7117da8b4fef83ddcf75f44"
+    },
+    "render": {
+      "path": "assets/desert/desert-whole-cactus-rosette-tortoise-clearing-scene-01/v1.0.0/thumbnail.png",
+      "size": 508484,
+      "sha256": "59d5015f44729961a48aaa1eb8e646a967ae6707458f3206d0582715bc48c816"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

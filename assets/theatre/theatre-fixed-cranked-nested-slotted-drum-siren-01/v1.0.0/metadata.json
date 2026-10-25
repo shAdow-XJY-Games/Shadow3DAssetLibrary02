@@ -1,0 +1,42 @@
+{
+  "id": "theatre-fixed-cranked-nested-slotted-drum-siren-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "theatre",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Cranked Nested Slotted Drum Siren",
+  "description": "One newly authored complete static hand-cranked theatrical-siren-style exterior. A broad ground base supports a low upright gear-case housing with a full offset crank and separate hand grip. One horizontal continuous shaft extends forward through a complete annular mounting plate into a genuinely open-ended thick stationary drum with twelve real longitudinal windows. A separate smaller complete windowed rotor is nested inside with visible radial and axial air clearance; four integral-looking front spokes meet its central hub and full shaft. The stationary drum has a separate lower grounded stay, not floating around the rotor. All drum windows are actual finite through openings in connected shared-vertex shells, not black painted stripes. This is not a toothed wooden reed ratchet, twin carding drums or those old parts moved together: every numeric part is newly authored. One whole prop zero scenes, four opaque solid PBR roles, metres Z up, horizontally centred and grounded. Static theatrical prop exterior only, no functional gearing, rotation, airflow, acoustic output, alarm effectiveness, hearing safety, emergency warning, manufacture or operating capability. No internal geartrain, animation, rigging or interaction is promised.",
+  "bounds": {
+    "x": 1.01,
+    "y": 0.55,
+    "z": 0.783,
+    "unit": "m"
+  },
+  "triangles": 2572,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/theatre/theatre-fixed-cranked-nested-slotted-drum-siren-01/v1.0.0/model.glb",
+      "size": 121236,
+      "sha256": "f85d75d6a572c13e1256fac3d3d3d956c0aab313cfdce273274d4d52d9eda854"
+    },
+    "blend": {
+      "path": "assets/theatre/theatre-fixed-cranked-nested-slotted-drum-siren-01/v1.0.0/source.blend",
+      "size": 752512,
+      "sha256": "80e655444002ecdb50b0098ba56ffbd58543f6673f008c97578d5b3ffaeaa9f4"
+    },
+    "generator": {
+      "path": "assets/theatre/theatre-fixed-cranked-nested-slotted-drum-siren-01/v1.0.0/generate.py",
+      "size": 11064,
+      "sha256": "7859cf8510f1bcb91e1773b65d8115a653cbc413c206226a9f857b06c0d3e0ed"
+    },
+    "render": {
+      "path": "assets/theatre/theatre-fixed-cranked-nested-slotted-drum-siren-01/v1.0.0/thumbnail.png",
+      "size": 493621,
+      "sha256": "92c7c1c361660d7e2a60f39dff12c7f700e50d6a20c39278660403bb6fc03352"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

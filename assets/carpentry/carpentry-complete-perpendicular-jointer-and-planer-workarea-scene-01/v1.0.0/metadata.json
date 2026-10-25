@@ -1,0 +1,42 @@
+{
+  "id": "carpentry-complete-perpendicular-jointer-and-planer-workarea-scene-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "carpentry",
+  "style": "source-preserved-low-poly",
+  "title": "Complete Perpendicular Jointer and Planer Workarea",
+  "description": "One complete static woodworking surface-preparation workarea, one scene and zero new independent models. The entire original long-bed jointer stands at the left with its bed axis running front-to-back and visibly open end zones. A whole original open worktable occupies a separate right rear station; the complete qualified thickness planer rests on its four original pads, with its through-feed axis perpendicular to the jointer and its original extension tables and side crank preserved. The machine pad contacts lie inside the real tabletop, while the small side crank may project beyond the tabletop edge. A central open floor strip separates the ground machine from the table, rather than the old paired-sawhorse plank or the joint-sample/plane tabletop with rear tool rack. All three original GLB buffers, local POSITION/NORMAL, material dictionaries, face assignments and internal hierarchy are byte-preserved. Only whole unit-scale exact quarter-turn rotations, translations and one finite scene-only floor are new. No old component is extracted, recoloured or counted as a new model. No timber, feeding path, connected machinery, cutting, power, dust collection, professional workflow, human reach, load, installation or safety claim. Rigging animation and interaction not made.",
+  "bounds": {
+    "x": 3.299999952316284,
+    "y": 3.799999952316284,
+    "z": 1.4500000476837158,
+    "unit": "m"
+  },
+  "triangles": 2344,
+  "materials": 10,
+  "files": {
+    "glb": {
+      "path": "assets/carpentry/carpentry-complete-perpendicular-jointer-and-planer-workarea-scene-01/v1.0.0/model.glb",
+      "size": 236088,
+      "sha256": "893550889d53a5cd2c74fcbc95ff5d77227d6d88bf6ce4d2691f10f573cf7e81"
+    },
+    "blend": {
+      "path": "assets/carpentry/carpentry-complete-perpendicular-jointer-and-planer-workarea-scene-01/v1.0.0/source.blend",
+      "size": 1262816,
+      "sha256": "d4942330ccde26d4153a6fa96a0ccca7ea8fba8afa9146ca34798f0a53c8d651"
+    },
+    "generator": {
+      "path": "assets/carpentry/carpentry-complete-perpendicular-jointer-and-planer-workarea-scene-01/v1.0.0/generate.py",
+      "size": 82224,
+      "sha256": "48f4c89d084f2e0ee243085295ec2d1e79ed01fe195dfabc2cc9f220c17f0bfd"
+    },
+    "render": {
+      "path": "assets/carpentry/carpentry-complete-perpendicular-jointer-and-planer-workarea-scene-01/v1.0.0/thumbnail.png",
+      "size": 461903,
+      "sha256": "602c4f2829713fcc5a34096cbd79554607379d64211940efe2035b941d4a0c1f"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
