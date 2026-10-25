@@ -1559,6 +1559,11 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary02",
       "commit": "4dcf694b83a620f45095394cb41f60b276636345"
+    },
+    "original-qualified-batch-1190-volume02-20261025": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary02",
+      "commit": "97331df41b2ec85f27c6a9653358ac827a44af49"
     }
   },
   "assets": [
@@ -52516,6 +52521,221 @@
       "status": "verified",
       "license": "All rights reserved",
       "sourceId": "original-qualified-batch-1185-volume02-20261025"
+    },
+    {
+      "id": "construction-fixed-z-fold-pipe-and-open-rear-hopper-pump-truck-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "construction",
+      "style": "S01-clean-geometric",
+      "title": "Fixed Z Fold Pipe and Open Rear Hopper Pump Truck",
+      "description": "One wholly newly authored complete truck-mounted concrete-pump-style static exterior. A long three-axle chassis and forward opaque-window cab carry an independent rear pump-cell cover and genuinely deep open blind receiving hopper. Four full deployed side arms terminate in complete posts and flat ground pads. Immediately behind the cab, a separate front pedestal/open root fork carries three full members in a high folded Z silhouette, with distinct complete cross pivots. One continuous genuinely hollow outer pipe follows the full arm path and ends in a descending open terminal, with complete standoffs joining it to the arm members. This is not the old rear-turntable telescopic rung-ladder fire truck with a pipe substituted: there are no side fire compartments, ladder rails, rungs or telescopic section; the overall rear hopper/pump to front articulated carrier and long returning pipe is newly constructed. It is also not a portable tilting drum mixer or old vehicle assembled from extracted meshes. Generic closed-mesh/export mathematics only reused. Four constant opaque PBR materials, metres, Z up, centred complete horizontal envelope, whole tyre facets and pad soles at datum. One prop zero scenes. Empty static art only: no concrete, mixing, pumping, pipe-flow connectivity, pressure, hydraulics, boom movement, steering, support load, stability, operator fit, manufacture, use or safety performance. Rigging, animation and interaction are not made or verified.",
+      "bounds": {
+        "x": 4.76,
+        "y": 8.994999,
+        "z": 4.875,
+        "unit": "m"
+      },
+      "triangles": 3980,
+      "materials": 4,
+      "files": {
+        "glb": {
+          "path": "assets/construction/construction-fixed-z-fold-pipe-and-open-rear-hopper-pump-truck-01/v1.0.0/model.glb",
+          "size": 214336,
+          "sha256": "8f4a5dcb426197c53ba645a675c26669dbcd2c240fb934abd9c0af0d8fa7f5ae"
+        },
+        "blend": {
+          "path": "assets/construction/construction-fixed-z-fold-pipe-and-open-rear-hopper-pump-truck-01/v1.0.0/source.blend",
+          "size": 995624,
+          "sha256": "047868d0783e9de0de0d1d0ae4e39911a3fdcbac67762906ee2a5c0b287da364"
+        },
+        "generator": {
+          "path": "assets/construction/construction-fixed-z-fold-pipe-and-open-rear-hopper-pump-truck-01/v1.0.0/generate.py",
+          "size": 30445,
+          "sha256": "6ba6c2278388fb95157c6ed4596a13b4eb493bb4724f57e7e3ce6b98f36d1aa6"
+        },
+        "render": {
+          "path": "assets/construction/construction-fixed-z-fold-pipe-and-open-rear-hopper-pump-truck-01/v1.0.0/thumbnail.png",
+          "size": 530847,
+          "sha256": "6d7bab3bbb1d4d7e581b1b32b58d3cbecadf7edc1f0caa4c2ddef7360a27c641"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1190-volume02-20261025"
+    },
+    {
+      "id": "industrial-whole-knee-mill-and-trunnion-head-workcorner-scene-01",
+      "version": "1.0.0",
+      "category": "scenes",
+      "assetKind": "scene",
+      "theme": "industrial",
+      "style": "source-preserved-low-poly",
+      "title": "Whole Knee Mill And Trunnion Head Workcorner",
+      "description": "One static machine-preparation workcorner scene, zero new independent models. The entire qualified upright knee-and-cross-table mill stands on the left floor station, with its original broad table and hand controls facing the open front. To the right, one whole raised crank desk is turned ninety degrees and supports the complete newly qualified trunnion index-head apparatus on its actual full base sole. The index head remains a separate empty bench instrument, not mounted to the mill or claimed compatible with it. The desk is behind the leading edge of the floor-standing machine, leaving a shared open foreground and a visible gap between their complete envelopes. One finite scene-only floor supports every actual ground sole. This complete machining-machine plus separate fixture preparation composition differs from the cone/disc teaching comparison and from the two-table forming-machine and front sheet-brake corner; a generic table-and-floor layout is not itself claimed novel. Three complete old instances preserve raw geometry buffers, normals, all material dictionaries and original internal hierarchy under unit-scale rigid placement; no jaw, table, housing, controls or supports are removed, altered, recoloured or counted anew. The scene contains no workpiece, tool operation, actual machining, indexing, calibration, movement, functional connection or installation proof. No load, stability, ergonomic suitability, clear-path accessibility, manufacturing or machinery safety claim. Static empty artistic environment only, no rigging or interaction.",
+      "bounds": {
+        "x": 3.049999952316284,
+        "y": 2.8000000715255737,
+        "z": 1.8580000400543213,
+        "unit": "m"
+      },
+      "triangles": 7508,
+      "materials": 11,
+      "files": {
+        "glb": {
+          "path": "assets/industrial/industrial-whole-knee-mill-and-trunnion-head-workcorner-scene-01/v1.0.0/model.glb",
+          "size": 664132,
+          "sha256": "2f255c14950710bfd873330ba7c718e4802c703dfdd0a5b649a4e293f8becc84"
+        },
+        "blend": {
+          "path": "assets/industrial/industrial-whole-knee-mill-and-trunnion-head-workcorner-scene-01/v1.0.0/source.blend",
+          "size": 1955192,
+          "sha256": "15a92b5f647783c00d3c121e103172b5881445a54c2c17da334b18a393138b23"
+        },
+        "generator": {
+          "path": "assets/industrial/industrial-whole-knee-mill-and-trunnion-head-workcorner-scene-01/v1.0.0/generate.py",
+          "size": 144642,
+          "sha256": "e69ff54545bff984dc08b6af03207604ebe048b0669ac07c98df2f57da7ed733"
+        },
+        "render": {
+          "path": "assets/industrial/industrial-whole-knee-mill-and-trunnion-head-workcorner-scene-01/v1.0.0/thumbnail.png",
+          "size": 493178,
+          "sha256": "8fe2d8d2df76f111b5f3e90c1ebc0f7356668d9bebc727c56073452e370ff1b8"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1190-volume02-20261025"
+    },
+    {
+      "id": "nature-whole-cutoff-horseshoe-lake-and-dry-neck-terrain-01",
+      "version": "1.0.0",
+      "category": "modular",
+      "assetKind": "prop",
+      "theme": "nature",
+      "style": "warm-handcrafted-village",
+      "title": "Whole Cutoff Horseshoe Lake and Dry Neck Terrain",
+      "description": "One newly authored complete static cutoff-horseshoe-lake terrain appearance. A broad irregular outer bank and central raised peninsula are joined by one real dry neck, while a long nearly enclosing crescent of flat opaque water-appearance facets has two separate rounded terminal coves on either side of that neck. Sloping inner and outer banks connect all elevations to one complete finite foundation. All terrain and flat water-appearance facets are one closed shared-vertex solid mesh: no separate floating water slab, transparent decal, carved-through hole, duplicated bend module or hidden unfilled bottom. The lake surface is only an integral opaque material region of this static terrain solid, not a separately modelled fluid volume. This complete enclosed basin and continuous peninsula-neck relationship differs from an open-ended quarter river segment or a rectangular sidepool margin. One terrain model zero scenes. No exact oxbow formation, former river connection, hydrology, water flow or depth, shoreline simulation, modular snap, navigation, walkability or safety claim.",
+      "bounds": {
+        "x": 4.062507629,
+        "y": 3.568101883,
+        "z": 0.439999849,
+        "unit": "m"
+      },
+      "triangles": 3456,
+      "materials": 4,
+      "files": {
+        "glb": {
+          "path": "assets/nature/nature-whole-cutoff-horseshoe-lake-and-dry-neck-terrain-01/v1.0.0/model.glb",
+          "size": 222768,
+          "sha256": "cb9955093dd2d9c19a462eb008ce44d90625755c90b80ec94cbe7bcb8682b8ed"
+        },
+        "blend": {
+          "path": "assets/nature/nature-whole-cutoff-horseshoe-lake-and-dry-neck-terrain-01/v1.0.0/source.blend",
+          "size": 704908,
+          "sha256": "2aeb3b3be1f01bdccf4136a15c0a7d1627e3825d39474bcc8bf9c6c9e6d1c0fd"
+        },
+        "generator": {
+          "path": "assets/nature/nature-whole-cutoff-horseshoe-lake-and-dry-neck-terrain-01/v1.0.0/generate.py",
+          "size": 28897,
+          "sha256": "f5fac7dd9525e4f62c1e5d37da277629824686fbad384090cd8d4825eb3b0c01"
+        },
+        "render": {
+          "path": "assets/nature/nature-whole-cutoff-horseshoe-lake-and-dry-neck-terrain-01/v1.0.0/thumbnail.png",
+          "size": 493562,
+          "sha256": "dacdc5c70444594199be670c7f164ffaf920850a08ae9d8913c4733913c1c5d0"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1190-volume02-20261025"
+    },
+    {
+      "id": "nature-whole-upright-overlapping-petal-cup-tulip-01",
+      "version": "1.0.0",
+      "category": "modular",
+      "assetKind": "prop",
+      "theme": "nature",
+      "style": "warm-handcrafted-village",
+      "title": "Whole Upright Overlapping-Petal Cup Tulip",
+      "description": "One newly authored whole static stylised tulip-like above-ground plant. One gently bowed full stem and two broad upward-curving clasping leaves support a deep upright flower cup formed by six separately thick overlapping petals. Each petal rises from the small green receptacle, swells outward along its middle and turns slightly inward to a rounded free upper lip; the open centre is between the actual petal walls, not a solid painted disk. No separate projecting trumpet or long central column. Entire new stem, broad wrapped leaf and curved cup petal coordinates, not old daffodil corona resized or hibiscus petals counted/recoloured. One plant model zero scenes. Static decorative exterior only; no exact species, stamens/pollen microdetail, roots, growth, pollination, cultivation, toxicity or biological function claim.",
+      "bounds": {
+        "x": 0.713861823,
+        "y": 0.623047709,
+        "z": 1.674999952,
+        "unit": "m"
+      },
+      "triangles": 2096,
+      "materials": 4,
+      "files": {
+        "glb": {
+          "path": "assets/nature/nature-whole-upright-overlapping-petal-cup-tulip-01/v1.0.0/model.glb",
+          "size": 117704,
+          "sha256": "21d8f9944dbe869300846b4295929b3dfbd99642a7dc51e571553184abfb4a7e"
+        },
+        "blend": {
+          "path": "assets/nature/nature-whole-upright-overlapping-petal-cup-tulip-01/v1.0.0/source.blend",
+          "size": 639144,
+          "sha256": "222eacd70d5712f435d2e30a2adb07097ea044ea3571f64a21d827eb9af640dd"
+        },
+        "generator": {
+          "path": "assets/nature/nature-whole-upright-overlapping-petal-cup-tulip-01/v1.0.0/generate.py",
+          "size": 29157,
+          "sha256": "5e71ac03745512e3f6bee5392dd217bdc93da77339942283e9dc5ff1891e293d"
+        },
+        "render": {
+          "path": "assets/nature/nature-whole-upright-overlapping-petal-cup-tulip-01/v1.0.0/thumbnail.png",
+          "size": 494467,
+          "sha256": "d11fdef4cd65e508d5cf828773b3440b09d01e39b196b97d11e9a355d0b8a8fb"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1190-volume02-20261025"
+    },
+    {
+      "id": "office-fixed-twin-blind-pocket-and-roller-paper-folder-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "office",
+      "style": "source-preserved-low-poly",
+      "title": "Fixed Twin Blind Pocket and Roller Paper Folder",
+      "description": "One newly authored complete static twin-pocket paper-folding-machine-style cutaway exterior. A four-foot low base supports two complete shaped bearing cheeks and three independently axled transverse plain rollers. Two entire thick paired-plate blind pockets branch rearward at different upward and downward inclinations, each with a genuine broad thin entrance, continuous side walls and a closed far stop. Each upper plate has two large deliberate inspection windows separated by a full spine and end bridges, exposing the pocket depth rather than resembling a blank paper sheet. One separate front-upper inclined feed tray with guides and two root stays sits above a low front receiving tray. A full side drive-cover exterior, blank control and fixed selector complete the apparatus. All geometry new, not a rotary duplicator with extra trays or a note counter relabelled for paper. One prop zero scenes, three opaque PBR roles, metres and bounds-centred ground origin. No paper contents, sheet routing, printing, folding, driven rollers, gearing, nip pressure, adjustment, fabrication, operation or safety certification. Open visible roll region is an intentional static cutaway; rigging animation interaction not made.",
+      "bounds": {
+        "x": 0.5809999704360962,
+        "y": 1.0148216485977173,
+        "z": 0.667050302028656,
+        "unit": "m"
+      },
+      "triangles": 1676,
+      "materials": 3,
+      "files": {
+        "glb": {
+          "path": "assets/office/office-fixed-twin-blind-pocket-and-roller-paper-folder-01/v1.0.0/model.glb",
+          "size": 159084,
+          "sha256": "41fe807460b72c43d6e5adf50dbd57649ad1b16e0a0efe7dff5109d8562afffc"
+        },
+        "blend": {
+          "path": "assets/office/office-fixed-twin-blind-pocket-and-roller-paper-folder-01/v1.0.0/source.blend",
+          "size": 838016,
+          "sha256": "a42285bfb2bc4f8aeaf95435cc585a5a6434ab4d84e16dc2efa2eac612c98975"
+        },
+        "generator": {
+          "path": "assets/office/office-fixed-twin-blind-pocket-and-roller-paper-folder-01/v1.0.0/generate.py",
+          "size": 18058,
+          "sha256": "d0df762fe4891408cc3699678ca5c4e8cfbd5c4dadb71829e3a5ec8d4f4fcdcd"
+        },
+        "render": {
+          "path": "assets/office/office-fixed-twin-blind-pocket-and-roller-paper-folder-01/v1.0.0/thumbnail.png",
+          "size": 528698,
+          "sha256": "aea2a6228a601ab8c5301100aa585dc6cb1f4079ace537b8962bcebace4b2035"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1190-volume02-20261025"
     }
   ]
 }
