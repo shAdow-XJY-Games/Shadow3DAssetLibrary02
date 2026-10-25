@@ -1,0 +1,42 @@
+{
+  "id": "railway-fixed-circular-pit-and-centre-pivot-turntable-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "railway",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Circular Pit and Centre Pivot Turntable",
+  "description": "One whole original fixed railway turntable appearance: continuous circular pit floor and raised rim, complete circular running ring, central pedestal, complete narrow girder and planked rail bridge, two I-section tracks, end wheels and axles, and one side handrail. The pit is open around the bridge and below its deck rather than a flat decorated disc. No old turnout, train, bench or machine mesh imported. Three opaque constant PBR materials, metres, Z up and horizontal bounds-centred ground origin. One static prop, zero scenes. No rotation, track gauge compatibility, rail alignment, load rating, engineering design, installation, traversability or operating safety claim.",
+  "bounds": {
+    "x": 4.3,
+    "y": 4.3,
+    "z": 0.871,
+    "unit": "m"
+  },
+  "triangles": 2124,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/railway/railway-fixed-circular-pit-and-centre-pivot-turntable-01/v1.0.0/model.glb",
+      "size": 113180,
+      "sha256": "527ae4096bc7b20223ede97b850f34f73efb54061a20b9427b3fc19a22d1ce55"
+    },
+    "blend": {
+      "path": "assets/railway/railway-fixed-circular-pit-and-centre-pivot-turntable-01/v1.0.0/source.blend",
+      "size": 802540,
+      "sha256": "054c78165a6b4207446aec8dcd30e41082f01cf30b8a5fbb97275b979590f2fb"
+    },
+    "generator": {
+      "path": "assets/railway/railway-fixed-circular-pit-and-centre-pivot-turntable-01/v1.0.0/generate.py",
+      "size": 10665,
+      "sha256": "4a23cd317d3f7e3d2932143e044f61eb0673e7967904ebbe35fa8622c8b1ed69"
+    },
+    "render": {
+      "path": "assets/railway/railway-fixed-circular-pit-and-centre-pivot-turntable-01/v1.0.0/thumbnail.png",
+      "size": 407438,
+      "sha256": "a93f1f8c251eb9b218b180c1fb0f826f1a4e90c94fa6969db41c07f539d70657"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

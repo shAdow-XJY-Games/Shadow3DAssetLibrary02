@@ -1,0 +1,42 @@
+{
+  "id": "technology-fixed-offset-shafts-and-orthogonal-key-disc-coupling-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "technology",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Offset Shafts and Orthogonal Key Disc Coupling",
+  "description": "One independently authored complete static offset-parallel-shaft connector display. A single broad foot supports two whole pedestals and complete bored bearing sleeves at different fixed heights. Two horizontal collared shafts terminate in two entire circular hubs, one with a real vertical recessed inward groove and the other with a perpendicular horizontal groove. One central closed disc has two integral full raised tongues on its opposite faces; the complete keys enter the matching real slots, while broad exposed axial sections of each fixed tongue make their perpendicular relation readable. Display spacing is intentionally extended for visibility, not an engineering proportion or operating configuration. All disc faces, finite slot floors/sidewalls, raised-key risers and peripheral walls are newly authored continuous material surfaces; not separate blocks pasted on old disks. No old Cardan forks/trunnions, drawing-trammel plates/sliders or other asset geometry imported. This is one whole Oldham-style illustrative connection assembly, zero scenes and no extra counted components. Four opaque constant untextured PBR roles, metres, Z up and horizontal-bounds-centred whole ground sole. Fixed artistic overlaps and intervals only; no working fit, sliding, velocity, torque/power transmission, shaft compatibility, lubrication, manufacture, load, installation, engineering or safety claims. Rigging, motion and interaction are not produced or verified.",
+  "bounds": {
+    "x": 1.44,
+    "y": 0.6,
+    "z": 0.665,
+    "unit": "m"
+  },
+  "triangles": 2696,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/technology/technology-fixed-offset-shafts-and-orthogonal-key-disc-coupling-01/v1.0.0/model.glb",
+      "size": 117292,
+      "sha256": "e8816b06767b56676e78e7892215aff3275441c4f21828e21e6765e2c41d9c0e"
+    },
+    "blend": {
+      "path": "assets/technology/technology-fixed-offset-shafts-and-orthogonal-key-disc-coupling-01/v1.0.0/source.blend",
+      "size": 712404,
+      "sha256": "6f4f91cd7464854bed86c95e2258a4e37ab92d99d3ef775aa771574938a44b61"
+    },
+    "generator": {
+      "path": "assets/technology/technology-fixed-offset-shafts-and-orthogonal-key-disc-coupling-01/v1.0.0/generate.py",
+      "size": 28073,
+      "sha256": "08c266651cf86ab116e5be07cc941d86ce286f9c2f806ac08eeaf50e0f452890"
+    },
+    "render": {
+      "path": "assets/technology/technology-fixed-offset-shafts-and-orthogonal-key-disc-coupling-01/v1.0.0/thumbnail.png",
+      "size": 509174,
+      "sha256": "451529299652ed809491ecf8bdd8f8ddb6a73f2ebd8f0b4342d1746743a77b48"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

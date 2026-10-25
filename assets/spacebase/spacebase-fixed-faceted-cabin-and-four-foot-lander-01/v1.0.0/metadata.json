@@ -1,0 +1,42 @@
+{
+  "id": "spacebase-fixed-faceted-cabin-and-four-foot-lander-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "spacebase",
+  "style": "source-preserved-low-poly",
+  "title": "Fixed Faceted Cabin And Four Foot Lander",
+  "description": "One newly authored complete fictional four-foot landing-craft exterior. A broad octagonal lower equipment body supports an offset faceted upper cabin with two opaque dark front facet windows. A continuous thick downward-open blind bell sits under the common stage. Four independent new short inclined legs and eight complete side braces join the lower body to four whole round low footpads. A complete front ladder with two long rails and five full cross rungs joins a small fixed front hatch to the forward pad. All geometry newly authored; no old isolated landing-strut modules or rover meshes copied, resized, extracted or counted again. Unlike the existing single inclined stepped barrel and its paired side links, this asset is a whole craft body and cabin with short triangular leg frames arranged around one underbody bell. Unlike the sampling rover, it has no wheels, dual-link side bogies, receiver well or coring tower. One prop zero scenes, four opaque constant PBR roles, metre units Z up. Fictional game-art appearance only, no real mission design, interior, occupants, terrain or national markings. Blind bell is a thick decorative exterior, not a propulsion nozzle. Fixed overlaps are visual roots only. No flight, propulsion, landing, deployment, ladder use, structure, pressure, human occupancy, space qualification, manufacture or safety capability. Rigging animation and interaction not made.",
+  "bounds": {
+    "x": 2.799999952316284,
+    "y": 2.799999952316284,
+    "z": 1.850000023841858,
+    "unit": "m"
+  },
+  "triangles": 1300,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/spacebase/spacebase-fixed-faceted-cabin-and-four-foot-lander-01/v1.0.0/model.glb",
+      "size": 130332,
+      "sha256": "00c854a13701afa925f6a9b24f5bf612b874b8ad3cf40572af787bbbd33e6302"
+    },
+    "blend": {
+      "path": "assets/spacebase/spacebase-fixed-faceted-cabin-and-four-foot-lander-01/v1.0.0/source.blend",
+      "size": 828496,
+      "sha256": "6f523cbe0c92067596d33198a5fd39601f4091c0cce55345795ed8b20b239229"
+    },
+    "generator": {
+      "path": "assets/spacebase/spacebase-fixed-faceted-cabin-and-four-foot-lander-01/v1.0.0/generate.py",
+      "size": 18043,
+      "sha256": "c379cface611d5cbc839e37e73f44204d5001d5fe70e00cdf8a600a91416b341"
+    },
+    "render": {
+      "path": "assets/spacebase/spacebase-fixed-faceted-cabin-and-four-foot-lander-01/v1.0.0/thumbnail.png",
+      "size": 533514,
+      "sha256": "41a0cf559fd17da88f1249f88e4ce95bf7e6f31d2a22cc00e4bd8280ba649a61"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

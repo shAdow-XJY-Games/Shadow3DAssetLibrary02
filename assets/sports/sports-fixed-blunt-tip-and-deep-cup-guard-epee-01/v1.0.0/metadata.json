@@ -1,0 +1,42 @@
+{
+  "id": "sports-fixed-blunt-tip-and-deep-cup-guard-epee-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "sports",
+  "style": "source-preserved-low-poly",
+  "title": "Fixed Blunt Tip And Deep Cup Guard Epee",
+  "description": "One newly authored complete static blunt fencing-implement appearance. A continuous long slender tapered triangular-section rod passes through the narrow central root of a complete thick open cup guard. The deep rear-facing guard has a real interior and full rolled-looking rim; a short dark subtly waisted axial grip, front ferrule and independent rear pommel sit behind it. A separate oversized blunt terminal button caps the forward end. All whole components are new numeric geometry, not a golf club with a resized striking head or an old portion scoop with its handles removed. Unlike the offset cavity-back iron head and heel shaft, the long fine rod continues through a coaxial protective-cup shape to the short hand section. Unlike the squeeze scoop there is no swept ribbon, lever pair or pivot. One prop zero scenes; four opaque constant PBR roles, metre units Z up and bounds-centred ground datum. Fixed horizontal display only. The guard has a small finite flat bottom strip as an artistic display contact; no balance or real-use claim. No sharpened point or edge, flex simulation, electrical scoring mechanism, sports dimensions, fit, combat instruction, actual fighting or sporting performance, protective efficacy, manufacture or safety capability. No person, mask, mat, rig, animation or interaction.",
+  "bounds": {
+    "x": 0.1592295616865158,
+    "y": 1.100000023841858,
+    "z": 0.1592295616865158,
+    "unit": "m"
+  },
+  "triangles": 1236,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/sports/sports-fixed-blunt-tip-and-deep-cup-guard-epee-01/v1.0.0/model.glb",
+      "size": 109160,
+      "sha256": "b88b99182c2cd9194ab1a6ca4200da2662390a54ebb4296e287c8fd00bea0a88"
+    },
+    "blend": {
+      "path": "assets/sports/sports-fixed-blunt-tip-and-deep-cup-guard-epee-01/v1.0.0/source.blend",
+      "size": 722528,
+      "sha256": "e25dd4599cd6e5e7348ae9693358478804c6b2f931c6c89d5d2695f6cab051f2"
+    },
+    "generator": {
+      "path": "assets/sports/sports-fixed-blunt-tip-and-deep-cup-guard-epee-01/v1.0.0/generate.py",
+      "size": 17754,
+      "sha256": "dc680b4b963030ba629aa2b1ecc39332e677d39545a7d6c196da11d6d76312a7"
+    },
+    "render": {
+      "path": "assets/sports/sports-fixed-blunt-tip-and-deep-cup-guard-epee-01/v1.0.0/thumbnail.png",
+      "size": 389815,
+      "sha256": "0ea1c7a8fb6969dd2f00f17acf2e08e934d8bf44565b3452954980c303e078da"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

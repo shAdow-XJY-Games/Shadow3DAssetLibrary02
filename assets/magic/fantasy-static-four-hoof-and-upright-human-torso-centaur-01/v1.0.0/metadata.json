@@ -1,0 +1,42 @@
+{
+  "id": "fantasy-static-four-hoof-and-upright-human-torso-centaur-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "magic",
+  "style": "S01-clean-geometric",
+  "title": "Static Four Hoof and Upright Human Torso Centaur",
+  "description": "One independently authored whole static centaur-inspired fantasy character. A complete new deep quadruped trunk has four entire jointed standing legs with integral broad finite hooves and one hanging tapered tail. A new continuous clothed human-like waist, chest, shoulders, neck and head rises from the front of that lower trunk; two complete relaxed bent arms terminate in blunt stylised hands. Embedded dark eyes and a finite blunt nose define the face, while tunic/hair colours are integral surface regions. All proportions, sections and limb paths are newly authored as one coherent static character, not a catalog horse with its head removed and an extracted marionette set on top; no old mesh or old character coordinates are imported. One character prop, zero scenes; five opaque constant untextured PBR roles, metres, Z up, full horizontal bounds-centred ground origin on four actual hoof soles. No weapons or extra costume assets. Stylised fantasy art only, not human/equine anatomical fidelity, species realism, load-bearing/riding, biological or safety claim. Fine articulated fingers, rigging, skeletal animation, motion, interaction and collision are not produced or verified and are outside this static delivery.",
+  "bounds": {
+    "x": 1.124,
+    "y": 1.907967,
+    "z": 2.32,
+    "unit": "m"
+  },
+  "triangles": 2352,
+  "materials": 5,
+  "files": {
+    "glb": {
+      "path": "assets/magic/fantasy-static-four-hoof-and-upright-human-torso-centaur-01/v1.0.0/model.glb",
+      "size": 173052,
+      "sha256": "51755ec56aca13d1068b36971a2335e5d23ca6cd16c76ed27189b42cb7c6afef"
+    },
+    "blend": {
+      "path": "assets/magic/fantasy-static-four-hoof-and-upright-human-torso-centaur-01/v1.0.0/source.blend",
+      "size": 737340,
+      "sha256": "7a457f1639c0202d8c596f1c118ab4396c75c39f7ac8a79436112e69fa7444ca"
+    },
+    "generator": {
+      "path": "assets/magic/fantasy-static-four-hoof-and-upright-human-torso-centaur-01/v1.0.0/generate.py",
+      "size": 27692,
+      "sha256": "0b6b28e1af1f8a433a30b792cc3394ae381c4db596b628e1fcf774a7480ea4b9"
+    },
+    "render": {
+      "path": "assets/magic/fantasy-static-four-hoof-and-upright-human-torso-centaur-01/v1.0.0/thumbnail.png",
+      "size": 491769,
+      "sha256": "913e1faf2810168e0a7bcbb658e895a89844a7bc2defdad3b926b870e77a8c74"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

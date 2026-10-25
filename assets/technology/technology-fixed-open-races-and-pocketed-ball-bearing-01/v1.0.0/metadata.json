@@ -1,0 +1,42 @@
+{
+  "id": "technology-fixed-open-races-and-pocketed-ball-bearing-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "technology",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Open Races and Pocketed Ball Bearing",
+  "description": "One newly authored whole static open ball-bearing appearance. Two complete concentric thick annular races have genuinely concave opposed grooves around a row of complete rounded balls. The central shaft bore is entirely open. One complete continuous lower annular cage with full upright separators defines actual upper-open ball pockets; this is an open comb-like cage, not claimed closed ball windows or a sealed bearing. Its low ring intentionally engages the fixed ball bottoms. Race and ball clearances are fixed illustrative separations, not running fits. No old gimbal, single bored rod-end sphere, shaft, pedestal or machine mesh imported. Three opaque constant PBR materials, metres, Z up and full horizontal-bounds-centred ground origin; one prop, zero scenes. Static display only: no rolling, friction, speed, precision, lubrication, bearing fit, load or torque transfer, installation, manufacture or mechanical safety claim.",
+  "bounds": {
+    "x": 0.72,
+    "y": 0.72,
+    "z": 0.12,
+    "unit": "m"
+  },
+  "triangles": 5368,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/technology/technology-fixed-open-races-and-pocketed-ball-bearing-01/v1.0.0/model.glb",
+      "size": 293024,
+      "sha256": "ea7df4584841c75d9ec3c595a4d83357805fcfcedf422704e2d7d0d9ae213638"
+    },
+    "blend": {
+      "path": "assets/technology/technology-fixed-open-races-and-pocketed-ball-bearing-01/v1.0.0/source.blend",
+      "size": 866836,
+      "sha256": "fb40d150b7dc5f5294feb8b77b0979cad8d05de3db275237f6fb48b74558b18b"
+    },
+    "generator": {
+      "path": "assets/technology/technology-fixed-open-races-and-pocketed-ball-bearing-01/v1.0.0/generate.py",
+      "size": 10903,
+      "sha256": "5d057e8c12e8c0e13834485a379e0ca3fc669b1dfda7b738d756be1bcfb0b114"
+    },
+    "render": {
+      "path": "assets/technology/technology-fixed-open-races-and-pocketed-ball-bearing-01/v1.0.0/thumbnail.png",
+      "size": 504875,
+      "sha256": "4e539aa653fe06c12fc5e6a8b74bda6b4cf2b9d415aff3979aba19d8ef3e4e79"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

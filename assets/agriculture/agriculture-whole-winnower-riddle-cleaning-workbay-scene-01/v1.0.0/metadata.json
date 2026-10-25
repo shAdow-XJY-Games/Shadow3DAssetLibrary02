@@ -1,0 +1,42 @@
+{
+  "id": "agriculture-whole-winnower-riddle-cleaning-workbay-scene-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "agriculture",
+  "style": "source-preserved-faceted-natural-ecology",
+  "title": "Whole Winnower and Seed Riddle Cleaning Workbay",
+  "description": "One static grain-cleaning workbay scene, zero new models. Two entire qualified unit-scale original apparatus occupy separate stations on one finite scene-only floor: the rounded drum-cased winnower with its high open hopper and sloping discharge trough at left, and the tall suspended open seed-riddle grid with lower collection pan at right. The distinct complete output and handle regions remain visible above a shared empty front strip. Every original oriented world triangle and per-face opaque constant PBR is retained with only whole translations and float32 storage; hierarchy and normals are baked/recomputed, not original GLB bytes. No extracted components, duplicate machines, rescaling or recoloring. Unlike the existing silo service yard this contains neither silo, barrow, tool rack nor basket. Static illustrative arrangement only; no grain flow, screening, airflow, machinery operation, food suitability, navigation, reach or structural safety claim.",
+  "bounds": {
+    "x": 3.599999905,
+    "y": 2.5,
+    "z": 1.24000001,
+    "unit": "m"
+  },
+  "triangles": 1912,
+  "materials": 8,
+  "files": {
+    "glb": {
+      "path": "assets/agriculture/agriculture-whole-winnower-riddle-cleaning-workbay-scene-01/v1.0.0/model.glb",
+      "size": 117708,
+      "sha256": "8fcfe42b0e4a709aa97f881ee75d80618bb5a17245b873bb0479b9274caa4903"
+    },
+    "blend": {
+      "path": "assets/agriculture/agriculture-whole-winnower-riddle-cleaning-workbay-scene-01/v1.0.0/source.blend",
+      "size": 964540,
+      "sha256": "c049e78daac8428303e59b4fa9f4d627cbf7e79660c5b27ae74e9430a5cf8d83"
+    },
+    "generator": {
+      "path": "assets/agriculture/agriculture-whole-winnower-riddle-cleaning-workbay-scene-01/v1.0.0/generate.py",
+      "size": 62402,
+      "sha256": "fe1322209f2c2108e390ced02ad0614fbc3cdc5855183d77902dc870ad081a17"
+    },
+    "render": {
+      "path": "assets/agriculture/agriculture-whole-winnower-riddle-cleaning-workbay-scene-01/v1.0.0/thumbnail.png",
+      "size": 512703,
+      "sha256": "07d7af9baa765bc34ed692c901f2b166dc2740b4041d2d385a7628a618342e5e"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

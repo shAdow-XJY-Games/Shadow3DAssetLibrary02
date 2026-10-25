@@ -1,0 +1,42 @@
+{
+  "id": "publishing-fixed-long-bed-and-traversing-cylinder-proof-press-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "publishing",
+  "style": "source-preserved-low-poly",
+  "title": "Fixed Long Bed and Traversing Cylinder Proof Press",
+  "description": "One newly authored complete static long-bed cylinder-proof-press appearance. Four whole grounded shoes and legs carry two long side beams, low cross ties and one full empty horizontal type bed. Two raised longitudinal rails extend beyond a complete fixed carriage: each actual underside-grooved saddle supports a full bearing seat, and one transverse shaft carries a single broad closed cylinder above the bed. A separate full open-spoked side handwheel has its entire annular rim, hub and outboard crank grip; finite rail-end stops finish the exterior. No old printing platen, cloth-wringer or lying-press parts are imported, resized or cropped. Three opaque materials, one prop zero scenes. Fixed empty occupational display only: no letters, artwork, paper, ink, sharp edge, cylinder rolling, carriage travel, driven gears, pressure, printing capability, manufacture, operating instructions or equipment safety. Rigging animation and interaction not made.",
+  "bounds": {
+    "x": 0.9120000004768372,
+    "y": 1.3700000047683716,
+    "z": 0.6650000214576721,
+    "unit": "m"
+  },
+  "triangles": 1428,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/publishing/publishing-fixed-long-bed-and-traversing-cylinder-proof-press-01/v1.0.0/model.glb",
+      "size": 142052,
+      "sha256": "428ca306e3025a4c305ce614bdc534954009125b1f10dc768222730ead8b2226"
+    },
+    "blend": {
+      "path": "assets/publishing/publishing-fixed-long-bed-and-traversing-cylinder-proof-press-01/v1.0.0/source.blend",
+      "size": 843168,
+      "sha256": "236d4ab21079bff011c3891597fed556023d43dbcba52167eb7b44c013d1ffa3"
+    },
+    "generator": {
+      "path": "assets/publishing/publishing-fixed-long-bed-and-traversing-cylinder-proof-press-01/v1.0.0/generate.py",
+      "size": 15690,
+      "sha256": "d4203e107df6d462fc197c921e48b6df1b120e435896772d3e461a169c17c3c3"
+    },
+    "render": {
+      "path": "assets/publishing/publishing-fixed-long-bed-and-traversing-cylinder-proof-press-01/v1.0.0/thumbnail.png",
+      "size": 502415,
+      "sha256": "fa84891cd66f4dac4a73e3a924ec0631b2cd1740066adebbadd547d17b8e1ef1"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

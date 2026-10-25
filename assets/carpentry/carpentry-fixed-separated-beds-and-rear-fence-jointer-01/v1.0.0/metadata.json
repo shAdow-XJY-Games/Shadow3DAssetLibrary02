@@ -1,0 +1,42 @@
+{
+  "id": "carpentry-fixed-separated-beds-and-rear-fence-jointer-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "carpentry",
+  "style": "source-preserved-low-poly",
+  "title": "Fixed Separated Beds and Rear Fence Jointer",
+  "description": "One newly authored complete static long-bed jointer-style machine exterior. A footed low chamfered cabinet supports two separate long metal-looking beds with a genuine central transverse opening and a small fixed height difference. One complete blunt drum and shaft are recessed below that mouth on full bearing supports. A broad high rear fence spans both beds and is rooted by two complete bent support stays. A whole rounded raised mouth guard connects to its fixed side pivot and arm; a proud front panel and one blank switch finish the exterior. No old bandsaw or thickness-planer geometry is imported: the open-top long beds and independent fence differ from a tall band-wheel housing and from an overhead-head feed portal. Three opaque materials, one model zero scenes. Empty fixed visual art only, no sharpened cutter edges, timber payload, spindle motion, feed, cutting or thickness performance, fence adjustment, effective guarding, operating instructions, manufacture, load or safety certification. Rigging animation and interaction not made.",
+  "bounds": {
+    "x": 1.7400000095367432,
+    "y": 0.5547122955322266,
+    "z": 1.065000057220459,
+    "unit": "m"
+  },
+  "triangles": 844,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/carpentry/carpentry-fixed-separated-beds-and-rear-fence-jointer-01/v1.0.0/model.glb",
+      "size": 85748,
+      "sha256": "0f0b52a239879ad88fe345984d640fa6b5c6af6779ba559a52b7e6270ca0ffed"
+    },
+    "blend": {
+      "path": "assets/carpentry/carpentry-fixed-separated-beds-and-rear-fence-jointer-01/v1.0.0/source.blend",
+      "size": 726016,
+      "sha256": "9f0d75ae3ad467bd8f319cfc72a768a892e6941ce538a52afe31a588310aca75"
+    },
+    "generator": {
+      "path": "assets/carpentry/carpentry-fixed-separated-beds-and-rear-fence-jointer-01/v1.0.0/generate.py",
+      "size": 15654,
+      "sha256": "a9a097f03cd515db897c8e0105cbd4c06f3e53b2802da733615a1bd1d412cfac"
+    },
+    "render": {
+      "path": "assets/carpentry/carpentry-fixed-separated-beds-and-rear-fence-jointer-01/v1.0.0/thumbnail.png",
+      "size": 490820,
+      "sha256": "d3b7546d94f268bd9b5a0221d1e85847b04f16c8b2d7dd042d100d66b16141b5"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "entertainment-whole-pinsetter-and-return-preparation-layout-scene-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "entertainment",
+  "style": "source-preserved-low-poly",
+  "title": "Whole Pinsetter and Return Preparation Layout",
+  "description": "One static empty bowling-equipment preparation layout using two complete qualified originals and zero new independent models. A whole guided pinsetting machine occupies the far end of a long blank approach strip; the intact hood-and-hairpin ball-return terminal sits near the front on a separated side bay. The machine face and return cradle both point toward the near preparation area, but their complete ground footprints do not overlap. A single continuous scene-only floor has a pale central longitudinal region assigned to its own original top triangles, not a coplanar decal. This lengthwise far-machine and near-side-terminal organization is not the old court end-goal layout, table skittles or the previous side-by-side mechanical-effects workcorner. Both complete source GLBs, all mesh buffers, internal hierarchy, oriented geometry and full PBR remain unchanged at original unit scale; only whole translations are made. No pins are inserted into unvalidated machine apertures, no ball or hidden transfer path is implied. One scene zero new independent models, two whole reused props. This is a compressed static equipment exhibit, not a regulation bowling lane or operational alley. No working pinsetter, ball circulation, rolling path, scoring, dimensions compliance, ergonomic clearance, installation, load, operation or safety claim. Rigging animation interaction are not made.",
+  "bounds": {
+    "x": 2.9000000953674316,
+    "y": 5.900000095367432,
+    "z": 1.8600000143051147,
+    "unit": "m"
+  },
+  "triangles": 4796,
+  "materials": 8,
+  "files": {
+    "glb": {
+      "path": "assets/entertainment/entertainment-whole-pinsetter-and-return-preparation-layout-scene-01/v1.0.0/model.glb",
+      "size": 244316,
+      "sha256": "1d5a7aadc32f54ddee819068e306424c1ba6891395e8d91b523c5fa7ee3f4168"
+    },
+    "blend": {
+      "path": "assets/entertainment/entertainment-whole-pinsetter-and-return-preparation-layout-scene-01/v1.0.0/source.blend",
+      "size": 1395296,
+      "sha256": "4a82cced66475ce7f806e343c9d16476fc960f9fabe5a4f1b01d0a1447d47183"
+    },
+    "generator": {
+      "path": "assets/entertainment/entertainment-whole-pinsetter-and-return-preparation-layout-scene-01/v1.0.0/generate.py",
+      "size": 86527,
+      "sha256": "bd959c0f237f28dcf58ae75fac843cc1b83e5cd592de429e8797b8da12b0df0d"
+    },
+    "render": {
+      "path": "assets/entertainment/entertainment-whole-pinsetter-and-return-preparation-layout-scene-01/v1.0.0/thumbnail.png",
+      "size": 514911,
+      "sha256": "a0c193e9391f1811a317dc980759d48b29612fb2769bb57ffe0c0d98dfef5663"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

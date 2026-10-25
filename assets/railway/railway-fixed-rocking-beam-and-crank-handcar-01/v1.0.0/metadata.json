@@ -1,0 +1,42 @@
+{
+  "id": "railway-fixed-rocking-beam-and-crank-handcar-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "railway",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Rocking Beam and Crank Handcar",
+  "description": "One complete newly authored static railway pump-handcar appearance. Four complete flanged wheels on two continuous transverse axles support a low frame and paired long standing boards separated by a true central slot. Two open A-shaped pedestal supports carry a transverse pivot and one inclined full rocking beam with two wide transverse hand grips. An entire connecting rod descends through the deck gap to an offset front-axle crank and its real cross pin. This is not the old toolbox inspection trolley with a different push handle: the central open pumping structure and through-deck drive path are independently drawn. Three opaque constant PBR materials, metres, Z up and horizontal bounds-centred ground origin. No old vehicle or grindstone meshes imported. One prop, zero scenes; no person, track, rigging or animation. Static visual roots and overlaps only, not engineered bearings. No pumping, propulsion, gear ratio, travel, rail gauge compatibility, load, ergonomics, manufacture or operating safety claim.",
+  "bounds": {
+    "x": 2.04,
+    "y": 1.54,
+    "z": 1.2892000000000001,
+    "unit": "m"
+  },
+  "triangles": 2572,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/railway/railway-fixed-rocking-beam-and-crank-handcar-01/v1.0.0/model.glb",
+      "size": 123420,
+      "sha256": "c9ccac468173d20001945f01462ec55a7a7649c746763308031a79aea610a981"
+    },
+    "blend": {
+      "path": "assets/railway/railway-fixed-rocking-beam-and-crank-handcar-01/v1.0.0/source.blend",
+      "size": 803660,
+      "sha256": "e49d1e7ade98792344d52f6e1ea66221d23ef6dd4ab9ba4da60753bccc93905b"
+    },
+    "generator": {
+      "path": "assets/railway/railway-fixed-rocking-beam-and-crank-handcar-01/v1.0.0/generate.py",
+      "size": 12078,
+      "sha256": "4ae5cfb72f046624b1e353adefde5402d66e434e1d84788708d9384e6ea70cb8"
+    },
+    "render": {
+      "path": "assets/railway/railway-fixed-rocking-beam-and-crank-handcar-01/v1.0.0/thumbnail.png",
+      "size": 449656,
+      "sha256": "e570db3fd661ebfa1f331a4bc883ed410cc495fa236e3793f261f3ec19d79082"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
