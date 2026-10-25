@@ -1429,6 +1429,11 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary02",
       "commit": "1fe248d651a98f044cdd57397dc0a7fcb0ecf7fe"
+    },
+    "theme-maintenance-three-assets-20261025": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary02",
+      "commit": "0f429ec57df0b6ceb15cad28672d068e12a89c1a"
     }
   },
   "assets": [
@@ -48694,7 +48699,7 @@
       "version": "1.0.0",
       "category": "props",
       "assetKind": "prop",
-      "theme": "music",
+      "theme": "entertainment",
       "style": "S01-clean-geometric",
       "title": "Fixed Central Mirror Prism and Open Picture Tray",
       "description": "One newly authored whole static mirror-carousel optical-toy appearance. A broad turned pedestal and short full spindle support a low open circular tray. Its complete inner picture band surrounds a separate tall central twelve-sided prism whose outward faces have standard metallic PBR; a visible annular empty interval separates the two. The outer band is low and entirely open above, with no vertical viewing slots or enclosing upper drum. Invented simple dark stepped marks are actual material regions of the thick band, not images or copied animation frames. A single whole closed prism carries all twelve faces as material regions, not twelve unrelated mirrors assembled into a scene. This complete center-prism to outward-picture-band organization differs from the old high slotted viewing drum and from the old single flat freestanding mirror. All numeric geometry is new and no old meshes imported. One model zero scenes, four constant untextured opaque PBR appearances; metres native Z up, whole horizontal-envelope-centred ground origin. Static illustrative exterior only: no calibrated optical geometry, reflected image accuracy, apparent animation, rotation, visual persistence, timing, educational outcome, manufacture or toy safety. No binding, animation or interaction.",
@@ -48708,29 +48713,29 @@
       "materials": 4,
       "files": {
         "glb": {
-          "path": "assets/music/entertainment-fixed-central-mirror-prism-and-open-picture-tray-01/v1.0.0/model.glb",
+          "path": "assets/entertainment/entertainment-fixed-central-mirror-prism-and-open-picture-tray-01/v1.0.0/model.glb",
           "size": 233376,
           "sha256": "e1a7bef95a77625785223a93d0c969fad55943236397be84969c8ffbf7d1cff0"
         },
         "blend": {
-          "path": "assets/music/entertainment-fixed-central-mirror-prism-and-open-picture-tray-01/v1.0.0/source.blend",
+          "path": "assets/entertainment/entertainment-fixed-central-mirror-prism-and-open-picture-tray-01/v1.0.0/source.blend",
           "size": 868372,
           "sha256": "fc9f76178df89fe81636868f885a551e6bec0fb67f7696a3e5d3f796fd8c7a63"
         },
         "generator": {
-          "path": "assets/music/entertainment-fixed-central-mirror-prism-and-open-picture-tray-01/v1.0.0/generate.py",
-          "size": 10999,
-          "sha256": "e400af3a49e2048ec201ace2357fa23f761c77428e7b8d9a820131227a9b2b68"
+          "path": "assets/entertainment/entertainment-fixed-central-mirror-prism-and-open-picture-tray-01/v1.0.0/generate.py",
+          "size": 11015,
+          "sha256": "60d2a968f8971b25c898555cc5dc6b2081b64f14642799fd16ffa3821a0d3b65"
         },
         "render": {
-          "path": "assets/music/entertainment-fixed-central-mirror-prism-and-open-picture-tray-01/v1.0.0/thumbnail.png",
+          "path": "assets/entertainment/entertainment-fixed-central-mirror-prism-and-open-picture-tray-01/v1.0.0/thumbnail.png",
           "size": 511059,
           "sha256": "f3e5ba4f9b5abefa7872afe5b93d2a1e8ff4c1c632c1dcb3c450fc531d064cdd"
         }
       },
       "status": "verified",
       "license": "All rights reserved",
-      "sourceId": "original-qualified-batch-1101-volume02-20261025"
+      "sourceId": "theme-maintenance-three-assets-20261025"
     },
     {
       "id": "toys-fixed-alternating-three-ribbon-and-block-chain-01",
@@ -48866,7 +48871,7 @@
       "version": "1.0.0",
       "category": "props",
       "assetKind": "prop",
-      "theme": "music",
+      "theme": "sports",
       "style": "S01-clean-geometric",
       "title": "Fixed Low Seat and Front Handcrank Tricycle",
       "description": "One newly authored complete recumbent handcycle-style static exterior. Two separate rear spoked wheels on a full transverse axle support a long low frame and continuous reclined seat/back shell. A forward single wheel sits in a complete two-cheek fork; above it an independent elevated hand-crank axle carries two full arms and outward grips. A fixed complete loop links the upper crank-disc appearance to a separate lower front-wheel disc. Two forward foot-rest platforms lie beside the front assembly rather than forming pedals at the seat. The whole low-seat, long front reach and elevated hand-drive-to-front-wheel organization is new geometry, not the old four-wheel manual wheelchair with one caster removed or the old stationary exercise-cycle given road wheels. No old visible mesh imported. One model zero scenes; four opaque untextured PBR appearances, metres native Z up and whole horizontal-envelope-centred ground origin on three complete finite tire facets. All parts are one fixed display pose; no steering, rolling, hand propulsion, chain meshing or travel, braking, speed, seating or disability fit, rehabilitation, athletic efficacy, load, manufacture or safety is claimed. No rider, rig, animation or interaction.",
@@ -48880,29 +48885,29 @@
       "materials": 4,
       "files": {
         "glb": {
-          "path": "assets/music/sports-fixed-low-seat-and-front-handcrank-tricycle-01/v1.0.0/model.glb",
+          "path": "assets/sports/sports-fixed-low-seat-and-front-handcrank-tricycle-01/v1.0.0/model.glb",
           "size": 179392,
           "sha256": "7d14df18367d8877478d7d7a2913ba2a9b33a559711685c8068aa07debe8be23"
         },
         "blend": {
-          "path": "assets/music/sports-fixed-low-seat-and-front-handcrank-tricycle-01/v1.0.0/source.blend",
+          "path": "assets/sports/sports-fixed-low-seat-and-front-handcrank-tricycle-01/v1.0.0/source.blend",
           "size": 1010012,
           "sha256": "43d75efe3d343166710ee3d02f00a1e378ee986f10dd96000b9c50806840f075"
         },
         "generator": {
-          "path": "assets/music/sports-fixed-low-seat-and-front-handcrank-tricycle-01/v1.0.0/generate.py",
-          "size": 12918,
-          "sha256": "271f8b71c4853b91eaad2aaed115ff5e51381e17e9ed68013dbf9075719569ee"
+          "path": "assets/sports/sports-fixed-low-seat-and-front-handcrank-tricycle-01/v1.0.0/generate.py",
+          "size": 12920,
+          "sha256": "9a572f2d44ab0198baa24679b97c8bfae17170e35a7bca66820dc6197e1960b5"
         },
         "render": {
-          "path": "assets/music/sports-fixed-low-seat-and-front-handcrank-tricycle-01/v1.0.0/thumbnail.png",
+          "path": "assets/sports/sports-fixed-low-seat-and-front-handcrank-tricycle-01/v1.0.0/thumbnail.png",
           "size": 405773,
           "sha256": "b2bc6079155ffda135774781838ad502f5e470b46016a7fb3158fe1d6e41b439"
         }
       },
       "status": "verified",
       "license": "All rights reserved",
-      "sourceId": "original-qualified-batch-1105-volume02-20261025"
+      "sourceId": "theme-maintenance-three-assets-20261025"
     },
     {
       "id": "technology-fixed-separated-conical-drum-and-shift-fork-clutch-display-01",
@@ -48952,7 +48957,7 @@
       "version": "1.0.0",
       "category": "props",
       "assetKind": "prop",
-      "theme": "music",
+      "theme": "sports",
       "style": "S01-clean-geometric",
       "title": "Fixed Open Vent Round Canopy and Empty Suspension Rig",
       "description": "One newly authored complete round-parachute-style fixed expanded art pose. A single continuous finite-thickness domed fabric shell has a true circular crown vent, sixteen integral softly scalloped radial gores and a wholly open underside. Sixteen complete suspension-line appearances run from the lower hem to four full lower riser straps, which join a newly authored empty waist and two leg-loop rig. There is no central mast, ribs, spreaders, basket, burner or copied harness. The open-bottom broad canopy and converging many-line-to-small-empty-rig relation differs from both the old shallow pole-supported parasol and the old narrow-neck pear envelope over a basket. All visible numeric geometry is new, one whole prop zero scenes, four opaque constant PBR roles, metres Z up and whole horizontal-envelope-centred ground datum on the two lower loop edges. The unsupported-looking expanded pose is a fixed illustrative arrangement, not a physical equilibrium or deployment result. No pressure, airflow, descent rate, lift, inflation, packing, attachment, load, user fit, harness adequacy, flight or parachuting safety capability is represented. No rigging for motion, simulation, animation or interaction is delivered.",
@@ -48966,29 +48971,29 @@
       "materials": 4,
       "files": {
         "glb": {
-          "path": "assets/music/sports-fixed-open-vent-round-canopy-and-empty-suspension-rig-01/v1.0.0/model.glb",
+          "path": "assets/sports/sports-fixed-open-vent-round-canopy-and-empty-suspension-rig-01/v1.0.0/model.glb",
           "size": 177392,
           "sha256": "765882405cf8441b27c4f4841363f91de35e0a5d9a98f11a5b3f8e2d51c0bbe0"
         },
         "blend": {
-          "path": "assets/music/sports-fixed-open-vent-round-canopy-and-empty-suspension-rig-01/v1.0.0/source.blend",
+          "path": "assets/sports/sports-fixed-open-vent-round-canopy-and-empty-suspension-rig-01/v1.0.0/source.blend",
           "size": 809820,
           "sha256": "830026c152273d64ce5946b99b2abcaf6350a25df4ee0d6bc73ac88db3dfe508"
         },
         "generator": {
-          "path": "assets/music/sports-fixed-open-vent-round-canopy-and-empty-suspension-rig-01/v1.0.0/generate.py",
-          "size": 11202,
-          "sha256": "884a8f7681b93f1b8c1a2fb95061427cb02e8abbbe583025903cc9f69347342c"
+          "path": "assets/sports/sports-fixed-open-vent-round-canopy-and-empty-suspension-rig-01/v1.0.0/generate.py",
+          "size": 11204,
+          "sha256": "9a2da61002715675a0e856cf67141092bb1ea2162198592057c66afdce255306"
         },
         "render": {
-          "path": "assets/music/sports-fixed-open-vent-round-canopy-and-empty-suspension-rig-01/v1.0.0/thumbnail.png",
+          "path": "assets/sports/sports-fixed-open-vent-round-canopy-and-empty-suspension-rig-01/v1.0.0/thumbnail.png",
           "size": 469672,
           "sha256": "102c5f25a91ddb4672b6d87308aae76f37f4b39f0a37d908daca866db8720eac"
         }
       },
       "status": "verified",
       "license": "All rights reserved",
-      "sourceId": "original-qualified-batch-1106-volume02-20261025"
+      "sourceId": "theme-maintenance-three-assets-20261025"
     },
     {
       "id": "technology-fixed-orthogonal-elbow-chain-platform-01",
