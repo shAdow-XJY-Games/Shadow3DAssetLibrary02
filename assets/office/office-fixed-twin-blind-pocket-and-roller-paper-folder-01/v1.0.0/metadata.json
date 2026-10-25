@@ -1,0 +1,42 @@
+{
+  "id": "office-fixed-twin-blind-pocket-and-roller-paper-folder-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "office",
+  "style": "source-preserved-low-poly",
+  "title": "Fixed Twin Blind Pocket and Roller Paper Folder",
+  "description": "One newly authored complete static twin-pocket paper-folding-machine-style cutaway exterior. A four-foot low base supports two complete shaped bearing cheeks and three independently axled transverse plain rollers. Two entire thick paired-plate blind pockets branch rearward at different upward and downward inclinations, each with a genuine broad thin entrance, continuous side walls and a closed far stop. Each upper plate has two large deliberate inspection windows separated by a full spine and end bridges, exposing the pocket depth rather than resembling a blank paper sheet. One separate front-upper inclined feed tray with guides and two root stays sits above a low front receiving tray. A full side drive-cover exterior, blank control and fixed selector complete the apparatus. All geometry new, not a rotary duplicator with extra trays or a note counter relabelled for paper. One prop zero scenes, three opaque PBR roles, metres and bounds-centred ground origin. No paper contents, sheet routing, printing, folding, driven rollers, gearing, nip pressure, adjustment, fabrication, operation or safety certification. Open visible roll region is an intentional static cutaway; rigging animation interaction not made.",
+  "bounds": {
+    "x": 0.5809999704360962,
+    "y": 1.0148216485977173,
+    "z": 0.667050302028656,
+    "unit": "m"
+  },
+  "triangles": 1676,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/office/office-fixed-twin-blind-pocket-and-roller-paper-folder-01/v1.0.0/model.glb",
+      "size": 159084,
+      "sha256": "41fe807460b72c43d6e5adf50dbd57649ad1b16e0a0efe7dff5109d8562afffc"
+    },
+    "blend": {
+      "path": "assets/office/office-fixed-twin-blind-pocket-and-roller-paper-folder-01/v1.0.0/source.blend",
+      "size": 838016,
+      "sha256": "a42285bfb2bc4f8aeaf95435cc585a5a6434ab4d84e16dc2efa2eac612c98975"
+    },
+    "generator": {
+      "path": "assets/office/office-fixed-twin-blind-pocket-and-roller-paper-folder-01/v1.0.0/generate.py",
+      "size": 18058,
+      "sha256": "d0df762fe4891408cc3699678ca5c4e8cfbd5c4dadb71829e3a5ec8d4f4fcdcd"
+    },
+    "render": {
+      "path": "assets/office/office-fixed-twin-blind-pocket-and-roller-paper-folder-01/v1.0.0/thumbnail.png",
+      "size": 528698,
+      "sha256": "aea2a6228a601ab8c5301100aa585dc6cb1f4079ace537b8962bcebace4b2035"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

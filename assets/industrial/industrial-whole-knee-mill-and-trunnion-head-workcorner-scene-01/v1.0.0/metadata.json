@@ -1,0 +1,42 @@
+{
+  "id": "industrial-whole-knee-mill-and-trunnion-head-workcorner-scene-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "industrial",
+  "style": "source-preserved-low-poly",
+  "title": "Whole Knee Mill And Trunnion Head Workcorner",
+  "description": "One static machine-preparation workcorner scene, zero new independent models. The entire qualified upright knee-and-cross-table mill stands on the left floor station, with its original broad table and hand controls facing the open front. To the right, one whole raised crank desk is turned ninety degrees and supports the complete newly qualified trunnion index-head apparatus on its actual full base sole. The index head remains a separate empty bench instrument, not mounted to the mill or claimed compatible with it. The desk is behind the leading edge of the floor-standing machine, leaving a shared open foreground and a visible gap between their complete envelopes. One finite scene-only floor supports every actual ground sole. This complete machining-machine plus separate fixture preparation composition differs from the cone/disc teaching comparison and from the two-table forming-machine and front sheet-brake corner; a generic table-and-floor layout is not itself claimed novel. Three complete old instances preserve raw geometry buffers, normals, all material dictionaries and original internal hierarchy under unit-scale rigid placement; no jaw, table, housing, controls or supports are removed, altered, recoloured or counted anew. The scene contains no workpiece, tool operation, actual machining, indexing, calibration, movement, functional connection or installation proof. No load, stability, ergonomic suitability, clear-path accessibility, manufacturing or machinery safety claim. Static empty artistic environment only, no rigging or interaction.",
+  "bounds": {
+    "x": 3.049999952316284,
+    "y": 2.8000000715255737,
+    "z": 1.8580000400543213,
+    "unit": "m"
+  },
+  "triangles": 7508,
+  "materials": 11,
+  "files": {
+    "glb": {
+      "path": "assets/industrial/industrial-whole-knee-mill-and-trunnion-head-workcorner-scene-01/v1.0.0/model.glb",
+      "size": 664132,
+      "sha256": "2f255c14950710bfd873330ba7c718e4802c703dfdd0a5b649a4e293f8becc84"
+    },
+    "blend": {
+      "path": "assets/industrial/industrial-whole-knee-mill-and-trunnion-head-workcorner-scene-01/v1.0.0/source.blend",
+      "size": 1955192,
+      "sha256": "15a92b5f647783c00d3c121e103172b5881445a54c2c17da334b18a393138b23"
+    },
+    "generator": {
+      "path": "assets/industrial/industrial-whole-knee-mill-and-trunnion-head-workcorner-scene-01/v1.0.0/generate.py",
+      "size": 144642,
+      "sha256": "e69ff54545bff984dc08b6af03207604ebe048b0669ac07c98df2f57da7ed733"
+    },
+    "render": {
+      "path": "assets/industrial/industrial-whole-knee-mill-and-trunnion-head-workcorner-scene-01/v1.0.0/thumbnail.png",
+      "size": 493178,
+      "sha256": "8fe2d8d2df76f111b5f3e90c1ebc0f7356668d9bebc727c56073452e370ff1b8"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

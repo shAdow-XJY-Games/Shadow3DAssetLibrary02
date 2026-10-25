@@ -1,0 +1,42 @@
+{
+  "id": "nature-whole-cutoff-horseshoe-lake-and-dry-neck-terrain-01",
+  "version": "1.0.0",
+  "category": "modular",
+  "assetKind": "prop",
+  "theme": "nature",
+  "style": "warm-handcrafted-village",
+  "title": "Whole Cutoff Horseshoe Lake and Dry Neck Terrain",
+  "description": "One newly authored complete static cutoff-horseshoe-lake terrain appearance. A broad irregular outer bank and central raised peninsula are joined by one real dry neck, while a long nearly enclosing crescent of flat opaque water-appearance facets has two separate rounded terminal coves on either side of that neck. Sloping inner and outer banks connect all elevations to one complete finite foundation. All terrain and flat water-appearance facets are one closed shared-vertex solid mesh: no separate floating water slab, transparent decal, carved-through hole, duplicated bend module or hidden unfilled bottom. The lake surface is only an integral opaque material region of this static terrain solid, not a separately modelled fluid volume. This complete enclosed basin and continuous peninsula-neck relationship differs from an open-ended quarter river segment or a rectangular sidepool margin. One terrain model zero scenes. No exact oxbow formation, former river connection, hydrology, water flow or depth, shoreline simulation, modular snap, navigation, walkability or safety claim.",
+  "bounds": {
+    "x": 4.062507629,
+    "y": 3.568101883,
+    "z": 0.439999849,
+    "unit": "m"
+  },
+  "triangles": 3456,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/nature/nature-whole-cutoff-horseshoe-lake-and-dry-neck-terrain-01/v1.0.0/model.glb",
+      "size": 222768,
+      "sha256": "cb9955093dd2d9c19a462eb008ce44d90625755c90b80ec94cbe7bcb8682b8ed"
+    },
+    "blend": {
+      "path": "assets/nature/nature-whole-cutoff-horseshoe-lake-and-dry-neck-terrain-01/v1.0.0/source.blend",
+      "size": 704908,
+      "sha256": "2aeb3b3be1f01bdccf4136a15c0a7d1627e3825d39474bcc8bf9c6c9e6d1c0fd"
+    },
+    "generator": {
+      "path": "assets/nature/nature-whole-cutoff-horseshoe-lake-and-dry-neck-terrain-01/v1.0.0/generate.py",
+      "size": 28897,
+      "sha256": "f5fac7dd9525e4f62c1e5d37da277629824686fbad384090cd8d4825eb3b0c01"
+    },
+    "render": {
+      "path": "assets/nature/nature-whole-cutoff-horseshoe-lake-and-dry-neck-terrain-01/v1.0.0/thumbnail.png",
+      "size": 493562,
+      "sha256": "dacdc5c70444594199be670c7f164ffaf920850a08ae9d8913c4733913c1c5d0"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
