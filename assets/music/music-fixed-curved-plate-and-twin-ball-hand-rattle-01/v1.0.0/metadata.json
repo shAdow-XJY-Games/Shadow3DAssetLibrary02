@@ -1,0 +1,42 @@
+{
+  "id": "music-fixed-curved-plate-and-twin-ball-hand-rattle-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "music",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Curved Plate and Twin Ball Hand Rattle",
+  "description": "One newly authored whole hand-held curved-plate percussion exterior in a fixed upright display pose. A short turned wooden grip with a finite flat butt carries a complete open round-section U frame. A single broad, genuinely thick curved metal leaf is clamped at its upper end and hangs freely within that frame. Two separate continuous thin curved arms rise from a common lower mounting block to complete wooden ball tips on opposite sides of the leaf; a visible small air interval remains at the illustrated tips. Unlike the old cabasa there is no drum core or surrounding beaded loops, and unlike the old U-return ball and tine-box rattle this is not one rod joining two end masses: the full enclosing frame carries a central open-sided leaf and two independent flanking ball arms. No old handle, rod, ball or plate mesh extracted. Four opaque constant PBR materials, metres native Z up and full horizontal-bounds-centred ground datum; one whole prop zero scenes. Flexatone-inspired static exterior only, not a historically exact example: no elastic response, striking trajectory, vibration, sound, pitch, hand fit, material authenticity, fatigue, manufacture or safe use claim. No rigging, animation or interaction.",
+  "bounds": {
+    "x": 0.1,
+    "y": 0.096,
+    "z": 0.3265,
+    "unit": "m"
+  },
+  "triangles": 1208,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/music/music-fixed-curved-plate-and-twin-ball-hand-rattle-01/v1.0.0/model.glb",
+      "size": 78232,
+      "sha256": "51fb4bc21340bf85062d3e270f44b8e0ded0ea22ab593eab2b42851ef1597eda"
+    },
+    "blend": {
+      "path": "assets/music/music-fixed-curved-plate-and-twin-ball-hand-rattle-01/v1.0.0/source.blend",
+      "size": 647112,
+      "sha256": "9a3523b3e867172abc5d53d11b3c53f0a7aa20f10b9d1c66b67d87ce93ac546b"
+    },
+    "generator": {
+      "path": "assets/music/music-fixed-curved-plate-and-twin-ball-hand-rattle-01/v1.0.0/generate.py",
+      "size": 11179,
+      "sha256": "fc16aed77fc57db582bf3d0524b16cb17624e366f84ebb6c2c1c2e3bebda60bb"
+    },
+    "render": {
+      "path": "assets/music/music-fixed-curved-plate-and-twin-ball-hand-rattle-01/v1.0.0/thumbnail.png",
+      "size": 359769,
+      "sha256": "4158321e8ed6742eb5f59d7b7e4f31f5327eaa342682e639b8e5871a7f349ddc"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
