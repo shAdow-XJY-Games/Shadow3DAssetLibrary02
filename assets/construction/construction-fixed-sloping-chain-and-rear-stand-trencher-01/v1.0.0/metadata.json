@@ -1,0 +1,42 @@
+{
+  "id": "construction-fixed-sloping-chain-and-rear-stand-trencher-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "construction",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Sloping Chain and Rear Stand Trencher",
+  "description": "One newly authored complete compact tracked chain-trencher static exterior. Two full closed rubber-style running bands with actual long ground soles carry a low cross-axled frame and tapered engine cover. A continuous rear standing platform and raised blank control hoop/console define the back of the machine rather than a seated slewing excavator cab. A thick forked front cradle and whole transverse root shaft carry one entirely new long downward-sloping guide boom, surrounded by a broad complete closed blunt-shoe chain appearance. Two full continuous side helical flights share a transverse shaft on complete bearing arms at the boom root. No existing excavator, hand saw or auger meshes are imported, resized, stripped or assembled as this machine; only generic closed-mesh/export helpers are reused. Four opaque solid PBR materials, metres, Z up, horizontal bounds centred over the two full finite track soles. One static prop, zero scenes, no terrain or workpiece. No engine, fuel, hydraulic system, chain articulation, cutting edges, trenching, spoil transport, steering, tracks movement, ergonomics, load, protective structure, operational or safety capability. Rigging, animation and interaction are not made or verified.",
+  "bounds": {
+    "x": 1.78,
+    "y": 3.346869,
+    "z": 1.37,
+    "unit": "m"
+  },
+  "triangles": 2804,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/construction/construction-fixed-sloping-chain-and-rear-stand-trencher-01/v1.0.0/model.glb",
+      "size": 151500,
+      "sha256": "e69413b70af417e428226d2ad3cc8c1cb9048670386595f5efa689cd5bd80478"
+    },
+    "blend": {
+      "path": "assets/construction/construction-fixed-sloping-chain-and-rear-stand-trencher-01/v1.0.0/source.blend",
+      "size": 794560,
+      "sha256": "90954372e5d176bfc6f4c2561532f14d8bb0161c01150454308ea4743b41e709"
+    },
+    "generator": {
+      "path": "assets/construction/construction-fixed-sloping-chain-and-rear-stand-trencher-01/v1.0.0/generate.py",
+      "size": 29444,
+      "sha256": "aece1ecdee46dac18ef91055f6f89f9e424428dc712bc87e8b65ff2b87754de5"
+    },
+    "render": {
+      "path": "assets/construction/construction-fixed-sloping-chain-and-rear-stand-trencher-01/v1.0.0/thumbnail.png",
+      "size": 507831,
+      "sha256": "9b64b695d05e8234595f41cc56c0ad66feb052af37356cbbe7ad490b943b03ca"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

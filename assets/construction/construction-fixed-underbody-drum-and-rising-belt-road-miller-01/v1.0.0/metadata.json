@@ -1,0 +1,42 @@
+{
+  "id": "construction-fixed-underbody-drum-and-rising-belt-road-miller-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "construction",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Underbody Drum and Rising Belt Road Miller",
+  "description": "One newly authored complete road-milling-machine-style static exterior. A high long body stands on four separated short crawler units and whole fixed upright carrier posts. A complete wide blunt transverse drum occupies a genuine bottom-open thick canopy under the middle of the chassis, visibly separate from the tracks. An entire low primary belt rises forward from this lower region to a second much longer elevated discharge belt; both have full continuous upper and lower runs, complete end rollers, side beams and proper root yoke/stays. A forward high open platform with a fixed seat, blank console and rooted side rails lies ahead of the shouldered power cover. Unlike the old paver, there is no wide front receiving hopper or rear screed; unlike the combine, no forward harvesting reel/header, upper grain box or bent discharge tube; unlike the compact trencher, no downward cutting-chain boom or rear standing control station. Every visible profile and machine layout newly authored, with no old product mesh imported or scaled. Four opaque constant PBR materials, metres, Z up, centred full horizontal envelope and four full finite track soles. One prop zero scenes. No sharp teeth, pavement or workpiece. Static game-art exterior only: no milling, conveyor flow, crawler motion, steering, hydraulics, engine, lift, capacity, ergonomics, manufacture, assembly, protective or safety performance. Rigging, animation and interaction are not made or verified.",
+  "bounds": {
+    "x": 2.58,
+    "y": 7.469492,
+    "z": 3.249493,
+    "unit": "m"
+  },
+  "triangles": 2728,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/construction/construction-fixed-underbody-drum-and-rising-belt-road-miller-01/v1.0.0/model.glb",
+      "size": 147060,
+      "sha256": "568bf488b16bdf79889418ab41715cfdc87f6fe9501b3df7dff1137bd0576196"
+    },
+    "blend": {
+      "path": "assets/construction/construction-fixed-underbody-drum-and-rising-belt-road-miller-01/v1.0.0/source.blend",
+      "size": 907952,
+      "sha256": "b17aa26d2bf1d655b2d75f60ed78db54a683db9ec75e97ec63bcb6b451bffc91"
+    },
+    "generator": {
+      "path": "assets/construction/construction-fixed-underbody-drum-and-rising-belt-road-miller-01/v1.0.0/generate.py",
+      "size": 31589,
+      "sha256": "3571b66a580c367cd7e2a6f88c02d01c60997b7df668593eb186843fdb1b5ef0"
+    },
+    "render": {
+      "path": "assets/construction/construction-fixed-underbody-drum-and-rising-belt-road-miller-01/v1.0.0/thumbnail.png",
+      "size": 521818,
+      "sha256": "ccda7ff9b2630346f5b7890da6665eabac3f2ede31e3bfe4b5c1d7c1bf0bf634"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

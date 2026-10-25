@@ -1,0 +1,42 @@
+{
+  "id": "professional-complete-horn-machine-and-shoe-last-workcorner-scene-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "professional",
+  "style": "source-preserved-low-poly",
+  "title": "Complete Horn Machine and Shoe Last Workcorner",
+  "description": "One complete static shoe-repair preparation workcorner, one scene and zero new independent models. The entire qualified long-horn patching machine stands at the left on its own two shoes and pedestal, keeping the upper head, round horn, wheel, treadle and front space intact. A complete open worktable at the right rear supports one full split-forefoot-and-heel stretcher, laid across its finite tabletop. A whole shoe-last anvil tripod stands separately at the forward right with a real open floor interval from the table and the machine. This is a separated raised preparation surface and independent floor repair-head position beside a pedestal machine, not the old flat-bed sewing workstation/chair plus ironing-board and spool rack arrangement. All four original GLB binary buffers, complete mesh geometry, local normals, PBR roles, face assignments and internal hierarchy are byte-preserved at unit scale. Only whole-instance exact quarter turns/translations and one finite scene-only floor are new. No shoes, people, extracted components, new standalone furniture or counted duplicate models. No sewing, shoe fit, stretching, striking, tool transfer, correct occupational workflow, human reach, load, installation or safety certification. Rigging animation interaction not made.",
+  "bounds": {
+    "x": 3.0,
+    "y": 2.4000000953674316,
+    "z": 1.5519999265670776,
+    "unit": "m"
+  },
+  "triangles": 4620,
+  "materials": 15,
+  "files": {
+    "glb": {
+      "path": "assets/professional/professional-complete-horn-machine-and-shoe-last-workcorner-scene-01/v1.0.0/model.glb",
+      "size": 387832,
+      "sha256": "c09035a73381064afab45a3c0f3474e8b42dcdb6f4e11d37190125ff47d1720f"
+    },
+    "blend": {
+      "path": "assets/professional/professional-complete-horn-machine-and-shoe-last-workcorner-scene-01/v1.0.0/source.blend",
+      "size": 1612644,
+      "sha256": "3f995af8fea8044df73807b28cce50a8c38295bbf412147f932e7eb1579a3d4f"
+    },
+    "generator": {
+      "path": "assets/professional/professional-complete-horn-machine-and-shoe-last-workcorner-scene-01/v1.0.0/generate.py",
+      "size": 137282,
+      "sha256": "4eca50fe5a7e453e8c4dbf96c6435727740655511be7ac652c5fda55b81eee67"
+    },
+    "render": {
+      "path": "assets/professional/professional-complete-horn-machine-and-shoe-last-workcorner-scene-01/v1.0.0/thumbnail.png",
+      "size": 484031,
+      "sha256": "f5e37a6d6c72f6b5a505787d1c9571ae7afc4eae962649fbb3194c8b780213bf"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
