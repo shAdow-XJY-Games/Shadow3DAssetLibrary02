@@ -1,0 +1,42 @@
+{
+  "id": "entertainment-fixed-inclined-channel-and-weighted-pusher-card-shoe-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "entertainment",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Inclined Channel and Weighted Pusher Card Shoe",
+  "description": "One newly authored complete empty static dealing-shoe-style tabletop prop. A single welded thick channel body contains a full inclined floor, high longitudinal sides, a closed rear and two low front retaining shoulders around a genuine open U finger-access recess. A full matching notched wedge base supports the entire body. Two longitudinal fixed guide rods root in the sidewalls and meet one whole shaped pusher at the rear part of the channel; a complete transverse rounded weighting roller is seated into that pusher. The front portion remains visibly empty and open for the illustrated card-extraction direction. This is not an open postal letter tray made narrower: the whole raked shoe body, retaining shoulders and fixed guided weighted pusher are new. Nor is it a banknote counter with its controls removed: no powered feed bank, stacker wheels, receiving tray or two-stage paper path is reused. All geometry newly authored, six closed editable meshes, four opaque untextured PBR roles, one prop zero scenes. Metres Z up, horizontal bounds-centred and the entire finite base sole on ground. Static empty appearance only, no cards, dealing simulation, format compatibility, roller movement, spring, counting, game rules, fairness, odds, gambling outcome, manufacturing or safe-use claim; no rigging, animation or interaction.",
+  "bounds": {
+    "x": 0.116,
+    "y": 0.34199999999999997,
+    "z": 0.25,
+    "unit": "m"
+  },
+  "triangles": 560,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/entertainment/entertainment-fixed-inclined-channel-and-weighted-pusher-card-shoe-01/v1.0.0/model.glb",
+      "size": 24500,
+      "sha256": "154b1c6152f811903d680742883cadc7da971e36d66e64cc2e7c95201e532bc1"
+    },
+    "blend": {
+      "path": "assets/entertainment/entertainment-fixed-inclined-channel-and-weighted-pusher-card-shoe-01/v1.0.0/source.blend",
+      "size": 598212,
+      "sha256": "1e50c1254b0074fa06e51564eaba0e606f9dc5dbb38ba4d62a700c45002cfb84"
+    },
+    "generator": {
+      "path": "assets/entertainment/entertainment-fixed-inclined-channel-and-weighted-pusher-card-shoe-01/v1.0.0/generate.py",
+      "size": 12089,
+      "sha256": "72ee41f8d63db1886aefeedd3e47df6e6d7065d275d4cb632f517a1c8eefed9a"
+    },
+    "render": {
+      "path": "assets/entertainment/entertainment-fixed-inclined-channel-and-weighted-pusher-card-shoe-01/v1.0.0/thumbnail.png",
+      "size": 466176,
+      "sha256": "cd956e3d1120303884f0c51e5dee2b1fbce7ab40e0171619774848cd0b8215d7"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

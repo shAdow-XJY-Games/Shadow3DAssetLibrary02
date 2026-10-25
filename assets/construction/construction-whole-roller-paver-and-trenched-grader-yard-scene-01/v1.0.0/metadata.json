@@ -1,0 +1,42 @@
+{
+  "id": "construction-whole-roller-paver-and-trenched-grader-yard-scene-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "construction",
+  "style": "source-preserved-low-poly",
+  "title": "Whole Road Machines and Open Trench Yard",
+  "description": "One static road-machine display yard, one scene and zero new independent models. Three complete qualified machines retain unit scale and every original local position/normal/index buffer, material dictionary and internal hierarchy: the whole grader spans a genuine shallow long floor recess with all six whole tyre soles supported on the two side decks; the whole tracked paver is quarter-turned in the rear left bay and the whole single-drum roller stays separately in the forward left bay. A broad open middle strip and front apron separate the intact machines. One closed scene-only slab has a real lowered recess bottom and four inner walls, not a dark decal or a cap at deck level. This is not the old excavator behind entrance barriers, nor the flat aviation ground-service holding corner. The initial plain three-machine parking idea was rejected before any source because its spatial relation was too similar. No old model is extracted, resized, recoloured or counted anew. The recess is a shallow static display feature, not a human inspection pit or access route. No grading, paving, compaction, maintenance procedure, moving wheels or articulation, machine coupling, traffic flow, structural support capacity, human clearance, accessibility, operation, installation or safety certification. Rigging, animation and interaction are not made and outside this static scope.",
+  "bounds": {
+    "x": 11.600000381469727,
+    "y": 9.399999618530273,
+    "z": 2.819999933242798,
+    "unit": "m"
+  },
+  "triangles": 6108,
+  "materials": 13,
+  "files": {
+    "glb": {
+      "path": "assets/construction/construction-whole-roller-paver-and-trenched-grader-yard-scene-01/v1.0.0/model.glb",
+      "size": 335492,
+      "sha256": "1046abb7f499778369c5fcb7faedd11925c31a30140fdd4fde60ef83bc21d035"
+    },
+    "blend": {
+      "path": "assets/construction/construction-whole-roller-paver-and-trenched-grader-yard-scene-01/v1.0.0/source.blend",
+      "size": 1811368,
+      "sha256": "faee6a707ac615495de627ce9b0fe0a49c998c80ca5dd6e47436414fc78291d0"
+    },
+    "generator": {
+      "path": "assets/construction/construction-whole-roller-paver-and-trenched-grader-yard-scene-01/v1.0.0/generate.py",
+      "size": 136794,
+      "sha256": "ea98a79da8c21277f8cca698ea941e9b582f6998bd0e9f805092a03342dd1e8e"
+    },
+    "render": {
+      "path": "assets/construction/construction-whole-roller-paver-and-trenched-grader-yard-scene-01/v1.0.0/thumbnail.png",
+      "size": 486516,
+      "sha256": "19489e3013f65cb3e4ff838635bf9270a8849e9b070a171931d70dbde9148571"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

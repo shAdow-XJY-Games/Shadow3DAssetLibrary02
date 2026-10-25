@@ -1,0 +1,42 @@
+{
+  "id": "industrial-fixed-four-slotted-arms-and-wheeled-engine-stand-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "industrial",
+  "style": "source-preserved-low-poly",
+  "title": "Fixed Four Slotted Arms and Wheeled Engine Stand",
+  "description": "One newly authored complete static empty engine-stand appearance. Four full fork/axle/wheel assemblies support two diverging forward legs and one short rear wheel crossbeam. A whole inclined central mast with low braces carries a complete horizontal sleeve and fixed shaft. The empty front mounting head consists of one whole disk, four independently closed genuinely slotted radial arms and four complete bored stand-off collars. A rear cross handle with two grips and a short index-pin appearance finish the assembly. All geometry new, three opaque materials, one prop zero scenes; not a cropped shop crane, altered bicycle clamp or imported support with a changed head. No engine or fasteners compatible with a particular machine. Fixed static appearance only: no rotation, rolling, adjustment, lifting, load capacity, stability, mechanical fit, fabrication, service instructions or safety certification. Rigging animation interaction not made.",
+  "bounds": {
+    "x": 0.7179999947547913,
+    "y": 0.9776942133903503,
+    "z": 1.2069813013076782,
+    "unit": "m"
+  },
+  "triangles": 2968,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/industrial/industrial-fixed-four-slotted-arms-and-wheeled-engine-stand-01/v1.0.0/model.glb",
+      "size": 275252,
+      "sha256": "a86fa92cdadde3a45d68f8256f0a7b22834c73d9af0e54be1ce5dee9c1f94981"
+    },
+    "blend": {
+      "path": "assets/industrial/industrial-fixed-four-slotted-arms-and-wheeled-engine-stand-01/v1.0.0/source.blend",
+      "size": 1029760,
+      "sha256": "7016190bbf0c0b0782bdcd1878deec595ad5af0b206b4b975f3b96272471730b"
+    },
+    "generator": {
+      "path": "assets/industrial/industrial-fixed-four-slotted-arms-and-wheeled-engine-stand-01/v1.0.0/generate.py",
+      "size": 16454,
+      "sha256": "a052a67ce684e3e32e322825993af6fe55818e303704af7f0835d9dce43b5669"
+    },
+    "render": {
+      "path": "assets/industrial/industrial-fixed-four-slotted-arms-and-wheeled-engine-stand-01/v1.0.0/thumbnail.png",
+      "size": 512280,
+      "sha256": "e85e594e750bd2a4be4e69e92a278082a97152395f2718cdf512c42e24de3ccb"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

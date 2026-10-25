@@ -1,0 +1,42 @@
+{
+  "id": "carnival-fixed-oval-track-and-pivoted-cabin-carrier-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "carnival",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Oval Track and Pivoted Cabin Carrier",
+  "description": "One newly authored complete static oval-track amusement-carrier exterior. Two grounded whole A-frames and low cross-ties support a full central horizontal axle. The axle enters a long rigid vertical spine carrying separate upper and lower end-wheel shafts. Two whole stadium-shaped guide bands consist of actual straight long sides joined to semicircular ends; two independent open end wheels with complete spokes and hubs lie inside those return ends. Eight whole empty framed cabins have their own transverse track pivots, low thick open pans, four posts, roofs and front crossbars. This is not a circular Ferris wheel scaled into an ellipse: there is no central radial-spoke wheel or single circular rim; two separate end-wheel centres, a continuous long carrier spine and straight guide runs establish a different complete structure. Nor is it a twin-arm ride with one transverse passenger tray. All new numeric geometry, no old frame, wheel or cabin extracted or transformed. One complete compact display model at explicit 0.75 design scale, zero scenes, four opaque PBR appearances, metres Z up, horizontal bounds-centred and four finite full feet on ground. Empty fixed exhibition pose only. Guide bands are solid visual track members, not an articulated or validated chain. No movement, rolling engagement, passenger restraint, capacity, fit, loading, manufacture, ride operation or safety is built or certified; no rigging, animation or interaction.",
+  "bounds": {
+    "x": 1.845,
+    "y": 1.965,
+    "z": 3.699375,
+    "unit": "m"
+  },
+  "triangles": 4336,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/carnival/carnival-fixed-oval-track-and-pivoted-cabin-carrier-01/v1.0.0/model.glb",
+      "size": 258540,
+      "sha256": "4f5bade7cacb6c9f9931304b7cc1602529f14a4bbca73e67619455d83ec3caca"
+    },
+    "blend": {
+      "path": "assets/carnival/carnival-fixed-oval-track-and-pivoted-cabin-carrier-01/v1.0.0/source.blend",
+      "size": 1330396,
+      "sha256": "ade846eb2d0fe35da0bd63dea29d5934b9e8b4201f8b911daaaa0c9e0e496848"
+    },
+    "generator": {
+      "path": "assets/carnival/carnival-fixed-oval-track-and-pivoted-cabin-carrier-01/v1.0.0/generate.py",
+      "size": 12658,
+      "sha256": "61a3bbd367aefc4c2155fa82ae319bf6002a2030ec553734941d4513c15830dc"
+    },
+    "render": {
+      "path": "assets/carnival/carnival-fixed-oval-track-and-pivoted-cabin-carrier-01/v1.0.0/thumbnail.png",
+      "size": 517084,
+      "sha256": "d527eae038970acaf91d6526a7b6c3b7b05de96646498721dc01ff9e5c933f50"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

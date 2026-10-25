@@ -1,0 +1,42 @@
+{
+  "id": "animal-static-broad-head-ridged-roof-wing-cicada-01",
+  "version": "1.0.0",
+  "category": "modular",
+  "assetKind": "prop",
+  "theme": "animal",
+  "style": "warm-handcrafted-village",
+  "title": "Static Broad-Head Ridged Roof-Wing Cicada",
+  "description": "One complete newly authored static stylised cicada-like insect. A very broad transverse head with two large lateral eyes precedes a stout short thorax and tapered short abdomen; two long broad roof-pitched forewings cover the back and project beyond the abdomen, with shallow actual integral longitudinal ridge fields in their full closed upper surfaces. Two shorter lower hindwing fields are mostly hidden under the forewings. Six similarly slender angled walking legs, short tapering antennae and small finite toe soles complete the whole. Not a beetle convex elytron pair recolored, a grasshopper without its jump legs, or a dragonfly with folded copied wings: whole head/body and sloping wide roof-wing profiles newly authored, no old visible meshes imported. One static model zero scenes. Opaque wings intentionally do not simulate biological translucency, exact vein anatomy, sound, flight, gait, species or living function.",
+  "bounds": {
+    "x": 0.939529717,
+    "y": 1.58141911,
+    "z": 0.540000021,
+    "unit": "m"
+  },
+  "triangles": 1552,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/animal/animal-static-broad-head-ridged-roof-wing-cicada-01/v1.0.0/model.glb",
+      "size": 94084,
+      "sha256": "b234a3b35f0bf7d18e4599324e88469da67411258293002c2a3cd5e9850242f9"
+    },
+    "blend": {
+      "path": "assets/animal/animal-static-broad-head-ridged-roof-wing-cicada-01/v1.0.0/source.blend",
+      "size": 650764,
+      "sha256": "847d602dda3dc74cd925d27508fb2dfdd5d3343a41c67b38eec5c74bae0c801e"
+    },
+    "generator": {
+      "path": "assets/animal/animal-static-broad-head-ridged-roof-wing-cicada-01/v1.0.0/generate.py",
+      "size": 30754,
+      "sha256": "bad1fb9b84b24baa8046126cde66047113c7912fc492816018513e61a8cdd3c2"
+    },
+    "render": {
+      "path": "assets/animal/animal-static-broad-head-ridged-roof-wing-cicada-01/v1.0.0/thumbnail.png",
+      "size": 500419,
+      "sha256": "94a10dab6af905faa6ea40104e2515c1867cd4220537c701d2fcce58a96a6499"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

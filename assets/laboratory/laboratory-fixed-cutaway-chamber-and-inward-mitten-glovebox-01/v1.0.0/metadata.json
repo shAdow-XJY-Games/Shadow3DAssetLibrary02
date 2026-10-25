@@ -1,0 +1,42 @@
+{
+  "id": "laboratory-fixed-cutaway-chamber-and-inward-mitten-glovebox-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "laboratory",
+  "style": "source-preserved-low-poly",
+  "title": "Fixed Cutaway Chamber And Inward Mitten Glovebox",
+  "description": "One newly authored complete static cutaway laboratory glovebox appearance. A broad rectangular closed-bottom chamber has a full back wall, left wall and two true circular front ports. Two whole thick hollow cuffs continue into inward hanging closed mitten sleeves with separate rooted thumb lobes. A true circular opening through the right wall meets a complete horizontal thick-wall transfer cylinder and a fixed swung-out round end door on a grounded hinge bracket. A narrow rear roof strip and explicit omitted front roof and upper viewing-panel region expose the complete interior for display; no transparent glass or airtight enclosure is claimed. A common four-foot stand supports the entire chamber and the transfer-cylinder underside. This is a single new complete chamber-and-sleeve apparatus, not the old raised-sash fume hood with added handles or the open-bottom diving bell reshaped: there is no sash, exhaust collar, rear baffle, bottom entry or lifting eye. All coordinates newly authored and no old model meshes imported. Four opaque constant PBR materials, one model zero scenes. Exterior-only fixed art, empty interior with no sample, chemicals or person. No internal valves, atmosphere handling, pressure, airlock cycle, seal, chemical or biological isolation, personnel protection, glove fit, movement, experimental procedure, manufacture, installation or safety capability. Rigging animation and interaction not made.",
+  "bounds": {
+    "x": 2.183000087738037,
+    "y": 0.906000018119812,
+    "z": 1.0850000381469727,
+    "unit": "m"
+  },
+  "triangles": 2624,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/laboratory/laboratory-fixed-cutaway-chamber-and-inward-mitten-glovebox-01/v1.0.0/model.glb",
+      "size": 237568,
+      "sha256": "fa752b2d39fd199cacaa2c6e8e96e496322b5553a07fa97c9b427775299845de"
+    },
+    "blend": {
+      "path": "assets/laboratory/laboratory-fixed-cutaway-chamber-and-inward-mitten-glovebox-01/v1.0.0/source.blend",
+      "size": 962656,
+      "sha256": "4c7b76894f27511e770378345262bdc01193662fb4945c41987ee294fe77e458"
+    },
+    "generator": {
+      "path": "assets/laboratory/laboratory-fixed-cutaway-chamber-and-inward-mitten-glovebox-01/v1.0.0/generate.py",
+      "size": 19338,
+      "sha256": "9597e8dc743b4723e8c92e4a984afdee332d0d1d21307226c2fbd3378f45ccd9"
+    },
+    "render": {
+      "path": "assets/laboratory/laboratory-fixed-cutaway-chamber-and-inward-mitten-glovebox-01/v1.0.0/thumbnail.png",
+      "size": 521221,
+      "sha256": "219a549cf5e667488a52d3d8df48cda7558f498b40b5f08b619a0fb5487a1daf"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

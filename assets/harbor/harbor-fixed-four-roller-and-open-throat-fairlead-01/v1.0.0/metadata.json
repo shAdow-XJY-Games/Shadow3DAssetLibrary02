@@ -1,0 +1,42 @@
+{
+  "id": "harbor-fixed-four-roller-and-open-throat-fairlead-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "harbor",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Four Roller and Open Throat Fairlead",
+  "description": "One complete newly authored fixed four-roller fairlead appearance. A broad grounded mounting plate joins two rear bearing posts and an upper tie. Two separate upper and lower bearing bridges on each side carry one whole bored waisted upright roller and its full shaft/caps. Two complete hollow horizontal rollers on independent full transverse shafts sit behind the upright pair, leaving a genuinely open central throat with no back plate. The four rollers are depth-staggered with visible separation rather than intersecting corner cylinders. No rope or winding barrel is included. Unlike the full ratchet winch, it has no storage drum, pawl or crank; unlike the single feed-roller stand, it has a complete opposed four-boundary throat and compact mounting frame rather than height sleeve/foldout legs. New geometry only, no old mesh imported. Three opaque PBR materials, metres Z up and full horizontal-bounds-centred ground origin. One static prop zero scenes. Fixed illustrative shaft roots, not a running fit. No rope guidance, roller rotation, rope compatibility, force, load, installation, manufacture, marine use or safety claim.",
+  "bounds": {
+    "x": 0.94,
+    "y": 0.48,
+    "z": 0.7,
+    "unit": "m"
+  },
+  "triangles": 2144,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/harbor/harbor-fixed-four-roller-and-open-throat-fairlead-01/v1.0.0/model.glb",
+      "size": 107000,
+      "sha256": "bef2778800a0ee639711ad423faf143aa09d906b8bd3d0f8feb11d4e71c2b604"
+    },
+    "blend": {
+      "path": "assets/harbor/harbor-fixed-four-roller-and-open-throat-fairlead-01/v1.0.0/source.blend",
+      "size": 743532,
+      "sha256": "50814b4f251793771cf3ef130a0fcf8f3b1e0eb72d371f1dfd1fea3c49676805"
+    },
+    "generator": {
+      "path": "assets/harbor/harbor-fixed-four-roller-and-open-throat-fairlead-01/v1.0.0/generate.py",
+      "size": 11184,
+      "sha256": "9f11f1dda834997cbc83f163e28aee9b1cb4e1607ec7d5efbdbb9c76230994a1"
+    },
+    "render": {
+      "path": "assets/harbor/harbor-fixed-four-roller-and-open-throat-fairlead-01/v1.0.0/thumbnail.png",
+      "size": 489944,
+      "sha256": "0b471953dca87fccd28875555174c8ef3bd771b989dc2e3012f0ef68b8cffacb"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

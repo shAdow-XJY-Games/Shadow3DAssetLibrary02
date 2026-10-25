@@ -1,0 +1,42 @@
+{
+  "id": "animal-static-low-barrel-outward-forepalm-mole-01",
+  "version": "1.0.0",
+  "category": "modular",
+  "assetKind": "prop",
+  "theme": "animal",
+  "style": "warm-handcrafted-village",
+  "title": "Static Low-Barrel Outward-Forepalm Mole",
+  "description": "One newly authored complete stylised mole-like mammal in a fixed grounded display pose. A low heavy cylindrical torso flows through a very short neck into a small tapered pointed muzzle without projecting ear pinnae. Two strong short lateral forearms meet disproportionately broad outward-facing forepalms: each is one genuine finite closed palm with five blunt claw-like tip lobes separated by real outline notches, not five floating spikes. Smaller rear feet, tiny side eyes, one small terminal nose and a short narrow tapering tail complete the body. Whole new body/limb/palm profiles; not a beaver with its paddle tail removed or an anteater shortened, no old visible animal meshes copied. One static model zero scenes. No exact species, fur simulation, anatomical digit accuracy, burrowing, gait, strength, biological function, rig or safety claim.",
+  "bounds": {
+    "x": 1.340000033,
+    "y": 2.088000059,
+    "z": 0.670000017,
+    "unit": "m"
+  },
+  "triangles": 1364,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/animal/animal-static-low-barrel-outward-forepalm-mole-01/v1.0.0/model.glb",
+      "size": 81096,
+      "sha256": "49b1f7633cb4a281327b9c77efcc41cc412d2beb0cc4cdac5fc3210901fa3aab"
+    },
+    "blend": {
+      "path": "assets/animal/animal-static-low-barrel-outward-forepalm-mole-01/v1.0.0/source.blend",
+      "size": 629068,
+      "sha256": "d8c02bf75703136a4893eb56369bd300bf431be5a2643c5e41349624708d147b"
+    },
+    "generator": {
+      "path": "assets/animal/animal-static-low-barrel-outward-forepalm-mole-01/v1.0.0/generate.py",
+      "size": 30554,
+      "sha256": "978d87adb0c5a1cd710083d223c2bbbb2825c06572d5dc072590c538e76646cc"
+    },
+    "render": {
+      "path": "assets/animal/animal-static-low-barrel-outward-forepalm-mole-01/v1.0.0/thumbnail.png",
+      "size": 469290,
+      "sha256": "b2a6163e1dfe7dd04c856a5c3ddd69d6f194822db8f56812afeae31cdcf04187"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

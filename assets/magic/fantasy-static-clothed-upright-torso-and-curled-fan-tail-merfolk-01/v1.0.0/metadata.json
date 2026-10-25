@@ -1,0 +1,42 @@
+{
+  "id": "fantasy-static-clothed-upright-torso-and-curled-fan-tail-merfolk-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "magic",
+  "style": "source-preserved-low-poly",
+  "title": "Static Clothed Upright Torso And Curled Fan Tail Merfolk",
+  "description": "One independently authored complete static clothed merfolk fantasy character. A continuous fully covered tunic waist, upright chest, neck and human-like head rises directly from a newly drawn single broad fish lower body. The whole lower body curves down and sideways into a tapered raised tailstock and a thick complete bifurcated fan fin, with a finite low tail-underside resting patch. Two complete long-sleeved bent arms and blunt hands frame the waist; integral dark hair regions, small embedded eyes, ears and a blunt nose define a simple adult-like stylized face. All body sections, curve paths, fin outline and limb placements are new numeric geometry, not a catalog fish with a human head, the existing centaur upper body pasted onto a fish, or a horse with its legs removed. No old mesh or character coordinates are imported. Four opaque untextured PBR materials, one character model zero scenes, metres Z up and full horizontal bounds-centred ground origin. Entire torso and arms clothed; no weapon, equipment, extra costume asset or realistic anatomy claim. Static fictional art only, no biology, swimming, balance, skin deformation, articulation, rig, animation, interaction, collision or safety validation.",
+  "bounds": {
+    "x": 1.6790000200271606,
+    "y": 0.5325806140899658,
+    "z": 1.600000023841858,
+    "unit": "m"
+  },
+  "triangles": 1448,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/magic/fantasy-static-clothed-upright-torso-and-curled-fan-tail-merfolk-01/v1.0.0/model.glb",
+      "size": 132624,
+      "sha256": "795fa4b03ba2e9e98ca5ad0bd3bf534a2e27ad1b63f6d48c5d65ef3ed8ed2832"
+    },
+    "blend": {
+      "path": "assets/magic/fantasy-static-clothed-upright-torso-and-curled-fan-tail-merfolk-01/v1.0.0/source.blend",
+      "size": 774528,
+      "sha256": "13dcf821d84601a9d5f099963abe71bc564ef2c1389cdeebeb3afb62e3bb5f61"
+    },
+    "generator": {
+      "path": "assets/magic/fantasy-static-clothed-upright-torso-and-curled-fan-tail-merfolk-01/v1.0.0/generate.py",
+      "size": 19136,
+      "sha256": "dbb026fccac165ecdf11a73077ae3602f44d423e25c20b2a2bc6f5555b98806c"
+    },
+    "render": {
+      "path": "assets/magic/fantasy-static-clothed-upright-torso-and-curled-fan-tail-merfolk-01/v1.0.0/thumbnail.png",
+      "size": 481224,
+      "sha256": "01fe6b0cf7fd4aa55ee536854cb698d30ca31f4513b54f0207493b87508f1ff2"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
