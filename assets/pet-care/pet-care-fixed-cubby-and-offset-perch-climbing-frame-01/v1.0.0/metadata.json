@@ -1,0 +1,42 @@
+{
+  "id": "pet-care-fixed-cubby-and-offset-perch-climbing-frame-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "pet-care",
+  "style": "source-preserved-low-poly",
+  "title": "Fixed Cubby and Offset Perch Climbing Frame",
+  "description": "One newly authored complete fixed pet climbing-and-rest frame appearance. A broad chamfered base carries a low hollow cubby with a real circular front passage, full floor and rear/side walls, and a wide flat roof landing. A separate front-right post carries an offset intermediate step; a complete tall rear-right post rises to a thick open upper resting bowl with an actual floor and raised rim. The posts have shallow finite circumferential ridges as a stylised covering, not simulated rope or added independent models. New numeric geometry throughout, not a raised two-bay hutch with its roof removed or a nesting box multiplied. One prop zero scenes, three opaque constant materials. Empty static artistic furniture only: no animal, species/size fit, usable climbing route, stability, carrying/load capacity, scratching performance, animal welfare, manufacture or real-world safety claim. Rigging, animation and interaction are not made.",
+  "bounds": {
+    "x": 0.9559999704360962,
+    "y": 0.7599999904632568,
+    "z": 1.2640000581741333,
+    "unit": "m"
+  },
+  "triangles": 4808,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/pet-care/pet-care-fixed-cubby-and-offset-perch-climbing-frame-01/v1.0.0/model.glb",
+      "size": 411888,
+      "sha256": "ee96a97efd28b9eb6c436be561fbef6f9524358c34fca095eca1f4f1bbb07ae4"
+    },
+    "blend": {
+      "path": "assets/pet-care/pet-care-fixed-cubby-and-offset-perch-climbing-frame-01/v1.0.0/source.blend",
+      "size": 1122944,
+      "sha256": "72dbd7e9256b0b9d198b459da25f58e46dcf28e41c67efd7a413eb4f14ed9d67"
+    },
+    "generator": {
+      "path": "assets/pet-care/pet-care-fixed-cubby-and-offset-perch-climbing-frame-01/v1.0.0/generate.py",
+      "size": 15792,
+      "sha256": "b9104b27fb5997b7d90204a9ad3707b3600aa117b9b76a7729c17e4da753d344"
+    },
+    "render": {
+      "path": "assets/pet-care/pet-care-fixed-cubby-and-offset-perch-climbing-frame-01/v1.0.0/thumbnail.png",
+      "size": 530593,
+      "sha256": "54a06eee8d18a0323e8e40faa454e91db0d4a03c4d9d4f02afc04ef580a61605"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

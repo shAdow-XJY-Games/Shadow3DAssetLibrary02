@@ -1,0 +1,42 @@
+{
+  "id": "music-fixed-hollow-ovoid-six-port-vessel-flute-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "music",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Hollow Ovoid Six Port Vessel Flute",
+  "description": "One newly authored complete static inline vessel-flute appearance. A whole thick ovoid ceramic-style body contains a real continuous chamber, a rounded closed tail and two rows of three genuinely through-cut polygonal finger apertures with complete finite wall reveals. A separate short tapered flattened oval mouth neck joins the chamber end and has an actual open mouth and bounded top window. The broad body has a finite shallow flat belly directly on the display plane. All geometry is new rather than a wooden whistle enlarged, an old bagpipe stripped of its pipes or a single extracted panpipe: the bulbous finger-port vessel and short flattened neck form one new whole relation. Two closed editable wall solids and two opaque untextured PBR roles, metres, Z up, actual horizontal-envelope-centred ground origin. One prop, zero scenes, no stand, lanyard, keys or separate decorative port discs. Generic stylised static appearance only; no tuned pitch, specified fingering, working windway or labium, acoustic response, breath-passage safety, cultural authenticity, playability, manufacturing or safety capability is claimed.",
+  "bounds": {
+    "x": 0.34850000000000003,
+    "y": 0.14990430621035594,
+    "z": 0.09596810207011866,
+    "unit": "m"
+  },
+  "triangles": 5184,
+  "materials": 2,
+  "files": {
+    "glb": {
+      "path": "assets/music/music-fixed-hollow-ovoid-six-port-vessel-flute-01/v1.0.0/model.glb",
+      "size": 344924,
+      "sha256": "ff5774986dd9f367907063ba0fe9cb70628dde56e7817700577c12281a12d422"
+    },
+    "blend": {
+      "path": "assets/music/music-fixed-hollow-ovoid-six-port-vessel-flute-01/v1.0.0/source.blend",
+      "size": 782936,
+      "sha256": "7303a6b4399faa91e0b5020b2175256ce204d1cda6be1f4d9cb48d74b2ba6e3b"
+    },
+    "generator": {
+      "path": "assets/music/music-fixed-hollow-ovoid-six-port-vessel-flute-01/v1.0.0/generate.py",
+      "size": 11462,
+      "sha256": "a23eeedd80dd7f7e47a55f1488571f77b35d56f206dc01781993f32d7870f826"
+    },
+    "render": {
+      "path": "assets/music/music-fixed-hollow-ovoid-six-port-vessel-flute-01/v1.0.0/thumbnail.png",
+      "size": 379891,
+      "sha256": "90686890465864ba164358a527a392a96ab542462a2298f07ab707478b13f35e"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

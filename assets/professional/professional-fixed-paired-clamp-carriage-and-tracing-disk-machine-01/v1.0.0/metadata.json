@@ -1,0 +1,42 @@
+{
+  "id": "professional-fixed-paired-clamp-carriage-and-tracing-disk-machine-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "professional",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Paired Clamp Carriage and Tracing Disk Machine",
+  "description": "One newly authored complete static bench key-duplicator-style machine exterior, with empty clamps and no key geometry. A chamfered low case on four finite pads supports one shared horizontal axle and complete wide sleeved carriage. Two full open-front clamp bodies have genuine empty lower-to-upper-pad gaps, separate smooth upright spindles and plain knobs. The rear right raised case carries one short fixed spindle, a thick toothless chamfered disk and a real open lower/forward guard web and curved rim; the independently shaped rear left bracket carries one blunt forward tracing stem. A full sloping carriage lever and whole grip complete the shared machine. This entire paired-clamp-carriage, separate tracing station and single guarded disk relationship is new, not the old bench grinder with one wheel deleted or the old opposed-centre lathe renamed. No previous model vertices or components are imported. One prop, zero scenes and no separately counted clamp or accessory. Four opaque untextured constant PBR roles, metres, native Z up and whole horizontal bounds-centred ground datum. Static occupational display only: no key or usable bitting profile, teeth, sharp blade, working copying mechanism, calibration, tracing fidelity, carriage motion, rotation, clamping, cutting, electrical operation, lock bypass, manufacturing guidance, ergonomics, stability or machinery-safety claim. Rigging, animation and interaction are not made and are outside the static delivery.",
+  "bounds": {
+    "x": 0.54,
+    "y": 0.502537,
+    "z": 0.32,
+    "unit": "m"
+  },
+  "triangles": 3108,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/professional/professional-fixed-paired-clamp-carriage-and-tracing-disk-machine-01/v1.0.0/model.glb",
+      "size": 154988,
+      "sha256": "4b6af1d4312f5b6606dd9f02a9fdec15c3faa7a6ef698d05d4dfd4907caafbae"
+    },
+    "blend": {
+      "path": "assets/professional/professional-fixed-paired-clamp-carriage-and-tracing-disk-machine-01/v1.0.0/source.blend",
+      "size": 841032,
+      "sha256": "873dd4aff9cf4788f1e788fa5eb16c9d4c91f450d7b4522db3b9069424fc4c96"
+    },
+    "generator": {
+      "path": "assets/professional/professional-fixed-paired-clamp-carriage-and-tracing-disk-machine-01/v1.0.0/generate.py",
+      "size": 29940,
+      "sha256": "4d06c63bdbc5f8daf5cdbac0cfad5d7dc17709dd8ad3d506883238d7a3057873"
+    },
+    "render": {
+      "path": "assets/professional/professional-fixed-paired-clamp-carriage-and-tracing-disk-machine-01/v1.0.0/thumbnail.png",
+      "size": 549552,
+      "sha256": "4860a3030e6f38609da8d84a71947ab679b18d9df11ac3f2648929f6491086f9"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

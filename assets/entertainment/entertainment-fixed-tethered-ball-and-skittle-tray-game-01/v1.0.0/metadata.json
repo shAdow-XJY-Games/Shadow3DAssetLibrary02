@@ -1,0 +1,42 @@
+{
+  "id": "entertainment-fixed-tethered-ball-and-skittle-tray-game-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "entertainment",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Tethered Ball and Skittle Tray Game",
+  "description": "One newly authored complete static tabletop tethered-ball skittles game. One continuous thick wooden floor-and-rim tray holds a whole turned side mast with integral widened foot, one full diagonal projecting overhead arm and an independent knee brace. A complete bored suspension eye joins a single continuous fixed hanging cord to one whole suspended ball. Nine complete small turned skittles stand on their full soles inside the same bounded tray. The ball is posed clear of the pins; there are no hidden supports or old meshes imported. Unlike the full-size isolated bowling-pin prop, this is a whole tabletop suspended-ball game; unlike the speed-bag training tower there is no rebound deck, guide carriage or short pear bag, and unlike the gimballed maze there is no tilting floor or internal wall route. One game prop/kit, zero scenes; pins and ball are subordinate included pieces, not separately counted assets. Four opaque untextured PBR roles, metres, Z up, whole horizontal-bounds-centred ground origin. Fixed static appearance only: no playable physics, pendulum motion, striking, scoring, rules compliance, strength, stability, manufacture or toy-safety capability claimed.",
+  "bounds": {
+    "x": 0.84,
+    "y": 0.64,
+    "z": 1.012,
+    "unit": "m"
+  },
+  "triangles": 3664,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/entertainment/entertainment-fixed-tethered-ball-and-skittle-tray-game-01/v1.0.0/model.glb",
+      "size": 206504,
+      "sha256": "5ab68855cb20910216d181a203fa6d68bce45d0b3259d3f1f6c7a9f6dc0d543d"
+    },
+    "blend": {
+      "path": "assets/entertainment/entertainment-fixed-tethered-ball-and-skittle-tray-game-01/v1.0.0/source.blend",
+      "size": 812160,
+      "sha256": "8c7c1bec007b64936e7eb1193c20804c1bb8309092393f2aa0ff30a00d1ac502"
+    },
+    "generator": {
+      "path": "assets/entertainment/entertainment-fixed-tethered-ball-and-skittle-tray-game-01/v1.0.0/generate.py",
+      "size": 11102,
+      "sha256": "7d47b191105dd55cbad07d3f8b69ba708d4798e712ec3eb05947c138997aed3b"
+    },
+    "render": {
+      "path": "assets/entertainment/entertainment-fixed-tethered-ball-and-skittle-tray-game-01/v1.0.0/thumbnail.png",
+      "size": 410581,
+      "sha256": "ff1e4c5ff3fb41691e881bf33bb1a778e06a1402820a8b99332f4e16182d4e2b"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

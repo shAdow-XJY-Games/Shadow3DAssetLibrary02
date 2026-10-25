@@ -1,0 +1,42 @@
+{
+  "id": "photography-whole-film-inspection-and-camera-preparation-workcorner-scene-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "photography",
+  "style": "source-preserved-low-poly",
+  "title": "Whole Film Inspection and Camera Preparation Workcorner",
+  "description": "One static film inspection and camera-preparation workcorner scene, zero new independent models. Five whole qualified originals retain complete GLB mesh buffers, normals, hierarchy and full PBR at unit scale through translation-only wrappers: a raised crank desk carries a whole hand-crank rewind/inspection bench; a separate lower open wooden worktable carries an intact cine camera and a whole raised-clapper blank slate. The two parallel but offset stations have different working heights and a clear front approach on one scene-only finite floor. This is equipment preparation and film inspection, not the old still-life subject table aimed at by a camera and lights, or an empty portrait sweep. No old component is cut, recoloured, rescaled or counted as a new model. One scene and zero new models, five complete instances. Static illustrative equipment only: no rewinding, editing, imaging, exposure, lighting system, camera operation, load, ergonomics, accessibility, electrical installation or safe-workspace claim. Rigging, animation and interaction not made and outside this delivery.",
+  "bounds": {
+    "x": 3.5,
+    "y": 2.050000011920929,
+    "z": 1.7620000839233398,
+    "unit": "m"
+  },
+  "triangles": 8312,
+  "materials": 17,
+  "files": {
+    "glb": {
+      "path": "assets/photography/photography-whole-film-inspection-and-camera-preparation-workcorner-scene-01/v1.0.0/model.glb",
+      "size": 445768,
+      "sha256": "458afa052efd7655d784dcb07aba2576aef4ecda640194fa673edaca423d2bbb"
+    },
+    "blend": {
+      "path": "assets/photography/photography-whole-film-inspection-and-camera-preparation-workcorner-scene-01/v1.0.0/source.blend",
+      "size": 2209680,
+      "sha256": "b17d3fbac14961c6974ee1be0f10e84866029f648c1bfcf169009bfd39b8571c"
+    },
+    "generator": {
+      "path": "assets/photography/photography-whole-film-inspection-and-camera-preparation-workcorner-scene-01/v1.0.0/generate.py",
+      "size": 149155,
+      "sha256": "c9aa6964729e3899f2da55875b281d9c4d01229d0f7480772da54edf2a8b9368"
+    },
+    "render": {
+      "path": "assets/photography/photography-whole-film-inspection-and-camera-preparation-workcorner-scene-01/v1.0.0/thumbnail.png",
+      "size": 507466,
+      "sha256": "10f4e539b879d8a2cdede238481303ca3ef260b611ef65920452f0718469cff9"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

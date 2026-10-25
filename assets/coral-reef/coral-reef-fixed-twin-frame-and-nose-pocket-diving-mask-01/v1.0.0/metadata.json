@@ -1,0 +1,42 @@
+{
+  "id": "coral-reef-fixed-twin-frame-and-nose-pocket-diving-mask-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "coral-reef",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Twin Frame and Nose Pocket Diving Mask",
+  "description": "One newly authored complete static twin-lens diving-mask exterior. Two broad polygonal front frames hold separate finite opaque illustrative lens inserts, joined by a short upper nose bridge. A continuous flared soft-style perimeter has an actual open rear and surrounds both eyes; a distinct thick hollow projecting nose pocket has a real rear opening without any mouth enclosure or breathing connector. Two whole open side buckles and root ears attach one complete fixed rear retention band around empty head space. New full geometry rather than a shortened old breathing facepiece or recoloured electronic headset: no visor casing, rear eyecup cylinders, top strap, pressure helmet or mannequin. Three opaque untextured PBR roles, metres, Z up, horizontal-envelope-centred ground origin. One static prop and zero scenes. Opaque lens surfaces deliberately do not transmit light. No optical visibility, sealing, breathing, head fit, wearability, protection, pressure performance, buckling or diving safety capability; no manufacturing or actual-use guidance. Fixed display pose only, not an articulated or functional apparatus.",
+  "bounds": {
+    "x": 0.322,
+    "y": 0.283,
+    "z": 0.163,
+    "unit": "m"
+  },
+  "triangles": 716,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/coral-reef/coral-reef-fixed-twin-frame-and-nose-pocket-diving-mask-01/v1.0.0/model.glb",
+      "size": 42692,
+      "sha256": "fab70ea1192d3ec81c138925e4c68a42f250cee35ab8bb154ecafe9af7a903d4"
+    },
+    "blend": {
+      "path": "assets/coral-reef/coral-reef-fixed-twin-frame-and-nose-pocket-diving-mask-01/v1.0.0/source.blend",
+      "size": 610952,
+      "sha256": "1da65cca6411de4c6cabdd24d8dbe3077b9f533c0ad67d865ca06906169ddf02"
+    },
+    "generator": {
+      "path": "assets/coral-reef/coral-reef-fixed-twin-frame-and-nose-pocket-diving-mask-01/v1.0.0/generate.py",
+      "size": 13000,
+      "sha256": "9ecfe6bdc0d8cf3f46c118b27c0ef8a6df5a1be22ed912d16d89186134d0669c"
+    },
+    "render": {
+      "path": "assets/coral-reef/coral-reef-fixed-twin-frame-and-nose-pocket-diving-mask-01/v1.0.0/thumbnail.png",
+      "size": 403474,
+      "sha256": "ab3fe7b1c16d4c6866893c3ee5316d83a13da0d9baf1447f7848f1c4ea010ca2"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

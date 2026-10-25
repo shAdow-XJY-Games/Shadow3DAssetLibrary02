@@ -1,0 +1,42 @@
+{
+  "id": "fantasy-fixed-curved-handle-bound-twig-besom-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "fantasy",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Curved Handle Bound Twig Besom",
+  "description": "One newly authored complete fixed fantasy besom appearance. A continuous long gently bent wooden-looking handle enters deeply into a broad tapering radial cluster of fifteen complete closed twig-like bundles. Two complete thick elliptical binding loops encircle the narrow upper brush shoulder. The splayed head has actual spaces between lower bundles and finite flat tips at the ground, not a planar socketed brush back or a reused bee brush. Three plain opaque PBR materials, metres, centred ground origin. One static prop, zero scenes. No flight, magic effects, sweeping performance, flexible bristles, hair simulation, animation, balance, manufacture or safety claim.",
+  "bounds": {
+    "x": 0.424,
+    "y": 0.2452,
+    "z": 1.4858401694170198,
+    "unit": "m"
+  },
+  "triangles": 1636,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/fantasy/fantasy-fixed-curved-handle-bound-twig-besom-01/v1.0.0/model.glb",
+      "size": 92208,
+      "sha256": "dbcecd804deda3fb9fc6825680b445bade754179a0dfb95c2a2dca513c177efc"
+    },
+    "blend": {
+      "path": "assets/fantasy/fantasy-fixed-curved-handle-bound-twig-besom-01/v1.0.0/source.blend",
+      "size": 688436,
+      "sha256": "e4c2a2dc5fc4ba77eba3d9411c2da8a5094147d5aa657e7e15f4029b52bda513"
+    },
+    "generator": {
+      "path": "assets/fantasy/fantasy-fixed-curved-handle-bound-twig-besom-01/v1.0.0/generate.py",
+      "size": 9837,
+      "sha256": "9542457544051ad2ecc5286a0fffc17975642b8ce3f88dc9161ba3ab14aaf006"
+    },
+    "render": {
+      "path": "assets/fantasy/fantasy-fixed-curved-handle-bound-twig-besom-01/v1.0.0/thumbnail.png",
+      "size": 320668,
+      "sha256": "095ee35436097512de46d45b72f118d558e13d95b4e061e107cd2107d0735480"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

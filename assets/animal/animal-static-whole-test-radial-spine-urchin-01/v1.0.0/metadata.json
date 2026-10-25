@@ -1,0 +1,42 @@
+{
+  "id": "animal-static-whole-test-radial-spine-urchin-01",
+  "version": "1.0.0",
+  "category": "modular",
+  "assetKind": "prop",
+  "theme": "animal",
+  "style": "warm-handcrafted-village",
+  "title": "Static Whole-Test Radial-Spine Urchin",
+  "description": "One newly authored whole stylised sea-urchin-like exterior: a low rounded radial test has a finite oral-side annular base and small real blind mouth recess underneath; forty slender unequal straight tapered spines radiate from complete shared root patches around the upper and lateral body. All test and spine boundaries form one closed connected mesh, not floating needle pieces or spine-textured sphere. No mammal head/feet/eyes, plant branches or upright oral-disc tentacles. Full radial body profile and spine layout are new, not the old hedgehog with legs/head deleted or the rejected anemone re-labelled. One static opaque animal prop, zero scenes. Only low-poly exterior identification; no exact species, anatomical spine count, internal organs, tube feet, defense, sting, handling, biological behaviour, rig, animation or interaction claim.",
+  "bounds": {
+    "x": 1.07811451,
+    "y": 1.069857955,
+    "z": 0.762201905,
+    "unit": "m"
+  },
+  "triangles": 1400,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/animal/animal-static-whole-test-radial-spine-urchin-01/v1.0.0/model.glb",
+      "size": 84296,
+      "sha256": "b759ec8ffe0528b8e01d34dfc1deda4be96cf3d3bc68117528a9b67104982b4f"
+    },
+    "blend": {
+      "path": "assets/animal/animal-static-whole-test-radial-spine-urchin-01/v1.0.0/source.blend",
+      "size": 596028,
+      "sha256": "6ff3c9fa51d90b6f15d0da695ea0e56609a882069601d44d5edf91169bc4556f"
+    },
+    "generator": {
+      "path": "assets/animal/animal-static-whole-test-radial-spine-urchin-01/v1.0.0/generate.py",
+      "size": 29451,
+      "sha256": "807f30b7601366799233434157a502e8b8de4dae68b1666215985b501e45b45b"
+    },
+    "render": {
+      "path": "assets/animal/animal-static-whole-test-radial-spine-urchin-01/v1.0.0/thumbnail.png",
+      "size": 508588,
+      "sha256": "5829b1270705226572a5447e791c71358bc12eb6c9148911b0fc43e29d1612a3"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

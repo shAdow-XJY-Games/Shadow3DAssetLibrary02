@@ -1,0 +1,42 @@
+{
+  "id": "professional-fixed-open-bed-and-sliding-knee-composing-stick-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "professional",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Open Bed and Sliding Knee Composing Stick",
+  "description": "One newly authored complete empty compositor composing-stick-style hand tool. A single connected metal body combines a full shallow flat bed, one long rear wall and one fixed end wall while leaving the front and far right open. One separately editable full knee crosses the bed and continues into a genuine C-shaped rear clip around the rail; a whole smooth locking spindle and independent blank stepped thumb-knob complete its fixed position. No letters, type blocks, text or measurement graduations are included. This is not the old two-high-wall three-direction mitre box with its slots deleted, or the old narrow caliper beam with fewer jaws: the complete shallow receiving bed, fixed end and wrap-over transverse stop are newly authored together. No previous visible geometry is imported. Four closed editable meshes and four opaque constant untextured PBR roles, metres, Z up and actual horizontal bounds centred over the whole bed underside. One prop, zero scenes. Static occupational appearance only: tiny fixed seating overlaps are not running-fit proof; no movable knee, screw engagement, clamping force, calibrated type width, typesetting or printing performance, hand fit, manufacture or tool safety claim. Rigging, animation and interaction are not made and outside this static asset.",
+  "bounds": {
+    "x": 0.3,
+    "y": 0.12,
+    "z": 0.042,
+    "unit": "m"
+  },
+  "triangles": 372,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/professional/professional-fixed-open-bed-and-sliding-knee-composing-stick-01/v1.0.0/model.glb",
+      "size": 21900,
+      "sha256": "49a52380073324b141721f83119234acdd55eda4c2101d5ff248f5725747fe9c"
+    },
+    "blend": {
+      "path": "assets/professional/professional-fixed-open-bed-and-sliding-knee-composing-stick-01/v1.0.0/source.blend",
+      "size": 556084,
+      "sha256": "9b2b38f2237b8753e177ca29ed874af71ece374c294ef5988b0727c1c0264c9a"
+    },
+    "generator": {
+      "path": "assets/professional/professional-fixed-open-bed-and-sliding-knee-composing-stick-01/v1.0.0/generate.py",
+      "size": 24103,
+      "sha256": "f0182d704c37e64805666bf11aa659ff6a77bd501be11ec2c1de65f4d67d3fd4"
+    },
+    "render": {
+      "path": "assets/professional/professional-fixed-open-bed-and-sliding-knee-composing-stick-01/v1.0.0/thumbnail.png",
+      "size": 476290,
+      "sha256": "92f5cf18e265be74d6d78a55ba72a412101827ef11aa6786468e94274636ee45"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "animal-static-heavy-chest-paired-tusk-walrus-01",
+  "version": "1.0.0",
+  "category": "modular",
+  "assetKind": "prop",
+  "theme": "animal",
+  "style": "warm-handcrafted-village",
+  "title": "Static Heavy-Chest Paired-Tusk Walrus",
+  "description": "One newly authored whole stylised walrus-like animal in a low fixed resting pose. A heavy tall forechest and short broad blunt head merge into a deep tapering rear body, with two thick lateral front flippers and two separately splayed posterior flippers rather than a whale tail. Broad paired muzzle pads, a small dark nose, low lateral eyes and two long curved downward tusks form the face. Every full body section and flipper/tusk/muzzle path is new, not a copied seal with tusks added, a pig torso with hooves removed or a whale tail split. One opaque static animal prop, zero scenes; finite low belly datum for placement only. No exact species or scientific anatomy, whisker simulation, breathing, motion, tusk function, handling, danger, rig, animation or interaction claim.",
+  "bounds": {
+    "x": 1.899999976,
+    "y": 2.633529425,
+    "z": 1.080000043,
+    "unit": "m"
+  },
+  "triangles": 1016,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/animal/animal-static-heavy-chest-paired-tusk-walrus-01/v1.0.0/model.glb",
+      "size": 61720,
+      "sha256": "9e3bb18e870fa87b7bbc4ab031304ad7d60a6016353c99be1d602d947fe2ba44"
+    },
+    "blend": {
+      "path": "assets/animal/animal-static-heavy-chest-paired-tusk-walrus-01/v1.0.0/source.blend",
+      "size": 611840,
+      "sha256": "999ce6c3bfa428375f77eb834a0e38d7eef02591b9f76019a92324b37d8562d8"
+    },
+    "generator": {
+      "path": "assets/animal/animal-static-heavy-chest-paired-tusk-walrus-01/v1.0.0/generate.py",
+      "size": 30203,
+      "sha256": "318d6ea02149dd2e4412dcc64160a6fe8e55a52925b4295c318662fc8a43b01c"
+    },
+    "render": {
+      "path": "assets/animal/animal-static-heavy-chest-paired-tusk-walrus-01/v1.0.0/thumbnail.png",
+      "size": 482473,
+      "sha256": "f4032d6c052b7b9f080f28ffaa929a236819325a78560c025dfbb5738e2dca45"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

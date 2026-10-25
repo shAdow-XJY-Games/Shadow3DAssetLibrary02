@@ -1,0 +1,42 @@
+{
+  "id": "professional-whole-edge-clamped-and-wall-equipped-service-bench-scene-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "professional",
+  "style": "source-preserved-low-poly",
+  "title": "Whole Edge-Clamped and Wall-Equipped Service Bench",
+  "description": "One complete static professional service workcorner, one scene and zero new independent models. Four unchanged complete qualified models are retained: the whole open worktable, the whole paired-clamp carriage and guarded tracing-disk machine on its left tabletop, the entire table-edge bench vise mounted at the right front edge, and the entire cycle-service tool panel including all original tools, keepers and both rear cleats on a separate finite back wall. The vise upper bearing partially contacts the real top face and its whole lower pressure pad contacts the real table underside; it is not placed on the floor or buried in the tabletop. All four full machine ground pads rest on the tabletop. Both entire wall-panel rear cleats meet the vertical wall. This tabletop, underside-edge and separate vertical mounting relationship differs from a table with loose sample tools or a raised metrology plate; it does not count replacement tools as new models. Only a finite floor and back wall are scene-only geometry. Original mesh attributes, indices, full PBR dictionaries, per-face assignments and internal node hierarchy are preserved without scaling, trimming or baking. Static art only: no key pattern, copying, cutting, tool operation, human access compliance, load capacity, stability or safety guarantee. Rigging, animation and interaction are not made and outside this scene.",
+  "bounds": {
+    "x": 1.7000000476837158,
+    "y": 1.399999976158142,
+    "z": 1.9500000476837158,
+    "unit": "m"
+  },
+  "triangles": 5324,
+  "materials": 14,
+  "files": {
+    "glb": {
+      "path": "assets/professional/professional-whole-edge-clamped-and-wall-equipped-service-bench-scene-01/v1.0.0/model.glb",
+      "size": 337576,
+      "sha256": "73ecf6374524042df83696d415baaf14b797f2dab11204d44d5922fc382303cf"
+    },
+    "blend": {
+      "path": "assets/professional/professional-whole-edge-clamped-and-wall-equipped-service-bench-scene-01/v1.0.0/source.blend",
+      "size": 1712816,
+      "sha256": "38277f9f9f406b7e491bf651b0f0ebee5e12cf3d5fb186ea32d365b08c912c4f"
+    },
+    "generator": {
+      "path": "assets/professional/professional-whole-edge-clamped-and-wall-equipped-service-bench-scene-01/v1.0.0/generate.py",
+      "size": 145459,
+      "sha256": "eb9c0f2005d540c12b55a9aabb546868b0e0b4ba759c918a69487831c872806c"
+    },
+    "render": {
+      "path": "assets/professional/professional-whole-edge-clamped-and-wall-equipped-service-bench-scene-01/v1.0.0/thumbnail.png",
+      "size": 529689,
+      "sha256": "e78b594163c93777f20a51d49d10507ce967ed32edae3aab6dc26897a6f220a4"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

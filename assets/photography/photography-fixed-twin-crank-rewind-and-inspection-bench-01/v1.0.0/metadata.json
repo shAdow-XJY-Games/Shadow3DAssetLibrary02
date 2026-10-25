@@ -1,0 +1,42 @@
+{
+  "id": "photography-fixed-twin-crank-rewind-and-inspection-bench-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "photography",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Twin Crank Rewind and Inspection Bench",
+  "description": "One newly authored complete fixed manual film rewind and inspection bench appearance. A whole low common bed on four finite feet supports two independent open bearing pedestals, two horizontal spindle shafts and two fixed outboard cranks with complete handgrips. Two upright double-flange reels have genuine open annular rims, rooted spokes, full hubs and separate stored-film exterior annuli. One continuous finite exposed ribbon connects both film masses over two separately rooted rollers and a central low inspection bridge with an opaque blank plate and narrow side retainers. Unlike a high projector case with elevated feed/take-up arms, lens and film gate, this is a broad two-ended manual workbench without a projection assembly. Unlike the inclined open-reel audio deck, it has independently vertical bearing pedestals and cranks, a central inspection bridge and no audio head/control console. All geometry newly authored, no old reel or machine meshes imported. One complete prop, zero scenes, no separately counted reels or bridge. Four opaque untextured PBR roles, metres, Z up, whole horizontal-envelope-centred ground origin. Static display only: film masses are exterior volumes, not individual wound layers; ribbon has no frames or sprocket perforations. No rewind/feed motion, tension, gearing, imaging, lighting, editing accuracy, audio/electrical function, compatibility, manufacture or machinery safety claimed.",
+  "bounds": {
+    "x": 1.22,
+    "y": 0.43000000000000005,
+    "z": 0.492,
+    "unit": "m"
+  },
+  "triangles": 3336,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/photography/photography-fixed-twin-crank-rewind-and-inspection-bench-01/v1.0.0/model.glb",
+      "size": 173112,
+      "sha256": "e8fd2228cfae6d74479477c5a3fbba6760c91028bba5e86da4d11378f057dd47"
+    },
+    "blend": {
+      "path": "assets/photography/photography-fixed-twin-crank-rewind-and-inspection-bench-01/v1.0.0/source.blend",
+      "size": 989020,
+      "sha256": "4b9072075bb08dbaecf479273ed60bc3ee296ced9f9e576b921e2e6a8ffdde52"
+    },
+    "generator": {
+      "path": "assets/photography/photography-fixed-twin-crank-rewind-and-inspection-bench-01/v1.0.0/generate.py",
+      "size": 12661,
+      "sha256": "a7585831bdd923729ec63996583970f971a3af19ae97bdbbf38d2d43d44a3e37"
+    },
+    "render": {
+      "path": "assets/photography/photography-fixed-twin-crank-rewind-and-inspection-bench-01/v1.0.0/thumbnail.png",
+      "size": 387717,
+      "sha256": "2d66f5b9997c91d74ad0fa95e7fe1c64d4c477d85c1416946a253e032ba9a589"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

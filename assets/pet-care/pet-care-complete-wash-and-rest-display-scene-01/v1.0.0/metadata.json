@@ -1,0 +1,42 @@
+{
+  "id": "pet-care-complete-wash-and-rest-display-scene-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "pet-care",
+  "style": "source-preserved-low-poly",
+  "title": "Complete Wash and Rest Equipment Display",
+  "description": "One complete static pet-care equipment display scene, counted as one scene and zero new independent models. The full original raised grooming wash station occupies the rear-left zone, one complete original hard-shell carrier stands separately at front-left, and the full original cubby-and-offset-perch climbing frame occupies the right zone. One low continuous scene-only floor joins these unequal station positions with visibly open intervening areas, not a shelf of repeated crates or a renamed human waiting area. Every original raw GLB buffer, local POSITION/NORMAL, material dictionary, per-face assignment and internal hierarchy is retained byte-exact; only declared whole-assembly translations at unit scale are added. No original geometry is extracted, cropped, rescaled or recoloured. Static unoccupied equipment exhibit only: no animals, working wash/plumbing, usable climbing route, animal/species fit, hygienic workflow, safety zoning, real facility planning, load/stability/welfare/manufacture or safety certification. Rigging, animation and interaction are not made.",
+  "bounds": {
+    "x": 3.200000047683716,
+    "y": 2.4000000953674316,
+    "z": 1.350000023841858,
+    "unit": "m"
+  },
+  "triangles": 7680,
+  "materials": 11,
+  "files": {
+    "glb": {
+      "path": "assets/pet-care/pet-care-complete-wash-and-rest-display-scene-01/v1.0.0/model.glb",
+      "size": 673616,
+      "sha256": "5082515188d897e8429270cbee334bacd0ac1be26d3610f1188a3d195453a19d"
+    },
+    "blend": {
+      "path": "assets/pet-care/pet-care-complete-wash-and-rest-display-scene-01/v1.0.0/source.blend",
+      "size": 1918780,
+      "sha256": "c61dbff30bed218e2781cfe3624c763805f6d71a2094a0418ee224a908580398"
+    },
+    "generator": {
+      "path": "assets/pet-care/pet-care-complete-wash-and-rest-display-scene-01/v1.0.0/generate.py",
+      "size": 161052,
+      "sha256": "dda7b4f31e35cf429aba880df8ee50a02ca346d2aec530d661c7cb4bc42b7052"
+    },
+    "render": {
+      "path": "assets/pet-care/pet-care-complete-wash-and-rest-display-scene-01/v1.0.0/thumbnail.png",
+      "size": 488008,
+      "sha256": "721016dd9abfd57063712684f0f99611bc9b412d86fb73d02f87af0109a23aa6"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

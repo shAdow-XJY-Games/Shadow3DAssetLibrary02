@@ -1,0 +1,42 @@
+{
+  "id": "textile-fixed-unequal-toothed-drum-and-feed-board-carder-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "textile",
+  "style": "source-preserved-low-poly",
+  "title": "Fixed Unequal Toothed Drum and Feed Board Carder",
+  "description": "One newly authored whole fixed hand-cranked twin carding-drum appearance: complete low grounded open frame with two unequal horizontal drums in fore-aft succession, genuinely integral short raised teeth on both full drum surfaces, independent through axles and four bearing supports, one shallow sloped front feeding board, an outside continuous belt around two unequal pulleys, and a separate crank with full grip. The low open unequal toothed cylinders and short feed board are not the tall pressure frame with vertically stacked smooth wringer rolls and cloth/pan, nor a hooded central roll head with two long return conveyor wings. No old meshes imported. Four opaque constant PBR roles, one whole model and zero scenes. Simplified blunt prismatic teeth and fixed belt only; no fibre payload, combing, carding performance, transmission, rotation, hand operation, sharpness, fabrication, dimensional compatibility, load or safety claims. Static illustration; rigging, animation and interaction not made and outside scope.",
+  "bounds": {
+    "x": 0.7870000004768372,
+    "y": 0.8899999856948853,
+    "z": 0.4883745312690735,
+    "unit": "m"
+  },
+  "triangles": 3004,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/textile/textile-fixed-unequal-toothed-drum-and-feed-board-carder-01/v1.0.0/model.glb",
+      "size": 271400,
+      "sha256": "1bb031fd18bf839c385b8d5fe8eef1306089d587506963bbb3b895841d4463d7"
+    },
+    "blend": {
+      "path": "assets/textile/textile-fixed-unequal-toothed-drum-and-feed-board-carder-01/v1.0.0/source.blend",
+      "size": 1014624,
+      "sha256": "1eb91da8844e3984a3ade754e666e2583e110cb318242fa906b684b241609e0e"
+    },
+    "generator": {
+      "path": "assets/textile/textile-fixed-unequal-toothed-drum-and-feed-board-carder-01/v1.0.0/generate.py",
+      "size": 18404,
+      "sha256": "be973f484ce6e283b845b3da8e296bf1d6508bba111b2780b27a3412d4684cad"
+    },
+    "render": {
+      "path": "assets/textile/textile-fixed-unequal-toothed-drum-and-feed-board-carder-01/v1.0.0/thumbnail.png",
+      "size": 552544,
+      "sha256": "d2eb896524bb76c3ff350661b9bb5e31c14a05f68cc637ea732140614c568019"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

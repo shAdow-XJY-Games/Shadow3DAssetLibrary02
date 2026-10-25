@@ -1,0 +1,42 @@
+{
+  "id": "fantasy-fixed-three-chain-ring-candelabrum-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "fantasy",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Three Chain Ring Candelabrum",
+  "description": "One newly authored complete fixed hanging ring candelabrum appearance. One broad continuous open iron ring carries six full deep brass-like cups, each with a complete seated unlit wax candle and short dark wick. Three separate complete alternating-link suspension routes rise from actual ring eyes to a common upper hanging loop. All openings are geometric, not a painted lantern cage or a ceiling fan with extra blades. Three ordinary opaque constant PBR materials, no flame or emission, metres, centred lower-ring origin. One static prop, zero scenes. No host ceiling, powered light, fire, burning, chain articulation, carrying capacity, installation, physical stability or safety claim.",
+  "bounds": {
+    "x": 0.9420000000000001,
+    "y": 0.874316001346443,
+    "z": 1.093,
+    "unit": "m"
+  },
+  "triangles": 5104,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/fantasy/fantasy-fixed-three-chain-ring-candelabrum-01/v1.0.0/model.glb",
+      "size": 340880,
+      "sha256": "242f180a1325dffb6ec875bffc192c1d0dbd1b683784fbe0a2a0260e8fad24e4"
+    },
+    "blend": {
+      "path": "assets/fantasy/fantasy-fixed-three-chain-ring-candelabrum-01/v1.0.0/source.blend",
+      "size": 1022708,
+      "sha256": "0dc74e71db54f0a70e2f9a8a4ebeb837e4a3463066c90fd793b30155bcc9695c"
+    },
+    "generator": {
+      "path": "assets/fantasy/fantasy-fixed-three-chain-ring-candelabrum-01/v1.0.0/generate.py",
+      "size": 10660,
+      "sha256": "472d2f061eea31378b041205f0b6e909f192052806a89dd2a1e983ddc94bfffe"
+    },
+    "render": {
+      "path": "assets/fantasy/fantasy-fixed-three-chain-ring-candelabrum-01/v1.0.0/thumbnail.png",
+      "size": 386569,
+      "sha256": "4e137e3bd2df7adb673dc6f03d94d3c15925e8264c084166f5e2710efd03076c"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

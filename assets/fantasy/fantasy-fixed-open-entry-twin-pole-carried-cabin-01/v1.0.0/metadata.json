@@ -1,0 +1,42 @@
+{
+  "id": "fantasy-fixed-open-entry-twin-pole-carried-cabin-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "fantasy",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Open Entry Twin Pole Carried Cabin",
+  "description": "One newly authored complete fixed fictional pole-carried cabin appearance. Two long continuous carrying poles pass through four complete bored saddle loops beneath the transverse floor bearers. An elevated thick floor, two full true-window side walls, rear wall and unobstructed tall front entrance form one empty small cabin with an integrated inner rear seat and back. A complete thick faceted arched canopy roof covers the enclosure; four short resting feet support the displayed base. No old chair, sled or waiting shelter meshes imported. Three opaque plain PBR materials, metres, centred ground origin. One static prop, zero scenes. No occupant, porters, carriage motion, human fit, real cultural reconstruction, loading, assembly instruction, manufacture, installation or transport safety claim.",
+  "bounds": {
+    "x": 1.24,
+    "y": 3.3,
+    "z": 2.06,
+    "unit": "m"
+  },
+  "triangles": 1212,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/fantasy/fantasy-fixed-open-entry-twin-pole-carried-cabin-01/v1.0.0/model.glb",
+      "size": 61912,
+      "sha256": "905ff8579749e2edd17bfad252774fa81d4343ce4bdb2398513fa53befc3d7cc"
+    },
+    "blend": {
+      "path": "assets/fantasy/fantasy-fixed-open-entry-twin-pole-carried-cabin-01/v1.0.0/source.blend",
+      "size": 688528,
+      "sha256": "edbf115d46f8fc775825ca6f4c5c74932e02a068e8c5b007c327ffc8263add81"
+    },
+    "generator": {
+      "path": "assets/fantasy/fantasy-fixed-open-entry-twin-pole-carried-cabin-01/v1.0.0/generate.py",
+      "size": 11074,
+      "sha256": "7547d78bcc9e7e9fadedc5a9538254703e4a1df54a1c0464a4a808535f572b4d"
+    },
+    "render": {
+      "path": "assets/fantasy/fantasy-fixed-open-entry-twin-pole-carried-cabin-01/v1.0.0/thumbnail.png",
+      "size": 469456,
+      "sha256": "b34c43cb4d7a794bef552e1dcc75d223b127ca8b6793c838bf250805b423fbe6"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

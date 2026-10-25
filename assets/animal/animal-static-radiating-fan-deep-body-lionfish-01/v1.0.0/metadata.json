@@ -1,0 +1,42 @@
+{
+  "id": "animal-static-radiating-fan-deep-body-lionfish-01",
+  "version": "1.0.0",
+  "category": "modular",
+  "assetKind": "prop",
+  "theme": "animal",
+  "style": "warm-handcrafted-village",
+  "title": "Static Radiating-Fan Deep-Body Lionfish",
+  "description": "One complete stylised lionfish-like exterior with a short deep laterally compressed head/body, narrow tailstock and rounded vertical fan tail. Two very broad nonplanar scalloped pectoral fans radiate from actual body roots, with a tall comb-like finite dorsal fin, paired lower fins and rear anal fin. Broad fin silhouette and head/trunk proportions are newly authored together rather than old fish plus more spines or stripe recoloring; no old geometry arrays reused. Four opaque matte roles, one model zero scenes. Static artistic exterior only: no exact species, anatomical ray counts, gills, venom, handling, swimming, rig, animation, interaction or safety claims.",
+  "bounds": {
+    "x": 2.619999886,
+    "y": 1.980000019,
+    "z": 1.419999957,
+    "unit": "m"
+  },
+  "triangles": 692,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/animal/animal-static-radiating-fan-deep-body-lionfish-01/v1.0.0/model.glb",
+      "size": 43936,
+      "sha256": "61b4d0ac88120b285e5bc5f1413b60d3917adaf0c9165c70a611eec56c858887"
+    },
+    "blend": {
+      "path": "assets/animal/animal-static-radiating-fan-deep-body-lionfish-01/v1.0.0/source.blend",
+      "size": 592556,
+      "sha256": "3664b4f3a334814126a8cccf8a3fe372783b41c07dcddbc505972e6e6ff80755"
+    },
+    "generator": {
+      "path": "assets/animal/animal-static-radiating-fan-deep-body-lionfish-01/v1.0.0/generate.py",
+      "size": 29615,
+      "sha256": "d5cbb0cbc7ddfb8211479fd8e066e12bb78ed1eddbb30a10c50507114c74b666"
+    },
+    "render": {
+      "path": "assets/animal/animal-static-radiating-fan-deep-body-lionfish-01/v1.0.0/thumbnail.png",
+      "size": 484962,
+      "sha256": "55ad2e8095935f05a0dbbfcd372f572b1d8e85fe064baeca4f526479d204f83c"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

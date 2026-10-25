@@ -1,0 +1,42 @@
+{
+  "id": "cafe-fixed-open-drum-and-front-pan-coffee-roaster-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "cafe",
+  "style": "source-preserved-low-poly",
+  "title": "Fixed Open Drum and Front Pan Coffee Roaster",
+  "description": "One newly authored complete fixed coffee-roaster-style machine exterior. A long four-foot common base carries a thick horizontal barrel with a genuinely open front chamber, separate full rear end and fixed side-open circular front door. A deep opaque top feed hopper has a real empty blind chamber, without a claimed hidden feed connection. A short open-topped discharge chute leads visually toward a separately supported low circular front pan with its complete floor/rim, central spindle and three full blunt radial sweep pieces. A true open-ended rear elbow and one blank side control complete the whole apparatus. No old winnower, grinder or drum geometry imported or rescaled; the open barrel and front pan are distinct connected stages of one static object. One prop zero scenes, three opaque constant PBR materials. No beans, combustion/heating, roasting or cooling performance, airflow, rotation, continuous processing passage, electrical operation, food handling/hygiene procedure, manufacture or safety certification. Rigging, animation and interaction are not made.",
+  "bounds": {
+    "x": 1.0700000524520874,
+    "y": 1.8980000019073486,
+    "z": 1.6749999523162842,
+    "unit": "m"
+  },
+  "triangles": 4116,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/cafe/cafe-fixed-open-drum-and-front-pan-coffee-roaster-01/v1.0.0/model.glb",
+      "size": 367488,
+      "sha256": "6cf46565916e79ceb198431e2bab6fa80e48bd96ca5e1ccbc11fa2db93feeee2"
+    },
+    "blend": {
+      "path": "assets/cafe/cafe-fixed-open-drum-and-front-pan-coffee-roaster-01/v1.0.0/source.blend",
+      "size": 1134816,
+      "sha256": "203c6fe7bb8b769b2b11b9dca3159dd6254623de4bf483a5b07be563280a7c1a"
+    },
+    "generator": {
+      "path": "assets/cafe/cafe-fixed-open-drum-and-front-pan-coffee-roaster-01/v1.0.0/generate.py",
+      "size": 18160,
+      "sha256": "959a24c5e06ea175af65277918e98d247655fec2011ab55673c0e666ffb02c9a"
+    },
+    "render": {
+      "path": "assets/cafe/cafe-fixed-open-drum-and-front-pan-coffee-roaster-01/v1.0.0/thumbnail.png",
+      "size": 538529,
+      "sha256": "73c0775f85f804178a43882eaafb44bf12dd109f1652d6565c066e480e2f5eae"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

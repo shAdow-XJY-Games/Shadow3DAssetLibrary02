@@ -1,0 +1,42 @@
+{
+  "id": "pet-care-fixed-vented-arched-shell-and-grille-carrier-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "pet-care",
+  "style": "source-preserved-low-poly",
+  "title": "Fixed Vented Arched Shell and Grille Carrier",
+  "description": "One original complete fixed hard-shell pet-carrier appearance. A thick low floor basin encloses the bottom of one continuous empty chamber. Two full slotted side panels and a thick chamfer-arched upper vault meet a solid rear end. The front aperture contains one separate shaped open grille frame with complete bars, two fixed hinge appearances and a small closed latch. An entire open top carry handle and four small grounded pads complete the whole case. Actual side ventilation slots and front grille openings are geometry, not dark painted marks. This is not a top-open partitioned cargo crate or spread tray toolbox: there is one roofed front-access chamber, no internal partitions or tray cascade. All numeric geometry newly authored, one prop zero scenes, three opaque materials. Static empty artistic exterior only, no animal, species/size fit, airflow performance, secure containment, lock/hinge action, carrying or shipping suitability, load, hygiene, welfare, manufacture or safety certification. Rigging, animation and interaction are not made.",
+  "bounds": {
+    "x": 0.47099998593330383,
+    "y": 0.7070000171661377,
+    "z": 0.5230000019073486,
+    "unit": "m"
+  },
+  "triangles": 1388,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/pet-care/pet-care-fixed-vented-arched-shell-and-grille-carrier-01/v1.0.0/model.glb",
+      "size": 133572,
+      "sha256": "1fc927c75450a7ff78f0610ed808f565328d95da26f571c5d84cf85cfee62168"
+    },
+    "blend": {
+      "path": "assets/pet-care/pet-care-fixed-vented-arched-shell-and-grille-carrier-01/v1.0.0/source.blend",
+      "size": 801056,
+      "sha256": "342ae401343924d73acee0c2082971fc6c155a1baace21fa32faf097fe1cd717"
+    },
+    "generator": {
+      "path": "assets/pet-care/pet-care-fixed-vented-arched-shell-and-grille-carrier-01/v1.0.0/generate.py",
+      "size": 17246,
+      "sha256": "946211235aeab6c7f168a2ebe7b35348a32fdbc2f91518b9d1cda8692dbf742c"
+    },
+    "render": {
+      "path": "assets/pet-care/pet-care-fixed-vented-arched-shell-and-grille-carrier-01/v1.0.0/thumbnail.png",
+      "size": 540907,
+      "sha256": "c4973c2f35f4fdeba7176663dc8038d6f435eed7de6bb228904f65ee2ba1a78a"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

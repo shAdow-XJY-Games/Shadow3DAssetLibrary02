@@ -1,0 +1,42 @@
+{
+  "id": "toys-fixed-three-mirror-channel-cutaway-kaleidoscope-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "toys",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Three Mirror Channel Cutaway Kaleidoscope",
+  "description": "One newly authored whole static cutaway kaleidoscope-style display. A finite long outer casing deliberately retains its rear/lower half and both complete annular end collars, exposing two complete long mirror-style plates and the lower half of a deliberately sectioned third plate in a triangular-channel arrangement. The rear end has one genuine small peephole annulus. A separately widened shallow specimen-cell appearance has a complete open front retaining ring, a real half-sectioned wall, an annular rear partition and a low seat containing four fixed coloured solid pieces. Two small attached ground saddles belong to the same display, not a separate stand asset or scene. This is not the tripod telescope without legs or a viewing drum tipped over: all geometry is new, and neither a lens train, pleated camera, upright slit wall nor inner image strip is reused. One prop, zero scenes; specimens are subordinate pieces, not individual models. Five opaque constant PBR roles, metres, Z up and actual horizontal-envelope-centred ground origin. Deliberate pedagogical cutaway: front/upper casing half, upper half of the near mirror plate and transparent specimen cover are not included. Mirror-style panels are opaque illustrative metal, no real pattern, optical transmission, image formation, rotation, calibration, educational efficacy, manufacturing, fit or toy-safety performance claimed.",
+  "bounds": {
+    "x": 0.622,
+    "y": 0.196,
+    "z": 0.20800000000000002,
+    "unit": "m"
+  },
+  "triangles": 1936,
+  "materials": 5,
+  "files": {
+    "glb": {
+      "path": "assets/toys/toys-fixed-three-mirror-channel-cutaway-kaleidoscope-01/v1.0.0/model.glb",
+      "size": 90068,
+      "sha256": "161b4100aecfc3564e22101ffbd997bfc08c5bf04b6ed4bbab7b37244ac59ab0"
+    },
+    "blend": {
+      "path": "assets/toys/toys-fixed-three-mirror-channel-cutaway-kaleidoscope-01/v1.0.0/source.blend",
+      "size": 746880,
+      "sha256": "9a77ebd0e3ab044824d9abec262e7561d941719b2434faa1b2ff8e99cfc874f5"
+    },
+    "generator": {
+      "path": "assets/toys/toys-fixed-three-mirror-channel-cutaway-kaleidoscope-01/v1.0.0/generate.py",
+      "size": 11841,
+      "sha256": "5bc9d2b40b56c6face15ff60e664cffa1be74e14eb3efbfcf7bbbb14a68d18bc"
+    },
+    "render": {
+      "path": "assets/toys/toys-fixed-three-mirror-channel-cutaway-kaleidoscope-01/v1.0.0/thumbnail.png",
+      "size": 417924,
+      "sha256": "199841b8865d27d96d36a5ca6f6172308f7d400da39a42ec7f6c3028bb51fb16"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

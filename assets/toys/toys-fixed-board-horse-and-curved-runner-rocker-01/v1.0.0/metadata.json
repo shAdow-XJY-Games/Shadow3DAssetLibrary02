@@ -1,0 +1,42 @@
+{
+  "id": "toys-fixed-board-horse-and-curved-runner-rocker-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "toys",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Board Horse and Curved Runner Rocker",
+  "description": "One newly authored complete fixed wooden rocking-horse appearance. One thick continuous sawn horse head-neck-torso board carries two upright ears, a transverse handle with two grips, a separate shaped straddle saddle and one whole descending curved tail board. Four complete splayed legs root the body into two continuous thick curved runners, which rise at both ends and rest on actual central flat facets; two low transverse ties connect the runners. Small lateral eye insets are subordinate details. Unlike the old carousel horse, this is not a cuboid-union horse extracted from a canopy and pole; unlike the spring rider it has no single coil or mounting plates; unlike the curved-runner armchair it has a horse-shaped straddle body and no chair back/arms. Entire geometry is new and no old animal, horse, chair or rider mesh is imported or scaled. One complete toy prop, zero scenes, no separately counted components. Three opaque constant untextured PBR roles, metres, Z up, whole horizontal-bounds-centred ground origin. Only the shown fixed pose is made: no rocking motion, balance range, rider suitability, ergonomics, structural load, manufacture or toy-safety capability claimed.",
+  "bounds": {
+    "x": 1.36,
+    "y": 0.516,
+    "z": 1.157,
+    "unit": "m"
+  },
+  "triangles": 992,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/toys/toys-fixed-board-horse-and-curved-runner-rocker-01/v1.0.0/model.glb",
+      "size": 53304,
+      "sha256": "cec26f7e2d58a3b401b2c81eb289767ed6ad5a79a9ca507fb42df74ecd90ad8b"
+    },
+    "blend": {
+      "path": "assets/toys/toys-fixed-board-horse-and-curved-runner-rocker-01/v1.0.0/source.blend",
+      "size": 653716,
+      "sha256": "c3adf0d2514e296d65f7bf5aba47722da818310effdd4aafef8353d8e838ade9"
+    },
+    "generator": {
+      "path": "assets/toys/toys-fixed-board-horse-and-curved-runner-rocker-01/v1.0.0/generate.py",
+      "size": 11872,
+      "sha256": "785fee2ddf2e7f20f0c0136f78332b6a786feeec0aa5cc80b5cd0ad3b93bc7d7"
+    },
+    "render": {
+      "path": "assets/toys/toys-fixed-board-horse-and-curved-runner-rocker-01/v1.0.0/thumbnail.png",
+      "size": 464995,
+      "sha256": "ab97626fc19f68e26fa43b560373d314a5f03c4e693c0d725c2c5989064ae552"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

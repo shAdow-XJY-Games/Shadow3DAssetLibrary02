@@ -1,0 +1,42 @@
+{
+  "id": "animal-static-domed-segmented-armor-isopod-01",
+  "version": "1.0.0",
+  "category": "modular",
+  "assetKind": "prop",
+  "theme": "animal",
+  "style": "warm-handcrafted-village",
+  "title": "Static Domed Segmented Armor Isopod",
+  "description": "One newly authored complete stylised marine isopod-like exterior: a broad low compact head under the front edge of a long convex oval segmented armor body, with real transverse material ridges/grooves over the entire curved back, seven pairs of short side walking appendages, paired forward antennae, lateral dark eyes and three rounded posterior tail plates. Body is a complete closed volume with underside, not fossil slab relief extracted and extruded or a lobster with claws removed. All body/head/appendage arrays are new; shared exporter and generic mesh functions only. One static animal prop zero scenes. No exact species/anatomical segment counts, biological age, locomotion, feeding, rig, animation or interaction claim.",
+  "bounds": {
+    "x": 1.411930799,
+    "y": 3.07117486,
+    "z": 0.660000026,
+    "unit": "m"
+  },
+  "triangles": 2360,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/animal/animal-static-domed-segmented-armor-isopod-01/v1.0.0/model.glb",
+      "size": 142616,
+      "sha256": "70bcc6b739ae9563d1c498b0b8d0983e51d72c35165d8d64e9d826f2b84366c5"
+    },
+    "blend": {
+      "path": "assets/animal/animal-static-domed-segmented-armor-isopod-01/v1.0.0/source.blend",
+      "size": 715160,
+      "sha256": "f81128aa48aa1d384613d21e22c3cfa1ae48bf7b918913b9af46ccb929e8ae94"
+    },
+    "generator": {
+      "path": "assets/animal/animal-static-domed-segmented-armor-isopod-01/v1.0.0/generate.py",
+      "size": 29868,
+      "sha256": "114ba8e98b38fa60f5c1c653716cf2e7586a0c81c5d998ed20787085c58970ab"
+    },
+    "render": {
+      "path": "assets/animal/animal-static-domed-segmented-armor-isopod-01/v1.0.0/thumbnail.png",
+      "size": 473632,
+      "sha256": "2625ed19fd5834c99b9b92804f83fa1e35aeb4b1368c0caf3ebe5c871e0d7d06"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

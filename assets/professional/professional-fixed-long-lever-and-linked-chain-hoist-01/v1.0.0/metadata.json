@@ -1,0 +1,42 @@
+{
+  "id": "professional-fixed-long-lever-and-linked-chain-hoist-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "professional",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Long Lever and Linked Chain Hoist",
+  "description": "One newly authored complete portable lever-chain-hoist-style exterior laid on its broad housing back in an empty fixed display pose. A thick oval gear case and full raised circular cover carry one long tapered side lever with an independent thick grip, blank pivot cap and small selector exterior. One continuous open upper hook has a separate rooted neck and pin. Two actual short runs of complete oval tube links emerge from the case; adjacent whole links alternate orthogonal planes rather than becoming a straight suspension rod. The longer run ends in a separately necked full lower open hook with a real throat, while the short return run ends in its whole link. All visible numerical geometry is newly authored; no old column/trolley hoist, drum winch, cable or hook components are cropped or rearranged. Link count is subordinate to this one complete portable-tool relation, never new asset count. One prop, zero scenes, four opaque constant PBR roles, metres, native Z up and horizontal bounds-centred back-of-case display datum. Tiny intentional fixed embeddings at chain contact points show only this static arrangement; no articulated chain clearance, winding path inside the closed case, gear train, ratcheting, lever stroke, lifting, clamping, load retention, braking, torque, capacity, manufacture, installation, human use or equipment safety is claimed. No cargo or support fixture. Rigging, animation and interaction are not made and outside the static delivery.",
+  "bounds": {
+    "x": 0.353196,
+    "y": 0.878983,
+    "z": 0.118,
+    "unit": "m"
+  },
+  "triangles": 5456,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/professional/professional-fixed-long-lever-and-linked-chain-hoist-01/v1.0.0/model.glb",
+      "size": 306512,
+      "sha256": "b5854bb451048bae19f5e936a70082b5adf67ff9edd461ca025250f91246e3a1"
+    },
+    "blend": {
+      "path": "assets/professional/professional-fixed-long-lever-and-linked-chain-hoist-01/v1.0.0/source.blend",
+      "size": 927764,
+      "sha256": "7e5f2cb20652f9e653ab52f6b89b023e775642b558719f130b91676204690dc4"
+    },
+    "generator": {
+      "path": "assets/professional/professional-fixed-long-lever-and-linked-chain-hoist-01/v1.0.0/generate.py",
+      "size": 27464,
+      "sha256": "6bec87ab5c164d5b73361f2d84924f9f0fb6c5e41904322bc9b65fa40242c3d7"
+    },
+    "render": {
+      "path": "assets/professional/professional-fixed-long-lever-and-linked-chain-hoist-01/v1.0.0/thumbnail.png",
+      "size": 490925,
+      "sha256": "2ef94a17acae87868c08bbc35fa63050085b683a035b395984ade257b2154f94"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

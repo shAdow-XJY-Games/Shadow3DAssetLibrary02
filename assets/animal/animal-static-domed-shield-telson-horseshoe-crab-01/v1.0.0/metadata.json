@@ -1,0 +1,42 @@
+{
+  "id": "animal-static-domed-shield-telson-horseshoe-crab-01",
+  "version": "1.0.0",
+  "category": "modular",
+  "assetKind": "prop",
+  "theme": "animal",
+  "style": "warm-handcrafted-village",
+  "title": "Static Domed-Shield Telson Horseshoe Crab",
+  "description": "One new complete stylised horseshoe-crab-like exterior: a broad curved front prosomal shield rises into a low dome with two extended rear corners; a distinct narrower spiny hind shield overlaps beneath its rear margin and ends in one long tapered three-sided telson. Five pairs of short bent underside legs have small finite resting tips; two small dorsal eyes sit on the shield. All complete outlines, dome surfaces, leg paths and posterior parts are newly authored, not old crab pincers removed and a tail attached, nor a fossil slab relief extracted. One opaque static animal prop, zero scenes. No exact species, ventral gill/internal anatomy, locomotion, sting, dangerousness, rig, animation, stability or interaction claim.",
+  "bounds": {
+    "x": 1.537589431,
+    "y": 2.619999886,
+    "z": 0.479999989,
+    "unit": "m"
+  },
+  "triangles": 1260,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/animal/animal-static-domed-shield-telson-horseshoe-crab-01/v1.0.0/model.glb",
+      "size": 72364,
+      "sha256": "95ba9564407719f5f1b3ef36f7e4ecb32e6e08e436412e9ab0d0d92b9d002034"
+    },
+    "blend": {
+      "path": "assets/animal/animal-static-domed-shield-telson-horseshoe-crab-01/v1.0.0/source.blend",
+      "size": 637044,
+      "sha256": "53e1b45e27f90ed94594af1eaee03648c462b15aec2ef8c00c6b8fbdc9b0d533"
+    },
+    "generator": {
+      "path": "assets/animal/animal-static-domed-shield-telson-horseshoe-crab-01/v1.0.0/generate.py",
+      "size": 29301,
+      "sha256": "e15324933bdd5071f2173854806c0d5a8cc97c7e8904d00267aaef7d1b803b0d"
+    },
+    "render": {
+      "path": "assets/animal/animal-static-domed-shield-telson-horseshoe-crab-01/v1.0.0/thumbnail.png",
+      "size": 463265,
+      "sha256": "e09fe3ccb0ca3d820155b7beee5eaa82c88d5a2fb1aa516b1adb12f0ee3ca18e"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

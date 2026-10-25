@@ -1,0 +1,42 @@
+{
+  "id": "music-fixed-rounded-frame-and-raised-tip-jaw-harp-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "music",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Rounded Frame and Raised Tip Jaw Harp",
+  "description": "One newly authored complete fixed jaw-harp-style frame and tongue appearance. One continuous thick metal frame has a broad rounded rear return, converging shoulders and two close parallel front arms, with a genuine continuous central opening. One independent finite thin tongue is rooted into the full rear return, spans the opening between the two arms with real lateral air gaps and finishes in an upward-bent front tip beyond the arms. Both complete meshes are new numeric construction, not a tuning fork removed from its box or one kalimba tine extracted with a new outline. No separate components are counted as extra assets. One static prop, zero scenes. Two opaque untextured satin-metal PBR roles, metres, Z up, whole horizontal-bounds-centred ground origin; full frame underside is the display sole. Generic illustrative instrument appearance only, no named cultural or historical reproduction. No reed elasticity, sound, vibration, tuning, pitch, plucking, mouth contact, ergonomics, manufacturing or safety capability is represented or verified.",
+  "bounds": {
+    "x": 0.243,
+    "y": 0.08,
+    "z": 0.029,
+    "unit": "m"
+  },
+  "triangles": 256,
+  "materials": 2,
+  "files": {
+    "glb": {
+      "path": "assets/music/music-fixed-rounded-frame-and-raised-tip-jaw-harp-01/v1.0.0/model.glb",
+      "size": 13200,
+      "sha256": "fdb92423a18c7f4e548314f64a6bb56b100c1b113a9a98b11049cafe7a9bf343"
+    },
+    "blend": {
+      "path": "assets/music/music-fixed-rounded-frame-and-raised-tip-jaw-harp-01/v1.0.0/source.blend",
+      "size": 516852,
+      "sha256": "6b0efbce4ba9411a4c22ed2fee2a25313a5f2690d651cf8e0231a1c56dae19cc"
+    },
+    "generator": {
+      "path": "assets/music/music-fixed-rounded-frame-and-raised-tip-jaw-harp-01/v1.0.0/generate.py",
+      "size": 10324,
+      "sha256": "d067005c8921ba97ebb72b085cd69d0e4264dc9336aeca3256a79e108b204d04"
+    },
+    "render": {
+      "path": "assets/music/music-fixed-rounded-frame-and-raised-tip-jaw-harp-01/v1.0.0/thumbnail.png",
+      "size": 324289,
+      "sha256": "c253d4212a5cb9ff981e66efcfb4adf1291433a9e899a8b6d7bc13a5d8032195"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

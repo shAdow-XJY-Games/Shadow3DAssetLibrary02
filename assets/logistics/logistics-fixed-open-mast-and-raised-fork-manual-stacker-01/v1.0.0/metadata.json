@@ -1,0 +1,42 @@
+{
+  "id": "logistics-fixed-open-mast-and-raised-fork-manual-stacker-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "logistics",
+  "style": "source-preserved-low-poly",
+  "title": "Fixed Open Mast and Raised Fork Manual Stacker",
+  "description": "One newly authored complete fixed manual-stacker exterior. Two long outer straddle legs and four full flat-tread wheels support a rear chassis and two continuous inward-open C-section mast rails. A complete raised cross-carriage carries two full horizontal forks with integral upright heels; separate guide rollers and mounts visibly join the carriage to the tracks. Behind the mast, a complete fixed crank winch, top grooved pulley and continuous finite cable appearance connect to the carriage; a separate full rear push hoop completes the empty hand-propelled equipment silhouette. This is not a low pallet jack with longer forks or a parcel handtruck with a taller frame: the outer ground legs and elevated inner forks are separate structural levels around an open tall mast and carriage. All geometry newly authored, one prop zero scenes, three constant opaque materials. Static empty artistic exterior only; no load, person, actual hoisting/steering, winch/rope mechanics, rated lifting, travel clearance, balance, workplace operation, manufacture or safety certification. Rigging, animation and interaction are not made.",
+  "bounds": {
+    "x": 1.0479999780654907,
+    "y": 1.6319999694824219,
+    "z": 1.7350000143051147,
+    "unit": "m"
+  },
+  "triangles": 2640,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/logistics/logistics-fixed-open-mast-and-raised-fork-manual-stacker-01/v1.0.0/model.glb",
+      "size": 252604,
+      "sha256": "338666e7023d29e3aee574d955c62379f3a56caa2c0a01c69164db1f2cedc538"
+    },
+    "blend": {
+      "path": "assets/logistics/logistics-fixed-open-mast-and-raised-fork-manual-stacker-01/v1.0.0/source.blend",
+      "size": 1035360,
+      "sha256": "a53fbf1fe3ac3261d5f157083ecfa75dc8b75800ccf6692080b4ebae03458e0e"
+    },
+    "generator": {
+      "path": "assets/logistics/logistics-fixed-open-mast-and-raised-fork-manual-stacker-01/v1.0.0/generate.py",
+      "size": 17314,
+      "sha256": "1327eaf34d642a6d24793bda5b396fbbd3db24c59ab35f661e70edc58dc7a5b6"
+    },
+    "render": {
+      "path": "assets/logistics/logistics-fixed-open-mast-and-raised-fork-manual-stacker-01/v1.0.0/thumbnail.png",
+      "size": 509594,
+      "sha256": "be98a1c028705a295ba282058cef8e16d706ceaccfa4d86710c04966b42e2296"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

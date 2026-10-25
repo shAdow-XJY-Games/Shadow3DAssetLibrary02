@@ -1,0 +1,42 @@
+{
+  "id": "harbor-fixed-four-socket-upright-capstan-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "harbor",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Four Socket Upright Capstan",
+  "description": "One newly authored complete fixed upright capstan appearance. A low square ground mount and stepped bearing plinth support a continuous vertical spindle within one complete waisted fluted timber-like barrel. One thick head has four genuinely open separate blind rectangular sockets, each receiving a full long radial push bar on its bottom facet. A lower annular bearing collar, upper retaining cap and four mount cap shapes complete the assembly. No sideways copy of the old horizontal ratchet winch, overhead sheave, crank, pawl, rope, load or old imported mesh. Three ordinary opaque PBR materials, metres, centred ground origin. One static prop, zero scenes. No rotation, hauling, drive ratio, hand-force, braking, load capacity, deck fastening, manufacturing, maritime operation or safety claim.",
+  "bounds": {
+    "x": 2.12,
+    "y": 2.12,
+    "z": 1.085,
+    "unit": "m"
+  },
+  "triangles": 1672,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/harbor/harbor-fixed-four-socket-upright-capstan-01/v1.0.0/model.glb",
+      "size": 88124,
+      "sha256": "a98d24574948392aa9378ec263712a871f6f892572550576ed118d72a2144b2c"
+    },
+    "blend": {
+      "path": "assets/harbor/harbor-fixed-four-socket-upright-capstan-01/v1.0.0/source.blend",
+      "size": 676548,
+      "sha256": "9038e6c32f6580cb173de05a599e0998c9d0176cdb99f5dcca7c2467b7235307"
+    },
+    "generator": {
+      "path": "assets/harbor/harbor-fixed-four-socket-upright-capstan-01/v1.0.0/generate.py",
+      "size": 11779,
+      "sha256": "cc8ef69fb9b5c46465f8f77fe4600a7ee68f11c980ef26b6214ca745ef5a71d0"
+    },
+    "render": {
+      "path": "assets/harbor/harbor-fixed-four-socket-upright-capstan-01/v1.0.0/thumbnail.png",
+      "size": 415178,
+      "sha256": "6ad59115d720f02fe4bc9d55677194171a129aa0c685d88c4348231c0e418f3a"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

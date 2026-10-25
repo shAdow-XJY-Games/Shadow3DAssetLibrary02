@@ -1,0 +1,42 @@
+{
+  "id": "fantasy-fixed-cutaway-float-water-clock-display-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "fantasy",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Cutaway Float Water Clock Display",
+  "description": "One newly authored complete static fictional float water-clock display. An offset high open reservoir has a continuous real hollow bottom outlet above a separate deep front-cutaway receiver on one grounded plinth. A full dark float disc, continuous upright rod and fixed index arm are visible through the receiver cutaway; a complete bored guide, uncalibrated raised tick rail and two-upright supporting frame define the whole explanatory apparatus. The cutaway is intentional and not a leakproof vessel claim. All vessel walls, mouths and guide bores are geometric. Three plain opaque PBR materials, no liquid, text, transparency or emission. One prop, zero scenes. No timekeeping, calibrated scale, fluid flow, physical flotation, operation, historical reconstruction, manufacture, load, pressure, installation or safety claim.",
+  "bounds": {
+    "x": 1.12,
+    "y": 0.78,
+    "z": 1.49,
+    "unit": "m"
+  },
+  "triangles": 1724,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/fantasy/fantasy-fixed-cutaway-float-water-clock-display-01/v1.0.0/model.glb",
+      "size": 93032,
+      "sha256": "4251fe548058d12de5652bbf0f3c3c3a477cb1839eb9dd607f52fbf2871e2649"
+    },
+    "blend": {
+      "path": "assets/fantasy/fantasy-fixed-cutaway-float-water-clock-display-01/v1.0.0/source.blend",
+      "size": 725476,
+      "sha256": "9d8ae5915d3582081831658aad5ccb4120cd249bc3c7451929760a348b134e18"
+    },
+    "generator": {
+      "path": "assets/fantasy/fantasy-fixed-cutaway-float-water-clock-display-01/v1.0.0/generate.py",
+      "size": 12139,
+      "sha256": "bb5933cdad6b95a8357d030e443ec27c5ff40a1d5e992bbc60aba7ab7ce40eb7"
+    },
+    "render": {
+      "path": "assets/fantasy/fantasy-fixed-cutaway-float-water-clock-display-01/v1.0.0/thumbnail.png",
+      "size": 487498,
+      "sha256": "afde692f2215137c920d0137cb8fbd0682ff9c10b666c8dcaa7dc953246accf4"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
