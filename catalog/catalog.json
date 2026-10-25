@@ -1214,6 +1214,11 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary02",
       "commit": "c445f506467dcb7e1dc565851b92237120cf2962"
+    },
+    "original-qualified-batch-953-volume02-20261025": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary02",
+      "commit": "b594c05d95448021439b91c96fe2f369e5e3c3d4"
     }
   },
   "assets": [
@@ -40260,6 +40265,1941 @@
       "status": "verified",
       "license": "All rights reserved",
       "sourceId": "original-qualified-batch-908-volume02-20261025"
+    },
+    {
+      "id": "agriculture-fixed-high-hopper-treadle-and-open-trough-feeder-01",
+      "version": "1.0.0",
+      "category": "modular",
+      "assetKind": "prop",
+      "theme": "agriculture",
+      "style": "warm-handcrafted-village",
+      "title": "Fixed High Hopper Treadle and Open Trough Feeder",
+      "description": "One complete newly authored static agricultural dry-feed display assembly. A tall rectangular storage hopper has full thick walls and a genuinely inclined internal bottom descending to a low front throat above a separate shallow receiving channel. One full raised trough cover is held in a fixed open pose above that channel. A wide low front tread plate, two complete long side levers, two side rising rods and visible fixed pivots connect around the hopper to the cover, all carried by a whole low rail-and-foot frame. Unlike the circular foot-pedal waste bin, the low front feed channel and high rear storage volume are distinct; unlike the bell poultry drinker there is no radial reservoir/tray. No copied old mesh parts or changed bucket count. One static model, zero scenes; empty. No working pedal, validated linkage travel, actual dispensing, pest exclusion, animal suitability, hygiene, food safety, load or manufacturing claim.",
+      "bounds": {
+        "x": 1.039999962,
+        "y": 1.519999981,
+        "z": 1.139999986,
+        "unit": "m"
+      },
+      "triangles": 600,
+      "materials": 4,
+      "files": {
+        "glb": {
+          "path": "assets/agriculture/agriculture-fixed-high-hopper-treadle-and-open-trough-feeder-01/v1.0.0/model.glb",
+          "size": 49280,
+          "sha256": "9630b35363cc614f632b51041d03f562077e57a758a29baf68894d5417271c7b"
+        },
+        "blend": {
+          "path": "assets/agriculture/agriculture-fixed-high-hopper-treadle-and-open-trough-feeder-01/v1.0.0/source.blend",
+          "size": 687000,
+          "sha256": "0eb56f9d342acbc62502af34a23e2e9fb620ead3e78bb4dedb6d1ff054facf71"
+        },
+        "generator": {
+          "path": "assets/agriculture/agriculture-fixed-high-hopper-treadle-and-open-trough-feeder-01/v1.0.0/generate.py",
+          "size": 31982,
+          "sha256": "325b3eac91d07518032c2c294ef47a2aaf71254da8ad5a42f84ca3f70703f693"
+        },
+        "render": {
+          "path": "assets/agriculture/agriculture-fixed-high-hopper-treadle-and-open-trough-feeder-01/v1.0.0/thumbnail.png",
+          "size": 533766,
+          "sha256": "30b1e738d937fb25ef1aefee7541f82ab3af408a8adb8cfb0b0e1131619da818"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-953-volume02-20261025"
+    },
+    {
+      "id": "agriculture-fixed-sloped-nest-and-front-collection-trough-01",
+      "version": "1.0.0",
+      "category": "modular",
+      "assetKind": "prop",
+      "theme": "agriculture",
+      "style": "warm-handcrafted-village",
+      "title": "Fixed Sloped Nest and Front Collection Trough",
+      "description": "One newly authored complete static agricultural laying-nest display. Four full legs carry one deep open-front shaded chamber, a continuous visibly inclined floor descending toward the front, and a lower external full-width receiving trough with a genuine open channel and intact raised front lip. The chamber has full side/back walls and an overhanging sloped roof; the collector has a fixed partly raised shallow cover attached along its back hinge line. One complete small oval egg-shaped display solid sits in the exposed collector to clarify the illustrative relation, not an extra asset. New whole floor-to-collector layout, not extra bays of the old flat-floor hutch or a round-entry bird box. One static model, zero scenes. No real egg transport, working hinge, animal-housing suitability, welfare, hygiene, food safety, construction or load claim.",
+      "bounds": {
+        "x": 1.139999986,
+        "y": 1.360000014,
+        "z": 1.355000019,
+        "unit": "m"
+      },
+      "triangles": 372,
+      "materials": 4,
+      "files": {
+        "glb": {
+          "path": "assets/agriculture/agriculture-fixed-sloped-nest-and-front-collection-trough-01/v1.0.0/model.glb",
+          "size": 30304,
+          "sha256": "491c10316ac8f5db291656e1911eb7869f06c1030b7e971f1be56d2f91414854"
+        },
+        "blend": {
+          "path": "assets/agriculture/agriculture-fixed-sloped-nest-and-front-collection-trough-01/v1.0.0/source.blend",
+          "size": 604572,
+          "sha256": "d8690d6bd92e8d2a099e018c40d89efd4277c4345ced9192f7ce13f2b19e66a0"
+        },
+        "generator": {
+          "path": "assets/agriculture/agriculture-fixed-sloped-nest-and-front-collection-trough-01/v1.0.0/generate.py",
+          "size": 30345,
+          "sha256": "cf7488167f234b424fc692b1d5c0f62cf44b7f6357c7eb7caa56097b562de792"
+        },
+        "render": {
+          "path": "assets/agriculture/agriculture-fixed-sloped-nest-and-front-collection-trough-01/v1.0.0/thumbnail.png",
+          "size": 555850,
+          "sha256": "a32ed17a89c5eceb821720ae201b99814c55813ff6cab1bb52c3bc0914f8f256"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-953-volume02-20261025"
+    },
+    {
+      "id": "agriculture-whole-nest-feeder-drinker-preparation-court-scene-01",
+      "version": "1.0.0",
+      "category": "scenes",
+      "assetKind": "scene",
+      "theme": "agriculture",
+      "style": "source-preserved-faceted-natural-ecology",
+      "title": "Whole Nest Feeder and Drinker Preparation Court",
+      "description": "One static poultry-equipment preparation court scene, zero new reusable models. Three entire qualified unit-scale originals stand on a single finite scene-only ground floor: the raised sloped laying-nest chamber and external collection trough at rear left, the complete high storage hopper and low treadle-feed channel at rear right, and the complete bell-reservoir drinking tray in a distinct left-front bay. Both high apparatus fronts face an empty common approach strip, while the low drinker remains visually separate. Every original oriented world triangle and per-face constant opaque PBR is retained, with only whole translations and explicit float32 storage. Node hierarchy and normals are baked/recomputed, not original GLB bytes. No parts extracted, no recoloring or rescaling, no extra animal or duplicate equipment. One scene zero new models. Static illustrative equipment arrangement only; no actual feeding, egg movement, water supply, linkage travel, animal accommodation, hygiene, access, structural safety or husbandry suitability claim.",
+      "bounds": {
+        "x": 3.400000095,
+        "y": 3.200000048,
+        "z": 1.480000019,
+        "unit": "m"
+      },
+      "triangles": 2152,
+      "materials": 12,
+      "files": {
+        "glb": {
+          "path": "assets/agriculture/agriculture-whole-nest-feeder-drinker-preparation-court-scene-01/v1.0.0/model.glb",
+          "size": 153352,
+          "sha256": "1a15a9468151f53f89d1a8a3124f8281ccaed5fe4e0e695ca47305cd2015542e"
+        },
+        "blend": {
+          "path": "assets/agriculture/agriculture-whole-nest-feeder-drinker-preparation-court-scene-01/v1.0.0/source.blend",
+          "size": 1089932,
+          "sha256": "6d7f1ec3efbfbfb75bbd9c4a602bea15a04948905b7c4a56a0f5ec209bf86f25"
+        },
+        "generator": {
+          "path": "assets/agriculture/agriculture-whole-nest-feeder-drinker-preparation-court-scene-01/v1.0.0/generate.py",
+          "size": 74386,
+          "sha256": "0af1324dc8f36ff0fa5f965d1a102db185cb5994130cce3e560bbdffd4425ad4"
+        },
+        "render": {
+          "path": "assets/agriculture/agriculture-whole-nest-feeder-drinker-preparation-court-scene-01/v1.0.0/thumbnail.png",
+          "size": 520866,
+          "sha256": "884ff1ed8a9f37464001bb3dc96d5728f8bceab0e3a38a3923c6b456b151505f"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-953-volume02-20261025"
+    },
+    {
+      "id": "animal-static-grounded-loop-continuous-raised-hood-cobra-01",
+      "version": "1.0.0",
+      "category": "modular",
+      "assetKind": "prop",
+      "theme": "animal",
+      "style": "warm-handcrafted-village",
+      "title": "Static Grounded-Loop Raised-Hood Cobra",
+      "description": "One complete newly authored stylised static cobra-like snake. Its tapered tail and low curved loop rest on finite flattened underside facets; the same continuous closed skin rises from the loop into a broad thick laterally spread neck hood, then narrows into a small rounded head. Hood, head, neck, loop and tail share full mesh rings, not a separate leaf or plate attached to an old snake. The hood has actual broad material width and real thickness, two small eyes are seated in the forward head; belly and dorsal colors are integral faces. Not the old horizontal S snake with more turns or simply raised path points. One static model, zero scenes; no exact species, venom/danger identification, animal behaviour, defence mechanism, biology, rig, movement or handling claim.",
+      "bounds": {
+        "x": 1.359104037,
+        "y": 1.236999035,
+        "z": 2.035000086,
+        "unit": "m"
+      },
+      "triangles": 820,
+      "materials": 4,
+      "files": {
+        "glb": {
+          "path": "assets/animal/animal-static-grounded-loop-continuous-raised-hood-cobra-01/v1.0.0/model.glb",
+          "size": 47368,
+          "sha256": "68327fe63861d001dbef69b83bbc529104099f20ca64fcab405b796199864bd4"
+        },
+        "blend": {
+          "path": "assets/animal/animal-static-grounded-loop-continuous-raised-hood-cobra-01/v1.0.0/source.blend",
+          "size": 559648,
+          "sha256": "c5f4a7ee315825ca3ecd56546aefcd5bfd1066ccc60119b3caa21f9260724562"
+        },
+        "generator": {
+          "path": "assets/animal/animal-static-grounded-loop-continuous-raised-hood-cobra-01/v1.0.0/generate.py",
+          "size": 28771,
+          "sha256": "0a87f91da268e5004e48f4e66a8d3a9b033660c86dc7e68c0c69e1e8d5f2948c"
+        },
+        "render": {
+          "path": "assets/animal/animal-static-grounded-loop-continuous-raised-hood-cobra-01/v1.0.0/thumbnail.png",
+          "size": 477405,
+          "sha256": "00726e86742b307ba73181446ea449cec14c8c119209e8abcf7abcafd8773d26"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-953-volume02-20261025"
+    },
+    {
+      "id": "animal-static-heavy-body-long-bare-neck-two-toe-ostrich-01",
+      "version": "1.0.0",
+      "category": "modular",
+      "assetKind": "prop",
+      "theme": "animal",
+      "style": "warm-handcrafted-village",
+      "title": "Static Heavy-Body Long-Bare-Neck Two-Toe Ostrich",
+      "description": "One complete newly authored static stylised ostrich-like bird. A very heavy broad oval feather mass stands on two long bare bent legs with whole genuine two-toe feet, rather than the narrow wader torso and three-toe ground shape. A long thin mostly bare neck rises from the forward body and curves into one small low head with a short broad blunt bill; two small folded side wings and a short broad rear plume are subordinate to the huge body, unlike a peacock open fan. Whole body/neck/legs/feet and wing outlines newly authored, not old wader proportions or peacock train removal. One static model, zero scenes. No exact species, feather filaments, gait, running, flight, biological function, rig or anatomical precision claim.",
+      "bounds": {
+        "x": 1.320000052,
+        "y": 2.619999886,
+        "z": 2.99000001,
+        "unit": "m"
+      },
+      "triangles": 1496,
+      "materials": 4,
+      "files": {
+        "glb": {
+          "path": "assets/animal/animal-static-heavy-body-long-bare-neck-two-toe-ostrich-01/v1.0.0/model.glb",
+          "size": 85992,
+          "sha256": "082ccd1f0fdedea05a34073921ad532594eeb04b55eb35f12f54f1086ae41c29"
+        },
+        "blend": {
+          "path": "assets/animal/animal-static-heavy-body-long-bare-neck-two-toe-ostrich-01/v1.0.0/source.blend",
+          "size": 627920,
+          "sha256": "b064a1878378c3f3dcdce299efb53e15a3c899c046f093125a6aa4091976bc3a"
+        },
+        "generator": {
+          "path": "assets/animal/animal-static-heavy-body-long-bare-neck-two-toe-ostrich-01/v1.0.0/generate.py",
+          "size": 30424,
+          "sha256": "816d8db532c24fc47a9221683d5882e4cab8db7196ec4e4335a0d2004c4ed2a6"
+        },
+        "render": {
+          "path": "assets/animal/animal-static-heavy-body-long-bare-neck-two-toe-ostrich-01/v1.0.0/thumbnail.png",
+          "size": 472601,
+          "sha256": "7236fef2f77d7a74eff1c2e87dba8517dc424425a3640a1ff887e209f003dfe7"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-953-volume02-20261025"
+    },
+    {
+      "id": "animal-static-heavy-haunch-paddle-tail-incisor-beaver-01",
+      "version": "1.0.0",
+      "category": "modular",
+      "assetKind": "prop",
+      "theme": "animal",
+      "style": "warm-handcrafted-village",
+      "title": "Static Heavy-Haunch Paddle-Tail Beaver",
+      "description": "One complete newly authored stylised static beaver-like animal in a low crouched four-foot pose. Its broad high rounded rear haunch transitions into a lower thick short neck and blunt cheeked forward head with small round ears. Two short forelegs and two large bent hind legs end in finite whole feet; a very broad flattened oval tail extends backward through a narrow real root. Two distinct thick front incisors emerge below a short dark nose, not a platypus bill. Whole sections, limb paths and tail are newly authored, not an old squirrel tail swap or platypus bill replacement. One static model, zero scenes. No exact species, fur simulation, tooth articulation, gait, gnawing, swimming, biological function or rig claim.",
+      "bounds": {
+        "x": 1.069096208,
+        "y": 2.744999886,
+        "z": 1.100000024,
+        "unit": "m"
+      },
+      "triangles": 1588,
+      "materials": 4,
+      "files": {
+        "glb": {
+          "path": "assets/animal/animal-static-heavy-haunch-paddle-tail-incisor-beaver-01/v1.0.0/model.glb",
+          "size": 93268,
+          "sha256": "259b86610b4c8ce059013aa394cb615778d61d4628d8b4d8e15b1f2ef8a42fac"
+        },
+        "blend": {
+          "path": "assets/animal/animal-static-heavy-haunch-paddle-tail-incisor-beaver-01/v1.0.0/source.blend",
+          "size": 635684,
+          "sha256": "8abef6c5adade794a0c63eb5aaf97db30f34b655bd382dc082a10faa3e9a0c05"
+        },
+        "generator": {
+          "path": "assets/animal/animal-static-heavy-haunch-paddle-tail-incisor-beaver-01/v1.0.0/generate.py",
+          "size": 29909,
+          "sha256": "31c9cd4436efbb2a93dd505440146eaf38d8203d445fab619ab86f9f4808e928"
+        },
+        "render": {
+          "path": "assets/animal/animal-static-heavy-haunch-paddle-tail-incisor-beaver-01/v1.0.0/thumbnail.png",
+          "size": 481398,
+          "sha256": "f9a65d5d8fea6568a2a7b30bda90b970d374262f850fda9eb68538a463c72b9d"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-953-volume02-20261025"
+    },
+    {
+      "id": "animal-static-palm-antler-dropped-muzzle-moose-01",
+      "version": "1.0.0",
+      "category": "modular",
+      "assetKind": "prop",
+      "theme": "animal",
+      "style": "warm-handcrafted-village",
+      "title": "Static Palm-Antler Dropped-Muzzle Moose",
+      "description": "One complete newly authored static stylised moose-like animal. A high broad front shoulder slopes toward the lower rounded rump, carried by four long narrow bent legs with full dark hoof soles. A thick short sloping neck continues into a long deep overhanging muzzle, with large side ears, small eyes and a tapered throat bell beneath. Two complete thick palm-shaped antlers broaden from rooted stems into genuine wide continuous plates with open notches between marginal points, rather than adding branches to the old slender deer beam. New whole body and limb sections, dropped face and broad antler outlines; no old deer or horse mesh reshaped. One static model, zero scenes; no exact species/anatomy, gait, animal behaviour, antler growth, collision, rig or biological claim.",
+      "bounds": {
+        "x": 2.359999895,
+        "y": 2.450000048,
+        "z": 2.720000029,
+        "unit": "m"
+      },
+      "triangles": 1692,
+      "materials": 4,
+      "files": {
+        "glb": {
+          "path": "assets/animal/animal-static-palm-antler-dropped-muzzle-moose-01/v1.0.0/model.glb",
+          "size": 98844,
+          "sha256": "f094772c64229b539d9abb4da381fa481979b70a782707785d04d8bde790b7a6"
+        },
+        "blend": {
+          "path": "assets/animal/animal-static-palm-antler-dropped-muzzle-moose-01/v1.0.0/source.blend",
+          "size": 641092,
+          "sha256": "6ce2f83f5ce1900462bc31295997c5da45a78d7d4256a1d2890d0163b9bd94d2"
+        },
+        "generator": {
+          "path": "assets/animal/animal-static-palm-antler-dropped-muzzle-moose-01/v1.0.0/generate.py",
+          "size": 30364,
+          "sha256": "b2f2dad358983940e74dba41cb5e7591b38b34b74124145ae4a9a24e1299b695"
+        },
+        "render": {
+          "path": "assets/animal/animal-static-palm-antler-dropped-muzzle-moose-01/v1.0.0/thumbnail.png",
+          "size": 490482,
+          "sha256": "284c8f719b3bc22bafa55fa2b2e5f9e73e94b700e7f746c99debeba82f070bdb"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-953-volume02-20261025"
+    },
+    {
+      "id": "animal-static-rounded-thorax-unequal-four-wing-bumblebee-01",
+      "version": "1.0.0",
+      "category": "modular",
+      "assetKind": "prop",
+      "theme": "animal",
+      "style": "warm-handcrafted-village",
+      "title": "Static Rounded-Thorax Unequal-Four-Wing Bumblebee",
+      "description": "One complete newly authored stylised static bumblebee-like insect. A broad rounded head joins a very stout rounded thorax and a short large bulbous tapered abdomen; the integral body has real thick mass rather than the old butterfly slender axis or ant nodal waist. Two long swept oval forewings and two shorter rear wings are distinct full thick solids rooted into the thorax, six complete bent legs end in finite grounded toes, two curved non-clubbed antennae and two large lateral eye masses finish the head. Muted warm/dark bands are integral body face materials and only secondary recognition; whole body, wing outlines and limbs newly authored. One static model, zero scenes. Opaque stylised wings, not translucent membrane or microscopic veins; no fur simulation, species/anatomy precision, flight, pollination, stinging, behaviour or rig claim.",
+      "bounds": {
+        "x": 2.200000048,
+        "y": 1.780435562,
+        "z": 0.717000008,
+        "unit": "m"
+      },
+      "triangles": 1612,
+      "materials": 4,
+      "files": {
+        "glb": {
+          "path": "assets/animal/animal-static-rounded-thorax-unequal-four-wing-bumblebee-01/v1.0.0/model.glb",
+          "size": 96656,
+          "sha256": "7b83526b3c9b6a88f03ff97f297b2bafbd3757cd114d1761541f56ebd630efad"
+        },
+        "blend": {
+          "path": "assets/animal/animal-static-rounded-thorax-unequal-four-wing-bumblebee-01/v1.0.0/source.blend",
+          "size": 648280,
+          "sha256": "4ae2641626727e7e624a84972e2941ae3c4cba2e8a4ad873187535c5ded766e6"
+        },
+        "generator": {
+          "path": "assets/animal/animal-static-rounded-thorax-unequal-four-wing-bumblebee-01/v1.0.0/generate.py",
+          "size": 29962,
+          "sha256": "68ef003fb5b7a7d21433e4f137fb9574693ef0cb6a06c822b69d88fd89457f4d"
+        },
+        "render": {
+          "path": "assets/animal/animal-static-rounded-thorax-unequal-four-wing-bumblebee-01/v1.0.0/thumbnail.png",
+          "size": 499234,
+          "sha256": "8c04a9e5fcba360eb15efc23253d201a30b9c12260bfc17342938040db65daee"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-953-volume02-20261025"
+    },
+    {
+      "id": "archaeology-fixed-open-anthropoid-stone-sarcophagus-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "archaeology",
+      "style": "S01-clean-geometric",
+      "title": "Fixed Open Anthropoid Stone Sarcophagus",
+      "description": "One newly authored complete stylized empty anthropoid stone sarcophagus and matching displaced lid. A continuous deep thick lower shell has an integrated faceted rounded head lobe, narrow neck, broad shoulder transitions and long tapered foot end, a true empty cavity and full inner floor. Its matching full shallow crowned stone lid is shifted sideways onto two low complete display rests, exposing the entire vessel mouth. The anthropoid perimeter drives both whole bodies; no oval bathing vessel, rectangular chest, creature jaw, figure or old mesh is imported. Three opaque constant PBR materials, metres, Z up and complete horizontally centred ground origin. One static prop, zero scenes. No body, mummy, remains, inscription, burial practice, historical or archaeological precision, lid motion, sealing, lifting, load, installation or safety claim.",
+      "bounds": {
+        "x": 2.1999999999999997,
+        "y": 2.51,
+        "z": 0.68,
+        "unit": "m"
+      },
+      "triangles": 304,
+      "materials": 3,
+      "files": {
+        "glb": {
+          "path": "assets/archaeology/archaeology-fixed-open-anthropoid-stone-sarcophagus-01/v1.0.0/model.glb",
+          "size": 20476,
+          "sha256": "982faea7535003e666776aa3a8ca8710532cb061e83fc901d512c1a56e10e7bd"
+        },
+        "blend": {
+          "path": "assets/archaeology/archaeology-fixed-open-anthropoid-stone-sarcophagus-01/v1.0.0/source.blend",
+          "size": 551884,
+          "sha256": "bf2262026f94de0da826dd55871c75444107c799a4e3204bf97009bd3e766a32"
+        },
+        "generator": {
+          "path": "assets/archaeology/archaeology-fixed-open-anthropoid-stone-sarcophagus-01/v1.0.0/generate.py",
+          "size": 11168,
+          "sha256": "e13715d83e11b575a56cd87620cb559b3e532b0b4c814466bd15151a027b8d1e"
+        },
+        "render": {
+          "path": "assets/archaeology/archaeology-fixed-open-anthropoid-stone-sarcophagus-01/v1.0.0/thumbnail.png",
+          "size": 463334,
+          "sha256": "8654eb26207e243abd16d51c1a3af8353fb6641d899666639bce1d44509fee1d"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-953-volume02-20261025"
+    },
+    {
+      "id": "architecture-fixed-open-aisle-flying-buttress-interface-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "architecture",
+      "style": "S01-clean-geometric",
+      "title": "Fixed Open Aisle Flying Buttress Interface",
+      "description": "One newly authored complete static architectural flying-buttress interface. A tall complete wall with one genuinely open through-window and thick coping is connected above the window to a remote lower tapered pier by one continuous rising curved flying arch. The asymmetric high-wall to low-outboard-pier relationship leaves a true open side aisle beneath the flyer, with separate complete grounded bases. Not a symmetric freestanding gateway arch with different pillar heights, not a crossed barrel roof or extra pillars around an old vault. All geometry independently authored on mature mesh tools, three opaque matte stone PBR roles, metres, centred horizontal ground origin. One complete module, zero scenes. No adjoining building or terrain, structural thrust/load capacity, masonry engineering, historical reconstruction, attachment compatibility, walkability or safety claim.",
+      "bounds": {
+        "x": 3.24,
+        "y": 1.76,
+        "z": 4.3,
+        "unit": "m"
+      },
+      "triangles": 272,
+      "materials": 3,
+      "files": {
+        "glb": {
+          "path": "assets/architecture/architecture-fixed-open-aisle-flying-buttress-interface-01/v1.0.0/model.glb",
+          "size": 16428,
+          "sha256": "2e48352ccb21db86a80ca1e512bd9d83919ef36836188c13992b87bc6765d1af"
+        },
+        "blend": {
+          "path": "assets/architecture/architecture-fixed-open-aisle-flying-buttress-interface-01/v1.0.0/source.blend",
+          "size": 563988,
+          "sha256": "986b6f3f1676843606e679e6a45e1c7b9856ccabe618a94567725318e6b42f3b"
+        },
+        "generator": {
+          "path": "assets/architecture/architecture-fixed-open-aisle-flying-buttress-interface-01/v1.0.0/generate.py",
+          "size": 10862,
+          "sha256": "3cb41f2ecc3cb732f083cbc730a5c00d8ec508b67d6ddcb1403119cdf8151c71"
+        },
+        "render": {
+          "path": "assets/architecture/architecture-fixed-open-aisle-flying-buttress-interface-01/v1.0.0/thumbnail.png",
+          "size": 434913,
+          "sha256": "53d89cc7d2aaf5729e0008407ffde67b431436358d7947d20fb5c624ababd7e9"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-953-volume02-20261025"
+    },
+    {
+      "id": "aviation-fixed-long-envelope-and-underslung-gondola-airship-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "aviation",
+      "style": "S01-clean-geometric",
+      "title": "Fixed Long Envelope and Underslung Gondola Airship",
+      "description": "One newly authored complete static airship-style exterior. A broad continuous long rounded envelope tapers at both ends above a separate short low gondola with integral opaque window-style faces. Four whole suspension roots visibly link the cabin to the envelope. Four complete thick radial tail planes root into the aft body. Two independently authored short lateral carriers hold complete tapered engine nacelles and fixed three-blade propeller exteriors beside the cabin. Two whole low skids and four short roots give the parked art a finite ground sole. No model geometry is imported or extracted from the small airplane or flyingboat: this has no main lifting wing, boat-bottom hull, floats, wheel gear or enlarged old plane fuselage. One model, zero scenes; four opaque constant untextured PBR roles, metres, Z up, whole bounds-centred ground origin. This is a stylized exterior with opaque color regions, not transparent glazing or an accessible interior. No internal envelope cells, gas, pressure, lifting field, motor internals, mooring, occupants, control system, rigging, animation or interaction. No actual buoyancy, inflation, aerodynamics, propulsion, landing, payload, flight, manufacture, operational suitability or safety claim.",
+      "bounds": {
+        "x": 2.94,
+        "y": 6.95,
+        "z": 3.57,
+        "unit": "m"
+      },
+      "triangles": 1828,
+      "materials": 4,
+      "files": {
+        "glb": {
+          "path": "assets/aviation/aviation-fixed-long-envelope-and-underslung-gondola-airship-01/v1.0.0/model.glb",
+          "size": 123928,
+          "sha256": "51496ba20ffc26baf2dc1c19731e4200ce58af096dd87c597889f740c708199b"
+        },
+        "blend": {
+          "path": "assets/aviation/aviation-fixed-long-envelope-and-underslung-gondola-airship-01/v1.0.0/source.blend",
+          "size": 757120,
+          "sha256": "344a77931562b67ce6eb64e4608ed1727557734072e4f25788661b62ccd3dc56"
+        },
+        "generator": {
+          "path": "assets/aviation/aviation-fixed-long-envelope-and-underslung-gondola-airship-01/v1.0.0/generate.py",
+          "size": 27792,
+          "sha256": "0ff64b6563083fbc22a64caec6ec883a38eb310d3986871a6957957898816711"
+        },
+        "render": {
+          "path": "assets/aviation/aviation-fixed-long-envelope-and-underslung-gondola-airship-01/v1.0.0/thumbnail.png",
+          "size": 521577,
+          "sha256": "b9ebc82f22d9cb7511262a76799c4906d944067ce77071ba7f28432056b1e007"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-953-volume02-20261025"
+    },
+    {
+      "id": "aviation-fixed-open-neck-pear-envelope-and-basket-balloon-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "aviation",
+      "style": "S01-clean-geometric",
+      "title": "Fixed Open Neck Pear Envelope and Basket Balloon",
+      "description": "One independently authored complete fixed balloon-style exterior. A broad upper pear-shaped envelope is a continuous thick closed material shell with a genuine hollow interior and a narrow downward-open neck; integral alternating face-color gores mark its exterior. A whole empty tapered rounded-corner basket has a complete bottom, true inner floor and four continuously connected walls with restrained integral horizontal relief, plus a separate full open thick rim. Four complete long rope exteriors link basket walls into the lower envelope material. Four shorter rooted uprights and a closed top carrier support two small complete open cup-style equipment exteriors below the actual neck. The entire geometry is new, not the old long horizontal airship rotated or reshaped, not an old dye basket extracted, a large lamp, or repeated decorative balloon count. One complete prop, zero scenes; four opaque constant untextured PBR roles, metres, Z up, horizontal bounds-centred ground origin on the basket full sole. Wicker-like bands do not claim a physically woven basket; open cups are only burner-style outer shapes. No gas, fuel containers, plumbing, flame, hot air, occupants, mooring, loaded cables, inflation, lift, flight, stability, payload, thermal behavior, manufacture, safe operation, rigging, animation or interaction. Static illustrative art, not real balloon equipment design or use instructions.",
+      "bounds": {
+        "x": 2.15,
+        "y": 2.15,
+        "z": 4.28,
+        "unit": "m"
+      },
+      "triangles": 3580,
+      "materials": 4,
+      "files": {
+        "glb": {
+          "path": "assets/aviation/aviation-fixed-open-neck-pear-envelope-and-basket-balloon-01/v1.0.0/model.glb",
+          "size": 197384,
+          "sha256": "23bc5a7e29ce22ed74f07d5e59b6a0fd5f8014e09257e350ff5221524cb93d87"
+        },
+        "blend": {
+          "path": "assets/aviation/aviation-fixed-open-neck-pear-envelope-and-basket-balloon-01/v1.0.0/source.blend",
+          "size": 800916,
+          "sha256": "6ca445765a0060ac6e70b87c0b0160ff7cbf1aa5d68b74db8258ce3f3d9826df"
+        },
+        "generator": {
+          "path": "assets/aviation/aviation-fixed-open-neck-pear-envelope-and-basket-balloon-01/v1.0.0/generate.py",
+          "size": 27611,
+          "sha256": "1759697f9217fa0cb48ed0b8008b2e0e9a115c497fd39b10c11c160feca4096f"
+        },
+        "render": {
+          "path": "assets/aviation/aviation-fixed-open-neck-pear-envelope-and-basket-balloon-01/v1.0.0/thumbnail.png",
+          "size": 512054,
+          "sha256": "47ca5f523527cb2da1fd0c869fa6f9b5863b595de0d3f0f15b38305c97321160"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-953-volume02-20261025"
+    },
+    {
+      "id": "carpentry-fixed-hooked-scarf-and-transverse-key-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "carpentry",
+      "style": "S01-clean-geometric",
+      "title": "Fixed Hooked Scarf and Transverse Key",
+      "description": "One newly authored complete fixed keyed scarf timber connection display. Two full longitudinal sample members carry complementary long inclined scarf faces, reversed short hooked shoulder returns and actual opposed local key recesses. One whole shallow tapered hardwood key crosses the complete beam thickness and projects on both sides. A deliberately small fixed display separation reveals the full stepped diagonal interface rather than concealing it as a painted line. Each member is an uninterrupted connected solid, not plain intersecting bars. Unlike a perpendicular mortise-and-tenon T sample or two flat road comb plates, this is a lengthwise oblique hooked overlap with a transverse occupied seat. Three opaque constant PBR materials, metres, Z up and full horizontal-bounds-centred ground origin; one complete static module, zero scenes. No motion, assembly trajectory, fastening performance, dimensional fit, woodworking instructions, manufacture, load capacity, historic authenticity or structural safety claim.",
+      "bounds": {
+        "x": 2.112,
+        "y": 0.58,
+        "z": 0.468,
+        "unit": "m"
+      },
+      "triangles": 116,
+      "materials": 3,
+      "files": {
+        "glb": {
+          "path": "assets/carpentry/carpentry-fixed-hooked-scarf-and-transverse-key-01/v1.0.0/model.glb",
+          "size": 8264,
+          "sha256": "caef8ac85942977bf7a88596da508539cf69df0b1480db35da904a0be78b0bdd"
+        },
+        "blend": {
+          "path": "assets/carpentry/carpentry-fixed-hooked-scarf-and-transverse-key-01/v1.0.0/source.blend",
+          "size": 537112,
+          "sha256": "f790373d78e1dd47bf5c5708a9b72c5c2c85eee934b8f49073ad29262218edb3"
+        },
+        "generator": {
+          "path": "assets/carpentry/carpentry-fixed-hooked-scarf-and-transverse-key-01/v1.0.0/generate.py",
+          "size": 10844,
+          "sha256": "2cd0af12993629d5776c87bd6a4de2b16643d9723b787482a52540835ea8071a"
+        },
+        "render": {
+          "path": "assets/carpentry/carpentry-fixed-hooked-scarf-and-transverse-key-01/v1.0.0/thumbnail.png",
+          "size": 402313,
+          "sha256": "080546b619150ce90d6a48721f0f0005438a86082cc5fd2bbbfeb73e3970f9e3"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-953-volume02-20261025"
+    },
+    {
+      "id": "carpentry-fixed-short-mouth-and-transverse-grip-spokeshave-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "carpentry",
+      "style": "source-preserved-low-poly",
+      "title": "Fixed Short Mouth and Transverse Grip Spokeshave",
+      "description": "One newly authored complete static spokeshave-style woodworking hand tool. One short wide metal sole has a genuine transverse through mouth and raised rear bearing. Two whole cast side wings lead laterally into full shaped wooden grips with finite root collars. A separate low inclined finite blunt iron and raised pressure cap occupy the central bed, with two fixed stem-and-head adjuster appearances. The two transverse grips, short open sole and central clamped plate differ from the earlier long hand plane with front knob/rear tote and from the bare double-grip drawknife. All visible geometry newly authored, no old tool or blade payload imported. Three opaque untextured PBR roles, one model zero scenes. No wood, sharp edge below the sole, cutting, sharpening, adjustment motion, ergonomic fit, manufacture, load or safety certification. Rigging animation and interaction not made.",
+      "bounds": {
+        "x": 0.43306028842926025,
+        "y": 0.07271597534418106,
+        "z": 0.05000000074505806,
+        "unit": "m"
+      },
+      "triangles": 1044,
+      "materials": 3,
+      "files": {
+        "glb": {
+          "path": "assets/carpentry/carpentry-fixed-short-mouth-and-transverse-grip-spokeshave-01/v1.0.0/model.glb",
+          "size": 96460,
+          "sha256": "59214b3c6f6be0a24461ce3c33bfca2120092fdd7db2f0551d1c963ad31a2f51"
+        },
+        "blend": {
+          "path": "assets/carpentry/carpentry-fixed-short-mouth-and-transverse-grip-spokeshave-01/v1.0.0/source.blend",
+          "size": 701376,
+          "sha256": "002155ba66e6c37505b63ec0e259bc5c9706c8ac10cba581811419417e79945f"
+        },
+        "generator": {
+          "path": "assets/carpentry/carpentry-fixed-short-mouth-and-transverse-grip-spokeshave-01/v1.0.0/generate.py",
+          "size": 16350,
+          "sha256": "d3c47d107d8a7807c2ca73550014a7ba4a9ae8b07bc169a2fa42ecc6fc762d21"
+        },
+        "render": {
+          "path": "assets/carpentry/carpentry-fixed-short-mouth-and-transverse-grip-spokeshave-01/v1.0.0/thumbnail.png",
+          "size": 445945,
+          "sha256": "1d8dcddaeeedc0fdd0a982d1405b2f66b8f309082a0fe9426aecb85d054e6e1b"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-953-volume02-20261025"
+    },
+    {
+      "id": "carpentry-fixed-split-jaw-and-cross-leg-clamping-bench-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "carpentry",
+      "style": "source-preserved-low-poly",
+      "title": "Fixed Split Jaw and Cross Leg Clamping Bench",
+      "description": "One newly authored complete static folding-clamping-workbench appearance in a fixed open empty pose. Two separate thick wooden jaw boards each contain four genuine full through holes and leave one real central gap. Below, two whole through-bored rectangular guides retain full visible fixed lead-spindle appearances with front offset cranks and complete hand grips; four broad seats connect the boards. Four separate full side legs cross in two layered pairs on transverse fixed pivots and meet four flat ground pads. Upper crossbearers, one lower front foot step and a rear tie complete the open frame. This is not the earlier four-upright worktable with a slit added or a roller feed stand with a new tabletop; the split-jaw guide assemblies and paired scissor frame are newly authored as one whole tool. Three opaque untextured PBR roles, one model zero scenes. Empty static display only, no workpiece, motion or folding path, screw engagement, clamping action, hand fit, load, stability, manufacture or safety certification. Rigging animation and interaction not made.",
+      "bounds": {
+        "x": 0.6800000071525574,
+        "y": 0.6819999814033508,
+        "z": 0.8199999928474426,
+        "unit": "m"
+      },
+      "triangles": 1648,
+      "materials": 3,
+      "files": {
+        "glb": {
+          "path": "assets/carpentry/carpentry-fixed-split-jaw-and-cross-leg-clamping-bench-01/v1.0.0/model.glb",
+          "size": 159660,
+          "sha256": "eb1b35c17612dfb9d9c6d0c5b6fd2141b73fe7b2da07c1fd0259594b417fe372"
+        },
+        "blend": {
+          "path": "assets/carpentry/carpentry-fixed-split-jaw-and-cross-leg-clamping-bench-01/v1.0.0/source.blend",
+          "size": 858400,
+          "sha256": "d3e9fbaf6ffa43694fb8b6a35c61fc283df8b452d79bc2330e718d1cad7187e1"
+        },
+        "generator": {
+          "path": "assets/carpentry/carpentry-fixed-split-jaw-and-cross-leg-clamping-bench-01/v1.0.0/generate.py",
+          "size": 16536,
+          "sha256": "5dbbabc4e64e9a3278c6fbab5feaa9fef4ba910ce28a61c326316e2f9c029498"
+        },
+        "render": {
+          "path": "assets/carpentry/carpentry-fixed-split-jaw-and-cross-leg-clamping-bench-01/v1.0.0/thumbnail.png",
+          "size": 515793,
+          "sha256": "3ed77f32812574a5f4f26feacc6f4ff0b9a2ab00567e02b2c91e7b4accf52644"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-953-volume02-20261025"
+    },
+    {
+      "id": "construction-fixed-front-hopper-and-rear-screed-tracked-paver-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "construction",
+      "style": "S01-clean-geometric",
+      "title": "Fixed Front Hopper and Rear Screed Tracked Paver",
+      "description": "One independently authored whole tracked paving-machine exterior: a low complete chassis on two thick polygonal hollow track loops and full rooted wheels/axles, a very broad front flared receiving hopper with real open empty mouth and full floor, a central sloped power-cover shape, and a complete rear open operator platform with one seat, blank side console and full U rails. Two long continuous draw arms link the chassis to a wide separate low screed-style exterior behind the machine. Every mesh is newly authored in this source; no old excavator, railway wagon, hopper, cabin or track mesh is imported or extracted. The full front receiving tub to rear spreading-block silhouette is the distinguishing whole structure, not a wheel/count/colour variant. One prop, zero scenes; four opaque solid PBR materials, metres, Z up, horizontally bounds-centred ground datum on both whole flat track soles. No conveyor, auger, engine or hydraulic internals, material flow, asphalt, paving/levelling ability, drive, turning, operator use, loads, guarding, manufacture, engineering, safety, rigging, animation or interaction. Static low-poly visual exterior only, not equipment design or operation guidance.",
+      "bounds": {
+        "x": 2.5,
+        "y": 3.79,
+        "z": 1.46,
+        "unit": "m"
+      },
+      "triangles": 1044,
+      "materials": 4,
+      "files": {
+        "glb": {
+          "path": "assets/construction/construction-fixed-front-hopper-and-rear-screed-tracked-paver-01/v1.0.0/model.glb",
+          "size": 63732,
+          "sha256": "c54e943b35fc357e9c85a0dd52b02a9f490fa34ef7d4d9d4b09aa8900bee16aa"
+        },
+        "blend": {
+          "path": "assets/construction/construction-fixed-front-hopper-and-rear-screed-tracked-paver-01/v1.0.0/source.blend",
+          "size": 704652,
+          "sha256": "21dc08186a01a996bde3749d73471316c68bfb246b887c439c820645c5fb5412"
+        },
+        "generator": {
+          "path": "assets/construction/construction-fixed-front-hopper-and-rear-screed-tracked-paver-01/v1.0.0/generate.py",
+          "size": 28471,
+          "sha256": "97912338e53603a2480e038157158d4fd570a69faf9d46d7285bb7ade64ab4d3"
+        },
+        "render": {
+          "path": "assets/construction/construction-fixed-front-hopper-and-rear-screed-tracked-paver-01/v1.0.0/thumbnail.png",
+          "size": 535136,
+          "sha256": "8aa47615ec16dfed3d3c985f4f86ef6f9d3f26692effb4d2493e03ab60c09e26"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-953-volume02-20261025"
+    },
+    {
+      "id": "construction-fixed-high-arch-and-central-moldboard-grader-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "construction",
+      "style": "S01-clean-geometric",
+      "title": "Fixed High Arch and Central Moldboard Grader",
+      "description": "One independently authored complete grader-style machine exterior. A long narrow high arched front beam spans from a front axle to a rear power chassis on two rear axles. Beneath the genuine arch void, a whole horizontal annular carrier, complete crossbar/stem and two rooted hangers support one long thick genuinely curved moldboard at a fixed diagonal angle. A rear opaque sloped engine cover and elevated open station with floor, seat, blank console, four posts and a full roof complete the machine. Six complete annular tyres have actual finite ground facets and separate full hubs/axles; tyre count is not claimed as the structural novelty. The whole arch/central blade and rear power-station relation is new, with no old pickup/excavator/paver mesh imported, copied or scaled. No receiving hopper, cargo bed, bucket, trailing screed, glass or external source assets. One static prop, zero scenes; four opaque constant PBR roles, metres, Z up and full horizontal bounds-centred finite tyre sole datum. No hydraulic/engine internals, articulation, steering, wheel motion, blade adjustment, grading, material removal, traction, occupancy, loads, guarding, manufacture, machine operation, engineering/safety, rigging, animation or interaction verified. Static low-poly visual exterior only, not equipment guidance.",
+      "bounds": {
+        "x": 2.368165,
+        "y": 4.52,
+        "z": 2.23,
+        "unit": "m"
+      },
+      "triangles": 2580,
+      "materials": 4,
+      "files": {
+        "glb": {
+          "path": "assets/construction/construction-fixed-high-arch-and-central-moldboard-grader-01/v1.0.0/model.glb",
+          "size": 129428,
+          "sha256": "75abbee929434c74bea0af3c0591bae1ed630f9321ad428e2bbf528a2519c352"
+        },
+        "blend": {
+          "path": "assets/construction/construction-fixed-high-arch-and-central-moldboard-grader-01/v1.0.0/source.blend",
+          "size": 837668,
+          "sha256": "9c01d187d6b14da56aba7a78dbbd2edff6f997d83ec970f9116c22b50a7d81b3"
+        },
+        "generator": {
+          "path": "assets/construction/construction-fixed-high-arch-and-central-moldboard-grader-01/v1.0.0/generate.py",
+          "size": 29091,
+          "sha256": "9763cc52b4c86fab3c941c217ddd50ea4f4e9c9bef59ab69487f2ace6dc4369f"
+        },
+        "render": {
+          "path": "assets/construction/construction-fixed-high-arch-and-central-moldboard-grader-01/v1.0.0/thumbnail.png",
+          "size": 550946,
+          "sha256": "7ce27d290d48e437ee2c1cd761acff9b48cb14f57d5f29298dcb7e8fe7de9732"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-953-volume02-20261025"
+    },
+    {
+      "id": "industrial-complete-tyre-machines-and-low-jack-workbay-scene-01",
+      "version": "1.0.0",
+      "category": "scenes",
+      "assetKind": "scene",
+      "theme": "industrial",
+      "style": "source-preserved-low-poly",
+      "title": "Complete Tyre Machines and Low Jack Workbay",
+      "description": "One complete static tyre-service-equipment workbay, one scene and zero new independent models. The whole original four-jaw tyre-changing machine occupies the left rear station, the entire side-wheel raised-hood balancing machine stands at right rear, and the full low trolley floor jack occupies a separate front bay. An actual broad open strip separates the two rear machines, with a transverse gap between them and the whole foreground jack. The machine pedestals, front pedals, wheel/hood, jack arm, four wheels and long handle remain complete and at original unit scale. This differs from the existing tabletop wheel-fixture and suspended-bicycle workbay: no worktable, bicycle clamp or tool back wall is substituted or renamed. Every original GLB buffer, local POSITION/NORMAL, material dictionary, face assignment and internal hierarchy remains byte-exact; only whole-instance translations and one finite scene-only support floor are new. No original part is extracted, resized, recoloured or counted anew. Static empty equipment composition only, no vehicle, load, tyre handling, machine connections, repair steps, operation, lifting, calibration, ergonomics, certified workflow, installation or safety claim. Rigging animation and interaction are not made.",
+      "bounds": {
+        "x": 2.9000000953674316,
+        "y": 2.4000000953674316,
+        "z": 1.5299999713897705,
+        "unit": "m"
+      },
+      "triangles": 5344,
+      "materials": 12,
+      "files": {
+        "glb": {
+          "path": "assets/industrial/industrial-complete-tyre-machines-and-low-jack-workbay-scene-01/v1.0.0/model.glb",
+          "size": 423052,
+          "sha256": "068db9315bd132c80d28905a7afb4899711857c8c4f8ca5df1a75db7b52e26cc"
+        },
+        "blend": {
+          "path": "assets/industrial/industrial-complete-tyre-machines-and-low-jack-workbay-scene-01/v1.0.0/source.blend",
+          "size": 1672504,
+          "sha256": "b323165fa6dcbd6867a39fe52a194325b5e6ca824031c00356e47a25a73da731"
+        },
+        "generator": {
+          "path": "assets/industrial/industrial-complete-tyre-machines-and-low-jack-workbay-scene-01/v1.0.0/generate.py",
+          "size": 126723,
+          "sha256": "5958d31f0b0bb72a2417fe98f6b29579a56cadff85301d26e57329a5f08cdf50"
+        },
+        "render": {
+          "path": "assets/industrial/industrial-complete-tyre-machines-and-low-jack-workbay-scene-01/v1.0.0/thumbnail.png",
+          "size": 472036,
+          "sha256": "9d0a9084d9d054935e276a92c7175047855dd8a4ee13a5640ddbe29a9a03e6dd"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-953-volume02-20261025"
+    },
+    {
+      "id": "industrial-fixed-v-saddle-and-arched-chain-pipe-vise-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "industrial",
+      "style": "source-preserved-low-poly",
+      "title": "Fixed V Saddle and Arched Chain Pipe Vise",
+      "description": "One newly authored complete fixed chain pipe-vise-style appearance. A thick ground mounting plate has four genuine through apertures. Two full parallel V-groove saddle bodies flank an empty central channel below one arched chain of fifteen complete alternating open links. A fixed left end anchor and separate right spindle guide attach both chain ends; the right side has a whole vertical externally profiled spindle, transverse handle and two end stops. All plate, saddle, guide and assembly geometry is new; only generic closed-link and mesh primitives are reused, with no old visible geometry payload. This is not the earlier table-edge clamp-on flat-jaw vise or a sport basket with more links. Three opaque constant PBR roles; one model zero scenes. Empty static visual display only, no pipe, force, chain tension, gripping, adjustment motion, thread engagement, mounting specification, load, manufacture or safety certification. Rigging, animation and interaction not made.",
+      "bounds": {
+        "x": 0.3799999952316284,
+        "y": 0.20999999344348907,
+        "z": 0.22499999403953552,
+        "unit": "m"
+      },
+      "triangles": 1416,
+      "materials": 3,
+      "files": {
+        "glb": {
+          "path": "assets/industrial/industrial-fixed-v-saddle-and-arched-chain-pipe-vise-01/v1.0.0/model.glb",
+          "size": 138808,
+          "sha256": "113d5a1d9715bc0ef33e1a846c3f806c7f01f3b8a9ab36e24d0d1647b023bc7e"
+        },
+        "blend": {
+          "path": "assets/industrial/industrial-fixed-v-saddle-and-arched-chain-pipe-vise-01/v1.0.0/source.blend",
+          "size": 818304,
+          "sha256": "3ded76980cd082d18654a364c698ce73d2bd664128253c0455ff5638940499d8"
+        },
+        "generator": {
+          "path": "assets/industrial/industrial-fixed-v-saddle-and-arched-chain-pipe-vise-01/v1.0.0/generate.py",
+          "size": 17353,
+          "sha256": "5eaf33c3166b86b5fdb64463508b67f9c28cadf0bcc82af9c4ddbfc0765be590"
+        },
+        "render": {
+          "path": "assets/industrial/industrial-fixed-v-saddle-and-arched-chain-pipe-vise-01/v1.0.0/thumbnail.png",
+          "size": 480771,
+          "sha256": "1db3527214e8ca4e4c6d27b2c939349babb5b84f80263522ab872487c4c4dc96"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-953-volume02-20261025"
+    },
+    {
+      "id": "kitchen-fixed-perforated-cup-and-raised-handle-garlic-press-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "kitchen",
+      "style": "source-preserved-low-poly",
+      "title": "Fixed Perforated Cup and Raised Handle Garlic Press",
+      "description": "One newly authored complete static hand garlic-press appearance in a fixed open pose. One continuous metal lower body forms a deep rectangular open cup with sixteen genuine complete finite bottom openings and a full long lower handle. Two integral ears hold a transverse axis; a separate whole upper metal handle and finite recessed press block rotate together into one fixed raised display pose. Two complete dark grip coverings and two full axle retainers complete the entire tool. This is not the old high-column citrus press scaled down, nor the crossed serrated pliers with a replacement jaw; no old geometry payload is reused. Three opaque untextured PBR roles, one model zero scenes. Empty static display only, no food, squeezing or cutting performance, pressure, moving articulation, ergonomic fit, food-contact suitability, manufacture or safety certification. Rigging, animation and interaction not made.",
+      "bounds": {
+        "x": 0.057999998331069946,
+        "y": 0.22771048545837402,
+        "z": 0.18778081238269806,
+        "unit": "m"
+      },
+      "triangles": 2356,
+      "materials": 3,
+      "files": {
+        "glb": {
+          "path": "assets/kitchen/kitchen-fixed-perforated-cup-and-raised-handle-garlic-press-01/v1.0.0/model.glb",
+          "size": 203736,
+          "sha256": "9577f34ae97b6f6b2a8cd705733f93a621350c564b64dadbe3ed321453eaeb7d"
+        },
+        "blend": {
+          "path": "assets/kitchen/kitchen-fixed-perforated-cup-and-raised-handle-garlic-press-01/v1.0.0/source.blend",
+          "size": 829504,
+          "sha256": "df7a54ccc3c09e9d31908c60a2438d5686a83d7aaa0e80bfbc17452677f63caa"
+        },
+        "generator": {
+          "path": "assets/kitchen/kitchen-fixed-perforated-cup-and-raised-handle-garlic-press-01/v1.0.0/generate.py",
+          "size": 15658,
+          "sha256": "6a2925ecfab1528170c48d6a42317dcbea543c12c1f550dc3b24dad4891b1ba2"
+        },
+        "render": {
+          "path": "assets/kitchen/kitchen-fixed-perforated-cup-and-raised-handle-garlic-press-01/v1.0.0/thumbnail.png",
+          "size": 485693,
+          "sha256": "05c6016144775168ba05c7927dec5af0b18662a09eef0d3c625276da9bfc76b0"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-953-volume02-20261025"
+    },
+    {
+      "id": "music-fixed-slotted-fader-and-raised-meter-mixing-console-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "music",
+      "style": "S01-clean-geometric",
+      "title": "Fixed Slotted Fader and Raised Meter Mixing Console",
+      "description": "One newly authored complete static audio-mixing-console exterior. A continuous low inclined wedge case on four finite feet carries one complete thick faceplate with four genuine long through-slots backed by the real case surface. Four separate short stems rise through the slots into broad fixed fader caps at different positions. A rear rotary-control field and one full raised meter bridge with two genuinely recessed blank opaque meter panels complete the same desk unit; two whole shaped timber side cheeks bound its sides. New complete geometry, no old joystick controller, keyboard or tape-deck components imported. The slotted fader field and raised paired meter bridge are a different whole interface arrangement from the old flat ball-joystick/four-button deck and the twin-reel/continuous-tape recorder. Channel count is subordinate detail, not a series of counted variants. One prop, zero scenes; four opaque constant PBR roles, metres, Z up and horizontally bounds-centred ground origin. Empty blank display only: no printed scales, signal, audio mixing, electrical circuit, metering, fader or knob operation, calibration, compatibility, ergonomic or safety claim. No cables, instrument, rigging, animation or interaction.",
+      "bounds": {
+        "x": 0.77,
+        "y": 0.71,
+        "z": 0.397,
+        "unit": "m"
+      },
+      "triangles": 1332,
+      "materials": 4,
+      "files": {
+        "glb": {
+          "path": "assets/music/music-fixed-slotted-fader-and-raised-meter-mixing-console-01/v1.0.0/model.glb",
+          "size": 75596,
+          "sha256": "057f000d5f605447e602e4f534b592c1775475857c2e6c2d6b0249ba953a577a"
+        },
+        "blend": {
+          "path": "assets/music/music-fixed-slotted-fader-and-raised-meter-mixing-console-01/v1.0.0/source.blend",
+          "size": 764912,
+          "sha256": "935d09b02f1e80c77e7dfbcccb8981625b9dc9c36d3656ed972c0dd20352bd3e"
+        },
+        "generator": {
+          "path": "assets/music/music-fixed-slotted-fader-and-raised-meter-mixing-console-01/v1.0.0/generate.py",
+          "size": 12297,
+          "sha256": "0c1c8703eddef92744416578c2eac036ad6266fe557229e0f60efaefee326d89"
+        },
+        "render": {
+          "path": "assets/music/music-fixed-slotted-fader-and-raised-meter-mixing-console-01/v1.0.0/thumbnail.png",
+          "size": 501403,
+          "sha256": "9c60563904e5e187597a6c864be07ae531ccc0f55e9c0fdca1681932fb7d6b8d"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-953-volume02-20261025"
+    },
+    {
+      "id": "office-fixed-slotted-head-and-pullout-bin-shredder-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "office",
+      "style": "source-preserved-low-poly",
+      "title": "Fixed Slotted Head and Pullout Bin Shredder",
+      "description": "One newly authored complete fixed office-shredder-style exterior in an open-bin display pose. A continuous three-sided lower cabinet on four complete small caster exteriors carries a thick whole top head with a genuine narrow full-thickness slot and one blank control. Two finite extended rails support a separate deep empty rectangular waste bin with a continuous floor, four thick walls, full raised open rim and front bridge pull handle. All geometry new, not a pedal waste bin with a replacement lid or receipt printer resized. Three opaque untextured PBR roles; one model zero scenes. No paper, cutter teeth, motor, feed rollers, circuit, moving parts, shredding or paper handling performance, electrical or safety certification. Pullout pose is fixed, no clearance animation, load or stability claim. Rigging animation and interaction not made.",
+      "bounds": {
+        "x": 0.47600001096725464,
+        "y": 0.6959999799728394,
+        "z": 0.699999988079071,
+        "unit": "m"
+      },
+      "triangles": 1184,
+      "materials": 3,
+      "files": {
+        "glb": {
+          "path": "assets/office/office-fixed-slotted-head-and-pullout-bin-shredder-01/v1.0.0/model.glb",
+          "size": 110904,
+          "sha256": "203d7b88d5ee859bebb8b7d1684774e3620ac9751b5a40dfee42cb09b15e8a83"
+        },
+        "blend": {
+          "path": "assets/office/office-fixed-slotted-head-and-pullout-bin-shredder-01/v1.0.0/source.blend",
+          "size": 740576,
+          "sha256": "65f4c1588d9facd5014ce5b52010075436558ca16eec3cf271a4ea6bd7f06885"
+        },
+        "generator": {
+          "path": "assets/office/office-fixed-slotted-head-and-pullout-bin-shredder-01/v1.0.0/generate.py",
+          "size": 15579,
+          "sha256": "6e9bbd5a6b39a348cd8ed0b2e666b68d9fb42560ebe42c096a3807487473bc00"
+        },
+        "render": {
+          "path": "assets/office/office-fixed-slotted-head-and-pullout-bin-shredder-01/v1.0.0/thumbnail.png",
+          "size": 512265,
+          "sha256": "95f143ea191498ef96610f5c1eb8924dbd636ff7750aa15327667d59a18bc5f2"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-953-volume02-20261025"
+    },
+    {
+      "id": "pet-care-fixed-hubless-track-and-four-roller-cradle-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "pet-care",
+      "style": "source-preserved-low-poly",
+      "title": "Fixed Hubless Track And Four Roller Cradle",
+      "description": "One newly authored complete static hubless pet running-wheel appearance. One continuous broad annular shell combines an open central passage, full inward running surface and two integral outer tracking rims. Four separate small rollers sit beneath the two rims on fixed transverse axles in a low grounded cradle with paired complete bearing cheeks. Unlike the old walking-drum timber hoist, there are no central axle, spokes, tall bearing posts, winding drum, lifting tower or hook. Unlike the complete twin-hoop gymnastics wheel, there are no open gaps between hoop crossbars, foot platforms, hand grips or direct ring-to-ground contact: a continuous deep inner track and under-rim four-roller cradle define this complete apparatus. All geometry newly authored; no old meshes extracted or rearranged. One prop, zero scenes. Four opaque constant PBR roles, metres, Z up and horizontal ground-centred bounds. The empty centre contains no animal. Small fixed rim-to-roller overlaps are static visual contacts, not validated rolling bearings, running clearance or motion. No rotation, exercise, pet suitability, ergonomics, welfare, traction, loading, pinch protection, manufacture or safety claim. Rigging, animation and interaction not made and outside static scope.",
+      "bounds": {
+        "x": 1.2899999618530273,
+        "y": 0.5299999713897705,
+        "z": 1.4450000524520874,
+        "unit": "m"
+      },
+      "triangles": 2116,
+      "materials": 4,
+      "files": {
+        "glb": {
+          "path": "assets/pet-care/pet-care-fixed-hubless-track-and-four-roller-cradle-01/v1.0.0/model.glb",
+          "size": 192892,
+          "sha256": "a9238f8eff3339b8b009af19bbf8f39e337a6f3b264b3115c71627e99e3a719a"
+        },
+        "blend": {
+          "path": "assets/pet-care/pet-care-fixed-hubless-track-and-four-roller-cradle-01/v1.0.0/source.blend",
+          "size": 886960,
+          "sha256": "84c4d3e417d6c88ad4777c2c5cd3cdf82882da47b8fa36f6dfa647c1bee74136"
+        },
+        "generator": {
+          "path": "assets/pet-care/pet-care-fixed-hubless-track-and-four-roller-cradle-01/v1.0.0/generate.py",
+          "size": 17650,
+          "sha256": "79633bb11815af4db30c941e169f7dbc7bb4634704448fb5299fda6719edee5c"
+        },
+        "render": {
+          "path": "assets/pet-care/pet-care-fixed-hubless-track-and-four-roller-cradle-01/v1.0.0/thumbnail.png",
+          "size": 497893,
+          "sha256": "77862c79d6ebbbbbc34b06fbc6edd32cae5c9fd57eb579c7eaab16ab1f91f4ad"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-953-volume02-20261025"
+    },
+    {
+      "id": "photography-fixed-four-post-multiplane-animation-rostrum-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "photography",
+      "style": "S01-clean-geometric",
+      "title": "Fixed Four Post Multiplane Animation Rostrum",
+      "description": "One newly authored whole static multiplane animation-photography rostrum appearance. Two broad ground runners support four complete tall posts and a closed upper frame. Three vertically separated whole open rectangular carrier frames are rooted to the posts by full side brackets; only the lowest carrier holds one blank opaque board, while the upper two have genuine empty through openings. One fixed upper camera bridge carries a complete downward-facing camera housing with a side cylindrical magazine, hollow objective barrel with recessed opaque optic, side crank and two support feet. The entire vertical carrier/camera support topology is newly authored, not a book scanner with extra shelves, a column enlarger stretched, or imported standalone camera on furniture. Four opaque PBR roles, metres, Z up, horizontal-envelope-centred two-runner ground datum. One model and zero scenes. No transparent glass, artwork, film, lights, optical path, image capture, relative plane travel, animation effect, operation, loading, stability or safety claim. Unrigged static exterior and empty carrier arrangement only.",
+      "bounds": {
+        "x": 1.13,
+        "y": 1.04,
+        "z": 2.483,
+        "unit": "m"
+      },
+      "triangles": 1280,
+      "materials": 4,
+      "files": {
+        "glb": {
+          "path": "assets/photography/photography-fixed-four-post-multiplane-animation-rostrum-01/v1.0.0/model.glb",
+          "size": 80796,
+          "sha256": "382d6032328004ed37c1c35984dfc318fb74b1c74d360092789d39878c5c5a63"
+        },
+        "blend": {
+          "path": "assets/photography/photography-fixed-four-post-multiplane-animation-rostrum-01/v1.0.0/source.blend",
+          "size": 799240,
+          "sha256": "4d8f2f1edd600ad75ea34a9a81d684e09ca75b6553cb2876ddadff9deb018709"
+        },
+        "generator": {
+          "path": "assets/photography/photography-fixed-four-post-multiplane-animation-rostrum-01/v1.0.0/generate.py",
+          "size": 11806,
+          "sha256": "d53599356b8ad4b76df2f80b05b0a44ab164500217cb6015c26824a1dbaa7f9a"
+        },
+        "render": {
+          "path": "assets/photography/photography-fixed-four-post-multiplane-animation-rostrum-01/v1.0.0/thumbnail.png",
+          "size": 420319,
+          "sha256": "7fc929f3014a41942b374580129d29a2ef5543962d338fc2a0277e7c88cea33c"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-953-volume02-20261025"
+    },
+    {
+      "id": "public-complete-utility-and-cleaning-equipment-bay-scene-01",
+      "version": "1.0.0",
+      "category": "scenes",
+      "assetKind": "scene",
+      "theme": "public",
+      "style": "source-preserved-low-poly",
+      "title": "Complete Utility and Cleaning Equipment Bay",
+      "description": "One complete static public-service utility and cleaning-equipment preparation bay, counted as one scene and zero new independent models. Four full original assets stand at unit scale on a single finite floor: a complete offset-basin sink at rear left, a whole wheeled side-press cleaning bucket separately at front left, a full upright floor cleaner at rear right, and an entire single-disc buffer at front right. The paired left and right stations leave an actual broad central open aisle and finite fore-aft gaps, not the three inline stations of the earlier dishwashing scene renamed. All source GLB raw buffers, local POSITION/NORMAL, PBR material dictionaries, face assignments and internal hierarchies are preserved byte-exact. Only whole-model translations and a scene-only support slab are new. No asset is extracted, resized, recoloured or counted as a new prop. Static empty equipment display only: no plumbing connections, water, chemicals, cleaning or hygiene sequence, machine operation, suction, electrical, load, stability or safety certification. Rigging, animation and interaction are not made.",
+      "bounds": {
+        "x": 3.200000047683716,
+        "y": 2.5999999046325684,
+        "z": 1.369999885559082,
+        "unit": "m"
+      },
+      "triangles": 5320,
+      "materials": 15,
+      "files": {
+        "glb": {
+          "path": "assets/public/public-complete-utility-and-cleaning-equipment-bay-scene-01/v1.0.0/model.glb",
+          "size": 480152,
+          "sha256": "d1555fcfec549041265a139dd81b4bad5233196657cc93370e9c80e861e03758"
+        },
+        "blend": {
+          "path": "assets/public/public-complete-utility-and-cleaning-equipment-bay-scene-01/v1.0.0/source.blend",
+          "size": 1660712,
+          "sha256": "7fce5ede8e792e816c9530c3387fd55ea4f8c8a19c51a71f872fe4db6027b9a3"
+        },
+        "generator": {
+          "path": "assets/public/public-complete-utility-and-cleaning-equipment-bay-scene-01/v1.0.0/generate.py",
+          "size": 139014,
+          "sha256": "8f1d77ec34981111d9a4061fa3669e4b594c7bc5110a252f59ff326771a9c566"
+        },
+        "render": {
+          "path": "assets/public/public-complete-utility-and-cleaning-equipment-bay-scene-01/v1.0.0/thumbnail.png",
+          "size": 486384,
+          "sha256": "81d86ec593015e8c22b2fccc4a2569739f288e6cd8b8f1c1d4ad046c5f79b68e"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-953-volume02-20261025"
+    },
+    {
+      "id": "public-fixed-wide-head-and-upright-body-vacuum-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "public",
+      "style": "source-preserved-low-poly",
+      "title": "Fixed Wide Head and Upright Body Vacuum",
+      "description": "One newly authored complete fixed upright-vacuum-style exterior. A broad rectangular floor head has a true finite underside cavity and is joined through a substantial rear neck to a whole leaning tapered dust-body exterior. One rear axle and two complete wheels meet the display ground; a genuine empty upper hand loop, one short attached rear return tube and blank upper control complete the whole single-station appliance. The body is one closed loft with plain material regions, not a separate canister on a long rod. All geometry new, not the old canister and wand set merged or a circular buffer with a replacement head. Three opaque untextured PBR roles, one model zero scenes. No internal suction path, air movement, power, brush rotation, cleaning performance, dust handling, animation, load, stability, manufacture or safety certification. Rigging and interaction not made.",
+      "bounds": {
+        "x": 0.44600000977516174,
+        "y": 0.5578121542930603,
+        "z": 1.1169999837875366,
+        "unit": "m"
+      },
+      "triangles": 1048,
+      "materials": 3,
+      "files": {
+        "glb": {
+          "path": "assets/public/public-fixed-wide-head-and-upright-body-vacuum-01/v1.0.0/model.glb",
+          "size": 95780,
+          "sha256": "a2623c142272613069e7eb47164f003b191cf3feef31b32f40df5c345644bfda"
+        },
+        "blend": {
+          "path": "assets/public/public-fixed-wide-head-and-upright-body-vacuum-01/v1.0.0/source.blend",
+          "size": 692432,
+          "sha256": "6834004944161ed0a420460bb7c4f5e28896538db1200aac3f190ec87edf5e2d"
+        },
+        "generator": {
+          "path": "assets/public/public-fixed-wide-head-and-upright-body-vacuum-01/v1.0.0/generate.py",
+          "size": 15931,
+          "sha256": "76c65c866b76618dc0949b989ee7fb0d89b7a9c46e212362d7e428f90d37c172"
+        },
+        "render": {
+          "path": "assets/public/public-fixed-wide-head-and-upright-body-vacuum-01/v1.0.0/thumbnail.png",
+          "size": 454372,
+          "sha256": "5a75b6951c75f6895581cfc2d80ce56e35f6985430c8a26da872b334c8524d43"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-953-volume02-20261025"
+    },
+    {
+      "id": "publishing-fixed-oval-raceway-and-bar-drum-paper-beater-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "publishing",
+      "style": "S01-clean-geometric",
+      "title": "Fixed Oval Raceway and Bar Drum Paper Beater",
+      "description": "One newly authored complete fixed papermaking-beater-style exterior. A long oval thick-walled tub has a full recessed inner floor and exterior bottom; a complete rounded central partition creates two real longitudinal channels connected around both ends. Four grounded legs and two long low ties support the tub. A single whole drum with integrated blunt longitudinal raised bars spans only one channel, carried on a full transverse shaft and two genuinely bored collars rooted on the partition and outer rim. A full low plate sits on the channel floor beneath the drum, with an actual empty interval above it. A complete outboard thick-rim wheel has a whole hub and four full spokes with true open sectors. New numeric construction throughout, not an old rectangular sink with a complete old carder placed inside, not a double-cylinder wringer or color/count variant. One model, zero scenes; four opaque constant untextured PBR roles, metres, Z up, whole horizontal bounds-centred ground origin. The top is intentionally open and empty. No liquid, fibres, paper sheets, motor, belt, sharp cutting edges, rigging, animation or interaction. Static stylized exterior only, no circulation, drainage, pulping, transmission, rotation, bearing fit, processing capacity, manufacture, load, safe access or operating/engineering guarantee.",
+      "bounds": {
+        "x": 1.585,
+        "y": 2.76,
+        "z": 1.49,
+        "unit": "m"
+      },
+      "triangles": 2252,
+      "materials": 4,
+      "files": {
+        "glb": {
+          "path": "assets/publishing/publishing-fixed-oval-raceway-and-bar-drum-paper-beater-01/v1.0.0/model.glb",
+          "size": 113560,
+          "sha256": "22153eeba8bf5459e854c14fabbae6199b8649dcd53a34797efd241b3a5a3074"
+        },
+        "blend": {
+          "path": "assets/publishing/publishing-fixed-oval-raceway-and-bar-drum-paper-beater-01/v1.0.0/source.blend",
+          "size": 744272,
+          "sha256": "f356104d38b363a2f09043be019e23684e614ee4d93898dfccdcf2ec3ff13fde"
+        },
+        "generator": {
+          "path": "assets/publishing/publishing-fixed-oval-raceway-and-bar-drum-paper-beater-01/v1.0.0/generate.py",
+          "size": 27705,
+          "sha256": "9b11f0f456db8673b9869ca047ee898dad4080d12a8b8aad9f339ff131075cf3"
+        },
+        "render": {
+          "path": "assets/publishing/publishing-fixed-oval-raceway-and-bar-drum-paper-beater-01/v1.0.0/thumbnail.png",
+          "size": 537197,
+          "sha256": "5fb48384c3dd28155463ae371192333292f3a69e96f97b93e40213815074e40c"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-953-volume02-20261025"
+    },
+    {
+      "id": "sports-fixed-cavity-back-iron-head-and-tapered-shaft-club-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "sports",
+      "style": "S01-clean-geometric",
+      "title": "Fixed Cavity Back Iron Head and Tapered Shaft Club",
+      "description": "One newly authored complete static cavity-back iron-style golf club, laid on its full flat striking-face display datum. A broad offset rounded-toe metal head has a varying-thickness sloped rear rim and a genuine finite blind back cavity with complete inner floor and walls. A whole oblique heel hosel joins a continuous long tapering shaft to the head; a thick tapered grip and small whole end cap complete the single club. This is not a rotational wooden baseball barrel, a long ridged cricket blade, or an old bat with its head rescaled: all head, cavity, heel-neck and shaft coordinates are newly authored. One model, zero scenes. Four opaque untextured PBR roles, metres and native Z up. Artistic proportions only: no exact sporting dimensions, loft rating, impact, ball launch, shaft flex, grip fit, swing clearance, structural strength, equipment performance, manufacture or safety claim. No ball, player, bag, rig, animation or interaction.",
+      "bounds": {
+        "x": 0.27089287631087133,
+        "y": 1.1574560273847148,
+        "z": 0.041999999999999996,
+        "unit": "m"
+      },
+      "triangles": 380,
+      "materials": 4,
+      "files": {
+        "glb": {
+          "path": "assets/sports/sports-fixed-cavity-back-iron-head-and-tapered-shaft-club-01/v1.0.0/model.glb",
+          "size": 23188,
+          "sha256": "e7e9f7d062474ee02c0d19c62e7d2b1b4acf5e0bb2c5650a6a196019f2f67adf"
+        },
+        "blend": {
+          "path": "assets/sports/sports-fixed-cavity-back-iron-head-and-tapered-shaft-club-01/v1.0.0/source.blend",
+          "size": 583856,
+          "sha256": "bab53bfc3b38954eface4281eb014d562e5c84fbd344f33cc6a3d6f8a8e9f28b"
+        },
+        "generator": {
+          "path": "assets/sports/sports-fixed-cavity-back-iron-head-and-tapered-shaft-club-01/v1.0.0/generate.py",
+          "size": 10658,
+          "sha256": "760bddefedc5df309bebfb978f11ff5e1111c7f631cf8143beb64ecc1177cff5"
+        },
+        "render": {
+          "path": "assets/sports/sports-fixed-cavity-back-iron-head-and-tapered-shaft-club-01/v1.0.0/thumbnail.png",
+          "size": 262027,
+          "sha256": "c1a53f6d6ad714114c2dac169026d929f4e86602c42ba13de1bcb5e4e03815d7"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-953-volume02-20261025"
+    },
+    {
+      "id": "technology-fixed-cutaway-spherical-rod-end-joint-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "technology",
+      "style": "S01-clean-geometric",
+      "title": "Fixed Cutaway Spherical Rod End Joint",
+      "description": "One newly authored whole static cutaway spherical rod-end connector appearance. A complete grounded six-sided short stem and flared shoulder root into one thick three-quarter outer eye. Its inner wall follows a genuinely concave spherical seat, with both full cut-section faces closing the intentionally absent upper sector. Inside, a separate whole truncated spherical member has a real open cylindrical through-bore and is fixed at an authored oblique angle. The upper cutaway reveals its curved interface rather than hiding an assumed sphere behind a flat ring. No crossed trunnion, fork arms, gimbal carriers, imported machine joint or old mesh is used. Three opaque constant PBR materials, metres, Z up and complete horizontal-bounds-centred ground origin; one prop, zero scenes. Static illustrative connector only: no joint rotation, angular travel, friction, bearing fit, torque or force transfer, fastening, host compatibility, manufacture, load capacity or mechanical safety claim.",
+      "bounds": {
+        "x": 0.38,
+        "y": 0.2707455398374533,
+        "z": 0.54,
+        "unit": "m"
+      },
+      "triangles": 2978,
+      "materials": 3,
+      "files": {
+        "glb": {
+          "path": "assets/technology/technology-fixed-cutaway-spherical-rod-end-joint-01/v1.0.0/model.glb",
+          "size": 157608,
+          "sha256": "1a6821a0820b0a880028dbcb53669f79e8847f36bbcd3ee6def9c31871082c40"
+        },
+        "blend": {
+          "path": "assets/technology/technology-fixed-cutaway-spherical-rod-end-joint-01/v1.0.0/source.blend",
+          "size": 691636,
+          "sha256": "0617aaa01883ef230ed9e2ce93c7ab7e44478dad6964f3636e18e618bfb5651e"
+        },
+        "generator": {
+          "path": "assets/technology/technology-fixed-cutaway-spherical-rod-end-joint-01/v1.0.0/generate.py",
+          "size": 11169,
+          "sha256": "d6b0ff4edb82d6fd4f59609ce54d51156e5ea3a076512cdb90bdf36c3aa32d5d"
+        },
+        "render": {
+          "path": "assets/technology/technology-fixed-cutaway-spherical-rod-end-joint-01/v1.0.0/thumbnail.png",
+          "size": 439645,
+          "sha256": "fa1a09d150975169aed4fe7e735034d1c52cc3d6d8bea9b291e4f2abb106dc1b"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-953-volume02-20261025"
+    },
+    {
+      "id": "technology-fixed-open-frame-double-eye-turnbuckle-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "technology",
+      "style": "S01-clean-geometric",
+      "title": "Fixed Open Frame Double Eye Turnbuckle",
+      "description": "One newly authored complete fixed open-frame double-eye turnbuckle appearance. One continuous central metal-looking body surrounds a long genuine through-window, with two actual occupied axial sleeve openings through its complete end blocks. Two opposed complete terminal assemblies extend from opposite ends; each full pierced eye has an integral short neck rooted into a separate complete round shank. Two entire short helical surface ridges on the exposed stems have opposite winding directions as static visual cues, not functional screw geometry. Unlike a planar fixed carabiner gate or a two-jaw hand clamp, this is one longitudinal windowed frame with two opposed axial terminal eyes. No old ring, clamp jaw or spindle mesh is imported. Three opaque constant PBR materials, metres, Z up and horizontal-bounds-centred ground datum. One connector prop, zero scenes, no rope or load. No tensioning, thread engagement, adjustment, fastening, thread standard, force transmission, manufacture, assembly compatibility, load rating or safety claim.",
+      "bounds": {
+        "x": 1.38,
+        "y": 0.09,
+        "z": 0.16,
+        "unit": "m"
+      },
+      "triangles": 2448,
+      "materials": 3,
+      "files": {
+        "glb": {
+          "path": "assets/technology/technology-fixed-open-frame-double-eye-turnbuckle-01/v1.0.0/model.glb",
+          "size": 152408,
+          "sha256": "250e2dc4cfecf8a337b737d40b57e29834b403f7d9377562dd73776ac6c6596c"
+        },
+        "blend": {
+          "path": "assets/technology/technology-fixed-open-frame-double-eye-turnbuckle-01/v1.0.0/source.blend",
+          "size": 681384,
+          "sha256": "63a524e4f429b8d19a08d93aaa82e7a4429cd5b949051506458a00582e841c46"
+        },
+        "generator": {
+          "path": "assets/technology/technology-fixed-open-frame-double-eye-turnbuckle-01/v1.0.0/generate.py",
+          "size": 11623,
+          "sha256": "f2abe6909627020ca6b47fe2e6117765a159f95ea8d75a15cca827de09ad7d7a"
+        },
+        "render": {
+          "path": "assets/technology/technology-fixed-open-frame-double-eye-turnbuckle-01/v1.0.0/thumbnail.png",
+          "size": 286953,
+          "sha256": "527150b55d4b28c06c960ed4657327478b27a5f448a1be9311490b8db78194cf"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-953-volume02-20261025"
+    },
+    {
+      "id": "technology-fixed-raised-lever-and-loop-draw-latch-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "technology",
+      "style": "S01-clean-geometric",
+      "title": "Fixed Raised Lever and Loop Draw Latch",
+      "description": "One newly authored complete static raised-lever draw-latch appearance. Two full metal-looking mounting plates remain separated across a deliberate joint gap. The first carries complete rooted pivot cheeks, a transverse retained-looking pin, one long raised lever with overgrip and an offset draw-loop pivot. One whole closed wire-like loop spans the gap and is captured under the open return of the complete keeper hook on the second plate. Small proud mount caps remain visual details only. Unlike a toggle hold-down clamp, no long pressure arm, vertical pressure spindle, pad or four-axis toggle linkage is present; unlike a fixed carabiner, there are two independent mounts and a draw loop. All new geometry, no old clamp or box parts imported. Three opaque constant PBR materials, metres, Z up and complete horizontal-bounds-centred ground datum; one connector prop, zero scenes, no host door or lid. Fixed illustrative overlaps only. No over-centre action, locking, operating motion, clamping force, fastening, load rating, manufacture, host compatibility or safety claim.",
+      "bounds": {
+        "x": 0.452,
+        "y": 0.13,
+        "z": 0.201,
+        "unit": "m"
+      },
+      "triangles": 528,
+      "materials": 3,
+      "files": {
+        "glb": {
+          "path": "assets/technology/technology-fixed-raised-lever-and-loop-draw-latch-01/v1.0.0/model.glb",
+          "size": 35340,
+          "sha256": "c8166bad78e8f5409219fadf6da9dfe2c67c510ac7aaf0023029ffbb0830ebfb"
+        },
+        "blend": {
+          "path": "assets/technology/technology-fixed-raised-lever-and-loop-draw-latch-01/v1.0.0/source.blend",
+          "size": 610152,
+          "sha256": "313110b70ce04ad10fe22d4164399b8553bdc222508873d07619faa6a4613678"
+        },
+        "generator": {
+          "path": "assets/technology/technology-fixed-raised-lever-and-loop-draw-latch-01/v1.0.0/generate.py",
+          "size": 11602,
+          "sha256": "64ae71fe89922db6aaa3293d90a52fe44e5eede9df14a24da62f7d8e12f5457e"
+        },
+        "render": {
+          "path": "assets/technology/technology-fixed-raised-lever-and-loop-draw-latch-01/v1.0.0/thumbnail.png",
+          "size": 352902,
+          "sha256": "70721994008e0d4a9545d75887c6ced14eed76ba32844068ab948115918e7a19"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-953-volume02-20261025"
+    },
+    {
+      "id": "theater-fixed-slatted-drum-and-cloth-apron-wind-machine-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "theater",
+      "style": "S01-clean-geometric",
+      "title": "Fixed Slatted Drum and Cloth Apron Wind Machine",
+      "description": "One newly authored whole fixed theatrical wind-machine appearance. Two grounded open timber side frames support two real bored bearing sleeves and a continuous transverse axle. An open slatted drum has two full annular end hoops, six complete radial spokes on each side and twenty separate longitudinal curved slats with genuine open gaps. A single continuous finite-thickness cloth-apron exterior passes over the upper drum and joins two complete front/back clamping bars supported by the frame; a side crank and separate grip attach to the through axle. Entire geometry new, not old solid pinned music-box cylinder with its comb removed, nor two solid toothed carding drums rescaled or an imported wheel used as a kit part. One whole prop, zero scenes. Four opaque untextured PBR roles, metres, Z up, horizontal envelope centred, two finite frame shoes grounded. Cloth is one static closed solid surface, not cloth simulation or validated friction contact. No sound synthesis, airflow, wind strength, drum rotation, mechanical drive, tension, friction, historical accuracy, manufacture, operation or safety claim. No rigging, animation, interaction or scene.",
+      "bounds": {
+        "x": 1.385,
+        "y": 1.12,
+        "z": 1.0939999999999999,
+        "unit": "m"
+      },
+      "triangles": 2128,
+      "materials": 4,
+      "files": {
+        "glb": {
+          "path": "assets/theater/theater-fixed-slatted-drum-and-cloth-apron-wind-machine-01/v1.0.0/model.glb",
+          "size": 125484,
+          "sha256": "0cbf63b2c1a6836a0af0fd59144f33848deed5968824491a73e97cec2e38ed5c"
+        },
+        "blend": {
+          "path": "assets/theater/theater-fixed-slatted-drum-and-cloth-apron-wind-machine-01/v1.0.0/source.blend",
+          "size": 905300,
+          "sha256": "67d21112b5924a9f7e20aa0b4299481fccaa5c6644a0fd7defa66bf81e970c5c"
+        },
+        "generator": {
+          "path": "assets/theater/theater-fixed-slatted-drum-and-cloth-apron-wind-machine-01/v1.0.0/generate.py",
+          "size": 11510,
+          "sha256": "5576df8263c4c7cd2cc8fd6efb674e3a5e455248cc4a0c854568eeecd7141de1"
+        },
+        "render": {
+          "path": "assets/theater/theater-fixed-slatted-drum-and-cloth-apron-wind-machine-01/v1.0.0/thumbnail.png",
+          "size": 515508,
+          "sha256": "85a663d71decf139e7e965df6a2935ef07230e635334110bb259a7ee25eb67d0"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-953-volume02-20261025"
+    },
+    {
+      "id": "theater-whole-mechanical-effects-preparation-workcorner-scene-01",
+      "version": "1.0.0",
+      "category": "scenes",
+      "assetKind": "scene",
+      "theme": "theater",
+      "style": "source-preserved-low-poly",
+      "title": "Whole Mechanical Effects Preparation Workcorner",
+      "description": "One static theatrical mechanical-effects preparation workcorner using four complete qualified originals and zero new independent models: a whole raised crank desk, complete pinned-cylinder open-case music box on its real full desk top, separate whole slatted-drum and cloth-apron wind machine, and complete suspended tubular-bell frame on the scene-only floor. The small bench mechanism is raised for inspection while the larger hand-cranked cloth drum and tall hanging-pipe station occupy separate floor bays beside it; there is no audience stage, piano bench, shared score or inward-facing ensemble rehearsal circle. Complete original local meshes, hierarchy, oriented triangles and full PBR are preserved without extraction, rescaling or recolouring. Only the desk undergoes one rigid ninety-degree rotation and all four instances are translated. One scene and zero new models. Static equipment arrangement only: no working sound effects, audio, operation, tuning, friction, cloth simulation, rotation, damping, ergonomics, load, stability or safety certification. No rigging, animation or interaction.",
+      "bounds": {
+        "x": 3.700000047683716,
+        "y": 3.4000000953674316,
+        "z": 1.9800000190734863,
+        "unit": "m"
+      },
+      "triangles": 6908,
+      "materials": 14,
+      "files": {
+        "glb": {
+          "path": "assets/theater/theater-whole-mechanical-effects-preparation-workcorner-scene-01/v1.0.0/model.glb",
+          "size": 396660,
+          "sha256": "d3f964b32dfbfc323e7c5e0f4d4d677ad75c8383d2141d2bdbcc8c1e8d1c4f32"
+        },
+        "blend": {
+          "path": "assets/theater/theater-whole-mechanical-effects-preparation-workcorner-scene-01/v1.0.0/source.blend",
+          "size": 2174716,
+          "sha256": "238c134a2f2edd24d64b56973354d1710c31057c51303835354622d1d48efd6b"
+        },
+        "generator": {
+          "path": "assets/theater/theater-whole-mechanical-effects-preparation-workcorner-scene-01/v1.0.0/generate.py",
+          "size": 125643,
+          "sha256": "47861f761d7a19bdbeb264b76772f313a7a2e76f52963f3a9cdc8dd7805197c8"
+        },
+        "render": {
+          "path": "assets/theater/theater-whole-mechanical-effects-preparation-workcorner-scene-01/v1.0.0/thumbnail.png",
+          "size": 528771,
+          "sha256": "e5003775f28f4a82a474127d53c09c97f83d85aaf47019b7f1fce393a6bdc60a"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-953-volume02-20261025"
+    },
+    {
+      "id": "toys-fixed-funnel-and-alternating-open-trough-ballrun-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "toys",
+      "style": "S01-clean-geometric",
+      "title": "Fixed Funnel and Alternating Open Trough Ball Run",
+      "description": "One newly authored complete empty tabletop gravity-ball-run appearance. Two grounded full side posts and a rear cross header carry three separate full-length thick open U troughs, alternating slope direction. Each low end has a real open falling mouth positioned above the next higher receiving end, and each upper end has a complete raised stop. A true open tapered top funnel with a hollow neck is carried by its full annular collar and rear bracket. A lower broad open collection tray sits between the complete frame shoes. Every trough has two real underside carriers rooted into the rear frame; there are no painted tracks, closed false bores or extracted pieces of old assets. The supported alternating open channels and funnel are not an upright peg-drop field with more pins, nor a scaled continuous human spiral slide. One whole prop, zero scenes. Four opaque untextured PBR roles, metres, Z up, full XY envelope centred and two finite ground shoes. Empty fixed visual display only: no ball supplied, no rolling dynamics, transfer success, speed, puzzle logic, child suitability, manufacture or safety claim. No rigging, animation or interaction.",
+      "bounds": {
+        "x": 1.3299999999999998,
+        "y": 0.445,
+        "z": 1.32,
+        "unit": "m"
+      },
+      "triangles": 1200,
+      "materials": 4,
+      "files": {
+        "glb": {
+          "path": "assets/toys/toys-fixed-funnel-and-alternating-open-trough-ballrun-01/v1.0.0/model.glb",
+          "size": 78240,
+          "sha256": "c542701debb45fe2d35989b20b6a1e6e88cd683b8d62bc73b4d53bd366f4adb8"
+        },
+        "blend": {
+          "path": "assets/toys/toys-fixed-funnel-and-alternating-open-trough-ballrun-01/v1.0.0/source.blend",
+          "size": 762524,
+          "sha256": "681b50948a5f676e6e5e89eed64f7c59cc8f88c98a4390e7094c0c7bd9000a2c"
+        },
+        "generator": {
+          "path": "assets/toys/toys-fixed-funnel-and-alternating-open-trough-ballrun-01/v1.0.0/generate.py",
+          "size": 11381,
+          "sha256": "64be8171d317a026543b4d0ecc06e4dc1dfac8c68de04a63abd5ab8a87336ff8"
+        },
+        "render": {
+          "path": "assets/toys/toys-fixed-funnel-and-alternating-open-trough-ballrun-01/v1.0.0/thumbnail.png",
+          "size": 513818,
+          "sha256": "31a2442fb9dd9ec75e0cc3f3b7535bf8ec87a497637ec0d6af034501b88a7b4c"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-953-volume02-20261025"
+    },
+    {
+      "id": "toys-fixed-pinched-segment-balloon-dog-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "toys",
+      "style": "S01-clean-geometric",
+      "title": "Fixed Pinched Segment Balloon Dog",
+      "description": "One newly authored whole static balloon-dog-style toy sculpture. Rounded elongated swollen segments narrow into short pinch necks to form a horizontal body, four upright resting legs, raised neck, long snout, paired small upright ears and a raised short tail; a small joining twist and tied nozzle belong to the same toy. Four lower leg ends have finite flat display soles. Every visible shape is new rather than recolouring a biological rabbit or replacing a wooden rocking-horse material: there is no carved animal torso, seated haunch, saddle, handle, runner, eye or fur. Separate closed solids with intentional concealed embeddings show one fixed knot arrangement; they are not an actual single continuous inflated tube. Two opaque untextured PBR roles, metres, Z up, horizontal-envelope-centred. One toy model, zero scenes. No internal air chamber, thin membrane, inflation, gas pressure, twist procedure, elasticity, balance, durability, child suitability or safety performance claimed. No rigging, animation, interaction or species anatomy.",
+      "bounds": {
+        "x": 0.16599999999999998,
+        "y": 0.79,
+        "z": 0.6359208458200665,
+        "unit": "m"
+      },
+      "triangles": 2868,
+      "materials": 2,
+      "files": {
+        "glb": {
+          "path": "assets/toys/toys-fixed-pinched-segment-balloon-dog-01/v1.0.0/model.glb",
+          "size": 155908,
+          "sha256": "8c6a0e015100310cad80fcf9e0ead91bf393506c45d33f8a6df171fc7773b7fb"
+        },
+        "blend": {
+          "path": "assets/toys/toys-fixed-pinched-segment-balloon-dog-01/v1.0.0/source.blend",
+          "size": 703940,
+          "sha256": "69b75937c06d9281950c7d042c2b647ef9735aa643240f6ffd45339c64a5b316"
+        },
+        "generator": {
+          "path": "assets/toys/toys-fixed-pinched-segment-balloon-dog-01/v1.0.0/generate.py",
+          "size": 10537,
+          "sha256": "fac7e2d065ef60c9f628d52a7c03bb2514cd61049e97551c8c4192fa9555b3cc"
+        },
+        "render": {
+          "path": "assets/toys/toys-fixed-pinched-segment-balloon-dog-01/v1.0.0/thumbnail.png",
+          "size": 433735,
+          "sha256": "f809e737dcf9d8fd07c0dec1597635c2e65575a671bd81611fd75fb7b758e57d"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-953-volume02-20261025"
+    },
+    {
+      "id": "transport-fixed-continuous-skirt-and-aft-duct-hovercraft-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "transport",
+      "style": "S01-clean-geometric",
+      "title": "Fixed Continuous Skirt and Aft Duct Hovercraft",
+      "description": "One newly authored whole static small hovercraft-style exterior. A broad continuous rounded-rectangle annular skirt has a swollen outer profile, finite lower annular sole and true downward-open centre under one complete deck. A shaped forward cowl with integral opaque windscreen-style face, two full side coamings, one complete seated pilot station and open steering wheel define the cockpit. At the rear, two deck saddles carry one whole flared thick duct, a supported central motor-and-hub exterior, four complete fixed pitched blades and a sparse four-bar front grille. Two full vertical rear vane exteriors join a complete lower carrier and deck roots. All geometry is independently authored, not a work skiff with an imported mine fan, twin old floats with wheels removed, a count or color variant, or an existing boat scene. The thick skirt and deck enclose an open underside rather than a sealed flotation hull. One model, zero scenes; four opaque constant untextured PBR roles, metres, Z up and whole horizontally bounds-centred ground origin on the skirt sole. Opaque windscreen appearance does not supply cabin glazing, light transmission or a hidden enclosed cabin. No occupant, water, cushion field, external hose, motor internals, rigging, animation or interaction. Fixed illustrative game art only: no buoyancy, hovering, inflation, thrust, airflow, propulsion, steering, control response, blade-guard safety, occupancy fit, stability, load, manufacture or real vehicle operation and safety claim.",
+      "bounds": {
+        "x": 1.545,
+        "y": 2.987,
+        "z": 1.73,
+        "unit": "m"
+      },
+      "triangles": 3060,
+      "materials": 4,
+      "files": {
+        "glb": {
+          "path": "assets/transport/transport-fixed-continuous-skirt-and-aft-duct-hovercraft-01/v1.0.0/model.glb",
+          "size": 174380,
+          "sha256": "fbe17e90062b587edbb7ee811cd1dcf4e2c53da4a7e25f740909fc849399b91f"
+        },
+        "blend": {
+          "path": "assets/transport/transport-fixed-continuous-skirt-and-aft-duct-hovercraft-01/v1.0.0/source.blend",
+          "size": 858664,
+          "sha256": "e104e971cb560d4b8dd59c6afb7f2dbb102b8770d1f5b56a584a8784dae7da67"
+        },
+        "generator": {
+          "path": "assets/transport/transport-fixed-continuous-skirt-and-aft-duct-hovercraft-01/v1.0.0/generate.py",
+          "size": 30565,
+          "sha256": "5c24d2fcc75d8459cb770ba39973544f6efda63028e4bc3f833f5d3bd5b65601"
+        },
+        "render": {
+          "path": "assets/transport/transport-fixed-continuous-skirt-and-aft-duct-hovercraft-01/v1.0.0/thumbnail.png",
+          "size": 539372,
+          "sha256": "7331df4faef90efe71a4095bf3defed9653dff163b5efb4271b01ff4337ef979"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-953-volume02-20261025"
+    },
+    {
+      "id": "underwater-fixed-cutaway-open-bottom-diving-bell-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "underwater",
+      "style": "S01-clean-geometric",
+      "title": "Fixed Cutaway Open Bottom Diving Bell",
+      "description": "One newly authored complete fixed cutaway open-bottom diving-bell display. A thick tapered cylindrical rear-and-side wall meets a full hollow domed roof above a wide genuinely open lower ballast ring. An intentional front sector is removed for display, exposing two curved internal side seats and their fixed roots while leaving the central bottom opening unfilled. Four full exterior straps meet the lower ring and roof shoulders; a rooted upper hanging eye and a short inlet collar complete the vessel silhouette. Small integral display feet raise the open mouth above the ground. This is a sectioned chamber with internal occupancy space and suspension, not an enlarged wearable three-window helmet or a lab torsion case with a different rod. No old meshes imported, three opaque constant PBR materials, metres and centred ground datum. One static exhibit model, zero scenes. The front cutaway is intentionally not sealed; no person, breathing system, air retention, pressure, diving, buoyancy, hoisting capacity, fabrication, historical reconstruction or safety claim. Rigging, animation and interaction not made.",
+      "bounds": {
+        "x": 1.72,
+        "y": 1.72,
+        "z": 2.44,
+        "unit": "m"
+      },
+      "triangles": 2172,
+      "materials": 3,
+      "files": {
+        "glb": {
+          "path": "assets/underwater/underwater-fixed-cutaway-open-bottom-diving-bell-01/v1.0.0/model.glb",
+          "size": 115812,
+          "sha256": "4b459389dc68549c21a99f49e88fa7926b9f458792671cea4e3050304d0f5104"
+        },
+        "blend": {
+          "path": "assets/underwater/underwater-fixed-cutaway-open-bottom-diving-bell-01/v1.0.0/source.blend",
+          "size": 726564,
+          "sha256": "ace4febb2472178b35f81ff7554c4177c2fe1edf1340d236e754040bada7a373"
+        },
+        "generator": {
+          "path": "assets/underwater/underwater-fixed-cutaway-open-bottom-diving-bell-01/v1.0.0/generate.py",
+          "size": 13027,
+          "sha256": "8385d357ad37d3a7a4e8575cdb1e892534d2e6debb0feb641c791313ba35f4ce"
+        },
+        "render": {
+          "path": "assets/underwater/underwater-fixed-cutaway-open-bottom-diving-bell-01/v1.0.0/thumbnail.png",
+          "size": 518105,
+          "sha256": "db5efb3412c06fe68c56f845631a1d0e5cf80e365f64877b7f57a07941f7a050"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-953-volume02-20261025"
+    },
+    {
+      "id": "waterworks-fixed-balanced-twin-mitre-lock-gate-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "waterworks",
+      "style": "S01-clean-geometric",
+      "title": "Fixed Balanced Twin Mitre Lock Gate",
+      "description": "One newly authored complete fixed double-mitre canal-gate module. A short continuous U-shaped stone canal mouth carries two full vertical heel pivots and opposed thick timber gate leaves meeting at a central V-shaped mitre. Each leaf has whole front reinforcing rails and a diagonal brace, plus one long rooted balance beam extending outward over the corresponding bank, small grip and fixed upper tread boards. Unlike the old vertically sliding sluice, there is no rising plate/threaded stem/C guide; unlike the raised drawbridge, there is no horizontally hinged deck or high rope counterweights. The paired vertical-axis mitre/shore-balance arrangement is newly drawn as one static apparatus, not an old gate recolour. Three opaque PBR materials, metres, horizontally centred complete ground sole. One module, zero scenes. No water, animation, seal, hydraulic pressure, working pivot/balance, passage clearance, navigation, public access, installation or safety claim.",
+      "bounds": {
+        "x": 5.150187000411645,
+        "y": 2.5,
+        "z": 1.92,
+        "unit": "m"
+      },
+      "triangles": 644,
+      "materials": 3,
+      "files": {
+        "glb": {
+          "path": "assets/waterworks/waterworks-fixed-balanced-twin-mitre-lock-gate-01/v1.0.0/model.glb",
+          "size": 45236,
+          "sha256": "fd92505c11a7de3706cc854d8971e260b7ee6425c5b6a835a50cfac282c680cb"
+        },
+        "blend": {
+          "path": "assets/waterworks/waterworks-fixed-balanced-twin-mitre-lock-gate-01/v1.0.0/source.blend",
+          "size": 676504,
+          "sha256": "1c9e9ff2151113e9f49bb416be5c85d59b3ad7bf3b23a4bba7589bc133414653"
+        },
+        "generator": {
+          "path": "assets/waterworks/waterworks-fixed-balanced-twin-mitre-lock-gate-01/v1.0.0/generate.py",
+          "size": 11987,
+          "sha256": "c18a41bc3f3bb659abbb7a1ff0642867cd99bed4c317ea2d555e804073770845"
+        },
+        "render": {
+          "path": "assets/waterworks/waterworks-fixed-balanced-twin-mitre-lock-gate-01/v1.0.0/thumbnail.png",
+          "size": 456227,
+          "sha256": "363be8f456720b6a71165e6d05c593b566dafaf78d887c0d168290bc612713f2"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-953-volume02-20261025"
+    },
+    {
+      "id": "winter-fixed-split-open-frames-and-blunt-point-crampon-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "winter",
+      "style": "source-preserved-low-poly",
+      "title": "Fixed Split Open Frames And Blunt Point Crampon",
+      "description": "One newly authored complete fixed empty open-frame crampon appearance. Separate full forefoot and heel frames have genuine large through openings and a narrow bridging strip; eight tapered downward teeth with finite blunt sole patches and two front-projecting blunt teeth are independent complete solids rooted within the frames. A complete bent front bail spans the open front foot space; a rear bent heel bail and a fixed upright heel lever sit on the heel frame. No boot, person, pair duplicate or snowshoe web. Unlike the broad raised-nose laced snowshoe, this small split metal frame is open under the foot and ends in ground-point teeth rather than an area-support web. Unlike hollow boots, there is no enclosed upper, toe pocket, shaft, cuff or outsole. Every geometric coordinate is newly authored; no existing mesh extracted. One prop zero scenes, four opaque constant PBR roles, metre units Z up. Connections are fixed visual overlaps, not articulated joints or working binding tolerances. No wearable fit, boot compatibility, traction, climbing, ice penetration, attachment or release function, load, manufacture, protective equipment, operation or safety claim. Static decorative game art only; no rigging, animation or interaction.",
+      "bounds": {
+        "x": 0.12093460559844971,
+        "y": 0.3779999911785126,
+        "z": 0.15700000524520874,
+        "unit": "m"
+      },
+      "triangles": 612,
+      "materials": 4,
+      "files": {
+        "glb": {
+          "path": "assets/winter/winter-fixed-split-open-frames-and-blunt-point-crampon-01/v1.0.0/model.glb",
+          "size": 63748,
+          "sha256": "1685e857627573f25d800194ac177d68162d8254558c380152b81a7157d91a8a"
+        },
+        "blend": {
+          "path": "assets/winter/winter-fixed-split-open-frames-and-blunt-point-crampon-01/v1.0.0/source.blend",
+          "size": 704384,
+          "sha256": "af63ee8d718e803b63e4d640fe3a364829a4d6ca07bcfd8bfea352f4ad540d59"
+        },
+        "generator": {
+          "path": "assets/winter/winter-fixed-split-open-frames-and-blunt-point-crampon-01/v1.0.0/generate.py",
+          "size": 18351,
+          "sha256": "6fefdad8c324efe203b27859db24b947aed8f59a327ac94a66122b215e713dda"
+        },
+        "render": {
+          "path": "assets/winter/winter-fixed-split-open-frames-and-blunt-point-crampon-01/v1.0.0/thumbnail.png",
+          "size": 525776,
+          "sha256": "1bf6d1f538ed4bc5cd84a26a91e56957554c1769eac21e2ac1d28280518216ef"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-953-volume02-20261025"
+    },
+    {
+      "id": "carpentry-fixed-through-feed-and-extension-table-thickness-planer-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "carpentry",
+      "style": "source-preserved-low-poly",
+      "title": "Fixed Through Feed and Extension Table Thickness Planer",
+      "description": "One newly authored complete static bench thickness-planer appearance. A low grounded chamfered base carries a full central feed bed, two tall side columns and a broad upper motor head with a separate top cover. A genuine low rectangular passage remains open from front to back between the bed and recessed feed-roll silhouettes. Two entire flat extension tables extend in opposite directions on whole transverse hinge axles and finite support braces. A complete offset height-crank silhouette on the right and a blank front rocker enclosure finish the exterior. Not a bench drill with a wider table or an exposed hand wringer recoloured; no old geometry imported. Three opaque PBR roles, one model zero scenes. Empty fixed static art only: no cutting edges, timber payload, feed or height adjustment, motor, machining performance, dust collection, manufacture, load or safety claim. Rigging animation and interaction not made.",
+      "bounds": {
+        "x": 0.6430000066757202,
+        "y": 0.7400000095367432,
+        "z": 0.49000000953674316,
+        "unit": "m"
+      },
+      "triangles": 960,
+      "materials": 3,
+      "files": {
+        "glb": {
+          "path": "assets/carpentry/carpentry-fixed-through-feed-and-extension-table-thickness-planer-01/v1.0.0/model.glb",
+          "size": 100232,
+          "sha256": "0da9ba44579ceef7f5b6221913448eba32fd71bb4e82bfcf0cd4300a9cc57860"
+        },
+        "blend": {
+          "path": "assets/carpentry/carpentry-fixed-through-feed-and-extension-table-thickness-planer-01/v1.0.0/source.blend",
+          "size": 771936,
+          "sha256": "32add01dae21fb50ffaa1e92567f0128435fede659935ccbd4fd55596a1504c0"
+        },
+        "generator": {
+          "path": "assets/carpentry/carpentry-fixed-through-feed-and-extension-table-thickness-planer-01/v1.0.0/generate.py",
+          "size": 15701,
+          "sha256": "d9c14c58ab3f0701260405d35be26c5b21b34807d427c273849773cc4afe06cb"
+        },
+        "render": {
+          "path": "assets/carpentry/carpentry-fixed-through-feed-and-extension-table-thickness-planer-01/v1.0.0/thumbnail.png",
+          "size": 525985,
+          "sha256": "aeb82d16b4a86dcc7204f23b6375dc360bb8bf36a115845c7e890555f3362a3e"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-953-volume02-20261025"
+    },
+    {
+      "id": "equestrian-fixed-empty-scooped-saddle-and-open-stirrups-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "equestrian",
+      "style": "S01-clean-geometric",
+      "title": "Fixed Empty Scooped Saddle and Open Stirrups",
+      "description": "One newly authored complete empty fixed riding-saddle appearance. A single thick double-curved seat scoops down between its narrow raised front pommel and broad rear cantle. Two full broad leather-looking skirts descend from the seat sides, with two whole fixed stirrup leathers carrying separate complete metal-looking open stirrups with finite flat lower treads. All geometry is newly drawn; no cycle saddle, cargo pack yoke, animal or old harness mesh is imported or extracted. Unlike an empty caravan pack frame, there are no wooden cargo ledges or horns; unlike a cycle seat, there is a whole skirt-and-stirrup system and no post or wheel. Three opaque constant PBR materials, metres, Z up and full horizontal-bounds-centred ground origin; one prop, zero scenes, no horse, rider or cargo. Fixed stylized display only: no live-animal fit, equestrian compatibility, welfare assessment, seat or stirrup ergonomics, strap adjustment, manufacture, carrying load, mounting or riding safety claim.",
+      "bounds": {
+        "x": 0.838,
+        "y": 0.73,
+        "z": 0.645,
+        "unit": "m"
+      },
+      "triangles": 348,
+      "materials": 3,
+      "files": {
+        "glb": {
+          "path": "assets/equestrian/equestrian-fixed-empty-scooped-saddle-and-open-stirrups-01/v1.0.0/model.glb",
+          "size": 25540,
+          "sha256": "330dc51778d451761e3e979398c4ddc0fd04a553a3196665d4ffd9169d90529a"
+        },
+        "blend": {
+          "path": "assets/equestrian/equestrian-fixed-empty-scooped-saddle-and-open-stirrups-01/v1.0.0/source.blend",
+          "size": 568064,
+          "sha256": "05b4031e48d4beebd0fd9d41f82724d6959cbaba8ed650989715ed0cb28f4f92"
+        },
+        "generator": {
+          "path": "assets/equestrian/equestrian-fixed-empty-scooped-saddle-and-open-stirrups-01/v1.0.0/generate.py",
+          "size": 11583,
+          "sha256": "5c73b6a045626692af72e6730923cb0359527dd7400afdbe46ab8dcf8759dd05"
+        },
+        "render": {
+          "path": "assets/equestrian/equestrian-fixed-empty-scooped-saddle-and-open-stirrups-01/v1.0.0/thumbnail.png",
+          "size": 509092,
+          "sha256": "cab492e102ea9b14507acdf50b870b1d7a1160c32774ac33d45c8439cb3a72d2"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-953-volume02-20261025"
+    },
+    {
+      "id": "music-fixed-tapered-fingerport-tube-and-beaked-blockflute-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "music",
+      "style": "S01-clean-geometric",
+      "title": "Fixed Tapered Fingerport Tube and Beaked Blockflute",
+      "description": "One newly authored complete static blockflute-style exterior. A whole long tapered thick-wall body has seven genuine front finger apertures and one separate rear thumb aperture, a modest flared open lower bell and continuous empty inner bore. A complete upper head transitions from a rounded socket to a flattened beak, with a genuinely open narrow mouth and separate front window through its wall. All aperture reveals close the finite wall thickness; they are not dark discs or printed marks. Newly authored complete axial profiles and opening layout, no old vessel-flute body, bagpipe pipe or panpipe imported, cut or resized. Unlike the old broad blind ovoid chamber with two finger rows and short side neck, this has a long through-bore and end-to-end head/body arrangement; unlike seven bound stopped panpipes it is one full single-body instrument. Two opaque constant PBR roles, metres, Z up, horizontal-envelope-centred ground datum on the full lower bell annulus. One model, zero scenes. Upright illustrative display only, not a physical balance guarantee. The external head window is shown, but a sound-producing internal block, ramp and calibrated windway are not modeled or validated. No pitch, acoustic response, playing, breath resistance, hygiene, manufacturing, ergonomic or safety claim. No person, stand, rig, animation or interaction.",
+      "bounds": {
+        "x": 0.048,
+        "y": 0.048,
+        "z": 0.455,
+        "unit": "m"
+      },
+      "triangles": 4004,
+      "materials": 4,
+      "files": {
+        "glb": {
+          "path": "assets/music/music-fixed-tapered-fingerport-tube-and-beaked-blockflute-01/v1.0.0/model.glb",
+          "size": 177816,
+          "sha256": "6012b8d0ca7430c2ae46bdd5328f66d325b827699472e4b89976b6c2fc4d2a83"
+        },
+        "blend": {
+          "path": "assets/music/music-fixed-tapered-fingerport-tube-and-beaked-blockflute-01/v1.0.0/source.blend",
+          "size": 718956,
+          "sha256": "f3c73f83660df09d860f8911974767250a7cb8df57e9c0348128d3cbd94890dd"
+        },
+        "generator": {
+          "path": "assets/music/music-fixed-tapered-fingerport-tube-and-beaked-blockflute-01/v1.0.0/generate.py",
+          "size": 12029,
+          "sha256": "12ce6c4e226754d791734c2a3085288b5bf1340e7951a56ef7e6b097b4b6c232"
+        },
+        "render": {
+          "path": "assets/music/music-fixed-tapered-fingerport-tube-and-beaked-blockflute-01/v1.0.0/thumbnail.png",
+          "size": 317647,
+          "sha256": "8803485016e5eaefc962e7476b89be7e3f1e59db0c6f34eb1265c9b442a38624"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-953-volume02-20261025"
+    },
+    {
+      "id": "music-whole-console-and-tape-recording-preparation-workcorner-scene-01",
+      "version": "1.0.0",
+      "category": "scenes",
+      "assetKind": "scene",
+      "theme": "music",
+      "style": "source-preserved-low-poly",
+      "title": "Whole Console and Tape Recording Preparation Workcorner",
+      "description": "One static audio-recording preparation workcorner containing five complete qualified originals at unchanged unit scale: a full raised crank desk supporting the whole slotted-fader mixing console faces inward from the left, and a separate whole lower open worktable supports the complete twin-reel recorder and slotted desk microphone along the rear. The two surfaces form an open control-and-pickup layout with clear front access; there is no stage, audience, instrument rehearsal circle or large floor-level mechanical-effects apparatus. Both desks and all three appliances retain every original mesh, hierarchy, oriented triangle and full opaque PBR. Only the raised desk and its whole console rotate rigidly ninety degrees; the other full instances translate. One scene-only flat floor, one scene, zero new independent models. Static unoccupied equipment placement only: no audio recording, playback, wiring, electrical compatibility, acoustics, control operation, reel motion, ergonomic fit, accessibility, load, installation or safety capability. Rigging, animation and interaction are not made and outside this delivery.",
+      "bounds": {
+        "x": 3.100000023841858,
+        "y": 2.700000047683716,
+        "z": 1.6670000553131104,
+        "unit": "m"
+      },
+      "triangles": 7796,
+      "materials": 18,
+      "files": {
+        "glb": {
+          "path": "assets/music/music-whole-console-and-tape-recording-preparation-workcorner-scene-01/v1.0.0/model.glb",
+          "size": 644716,
+          "sha256": "e515395f15ca6cc8ddc4b578b8e8cb8b0db09e4f35a0181c1b696d72d734a909"
+        },
+        "blend": {
+          "path": "assets/music/music-whole-console-and-tape-recording-preparation-workcorner-scene-01/v1.0.0/source.blend",
+          "size": 2277744,
+          "sha256": "4df19c735cd8e3fcbabac1d1e3b1cbb12aee1ae5a38ae59d79aa663378b348c2"
+        },
+        "generator": {
+          "path": "assets/music/music-whole-console-and-tape-recording-preparation-workcorner-scene-01/v1.0.0/generate.py",
+          "size": 196719,
+          "sha256": "fc5aad8f3834a1187cb3c6090f21169a372a137169bac243e8d7f6b8f4362fcd"
+        },
+        "render": {
+          "path": "assets/music/music-whole-console-and-tape-recording-preparation-workcorner-scene-01/v1.0.0/thumbnail.png",
+          "size": 502547,
+          "sha256": "c22a41194b41f641f1ab2383462b6baf287c57af73d1f1f52efad15e839a3a4b"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-953-volume02-20261025"
+    },
+    {
+      "id": "public-fixed-hooded-sling-and-four-wheel-stroller-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "public",
+      "style": "source-preserved-low-poly",
+      "title": "Fixed Hooded Sling and Four Wheel Stroller",
+      "description": "One newly authored complete static hooded-stroller appearance in an empty fixed display pose. Two continuous front-to-rear push side tubes and separate trailing legs support four full annular wheels in actual open forks, a shared rear pushbar and a complete continuous calf-seat-back sling. Two raised side bolsters border the sling. A full thick curved canopy forms a genuine open front underside and is rooted by two complete curved side ribs and rear stays. One low empty basket with its floor and walls sits within dedicated lower rails and crosssupports. This is not the manual wheelchair with its large handrims removed or the rollator with a differently coloured seat; all numerical geometry is new and no old component is imported. Three opaque materials, one prop zero scenes. Fixed visual art only: no child or occupant, textile simulation, restraint system, steering, rolling, folding path, seating or age suitability, human fit, loading, stability, manufacture, transport or product safety certification. Rigging animation and interaction not made.",
+      "bounds": {
+        "x": 0.6000000238418579,
+        "y": 0.9439689517021179,
+        "z": 1.1419405937194824,
+        "unit": "m"
+      },
+      "triangles": 4476,
+      "materials": 3,
+      "files": {
+        "glb": {
+          "path": "assets/public/public-fixed-hooded-sling-and-four-wheel-stroller-01/v1.0.0/model.glb",
+          "size": 410768,
+          "sha256": "b67bed15ce22f0ec7eb113ec10f1247dabe9d5da67a6a3a6c2358c780a474602"
+        },
+        "blend": {
+          "path": "assets/public/public-fixed-hooded-sling-and-four-wheel-stroller-01/v1.0.0/source.blend",
+          "size": 1255104,
+          "sha256": "5c9415ea07b7318ca06e6128661b6ad7bdee5f05d4644d00edea3824cccfc394"
+        },
+        "generator": {
+          "path": "assets/public/public-fixed-hooded-sling-and-four-wheel-stroller-01/v1.0.0/generate.py",
+          "size": 17448,
+          "sha256": "da1b5fcad210fd73dae6348a447477dbf5117d68f27092f338852e0065bb1997"
+        },
+        "render": {
+          "path": "assets/public/public-fixed-hooded-sling-and-four-wheel-stroller-01/v1.0.0/thumbnail.png",
+          "size": 537495,
+          "sha256": "0790bc466c3e3cde55000ad89cacb5ec2d9ecd45c1b5c50014e7236e1ffb9e88"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-953-volume02-20261025"
+    },
+    {
+      "id": "sports-fixed-swept-wing-and-triangle-control-frame-hang-glider-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "sports",
+      "style": "source-preserved-low-poly",
+      "title": "Fixed Swept Wing And Triangle Control Frame Hang Glider",
+      "description": "One newly authored complete fixed swept-wing hang-glider appearance. A single finite-thickness folded wing spans two swept leading-edge tubes and a complete longitudinal keel, with two underside cross tubes, a whole triangular lower control frame, an upper kingpost and four continuous fixed stay lines. Two small finite shoes on the lower control bar provide the static display ground datum. The broad left and right wing surfaces are continuous shared-vertex geometry with opaque face-assigned panels, not a copied kite, rotated windsurf sail or texture plane. No board, hull, mast-root deck, wishbone grip, foot straps, diamond cross spar or ribbon tail is reused. All geometric coordinates newly authored; one prop zero scenes, four opaque constant PBR roles, metres Z up. It is an empty fixed display without pilot, harness or independent stand. Tube intersections and stay ends are deliberately embedded visual roots, not validated joints, tensioned cables or flying structure. No aerodynamic lift, stability, aircraft certification, structural strength, attachment, folding, control, launch, operation, manufacture, user fit or flight safety claim; dimensions are invented for static game-art identification. Rigging, animation and interaction not made.",
+      "bounds": {
+        "x": 4.136312961578369,
+        "y": 2.158510208129883,
+        "z": 1.7899999618530273,
+        "unit": "m"
+      },
+      "triangles": 548,
+      "materials": 4,
+      "files": {
+        "glb": {
+          "path": "assets/sports/sports-fixed-swept-wing-and-triangle-control-frame-hang-glider-01/v1.0.0/model.glb",
+          "size": 59564,
+          "sha256": "aea27a18cac5085fc1d70fd285796d7b406bb8544d04527f5abd2f14be339fb0"
+        },
+        "blend": {
+          "path": "assets/sports/sports-fixed-swept-wing-and-triangle-control-frame-hang-glider-01/v1.0.0/source.blend",
+          "size": 692528,
+          "sha256": "c4e25701aba69491d4e881055dfd57cc65aaa04def156f6776e14c3888faf082"
+        },
+        "generator": {
+          "path": "assets/sports/sports-fixed-swept-wing-and-triangle-control-frame-hang-glider-01/v1.0.0/generate.py",
+          "size": 17814,
+          "sha256": "ec4d8bb3d0854b1fa454995c3561ef36eaebd91245f2777befe22f56efd403cc"
+        },
+        "render": {
+          "path": "assets/sports/sports-fixed-swept-wing-and-triangle-control-frame-hang-glider-01/v1.0.0/thumbnail.png",
+          "size": 478667,
+          "sha256": "9d13d3abf501385c585b6f4dd8a814c6a30a6e21c552b657eee57a3909c236d2"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-953-volume02-20261025"
     }
   ]
 }
