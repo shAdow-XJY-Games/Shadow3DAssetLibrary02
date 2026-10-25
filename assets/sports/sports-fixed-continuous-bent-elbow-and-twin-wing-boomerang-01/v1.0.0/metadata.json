@@ -1,0 +1,42 @@
+{
+  "id": "sports-fixed-continuous-bent-elbow-and-twin-wing-boomerang-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "sports",
+  "style": "source-preserved-low-poly",
+  "title": "Continuous Bent Elbow And Twin Wing Boomerang",
+  "description": "One newly authored complete fixed boomerang-shaped sports display. A single uninterrupted thick solid curves through one rounded elbow into two unequal-length broad arms, with narrow blunt end caps, a continuous flat underside, shallow asymmetric upper ridge and chamfered thick edges. All cross sections share connected vertices; there are no overlapping arm blocks or added grip sleeves. Two opaque constant PBR zones are assignments on the original continuous faces. The broad open V planform and flattened wing-like section differ from the complete axisymmetric knob-handle-barrel bat and the closed round recessed-rim disc shell; neither old mesh is imported or modified. One complete prop zero scenes, metres and native Z up, lying flat on its whole finite underside. Stylised static external geometry only, not an aerodynamically validated or usable returning implement. No flight, return path, throw instructions, sporting regulation, balance, impact, manufacture, human suitability or safety performance. No rig, animation or interaction.",
+  "bounds": {
+    "x": 0.6498249173164368,
+    "y": 0.2912364900112152,
+    "z": 0.014000000432133675,
+    "unit": "m"
+  },
+  "triangles": 682,
+  "materials": 2,
+  "files": {
+    "glb": {
+      "path": "assets/sports/sports-fixed-continuous-bent-elbow-and-twin-wing-boomerang-01/v1.0.0/model.glb",
+      "size": 59340,
+      "sha256": "4a4658e2c0f75930956b1acd7aac08bef00a86fbca737dbb62d27b79e4ffd0b8"
+    },
+    "blend": {
+      "path": "assets/sports/sports-fixed-continuous-bent-elbow-and-twin-wing-boomerang-01/v1.0.0/source.blend",
+      "size": 590648,
+      "sha256": "3cf9e62f6687f58be5395dada22bfbc846fe2433531622282145b747d31e1f4d"
+    },
+    "generator": {
+      "path": "assets/sports/sports-fixed-continuous-bent-elbow-and-twin-wing-boomerang-01/v1.0.0/generate.py",
+      "size": 15387,
+      "sha256": "ee2ed455a361949cb0f4577c58c310356d873ea7ebb722cf5847fbf4d37bf1e8"
+    },
+    "render": {
+      "path": "assets/sports/sports-fixed-continuous-bent-elbow-and-twin-wing-boomerang-01/v1.0.0/thumbnail.png",
+      "size": 401777,
+      "sha256": "3ab2b450f3bc5fcf8c7dacba78886710457988ea9301550ee875617603d7ef19"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
