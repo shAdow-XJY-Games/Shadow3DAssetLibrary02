@@ -1,0 +1,42 @@
+{
+  "id": "industrial-fixed-tail-screw-and-toggle-link-locking-pliers-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "industrial",
+  "style": "source-preserved-low-poly",
+  "title": "Fixed Tail Screw and Toggle Link Locking Pliers",
+  "description": "One newly authored complete fixed locking-pliers-style exterior. A single continuous curved fixed jaw and long rear handle oppose a separate short curved moving-jaw appearance. A distinct lower handle joins the jaw through a second complete fixed pin. One entire rear toggle link spans from that lower handle toward the fixed handle rear seat, with an independent inner release lever and a complete longitudinal adjusting screw ending in a broad cap. Four full pins and proud caps retain the illustrated joints. Both jaws are thick and blunt, with a fixed real gap and no workpiece. This is not the old crossed single-pivot combination pliers with different teeth or a base-mounted hold-down clamp with its base removed: all bodies and whole linkage relations are newly authored. Three opaque constant PBR roles, metres Z up, grounded horizontal-envelope-centred origin. One prop zero scenes. Static illustrative shape only: no valid over-centre locking trajectory, gripping/cutting force, adjustment range, thread engagement, bearing clearances, manufacture, hand fit, electrical insulation or safety claim. Rigging animation interaction not made.",
+  "bounds": {
+    "x": 0.12099999934434891,
+    "y": 0.34700000286102295,
+    "z": 0.05299999937415123,
+    "unit": "m"
+  },
+  "triangles": 928,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/industrial/industrial-fixed-tail-screw-and-toggle-link-locking-pliers-01/v1.0.0/model.glb",
+      "size": 89632,
+      "sha256": "123d38df5663f004c5db160997fd1c9783fc74214a2b8d4db09ef66d08408653"
+    },
+    "blend": {
+      "path": "assets/industrial/industrial-fixed-tail-screw-and-toggle-link-locking-pliers-01/v1.0.0/source.blend",
+      "size": 707200,
+      "sha256": "8f8890bfa47f96b36938f64a64238cf3a4656e54436611fb65287cd92a5c3c5f"
+    },
+    "generator": {
+      "path": "assets/industrial/industrial-fixed-tail-screw-and-toggle-link-locking-pliers-01/v1.0.0/generate.py",
+      "size": 17185,
+      "sha256": "2adc4b9dc77958957cebcea57e4ca8f2d14558ca23b828dc0a0d793599373fb6"
+    },
+    "render": {
+      "path": "assets/industrial/industrial-fixed-tail-screw-and-toggle-link-locking-pliers-01/v1.0.0/thumbnail.png",
+      "size": 495178,
+      "sha256": "4e6db7fad75bda36867d21b28f8b09fd2f534fec895956461977ed1f7026c5aa"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

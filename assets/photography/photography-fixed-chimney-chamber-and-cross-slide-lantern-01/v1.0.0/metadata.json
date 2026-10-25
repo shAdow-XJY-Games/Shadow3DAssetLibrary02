@@ -1,0 +1,42 @@
+{
+  "id": "photography-fixed-chimney-chamber-and-cross-slide-lantern-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "photography",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Chimney Chamber and Cross Slide Lantern",
+  "description": "One newly authored complete fixed magic-lantern-style film-history prop. Two finite shoes and a common long bed carry a genuine thick hollow lamp chamber with a side opening and an entire door held aside, a real open square upper chimney with a raised weather-cap appearance, and a separate forward lens-support saddle. A complete transverse two-aperture slide carrier crosses the space between the chamber and the long stepped annular lens housing. One carrier aperture contains a blank opaque insert; the other remains genuinely open. An empty unlit inner chamber floor, independent recess-ended barrel and fixed side knob complete the device. No camera tripod, reels, film ribbon, prior machine case or old visible mesh is imported. The complete hollow chamber/vent stack, side access and transverse slide relationship is newly constructed rather than a renamed camera body. Four opaque constant PBR materials, one prop zero scenes, metres native Z up and whole horizontal-bounds-centred finite shoe origin. Static historical-style illustrative appearance only, not a particular historical replica: no flame, fuel, heat, ventilation performance, optics, transparency, image projection, focusing, sliding, operation, electrical or mechanical function, fabrication, compatibility or safety claim. Rigging animation and interaction not made.",
+  "bounds": {
+    "x": 0.5147125247364301,
+    "y": 0.599,
+    "z": 0.474,
+    "unit": "m"
+  },
+  "triangles": 2024,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/photography/photography-fixed-chimney-chamber-and-cross-slide-lantern-01/v1.0.0/model.glb",
+      "size": 83060,
+      "sha256": "2f2fe6bdc4a2c1120bac3575ab98d83892dc4f2fc83f662ed9c778294326d9a5"
+    },
+    "blend": {
+      "path": "assets/photography/photography-fixed-chimney-chamber-and-cross-slide-lantern-01/v1.0.0/source.blend",
+      "size": 755892,
+      "sha256": "ed548d5dbd921dd547345ecc71794ef536d28c049c6c9b7580e0ba8dcd3c0d8f"
+    },
+    "generator": {
+      "path": "assets/photography/photography-fixed-chimney-chamber-and-cross-slide-lantern-01/v1.0.0/generate.py",
+      "size": 13271,
+      "sha256": "ae78df5a2209e72a78aaad4bdab3c974058df2c5758034a175b094b2b21e326e"
+    },
+    "render": {
+      "path": "assets/photography/photography-fixed-chimney-chamber-and-cross-slide-lantern-01/v1.0.0/thumbnail.png",
+      "size": 509201,
+      "sha256": "e06887e67eee2241b46de46a683e5eb809ad58614a94295867fb6a665c73a44d"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
