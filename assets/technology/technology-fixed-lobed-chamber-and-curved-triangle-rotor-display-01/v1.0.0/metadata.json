@@ -1,0 +1,42 @@
+{
+  "id": "technology-fixed-lobed-chamber-and-curved-triangle-rotor-display-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "technology",
+  "style": "source-preserved-low-poly",
+  "title": "Fixed Lobed Chamber And Curved Triangle Rotor Display",
+  "description": "One newly authored complete fixed lobed-chamber and triangular-rotor illustrative display. A continuous thick two-bulge casing has a genuinely open front and a separate whole annular backplate. One complete convex curved-sided triangular rotor sits eccentrically within the noncircular chamber, with a distinct round central boss and rear common shaft supported on a full bored pedestal. Two casing feet and the independent rear support join a common finite grounded bed. The three-sided curved rotor inside the symmetric pinched cavity is new whole geometry, not an old radial impeller with fewer blades or a crank disc placed inside a pump. Neither old source meshes nor component coordinates are imported. Four constant opaque PBR roles, metres Z up and actual horizontal bounds-centred ground datum. One prop zero scenes. Deliberate fixed static joins and visible air gaps only. The outline is an artistic schematic, not a working epitrochoid or manufactured rotor profile. No fuel, ignition, combustion, fluid ports, seals, gearing, timed motion, compression, power, efficiency, rotation envelope, toleranced fit, engineering instruction, manufacture, load or safety claim. No rig, animation or interaction.",
+  "bounds": {
+    "x": 0.8600000143051147,
+    "y": 0.5809999704360962,
+    "z": 0.6987511515617371,
+    "unit": "m"
+  },
+  "triangles": 1772,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/technology/technology-fixed-lobed-chamber-and-curved-triangle-rotor-display-01/v1.0.0/model.glb",
+      "size": 158172,
+      "sha256": "995fa463078126a61f9a6413f0a3b879d717eaa76a2592b6823c9926c345b2ab"
+    },
+    "blend": {
+      "path": "assets/technology/technology-fixed-lobed-chamber-and-curved-triangle-rotor-display-01/v1.0.0/source.blend",
+      "size": 810784,
+      "sha256": "ec521984a6058807cddd402ab8df8a3739f6c60a6faeacda75a38037f7c94feb"
+    },
+    "generator": {
+      "path": "assets/technology/technology-fixed-lobed-chamber-and-curved-triangle-rotor-display-01/v1.0.0/generate.py",
+      "size": 18460,
+      "sha256": "555df15ef681d1dde98562dbd70d93934a2fd3ca03af20420c44fe1b0ce530c1"
+    },
+    "render": {
+      "path": "assets/technology/technology-fixed-lobed-chamber-and-curved-triangle-rotor-display-01/v1.0.0/thumbnail.png",
+      "size": 525454,
+      "sha256": "489278afe23690d8861da504ec0797978c6bf90dd6fad1ddc925787cbfb39b79"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

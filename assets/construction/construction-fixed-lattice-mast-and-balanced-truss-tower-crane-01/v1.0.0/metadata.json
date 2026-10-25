@@ -1,0 +1,42 @@
+{
+  "id": "construction-fixed-lattice-mast-and-balanced-truss-tower-crane-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "construction",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Lattice Mast and Balanced Truss Tower Crane",
+  "description": "One newly authored whole fixed tower-crane illustration. Four complete corner posts and four continuous open diamond-web faces form a three-dimensional mast on a broad full ground foot. An upper platform and fixed broad slewing-style drum carry a separate head, one long triangular-section three-web main jib and an opposite shorter open counter-jib with one whole counterweight exterior. A complete open A-pylon and two fixed ties link the unequal arms; one separately supported window-open side cab and a fixed under-jib trolley, continuous suspension and complete empty open hook finish the whole. No old column I-beam, tripod, timber walking drum, cabin or hook mesh is extracted or rearranged. Main-jib triangular section, two unequal arms and open four-sided lattice tower are real geometry, not a scaled old single-column cantilever. Four opaque constant PBR materials, metres, native Z up, actual whole horizontal bounds-centred grounded origin. One prop zero scenes. A stylized reduced-proportion static construction-machine exterior only. No motor, winch internals, reeving, rotation, trolley travel, lifting, cable tension, load balance, operator access, assembly, construction procedure, foundation design, manufacture or engineering/safety performance. Cab lower body is opaque exterior, not an occupiable interior; upper window voids are real, no glass or person. Rigging, animation and interaction are not made.",
+  "bounds": {
+    "x": 5.4,
+    "y": 1.67,
+    "z": 4.77,
+    "unit": "m"
+  },
+  "triangles": 1780,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/construction/construction-fixed-lattice-mast-and-balanced-truss-tower-crane-01/v1.0.0/model.glb",
+      "size": 86108,
+      "sha256": "f8d549206b9e328c4ed45152b26333f53b87c39c13749acd9b40c3d41e5291dd"
+    },
+    "blend": {
+      "path": "assets/construction/construction-fixed-lattice-mast-and-balanced-truss-tower-crane-01/v1.0.0/source.blend",
+      "size": 742432,
+      "sha256": "efabb630059ccd08fa8ab84d2e185d0504b8e5cfeb8bba799e7a1d8ef48323f5"
+    },
+    "generator": {
+      "path": "assets/construction/construction-fixed-lattice-mast-and-balanced-truss-tower-crane-01/v1.0.0/generate.py",
+      "size": 29890,
+      "sha256": "077c1bce05a7fc3a58de2f6930feca077eea4f21ecef724809be7cb4ca2348cc"
+    },
+    "render": {
+      "path": "assets/construction/construction-fixed-lattice-mast-and-balanced-truss-tower-crane-01/v1.0.0/thumbnail.png",
+      "size": 539970,
+      "sha256": "6f5fe60203212b0fc50771a9887b73de00f3e9258d590b9e38fe6292b84aca05"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

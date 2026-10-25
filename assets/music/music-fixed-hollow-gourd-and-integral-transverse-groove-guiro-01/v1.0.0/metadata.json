@@ -1,0 +1,42 @@
+{
+  "id": "music-fixed-hollow-gourd-and-integral-transverse-groove-guiro-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "music",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Hollow Gourd and Integral Transverse Groove Guiro",
+  "description": "One newly authored whole hollow gourd-shaped scraper-instrument exterior, resting on a finite flattened belly. The long asymmetric pear body tapers to a rounded narrow closed end; its broad front-upper flank has genuine integral transverse ridge-and-valley geometry, not applied stripes or separate rings. Two separated real finger apertures through the upper shell expose the continuous inner cavity and finite wall reveals. Both ends are closed thick material with internal cavity end walls. There is no blowing neck, tone-window, pipe bundle or imported washboard panel, and no old numeric flute shell reused. One complete static instrument-shaped prop, zero scenes, two opaque constant PBR materials. No acoustic response, tuned pitch, sound production, playability, finger fit, hygiene, material species, cultural authenticity, manufacturing or safety claim; no animation or interaction supplied.",
+  "bounds": {
+    "x": 0.385,
+    "y": 0.14075290302898263,
+    "z": 0.13201540302898263,
+    "unit": "m"
+  },
+  "triangles": 8000,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/music/music-fixed-hollow-gourd-and-integral-transverse-groove-guiro-01/v1.0.0/model.glb",
+      "size": 326316,
+      "sha256": "c65bcff32f034a7d98d29bc95b2028fd79662c8cac4f2b8f0cd40903843153cd"
+    },
+    "blend": {
+      "path": "assets/music/music-fixed-hollow-gourd-and-integral-transverse-groove-guiro-01/v1.0.0/source.blend",
+      "size": 930448,
+      "sha256": "3475dcfa3950ca8f0c52284e4856009099261795f8ac8c11a8c866c74058a657"
+    },
+    "generator": {
+      "path": "assets/music/music-fixed-hollow-gourd-and-integral-transverse-groove-guiro-01/v1.0.0/generate.py",
+      "size": 10777,
+      "sha256": "36b168234bb82b5bcec7b217333510cab08881472668f2b53321f4c183919965"
+    },
+    "render": {
+      "path": "assets/music/music-fixed-hollow-gourd-and-integral-transverse-groove-guiro-01/v1.0.0/thumbnail.png",
+      "size": 453205,
+      "sha256": "cac88f878c3af331b2ff4ca7c0fbce6961d37a9432510390a1ea9b5d077729b5"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

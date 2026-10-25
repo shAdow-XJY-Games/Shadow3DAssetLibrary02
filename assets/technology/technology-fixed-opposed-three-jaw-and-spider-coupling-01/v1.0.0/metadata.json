@@ -1,0 +1,42 @@
+{
+  "id": "technology-fixed-opposed-three-jaw-and-spider-coupling-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "technology",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Opposed Three Jaw and Spider Coupling",
+  "description": "One newly authored complete static jaw-and-spider coupling appearance. Two independent whole annular hub bodies each have three integral projecting sector jaws; the facing upper hub is angularly staggered relative to the lower one. One complete six-lobed annular insert occupies the alternating spaces with small radial relief, and a genuine central bore remains open. Each hub and its jaws share one connected boundary; the orange insert is one body, not six loose wedges. Unlike the Cardan crossed trunnions or Oldham perpendicular sliding tongues, this whole connection has coaxial interleaved sector jaws and a distinct multi-lobed centre. Three closed editable meshes and three opaque constant PBR materials, metres Z up, full horizontal-bounds-centred ground origin; one connector model, zero scenes, no old mesh imported. Fixed artistic fit only, no shafts or external machinery. No rotation, torque transfer, elasticity, damping, alignment tolerance, interference fit, manufacture, installation, pressure, load or mechanical safety claim.",
+  "bounds": {
+    "x": 0.4400000000007335,
+    "y": 0.4400000000007335,
+    "z": 0.4,
+    "unit": "m"
+  },
+  "triangles": 2640,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/technology/technology-fixed-opposed-three-jaw-and-spider-coupling-01/v1.0.0/model.glb",
+      "size": 98828,
+      "sha256": "b69f4576cf056eee1920d43db058d2848afbf32eb2bfd54291dbb7eed20dc384"
+    },
+    "blend": {
+      "path": "assets/technology/technology-fixed-opposed-three-jaw-and-spider-coupling-01/v1.0.0/source.blend",
+      "size": 673332,
+      "sha256": "a8cc5c253c1f905d93c716b1511bec0fcd0addbbd4323266ab279326f8a7b916"
+    },
+    "generator": {
+      "path": "assets/technology/technology-fixed-opposed-three-jaw-and-spider-coupling-01/v1.0.0/generate.py",
+      "size": 10957,
+      "sha256": "3e497f068cab36d21cb5c3d09f0911444f0e34bf2b13fb5a0d131b4e8b8b49e8"
+    },
+    "render": {
+      "path": "assets/technology/technology-fixed-opposed-three-jaw-and-spider-coupling-01/v1.0.0/thumbnail.png",
+      "size": 491096,
+      "sha256": "e0b738f907727025e92f0904a10d489fdd31b77905ad0ba31211e6646fee5dc3"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
