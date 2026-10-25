@@ -1549,6 +1549,11 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary02",
       "commit": "95a052a3472b1321ddb71ebc2e60083cc2e4515e"
+    },
+    "original-qualified-batch-1179-volume02-20261025": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary02",
+      "commit": "784d8adaf62ca9926c6db77e7ee0faf59b78e621"
     }
   },
   "assets": [
@@ -52119,6 +52124,135 @@
       "status": "verified",
       "license": "All rights reserved",
       "sourceId": "original-qualified-batch-1176-volume02-20261025"
+    },
+    {
+      "id": "construction-fixed-sloping-chain-and-rear-stand-trencher-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "construction",
+      "style": "S01-clean-geometric",
+      "title": "Fixed Sloping Chain and Rear Stand Trencher",
+      "description": "One newly authored complete compact tracked chain-trencher static exterior. Two full closed rubber-style running bands with actual long ground soles carry a low cross-axled frame and tapered engine cover. A continuous rear standing platform and raised blank control hoop/console define the back of the machine rather than a seated slewing excavator cab. A thick forked front cradle and whole transverse root shaft carry one entirely new long downward-sloping guide boom, surrounded by a broad complete closed blunt-shoe chain appearance. Two full continuous side helical flights share a transverse shaft on complete bearing arms at the boom root. No existing excavator, hand saw or auger meshes are imported, resized, stripped or assembled as this machine; only generic closed-mesh/export helpers are reused. Four opaque solid PBR materials, metres, Z up, horizontal bounds centred over the two full finite track soles. One static prop, zero scenes, no terrain or workpiece. No engine, fuel, hydraulic system, chain articulation, cutting edges, trenching, spoil transport, steering, tracks movement, ergonomics, load, protective structure, operational or safety capability. Rigging, animation and interaction are not made or verified.",
+      "bounds": {
+        "x": 1.78,
+        "y": 3.346869,
+        "z": 1.37,
+        "unit": "m"
+      },
+      "triangles": 2804,
+      "materials": 4,
+      "files": {
+        "glb": {
+          "path": "assets/construction/construction-fixed-sloping-chain-and-rear-stand-trencher-01/v1.0.0/model.glb",
+          "size": 151500,
+          "sha256": "e69413b70af417e428226d2ad3cc8c1cb9048670386595f5efa689cd5bd80478"
+        },
+        "blend": {
+          "path": "assets/construction/construction-fixed-sloping-chain-and-rear-stand-trencher-01/v1.0.0/source.blend",
+          "size": 794560,
+          "sha256": "90954372e5d176bfc6f4c2561532f14d8bb0161c01150454308ea4743b41e709"
+        },
+        "generator": {
+          "path": "assets/construction/construction-fixed-sloping-chain-and-rear-stand-trencher-01/v1.0.0/generate.py",
+          "size": 29444,
+          "sha256": "aece1ecdee46dac18ef91055f6f89f9e424428dc712bc87e8b65ff2b87754de5"
+        },
+        "render": {
+          "path": "assets/construction/construction-fixed-sloping-chain-and-rear-stand-trencher-01/v1.0.0/thumbnail.png",
+          "size": 507831,
+          "sha256": "9b64b695d05e8234595f41cc56c0ad66feb052af37356cbbe7ad490b943b03ca"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1179-volume02-20261025"
+    },
+    {
+      "id": "construction-fixed-underbody-drum-and-rising-belt-road-miller-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "construction",
+      "style": "S01-clean-geometric",
+      "title": "Fixed Underbody Drum and Rising Belt Road Miller",
+      "description": "One newly authored complete road-milling-machine-style static exterior. A high long body stands on four separated short crawler units and whole fixed upright carrier posts. A complete wide blunt transverse drum occupies a genuine bottom-open thick canopy under the middle of the chassis, visibly separate from the tracks. An entire low primary belt rises forward from this lower region to a second much longer elevated discharge belt; both have full continuous upper and lower runs, complete end rollers, side beams and proper root yoke/stays. A forward high open platform with a fixed seat, blank console and rooted side rails lies ahead of the shouldered power cover. Unlike the old paver, there is no wide front receiving hopper or rear screed; unlike the combine, no forward harvesting reel/header, upper grain box or bent discharge tube; unlike the compact trencher, no downward cutting-chain boom or rear standing control station. Every visible profile and machine layout newly authored, with no old product mesh imported or scaled. Four opaque constant PBR materials, metres, Z up, centred full horizontal envelope and four full finite track soles. One prop zero scenes. No sharp teeth, pavement or workpiece. Static game-art exterior only: no milling, conveyor flow, crawler motion, steering, hydraulics, engine, lift, capacity, ergonomics, manufacture, assembly, protective or safety performance. Rigging, animation and interaction are not made or verified.",
+      "bounds": {
+        "x": 2.58,
+        "y": 7.469492,
+        "z": 3.249493,
+        "unit": "m"
+      },
+      "triangles": 2728,
+      "materials": 4,
+      "files": {
+        "glb": {
+          "path": "assets/construction/construction-fixed-underbody-drum-and-rising-belt-road-miller-01/v1.0.0/model.glb",
+          "size": 147060,
+          "sha256": "568bf488b16bdf79889418ab41715cfdc87f6fe9501b3df7dff1137bd0576196"
+        },
+        "blend": {
+          "path": "assets/construction/construction-fixed-underbody-drum-and-rising-belt-road-miller-01/v1.0.0/source.blend",
+          "size": 907952,
+          "sha256": "b17aa26d2bf1d655b2d75f60ed78db54a683db9ec75e97ec63bcb6b451bffc91"
+        },
+        "generator": {
+          "path": "assets/construction/construction-fixed-underbody-drum-and-rising-belt-road-miller-01/v1.0.0/generate.py",
+          "size": 31589,
+          "sha256": "3571b66a580c367cd7e2a6f88c02d01c60997b7df668593eb186843fdb1b5ef0"
+        },
+        "render": {
+          "path": "assets/construction/construction-fixed-underbody-drum-and-rising-belt-road-miller-01/v1.0.0/thumbnail.png",
+          "size": 521818,
+          "sha256": "ccda7ff9b2630346f5b7890da6665eabac3f2ede31e3bfe4b5c1d7c1bf0bf634"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1179-volume02-20261025"
+    },
+    {
+      "id": "professional-complete-horn-machine-and-shoe-last-workcorner-scene-01",
+      "version": "1.0.0",
+      "category": "scenes",
+      "assetKind": "scene",
+      "theme": "professional",
+      "style": "source-preserved-low-poly",
+      "title": "Complete Horn Machine and Shoe Last Workcorner",
+      "description": "One complete static shoe-repair preparation workcorner, one scene and zero new independent models. The entire qualified long-horn patching machine stands at the left on its own two shoes and pedestal, keeping the upper head, round horn, wheel, treadle and front space intact. A complete open worktable at the right rear supports one full split-forefoot-and-heel stretcher, laid across its finite tabletop. A whole shoe-last anvil tripod stands separately at the forward right with a real open floor interval from the table and the machine. This is a separated raised preparation surface and independent floor repair-head position beside a pedestal machine, not the old flat-bed sewing workstation/chair plus ironing-board and spool rack arrangement. All four original GLB binary buffers, complete mesh geometry, local normals, PBR roles, face assignments and internal hierarchy are byte-preserved at unit scale. Only whole-instance exact quarter turns/translations and one finite scene-only floor are new. No shoes, people, extracted components, new standalone furniture or counted duplicate models. No sewing, shoe fit, stretching, striking, tool transfer, correct occupational workflow, human reach, load, installation or safety certification. Rigging animation interaction not made.",
+      "bounds": {
+        "x": 3.0,
+        "y": 2.4000000953674316,
+        "z": 1.5519999265670776,
+        "unit": "m"
+      },
+      "triangles": 4620,
+      "materials": 15,
+      "files": {
+        "glb": {
+          "path": "assets/professional/professional-complete-horn-machine-and-shoe-last-workcorner-scene-01/v1.0.0/model.glb",
+          "size": 387832,
+          "sha256": "c09035a73381064afab45a3c0f3474e8b42dcdb6f4e11d37190125ff47d1720f"
+        },
+        "blend": {
+          "path": "assets/professional/professional-complete-horn-machine-and-shoe-last-workcorner-scene-01/v1.0.0/source.blend",
+          "size": 1612644,
+          "sha256": "3f995af8fea8044df73807b28cce50a8c38295bbf412147f932e7eb1579a3d4f"
+        },
+        "generator": {
+          "path": "assets/professional/professional-complete-horn-machine-and-shoe-last-workcorner-scene-01/v1.0.0/generate.py",
+          "size": 137282,
+          "sha256": "4eca50fe5a7e453e8c4dbf96c6435727740655511be7ac652c5fda55b81eee67"
+        },
+        "render": {
+          "path": "assets/professional/professional-complete-horn-machine-and-shoe-last-workcorner-scene-01/v1.0.0/thumbnail.png",
+          "size": 484031,
+          "sha256": "f5e37a6d6c72f6b5a505787d1c9571ae7afc4eae962649fbb3194c8b780213bf"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1179-volume02-20261025"
     }
   ]
 }
