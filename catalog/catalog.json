@@ -1469,6 +1469,11 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary02",
       "commit": "f3c9bc6edb5172b94f793a53015061125c35b820"
+    },
+    "original-qualified-batch-1138-volume02-20261025": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary02",
+      "commit": "bf9613e8d2c688526e33ad9ae6fc75e6b66a385a"
     }
   },
   "assets": [
@@ -50276,6 +50281,135 @@
       "status": "verified",
       "license": "All rights reserved",
       "sourceId": "original-qualified-batch-1135-volume02-20261025"
+    },
+    {
+      "id": "animal-static-broad-lobed-abdomen-leaf-leg-insect-01",
+      "version": "1.0.0",
+      "category": "modular",
+      "assetKind": "prop",
+      "theme": "animal",
+      "style": "warm-handcrafted-village",
+      "title": "Static Broad-Lobed-Abdomen Leaf-Leg Insect",
+      "description": "One newly authored whole static stylised leaf insect. A small angular head and narrow front thorax flow into a much wider flattened asymmetric-lobed leaf-shaped abdomen, with a genuinely raised longitudinal ridge and alternating low segment folds. Six complete outward bent legs have broad irregularly widened leaf-like upper portions narrowing into fine lower limbs and finite grounded toe ends. Two fine tapering antennae and small lateral eyes complete the body. All numeric body and limb stations are newly authored, not a green cicada with roof wings removed or a mantis with its forearms deleted. One whole animal model zero scenes. Opaque simplified leaf-mimicking exterior, not an exact species or instar, biological camouflage performance, anatomy, flight, locomotion, rigging or animation claim.",
+      "bounds": {
+        "x": 1.432000041,
+        "y": 2.481575251,
+        "z": 0.452979803,
+        "unit": "m"
+      },
+      "triangles": 1684,
+      "materials": 4,
+      "files": {
+        "glb": {
+          "path": "assets/animal/animal-static-broad-lobed-abdomen-leaf-leg-insect-01/v1.0.0/model.glb",
+          "size": 103112,
+          "sha256": "0251d6a9138aee3f0bf9898aacf5baa73824c646f3af6866ca197f85f719ddbd"
+        },
+        "blend": {
+          "path": "assets/animal/animal-static-broad-lobed-abdomen-leaf-leg-insect-01/v1.0.0/source.blend",
+          "size": 630628,
+          "sha256": "fe9eb45e8b9b5173c7376bd906580ffcd8690c62ec620ebc1703e98ee7863511"
+        },
+        "generator": {
+          "path": "assets/animal/animal-static-broad-lobed-abdomen-leaf-leg-insect-01/v1.0.0/generate.py",
+          "size": 29531,
+          "sha256": "485166990ed61030eda5e4e4b33e354aa0ac5efc8a0755d9a09dea41d06dac12"
+        },
+        "render": {
+          "path": "assets/animal/animal-static-broad-lobed-abdomen-leaf-leg-insect-01/v1.0.0/thumbnail.png",
+          "size": 478562,
+          "sha256": "e9925abd14eec9ba3f47d494510af51022bc82f11cc987299ff4ddb3f3010bb9"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1138-volume02-20261025"
+    },
+    {
+      "id": "aviation-static-long-boom-and-twin-skid-helicopter-01",
+      "version": "1.0.0",
+      "category": "vehicles",
+      "assetKind": "prop",
+      "theme": "aviation",
+      "style": "source-preserved-low-poly",
+      "title": "Static Long Boom And Twin Skid Helicopter",
+      "description": "One newly authored complete low-poly helicopter-style exterior. A deep short rounded cabin with integral opaque canopy facets narrows behind into a separately rooted long rising tapered tail boom. A raised mast and full central hub carry two continuous broad opposite main-rotor blades in a horizontal plane, while a separate lateral tail shaft carries a complete smaller two-ended rotor in a vertical plane beside the tall tail fin. Two whole long upturned-nose landing skids connect through four splayed struts to the cabin underside. A small whole tailplane crosses the tail boom. This is not a canard airplane with wings rotated, nor the old four guarded-rotor inspection drone with a different rotor count: the cabin, long boom, orthogonal rotor relationships and landing structure are authored together from new numerical shapes. One static model zero scenes, four opaque constant PBR roles, metres Z up, horizontal bounds centred and both complete flat skid soles at ground. Opaque canopy coloring is integral to the closed cabin surface, not glazing or a modelled cockpit interior. No real aircraft, rotor mechanism, swashplate, engine, controls, occupant, rig, animation or interaction. No flight, thrust, aerodynamics, stability, ground or rotor clearance certification, load, manufacture, operational instructions or aviation safety claim. All blades and linkages are fixed artistic shapes only.",
+      "bounds": {
+        "x": 3.0,
+        "y": 3.189789295196533,
+        "z": 1.659999966621399,
+        "unit": "m"
+      },
+      "triangles": 620,
+      "materials": 4,
+      "files": {
+        "glb": {
+          "path": "assets/aviation/aviation-static-long-boom-and-twin-skid-helicopter-01/v1.0.0/model.glb",
+          "size": 64576,
+          "sha256": "d801e3b671ef8b6552e328cf0c9904d5931dc04715e941fa5652f62806ddbad2"
+        },
+        "blend": {
+          "path": "assets/aviation/aviation-static-long-boom-and-twin-skid-helicopter-01/v1.0.0/source.blend",
+          "size": 695888,
+          "sha256": "f052de9d1064c3d4cf87d66038883be9c37afcc92242aa5623d7b7accc55d219"
+        },
+        "generator": {
+          "path": "assets/aviation/aviation-static-long-boom-and-twin-skid-helicopter-01/v1.0.0/generate.py",
+          "size": 17700,
+          "sha256": "5c13d8b59b6b9b78446153cb3cbcb49544ac7d80ccd3d8b001b0246eb40d1f41"
+        },
+        "render": {
+          "path": "assets/aviation/aviation-static-long-boom-and-twin-skid-helicopter-01/v1.0.0/thumbnail.png",
+          "size": 523793,
+          "sha256": "3ebe8d11ea751c8ebf9c9e14cfee0adb0a5104537c8dbae6720fcc885ffcec31"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1138-volume02-20261025"
+    },
+    {
+      "id": "construction-fixed-narrow-shoe-and-bellows-leg-rammer-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "construction",
+      "style": "source-preserved-low-poly",
+      "title": "Fixed Narrow Shoe and Bellows Leg Rammer",
+      "description": "One newly authored complete fixed upright-rammer-style exterior. A narrow thick grounded shoe with a raised front lip supports a full inset mounting block, short lower leg and one continuous tall corrugated boot exterior. A proud collar joins that leg to a broad offset upper drive-housing appearance, with an entire upper tank-shaped cover and blank cap. Independent complete side covers and a rear blank control belong to the same machine. One continuous wraparound handle rises from two body roots around an actual empty upper rear space and carries a broad transverse grip. The whole high boot/upper machine over a narrow foot differs from the broad low plate compactor and from the long T-grip breaker with a narrow end rod; no old model geometry imported. Three opaque constant PBR roles, metres Z up and centred ground datum, one prop zero scenes. Static illustrative equipment only: no fuel, spring internals, vibration, reciprocation, impact, soil compaction, handling guidance, engine or control function, stability, manufacture or safety claim. Rigging animation interaction not made.",
+      "bounds": {
+        "x": 0.47541937232017517,
+        "y": 0.5509999990463257,
+        "z": 1.00600004196167,
+        "unit": "m"
+      },
+      "triangles": 2640,
+      "materials": 3,
+      "files": {
+        "glb": {
+          "path": "assets/construction/construction-fixed-narrow-shoe-and-bellows-leg-rammer-01/v1.0.0/model.glb",
+          "size": 231820,
+          "sha256": "ede429d6076e4914e256377e312415b2391366972fd532509f00589e456ae0f7"
+        },
+        "blend": {
+          "path": "assets/construction/construction-fixed-narrow-shoe-and-bellows-leg-rammer-01/v1.0.0/source.blend",
+          "size": 889536,
+          "sha256": "aebc01ac6b1faf55d62c720d8deb53f2b55091904e668b23dfa70a0ab2ba8057"
+        },
+        "generator": {
+          "path": "assets/construction/construction-fixed-narrow-shoe-and-bellows-leg-rammer-01/v1.0.0/generate.py",
+          "size": 16821,
+          "sha256": "c8434f170114a153aef893bc8944b2908a031d847897314c95596eb4c7937f9e"
+        },
+        "render": {
+          "path": "assets/construction/construction-fixed-narrow-shoe-and-bellows-leg-rammer-01/v1.0.0/thumbnail.png",
+          "size": 488194,
+          "sha256": "7c1f55d3e2e505da030d44757c32f304db83e02a7a1d7c1d5d765ecccff2aa84"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1138-volume02-20261025"
     }
   ]
 }
