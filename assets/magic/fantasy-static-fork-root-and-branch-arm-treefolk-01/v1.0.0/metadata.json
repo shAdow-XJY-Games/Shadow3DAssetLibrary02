@@ -1,0 +1,42 @@
+{
+  "id": "fantasy-static-fork-root-and-branch-arm-treefolk-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "magic",
+  "style": "S01-clean-geometric",
+  "title": "Static Fork Root and Branch Arm Treefolk",
+  "description": "One wholly newly authored stylized treefolk character in a fixed standing pose: a tall irregular whole trunk carries an integral sculpted nose, recessed eye bands and small mouth region, with a modeled broken crown. Two separated bent root legs terminate in broad whole forked grounded root feet. Two long asymmetrically bent branch arms terminate in three genuine separated tapered branch fingers each. Four upward branching crown limbs extend from the trunk, with no leafy canopy or clothing disguise. This is not an existing root stump with painted eyes, a human worker recolored brown, or imported meshes rearranged. All component outlines and full body proportions are authored here. Three opaque PBR materials, metre Z-up, whole horizontal-bounds-centred ground origin. One static fictional character prop, zero scenes. No rig, animation, walking, interaction, collision, biological realism, strength, growth or safety claims.",
+  "bounds": {
+    "x": 2.3200000000000003,
+    "y": 0.7516,
+    "z": 2.633132905095853,
+    "unit": "m"
+  },
+  "triangles": 1340,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/magic/fantasy-static-fork-root-and-branch-arm-treefolk-01/v1.0.0/model.glb",
+      "size": 92140,
+      "sha256": "8cd2c6d94548aec5c8b81cb0fa95b2c9d27f456bdf076cb88cde11b5908017ba"
+    },
+    "blend": {
+      "path": "assets/magic/fantasy-static-fork-root-and-branch-arm-treefolk-01/v1.0.0/source.blend",
+      "size": 667888,
+      "sha256": "2a9b569f850235086ae9ee95c823857e7725ac4a509ff0c67553f1887b57a93f"
+    },
+    "generator": {
+      "path": "assets/magic/fantasy-static-fork-root-and-branch-arm-treefolk-01/v1.0.0/generate.py",
+      "size": 12707,
+      "sha256": "ec5ad67aac759fa5737b62a28e15fe0c2514ffb2b498a7700e4451815736eb23"
+    },
+    "render": {
+      "path": "assets/magic/fantasy-static-fork-root-and-branch-arm-treefolk-01/v1.0.0/thumbnail.png",
+      "size": 429504,
+      "sha256": "3f339ca5c03dbf2dba7563f69fe0ab2059dcd049c44a5c5233f8699c566532e1"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

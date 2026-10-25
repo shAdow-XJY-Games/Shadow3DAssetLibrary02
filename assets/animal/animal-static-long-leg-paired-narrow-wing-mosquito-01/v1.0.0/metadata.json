@@ -1,0 +1,42 @@
+{
+  "id": "animal-static-long-leg-paired-narrow-wing-mosquito-01",
+  "version": "1.0.0",
+  "category": "modular",
+  "assetKind": "prop",
+  "theme": "animal",
+  "style": "warm-handcrafted-village",
+  "title": "Static Long-Leg Paired Narrow-Wing Mosquito",
+  "description": "One newly authored complete stylised mosquito-like insect in a fixed six-foot pose. A small rounded head, short narrow neck and high compact thorax lead into a long slender downward-tapered abdomen; a thin continuous forward-downward proboscis and two slender antennae extend from the head. One pair of complete narrow swept-back finite-thickness wings lies above the abdomen, unlike four broad flat-spread dragonfly wings or a stout four-wing bumblebee. Six long angular whole legs reach wide finite ground toes and lift the body high; the old short insect legs, head and wings are not imported or scaled. Two small dark lateral eye masses finish the whole. One static model zero scenes, deliberately enlarged stylised opaque exterior, not life-size scale or specimen anatomy. No wing translucency, exact veins, species/sex, feeding, biting, disease, flight, gait, rig, animation or ecological/health function claim.",
+  "bounds": {
+    "x": 1.773259163,
+    "y": 2.185736179,
+    "z": 1.227857709,
+    "unit": "m"
+  },
+  "triangles": 1440,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/animal/animal-static-long-leg-paired-narrow-wing-mosquito-01/v1.0.0/model.glb",
+      "size": 87360,
+      "sha256": "1afded33c03e3687b76dcdb3dbe122994ea8424665b83c05a617b63bb360d44b"
+    },
+    "blend": {
+      "path": "assets/animal/animal-static-long-leg-paired-narrow-wing-mosquito-01/v1.0.0/source.blend",
+      "size": 637008,
+      "sha256": "c8aa4196186f3581a8e6863a5078a26bb162c8850edc8e99e3e81f66f850c05f"
+    },
+    "generator": {
+      "path": "assets/animal/animal-static-long-leg-paired-narrow-wing-mosquito-01/v1.0.0/generate.py",
+      "size": 30289,
+      "sha256": "73733c10c17c684acbc050462803568159a458664b0214e8e7708169faa6af1b"
+    },
+    "render": {
+      "path": "assets/animal/animal-static-long-leg-paired-narrow-wing-mosquito-01/v1.0.0/thumbnail.png",
+      "size": 488269,
+      "sha256": "022955333682478848e1ee15cdea40d69274f685af2cf56077213278e7fd728e"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
