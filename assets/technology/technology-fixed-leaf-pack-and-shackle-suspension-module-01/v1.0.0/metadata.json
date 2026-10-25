@@ -1,0 +1,42 @@
+{
+  "id": "technology-fixed-leaf-pack-and-shackle-suspension-module-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "technology",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Leaf Pack and Shackle Suspension Module",
+  "description": "One complete newly authored fixed leaf-spring suspension display module. A full upper mounting rail carries paired fixed-end hanger cheeks and a separate opposite upper hanger with two sloping shackle links. One long bowed main leaf joins two genuinely bored circular end eyes and cross pins; three shorter whole curved leaves nest below it. A complete short transverse axle, upper clamp plate, two continuous bent U clamps and four complete hexagonal nut exteriors join the central pack. It is not a helical spring rider, a wheeled vehicle with more axle hangers or a standalone coil. All geometry newly authored; no old mesh imported. Three opaque PBR materials, metres, Z up and actual full-bounds-centred ground origin. One fixed prop zero scenes, no whole vehicle. Deliberate fixed overlapping roots, no threaded fit or engineered bearing. No elasticity, spring rate, damping, suspension travel, load, vehicle compatibility, installation, manufacture, motion or safety claim. Rigging and interaction not made.",
+  "bounds": {
+    "x": 1.7,
+    "y": 0.62,
+    "z": 0.6485595086466563,
+    "unit": "m"
+  },
+  "triangles": 2000,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/technology/technology-fixed-leaf-pack-and-shackle-suspension-module-01/v1.0.0/model.glb",
+      "size": 108312,
+      "sha256": "809801536cbdf239d4b5f3746593c55bd59174e1380d2ad220f2030e57a390b3"
+    },
+    "blend": {
+      "path": "assets/technology/technology-fixed-leaf-pack-and-shackle-suspension-module-01/v1.0.0/source.blend",
+      "size": 735812,
+      "sha256": "854237161dfc3ad35ed629b1ef30ac3d2f1793b4a8ee654c85e3dd821d9927ab"
+    },
+    "generator": {
+      "path": "assets/technology/technology-fixed-leaf-pack-and-shackle-suspension-module-01/v1.0.0/generate.py",
+      "size": 12106,
+      "sha256": "d8543dc253d67a66f11dc6ff820b61cec111c1f772056572a5741e26a8ac2d94"
+    },
+    "render": {
+      "path": "assets/technology/technology-fixed-leaf-pack-and-shackle-suspension-module-01/v1.0.0/thumbnail.png",
+      "size": 351380,
+      "sha256": "1b7c0e684014aee16a35961338b9ab4cdff9c11002396315199a08d67bae1e90"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

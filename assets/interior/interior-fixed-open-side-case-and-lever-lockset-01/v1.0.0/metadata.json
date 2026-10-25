@@ -1,0 +1,42 @@
+{
+  "id": "interior-fixed-open-side-case-and-lever-lockset-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "interior",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Open Side Case and Lever Lockset",
+  "description": "One complete newly authored fixed open-side door lockset appearance. One thick continuous back-and-rim case joins a projecting faceplate, with two genuine independent side ports. A whole blunt bevel-ended upper tongue and separate whole rectangular lower bolt project through the ports, held by rear guide roots. A complete transverse spindle, bored bearing collar and fixed visible cam connect to a full offset exterior lever handle. The inspection side is deliberately uncovered; it is not a closed working lock. No pin tumblers, cylinder, key, security profile or functioning internal mechanism is represented. Unlike a U-shackle padlock or raised-loop draw latch this whole assembly has an open box, twin side exits and a transverse handle. No old meshes imported. Three opaque PBR materials, metres, Z up and horizontal-bounds-centred ground origin. One static prop zero scenes. No locking, burglary resistance, key compatibility, motion, real lock construction, installation, access control or safety claim. Rigging and interaction not made.",
+  "bounds": {
+    "x": 0.305,
+    "y": 0.17200000000000001,
+    "z": 0.21000000000000002,
+    "unit": "m"
+  },
+  "triangles": 808,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/interior/interior-fixed-open-side-case-and-lever-lockset-01/v1.0.0/model.glb",
+      "size": 39092,
+      "sha256": "e8e94ec5ad9cce2cadd83e2ecad775f1a2453493c08086c2f458ca4c3f8c9544"
+    },
+    "blend": {
+      "path": "assets/interior/interior-fixed-open-side-case-and-lever-lockset-01/v1.0.0/source.blend",
+      "size": 611308,
+      "sha256": "3b5189745e830343e054ecdf21f481866c03833ae87e11a8aeddbb710095d1ba"
+    },
+    "generator": {
+      "path": "assets/interior/interior-fixed-open-side-case-and-lever-lockset-01/v1.0.0/generate.py",
+      "size": 11670,
+      "sha256": "7156361b86089319e619819f5f0064cbcc5450ffd67ff5ba598767afab88d846"
+    },
+    "render": {
+      "path": "assets/interior/interior-fixed-open-side-case-and-lever-lockset-01/v1.0.0/thumbnail.png",
+      "size": 467310,
+      "sha256": "828f73df6cff4d8a8e299ab0345a5ed0cb57491fd045e3a9194d15b4e2a6ea5b"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

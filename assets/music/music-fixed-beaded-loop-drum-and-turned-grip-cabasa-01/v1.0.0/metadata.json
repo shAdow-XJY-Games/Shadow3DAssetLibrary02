@@ -1,0 +1,42 @@
+{
+  "id": "music-fixed-beaded-loop-drum-and-turned-grip-cabasa-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "music",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Beaded Loop Drum and Turned Grip Cabasa",
+  "description": "One newly authored complete fixed-display cabasa-style beaded-loop percussion prop: a single turned grip with a broad flat butt enters the whole wide short cylinder core, with two full rounded wooden end discs retaining five entire closed beaded loops around the cylinder. Each loop is a continuous closed swept surface whose radius alternates from short thin links into rounded faceted beads; it is not a row of loose unconnected balls or a painted stripe. The original opaque core is visible between the loops. All geometry is new, no earlier yo-yo flange, cord, ratchet wheel or reed is extracted or transformed. The complete grip-core-end-disc-and-external-beaded-loop organization differs from the narrow axle and wound single string of the old yo-yo and the open frame, toothed wheel and anchored reed of the old noisemaker. Nine closed editable meshes with four opaque constant PBR appearances, one model and zero scenes. Metres, native Z up, horizontal bounds-centred ground origin on the finite flat grip butt. This is a fixed static illustrative pose: beads have small hidden core overlaps as display attachments, not a freely moving chain mechanism. No sound, friction, rotation, bead articulation, physical balance, manufacturing, child suitability, use or safety performance is claimed; no rig, animation or interaction is made.",
+  "bounds": {
+    "x": 0.132,
+    "y": 0.132,
+    "z": 0.27,
+    "unit": "m"
+  },
+  "triangles": 12624,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/music/music-fixed-beaded-loop-drum-and-turned-grip-cabasa-01/v1.0.0/model.glb",
+      "size": 918300,
+      "sha256": "1dd97b58cbe8f0ffa7e7da8678e5d82ac5b577f34a5215753972e20c7043c11c"
+    },
+    "blend": {
+      "path": "assets/music/music-fixed-beaded-loop-drum-and-turned-grip-cabasa-01/v1.0.0/source.blend",
+      "size": 1263436,
+      "sha256": "9fa1d9f9425a5965a12a820fdf08158459f4bf330f0810767fd8aa352d5848a9"
+    },
+    "generator": {
+      "path": "assets/music/music-fixed-beaded-loop-drum-and-turned-grip-cabasa-01/v1.0.0/generate.py",
+      "size": 10231,
+      "sha256": "ad426151f5f99d1c7a70b020e021acce064f73deba88a587404c42ed68c1482e"
+    },
+    "render": {
+      "path": "assets/music/music-fixed-beaded-loop-drum-and-turned-grip-cabasa-01/v1.0.0/thumbnail.png",
+      "size": 411137,
+      "sha256": "175c72ba72fb445178c54f04e9c8847bb85883cd767f8172c84745b49c60593b"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "music-fixed-perforated-windchest-and-cluster-pipe-mouth-organ-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "music",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Pierced Windchest and Cluster Pipe Mouth Organ",
+  "description": "One newly authored complete static cluster-pipe mouth-organ appearance. A thick open-interior rectangular windchest with full flat bottom supports one separate thick lid with twelve actual through sockets. Twelve complete unequal-height thick-walled pipes penetrate those sockets in a three-dimensional four-by-three cluster; each pipe has a real open top, blind lower floor and real small forward side aperture. One continuous curved hollow mouth branch enters the chest front wall and ends in an open lip. The new whole windchest, pierced lid, clustered socketed pipes and curved mouth-branch topology is not a panflute pipe-count variant or a keyboard pipe-organ with its keyboard removed. No old component or full asset is extracted or transformed; ordinary mesh tools are reused. One whole model, zero scenes, four opaque PBR appearances, metre Z-up, horizontal bounds-centred ground origin. A generic sheng-inspired static art interpretation, not an exact historical or regional instrument. Interior branch and windchest communication, reeds, acoustic pitch, air supply, finger operation, performance, physical balance, manufacturing and safety are not built or validated. Fixed hidden socket/pipe and branch/wall overlaps represent display support, not airtight joints; no rigging, animation or interaction.",
+  "bounds": {
+    "x": 0.188,
+    "y": 0.30145353935675945,
+    "z": 0.81,
+    "unit": "m"
+  },
+  "triangles": 4180,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/music/music-fixed-perforated-windchest-and-cluster-pipe-mouth-organ-01/v1.0.0/model.glb",
+      "size": 164636,
+      "sha256": "89e6b222daa3885cc2425268810e8413c43fa4bdc1d03730a1adcf2dfe603b75"
+    },
+    "blend": {
+      "path": "assets/music/music-fixed-perforated-windchest-and-cluster-pipe-mouth-organ-01/v1.0.0/source.blend",
+      "size": 834740,
+      "sha256": "4fadf57b3dee3ad350e78a55b86ca77205e7978e4156d52287e93e2efacb39f2"
+    },
+    "generator": {
+      "path": "assets/music/music-fixed-perforated-windchest-and-cluster-pipe-mouth-organ-01/v1.0.0/generate.py",
+      "size": 12680,
+      "sha256": "c2ef8232e486ed8a8e348bd0a32e83244d2877061b53f974ff7d273f5f0ba710"
+    },
+    "render": {
+      "path": "assets/music/music-fixed-perforated-windchest-and-cluster-pipe-mouth-organ-01/v1.0.0/thumbnail.png",
+      "size": 424962,
+      "sha256": "ff6097a0a05e0393ab0d5c1529f1ac59f2a759052b786487aef14b19f3104318"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

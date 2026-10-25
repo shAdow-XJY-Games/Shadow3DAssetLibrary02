@@ -1,0 +1,42 @@
+{
+  "id": "construction-fixed-wide-front-drum-and-articulated-waist-roller-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "construction",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Wide Front Drum and Articulated Waist Roller",
+  "description": "One independently authored complete road-roller-style machine exterior. One very broad continuous front steel-drum body with integral stepped ends is held by a complete forward-open U fork and transverse axle. A low lower tongue, separate raised rear chassis and whole retained vertical pin form a visible fixed articulated-waist relation. Behind it are two complete annular rear tyres/hubs, a short sloped power cover and a full forward operator deck with empty seat, blank cowl, true open steering wheel and a one-piece two-post overhead frame/canopy. A separately rooted entry step completes the exterior. All coordinates newly drawn, no grader arch/blade, paver hopper/screed/track or old vehicle meshes imported. Structural novelty is the entire drum/fork/waist and compact rear station topology, not altered wheel count, colour or vehicle proportions. Four opaque constant PBR roles, metres, Z up and horizontally bounds-centred whole finite three-contact ground datum. One complete prop, zero scenes. Empty static exterior only: no engine/hydraulic internals, compaction, drive, steering, articulation travel, wheel/drum rotation, traction, occupancy, ergonomic fit, load, protective frame, manufacture, equipment operation or engineering/safety capability. Rigging, animation and interaction are not made.",
+  "bounds": {
+    "x": 2.12,
+    "y": 3.47,
+    "z": 2.37,
+    "unit": "m"
+  },
+  "triangles": 2392,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/construction/construction-fixed-wide-front-drum-and-articulated-waist-roller-01/v1.0.0/model.glb",
+      "size": 127216,
+      "sha256": "3100bf9b1c4865abd80471671dd8383278197d44e8fec382b2a8e29a8556a641"
+    },
+    "blend": {
+      "path": "assets/construction/construction-fixed-wide-front-drum-and-articulated-waist-roller-01/v1.0.0/source.blend",
+      "size": 791844,
+      "sha256": "44b6ca486a5e037a766b5c344d35b4013361884d8d3b9bc047bc4e0feae58edc"
+    },
+    "generator": {
+      "path": "assets/construction/construction-fixed-wide-front-drum-and-articulated-waist-roller-01/v1.0.0/generate.py",
+      "size": 30452,
+      "sha256": "a1867c7fbe26dedc81a7cd4ae710b18f72e17166b77adbf300f41611c9401287"
+    },
+    "render": {
+      "path": "assets/construction/construction-fixed-wide-front-drum-and-articulated-waist-roller-01/v1.0.0/thumbnail.png",
+      "size": 556120,
+      "sha256": "409b91bbfc801bd7a8e04429a1e8a9d573d1b0cc409f4606c9f745c158f9fa8f"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
