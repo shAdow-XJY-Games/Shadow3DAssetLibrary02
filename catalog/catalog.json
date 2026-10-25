@@ -1459,6 +1459,11 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary02",
       "commit": "7d5bcb1c064c4a82fc4f9b21ea5d904aa04be65b"
+    },
+    "original-qualified-batch-1132-volume02-20261025": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary02",
+      "commit": "e5cb03575445e22288f2dedcb3864e4197ddb703"
     }
   },
   "assets": [
@@ -50094,6 +50099,49 @@
       "status": "verified",
       "license": "All rights reserved",
       "sourceId": "original-qualified-batch-1131-volume02-20261025"
+    },
+    {
+      "id": "music-fixed-slotted-tube-and-low-trough-shaker-frame-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "music",
+      "style": "S01-clean-geometric",
+      "title": "Fixed Slotted Tube and Low Trough Shaker Frame",
+      "description": "One independently authored complete bamboo-style slotted-tube shaker frame in a fixed pose. A continuous low trough with two integral side walls and a finite flat sole carries two lower locating stems. Two separately authored stopped-bottom hollow tubes rise above it; each has a real deep inner cavity and a long side-open upper half-shell rather than a simple open circular pipe mouth. A full tall side-post and top-crosspiece frame, central upright and short fixed upper suspension ties hold the complete illustrated assembly. Each tube is one continuous closed material boundary from bottom disc through outer wall, variable-height open edge and complete inner wall; no painted opening. Unlike the bound panflute the main tubes are not tied into a mouth-aligned bank; unlike the suspended tubular-bell frame they have closed bottoms, deep longitudinal side openings and lower stems seated in a shared low trough, without a damper or pedal. All visible coordinates new, no old pipe or rack mesh extracted. Four opaque constant PBR roles, metres native Z up and horizontal full-bounds-centred ground datum. One static whole instrument-shaped prop zero scenes. Angklung-inspired exterior only, not a historically exact example: no acoustic tuning, sound, shaking clearance, suspension behaviour, playable mechanism, joint travel, material authenticity, load, fabrication or safety claim. No animation, rigging or interaction.",
+      "bounds": {
+        "x": 0.62,
+        "y": 0.131,
+        "z": 0.755,
+        "unit": "m"
+      },
+      "triangles": 1080,
+      "materials": 4,
+      "files": {
+        "glb": {
+          "path": "assets/music/music-fixed-slotted-tube-and-low-trough-shaker-frame-01/v1.0.0/model.glb",
+          "size": 55428,
+          "sha256": "12b7fc43e5278925560029789b2c7d5e2a683f21d0b181f16b6a6f914af6ba1c"
+        },
+        "blend": {
+          "path": "assets/music/music-fixed-slotted-tube-and-low-trough-shaker-frame-01/v1.0.0/source.blend",
+          "size": 672568,
+          "sha256": "ecd6eabaa7e9e3a4a7f046596d8903eed2233d9b9c76c669a6376d86d39d343e"
+        },
+        "generator": {
+          "path": "assets/music/music-fixed-slotted-tube-and-low-trough-shaker-frame-01/v1.0.0/generate.py",
+          "size": 11449,
+          "sha256": "e2b1d03cf9e41453481ad93a530ce0804ac39e8d0b0016c5536b3f27e3b753c2"
+        },
+        "render": {
+          "path": "assets/music/music-fixed-slotted-tube-and-low-trough-shaker-frame-01/v1.0.0/thumbnail.png",
+          "size": 458564,
+          "sha256": "868b2e15f691f7a8d7cf8fcddfb50c86d1d97f596622b8239fa2ed106b5a4f00"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1132-volume02-20261025"
     }
   ]
 }
