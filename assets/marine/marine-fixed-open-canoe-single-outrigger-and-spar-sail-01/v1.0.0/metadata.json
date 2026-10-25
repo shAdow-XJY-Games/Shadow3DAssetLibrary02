@@ -1,0 +1,42 @@
+{
+  "id": "marine-fixed-open-canoe-single-outrigger-and-spar-sail-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "marine",
+  "style": "source-preserved-low-poly",
+  "title": "Open Canoe Single Outrigger And Spar Sail",
+  "description": "One newly authored complete fixed single-outrigger sailing-canoe-inspired exterior. One long pointed thick main hull has a genuinely open interior with continuous floor and side walls, two transverse full seat boards and an independent low mast step. A much narrower complete solid pointed float lies on only one side, joined to the main hull by two whole downward-curving booms. A leaning mast carries two long divergent spars meeting at one low forward corner; one continuous thick triangular sail has a shallow bowed centre between those spars. The main hull, offset float, connecting arms and two-spar sail form one new asymmetrical whole vessel, not an old kayak with a copied pontoon or an imported windsurf sail placed on a pedalboat. Entirely new numeric geometry, four opaque constant PBR roles, metres Z up, horizontal envelope centred, finite flat hull and float undersides for dry display. One prop zero scenes. Simplified generic visual art, not an exact traditional or cultural reconstruction. No water, occupant, paddle, rudder, rigging motion, sail adjustment, buoyancy, watertightness, flotation, stability, aerodynamic or hydrodynamic performance, steering, load, human fit, construction specification, operating instruction or safety capability. No animation or interaction.",
+  "bounds": {
+    "x": 2.7200000286102295,
+    "y": 1.2960000038146973,
+    "z": 2.290316104888916,
+    "unit": "m"
+  },
+  "triangles": 1072,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/marine/marine-fixed-open-canoe-single-outrigger-and-spar-sail-01/v1.0.0/model.glb",
+      "size": 100012,
+      "sha256": "323a2ed59589955d0f98ad3f0cb53a0353b97a8b62e43975e82dd1d85b48a83a"
+    },
+    "blend": {
+      "path": "assets/marine/marine-fixed-open-canoe-single-outrigger-and-spar-sail-01/v1.0.0/source.blend",
+      "size": 727712,
+      "sha256": "ce540af0c74241459247ec1431428156a29c01606c029dcef740c1f5747dcee7"
+    },
+    "generator": {
+      "path": "assets/marine/marine-fixed-open-canoe-single-outrigger-and-spar-sail-01/v1.0.0/generate.py",
+      "size": 16922,
+      "sha256": "d8f80429e0d6834430b59a94feb5f7454de79dd4609dbdc6217edc83c1076899"
+    },
+    "render": {
+      "path": "assets/marine/marine-fixed-open-canoe-single-outrigger-and-spar-sail-01/v1.0.0/thumbnail.png",
+      "size": 535654,
+      "sha256": "f29257c56bef2c6706d41a2377a5ce63a140ff8ad63068052c9bc81f6abeafe5"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

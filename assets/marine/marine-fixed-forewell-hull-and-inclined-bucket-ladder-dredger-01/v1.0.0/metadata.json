@@ -1,0 +1,42 @@
+{
+  "id": "marine-fixed-forewell-hull-and-inclined-bucket-ladder-dredger-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "marine",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Forewell Hull and Inclined Bucket Ladder Dredger",
+  "description": "One newly authored complete dry-display chain-bucket dredger vessel exterior. One joined flat-bottom work hull has two chamfered forward bow arms around a genuine long front-open ladder well and a connected aft deck. A complete oblique twin-rail ladder descends through that well beyond the bow, with two full transverse drum axles, whole thick bored drums, paired continuous closed route bands and eight entire thick open empty scoops in fixed tangent-facing poses. Four whole inclined deck bearing supports carry the upper axle. A compact closed aft station, separate plain drive housing and elevated whole open U-section rear discharge trough on two full portal stands belong to the same vessel. All hull outlines, ladder, drums, scoop walls and layout coordinates are newly authored, not the old vertical irrigation chain lift placed on old pontoons, not a walkway with equipment substituted, and no component extraction. Four opaque constant PBR materials, metres, native Z up, complete horizontal bounds centred over the finite hull sole. One prop and zero scenes; no water, operator, stock, rigging, animation or interaction. Static artistic exterior only: no buoyancy, flotation, sailing, stability, dredging, scraping, chain articulation, sprocket engagement, motion, lifting, material flow, discharge, power, hydraulic design, structural load, access, manufacture, operation or safety capability is modeled or verified.",
+  "bounds": {
+    "x": 2.86,
+    "y": 5.907995,
+    "z": 2.277995,
+    "unit": "m"
+  },
+  "triangles": 2120,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/marine/marine-fixed-forewell-hull-and-inclined-bucket-ladder-dredger-01/v1.0.0/model.glb",
+      "size": 113492,
+      "sha256": "eaa4368e13e6a24d847ab6ae8d0751ae931f8cadb80d32bfe2f92c59e35f9b18"
+    },
+    "blend": {
+      "path": "assets/marine/marine-fixed-forewell-hull-and-inclined-bucket-ladder-dredger-01/v1.0.0/source.blend",
+      "size": 764168,
+      "sha256": "c9785f3567d381bb8f100e1516d73311e9f29bb25f52f7a09340a49b0677b621"
+    },
+    "generator": {
+      "path": "assets/marine/marine-fixed-forewell-hull-and-inclined-bucket-ladder-dredger-01/v1.0.0/generate.py",
+      "size": 29173,
+      "sha256": "70a4bb21459762e49bce63ffea53009686e678c5fde8b0d3c22a5c6e023a6351"
+    },
+    "render": {
+      "path": "assets/marine/marine-fixed-forewell-hull-and-inclined-bucket-ladder-dredger-01/v1.0.0/thumbnail.png",
+      "size": 540880,
+      "sha256": "df44ef839f7a4f90f073f9bf1c03b5817ae2a61e07cb171be4658cbcba4f3ace"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

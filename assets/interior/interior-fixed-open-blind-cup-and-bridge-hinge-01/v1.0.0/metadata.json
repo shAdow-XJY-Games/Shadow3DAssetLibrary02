@@ -1,0 +1,42 @@
+{
+  "id": "interior-fixed-open-blind-cup-and-bridge-hinge-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "interior",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Open Blind Cup and Bridge Hinge",
+  "description": "One newly authored complete static concealed-cup hinge appearance displayed in one fixed open pose. A whole deep blind mounting cup has a real bottom, thick rim and two complete slotted mounting ears. Four full short links on two separated transverse layers connect retained cup pins to one continuous U-section bridge arm. A distinct whole two-slot base plate and raised central mount sit under that bridge, with a proud blank top retainer. The cup opening, link gaps, bridge underside and mounting slots are actual geometric spaces, not painted holes. No old cabinet is cut apart or imported, no draw loop/keeper or pressure spindle relabelled. All whole geometry newly authored, three opaque PBR materials, metre Z-up and complete horizontal-envelope-centred ground display origin. One independent static connector prop, zero host doors or scenes. Fixed visual approximation only, not a measured hinge product or fabrication design; no motion range, four-bar kinematics, fit, installation, load, holding force, cabinetry compatibility or safety. No rig, animation or interaction.",
+  "bounds": {
+    "x": 0.461,
+    "y": 0.204,
+    "z": 0.129,
+    "unit": "m"
+  },
+  "triangles": 1612,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/interior/interior-fixed-open-blind-cup-and-bridge-hinge-01/v1.0.0/model.glb",
+      "size": 76880,
+      "sha256": "0a2f3d0ca8cb85dad109d7c37d8a5fbcdd6ac02f5ae1a0df66a92ee7eae9840a"
+    },
+    "blend": {
+      "path": "assets/interior/interior-fixed-open-blind-cup-and-bridge-hinge-01/v1.0.0/source.blend",
+      "size": 710188,
+      "sha256": "b437db6502b74e5c52f02a6d88c4f3862781a7f3bbc1a48a2338d048a3b63253"
+    },
+    "generator": {
+      "path": "assets/interior/interior-fixed-open-blind-cup-and-bridge-hinge-01/v1.0.0/generate.py",
+      "size": 12253,
+      "sha256": "4dca152cb99f66a55589b65ef2486d73ac9323d15c1b810683fe3db6b97dfc6b"
+    },
+    "render": {
+      "path": "assets/interior/interior-fixed-open-blind-cup-and-bridge-hinge-01/v1.0.0/thumbnail.png",
+      "size": 347004,
+      "sha256": "9724ad3355eaf30c3af051ed0c8c0eefecd176d5bfa160b5fa633296a1a39ec3"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
