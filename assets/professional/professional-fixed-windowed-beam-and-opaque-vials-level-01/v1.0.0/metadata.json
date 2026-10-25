@@ -1,0 +1,42 @@
+{
+  "id": "professional-fixed-windowed-beam-and-opaque-vials-level-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "professional",
+  "style": "source-preserved-low-poly",
+  "title": "Fixed Windowed Beam and Opaque Vials Level",
+  "description": "One newly authored complete static windowed-level appearance. A continuous long rectangular beam has five genuine full-thickness windows: two empty hand openings and three smaller stations holding whole fixed horizontal, vertical and inclined opaque capsule-like vial appearances. Each capsule carries two narrow uncalibrated solid bands. Two whole end bumpers frame the assembly. Three opaque materials, one prop zero scenes. No old caliper, ruler or combination-square mesh imported, scaled or recoloured. Stylized occupational instrument exterior only: the capsules are opaque, with no transparent glass, liquid, moving bubble, level indication, calibration, measurement accuracy, manufacture, operating instructions or safety claim. Rigging animation interaction not made.",
+  "bounds": {
+    "x": 0.75,
+    "y": 0.03400000184774399,
+    "z": 0.11400000005960464,
+    "unit": "m"
+  },
+  "triangles": 1756,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/professional/professional-fixed-windowed-beam-and-opaque-vials-level-01/v1.0.0/model.glb",
+      "size": 156796,
+      "sha256": "d479b67ab20b4ba1913692093b77fb5c17d6a25217065e7a9b8f66a10190d254"
+    },
+    "blend": {
+      "path": "assets/professional/professional-fixed-windowed-beam-and-opaque-vials-level-01/v1.0.0/source.blend",
+      "size": 785824,
+      "sha256": "f33097fcdd6a1d898137b3565828b6f4b37fa4717abe2a4394c8aa02c5c30257"
+    },
+    "generator": {
+      "path": "assets/professional/professional-fixed-windowed-beam-and-opaque-vials-level-01/v1.0.0/generate.py",
+      "size": 14719,
+      "sha256": "ec92eb6b94ce88a84f8d410beed666043331aea3d4aa1799bc056dde47f536dd"
+    },
+    "render": {
+      "path": "assets/professional/professional-fixed-windowed-beam-and-opaque-vials-level-01/v1.0.0/thumbnail.png",
+      "size": 472552,
+      "sha256": "8c43df6cf290db2673174489d1e06dd8bf7e70bc44372426a41dd679f16aee59"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

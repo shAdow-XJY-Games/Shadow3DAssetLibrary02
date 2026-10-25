@@ -1,0 +1,42 @@
+{
+  "id": "harbor-fixed-cowling-leg-and-clamped-outboard-display-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "harbor",
+  "style": "source-preserved-low-poly",
+  "title": "Fixed Cowling Leg And Clamped Outboard Display",
+  "description": "One newly authored complete static outboard-motor exterior on an integral short empty display trestle. A tall rounded powerhead cowling joins a narrower continuous vertical leg, low horizontal pointed gear housing, broad intermediate plate and lower skeg. A complete three-blade blunt propeller surrounds its own rear hub; a long offset tiller with thick grip projects from the upper side. Two whole inverted-U mounting hooks, independent clamp screws and a transverse pivot axle visibly connect the unit to the complete short ground-standing display frame. All geometry newly dimensioned together, no old propulsion scooter, boat hull, vehicle or fan mesh imported. Four opaque constant PBR roles, metres native Z up and whole horizontal bounds-centred ground origin; one complete display prop zero scenes. Empty static exterior only: no internal engine, fuel or electrical systems, propulsion, turning, trim, rotation, vessel compatibility, installation, load, balance, manufacture or boating safety claim. The trestle is an attached display component, not a separately delivered new furniture model.",
+  "bounds": {
+    "x": 0.6800000071525574,
+    "y": 1.0499999523162842,
+    "z": 1.4900000095367432,
+    "unit": "m"
+  },
+  "triangles": 1004,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/harbor/harbor-fixed-cowling-leg-and-clamped-outboard-display-01/v1.0.0/model.glb",
+      "size": 102344,
+      "sha256": "73e51c886ab9bb11d018ef30ede33f32b0a07c0485bc8a8a1ea5e8ae66d6492d"
+    },
+    "blend": {
+      "path": "assets/harbor/harbor-fixed-cowling-leg-and-clamped-outboard-display-01/v1.0.0/source.blend",
+      "size": 785920,
+      "sha256": "af270d14e1d40ededd389bcca86d1f8e96faf1826e1268c66a7fa8351b0cc60a"
+    },
+    "generator": {
+      "path": "assets/harbor/harbor-fixed-cowling-leg-and-clamped-outboard-display-01/v1.0.0/generate.py",
+      "size": 18578,
+      "sha256": "07c4f7914e2fcb81901c090edbd6dc685432c0562c83142a3bc891d38985ccfd"
+    },
+    "render": {
+      "path": "assets/harbor/harbor-fixed-cowling-leg-and-clamped-outboard-display-01/v1.0.0/thumbnail.png",
+      "size": 510248,
+      "sha256": "5750ea4766ebcdba5d3d3006fdd9de7b13bc6dae430dccf8d90b92eeb47dc49a"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

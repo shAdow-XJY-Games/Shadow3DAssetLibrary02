@@ -1,0 +1,42 @@
+{
+  "id": "education-fixed-twin-helical-spines-and-crossbridge-display-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "education",
+  "style": "source-preserved-low-poly",
+  "title": "Fixed Twin Helical Spines And Crossbridge Display",
+  "description": "One newly authored complete static double-helical ladder display on its own low circular plinth. Two thick continuous open-space helical spines of equal hand and half-turn phase offset rise around one shared vertical axis. Fifteen whole transverse bridges meet both spines along the twisted ladder, with genuine open windows between the bridges and no solid central cylinder. Two short pedestal feet connect the lower spine ends to the whole finite-bottom base. All paths and sections are newly drawn numerical geometry, not two copied corkscrews or the old parallel solid screw-drum robot repositioned. Four opaque constant PBR roles, metres native Z up, one whole display model zero scenes. A stylized educational-looking twisted-ladder sculpture only: no DNA molecular identity, base pairing, atom or chemical proportions, scientific accuracy, physical motion, assembly, structural capacity or safety claim.",
+  "bounds": {
+    "x": 0.6399999856948853,
+    "y": 0.6399999856948853,
+    "z": 1.380859136581421,
+    "unit": "m"
+  },
+  "triangles": 4656,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/education/education-fixed-twin-helical-spines-and-crossbridge-display-01/v1.0.0/model.glb",
+      "size": 406964,
+      "sha256": "1c36e7fe04b996cc02ace0f8dd583283c57382d239b89ac36c361f9951d42803"
+    },
+    "blend": {
+      "path": "assets/education/education-fixed-twin-helical-spines-and-crossbridge-display-01/v1.0.0/source.blend",
+      "size": 1171424,
+      "sha256": "421c8c27f87e35ab0f09eeb784f05c6c78b1579992ebb5cd2a165d31fb538577"
+    },
+    "generator": {
+      "path": "assets/education/education-fixed-twin-helical-spines-and-crossbridge-display-01/v1.0.0/generate.py",
+      "size": 16451,
+      "sha256": "07ac9783542583b0eea93b6912e176124d96db17bb1695cd3639188fea1027a3"
+    },
+    "render": {
+      "path": "assets/education/education-fixed-twin-helical-spines-and-crossbridge-display-01/v1.0.0/thumbnail.png",
+      "size": 494842,
+      "sha256": "c4697bffa0c57b29252ed8f51d5ec3b364c6dd4fe69b970a661ca81dbbdaffb5"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "harbor-fixed-twin-eccentric-jaw-and-guide-cleat-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "harbor",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Twin Eccentric Jaw and Guide Cleat",
+  "description": "One whole newly authored static twin eccentric cam cleat appearance. A grounded mounting plate supports two complete thick serrated cam bodies, each with an off-centre true bore and full vertical pivot/cap. Their inward edges form a visible narrow open channel. One continuous raised U guide behind the pair has two full root seats and an empty inner passage. No rope, hidden spring, functional gearing or operational mechanism is included. Unlike the continuous fixed through-chock or a raised lever/loop latch, this whole arrangement has two separate offset-axis opposing cam bodies and a guide bow on one mount. Ten closed editable meshes, three constant opaque PBR materials, metres Z up and bounds-centred ground origin. New geometry only. Fixed illustration, not an engineered gripping surface or running fit; no rope holding, locking, friction, force, rotation, load, anchoring, maritime operation, manufacture or safety claim.",
+  "bounds": {
+    "x": 0.38,
+    "y": 0.24,
+    "z": 0.17298089389855933,
+    "unit": "m"
+  },
+  "triangles": 1420,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/harbor/harbor-fixed-twin-eccentric-jaw-and-guide-cleat-01/v1.0.0/model.glb",
+      "size": 71056,
+      "sha256": "d8997b7fcac2758851cf39a73eb8c8f1aad40a96e6d54dae1abd3072083b6109"
+    },
+    "blend": {
+      "path": "assets/harbor/harbor-fixed-twin-eccentric-jaw-and-guide-cleat-01/v1.0.0/source.blend",
+      "size": 639812,
+      "sha256": "ea54fce94eb30592b54886553c7fac81798cb028aebe0e5e987c0b52c7a74e6f"
+    },
+    "generator": {
+      "path": "assets/harbor/harbor-fixed-twin-eccentric-jaw-and-guide-cleat-01/v1.0.0/generate.py",
+      "size": 11428,
+      "sha256": "a1918893c4f45ac3baf4ea6232c9921444cce659eab18e75ec6613c020d51904"
+    },
+    "render": {
+      "path": "assets/harbor/harbor-fixed-twin-eccentric-jaw-and-guide-cleat-01/v1.0.0/thumbnail.png",
+      "size": 461913,
+      "sha256": "df2690ba20fc96639d64169518dcb32ab1491e4c6497c9498eab3b940dff0131"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "music-fixed-peripheral-rod-resonator-and-open-neck-waterphone-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "music",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Peripheral Rod Resonator and Open Neck Waterphone",
+  "description": "One newly authored complete static waterphone-style percussion-instrument exterior. One continuous shallow round hollow resonator has a full finite bottom, outward sloping shoulder and inward domed upper surface ending at a genuine central neck opening. A separate tall open neck with continuous inner bore is rooted into that opening; a short contrasting grip sleeve is rooted around its middle. Eighteen whole solid rods of visibly staggered lengths are rooted around the upper outer shoulder, leaving broad clear space between the central neck and peripheral rods. This is neither a suspended gong disc nor horizontal kalimba tines placed on a changed box: the whole radial rod, enclosed pan and upright open neck relation is newly authored with no old numeric geometry copied. One complete prop zero scenes; opaque solid PBR roles, metres Z up, horizontally bounds-centred and full flat resonator bottom at ground. Generic fixed illustrative exterior only, not an exact branded or historical reproduction. No sound, tuning, water holding, acoustic path performance, playing technique, ergonomics, manufacturing, animation or safety capability is represented or verified.",
+  "bounds": {
+    "x": 0.66,
+    "y": 0.66,
+    "z": 0.63,
+    "unit": "m"
+  },
+  "triangles": 3000,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/music/music-fixed-peripheral-rod-resonator-and-open-neck-waterphone-01/v1.0.0/model.glb",
+      "size": 153956,
+      "sha256": "e107742563c066366c9ae430bf9775c5b7b1b9d75f2c575fdf942e232081043b"
+    },
+    "blend": {
+      "path": "assets/music/music-fixed-peripheral-rod-resonator-and-open-neck-waterphone-01/v1.0.0/source.blend",
+      "size": 799456,
+      "sha256": "34a8252941af13b28da4292af6926586ad303efd3d17e8088aa2e7037456e555"
+    },
+    "generator": {
+      "path": "assets/music/music-fixed-peripheral-rod-resonator-and-open-neck-waterphone-01/v1.0.0/generate.py",
+      "size": 10023,
+      "sha256": "22fa2327bc206634e0b9706683f3cbed5cb982330dba43c874cf601fff870b6a"
+    },
+    "render": {
+      "path": "assets/music/music-fixed-peripheral-rod-resonator-and-open-neck-waterphone-01/v1.0.0/thumbnail.png",
+      "size": 464741,
+      "sha256": "2bcc3e35466ceaee1079cd1f90fc171c050995b17f726d5fe50a65d4102a1eb6"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

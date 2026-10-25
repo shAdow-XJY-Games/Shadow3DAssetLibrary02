@@ -1,0 +1,42 @@
+{
+  "id": "entertainment-fixed-bull-seat-shell-and-two-axis-pedestal-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "entertainment",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Bull Seat Shell and Two Axis Pedestal",
+  "description": "One newly authored complete static mechanical-bull-style amusement-seat exterior. A continuous wide short-neck bull-shaped riding shell has a broad blunt muzzle, two outward-upturned blunt horns, seated eyes, lateral ears and one short hanging tail. Its low concave saddle and rooted loop grip belong to the same complete ride, not a separate animal count. Instead of standing on hooves, the shell mounts directly through an underside stem into a visible two-axis cradle: paired side trunnions support an open rectangular intermediate frame, separate front and rear bearings carry a longitudinal upper shaft, and the whole assembly stands on two rooted lower cheeks and one broad finite base. All new numeric geometry: no old cow moved onto a stand and no spring-rider body or helix reused. The new shell has no udder, weight-bearing legs or biological anatomy claim, and the pedestal has no coil spring. One complete prop zero scenes, four opaque PBR roles, metres Z up and horizontally bounds-centred ground origin. Empty fixed art display only: the separated shafts and support members do not establish a validated motion mechanism, motor, control system, balance, rider fit, load, restraint, operation, fabrication or safety. No person, arena, rigging, animation or interaction is made.",
+  "bounds": {
+    "x": 1.36,
+    "y": 1.9665336639916835,
+    "z": 1.8430176359023271,
+    "unit": "m"
+  },
+  "triangles": 2260,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/entertainment/entertainment-fixed-bull-seat-shell-and-two-axis-pedestal-01/v1.0.0/model.glb",
+      "size": 139212,
+      "sha256": "a1d32d14f1397e4c229beedbe13d77753219d80175589714f1c7bbedfcee6d88"
+    },
+    "blend": {
+      "path": "assets/entertainment/entertainment-fixed-bull-seat-shell-and-two-axis-pedestal-01/v1.0.0/source.blend",
+      "size": 782620,
+      "sha256": "41fb796b986452a4d9936101793f7037acb63cdf6e3352ac9c8c8fff2465540f"
+    },
+    "generator": {
+      "path": "assets/entertainment/entertainment-fixed-bull-seat-shell-and-two-axis-pedestal-01/v1.0.0/generate.py",
+      "size": 13007,
+      "sha256": "891cb528f987821532176616fd9754734537a4f9f65fdc113d4e2c9799904607"
+    },
+    "render": {
+      "path": "assets/entertainment/entertainment-fixed-bull-seat-shell-and-two-axis-pedestal-01/v1.0.0/thumbnail.png",
+      "size": 428925,
+      "sha256": "168878ee374b9d2ed4608a173668b50cded1a7a9aa0255240a1511107f2ee4e8"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
