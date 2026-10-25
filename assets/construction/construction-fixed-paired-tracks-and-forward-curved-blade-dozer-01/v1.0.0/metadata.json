@@ -1,0 +1,42 @@
+{
+  "id": "construction-fixed-paired-tracks-and-forward-curved-blade-dozer-01",
+  "version": "1.0.0",
+  "category": "vehicles",
+  "assetKind": "prop",
+  "theme": "construction",
+  "style": "source-preserved-low-poly",
+  "title": "Fixed Paired Tracks And Forward Curved Blade Dozer",
+  "description": "One newly authored complete low-poly tracked-dozer-style exterior. Two thick continuous open-centred track belts and eight whole supporting rollers carry a low broad chassis with a forward sloped hood and rear elevated open station. Two long outside push arms run beside the tracks into one wide genuinely curved thick front blade; separate upper diagonal stays tie the blade back to the front chassis. A whole rear cross-carrier and two short brackets carry one fixed bent blunt ripper shape. The rear station has a full floor, seat, blank console, four posts and a whole roof, not a sealed glass cab. All numerical geometry is new, no excavator track, bucket, grader blade or cabin imported or resized. Unlike the old slewing pedestal and forked high digging arm, this body remains low and its two outside push arms carry a forward full-width blade. Unlike the long wheeled grader, there is no high fore-arch, suspended central blade circle or tandem wheel chassis. One static exterior model zero scenes, four constant opaque PBR roles, metres Z up and horizontally bounds-centred full track-sole ground datum. Empty artistic exterior only: no drive, steering, hydraulics, blade movement, digging, pushing, ripping, soil or traction simulation, load, occupation, guarding, manufacture, operating instructions or machine safety capability. No person, environment, rig, animation or interaction.",
+  "bounds": {
+    "x": 2.2200000286102295,
+    "y": 3.1600000858306885,
+    "z": 1.690000057220459,
+    "unit": "m"
+  },
+  "triangles": 1080,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/construction/construction-fixed-paired-tracks-and-forward-curved-blade-dozer-01/v1.0.0/model.glb",
+      "size": 115528,
+      "sha256": "fb2f9754838619b6704cbdbdf5cd05884c46ffadf1098f772011cd7a30a0e540"
+    },
+    "blend": {
+      "path": "assets/construction/construction-fixed-paired-tracks-and-forward-curved-blade-dozer-01/v1.0.0/source.blend",
+      "size": 841472,
+      "sha256": "4264aedb8e98cbe0af8e4e339373953fbaf12232e364b12aa1eacb6592b4ca8f"
+    },
+    "generator": {
+      "path": "assets/construction/construction-fixed-paired-tracks-and-forward-curved-blade-dozer-01/v1.0.0/generate.py",
+      "size": 17938,
+      "sha256": "a3449ef9a23266bbdbedddf4f3c6567ace3a9df8a9c001b5c44f956ba432c2e2"
+    },
+    "render": {
+      "path": "assets/construction/construction-fixed-paired-tracks-and-forward-curved-blade-dozer-01/v1.0.0/thumbnail.png",
+      "size": 548935,
+      "sha256": "0e8555b74c3537902879210eb38078a01b2ff4f949e09a58bd0b073278e73178"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
