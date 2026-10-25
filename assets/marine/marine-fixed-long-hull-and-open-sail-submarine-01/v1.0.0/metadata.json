@@ -1,0 +1,42 @@
+{
+  "id": "marine-fixed-long-hull-and-open-sail-submarine-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "marine",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Long Hull and Open Sail Submarine",
+  "description": "One independently authored whole conventional-submarine-style static exterior. A continuous long low rounded hull narrows into a pointed afterbody, while a broad full upper deck directly carries a thick capsule-plan raised sail with a genuinely open upper platform and complete floor. One whole bent solid observation-mast shape and one shorter aft mast root into that floor. Separate whole forward horizontal planes and four independently drawn aft planes meet the hull, with a shorter lower plane above the display datum. A single long rear shaft, complete tapered hub and four thick swept blunt propeller blades finish the tail. No old visible mesh or body profile is imported: this is not an open inspection-robot cage with its frame removed, nor a gas envelope with its underslung gondola moved to the top. There are no robot ducts, side engines, suspension roots, gas envelope or hanging cabin. All hull stations, deck/sail outlines, masts and planes are newly authored together. One prop zero scenes, four opaque constant PBR materials, metres and native Z up, horizontally centred whole bounds and full finite hull-bottom facets on the ground as the static display datum. Closed exterior body only, not an internal pressure vessel; the sail top is intentionally open and mast ends are opaque. No weapons, occupant, engine, reactor, valve, ballast or control-system internals. No diving, water-tightness, buoyancy, navigation, optics, propulsion, hydrodynamic performance, pressure rating, loading, manufacture, operation or marine safety claim. Rigging, animation and interaction are not made or verified.",
+  "bounds": {
+    "x": 2.34,
+    "y": 6.37,
+    "z": 2.578822,
+    "unit": "m"
+  },
+  "triangles": 1276,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/marine/marine-fixed-long-hull-and-open-sail-submarine-01/v1.0.0/model.glb",
+      "size": 84520,
+      "sha256": "4868dd201aeb602284dbbc68eaf5d7be9f3d519861e5c20ad0a4703d741f3db5"
+    },
+    "blend": {
+      "path": "assets/marine/marine-fixed-long-hull-and-open-sail-submarine-01/v1.0.0/source.blend",
+      "size": 672144,
+      "sha256": "7eb5fa632c09ee2b4c007291f9eb85777a9d375013ec7e48f8a9e51911f31c62"
+    },
+    "generator": {
+      "path": "assets/marine/marine-fixed-long-hull-and-open-sail-submarine-01/v1.0.0/generate.py",
+      "size": 28417,
+      "sha256": "307c83ebbc984411cdac451394ebbd91d4d67a99e41c82eff0cff4e18b1aab2c"
+    },
+    "render": {
+      "path": "assets/marine/marine-fixed-long-hull-and-open-sail-submarine-01/v1.0.0/thumbnail.png",
+      "size": 493771,
+      "sha256": "eb265e64bf3a27d67e162c42784853ecbbb3d676089546100ecdb817f9453fd4"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

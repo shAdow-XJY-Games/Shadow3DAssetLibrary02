@@ -1,0 +1,42 @@
+{
+  "id": "technology-fixed-contraction-window-and-fan-wind-tunnel-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "technology",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Contraction, Observation Window and Fan Tunnel",
+  "description": "One independently authored complete open-circuit wind-tunnel-style static cutaway display on a connected low four-post stand. A broad empty inlet box with a thin coarse grille narrows through a fully hollow changing-section contraction into a distinct floor/back/roof observation channel whose near-side wall is intentionally open. Full proud end frames and raised saddles hold this channel and a short fixed specimen stem with one opaque blunt wedge. A long hollow expanding diffuser leads into a whole square-to-round transition, annular rear fan enclosure and open circular lip; a separate crossed stationary spider, full shaft/hub and four thick swept blades complete the fixed visible rotor. All outer and inner duct walls, section changes, openings, stand and rotor are newly drawn together. No existing hood, collector, blower, duct or furniture mesh is copied, extracted or resized. Unlike the old sash fume hood, this is not one front-open work cabinet with a roof exhaust; unlike the old dust collector it is not a tall filter/bag beside a transverse blower. One prop, zero scenes; four opaque constant PBR materials, metres, Z up, centred horizontal bounds, full base-rail ground soles. This is solely generic low-poly art, not an operational apparatus or engineering drawing. No airflow, aerodynamic test, pressure, flow conditioning, measurement, fan rotation, specimen performance, guarding, structural rating, capacity, manufacture, operation or safety claim. Rigging, animation and interaction are not made or verified.",
+  "bounds": {
+    "x": 4.28,
+    "y": 1.32,
+    "z": 1.765,
+    "unit": "m"
+  },
+  "triangles": 3960,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/technology/technology-fixed-contraction-window-and-fan-wind-tunnel-01/v1.0.0/model.glb",
+      "size": 151084,
+      "sha256": "588f12685205bd411d0b2313c04eb21dac016ed4ff2c2e8578edc9bf52809289"
+    },
+    "blend": {
+      "path": "assets/technology/technology-fixed-contraction-window-and-fan-wind-tunnel-01/v1.0.0/source.blend",
+      "size": 867304,
+      "sha256": "252abd39e1240589656f6e5c9f16cd2c7d4083c6f62e22dde673961dd639b3c3"
+    },
+    "generator": {
+      "path": "assets/technology/technology-fixed-contraction-window-and-fan-wind-tunnel-01/v1.0.0/generate.py",
+      "size": 31225,
+      "sha256": "d674b477d8495116b85652ec58e92dc85cd3f7beec85c2be4022497d760a3d8d"
+    },
+    "render": {
+      "path": "assets/technology/technology-fixed-contraction-window-and-fan-wind-tunnel-01/v1.0.0/thumbnail.png",
+      "size": 527492,
+      "sha256": "6f715aece5c497ad2d5cd52517a9997ae5e5fd7d198120d0df19e2d5823d0a55"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
