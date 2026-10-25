@@ -1264,6 +1264,11 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary02",
       "commit": "ca22c26b7eb22c82aa2ea8bd42c36c91d7919600"
+    },
+    "original-qualified-batch-1025-volume02-20261025": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary02",
+      "commit": "e965e518511b7456a80bb847a6c11866638e754b"
     }
   },
   "assets": [
@@ -45212,6 +45217,135 @@
       "status": "verified",
       "license": "All rights reserved",
       "sourceId": "original-qualified-batch-1022-volume02-20261025"
+    },
+    {
+      "id": "sports-fixed-open-divided-mouth-and-twin-leg-golf-bag-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "sports",
+      "style": "S01-clean-geometric",
+      "title": "Fixed Open Divided Mouth and Twin Leg Golf Bag",
+      "description": "One newly authored complete empty fixed golf-stand-bag appearance. A long subtly tapered oval thick shell has a real open mouth, continuous inner walls and full blind bottom, with one short upper divider splitting the opening into two visible compartments. A separate thick mouth band follows the entire rim. The body leans back above a broad low grounded heel, while two independent narrow legs descend from side pivots towards separated forward feet, forming one whole supported stand-bag pose. A continuous curved broad shoulder strap roots at two different body heights and a short side carry grip is separately rooted. All numerical parts are new: no old solid closed rolltop backpack reshaped, no travel case stripped of its lid, no old cylinder simply fitted with counted extra legs. There is no solid cap filling the bag mouth, no club contents and no closure simulation. One whole prop zero scenes, four opaque solid PBR roles, metres Z up and full horizontal bounds-centred ground datum. Static empty exterior only; no capacity, actual club fit, strap strength, folding/hinge motion, carry comfort, load, stability, fabrication, weather resistance or sporting safety claim.",
+      "bounds": {
+        "x": 0.71,
+        "y": 1.0533028543872323,
+        "z": 1.1519221327058962,
+        "unit": "m"
+      },
+      "triangles": 896,
+      "materials": 4,
+      "files": {
+        "glb": {
+          "path": "assets/sports/sports-fixed-open-divided-mouth-and-twin-leg-golf-bag-01/v1.0.0/model.glb",
+          "size": 52448,
+          "sha256": "402c043ba2bbc321cbd40433ae09fd1fb6833d123481d2497c40af26c52febc5"
+        },
+        "blend": {
+          "path": "assets/sports/sports-fixed-open-divided-mouth-and-twin-leg-golf-bag-01/v1.0.0/source.blend",
+          "size": 653416,
+          "sha256": "84522eaeb05faafc5e88d8123ed5d406de1d8995e876bb8f3bde95003ec6fd01"
+        },
+        "generator": {
+          "path": "assets/sports/sports-fixed-open-divided-mouth-and-twin-leg-golf-bag-01/v1.0.0/generate.py",
+          "size": 11333,
+          "sha256": "cd0eff7a95b65470982f529c1b3a500d0183c59aabed7e2d48f64e112996c2e2"
+        },
+        "render": {
+          "path": "assets/sports/sports-fixed-open-divided-mouth-and-twin-leg-golf-bag-01/v1.0.0/thumbnail.png",
+          "size": 442249,
+          "sha256": "2b2aa31d04334c98a2425a116cd08975db1f021e017101e29cf9daa2964b3da7"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1025-volume02-20261025"
+    },
+    {
+      "id": "technology-fixed-forked-anchor-and-tooth-wheel-pendulum-display-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "technology",
+      "style": "S01-clean-geometric",
+      "title": "Fixed Forked Anchor and Tooth Wheel Pendulum Display",
+      "description": "One newly authored complete fixed anchor-and-tooth-wheel exhibit. A whole grounded plinth and continuous open rear standard support two separate parallel transverse shafts in full bored rings. One entire blunt-tipped radial tooth wheel sits on the lower shaft; a whole forked anchor with two descending arms and opposing end heels is retained on the upper shaft, with a complete long rear rod and low disk bob. The end heels are visibly posed clear of the wheel, not falsely presented as a validated engaged mechanism. Unlike the old open table clock, no dial, hour markers or hands are present; unlike the complete ratchet winch, there is no winding drum, hand crank or independently grounded single pawl. The entire anchor/shaft/rod relationship is newly authored rather than extracted old clockwork or doubled old pawls. Four opaque constant PBR roles, metres, Z up and horizontally centred ground datum. One prop zero scenes. Static illustrative shape only: no escapement action, tooth/pallet profile accuracy, timing, oscillation, winding, power input, rate, engagement, mechanical fit, manufacture, stability, operation or safety performance. Rigging, animation and interaction are not made.",
+      "bounds": {
+        "x": 1.28,
+        "y": 0.91,
+        "z": 1.26,
+        "unit": "m"
+      },
+      "triangles": 1620,
+      "materials": 4,
+      "files": {
+        "glb": {
+          "path": "assets/technology/technology-fixed-forked-anchor-and-tooth-wheel-pendulum-display-01/v1.0.0/model.glb",
+          "size": 82880,
+          "sha256": "e38161c68912c6cd43867517cd0338e1ab25092b28acc7d063470dab6b5c42d4"
+        },
+        "blend": {
+          "path": "assets/technology/technology-fixed-forked-anchor-and-tooth-wheel-pendulum-display-01/v1.0.0/source.blend",
+          "size": 684316,
+          "sha256": "44a838e36628a67b202604eaca6bfc0efe198f559fa7b7bded138f495b9ccc0a"
+        },
+        "generator": {
+          "path": "assets/technology/technology-fixed-forked-anchor-and-tooth-wheel-pendulum-display-01/v1.0.0/generate.py",
+          "size": 26312,
+          "sha256": "b7e9831607226ecfe66c6f1ec37159b46175d433ec8aa1791493d6eb6acdd4c7"
+        },
+        "render": {
+          "path": "assets/technology/technology-fixed-forked-anchor-and-tooth-wheel-pendulum-display-01/v1.0.0/thumbnail.png",
+          "size": 553446,
+          "sha256": "9fcbb704fd60f673559f9bbe4f90823d3ba3cd1e574bb5a444c3d7a310c4fc1f"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1025-volume02-20261025"
+    },
+    {
+      "id": "textile-fixed-straight-slotted-bed-and-cross-carriage-knitter-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "textile",
+      "style": "source-preserved-low-poly",
+      "title": "Fixed Straight Slotted Bed And Cross Carriage Knitter",
+      "description": "One newly authored complete static flat-bed knitting-device exterior. A single continuous wide straight needle bed has twenty-four true front-open notches and a solid rear band, with separate whole blunt bent needle appearances rooted at the rear and projecting through those openings. Two long straight guide rails and two end supports carry one fixed cross-bed carriage, its actual undercut saddle housings, wide upper bridge, complete raised open handgrip and top selector knob. A rear mast with one complete open guide eye and two broad low ground shoes finish the whole apparatus. This is not the circular slotted-cylinder device unrolled, a copied printing cylinder replaced by needles, or repeated old parts: the new straight comb bed, transverse fixed carriage and end-supported guide structure are authored together from new numeric geometry. Four opaque constant PBR roles, metres Z up and horizontal bounds-centred finite ground datum. One prop zero scenes; needle count is a subordinate detail not a variant family. No cloth, supply yarn, stitch simulation, moving needles, working carriage, feed, tension, knitting capability, ergonomic suitability, installation, manufacture, load or safety claim. Static empty exterior only.",
+      "bounds": {
+        "x": 1.3339999914169312,
+        "y": 0.44999998807907104,
+        "z": 0.6200000047683716,
+        "unit": "m"
+      },
+      "triangles": 3296,
+      "materials": 4,
+      "files": {
+        "glb": {
+          "path": "assets/textile/textile-fixed-straight-slotted-bed-and-cross-carriage-knitter-01/v1.0.0/model.glb",
+          "size": 307984,
+          "sha256": "26fbda2205b3d9a0599ab73f2af54295334bb97f3b0b5dc56450fef0e5f3ba55"
+        },
+        "blend": {
+          "path": "assets/textile/textile-fixed-straight-slotted-bed-and-cross-carriage-knitter-01/v1.0.0/source.blend",
+          "size": 1122592,
+          "sha256": "dd1503345692e0b75eecab7bd66bbeb5a20cb89833c33c4a906970241de41690"
+        },
+        "generator": {
+          "path": "assets/textile/textile-fixed-straight-slotted-bed-and-cross-carriage-knitter-01/v1.0.0/generate.py",
+          "size": 18330,
+          "sha256": "d3c6d248accbada1d1b11e87d9f34141f3809cfec506bef949e71f650e152869"
+        },
+        "render": {
+          "path": "assets/textile/textile-fixed-straight-slotted-bed-and-cross-carriage-knitter-01/v1.0.0/thumbnail.png",
+          "size": 476353,
+          "sha256": "1d120636fbec8d734fa3f143331142e922a6d732e751b61c96644e42cadb0fad"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1025-volume02-20261025"
     }
   ]
 }
