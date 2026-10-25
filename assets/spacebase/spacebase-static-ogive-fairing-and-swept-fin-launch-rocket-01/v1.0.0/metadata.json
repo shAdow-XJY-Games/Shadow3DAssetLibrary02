@@ -1,0 +1,42 @@
+{
+  "id": "spacebase-static-ogive-fairing-and-swept-fin-launch-rocket-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "spacebase",
+  "style": "S01-clean-geometric",
+  "title": "Static Ogive Fairing and Swept Fin Launch Rocket",
+  "description": "One newly authored complete fictional non-weapon launch-rocket exterior. A single continuous tall stepped body runs from a full lower barrel through a real narrowed interstage waist and slimmer upper body into a flared broad fairing and smoothly changing pointed ogive nose. Integral face-material bands identify the waist without duplicated coincident plates. Four whole thick swept tail fins have long roots and finite flat lower tips. A separate thick downward-open blind bell has a real empty mouth and inner wall under the body. No old spacecraft cabin, landing legs, airplane fuselage, wing or propeller mesh is reused, resized, extracted or counted again. Unlike the old broad four-foot lander with cabin, side braces, footpads and ladder, this is an entire long axial launch-vehicle silhouette with a narrow stage waist and full upper fairing. Unlike the old horizontal three-wheel airplane, it has no cockpit canopy, transverse main wing, propeller or wheeled undercarriage. One static prop zero scenes; four opaque constant PBR materials, metres Z up, horizontal bounds-centred four-fin-tip ground datum. Fictional game-art proportions only, no real vehicle, insignia, text or brand. Decorative bell is not an engine. No internal fuel, combustion, pressure, guidance, stage separation, thrust, aerodynamics, flight, orbit, launch procedure, manufacture, installation, structural capacity or safety claim. Rigging, animation and interaction are not made or verified.",
+  "bounds": {
+    "x": 2.06,
+    "y": 2.06,
+    "z": 5.77,
+    "unit": "m"
+  },
+  "triangles": 1392,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/spacebase/spacebase-static-ogive-fairing-and-swept-fin-launch-rocket-01/v1.0.0/model.glb",
+      "size": 81668,
+      "sha256": "779d400c0ef0477d41e207e803788147cdc136578d501e2bd748a0a04591e596"
+    },
+    "blend": {
+      "path": "assets/spacebase/spacebase-static-ogive-fairing-and-swept-fin-launch-rocket-01/v1.0.0/source.blend",
+      "size": 621860,
+      "sha256": "97b530324a614161290e6ebd3c43f1d4c4db0dc3bbdcbf62cfdec83494d37a20"
+    },
+    "generator": {
+      "path": "assets/spacebase/spacebase-static-ogive-fairing-and-swept-fin-launch-rocket-01/v1.0.0/generate.py",
+      "size": 24210,
+      "sha256": "a5bdef8bdc277456ba19c50a7ea87ed001706ec7b737ff512de14b154f807fdf"
+    },
+    "render": {
+      "path": "assets/spacebase/spacebase-static-ogive-fairing-and-swept-fin-launch-rocket-01/v1.0.0/thumbnail.png",
+      "size": 492304,
+      "sha256": "63dfefc65616d72c693b3a923de8a5eb94d66ba90e1f9e3fb008f1fe7b72ab96"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

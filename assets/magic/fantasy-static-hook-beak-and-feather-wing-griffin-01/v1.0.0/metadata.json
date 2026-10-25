@@ -1,0 +1,42 @@
+{
+  "id": "fantasy-static-hook-beak-and-feather-wing-griffin-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "magic",
+  "style": "S01-clean-geometric",
+  "title": "Static Hook Beak and Feather Wing Griffin",
+  "description": "One newly authored complete stylized griffin character in a fixed four-foot pose. A deep tawny lion torso and two bent rear legs with rounded whole paws combine with a tall ivory feathered neck/skull, a downward hooked beak and two long bird forelegs ending in real cleft three-toe feet. Two entire raised feather-fan wings have projecting primary tips and separate rooted overlapping coverts, not scalloped bat membranes. A long thin curved lion tail ends in a volumetric tuft. Dark lateral eyes are seated into the head. All body sections, head proportions, feather outlines and limbs are newly drawn, not a modified old dragon body with an owl head attached; no old mesh is imported. Three opaque PBR materials, metre Z-up and full horizontal-bounds-centred four-foot ground origin. One static character prop and zero scenes. Fictional game-art appearance only; no biological accuracy, flight, locomotion, physical balance, animal care, manufacture or safety. Rigging, animation, interactions, collision and living functions are not produced or verified.",
+  "bounds": {
+    "x": 2.58,
+    "y": 2.285,
+    "z": 1.65,
+    "unit": "m"
+  },
+  "triangles": 1880,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/magic/fantasy-static-hook-beak-and-feather-wing-griffin-01/v1.0.0/model.glb",
+      "size": 129060,
+      "sha256": "eecbe46d7278813760ae0cd16af48f65bf6761ad3eac735306525b0fe547672a"
+    },
+    "blend": {
+      "path": "assets/magic/fantasy-static-hook-beak-and-feather-wing-griffin-01/v1.0.0/source.blend",
+      "size": 724768,
+      "sha256": "137279ad001b585aebc03f01b399308bff15ebc847eacc63fb63f3652e5e02db"
+    },
+    "generator": {
+      "path": "assets/magic/fantasy-static-hook-beak-and-feather-wing-griffin-01/v1.0.0/generate.py",
+      "size": 13727,
+      "sha256": "dbaec63b4277b159dda0d69d5e56d393727f1a8c7d79ea88966ebe3f1a031977"
+    },
+    "render": {
+      "path": "assets/magic/fantasy-static-hook-beak-and-feather-wing-griffin-01/v1.0.0/thumbnail.png",
+      "size": 407943,
+      "sha256": "e4b4d8efe5f732e8c32406b101eadc27e1e272df14ef06035d8a9636ec6534d8"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

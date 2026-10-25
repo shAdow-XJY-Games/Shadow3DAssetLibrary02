@@ -1,0 +1,42 @@
+{
+  "id": "entertainment-fixed-open-trough-wand-wheel-and-rear-fan-machine-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "entertainment",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Open Trough Wand Wheel and Rear Fan Machine",
+  "description": "One newly authored complete bubble-machine-style static exterior: a continuous thick open empty front trough shares a grounded case with a raised rear compartment; eight genuine open annular wands form a rooted radial wheel about a full supported transverse axle. A separate rear duct contains a fixed motor and blades, supported by the case, and a continuous three-sided carry handle joins both rear case shoulders. This is neither a paddle waterwheel reduced in scale nor a standalone mine fan with a basin placed beside it: the wheel dips into the actual open trough and its axis returns into the same rear housing. No old mesh is imported. One model zero scenes, four opaque PBR roles, metres Z up and horizontal-envelope-centred ground datum. Empty fixed exterior only: no soap, liquid, bubbles, electric circuit, airflow, rotation, fluid seal, bubble production, handle load, manufacture or safety capability. Rigging, animation and interaction not made.",
+  "bounds": {
+    "x": 0.36,
+    "y": 0.46,
+    "z": 0.447,
+    "unit": "m"
+  },
+  "triangles": 2400,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/entertainment/entertainment-fixed-open-trough-wand-wheel-and-rear-fan-machine-01/v1.0.0/model.glb",
+      "size": 129440,
+      "sha256": "87572c6e31d93e5ecd5708f50372c26c2ce922320c701b1154dff1b3f9e11727"
+    },
+    "blend": {
+      "path": "assets/entertainment/entertainment-fixed-open-trough-wand-wheel-and-rear-fan-machine-01/v1.0.0/source.blend",
+      "size": 859580,
+      "sha256": "0d2bc1b4ba834b7b21ba328b8be2260a9381320fd56007adb7ac8a988a3fee2b"
+    },
+    "generator": {
+      "path": "assets/entertainment/entertainment-fixed-open-trough-wand-wheel-and-rear-fan-machine-01/v1.0.0/generate.py",
+      "size": 11087,
+      "sha256": "9c66b54f130622bb6e96b736064db8c1604d9cbb149758081ff77472cbc9667f"
+    },
+    "render": {
+      "path": "assets/entertainment/entertainment-fixed-open-trough-wand-wheel-and-rear-fan-machine-01/v1.0.0/thumbnail.png",
+      "size": 537272,
+      "sha256": "9efc5c434547a82389e5f817ca5a2611642e659d19e6cd095d4285bf906184a7"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

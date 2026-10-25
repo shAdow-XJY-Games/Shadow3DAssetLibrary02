@@ -1,0 +1,42 @@
+{
+  "id": "technology-fixed-interleaved-scrolls-and-open-chamber-display-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "technology",
+  "style": "source-preserved-low-poly",
+  "title": "Fixed Interleaved Scrolls And Open Chamber Display",
+  "description": "One newly authored complete fixed spiral-scroll chamber illustrative cutaway. A continuous thick circular casing and real annular backplate stand on two narrow feet and a common bed. Two separate full thick spiral ribbons wind inward between one another across visible radial gaps; each has complete front, back, inner, outer and end faces. Both are deliberately fixed into the common backplate and outer casing, not asserted to orbit independently. A central full spindle, proud front hub, rear bored bearing on its own pedestal and a rear cap complete the display. The new interleaved long spiral walls are not radial impeller blades in a single expanding volute, nor one curved triangular rotor inside a two-lobed casing. Generic numeric mesh/export routines only are reused; all visible profiles and placements are newly authored. Four opaque constant untextured PBR roles, metres and Z up; one model zero scenes. Illustrative static engineering-themed art only: not a working scroll compressor or conjugate scroll profile. No independent orbital mechanism, eccentric drive, fluid ports, chambers sealed through motion, compression, pumping, pressure, thermodynamics, flow, speed, precision, lubrication, manufacture, load or safety claim. Deliberate fixed support overlaps do not demonstrate working fits. No fluid, rig, animation or interaction.",
+  "bounds": {
+    "x": 0.8399999737739563,
+    "y": 0.6399999856948853,
+    "z": 0.875,
+    "unit": "m"
+  },
+  "triangles": 3356,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/technology/technology-fixed-interleaved-scrolls-and-open-chamber-display-01/v1.0.0/model.glb",
+      "size": 291020,
+      "sha256": "f07b17be5a78a7df227eb07b775b92412642cc6dc4ccd8eaddb259dbd7e65979"
+    },
+    "blend": {
+      "path": "assets/technology/technology-fixed-interleaved-scrolls-and-open-chamber-display-01/v1.0.0/source.blend",
+      "size": 988192,
+      "sha256": "5e17aa329f1f73c4bd7dccc5fcd838e20d7a4d7db4f376d5ca02cdd452bc7d80"
+    },
+    "generator": {
+      "path": "assets/technology/technology-fixed-interleaved-scrolls-and-open-chamber-display-01/v1.0.0/generate.py",
+      "size": 17758,
+      "sha256": "c53702851306254b9c5c2217dcfe894666573e4668061009a5e0d8ac651e83f0"
+    },
+    "render": {
+      "path": "assets/technology/technology-fixed-interleaved-scrolls-and-open-chamber-display-01/v1.0.0/thumbnail.png",
+      "size": 593299,
+      "sha256": "d22d875e09dc2ed1e8fedda353cb44f336df57d532e93d17793105264ff42e0d"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
