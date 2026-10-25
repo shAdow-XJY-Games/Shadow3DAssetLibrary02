@@ -1,0 +1,42 @@
+{
+  "id": "industrial-fixed-wheeled-reservoir-and-raised-funnel-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "industrial",
+  "style": "source-preserved-low-poly",
+  "title": "Fixed Wheeled Reservoir and Raised Funnel",
+  "description": "One newly authored complete empty mobile-collection-funnel-style exterior. A deep shouldered reservoir with full bottom and narrow upper neck sits on two rear axle wheels and two separate flat front supports. One full hollow vertical tube, thick retaining collar and fixed thumb grip support an entire deep conical upper funnel with a genuine open throat. A continuous rear wraparound push handle and grip belong to the reservoir, while one lower service stub is explicitly closed. The high open receiving stage, long central tube and wheeled lower vessel are authored together, not a canister vacuum with its hose removed or an open honey tank recoloured. Three opaque PBR roles, metres Z up and ground-centred bounds; one prop zero scenes. No fluid, used oil, hazardous material, wheel or height motion, flow/draining performance, pressure, vessel capacity, manufacture, handling instructions, hygiene, compatibility, stability or equipment safety claim. Static empty appearance only; rigging animation interaction not made.",
+  "bounds": {
+    "x": 0.5019999742507935,
+    "y": 0.5019999742507935,
+    "z": 1.4010000228881836,
+    "unit": "m"
+  },
+  "triangles": 4504,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/industrial/industrial-fixed-wheeled-reservoir-and-raised-funnel-01/v1.0.0/model.glb",
+      "size": 392684,
+      "sha256": "0873a27445d9fa06fbfeb9024ae45fb9c588fe0e71349fa3427792508ca90031"
+    },
+    "blend": {
+      "path": "assets/industrial/industrial-fixed-wheeled-reservoir-and-raised-funnel-01/v1.0.0/source.blend",
+      "size": 1131232,
+      "sha256": "bfa708846fd5d59d008ce51797610050ae3e163c575fd64ffa6c1263539ae6b4"
+    },
+    "generator": {
+      "path": "assets/industrial/industrial-fixed-wheeled-reservoir-and-raised-funnel-01/v1.0.0/generate.py",
+      "size": 17363,
+      "sha256": "a24ef8d361391f71e74739e367a7b5a60c453ef62d857a47c21541c47a655485"
+    },
+    "render": {
+      "path": "assets/industrial/industrial-fixed-wheeled-reservoir-and-raised-funnel-01/v1.0.0/thumbnail.png",
+      "size": 460800,
+      "sha256": "d3570223ea5d8c33e47d75be4863f739fdf3dd112bfa5832fed3d7fcc1d42199"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
