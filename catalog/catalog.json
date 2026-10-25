@@ -1594,6 +1594,11 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary02",
       "commit": "5b7eaca31a1ebee2e27dc96237db3a5933909f14"
+    },
+    "original-qualified-batch-1210-volume02-20261025": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary02",
+      "commit": "eb38451ff8a6f4245f1e6d3cb78496bd6c17827a"
     }
   },
   "assets": [
@@ -53497,6 +53502,135 @@
       "status": "verified",
       "license": "All rights reserved",
       "sourceId": "original-qualified-batch-1207-volume02-20261025"
+    },
+    {
+      "id": "art-fixed-toggle-head-and-twin-die-rotary-carrier-press-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "art",
+      "style": "S01-clean-geometric",
+      "title": "Fixed Toggle Head and Twin Die Rotary Carrier Press",
+      "description": "One newly authored complete compact badge-press-inspired static art exterior. A grounded base supports a rear upright and overhead guide, a complete fixed plunger with round upper die, and one long raised lever with paired short toggle links and full transverse pins. A separate lower central pedestal supports a two-ended rotary-carrier appearance with two genuine blind round die cups and a retained central axis. The exposed forward cup has a real finite floor and thick lip; the rear cup is aligned below the upper head with a deliberate display gap. This is not the old rack-and-pinion arbor press with new colour or the twin-roll sealing machine with a new cup: no toothed ram, pinion, film rolls, web, parallel tray rails or controls are used. Every whole geometry coordinate is new, with only generic construction and export tools reused. Four opaque PBR materials, metre coordinates, Z up and centred whole ground envelope. One model zero scenes. Fixed illustrative appearance only, no pressing force, lever travel, working linkage, rotation, die mating, badge production, process instructions, manufacture or equipment safety verified. Rigging animation and interaction not made.",
+      "bounds": {
+        "x": 0.32,
+        "y": 0.6094999999999999,
+        "z": 0.7047366362134873,
+        "unit": "m"
+      },
+      "triangles": 1652,
+      "materials": 4,
+      "files": {
+        "glb": {
+          "path": "assets/art/art-fixed-toggle-head-and-twin-die-rotary-carrier-press-01/v1.0.0/model.glb",
+          "size": 81500,
+          "sha256": "fe8c27d1228ce26a16a1ab164b2ee659fb1ddf30caafceff40cb10d994cec105"
+        },
+        "blend": {
+          "path": "assets/art/art-fixed-toggle-head-and-twin-die-rotary-carrier-press-01/v1.0.0/source.blend",
+          "size": 717448,
+          "sha256": "e072c304ae87c547a24eba4df7b83bf39edc241e709e324680e23b0249f2f078"
+        },
+        "generator": {
+          "path": "assets/art/art-fixed-toggle-head-and-twin-die-rotary-carrier-press-01/v1.0.0/generate.py",
+          "size": 10968,
+          "sha256": "a3de2576ae0e9562b1bcc3557ceb66312f162dda8f38674ba8fd41dcd12268e3"
+        },
+        "render": {
+          "path": "assets/art/art-fixed-toggle-head-and-twin-die-rotary-carrier-press-01/v1.0.0/thumbnail.png",
+          "size": 435692,
+          "sha256": "ad9ecb10d0c0fd975c4b531be4a6fef26258eab920455089e490acc9967c7694"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1210-volume02-20261025"
+    },
+    {
+      "id": "renovation-fixed-short-sleeve-and-wide-pad-knee-kicker-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "renovation",
+      "style": "source-preserved-low-poly",
+      "title": "Fixed Short Sleeve and Wide Pad Knee Kicker",
+      "description": "One newly authored complete static short-shaft carpet-kicker-style exterior. A wide low chamfered front head carries one connected underside plate with finite blunt square studs and a top blank depth-dial appearance. A complete front socket, short outer sleeve, partly exposed inner fixed shaft, collar and lock-button exterior join the head to an independent broad rounded rear pad and its whole backing. Both the blunt front studs and the finite rear pad rest meet the display plane. New numeric whole geometry, not the old split shoe stretcher rebranded or a spokeshave with changed handles. Three opaque untextured PBR roles, metres and centred ground origin; one prop zero scenes. No carpet, sharp pins, telescoping motion, spring, gripping or stretching performance, knee/body contact or fit, impact instructions, manufacture, ergonomics or construction safety claim. Rigging animation interaction not made.",
+      "bounds": {
+        "x": 0.23199999332427979,
+        "y": 0.6200000047683716,
+        "z": 0.13300000131130219,
+        "unit": "m"
+      },
+      "triangles": 1280,
+      "materials": 3,
+      "files": {
+        "glb": {
+          "path": "assets/renovation/renovation-fixed-short-sleeve-and-wide-pad-knee-kicker-01/v1.0.0/model.glb",
+          "size": 116596,
+          "sha256": "fb30fef495827dfde7a6b9128a81daf9a7b1fd2e8a4668b9f5a136085ec0ecc1"
+        },
+        "blend": {
+          "path": "assets/renovation/renovation-fixed-short-sleeve-and-wide-pad-knee-kicker-01/v1.0.0/source.blend",
+          "size": 732512,
+          "sha256": "149a50313b0ac23708140952fba5bf2173885f2710b1b48f713ef74549241882"
+        },
+        "generator": {
+          "path": "assets/renovation/renovation-fixed-short-sleeve-and-wide-pad-knee-kicker-01/v1.0.0/generate.py",
+          "size": 15729,
+          "sha256": "e43868be2f54716aae950138a2f47d94d5384974756995e444dedf5d918cbb15"
+        },
+        "render": {
+          "path": "assets/renovation/renovation-fixed-short-sleeve-and-wide-pad-knee-kicker-01/v1.0.0/thumbnail.png",
+          "size": 464818,
+          "sha256": "7bf5d83d89d9936efce1fda0c814cecc619e84532c4e4f5333b34a6335be6cb2"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1210-volume02-20261025"
+    },
+    {
+      "id": "technology-fixed-closed-rhombus-and-paired-long-link-display-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "technology",
+      "style": "source-preserved-low-poly",
+      "title": "Fixed Closed Rhombus And Paired Long Link Display",
+      "description": "One newly authored complete fixed closed-rhombus linkage exhibit on a broad low base. Two separate full upright mounts establish two grounded transverse pivot positions. A pair of long complete links fans from the taller fixed origin to the upper and lower corners of an actual open four-sided rhombus. Four separate whole rounded links close that diamond at distinct material layers. One additional complete short link joins the second fixed origin to the inner diamond corner, while the outer corner has a single blunt proud output pin. Six whole headed transverse pins connect the specified layers. This complete seven-link closed-loop relationship differs from the old four-bar copying pantograph with two extended drawing arms and paired tracing pads, and from the orthogonal two-track sliding ellipse tool. All new geometry, no old bars, pivots, plate or track meshes imported. One complete static prop, zero scenes, four opaque constant PBR appearances, metres Z up. A fixed Peaucellier-inspired visual arrangement only: no actual inversor equation, exact straight-line output, linkage closure over motion, bearing fit, tracing, drawing, accuracy, educational effectiveness, force transmission, loading, manufacture, installation or safety claim. All links and pins are fixed with deliberate visual overlap, not articulated joints. No rig, animation or interaction.",
+      "bounds": {
+        "x": 1.159999966621399,
+        "y": 0.5,
+        "z": 0.7120000123977661,
+        "unit": "m"
+      },
+      "triangles": 1872,
+      "materials": 4,
+      "files": {
+        "glb": {
+          "path": "assets/technology/technology-fixed-closed-rhombus-and-paired-long-link-display-01/v1.0.0/model.glb",
+          "size": 171084,
+          "sha256": "b2f6727e0aeae86d355a3af526151598951a085a3e3da83c2e2e214419fe32b6"
+        },
+        "blend": {
+          "path": "assets/technology/technology-fixed-closed-rhombus-and-paired-long-link-display-01/v1.0.0/source.blend",
+          "size": 850208,
+          "sha256": "070cb0371b2291b03fac3b5f81d88bfc93c47c305ed60a4e921519f6caa0a262"
+        },
+        "generator": {
+          "path": "assets/technology/technology-fixed-closed-rhombus-and-paired-long-link-display-01/v1.0.0/generate.py",
+          "size": 17434,
+          "sha256": "e134f6de6626e9e1076069925ac3751c48f945495bd2a4f8654d6c74fa90410a"
+        },
+        "render": {
+          "path": "assets/technology/technology-fixed-closed-rhombus-and-paired-long-link-display-01/v1.0.0/thumbnail.png",
+          "size": 473264,
+          "sha256": "eb476701bf9298c31b264df29ac62ffe1c7b195696bb015c2913d2c05aea466a"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1210-volume02-20261025"
     }
   ]
 }
