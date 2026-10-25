@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "category": "props",
   "assetKind": "prop",
-  "theme": "music",
+  "theme": "sports",
   "style": "S01-clean-geometric",
   "title": "Fixed Low Seat and Front Handcrank Tricycle",
   "description": "One newly authored complete recumbent handcycle-style static exterior. Two separate rear spoked wheels on a full transverse axle support a long low frame and continuous reclined seat/back shell. A forward single wheel sits in a complete two-cheek fork; above it an independent elevated hand-crank axle carries two full arms and outward grips. A fixed complete loop links the upper crank-disc appearance to a separate lower front-wheel disc. Two forward foot-rest platforms lie beside the front assembly rather than forming pedals at the seat. The whole low-seat, long front reach and elevated hand-drive-to-front-wheel organization is new geometry, not the old four-wheel manual wheelchair with one caster removed or the old stationary exercise-cycle given road wheels. No old visible mesh imported. One model zero scenes; four opaque untextured PBR appearances, metres native Z up and whole horizontal-envelope-centred ground origin on three complete finite tire facets. All parts are one fixed display pose; no steering, rolling, hand propulsion, chain meshing or travel, braking, speed, seating or disability fit, rehabilitation, athletic efficacy, load, manufacture or safety is claimed. No rider, rig, animation or interaction.",
@@ -17,22 +17,22 @@
   "materials": 4,
   "files": {
     "glb": {
-      "path": "assets/music/sports-fixed-low-seat-and-front-handcrank-tricycle-01/v1.0.0/model.glb",
+      "path": "assets/sports/sports-fixed-low-seat-and-front-handcrank-tricycle-01/v1.0.0/model.glb",
       "size": 179392,
       "sha256": "7d14df18367d8877478d7d7a2913ba2a9b33a559711685c8068aa07debe8be23"
     },
     "blend": {
-      "path": "assets/music/sports-fixed-low-seat-and-front-handcrank-tricycle-01/v1.0.0/source.blend",
+      "path": "assets/sports/sports-fixed-low-seat-and-front-handcrank-tricycle-01/v1.0.0/source.blend",
       "size": 1010012,
       "sha256": "43d75efe3d343166710ee3d02f00a1e378ee986f10dd96000b9c50806840f075"
     },
     "generator": {
-      "path": "assets/music/sports-fixed-low-seat-and-front-handcrank-tricycle-01/v1.0.0/generate.py",
-      "size": 12918,
-      "sha256": "271f8b71c4853b91eaad2aaed115ff5e51381e17e9ed68013dbf9075719569ee"
+      "path": "assets/sports/sports-fixed-low-seat-and-front-handcrank-tricycle-01/v1.0.0/generate.py",
+      "size": 12920,
+      "sha256": "9a572f2d44ab0198baa24679b97c8bfae17170e35a7bca66820dc6197e1960b5"
     },
     "render": {
-      "path": "assets/music/sports-fixed-low-seat-and-front-handcrank-tricycle-01/v1.0.0/thumbnail.png",
+      "path": "assets/sports/sports-fixed-low-seat-and-front-handcrank-tricycle-01/v1.0.0/thumbnail.png",
       "size": 405773,
       "sha256": "b2bc6079155ffda135774781838ad502f5e470b46016a7fb3158fe1d6e41b439"
     }

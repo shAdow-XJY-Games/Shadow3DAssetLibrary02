@@ -1,7 +1,7 @@
 import math,json,hashlib,sys
 from pathlib import Path
 OUT=Path(__file__).resolve().parent
-ASSET='sports-fixed-open-vent-round-canopy-and-empty-suspension-rig-01'
+ASSET='entertainment-fixed-central-mirror-prism-and-open-picture-tray-01'
 G={};FM={}
 def cross(a,b):return(a[1]*b[2]-a[2]*b[1],a[2]*b[0]-a[0]*b[2],a[0]*b[1]-a[1]*b[0])
 def dot(a,b):return sum(x*y for x,y in zip(a,b))
@@ -61,37 +61,32 @@ def lathe_z(name,x,y,profile,mat,n=24):
 
 
 
-# One thick annular dome shell: top vent stays genuinely empty through both skins.
-N=64;profile=[(.13,3.20),(.32,3.19),(.66,3.08),(.95,2.85),(1.16,2.50),(1.20,2.28)];v=[];f=[];mats=[]
-for side in[0,1]:
- for k,(r,z)in enumerate(profile):
-  for j in range(N):
-   a=math.tau*j/N;bulge=math.sin(math.pi*(j%4)/4);rr=r*(1-.025*bulge*(r/1.2)**2);zz=z+(.065*bulge if k==len(profile)-1 else .018*bulge*(r/1.2))-.014*side
-   v.append((rr*math.cos(a),rr*math.sin(a),zz))
-L=len(profile)*N
-for side in[0,1]:
- for k in range(len(profile)-1):
-  for j in range(N):q=(j+1)%N;a=side*L+k*N+j;b=side*L+k*N+q;c=side*L+(k+1)*N+q;d=side*L+(k+1)*N+j;f.append((a,b,c,d)if side==0 else(d,c,b,a));mats.append((j//4)%2)
-for k in[0,len(profile)-1]:
- for j in range(N):q=(j+1)%N;a=k*N+j;b=k*N+q;f.append((a,L+a,L+b,b)if k==0 else(b,L+b,L+a,a));mats.append((j//4)%2)
-mesh('WholeOpenVentAndScallopedHemCanopyShell',v,f,0);FM['WholeOpenVentAndScallopedHemCanopyShell']=[m for m in mats for _ in range(2)]
-# Newly authored complete empty lower webbing loops and real connecting straps.
-def ovalband(name,cx,cy,rx,ry,z0,z1,w):
- n=32;v=[(cx+(rx-d)*math.cos(math.tau*j/n),cy+(ry-d)*math.sin(math.tau*j/n),z)for z,d in[(z0,0),(z1,0),(z0,w),(z1,w)]for j in range(n)];f=[]
- for j in range(n):q=(j+1)%n;f +=[(j,q,n+q,n+j),(2*n+j,3*n+j,3*n+q,2*n+q),(j,2*n+j,2*n+q,q),(n+j,n+q,3*n+q,3*n+j)]
- mesh(name,v,f,3)
-ovalband('WholeEmptyWaistWebbingLoop',0,0,.19,.13,.255,.310,.025)
-for j,x in enumerate([-.092,.092]):
- ovalband('WholeGroundFootEmptyLegLoop_%d'%j,x,0,.079,.102,0,.046,.022)
- for k,s in enumerate([-1,1]):beam('WholeLegToWaistWebbing_%d_%d'%(j,k),(x,s*.086,.031),(x*1.55,s*.076,.275),.029,3)
-# Four whole risers; suspension lines are complete solid appearances, not simulated cables.
-for j,(sx,sy)in enumerate([(-1,-1),(1,-1),(1,1),(-1,1)]):
- beam('WholeLowerRiserStrap_%d'%j,(sx*.147,sy*.077,.280),(sx*.165,sy*.105,.620),.033,3)
-for j in range(16):
- a=math.tau*j/16;sx=1 if math.cos(a)>=0 else -1;sy=1 if math.sin(a)>=0 else -1
- start=(sx*.165,sy*.105,.605);end=(1.20*math.cos(a),1.20*math.sin(a),2.274)
- beam('WholeContinuousSuspensionLine_%02d'%j,start,end,.010,2)
-PALETTE=[('WholeCanopyGores_WarmIvory',(.87,.83,.70,1),.87,0),('WholeCanopyGores_MutedCoral',(.66,.22,.10,1),.85,0),('WholeCompleteSuspensionLines_PaleCord',(.62,.65,.61,1),.89,0),('WholeEmptyLowerRig_CharcoalWebbing',(.055,.075,.072,1),.92,0)]
+# Complete pedestal, shaft and open tray, authored for the center-prism relationship.
+lathe_z('WholeGroundFootSteppedPedestal',0,0,[(0,0),(.100,0),(.115,.014),(.115,.029),(.092,.041),(0,.041)],0,40)
+lathe_z('WholeTurnedSupportSpindle',0,0,[(0,.033),(.034,.033),(.034,.052),(.019,.071),(.019,.115),(.033,.128),(.033,.145),(0,.145)],1,24)
+lathe_z('WholeLowOpenCircularCarrierTray',0,0,[(0,.132),(.197,.132),(.210,.143),(.210,.166),(.198,.170),(.188,.156),(0,.156)],0,64)
+lathe_z('WholeLowOuterBandRetainingRim',0,0,[(.192,.153),(.202,.153),(.202,.242),(.195,.248),(.189,.243),(.189,.166)],1,64)
+# One full picture-band mesh; motifs are face-material regions on the inner wall, not decals.
+N=96;rows=8;v=[];f=[];mats=[]
+for r in[.186,.194]:
+ for k in range(rows+1):
+  z=.167+(.235-.167)*k/rows
+  for j in range(N):v.append((r*math.cos(math.tau*j/N),r*math.sin(math.tau*j/N),z))
+D=(rows+1)*N
+for j in range(N):
+ q=(j+1)%N
+ for k in range(rows):
+  a=k*N+j;b=k*N+q;c=(k+1)*N+q;d=(k+1)*N+j
+  mid=2+(j//8)%4;mark=(j%8 in[3,4]and abs(k-mid)<=1)or(k==mid and j%8 in[2,5]);mat=0 if mark else 3
+  f +=[(a,b,c,d),(D+a,D+d,D+c,D+b)];mats +=[mat,3]
+ f +=[(j,D+j,D+q,q),(rows*N+j,rows*N+q,D+rows*N+q,D+rows*N+j)];mats +=[3,3]
+mesh('WholeInnerInventedPictureBand',v,f,3);FM['WholeInnerInventedPictureBand']=[m for m in mats for _ in range(2)]
+# A whole twelve-sided solid prism with continuous side faces, not layered coplanar mirror cards.
+N=12;v=[(r*math.cos(math.tau*j/N),r*math.sin(math.tau*j/N),z)for r,z in[(.061,.150),(.067,.160),(.067,.315),(.060,.325)]for j in range(N)];f=[tuple(reversed(range(N))),tuple(3*N+j for j in range(N))];mi=[0]*(2*(N-2))
+for k in range(3):
+ for j in range(N):q=(j+1)%N;f.append((k*N+j,k*N+q,(k+1)*N+q,(k+1)*N+j));mi +=[2 if k==1 else 0]*2
+mesh('WholeCentralTwelveFaceMirrorPrism',v,f,0);FM['WholeCentralTwelveFaceMirrorPrism']=mi
+PALETTE=[('WholePedestalTrayPrismEdgesAndMarks_DarkWood',(.16,.070,.025,1),.77,0),('WholeSpindleAndRetainingRim_DullBrass',(.48,.34,.14,1),.57,.45),('WholeCentralPrismFaces_MirrorPBR',(.88,.90,.92,1),.07,1),('WholeThickPictureBand_WarmIvory',(.83,.78,.64,1),.79,0)]
 # BLENDER PHASE
 import bpy
 from mathutils import Vector
@@ -138,16 +133,16 @@ if '--view' in sys.argv:view=sys.argv[sys.argv.index('--view')+1]
 assert view in ['qa-front','thumbnail']
 scene.cycles.samples=16 if view=='qa-front' else 128
 scene.world.use_nodes=True;scene.world.node_tree.nodes['Background'].inputs['Color'].default_value=(.28,.28,.28,1);scene.world.node_tree.nodes['Background'].inputs['Strength'].default_value=.8
-focus=Vector((0,0,1.55))
+focus=Vector((0,0,.16))
 def aim(o,p):o.location=p;o.rotation_euler=(focus-o.location).to_track_quat('-Z','Y').to_euler()
 for name,pos,power,size in [('Key',(-3,-4,6),700,4),('Fill',(4,-2,4),380,3.5),('Rim',(2,4,5),500,3)]:
  bpy.ops.object.light_add(type='AREA',location=pos);l=bpy.context.object;l.name='Preview_'+name;l.data.energy=power;l.data.shape='DISK';l.data.size=size;aim(l,pos)
-bpy.ops.object.camera_add();cam=bpy.context.object;cam.name='Preview_Camera';cam.data.type='ORTHO';cam.data.ortho_scale=4.05;aim(cam,(6,-9,5));scene.camera=cam
+bpy.ops.object.camera_add();cam=bpy.context.object;cam.name='Preview_Camera';cam.data.type='ORTHO';cam.data.ortho_scale=.57;aim(cam,(3,-5,2.6));scene.camera=cam
 bpy.ops.mesh.primitive_plane_add(size=200,location=(0,0,-.002));ground=bpy.context.object;ground.name='Preview_Ground';m=bpy.data.materials.new('Preview_Background');m.diffuse_color=(.43,.43,.43,1);ground.data.materials.append(m)
 scene.render.filepath=str(OUT/(view+'.png'));bpy.ops.render.render(write_still=True)
 if view=='thumbnail':
  files={}
  for role,name in [('glb','model.glb'),('blend','source.blend'),('generator','generate.py'),('render','thumbnail.png')]:
-  p=OUT/name;files[role]={'path':f'assets/music/{ASSET}/v1.0.0/{name}','size':p.stat().st_size,'sha256':hashlib.sha256(p.read_bytes()).hexdigest()}
- d={'id':ASSET,'version':'1.0.0','category':'props','assetKind':'prop','theme':'music','style':'S01-clean-geometric','title':'Fixed Open Vent Round Canopy and Empty Suspension Rig','description':'One newly authored complete round-parachute-style fixed expanded art pose. A single continuous finite-thickness domed fabric shell has a true circular crown vent, sixteen integral softly scalloped radial gores and a wholly open underside. Sixteen complete suspension-line appearances run from the lower hem to four full lower riser straps, which join a newly authored empty waist and two leg-loop rig. There is no central mast, ribs, spreaders, basket, burner or copied harness. The open-bottom broad canopy and converging many-line-to-small-empty-rig relation differs from both the old shallow pole-supported parasol and the old narrow-neck pear envelope over a basket. All visible numeric geometry is new, one whole prop zero scenes, four opaque constant PBR roles, metres Z up and whole horizontal-envelope-centred ground datum on the two lower loop edges. The unsupported-looking expanded pose is a fixed illustrative arrangement, not a physical equilibrium or deployment result. No pressure, airflow, descent rate, lift, inflation, packing, attachment, load, user fit, harness adequacy, flight or parachuting safety capability is represented. No rigging for motion, simulation, animation or interaction is delivered.','bounds':dict(zip(['x','y','z'],[max(p[k]for v,f,m in G.values()for p in v)-min(p[k]for v,f,m in G.values()for p in v) for k in range(3)]),unit='m'),'triangles':triangles,'materials':4,'files':files,'status':'review','license':'All rights reserved'}
+  p=OUT/name;files[role]={'path':f'assets/entertainment/{ASSET}/v1.0.0/{name}','size':p.stat().st_size,'sha256':hashlib.sha256(p.read_bytes()).hexdigest()}
+ d={'id':ASSET,'version':'1.0.0','category':'props','assetKind':'prop','theme':'entertainment','style':'S01-clean-geometric','title':'Fixed Central Mirror Prism and Open Picture Tray','description':'One newly authored whole static mirror-carousel optical-toy appearance. A broad turned pedestal and short full spindle support a low open circular tray. Its complete inner picture band surrounds a separate tall central twelve-sided prism whose outward faces have standard metallic PBR; a visible annular empty interval separates the two. The outer band is low and entirely open above, with no vertical viewing slots or enclosing upper drum. Invented simple dark stepped marks are actual material regions of the thick band, not images or copied animation frames. A single whole closed prism carries all twelve faces as material regions, not twelve unrelated mirrors assembled into a scene. This complete center-prism to outward-picture-band organization differs from the old high slotted viewing drum and from the old single flat freestanding mirror. All numeric geometry is new and no old meshes imported. One model zero scenes, four constant untextured opaque PBR appearances; metres native Z up, whole horizontal-envelope-centred ground origin. Static illustrative exterior only: no calibrated optical geometry, reflected image accuracy, apparent animation, rotation, visual persistence, timing, educational outcome, manufacture or toy safety. No binding, animation or interaction.','bounds':dict(zip(['x','y','z'],[max(p[k]for v,f,m in G.values()for p in v)-min(p[k]for v,f,m in G.values()for p in v) for k in range(3)]),unit='m'),'triangles':triangles,'materials':4,'files':files,'status':'review','license':'All rights reserved'}
  (OUT/'metadata.json').write_text(json.dumps(d,indent=2)+'\n')

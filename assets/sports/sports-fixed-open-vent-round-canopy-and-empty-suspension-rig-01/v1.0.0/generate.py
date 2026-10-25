@@ -1,7 +1,7 @@
 import math,json,hashlib,sys
 from pathlib import Path
 OUT=Path(__file__).resolve().parent
-ASSET='sports-fixed-low-seat-and-front-handcrank-tricycle-01'
+ASSET='sports-fixed-open-vent-round-canopy-and-empty-suspension-rig-01'
 G={};FM={}
 def cross(a,b):return(a[1]*b[2]-a[2]*b[1],a[2]*b[0]-a[0]*b[2],a[0]*b[1]-a[1]*b[0])
 def dot(a,b):return sum(x*y for x,y in zip(a,b))
@@ -61,63 +61,37 @@ def lathe_z(name,x,y,profile,mat,n=24):
 
 
 
-# Three whole newly authored wheels, with true finite lower facets.
-def wheel(tag,x,y,z):
- for suffix,ri,ro,w,mat in [('GroundFootTire',.289,.320/math.cos(math.pi/32),.043,2),('SpokeRim',.274,.295,.023,1)]:
-  name='Whole'+suffix+'_'+tag;ringx(name,x-w/2,x+w/2,y,z,ri,ro,mat,32)
-  v,f,m=G[name];a=math.pi/32;G[name]=([(xx,y+(yy-y)*math.cos(a)-(zz-z)*math.sin(a),z+(yy-y)*math.sin(a)+(zz-z)*math.cos(a))for xx,yy,zz in v],f,m)
- axle('WholeHub_'+tag,x-.040,x+.040,y,z,.033,1,16)
- for j in range(8):
-  a=math.tau*(j+.25)/8;beam('WholeSpoke_%s_%d'%(tag,j),(x,y,z),(x,y+.283*math.cos(a),z+.283*math.sin(a)),.008,1)
-wheel('RearL',-.43,.55,.32);wheel('RearR',.43,.55,.32);wheel('Front',0,-.72,.32)
-axle('WholeRearThroughAxle',-.475,.475,.55,.32,.018,1,16)
-beam('WholeLongLowCentralChassis',(0,.57,.30),(0,-.59,.43),.060,0)
-for j,x in enumerate([-.22,.22]):
- beam('WholeLowSeatSideRail_%d'%j,(x,.62,.31),(x,-.12,.29),.032,0)
- beam('WholeRearAxleToSeatRoot_%d'%j,(x,.55,.32),(x,.55,.40),.033,0)
- beam('WholeForwardSeatCrossTie_%d'%j,(0,-.12,.38),(x,-.12,.29),.029,0)
- beam('WholeReclinedBackSupport_%d'%j,(x,.24,.31),(x,.63,.72),.028,0)
-# One continuous bent seat/back shell, a finite extruded side profile.
-poly=[(-.16,.300),(.22,.300),(.65,.714),(.626,.739),(.206,.335),(-.16,.335)]
-n=len(poly);v=[(x,y,z)for x in[-.235,.235]for y,z in poly];f=[]
-for a,b,c in triangulate(poly):f +=[(c,b,a),(a+n,b+n,c+n)]
-f +=[(i,(i+1)%n,(i+1)%n+n,i+n)for i in range(n)];mesh('WholeContinuousReclinedSeatAndBackShell',v,f,3)
-# Front fork, low frame neck and raised complete hand-crank bearing support.
-for j,x in enumerate([-.059,.059]):beam('WholeFrontForkCheek_%d'%j,(x,-.72,.32),(x,-.60,.68),.025,0)
-axle('WholeFrontWheelThroughAxle',-.105,.105,-.72,.32,.015,1,16)
-box('WholeForkCrown',(0,-.60,.68),(.150,.053,.040),0)
-beam('WholeFrontNeckToLowChassis',(0,-.60,.66),(0,-.53,.42),.049,0)
-beam('WholeElevatedHandCrankColumn',(0,-.60,.68),(0,-.53,.86),.041,0)
-axle('WholeHandCrankBearing',-.075,.075,-.53,.86,.037,0,20)
-axle('WholeHandCrankThroughAxle',-.155,.155,-.53,.86,.014,1,16)
-for j,s in enumerate([-1,1]):
- beam('WholeHandCrankArm_%d'%j,(s*.145,-.53,.86),(s*.145,-.405,.90),.022,1)
- axle('WholeOutwardHandGrip_%d'%j,min(s*.14,s*.26),max(s*.14,s*.26),-.405,.90,.019,2,16)
- beam('WholeFrontFootRestArm_%d'%j,(0,-.49,.43),(s*.23,-.67,.25),.024,0)
- box('WholeFixedForwardFootRest_%d'%j,(s*.23,-.69,.252),(.145,.25,.028),2)
-# The two full fixed discs and connecting loop are visible appearance, not a functional drive.
-axle('WholeUpperHandDriveDisc',.083,.106,-.53,.86,.079,1,32)
-axle('WholeLowerFrontDriveDisc',.083,.106,-.72,.32,.079,1,32)
-def tube(name,pts,r,mat,n=8,closed=False):
- v=[];L=len(pts)
- for k,P in enumerate(pts):
-  prev=pts[(k-1)%L]if closed else pts[max(k-1,0)];nex=pts[(k+1)%L]if closed else pts[min(k+1,L-1)];T=unit(sub(nex,prev));u=unit(cross(T,(0,1,0)if abs(T[1])<.9 else(1,0,0)));w=cross(T,u)
-  for i in range(n):v.append(tuple(P[q]+r*(u[q]*math.cos(math.tau*i/n)+w[q]*math.sin(math.tau*i/n))for q in range(3)))
- fs=[]
- for k in range(L if closed else L-1):
-  kk=(k+1)%L
-  for i in range(n):fs.append((k*n+i,k*n+(i+1)%n,kk*n+(i+1)%n,kk*n+i))
- if not closed:fs +=[tuple(reversed(range(n))),tuple((L-1)*n+i for i in range(n))]
- mesh(name,v,fs,mat)
-
-
-c0=(-.72,.32);c1=(-.53,.86);d=unit((0,c1[0]-c0[0],c1[1]-c0[1]));angle=math.atan2(d[2],d[1]);pts=[]
-for c,start in[(c1,angle-math.pi/2),(c0,angle+math.pi/2)]:
- for j in range(17):
-  a=start+math.pi*j/16;pts.append((.094,c[0]+.080*math.cos(a),c[1]+.080*math.sin(a)))
-tube('WholeClosedFixedHandDriveLoop',pts,.005,2,6,True)
-lo=[min(p[k]for v,f,m in G.values()for p in v)for k in range(3)];hi=[max(p[k]for v,f,m in G.values()for p in v)for k in range(3)];SHIFT=((lo[0]+hi[0])/2,(lo[1]+hi[1])/2,lo[2]);G={n:([tuple(p[k]-SHIFT[k]for k in range(3))for p in v],f,m)for n,(v,f,m)in G.items()}
-PALETTE=[('WholeLongFrameAndFork_MutedTeal',(.075,.28,.27,1),.59,.30),('WholeRimsSpokesAxlesAndDiscs_SatinAlloy',(.49,.54,.54,1),.43,.65),('WholeTiresGripsFootrestsAndLoop_Charcoal',(.035,.045,.047,1),.84,0),('WholeReclinedSeatShell_WarmOrange',(.60,.27,.105,1),.82,0)]
+# One thick annular dome shell: top vent stays genuinely empty through both skins.
+N=64;profile=[(.13,3.20),(.32,3.19),(.66,3.08),(.95,2.85),(1.16,2.50),(1.20,2.28)];v=[];f=[];mats=[]
+for side in[0,1]:
+ for k,(r,z)in enumerate(profile):
+  for j in range(N):
+   a=math.tau*j/N;bulge=math.sin(math.pi*(j%4)/4);rr=r*(1-.025*bulge*(r/1.2)**2);zz=z+(.065*bulge if k==len(profile)-1 else .018*bulge*(r/1.2))-.014*side
+   v.append((rr*math.cos(a),rr*math.sin(a),zz))
+L=len(profile)*N
+for side in[0,1]:
+ for k in range(len(profile)-1):
+  for j in range(N):q=(j+1)%N;a=side*L+k*N+j;b=side*L+k*N+q;c=side*L+(k+1)*N+q;d=side*L+(k+1)*N+j;f.append((a,b,c,d)if side==0 else(d,c,b,a));mats.append((j//4)%2)
+for k in[0,len(profile)-1]:
+ for j in range(N):q=(j+1)%N;a=k*N+j;b=k*N+q;f.append((a,L+a,L+b,b)if k==0 else(b,L+b,L+a,a));mats.append((j//4)%2)
+mesh('WholeOpenVentAndScallopedHemCanopyShell',v,f,0);FM['WholeOpenVentAndScallopedHemCanopyShell']=[m for m in mats for _ in range(2)]
+# Newly authored complete empty lower webbing loops and real connecting straps.
+def ovalband(name,cx,cy,rx,ry,z0,z1,w):
+ n=32;v=[(cx+(rx-d)*math.cos(math.tau*j/n),cy+(ry-d)*math.sin(math.tau*j/n),z)for z,d in[(z0,0),(z1,0),(z0,w),(z1,w)]for j in range(n)];f=[]
+ for j in range(n):q=(j+1)%n;f +=[(j,q,n+q,n+j),(2*n+j,3*n+j,3*n+q,2*n+q),(j,2*n+j,2*n+q,q),(n+j,n+q,3*n+q,3*n+j)]
+ mesh(name,v,f,3)
+ovalband('WholeEmptyWaistWebbingLoop',0,0,.19,.13,.255,.310,.025)
+for j,x in enumerate([-.092,.092]):
+ ovalband('WholeGroundFootEmptyLegLoop_%d'%j,x,0,.079,.102,0,.046,.022)
+ for k,s in enumerate([-1,1]):beam('WholeLegToWaistWebbing_%d_%d'%(j,k),(x,s*.086,.031),(x*1.55,s*.076,.275),.029,3)
+# Four whole risers; suspension lines are complete solid appearances, not simulated cables.
+for j,(sx,sy)in enumerate([(-1,-1),(1,-1),(1,1),(-1,1)]):
+ beam('WholeLowerRiserStrap_%d'%j,(sx*.147,sy*.077,.280),(sx*.165,sy*.105,.620),.033,3)
+for j in range(16):
+ a=math.tau*j/16;sx=1 if math.cos(a)>=0 else -1;sy=1 if math.sin(a)>=0 else -1
+ start=(sx*.165,sy*.105,.605);end=(1.20*math.cos(a),1.20*math.sin(a),2.274)
+ beam('WholeContinuousSuspensionLine_%02d'%j,start,end,.010,2)
+PALETTE=[('WholeCanopyGores_WarmIvory',(.87,.83,.70,1),.87,0),('WholeCanopyGores_MutedCoral',(.66,.22,.10,1),.85,0),('WholeCompleteSuspensionLines_PaleCord',(.62,.65,.61,1),.89,0),('WholeEmptyLowerRig_CharcoalWebbing',(.055,.075,.072,1),.92,0)]
 # BLENDER PHASE
 import bpy
 from mathutils import Vector
@@ -164,16 +138,16 @@ if '--view' in sys.argv:view=sys.argv[sys.argv.index('--view')+1]
 assert view in ['qa-front','thumbnail']
 scene.cycles.samples=16 if view=='qa-front' else 128
 scene.world.use_nodes=True;scene.world.node_tree.nodes['Background'].inputs['Color'].default_value=(.28,.28,.28,1);scene.world.node_tree.nodes['Background'].inputs['Strength'].default_value=.8
-focus=Vector((0,0,.43))
+focus=Vector((0,0,1.55))
 def aim(o,p):o.location=p;o.rotation_euler=(focus-o.location).to_track_quat('-Z','Y').to_euler()
 for name,pos,power,size in [('Key',(-3,-4,6),700,4),('Fill',(4,-2,4),380,3.5),('Rim',(2,4,5),500,3)]:
  bpy.ops.object.light_add(type='AREA',location=pos);l=bpy.context.object;l.name='Preview_'+name;l.data.energy=power;l.data.shape='DISK';l.data.size=size;aim(l,pos)
-bpy.ops.object.camera_add();cam=bpy.context.object;cam.name='Preview_Camera';cam.data.type='ORTHO';cam.data.ortho_scale=2.25;aim(cam,(5,-7,4));scene.camera=cam
+bpy.ops.object.camera_add();cam=bpy.context.object;cam.name='Preview_Camera';cam.data.type='ORTHO';cam.data.ortho_scale=4.05;aim(cam,(6,-9,5));scene.camera=cam
 bpy.ops.mesh.primitive_plane_add(size=200,location=(0,0,-.002));ground=bpy.context.object;ground.name='Preview_Ground';m=bpy.data.materials.new('Preview_Background');m.diffuse_color=(.43,.43,.43,1);ground.data.materials.append(m)
 scene.render.filepath=str(OUT/(view+'.png'));bpy.ops.render.render(write_still=True)
 if view=='thumbnail':
  files={}
  for role,name in [('glb','model.glb'),('blend','source.blend'),('generator','generate.py'),('render','thumbnail.png')]:
-  p=OUT/name;files[role]={'path':f'assets/music/{ASSET}/v1.0.0/{name}','size':p.stat().st_size,'sha256':hashlib.sha256(p.read_bytes()).hexdigest()}
- d={'id':ASSET,'version':'1.0.0','category':'props','assetKind':'prop','theme':'music','style':'S01-clean-geometric','title':'Fixed Low Seat and Front Handcrank Tricycle','description':'One newly authored complete recumbent handcycle-style static exterior. Two separate rear spoked wheels on a full transverse axle support a long low frame and continuous reclined seat/back shell. A forward single wheel sits in a complete two-cheek fork; above it an independent elevated hand-crank axle carries two full arms and outward grips. A fixed complete loop links the upper crank-disc appearance to a separate lower front-wheel disc. Two forward foot-rest platforms lie beside the front assembly rather than forming pedals at the seat. The whole low-seat, long front reach and elevated hand-drive-to-front-wheel organization is new geometry, not the old four-wheel manual wheelchair with one caster removed or the old stationary exercise-cycle given road wheels. No old visible mesh imported. One model zero scenes; four opaque untextured PBR appearances, metres native Z up and whole horizontal-envelope-centred ground origin on three complete finite tire facets. All parts are one fixed display pose; no steering, rolling, hand propulsion, chain meshing or travel, braking, speed, seating or disability fit, rehabilitation, athletic efficacy, load, manufacture or safety is claimed. No rider, rig, animation or interaction.','bounds':dict(zip(['x','y','z'],[max(p[k]for v,f,m in G.values()for p in v)-min(p[k]for v,f,m in G.values()for p in v) for k in range(3)]),unit='m'),'triangles':triangles,'materials':4,'files':files,'status':'review','license':'All rights reserved'}
+  p=OUT/name;files[role]={'path':f'assets/sports/{ASSET}/v1.0.0/{name}','size':p.stat().st_size,'sha256':hashlib.sha256(p.read_bytes()).hexdigest()}
+ d={'id':ASSET,'version':'1.0.0','category':'props','assetKind':'prop','theme':'sports','style':'S01-clean-geometric','title':'Fixed Open Vent Round Canopy and Empty Suspension Rig','description':'One newly authored complete round-parachute-style fixed expanded art pose. A single continuous finite-thickness domed fabric shell has a true circular crown vent, sixteen integral softly scalloped radial gores and a wholly open underside. Sixteen complete suspension-line appearances run from the lower hem to four full lower riser straps, which join a newly authored empty waist and two leg-loop rig. There is no central mast, ribs, spreaders, basket, burner or copied harness. The open-bottom broad canopy and converging many-line-to-small-empty-rig relation differs from both the old shallow pole-supported parasol and the old narrow-neck pear envelope over a basket. All visible numeric geometry is new, one whole prop zero scenes, four opaque constant PBR roles, metres Z up and whole horizontal-envelope-centred ground datum on the two lower loop edges. The unsupported-looking expanded pose is a fixed illustrative arrangement, not a physical equilibrium or deployment result. No pressure, airflow, descent rate, lift, inflation, packing, attachment, load, user fit, harness adequacy, flight or parachuting safety capability is represented. No rigging for motion, simulation, animation or interaction is delivered.','bounds':dict(zip(['x','y','z'],[max(p[k]for v,f,m in G.values()for p in v)-min(p[k]for v,f,m in G.values()for p in v) for k in range(3)]),unit='m'),'triangles':triangles,'materials':4,'files':files,'status':'review','license':'All rights reserved'}
  (OUT/'metadata.json').write_text(json.dumps(d,indent=2)+'\n')

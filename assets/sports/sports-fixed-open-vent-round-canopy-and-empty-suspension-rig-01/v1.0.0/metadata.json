@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "category": "props",
   "assetKind": "prop",
-  "theme": "music",
+  "theme": "sports",
   "style": "S01-clean-geometric",
   "title": "Fixed Open Vent Round Canopy and Empty Suspension Rig",
   "description": "One newly authored complete round-parachute-style fixed expanded art pose. A single continuous finite-thickness domed fabric shell has a true circular crown vent, sixteen integral softly scalloped radial gores and a wholly open underside. Sixteen complete suspension-line appearances run from the lower hem to four full lower riser straps, which join a newly authored empty waist and two leg-loop rig. There is no central mast, ribs, spreaders, basket, burner or copied harness. The open-bottom broad canopy and converging many-line-to-small-empty-rig relation differs from both the old shallow pole-supported parasol and the old narrow-neck pear envelope over a basket. All visible numeric geometry is new, one whole prop zero scenes, four opaque constant PBR roles, metres Z up and whole horizontal-envelope-centred ground datum on the two lower loop edges. The unsupported-looking expanded pose is a fixed illustrative arrangement, not a physical equilibrium or deployment result. No pressure, airflow, descent rate, lift, inflation, packing, attachment, load, user fit, harness adequacy, flight or parachuting safety capability is represented. No rigging for motion, simulation, animation or interaction is delivered.",
@@ -17,22 +17,22 @@
   "materials": 4,
   "files": {
     "glb": {
-      "path": "assets/music/sports-fixed-open-vent-round-canopy-and-empty-suspension-rig-01/v1.0.0/model.glb",
+      "path": "assets/sports/sports-fixed-open-vent-round-canopy-and-empty-suspension-rig-01/v1.0.0/model.glb",
       "size": 177392,
       "sha256": "765882405cf8441b27c4f4841363f91de35e0a5d9a98f11a5b3f8e2d51c0bbe0"
     },
     "blend": {
-      "path": "assets/music/sports-fixed-open-vent-round-canopy-and-empty-suspension-rig-01/v1.0.0/source.blend",
+      "path": "assets/sports/sports-fixed-open-vent-round-canopy-and-empty-suspension-rig-01/v1.0.0/source.blend",
       "size": 809820,
       "sha256": "830026c152273d64ce5946b99b2abcaf6350a25df4ee0d6bc73ac88db3dfe508"
     },
     "generator": {
-      "path": "assets/music/sports-fixed-open-vent-round-canopy-and-empty-suspension-rig-01/v1.0.0/generate.py",
-      "size": 11202,
-      "sha256": "884a8f7681b93f1b8c1a2fb95061427cb02e8abbbe583025903cc9f69347342c"
+      "path": "assets/sports/sports-fixed-open-vent-round-canopy-and-empty-suspension-rig-01/v1.0.0/generate.py",
+      "size": 11204,
+      "sha256": "9a2da61002715675a0e856cf67141092bb1ea2162198592057c66afdce255306"
     },
     "render": {
-      "path": "assets/music/sports-fixed-open-vent-round-canopy-and-empty-suspension-rig-01/v1.0.0/thumbnail.png",
+      "path": "assets/sports/sports-fixed-open-vent-round-canopy-and-empty-suspension-rig-01/v1.0.0/thumbnail.png",
       "size": 469672,
       "sha256": "102c5f25a91ddb4672b6d87308aae76f37f4b39f0a37d908daca866db8720eac"
     }
