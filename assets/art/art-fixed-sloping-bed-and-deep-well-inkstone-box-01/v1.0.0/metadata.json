@@ -1,0 +1,42 @@
+{
+  "id": "art-fixed-sloping-bed-and-deep-well-inkstone-box-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "art",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Sloping Bed and Deep Well Inkstone Box",
+  "description": "One newly authored whole empty calligraphy inkstone-box appearance, counted as one complete set rather than separate body and lid assets. A single shared-vertex thick rectangular stone body joins a long shallow sloping grinding bed to a noticeably deeper terminal blind well through one continuous steeper transition. The full surrounding rim, side walls and finite base remain one closed material shell; this is neither an even-depth trough nor a flat slab with cosmetic painted reservoir. A whole matching low cover with an integral smaller underside plug lies separately beside it, with a positive full-body gap. Unlike the old deep round mortar and pedestal this has no deep cup or loose pestle; unlike the broad-foot muller set it has a true variable-depth receiving cavity and a cover rather than a solid planar board and upright grinding tool. All numeric geometry newly authored. Two opaque constant PBR materials, metres Z up, horizontal-bounds-centred ground datum. One whole craft prop zero scenes. Generic static inkstone-inspired visual only, not a particular historical or cultural reconstruction. No ink, liquid, grinding, fluid behaviour, material authenticity, chemical suitability, water sealing, lid fit under motion, manufacture or safe-use claim. No rigging, animation or interaction.",
+  "bounds": {
+    "x": 0.4149999999999999,
+    "y": 0.32,
+    "z": 0.055,
+    "unit": "m"
+  },
+  "triangles": 176,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/art/art-fixed-sloping-bed-and-deep-well-inkstone-box-01/v1.0.0/model.glb",
+      "size": 8140,
+      "sha256": "9fdab7ad99548218ce88de10b052904a507557d12b0d8fb647eea2266fd56346"
+    },
+    "blend": {
+      "path": "assets/art/art-fixed-sloping-bed-and-deep-well-inkstone-box-01/v1.0.0/source.blend",
+      "size": 512532,
+      "sha256": "59052455600967d1ba46125f6d256033d58e780257c580f8e8a2f39dbe3dbb69"
+    },
+    "generator": {
+      "path": "assets/art/art-fixed-sloping-bed-and-deep-well-inkstone-box-01/v1.0.0/generate.py",
+      "size": 11172,
+      "sha256": "59f6fe894f2512a90fea0a96a5bad09cf6c5cd546bbf4a3209fb52fe95dc599a"
+    },
+    "render": {
+      "path": "assets/art/art-fixed-sloping-bed-and-deep-well-inkstone-box-01/v1.0.0/thumbnail.png",
+      "size": 375135,
+      "sha256": "bf7f6ca75799d73872df709990c4922bd8706cc0f4cd48e4031fe60a8a8d077d"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

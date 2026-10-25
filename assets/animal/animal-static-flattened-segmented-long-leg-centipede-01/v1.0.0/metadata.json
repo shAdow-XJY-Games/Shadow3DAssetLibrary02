@@ -1,0 +1,42 @@
+{
+  "id": "animal-static-flattened-segmented-long-leg-centipede-01",
+  "version": "1.0.0",
+  "category": "modular",
+  "assetKind": "prop",
+  "theme": "animal",
+  "style": "warm-handcrafted-village",
+  "title": "Static Flattened-Segmented Long-Leg Centipede",
+  "description": "One newly authored whole static stylised centipede-like animal. A broad low head joins one continuous gently curved flattened dorsal trunk with real shallow intersegment waists and tapered rear. Long articulated-looking lateral legs reach outward from successive body segments, with a deliberately longer backward-directed terminal pair, rather than a soft grub with short grouped prolegs. Two long fine forward antennae and small lateral eye details complete the head. Whole head and flat body cross-sections, segment progression and all leg paths are newly authored, not extra legs attached to an old caterpillar or an earwig stretched behind its wing covers. One whole animal model zero scenes. Simplified fixed opaque exterior; no exact species, biological leg number, venom, bite, hunting, gait, rig or animation claim.",
+  "bounds": {
+    "x": 1.264950275,
+    "y": 3.795131207,
+    "z": 0.363946259,
+    "unit": "m"
+  },
+  "triangles": 2796,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/animal/animal-static-flattened-segmented-long-leg-centipede-01/v1.0.0/model.glb",
+      "size": 173444,
+      "sha256": "cd4ec9ffac1c914a61cc0933f9a29c891267ca82e1fd726815ee4a7952e3e0b6"
+    },
+    "blend": {
+      "path": "assets/animal/animal-static-flattened-segmented-long-leg-centipede-01/v1.0.0/source.blend",
+      "size": 771164,
+      "sha256": "27ddb98fbca96e34fb86d471a34a063300a124e2c90fa51baa7ddf1cf7f204fd"
+    },
+    "generator": {
+      "path": "assets/animal/animal-static-flattened-segmented-long-leg-centipede-01/v1.0.0/generate.py",
+      "size": 29596,
+      "sha256": "accbc0bfcf1aefa1ee1aed872a27b7ec03f36bf3b286904a1f41e2dd36bebcd3"
+    },
+    "render": {
+      "path": "assets/animal/animal-static-flattened-segmented-long-leg-centipede-01/v1.0.0/thumbnail.png",
+      "size": 488986,
+      "sha256": "d066824dc94f22d3a9878d1b5dfc9078d09fb453fcda834b9c35ab595a3e545c"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
