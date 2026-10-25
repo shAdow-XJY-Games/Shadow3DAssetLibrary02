@@ -1314,6 +1314,11 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary02",
       "commit": "44ef975a73e1270a49a47f76ebaee1d744b0946f"
+    },
+    "original-qualified-batch-1055-volume02-20261025": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary02",
+      "commit": "dc5470b7c477a91adfa075c6e93f28a889b8f7e0"
     }
   },
   "assets": [
@@ -46509,6 +46514,178 @@
       "status": "verified",
       "license": "All rights reserved",
       "sourceId": "original-qualified-batch-1051-volume02-20261025"
+    },
+    {
+      "id": "aviation-fixed-open-tapered-windsock-and-mouth-hoop-mast-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "aviation",
+      "style": "S01-clean-geometric",
+      "title": "Fixed Open Tapered Windsock and Mouth Hoop Mast",
+      "description": "One newly authored complete fixed extended windsock display with its own broad flat base and full tall mast, upper sleeve and branching mouth-hoop supports. A continuous thick tapered fabric-style shell follows a lightly sagged centreline, with real inner wall, full finite end rims and genuinely open large mouth and small tail. The independent circular mouth hoop supports the whole upper cuff; no cap or opaque disc fakes either opening. This is not a rigid arrow vane or a three-cup rotor rematerialized, and no old numeric mesh is imported. One model zero scenes, four opaque PBR roles, metres Z up and horizontal-envelope centred ground datum. Static illustrative exterior only: no actual wind response, free rotation, cloth simulation, aerodynamic or weather measurement, flight, mounting compatibility, load, structural or safety capability.",
+      "bounds": {
+        "x": 1.318,
+        "y": 0.44,
+        "z": 1.47,
+        "unit": "m"
+      },
+      "triangles": 2344,
+      "materials": 4,
+      "files": {
+        "glb": {
+          "path": "assets/aviation/aviation-fixed-open-tapered-windsock-and-mouth-hoop-mast-01/v1.0.0/model.glb",
+          "size": 125800,
+          "sha256": "9fe7424004e4cde56107dbedba2e151ffdce957d0162d18d134688b592bf0b35"
+        },
+        "blend": {
+          "path": "assets/aviation/aviation-fixed-open-tapered-windsock-and-mouth-hoop-mast-01/v1.0.0/source.blend",
+          "size": 703736,
+          "sha256": "1ba1010e6f93a4b9e07aff786038e852d62a4d592de7a77a190ee0fb5b7a2759"
+        },
+        "generator": {
+          "path": "assets/aviation/aviation-fixed-open-tapered-windsock-and-mouth-hoop-mast-01/v1.0.0/generate.py",
+          "size": 10204,
+          "sha256": "e4939d2dc7314d5c01dfc735fddba582839a34185b107606e0d351980ba28277"
+        },
+        "render": {
+          "path": "assets/aviation/aviation-fixed-open-tapered-windsock-and-mouth-hoop-mast-01/v1.0.0/thumbnail.png",
+          "size": 364432,
+          "sha256": "7d473cac2c2ac6eee4d73a6cd746ea8a9bd56025f564b8eb35753ae15d5e5efc"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1055-volume02-20261025"
+    },
+    {
+      "id": "education-fixed-cutaway-tapered-tube-and-seated-float-display-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "education",
+      "style": "source-preserved-low-poly",
+      "title": "Fixed Cutaway Tapered Tube And Seated Float Display",
+      "description": "One newly authored complete static tapered-tube float-instrument cutaway display. A single long gradually widening thick tube has its entire front half intentionally removed, exposing a short separate waisted float-like solid within the widening channel. A small explicit rear display pin holds that body in one fixed pose. Integral reducing upper and lower annular heads continue into true open connector mouths, and two separate rear seats join the heads to one tall narrow rear post on a common broad base. A blank narrow comparison strip on two whole sloping brackets stands beside the cutaway, not in its bore. Unlike the complete old U-tube, there are no parallel joined columns or lower return; unlike the float water clock, there is no receiving basin, suspended upper reservoir, tall indicator rod or moving index. Not an old blind cistern barometer narrowed: no blind end, lower enlarged cistern or cursor. All visible geometry is new numeric construction. Four opaque constant untextured PBR roles, metres and Z up, one whole prop zero scenes. The body is a fixed artistic flowmeter-inspired exhibit, not a working rotameter. No float travel or buoyancy, flow, calibrated measurement, graduated scale, fluid path validity, pressure containment, seal, transparency, medical or food suitability, manufacture, load or safety claim. No fluid, operating parts, rig, animation or interaction.",
+      "bounds": {
+        "x": 0.4699999988079071,
+        "y": 0.4699999988079071,
+        "z": 1.225000023841858,
+        "unit": "m"
+      },
+      "triangles": 1708,
+      "materials": 4,
+      "files": {
+        "glb": {
+          "path": "assets/education/education-fixed-cutaway-tapered-tube-and-seated-float-display-01/v1.0.0/model.glb",
+          "size": 152604,
+          "sha256": "61156d770caaeae88c12e483afdc38ab0a4b0e6b1ba87ec7f8245fbaa1a431f9"
+        },
+        "blend": {
+          "path": "assets/education/education-fixed-cutaway-tapered-tube-and-seated-float-display-01/v1.0.0/source.blend",
+          "size": 803616,
+          "sha256": "5ae99744217de2503e0d93cfa48ef9bc2dad9eb60e7a7e7109bf0792a129bbec"
+        },
+        "generator": {
+          "path": "assets/education/education-fixed-cutaway-tapered-tube-and-seated-float-display-01/v1.0.0/generate.py",
+          "size": 18250,
+          "sha256": "3ae3b2afd8dacc35b0aa0f345028896281b2751091ffce0d42b66f567706cb73"
+        },
+        "render": {
+          "path": "assets/education/education-fixed-cutaway-tapered-tube-and-seated-float-display-01/v1.0.0/thumbnail.png",
+          "size": 462415,
+          "sha256": "c97fee43939213818ed3c2c912ccf522b55c8da333b8dcab946a065b741f8585"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1055-volume02-20261025"
+    },
+    {
+      "id": "interior-fixed-crossed-frame-and-opposed-pad-kneeling-chair-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "interior",
+      "style": "S01-clean-geometric",
+      "title": "Fixed Crossed Frame and Opposed Pad Kneeling Chair",
+      "description": "One newly authored complete backless kneeling-chair appearance. A higher forward-descending thick seat and a separate lower counter-inclined broad knee pad are carried by two whole crossed timber frame pairs in separated lateral layers. Full front and rear ground crossfeet, full pad underboards, end ties and fixed crossing pins complete the object. This is not a taller two-level step stool, a rear-free cantilever chair, or a standard seat with an added plank. Both pads and the whole frame geometry are newly authored; no old mesh is imported. Three opaque PBR materials, metres Z up and complete horizontal-bounds-centred ground origin. One static model and zero scenes. No backrest, moving hinge, adjustability, folding, occupant, ergonomic fit, posture benefit, therapy, comfort, load, stability, manufacture or safety claim.",
+      "bounds": {
+        "x": 0.6,
+        "y": 0.9199999999999999,
+        "z": 0.6793306545592156,
+        "unit": "m"
+      },
+      "triangles": 520,
+      "materials": 3,
+      "files": {
+        "glb": {
+          "path": "assets/interior/interior-fixed-crossed-frame-and-opposed-pad-kneeling-chair-01/v1.0.0/model.glb",
+          "size": 33208,
+          "sha256": "5bcb575ec3ee57ead600b1684bb666d89d3d35ee7c452a49e22d7473dec893b6"
+        },
+        "blend": {
+          "path": "assets/interior/interior-fixed-crossed-frame-and-opposed-pad-kneeling-chair-01/v1.0.0/source.blend",
+          "size": 618988,
+          "sha256": "0766b589b009a532c9a4226422e15fa6f2fe8ba164eb24b39a43ea6d2a03853e"
+        },
+        "generator": {
+          "path": "assets/interior/interior-fixed-crossed-frame-and-opposed-pad-kneeling-chair-01/v1.0.0/generate.py",
+          "size": 11385,
+          "sha256": "99bf7a31cab038bbb1b6f4f86ec1e7b5f43254bcfe4982685c809f455654bf8f"
+        },
+        "render": {
+          "path": "assets/interior/interior-fixed-crossed-frame-and-opposed-pad-kneeling-chair-01/v1.0.0/thumbnail.png",
+          "size": 448603,
+          "sha256": "260b3ad57b1371548106b802845eeebe7bb2eb972c9c681410ad3572e5099d0f"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1055-volume02-20261025"
+    },
+    {
+      "id": "village-fixed-cutaway-lattice-wall-and-crown-yurt-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "village",
+      "style": "S01-clean-geometric",
+      "title": "Fixed Cutaway Lattice Wall and Crown Yurt",
+      "description": "One newly authored whole cutaway round dwelling appearance. A grounded circular floor carries two complete circular wall bands and two radial layers of full diagonally curved timber slats forming open crossed lattice. Front-sector lattice is intentionally omitted to expose the structure while a full entry frame remains. Twenty-four whole radial rafters rise from the upper wall band to a real open crown ring, under one thick three-quarter conical roof cover with complete cut edges. This whole circular lattice-wall/crown/rafter relationship is not a resized cross-pole dome tent or an arched slatted canopy; no old mesh is imported. The open front and missing exterior wall fabric are deliberate explanatory cutaways, not damage variants or a weatherproof completed residence. Three opaque PBR materials, metres Z up and full horizontal-bounds-centred ground origin. One static model and zero scenes. No furnishings, occupant, door leaf, fabric simulation, assembly mechanism, cultural or historical precision, habitability, insulation, weather resistance, loading, construction method, manufacture, installation or safety claim.",
+      "bounds": {
+        "x": 2.68,
+        "y": 2.68,
+        "z": 2.2,
+        "unit": "m"
+      },
+      "triangles": 5356,
+      "materials": 3,
+      "files": {
+        "glb": {
+          "path": "assets/village/village-fixed-cutaway-lattice-wall-and-crown-yurt-01/v1.0.0/model.glb",
+          "size": 386112,
+          "sha256": "c9991f2688fa3ebba276b1ec66291215818e449ef4874cdd946456633f6482ef"
+        },
+        "blend": {
+          "path": "assets/village/village-fixed-cutaway-lattice-wall-and-crown-yurt-01/v1.0.0/source.blend",
+          "size": 1106428,
+          "sha256": "6a2642bd951eb8430e373c1ebdb298bc3250765a1102119458407cfcffb9caa8"
+        },
+        "generator": {
+          "path": "assets/village/village-fixed-cutaway-lattice-wall-and-crown-yurt-01/v1.0.0/generate.py",
+          "size": 11908,
+          "sha256": "bb1d4553be0b2e91d94450c52dc8768baad09fdf91374b38b60cbd339a0c3614"
+        },
+        "render": {
+          "path": "assets/village/village-fixed-cutaway-lattice-wall-and-crown-yurt-01/v1.0.0/thumbnail.png",
+          "size": 551715,
+          "sha256": "630ccd3cbc764130d48261b4092e62c9a79cf14b6996eab16ffdd29e096d0919"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1055-volume02-20261025"
     }
   ]
 }
