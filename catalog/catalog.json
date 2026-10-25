@@ -1244,6 +1244,11 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary02",
       "commit": "e4151d9fbff401b4ad9f9c1a8f2a0d065629ab82"
+    },
+    "original-qualified-batch-995-volume02-20261025": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary02",
+      "commit": "0456b4d8e13c97cba07a998ddd0db9fa2836ca0e"
     }
   },
   "assets": [
@@ -43730,6 +43735,307 @@
       "status": "verified",
       "license": "All rights reserved",
       "sourceId": "original-qualified-batch-988-volume02-20261025"
+    },
+    {
+      "id": "cafe-fixed-upright-boiler-and-raised-lever-coffee-machine-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "cafe",
+      "style": "source-preserved-low-poly",
+      "title": "Fixed Upright Boiler and Raised Lever Coffee Machine",
+      "description": "One newly authored complete static upright-boiler lever-coffee-machine appearance. Four pads and a low shaped base carry a tall exposed round closed boiler exterior and separate top cap/grip. An independent offset front group cylinder is seated on a full shoulder, with a fixed filter bowl, angled separate handle and short blunt spout. A high cross-pivot carries one raised long lever/grip, while a fixed central piston stem and two separate short side links form a continuous visible attachment. A complete shallow cup tray has real open gaps between five whole bars. Side valve knob and one continuous parked rigid wand complete the exterior. Three opaque materials, one prop zero scenes; no old box espresso machine or citrus C-frame geometry imported or resized. Empty static visual art only: no liquid, heater, pressure vessel interior, water path, working linkage, extraction, coffee production, food contact, manufacture, operating instructions or appliance safety. Rigging animation interaction not made.",
+      "bounds": {
+        "x": 0.370683878660202,
+        "y": 0.5474414229393005,
+        "z": 0.7226960062980652,
+        "unit": "m"
+      },
+      "triangles": 2364,
+      "materials": 3,
+      "files": {
+        "glb": {
+          "path": "assets/cafe/cafe-fixed-upright-boiler-and-raised-lever-coffee-machine-01/v1.0.0/model.glb",
+          "size": 223224,
+          "sha256": "b77047adb3c9ab842f962ba51ebff3ddd17dd779d476babf85b894223a9fa164"
+        },
+        "blend": {
+          "path": "assets/cafe/cafe-fixed-upright-boiler-and-raised-lever-coffee-machine-01/v1.0.0/source.blend",
+          "size": 952704,
+          "sha256": "01865fe3217ccca5a2aad2ba15e8dcb984f6a82b60d5c4ee16cc1f8677a855e0"
+        },
+        "generator": {
+          "path": "assets/cafe/cafe-fixed-upright-boiler-and-raised-lever-coffee-machine-01/v1.0.0/generate.py",
+          "size": 16694,
+          "sha256": "9330f2134b22c6e22b18350973701062022a778fbe33df4a20d41309e5317659"
+        },
+        "render": {
+          "path": "assets/cafe/cafe-fixed-upright-boiler-and-raised-lever-coffee-machine-01/v1.0.0/thumbnail.png",
+          "size": 536102,
+          "sha256": "342bf1c8308999d3070ddb6308c9f06927ab26a56e9f2922c7f28f163f073886"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-995-volume02-20261025"
+    },
+    {
+      "id": "construction-fixed-wide-front-drum-and-articulated-waist-roller-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "construction",
+      "style": "S01-clean-geometric",
+      "title": "Fixed Wide Front Drum and Articulated Waist Roller",
+      "description": "One independently authored complete road-roller-style machine exterior. One very broad continuous front steel-drum body with integral stepped ends is held by a complete forward-open U fork and transverse axle. A low lower tongue, separate raised rear chassis and whole retained vertical pin form a visible fixed articulated-waist relation. Behind it are two complete annular rear tyres/hubs, a short sloped power cover and a full forward operator deck with empty seat, blank cowl, true open steering wheel and a one-piece two-post overhead frame/canopy. A separately rooted entry step completes the exterior. All coordinates newly drawn, no grader arch/blade, paver hopper/screed/track or old vehicle meshes imported. Structural novelty is the entire drum/fork/waist and compact rear station topology, not altered wheel count, colour or vehicle proportions. Four opaque constant PBR roles, metres, Z up and horizontally bounds-centred whole finite three-contact ground datum. One complete prop, zero scenes. Empty static exterior only: no engine/hydraulic internals, compaction, drive, steering, articulation travel, wheel/drum rotation, traction, occupancy, ergonomic fit, load, protective frame, manufacture, equipment operation or engineering/safety capability. Rigging, animation and interaction are not made.",
+      "bounds": {
+        "x": 2.12,
+        "y": 3.47,
+        "z": 2.37,
+        "unit": "m"
+      },
+      "triangles": 2392,
+      "materials": 4,
+      "files": {
+        "glb": {
+          "path": "assets/construction/construction-fixed-wide-front-drum-and-articulated-waist-roller-01/v1.0.0/model.glb",
+          "size": 127216,
+          "sha256": "3100bf9b1c4865abd80471671dd8383278197d44e8fec382b2a8e29a8556a641"
+        },
+        "blend": {
+          "path": "assets/construction/construction-fixed-wide-front-drum-and-articulated-waist-roller-01/v1.0.0/source.blend",
+          "size": 791844,
+          "sha256": "44b6ca486a5e037a766b5c344d35b4013361884d8d3b9bc047bc4e0feae58edc"
+        },
+        "generator": {
+          "path": "assets/construction/construction-fixed-wide-front-drum-and-articulated-waist-roller-01/v1.0.0/generate.py",
+          "size": 30452,
+          "sha256": "a1867c7fbe26dedc81a7cd4ae710b18f72e17166b77adbf300f41611c9401287"
+        },
+        "render": {
+          "path": "assets/construction/construction-fixed-wide-front-drum-and-articulated-waist-roller-01/v1.0.0/thumbnail.png",
+          "size": 556120,
+          "sha256": "409b91bbfc801bd7a8e04429a1e8a9d573d1b0cc409f4606c9f745c158f9fa8f"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-995-volume02-20261025"
+    },
+    {
+      "id": "interior-fixed-open-side-case-and-lever-lockset-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "interior",
+      "style": "S01-clean-geometric",
+      "title": "Fixed Open Side Case and Lever Lockset",
+      "description": "One complete newly authored fixed open-side door lockset appearance. One thick continuous back-and-rim case joins a projecting faceplate, with two genuine independent side ports. A whole blunt bevel-ended upper tongue and separate whole rectangular lower bolt project through the ports, held by rear guide roots. A complete transverse spindle, bored bearing collar and fixed visible cam connect to a full offset exterior lever handle. The inspection side is deliberately uncovered; it is not a closed working lock. No pin tumblers, cylinder, key, security profile or functioning internal mechanism is represented. Unlike a U-shackle padlock or raised-loop draw latch this whole assembly has an open box, twin side exits and a transverse handle. No old meshes imported. Three opaque PBR materials, metres, Z up and horizontal-bounds-centred ground origin. One static prop zero scenes. No locking, burglary resistance, key compatibility, motion, real lock construction, installation, access control or safety claim. Rigging and interaction not made.",
+      "bounds": {
+        "x": 0.305,
+        "y": 0.17200000000000001,
+        "z": 0.21000000000000002,
+        "unit": "m"
+      },
+      "triangles": 808,
+      "materials": 3,
+      "files": {
+        "glb": {
+          "path": "assets/interior/interior-fixed-open-side-case-and-lever-lockset-01/v1.0.0/model.glb",
+          "size": 39092,
+          "sha256": "e8e94ec5ad9cce2cadd83e2ecad775f1a2453493c08086c2f458ca4c3f8c9544"
+        },
+        "blend": {
+          "path": "assets/interior/interior-fixed-open-side-case-and-lever-lockset-01/v1.0.0/source.blend",
+          "size": 611308,
+          "sha256": "3b5189745e830343e054ecdf21f481866c03833ae87e11a8aeddbb710095d1ba"
+        },
+        "generator": {
+          "path": "assets/interior/interior-fixed-open-side-case-and-lever-lockset-01/v1.0.0/generate.py",
+          "size": 11670,
+          "sha256": "7156361b86089319e619819f5f0064cbcc5450ffd67ff5ba598767afab88d846"
+        },
+        "render": {
+          "path": "assets/interior/interior-fixed-open-side-case-and-lever-lockset-01/v1.0.0/thumbnail.png",
+          "size": 467310,
+          "sha256": "828f73df6cff4d8a8e299ab0345a5ed0cb57491fd045e3a9194d15b4e2a6ea5b"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-995-volume02-20261025"
+    },
+    {
+      "id": "music-fixed-beaded-loop-drum-and-turned-grip-cabasa-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "music",
+      "style": "S01-clean-geometric",
+      "title": "Fixed Beaded Loop Drum and Turned Grip Cabasa",
+      "description": "One newly authored complete fixed-display cabasa-style beaded-loop percussion prop: a single turned grip with a broad flat butt enters the whole wide short cylinder core, with two full rounded wooden end discs retaining five entire closed beaded loops around the cylinder. Each loop is a continuous closed swept surface whose radius alternates from short thin links into rounded faceted beads; it is not a row of loose unconnected balls or a painted stripe. The original opaque core is visible between the loops. All geometry is new, no earlier yo-yo flange, cord, ratchet wheel or reed is extracted or transformed. The complete grip-core-end-disc-and-external-beaded-loop organization differs from the narrow axle and wound single string of the old yo-yo and the open frame, toothed wheel and anchored reed of the old noisemaker. Nine closed editable meshes with four opaque constant PBR appearances, one model and zero scenes. Metres, native Z up, horizontal bounds-centred ground origin on the finite flat grip butt. This is a fixed static illustrative pose: beads have small hidden core overlaps as display attachments, not a freely moving chain mechanism. No sound, friction, rotation, bead articulation, physical balance, manufacturing, child suitability, use or safety performance is claimed; no rig, animation or interaction is made.",
+      "bounds": {
+        "x": 0.132,
+        "y": 0.132,
+        "z": 0.27,
+        "unit": "m"
+      },
+      "triangles": 12624,
+      "materials": 4,
+      "files": {
+        "glb": {
+          "path": "assets/music/music-fixed-beaded-loop-drum-and-turned-grip-cabasa-01/v1.0.0/model.glb",
+          "size": 918300,
+          "sha256": "1dd97b58cbe8f0ffa7e7da8678e5d82ac5b577f34a5215753972e20c7043c11c"
+        },
+        "blend": {
+          "path": "assets/music/music-fixed-beaded-loop-drum-and-turned-grip-cabasa-01/v1.0.0/source.blend",
+          "size": 1263436,
+          "sha256": "9fa1d9f9425a5965a12a820fdf08158459f4bf330f0810767fd8aa352d5848a9"
+        },
+        "generator": {
+          "path": "assets/music/music-fixed-beaded-loop-drum-and-turned-grip-cabasa-01/v1.0.0/generate.py",
+          "size": 10231,
+          "sha256": "ad426151f5f99d1c7a70b020e021acce064f73deba88a587404c42ed68c1482e"
+        },
+        "render": {
+          "path": "assets/music/music-fixed-beaded-loop-drum-and-turned-grip-cabasa-01/v1.0.0/thumbnail.png",
+          "size": 411137,
+          "sha256": "175c72ba72fb445178c54f04e9c8847bb85883cd767f8172c84745b49c60593b"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-995-volume02-20261025"
+    },
+    {
+      "id": "music-fixed-perforated-windchest-and-cluster-pipe-mouth-organ-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "music",
+      "style": "S01-clean-geometric",
+      "title": "Fixed Pierced Windchest and Cluster Pipe Mouth Organ",
+      "description": "One newly authored complete static cluster-pipe mouth-organ appearance. A thick open-interior rectangular windchest with full flat bottom supports one separate thick lid with twelve actual through sockets. Twelve complete unequal-height thick-walled pipes penetrate those sockets in a three-dimensional four-by-three cluster; each pipe has a real open top, blind lower floor and real small forward side aperture. One continuous curved hollow mouth branch enters the chest front wall and ends in an open lip. The new whole windchest, pierced lid, clustered socketed pipes and curved mouth-branch topology is not a panflute pipe-count variant or a keyboard pipe-organ with its keyboard removed. No old component or full asset is extracted or transformed; ordinary mesh tools are reused. One whole model, zero scenes, four opaque PBR appearances, metre Z-up, horizontal bounds-centred ground origin. A generic sheng-inspired static art interpretation, not an exact historical or regional instrument. Interior branch and windchest communication, reeds, acoustic pitch, air supply, finger operation, performance, physical balance, manufacturing and safety are not built or validated. Fixed hidden socket/pipe and branch/wall overlaps represent display support, not airtight joints; no rigging, animation or interaction.",
+      "bounds": {
+        "x": 0.188,
+        "y": 0.30145353935675945,
+        "z": 0.81,
+        "unit": "m"
+      },
+      "triangles": 4180,
+      "materials": 4,
+      "files": {
+        "glb": {
+          "path": "assets/music/music-fixed-perforated-windchest-and-cluster-pipe-mouth-organ-01/v1.0.0/model.glb",
+          "size": 164636,
+          "sha256": "89e6b222daa3885cc2425268810e8413c43fa4bdc1d03730a1adcf2dfe603b75"
+        },
+        "blend": {
+          "path": "assets/music/music-fixed-perforated-windchest-and-cluster-pipe-mouth-organ-01/v1.0.0/source.blend",
+          "size": 834740,
+          "sha256": "4fadf57b3dee3ad350e78a55b86ca77205e7978e4156d52287e93e2efacb39f2"
+        },
+        "generator": {
+          "path": "assets/music/music-fixed-perforated-windchest-and-cluster-pipe-mouth-organ-01/v1.0.0/generate.py",
+          "size": 12680,
+          "sha256": "c2ef8232e486ed8a8e348bd0a32e83244d2877061b53f974ff7d273f5f0ba710"
+        },
+        "render": {
+          "path": "assets/music/music-fixed-perforated-windchest-and-cluster-pipe-mouth-organ-01/v1.0.0/thumbnail.png",
+          "size": 424962,
+          "sha256": "ff6097a0a05e0393ab0d5c1529f1ac59f2a759052b786487aef14b19f3104318"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-995-volume02-20261025"
+    },
+    {
+      "id": "nature-whole-arched-stalk-bilateral-lip-orchid-01",
+      "version": "1.0.0",
+      "category": "modular",
+      "assetKind": "prop",
+      "theme": "nature",
+      "style": "warm-handcrafted-village",
+      "title": "Whole Arched-Stalk Bilateral-Lip Orchid",
+      "description": "One complete newly authored stylised above-ground orchid-like plant. Two thick arching basal strap leaves and a small finite crown support one continuous curved flowering stalk. A single bilateral flower carries three tapered sepals, two much broader upper-side petals, a genuinely thick concave flared lower lip with raised side margins, and a short central column. New entire lamina and lip construction, not a sunflower radial disc with a changed petal count, not the old open spathe rolled around a spadix. The asymmetric top/bottom flower organisation and projecting cup-like lip are the identifying structure; no copied old visible meshes. One static whole plant, zero scenes. No exact species, reproductive microanatomy, roots, pollination, growth, cultivation, medicinal or ecological claims.",
+      "bounds": {
+        "x": 1.13448,
+        "y": 0.317999989,
+        "z": 1.315000057,
+        "unit": "m"
+      },
+      "triangles": 2008,
+      "materials": 4,
+      "files": {
+        "glb": {
+          "path": "assets/nature/nature-whole-arched-stalk-bilateral-lip-orchid-01/v1.0.0/model.glb",
+          "size": 113736,
+          "sha256": "fd830431c77281689a6571113856550a8cd05314582c7f332ac8f1d4680f1358"
+        },
+        "blend": {
+          "path": "assets/nature/nature-whole-arched-stalk-bilateral-lip-orchid-01/v1.0.0/source.blend",
+          "size": 646044,
+          "sha256": "fc37577c129425913987240b054bea20ab7761e459265d7098967c53c6f111df"
+        },
+        "generator": {
+          "path": "assets/nature/nature-whole-arched-stalk-bilateral-lip-orchid-01/v1.0.0/generate.py",
+          "size": 30843,
+          "sha256": "e3ab49a18f17c4cb1f3a93f9e8d2119bab505f445146d9fb4b2b407fe88f4b2d"
+        },
+        "render": {
+          "path": "assets/nature/nature-whole-arched-stalk-bilateral-lip-orchid-01/v1.0.0/thumbnail.png",
+          "size": 478197,
+          "sha256": "90f7e7db26d8c297daf6ddb0c324c077e4aec20702c04b79b2b7a9759e7383f4"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-995-volume02-20261025"
+    },
+    {
+      "id": "technology-fixed-leaf-pack-and-shackle-suspension-module-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "technology",
+      "style": "S01-clean-geometric",
+      "title": "Fixed Leaf Pack and Shackle Suspension Module",
+      "description": "One complete newly authored fixed leaf-spring suspension display module. A full upper mounting rail carries paired fixed-end hanger cheeks and a separate opposite upper hanger with two sloping shackle links. One long bowed main leaf joins two genuinely bored circular end eyes and cross pins; three shorter whole curved leaves nest below it. A complete short transverse axle, upper clamp plate, two continuous bent U clamps and four complete hexagonal nut exteriors join the central pack. It is not a helical spring rider, a wheeled vehicle with more axle hangers or a standalone coil. All geometry newly authored; no old mesh imported. Three opaque PBR materials, metres, Z up and actual full-bounds-centred ground origin. One fixed prop zero scenes, no whole vehicle. Deliberate fixed overlapping roots, no threaded fit or engineered bearing. No elasticity, spring rate, damping, suspension travel, load, vehicle compatibility, installation, manufacture, motion or safety claim. Rigging and interaction not made.",
+      "bounds": {
+        "x": 1.7,
+        "y": 0.62,
+        "z": 0.6485595086466563,
+        "unit": "m"
+      },
+      "triangles": 2000,
+      "materials": 3,
+      "files": {
+        "glb": {
+          "path": "assets/technology/technology-fixed-leaf-pack-and-shackle-suspension-module-01/v1.0.0/model.glb",
+          "size": 108312,
+          "sha256": "809801536cbdf239d4b5f3746593c55bd59174e1380d2ad220f2030e57a390b3"
+        },
+        "blend": {
+          "path": "assets/technology/technology-fixed-leaf-pack-and-shackle-suspension-module-01/v1.0.0/source.blend",
+          "size": 735812,
+          "sha256": "854237161dfc3ad35ed629b1ef30ac3d2f1793b4a8ee654c85e3dd821d9927ab"
+        },
+        "generator": {
+          "path": "assets/technology/technology-fixed-leaf-pack-and-shackle-suspension-module-01/v1.0.0/generate.py",
+          "size": 12106,
+          "sha256": "d8543dc253d67a66f11dc6ff820b61cec111c1f772056572a5741e26a8ac2d94"
+        },
+        "render": {
+          "path": "assets/technology/technology-fixed-leaf-pack-and-shackle-suspension-module-01/v1.0.0/thumbnail.png",
+          "size": 351380,
+          "sha256": "1b7c0e684014aee16a35961338b9ab4cdff9c11002396315199a08d67bae1e90"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-995-volume02-20261025"
     }
   ]
 }
