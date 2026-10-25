@@ -1354,6 +1354,11 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary02",
       "commit": "dd508caaf65a6929b4318aae5495cdeefa84d0eb"
+    },
+    "original-qualified-batch-1078-volume02-20261025": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary02",
+      "commit": "2928b81fb80bcb7cc58842a9dbf31a93ea84d180"
     }
   },
   "assets": [
@@ -47624,6 +47629,92 @@
       "status": "verified",
       "license": "All rights reserved",
       "sourceId": "original-qualified-batch-1076-volume02-20261025"
+    },
+    {
+      "id": "animal-static-clinging-wedge-bill-tail-braced-woodpecker-01",
+      "version": "1.0.0",
+      "category": "modular",
+      "assetKind": "prop",
+      "theme": "animal",
+      "style": "warm-handcrafted-village",
+      "title": "Static Clinging Wedge-Bill Tail-Braced Woodpecker",
+      "description": "One newly authored complete stylised woodpecker-like bird in a fixed clinging pose on one short whole upright timber stem. Narrow upright torso flows into a short neck and small head with a long straight tapered wedge bill; two complete folded wings lie along the back, while two short bent legs meet full opposing-lobed thick feet against the stem and a long narrow stiff-looking tail reaches the lower stem. Whole new bird and stem construction together, not a recoloured hooked-bill standing parrot or a sloth branch with the animal swapped. The stem is a finite grounded pose support included in this single display model, not a separate tree asset. All visible forms are real closed thickness; no feather-strand, exact species, anatomical digit, climbing, pecking, balance, rig, animation, load or safety validation. One static model zero scenes.",
+      "bounds": {
+        "x": 0.490392625,
+        "y": 1.445196271,
+        "z": 1.820000052,
+        "unit": "m"
+      },
+      "triangles": 1560,
+      "materials": 4,
+      "files": {
+        "glb": {
+          "path": "assets/animal/animal-static-clinging-wedge-bill-tail-braced-woodpecker-01/v1.0.0/model.glb",
+          "size": 90376,
+          "sha256": "a5c3f0a96d690ef333beb3b6ef260e98a958daa5abf9224232f9a2d07bd5d2da"
+        },
+        "blend": {
+          "path": "assets/animal/animal-static-clinging-wedge-bill-tail-braced-woodpecker-01/v1.0.0/source.blend",
+          "size": 631296,
+          "sha256": "5b18819408bd1ece05bddbd283f50d6bd3ca03223ba2cd1e95e57137a3dc08b3"
+        },
+        "generator": {
+          "path": "assets/animal/animal-static-clinging-wedge-bill-tail-braced-woodpecker-01/v1.0.0/generate.py",
+          "size": 30835,
+          "sha256": "eb0019b1e59dade9a7d89a0a93f7e2fc657d597a6b7d12d110af2d79f6fc2bf4"
+        },
+        "render": {
+          "path": "assets/animal/animal-static-clinging-wedge-bill-tail-braced-woodpecker-01/v1.0.0/thumbnail.png",
+          "size": 479461,
+          "sha256": "50df3175740d8d87e67127f123396d1592584d7fee3e53c583e364d0c1eddbdd"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1078-volume02-20261025"
+    },
+    {
+      "id": "nature-whole-kiwi-and-hollow-log-ground-margin-scene-01",
+      "version": "1.0.0",
+      "category": "scenes",
+      "assetKind": "scene",
+      "theme": "nature",
+      "style": "source-preserved-faceted-natural-ecology",
+      "title": "Whole Kiwi and Hollow Log Ground Margin",
+      "description": "One static ground-bird and hollow-deadwood margin scene, zero new models. Two complete qualified original objects remain unchanged at unit scale and with every original oriented world triangle and opaque per-face constant PBR: the irregular two-mouth split-window hollow fallen log spans the left-rear ground margin, and the entire low-body long-bill kiwi-like bird stands clear beside its right end on the open foreground side. A finite scene-only earth floor supports the entire original log sole and both original bird feet. The end mouth remains unobstructed and the bird is outside the log, not squeezed inside a shell or presented as a nesting animation. Unlike the earlier bank/reed shallow water sidepool, there is no water, bank module, reed barrier or crossing; the new relation is an intact ground animal beside a dry open deadwood edge with an empty forward strip. Neither old model is cropped, recoloured, scaled or split into parts; source normals/hierarchy are baked and flat normals recomputed, not claimed byte-identical. One scene zero new reusable models. Static artistic wildlife association only: no exact species co-occurrence, habitat suitability, animal care, foraging or nesting behavior, locomotion, biological process, navigation or safety claim.",
+      "bounds": {
+        "x": 4.400000095,
+        "y": 3.299999952,
+        "z": 1.325000048,
+        "unit": "m"
+      },
+      "triangles": 1520,
+      "materials": 9,
+      "files": {
+        "glb": {
+          "path": "assets/nature/nature-whole-kiwi-and-hollow-log-ground-margin-scene-01/v1.0.0/model.glb",
+          "size": 115856,
+          "sha256": "743e5ec7159451076f9dee0a57b93b3367d3d340df18421a79f127e12fcb3e0f"
+        },
+        "blend": {
+          "path": "assets/nature/nature-whole-kiwi-and-hollow-log-ground-margin-scene-01/v1.0.0/source.blend",
+          "size": 765004,
+          "sha256": "cc564691122db929b051f7f22a7384a038a451294b0368d51fa7d7f960e8ab92"
+        },
+        "generator": {
+          "path": "assets/nature/nature-whole-kiwi-and-hollow-log-ground-margin-scene-01/v1.0.0/generate.py",
+          "size": 69121,
+          "sha256": "f8276de70072e81d0a31b7487c56b4ed6a6ca4c16bd17604aad5f72332afa487"
+        },
+        "render": {
+          "path": "assets/nature/nature-whole-kiwi-and-hollow-log-ground-margin-scene-01/v1.0.0/thumbnail.png",
+          "size": 495754,
+          "sha256": "337bc8a454e9cca7ef5f65b7d4a9a0db4efb8917b4c794e30ec3917482a461af"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1078-volume02-20261025"
     }
   ]
 }
