@@ -1349,6 +1349,11 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary02",
       "commit": "ea57cf4d9b456ba22bef79b43ef808fde0509671"
+    },
+    "original-qualified-batch-1076-volume02-20261025": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary02",
+      "commit": "dd508caaf65a6929b4318aae5495cdeefa84d0eb"
     }
   },
   "assets": [
@@ -47576,6 +47581,49 @@
       "status": "verified",
       "license": "All rights reserved",
       "sourceId": "original-qualified-batch-1075-volume02-20261025"
+    },
+    {
+      "id": "salon-fixed-long-barrel-and-raised-clamp-curler-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "salon",
+      "style": "source-preserved-low-poly",
+      "title": "Fixed Long Barrel and Raised Clamp Curler",
+      "description": "One newly authored complete fixed clamp-barrel hair-curler appearance. A long contoured axial grip with blank control and a collar supports a complete blunt cylindrical barrel with a separate closed end cap. Beside it one thick concave spoon-shaped clamp is fixed visibly raised about a real transverse pin carried by two rooted ears; a full heel and reversed short thumb lever attach to that same hinge. The long curved clamp/barrel gap is real geometry, not a painted seam. Not the old iron removed from a solder station or the broad comb-headed clipper relabelled; all coordinates new. Three opaque materials, one prop zero scenes. Upright heel is a display datum only. No hair or person, sharp tip, heat, electricity, powered function, hinge sweep, spring, grooming procedure, suitability, ergonomics, hygiene or safety claim. Rigging animation interaction not made.",
+      "bounds": {
+        "x": 0.041999999433755875,
+        "y": 0.07751667499542236,
+        "z": 0.30399999022483826,
+        "unit": "m"
+      },
+      "triangles": 1336,
+      "materials": 3,
+      "files": {
+        "glb": {
+          "path": "assets/salon/salon-fixed-long-barrel-and-raised-clamp-curler-01/v1.0.0/model.glb",
+          "size": 121448,
+          "sha256": "1668fa71841252894dce855767f978b111e3a6486570fdc774afa57d0f15e68b"
+        },
+        "blend": {
+          "path": "assets/salon/salon-fixed-long-barrel-and-raised-clamp-curler-01/v1.0.0/source.blend",
+          "size": 738784,
+          "sha256": "e7d4014e514ea0501ccc6282ade72bfc8d55f288745e3dacc866a03f61d9845a"
+        },
+        "generator": {
+          "path": "assets/salon/salon-fixed-long-barrel-and-raised-clamp-curler-01/v1.0.0/generate.py",
+          "size": 15619,
+          "sha256": "5836e1e380b7b42db482a0d1d065ec83e1e2d9fb0da8b0cc2e3e67150ff1b647"
+        },
+        "render": {
+          "path": "assets/salon/salon-fixed-long-barrel-and-raised-clamp-curler-01/v1.0.0/thumbnail.png",
+          "size": 438365,
+          "sha256": "c35150c594b0e267bcf94eb403936337c013fbdfddd27d4cb5815e2b4768f154"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1076-volume02-20261025"
     }
   ]
 }
