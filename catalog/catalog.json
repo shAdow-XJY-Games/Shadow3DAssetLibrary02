@@ -1359,6 +1359,11 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary02",
       "commit": "2928b81fb80bcb7cc58842a9dbf31a93ea84d180"
+    },
+    "original-qualified-batch-1082-volume02-20261025": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary02",
+      "commit": "8e58757c8e205cb1984d1823ce97f09f189e1e3f"
     }
   },
   "assets": [
@@ -47715,6 +47720,178 @@
       "status": "verified",
       "license": "All rights reserved",
       "sourceId": "original-qualified-batch-1078-volume02-20261025"
+    },
+    {
+      "id": "industrial-fixed-deep-c-frame-and-opposed-wheeling-rolls-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "industrial",
+      "style": "S01-clean-geometric",
+      "title": "Fixed Deep C Frame and Opposed Wheeling Rolls",
+      "description": "One newly authored complete floor-standing English-wheel-style static exterior. A broad connected twin-rail ground base carries one entire deep curved C frame with long opposed arms and a genuinely open central throat. An independent downward-open upper fork carries one large flat-faced annular wheel; below it a separate upward-open fork carries one much smaller axially crowned wheel. Each whole wheel has its own complete transverse axle and fork cheeks. A full upright lower column passes through a genuine annular guide sleeve and is retained by one transverse fixed display pin, with a low complete open three-spoke handwheel. The opposing wheels have an intentional small empty static gap; no stock or sheet is supplied. Every frame profile, fork, wheel crown and assembly coordinate is newly authored, with no existing machine meshes copied, resized or extracted. Unlike the old rack-and-pinion arbor press, there is no toothed pressing ram, slotted flat anvil or side gear lever. Unlike the old three-grooved-roll ring former, this is a deep open C machine with opposing unequal flat/crowned wheels, not a closed-top slot frame with triangular roll stations. One prop zero scenes; four opaque constant PBR materials, metres, Z up, horizontal bounds centred over whole finite base soles. Static game-art exterior only, no rolling, adjustment travel, nip pressure, material forming, machining, screw engagement, workholding, force, capacity, structural support, manufacture, operation or safety performance. Rigging, animation and interaction are not made or verified.",
+      "bounds": {
+        "x": 1.67,
+        "y": 0.88,
+        "z": 2.03,
+        "unit": "m"
+      },
+      "triangles": 2348,
+      "materials": 4,
+      "files": {
+        "glb": {
+          "path": "assets/industrial/industrial-fixed-deep-c-frame-and-opposed-wheeling-rolls-01/v1.0.0/model.glb",
+          "size": 121060,
+          "sha256": "3599b0c7dd98d09951347f7f099ca894acb369c3bf38c2f01f87f99cb0eef1a5"
+        },
+        "blend": {
+          "path": "assets/industrial/industrial-fixed-deep-c-frame-and-opposed-wheeling-rolls-01/v1.0.0/source.blend",
+          "size": 724036,
+          "sha256": "97764dfd43d805c6992b4874026f2d1d3c02c486908e2b7341d85dac57357759"
+        },
+        "generator": {
+          "path": "assets/industrial/industrial-fixed-deep-c-frame-and-opposed-wheeling-rolls-01/v1.0.0/generate.py",
+          "size": 27473,
+          "sha256": "1688752690fb58a5c046a07fa01fc8a8d60ba4fdd86b65a63f32bac1a1090efe"
+        },
+        "render": {
+          "path": "assets/industrial/industrial-fixed-deep-c-frame-and-opposed-wheeling-rolls-01/v1.0.0/thumbnail.png",
+          "size": 492792,
+          "sha256": "922e313583ab7de1928f4de0d8d1915238cc63bca120b18a9d46bf551295d68b"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1082-volume02-20261025"
+    },
+    {
+      "id": "music-fixed-chain-band-footboard-and-beater-drum-pedal-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "music",
+      "style": "S01-clean-geometric",
+      "title": "Fixed Chain Band Footboard and Beater Drum Pedal",
+      "description": "One newly authored complete empty bass-drum-pedal-style static mechanism exterior. One long ground plate carries a rear heel hinge, full sloping footboard, two front bearing towers and a transverse shaft with a fixed circular cam. A continuous narrow thick drive band rises from the footboard front and wraps over the cam, with separated small transverse raised link-like ribs. An independent long beater stem and thick cylindrical head rise from the shaft; an outboard crank and continuous helical return-spring appearance connect to a lower rooted anchor. A front fixed open clamp-like seat finishes the whole empty unit. The existing complete drum kit explicitly contains no pedal and no component is extracted from it; this is not the large grindstone frame reduced in scale, since it has no stone or long rigid crank rod and uses a compact shaft/beater/band/spring organization. All numeric geometry newly authored. One model zero scenes, four opaque PBR roles, metres Z up and horizontal-envelope-centred ground datum. Fixed empty appearance only: no drum supplied, mounting fit, pedal travel, working chain, elastic spring response, striking, force, sound, tuning, ergonomics, load, manufacture or safety capability. Rigging animation and interaction not made.",
+      "bounds": {
+        "x": 0.201,
+        "y": 0.441,
+        "z": 0.457,
+        "unit": "m"
+      },
+      "triangles": 3284,
+      "materials": 4,
+      "files": {
+        "glb": {
+          "path": "assets/music/music-fixed-chain-band-footboard-and-beater-drum-pedal-01/v1.0.0/model.glb",
+          "size": 230048,
+          "sha256": "d332afe3d3fff35f0f841a3dd32b673b62a3131fb49571ab1c6197ea7ce8995d"
+        },
+        "blend": {
+          "path": "assets/music/music-fixed-chain-band-footboard-and-beater-drum-pedal-01/v1.0.0/source.blend",
+          "size": 875060,
+          "sha256": "1301a7698c645b66d706a5fd9507e6dc4bd99496779a775734d5110f69892c71"
+        },
+        "generator": {
+          "path": "assets/music/music-fixed-chain-band-footboard-and-beater-drum-pedal-01/v1.0.0/generate.py",
+          "size": 12873,
+          "sha256": "f7a319df9ad4c6163fa43a4d3b439b51163881cb7885144b3c6aa9230ba1a50a"
+        },
+        "render": {
+          "path": "assets/music/music-fixed-chain-band-footboard-and-beater-drum-pedal-01/v1.0.0/thumbnail.png",
+          "size": 357922,
+          "sha256": "f61a6b8dc71dd721b31f4687494098ddff200b13de390148c6918aea6a16ccb1"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1082-volume02-20261025"
+    },
+    {
+      "id": "music-fixed-domed-through-slit-tongue-and-hollow-belly-drum-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "music",
+      "style": "S01-clean-geometric",
+      "title": "Fixed Domed Through Slit Tongue and Hollow Belly Drum",
+      "description": "One newly authored complete steel-tongue-drum-style static instrument exterior. A low hollow rounded belly and finite ground ring support one entire convex thick upper plate. Eight genuine U-shaped through slots pass through its full thickness into the empty belly; each radial tongue remains continuously joined at its inner root to the same shared-vertex upper shell, not a disconnected painted tile or separate bar. Real slot sidewalls, underside and stepped peripheral support are included. Unlike the old continuous concave note-pan on a lateral stand, this is a convex perforated shell on its own closed-bottom hollow body; unlike the peripheral-rod waterphone it has no upright neck or added rod array. No old numeric geometry or visible mesh imported. One model zero scenes, four opaque constant PBR roles, metres Z up and ground-centred. Generic nonfunctional illustrative art: no calibrated notes, tuning, resonance, acoustics, striking response, playable tongue motion, cultural authenticity, manufacture or safety capability. No beater, performer, rigging, animation or interaction.",
+      "bounds": {
+        "x": 0.342,
+        "y": 0.342,
+        "z": 0.17,
+        "unit": "m"
+      },
+      "triangles": 6304,
+      "materials": 4,
+      "files": {
+        "glb": {
+          "path": "assets/music/music-fixed-domed-through-slit-tongue-and-hollow-belly-drum-01/v1.0.0/model.glb",
+          "size": 335960,
+          "sha256": "df0d4b8503d98a307512fbe076fe311d184a6906d90b91332c996e1e0f3a93c4"
+        },
+        "blend": {
+          "path": "assets/music/music-fixed-domed-through-slit-tongue-and-hollow-belly-drum-01/v1.0.0/source.blend",
+          "size": 894244,
+          "sha256": "e984750f4fbafab0e2657ac37957fc6d377c68f227e084f8201e27ce5969b4c7"
+        },
+        "generator": {
+          "path": "assets/music/music-fixed-domed-through-slit-tongue-and-hollow-belly-drum-01/v1.0.0/generate.py",
+          "size": 10914,
+          "sha256": "66e8537dc65973c87398834463b7130c399832522b7faba59d3f13f29e9d4806"
+        },
+        "render": {
+          "path": "assets/music/music-fixed-domed-through-slit-tongue-and-hollow-belly-drum-01/v1.0.0/thumbnail.png",
+          "size": 519675,
+          "sha256": "970c6356dc7c0563430f1b607c9e1b79288ff5889261da9e5181e0c00a821c43"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1082-volume02-20261025"
+    },
+    {
+      "id": "renewable-fixed-split-bucket-wheel-and-tangent-nozzle-display-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "renewable",
+      "style": "source-preserved-low-poly",
+      "title": "Fixed Split Bucket Wheel And Tangent Nozzle Display",
+      "description": "One newly authored complete static split-bucket impulse-wheel illustrative cutaway. A thick open-front round casing on two feet and a common bed surrounds one full shaft-mounted disk carrying ten integral-rooted double-concavity bucket shells. Each entire bucket is one closed thick numerical surface with two real recessed lobes separated by its continuous central raised ridge, not two disconnected bowls or painted cup markings. A complete hollow tapered tangential nozzle on its own tall bracket aims past the upper wheel edge without touching it. A real annular rear plate, long full shaft, rear bored bearing and pedestal, proud central cap and rear retainer complete the supported apparatus. The new tangential double-cup runner and separate nozzle differ from a twin-timber-rim flat-board waterwheel and from radial impeller blades within an expanding volute with axial intake. No old visible mesh is imported. One complete model zero scenes, four opaque constant untextured PBR roles, metres and Z up. A fixed simplified Pelton-inspired appearance only: no validated bucket lip, splitter or jet profile, inlet cutout design, water, sealed chamber, rotor clearance through motion, nozzle flow, power, generation, efficiency, hydraulic pressure, shaft transmission, bearing fit, manufacture, loading or equipment safety claim. No animation, rig or interaction.",
+      "bounds": {
+        "x": 1.3600000143051147,
+        "y": 0.7099999785423279,
+        "z": 1.1100000143051147,
+        "unit": "m"
+      },
+      "triangles": 7548,
+      "materials": 4,
+      "files": {
+        "glb": {
+          "path": "assets/renewable/renewable-fixed-split-bucket-wheel-and-tangent-nozzle-display-01/v1.0.0/model.glb",
+          "size": 651264,
+          "sha256": "da9b92122a2b66b7a3d01668e2b0407f58439133bf49e1928aa8a545c1cbf875"
+        },
+        "blend": {
+          "path": "assets/renewable/renewable-fixed-split-bucket-wheel-and-tangent-nozzle-display-01/v1.0.0/source.blend",
+          "size": 1509440,
+          "sha256": "a909ed8a217368842f1c7fb1931712bee6aca0d98c59b93cca19b4b82c16a706"
+        },
+        "generator": {
+          "path": "assets/renewable/renewable-fixed-split-bucket-wheel-and-tangent-nozzle-display-01/v1.0.0/generate.py",
+          "size": 17213,
+          "sha256": "803d63149a11b6ac36a697aa5178f8e12c5070f5834e52928bbddc122a7cc6bb"
+        },
+        "render": {
+          "path": "assets/renewable/renewable-fixed-split-bucket-wheel-and-tangent-nozzle-display-01/v1.0.0/thumbnail.png",
+          "size": 551050,
+          "sha256": "8f5b011732f4728c1c985e72597d39796c48982a43b4a89483c879cd970fecdf"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1082-volume02-20261025"
     }
   ]
 }
