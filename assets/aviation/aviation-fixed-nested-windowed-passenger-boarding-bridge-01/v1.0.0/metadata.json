@@ -1,0 +1,42 @@
+{
+  "id": "aviation-fixed-nested-windowed-passenger-boarding-bridge-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "aviation",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Nested Windowed Passenger Boarding Bridge",
+  "description": "One newly authored complete fixed passenger-boarding-bridge exterior. A broad grounded rear foot and full support column carry a thick open-ended faceted rotunda with actual side windows. Two different-sized complete windowed through-corridors form a fixed nested span, leading to a wider front open cabin and one thick dark docking-hood appearance. A full front crosshead, two vertical columns, low trolley beam, single complete axle and two whole grounded tires support the front end. All visible geometry is new: no old grounded corridor placed on posts, no old lift car or boarding stair imported, and no partial old model counted as a new object. The floors, roofs, interior and side apertures are true finite material geometry, with deliberate fixed internal root overlaps and no coincident exterior floor skins. Four opaque constant PBR roles, metres, native Z up, horizontal-bounds-centred ground origin. One complete static prop, zero scenes. No terminal or aircraft, window glazing, passenger, luggage, telescoping, rotation, lift travel, docking fit, weather seal, accessibility, human use, load capacity, stability, engineering, fabrication, installation, operating procedure or safety performance. Rigging, animation and interaction are not made.",
+  "bounds": {
+    "x": 2.0,
+    "y": 6.9,
+    "z": 3.24,
+    "unit": "m"
+  },
+  "triangles": 2388,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/aviation/aviation-fixed-nested-windowed-passenger-boarding-bridge-01/v1.0.0/model.glb",
+      "size": 102020,
+      "sha256": "2de8ab0a6897a6717dfb26440ac3eeefdd663e5634564330858957f033b64890"
+    },
+    "blend": {
+      "path": "assets/aviation/aviation-fixed-nested-windowed-passenger-boarding-bridge-01/v1.0.0/source.blend",
+      "size": 720348,
+      "sha256": "884cd28719564d5feed2b9e355be896c15b682e636be8bd5c98e100ace61119e"
+    },
+    "generator": {
+      "path": "assets/aviation/aviation-fixed-nested-windowed-passenger-boarding-bridge-01/v1.0.0/generate.py",
+      "size": 28310,
+      "sha256": "add02322afd86a2bdb9b6b0e57e81eb1f4120eb00bf5f9f8b5ad8e04314da825"
+    },
+    "render": {
+      "path": "assets/aviation/aviation-fixed-nested-windowed-passenger-boarding-bridge-01/v1.0.0/thumbnail.png",
+      "size": 529180,
+      "sha256": "28957a415273e3288063485efabda19a22b497335e0b8eb96deed2f2e291528a"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

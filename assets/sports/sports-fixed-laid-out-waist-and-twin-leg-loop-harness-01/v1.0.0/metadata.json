@@ -1,0 +1,42 @@
+{
+  "id": "sports-fixed-laid-out-waist-and-twin-leg-loop-harness-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "sports",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Laid Out Waist and Twin Leg Loop Harness",
+  "description": "One newly authored complete empty sit-harness-style exterior laid out on its flat band edges in a fixed display pose. A continuous wide oval waist band has a taller padded rear section, a genuine large central opening and a separately rooted front buckle frame. Two independent complete lower leg loops each have their own true through aperture and connect to the waist by two short front bridges and two broad continuous outer rear straps. A complete transverse front bridge joins the front connections, carrying one upright closed belay-loop-like visual ring. All material bodies are finite closed geometry with visible spaces between waist, leg loops and connecting straps; there is no person, mannequin, ropes or imported collar/backpack part. The whole waist/two-leg/fore-and-aft connection topology is newly drawn, not a horse collar with extra ring count or a backpack with its body removed. One complete prop zero scenes, four opaque solid PBR roles, metres Z up and horizontally bounds-centred ground datum. Static illustrative equipment appearance only, not a usable design or fitting guide. No certification, life support, climbing protection, fall arrest, knotting, buckle function, strength, body fit, load, manufacture, usage instruction or safety claim; rigging and animation are not made.",
+  "bounds": {
+    "x": 0.8343521707208995,
+    "y": 0.8799999999999999,
+    "z": 0.13899999999999998,
+    "unit": "m"
+  },
+  "triangles": 1164,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/sports/sports-fixed-laid-out-waist-and-twin-leg-loop-harness-01/v1.0.0/model.glb",
+      "size": 61488,
+      "sha256": "4a8a653c64cd7a72e19431942b49cbdcfb72eb0d90f253ce87eddd03bd809242"
+    },
+    "blend": {
+      "path": "assets/sports/sports-fixed-laid-out-waist-and-twin-leg-loop-harness-01/v1.0.0/source.blend",
+      "size": 649232,
+      "sha256": "1962ecb85dd6adc20990b01bd7319013d88224ce06b5bb8393522bf349064331"
+    },
+    "generator": {
+      "path": "assets/sports/sports-fixed-laid-out-waist-and-twin-leg-loop-harness-01/v1.0.0/generate.py",
+      "size": 11506,
+      "sha256": "dca23edc4a58029ce68ff90503ca58016f25cf93b975f21f74618e616766a780"
+    },
+    "render": {
+      "path": "assets/sports/sports-fixed-laid-out-waist-and-twin-leg-loop-harness-01/v1.0.0/thumbnail.png",
+      "size": 441309,
+      "sha256": "12847672cb9ee6285dbec98697dc9d548a081d1b7ffe081df6d2e5a9538f409d"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

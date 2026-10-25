@@ -1,0 +1,42 @@
+{
+  "id": "professional-fixed-cross-head-and-blunt-cone-otoscope-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "professional",
+  "style": "source-preserved-low-poly",
+  "title": "Fixed Cross Head and Blunt Cone Otoscope",
+  "description": "One newly authored complete static otoscope-style handheld exterior. One continuous contoured vertical grip with separate full end cap, upper neck and plain thumb switch supports a thick transverse head housing. A complete long blunt conical front has actual inner surfaces and a real small opening terminating in a blind cavity at the rear head. On the opposite face a separate deep eyecup surrounds one recessed opaque window. No transparency, glass transmission, illumination or internal optics is simulated. No old refractometer, clipper or stethoscope geometry is reused. Three opaque PBR materials, one model zero scenes. Occupational visual prop only: no patient, examination procedure, diagnostic accuracy, therapeutic use, sterilization, manufacture or safety claim. Rigging animation interaction not made.",
+  "bounds": {
+    "x": 0.05999999865889549,
+    "y": 0.1420000046491623,
+    "z": 0.2199999988079071,
+    "unit": "m"
+  },
+  "triangles": 2392,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/professional/professional-fixed-cross-head-and-blunt-cone-otoscope-01/v1.0.0/model.glb",
+      "size": 207360,
+      "sha256": "b95339eb261bfe86ba77b525e371517bde3f26e63df58ee7555a58026d707bc4"
+    },
+    "blend": {
+      "path": "assets/professional/professional-fixed-cross-head-and-blunt-cone-otoscope-01/v1.0.0/source.blend",
+      "size": 838240,
+      "sha256": "4dbcc0094700584a883ec21fd065c69cd1f1c7ed6979b436898bbcf57617ba26"
+    },
+    "generator": {
+      "path": "assets/professional/professional-fixed-cross-head-and-blunt-cone-otoscope-01/v1.0.0/generate.py",
+      "size": 14896,
+      "sha256": "4ec9fb93d0cc114da918cd92ad8b264813233d0d7fc51f20838466ae9c9104fb"
+    },
+    "render": {
+      "path": "assets/professional/professional-fixed-cross-head-and-blunt-cone-otoscope-01/v1.0.0/thumbnail.png",
+      "size": 458486,
+      "sha256": "e360d53712dfaf09373fe0d3130f02d89aefd4537d036cf154aaee58304d3e47"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

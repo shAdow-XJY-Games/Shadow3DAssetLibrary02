@@ -1,0 +1,42 @@
+{
+  "id": "fantasy-fixed-corbelled-open-slot-corner-wall-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "fantasy",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Corbelled Open Slot Corner Wall",
+  "description": "One newly authored complete static fantasy wall-corner display. A single connected masonry boundary forms two perpendicular thick wall returns, the wider outward-projecting upper walk, an integral outer notched parapet and four actual downward openings through the projecting deck. Six full inclined corbels connect visible lower-wall roots to solid deck strips, leaving the slots open. The inner corner is empty and the two terminal wall ends are closed. Unlike the old plain L plaster wall or two-tower sand gate, the primary whole structure is the wall-to-overhanging-slot-deck relationship, not merlon count or stone colour. Seven closed editable meshes, three matte opaque PBR materials, metres Z up and full horizontal-bounds-centred ground origin. One static model and zero scenes; no old model imports, host building, companion modules or seamless installation claim. Artistic fixed proportions only: no load-bearing, defense effectiveness, access route, real construction, historical accuracy, manufacture, building compliance or safety claim.",
+  "bounds": {
+    "x": 2.2,
+    "y": 2.2,
+    "z": 2.8,
+    "unit": "m"
+  },
+  "triangles": 624,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/fantasy/fantasy-fixed-corbelled-open-slot-corner-wall-01/v1.0.0/model.glb",
+      "size": 26164,
+      "sha256": "a3894011395c331d46327e1c65a2dcef6e8f28f1251c78dd9fc9208d394d4a9f"
+    },
+    "blend": {
+      "path": "assets/fantasy/fantasy-fixed-corbelled-open-slot-corner-wall-01/v1.0.0/source.blend",
+      "size": 582920,
+      "sha256": "5637f642b3b5935fbb80fedff04712c3bf489e5a3641334cdc4d648617e832c4"
+    },
+    "generator": {
+      "path": "assets/fantasy/fantasy-fixed-corbelled-open-slot-corner-wall-01/v1.0.0/generate.py",
+      "size": 11296,
+      "sha256": "b0903e9abffb9eb617a4c78f134473186f5765426fbe99db0a064b7721f57677"
+    },
+    "render": {
+      "path": "assets/fantasy/fantasy-fixed-corbelled-open-slot-corner-wall-01/v1.0.0/thumbnail.png",
+      "size": 466689,
+      "sha256": "ba431c916f1da2044cb05fead69c28658aef371ca4efc08272975e04c81d8625"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "textile-whole-flat-knitting-and-yarn-preparation-corner-scene-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "textile",
+  "style": "source-preserved-low-poly",
+  "title": "Whole Flat Knitting And Yarn Preparation Corner",
+  "description": "One static knitting-preparation corner with five complete qualified original instances, zero new independent models. A complete straight-bed knitting device rests on the whole raised twin-column desk at the front-left station. A whole empty inclined-core yarn winder rests on a second complete open worktable turned rigidly ninety degrees at the right-side station. An entire open crossed-rib yarn swift occupies a separate floor position behind the desk. The staggered high and low supported preparation surfaces and independent floor yarn support leave a front approach and central separation. Every original mesh buffer, normal, hierarchy relation and full opaque material dictionary remains unchanged; only full rigid wrapper transforms and instance-name prefixes prevent collisions. The complete original finite bottom faces touch the original full tabletop or one scene-only floor. This is not the earlier spinning-wheel/carder corner or floor-loom and horizontal warping-frame bay with equipment recoloured, and is not a connected working textile line. No cloth, connecting feed thread, person or extracted component. One scene zero new models. Fixed illustrative arrangement only: no simultaneous operation, mounting or yarn compatibility, actual knitting, winding, feed, tension, navigation, ergonomic suitability, strength, load, capacity, installation or safety claim.",
+  "bounds": {
+    "x": 3.1999999284744263,
+    "y": 2.799999952316284,
+    "z": 1.8900001049041748,
+    "unit": "m"
+  },
+  "triangles": 7896,
+  "materials": 18,
+  "files": {
+    "glb": {
+      "path": "assets/textile/textile-whole-flat-knitting-and-yarn-preparation-corner-scene-01/v1.0.0/model.glb",
+      "size": 653380,
+      "sha256": "2d24c86ebcc0645dcf654e55eef03494e981ba3d61b330e6e773e5a2aa9df8f7"
+    },
+    "blend": {
+      "path": "assets/textile/textile-whole-flat-knitting-and-yarn-preparation-corner-scene-01/v1.0.0/source.blend",
+      "size": 2333328,
+      "sha256": "ee6dc9fd50072f9c67b9b6bf3a8cf52008b8a21bde04fb777fb20fa33326a6ef"
+    },
+    "generator": {
+      "path": "assets/textile/textile-whole-flat-knitting-and-yarn-preparation-corner-scene-01/v1.0.0/generate.py",
+      "size": 185615,
+      "sha256": "36f23d7bf17a7a062ddca0b829a2fd1a356c5aaf2a40eb6e685dac41e80a7841"
+    },
+    "render": {
+      "path": "assets/textile/textile-whole-flat-knitting-and-yarn-preparation-corner-scene-01/v1.0.0/thumbnail.png",
+      "size": 530745,
+      "sha256": "2716d6653fbb71e2db8b3adda01ed2ed25caeb64d5dd3d6e759bbc314474b398"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
