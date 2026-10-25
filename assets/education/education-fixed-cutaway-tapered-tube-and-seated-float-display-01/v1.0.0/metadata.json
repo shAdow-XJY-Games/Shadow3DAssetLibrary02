@@ -1,0 +1,42 @@
+{
+  "id": "education-fixed-cutaway-tapered-tube-and-seated-float-display-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "education",
+  "style": "source-preserved-low-poly",
+  "title": "Fixed Cutaway Tapered Tube And Seated Float Display",
+  "description": "One newly authored complete static tapered-tube float-instrument cutaway display. A single long gradually widening thick tube has its entire front half intentionally removed, exposing a short separate waisted float-like solid within the widening channel. A small explicit rear display pin holds that body in one fixed pose. Integral reducing upper and lower annular heads continue into true open connector mouths, and two separate rear seats join the heads to one tall narrow rear post on a common broad base. A blank narrow comparison strip on two whole sloping brackets stands beside the cutaway, not in its bore. Unlike the complete old U-tube, there are no parallel joined columns or lower return; unlike the float water clock, there is no receiving basin, suspended upper reservoir, tall indicator rod or moving index. Not an old blind cistern barometer narrowed: no blind end, lower enlarged cistern or cursor. All visible geometry is new numeric construction. Four opaque constant untextured PBR roles, metres and Z up, one whole prop zero scenes. The body is a fixed artistic flowmeter-inspired exhibit, not a working rotameter. No float travel or buoyancy, flow, calibrated measurement, graduated scale, fluid path validity, pressure containment, seal, transparency, medical or food suitability, manufacture, load or safety claim. No fluid, operating parts, rig, animation or interaction.",
+  "bounds": {
+    "x": 0.4699999988079071,
+    "y": 0.4699999988079071,
+    "z": 1.225000023841858,
+    "unit": "m"
+  },
+  "triangles": 1708,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/education/education-fixed-cutaway-tapered-tube-and-seated-float-display-01/v1.0.0/model.glb",
+      "size": 152604,
+      "sha256": "61156d770caaeae88c12e483afdc38ab0a4b0e6b1ba87ec7f8245fbaa1a431f9"
+    },
+    "blend": {
+      "path": "assets/education/education-fixed-cutaway-tapered-tube-and-seated-float-display-01/v1.0.0/source.blend",
+      "size": 803616,
+      "sha256": "5ae99744217de2503e0d93cfa48ef9bc2dad9eb60e7a7e7109bf0792a129bbec"
+    },
+    "generator": {
+      "path": "assets/education/education-fixed-cutaway-tapered-tube-and-seated-float-display-01/v1.0.0/generate.py",
+      "size": 18250,
+      "sha256": "3ae3b2afd8dacc35b0aa0f345028896281b2751091ffce0d42b66f567706cb73"
+    },
+    "render": {
+      "path": "assets/education/education-fixed-cutaway-tapered-tube-and-seated-float-display-01/v1.0.0/thumbnail.png",
+      "size": 462415,
+      "sha256": "c97fee43939213818ed3c2c912ccf522b55c8da333b8dcab946a065b741f8585"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

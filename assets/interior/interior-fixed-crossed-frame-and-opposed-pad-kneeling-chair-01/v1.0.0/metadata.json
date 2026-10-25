@@ -1,0 +1,42 @@
+{
+  "id": "interior-fixed-crossed-frame-and-opposed-pad-kneeling-chair-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "interior",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Crossed Frame and Opposed Pad Kneeling Chair",
+  "description": "One newly authored complete backless kneeling-chair appearance. A higher forward-descending thick seat and a separate lower counter-inclined broad knee pad are carried by two whole crossed timber frame pairs in separated lateral layers. Full front and rear ground crossfeet, full pad underboards, end ties and fixed crossing pins complete the object. This is not a taller two-level step stool, a rear-free cantilever chair, or a standard seat with an added plank. Both pads and the whole frame geometry are newly authored; no old mesh is imported. Three opaque PBR materials, metres Z up and complete horizontal-bounds-centred ground origin. One static model and zero scenes. No backrest, moving hinge, adjustability, folding, occupant, ergonomic fit, posture benefit, therapy, comfort, load, stability, manufacture or safety claim.",
+  "bounds": {
+    "x": 0.6,
+    "y": 0.9199999999999999,
+    "z": 0.6793306545592156,
+    "unit": "m"
+  },
+  "triangles": 520,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/interior/interior-fixed-crossed-frame-and-opposed-pad-kneeling-chair-01/v1.0.0/model.glb",
+      "size": 33208,
+      "sha256": "5bcb575ec3ee57ead600b1684bb666d89d3d35ee7c452a49e22d7473dec893b6"
+    },
+    "blend": {
+      "path": "assets/interior/interior-fixed-crossed-frame-and-opposed-pad-kneeling-chair-01/v1.0.0/source.blend",
+      "size": 618988,
+      "sha256": "0766b589b009a532c9a4226422e15fa6f2fe8ba164eb24b39a43ea6d2a03853e"
+    },
+    "generator": {
+      "path": "assets/interior/interior-fixed-crossed-frame-and-opposed-pad-kneeling-chair-01/v1.0.0/generate.py",
+      "size": 11385,
+      "sha256": "99bf7a31cab038bbb1b6f4f86ec1e7b5f43254bcfe4982685c809f455654bf8f"
+    },
+    "render": {
+      "path": "assets/interior/interior-fixed-crossed-frame-and-opposed-pad-kneeling-chair-01/v1.0.0/thumbnail.png",
+      "size": 448603,
+      "sha256": "260b3ad57b1371548106b802845eeebe7bb2eb972c9c681410ad3572e5099d0f"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

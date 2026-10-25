@@ -1,0 +1,42 @@
+{
+  "id": "aviation-fixed-open-tapered-windsock-and-mouth-hoop-mast-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "aviation",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Open Tapered Windsock and Mouth Hoop Mast",
+  "description": "One newly authored complete fixed extended windsock display with its own broad flat base and full tall mast, upper sleeve and branching mouth-hoop supports. A continuous thick tapered fabric-style shell follows a lightly sagged centreline, with real inner wall, full finite end rims and genuinely open large mouth and small tail. The independent circular mouth hoop supports the whole upper cuff; no cap or opaque disc fakes either opening. This is not a rigid arrow vane or a three-cup rotor rematerialized, and no old numeric mesh is imported. One model zero scenes, four opaque PBR roles, metres Z up and horizontal-envelope centred ground datum. Static illustrative exterior only: no actual wind response, free rotation, cloth simulation, aerodynamic or weather measurement, flight, mounting compatibility, load, structural or safety capability.",
+  "bounds": {
+    "x": 1.318,
+    "y": 0.44,
+    "z": 1.47,
+    "unit": "m"
+  },
+  "triangles": 2344,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/aviation/aviation-fixed-open-tapered-windsock-and-mouth-hoop-mast-01/v1.0.0/model.glb",
+      "size": 125800,
+      "sha256": "9fe7424004e4cde56107dbedba2e151ffdce957d0162d18d134688b592bf0b35"
+    },
+    "blend": {
+      "path": "assets/aviation/aviation-fixed-open-tapered-windsock-and-mouth-hoop-mast-01/v1.0.0/source.blend",
+      "size": 703736,
+      "sha256": "1ba1010e6f93a4b9e07aff786038e852d62a4d592de7a77a190ee0fb5b7a2759"
+    },
+    "generator": {
+      "path": "assets/aviation/aviation-fixed-open-tapered-windsock-and-mouth-hoop-mast-01/v1.0.0/generate.py",
+      "size": 10204,
+      "sha256": "e4939d2dc7314d5c01dfc735fddba582839a34185b107606e0d351980ba28277"
+    },
+    "render": {
+      "path": "assets/aviation/aviation-fixed-open-tapered-windsock-and-mouth-hoop-mast-01/v1.0.0/thumbnail.png",
+      "size": 364432,
+      "sha256": "7d473cac2c2ac6eee4d73a6cd746ea8a9bd56025f564b8eb35753ae15d5e5efc"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "village-fixed-cutaway-lattice-wall-and-crown-yurt-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "village",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Cutaway Lattice Wall and Crown Yurt",
+  "description": "One newly authored whole cutaway round dwelling appearance. A grounded circular floor carries two complete circular wall bands and two radial layers of full diagonally curved timber slats forming open crossed lattice. Front-sector lattice is intentionally omitted to expose the structure while a full entry frame remains. Twenty-four whole radial rafters rise from the upper wall band to a real open crown ring, under one thick three-quarter conical roof cover with complete cut edges. This whole circular lattice-wall/crown/rafter relationship is not a resized cross-pole dome tent or an arched slatted canopy; no old mesh is imported. The open front and missing exterior wall fabric are deliberate explanatory cutaways, not damage variants or a weatherproof completed residence. Three opaque PBR materials, metres Z up and full horizontal-bounds-centred ground origin. One static model and zero scenes. No furnishings, occupant, door leaf, fabric simulation, assembly mechanism, cultural or historical precision, habitability, insulation, weather resistance, loading, construction method, manufacture, installation or safety claim.",
+  "bounds": {
+    "x": 2.68,
+    "y": 2.68,
+    "z": 2.2,
+    "unit": "m"
+  },
+  "triangles": 5356,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/village/village-fixed-cutaway-lattice-wall-and-crown-yurt-01/v1.0.0/model.glb",
+      "size": 386112,
+      "sha256": "c9991f2688fa3ebba276b1ec66291215818e449ef4874cdd946456633f6482ef"
+    },
+    "blend": {
+      "path": "assets/village/village-fixed-cutaway-lattice-wall-and-crown-yurt-01/v1.0.0/source.blend",
+      "size": 1106428,
+      "sha256": "6a2642bd951eb8430e373c1ebdb298bc3250765a1102119458407cfcffb9caa8"
+    },
+    "generator": {
+      "path": "assets/village/village-fixed-cutaway-lattice-wall-and-crown-yurt-01/v1.0.0/generate.py",
+      "size": 11908,
+      "sha256": "bb1d4553be0b2e91d94450c52dc8768baad09fdf91374b38b60cbd339a0c3614"
+    },
+    "render": {
+      "path": "assets/village/village-fixed-cutaway-lattice-wall-and-crown-yurt-01/v1.0.0/thumbnail.png",
+      "size": 551715,
+      "sha256": "630ccd3cbc764130d48261b4092e62c9a79cf14b6996eab16ffdd29e096d0919"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
