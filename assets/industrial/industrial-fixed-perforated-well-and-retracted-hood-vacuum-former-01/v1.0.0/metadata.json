@@ -1,0 +1,42 @@
+{
+  "id": "industrial-fixed-perforated-well-and-retracted-hood-vacuum-former-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "industrial",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Perforated Well and Retracted Hood Vacuum Former",
+  "description": "One newly authored complete empty vacuum-former-style desktop machine exterior. A deep open rectangular well has a full floor and thick walls, with a genuinely perforated thick table supported inside. A complete lower aperture ring surrounds the well; a separate entire empty clamp ring is fixed raised on one full transverse rear pivot and has its own open front hand loop. Two rear carrier standards and long parallel rails support one broad downward-recessed overhead hood in a visibly retracted rear pose, with an inset opaque blank panel and full pull handle. One long side lever and cross-grip, a blank front control face and four complete grounded pads belong to this single integrated machine. All geometry newly drawn, no old screen-print frame, cup-sealer head, appliance case or grille imported. Unlike the raised mesh screen over a cantilever garment platen, the new table is a perforated plate inside a deep well and the raised clamp has no mesh; the independent rear retracted hood and side table lever are part of the whole relation. Unlike the cup-sealer there are no paired supply rolls, stretched film web or extended circular tray. One prop zero scenes, four opaque constant PBR materials, metres/native Z up/front -Y, true horizontal whole-bounds centre and pad-bottom datum. No sheet, mould, plastic material or heating coil supplied. Static illustrative exterior only: no vacuum, gas circuit, pump, heat, electrical function, clamping seal, lifting, sliding, forming, manufacturing process, operating instructions, capacity, pressure, material suitability, ergonomics or safety claim. Rigging, animation and interaction are not made or verified.",
+  "bounds": {
+    "x": 1.44,
+    "y": 2.04,
+    "z": 1.54,
+    "unit": "m"
+  },
+  "triangles": 1668,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/industrial/industrial-fixed-perforated-well-and-retracted-hood-vacuum-former-01/v1.0.0/model.glb",
+      "size": 82360,
+      "sha256": "566a52724869bf49c94b7cf5fedffef0878695cf67d545182de9b0468618f3b8"
+    },
+    "blend": {
+      "path": "assets/industrial/industrial-fixed-perforated-well-and-retracted-hood-vacuum-former-01/v1.0.0/source.blend",
+      "size": 737876,
+      "sha256": "ce5b04aad9d05a69033208a4c73305f8f7a1a5b7869de7e227fa98ce6132810d"
+    },
+    "generator": {
+      "path": "assets/industrial/industrial-fixed-perforated-well-and-retracted-hood-vacuum-former-01/v1.0.0/generate.py",
+      "size": 30455,
+      "sha256": "b787fd234fc66a64954d6831bc2ce4cc1b8c47b4ad614d6dbde8a93c991a5c5a"
+    },
+    "render": {
+      "path": "assets/industrial/industrial-fixed-perforated-well-and-retracted-hood-vacuum-former-01/v1.0.0/thumbnail.png",
+      "size": 557601,
+      "sha256": "8f3854ad8e0200cf1677cdfeb021a92c1ade0402c69632be4ce00d79b99bcf66"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

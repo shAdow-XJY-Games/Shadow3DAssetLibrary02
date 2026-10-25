@@ -1,0 +1,42 @@
+{
+  "id": "ceramics-fixed-separated-vessel-negative-mould-halves-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "ceramics",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Separated Vessel Negative Mould Halves",
+  "description": "One newly authored complete separated two-part ceramic-casting-mould exterior, counted as one set rather than two repeated new models. Each whole thick rectangular half contains one genuinely concave half-round bottle-shaped negative cavity: a tapered closed lower end, broad body, changing shoulder, narrow neck and an open exit through the upper end wall. All material walls, parting faces and bottom remain one closed shared-vertex mesh per half. Two complete locating-pin exteriors on one half correspond visually to two real blind locator cups on the other. Both whole parts are laid face-up with a positive gap, not shown assembled or operating. This differs from the old one-sided shallow scalloped food mould and raised die on a handle, and from a freestanding amphora: there is no vessel wall or imported jar split into pieces, only newly authored negative body boundaries inside full support blocks. Two opaque constant PBR roles, metres Z up, full horizontal bounds centred and both complete undersides grounded. One whole craft prop zero scenes. Generic static mould-inspired art only: no slip, liquid, casting, draft/release validation, shrinkage, assembly fit, absorbency, material authenticity, production dimensions, manufacture or safety claim. No rigging, animation or interaction.",
+  "bounds": {
+    "x": 0.41,
+    "y": 0.35,
+    "z": 0.104,
+    "unit": "m"
+  },
+  "triangles": 1216,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/ceramics/ceramics-fixed-separated-vessel-negative-mould-halves-01/v1.0.0/model.glb",
+      "size": 57372,
+      "sha256": "af5367c286a8cce8d914924faaaa2b13d62cb3b2d0f6d433c6ff673b2c3792e6"
+    },
+    "blend": {
+      "path": "assets/ceramics/ceramics-fixed-separated-vessel-negative-mould-halves-01/v1.0.0/source.blend",
+      "size": 587108,
+      "sha256": "fe3e917f0d2b7a7e3e72b5ec7cc6ed1156060484bd35d3c99885e61772db1eae"
+    },
+    "generator": {
+      "path": "assets/ceramics/ceramics-fixed-separated-vessel-negative-mould-halves-01/v1.0.0/generate.py",
+      "size": 11038,
+      "sha256": "90ffb7f981e90d158e0442fe0dae20cf43bc944069419a8a414426616382e3eb"
+    },
+    "render": {
+      "path": "assets/ceramics/ceramics-fixed-separated-vessel-negative-mould-halves-01/v1.0.0/thumbnail.png",
+      "size": 446010,
+      "sha256": "a46cfb78d669842fcbae10136c21a7ea5c79cee5dec970166a5511561071548b"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
