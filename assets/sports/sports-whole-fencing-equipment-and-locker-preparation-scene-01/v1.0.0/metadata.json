@@ -1,0 +1,42 @@
+{
+  "id": "sports-whole-fencing-equipment-and-locker-preparation-scene-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "sports",
+  "style": "source-preserved-low-poly",
+  "title": "Whole Fencing Equipment and Locker Preparation",
+  "description": "One static fencing-equipment preparation workcorner, four complete qualified original models and zero new independent models. A complete open worktable carries a whole blunt cup-guard fencing implement across its front strip and an entire domed-grid fencing mask on its rear strip; a full open changing locker occupies a separate floor station at the right. All original mesh buffers, normals, node hierarchy and complete opaque PBR dictionaries remain unchanged at unit scale. Only the entire fencing implement turns rigidly ninety degrees; all complete objects translate without changing pose. Its complete original guard sole and the mask full bib sole contact the true tabletop. The table and locker complete feet contact one scene-only floor. The open front approach and separate side-locker clearance define a compact preparation area, unlike the old bench and drinking-station changing corner or a mat rack and slant-board area. No original component is extracted, recoloured, resized or counted anew. One scene zero new models, no person, clothing, competitive piste, markings or operating mechanism. Original fixed art only: no equipment fit or compatibility, sporting technique, electrical scoring, sharpness, impact protection, ergonomics, stability, capacity, accessibility, manufacture, installation or safety claim. Rigging animation and interaction not made.",
+  "bounds": {
+    "x": 3.0,
+    "y": 2.0999999046325684,
+    "z": 2.0,
+    "unit": "m"
+  },
+  "triangles": 12412,
+  "materials": 15,
+  "files": {
+    "glb": {
+      "path": "assets/sports/sports-whole-fencing-equipment-and-locker-preparation-scene-01/v1.0.0/model.glb",
+      "size": 861816,
+      "sha256": "5a19f061c503ca9d87e2e0018de72205527fa795c43ea82da6a37a19b7ef8055"
+    },
+    "blend": {
+      "path": "assets/sports/sports-whole-fencing-equipment-and-locker-preparation-scene-01/v1.0.0/source.blend",
+      "size": 2503092,
+      "sha256": "7800100caaf638a517a9782e99de36d581a8e5923c18364854ad209cd2e273b8"
+    },
+    "generator": {
+      "path": "assets/sports/sports-whole-fencing-equipment-and-locker-preparation-scene-01/v1.0.0/generate.py",
+      "size": 261683,
+      "sha256": "ff4b5f4969aeba6cb29e4dcfbb27b81092e7480f4bfb9aad331c677ba4ff790b"
+    },
+    "render": {
+      "path": "assets/sports/sports-whole-fencing-equipment-and-locker-preparation-scene-01/v1.0.0/thumbnail.png",
+      "size": 512152,
+      "sha256": "3aee31dfac37528cfe8e573cb5a6a47da14176c575920a954d55c9cb381932ed"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

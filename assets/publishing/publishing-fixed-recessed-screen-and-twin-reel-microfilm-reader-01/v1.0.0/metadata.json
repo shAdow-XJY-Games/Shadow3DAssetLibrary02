@@ -1,0 +1,42 @@
+{
+  "id": "publishing-fixed-recessed-screen-and-twin-reel-microfilm-reader-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "publishing",
+  "style": "source-preserved-low-poly",
+  "title": "Fixed Recessed Screen and Twin Reel Microfilm Reader",
+  "description": "One newly authored complete static microfilm-reader-style tabletop exterior. A low chamfered deck on four pads supports a deep rear pillar and one continuous five-sided inclined screen hood with a real open front recess and separate opaque blank inset screen. The broad lower front deck carries two complete horizontal open-spoked reel assemblies on vertical axles, their stored-film exterior rings and one fixed blank thin span crossing a framed central gate. Side focus knob and blank front control complete the silhouette. No old projector, comparator or recorder geometry is imported or resized. Three opaque materials, one prop zero scenes. Static empty occupational appearance only: no image, letters, readable film, lighting optics, projection, scanning, film transport, actual focusing, movement, manufacturing, operating instructions or equipment safety. Rigging animation and interaction not made.",
+  "bounds": {
+    "x": 0.6899999976158142,
+    "y": 0.6548362374305725,
+    "z": 0.8086367249488831,
+    "unit": "m"
+  },
+  "triangles": 3436,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/publishing/publishing-fixed-recessed-screen-and-twin-reel-microfilm-reader-01/v1.0.0/model.glb",
+      "size": 320168,
+      "sha256": "515fdbaf5a35e9f64d3f48ccab50ea45d3785697b0a0a5569b2fcde3949fdcac"
+    },
+    "blend": {
+      "path": "assets/publishing/publishing-fixed-recessed-screen-and-twin-reel-microfilm-reader-01/v1.0.0/source.blend",
+      "size": 1119808,
+      "sha256": "59ceae76391f065b14e70d84754cfc3a692a5971b14385623037327b79e23796"
+    },
+    "generator": {
+      "path": "assets/publishing/publishing-fixed-recessed-screen-and-twin-reel-microfilm-reader-01/v1.0.0/generate.py",
+      "size": 16242,
+      "sha256": "c468d0c554ee9e4fe80186729aa11eb13d8b8f84ec4f2ef2da1b5a03d847a7d0"
+    },
+    "render": {
+      "path": "assets/publishing/publishing-fixed-recessed-screen-and-twin-reel-microfilm-reader-01/v1.0.0/thumbnail.png",
+      "size": 513570,
+      "sha256": "01cf8768a8c48643b0b11657c02d430f802c22f494a773cabc55361733e2c503"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

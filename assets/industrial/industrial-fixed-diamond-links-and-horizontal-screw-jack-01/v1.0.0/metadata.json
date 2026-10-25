@@ -1,0 +1,42 @@
+{
+  "id": "industrial-fixed-diamond-links-and-horizontal-screw-jack-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "industrial",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Diamond Links and Horizontal Screw Jack",
+  "description": "One newly authored whole static diamond-link screw-jack appearance. A complete broad chamfered ground foot and pierced lower mount support four entire two-bore arms joined at the four corners of one open diamond. A separate whole pierced upper mount carries one empty shallow U saddle. Two full side trunnion bodies have genuine horizontal passages and separate retained-looking pivot stubs outside those passages. One integral horizontally passing shaft has continuous shallow helical relief, two full collars and a real open end turning-eye. There is no central X crossing hinge, broad raised deck, sliding end track, vertical hydraulic cylinder or separate pump. All geometry newly authored, not an old scissor platform reduced or a bottle jack with changed colour. One complete prop, zero scenes; four opaque constant untextured PBR roles, metres, native Z up and horizontally bounds-centred ground origin. Deliberate fixed overlap joints and visual clearances are not working thread engagement or engineering tolerances. Empty static appearance only: no lifting, lowering, travel, screw actuation, mechanical advantage, load capacity, vehicle compatibility, force, stability, manufacture, operation or safety capability. Rigging, animation and interaction are not made.",
+  "bounds": {
+    "x": 1.139,
+    "y": 0.44,
+    "z": 0.908,
+    "unit": "m"
+  },
+  "triangles": 8760,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/industrial/industrial-fixed-diamond-links-and-horizontal-screw-jack-01/v1.0.0/model.glb",
+      "size": 469020,
+      "sha256": "d7d1d4c0b0162ca9108f7aec78cdddb7f62c763842dd0e9d621be619d9ac6807"
+    },
+    "blend": {
+      "path": "assets/industrial/industrial-fixed-diamond-links-and-horizontal-screw-jack-01/v1.0.0/source.blend",
+      "size": 1080080,
+      "sha256": "7110e7cc8357d86804416a8fc932c8aa96795cc8a6bcc279200271a8cd1d867c"
+    },
+    "generator": {
+      "path": "assets/industrial/industrial-fixed-diamond-links-and-horizontal-screw-jack-01/v1.0.0/generate.py",
+      "size": 28677,
+      "sha256": "31771e0382033b4fe0cc0834b69c47c08878cb0d013ff5a6610297a8af2e9dd5"
+    },
+    "render": {
+      "path": "assets/industrial/industrial-fixed-diamond-links-and-horizontal-screw-jack-01/v1.0.0/thumbnail.png",
+      "size": 532643,
+      "sha256": "374886392350b0fa0f579d55bf26654d498daaceeb0554330d006c432edafd20"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

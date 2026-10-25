@@ -1,0 +1,42 @@
+{
+  "id": "sports-fixed-twin-runner-and-upright-pad-blocking-sled-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "sports",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Twin Runner and Upright Pad Blocking Sled",
+  "description": "One newly authored complete empty fixed blocking-sled exterior. Two entire thick runners have long flat ground spans and genuinely upturned ends. Three full crossmembers connect the runners; two continuous broad bent leaf-like support plates rise forward from separate clamped rear roots to the backing of one tall thick chamfered contact pad. A distinct rear cross-grip and a short tied standing-platform appearance belong to the same complete chassis. The broad pad is a whole closed three-ring cushion volume, not a plane or a box face decal. This is not a shortened hanging punching-bag frame or the old timber dummy with arms removed: there is no overhead suspension or solid central tree post, and the runner-to-bent-plate-to-pad whole structure is new. Nor is it an inclined-carriage leg press without the seat: no sliding rails, carriage sleeves, pegs or weights are reused. All numeric geometry new, one prop zero scenes and four opaque PBR appearances. Empty fixed sports-equipment visual only. No impact absorption, spring behaviour, resistance, travel, training instructions, user fit, load, balance, manufacturing or safe contact-sport operation claim. Rigging animation and interaction are not made.",
+  "bounds": {
+    "x": 0.99,
+    "y": 1.9849999999999999,
+    "z": 1.46,
+    "unit": "m"
+  },
+  "triangles": 488,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/sports/sports-fixed-twin-runner-and-upright-pad-blocking-sled-01/v1.0.0/model.glb",
+      "size": 34472,
+      "sha256": "8873e6e955cc6459ea34f6e9a7c47b486a2cd7861b297880954e0c14c2070663"
+    },
+    "blend": {
+      "path": "assets/sports/sports-fixed-twin-runner-and-upright-pad-blocking-sled-01/v1.0.0/source.blend",
+      "size": 649956,
+      "sha256": "61630a190032cd0a112e27eb2fa2891fb4e097f4ebbfd93ac23831a1d5b304ea"
+    },
+    "generator": {
+      "path": "assets/sports/sports-fixed-twin-runner-and-upright-pad-blocking-sled-01/v1.0.0/generate.py",
+      "size": 11715,
+      "sha256": "b2b8e25f1f996331b7870dd6d86401b9b5c23f988b0d40d369bf29df83f06c83"
+    },
+    "render": {
+      "path": "assets/sports/sports-fixed-twin-runner-and-upright-pad-blocking-sled-01/v1.0.0/thumbnail.png",
+      "size": 410727,
+      "sha256": "5afa96927d618c1df4818d53c00bd8bdb73efd10e91a094a9f0dcd2647a9403c"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

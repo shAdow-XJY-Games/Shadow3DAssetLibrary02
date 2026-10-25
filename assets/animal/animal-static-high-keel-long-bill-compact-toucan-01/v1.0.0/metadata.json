@@ -1,0 +1,42 @@
+{
+  "id": "animal-static-high-keel-long-bill-compact-toucan-01",
+  "version": "1.0.0",
+  "category": "modular",
+  "assetKind": "prop",
+  "theme": "animal",
+  "style": "warm-handcrafted-village",
+  "title": "Static High-Keel Long-Bill Compact Toucan",
+  "description": "One newly authored whole stylised toucan-like bird in a fixed low standing display pose. A compact forward-leaning dark body rises through a thick short neck into a small round head carrying a disproportionately long deep high-keel bill: a convex upper ridge and broad near-horizontal lower edge taper together to one gently downcurved blunt tip. This is not a parrot short deep hooked bill stretched or a pelican thin spear above a sagging pouch. New complete body/head, keel-bill volume, two folded wings, long broad low tail, two short legs and complete opposed-toe feet; a thick pale throat surface and small lateral eyes clarify the head. No imported old bird mesh. One static model zero scenes. Opaque solid PBR, no exact species, flight, feeding, internal bill anatomy, flexible feathers, toe grasp, rig or biological function claim.",
+  "bounds": {
+    "x": 0.709999979,
+    "y": 2.50999999,
+    "z": 1.789999962,
+    "unit": "m"
+  },
+  "triangles": 1568,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/animal/animal-static-high-keel-long-bill-compact-toucan-01/v1.0.0/model.glb",
+      "size": 88920,
+      "sha256": "bac41e45187b52466ad30ffba69d5258d4ce49e17c4dbaa0c617a7a433cb10f0"
+    },
+    "blend": {
+      "path": "assets/animal/animal-static-high-keel-long-bill-compact-toucan-01/v1.0.0/source.blend",
+      "size": 630968,
+      "sha256": "5d3449ec78f75382401761487e048625b8bff2f2711b68acdfd5dcb5579155bf"
+    },
+    "generator": {
+      "path": "assets/animal/animal-static-high-keel-long-bill-compact-toucan-01/v1.0.0/generate.py",
+      "size": 30628,
+      "sha256": "c9decb68b89442302e53532e493d69217a2852b842f179607e41d5c165e82404"
+    },
+    "render": {
+      "path": "assets/animal/animal-static-high-keel-long-bill-compact-toucan-01/v1.0.0/thumbnail.png",
+      "size": 475808,
+      "sha256": "f22549b4b1a30c68d261af7fe0baebb530df2d7ef5fd8607a9332bb23effa1be"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

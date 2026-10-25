@@ -1,0 +1,42 @@
+{
+  "id": "railway-fixed-pivoted-arm-and-counterweight-signal-mast-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "railway",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Pivoted Arm and Counterweight Signal Mast",
+  "description": "One complete newly authored fixed mechanical-arm railway signal appearance. A grounded concrete plinth carries a full tapered mast and projecting upper bored bearing with transverse axle. One complete wide blank blade extends to one side with a short opposite arm. A continuous long external rod joins that short arm to a separate low counterweighted balance lever on its own transverse fulcrum; pins and a terminal grip are complete solids. A full rear ladder with two continuous stiles, individual rungs and mast ties joins the base to the upper mast. Unlike the old two unlit hooded lenses on a simple mast, this whole object has an elevated transverse blade and long low-to-high linkage. Unlike the old low open-frame switchstand, it has no vertical target-disc shaft or terminal turnout eye. No old mesh imported. Three opaque PBR materials, metres, Z up and actual horizontal-bounds-centred ground origin. One static prop zero scenes. Blank faces, no standard colors, illuminated aspects, lettering or real route meaning. Fixed illustrative roots only; no linked animation, indication, transmission, ladder access, loads, rail installation, compliance or operational safety claim.",
+  "bounds": {
+    "x": 1.7149999999999999,
+    "y": 0.97,
+    "z": 2.98,
+    "unit": "m"
+  },
+  "triangles": 1192,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/railway/railway-fixed-pivoted-arm-and-counterweight-signal-mast-01/v1.0.0/model.glb",
+      "size": 69296,
+      "sha256": "892b2cde6bf61a9aab5fd436667df539a611f0dc7ced111233ee5ae3b825688a"
+    },
+    "blend": {
+      "path": "assets/railway/railway-fixed-pivoted-arm-and-counterweight-signal-mast-01/v1.0.0/source.blend",
+      "size": 719928,
+      "sha256": "ca231e36e992833d4f72b352a53dc0409c505ee133ebc737bf69a21ca4a57e20"
+    },
+    "generator": {
+      "path": "assets/railway/railway-fixed-pivoted-arm-and-counterweight-signal-mast-01/v1.0.0/generate.py",
+      "size": 11887,
+      "sha256": "0425f2d08b901ed04fcd75792326e05feea193864984b22ca7f024200fea9acd"
+    },
+    "render": {
+      "path": "assets/railway/railway-fixed-pivoted-arm-and-counterweight-signal-mast-01/v1.0.0/thumbnail.png",
+      "size": 345641,
+      "sha256": "251ca9e4544b85671dc7a84d018e66312c0b2a456a5aad5a758a1593d71b34d6"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
