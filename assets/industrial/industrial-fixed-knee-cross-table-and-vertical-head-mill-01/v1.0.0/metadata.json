@@ -1,0 +1,42 @@
+{
+  "id": "industrial-fixed-knee-cross-table-and-vertical-head-mill-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "industrial",
+  "style": "source-preserved-low-poly",
+  "title": "Fixed Knee Cross Table and Vertical Head Mill",
+  "description": "One newly authored complete fixed vertical knee-mill-style exterior. A broad cast foot supports a full tapered rear column and one continuous forward L knee with a lower elevating-post appearance. Two distinct perpendicular guide and carriage stages support a whole wide empty table with three actual top-open and end-open T-section channels. A high fixed ram joins a separate tall stepped vertical head and exposed quill with a short blunt spindle. A rear high drive-housing appearance and whole upper cover complete the head assembly. Three full open-spoke control wheels belong to the table end, cross saddle and knee; a separate finite head lever and blank column control complete the machine. No old drill press, shaper or lathe geometry imported. Unlike a drill column with a small bored arm table and unlike a horizontal ram/clapper shaper, the full crossed saddle and long transverse table work visually below a tall independent vertical spindle head. Three opaque constant PBR roles, metres Z up and horizontal-envelope-centred ground datum. One prop zero scenes. No workpiece, sharp cutter, motor internals, actual feeds, machining, accuracy, thread/guide fits, fixture compatibility, manufacture, operator fit, load or machinery safety claimed. Rigging animation interaction not made.",
+  "bounds": {
+    "x": 1.4889999628067017,
+    "y": 1.093999981880188,
+    "z": 1.777999997138977,
+    "unit": "m"
+  },
+  "triangles": 3264,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/industrial/industrial-fixed-knee-cross-table-and-vertical-head-mill-01/v1.0.0/model.glb",
+      "size": 301592,
+      "sha256": "dc78b262d8df2c315f3ab52fd9bb898eb6b5648f34fa844f83542a112df28c2c"
+    },
+    "blend": {
+      "path": "assets/industrial/industrial-fixed-knee-cross-table-and-vertical-head-mill-01/v1.0.0/source.blend",
+      "size": 1072320,
+      "sha256": "9e412adabe5f922f62e80f5632bd83fade6124e463e62379800f091c9dd4e69e"
+    },
+    "generator": {
+      "path": "assets/industrial/industrial-fixed-knee-cross-table-and-vertical-head-mill-01/v1.0.0/generate.py",
+      "size": 18597,
+      "sha256": "e3ecf71792a8142bb6222af2a29e8e94a0d317e30d928c90822b245fefc8965b"
+    },
+    "render": {
+      "path": "assets/industrial/industrial-fixed-knee-cross-table-and-vertical-head-mill-01/v1.0.0/thumbnail.png",
+      "size": 496454,
+      "sha256": "2c10888e792b5f871f7a7f2d3437c3e55c4f78b3286f511926d5b6d62c2cb81d"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

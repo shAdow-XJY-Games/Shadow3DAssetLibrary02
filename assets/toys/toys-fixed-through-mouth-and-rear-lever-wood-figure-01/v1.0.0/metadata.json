@@ -1,0 +1,42 @@
+{
+  "id": "toys-fixed-through-mouth-and-rear-lever-wood-figure-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "toys",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Through Mouth and Rear Lever Wood Figure",
+  "description": "One independently authored whole wooden lever-jaw figure in a fixed standing display pose. A broad finite plinth holds two full long shoes, separate legs and one shaped solid torso with two simple complete arms and blunt hands. A thick continuous head has a real front-to-back rectangular mouth tunnel. One entire bent lower-jaw and long rear lever member passes through that mouth around a separately supported transverse pin, leaving a visibly open gap beneath the upper lip. A low plain cap, nose, two eyes and simple cheek details finish the new stylized wooden character. Unlike a suspended marionette it has no overhead strings, jointed elbows or knees, or control cross; unlike an empty dental articulator it has a full standing figure and an integral rear-handled jaw member instead of opposed mounting discs. All visible coordinates newly authored; no old puppet, clamp or human mesh imported. Four opaque constant PBR materials, one whole toy prop zero scenes, metres native Z up and full horizontal-bounds-centred ground datum. Static nutcracker-inspired exterior only, no food or nut present: no lever motion, bite force, joint range, crushing, food-contact suitability, child suitability, pinch protection, manufacture, toy operation or safety claim. No historical costume attribution, rigging, animation or interaction.",
+  "bounds": {
+    "x": 0.31,
+    "y": 0.31,
+    "z": 0.637,
+    "unit": "m"
+  },
+  "triangles": 1924,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/toys/toys-fixed-through-mouth-and-rear-lever-wood-figure-01/v1.0.0/model.glb",
+      "size": 107140,
+      "sha256": "51a4ced9475e065df1c78a57f91771cb80ca7c8fd030ee0358742bfff37fb7cf"
+    },
+    "blend": {
+      "path": "assets/toys/toys-fixed-through-mouth-and-rear-lever-wood-figure-01/v1.0.0/source.blend",
+      "size": 764560,
+      "sha256": "3c403e495da059eac5ddc7b0a190b4da0413ec48f2d7272dc4638b1b80ebba7d"
+    },
+    "generator": {
+      "path": "assets/toys/toys-fixed-through-mouth-and-rear-lever-wood-figure-01/v1.0.0/generate.py",
+      "size": 12819,
+      "sha256": "789e39fd31fbb6990af6e22b5b187e2ec809362cecfcf734223475cc0ad3d483"
+    },
+    "render": {
+      "path": "assets/toys/toys-fixed-through-mouth-and-rear-lever-wood-figure-01/v1.0.0/thumbnail.png",
+      "size": 423261,
+      "sha256": "b2d25c67554362ef69a8c3625ef7e166c1e4438fe2718e4e26eedb3a58f54be9"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

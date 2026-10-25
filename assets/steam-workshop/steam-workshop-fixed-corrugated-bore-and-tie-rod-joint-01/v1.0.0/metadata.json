@@ -1,0 +1,42 @@
+{
+  "id": "steam-workshop-fixed-corrugated-bore-and-tie-rod-joint-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "steam-workshop",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Corrugated Bore and Tie Rod Joint",
+  "description": "One complete newly authored fixed corrugated pipe-joint display. A single continuous thick annular shell has six rounded angular corrugations on both the outside and the open inside, not rings placed on a solid or plain cylinder. Two whole opposed open flange rings and raised mouth collars receive the end necks. Four complete outer axial tie rods pass the flange margins and carry eight whole hollow hexagonal end nuts; two shallow display feet support the flange bottoms. Unlike the older rectangular camera bellows with optical standards or the long handwheel valve shell, the new whole assembly is an annular corrugated through-body constrained by external rods and complete opposed pipe interfaces. No old mesh imported. Three opaque PBR materials, metre Z-up, complete horizontal envelope centred at ground. Fixed static art only: no elasticity, displacement, pressure, fluid, sealing, threads, engineering fit, flange compatibility, pipe operation, load, manufacture, installation or safety claim; no animation or interaction.",
+  "bounds": {
+    "x": 1.03,
+    "y": 0.64,
+    "z": 0.6799999999999999,
+    "unit": "m"
+  },
+  "triangles": 6744,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/steam-workshop/steam-workshop-fixed-corrugated-bore-and-tie-rod-joint-01/v1.0.0/model.glb",
+      "size": 349968,
+      "sha256": "de3b1864721d370d592cbcbd7d15597eb8fd32580088fac027095f7d8a32ecb5"
+    },
+    "blend": {
+      "path": "assets/steam-workshop/steam-workshop-fixed-corrugated-bore-and-tie-rod-joint-01/v1.0.0/source.blend",
+      "size": 968580,
+      "sha256": "fda12917fb2865fc6ae2f1b373cccfdea42f0846594c6d340a1122c276ec617d"
+    },
+    "generator": {
+      "path": "assets/steam-workshop/steam-workshop-fixed-corrugated-bore-and-tie-rod-joint-01/v1.0.0/generate.py",
+      "size": 11267,
+      "sha256": "6552fddc6e99d373ba8aa99b681cd4931cf2d6fbab54509626a521a3768d8be1"
+    },
+    "render": {
+      "path": "assets/steam-workshop/steam-workshop-fixed-corrugated-bore-and-tie-rod-joint-01/v1.0.0/thumbnail.png",
+      "size": 461715,
+      "sha256": "2d5029a4556e6106b747960569e605128c59d05e82cc36e61048e538cbf3e85c"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
