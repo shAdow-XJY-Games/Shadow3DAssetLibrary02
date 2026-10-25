@@ -1449,6 +1449,11 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary02",
       "commit": "2842a83372b15243c81d33a27e015a462b50d3a2"
+    },
+    "original-qualified-batch-1126-volume02-20261025": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary02",
+      "commit": "a7a29cf255216797221d77b19b0de4ba54b34089"
     }
   },
   "assets": [
@@ -49697,6 +49702,178 @@
       "status": "verified",
       "license": "All rights reserved",
       "sourceId": "original-qualified-batch-1122-volume02-20261025"
+    },
+    {
+      "id": "industrial-fixed-knee-cross-table-and-vertical-head-mill-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "industrial",
+      "style": "source-preserved-low-poly",
+      "title": "Fixed Knee Cross Table and Vertical Head Mill",
+      "description": "One newly authored complete fixed vertical knee-mill-style exterior. A broad cast foot supports a full tapered rear column and one continuous forward L knee with a lower elevating-post appearance. Two distinct perpendicular guide and carriage stages support a whole wide empty table with three actual top-open and end-open T-section channels. A high fixed ram joins a separate tall stepped vertical head and exposed quill with a short blunt spindle. A rear high drive-housing appearance and whole upper cover complete the head assembly. Three full open-spoke control wheels belong to the table end, cross saddle and knee; a separate finite head lever and blank column control complete the machine. No old drill press, shaper or lathe geometry imported. Unlike a drill column with a small bored arm table and unlike a horizontal ram/clapper shaper, the full crossed saddle and long transverse table work visually below a tall independent vertical spindle head. Three opaque constant PBR roles, metres Z up and horizontal-envelope-centred ground datum. One prop zero scenes. No workpiece, sharp cutter, motor internals, actual feeds, machining, accuracy, thread/guide fits, fixture compatibility, manufacture, operator fit, load or machinery safety claimed. Rigging animation interaction not made.",
+      "bounds": {
+        "x": 1.4889999628067017,
+        "y": 1.093999981880188,
+        "z": 1.777999997138977,
+        "unit": "m"
+      },
+      "triangles": 3264,
+      "materials": 3,
+      "files": {
+        "glb": {
+          "path": "assets/industrial/industrial-fixed-knee-cross-table-and-vertical-head-mill-01/v1.0.0/model.glb",
+          "size": 301592,
+          "sha256": "dc78b262d8df2c315f3ab52fd9bb898eb6b5648f34fa844f83542a112df28c2c"
+        },
+        "blend": {
+          "path": "assets/industrial/industrial-fixed-knee-cross-table-and-vertical-head-mill-01/v1.0.0/source.blend",
+          "size": 1072320,
+          "sha256": "9e412adabe5f922f62e80f5632bd83fade6124e463e62379800f091c9dd4e69e"
+        },
+        "generator": {
+          "path": "assets/industrial/industrial-fixed-knee-cross-table-and-vertical-head-mill-01/v1.0.0/generate.py",
+          "size": 18597,
+          "sha256": "e3ecf71792a8142bb6222af2a29e8e94a0d317e30d928c90822b245fefc8965b"
+        },
+        "render": {
+          "path": "assets/industrial/industrial-fixed-knee-cross-table-and-vertical-head-mill-01/v1.0.0/thumbnail.png",
+          "size": 496454,
+          "sha256": "2c10888e792b5f871f7a7f2d3437c3e55c4f78b3286f511926d5b6d62c2cb81d"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1126-volume02-20261025"
+    },
+    {
+      "id": "nature-whole-fork-anchored-radial-spiral-orb-web-01",
+      "version": "1.0.0",
+      "category": "modular",
+      "assetKind": "prop",
+      "theme": "nature",
+      "style": "warm-handcrafted-village",
+      "title": "Whole Fork-Anchored Radial Spiral Orb Web",
+      "description": "One newly authored complete static empty orb-web-like natural prop. A single continuous outward spiral thread crosses complete radial spokes inside an unequal peripheral thread, with long outer anchoring threads reaching a whole irregular dead forked woody support. All strands have closed solid finite cross sections and true open sectors; no transparent disc, rectangular fishing mesh, imported net frame, repeated hanging hoops or printed radial texture. The supporting fork has one true finite basal cut and complete rooted boughs. One entire model zero scenes. Exaggerated visible thread thickness is stylised, not exact spider species, real silk scale, strand junction biology, sticky capture, tension, load, habitat suitability or simulation. No spider or prey is included.",
+      "bounds": {
+        "x": 1.922462344,
+        "y": 0.320011884,
+        "z": 2.235789299,
+        "unit": "m"
+      },
+      "triangles": 3924,
+      "materials": 4,
+      "files": {
+        "glb": {
+          "path": "assets/nature/nature-whole-fork-anchored-radial-spiral-orb-web-01/v1.0.0/model.glb",
+          "size": 201644,
+          "sha256": "996dff248a87ef46e454516ee57a8968086d7b32a8007308d77a182240b5608f"
+        },
+        "blend": {
+          "path": "assets/nature/nature-whole-fork-anchored-radial-spiral-orb-web-01/v1.0.0/source.blend",
+          "size": 753324,
+          "sha256": "65b8d54ab1c6c359cdc63e3951de94063061a2a5c53513bff0e835fb64c92f89"
+        },
+        "generator": {
+          "path": "assets/nature/nature-whole-fork-anchored-radial-spiral-orb-web-01/v1.0.0/generate.py",
+          "size": 30100,
+          "sha256": "7a7f5c824247eba9a2db9bc125199e32b0d1b935278e449e3fbb95cbda399e16"
+        },
+        "render": {
+          "path": "assets/nature/nature-whole-fork-anchored-radial-spiral-orb-web-01/v1.0.0/thumbnail.png",
+          "size": 520734,
+          "sha256": "a42f7c590539d72b3c9b42be0ca4600faf8f647495c43fb7cbdbebb66850ce52"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1126-volume02-20261025"
+    },
+    {
+      "id": "steam-workshop-fixed-corrugated-bore-and-tie-rod-joint-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "steam-workshop",
+      "style": "S01-clean-geometric",
+      "title": "Fixed Corrugated Bore and Tie Rod Joint",
+      "description": "One complete newly authored fixed corrugated pipe-joint display. A single continuous thick annular shell has six rounded angular corrugations on both the outside and the open inside, not rings placed on a solid or plain cylinder. Two whole opposed open flange rings and raised mouth collars receive the end necks. Four complete outer axial tie rods pass the flange margins and carry eight whole hollow hexagonal end nuts; two shallow display feet support the flange bottoms. Unlike the older rectangular camera bellows with optical standards or the long handwheel valve shell, the new whole assembly is an annular corrugated through-body constrained by external rods and complete opposed pipe interfaces. No old mesh imported. Three opaque PBR materials, metre Z-up, complete horizontal envelope centred at ground. Fixed static art only: no elasticity, displacement, pressure, fluid, sealing, threads, engineering fit, flange compatibility, pipe operation, load, manufacture, installation or safety claim; no animation or interaction.",
+      "bounds": {
+        "x": 1.03,
+        "y": 0.64,
+        "z": 0.6799999999999999,
+        "unit": "m"
+      },
+      "triangles": 6744,
+      "materials": 3,
+      "files": {
+        "glb": {
+          "path": "assets/steam-workshop/steam-workshop-fixed-corrugated-bore-and-tie-rod-joint-01/v1.0.0/model.glb",
+          "size": 349968,
+          "sha256": "de3b1864721d370d592cbcbd7d15597eb8fd32580088fac027095f7d8a32ecb5"
+        },
+        "blend": {
+          "path": "assets/steam-workshop/steam-workshop-fixed-corrugated-bore-and-tie-rod-joint-01/v1.0.0/source.blend",
+          "size": 968580,
+          "sha256": "fda12917fb2865fc6ae2f1b373cccfdea42f0846594c6d340a1122c276ec617d"
+        },
+        "generator": {
+          "path": "assets/steam-workshop/steam-workshop-fixed-corrugated-bore-and-tie-rod-joint-01/v1.0.0/generate.py",
+          "size": 11267,
+          "sha256": "6552fddc6e99d373ba8aa99b681cd4931cf2d6fbab54509626a521a3768d8be1"
+        },
+        "render": {
+          "path": "assets/steam-workshop/steam-workshop-fixed-corrugated-bore-and-tie-rod-joint-01/v1.0.0/thumbnail.png",
+          "size": 461715,
+          "sha256": "2d5029a4556e6106b747960569e605128c59d05e82cc36e61048e538cbf3e85c"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1126-volume02-20261025"
+    },
+    {
+      "id": "toys-fixed-through-mouth-and-rear-lever-wood-figure-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "toys",
+      "style": "S01-clean-geometric",
+      "title": "Fixed Through Mouth and Rear Lever Wood Figure",
+      "description": "One independently authored whole wooden lever-jaw figure in a fixed standing display pose. A broad finite plinth holds two full long shoes, separate legs and one shaped solid torso with two simple complete arms and blunt hands. A thick continuous head has a real front-to-back rectangular mouth tunnel. One entire bent lower-jaw and long rear lever member passes through that mouth around a separately supported transverse pin, leaving a visibly open gap beneath the upper lip. A low plain cap, nose, two eyes and simple cheek details finish the new stylized wooden character. Unlike a suspended marionette it has no overhead strings, jointed elbows or knees, or control cross; unlike an empty dental articulator it has a full standing figure and an integral rear-handled jaw member instead of opposed mounting discs. All visible coordinates newly authored; no old puppet, clamp or human mesh imported. Four opaque constant PBR materials, one whole toy prop zero scenes, metres native Z up and full horizontal-bounds-centred ground datum. Static nutcracker-inspired exterior only, no food or nut present: no lever motion, bite force, joint range, crushing, food-contact suitability, child suitability, pinch protection, manufacture, toy operation or safety claim. No historical costume attribution, rigging, animation or interaction.",
+      "bounds": {
+        "x": 0.31,
+        "y": 0.31,
+        "z": 0.637,
+        "unit": "m"
+      },
+      "triangles": 1924,
+      "materials": 4,
+      "files": {
+        "glb": {
+          "path": "assets/toys/toys-fixed-through-mouth-and-rear-lever-wood-figure-01/v1.0.0/model.glb",
+          "size": 107140,
+          "sha256": "51a4ced9475e065df1c78a57f91771cb80ca7c8fd030ee0358742bfff37fb7cf"
+        },
+        "blend": {
+          "path": "assets/toys/toys-fixed-through-mouth-and-rear-lever-wood-figure-01/v1.0.0/source.blend",
+          "size": 764560,
+          "sha256": "3c403e495da059eac5ddc7b0a190b4da0413ec48f2d7272dc4638b1b80ebba7d"
+        },
+        "generator": {
+          "path": "assets/toys/toys-fixed-through-mouth-and-rear-lever-wood-figure-01/v1.0.0/generate.py",
+          "size": 12819,
+          "sha256": "789e39fd31fbb6990af6e22b5b187e2ec809362cecfcf734223475cc0ad3d483"
+        },
+        "render": {
+          "path": "assets/toys/toys-fixed-through-mouth-and-rear-lever-wood-figure-01/v1.0.0/thumbnail.png",
+          "size": 423261,
+          "sha256": "b2d25c67554362ef69a8c3625ef7e166c1e4438fe2718e4e26eedb3a58f54be9"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1126-volume02-20261025"
     }
   ]
 }
