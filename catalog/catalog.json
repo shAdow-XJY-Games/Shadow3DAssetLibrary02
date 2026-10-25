@@ -1584,6 +1584,11 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary02",
       "commit": "66a7ff6cffaeb1cf451112b17250fc1921fd1310"
+    },
+    "original-qualified-batch-1205-volume02-20261025": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary02",
+      "commit": "c4023b58e1dbd62b30e0aabd6b850617234d44eb"
     }
   },
   "assets": [
@@ -53358,6 +53363,49 @@
       "status": "verified",
       "license": "All rights reserved",
       "sourceId": "original-qualified-batch-1204-volume02-20261025"
+    },
+    {
+      "id": "music-fixed-bowl-back-and-twin-arm-yoke-lyre-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "music",
+      "style": "S01-clean-geometric",
+      "title": "Fixed Bowl Back and Twin Arm Yoke Lyre",
+      "description": "One newly authored complete static bowl-backed yoke-lyre-inspired instrument, displayed lying on the finite back of its resonator. A whole deep rounded wooden bowl has an actual blind interior under a separate thick soundboard with a genuine offset circular aperture. Two complete outcurving arms root in whole shoulder sockets and carry one transverse upper yoke with independent pegs. Seven parallel visual strings cross an entire raised bridge and join a lower anchor; no fingerboard or fretted neck is present. The paired arms and yoke over the short bowl define a new integrated instrument, not the old triangular frame harp shortened or a banjo with its long neck replaced by added decorations. No old visible geometry is imported or extracted. One model zero scenes, four opaque untextured PBR roles, metres, Z up and whole horizontal-envelope-centred ground origin. Generic stylized cultural-art interpretation, not an exact ancient, regional or museum reconstruction. The cavity is real geometry but not an acoustic design: no sound, pitch, tuning, string tension, structural strength, player fit, playability, manufacture or safety performance. Fixed supports and strings only; rigging, animation and interaction not made.",
+      "bounds": {
+        "x": 0.4907963688706172,
+        "y": 0.9002478969225924,
+        "z": 0.19,
+        "unit": "m"
+      },
+      "triangles": 2440,
+      "materials": 4,
+      "files": {
+        "glb": {
+          "path": "assets/music/music-fixed-bowl-back-and-twin-arm-yoke-lyre-01/v1.0.0/model.glb",
+          "size": 133100,
+          "sha256": "d3002c1deefd253bc076712731dc4585f4071714b5c18329a5b32b71f549cf7e"
+        },
+        "blend": {
+          "path": "assets/music/music-fixed-bowl-back-and-twin-arm-yoke-lyre-01/v1.0.0/source.blend",
+          "size": 778516,
+          "sha256": "0c3b95238fe6a9fec782128a4702f35b79348cb59f31d748767dfb27c279580e"
+        },
+        "generator": {
+          "path": "assets/music/music-fixed-bowl-back-and-twin-arm-yoke-lyre-01/v1.0.0/generate.py",
+          "size": 11274,
+          "sha256": "460797c3c9f01961754275d493fbe2864d95eaee59656ac3b444079739441917"
+        },
+        "render": {
+          "path": "assets/music/music-fixed-bowl-back-and-twin-arm-yoke-lyre-01/v1.0.0/thumbnail.png",
+          "size": 491682,
+          "sha256": "f4be1cadb93616fc616b650f3b8a9f7f1d967cf96fb5b68073ead16fab901ab4"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1205-volume02-20261025"
     }
   ]
 }
