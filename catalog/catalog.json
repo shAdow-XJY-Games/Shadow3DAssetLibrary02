@@ -1579,6 +1579,11 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary02",
       "commit": "2f760401994c37092f1cb8abd1d5e1e3967d2f63"
+    },
+    "original-qualified-batch-1204-volume02-20261025": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary02",
+      "commit": "66a7ff6cffaeb1cf451112b17250fc1921fd1310"
     }
   },
   "assets": [
@@ -53224,6 +53229,135 @@
       "status": "verified",
       "license": "All rights reserved",
       "sourceId": "original-qualified-batch-1201-volume02-20261025"
+    },
+    {
+      "id": "entertainment-fixed-twin-control-rods-and-pocket-bed-game-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "entertainment",
+      "style": "S01-clean-geometric",
+      "title": "Fixed Twin Control Rods and Pocket Bed Game",
+      "description": "One newly authored complete static two-rod ball-control tabletop game appearance. A whole long grounded timber bed supports one continuous upper landing board with five genuine through apertures over the separate full blind bottom, bounded by real raised side and end rims. Two separate full long thin rods extend from independent rear pivot plinths to projecting front handgrips, slightly fanning apart above the open pockets; short fixed front saddles represent the displayed resting pose. One complete ball is visibly seated across both rods. The whole bed, pierced landing board, paired rod support architecture and ball are newly authored, not old gimballed maze geometry with obstacles removed and not the tabletop suspended-ball skittle set with renamed pieces. There is no gimbal frame, tilting playing floor, maze walls, overhead mast, tether or skittle targets. One game prop/kit zero scenes; subordinate ball and rods not separately counted. Four opaque untextured PBR roles, metres, Z up, full horizontal envelope centre on the finite bed underside. Fixed illustrative still life only: intentional tiny ball/rod support overlaps do not validate ball movement. No playable physics, rod travel, scoring, rules, coordination training, human fit, durability, manufacturing or toy/child safety. Rigging, animation and interaction not made.",
+      "bounds": {
+        "x": 0.33,
+        "y": 1.4362348198114874,
+        "z": 0.26402658606274154,
+        "unit": "m"
+      },
+      "triangles": 1244,
+      "materials": 4,
+      "files": {
+        "glb": {
+          "path": "assets/entertainment/entertainment-fixed-twin-control-rods-and-pocket-bed-game-01/v1.0.0/model.glb",
+          "size": 71932,
+          "sha256": "a4cc65662641314c27c836007f091e898ab07fe84ddd1aa27287b5ab9fc78b61"
+        },
+        "blend": {
+          "path": "assets/entertainment/entertainment-fixed-twin-control-rods-and-pocket-bed-game-01/v1.0.0/source.blend",
+          "size": 686012,
+          "sha256": "555327adaf457bbab9f1f43c9a7badf3afede433aee5442eec0037c7da34c3f7"
+        },
+        "generator": {
+          "path": "assets/entertainment/entertainment-fixed-twin-control-rods-and-pocket-bed-game-01/v1.0.0/generate.py",
+          "size": 11990,
+          "sha256": "9c6bf01462e4f1b5265d5e8dbd94bca092c2b6eab99a9c8b3e29825c74f9c78e"
+        },
+        "render": {
+          "path": "assets/entertainment/entertainment-fixed-twin-control-rods-and-pocket-bed-game-01/v1.0.0/thumbnail.png",
+          "size": 390801,
+          "sha256": "3fb5c8b7cea3d17a3b1c4c8209a2a0c3c9b42d4f20e41f91cc44c0dcae6f757a"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1204-volume02-20261025"
+    },
+    {
+      "id": "office-complete-opposed-document-finishing-and-waste-bay-scene-01",
+      "version": "1.0.0",
+      "category": "scenes",
+      "assetKind": "scene",
+      "theme": "office",
+      "style": "source-preserved-low-poly",
+      "title": "Complete Opposed Document Finishing and Waste Bay",
+      "description": "One static document-finishing preparation bay, one scene zero new independent models. Two complete unchanged worktables stand as separate facing stations across an open central aisle: the left table supports the entire twin blind-pocket paper-folder cutaway, facing inward, and the right supports the whole fixed raised-arm paper cutter facing the opposite way. A complete pullout-bin shredder stands independently at the back of the central approach, its original extended bin facing forward, with clear floor intervals from both tables. The two tables are whole repeated instances, not two new assets. All original raw GLB buffers, complete meshes, local normals, face PBR assignments and internal hierarchy are unchanged at unit scale; only exact quarter-turn parent placement and one finite floor are new. Unlike the old side-by-side copier and one pickup table, there are two opposed raised processing-tool stations and one separate lower waste endpoint, not an L-shaped printing-and-sewing/bookcase corner relabelled. No paper, users, disassembled parts, connected feed, cutting, folding, shredding, ergonomic access, load or operation/safety performance claim. Rigging animation interaction not made.",
+      "bounds": {
+        "x": 3.0,
+        "y": 2.5999999046325684,
+        "z": 1.6270502805709839,
+        "unit": "m"
+      },
+      "triangles": 4408,
+      "materials": 15,
+      "files": {
+        "glb": {
+          "path": "assets/office/office-complete-opposed-document-finishing-and-waste-bay-scene-01/v1.0.0/model.glb",
+          "size": 417224,
+          "sha256": "5e144e773365c92b026811a1fb8d53007554f09a2be03b22b2d4551929709d1a"
+        },
+        "blend": {
+          "path": "assets/office/office-complete-opposed-document-finishing-and-waste-bay-scene-01/v1.0.0/source.blend",
+          "size": 1700592,
+          "sha256": "3867bfe2460f823214e5633dd6d37d3eeb1031568545ce6d47202772f8e7c89b"
+        },
+        "generator": {
+          "path": "assets/office/office-complete-opposed-document-finishing-and-waste-bay-scene-01/v1.0.0/generate.py",
+          "size": 127012,
+          "sha256": "846c9ce34783461b6cfba1ce8ad9c4d5107e73245560c4cd36b299e5b15011f1"
+        },
+        "render": {
+          "path": "assets/office/office-complete-opposed-document-finishing-and-waste-bay-scene-01/v1.0.0/thumbnail.png",
+          "size": 494045,
+          "sha256": "1bdd2442f84bd8346c8b93d183d6e14c8c0fcde3414624a3eea9d107ec7e3254"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1204-volume02-20261025"
+    },
+    {
+      "id": "technology-fixed-three-offset-discs-and-six-link-connector-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "technology",
+      "style": "source-preserved-low-poly",
+      "title": "Fixed Three Offset Discs And Six Link Connector",
+      "description": "One newly authored complete fixed parallel-shaft six-link connector display. A broad low base carries two whole bored bearing pedestals and two short fixed horizontal shafts at different transverse positions. Three whole thin circular plates occupy separate axial layers: the first and last belong to the two shafts, while the middle plate is elevated and offset sideways. Two distinct sets of three complete flat-ended links connect matching perimeter positions of adjacent plates through twelve whole transverse fixed pins. The open gaps between the three plates and the two visible link layers are the main relationship, rather than perpendicular sliding tongues in the old Oldham disc or the fork-cross of the old Cardan joint. All mesh geometry newly authored; no old disks, shafts, forks or keys imported. Four opaque constant PBR materials, metres Z up, one whole static illustrative prop and zero scenes. This deliberately spaced fixed Schmidt-inspired arrangement does not validate linkage closure over a trajectory, constant velocity, shaft misalignment limits, pivot bearing fits, torque transmission, mechanical efficiency, motion, fabrication, loading, installation or safety. Pins intentionally overlap plates and solid links as fixed artistic joins, not free-running joints. No rig, animation or interaction.",
+      "bounds": {
+        "x": 1.2599999904632568,
+        "y": 0.7400000095367432,
+        "z": 0.7200000286102295,
+        "unit": "m"
+      },
+      "triangles": 2184,
+      "materials": 4,
+      "files": {
+        "glb": {
+          "path": "assets/technology/technology-fixed-three-offset-discs-and-six-link-connector-01/v1.0.0/model.glb",
+          "size": 204440,
+          "sha256": "1b370e7f1d771eb1bbceb98d081d89b9f0250b8640df307a2d59e4f1796f2fd4"
+        },
+        "blend": {
+          "path": "assets/technology/technology-fixed-three-offset-discs-and-six-link-connector-01/v1.0.0/source.blend",
+          "size": 932192,
+          "sha256": "10c85169ad163c4a1b7d7a2e0e283ece09ece7b623a8785b53e65b31201ad66b"
+        },
+        "generator": {
+          "path": "assets/technology/technology-fixed-three-offset-discs-and-six-link-connector-01/v1.0.0/generate.py",
+          "size": 17476,
+          "sha256": "f5a144db5fd843b5d6f602d54cafd41a78eaa76f20604f717d06e6f56e404e07"
+        },
+        "render": {
+          "path": "assets/technology/technology-fixed-three-offset-discs-and-six-link-connector-01/v1.0.0/thumbnail.png",
+          "size": 494451,
+          "sha256": "863dcb9deb39cc928373302fa47b67bcb0668b96cc65fbc513df364efb9c9d19"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1204-volume02-20261025"
     }
   ]
 }
