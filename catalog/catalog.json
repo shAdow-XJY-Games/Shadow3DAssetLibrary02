@@ -1364,6 +1364,11 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary02",
       "commit": "8e58757c8e205cb1984d1823ce97f09f189e1e3f"
+    },
+    "original-qualified-batch-1083-volume02-20261025": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary02",
+      "commit": "cdaa59dbb7e7bc196f3617844f21078ade73f86b"
     }
   },
   "assets": [
@@ -47892,6 +47897,49 @@
       "status": "verified",
       "license": "All rights reserved",
       "sourceId": "original-qualified-batch-1082-volume02-20261025"
+    },
+    {
+      "id": "interior-fixed-empty-trunnion-cradle-and-trestles-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "interior",
+      "style": "S01-clean-geometric",
+      "title": "Fixed Empty Trunnion Cradle and Trestles",
+      "description": "One newly authored complete empty cradle appearance in a fixed display pose. A continuous thick deeply curved timber floor shell joins two full shaped end boards and two open slatted sides with long top rails. Both end boards carry whole short trunnion axles through separate bored bearing heads on two complete splayed trestles. Broad transverse grounded feet and one full lower longitudinal tie join the stand beneath the suspended empty body. This is not a cloth hammock made smaller, a wheeled hooded stroller with wheels removed, or a rocking chair with extra rails. All whole numerical geometry is new, no old meshes imported. Three opaque PBR materials, metres Z up and whole horizontal-bounds-centred ground origin, one static prop and zero scenes. No infant, person, mattress, bedding, restraint, rocking animation, motion clearance, load, stability, age suitability, child care, fabrication, installation or product safety claim. Empty visual furniture only, not a usable childcare design.",
+      "bounds": {
+        "x": 0.85,
+        "y": 1.4900000000000002,
+        "z": 0.91,
+        "unit": "m"
+      },
+      "triangles": 1208,
+      "materials": 3,
+      "files": {
+        "glb": {
+          "path": "assets/interior/interior-fixed-empty-trunnion-cradle-and-trestles-01/v1.0.0/model.glb",
+          "size": 74580,
+          "sha256": "736cfcf5bedbe3d6934fce468c271557becd6e59f145d140de386cf657ca568f"
+        },
+        "blend": {
+          "path": "assets/interior/interior-fixed-empty-trunnion-cradle-and-trestles-01/v1.0.0/source.blend",
+          "size": 748484,
+          "sha256": "9a6217a60e9c30d3421833662f235ffaec2822226ad402149170f53e001b89b9"
+        },
+        "generator": {
+          "path": "assets/interior/interior-fixed-empty-trunnion-cradle-and-trestles-01/v1.0.0/generate.py",
+          "size": 11173,
+          "sha256": "5f5367d8130e130d820f866746c4b7693c4b88f49cd92eaab588697a5723509b"
+        },
+        "render": {
+          "path": "assets/interior/interior-fixed-empty-trunnion-cradle-and-trestles-01/v1.0.0/thumbnail.png",
+          "size": 512105,
+          "sha256": "128d770487a06bfcbc2dfa5927a3380da41829bddf73798bcb500d3178e0199c"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1083-volume02-20261025"
     }
   ]
 }
