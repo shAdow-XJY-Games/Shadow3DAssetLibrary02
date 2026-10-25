@@ -1,0 +1,42 @@
+{
+  "id": "education-fixed-cutaway-inner-bell-and-standpipe-cup-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "education",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Cutaway Inner Bell and Standpipe Cup",
+  "description": "One independently authored whole dry cutaway cup exhibit. A single continuous thick material body joins a flared bowl and its empty floor field to a hollow pedestal stem and integral upright central open standpipe. A separate inverted hollow inner bell surrounds that standpipe with visible radial and top gaps and stands on three small rooted supports above the bowl floor. Both complete material shells deliberately omit the same front ninety-degree sector, with finite fully closed cut faces, exposing the nested arrangement. Three whole low outer feet keep the stem outlet above the ground; there is no blocking display plinth. Unlike the stacked brewer or float-water-clock reservoir, this is one bowl with a nested raised bell around its own through-bottom tube. All geometry newly authored; no old vessel extracted. Three opaque constant PBR roles, metres Z-up and whole horizontal bounds-centred ground origin, one model zero scenes. Fixed dry educational shape only: the cutaway is intentionally not sealed or functional. No fluid, siphoning, flow rate, pressure, capacity, drinking suitability, manufacture, engineering or use safety claim; no rigging animation or interaction.",
+  "bounds": {
+    "x": 1.0,
+    "y": 0.853553390593,
+    "z": 1.08,
+    "unit": "m"
+  },
+  "triangles": 1756,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/education/education-fixed-cutaway-inner-bell-and-standpipe-cup-01/v1.0.0/model.glb",
+      "size": 93152,
+      "sha256": "1ed67f4520447da5c8d3cb28b0a85f2495329c6dec426086a6db418f8a806fa5"
+    },
+    "blend": {
+      "path": "assets/education/education-fixed-cutaway-inner-bell-and-standpipe-cup-01/v1.0.0/source.blend",
+      "size": 648772,
+      "sha256": "774bf4465e4d1226bbd7089bed8ae8dc777fe9af90adfb99eeb27cdfdef1c98e"
+    },
+    "generator": {
+      "path": "assets/education/education-fixed-cutaway-inner-bell-and-standpipe-cup-01/v1.0.0/generate.py",
+      "size": 11608,
+      "sha256": "cfe181d2af3e280a7ee99b3b960483da71b319056cde6f37385c9486a0ccb854"
+    },
+    "render": {
+      "path": "assets/education/education-fixed-cutaway-inner-bell-and-standpipe-cup-01/v1.0.0/thumbnail.png",
+      "size": 556812,
+      "sha256": "f95eec121942b90e90564c13e53dd7a5dd703f96d5acd968f1dd128ee7fa9734"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

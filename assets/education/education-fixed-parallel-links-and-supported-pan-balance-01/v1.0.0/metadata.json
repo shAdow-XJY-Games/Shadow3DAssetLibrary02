@@ -1,0 +1,42 @@
+{
+  "id": "education-fixed-parallel-links-and-supported-pan-balance-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "education",
+  "style": "source-preserved-low-poly",
+  "title": "Fixed Parallel Links And Supported Pan Balance",
+  "description": "One newly authored complete fixed parallel-link two-pan balance-style teaching exhibit. A common broad low plinth supports a rear central upright with two vertically separated bored bearing seats and two fixed transverse axes. Two whole horizontal beams span left to right at distinct upper and lower heights. Full upright end links join both beam ends through four separate fixed pins and rise to support two genuinely hollow shallow pans from below. Thus the two pan supports and two beams form a visible open parallel-link frame, rather than the old single upper balance beam with pans hanging on long wires. A fixed central pointer and separate blank upright reference plate sit at the middle. All complete geometry newly authored: no old pan, suspended scale beam or orthogonal folding-platform parts imported; not an old balance recolour or a count-added tray. Four opaque constant PBR appearances, metres Z up, one whole prop zero scenes. This is only a fixed empty illustrative arrangement inspired by a supported-pan balance. It does not validate weighing, equilibrium, off-centre-load compensation, lever lengths, calibrated markings, linkage trajectory, free pivot bearings, pan capacity, fabrication, use, load or safety. Deliberate fixed pin overlaps are visual joins; no working motion, physical simulation, rigging or interaction.",
+  "bounds": {
+    "x": 1.2480000257492065,
+    "y": 0.5339999794960022,
+    "z": 0.6349999904632568,
+    "unit": "m"
+  },
+  "triangles": 1960,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/education/education-fixed-parallel-links-and-supported-pan-balance-01/v1.0.0/model.glb",
+      "size": 178176,
+      "sha256": "5b8c29fb6667c34cda6630f5d15ba267890a8bb7e8feb259fe79d00f936f98c6"
+    },
+    "blend": {
+      "path": "assets/education/education-fixed-parallel-links-and-supported-pan-balance-01/v1.0.0/source.blend",
+      "size": 860064,
+      "sha256": "3ccd41d16dc861e6cfbfb99511ab4b702509a77838378c527f95d8fb624514ae"
+    },
+    "generator": {
+      "path": "assets/education/education-fixed-parallel-links-and-supported-pan-balance-01/v1.0.0/generate.py",
+      "size": 17574,
+      "sha256": "f57799205e9e7f1750b0841ba19248767438917999fce3453991ec73fddb9459"
+    },
+    "render": {
+      "path": "assets/education/education-fixed-parallel-links-and-supported-pan-balance-01/v1.0.0/thumbnail.png",
+      "size": 519167,
+      "sha256": "0a698708c2fdfabea6456f7d4c62bd4bbed6830726144d1039c31f619d532a43"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

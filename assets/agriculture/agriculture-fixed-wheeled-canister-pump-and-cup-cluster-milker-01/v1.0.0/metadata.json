@@ -1,0 +1,42 @@
+{
+  "id": "agriculture-fixed-wheeled-canister-pump-and-cup-cluster-milker-01",
+  "version": "1.0.0",
+  "category": "modular",
+  "assetKind": "prop",
+  "theme": "agriculture",
+  "style": "warm-handcrafted-village",
+  "title": "Fixed Wheeled Canister Pump and Cup Cluster Milker",
+  "description": "One newly authored whole portable milking-equipment-style static exterior. A complete two-wheel standing trolley carries a lidded upright collection-can exterior on one side and a separate horizontal pump/motor casing with an upper small receiver exterior on the other. Its open rear push handle and low front feet belong to the whole frame. A forward parking bracket supports one collector-claw exterior with four complete hollow-mouth cylindrical cups, each attached by its own continuous curved short tube exterior; a larger continuous tube runs from the collector to the can lid and another from the separate pump assembly to the lid. This entire parked collection-cluster/can/separate-pump relationship is not the old canister vacuum with its floor nozzle renamed or the horizontal compressor tank rotated. All numeric geometry new; no old visible mesh imported. One model zero scenes, empty fixed display. Can, pump and hose internals are not modelled as working fluid paths. No vacuum, suction, milk collection, seals, animal fitting/use, hygiene, food contact, pressure, electrical function, wheel motion, manufacture, capacity or safety claim.",
+  "bounds": {
+    "x": 1.299999952,
+    "y": 1.159992099,
+    "z": 1.08386755,
+    "unit": "m"
+  },
+  "triangles": 3652,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/agriculture/agriculture-fixed-wheeled-canister-pump-and-cup-cluster-milker-01/v1.0.0/model.glb",
+      "size": 195600,
+      "sha256": "09b2041c759573f5875eb5751986b9845b9b1248c206238968e15ab48ffced31"
+    },
+    "blend": {
+      "path": "assets/agriculture/agriculture-fixed-wheeled-canister-pump-and-cup-cluster-milker-01/v1.0.0/source.blend",
+      "size": 775728,
+      "sha256": "295a79f20a2d7c55e3e409d523bcdbdef850d417215e637b0ee9d7ab5b298cf6"
+    },
+    "generator": {
+      "path": "assets/agriculture/agriculture-fixed-wheeled-canister-pump-and-cup-cluster-milker-01/v1.0.0/generate.py",
+      "size": 32813,
+      "sha256": "eaa875a432e81da78e773c0bb48a12edef342a088b45b55b8dcc520a0b69c45e"
+    },
+    "render": {
+      "path": "assets/agriculture/agriculture-fixed-wheeled-canister-pump-and-cup-cluster-milker-01/v1.0.0/thumbnail.png",
+      "size": 548050,
+      "sha256": "0c51ce225b593af38848de29dd096b2791fd4bf1447722e1d3d03905dfe0d340"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
