@@ -1,0 +1,42 @@
+{
+  "id": "music-fixed-chain-band-footboard-and-beater-drum-pedal-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "music",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Chain Band Footboard and Beater Drum Pedal",
+  "description": "One newly authored complete empty bass-drum-pedal-style static mechanism exterior. One long ground plate carries a rear heel hinge, full sloping footboard, two front bearing towers and a transverse shaft with a fixed circular cam. A continuous narrow thick drive band rises from the footboard front and wraps over the cam, with separated small transverse raised link-like ribs. An independent long beater stem and thick cylindrical head rise from the shaft; an outboard crank and continuous helical return-spring appearance connect to a lower rooted anchor. A front fixed open clamp-like seat finishes the whole empty unit. The existing complete drum kit explicitly contains no pedal and no component is extracted from it; this is not the large grindstone frame reduced in scale, since it has no stone or long rigid crank rod and uses a compact shaft/beater/band/spring organization. All numeric geometry newly authored. One model zero scenes, four opaque PBR roles, metres Z up and horizontal-envelope-centred ground datum. Fixed empty appearance only: no drum supplied, mounting fit, pedal travel, working chain, elastic spring response, striking, force, sound, tuning, ergonomics, load, manufacture or safety capability. Rigging animation and interaction not made.",
+  "bounds": {
+    "x": 0.201,
+    "y": 0.441,
+    "z": 0.457,
+    "unit": "m"
+  },
+  "triangles": 3284,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/music/music-fixed-chain-band-footboard-and-beater-drum-pedal-01/v1.0.0/model.glb",
+      "size": 230048,
+      "sha256": "d332afe3d3fff35f0f841a3dd32b673b62a3131fb49571ab1c6197ea7ce8995d"
+    },
+    "blend": {
+      "path": "assets/music/music-fixed-chain-band-footboard-and-beater-drum-pedal-01/v1.0.0/source.blend",
+      "size": 875060,
+      "sha256": "1301a7698c645b66d706a5fd9507e6dc4bd99496779a775734d5110f69892c71"
+    },
+    "generator": {
+      "path": "assets/music/music-fixed-chain-band-footboard-and-beater-drum-pedal-01/v1.0.0/generate.py",
+      "size": 12873,
+      "sha256": "f7a319df9ad4c6163fa43a4d3b439b51163881cb7885144b3c6aa9230ba1a50a"
+    },
+    "render": {
+      "path": "assets/music/music-fixed-chain-band-footboard-and-beater-drum-pedal-01/v1.0.0/thumbnail.png",
+      "size": 357922,
+      "sha256": "f61a6b8dc71dd721b31f4687494098ddff200b13de390148c6918aea6a16ccb1"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

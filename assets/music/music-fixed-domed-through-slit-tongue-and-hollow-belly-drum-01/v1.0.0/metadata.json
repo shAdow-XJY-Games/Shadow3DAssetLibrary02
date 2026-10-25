@@ -1,0 +1,42 @@
+{
+  "id": "music-fixed-domed-through-slit-tongue-and-hollow-belly-drum-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "music",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Domed Through Slit Tongue and Hollow Belly Drum",
+  "description": "One newly authored complete steel-tongue-drum-style static instrument exterior. A low hollow rounded belly and finite ground ring support one entire convex thick upper plate. Eight genuine U-shaped through slots pass through its full thickness into the empty belly; each radial tongue remains continuously joined at its inner root to the same shared-vertex upper shell, not a disconnected painted tile or separate bar. Real slot sidewalls, underside and stepped peripheral support are included. Unlike the old continuous concave note-pan on a lateral stand, this is a convex perforated shell on its own closed-bottom hollow body; unlike the peripheral-rod waterphone it has no upright neck or added rod array. No old numeric geometry or visible mesh imported. One model zero scenes, four opaque constant PBR roles, metres Z up and ground-centred. Generic nonfunctional illustrative art: no calibrated notes, tuning, resonance, acoustics, striking response, playable tongue motion, cultural authenticity, manufacture or safety capability. No beater, performer, rigging, animation or interaction.",
+  "bounds": {
+    "x": 0.342,
+    "y": 0.342,
+    "z": 0.17,
+    "unit": "m"
+  },
+  "triangles": 6304,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/music/music-fixed-domed-through-slit-tongue-and-hollow-belly-drum-01/v1.0.0/model.glb",
+      "size": 335960,
+      "sha256": "df0d4b8503d98a307512fbe076fe311d184a6906d90b91332c996e1e0f3a93c4"
+    },
+    "blend": {
+      "path": "assets/music/music-fixed-domed-through-slit-tongue-and-hollow-belly-drum-01/v1.0.0/source.blend",
+      "size": 894244,
+      "sha256": "e984750f4fbafab0e2657ac37957fc6d377c68f227e084f8201e27ce5969b4c7"
+    },
+    "generator": {
+      "path": "assets/music/music-fixed-domed-through-slit-tongue-and-hollow-belly-drum-01/v1.0.0/generate.py",
+      "size": 10914,
+      "sha256": "66e8537dc65973c87398834463b7130c399832522b7faba59d3f13f29e9d4806"
+    },
+    "render": {
+      "path": "assets/music/music-fixed-domed-through-slit-tongue-and-hollow-belly-drum-01/v1.0.0/thumbnail.png",
+      "size": 519675,
+      "sha256": "970c6356dc7c0563430f1b607c9e1b79288ff5889261da9e5181e0c00a821c43"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

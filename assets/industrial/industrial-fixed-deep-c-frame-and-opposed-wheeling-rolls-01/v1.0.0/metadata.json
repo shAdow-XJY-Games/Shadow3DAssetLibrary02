@@ -1,0 +1,42 @@
+{
+  "id": "industrial-fixed-deep-c-frame-and-opposed-wheeling-rolls-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "industrial",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Deep C Frame and Opposed Wheeling Rolls",
+  "description": "One newly authored complete floor-standing English-wheel-style static exterior. A broad connected twin-rail ground base carries one entire deep curved C frame with long opposed arms and a genuinely open central throat. An independent downward-open upper fork carries one large flat-faced annular wheel; below it a separate upward-open fork carries one much smaller axially crowned wheel. Each whole wheel has its own complete transverse axle and fork cheeks. A full upright lower column passes through a genuine annular guide sleeve and is retained by one transverse fixed display pin, with a low complete open three-spoke handwheel. The opposing wheels have an intentional small empty static gap; no stock or sheet is supplied. Every frame profile, fork, wheel crown and assembly coordinate is newly authored, with no existing machine meshes copied, resized or extracted. Unlike the old rack-and-pinion arbor press, there is no toothed pressing ram, slotted flat anvil or side gear lever. Unlike the old three-grooved-roll ring former, this is a deep open C machine with opposing unequal flat/crowned wheels, not a closed-top slot frame with triangular roll stations. One prop zero scenes; four opaque constant PBR materials, metres, Z up, horizontal bounds centred over whole finite base soles. Static game-art exterior only, no rolling, adjustment travel, nip pressure, material forming, machining, screw engagement, workholding, force, capacity, structural support, manufacture, operation or safety performance. Rigging, animation and interaction are not made or verified.",
+  "bounds": {
+    "x": 1.67,
+    "y": 0.88,
+    "z": 2.03,
+    "unit": "m"
+  },
+  "triangles": 2348,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/industrial/industrial-fixed-deep-c-frame-and-opposed-wheeling-rolls-01/v1.0.0/model.glb",
+      "size": 121060,
+      "sha256": "3599b0c7dd98d09951347f7f099ca894acb369c3bf38c2f01f87f99cb0eef1a5"
+    },
+    "blend": {
+      "path": "assets/industrial/industrial-fixed-deep-c-frame-and-opposed-wheeling-rolls-01/v1.0.0/source.blend",
+      "size": 724036,
+      "sha256": "97764dfd43d805c6992b4874026f2d1d3c02c486908e2b7341d85dac57357759"
+    },
+    "generator": {
+      "path": "assets/industrial/industrial-fixed-deep-c-frame-and-opposed-wheeling-rolls-01/v1.0.0/generate.py",
+      "size": 27473,
+      "sha256": "1688752690fb58a5c046a07fa01fc8a8d60ba4fdd86b65a63f32bac1a1090efe"
+    },
+    "render": {
+      "path": "assets/industrial/industrial-fixed-deep-c-frame-and-opposed-wheeling-rolls-01/v1.0.0/thumbnail.png",
+      "size": 492792,
+      "sha256": "922e313583ab7de1928f4de0d8d1915238cc63bca120b18a9d46bf551295d68b"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
