@@ -1,0 +1,42 @@
+{
+  "id": "toys-fixed-twin-link-and-jointed-wing-crank-bird-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "toys",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Twin Link and Jointed Wing Crank Bird",
+  "description": "One newly authored complete hand-crank winged-bird toy in a single fixed display pose. A common low wooden bed supports two fore-aft shaft standards, a full longitudinal axle, two offset crank cheeks and separate side linkage rods. Each complete rod joins a distinct short forward rocker at the root of one broad tapered thick wing. Two whole wing hinge pins run fore-aft through finite collars beside an independently authored rounded wooden bird body; a rear upright supports the body above the open crank bay. A short neck and rounded head, blunt beak, two small eyes and a whole fan tail complete the bird silhouette. A forward crank and entire hand grip belong to the low shaft. All visible geometry is newly authored: not an old spring rider with its spring removed, an old animal mounted on a base, or a string puppet with renamed limbs. The two shaft-to-wing rod paths are a fixed illustrative mechanical relationship, not an evaluated kinematic system. Four opaque constant PBR materials, one complete toy prop zero scenes, metres native Z up and complete horizontal-bounds-centred finite base datum. Static display art only: no cranking, wing motion, rigging, working joint travel, transmission ratio, flight, balance, toy operation, child suitability, handling, fabrication, pinch protection or safety claim. Animation and interaction not made.",
+  "bounds": {
+    "x": 0.826,
+    "y": 0.496,
+    "z": 0.626,
+    "unit": "m"
+  },
+  "triangles": 2620,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/toys/toys-fixed-twin-link-and-jointed-wing-crank-bird-01/v1.0.0/model.glb",
+      "size": 145276,
+      "sha256": "939944d9c0acfeecda8a5cebfd245751f17a3455266854dc2a75571af17558f1"
+    },
+    "blend": {
+      "path": "assets/toys/toys-fixed-twin-link-and-jointed-wing-crank-bird-01/v1.0.0/source.blend",
+      "size": 839092,
+      "sha256": "c5da9d8de958b9c010c2ff47d30e1370c61b1a9365f044d6d26012ebf5a75aaa"
+    },
+    "generator": {
+      "path": "assets/toys/toys-fixed-twin-link-and-jointed-wing-crank-bird-01/v1.0.0/generate.py",
+      "size": 12522,
+      "sha256": "fd83cd272baed05a15dbaccfefc4bb49f22d2c97bf468ce48fdb63c949117c48"
+    },
+    "render": {
+      "path": "assets/toys/toys-fixed-twin-link-and-jointed-wing-crank-bird-01/v1.0.0/thumbnail.png",
+      "size": 426775,
+      "sha256": "d05c198fba2fc4819997a8be9dd45558aab232b3d4202644013327f71747806f"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

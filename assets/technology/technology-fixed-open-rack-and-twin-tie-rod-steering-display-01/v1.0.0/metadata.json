@@ -1,0 +1,42 @@
+{
+  "id": "technology-fixed-open-rack-and-twin-tie-rod-steering-display-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "technology",
+  "style": "source-preserved-low-poly",
+  "title": "Open Rack And Twin Tie Rod Steering Display",
+  "description": "One newly authored complete fixed rack-and-tie-rod steering-inspired display. A common low bed supports a full horizontal integral-tooth bar in two genuinely bored rectangular guides, a separate upper toothed disk on a supported transverse input shaft, and two independently mounted vertical kingpin groups. Each end of the bar joins a whole diagonal tie rod through a complete short pin; each rod reaches a separate short steering arm on a full bored upright sleeve carrying one outward stub spindle. Two lower support columns and full capped vertical pins retain the outer assemblies. All parts are newly authored numerical geometry, not the old C-frame vertical arbor press laid sideways or an extracted vehicle axle. Unlike the leaf-pack suspension, no bowed leaves, U clamps or shackle links are used. This is one connected fixed illustrative assembly on its entire base, zero scenes, four opaque constant PBR roles, metres and native Z up. The separated gear teeth and fixed rooted link contacts illustrate only arrangement; they are not conjugate gear profiles or validated steering geometry. No wheels, vehicle, driver, wheel alignment, Ackermann accuracy, toe setting, motion, gear meshing, rotation, force transmission, stiffness, suspension, road compatibility, manufacture, installation, operating instructions or mechanical safety capability. No animation, rig or interaction.",
+  "bounds": {
+    "x": 1.7599999904632568,
+    "y": 0.6899999976158142,
+    "z": 0.4716131389141083,
+    "unit": "m"
+  },
+  "triangles": 1844,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/technology/technology-fixed-open-rack-and-twin-tie-rod-steering-display-01/v1.0.0/model.glb",
+      "size": 176156,
+      "sha256": "a40da2d1b728eb4550dfb5745fb2d5a08e5e67491605dbda94ae42f5fd6823f7"
+    },
+    "blend": {
+      "path": "assets/technology/technology-fixed-open-rack-and-twin-tie-rod-steering-display-01/v1.0.0/source.blend",
+      "size": 898816,
+      "sha256": "31dc7996864a0efb03310eac1a4aa8f62e9c2f363a9001618a027ebe5a7ab3b7"
+    },
+    "generator": {
+      "path": "assets/technology/technology-fixed-open-rack-and-twin-tie-rod-steering-display-01/v1.0.0/generate.py",
+      "size": 17767,
+      "sha256": "893c7f78460ab89ff143f48595249ee3f1303943db72eb098baf33f79991d001"
+    },
+    "render": {
+      "path": "assets/technology/technology-fixed-open-rack-and-twin-tie-rod-steering-display-01/v1.0.0/thumbnail.png",
+      "size": 452097,
+      "sha256": "e2e6755b34e1389d26214ce519c3066e0ba7b8d82196db2e2244d02e8e3e7d28"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

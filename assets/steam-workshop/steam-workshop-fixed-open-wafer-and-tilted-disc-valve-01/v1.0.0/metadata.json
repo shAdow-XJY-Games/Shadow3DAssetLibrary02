@@ -1,0 +1,42 @@
+{
+  "id": "steam-workshop-fixed-open-wafer-and-tilted-disc-valve-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "steam-workshop",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Open Wafer and Tilted Disc Valve",
+  "description": "One complete newly authored static wafer-style disc valve display. A thin whole annular body has a genuine front-to-back opening and four whole open bolt ears. A complete solid disc is fixed at an oblique angle within the throat on a full vertical stem, leaving two real visible side openings. A short upper neck supports one blank quadrant plate, root hub, long lateral lever and thick end grip. A complete shallow display foot and saddle support the assembly. Unlike the older long bulbous handwheel valve, the new main relation is thin ring housing with visible tilted closure disc and lever; not a recoloured wheel, extra pipe or extracted old part. Three opaque PBR materials, metre Z-up and whole-envelope-centred ground origin. Fixed artistic geometry only; no fluid, sealing, pressure, flow control, rotation, actuator function, calibrated stops, flange compatibility, load, installation or safety claim. No animation or interaction.",
+  "bounds": {
+    "x": 0.755145118310151,
+    "y": 0.6543555333214518,
+    "z": 0.965,
+    "unit": "m"
+  },
+  "triangles": 1764,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/steam-workshop/steam-workshop-fixed-open-wafer-and-tilted-disc-valve-01/v1.0.0/model.glb",
+      "size": 77700,
+      "sha256": "1232415addfccaa77cb3316824609793edbba365fe509690cb7390fa2dd84e84"
+    },
+    "blend": {
+      "path": "assets/steam-workshop/steam-workshop-fixed-open-wafer-and-tilted-disc-valve-01/v1.0.0/source.blend",
+      "size": 676784,
+      "sha256": "0fa0e736d1a286ef8e3fd39daf72303289d893d3ba312712927f981039bc7374"
+    },
+    "generator": {
+      "path": "assets/steam-workshop/steam-workshop-fixed-open-wafer-and-tilted-disc-valve-01/v1.0.0/generate.py",
+      "size": 11340,
+      "sha256": "6fe17b1433a0a291df3524ac794fa0293b09dbc277ed1cd15ecb0d6fc35b4e05"
+    },
+    "render": {
+      "path": "assets/steam-workshop/steam-workshop-fixed-open-wafer-and-tilted-disc-valve-01/v1.0.0/thumbnail.png",
+      "size": 439945,
+      "sha256": "e66cbf7a8a0f9210aa503df312b6a920ba5cace54c2fd81bd27c9e918944dc78"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
