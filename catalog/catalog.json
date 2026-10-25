@@ -1254,6 +1254,11 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary02",
       "commit": "3f87955714804e3014155ad8b0489e31d41966d7"
+    },
+    "original-qualified-batch-1015-volume02-20261025": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary02",
+      "commit": "dd348199d8a4d5b836c782f4e08f98bff2c0df00"
     }
   },
   "assets": [
@@ -44557,6 +44562,350 @@
       "status": "verified",
       "license": "All rights reserved",
       "sourceId": "original-qualified-batch-1007-volume02-20261025"
+    },
+    {
+      "id": "education-fixed-twin-helical-spines-and-crossbridge-display-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "education",
+      "style": "source-preserved-low-poly",
+      "title": "Fixed Twin Helical Spines And Crossbridge Display",
+      "description": "One newly authored complete static double-helical ladder display on its own low circular plinth. Two thick continuous open-space helical spines of equal hand and half-turn phase offset rise around one shared vertical axis. Fifteen whole transverse bridges meet both spines along the twisted ladder, with genuine open windows between the bridges and no solid central cylinder. Two short pedestal feet connect the lower spine ends to the whole finite-bottom base. All paths and sections are newly drawn numerical geometry, not two copied corkscrews or the old parallel solid screw-drum robot repositioned. Four opaque constant PBR roles, metres native Z up, one whole display model zero scenes. A stylized educational-looking twisted-ladder sculpture only: no DNA molecular identity, base pairing, atom or chemical proportions, scientific accuracy, physical motion, assembly, structural capacity or safety claim.",
+      "bounds": {
+        "x": 0.6399999856948853,
+        "y": 0.6399999856948853,
+        "z": 1.380859136581421,
+        "unit": "m"
+      },
+      "triangles": 4656,
+      "materials": 4,
+      "files": {
+        "glb": {
+          "path": "assets/education/education-fixed-twin-helical-spines-and-crossbridge-display-01/v1.0.0/model.glb",
+          "size": 406964,
+          "sha256": "1c36e7fe04b996cc02ace0f8dd583283c57382d239b89ac36c361f9951d42803"
+        },
+        "blend": {
+          "path": "assets/education/education-fixed-twin-helical-spines-and-crossbridge-display-01/v1.0.0/source.blend",
+          "size": 1171424,
+          "sha256": "421c8c27f87e35ab0f09eeb784f05c6c78b1579992ebb5cd2a165d31fb538577"
+        },
+        "generator": {
+          "path": "assets/education/education-fixed-twin-helical-spines-and-crossbridge-display-01/v1.0.0/generate.py",
+          "size": 16451,
+          "sha256": "07ac9783542583b0eea93b6912e176124d96db17bb1695cd3639188fea1027a3"
+        },
+        "render": {
+          "path": "assets/education/education-fixed-twin-helical-spines-and-crossbridge-display-01/v1.0.0/thumbnail.png",
+          "size": 494842,
+          "sha256": "c4697bffa0c57b29252ed8f51d5ec3b364c6dd4fe69b970a661ca81dbbdaffb5"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1015-volume02-20261025"
+    },
+    {
+      "id": "entertainment-fixed-bull-seat-shell-and-two-axis-pedestal-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "entertainment",
+      "style": "S01-clean-geometric",
+      "title": "Fixed Bull Seat Shell and Two Axis Pedestal",
+      "description": "One newly authored complete static mechanical-bull-style amusement-seat exterior. A continuous wide short-neck bull-shaped riding shell has a broad blunt muzzle, two outward-upturned blunt horns, seated eyes, lateral ears and one short hanging tail. Its low concave saddle and rooted loop grip belong to the same complete ride, not a separate animal count. Instead of standing on hooves, the shell mounts directly through an underside stem into a visible two-axis cradle: paired side trunnions support an open rectangular intermediate frame, separate front and rear bearings carry a longitudinal upper shaft, and the whole assembly stands on two rooted lower cheeks and one broad finite base. All new numeric geometry: no old cow moved onto a stand and no spring-rider body or helix reused. The new shell has no udder, weight-bearing legs or biological anatomy claim, and the pedestal has no coil spring. One complete prop zero scenes, four opaque PBR roles, metres Z up and horizontally bounds-centred ground origin. Empty fixed art display only: the separated shafts and support members do not establish a validated motion mechanism, motor, control system, balance, rider fit, load, restraint, operation, fabrication or safety. No person, arena, rigging, animation or interaction is made.",
+      "bounds": {
+        "x": 1.36,
+        "y": 1.9665336639916835,
+        "z": 1.8430176359023271,
+        "unit": "m"
+      },
+      "triangles": 2260,
+      "materials": 4,
+      "files": {
+        "glb": {
+          "path": "assets/entertainment/entertainment-fixed-bull-seat-shell-and-two-axis-pedestal-01/v1.0.0/model.glb",
+          "size": 139212,
+          "sha256": "a1d32d14f1397e4c229beedbe13d77753219d80175589714f1c7bbedfcee6d88"
+        },
+        "blend": {
+          "path": "assets/entertainment/entertainment-fixed-bull-seat-shell-and-two-axis-pedestal-01/v1.0.0/source.blend",
+          "size": 782620,
+          "sha256": "41fb796b986452a4d9936101793f7037acb63cdf6e3352ac9c8c8fff2465540f"
+        },
+        "generator": {
+          "path": "assets/entertainment/entertainment-fixed-bull-seat-shell-and-two-axis-pedestal-01/v1.0.0/generate.py",
+          "size": 13007,
+          "sha256": "891cb528f987821532176616fd9754734537a4f9f65fdc113d4e2c9799904607"
+        },
+        "render": {
+          "path": "assets/entertainment/entertainment-fixed-bull-seat-shell-and-two-axis-pedestal-01/v1.0.0/thumbnail.png",
+          "size": 428925,
+          "sha256": "168878ee374b9d2ed4608a173668b50cded1a7a9aa0255240a1511107f2ee4e8"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1015-volume02-20261025"
+    },
+    {
+      "id": "harbor-fixed-cowling-leg-and-clamped-outboard-display-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "harbor",
+      "style": "source-preserved-low-poly",
+      "title": "Fixed Cowling Leg And Clamped Outboard Display",
+      "description": "One newly authored complete static outboard-motor exterior on an integral short empty display trestle. A tall rounded powerhead cowling joins a narrower continuous vertical leg, low horizontal pointed gear housing, broad intermediate plate and lower skeg. A complete three-blade blunt propeller surrounds its own rear hub; a long offset tiller with thick grip projects from the upper side. Two whole inverted-U mounting hooks, independent clamp screws and a transverse pivot axle visibly connect the unit to the complete short ground-standing display frame. All geometry newly dimensioned together, no old propulsion scooter, boat hull, vehicle or fan mesh imported. Four opaque constant PBR roles, metres native Z up and whole horizontal bounds-centred ground origin; one complete display prop zero scenes. Empty static exterior only: no internal engine, fuel or electrical systems, propulsion, turning, trim, rotation, vessel compatibility, installation, load, balance, manufacture or boating safety claim. The trestle is an attached display component, not a separately delivered new furniture model.",
+      "bounds": {
+        "x": 0.6800000071525574,
+        "y": 1.0499999523162842,
+        "z": 1.4900000095367432,
+        "unit": "m"
+      },
+      "triangles": 1004,
+      "materials": 4,
+      "files": {
+        "glb": {
+          "path": "assets/harbor/harbor-fixed-cowling-leg-and-clamped-outboard-display-01/v1.0.0/model.glb",
+          "size": 102344,
+          "sha256": "73e51c886ab9bb11d018ef30ede33f32b0a07c0485bc8a8a1ea5e8ae66d6492d"
+        },
+        "blend": {
+          "path": "assets/harbor/harbor-fixed-cowling-leg-and-clamped-outboard-display-01/v1.0.0/source.blend",
+          "size": 785920,
+          "sha256": "af270d14e1d40ededd389bcca86d1f8e96faf1826e1268c66a7fa8351b0cc60a"
+        },
+        "generator": {
+          "path": "assets/harbor/harbor-fixed-cowling-leg-and-clamped-outboard-display-01/v1.0.0/generate.py",
+          "size": 18578,
+          "sha256": "07c4f7914e2fcb81901c090edbd6dc685432c0562c83142a3bc891d38985ccfd"
+        },
+        "render": {
+          "path": "assets/harbor/harbor-fixed-cowling-leg-and-clamped-outboard-display-01/v1.0.0/thumbnail.png",
+          "size": 510248,
+          "sha256": "5750ea4766ebcdba5d3d3006fdd9de7b13bc6dae430dccf8d90b92eeb47dc49a"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1015-volume02-20261025"
+    },
+    {
+      "id": "harbor-fixed-twin-eccentric-jaw-and-guide-cleat-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "harbor",
+      "style": "S01-clean-geometric",
+      "title": "Fixed Twin Eccentric Jaw and Guide Cleat",
+      "description": "One whole newly authored static twin eccentric cam cleat appearance. A grounded mounting plate supports two complete thick serrated cam bodies, each with an off-centre true bore and full vertical pivot/cap. Their inward edges form a visible narrow open channel. One continuous raised U guide behind the pair has two full root seats and an empty inner passage. No rope, hidden spring, functional gearing or operational mechanism is included. Unlike the continuous fixed through-chock or a raised lever/loop latch, this whole arrangement has two separate offset-axis opposing cam bodies and a guide bow on one mount. Ten closed editable meshes, three constant opaque PBR materials, metres Z up and bounds-centred ground origin. New geometry only. Fixed illustration, not an engineered gripping surface or running fit; no rope holding, locking, friction, force, rotation, load, anchoring, maritime operation, manufacture or safety claim.",
+      "bounds": {
+        "x": 0.38,
+        "y": 0.24,
+        "z": 0.17298089389855933,
+        "unit": "m"
+      },
+      "triangles": 1420,
+      "materials": 3,
+      "files": {
+        "glb": {
+          "path": "assets/harbor/harbor-fixed-twin-eccentric-jaw-and-guide-cleat-01/v1.0.0/model.glb",
+          "size": 71056,
+          "sha256": "d8997b7fcac2758851cf39a73eb8c8f1aad40a96e6d54dae1abd3072083b6109"
+        },
+        "blend": {
+          "path": "assets/harbor/harbor-fixed-twin-eccentric-jaw-and-guide-cleat-01/v1.0.0/source.blend",
+          "size": 639812,
+          "sha256": "ea54fce94eb30592b54886553c7fac81798cb028aebe0e5e987c0b52c7a74e6f"
+        },
+        "generator": {
+          "path": "assets/harbor/harbor-fixed-twin-eccentric-jaw-and-guide-cleat-01/v1.0.0/generate.py",
+          "size": 11428,
+          "sha256": "a1918893c4f45ac3baf4ea6232c9921444cce659eab18e75ec6613c020d51904"
+        },
+        "render": {
+          "path": "assets/harbor/harbor-fixed-twin-eccentric-jaw-and-guide-cleat-01/v1.0.0/thumbnail.png",
+          "size": 461913,
+          "sha256": "df2690ba20fc96639d64169518dcb32ab1491e4c6497c9498eab3b940dff0131"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1015-volume02-20261025"
+    },
+    {
+      "id": "industrial-fixed-grooved-shoe-and-long-handle-conduit-bender-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "industrial",
+      "style": "source-preserved-low-poly",
+      "title": "Fixed Grooved Shoe and Long Handle Conduit Bender",
+      "description": "One newly authored complete static long-handle conduit-bender appearance. A thick curved cast shoe has a genuine continuous groove following its upper outer arc, finite end faces, lower web and full resting sole. A complete blunt front retaining hook and rear pedal plate with three low ribs join the shoe. One thick socket carries a long inserted metal-like shaft and whole upper grip. Three opaque materials, one prop zero scenes. No tube, pipe diameters, angle calibration, formed workpiece or old bench bender/shovel geometry imported. Fixed illustrative tool exterior only: no bending force, pedal use, pipe engagement, tool travel, load or material performance, manufacture, operating instructions or safety claim. Rigging animation interaction not made.",
+      "bounds": {
+        "x": 0.12999999523162842,
+        "y": 0.580808162689209,
+        "z": 1.1586514711380005,
+        "unit": "m"
+      },
+      "triangles": 918,
+      "materials": 3,
+      "files": {
+        "glb": {
+          "path": "assets/industrial/industrial-fixed-grooved-shoe-and-long-handle-conduit-bender-01/v1.0.0/model.glb",
+          "size": 85572,
+          "sha256": "58ffda6efa8ee9ca68eceddefb1460a0041ab208f436285dbce58916d87e1d7b"
+        },
+        "blend": {
+          "path": "assets/industrial/industrial-fixed-grooved-shoe-and-long-handle-conduit-bender-01/v1.0.0/source.blend",
+          "size": 687272,
+          "sha256": "2dd318ec2d544ada411066ce0b921cc4b4f399abb00572abcc13850a1b5a37e1"
+        },
+        "generator": {
+          "path": "assets/industrial/industrial-fixed-grooved-shoe-and-long-handle-conduit-bender-01/v1.0.0/generate.py",
+          "size": 15696,
+          "sha256": "8aa0f29b84bc17fd530313a6edc8fffa1379fe68f58a07d06127639d60e6bf96"
+        },
+        "render": {
+          "path": "assets/industrial/industrial-fixed-grooved-shoe-and-long-handle-conduit-bender-01/v1.0.0/thumbnail.png",
+          "size": 428190,
+          "sha256": "dff42bdaf1df9b2da858d439534e48d88506f0fb9f8a24dbf9b113bf25aded19"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1015-volume02-20261025"
+    },
+    {
+      "id": "music-fixed-peripheral-rod-resonator-and-open-neck-waterphone-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "music",
+      "style": "S01-clean-geometric",
+      "title": "Fixed Peripheral Rod Resonator and Open Neck Waterphone",
+      "description": "One newly authored complete static waterphone-style percussion-instrument exterior. One continuous shallow round hollow resonator has a full finite bottom, outward sloping shoulder and inward domed upper surface ending at a genuine central neck opening. A separate tall open neck with continuous inner bore is rooted into that opening; a short contrasting grip sleeve is rooted around its middle. Eighteen whole solid rods of visibly staggered lengths are rooted around the upper outer shoulder, leaving broad clear space between the central neck and peripheral rods. This is neither a suspended gong disc nor horizontal kalimba tines placed on a changed box: the whole radial rod, enclosed pan and upright open neck relation is newly authored with no old numeric geometry copied. One complete prop zero scenes; opaque solid PBR roles, metres Z up, horizontally bounds-centred and full flat resonator bottom at ground. Generic fixed illustrative exterior only, not an exact branded or historical reproduction. No sound, tuning, water holding, acoustic path performance, playing technique, ergonomics, manufacturing, animation or safety capability is represented or verified.",
+      "bounds": {
+        "x": 0.66,
+        "y": 0.66,
+        "z": 0.63,
+        "unit": "m"
+      },
+      "triangles": 3000,
+      "materials": 4,
+      "files": {
+        "glb": {
+          "path": "assets/music/music-fixed-peripheral-rod-resonator-and-open-neck-waterphone-01/v1.0.0/model.glb",
+          "size": 153956,
+          "sha256": "e107742563c066366c9ae430bf9775c5b7b1b9d75f2c575fdf942e232081043b"
+        },
+        "blend": {
+          "path": "assets/music/music-fixed-peripheral-rod-resonator-and-open-neck-waterphone-01/v1.0.0/source.blend",
+          "size": 799456,
+          "sha256": "34a8252941af13b28da4292af6926586ad303efd3d17e8088aa2e7037456e555"
+        },
+        "generator": {
+          "path": "assets/music/music-fixed-peripheral-rod-resonator-and-open-neck-waterphone-01/v1.0.0/generate.py",
+          "size": 10023,
+          "sha256": "22fa2327bc206634e0b9706683f3cbed5cb982330dba43c874cf601fff870b6a"
+        },
+        "render": {
+          "path": "assets/music/music-fixed-peripheral-rod-resonator-and-open-neck-waterphone-01/v1.0.0/thumbnail.png",
+          "size": 464741,
+          "sha256": "2bcc3e35466ceaee1079cd1f90fc171c050995b17f726d5fe50a65d4102a1eb6"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1015-volume02-20261025"
+    },
+    {
+      "id": "professional-fixed-long-guide-and-continuous-chain-hand-saw-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "professional",
+      "style": "S01-clean-geometric",
+      "title": "Fixed Long Guide and Continuous Chain Hand Saw",
+      "description": "One independently authored complete static portable chain-saw exterior. A whole long round-nosed blunt guide plate carries one entire continuous thick perimeter chain appearance with integral small blunt edge blocks. Its rear root enters a compact newly shaped power case, with one whole wrapping front grip, an actual open rear grip/trigger, a fixed front shield, blank side cover and plain top cap. The whole lower case rests on a finite sole. There is no flat shoe, vertical reciprocating strip, upright circular disc or imported old tool component. All visible meshes are newly authored; generic closed-mesh and rendering helpers only are reused. Four opaque constant PBR roles, metres, native Z up, horizontally centred ground datum. One prop, zero scenes. No sharp cutting edges, workpiece, power system, motor, chain motion, oil/fuel, cutting, braking/protection, handling, ergonomics, operation, assembly or engineering/safety performance. Static low-poly art only, not tool instructions. Rigging, animation and interaction are not made.",
+      "bounds": {
+        "x": 0.36,
+        "y": 1.048,
+        "z": 0.397,
+        "unit": "m"
+      },
+      "triangles": 1260,
+      "materials": 4,
+      "files": {
+        "glb": {
+          "path": "assets/professional/professional-fixed-long-guide-and-continuous-chain-hand-saw-01/v1.0.0/model.glb",
+          "size": 61004,
+          "sha256": "b737c89e07a26e782ed12101aca72bff23a1f2879cca5a022dd9b250bb2f32e0"
+        },
+        "blend": {
+          "path": "assets/professional/professional-fixed-long-guide-and-continuous-chain-hand-saw-01/v1.0.0/source.blend",
+          "size": 639452,
+          "sha256": "6fa80f001e4653bc1bef71e1c4545c1692ee454b08e9fd6b296bb7616ac2e3c5"
+        },
+        "generator": {
+          "path": "assets/professional/professional-fixed-long-guide-and-continuous-chain-hand-saw-01/v1.0.0/generate.py",
+          "size": 27162,
+          "sha256": "5810610ff61fb157981428139a19c2b5fba0f65763fde89e8e71657bed4a94e3"
+        },
+        "render": {
+          "path": "assets/professional/professional-fixed-long-guide-and-continuous-chain-hand-saw-01/v1.0.0/thumbnail.png",
+          "size": 496001,
+          "sha256": "d823b29cc86c83890f08922a78d20e5fcc6b3bbfacdd73a555832a9a4e161486"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1015-volume02-20261025"
+    },
+    {
+      "id": "professional-fixed-windowed-beam-and-opaque-vials-level-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "professional",
+      "style": "source-preserved-low-poly",
+      "title": "Fixed Windowed Beam and Opaque Vials Level",
+      "description": "One newly authored complete static windowed-level appearance. A continuous long rectangular beam has five genuine full-thickness windows: two empty hand openings and three smaller stations holding whole fixed horizontal, vertical and inclined opaque capsule-like vial appearances. Each capsule carries two narrow uncalibrated solid bands. Two whole end bumpers frame the assembly. Three opaque materials, one prop zero scenes. No old caliper, ruler or combination-square mesh imported, scaled or recoloured. Stylized occupational instrument exterior only: the capsules are opaque, with no transparent glass, liquid, moving bubble, level indication, calibration, measurement accuracy, manufacture, operating instructions or safety claim. Rigging animation interaction not made.",
+      "bounds": {
+        "x": 0.75,
+        "y": 0.03400000184774399,
+        "z": 0.11400000005960464,
+        "unit": "m"
+      },
+      "triangles": 1756,
+      "materials": 3,
+      "files": {
+        "glb": {
+          "path": "assets/professional/professional-fixed-windowed-beam-and-opaque-vials-level-01/v1.0.0/model.glb",
+          "size": 156796,
+          "sha256": "d479b67ab20b4ba1913692093b77fb5c17d6a25217065e7a9b8f66a10190d254"
+        },
+        "blend": {
+          "path": "assets/professional/professional-fixed-windowed-beam-and-opaque-vials-level-01/v1.0.0/source.blend",
+          "size": 785824,
+          "sha256": "f33097fcdd6a1d898137b3565828b6f4b37fa4717abe2a4394c8aa02c5c30257"
+        },
+        "generator": {
+          "path": "assets/professional/professional-fixed-windowed-beam-and-opaque-vials-level-01/v1.0.0/generate.py",
+          "size": 14719,
+          "sha256": "ec92eb6b94ce88a84f8d410beed666043331aea3d4aa1799bc056dde47f536dd"
+        },
+        "render": {
+          "path": "assets/professional/professional-fixed-windowed-beam-and-opaque-vials-level-01/v1.0.0/thumbnail.png",
+          "size": 472552,
+          "sha256": "8c43df6cf290db2673174489d1e06dd8bf7e70bc44372426a41dd679f16aee59"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1015-volume02-20261025"
     }
   ]
 }
