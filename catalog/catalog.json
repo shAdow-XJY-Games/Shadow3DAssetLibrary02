@@ -1574,6 +1574,11 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary02",
       "commit": "8cc4419cec3f609123ed9ded2b92265d955c2cb9"
+    },
+    "original-qualified-batch-1201-volume02-20261025": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary02",
+      "commit": "2f760401994c37092f1cb8abd1d5e1e3967d2f63"
     }
   },
   "assets": [
@@ -53004,6 +53009,221 @@
       "status": "verified",
       "license": "All rights reserved",
       "sourceId": "original-qualified-batch-1196-volume02-20261025"
+    },
+    {
+      "id": "agriculture-fixed-wheeled-canister-pump-and-cup-cluster-milker-01",
+      "version": "1.0.0",
+      "category": "modular",
+      "assetKind": "prop",
+      "theme": "agriculture",
+      "style": "warm-handcrafted-village",
+      "title": "Fixed Wheeled Canister Pump and Cup Cluster Milker",
+      "description": "One newly authored whole portable milking-equipment-style static exterior. A complete two-wheel standing trolley carries a lidded upright collection-can exterior on one side and a separate horizontal pump/motor casing with an upper small receiver exterior on the other. Its open rear push handle and low front feet belong to the whole frame. A forward parking bracket supports one collector-claw exterior with four complete hollow-mouth cylindrical cups, each attached by its own continuous curved short tube exterior; a larger continuous tube runs from the collector to the can lid and another from the separate pump assembly to the lid. This entire parked collection-cluster/can/separate-pump relationship is not the old canister vacuum with its floor nozzle renamed or the horizontal compressor tank rotated. All numeric geometry new; no old visible mesh imported. One model zero scenes, empty fixed display. Can, pump and hose internals are not modelled as working fluid paths. No vacuum, suction, milk collection, seals, animal fitting/use, hygiene, food contact, pressure, electrical function, wheel motion, manufacture, capacity or safety claim.",
+      "bounds": {
+        "x": 1.299999952,
+        "y": 1.159992099,
+        "z": 1.08386755,
+        "unit": "m"
+      },
+      "triangles": 3652,
+      "materials": 4,
+      "files": {
+        "glb": {
+          "path": "assets/agriculture/agriculture-fixed-wheeled-canister-pump-and-cup-cluster-milker-01/v1.0.0/model.glb",
+          "size": 195600,
+          "sha256": "09b2041c759573f5875eb5751986b9845b9b1248c206238968e15ab48ffced31"
+        },
+        "blend": {
+          "path": "assets/agriculture/agriculture-fixed-wheeled-canister-pump-and-cup-cluster-milker-01/v1.0.0/source.blend",
+          "size": 775728,
+          "sha256": "295a79f20a2d7c55e3e409d523bcdbdef850d417215e637b0ee9d7ab5b298cf6"
+        },
+        "generator": {
+          "path": "assets/agriculture/agriculture-fixed-wheeled-canister-pump-and-cup-cluster-milker-01/v1.0.0/generate.py",
+          "size": 32813,
+          "sha256": "eaa875a432e81da78e773c0bb48a12edef342a088b45b55b8dcc520a0b69c45e"
+        },
+        "render": {
+          "path": "assets/agriculture/agriculture-fixed-wheeled-canister-pump-and-cup-cluster-milker-01/v1.0.0/thumbnail.png",
+          "size": 548050,
+          "sha256": "0c51ce225b593af38848de29dd096b2791fd4bf1447722e1d3d03905dfe0d340"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1201-volume02-20261025"
+    },
+    {
+      "id": "education-fixed-cutaway-inner-bell-and-standpipe-cup-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "education",
+      "style": "S01-clean-geometric",
+      "title": "Fixed Cutaway Inner Bell and Standpipe Cup",
+      "description": "One independently authored whole dry cutaway cup exhibit. A single continuous thick material body joins a flared bowl and its empty floor field to a hollow pedestal stem and integral upright central open standpipe. A separate inverted hollow inner bell surrounds that standpipe with visible radial and top gaps and stands on three small rooted supports above the bowl floor. Both complete material shells deliberately omit the same front ninety-degree sector, with finite fully closed cut faces, exposing the nested arrangement. Three whole low outer feet keep the stem outlet above the ground; there is no blocking display plinth. Unlike the stacked brewer or float-water-clock reservoir, this is one bowl with a nested raised bell around its own through-bottom tube. All geometry newly authored; no old vessel extracted. Three opaque constant PBR roles, metres Z-up and whole horizontal bounds-centred ground origin, one model zero scenes. Fixed dry educational shape only: the cutaway is intentionally not sealed or functional. No fluid, siphoning, flow rate, pressure, capacity, drinking suitability, manufacture, engineering or use safety claim; no rigging animation or interaction.",
+      "bounds": {
+        "x": 1.0,
+        "y": 0.853553390593,
+        "z": 1.08,
+        "unit": "m"
+      },
+      "triangles": 1756,
+      "materials": 3,
+      "files": {
+        "glb": {
+          "path": "assets/education/education-fixed-cutaway-inner-bell-and-standpipe-cup-01/v1.0.0/model.glb",
+          "size": 93152,
+          "sha256": "1ed67f4520447da5c8d3cb28b0a85f2495329c6dec426086a6db418f8a806fa5"
+        },
+        "blend": {
+          "path": "assets/education/education-fixed-cutaway-inner-bell-and-standpipe-cup-01/v1.0.0/source.blend",
+          "size": 648772,
+          "sha256": "774bf4465e4d1226bbd7089bed8ae8dc777fe9af90adfb99eeb27cdfdef1c98e"
+        },
+        "generator": {
+          "path": "assets/education/education-fixed-cutaway-inner-bell-and-standpipe-cup-01/v1.0.0/generate.py",
+          "size": 11608,
+          "sha256": "cfe181d2af3e280a7ee99b3b960483da71b319056cde6f37385c9486a0ccb854"
+        },
+        "render": {
+          "path": "assets/education/education-fixed-cutaway-inner-bell-and-standpipe-cup-01/v1.0.0/thumbnail.png",
+          "size": 556812,
+          "sha256": "f95eec121942b90e90564c13e53dd7a5dd703f96d5acd968f1dd128ee7fa9734"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1201-volume02-20261025"
+    },
+    {
+      "id": "education-fixed-parallel-links-and-supported-pan-balance-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "education",
+      "style": "source-preserved-low-poly",
+      "title": "Fixed Parallel Links And Supported Pan Balance",
+      "description": "One newly authored complete fixed parallel-link two-pan balance-style teaching exhibit. A common broad low plinth supports a rear central upright with two vertically separated bored bearing seats and two fixed transverse axes. Two whole horizontal beams span left to right at distinct upper and lower heights. Full upright end links join both beam ends through four separate fixed pins and rise to support two genuinely hollow shallow pans from below. Thus the two pan supports and two beams form a visible open parallel-link frame, rather than the old single upper balance beam with pans hanging on long wires. A fixed central pointer and separate blank upright reference plate sit at the middle. All complete geometry newly authored: no old pan, suspended scale beam or orthogonal folding-platform parts imported; not an old balance recolour or a count-added tray. Four opaque constant PBR appearances, metres Z up, one whole prop zero scenes. This is only a fixed empty illustrative arrangement inspired by a supported-pan balance. It does not validate weighing, equilibrium, off-centre-load compensation, lever lengths, calibrated markings, linkage trajectory, free pivot bearings, pan capacity, fabrication, use, load or safety. Deliberate fixed pin overlaps are visual joins; no working motion, physical simulation, rigging or interaction.",
+      "bounds": {
+        "x": 1.2480000257492065,
+        "y": 0.5339999794960022,
+        "z": 0.6349999904632568,
+        "unit": "m"
+      },
+      "triangles": 1960,
+      "materials": 4,
+      "files": {
+        "glb": {
+          "path": "assets/education/education-fixed-parallel-links-and-supported-pan-balance-01/v1.0.0/model.glb",
+          "size": 178176,
+          "sha256": "5b8c29fb6667c34cda6630f5d15ba267890a8bb7e8feb259fe79d00f936f98c6"
+        },
+        "blend": {
+          "path": "assets/education/education-fixed-parallel-links-and-supported-pan-balance-01/v1.0.0/source.blend",
+          "size": 860064,
+          "sha256": "3ccd41d16dc861e6cfbfb99511ab4b702509a77838378c527f95d8fb624514ae"
+        },
+        "generator": {
+          "path": "assets/education/education-fixed-parallel-links-and-supported-pan-balance-01/v1.0.0/generate.py",
+          "size": 17574,
+          "sha256": "f57799205e9e7f1750b0841ba19248767438917999fce3453991ec73fddb9459"
+        },
+        "render": {
+          "path": "assets/education/education-fixed-parallel-links-and-supported-pan-balance-01/v1.0.0/thumbnail.png",
+          "size": 519167,
+          "sha256": "0a698708c2fdfabea6456f7d4c62bd4bbed6830726144d1039c31f619d532a43"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1201-volume02-20261025"
+    },
+    {
+      "id": "firefighting-fixed-splayed-foot-and-open-tapered-nozzle-monitor-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "firefighting",
+      "style": "S01-clean-geometric",
+      "title": "Fixed Splayed Foot and Open Tapered Nozzle Fire Monitor",
+      "description": "One newly authored complete portable ground fire-monitor static exterior. Four full splayed arms end in separate flat ground shoes around one low integral two-cheek fork. A single continuous thick hollow feed body rises from a real open rear collar through two bends into a long inclined tapered nozzle with a genuine open tip. Independent fixed lateral trunnions join the tube wall to both full fork cheeks without crossing the bore. A whole three-spoke open side handwheel, opposite full retaining cap and one continuous rearward U handle complete the assembly. Every shape and coordinate is newly authored; no old hose reel, parked hose nozzle, hydrant or single elbow-pipe mesh is imported, extracted, scaled or renamed. The complete ground fork/trunnioned returning body/forward nozzle/control relation is distinct from an elbow on display pedestals or a coiled hose storage stand. One prop zero scenes, four opaque constant PBR roles, metres, Z up and true horizontal-envelope-centred ground datum. Empty fixed illustrative appearance only: no water or foam, firefighting or crowd-control effect, pressure or flow capacity, sealed passage, coupling compatibility, aiming/elevation movement, recoil restraint, stability, operation, manufacturing or safety certification. This is not real equipment design or use guidance. Rigging, animation and interaction are not made or verified.",
+      "bounds": {
+        "x": 1.16,
+        "y": 1.514613,
+        "z": 1.583901,
+        "unit": "m"
+      },
+      "triangles": 3612,
+      "materials": 4,
+      "files": {
+        "glb": {
+          "path": "assets/firefighting/firefighting-fixed-splayed-foot-and-open-tapered-nozzle-monitor-01/v1.0.0/model.glb",
+          "size": 194284,
+          "sha256": "1a27d7f616e45e8a07f1ee82a4a201f12af536e50e5dd92a11e08fef67c565c1"
+        },
+        "blend": {
+          "path": "assets/firefighting/firefighting-fixed-splayed-foot-and-open-tapered-nozzle-monitor-01/v1.0.0/source.blend",
+          "size": 817456,
+          "sha256": "488bcb82930348414a5b2c6c92cba02c985bc6419d506c4ffe9b59d7d5229fb1"
+        },
+        "generator": {
+          "path": "assets/firefighting/firefighting-fixed-splayed-foot-and-open-tapered-nozzle-monitor-01/v1.0.0/generate.py",
+          "size": 28046,
+          "sha256": "3a5de2ec23c921880e0cff75c215dd668dc0d9973ebda0c483e81245c8903e63"
+        },
+        "render": {
+          "path": "assets/firefighting/firefighting-fixed-splayed-foot-and-open-tapered-nozzle-monitor-01/v1.0.0/thumbnail.png",
+          "size": 547733,
+          "sha256": "fa2a4073c7f7330e71591ca12a803a57744e7f68f4bbb27acd8e029fcd258287"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1201-volume02-20261025"
+    },
+    {
+      "id": "sports-fixed-deep-mast-and-twin-wing-hydrofoil-board-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "sports",
+      "style": "S01-clean-geometric",
+      "title": "Fixed Deep Mast and Twin Wing Hydrofoil Board",
+      "description": "One newly authored complete static hydrofoil-board-style exterior displayed upside down on its own three broad deck-pad appearances. A whole thick rounded-nose board connects through an underside mount to one full deep tapered mast. The mast meets a long complete longitudinal fuselage carrying one broad swept front wing and an independently complete smaller rear stabilizer wing, with genuine clear air between board, wings and the two separated wing roots. All silhouettes and mesh coordinates newly authored, no old board, aircraft wing or propulsion apparatus imported. Unlike the old windsurf whole rig, this has no above-deck sail, wishbone or foot straps and is not a surfboard with its short rear fin enlarged: the deep mast and two separated transverse wings on one fuselage define the integrated assembly. Unlike the handheld diving device, there is no propeller, motor shell, shroud or handgrip. One whole prop zero scenes, four opaque PBR roles, metres, Z up and complete envelope horizontal centre on finite deck-pad faces. Invented game-art dimensions and blunt closed illustrative wing sections only, not a real hydrodynamic design. No water, rider, buoyancy, lift, stability, propulsion, power, control, speed, strength, fit, mounting compatibility, manufacturing or sport/safety performance. Rigging, animation and interaction not made.",
+      "bounds": {
+        "x": 1.11,
+        "y": 1.69,
+        "z": 0.8405600000000001,
+        "unit": "m"
+      },
+      "triangles": 472,
+      "materials": 4,
+      "files": {
+        "glb": {
+          "path": "assets/sports/sports-fixed-deep-mast-and-twin-wing-hydrofoil-board-01/v1.0.0/model.glb",
+          "size": 36648,
+          "sha256": "45901980f204713117063bd0f51084e09dc845f996b3f628de8f0613027fb01a"
+        },
+        "blend": {
+          "path": "assets/sports/sports-fixed-deep-mast-and-twin-wing-hydrofoil-board-01/v1.0.0/source.blend",
+          "size": 607380,
+          "sha256": "c0763bea46aad1255a0a45cdac4fb6c00b4d484bdcc0e58c236b8c67733ac6c7"
+        },
+        "generator": {
+          "path": "assets/sports/sports-fixed-deep-mast-and-twin-wing-hydrofoil-board-01/v1.0.0/generate.py",
+          "size": 11517,
+          "sha256": "3dfb343f1458d4ed2a49ee69c3b24035bf0974d1560a03c60c29de28de3b4c31"
+        },
+        "render": {
+          "path": "assets/sports/sports-fixed-deep-mast-and-twin-wing-hydrofoil-board-01/v1.0.0/thumbnail.png",
+          "size": 358616,
+          "sha256": "458ecfcefc15c7e9f4239f0d46d07732e3ee9d6a395362583b1182f2ec3e7fc7"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1201-volume02-20261025"
     }
   ]
 }
