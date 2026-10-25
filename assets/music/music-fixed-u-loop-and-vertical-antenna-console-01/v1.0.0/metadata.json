@@ -1,0 +1,42 @@
+{
+  "id": "music-fixed-u-loop-and-vertical-antenna-console-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "music",
+  "style": "S01-clean-geometric",
+  "title": "Fixed U Loop and Vertical Antenna Console",
+  "description": "One independently authored complete dual-antenna musical-console exterior on its own tripod stand. A compact thick bevel-profile wooden cabinet and raised front control panel sit on a broad underside mounting plate, one continuous central column and three complete outward legs with finite flat feet. A tall vertical metal rod rises from the right cabinet end through a distinct collar. On the opposite side one continuous round-section horizontal U-return antenna has both ends rooted into the left cabinet wall, leaving its broad open interior clear. Three separate front knobs and their raised collars are blank static forms, no screen, grille or keyboard. Unlike a portable radio this whole standing instrument has an orthogonal antenna pair and no handle, speaker or display; unlike the complete pedal-steel console it has no strings, tuners, bridges, knees or pedal transmission. All visible geometry is newly authored, not old radio or guitar meshes combined. Four opaque constant PBR materials, metres native Z up and horizontal complete-bounds-centred ground origin. One whole static prop zero scenes. Theremin-inspired exterior only: no electronic circuit, electromagnetic field, pitch/volume sensing, audio, touchless interaction, antenna calibration, electrical safety, physical stability or manufacture claim. No rigging or animation.",
+  "bounds": {
+    "x": 0.8749486372867092,
+    "y": 0.595,
+    "z": 1.529,
+    "unit": "m"
+  },
+  "triangles": 1572,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/music/music-fixed-u-loop-and-vertical-antenna-console-01/v1.0.0/model.glb",
+      "size": 92248,
+      "sha256": "eda19feef664c24cb874dfdce7645d7ee11a47b3a54bc7bf92b7403a1770df2a"
+    },
+    "blend": {
+      "path": "assets/music/music-fixed-u-loop-and-vertical-antenna-console-01/v1.0.0/source.blend",
+      "size": 731644,
+      "sha256": "edc21e8b763aad491e1e1a47d502b872449a1a5a848533930241d1791308ff0e"
+    },
+    "generator": {
+      "path": "assets/music/music-fixed-u-loop-and-vertical-antenna-console-01/v1.0.0/generate.py",
+      "size": 11800,
+      "sha256": "354a1487d67d72c9dbb396a26ef456eee226a8e0c6862e3ab425d27b8a96d73d"
+    },
+    "render": {
+      "path": "assets/music/music-fixed-u-loop-and-vertical-antenna-console-01/v1.0.0/thumbnail.png",
+      "size": 330554,
+      "sha256": "b37b4e95781d5292cbf6679a0863cad0e94f3051a71c52615345bf951490d4cf"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
