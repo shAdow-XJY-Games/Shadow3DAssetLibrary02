@@ -1,0 +1,42 @@
+{
+  "id": "medical-fixed-ovoid-bag-bent-coupler-and-open-cup-mask-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "medical",
+  "style": "source-preserved-low-poly",
+  "title": "Fixed Ovoid Bag Bent Coupler And Open Cup Mask",
+  "description": "One newly authored complete fixed bag-mask instrument exterior. One continuous low ovoid bag shape has a finite flat underside and two narrow end necks. A separate rear capped inlet-style collar and front coupling collar root into the bag. A complete bent solid connecting elbow joins the front neck to a small thick nose-mouth-only cup whose front rim surrounds a genuine deep open cavity. The cup has a narrowed upper nose contour and broad rounded lower section, with an integral thick rim and closed rear shell. No visor, headbands, patient, tubing reservoir or separate breathing system. Unlike the full-face firefighting mask, this is a small open nose-mouth cup coupled to a low hand-held bag, not a visor frame with two headbands on a plinth. Unlike the wooden hand bellows, there are no pear boards, handle pair, pleated wedge or long nozzle. All geometry newly authored, no old mesh extracted. One static prop zero scenes, four opaque constant PBR roles, metre units Z up. The bag and elbow are closed exterior solids; no internal valve, continuous airflow passage or compressible simulation. No ventilation, oxygen delivery, pressure, treatment, resuscitation efficacy, patient or wearer fit, hygiene, sterility, medical compatibility, manufacture, real use or safety function. Decorative game-art appearance only, no rigging animation or interaction.",
+  "bounds": {
+    "x": 0.18000000715255737,
+    "y": 0.5534999966621399,
+    "z": 0.17499999701976776,
+    "unit": "m"
+  },
+  "triangles": 1328,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/medical/medical-fixed-ovoid-bag-bent-coupler-and-open-cup-mask-01/v1.0.0/model.glb",
+      "size": 116760,
+      "sha256": "aa63b70471b43bc95a086d10c7832577012742c4727eccf03574be8aa15751ae"
+    },
+    "blend": {
+      "path": "assets/medical/medical-fixed-ovoid-bag-bent-coupler-and-open-cup-mask-01/v1.0.0/source.blend",
+      "size": 732832,
+      "sha256": "84c208197fff1e4d12d529d98d9014edb37486df46498b068c7e785c1601d85a"
+    },
+    "generator": {
+      "path": "assets/medical/medical-fixed-ovoid-bag-bent-coupler-and-open-cup-mask-01/v1.0.0/generate.py",
+      "size": 17816,
+      "sha256": "d6bf5069e4ffd713c236fbaa5b0cba87d8af7411db765b10243c0fbafc0e0c21"
+    },
+    "render": {
+      "path": "assets/medical/medical-fixed-ovoid-bag-bent-coupler-and-open-cup-mask-01/v1.0.0/thumbnail.png",
+      "size": 489738,
+      "sha256": "ce0f2adbe1aacc69d28739938942fa1abcb2e2b83ce63549f485d90a4c47bcb7"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

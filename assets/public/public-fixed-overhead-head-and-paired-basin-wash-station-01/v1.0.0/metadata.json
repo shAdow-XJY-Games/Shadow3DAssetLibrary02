@@ -1,0 +1,42 @@
+{
+  "id": "public-fixed-overhead-head-and-paired-basin-wash-station-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "public",
+  "style": "source-preserved-low-poly",
+  "title": "Fixed Overhead Head and Paired Basin Wash Station",
+  "description": "One newly authored complete static dual-level wash-station exterior. A full grounded flange supports one continuous tall round riser with a forward overhead return and a thick downward-open head. A separate complete waist-height empty basin has a real deep inner floor and broad round lip, carried by a rooted side arm and diagonal brace. Two whole bent outlet stems rise together above the basin into paired inward blunt heads. A full long pull rod ends in one genuinely open triangular handle, while a lower fixed lever and footpad and a small blank side paddle complete the one connected exterior. No old beach shower column or boxed drinking fountain geometry is imported; the common two-level arrangement and controls are newly authored. Three opaque materials, one prop zero scenes. Dry fixed visual art only: no water, internal supply/drainage network, spray or flow performance, emergency-use capability, decontamination, health/hygiene, human suitability, instructions, installation, certification or safety claim. Rigging animation and interaction not made.",
+  "bounds": {
+    "x": 0.5299999713897705,
+    "y": 0.8700000047683716,
+    "z": 2.2988486289978027,
+    "unit": "m"
+  },
+  "triangles": 2372,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/public/public-fixed-overhead-head-and-paired-basin-wash-station-01/v1.0.0/model.glb",
+      "size": 212904,
+      "sha256": "896bee856692441e26c0ce2fd39deca0ffdeaa6db1723a9f803bfb69df72d329"
+    },
+    "blend": {
+      "path": "assets/public/public-fixed-overhead-head-and-paired-basin-wash-station-01/v1.0.0/source.blend",
+      "size": 883040,
+      "sha256": "d25715bebab2f421341e85ad26689e1f64c4a674f08637ddd2f74b8ba5c58759"
+    },
+    "generator": {
+      "path": "assets/public/public-fixed-overhead-head-and-paired-basin-wash-station-01/v1.0.0/generate.py",
+      "size": 16138,
+      "sha256": "f27dd38ce794db4c281a4720b1563fc59394280b4d73f9229d72224c1c768d57"
+    },
+    "render": {
+      "path": "assets/public/public-fixed-overhead-head-and-paired-basin-wash-station-01/v1.0.0/thumbnail.png",
+      "size": 452046,
+      "sha256": "c458cae699bf1ba43e24a748ba08b36a1568efb7afe7542d63998e0743bb133c"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
