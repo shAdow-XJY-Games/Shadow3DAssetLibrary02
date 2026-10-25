@@ -1419,6 +1419,11 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary02",
       "commit": "c480927d86d195e6f96c42baea8bf68758824cdd"
+    },
+    "original-qualified-batch-1109-volume02-20261025": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary02",
+      "commit": "8191ca9a40db8525bc0bfb717eaf996290a84187"
     }
   },
   "assets": [
@@ -49022,6 +49027,92 @@
       "status": "verified",
       "license": "All rights reserved",
       "sourceId": "original-qualified-batch-1107-volume02-20261025"
+    },
+    {
+      "id": "nature-whole-branch-attached-enclosed-paper-nest-01",
+      "version": "1.0.0",
+      "category": "modular",
+      "assetKind": "prop",
+      "theme": "nature",
+      "style": "warm-handcrafted-village",
+      "title": "Whole Branch-Attached Enclosed Paper Nest",
+      "description": "One newly authored complete static natural paper-envelope nest attached beneath a whole curved grounded branch. An unequal drooping ovoid paper-like shell closes above and around its sides, with a genuinely small open lower mouth leading into a finite thick-walled chamber. Soft irregular overlapping envelope contours are built into the entire surface, not a stack of separate bowls or an open lantern recoloured. The short solid top attachment buries into the continuous supporting bough. No insects, eggs or internal combs are included or claimed. One entire visual prop zero scenes; no exact wasp species, occupation, animal-care suitability, deterrent effect, ecology, branch load, material performance or functioning nest claim.",
+      "bounds": {
+        "x": 1.196455479,
+        "y": 0.688951254,
+        "z": 1.594915271,
+        "unit": "m"
+      },
+      "triangles": 1940,
+      "materials": 4,
+      "files": {
+        "glb": {
+          "path": "assets/nature/nature-whole-branch-attached-enclosed-paper-nest-01/v1.0.0/model.glb",
+          "size": 110532,
+          "sha256": "56672f22a2f21dff0a925105f4e65c18627c97ef3263c7cb6b01eeffc169a22f"
+        },
+        "blend": {
+          "path": "assets/nature/nature-whole-branch-attached-enclosed-paper-nest-01/v1.0.0/source.blend",
+          "size": 597248,
+          "sha256": "2fcf7b7781a40ee60f2d15cacebde43c85f6f54d7af20cc6e5e1b51c12a18ca9"
+        },
+        "generator": {
+          "path": "assets/nature/nature-whole-branch-attached-enclosed-paper-nest-01/v1.0.0/generate.py",
+          "size": 29505,
+          "sha256": "cd4b6ebb31651f0b0c87ecdaa619b6e22d355dfe4d693bb3f5b7f4c3d883eef4"
+        },
+        "render": {
+          "path": "assets/nature/nature-whole-branch-attached-enclosed-paper-nest-01/v1.0.0/thumbnail.png",
+          "size": 485906,
+          "sha256": "40a57d3ce0b5ae0f3dae949164360976725942c01838187c7c945911ef206af5"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1109-volume02-20261025"
+    },
+    {
+      "id": "sports-fixed-long-hand-window-and-open-channel-ascender-display-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "sports",
+      "style": "source-preserved-low-poly",
+      "title": "Long Hand Window And Open Channel Ascender Display",
+      "description": "One newly authored complete fixed handheld ascender-inspired decorative exterior, laid flat without rope or a person. A long asymmetrical thick body surrounds a genuine large hand window, with a full dark outer grip and a separately complete empty lower attachment eye rooted into the body. Above the hand opening, a thick longitudinal half-round channel is genuinely open at its top and both ends. A single shallow blunt eccentric plate beside that channel has a few broad irregular edge scallops, a complete fixed transverse pin and a distinct short raised thumb tab. The whole hand-window, open rope-channel appearance and adjacent single plate relation is not the old plain C frame with a closing bar, nor the four opposed stacked lobes and long loop stem of the climbing cam. All numeric geometry newly authored, four opaque constant PBR roles, metres Z up and full horizontal-envelope-centred ground origin. One complete visual prop zero scenes. Intentionally simplified fixed overlaps are artistic joins, not equipment clearances or a working toothed cam. No rope, hinge motion, return spring, actual locking, gripping, ascent, descent, rescue, fall arrest, load rating, climbing suitability, certification, manufacture or life-safety functionality represented. Not a construction plan, tested mechanism or usable protective device. No animation, rig, human-fit claim or real-world operating guidance.",
+      "bounds": {
+        "x": 0.11699999868869781,
+        "y": 0.3059999942779541,
+        "z": 0.052000001072883606,
+        "unit": "m"
+      },
+      "triangles": 688,
+      "materials": 4,
+      "files": {
+        "glb": {
+          "path": "assets/sports/sports-fixed-long-hand-window-and-open-channel-ascender-display-01/v1.0.0/model.glb",
+          "size": 63760,
+          "sha256": "29c6a4f00f754775381ca4e27404946495330341ecf4ca3ca90c1e70e0d125cb"
+        },
+        "blend": {
+          "path": "assets/sports/sports-fixed-long-hand-window-and-open-channel-ascender-display-01/v1.0.0/source.blend",
+          "size": 665856,
+          "sha256": "4260b1a7f87123316b2d172137cee464ba375182e585cdf37c2d822ae39f4314"
+        },
+        "generator": {
+          "path": "assets/sports/sports-fixed-long-hand-window-and-open-channel-ascender-display-01/v1.0.0/generate.py",
+          "size": 17467,
+          "sha256": "29dc34e89cb9ba0d65c7b7f6f32469ecaa414ee1046909d35bd018122195157c"
+        },
+        "render": {
+          "path": "assets/sports/sports-fixed-long-hand-window-and-open-channel-ascender-display-01/v1.0.0/thumbnail.png",
+          "size": 535805,
+          "sha256": "ee429008eadc0a1ee7ef4862c7c17e2724756a34ecc05deb27a9b0462eeb3a0f"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1109-volume02-20261025"
     }
   ]
 }
