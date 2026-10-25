@@ -1,0 +1,42 @@
+{
+  "id": "aviation-static-long-boom-and-twin-skid-helicopter-01",
+  "version": "1.0.0",
+  "category": "vehicles",
+  "assetKind": "prop",
+  "theme": "aviation",
+  "style": "source-preserved-low-poly",
+  "title": "Static Long Boom And Twin Skid Helicopter",
+  "description": "One newly authored complete low-poly helicopter-style exterior. A deep short rounded cabin with integral opaque canopy facets narrows behind into a separately rooted long rising tapered tail boom. A raised mast and full central hub carry two continuous broad opposite main-rotor blades in a horizontal plane, while a separate lateral tail shaft carries a complete smaller two-ended rotor in a vertical plane beside the tall tail fin. Two whole long upturned-nose landing skids connect through four splayed struts to the cabin underside. A small whole tailplane crosses the tail boom. This is not a canard airplane with wings rotated, nor the old four guarded-rotor inspection drone with a different rotor count: the cabin, long boom, orthogonal rotor relationships and landing structure are authored together from new numerical shapes. One static model zero scenes, four opaque constant PBR roles, metres Z up, horizontal bounds centred and both complete flat skid soles at ground. Opaque canopy coloring is integral to the closed cabin surface, not glazing or a modelled cockpit interior. No real aircraft, rotor mechanism, swashplate, engine, controls, occupant, rig, animation or interaction. No flight, thrust, aerodynamics, stability, ground or rotor clearance certification, load, manufacture, operational instructions or aviation safety claim. All blades and linkages are fixed artistic shapes only.",
+  "bounds": {
+    "x": 3.0,
+    "y": 3.189789295196533,
+    "z": 1.659999966621399,
+    "unit": "m"
+  },
+  "triangles": 620,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/aviation/aviation-static-long-boom-and-twin-skid-helicopter-01/v1.0.0/model.glb",
+      "size": 64576,
+      "sha256": "d801e3b671ef8b6552e328cf0c9904d5931dc04715e941fa5652f62806ddbad2"
+    },
+    "blend": {
+      "path": "assets/aviation/aviation-static-long-boom-and-twin-skid-helicopter-01/v1.0.0/source.blend",
+      "size": 695888,
+      "sha256": "f052de9d1064c3d4cf87d66038883be9c37afcc92242aa5623d7b7accc55d219"
+    },
+    "generator": {
+      "path": "assets/aviation/aviation-static-long-boom-and-twin-skid-helicopter-01/v1.0.0/generate.py",
+      "size": 17700,
+      "sha256": "5c13d8b59b6b9b78446153cb3cbcb49544ac7d80ccd3d8b001b0246eb40d1f41"
+    },
+    "render": {
+      "path": "assets/aviation/aviation-static-long-boom-and-twin-skid-helicopter-01/v1.0.0/thumbnail.png",
+      "size": 523793,
+      "sha256": "3ebe8d11ea751c8ebf9c9e14cfee0adb0a5104537c8dbae6720fcc885ffcec31"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

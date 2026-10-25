@@ -1,0 +1,42 @@
+{
+  "id": "animal-static-broad-lobed-abdomen-leaf-leg-insect-01",
+  "version": "1.0.0",
+  "category": "modular",
+  "assetKind": "prop",
+  "theme": "animal",
+  "style": "warm-handcrafted-village",
+  "title": "Static Broad-Lobed-Abdomen Leaf-Leg Insect",
+  "description": "One newly authored whole static stylised leaf insect. A small angular head and narrow front thorax flow into a much wider flattened asymmetric-lobed leaf-shaped abdomen, with a genuinely raised longitudinal ridge and alternating low segment folds. Six complete outward bent legs have broad irregularly widened leaf-like upper portions narrowing into fine lower limbs and finite grounded toe ends. Two fine tapering antennae and small lateral eyes complete the body. All numeric body and limb stations are newly authored, not a green cicada with roof wings removed or a mantis with its forearms deleted. One whole animal model zero scenes. Opaque simplified leaf-mimicking exterior, not an exact species or instar, biological camouflage performance, anatomy, flight, locomotion, rigging or animation claim.",
+  "bounds": {
+    "x": 1.432000041,
+    "y": 2.481575251,
+    "z": 0.452979803,
+    "unit": "m"
+  },
+  "triangles": 1684,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/animal/animal-static-broad-lobed-abdomen-leaf-leg-insect-01/v1.0.0/model.glb",
+      "size": 103112,
+      "sha256": "0251d6a9138aee3f0bf9898aacf5baa73824c646f3af6866ca197f85f719ddbd"
+    },
+    "blend": {
+      "path": "assets/animal/animal-static-broad-lobed-abdomen-leaf-leg-insect-01/v1.0.0/source.blend",
+      "size": 630628,
+      "sha256": "fe9eb45e8b9b5173c7376bd906580ffcd8690c62ec620ebc1703e98ee7863511"
+    },
+    "generator": {
+      "path": "assets/animal/animal-static-broad-lobed-abdomen-leaf-leg-insect-01/v1.0.0/generate.py",
+      "size": 29531,
+      "sha256": "485166990ed61030eda5e4e4b33e354aa0ac5efc8a0755d9a09dea41d06dac12"
+    },
+    "render": {
+      "path": "assets/animal/animal-static-broad-lobed-abdomen-leaf-leg-insect-01/v1.0.0/thumbnail.png",
+      "size": 478562,
+      "sha256": "e9925abd14eec9ba3f47d494510af51022bc82f11cc987299ff4ddb3f3010bb9"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
