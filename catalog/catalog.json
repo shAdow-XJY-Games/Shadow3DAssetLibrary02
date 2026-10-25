@@ -1339,6 +1339,11 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary02",
       "commit": "b577b5367558870966461368221fa7dcdf1faba9"
+    },
+    "original-qualified-batch-1071-volume02-20261025": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary02",
+      "commit": "373e5f93f44fdb7b9659c3ec28c65c6c78ba0235"
     }
   },
   "assets": [
@@ -47179,6 +47184,221 @@
       "status": "verified",
       "license": "All rights reserved",
       "sourceId": "original-qualified-batch-1066-volume02-20261025"
+    },
+    {
+      "id": "animal-static-low-ovoid-long-curved-bill-kiwi-01",
+      "version": "1.0.0",
+      "category": "modular",
+      "assetKind": "prop",
+      "theme": "animal",
+      "style": "warm-handcrafted-village",
+      "title": "Static Low-Ovoid Long-Curved-Bill Kiwi",
+      "description": "One newly authored complete stylised kiwi-like bird in a fixed two-foot pose. A low forward-sloping ovoid body continuously narrows into a short small head without a distinct long upright neck, external wing panels or projecting tail plume. A very long thin gently downcurved bill extends from that head; two tiny lateral eyes, two stout short bent legs and two complete thick forward-cleft toe feet finish the silhouette. All body stations, bill curve and feet are new. Not an owl with its facial discs removed or a scaled ostrich with shortened neck: torso/head proportion, slender long bill, close low belly and robust short-legged support are built together, no old visible meshes imported. One model zero scenes. No feather-strand simulation, exact species, anatomical toe diagnosis, feeding, gait, rig, animation, care or handling-safety claim.",
+      "bounds": {
+        "x": 0.860000014,
+        "y": 2.299999952,
+        "z": 1.200000048,
+        "unit": "m"
+      },
+      "triangles": 1064,
+      "materials": 4,
+      "files": {
+        "glb": {
+          "path": "assets/animal/animal-static-low-ovoid-long-curved-bill-kiwi-01/v1.0.0/model.glb",
+          "size": 61600,
+          "sha256": "3f0062d1307b495c735c5e9b578a2d88670bfecd94799a9667ba40f532657db7"
+        },
+        "blend": {
+          "path": "assets/animal/animal-static-low-ovoid-long-curved-bill-kiwi-01/v1.0.0/source.blend",
+          "size": 594280,
+          "sha256": "7b1b90cf67757452a2b4f92c56f0a25459c8de019029bcc47c73ea61b0bb316e"
+        },
+        "generator": {
+          "path": "assets/animal/animal-static-low-ovoid-long-curved-bill-kiwi-01/v1.0.0/generate.py",
+          "size": 29587,
+          "sha256": "7ae036a6e6c634496dbc0459318012c39cdc79ea2f3456ed110296fa252479b3"
+        },
+        "render": {
+          "path": "assets/animal/animal-static-low-ovoid-long-curved-bill-kiwi-01/v1.0.0/thumbnail.png",
+          "size": 479753,
+          "sha256": "5b5a1b160734dbf62a1b0da7b27bb8ae8bac02e07337110f227dd6994dd05310"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1071-volume02-20261025"
+    },
+    {
+      "id": "interior-fixed-open-upright-garment-press-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "interior",
+      "style": "S01-clean-geometric",
+      "title": "Fixed Open Upright Garment Press",
+      "description": "One newly authored complete static upright garment-press appearance. A tall continuous timber back case has a real shallow blind recess and separately inset blank facing. A whole matching broad front board and facing stand open about a full lower transverse axle held in two independent side seats. Long grounded shoes and rear supports complete the base. Two short side latches are parked outward instead of bridging the open gap. A rooted tall rear post carries one whole open shoulder-shaped upper hanger. Unlike the old ironing board, hose steamer or cast-frame printing press, this is a paired long upright facing assembly on a compact common floor stand, without an iron, tank, hose, type chase, ink disc or inking rollers. New full geometry, no old mesh import. Three opaque PBR roles, metres Z up and horizontal-bounds-centred ground origin. One static prop and zero scenes. No garment, electricity, heating, closing mechanism, pressure, fabric treatment, clothing suitability, manufacture, appliance operation or safety claim.",
+      "bounds": {
+        "x": 0.6665182090155699,
+        "y": 0.9419609001054624,
+        "z": 1.57,
+        "unit": "m"
+      },
+      "triangles": 888,
+      "materials": 3,
+      "files": {
+        "glb": {
+          "path": "assets/interior/interior-fixed-open-upright-garment-press-01/v1.0.0/model.glb",
+          "size": 51464,
+          "sha256": "b002c6fe41bb7c768b1c5e41c37cbc29a2d547b388174a1abde459f6e9b571c3"
+        },
+        "blend": {
+          "path": "assets/interior/interior-fixed-open-upright-garment-press-01/v1.0.0/source.blend",
+          "size": 652636,
+          "sha256": "f4daf9afa919196f132fb09b3b1033bf1b5c502d5c7787a9ebb3c4c280c341cf"
+        },
+        "generator": {
+          "path": "assets/interior/interior-fixed-open-upright-garment-press-01/v1.0.0/generate.py",
+          "size": 12240,
+          "sha256": "f1e7a299183f9cee04dc9b4f5dc8e9bc5d4d3264dc1176ee56012b448b0ba455"
+        },
+        "render": {
+          "path": "assets/interior/interior-fixed-open-upright-garment-press-01/v1.0.0/thumbnail.png",
+          "size": 442425,
+          "sha256": "6d559ac341746703cd7da164b4b70320801a051ffeb99100c51c494b3c8fdcdd"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1071-volume02-20261025"
+    },
+    {
+      "id": "janitorial-fixed-hooded-scoop-and-pivot-fork-long-dustpan-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "janitorial",
+      "style": "source-preserved-low-poly",
+      "title": "Fixed Hooded Scoop and Pivot Fork Long Dustpan",
+      "description": "One newly authored complete fixed long-handle hooded-dustpan exterior. A continuous low floor, closed rear and curved polygonal upper hood form a genuine deep front-opening scoop, with full proud side cheeks and a separate finite blunt low entry lip. Two short side pivot stubs meet one whole external U-shaped fork without a bar crossing the inner chamber. A full long upright pole and complete open top grip grow from the fork bridge. This is not the old open-top low-front picking bin with a handle added or the long shallow snow shovel relabelled. All geometry original, three opaque materials, one prop zero scenes. The scoop remains fixed mouth-down in a display pose; no brush, debris, sweeping, hinge rotation, sealing, cleaning efficacy, reach, ergonomic, load or safety performance. Rigging animation interaction not made.",
+      "bounds": {
+        "x": 0.42800000309944153,
+        "y": 0.38999998569488525,
+        "z": 1.1629999876022339,
+        "unit": "m"
+      },
+      "triangles": 740,
+      "materials": 3,
+      "files": {
+        "glb": {
+          "path": "assets/janitorial/janitorial-fixed-hooded-scoop-and-pivot-fork-long-dustpan-01/v1.0.0/model.glb",
+          "size": 70848,
+          "sha256": "fa53e9938e8fe9c9eda41dd9de4b1249b3ff4bf4f9394e158825ca89d8f2563c"
+        },
+        "blend": {
+          "path": "assets/janitorial/janitorial-fixed-hooded-scoop-and-pivot-fork-long-dustpan-01/v1.0.0/source.blend",
+          "size": 672032,
+          "sha256": "430e858cf786a84a36334d26a9fa007fe645e0a053e97e929fb82498914ecf81"
+        },
+        "generator": {
+          "path": "assets/janitorial/janitorial-fixed-hooded-scoop-and-pivot-fork-long-dustpan-01/v1.0.0/generate.py",
+          "size": 16341,
+          "sha256": "66c0160f19883d04d028a3290f1a74fa3aab4eec64c24facf24a83d910b1e79f"
+        },
+        "render": {
+          "path": "assets/janitorial/janitorial-fixed-hooded-scoop-and-pivot-fork-long-dustpan-01/v1.0.0/thumbnail.png",
+          "size": 444540,
+          "sha256": "5c28a89835c1a12ccfda7cfa0af1de8cd198dec38910ffa34bed3ea333737112"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1071-volume02-20261025"
+    },
+    {
+      "id": "kitchen-fixed-long-shaft-and-windowed-bell-hand-blender-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "kitchen",
+      "style": "source-preserved-low-poly",
+      "title": "Fixed Long Shaft and Windowed Bell Hand Blender",
+      "description": "One newly authored complete fixed long-shaft handheld-blender-style exterior. A long contoured axial grip housing with upper cap, short lower collar and blank thumb control joins a complete narrow shaft housing. At the lower end one thick flared bell has a genuinely open bottom, four actual finite side windows and an occupied upper shaft bore. Inside it a separate fixed spindle, small hub and four finite blunt paddle plates remain attached; the guard partially hides them in ordinary views. This complete single-axis grip-shaft-windowed-shroud form is not the old horizontal twin-wire-cage mixer with a cage removed or the old jug motor base resized. Three opaque materials, one prop zero scenes. Bell rim ground contact is a display datum only, not a self-standing or operating claim. No food, liquids, sharp edge, powered rotation, heating, motor internals, mixing procedure, fit, hygiene, ergonomic or electrical safety performance. Rigging animation interaction not made.",
+      "bounds": {
+        "x": 0.07800000160932541,
+        "y": 0.07800000160932541,
+        "z": 0.4180000126361847,
+        "unit": "m"
+      },
+      "triangles": 2228,
+      "materials": 3,
+      "files": {
+        "glb": {
+          "path": "assets/kitchen/kitchen-fixed-long-shaft-and-windowed-bell-hand-blender-01/v1.0.0/model.glb",
+          "size": 196032,
+          "sha256": "4e227ff5ec02325b3681cc80b8b385f4f609ebaa069cfe464e3d7c9c7c6acb66"
+        },
+        "blend": {
+          "path": "assets/kitchen/kitchen-fixed-long-shaft-and-windowed-bell-hand-blender-01/v1.0.0/source.blend",
+          "size": 838688,
+          "sha256": "ccc99906e2910117cda3771df2d66c7983f2619fdc1bc1461adfcbf2a5b16738"
+        },
+        "generator": {
+          "path": "assets/kitchen/kitchen-fixed-long-shaft-and-windowed-bell-hand-blender-01/v1.0.0/generate.py",
+          "size": 16050,
+          "sha256": "64a9bb2d6636a79d8f06e4070c3a21d2cde7c4c221e335237a5ff32b4b4adcf2"
+        },
+        "render": {
+          "path": "assets/kitchen/kitchen-fixed-long-shaft-and-windowed-bell-hand-blender-01/v1.0.0/thumbnail.png",
+          "size": 430179,
+          "sha256": "f62dadfacffe2656e33ec977643b2b14afaf2fdc6501ef58e0a901cf3e54cf1c"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1071-volume02-20261025"
+    },
+    {
+      "id": "spacebase-whole-crew-on-open-airlock-threshold-scene-01",
+      "version": "1.0.0",
+      "category": "scenes",
+      "assetKind": "scene",
+      "theme": "spacebase",
+      "style": "source-preserved-low-poly",
+      "title": "Whole Space Crew on the Open Airlock Threshold",
+      "description": "One static space-expedition threshold scene, zero new independent models. One entire qualified padded space-crew character stands on the actual raised lower throat of one entire original fixed-open airlock hatch, at original unit scale. Both complete boot sole patches contact the original narrow threshold surface; the complete crew stays inside the original convex octagonal opening in frontal projection, with clearance from the fixed side door and hinge blocks. One low closed scene-only slab supports the complete original hatch foot. All original local vertex/normal/index buffers, full material dictionaries and internal node hierarchies are preserved; only whole-instance parent translations are added. This is not the old three-equipment sampling apron or landing-pad/access-tower court, and no existing model is counted again. The hatch remains a free-standing static display, not a complete pressurized airlock room. No operation, pressure sealing, life support, wearable protection, human access or clearances, installation, load capacity, engineering or safety suitability is claimed. Rigging, animation and interaction are not made and outside scope.",
+      "bounds": {
+        "x": 3.5999999046325684,
+        "y": 3.5999999046325684,
+        "z": 2.8399999141693115,
+        "unit": "m"
+      },
+      "triangles": 2204,
+      "materials": 9,
+      "files": {
+        "glb": {
+          "path": "assets/spacebase/spacebase-whole-crew-on-open-airlock-threshold-scene-01/v1.0.0/model.glb",
+          "size": 154528,
+          "sha256": "d918d4f5273b56ffc3203df8171d0d057dcd7de63c896544f60f0d33720e5da1"
+        },
+        "blend": {
+          "path": "assets/spacebase/spacebase-whole-crew-on-open-airlock-threshold-scene-01/v1.0.0/source.blend",
+          "size": 1008780,
+          "sha256": "56bf123edbc39533568efc692365dc7105c5ccf15324ffb2d0f0751363f2ba1a"
+        },
+        "generator": {
+          "path": "assets/spacebase/spacebase-whole-crew-on-open-airlock-threshold-scene-01/v1.0.0/generate.py",
+          "size": 98260,
+          "sha256": "74b8ce608ab22525bcdc5a02255cd5b42680161974c34d275af8c4b70d1cedc7"
+        },
+        "render": {
+          "path": "assets/spacebase/spacebase-whole-crew-on-open-airlock-threshold-scene-01/v1.0.0/thumbnail.png",
+          "size": 536571,
+          "sha256": "58fc8a9ee5923b21627a1462b5f6232b6d820c7f7a0ab602f77685fd6d7ac71d"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1071-volume02-20261025"
     }
   ]
 }
