@@ -1,0 +1,42 @@
+{
+  "id": "spacebase-whole-crew-on-open-airlock-threshold-scene-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "spacebase",
+  "style": "source-preserved-low-poly",
+  "title": "Whole Space Crew on the Open Airlock Threshold",
+  "description": "One static space-expedition threshold scene, zero new independent models. One entire qualified padded space-crew character stands on the actual raised lower throat of one entire original fixed-open airlock hatch, at original unit scale. Both complete boot sole patches contact the original narrow threshold surface; the complete crew stays inside the original convex octagonal opening in frontal projection, with clearance from the fixed side door and hinge blocks. One low closed scene-only slab supports the complete original hatch foot. All original local vertex/normal/index buffers, full material dictionaries and internal node hierarchies are preserved; only whole-instance parent translations are added. This is not the old three-equipment sampling apron or landing-pad/access-tower court, and no existing model is counted again. The hatch remains a free-standing static display, not a complete pressurized airlock room. No operation, pressure sealing, life support, wearable protection, human access or clearances, installation, load capacity, engineering or safety suitability is claimed. Rigging, animation and interaction are not made and outside scope.",
+  "bounds": {
+    "x": 3.5999999046325684,
+    "y": 3.5999999046325684,
+    "z": 2.8399999141693115,
+    "unit": "m"
+  },
+  "triangles": 2204,
+  "materials": 9,
+  "files": {
+    "glb": {
+      "path": "assets/spacebase/spacebase-whole-crew-on-open-airlock-threshold-scene-01/v1.0.0/model.glb",
+      "size": 154528,
+      "sha256": "d918d4f5273b56ffc3203df8171d0d057dcd7de63c896544f60f0d33720e5da1"
+    },
+    "blend": {
+      "path": "assets/spacebase/spacebase-whole-crew-on-open-airlock-threshold-scene-01/v1.0.0/source.blend",
+      "size": 1008780,
+      "sha256": "56bf123edbc39533568efc692365dc7105c5ccf15324ffb2d0f0751363f2ba1a"
+    },
+    "generator": {
+      "path": "assets/spacebase/spacebase-whole-crew-on-open-airlock-threshold-scene-01/v1.0.0/generate.py",
+      "size": 98260,
+      "sha256": "74b8ce608ab22525bcdc5a02255cd5b42680161974c34d275af8c4b70d1cedc7"
+    },
+    "render": {
+      "path": "assets/spacebase/spacebase-whole-crew-on-open-airlock-threshold-scene-01/v1.0.0/thumbnail.png",
+      "size": 536571,
+      "sha256": "58fc8a9ee5923b21627a1462b5f6232b6d820c7f7a0ab602f77685fd6d7ac71d"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

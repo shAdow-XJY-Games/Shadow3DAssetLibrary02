@@ -1,0 +1,42 @@
+{
+  "id": "animal-static-low-ovoid-long-curved-bill-kiwi-01",
+  "version": "1.0.0",
+  "category": "modular",
+  "assetKind": "prop",
+  "theme": "animal",
+  "style": "warm-handcrafted-village",
+  "title": "Static Low-Ovoid Long-Curved-Bill Kiwi",
+  "description": "One newly authored complete stylised kiwi-like bird in a fixed two-foot pose. A low forward-sloping ovoid body continuously narrows into a short small head without a distinct long upright neck, external wing panels or projecting tail plume. A very long thin gently downcurved bill extends from that head; two tiny lateral eyes, two stout short bent legs and two complete thick forward-cleft toe feet finish the silhouette. All body stations, bill curve and feet are new. Not an owl with its facial discs removed or a scaled ostrich with shortened neck: torso/head proportion, slender long bill, close low belly and robust short-legged support are built together, no old visible meshes imported. One model zero scenes. No feather-strand simulation, exact species, anatomical toe diagnosis, feeding, gait, rig, animation, care or handling-safety claim.",
+  "bounds": {
+    "x": 0.860000014,
+    "y": 2.299999952,
+    "z": 1.200000048,
+    "unit": "m"
+  },
+  "triangles": 1064,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/animal/animal-static-low-ovoid-long-curved-bill-kiwi-01/v1.0.0/model.glb",
+      "size": 61600,
+      "sha256": "3f0062d1307b495c735c5e9b578a2d88670bfecd94799a9667ba40f532657db7"
+    },
+    "blend": {
+      "path": "assets/animal/animal-static-low-ovoid-long-curved-bill-kiwi-01/v1.0.0/source.blend",
+      "size": 594280,
+      "sha256": "7b1b90cf67757452a2b4f92c56f0a25459c8de019029bcc47c73ea61b0bb316e"
+    },
+    "generator": {
+      "path": "assets/animal/animal-static-low-ovoid-long-curved-bill-kiwi-01/v1.0.0/generate.py",
+      "size": 29587,
+      "sha256": "7ae036a6e6c634496dbc0459318012c39cdc79ea2f3456ed110296fa252479b3"
+    },
+    "render": {
+      "path": "assets/animal/animal-static-low-ovoid-long-curved-bill-kiwi-01/v1.0.0/thumbnail.png",
+      "size": 479753,
+      "sha256": "5b5a1b160734dbf62a1b0da7b27bb8ae8bac02e07337110f227dd6994dd05310"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

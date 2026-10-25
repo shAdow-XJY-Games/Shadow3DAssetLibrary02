@@ -1,0 +1,42 @@
+{
+  "id": "interior-fixed-open-upright-garment-press-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "interior",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Open Upright Garment Press",
+  "description": "One newly authored complete static upright garment-press appearance. A tall continuous timber back case has a real shallow blind recess and separately inset blank facing. A whole matching broad front board and facing stand open about a full lower transverse axle held in two independent side seats. Long grounded shoes and rear supports complete the base. Two short side latches are parked outward instead of bridging the open gap. A rooted tall rear post carries one whole open shoulder-shaped upper hanger. Unlike the old ironing board, hose steamer or cast-frame printing press, this is a paired long upright facing assembly on a compact common floor stand, without an iron, tank, hose, type chase, ink disc or inking rollers. New full geometry, no old mesh import. Three opaque PBR roles, metres Z up and horizontal-bounds-centred ground origin. One static prop and zero scenes. No garment, electricity, heating, closing mechanism, pressure, fabric treatment, clothing suitability, manufacture, appliance operation or safety claim.",
+  "bounds": {
+    "x": 0.6665182090155699,
+    "y": 0.9419609001054624,
+    "z": 1.57,
+    "unit": "m"
+  },
+  "triangles": 888,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/interior/interior-fixed-open-upright-garment-press-01/v1.0.0/model.glb",
+      "size": 51464,
+      "sha256": "b002c6fe41bb7c768b1c5e41c37cbc29a2d547b388174a1abde459f6e9b571c3"
+    },
+    "blend": {
+      "path": "assets/interior/interior-fixed-open-upright-garment-press-01/v1.0.0/source.blend",
+      "size": 652636,
+      "sha256": "f4daf9afa919196f132fb09b3b1033bf1b5c502d5c7787a9ebb3c4c280c341cf"
+    },
+    "generator": {
+      "path": "assets/interior/interior-fixed-open-upright-garment-press-01/v1.0.0/generate.py",
+      "size": 12240,
+      "sha256": "f1e7a299183f9cee04dc9b4f5dc8e9bc5d4d3264dc1176ee56012b448b0ba455"
+    },
+    "render": {
+      "path": "assets/interior/interior-fixed-open-upright-garment-press-01/v1.0.0/thumbnail.png",
+      "size": 442425,
+      "sha256": "6d559ac341746703cd7da164b4b70320801a051ffeb99100c51c494b3c8fdcdd"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
