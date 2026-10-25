@@ -1,0 +1,42 @@
+{
+  "id": "construction-fixed-upturned-plate-and-open-handle-compactor-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "construction",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Upturned Plate and Open Handle Compactor",
+  "description": "One newly authored complete walk-behind plate-compactor exterior. One broad thick ground plate has genuinely raised leading and trailing ends and a full flat central sole. Its inset low deck carries a lower forward faceted cover and a separate higher engine exterior with a top tank-like cover, blank cap, circular side cover, short capped side tube and a complete sloping drive-cover silhouette. Two rooted inclined rear handle rails join one transverse grip, leaving a real open space behind the machine. There are no wheels, brush disc, trailing squeegee, cutting reel or old imported machine components. This is a new whole plate-mounted machine structure, not a scrubber without tanks or a wheeled vehicle with its wheels removed. Four opaque constant PBR materials, metres, native Z up, centred ground datum; one prop zero scenes. Static unpowered blunt art only. Vibration, compaction, engine internals, fuel, fluids, drive motion, controls, handling suitability, load, manufacture, operation and engineering or safety performance are not made or verified. Rigging, animation and interaction are not made.",
+  "bounds": {
+    "x": 0.58,
+    "y": 1.3,
+    "z": 1.065,
+    "unit": "m"
+  },
+  "triangles": 592,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/construction/construction-fixed-upturned-plate-and-open-handle-compactor-01/v1.0.0/model.glb",
+      "size": 39840,
+      "sha256": "0122cb622f9258b0bc5eb3021ed5b044af24f8e245f295b03cf47be2712b1d40"
+    },
+    "blend": {
+      "path": "assets/construction/construction-fixed-upturned-plate-and-open-handle-compactor-01/v1.0.0/source.blend",
+      "size": 623288,
+      "sha256": "d14d09fda5dc3fdfe62aa51927ace956c386b063667913ebb4f743ace2acadac"
+    },
+    "generator": {
+      "path": "assets/construction/construction-fixed-upturned-plate-and-open-handle-compactor-01/v1.0.0/generate.py",
+      "size": 25782,
+      "sha256": "c6a91ca474dc6a656139edd387f394e9df99ac0ee53b8daabf077ddf1cd8cdff"
+    },
+    "render": {
+      "path": "assets/construction/construction-fixed-upturned-plate-and-open-handle-compactor-01/v1.0.0/thumbnail.png",
+      "size": 524770,
+      "sha256": "b18e1aaaf0613ebf2f2d452bdff9f059203744bc9b6c75d65a67e835d97b6f80"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

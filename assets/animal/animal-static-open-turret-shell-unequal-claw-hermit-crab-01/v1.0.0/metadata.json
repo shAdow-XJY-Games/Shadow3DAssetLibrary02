@@ -1,0 +1,42 @@
+{
+  "id": "animal-static-open-turret-shell-unequal-claw-hermit-crab-01",
+  "version": "1.0.0",
+  "category": "modular",
+  "assetKind": "prop",
+  "theme": "animal",
+  "style": "warm-handcrafted-village",
+  "title": "Static Open-Turret-Shell Unequal-Claw Hermit Crab",
+  "description": "One newly authored complete stylised hermit-crab-like animal in a fixed grounded pose. A compact high asymmetric tapering shell with broad rounded shoulders and low integral spiral growth relief ends in a broad lower-front thick aperture with a real blind cavity. The narrow crustacean forebody emerges at this aperture; two stalked eyes, four long bent grounded walking legs and two differently sized whole notched pincers define the exposed front. Shell and every animal part are new whole geometry: not the old solid snail relief shell attached to the old wide eight-legged crab, and not the old flat-coiled nautilus hood/tentacles. One model zero scenes, no copied visible meshes. Artistic external silhouette only; no exact species, internal anatomy, living suitability, shell exchange, locomotion, rig, animation, gripping or safety claim.",
+  "bounds": {
+    "x": 1.662302732,
+    "y": 1.929999948,
+    "z": 1.055750251,
+    "unit": "m"
+  },
+  "triangles": 1224,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/animal/animal-static-open-turret-shell-unequal-claw-hermit-crab-01/v1.0.0/model.glb",
+      "size": 74120,
+      "sha256": "737442ab66d9861d5edf6b588f5750577ed60bf2b58c78918bc2aa855db5abe2"
+    },
+    "blend": {
+      "path": "assets/animal/animal-static-open-turret-shell-unequal-claw-hermit-crab-01/v1.0.0/source.blend",
+      "size": 629744,
+      "sha256": "16a8fb9883dee16537f9b46b5bc2b61c085678116c35ed7cdb6de2042acb3052"
+    },
+    "generator": {
+      "path": "assets/animal/animal-static-open-turret-shell-unequal-claw-hermit-crab-01/v1.0.0/generate.py",
+      "size": 31978,
+      "sha256": "5a4059b5277aeb73735204956f58fec446614b7230a07375a9515d32151e8ac0"
+    },
+    "render": {
+      "path": "assets/animal/animal-static-open-turret-shell-unequal-claw-hermit-crab-01/v1.0.0/thumbnail.png",
+      "size": 514883,
+      "sha256": "d1e2027de3355d63fa4f60e7d1b2fcf0efd4fad314f4a5244984c630766231fe"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

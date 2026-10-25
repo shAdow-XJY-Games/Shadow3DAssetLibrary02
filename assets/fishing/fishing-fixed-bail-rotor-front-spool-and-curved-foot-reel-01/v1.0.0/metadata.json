@@ -1,0 +1,42 @@
+{
+  "id": "fishing-fixed-bail-rotor-front-spool-and-curved-foot-reel-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "fishing",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Bail Rotor Front Spool and Curved Foot Reel",
+  "description": "One newly authored complete empty spinning-reel-style exterior in a fixed inverted display pose on its own flat mounting foot. A continuous curved stem connects the full foot to a thick rounded side gear-housing appearance. The front axis supports one open-front cup rotor, an independently stepped spool with a genuine annular winding recess and a front knob. Two full rotor arms carry one continuous semicircular bail-like wire around and ahead of the spool, with visible clearance from the spool lip. A separate transverse side crank and axial handgrip complete the whole reel. This is not the old fishing rod kit with the rod removed or the old bare double-flange winch rescaled: the curved stem, side housing and front cup/bail relation are new geometry. No old visible meshes imported. One model zero scenes, four opaque constant PBR roles, metres Z up and complete horizontal-envelope-centred ground datum. Static illustrative equipment exterior only: no internal gears, line, winding, drag, braking, bail motion, spool oscillation, mounting compatibility, manufacture, fishing or safety capability.",
+  "bounds": {
+    "x": 0.199,
+    "y": 0.2535,
+    "z": 0.2265,
+    "unit": "m"
+  },
+  "triangles": 2084,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/fishing/fishing-fixed-bail-rotor-front-spool-and-curved-foot-reel-01/v1.0.0/model.glb",
+      "size": 120212,
+      "sha256": "fba7318b6aeb801862ea12b912517ea3b20a57f4791fc1768abf20090b0be92c"
+    },
+    "blend": {
+      "path": "assets/fishing/fishing-fixed-bail-rotor-front-spool-and-curved-foot-reel-01/v1.0.0/source.blend",
+      "size": 722204,
+      "sha256": "95448af7be5f0e2a0a81badf2163ca81aeade69fbe58e2bebf2fa99716cb4283"
+    },
+    "generator": {
+      "path": "assets/fishing/fishing-fixed-bail-rotor-front-spool-and-curved-foot-reel-01/v1.0.0/generate.py",
+      "size": 12390,
+      "sha256": "31b96e6a683c38f310660bcf63950c5ac9b4b25e9a5a8613fb7d90b4f7bf8f0c"
+    },
+    "render": {
+      "path": "assets/fishing/fishing-fixed-bail-rotor-front-spool-and-curved-foot-reel-01/v1.0.0/thumbnail.png",
+      "size": 424160,
+      "sha256": "abaa0417566ecfc38663e296d1d97add0329bdec8b29f287f0afad800b7c17f7"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
