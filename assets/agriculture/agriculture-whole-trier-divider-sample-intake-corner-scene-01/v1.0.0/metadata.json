@@ -1,0 +1,42 @@
+{
+  "id": "agriculture-whole-trier-divider-sample-intake-corner-scene-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "agriculture",
+  "style": "source-preserved-faceted-natural-ecology",
+  "title": "Whole Trier and Divider Sample Intake Corner",
+  "description": "One static agricultural sample-intake preparation corner scene, zero new models. Three entire qualified originals retain unit scale, every oriented world triangle and opaque per-face constant PBR: the fixed six alternating opposed-chute divider with both complete receiver pans at right, the complete open slotted-sleeve grain trier in the left-front tool position, and the complete gathered sack in the separate rear-left intake position. One finite scene-only floor under all whole original bases and a clear front strip establish separate intake/tool/division stations without interpenetration, extracting a receiver or filling the sack. Unlike the older grain-silo service yard or winnower/riddle cleaning workbay, these are complete sampling-preparation objects, not duplicates or a replacement grain-cleaning machine. The dock sack retains its original small sewn markings and is not relabelled as newly authored grain packaging; contents are unspecified. Only whole translations and IEEE754 float32 storage are applied; original hierarchy and normals are baked/recomputed and not claimed byte-identical. Static illustrative arrangement only: no real sampling accuracy, grain flow, tool operation, food contact, workflow ergonomics, navigation, load or safety validation.",
+  "bounds": {
+    "x": 3.0,
+    "y": 2.400000095,
+    "z": 1.335000038,
+    "unit": "m"
+  },
+  "triangles": 3224,
+  "materials": 11,
+  "files": {
+    "glb": {
+      "path": "assets/agriculture/agriculture-whole-trier-divider-sample-intake-corner-scene-01/v1.0.0/model.glb",
+      "size": 169372,
+      "sha256": "f48558af7181287d1151ae636d60e75c2d9ef3ad68c929ac76030965ffe26892"
+    },
+    "blend": {
+      "path": "assets/agriculture/agriculture-whole-trier-divider-sample-intake-corner-scene-01/v1.0.0/source.blend",
+      "size": 971776,
+      "sha256": "e03cb23b78729b87d44e799ba8a41720e5d247cd06b1e91b5068fccb3def0517"
+    },
+    "generator": {
+      "path": "assets/agriculture/agriculture-whole-trier-divider-sample-intake-corner-scene-01/v1.0.0/generate.py",
+      "size": 77134,
+      "sha256": "74c03efcccac21a0e253609a0f4ae7856a3342f1f7c60eed7784f1e0ddcea6e0"
+    },
+    "render": {
+      "path": "assets/agriculture/agriculture-whole-trier-divider-sample-intake-corner-scene-01/v1.0.0/thumbnail.png",
+      "size": 499088,
+      "sha256": "a87786786eea5425e0995de3bc476cb38944f6db0524935170f71809e0422056"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

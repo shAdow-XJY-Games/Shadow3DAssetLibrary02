@@ -1,0 +1,42 @@
+{
+  "id": "construction-fixed-paired-lift-arms-and-wide-bucket-wheel-loader-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "construction",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Paired Lift Arms and Wide Bucket Wheel Loader",
+  "description": "One newly authored complete wheel-loader-style static machine exterior. Two compact whole chassis bodies have a real separated waist and opposing lower/upper tongues joined by a visible fixed vertical pin. Four large complete annular tyres and two whole transverse axles support the short rear power hood and a new window-open cabin with its full seat. Two independent broad bent front lift arms and their cross shaft carry one genuinely hollow wide bucket, built from a continuous thick bent back/floor and whole side cheeks. An independent short central rocker and long tilt link meet the bucket upper back; two separate closed cylinder-and-rod appearances meet the arms. It is not the older tracked excavator with different wheels: there is no slewing deck, narrow dipper or narrow toothed scoop, and no long grader arch or central angled blade. All visible coordinates newly authored, no old vehicle or bucket mesh imported. One prop zero scenes; four opaque constant PBR roles, metres, native Z up, full horizontal bounds-centred four-tyre ground origin. Fixed exterior art only. No driving, steering, articulation, lifting, tipping, hydraulic or engine internals, digging/loading output, traction, occupancy, machine control, manufacture, strength, engineering or safety performance. No glass or operator. Rigging animation and interaction not made.",
+  "bounds": {
+    "x": 2.148,
+    "y": 4.486,
+    "z": 2.19,
+    "unit": "m"
+  },
+  "triangles": 2656,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/construction/construction-fixed-paired-lift-arms-and-wide-bucket-wheel-loader-01/v1.0.0/model.glb",
+      "size": 125732,
+      "sha256": "7b8f90efa195435573de7caf8db8474d1ea94ca002f7f08c14ce28dc122afcf9"
+    },
+    "blend": {
+      "path": "assets/construction/construction-fixed-paired-lift-arms-and-wide-bucket-wheel-loader-01/v1.0.0/source.blend",
+      "size": 826760,
+      "sha256": "d14c22f92f7d444172074ff6a6972652d0ae11ee62f44fd398e39cc029026e79"
+    },
+    "generator": {
+      "path": "assets/construction/construction-fixed-paired-lift-arms-and-wide-bucket-wheel-loader-01/v1.0.0/generate.py",
+      "size": 29547,
+      "sha256": "0a81b215771d7df30e038ac5bc7a876d9441a02974797179f4d4c538a9dea384"
+    },
+    "render": {
+      "path": "assets/construction/construction-fixed-paired-lift-arms-and-wide-bucket-wheel-loader-01/v1.0.0/thumbnail.png",
+      "size": 558321,
+      "sha256": "65ff5ebe1a536219687fd343caaf0eaebbca51a14b74a8fa5466f258555f2810"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

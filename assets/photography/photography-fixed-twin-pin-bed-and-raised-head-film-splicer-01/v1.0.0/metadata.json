@@ -1,0 +1,42 @@
+{
+  "id": "photography-fixed-twin-pin-bed-and-raised-head-film-splicer-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "photography",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Twin Pin Bed and Raised Head Film Splicer",
+  "description": "One newly authored complete empty tabletop film-splicer-style exterior. A low whole ground base carries two narrow aligned registration beds separated at the central joint, two edge guides per bed and eight short locating pins. Each bed has its own rear-hinged raised clamping leaf and continuous hinge axle. A separate short broad central punch/cut-head silhouette is held raised about its own supported rear hinge, above the central gap. One side upright supports a complete open annular tape-roll appearance on its transverse spindle. The whole organization differs from a broad paper sheet bed with a long side cutting arm, or a dual-reel inspection bench: no old meshes are imported, and no detached component is counted separately. One model zero scenes, four opaque PBR roles, metres Z up and horizontal-envelope-centred ground datum. Fixed illustrative empty exterior only, with blunt thick head and no film or adhesive strip: no perforation pitch compatibility, cutting or splicing, pressure, motion, accuracy, manufacture or hand safety capability.",
+  "bounds": {
+    "x": 0.37,
+    "y": 0.22,
+    "z": 0.19162954015122405,
+    "unit": "m"
+  },
+  "triangles": 1424,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/photography/photography-fixed-twin-pin-bed-and-raised-head-film-splicer-01/v1.0.0/model.glb",
+      "size": 83868,
+      "sha256": "9abd4940aea1b557c3b7b8775d34699801c9ab9b212df32d4e76dec2ff360172"
+    },
+    "blend": {
+      "path": "assets/photography/photography-fixed-twin-pin-bed-and-raised-head-film-splicer-01/v1.0.0/source.blend",
+      "size": 774620,
+      "sha256": "b718f8a16a719a38d5ed47aed29075ec3962a1099eba3cb393397cb43e5425e6"
+    },
+    "generator": {
+      "path": "assets/photography/photography-fixed-twin-pin-bed-and-raised-head-film-splicer-01/v1.0.0/generate.py",
+      "size": 11510,
+      "sha256": "8db1db496f25d56b9e2d5b4b8f34e3e92b2a8de84c703bf371759ea6463f0312"
+    },
+    "render": {
+      "path": "assets/photography/photography-fixed-twin-pin-bed-and-raised-head-film-splicer-01/v1.0.0/thumbnail.png",
+      "size": 435510,
+      "sha256": "e8bc540b223b63b9ac5d6b937690d91efb9caa8fa5472f1ac1ad8dcda42458c9"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
