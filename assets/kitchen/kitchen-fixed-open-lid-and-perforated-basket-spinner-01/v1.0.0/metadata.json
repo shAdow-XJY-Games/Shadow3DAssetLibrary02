@@ -1,0 +1,42 @@
+{
+  "id": "kitchen-fixed-open-lid-and-perforated-basket-spinner-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "kitchen",
+  "style": "source-preserved-low-poly",
+  "title": "Fixed Open Lid and Perforated Basket Spinner",
+  "description": "One newly authored whole fixed-open hand-crank salad-spinner-style exterior. A deep round thick bowl has its full blind floor and broad grounded bottom. A distinct tapered inner basket has a continuous rim, full floor and sixteen real long side windows; a low central support leaves positive side space around the basket. A complete domed lid is held in one fixed rear-open pose by a full hinge root and pin, with its underside boss and complete upper offset crank and grip still present. No chopped lid, transparent material, loose food or separate bowl variant. It differs from the rectangular laboratory centrifuge with eight blind rotor wells and from the long suspended textile basket vat: all numeric geometry is newly authored as one compact bowl/basket/manual-cover assembly. Three opaque PBR roles, metres Z up and bounds-centred ground datum. One prop zero scenes. Fixed visual only: no spinning, drive engagement, drainage performance, food contact, washing/drying, lid closure path, hygiene, manufacture, stability or operating safety claim. Rigging animation interaction not made.",
+  "bounds": {
+    "x": 0.335999995470047,
+    "y": 0.40449434518814087,
+    "z": 0.5070136785507202,
+    "unit": "m"
+  },
+  "triangles": 3188,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/kitchen/kitchen-fixed-open-lid-and-perforated-basket-spinner-01/v1.0.0/model.glb",
+      "size": 277992,
+      "sha256": "458dcf39fca3f61ac0794761825829d071caad59ef7e4dce28ead0b16b95210f"
+    },
+    "blend": {
+      "path": "assets/kitchen/kitchen-fixed-open-lid-and-perforated-basket-spinner-01/v1.0.0/source.blend",
+      "size": 950912,
+      "sha256": "ca4694afe1e1260dbaf6fda8c3867e5fdc87ef9b224c89abf969862cb03bba70"
+    },
+    "generator": {
+      "path": "assets/kitchen/kitchen-fixed-open-lid-and-perforated-basket-spinner-01/v1.0.0/generate.py",
+      "size": 18627,
+      "sha256": "d7c1957a2f80e09d9c5790fa3f9b721d0494dd7d7702dd77799182516b754e22"
+    },
+    "render": {
+      "path": "assets/kitchen/kitchen-fixed-open-lid-and-perforated-basket-spinner-01/v1.0.0/thumbnail.png",
+      "size": 545338,
+      "sha256": "d31a0358448b0c404b9fc9e4a6e5c30ba3bb957d001bc586845556379377c1f2"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "toys-fixed-cam-follower-and-jointed-hammer-figure-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "toys",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Cam Follower and Jointed Hammer Figure",
+  "description": "One newly authored complete hand-cranked cam-and-hammer wooden automaton exterior in one fixed pose. A common open four-post case carries a transverse shaft, eccentric round cam and a separate footed follower passing through a genuine deck window and bored guide. Its upper sloping link joins the elbow of a newly authored wooden figure, whose shoulder and elbow are distinct transverse pivots and whose raised hand carries one full hammer above an integrated small anvil on the same deck. This is not the old ore stamp mill resized: the follower does not itself end in a falling stamp or mortar; the whole output is an articulated side-facing figure with a shoulder-elbow chain. Unlike the old crank bird, there are no paired direct crank-to-wing links or spread wings, and unlike the lever-jaw figure there is no mouth mechanism. No old figure, anvil or machine geometry imported. Four opaque constant PBR materials; metres, native Z up and horizontal-bounds-centred ground datum. One whole toy prop zero scenes. Static mechanism-inspired art only: no motion cycle, correct kinematic timing, gravity return, actual cam contact through travel, impact, playability, child suitability, manufacturing or safety claim. No rigging, animation or interaction.",
+  "bounds": {
+    "x": 0.6,
+    "y": 0.43000000000000005,
+    "z": 0.668,
+    "unit": "m"
+  },
+  "triangles": 2244,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/toys/toys-fixed-cam-follower-and-jointed-hammer-figure-01/v1.0.0/model.glb",
+      "size": 128172,
+      "sha256": "67fc601b2c81c375dc4c74893b6cc762f114076bdceb6835a0a30edb94affecf"
+    },
+    "blend": {
+      "path": "assets/toys/toys-fixed-cam-follower-and-jointed-hammer-figure-01/v1.0.0/source.blend",
+      "size": 855932,
+      "sha256": "b7f9ac87c1bc5569b9741473a94f9645e3e40c6a5a1b8a02dc11d97f59edac0e"
+    },
+    "generator": {
+      "path": "assets/toys/toys-fixed-cam-follower-and-jointed-hammer-figure-01/v1.0.0/generate.py",
+      "size": 13431,
+      "sha256": "2806f76a0a76ee12eed77813b624cb62b13c3bf6d7a610a7c2e17321df2e8db8"
+    },
+    "render": {
+      "path": "assets/toys/toys-fixed-cam-follower-and-jointed-hammer-figure-01/v1.0.0/thumbnail.png",
+      "size": 501467,
+      "sha256": "6b915c5bb82fdb9ecca916bb4ba1e921c65100a6b37b8220ad95ac6822620333"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "textile-fixed-split-double-hoop-and-tilting-floor-stand-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "textile",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Split Double Hoop and Tilting Floor Stand",
+  "description": "One newly authored whole empty embroidery-hoop floor stand in a fixed tilted display pose. Two long feet and a braced single upright carry a transverse shaft and complete side jaw clamp. The head contains a full inner wooden hoop and a separate truly split outer band, with real radial clearance, two metal lug blocks and a complete cross bolt across the split. Both rings and local clamp share one rigid tilt about the illustrated shaft. The entire central aperture remains empty: no cloth, stitch pattern or borrowed loom mesh. Unlike the old weaving frame this is not a rectangular two-upright warp-and-cloth rig, and unlike the old windowed tambourine this is not a single pierced shell with jingles. Four opaque constant PBR materials; metres, native Z up and full horizontal-bounds-centred ground datum. One whole prop zero scenes. Static empty craft-tool exterior only: no adjustment, clamping force, fabric tension, manufacture, ergonomic fit, bearing performance, stability or safe-use claim. No rigging, animation or interaction.",
+  "bounds": {
+    "x": 0.6375,
+    "y": 0.55,
+    "z": 1.0856202307409428,
+    "unit": "m"
+  },
+  "triangles": 1428,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/textile/textile-fixed-split-double-hoop-and-tilting-floor-stand-01/v1.0.0/model.glb",
+      "size": 74396,
+      "sha256": "30c9891535c91ceedf1f51981f1914d8474a6ba0564d8163fedd10efcfa14f34"
+    },
+    "blend": {
+      "path": "assets/textile/textile-fixed-split-double-hoop-and-tilting-floor-stand-01/v1.0.0/source.blend",
+      "size": 700688,
+      "sha256": "603f538c96a7a04f6a8c1d21e85a5af9e5dae9ecc3a49675d340ac2e298ed113"
+    },
+    "generator": {
+      "path": "assets/textile/textile-fixed-split-double-hoop-and-tilting-floor-stand-01/v1.0.0/generate.py",
+      "size": 10913,
+      "sha256": "c4a333dbc09e82671e371faae7008e2949e231922a429e76d278a1d5370c3f67"
+    },
+    "render": {
+      "path": "assets/textile/textile-fixed-split-double-hoop-and-tilting-floor-stand-01/v1.0.0/thumbnail.png",
+      "size": 394207,
+      "sha256": "890073b8e3ddbdd82885da2e365fc175f74f2bcae904cef7710d31a7e75f499e"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
