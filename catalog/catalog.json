@@ -1344,6 +1344,11 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary02",
       "commit": "373e5f93f44fdb7b9659c3ec28c65c6c78ba0235"
+    },
+    "original-qualified-batch-1075-volume02-20261025": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary02",
+      "commit": "ea57cf4d9b456ba22bef79b43ef808fde0509671"
     }
   },
   "assets": [
@@ -47399,6 +47404,178 @@
       "status": "verified",
       "license": "All rights reserved",
       "sourceId": "original-qualified-batch-1071-volume02-20261025"
+    },
+    {
+      "id": "entertainment-fixed-open-trough-wand-wheel-and-rear-fan-machine-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "entertainment",
+      "style": "S01-clean-geometric",
+      "title": "Fixed Open Trough Wand Wheel and Rear Fan Machine",
+      "description": "One newly authored complete bubble-machine-style static exterior: a continuous thick open empty front trough shares a grounded case with a raised rear compartment; eight genuine open annular wands form a rooted radial wheel about a full supported transverse axle. A separate rear duct contains a fixed motor and blades, supported by the case, and a continuous three-sided carry handle joins both rear case shoulders. This is neither a paddle waterwheel reduced in scale nor a standalone mine fan with a basin placed beside it: the wheel dips into the actual open trough and its axis returns into the same rear housing. No old mesh is imported. One model zero scenes, four opaque PBR roles, metres Z up and horizontal-envelope-centred ground datum. Empty fixed exterior only: no soap, liquid, bubbles, electric circuit, airflow, rotation, fluid seal, bubble production, handle load, manufacture or safety capability. Rigging, animation and interaction not made.",
+      "bounds": {
+        "x": 0.36,
+        "y": 0.46,
+        "z": 0.447,
+        "unit": "m"
+      },
+      "triangles": 2400,
+      "materials": 4,
+      "files": {
+        "glb": {
+          "path": "assets/entertainment/entertainment-fixed-open-trough-wand-wheel-and-rear-fan-machine-01/v1.0.0/model.glb",
+          "size": 129440,
+          "sha256": "87572c6e31d93e5ecd5708f50372c26c2ce922320c701b1154dff1b3f9e11727"
+        },
+        "blend": {
+          "path": "assets/entertainment/entertainment-fixed-open-trough-wand-wheel-and-rear-fan-machine-01/v1.0.0/source.blend",
+          "size": 859580,
+          "sha256": "0d2bc1b4ba834b7b21ba328b8be2260a9381320fd56007adb7ac8a988a3fee2b"
+        },
+        "generator": {
+          "path": "assets/entertainment/entertainment-fixed-open-trough-wand-wheel-and-rear-fan-machine-01/v1.0.0/generate.py",
+          "size": 11087,
+          "sha256": "9c66b54f130622bb6e96b736064db8c1604d9cbb149758081ff77472cbc9667f"
+        },
+        "render": {
+          "path": "assets/entertainment/entertainment-fixed-open-trough-wand-wheel-and-rear-fan-machine-01/v1.0.0/thumbnail.png",
+          "size": 537272,
+          "sha256": "9efc5c434547a82389e5f817ca5a2611642e659d19e6cd095d4285bf906184a7"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1075-volume02-20261025"
+    },
+    {
+      "id": "fantasy-static-hook-beak-and-feather-wing-griffin-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "magic",
+      "style": "S01-clean-geometric",
+      "title": "Static Hook Beak and Feather Wing Griffin",
+      "description": "One newly authored complete stylized griffin character in a fixed four-foot pose. A deep tawny lion torso and two bent rear legs with rounded whole paws combine with a tall ivory feathered neck/skull, a downward hooked beak and two long bird forelegs ending in real cleft three-toe feet. Two entire raised feather-fan wings have projecting primary tips and separate rooted overlapping coverts, not scalloped bat membranes. A long thin curved lion tail ends in a volumetric tuft. Dark lateral eyes are seated into the head. All body sections, head proportions, feather outlines and limbs are newly drawn, not a modified old dragon body with an owl head attached; no old mesh is imported. Three opaque PBR materials, metre Z-up and full horizontal-bounds-centred four-foot ground origin. One static character prop and zero scenes. Fictional game-art appearance only; no biological accuracy, flight, locomotion, physical balance, animal care, manufacture or safety. Rigging, animation, interactions, collision and living functions are not produced or verified.",
+      "bounds": {
+        "x": 2.58,
+        "y": 2.285,
+        "z": 1.65,
+        "unit": "m"
+      },
+      "triangles": 1880,
+      "materials": 3,
+      "files": {
+        "glb": {
+          "path": "assets/magic/fantasy-static-hook-beak-and-feather-wing-griffin-01/v1.0.0/model.glb",
+          "size": 129060,
+          "sha256": "eecbe46d7278813760ae0cd16af48f65bf6761ad3eac735306525b0fe547672a"
+        },
+        "blend": {
+          "path": "assets/magic/fantasy-static-hook-beak-and-feather-wing-griffin-01/v1.0.0/source.blend",
+          "size": 724768,
+          "sha256": "137279ad001b585aebc03f01b399308bff15ebc847eacc63fb63f3652e5e02db"
+        },
+        "generator": {
+          "path": "assets/magic/fantasy-static-hook-beak-and-feather-wing-griffin-01/v1.0.0/generate.py",
+          "size": 13727,
+          "sha256": "dbaec63b4277b159dda0d69d5e56d393727f1a8c7d79ea88966ebe3f1a031977"
+        },
+        "render": {
+          "path": "assets/magic/fantasy-static-hook-beak-and-feather-wing-griffin-01/v1.0.0/thumbnail.png",
+          "size": 407943,
+          "sha256": "e4b4d8efe5f732e8c32406b101eadc27e1e272df14ef06035d8a9636ec6534d8"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1075-volume02-20261025"
+    },
+    {
+      "id": "spacebase-static-ogive-fairing-and-swept-fin-launch-rocket-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "spacebase",
+      "style": "S01-clean-geometric",
+      "title": "Static Ogive Fairing and Swept Fin Launch Rocket",
+      "description": "One newly authored complete fictional non-weapon launch-rocket exterior. A single continuous tall stepped body runs from a full lower barrel through a real narrowed interstage waist and slimmer upper body into a flared broad fairing and smoothly changing pointed ogive nose. Integral face-material bands identify the waist without duplicated coincident plates. Four whole thick swept tail fins have long roots and finite flat lower tips. A separate thick downward-open blind bell has a real empty mouth and inner wall under the body. No old spacecraft cabin, landing legs, airplane fuselage, wing or propeller mesh is reused, resized, extracted or counted again. Unlike the old broad four-foot lander with cabin, side braces, footpads and ladder, this is an entire long axial launch-vehicle silhouette with a narrow stage waist and full upper fairing. Unlike the old horizontal three-wheel airplane, it has no cockpit canopy, transverse main wing, propeller or wheeled undercarriage. One static prop zero scenes; four opaque constant PBR materials, metres Z up, horizontal bounds-centred four-fin-tip ground datum. Fictional game-art proportions only, no real vehicle, insignia, text or brand. Decorative bell is not an engine. No internal fuel, combustion, pressure, guidance, stage separation, thrust, aerodynamics, flight, orbit, launch procedure, manufacture, installation, structural capacity or safety claim. Rigging, animation and interaction are not made or verified.",
+      "bounds": {
+        "x": 2.06,
+        "y": 2.06,
+        "z": 5.77,
+        "unit": "m"
+      },
+      "triangles": 1392,
+      "materials": 4,
+      "files": {
+        "glb": {
+          "path": "assets/spacebase/spacebase-static-ogive-fairing-and-swept-fin-launch-rocket-01/v1.0.0/model.glb",
+          "size": 81668,
+          "sha256": "779d400c0ef0477d41e207e803788147cdc136578d501e2bd748a0a04591e596"
+        },
+        "blend": {
+          "path": "assets/spacebase/spacebase-static-ogive-fairing-and-swept-fin-launch-rocket-01/v1.0.0/source.blend",
+          "size": 621860,
+          "sha256": "97b530324a614161290e6ebd3c43f1d4c4db0dc3bbdcbf62cfdec83494d37a20"
+        },
+        "generator": {
+          "path": "assets/spacebase/spacebase-static-ogive-fairing-and-swept-fin-launch-rocket-01/v1.0.0/generate.py",
+          "size": 24210,
+          "sha256": "a5bdef8bdc277456ba19c50a7ea87ed001706ec7b737ff512de14b154f807fdf"
+        },
+        "render": {
+          "path": "assets/spacebase/spacebase-static-ogive-fairing-and-swept-fin-launch-rocket-01/v1.0.0/thumbnail.png",
+          "size": 492304,
+          "sha256": "63dfefc65616d72c693b3a923de8a5eb94d66ba90e1f9e3fb008f1fe7b72ab96"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1075-volume02-20261025"
+    },
+    {
+      "id": "technology-fixed-interleaved-scrolls-and-open-chamber-display-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "technology",
+      "style": "source-preserved-low-poly",
+      "title": "Fixed Interleaved Scrolls And Open Chamber Display",
+      "description": "One newly authored complete fixed spiral-scroll chamber illustrative cutaway. A continuous thick circular casing and real annular backplate stand on two narrow feet and a common bed. Two separate full thick spiral ribbons wind inward between one another across visible radial gaps; each has complete front, back, inner, outer and end faces. Both are deliberately fixed into the common backplate and outer casing, not asserted to orbit independently. A central full spindle, proud front hub, rear bored bearing on its own pedestal and a rear cap complete the display. The new interleaved long spiral walls are not radial impeller blades in a single expanding volute, nor one curved triangular rotor inside a two-lobed casing. Generic numeric mesh/export routines only are reused; all visible profiles and placements are newly authored. Four opaque constant untextured PBR roles, metres and Z up; one model zero scenes. Illustrative static engineering-themed art only: not a working scroll compressor or conjugate scroll profile. No independent orbital mechanism, eccentric drive, fluid ports, chambers sealed through motion, compression, pumping, pressure, thermodynamics, flow, speed, precision, lubrication, manufacture, load or safety claim. Deliberate fixed support overlaps do not demonstrate working fits. No fluid, rig, animation or interaction.",
+      "bounds": {
+        "x": 0.8399999737739563,
+        "y": 0.6399999856948853,
+        "z": 0.875,
+        "unit": "m"
+      },
+      "triangles": 3356,
+      "materials": 4,
+      "files": {
+        "glb": {
+          "path": "assets/technology/technology-fixed-interleaved-scrolls-and-open-chamber-display-01/v1.0.0/model.glb",
+          "size": 291020,
+          "sha256": "f07b17be5a78a7df227eb07b775b92412642cc6dc4ccd8eaddb259dbd7e65979"
+        },
+        "blend": {
+          "path": "assets/technology/technology-fixed-interleaved-scrolls-and-open-chamber-display-01/v1.0.0/source.blend",
+          "size": 988192,
+          "sha256": "5e17aa329f1f73c4bd7dccc5fcd838e20d7a4d7db4f376d5ca02cdd452bc7d80"
+        },
+        "generator": {
+          "path": "assets/technology/technology-fixed-interleaved-scrolls-and-open-chamber-display-01/v1.0.0/generate.py",
+          "size": 17758,
+          "sha256": "c53702851306254b9c5c2217dcfe894666573e4668061009a5e0d8ac651e83f0"
+        },
+        "render": {
+          "path": "assets/technology/technology-fixed-interleaved-scrolls-and-open-chamber-display-01/v1.0.0/thumbnail.png",
+          "size": 593299,
+          "sha256": "d22d875e09dc2ed1e8fedda353cb44f336df57d532e93d17793105264ff42e0d"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1075-volume02-20261025"
     }
   ]
 }
