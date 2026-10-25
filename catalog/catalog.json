@@ -1589,6 +1589,11 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary02",
       "commit": "c4023b58e1dbd62b30e0aabd6b850617234d44eb"
+    },
+    "original-qualified-batch-1207-volume02-20261025": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary02",
+      "commit": "5b7eaca31a1ebee2e27dc96237db3a5933909f14"
     }
   },
   "assets": [
@@ -53406,6 +53411,92 @@
       "status": "verified",
       "license": "All rights reserved",
       "sourceId": "original-qualified-batch-1205-volume02-20261025"
+    },
+    {
+      "id": "animal-static-low-boat-body-s-neck-arched-wing-swan-01",
+      "version": "1.0.0",
+      "category": "modular",
+      "assetKind": "prop",
+      "theme": "animal",
+      "style": "warm-handcrafted-village",
+      "title": "Static Low Boat Body S-Neck Arched-Wing Swan",
+      "description": "One newly authored complete stylised swan-like bird in a fixed grounded pose. A broad low boat-shaped torso narrows continuously through its rising front breast into a long pronounced S-curved neck and a small forward head, all one closed skin. Two complete raised arched folded-wing lobes frame the back and taper rearward; a short flattened full bill and small lateral eyes finish the head. Two short bent legs connect to broad flat webbed feet below the low body. Every body/neck/wing/foot coordinate newly authored, no old bird mesh or section array imported. Unlike the high long-legged wading bird with separated toes and narrow spear bill, this whole bird has a low broad body, short support legs, webs and raised folded wing silhouettes. Unlike the compact short-neck duck-like bird, its neck rises far above the low torso through a clear continuous S profile rather than merely enlarging its head. One static animal model zero scenes. No exact species, feather microanatomy, flight, swimming, gait, buoyancy, ecology or biological function claim; rig animation and interaction not made.",
+      "bounds": {
+        "x": 0.800000012,
+        "y": 1.88735342,
+        "z": 1.669954062,
+        "unit": "m"
+      },
+      "triangles": 1536,
+      "materials": 4,
+      "files": {
+        "glb": {
+          "path": "assets/animal/animal-static-low-boat-body-s-neck-arched-wing-swan-01/v1.0.0/model.glb",
+          "size": 87008,
+          "sha256": "5bd43e91226490ed80564749f95174b26f138c9cf3e67532cb00ba8789edac18"
+        },
+        "blend": {
+          "path": "assets/animal/animal-static-low-boat-body-s-neck-arched-wing-swan-01/v1.0.0/source.blend",
+          "size": 620232,
+          "sha256": "765646932ecdd5a90e26dec534772d5eb68f87fb8fe4068dc3275ee644e45360"
+        },
+        "generator": {
+          "path": "assets/animal/animal-static-low-boat-body-s-neck-arched-wing-swan-01/v1.0.0/generate.py",
+          "size": 30511,
+          "sha256": "ecd0638a0b9d2715bbfc593f17d6a8d848bdedbd53358bb3320d41f19d463d53"
+        },
+        "render": {
+          "path": "assets/animal/animal-static-low-boat-body-s-neck-arched-wing-swan-01/v1.0.0/thumbnail.png",
+          "size": 486480,
+          "sha256": "2050bd4b31e9ec4c7e8d38e8884cfc61554f6e0f2f65eaa6348877b3f7e8fe85"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1207-volume02-20261025"
+    },
+    {
+      "id": "aviation-fixed-radial-finned-heads-and-annular-collector-engine-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "aviation",
+      "style": "S01-clean-geometric",
+      "title": "Fixed Radial Finned Heads and Annular Collector Engine",
+      "description": "One newly authored complete radial-cylinder aircraft-engine-style exterior on its own whole display carrier. A common rounded central crankcase and front domed timing cover carry a forward fixed output stub/flange. Five complete integral-finned cylinders radiate around the entire case, each with a newly drawn shouldered head and two whole front pushrod-tube exteriors rooted into the common timing cover. Behind the heads, full separate branch exteriors converge onto one continuous annular collector exterior, with a genuine central open region. Two sloping rear supports root the entire engine into a connected low twin-rail ground carrier. This complete radial case/head/front-rod/rear-ring topology is not a twin-cylinder receiver compressor with more cylinders or a steam beam engine with its lever shortened. There is no receiver tank, belt/pulley drive, tall walking beam, external flywheel or imported old mesh. All visible geometry newly authored as one complete standalone prop, zero scenes or separately counted parts; four opaque constant PBR materials, metres, native Z up and whole horizontal-bounds-centred ground origin. Static exterior only, solid crankcase/cylinder internals and no propeller or airframe supplied. No combustion, fuel, pressure, cooling, exhaust routing, valve timing, engine cycle, shaft rotation, power, performance, flight, attachment compatibility, manufacture or equipment safety capability is made or verified. Rigging, animation and interaction are not made or verified.",
+      "bounds": {
+        "x": 1.982938,
+        "y": 1.12,
+        "z": 2.19,
+        "unit": "m"
+      },
+      "triangles": 8588,
+      "materials": 4,
+      "files": {
+        "glb": {
+          "path": "assets/aviation/aviation-fixed-radial-finned-heads-and-annular-collector-engine-01/v1.0.0/model.glb",
+          "size": 479604,
+          "sha256": "cade28b02c4a80f65fd46b2cba6f2c14d22e278e322e424b64c7d3f1aad7a80e"
+        },
+        "blend": {
+          "path": "assets/aviation/aviation-fixed-radial-finned-heads-and-annular-collector-engine-01/v1.0.0/source.blend",
+          "size": 1148580,
+          "sha256": "17e3100743b21739341d2476abb765dbf7f3d126a06c0245aada9e9b0640a4e2"
+        },
+        "generator": {
+          "path": "assets/aviation/aviation-fixed-radial-finned-heads-and-annular-collector-engine-01/v1.0.0/generate.py",
+          "size": 27262,
+          "sha256": "2beeae5ea43780cb3bea93229c288b92910b8df81e36099b8f913349dfa63b2d"
+        },
+        "render": {
+          "path": "assets/aviation/aviation-fixed-radial-finned-heads-and-annular-collector-engine-01/v1.0.0/thumbnail.png",
+          "size": 559214,
+          "sha256": "60720e2b361caccbd74b9b9551fb10f3887b7499c908c9bcd7b4c0ed6039bce3"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1207-volume02-20261025"
     }
   ]
 }
