@@ -1,0 +1,42 @@
+{
+  "id": "renovation-fixed-short-sleeve-and-wide-pad-knee-kicker-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "renovation",
+  "style": "source-preserved-low-poly",
+  "title": "Fixed Short Sleeve and Wide Pad Knee Kicker",
+  "description": "One newly authored complete static short-shaft carpet-kicker-style exterior. A wide low chamfered front head carries one connected underside plate with finite blunt square studs and a top blank depth-dial appearance. A complete front socket, short outer sleeve, partly exposed inner fixed shaft, collar and lock-button exterior join the head to an independent broad rounded rear pad and its whole backing. Both the blunt front studs and the finite rear pad rest meet the display plane. New numeric whole geometry, not the old split shoe stretcher rebranded or a spokeshave with changed handles. Three opaque untextured PBR roles, metres and centred ground origin; one prop zero scenes. No carpet, sharp pins, telescoping motion, spring, gripping or stretching performance, knee/body contact or fit, impact instructions, manufacture, ergonomics or construction safety claim. Rigging animation interaction not made.",
+  "bounds": {
+    "x": 0.23199999332427979,
+    "y": 0.6200000047683716,
+    "z": 0.13300000131130219,
+    "unit": "m"
+  },
+  "triangles": 1280,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/renovation/renovation-fixed-short-sleeve-and-wide-pad-knee-kicker-01/v1.0.0/model.glb",
+      "size": 116596,
+      "sha256": "fb30fef495827dfde7a6b9128a81daf9a7b1fd2e8a4668b9f5a136085ec0ecc1"
+    },
+    "blend": {
+      "path": "assets/renovation/renovation-fixed-short-sleeve-and-wide-pad-knee-kicker-01/v1.0.0/source.blend",
+      "size": 732512,
+      "sha256": "149a50313b0ac23708140952fba5bf2173885f2710b1b48f713ef74549241882"
+    },
+    "generator": {
+      "path": "assets/renovation/renovation-fixed-short-sleeve-and-wide-pad-knee-kicker-01/v1.0.0/generate.py",
+      "size": 15729,
+      "sha256": "e43868be2f54716aae950138a2f47d94d5384974756995e444dedf5d918cbb15"
+    },
+    "render": {
+      "path": "assets/renovation/renovation-fixed-short-sleeve-and-wide-pad-knee-kicker-01/v1.0.0/thumbnail.png",
+      "size": 464818,
+      "sha256": "7bf5d83d89d9936efce1fda0c814cecc619e84532c4e4f5333b34a6335be6cb2"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

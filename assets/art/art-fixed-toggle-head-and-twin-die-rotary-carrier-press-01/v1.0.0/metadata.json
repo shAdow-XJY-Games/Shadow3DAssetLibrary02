@@ -1,0 +1,42 @@
+{
+  "id": "art-fixed-toggle-head-and-twin-die-rotary-carrier-press-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "art",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Toggle Head and Twin Die Rotary Carrier Press",
+  "description": "One newly authored complete compact badge-press-inspired static art exterior. A grounded base supports a rear upright and overhead guide, a complete fixed plunger with round upper die, and one long raised lever with paired short toggle links and full transverse pins. A separate lower central pedestal supports a two-ended rotary-carrier appearance with two genuine blind round die cups and a retained central axis. The exposed forward cup has a real finite floor and thick lip; the rear cup is aligned below the upper head with a deliberate display gap. This is not the old rack-and-pinion arbor press with new colour or the twin-roll sealing machine with a new cup: no toothed ram, pinion, film rolls, web, parallel tray rails or controls are used. Every whole geometry coordinate is new, with only generic construction and export tools reused. Four opaque PBR materials, metre coordinates, Z up and centred whole ground envelope. One model zero scenes. Fixed illustrative appearance only, no pressing force, lever travel, working linkage, rotation, die mating, badge production, process instructions, manufacture or equipment safety verified. Rigging animation and interaction not made.",
+  "bounds": {
+    "x": 0.32,
+    "y": 0.6094999999999999,
+    "z": 0.7047366362134873,
+    "unit": "m"
+  },
+  "triangles": 1652,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/art/art-fixed-toggle-head-and-twin-die-rotary-carrier-press-01/v1.0.0/model.glb",
+      "size": 81500,
+      "sha256": "fe8c27d1228ce26a16a1ab164b2ee659fb1ddf30caafceff40cb10d994cec105"
+    },
+    "blend": {
+      "path": "assets/art/art-fixed-toggle-head-and-twin-die-rotary-carrier-press-01/v1.0.0/source.blend",
+      "size": 717448,
+      "sha256": "e072c304ae87c547a24eba4df7b83bf39edc241e709e324680e23b0249f2f078"
+    },
+    "generator": {
+      "path": "assets/art/art-fixed-toggle-head-and-twin-die-rotary-carrier-press-01/v1.0.0/generate.py",
+      "size": 10968,
+      "sha256": "a3de2576ae0e9562b1bcc3557ceb66312f162dda8f38674ba8fd41dcd12268e3"
+    },
+    "render": {
+      "path": "assets/art/art-fixed-toggle-head-and-twin-die-rotary-carrier-press-01/v1.0.0/thumbnail.png",
+      "size": 435692,
+      "sha256": "ad9ecb10d0c0fd975c4b531be4a6fef26258eab920455089e490acc9967c7694"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
