@@ -1519,6 +1519,11 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary02",
       "commit": "616104666c85ff3cc273dc49407a7417a1f0e673"
+    },
+    "original-qualified-batch-1161-volume02-20261025": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary02",
+      "commit": "5f3ab1c33ccc6053bd975c0065d3254e28850fb3"
     }
   },
   "assets": [
@@ -51358,6 +51363,92 @@
       "status": "verified",
       "license": "All rights reserved",
       "sourceId": "original-qualified-batch-1159-volume02-20261025"
+    },
+    {
+      "id": "industrial-fixed-wheeled-reservoir-and-raised-funnel-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "industrial",
+      "style": "source-preserved-low-poly",
+      "title": "Fixed Wheeled Reservoir and Raised Funnel",
+      "description": "One newly authored complete empty mobile-collection-funnel-style exterior. A deep shouldered reservoir with full bottom and narrow upper neck sits on two rear axle wheels and two separate flat front supports. One full hollow vertical tube, thick retaining collar and fixed thumb grip support an entire deep conical upper funnel with a genuine open throat. A continuous rear wraparound push handle and grip belong to the reservoir, while one lower service stub is explicitly closed. The high open receiving stage, long central tube and wheeled lower vessel are authored together, not a canister vacuum with its hose removed or an open honey tank recoloured. Three opaque PBR roles, metres Z up and ground-centred bounds; one prop zero scenes. No fluid, used oil, hazardous material, wheel or height motion, flow/draining performance, pressure, vessel capacity, manufacture, handling instructions, hygiene, compatibility, stability or equipment safety claim. Static empty appearance only; rigging animation interaction not made.",
+      "bounds": {
+        "x": 0.5019999742507935,
+        "y": 0.5019999742507935,
+        "z": 1.4010000228881836,
+        "unit": "m"
+      },
+      "triangles": 4504,
+      "materials": 3,
+      "files": {
+        "glb": {
+          "path": "assets/industrial/industrial-fixed-wheeled-reservoir-and-raised-funnel-01/v1.0.0/model.glb",
+          "size": 392684,
+          "sha256": "0873a27445d9fa06fbfeb9024ae45fb9c588fe0e71349fa3427792508ca90031"
+        },
+        "blend": {
+          "path": "assets/industrial/industrial-fixed-wheeled-reservoir-and-raised-funnel-01/v1.0.0/source.blend",
+          "size": 1131232,
+          "sha256": "bfa708846fd5d59d008ce51797610050ae3e163c575fd64ffa6c1263539ae6b4"
+        },
+        "generator": {
+          "path": "assets/industrial/industrial-fixed-wheeled-reservoir-and-raised-funnel-01/v1.0.0/generate.py",
+          "size": 17363,
+          "sha256": "a24ef8d361391f71e74739e367a7b5a60c453ef62d857a47c21541c47a655485"
+        },
+        "render": {
+          "path": "assets/industrial/industrial-fixed-wheeled-reservoir-and-raised-funnel-01/v1.0.0/thumbnail.png",
+          "size": 460800,
+          "sha256": "d3570223ea5d8c33e47d75be4863f739fdf3dd112bfa5832fed3d7fcc1d42199"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1161-volume02-20261025"
+    },
+    {
+      "id": "technology-fixed-horizontal-disc-and-cross-slide-roller-display-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "technology",
+      "style": "source-preserved-low-poly",
+      "title": "Fixed Horizontal Disc And Cross Slide Roller Display",
+      "description": "One newly authored complete fixed orthogonal disc-and-roller mechanism exhibit. A low broad plinth carries a central vertical bored pedestal and short vertical shaft supporting a large horizontal flat-faced disc. A separate smaller complete vertical wheel sits above an off-centre part of that face on its own full horizontal shaft. Two whole transverse bearing arms carry that shaft from a common rear cross-slide bridge, whose two open-bottom captured shoes surround two parallel rails on independent end standards. A separate upper smooth adjustment-rod appearance, central raised carriage nut and open spoked handwheel complete the fixed slide arrangement. The wheel and disc have a deliberate small visible static separation, not a validated friction contact. All numeric geometry newly authored together, no old cone clutch, deep-C wheeling-frame or machinery parts imported. Unlike the old coaxial separated cone clutch, the two principal axes are perpendicular and the whole rear carriage moves the wheel location across a flat disc face; unlike the deep C frame, there are no parallel-axis opposed rolling wheels or sheet-working throat. One complete model zero scenes, four opaque constant PBR appearances, metres Z up, entire horizontal envelope centred and full plinth underside grounded. Fixed illustrative exterior only: no working screw threads, sliding bearings, exact mating fits, friction coefficient, torque transfer, variable transmission ratio, rotation, travel, force, pressure, engineering accuracy, manufacture, installation or machine safety claim. No rigging, animation or interaction.",
+      "bounds": {
+        "x": 1.1019999980926514,
+        "y": 0.7799999713897705,
+        "z": 0.5889999866485596,
+        "unit": "m"
+      },
+      "triangles": 2356,
+      "materials": 4,
+      "files": {
+        "glb": {
+          "path": "assets/technology/technology-fixed-horizontal-disc-and-cross-slide-roller-display-01/v1.0.0/model.glb",
+          "size": 216368,
+          "sha256": "1c0a61ad45a7c86ee61464aad148cbce2bc2d0300e99ddddc0f4db8d67656c06"
+        },
+        "blend": {
+          "path": "assets/technology/technology-fixed-horizontal-disc-and-cross-slide-roller-display-01/v1.0.0/source.blend",
+          "size": 937344,
+          "sha256": "e09d04b4ad5bf17e8e0f4675b2f8901a17bbab4dc31a8c2fd9caec8259caa5b2"
+        },
+        "generator": {
+          "path": "assets/technology/technology-fixed-horizontal-disc-and-cross-slide-roller-display-01/v1.0.0/generate.py",
+          "size": 17982,
+          "sha256": "c85ee8013cab9ee75b2e9337d3a789203be233559826aded491aa525202a053f"
+        },
+        "render": {
+          "path": "assets/technology/technology-fixed-horizontal-disc-and-cross-slide-roller-display-01/v1.0.0/thumbnail.png",
+          "size": 514771,
+          "sha256": "560302e444224a5e3655a5d041e88785817a08c44c8abdc0e4fb282355c07906"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1161-volume02-20261025"
     }
   ]
 }
