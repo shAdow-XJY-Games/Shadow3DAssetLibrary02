@@ -1464,6 +1464,11 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary02",
       "commit": "e5cb03575445e22288f2dedcb3864e4197ddb703"
+    },
+    "original-qualified-batch-1135-volume02-20261025": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary02",
+      "commit": "f3c9bc6edb5172b94f793a53015061125c35b820"
     }
   },
   "assets": [
@@ -50142,6 +50147,135 @@
       "status": "verified",
       "license": "All rights reserved",
       "sourceId": "original-qualified-batch-1132-volume02-20261025"
+    },
+    {
+      "id": "animal-static-spread-radiating-neck-frill-long-tail-lizard-01",
+      "version": "1.0.0",
+      "category": "modular",
+      "assetKind": "prop",
+      "theme": "animal",
+      "style": "warm-handcrafted-village",
+      "title": "Static Spread Radiating-Neck-Frill Long-Tail Lizard",
+      "description": "One newly authored whole static stylised frilled lizard. A low pointed head rises from a narrow neck into one continuous elongated torso and very long gently side-curved tapering tail. One whole thick open-centred radiating pleated neck membrane surrounds the actual neck, flaring into an uneven broad fan; both front and back surfaces and the entire rim are real geometry. Four complete outward bent limbs end in long splayed finite three-pronged feet, with small lateral eyes. Not a copied coiled-tail chameleon with a decorative disc, nor extracted axolotl gill fans. One entire animal model zero scenes. Deliberately simplified opaque low-poly appearance; no exact species, membrane anatomy, threat display, locomotion, rigging or animation claim.",
+      "bounds": {
+        "x": 1.468172431,
+        "y": 2.900000095,
+        "z": 1.515502214,
+        "unit": "m"
+      },
+      "triangles": 1988,
+      "materials": 4,
+      "files": {
+        "glb": {
+          "path": "assets/animal/animal-static-spread-radiating-neck-frill-long-tail-lizard-01/v1.0.0/model.glb",
+          "size": 113740,
+          "sha256": "ac22a32c92ba3146b3eea2742ea05f97f1a2144800a83029f2da0ea02e979fd6"
+        },
+        "blend": {
+          "path": "assets/animal/animal-static-spread-radiating-neck-frill-long-tail-lizard-01/v1.0.0/source.blend",
+          "size": 647936,
+          "sha256": "1c9c6b2096fb5c78a8b6c84c6db6fe32cb87d1928013e62faff782233b4d5ad3"
+        },
+        "generator": {
+          "path": "assets/animal/animal-static-spread-radiating-neck-frill-long-tail-lizard-01/v1.0.0/generate.py",
+          "size": 29772,
+          "sha256": "f326217105008a0f3d9e781c3f050ecc77d93fdbd6aaa9b03e42f41af143931e"
+        },
+        "render": {
+          "path": "assets/animal/animal-static-spread-radiating-neck-frill-long-tail-lizard-01/v1.0.0/thumbnail.png",
+          "size": 485434,
+          "sha256": "524bcd7d8c6f428fbd17cb0c52c03183b90e6be86345cdef6a05aebfbc40f225"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1135-volume02-20261025"
+    },
+    {
+      "id": "industrial-fixed-open-pyramid-and-toothed-saddle-stand-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "industrial",
+      "style": "source-preserved-low-poly",
+      "title": "Fixed Open Pyramid and Toothed Saddle Stand",
+      "description": "One newly authored complete fixed empty axle-stand-style exterior. Four full splayed corner legs rise from four separate broad flat feet into one whole thick rectangular neck with a true through bore. Real open triangular side bays remain between the legs, with no hidden solid pyramid. An independent square post has an entire finite stepped front tooth profile and a thick upper saddle with a real scooped top. Two front ears retain a complete cross axle and one blunt pawl-shaped piece, joined to a short side arm and broad grip. All visible coordinates are newly authored, not an old bottle jack with the pump removed or a roller stand with a replacement head. Three opaque constant PBR roles, metres Z up and horizontally centred ground datum. One prop zero scenes, no vehicle, axle or load. Fixed illustrative workshop appearance only: no ratchet engagement validation, adjustment, lifting, support capacity, stability, vehicle suitability, installation, manufacture or safety certification. Rigging animation interaction not made.",
+      "bounds": {
+        "x": 0.38999998569488525,
+        "y": 0.38999998569488525,
+        "z": 0.5609999895095825,
+        "unit": "m"
+      },
+      "triangles": 516,
+      "materials": 3,
+      "files": {
+        "glb": {
+          "path": "assets/industrial/industrial-fixed-open-pyramid-and-toothed-saddle-stand-01/v1.0.0/model.glb",
+          "size": 55396,
+          "sha256": "dd62f5e9ca791423a018f0a65acdc81676babc742a70f10fad2192293fdd8684"
+        },
+        "blend": {
+          "path": "assets/industrial/industrial-fixed-open-pyramid-and-toothed-saddle-stand-01/v1.0.0/source.blend",
+          "size": 670464,
+          "sha256": "58740df9d52b0988db0e25da7de7a99fb73d8744942c90424f3bce90e6d8eca9"
+        },
+        "generator": {
+          "path": "assets/industrial/industrial-fixed-open-pyramid-and-toothed-saddle-stand-01/v1.0.0/generate.py",
+          "size": 16676,
+          "sha256": "f29df12ae692faee2d70ba27dc9f136e3d6a5abad7901d053ab0cfe7b70b0e47"
+        },
+        "render": {
+          "path": "assets/industrial/industrial-fixed-open-pyramid-and-toothed-saddle-stand-01/v1.0.0/thumbnail.png",
+          "size": 486842,
+          "sha256": "6e8332fe999abc72ac5a8da7d26fbe4674ae1bd2533fac8c3f991d91029d112f"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1135-volume02-20261025"
+    },
+    {
+      "id": "music-fixed-u-loop-and-vertical-antenna-console-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "music",
+      "style": "S01-clean-geometric",
+      "title": "Fixed U Loop and Vertical Antenna Console",
+      "description": "One independently authored complete dual-antenna musical-console exterior on its own tripod stand. A compact thick bevel-profile wooden cabinet and raised front control panel sit on a broad underside mounting plate, one continuous central column and three complete outward legs with finite flat feet. A tall vertical metal rod rises from the right cabinet end through a distinct collar. On the opposite side one continuous round-section horizontal U-return antenna has both ends rooted into the left cabinet wall, leaving its broad open interior clear. Three separate front knobs and their raised collars are blank static forms, no screen, grille or keyboard. Unlike a portable radio this whole standing instrument has an orthogonal antenna pair and no handle, speaker or display; unlike the complete pedal-steel console it has no strings, tuners, bridges, knees or pedal transmission. All visible geometry is newly authored, not old radio or guitar meshes combined. Four opaque constant PBR materials, metres native Z up and horizontal complete-bounds-centred ground origin. One whole static prop zero scenes. Theremin-inspired exterior only: no electronic circuit, electromagnetic field, pitch/volume sensing, audio, touchless interaction, antenna calibration, electrical safety, physical stability or manufacture claim. No rigging or animation.",
+      "bounds": {
+        "x": 0.8749486372867092,
+        "y": 0.595,
+        "z": 1.529,
+        "unit": "m"
+      },
+      "triangles": 1572,
+      "materials": 4,
+      "files": {
+        "glb": {
+          "path": "assets/music/music-fixed-u-loop-and-vertical-antenna-console-01/v1.0.0/model.glb",
+          "size": 92248,
+          "sha256": "eda19feef664c24cb874dfdce7645d7ee11a47b3a54bc7bf92b7403a1770df2a"
+        },
+        "blend": {
+          "path": "assets/music/music-fixed-u-loop-and-vertical-antenna-console-01/v1.0.0/source.blend",
+          "size": 731644,
+          "sha256": "edc21e8b763aad491e1e1a47d502b872449a1a5a848533930241d1791308ff0e"
+        },
+        "generator": {
+          "path": "assets/music/music-fixed-u-loop-and-vertical-antenna-console-01/v1.0.0/generate.py",
+          "size": 11800,
+          "sha256": "354a1487d67d72c9dbb396a26ef456eee226a8e0c6862e3ab425d27b8a96d73d"
+        },
+        "render": {
+          "path": "assets/music/music-fixed-u-loop-and-vertical-antenna-console-01/v1.0.0/thumbnail.png",
+          "size": 330554,
+          "sha256": "b37b4e95781d5292cbf6679a0863cad0e94f3051a71c52615345bf951490d4cf"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1135-volume02-20261025"
     }
   ]
 }
