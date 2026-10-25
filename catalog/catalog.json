@@ -1394,6 +1394,11 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary02",
       "commit": "b2f2d739bf391e1dc15c2ab443ad3f2c1a7b422e"
+    },
+    "original-qualified-batch-1098-volume02-20261025": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary02",
+      "commit": "ce1b53cf647a67e4cf0b5f567f191b349d56e4b2"
     }
   },
   "assets": [
@@ -48567,6 +48572,49 @@
       "status": "verified",
       "license": "All rights reserved",
       "sourceId": "original-qualified-batch-1097-volume02-20261025"
+    },
+    {
+      "id": "animal-static-asymmetric-oval-fringed-flatfish-01",
+      "version": "1.0.0",
+      "category": "modular",
+      "assetKind": "prop",
+      "theme": "animal",
+      "style": "warm-handcrafted-village",
+      "title": "Static Asymmetric Oval-Fringed Flatfish",
+      "description": "One newly authored complete stylised flatfish-like animal in a fixed low resting display. A genuinely low thick asymmetric oval-diamond body narrows at a small offset front mouth and at a short rear tail stock. Two long continuous finite-thickness fin margins follow its opposite long sides, ending before a separate small rounded broad tail fan; both small eyes sit on the same upward-facing head surface with a staggered offset. All body sections, unequal side outlines, long fin ribbons and short tail are authored together, not a fusiform fish rotated on its side, a ray with its whip tail removed or a cuttlefish without arms. Real closed thickness and a finite belly datum, no painted silhouette or alpha membrane. One whole static model zero scenes. No exact species/eye-side, biological scale, gill/internal anatomy, feeding, swimming, buoyancy, life-cycle, rig, animation or ecological performance claim.",
+      "bounds": {
+        "x": 1.428465605,
+        "y": 2.400000095,
+        "z": 0.248999998,
+        "unit": "m"
+      },
+      "triangles": 904,
+      "materials": 4,
+      "files": {
+        "glb": {
+          "path": "assets/animal/animal-static-asymmetric-oval-fringed-flatfish-01/v1.0.0/model.glb",
+          "size": 53720,
+          "sha256": "46067f3df3887580412f22b89f31dd0f47138e820f16c74b116bd609004fa3d5"
+        },
+        "blend": {
+          "path": "assets/animal/animal-static-asymmetric-oval-fringed-flatfish-01/v1.0.0/source.blend",
+          "size": 583928,
+          "sha256": "2ce765a7aebd38fb1f781f5087148ddf5f70d558ba36868f22c541de29e22afd"
+        },
+        "generator": {
+          "path": "assets/animal/animal-static-asymmetric-oval-fringed-flatfish-01/v1.0.0/generate.py",
+          "size": 30076,
+          "sha256": "688a565ca8834882be26bd3489a217d8f0614e71981ea4034c17cac95877ef54"
+        },
+        "render": {
+          "path": "assets/animal/animal-static-asymmetric-oval-fringed-flatfish-01/v1.0.0/thumbnail.png",
+          "size": 459335,
+          "sha256": "c56a9313ce2b47d5b2ac337920c92acbc695912653734c35346fe823b69fb74b"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1098-volume02-20261025"
     }
   ]
 }
