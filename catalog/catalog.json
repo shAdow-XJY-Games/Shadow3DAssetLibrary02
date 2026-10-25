@@ -1219,6 +1219,11 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary02",
       "commit": "b594c05d95448021439b91c96fe2f369e5e3c3d4"
+    },
+    "original-qualified-batch-957-volume02-20261025": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary02",
+      "commit": "a8433f2760245e1d1b227c4f87c13007b67277c0"
     }
   },
   "assets": [
@@ -42200,6 +42205,178 @@
       "status": "verified",
       "license": "All rights reserved",
       "sourceId": "original-qualified-batch-953-volume02-20261025"
+    },
+    {
+      "id": "camping-fixed-sagging-hammock-and-bowed-end-stand-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "camping",
+      "style": "S01-clean-geometric",
+      "title": "Fixed Sagging Hammock and Bowed End Stand",
+      "description": "One newly authored complete fixed freestanding hammock appearance. A full thick double-curved cloth bed hangs deeply between two gathered fans of complete ropes and two true open suspension eyes. A low longitudinal support spine, two outward swept end posts and two transverse feet with four flat shoes form its entire stand. No overhead crossbeam, cot side rails, rigid seat plank, pillow, mattress, person, old bed or swing mesh is imported. The long sides of the cloth are not supported by rails and the full space beneath the slung bed remains open above the low spine. One prop and zero scenes; three opaque constant PBR materials, metres, Z up, horizontal bounds-centred ground origin. Fixed stylized outdoor display only: no cloth or rope simulation, suspension dynamics, knot construction, real connections, assembly, load, tipping resistance, sleeping suitability, ergonomics, manufacture or safety claim.",
+      "bounds": {
+        "x": 3.1960346226753624,
+        "y": 1.26,
+        "z": 1.2339405097431977,
+        "unit": "m"
+      },
+      "triangles": 1184,
+      "materials": 3,
+      "files": {
+        "glb": {
+          "path": "assets/camping/camping-fixed-sagging-hammock-and-bowed-end-stand-01/v1.0.0/model.glb",
+          "size": 79764,
+          "sha256": "d858cfd8220e2f47a6c5d01f7f2eaea7dd43fe47a7345d7ef90c3e57dcebb515"
+        },
+        "blend": {
+          "path": "assets/camping/camping-fixed-sagging-hammock-and-bowed-end-stand-01/v1.0.0/source.blend",
+          "size": 700988,
+          "sha256": "1b3dc063cc329694226b75a85df889345a1a81cac15ed0a6e08621e52b5cf7e2"
+        },
+        "generator": {
+          "path": "assets/camping/camping-fixed-sagging-hammock-and-bowed-end-stand-01/v1.0.0/generate.py",
+          "size": 11355,
+          "sha256": "afb9abb6988f5bf622d7fa321a72867a530873b686981df0ca3e59ce31c78a7a"
+        },
+        "render": {
+          "path": "assets/camping/camping-fixed-sagging-hammock-and-bowed-end-stand-01/v1.0.0/thumbnail.png",
+          "size": 385635,
+          "sha256": "39dbd98924d7493c55fa0ae3d339e5f300e4cb1aa6339dc0f52f8b39e0cda7da"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-957-volume02-20261025"
+    },
+    {
+      "id": "sports-whole-quarterpipe-approach-and-scooter-parking-scene-01",
+      "version": "1.0.0",
+      "category": "scenes",
+      "assetKind": "scene",
+      "theme": "sports",
+      "style": "source-preserved-low-poly",
+      "title": "Whole Quarterpipe Approach and Scooter Parking Layout",
+      "description": "One static skating-area preparation layout using three complete qualified old props and zero new independent models. A complete concave quarter-pipe bank occupies the left rear, with its whole low toe facing an empty broad front approach strip. A separate intact three-place slotted-shell bench sits on the right side facing inward toward that open area, while one complete kick scooter is parked on the lower right outside the bank approach. The riding bank, side rest strip and separate equipment parking bay have distinct orientations and ground footprints; this is not the old seesaw and narrow ladder-slide play corner or a public waiting shelter layout. Every old mesh, internal hierarchy, oriented triangle and full PBR is preserved at original unit scale, without extracting, reshaping or recolouring the bank, bench or scooter. Only the bench rotates rigidly ninety degrees, all three whole props translate, and one scene-only flat floor is added. One scene, zero new models. Empty static illustrative layout only, not a complete skate park or a playable route. No riding, speed, braking, ramp trajectory, fall clearance, seating ergonomics, accessibility, structural load, installation, activity suitability or public safety is made or verified. Rigging, animation and interaction are not made.",
+      "bounds": {
+        "x": 4.200000047683716,
+        "y": 3.9999998807907104,
+        "z": 1.540000081062317,
+        "unit": "m"
+      },
+      "triangles": 2432,
+      "materials": 10,
+      "files": {
+        "glb": {
+          "path": "assets/sports/sports-whole-quarterpipe-approach-and-scooter-parking-scene-01/v1.0.0/model.glb",
+          "size": 127708,
+          "sha256": "e9582e29d8d6f695f7543dab769d46e082aa22b8163b2aab89922cd0153826e4"
+        },
+        "blend": {
+          "path": "assets/sports/sports-whole-quarterpipe-approach-and-scooter-parking-scene-01/v1.0.0/source.blend",
+          "size": 1069916,
+          "sha256": "51ba462a4c7c3ab0ecd1b5e447de9a9366f619ffdaf74ca2a56625582a5ee4d5"
+        },
+        "generator": {
+          "path": "assets/sports/sports-whole-quarterpipe-approach-and-scooter-parking-scene-01/v1.0.0/generate.py",
+          "size": 88787,
+          "sha256": "84060e4c68f3a8f37895ca171d55f597793f728b4f8071478f1ad677c777ca74"
+        },
+        "render": {
+          "path": "assets/sports/sports-whole-quarterpipe-approach-and-scooter-parking-scene-01/v1.0.0/thumbnail.png",
+          "size": 477031,
+          "sha256": "2b08037481a3a4efd20802b40adbeab4e162d5315e1f28d459758e3da69d0ecd"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-957-volume02-20261025"
+    },
+    {
+      "id": "technology-fixed-open-shackle-and-keyhole-padlock-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "technology",
+      "style": "S01-clean-geometric",
+      "title": "Fixed Open Shackle and Keyhole Padlock",
+      "description": "One newly authored complete fixed open-padlock appearance: thick chamfer-corner brass-looking body with a real keyhole-shaped front-to-back opening, one complete unequal-leg round U shackle with its long leg entering the body and its short leg lifted above the receiving recess, and one entire raised inset top cap with a genuine socket opening floored by the body below. The raised cap perimeter is inset from the main body sides, not coincident exposed cover geometry. One prop, zero scenes and no loose key. Newly drawn whole geometry, no wooden puzzle-lock, carabiner or draw-latch mesh imported. Three opaque constant PBR materials, metres, Z up and horizontal bounds-centred ground origin. Stylized static exterior only; the keyhole is a simplified through opening with no internal lock mechanism, pins, wards or security system. No unlocking procedure, working lock, key compatibility, movement, strength, load, manufacture, anti-theft or safety claim.",
+      "bounds": {
+        "x": 0.36,
+        "y": 0.14,
+        "z": 0.702,
+        "unit": "m"
+      },
+      "triangles": 608,
+      "materials": 3,
+      "files": {
+        "glb": {
+          "path": "assets/technology/technology-fixed-open-shackle-and-keyhole-padlock-01/v1.0.0/model.glb",
+          "size": 36080,
+          "sha256": "01584738689caed1d9bd20a3ed81e0a7850b3105485a9c56834bb2d2804d08e0"
+        },
+        "blend": {
+          "path": "assets/technology/technology-fixed-open-shackle-and-keyhole-padlock-01/v1.0.0/source.blend",
+          "size": 563624,
+          "sha256": "cb64db3d0f4891fd4ccc62752676846f4f2e82fcc20d6711a9a989fcecb35e36"
+        },
+        "generator": {
+          "path": "assets/technology/technology-fixed-open-shackle-and-keyhole-padlock-01/v1.0.0/generate.py",
+          "size": 11603,
+          "sha256": "b0eb6d74e3ab5c38cb06fb2520019e40fa931613aff46db9231e58be6dac7f34"
+        },
+        "render": {
+          "path": "assets/technology/technology-fixed-open-shackle-and-keyhole-padlock-01/v1.0.0/thumbnail.png",
+          "size": 421156,
+          "sha256": "7d93ce0812d0f4a940da323c40374afd01128c0df2304735eedf05f76d4e3e16"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-957-volume02-20261025"
+    },
+    {
+      "id": "technology-fixed-twin-perforated-head-and-fork-planetarium-display-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "technology",
+      "style": "S01-clean-geometric",
+      "title": "Fixed Twin Perforated Head and Fork Planetarium Display",
+      "description": "One independently authored complete planetarium-projector-style static display exterior. A broad grounded octagonal foot and stepped pedestal carry one tall open U fork and a complete transverse mounting axle. One continuous thick hollow twin-spherical-head shell narrows through a central waisted barrel, stored at a fixed diagonal tilt;32genuine small finite shell openings lead into its actual cavity, and both pole ends remain closed. Each full end head carries three entire radial annular optic housings and explicitly opaque recessed insert disks. Two proud axle caps close the assembly exterior. This is a complete double-head instrument silhouette, not two old spheres placed on an old gyroscope, a remade armillary or a classroom-projector head swap; all geometry independently authored, no old mesh imported. Aperture pattern is illustrative only and is not a star chart or optical mechanism. One prop, zero scenes; four opaque constant untextured PBR roles, metres, Z up and horizontally centred full ground sole datum. No transparency, lamps, emission, image or star projection, lenses performance, astronomy accuracy, rotation, drive, electricity, control logic, heat, calibration, manufacture, installation, load, operation or engineering/safety capability. No rigging, animation or interaction; static low-poly science-exhibit art only.",
+      "bounds": {
+        "x": 1.38,
+        "y": 2.367579,
+        "z": 2.236033,
+        "unit": "m"
+      },
+      "triangles": 7000,
+      "materials": 4,
+      "files": {
+        "glb": {
+          "path": "assets/technology/technology-fixed-twin-perforated-head-and-fork-planetarium-display-01/v1.0.0/model.glb",
+          "size": 389372,
+          "sha256": "c24defcf27184438fc7173eb41e0146aa79a67d4b9503fe4cc3fefec442c56a4"
+        },
+        "blend": {
+          "path": "assets/technology/technology-fixed-twin-perforated-head-and-fork-planetarium-display-01/v1.0.0/source.blend",
+          "size": 989992,
+          "sha256": "9dc1f612692b04ea6f73a5163d53a7b0b1e4de11571da4ad1704903e09cdffec"
+        },
+        "generator": {
+          "path": "assets/technology/technology-fixed-twin-perforated-head-and-fork-planetarium-display-01/v1.0.0/generate.py",
+          "size": 27727,
+          "sha256": "76ebc7b7ddfe49626fd668640f8df10ad0404d35954e45fe33904c0605538f21"
+        },
+        "render": {
+          "path": "assets/technology/technology-fixed-twin-perforated-head-and-fork-planetarium-display-01/v1.0.0/thumbnail.png",
+          "size": 523116,
+          "sha256": "064969582076c0dae888da3dd178e33c3d99d4537d7294df029593d58aacc8e6"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-957-volume02-20261025"
     }
   ]
 }
