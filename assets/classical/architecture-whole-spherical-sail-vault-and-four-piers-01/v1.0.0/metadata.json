@@ -1,0 +1,42 @@
+{
+  "id": "architecture-whole-spherical-sail-vault-and-four-piers-01",
+  "version": "1.0.0",
+  "category": "architecture",
+  "assetKind": "modular",
+  "theme": "classical",
+  "style": "S01-clean-geometric",
+  "title": "Whole Spherical Sail Vault and Four Piers",
+  "description": "One complete newly authored spherical sail-vault architectural bay. A single thick doubly curved spherical shell covers a square footprint: its round upper cap continues into four complete curved corner fields, descending onto four grounded piers with broad capitals and feet. Four real arched side openings lead into one unobstructed central space. The round cap and corner fields share exact shell vertices; this is not a hemispherical old dome placed on an existing vault, two crossed cylindrical roofs, a roof recolour or added pier count. The old groin-vault bay has diagonal cylinder-intersection groins; this new whole shell has continuous spherical curvature without those creases. Three opaque constant PBR appearances distinguish the integral upper exterior cap, stone inner/corner shell and pier bodies. All numeric geometry newly authored, no old model imported. Metres Z-up and horizontal complete-envelope centred ground origin, one complete static architectural module zero scenes. Artistic spherical sail-vault exterior only: no structural thrust, load capacity, precise historic construction, weatherproofing, installation, modular fit, accessibility, building-code or safety claim; no animation or interactive construction.",
+  "bounds": {
+    "x": 2.96,
+    "y": 2.96,
+    "z": 2.91205627485,
+    "unit": "m"
+  },
+  "triangles": 3120,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/classical/architecture-whole-spherical-sail-vault-and-four-piers-01/v1.0.0/model.glb",
+      "size": 215912,
+      "sha256": "0a6f587ea2be92692b1aa99b5bac2edab1ebbe98ef50e8118716d90c3f7c26a7"
+    },
+    "blend": {
+      "path": "assets/classical/architecture-whole-spherical-sail-vault-and-four-piers-01/v1.0.0/source.blend",
+      "size": 745528,
+      "sha256": "3c61d4c210d5f33b1936382f7894efff8eabc9cb2dea66624a55fe47b7af61c4"
+    },
+    "generator": {
+      "path": "assets/classical/architecture-whole-spherical-sail-vault-and-four-piers-01/v1.0.0/generate.py",
+      "size": 12014,
+      "sha256": "26eb16ab576b5a7e4daf396d5071bcc0e0e400d0caf7416e7255254b1edc5b4f"
+    },
+    "render": {
+      "path": "assets/classical/architecture-whole-spherical-sail-vault-and-four-piers-01/v1.0.0/thumbnail.png",
+      "size": 424741,
+      "sha256": "e56a6ead6c9d37b0a600e435553ec05b8a313b8966b80626bd18dec695be4979"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

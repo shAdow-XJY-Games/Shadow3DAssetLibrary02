@@ -1,0 +1,42 @@
+{
+  "id": "public-fixed-double-foot-and-t-grip-floor-pump-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "public",
+  "style": "source-preserved-low-poly",
+  "title": "Fixed Double Foot and T Grip Floor Pump",
+  "description": "One newly authored complete static T-handle floor-pump appearance. A continuous broad double-wing foot with two finite pads supports a tall thick bored cylinder, full upper gland and independent fixed raised plunger rod. One full transverse T shaft carries two whole palm grips. A low tilted round housing has a recessed blank opaque face; one continuous curved hose runs from its lower side socket around to a short fixed chuck retained at the upper barrel. The chuck has a finite mouth recess and a complete short lever. All numeric geometry new, not the village water pump with its spout removed, nor a barrel extracted from the paired-crank bell-chamber bench. Three opaque PBR roles, metres Z up and bounds-centred grounded origin; one prop zero scenes. Fixed exterior only: no pressure readings, pumping, inflation, internal valves, air circuit, hose compatibility, plunger or chuck motion, ergonomics, manufacturing, operating instructions or safety claim. Rigging animation interaction not made.",
+  "bounds": {
+    "x": 0.464977890253067,
+    "y": 0.24777190387248993,
+    "z": 0.8140000104904175,
+    "unit": "m"
+  },
+  "triangles": 2604,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/public/public-fixed-double-foot-and-t-grip-floor-pump-01/v1.0.0/model.glb",
+      "size": 234048,
+      "sha256": "57b521fcf8d506314eb9d576a8d3335211f6916a945df9218e67fa6ddd9f353d"
+    },
+    "blend": {
+      "path": "assets/public/public-fixed-double-foot-and-t-grip-floor-pump-01/v1.0.0/source.blend",
+      "size": 918432,
+      "sha256": "937a5c55264f8695bd96b8078cdee03be038a166e2237c146b4779dda08f7d20"
+    },
+    "generator": {
+      "path": "assets/public/public-fixed-double-foot-and-t-grip-floor-pump-01/v1.0.0/generate.py",
+      "size": 17387,
+      "sha256": "4ca34057ad83d5df1d5917ec4622fd33173fc35c5bff94d1e6590c0a97cde509"
+    },
+    "render": {
+      "path": "assets/public/public-fixed-double-foot-and-t-grip-floor-pump-01/v1.0.0/thumbnail.png",
+      "size": 464336,
+      "sha256": "09326138747fb7f2c148652a2b9d57e0b3af88d2c10af8867a068a73ed8fc132"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
