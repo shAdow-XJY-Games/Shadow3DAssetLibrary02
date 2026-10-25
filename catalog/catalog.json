@@ -1509,6 +1509,11 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary02",
       "commit": "a38a6981765796d59a0376dbc2ec987a49c51817"
+    },
+    "original-qualified-batch-1158-volume02-20261025": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary02",
+      "commit": "92fa5d6ea0dac000826c3290316a95992f31392f"
     }
   },
   "assets": [
@@ -51176,6 +51181,135 @@
       "status": "verified",
       "license": "All rights reserved",
       "sourceId": "original-qualified-batch-1155-volume02-20261025"
+    },
+    {
+      "id": "animal-static-flattened-segmented-long-leg-centipede-01",
+      "version": "1.0.0",
+      "category": "modular",
+      "assetKind": "prop",
+      "theme": "animal",
+      "style": "warm-handcrafted-village",
+      "title": "Static Flattened-Segmented Long-Leg Centipede",
+      "description": "One newly authored whole static stylised centipede-like animal. A broad low head joins one continuous gently curved flattened dorsal trunk with real shallow intersegment waists and tapered rear. Long articulated-looking lateral legs reach outward from successive body segments, with a deliberately longer backward-directed terminal pair, rather than a soft grub with short grouped prolegs. Two long fine forward antennae and small lateral eye details complete the head. Whole head and flat body cross-sections, segment progression and all leg paths are newly authored, not extra legs attached to an old caterpillar or an earwig stretched behind its wing covers. One whole animal model zero scenes. Simplified fixed opaque exterior; no exact species, biological leg number, venom, bite, hunting, gait, rig or animation claim.",
+      "bounds": {
+        "x": 1.264950275,
+        "y": 3.795131207,
+        "z": 0.363946259,
+        "unit": "m"
+      },
+      "triangles": 2796,
+      "materials": 4,
+      "files": {
+        "glb": {
+          "path": "assets/animal/animal-static-flattened-segmented-long-leg-centipede-01/v1.0.0/model.glb",
+          "size": 173444,
+          "sha256": "cd4ec9ffac1c914a61cc0933f9a29c891267ca82e1fd726815ee4a7952e3e0b6"
+        },
+        "blend": {
+          "path": "assets/animal/animal-static-flattened-segmented-long-leg-centipede-01/v1.0.0/source.blend",
+          "size": 771164,
+          "sha256": "27ddb98fbca96e34fb86d471a34a063300a124e2c90fa51baa7ddf1cf7f204fd"
+        },
+        "generator": {
+          "path": "assets/animal/animal-static-flattened-segmented-long-leg-centipede-01/v1.0.0/generate.py",
+          "size": 29596,
+          "sha256": "accbc0bfcf1aefa1ee1aed872a27b7ec03f36bf3b286904a1f41e2dd36bebcd3"
+        },
+        "render": {
+          "path": "assets/animal/animal-static-flattened-segmented-long-leg-centipede-01/v1.0.0/thumbnail.png",
+          "size": 488986,
+          "sha256": "d066824dc94f22d3a9878d1b5dfc9078d09fb453fcda834b9c35ab595a3e545c"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1158-volume02-20261025"
+    },
+    {
+      "id": "art-fixed-sloping-bed-and-deep-well-inkstone-box-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "art",
+      "style": "S01-clean-geometric",
+      "title": "Fixed Sloping Bed and Deep Well Inkstone Box",
+      "description": "One newly authored whole empty calligraphy inkstone-box appearance, counted as one complete set rather than separate body and lid assets. A single shared-vertex thick rectangular stone body joins a long shallow sloping grinding bed to a noticeably deeper terminal blind well through one continuous steeper transition. The full surrounding rim, side walls and finite base remain one closed material shell; this is neither an even-depth trough nor a flat slab with cosmetic painted reservoir. A whole matching low cover with an integral smaller underside plug lies separately beside it, with a positive full-body gap. Unlike the old deep round mortar and pedestal this has no deep cup or loose pestle; unlike the broad-foot muller set it has a true variable-depth receiving cavity and a cover rather than a solid planar board and upright grinding tool. All numeric geometry newly authored. Two opaque constant PBR materials, metres Z up, horizontal-bounds-centred ground datum. One whole craft prop zero scenes. Generic static inkstone-inspired visual only, not a particular historical or cultural reconstruction. No ink, liquid, grinding, fluid behaviour, material authenticity, chemical suitability, water sealing, lid fit under motion, manufacture or safe-use claim. No rigging, animation or interaction.",
+      "bounds": {
+        "x": 0.4149999999999999,
+        "y": 0.32,
+        "z": 0.055,
+        "unit": "m"
+      },
+      "triangles": 176,
+      "materials": 4,
+      "files": {
+        "glb": {
+          "path": "assets/art/art-fixed-sloping-bed-and-deep-well-inkstone-box-01/v1.0.0/model.glb",
+          "size": 8140,
+          "sha256": "9fdab7ad99548218ce88de10b052904a507557d12b0d8fb647eea2266fd56346"
+        },
+        "blend": {
+          "path": "assets/art/art-fixed-sloping-bed-and-deep-well-inkstone-box-01/v1.0.0/source.blend",
+          "size": 512532,
+          "sha256": "59052455600967d1ba46125f6d256033d58e780257c580f8e8a2f39dbe3dbb69"
+        },
+        "generator": {
+          "path": "assets/art/art-fixed-sloping-bed-and-deep-well-inkstone-box-01/v1.0.0/generate.py",
+          "size": 11172,
+          "sha256": "59f6fe894f2512a90fea0a96a5bad09cf6c5cd546bbf4a3209fb52fe95dc599a"
+        },
+        "render": {
+          "path": "assets/art/art-fixed-sloping-bed-and-deep-well-inkstone-box-01/v1.0.0/thumbnail.png",
+          "size": 375135,
+          "sha256": "bf7f6ca75799d73872df709990c4922bd8706cc0f4cd48e4031fe60a8a8d077d"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1158-volume02-20261025"
+    },
+    {
+      "id": "fantasy-static-open-ribcage-and-two-leg-skeleton-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "magic",
+      "style": "S01-clean-geometric",
+      "title": "Static Open Ribcage and Two Leg Skeleton",
+      "description": "One complete newly authored fictional standing biped skeleton on a dedicated low plinth. A vertically joint-swollen spine connects a short open pelvic ring, stacked paired three-dimensional rib arches and front sternum, narrow neck and hollow cranium. Two actual forward eye orbits and a smaller nose opening pierce the thick skull shell; a complete U-shaped lower jaw leaves a real mouth gap below the blunt upper tooth silhouettes. Two full arm chains terminate in simplified hands, while two full long leg chains end in broad finite forefeet on the low base. All poses, sections, skull shell and rib paths newly authored, not the existing quadruped skeleton rotated upright, a centaur trimmed, or old fish ribs multiplied. Three opaque PBR materials, metres Z-up and horizontal complete-envelope centred ground origin, one whole static fantasy figure zero scenes. Fictional non-gory art only: no real human anatomical fidelity, actual bone count, medical, scientific or educational accuracy, balance, gait, articulation, rig, animation, collision or safety claim. No weapon, blood, injury or separately counted bones.",
+      "bounds": {
+        "x": 0.8396360354971288,
+        "y": 0.42000000000000004,
+        "z": 1.891,
+        "unit": "m"
+      },
+      "triangles": 5532,
+      "materials": 3,
+      "files": {
+        "glb": {
+          "path": "assets/magic/fantasy-static-open-ribcage-and-two-leg-skeleton-01/v1.0.0/model.glb",
+          "size": 350596,
+          "sha256": "2e9a884f46e8a8b7c62830b661840ca2beaf315599f618a771b40bcaddfec891"
+        },
+        "blend": {
+          "path": "assets/magic/fantasy-static-open-ribcage-and-two-leg-skeleton-01/v1.0.0/source.blend",
+          "size": 1046612,
+          "sha256": "60fe73a82d223f3615aa1a9db07ca1a09e4de5770c1d00fa42605c9f4ed6ddcd"
+        },
+        "generator": {
+          "path": "assets/magic/fantasy-static-open-ribcage-and-two-leg-skeleton-01/v1.0.0/generate.py",
+          "size": 14056,
+          "sha256": "1a30cd94ac6b03f22c8e778609b1d6ee3d06b3479cac8461d230fc54ecdcc3f0"
+        },
+        "render": {
+          "path": "assets/magic/fantasy-static-open-ribcage-and-two-leg-skeleton-01/v1.0.0/thumbnail.png",
+          "size": 364241,
+          "sha256": "16e524e07cb60549e49fd705c8514f174d4705c6bb7e9e11767395c0e1fd34a9"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1158-volume02-20261025"
     }
   ]
 }
