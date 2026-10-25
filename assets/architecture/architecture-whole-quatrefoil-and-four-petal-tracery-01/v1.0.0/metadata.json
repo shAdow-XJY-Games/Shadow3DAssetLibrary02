@@ -1,0 +1,42 @@
+{
+  "id": "architecture-whole-quatrefoil-and-four-petal-tracery-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "architecture",
+  "style": "S01-clean-geometric",
+  "title": "Whole Quatrefoil and Four Petal Tracery",
+  "description": "One newly authored complete unglazed circular architectural tracery insert. One shared-vertex thick stone-look shell joins a broad stepped outer annular frame, a continuous central four-lobed curved aperture border and four narrow diagonal connectors, leaving four real broad curved petal apertures around the central opening. All five openings pass through the finite depth; front and back outer lips project beyond the integral tracery faces. Three opaque PBR surface regions belong to one continuous mesh, not flat hole decals, floating strips or a wheel with a central axle. No host wall, glass, masonry seams or support stand is included. Entire geometry newly drawn, not an old rectangular crossbar window rounded or handwheel relabelled. Metre Z-up and full horizontal-envelope-centred minimum-Z origin. One static wall-insert prop, zero scenes; architectural game-art only, no actual building installation, structural load, glazing specification, historical authenticity or safety. No motion, animation, interaction or functional wheel.",
+  "bounds": {
+    "x": 2.04,
+    "y": 0.28,
+    "z": 2.04,
+    "unit": "m"
+  },
+  "triangles": 1808,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/architecture/architecture-whole-quatrefoil-and-four-petal-tracery-01/v1.0.0/model.glb",
+      "size": 74672,
+      "sha256": "f8f604adc189f823e5eda351cde63646a5e76f551c37dd61551d7d2f87668b69"
+    },
+    "blend": {
+      "path": "assets/architecture/architecture-whole-quatrefoil-and-four-petal-tracery-01/v1.0.0/source.blend",
+      "size": 619108,
+      "sha256": "2c220c0b0753cd2af83684584fba9e5d263dbeb1ae25bb25f1bc7c0482d1c41a"
+    },
+    "generator": {
+      "path": "assets/architecture/architecture-whole-quatrefoil-and-four-petal-tracery-01/v1.0.0/generate.py",
+      "size": 11230,
+      "sha256": "ddfd04b8c748e7c3f654d98b48fde61e7af381ca1f8b348dd1c6e89d366130b1"
+    },
+    "render": {
+      "path": "assets/architecture/architecture-whole-quatrefoil-and-four-petal-tracery-01/v1.0.0/thumbnail.png",
+      "size": 445286,
+      "sha256": "b9425fe2172b62ffec2b7f8c9a0b20084162dbc5d098ad6f360a22cc50c0d61d"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
