@@ -1,0 +1,42 @@
+{
+  "id": "aviation-fixed-radial-finned-heads-and-annular-collector-engine-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "aviation",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Radial Finned Heads and Annular Collector Engine",
+  "description": "One newly authored complete radial-cylinder aircraft-engine-style exterior on its own whole display carrier. A common rounded central crankcase and front domed timing cover carry a forward fixed output stub/flange. Five complete integral-finned cylinders radiate around the entire case, each with a newly drawn shouldered head and two whole front pushrod-tube exteriors rooted into the common timing cover. Behind the heads, full separate branch exteriors converge onto one continuous annular collector exterior, with a genuine central open region. Two sloping rear supports root the entire engine into a connected low twin-rail ground carrier. This complete radial case/head/front-rod/rear-ring topology is not a twin-cylinder receiver compressor with more cylinders or a steam beam engine with its lever shortened. There is no receiver tank, belt/pulley drive, tall walking beam, external flywheel or imported old mesh. All visible geometry newly authored as one complete standalone prop, zero scenes or separately counted parts; four opaque constant PBR materials, metres, native Z up and whole horizontal-bounds-centred ground origin. Static exterior only, solid crankcase/cylinder internals and no propeller or airframe supplied. No combustion, fuel, pressure, cooling, exhaust routing, valve timing, engine cycle, shaft rotation, power, performance, flight, attachment compatibility, manufacture or equipment safety capability is made or verified. Rigging, animation and interaction are not made or verified.",
+  "bounds": {
+    "x": 1.982938,
+    "y": 1.12,
+    "z": 2.19,
+    "unit": "m"
+  },
+  "triangles": 8588,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/aviation/aviation-fixed-radial-finned-heads-and-annular-collector-engine-01/v1.0.0/model.glb",
+      "size": 479604,
+      "sha256": "cade28b02c4a80f65fd46b2cba6f2c14d22e278e322e424b64c7d3f1aad7a80e"
+    },
+    "blend": {
+      "path": "assets/aviation/aviation-fixed-radial-finned-heads-and-annular-collector-engine-01/v1.0.0/source.blend",
+      "size": 1148580,
+      "sha256": "17e3100743b21739341d2476abb765dbf7f3d126a06c0245aada9e9b0640a4e2"
+    },
+    "generator": {
+      "path": "assets/aviation/aviation-fixed-radial-finned-heads-and-annular-collector-engine-01/v1.0.0/generate.py",
+      "size": 27262,
+      "sha256": "2beeae5ea43780cb3bea93229c288b92910b8df81e36099b8f913349dfa63b2d"
+    },
+    "render": {
+      "path": "assets/aviation/aviation-fixed-radial-finned-heads-and-annular-collector-engine-01/v1.0.0/thumbnail.png",
+      "size": 559214,
+      "sha256": "60720e2b361caccbd74b9b9551fb10f3887b7499c908c9bcd7b4c0ed6039bce3"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
