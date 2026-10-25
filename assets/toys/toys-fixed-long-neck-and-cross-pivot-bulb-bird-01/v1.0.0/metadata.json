@@ -1,0 +1,42 @@
+{
+  "id": "toys-fixed-long-neck-and-cross-pivot-bulb-bird-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "toys",
+  "style": "source-preserved-low-poly",
+  "title": "Fixed Long Neck And Cross Pivot Bulb Bird",
+  "description": "One newly authored complete long-neck bulb-bird toy appearance in a fixed forward-leaning pose. A broad low plinth carries two separate tall side standards with complete bored circular top bearings. One transverse axle passes through the narrow neck of a single continuous lower rounded bulb, long slender stem and smaller round head silhouette. A complete blunt tapered beak, a single thick brim-and-crown hat and two small opaque eyes finish the new whole bird shape. The lower bulb hangs freely above the plinth between the standards; the upper head leans forward of the axle. Unlike the complete hand-cranked wing bird, there are no wing hinges, linkage rods or drive crank, and unlike the stacked laboratory vessel there are no nested chambers, cutaway, inserted long inner stem, fluid mouth or side valve. No old animal, vessel or frame mesh is imported or extracted. One model zero scenes, four opaque constant PBR appearances, metres Z up and whole horizontal envelope centred on the finite plinth underside. This is only a solid opaque stylized static toy exterior, not a real fluid-filled glass apparatus. No transparent glass, liquid, thermal cycle, evaporation, pressure, drinking, automatic rocking, balancing, working pivot, physical stability, toy operation, child suitability, handling, fabrication or safety capability. Rigging, animation and interaction are not made.",
+  "bounds": {
+    "x": 0.41999998688697815,
+    "y": 0.49000000953674316,
+    "z": 0.7952438592910767,
+    "unit": "m"
+  },
+  "triangles": 1760,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/toys/toys-fixed-long-neck-and-cross-pivot-bulb-bird-01/v1.0.0/model.glb",
+      "size": 156608,
+      "sha256": "3f18aa7ef8b6dba7089385084b7d47fd7062025a9c8455e5c7517ff45da248d1"
+    },
+    "blend": {
+      "path": "assets/toys/toys-fixed-long-neck-and-cross-pivot-bulb-bird-01/v1.0.0/source.blend",
+      "size": 804736,
+      "sha256": "c5fc9411c4bc1ab92a7c484d3cc0fac92bf3d0e329ee9be58fd04fec28d6a45a"
+    },
+    "generator": {
+      "path": "assets/toys/toys-fixed-long-neck-and-cross-pivot-bulb-bird-01/v1.0.0/generate.py",
+      "size": 17056,
+      "sha256": "8494f50a1453579c740e166b81eac2f1bc765b5dcc699187e48480d617aec860"
+    },
+    "render": {
+      "path": "assets/toys/toys-fixed-long-neck-and-cross-pivot-bulb-bird-01/v1.0.0/thumbnail.png",
+      "size": 482101,
+      "sha256": "cf6f56032039996f4868869b95459b426be9decd613137600b1b23084392a32f"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

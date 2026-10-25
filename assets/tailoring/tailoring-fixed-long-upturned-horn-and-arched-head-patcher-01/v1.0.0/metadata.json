@@ -1,0 +1,42 @@
+{
+  "id": "tailoring-fixed-long-upturned-horn-and-arched-head-patcher-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "tailoring",
+  "style": "source-preserved-low-poly",
+  "title": "Fixed Long Upturned Horn and Arched Head Patcher",
+  "description": "One newly authored complete fixed long-horn shoe-patching-sewing-machine-style exterior. Two full long ground shoes and angled risers support a compact saddle and a single high arched upper neck/column. A separate entire tapered round horn projects far forward from that column and curves up to a small closed tip under the blunt fixed needle and forked presser appearance; there is no flat tabletop or broad lower sewing bed. A full open four-spoke side handwheel, distinct hub and offset grip, plain top spool, tension boss, fixed lower treadle and one exterior linkage complete the whole machine. All geometry newly authored, not an old flat-bed workstation with its tabletop deleted or a compact overlock machine stretched. Three opaque PBR roles, metres and centred grounded origin, one prop zero scenes. Empty static illustration only: no needle motion, sewing, transmission, fabric or shoe compatibility, ergonomics, manufacturing, operating instructions or safety claim. Rigging animation and interaction not made.",
+  "bounds": {
+    "x": 0.8500000238418579,
+    "y": 0.5799999833106995,
+    "z": 1.4919999837875366,
+    "unit": "m"
+  },
+  "triangles": 2144,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/tailoring/tailoring-fixed-long-upturned-horn-and-arched-head-patcher-01/v1.0.0/model.glb",
+      "size": 199008,
+      "sha256": "74632c631e6b413fc64d1e654f5a1cc87fb1a0e1157b94be81967216bcca4493"
+    },
+    "blend": {
+      "path": "assets/tailoring/tailoring-fixed-long-upturned-horn-and-arched-head-patcher-01/v1.0.0/source.blend",
+      "size": 895136,
+      "sha256": "313c9cfa90622dee233157fc269dc1a12b44b012f8351aaa1f7cbf9e300a4ae3"
+    },
+    "generator": {
+      "path": "assets/tailoring/tailoring-fixed-long-upturned-horn-and-arched-head-patcher-01/v1.0.0/generate.py",
+      "size": 18034,
+      "sha256": "26c9aa063280062478fbef609480ba30213faaef3cd038409f89e045907773f6"
+    },
+    "render": {
+      "path": "assets/tailoring/tailoring-fixed-long-upturned-horn-and-arched-head-patcher-01/v1.0.0/thumbnail.png",
+      "size": 485363,
+      "sha256": "29742c46d355408f256490853d09c14b32ba653e6db2039686a275fc6c6a376c"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
