@@ -1,0 +1,42 @@
+{
+  "id": "carnival-fixed-pegged-prize-wheel-and-tripod-column-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "carnival",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Pegged Prize Wheel and Tripod Column",
+  "description": "One newly authored complete static vertical prize-wheel stand exterior. Three full splayed arms end on broad grounded shoes and support a single tall rear column. A whole thick annular upright wheel sits on a transverse shaft between two full retaining caps; its radial colour sectors are assigned to original continuous wheel faces, not overlapping paper discs. Twenty-four short whole perimeter pegs project from the face, and a complete top cantilever carries a fixed tapered indicator above the rim. The through-axle column-and-flat-wheel arrangement is not the old horizontal deep race bowl with nested conical pocket rotor, nor the suspended bossed gong carried by two rope loops. Every profile and support is newly authored, no old wheel or frame mesh imported. One prop, zero scenes; four opaque constant PBR roles, metres, Z up and horizontally bounds-centred ground origin. Blank unnumbered illustrative display only: no spinning, flapper action, fair randomness, odds, prizes, gambling functionality, mechanical stability, load, installation, manufacture or safety claim. Rigging, animation and interaction are not made.",
+  "bounds": {
+    "x": 1.06,
+    "y": 0.858,
+    "z": 1.8399999999999999,
+    "unit": "m"
+  },
+  "triangles": 2336,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/carnival/carnival-fixed-pegged-prize-wheel-and-tripod-column-01/v1.0.0/model.glb",
+      "size": 125848,
+      "sha256": "55a127fbdea56aafe66d82cbb262ea9e1c0d383d6d51e1c9559ded2c19e8a62f"
+    },
+    "blend": {
+      "path": "assets/carnival/carnival-fixed-pegged-prize-wheel-and-tripod-column-01/v1.0.0/source.blend",
+      "size": 842440,
+      "sha256": "452e9abfee09a7e068349ace984ead5f30479690307ad98cd1b4edda53e66b8a"
+    },
+    "generator": {
+      "path": "assets/carnival/carnival-fixed-pegged-prize-wheel-and-tripod-column-01/v1.0.0/generate.py",
+      "size": 10837,
+      "sha256": "56c41789ab2bfd79be48ce4514b9d2e5cdb303589d6c917b6998e374aa46736b"
+    },
+    "render": {
+      "path": "assets/carnival/carnival-fixed-pegged-prize-wheel-and-tripod-column-01/v1.0.0/thumbnail.png",
+      "size": 396993,
+      "sha256": "5a271d089d18758d1b25d6c243584c8a84ba3d9bfa5c52056757d741f8f774ea"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

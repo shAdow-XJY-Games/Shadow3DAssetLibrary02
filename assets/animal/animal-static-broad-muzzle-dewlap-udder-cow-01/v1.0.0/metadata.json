@@ -1,0 +1,42 @@
+{
+  "id": "animal-static-broad-muzzle-dewlap-udder-cow-01",
+  "version": "1.0.0",
+  "category": "modular",
+  "assetKind": "prop",
+  "theme": "animal",
+  "style": "warm-handcrafted-village",
+  "title": "Whole Broad Muzzle Dewlap and Udder Cow",
+  "description": "One newly authored complete static bovine animal appearance. A long deep broad barrel and haunches stand on four whole finite-soled legs; a lower thick neck with integral hanging dewlap continues into a broad blunt descending muzzle. Two lateral ears, two short outward-upturned horns, two seated eyes, a small complete underside udder with four short blunt teats, and a thin hanging tail ending in a widened tuft form the full silhouette. No high horse mane or arched crest, no sheep fleece or spiral horns, no old animal meshes recolored or rescaled. Faceted stylized exterior only, not exact breed or veterinary anatomy. One model zero scenes. No rig, animation, behavior, milking, biological simulation, use or safety claim.",
+  "bounds": {
+    "x": 1.059999943,
+    "y": 3.0,
+    "z": 2.273008823,
+    "unit": "m"
+  },
+  "triangles": 1972,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/animal/animal-static-broad-muzzle-dewlap-udder-cow-01/v1.0.0/model.glb",
+      "size": 115948,
+      "sha256": "c5babd8bcb3097cfb5a4190e6594670f67eab7fd22c962894b036932614d3c66"
+    },
+    "blend": {
+      "path": "assets/animal/animal-static-broad-muzzle-dewlap-udder-cow-01/v1.0.0/source.blend",
+      "size": 678504,
+      "sha256": "94a22224d80b94eef842d140df8bf1ba0f672c4f4600f212d01fb43e8669700d"
+    },
+    "generator": {
+      "path": "assets/animal/animal-static-broad-muzzle-dewlap-udder-cow-01/v1.0.0/generate.py",
+      "size": 31066,
+      "sha256": "6bea9a2bd6c0b6e0f9774909e88cda30ccb4b223bfdb0d551f22f083ab2e490a"
+    },
+    "render": {
+      "path": "assets/animal/animal-static-broad-muzzle-dewlap-udder-cow-01/v1.0.0/thumbnail.png",
+      "size": 492297,
+      "sha256": "cbb0c7b68e2dec8f882186b6432cf28d511482a016c5a6f7c092e1cdb88f3a5c"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

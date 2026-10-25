@@ -1,0 +1,42 @@
+{
+  "id": "sports-fixed-four-eccentric-lobes-and-loop-stem-cam-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "sports",
+  "style": "source-preserved-low-poly",
+  "title": "Fixed Four Eccentric Lobes And Loop Stem Cam",
+  "description": "One newly authored complete fixed four-lobe climbing-cam exterior. Four separately editable short thick asymmetric eccentric plates lie in alternating directions along one common full axle. A complete central neck and continuous long twin-strand loop stem join that head to a true empty attachment loop. An independent wide trigger crossbar and four complete thin fixed links connect to the individual lobe plates. The whole object lies on the finite flat underside of its lowest full plate. Unlike the old two-solid D frame and gate, this whole has an articulated-looking stacked eccentric head and long loop stem, not a closing gate. Unlike the old three-hook puller, there is no radial yoke of long inward hook jaws, pressure spindle or hex screw. All numeric geometry newly authored; no old mesh imported or extracted. One prop zero scenes, four opaque constant PBR roles, metre units Z up. Fixed stylized overlaps only, no spring simulation, moving cam, mechanical linkage or real cam curve calculation. No expansion, grip, locking, crack fit, load, climbing, rescue, fall arrest, protective equipment, manufacture, real-world use or safety performance represented. Static decorative game art only; rigging animation and interaction not made.",
+  "bounds": {
+    "x": 0.12399999797344208,
+    "y": 0.296999990940094,
+    "z": 0.07400000095367432,
+    "unit": "m"
+  },
+  "triangles": 636,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/sports/sports-fixed-four-eccentric-lobes-and-loop-stem-cam-01/v1.0.0/model.glb",
+      "size": 64384,
+      "sha256": "08b70cc9cb3377e948a9d604ea351be26270963972660126d2955aad170db2c2"
+    },
+    "blend": {
+      "path": "assets/sports/sports-fixed-four-eccentric-lobes-and-loop-stem-cam-01/v1.0.0/source.blend",
+      "size": 692960,
+      "sha256": "1d7c10a7011dfee8806b730f42e9a92eb667588c62bae64f3600129007d4b925"
+    },
+    "generator": {
+      "path": "assets/sports/sports-fixed-four-eccentric-lobes-and-loop-stem-cam-01/v1.0.0/generate.py",
+      "size": 18125,
+      "sha256": "24bdcebc4fbca8dbd13d7104ba170614c5bb7b946876d2b2a5e3feef84a860e7"
+    },
+    "render": {
+      "path": "assets/sports/sports-fixed-four-eccentric-lobes-and-loop-stem-cam-01/v1.0.0/thumbnail.png",
+      "size": 523585,
+      "sha256": "490462ed5c13f6332a0bf26c4083291f823b65df4690a319213d0ad373186d34"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

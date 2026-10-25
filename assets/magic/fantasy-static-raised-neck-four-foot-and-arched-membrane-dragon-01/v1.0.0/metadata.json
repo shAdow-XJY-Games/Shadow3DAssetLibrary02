@@ -1,0 +1,42 @@
+{
+  "id": "fantasy-static-raised-neck-four-foot-and-arched-membrane-dragon-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "magic",
+  "style": "S01-clean-geometric",
+  "title": "Static Raised Neck Four Foot and Arched Membrane Dragon",
+  "description": "One independently authored complete static fantasy dragon character. A single continuous volumetric mesh forms the long muzzle, raised broad head, high curved neck, deep torso and long laterally swept tapering tail, with integral belly and closed-mouth colour regions. Four whole stout bent limbs meet four complete thick three-claw flat feet with true intertoe clefts. Two backward-swept tapering horns and embedded lateral eyes distinguish the head. Two entire obliquely spread thick scalloped membranes and their complete leading arm/finger ridges root at the shoulders. All main sections, contours and numeric construction are newly drawn; no old bat wing, crocodilian body or ceremonial dragonboat head is imported, rescaled, extracted or reassembled. One stylized character prop, zero scenes; five opaque constant untextured PBR roles, metres, Z up, full horizontal bounds-centred four-foot ground origin. Fixed sculptural game-art pose only, not biological/species anatomy, flight, living-animal care, physical stability, fabrication or safety. Rigging, skeletal animation, motion, interactions and collision behaviour are not produced or verified; no such function is part of this static delivery.",
+  "bounds": {
+    "x": 3.3,
+    "y": 3.65,
+    "z": 2.3,
+    "unit": "m"
+  },
+  "triangles": 2168,
+  "materials": 5,
+  "files": {
+    "glb": {
+      "path": "assets/magic/fantasy-static-raised-neck-four-foot-and-arched-membrane-dragon-01/v1.0.0/model.glb",
+      "size": 159584,
+      "sha256": "f9eb6a629a1c52677da87c5c9b28b2bdafee37939716b87493fd47077a94faf2"
+    },
+    "blend": {
+      "path": "assets/magic/fantasy-static-raised-neck-four-foot-and-arched-membrane-dragon-01/v1.0.0/source.blend",
+      "size": 763508,
+      "sha256": "ee1f32f55c8e817b9073cfda138bbd46b0794d8deb064e85a1b4ee6c5fbd9f88"
+    },
+    "generator": {
+      "path": "assets/magic/fantasy-static-raised-neck-four-foot-and-arched-membrane-dragon-01/v1.0.0/generate.py",
+      "size": 27824,
+      "sha256": "ab4407a8170e321c2501465a68b34dc3bf208710b9bdb33d0f28de3e2489f14a"
+    },
+    "render": {
+      "path": "assets/magic/fantasy-static-raised-neck-four-foot-and-arched-membrane-dragon-01/v1.0.0/thumbnail.png",
+      "size": 512197,
+      "sha256": "4fe5bb213d9943852f0cb02e285555691a41e2e32dffa4febf6198273a40eb65"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

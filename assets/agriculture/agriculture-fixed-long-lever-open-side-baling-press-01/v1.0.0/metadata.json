@@ -1,0 +1,42 @@
+{
+  "id": "agriculture-fixed-long-lever-open-side-baling-press-01",
+  "version": "1.0.0",
+  "category": "modular",
+  "assetKind": "prop",
+  "theme": "agriculture",
+  "style": "warm-handcrafted-village",
+  "title": "Fixed Long Lever and Open Side Baling Press",
+  "description": "One complete newly authored static farm baling-press appearance. A deep rectangular empty chamber on one broad grounded base has full thick floor and three tall walls, with one whole front unloading gate fixed outward on a real full hinge. Two high rear timber posts and crossbeam carry a single long inclined hand lever with transverse grip. A full square ram and raised rectangular platen remain inside the chamber, guided between two separated cheeks with a visible fixed retaining pin. Unlike the round slatted fruit press, there is no screw, liquid tray or circular basket. Unlike the small C-throat rack press, there is a deep full rectangular loading chamber and large outward unloading gate, not a toothed ram or pinion. No parts reused from old machinery. One static model zero scenes; empty. No actual compression, bale production, hinge travel, mechanical advantage, pinch safety, manufacture, stability or load claim.",
+  "bounds": {
+    "x": 1.866000056,
+    "y": 2.309999943,
+    "z": 2.055000067,
+    "unit": "m"
+  },
+  "triangles": 368,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/agriculture/agriculture-fixed-long-lever-open-side-baling-press-01/v1.0.0/model.glb",
+      "size": 31968,
+      "sha256": "4ccaa92934fd6d09d51b0c7edf82313a29a93e88ac260275fdc6cc779317f55e"
+    },
+    "blend": {
+      "path": "assets/agriculture/agriculture-fixed-long-lever-open-side-baling-press-01/v1.0.0/source.blend",
+      "size": 628544,
+      "sha256": "957033027a122bb027b0e89af7c9bada7616504d73d9d5b889405a85b8571358"
+    },
+    "generator": {
+      "path": "assets/agriculture/agriculture-fixed-long-lever-open-side-baling-press-01/v1.0.0/generate.py",
+      "size": 31201,
+      "sha256": "e3e08dd2914df1f3058f61319344ce1e13a4ee71b089015925dce62afa377d06"
+    },
+    "render": {
+      "path": "assets/agriculture/agriculture-fixed-long-lever-open-side-baling-press-01/v1.0.0/thumbnail.png",
+      "size": 537294,
+      "sha256": "aca1accb0260e9a133bf216958b85d107de860608759e5b6cf9b7106724c8bbb"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

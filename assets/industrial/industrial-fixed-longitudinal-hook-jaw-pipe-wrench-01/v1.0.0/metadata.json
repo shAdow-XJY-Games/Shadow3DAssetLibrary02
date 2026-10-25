@@ -1,0 +1,42 @@
+{
+  "id": "industrial-fixed-longitudinal-hook-jaw-pipe-wrench-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "industrial",
+  "style": "source-preserved-low-poly",
+  "title": "Fixed Longitudinal Hook Jaw Pipe Wrench",
+  "description": "One newly authored complete fixed longitudinal-hook-jaw pipe-wrench appearance. A whole long cast handle joins a thick side spine and two separate-length bored guide regions as one continuous body. A complete long rectangular hook stem passes longitudinally through those real channels and ends in a broad upper hooked jaw with full blunt serrations. One opposed lower heel jaw is rooted on the cast head, leaving a visible open mouth. A whole annular ridged adjustment nut surrounds the stem in the interruption between the guide collars; a shallow complete grip inset finishes the handle. All geometry new, not the earlier transverse sliding flat-jaw adjustable wrench with added teeth or an open C roller cutter recoloured. Three opaque materials, one model zero scenes. Static empty visual tool only: no pipe, sharp tooth specification, helical thread engagement, moving adjustment, jaw travel or gripping action, torque, engineering, manufacture, use instructions or safety claim. Rigging animation and interaction not made.",
+  "bounds": {
+    "x": 0.09300000220537186,
+    "y": 0.4909999966621399,
+    "z": 0.04600000008940697,
+    "unit": "m"
+  },
+  "triangles": 2520,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/industrial/industrial-fixed-longitudinal-hook-jaw-pipe-wrench-01/v1.0.0/model.glb",
+      "size": 215956,
+      "sha256": "3b2d007106948d8a778373d248aed28489570cb1a1d405524366d9c57f7fc897"
+    },
+    "blend": {
+      "path": "assets/industrial/industrial-fixed-longitudinal-hook-jaw-pipe-wrench-01/v1.0.0/source.blend",
+      "size": 838464,
+      "sha256": "a6b83cb00da6091294c0ce18b7c20d43ff14e9c473b43b8ad5fdb3945f231fd4"
+    },
+    "generator": {
+      "path": "assets/industrial/industrial-fixed-longitudinal-hook-jaw-pipe-wrench-01/v1.0.0/generate.py",
+      "size": 15535,
+      "sha256": "cc3aeffe13c9895c867405114ad2377589e63ee5687906a21f108f5cd1ed41ae"
+    },
+    "render": {
+      "path": "assets/industrial/industrial-fixed-longitudinal-hook-jaw-pipe-wrench-01/v1.0.0/thumbnail.png",
+      "size": 472778,
+      "sha256": "05c801fb5a4724231349adb1455745f767b0838e43fc1a679cdb0c4c39ab746f"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
