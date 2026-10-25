@@ -1,0 +1,42 @@
+{
+  "id": "village-fixed-short-hammerbeams-and-high-arch-portal-01",
+  "version": "1.0.0",
+  "category": "architecture",
+  "assetKind": "modular",
+  "theme": "village",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Short Hammerbeams and High Arch Portal",
+  "description": "One complete newly authored fixed hammerbeam-style architectural portal. Two full grounded timber-look posts on broad stone feet carry separate short inward hammerbeams, each with a whole bent lower knee brace. Independent short upper posts connect those stubs to two complete steep principal rafters. Two high curved arch braces rise inward from the hammerbeams to a high collar and short crown upright, leaving the entire low central span without a continuous transverse tie. The open short-beam and high-arch relation differs from the old shallow hangar truss with uninterrupted lower chord and triangular webs, and from the enclosed gambrel half-loft storehouse. All member geometry newly authored, not old beams extracted or repeated web count. Three opaque constant PBR appearances, metres Z-up, horizontal bounds-centred ground origin, one complete architectural module zero scenes. Fixed artistic assembly only; no enclosing roof or building, host interchangeability, timber joinery design, structural load path, span, strength, stability, historical accuracy, manufacture, building-code compliance or construction safety claim. No rigging animation or interaction.",
+  "bounds": {
+    "x": 3.5,
+    "y": 0.64,
+    "z": 3.76,
+    "unit": "m"
+  },
+  "triangles": 296,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/village/village-fixed-short-hammerbeams-and-high-arch-portal-01/v1.0.0/model.glb",
+      "size": 23024,
+      "sha256": "f950add5769110c7b43e3d9ec2b1887e96b0cf0bc873efa30e377378e5b14941"
+    },
+    "blend": {
+      "path": "assets/village/village-fixed-short-hammerbeams-and-high-arch-portal-01/v1.0.0/source.blend",
+      "size": 597652,
+      "sha256": "d17853da00518db2f2d9b82843f722b17c504952c3cd26aad73385ee135e9f35"
+    },
+    "generator": {
+      "path": "assets/village/village-fixed-short-hammerbeams-and-high-arch-portal-01/v1.0.0/generate.py",
+      "size": 11795,
+      "sha256": "0186327acf9063859f13208574ad9cc8c1dbb3d80a59a5e0c91858e5a4535276"
+    },
+    "render": {
+      "path": "assets/village/village-fixed-short-hammerbeams-and-high-arch-portal-01/v1.0.0/thumbnail.png",
+      "size": 435976,
+      "sha256": "a09d9a623fcd5c793c99e2b31d923ba4d0e0583f567fce09b636f1a95abce9b5"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

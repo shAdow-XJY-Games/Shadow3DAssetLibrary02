@@ -1,0 +1,42 @@
+{
+  "id": "industrial-fixed-trunnion-head-and-perforated-index-plate-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "industrial",
+  "style": "source-preserved-low-poly",
+  "title": "Fixed Trunnion Head And Perforated Index Plate",
+  "description": "One newly authored complete fixed tilting dividing-head-style tabletop apparatus. A broad low plinth and two complete bored trunnion cheeks support a whole angled spindle housing on a transverse axis. The long housing, its true through spindle bore, a complete bevelled annular front chuck and three fixed stepped open jaws are all constructed for this apparatus. A separate circular side index plate has a central opening and twelve genuine through holes, an outward hub, a whole crank and a fixed small pin entering one hole. A separate fork-side locking handle and two trunnion caps complete the arrangement. This is one complete instrument, not the headstock extracted from the old bench lathe: no bed, ways, sliding saddle or tailstock is used, and the body is carried between two transverse bored cheeks above its own base. It is not the earlier open-slot Geneva wheel with driver peg and locking sector. All numeric geometry is newly written, no old component mesh imported; four opaque constant PBR appearances, metres Z up, one model zero scenes. The fixed illustrated tilt and sparse decorative hole circle do not define working indexing or angular calibration. No worm mechanism is represented or claimed. No rotation, accurate indexing, crank ratio, spindle function, jaw motion, clamping, travel, bearing fit, cutting, manufacturing dimensions, machine installation, load or safety capability. No workpiece, animation, rigging or interactive operation.",
+  "bounds": {
+    "x": 0.6924999952316284,
+    "y": 0.5996646881103516,
+    "z": 0.5809495449066162,
+    "unit": "m"
+  },
+  "triangles": 3512,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/industrial/industrial-fixed-trunnion-head-and-perforated-index-plate-01/v1.0.0/model.glb",
+      "size": 310728,
+      "sha256": "0f3a4fb884150ed5d74b25cb74423d5b07d32e22f4e5b1a65fc989a96a11a33f"
+    },
+    "blend": {
+      "path": "assets/industrial/industrial-fixed-trunnion-head-and-perforated-index-plate-01/v1.0.0/source.blend",
+      "size": 1043296,
+      "sha256": "00fe8d4c5756ba9ca7fd007fdbd743c17d5e1be6d8e08aa1c2210d0dd74696cf"
+    },
+    "generator": {
+      "path": "assets/industrial/industrial-fixed-trunnion-head-and-perforated-index-plate-01/v1.0.0/generate.py",
+      "size": 20381,
+      "sha256": "6bc8d418244e21473ee686b691652bfdde77b01f468e7236766bd9ed62dbe0d7"
+    },
+    "render": {
+      "path": "assets/industrial/industrial-fixed-trunnion-head-and-perforated-index-plate-01/v1.0.0/thumbnail.png",
+      "size": 515332,
+      "sha256": "7b5d5d0df4a871d09598dd2cc6434bdf195ee5b3887ff68fb555bf47357e152a"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

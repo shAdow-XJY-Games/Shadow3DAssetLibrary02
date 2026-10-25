@@ -1,0 +1,42 @@
+{
+  "id": "music-fixed-single-string-stave-and-open-gourd-bow-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "music",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Single String Stave and Open Gourd Musical Bow",
+  "description": "One newly authored complete single-string musical-bow exterior with a genuine open gourd resonator, laid down in one fixed display pose. One full continuously singly curved round wooden stave joins two end bindings and one whole tip-to-tip metal-string appearance. A separate thick bulbous gourd shell with a wide open mouth, full inner wall and blind inner floor sits outside the lower side of the bow, attached by a finite saddle and complete closed binding appearances. The string remains clear of the gourd cavity. Unlike the earlier double-recurve sport bow, there are no two reflex tips or broad central handgrip, and no arrow. Unlike the spike fiddle, there is no straight neck passing through a hexagonal membrane body, peg pair, bridge or two strings over a soundboard; the open side gourd and full arched stave define this whole instrument. All numeric geometry new, no old bow or vessel imported or split. Four opaque PBR roles, metres Z up, whole horizontal bounds centred and a finite gourd underside at Z0. One whole prop zero scenes. Generic berimbau-inspired static art, not a historically exact or verified playable example: no striker or shaker supplied, no acoustics, pitch, string tension, bow elasticity, secure tying, playing posture, manufacture, stability or safe-use claim. No rigging, animation or interaction.",
+  "bounds": {
+    "x": 1.610553122884996,
+    "y": 0.44949999999999996,
+    "z": 0.235,
+    "unit": "m"
+  },
+  "triangles": 2740,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/music/music-fixed-single-string-stave-and-open-gourd-bow-01/v1.0.0/model.glb",
+      "size": 146108,
+      "sha256": "d08d70db7954424222e8df6d23dd1d9ea7b5eb1c3f411226dbe6bf11c610d8d2"
+    },
+    "blend": {
+      "path": "assets/music/music-fixed-single-string-stave-and-open-gourd-bow-01/v1.0.0/source.blend",
+      "size": 725092,
+      "sha256": "e16ac5f9b3282999da1b323db289c8eb8dbc2bb1d300a13a1a343f498584284b"
+    },
+    "generator": {
+      "path": "assets/music/music-fixed-single-string-stave-and-open-gourd-bow-01/v1.0.0/generate.py",
+      "size": 11115,
+      "sha256": "de477a450bd487dbecee7cd50e42836c6e2eea2a3916738c4e96091041ff48f4"
+    },
+    "render": {
+      "path": "assets/music/music-fixed-single-string-stave-and-open-gourd-bow-01/v1.0.0/thumbnail.png",
+      "size": 344218,
+      "sha256": "95dc98d86ac69618511294474e173431336501ea8959709942fd7dfa74623a19"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

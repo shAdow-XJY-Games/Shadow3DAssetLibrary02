@@ -1,0 +1,42 @@
+{
+  "id": "textile-fixed-single-sided-peg-and-continuous-warp-band-loom-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "textile",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Single Sided Peg and Continuous Warp Band Loom",
+  "description": "One newly authored complete one-sided narrow-band weaving-frame appearance. Two full crossfeet carry a low longitudinal side frame, a high rear upright, rising side arm and lower brace. Five complete cantilevered round pegs support eight continuous closed warp-appearance circuits around the entire changing-height route. Every route bends around the actual peg surface rather than ending in disconnected straight painted lines. A separate low transverse heddle bar and four whole genuinely open elongated loops occupy the front upper working span. Unlike the old horizontal four-wing warping cage, this is not an axial rotating framework with two end stands; all pegs project from one side and the thread path stays in a vertical plane. Unlike the full treadle floor loom, there are no two end drums, tall two-shaft castle, beater or treadles. No old mesh imported, extracted or scaled. Four opaque constant PBR roles, metres Z up and horizontal whole-bounds-centred ground origin. One whole static prop zero scenes. Generic inkle-inspired display only, not a validated weaving system: no interlacing sequence, shed change, thread movement, tension, textile result, ergonomic suitability, adjustment, manufacture or safe operation. No rigging, animation or interaction.",
+  "bounds": {
+    "x": 0.68,
+    "y": 0.34,
+    "z": 0.6699999999999999,
+    "unit": "m"
+  },
+  "triangles": 4460,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/textile/textile-fixed-single-sided-peg-and-continuous-warp-band-loom-01/v1.0.0/model.glb",
+      "size": 264072,
+      "sha256": "e19ecb61fd8c265c6c45b1fb7e7077a452dce5f16757b205cde6dbc315b85005"
+    },
+    "blend": {
+      "path": "assets/textile/textile-fixed-single-sided-peg-and-continuous-warp-band-loom-01/v1.0.0/source.blend",
+      "size": 933680,
+      "sha256": "094aac53c407cf8ddd485ca6fa54c9d924eeab09e550ae84de2eb11c5bbea1c3"
+    },
+    "generator": {
+      "path": "assets/textile/textile-fixed-single-sided-peg-and-continuous-warp-band-loom-01/v1.0.0/generate.py",
+      "size": 12180,
+      "sha256": "dec5e24df8716ff6c52bbcbd205bbeb088578c7a8d4db70817808336e8ec6ec9"
+    },
+    "render": {
+      "path": "assets/textile/textile-fixed-single-sided-peg-and-continuous-warp-band-loom-01/v1.0.0/thumbnail.png",
+      "size": 510162,
+      "sha256": "1b61e02c8f5adcbbb6b93ba67a188d4ea31932d3dd743b310c15e01bf438c6a2"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

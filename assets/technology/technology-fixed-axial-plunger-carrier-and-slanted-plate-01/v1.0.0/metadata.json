@@ -1,0 +1,42 @@
+{
+  "id": "technology-fixed-axial-plunger-carrier-and-slanted-plate-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "technology",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Axial Plunger Carrier and Slanted Plate",
+  "description": "One independently authored complete fixed axial-plunger and slanted-plate mechanical exhibit. A common annular rear carrier holds six complete bored axial sleeves around one central shaft. Six full separate plunger rods extend unequal distances from the sleeve mouths and terminate against independent angled round shoe appearances facing one continuous tilted annular plate. Two complete bored shaft bearings, separate side plate supports, proud sleeve-mouth bands and a shared low grounded bed complete the assembly. The open sleeve carrier is an assembly, not a claimed single-piece pressure barrel; occupied bores do not imply a clear assembled passage. All numeric geometry new, no old piston or pump meshes imported. Unlike a single straight cylinder or radial slotted vane chamber, the whole combines a circumferential axial sleeve array with a common inclined end plane. Three opaque PBR roles, metres Z-up, horizontal bounds-centred ground origin, one model zero scenes. Static artistic geometry only: no sealed volume, fluid circuit, pumping, displacement, continuous contact, shoe travel, kinematics, rotation, pressure, efficiency, force, manufacture or machinery safety claim. Rigging animation and interaction not made.",
+  "bounds": {
+    "x": 1.82,
+    "y": 0.96,
+    "z": 1.0272367914908762,
+    "unit": "m"
+  },
+  "triangles": 4652,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/technology/technology-fixed-axial-plunger-carrier-and-slanted-plate-01/v1.0.0/model.glb",
+      "size": 200228,
+      "sha256": "e348d02b7f05f4e46b8d3e59a68e824818a8a14c831e2d36563e4b8cc4741158"
+    },
+    "blend": {
+      "path": "assets/technology/technology-fixed-axial-plunger-carrier-and-slanted-plate-01/v1.0.0/source.blend",
+      "size": 943252,
+      "sha256": "4dd8beac7667e199632cdca61d034b95fe20b691fc746b5739499f4a32365e64"
+    },
+    "generator": {
+      "path": "assets/technology/technology-fixed-axial-plunger-carrier-and-slanted-plate-01/v1.0.0/generate.py",
+      "size": 11928,
+      "sha256": "b64f3f6837d6497d91859723d2875779605f809487e43ee10049bfc2c59976a8"
+    },
+    "render": {
+      "path": "assets/technology/technology-fixed-axial-plunger-carrier-and-slanted-plate-01/v1.0.0/thumbnail.png",
+      "size": 457437,
+      "sha256": "8af54e87fa8c5045f3ee10398b4219278cab9fd285d9500f67a6a8e2bf02d82a"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "technology-fixed-pin-ring-and-perforated-eccentric-lobe-disc-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "technology",
+  "style": "source-preserved-low-poly",
+  "title": "Fixed Pin Ring And Perforated Eccentric Lobe Disc",
+  "description": "One newly authored complete fixed pin-ring and eccentric lobed-disc mechanism exhibit. A common low plinth carries two roots of a full rear annular frame holding ten complete cylindrical perimeter pins. One offset-centre thick nine-lobe plate stands inside that ring; its central bore and six separate large output openings pass through the complete plate. A complete eccentric centre bushing surrounds a nominal central shaft on a separate bored rear pedestal. Behind the plate, a central hub and six full radial arms carry six smaller pins visibly through the oversized plate holes, with deliberately unequal fixed clearances. The disc has smoothly varying blunt lobes rather than integral gear teeth. All geometry is independently authored as one complete apparatus, no old planetary gears or Geneva parts imported. The topology is one perforated eccentric plate within discrete perimeter pins, not several toothed planets in a toothed annulus or a drive peg entering a slotted wheel. Four opaque constant PBR appearances, metres Z up, one model zero scenes and complete ground plinth. This is a stylized static relationship display only: the lobe curve is decorative rather than a certified cycloidal profile, and deliberate outer-pin and output-hole gaps do not establish meshing or contact. No working reducer, motion solution, tooth engagement, eccentric travel, bearing fit, gear ratio, torque transfer, lubrication, engineering accuracy, manufacture, load or safety capability. Rigging animation and interaction are not made.",
+  "bounds": {
+    "x": 0.9800000190734863,
+    "y": 0.7400000095367432,
+    "z": 1.0099999904632568,
+    "unit": "m"
+  },
+  "triangles": 4352,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/technology/technology-fixed-pin-ring-and-perforated-eccentric-lobe-disc-01/v1.0.0/model.glb",
+      "size": 389852,
+      "sha256": "50a82f15e0443baf8dfd9572620d6d41d4638ce57ce64bb586ac67ebf1fc6ae0"
+    },
+    "blend": {
+      "path": "assets/technology/technology-fixed-pin-ring-and-perforated-eccentric-lobe-disc-01/v1.0.0/source.blend",
+      "size": 1193824,
+      "sha256": "7c629219edd5139ab278918e91ad4b0b0ed0d5bdbff1bc47a8c8036743aaff66"
+    },
+    "generator": {
+      "path": "assets/technology/technology-fixed-pin-ring-and-perforated-eccentric-lobe-disc-01/v1.0.0/generate.py",
+      "size": 18724,
+      "sha256": "f16c6f5c493265a2bdb8c20580743741affc590ef245a717fad102cb00a54a13"
+    },
+    "render": {
+      "path": "assets/technology/technology-fixed-pin-ring-and-perforated-eccentric-lobe-disc-01/v1.0.0/thumbnail.png",
+      "size": 560265,
+      "sha256": "165e467e83f7a162eda9a07b76a7c6d932bcdb8891df00a814530edcdaad03b5"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
