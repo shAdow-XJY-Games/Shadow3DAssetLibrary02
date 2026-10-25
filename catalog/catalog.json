@@ -1324,6 +1324,11 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary02",
       "commit": "8d7361b40257a592c1e20bf131a9778a4e8ca8be"
+    },
+    "original-qualified-batch-1063-volume02-20261025": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary02",
+      "commit": "7f04e319c0c434d2923e10a279dff24aa57874c2"
     }
   },
   "assets": [
@@ -46863,6 +46868,178 @@
       "status": "verified",
       "license": "All rights reserved",
       "sourceId": "original-qualified-batch-1059-volume02-20261025"
+    },
+    {
+      "id": "carpentry-fixed-partly-engaged-dovetail-corner-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "carpentry",
+      "style": "S01-clean-geometric",
+      "title": "Fixed Partly Engaged Dovetail Corner",
+      "description": "One newly authored complete static corner-joinery sample with two perpendicular upright wooden boards. The first is one continuous board with three integral flared dovetails. The second is a whole board whose front-edge sockets genuinely widen across its thickness to surround those tails, not a flat comb plate or painted line. The first board is deliberately partly withdrawn by 21 mm along the display axis, exposing the front portions of the tails and the remaining rear socket recesses, with small side gaps. Both entire boards rest on their bottom edges. Unlike the old rectangular mortise-and-single-tenon T sample, same-plane transport combs or lengthwise hooked scarf, this is a perpendicular casework corner with widening paired interfaces. Three opaque wood PBR materials, metre Z-up ground-centred origin, one prop and zero scenes. No fasteners, glue, tools, cabinet, assembly animation, manufacturing drawing, tolerances, strength, shrinkage, furniture suitability or safety claim.",
+      "bounds": {
+        "x": 0.45,
+        "y": 0.41100000000000003,
+        "z": 0.34,
+        "unit": "m"
+      },
+      "triangles": 120,
+      "materials": 3,
+      "files": {
+        "glb": {
+          "path": "assets/carpentry/carpentry-fixed-partly-engaged-dovetail-corner-01/v1.0.0/model.glb",
+          "size": 8164,
+          "sha256": "5e4f894264057ba10334662c9b8fc92f9f1eb7bd4551bb4f4b0bf080ad2ba6b1"
+        },
+        "blend": {
+          "path": "assets/carpentry/carpentry-fixed-partly-engaged-dovetail-corner-01/v1.0.0/source.blend",
+          "size": 532708,
+          "sha256": "926bdfde804c81933f717983234ffab388cebcb76b8a1f8322547420fdc8b28b"
+        },
+        "generator": {
+          "path": "assets/carpentry/carpentry-fixed-partly-engaged-dovetail-corner-01/v1.0.0/generate.py",
+          "size": 10729,
+          "sha256": "99136153245561200847d1468e827a0355c6c3645822dea43b31aac5c3235df5"
+        },
+        "render": {
+          "path": "assets/carpentry/carpentry-fixed-partly-engaged-dovetail-corner-01/v1.0.0/thumbnail.png",
+          "size": 465386,
+          "sha256": "059b8f26185af580a4b85be6b0700fc5d832fb0ae804f35b9b9889b69f450748"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1063-volume02-20261025"
+    },
+    {
+      "id": "characters-static-rounded-helmet-and-padded-space-crew-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "characters",
+      "style": "S01-clean-geometric",
+      "title": "Static Rounded Helmet and Padded Space Crew",
+      "description": "One newly authored complete static clothed space-crew character. A continuous broad rounded padded torso and hip body joins two thick separate knee-shaped legs and full projecting flat-soled boots. Two entire bent voluminous sleeves terminate in closed gloves with integral thumb bulges and full short cuffs. A broad neck ring supports a newly drawn rounded helmet with a real shallow inset front well and an integral opaque gold-looking face panel. A complete chamfered rear equipment pack and one blank chest unit root in the suit body. No exposed skin, real-person likeness, text, logo or brand. All body proportions, limb paths and helmet construction are new numerical geometry: not the old apron worker recoloured or dressed, not an extracted three-window diving helmet placed on a mannequin, and no borrowed body mesh. One character prop zero scenes; four opaque constant PBR materials, metres, native Z up, horizontal bounds-centred two-boot ground datum. Fixed stylised costume appearance only; the helmet and clothing are opaque solid visual forms without a hidden human or wearable interior. No wearable fit, anatomy accuracy, pressure seal, breathing, oxygen, thermal/radiation protection, life support, spaceworthiness, locomotion, manufacture or safety claim. Separately editable static meshes only; no skeleton, skinning, animation, dressing or interaction made or verified.",
+      "bounds": {
+        "x": 1.087892,
+        "y": 0.64,
+        "z": 1.995,
+        "unit": "m"
+      },
+      "triangles": 1920,
+      "materials": 4,
+      "files": {
+        "glb": {
+          "path": "assets/characters/characters-static-rounded-helmet-and-padded-space-crew-01/v1.0.0/model.glb",
+          "size": 131684,
+          "sha256": "c6bd747882ad56559b6f2e617ec6272cb3ca3c3448968b11e390268c090ef96a"
+        },
+        "blend": {
+          "path": "assets/characters/characters-static-rounded-helmet-and-padded-space-crew-01/v1.0.0/source.blend",
+          "size": 695924,
+          "sha256": "0d0d415d1900db9cadf5358992e9c03f74c1640555832c4579418f9ae9ea0901"
+        },
+        "generator": {
+          "path": "assets/characters/characters-static-rounded-helmet-and-padded-space-crew-01/v1.0.0/generate.py",
+          "size": 27681,
+          "sha256": "637687a1cc63289b94db5d4b5ea254b7c93dae62d987933958dab6a4c607f409"
+        },
+        "render": {
+          "path": "assets/characters/characters-static-rounded-helmet-and-padded-space-crew-01/v1.0.0/thumbnail.png",
+          "size": 490343,
+          "sha256": "5aaf2fcf47e65a12d8ef2e2bd23431599921a33cfe72532b3e7b6cc0e357a2ba"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1063-volume02-20261025"
+    },
+    {
+      "id": "salon-complete-facing-chair-and-mirror-preparation-scene-01",
+      "version": "1.0.0",
+      "category": "scenes",
+      "assetKind": "scene",
+      "theme": "salon",
+      "style": "source-preserved-low-poly",
+      "title": "Complete Facing Chair and Mirror Preparation Station",
+      "description": "One complete static salon preparation station, one scene and zero new independent models. One entire original pedestal styling chair faces a whole unchanged freestanding floor mirror across an empty visible interval. Behind and to the side, one complete open worktable supports the whole original handheld dryer and whole original hair clipper, separately placed at their existing display heels. This opposing chair/mirror station and detached tool-preparation tabletop is not the old same-direction garment-sample, mirror and hanger display. The mirror retains its original floor base and rear supports and is not relabelled wall-mounted. All five original raw GLB buffers, local POSITION/NORMAL, material dictionaries, face assignments and internal hierarchy remain exact at original unit scale; only whole rigid quarter turns, translations and one finite scene-only floor are new. No original piece extracted, resized or recoloured. No occupant, reflected image accuracy, treatment, power, heat, electrical connection, ergonomic fit, correct professional workflow, load, access or safety certification. Rigging animation and interaction not made.",
+      "bounds": {
+        "x": 3.4000000953674316,
+        "y": 2.799999952316284,
+        "z": 1.7399998903274536,
+        "unit": "m"
+      },
+      "triangles": 4180,
+      "materials": 17,
+      "files": {
+        "glb": {
+          "path": "assets/salon/salon-complete-facing-chair-and-mirror-preparation-scene-01/v1.0.0/model.glb",
+          "size": 359240,
+          "sha256": "867ec06e6f499fcca41b5bcf4b45b3327c642bda51156f15ca0bbc8320d597e2"
+        },
+        "blend": {
+          "path": "assets/salon/salon-complete-facing-chair-and-mirror-preparation-scene-01/v1.0.0/source.blend",
+          "size": 1604188,
+          "sha256": "6c4d9096c69760c95de4fc356ac43513238dcb99c3f85fd055389d16f672a606"
+        },
+        "generator": {
+          "path": "assets/salon/salon-complete-facing-chair-and-mirror-preparation-scene-01/v1.0.0/generate.py",
+          "size": 140853,
+          "sha256": "6e151b020c07ba51b35fbdfa95ce58e5ef8902924813d3f348b64de7e5cec9d8"
+        },
+        "render": {
+          "path": "assets/salon/salon-complete-facing-chair-and-mirror-preparation-scene-01/v1.0.0/thumbnail.png",
+          "size": 484647,
+          "sha256": "b33d8c668056419ee3052bb8ae5ae06e97df768225fa02743921646da645e1b0"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1063-volume02-20261025"
+    },
+    {
+      "id": "sports-fixed-continuous-torsion-coil-and-twin-grip-trainer-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "sports",
+      "style": "S01-clean-geometric",
+      "title": "Fixed Continuous Torsion Coil and Twin Grip Trainer",
+      "description": "One newly authored complete fixed-open hand-gripper-style exterior lying on the full flat lower faces of its two long chamfered grips. A single continuous circular-section metal-like wire follows a spaced two-and-a-half-turn helix with an actual open centre, then two complete diverging tails enter the independent grips. The grip contours and continuous coil/tails are one newly authored assembly, not old bow shears with blades cropped or an extracted balance spring with handles attached. One whole model zero scenes, two opaque PBR roles, metres Z up and horizontal-envelope-centred ground datum. Only one fixed illustrative pose; no elastic response, spring force, grip resistance, adjustability, training or therapeutic effect, ergonomics, manufacture, fitness instruction or safety capability. No moving binding, animation or interaction.",
+      "bounds": {
+        "x": 0.11945349091317772,
+        "y": 0.19102732189771943,
+        "z": 0.03899057180578512,
+        "unit": "m"
+      },
+      "triangles": 2656,
+      "materials": 4,
+      "files": {
+        "glb": {
+          "path": "assets/sports/sports-fixed-continuous-torsion-coil-and-twin-grip-trainer-01/v1.0.0/model.glb",
+          "size": 205864,
+          "sha256": "8669d4561751338f5e1a9d998cd757dd93bd65fbd76ea9dcc5e65c48d9387017"
+        },
+        "blend": {
+          "path": "assets/sports/sports-fixed-continuous-torsion-coil-and-twin-grip-trainer-01/v1.0.0/source.blend",
+          "size": 651056,
+          "sha256": "b0d6c91ccafe4f38f9add87956e0d3bfe10945cb055c653f9677b40191d0ccca"
+        },
+        "generator": {
+          "path": "assets/sports/sports-fixed-continuous-torsion-coil-and-twin-grip-trainer-01/v1.0.0/generate.py",
+          "size": 10511,
+          "sha256": "f94748c5894d5974c0a265124bbe548b7050df3bb84fddcafa60260c2ec392f6"
+        },
+        "render": {
+          "path": "assets/sports/sports-fixed-continuous-torsion-coil-and-twin-grip-trainer-01/v1.0.0/thumbnail.png",
+          "size": 436746,
+          "sha256": "e26024d0a77a3a48860b371d495e58eeaab6415bbd9a680351d5b77d2a0696dd"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1063-volume02-20261025"
     }
   ]
 }
