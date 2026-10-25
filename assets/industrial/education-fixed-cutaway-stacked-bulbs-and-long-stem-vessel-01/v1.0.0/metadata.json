@@ -1,0 +1,42 @@
+{
+  "id": "education-fixed-cutaway-stacked-bulbs-and-long-stem-vessel-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "industrial",
+  "style": "source-preserved-low-poly",
+  "title": "Fixed Cutaway Stacked Bulbs And Long Stem Vessel",
+  "description": "One newly authored complete static stacked-bulb and long-stem vessel teaching cutaway. One broad circular base supports a continuous two-bulb lower shell with a narrow connecting waist and open top neck; a broad deliberate front cutaway reveals a separate long hollow central stem descending from one complete upper bulb and open top mouth. A complete annular seat at the neck supports the stem, and one short side outlet with fixed valve-barrel and paddle appearance joins the middle body. The lower floor is real solid material and every bulb wall has finite thickness. All parts are opaque; no transparent vessel or fluid. Unlike the old side-by-side swan-neck alembic and separate receiver, these are coaxial bulb chambers and an inserted long upper stem; unlike the two-jaw burette stand, there is no separate tall support rod, clamps, long graduated tube or receiving flask. Entirely new geometry, no imported old mesh. One prop, zero scenes, four plain PBR roles. A simplified fictional teaching cutaway inspired by a stacked gas-generator exterior, not a validated laboratory apparatus. The side outlet is an exterior fixture only, not a certified continuous fluid passage. No chemical substances, reaction, gas generation, pressure, liquid flow, dosing, operating sequence, experimental use, manufacture or safety performance. No working valve or motion; rigging, animation and interaction not made and outside scope.",
+  "bounds": {
+    "x": 0.39899998903274536,
+    "y": 0.30000001192092896,
+    "z": 0.9470000267028809,
+    "unit": "m"
+  },
+  "triangles": 4966,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/industrial/education-fixed-cutaway-stacked-bulbs-and-long-stem-vessel-01/v1.0.0/model.glb",
+      "size": 424404,
+      "sha256": "6728272e8b3c456005ddbb1e323844b9a9b4cef0a0d4719086b5938f14e88c14"
+    },
+    "blend": {
+      "path": "assets/industrial/education-fixed-cutaway-stacked-bulbs-and-long-stem-vessel-01/v1.0.0/source.blend",
+      "size": 1154408,
+      "sha256": "3b256c15824418f83abb9d2ad5ccec22dd83c8982a969e556373533c6b7157ce"
+    },
+    "generator": {
+      "path": "assets/industrial/education-fixed-cutaway-stacked-bulbs-and-long-stem-vessel-01/v1.0.0/generate.py",
+      "size": 18578,
+      "sha256": "7e9936ad363bc68c1d210a2535c0f99cefe080c294e07bd29380a96c0f047a4c"
+    },
+    "render": {
+      "path": "assets/industrial/education-fixed-cutaway-stacked-bulbs-and-long-stem-vessel-01/v1.0.0/thumbnail.png",
+      "size": 481244,
+      "sha256": "82fa57b6cf3147b54fd6caf18ae6da13fb85b5c24c400c92f6e289ba4a8e4d8c"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

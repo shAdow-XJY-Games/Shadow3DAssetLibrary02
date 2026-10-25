@@ -1,0 +1,42 @@
+{
+  "id": "professional-fixed-chin-forehead-frame-and-binocular-column-stand-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "professional",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Chin Forehead Frame and Binocular Column Stand",
+  "description": "One newly authored complete slit-lamp-style tabletop instrument exterior. Four whole finite feet and a common chamfered low base support a continuous independent two-post chin/forehead frame with a genuine large open centre, complete concave chin saddle and upper rest pad. A separate central plinth and stepped pedestal carry an open fork, horizontal axle, common binocular head, two oblique recessed eyepieces and a short forward recessed objective. An independently offset low arm carries a full high illumination column, tall tapered upper housing and a separate descending neck/projector head. Both observation and illumination branches are arranged toward the open frame region. All parts are new geometry; no microscope, binocular, chair or medical workstation is imported. The common-base relationship between the full headrest frame and two different instrument branches is the complete structural difference, not simply a microscope with two eyepieces. Four opaque PBR roles; one prop, zero scenes. Metres, native Z up, complete horizontal bounds-centred ground origin. Empty static appearance only: no patient, real eye, lenses, emitted beam, wiring, illumination, imaging, focusing, examination, diagnostic or medical use, adjustment range, human fit, precision, manufacture or safety assurance. Rigging, animation and interaction are not made and are outside this static delivery.",
+  "bounds": {
+    "x": 0.6,
+    "y": 0.54,
+    "z": 0.75,
+    "unit": "m"
+  },
+  "triangles": 3144,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/professional/professional-fixed-chin-forehead-frame-and-binocular-column-stand-01/v1.0.0/model.glb",
+      "size": 172224,
+      "sha256": "8552fd892e5f577de98b9437f43bcafedec7a6cf7f4f4b8d075eafd2b87936ba"
+    },
+    "blend": {
+      "path": "assets/professional/professional-fixed-chin-forehead-frame-and-binocular-column-stand-01/v1.0.0/source.blend",
+      "size": 843116,
+      "sha256": "67c1bdee48f822deb302db5624ead44297ddd765056a9df7fe9df07e67bb404a"
+    },
+    "generator": {
+      "path": "assets/professional/professional-fixed-chin-forehead-frame-and-binocular-column-stand-01/v1.0.0/generate.py",
+      "size": 31497,
+      "sha256": "fd5714510a879d154a2dd602fe7cd97e3533cf74a18df43be4f6f72d732fad9e"
+    },
+    "render": {
+      "path": "assets/professional/professional-fixed-chin-forehead-frame-and-binocular-column-stand-01/v1.0.0/thumbnail.png",
+      "size": 528755,
+      "sha256": "ec101c90176572a18c9a9253244cbc201cfccc073bd9545b368c608ea8cf191e"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

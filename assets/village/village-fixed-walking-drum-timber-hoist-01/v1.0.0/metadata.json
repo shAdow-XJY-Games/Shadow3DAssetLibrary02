@@ -1,0 +1,42 @@
+{
+  "id": "village-fixed-walking-drum-timber-hoist-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "village",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Walking Drum Timber Hoist",
+  "description": "One newly authored whole fixed traditional walking-drum timber hoist appearance. A full broad open-ended annular drum has a continuous inside tread and two spoke ends, on a complete supported horizontal shaft. A smaller integral rope-winding drum shares the shaft in the adjacent tower bay. Ground sills and transverse ties support full low bearing posts and a braced upper timber tower with forward boom, carried top sheave and continuous rope route down to an empty open hook. This is not an enlarged water paddle wheel or a recoloured crank tripod: the broad inward walking cylinder and integrated shaft/hoisting tower form a distinct complete layout. No imported old asset meshes; three opaque PBR materials, metres, centred horizontal ground origin. One static prop, no scene. No human, rotation, walking operation, lifting, torque, rope mechanics, loads, manufacture or safety certification.",
+  "bounds": {
+    "x": 2.16,
+    "y": 2.677,
+    "z": 2.8240000000000003,
+    "unit": "m"
+  },
+  "triangles": 2804,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/village/village-fixed-walking-drum-timber-hoist-01/v1.0.0/model.glb",
+      "size": 143212,
+      "sha256": "0e5945e450e6d9ffa67fb4ef1ce5fe6b0ba765ed0d6ced894dfef5c30994cfac"
+    },
+    "blend": {
+      "path": "assets/village/village-fixed-walking-drum-timber-hoist-01/v1.0.0/source.blend",
+      "size": 871460,
+      "sha256": "39cef58530ebbf83709c03c66865578fa2dc8f07ce1100437fb26e5393e724d0"
+    },
+    "generator": {
+      "path": "assets/village/village-fixed-walking-drum-timber-hoist-01/v1.0.0/generate.py",
+      "size": 12376,
+      "sha256": "d026702874642110c26c8d7fc92e4dd3427c87bf948a8d0ecabd130e23321ce8"
+    },
+    "render": {
+      "path": "assets/village/village-fixed-walking-drum-timber-hoist-01/v1.0.0/thumbnail.png",
+      "size": 572023,
+      "sha256": "cb54d5c62e2a2dc0c386a2d44451fe62f4e475d902547cb70bc17d5272527aec"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

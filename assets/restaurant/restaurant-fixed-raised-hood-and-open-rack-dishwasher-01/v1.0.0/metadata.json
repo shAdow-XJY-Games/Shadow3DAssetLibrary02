@@ -1,0 +1,42 @@
+{
+  "id": "restaurant-fixed-raised-hood-and-open-rack-dishwasher-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "restaurant",
+  "style": "source-preserved-low-poly",
+  "title": "Fixed Raised Hood and Open Rack Dishwasher",
+  "description": "One newly authored complete static raised-hood dishwashing-unit appearance. Four full legs and grounded pads carry a lower cabinet with a real shallow square open well. A separate one-piece rack has a true perforated grid deck and complete raised perimeter, supported above the well floor. The entire four-wall and roof hood is fixed raised above the rack, leaving a broad real loading gap; two rear guide columns, attached slide blocks, full inclined side arms and a continuous front cross-handle connect the lifted enclosure to the lower body. A blank front control face and three fixed controls complete the exterior. Not an old front-loading washer with a changed door, a renamed laboratory fume hood, a plate rack counted as a new device or imported old machine geometry. One prop zero scenes, three opaque constant PBR materials. Static empty appearance only: no dishes, water, detergent, plumbing, actual hood motion, wash cycle, heating, electrical operation, cleaning effectiveness, food hygiene, sanitation, load or safety certification. Rigging, animation and interaction are not made.",
+  "bounds": {
+    "x": 0.8579999804496765,
+    "y": 0.8450000286102295,
+    "z": 1.75,
+    "unit": "m"
+  },
+  "triangles": 3548,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/restaurant/restaurant-fixed-raised-hood-and-open-rack-dishwasher-01/v1.0.0/model.glb",
+      "size": 320400,
+      "sha256": "f4844d91fb5f049abe60f8fd3e655287c20dbe47cb56d84885add51d56fce53d"
+    },
+    "blend": {
+      "path": "assets/restaurant/restaurant-fixed-raised-hood-and-open-rack-dishwasher-01/v1.0.0/source.blend",
+      "size": 1075904,
+      "sha256": "918a912a209c1f035da8b6440365cbd25cf3234a54a293927abed50c389b0226"
+    },
+    "generator": {
+      "path": "assets/restaurant/restaurant-fixed-raised-hood-and-open-rack-dishwasher-01/v1.0.0/generate.py",
+      "size": 16591,
+      "sha256": "950b6df14c45cd3d10af7b3bc49f9a6f26175c33691505201e948cc283b96652"
+    },
+    "render": {
+      "path": "assets/restaurant/restaurant-fixed-raised-hood-and-open-rack-dishwasher-01/v1.0.0/thumbnail.png",
+      "size": 478126,
+      "sha256": "bb7c1276767775b583cb2e661dc52221c604a7db6c8ba8e00d5b26de3d1d26e2"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

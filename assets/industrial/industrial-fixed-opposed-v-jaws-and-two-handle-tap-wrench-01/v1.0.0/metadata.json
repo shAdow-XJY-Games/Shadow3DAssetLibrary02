@@ -1,0 +1,42 @@
+{
+  "id": "industrial-fixed-opposed-v-jaws-and-two-handle-tap-wrench-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "industrial",
+  "style": "source-preserved-low-poly",
+  "title": "Fixed Opposed V Jaws And Two Handle Tap Wrench",
+  "description": "One newly authored complete static two-handle tap-wrench exterior in a fixed empty-jaw pose. A single continuous thick rectangular head frame encloses two opposed whole V-notched jaw blocks around a genuine diamond-shaped through opening. One long fixed grip projects from the left end, while a separate coaxial adjusting-shaft appearance and complete long grip project from the opposite end. The right jaw has an integral-purpose rear cylindrical connection, and each grip has a full shaped shoulder and end cap rather than decorative detached bars. Unlike the old long one-sided F clamp, there is no offset external jaw bay, long flat guide bar or separate round pressure pad; unlike the single-handle crescent wrench, there is no side thumbwheel, tall open jaw or end hanging hole. All new mesh coordinates authored for one compact symmetric two-hand tool; no old meshes imported. One prop, zero scenes, four opaque untextured PBR roles. Empty central opening contains no tap, workpiece or actual cutting edge. Fixed overlaps are visual roots, not a validated moving thread or captured mechanism. No threading, cutting, torque, clamping, adjustment, precision, manufacturing, use instructions or safety performance. Rigging, animation and interaction not made and outside static scope.",
+  "bounds": {
+    "x": 0.460999995470047,
+    "y": 0.052000001072883606,
+    "z": 0.028999999165534973,
+    "unit": "m"
+  },
+  "triangles": 1000,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/industrial/industrial-fixed-opposed-v-jaws-and-two-handle-tap-wrench-01/v1.0.0/model.glb",
+      "size": 92480,
+      "sha256": "12bd8c69cd6e65a2c88523c2d37361189247b4e1e66815305c1ea3f80392a462"
+    },
+    "blend": {
+      "path": "assets/industrial/industrial-fixed-opposed-v-jaws-and-two-handle-tap-wrench-01/v1.0.0/source.blend",
+      "size": 719616,
+      "sha256": "3bbd2090bb570a39958ddf550a34234b734bcda566cb9a0daa57d8fd5c3286b5"
+    },
+    "generator": {
+      "path": "assets/industrial/industrial-fixed-opposed-v-jaws-and-two-handle-tap-wrench-01/v1.0.0/generate.py",
+      "size": 17502,
+      "sha256": "50afd59e6682e85f231575e7cb75bed8e70ebee7adb5e99b445c833c2dd0dfd4"
+    },
+    "render": {
+      "path": "assets/industrial/industrial-fixed-opposed-v-jaws-and-two-handle-tap-wrench-01/v1.0.0/thumbnail.png",
+      "size": 390206,
+      "sha256": "87cf32ab32f17a38b13ce8a723c8e56d7caf2cb6c7bf5fc530b825a43db0b6ee"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

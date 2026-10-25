@@ -1,0 +1,42 @@
+{
+  "id": "photography-whole-enlargement-and-empty-print-drying-workcorner-scene-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "photography",
+  "style": "source-preserved-low-poly",
+  "title": "Whole Enlargement and Empty Print Drying Workcorner",
+  "description": "One static photographic enlargement and empty-print drying preparation workcorner, using three complete existing qualified models and zero new independent models. A whole raised crank desk is rigidly turned ninety degrees as one unchanged instance. The complete downward-bellows enlarger rests with its entire finite lower base face on the real desk top. Beside it, the whole six-tray cantilever open-mesh rack stands separately on the scene-only floor, with its empty front access facing the work area. No tray, column, camera part or table component is extracted, rescaled, recoloured or counted as a new prop. All original local GLB coordinates, normals, hierarchy and full PBR are preserved; only one unit-scale rigid parent rotation and translations place the complete originals. This is a dry equipment-preparation layout, not the existing camera shooting studio or film-rewind inspection bench. No chemical baths, liquids, paper, image, red safelight or working darkroom process is supplied. Static composition only: no optical exposure, photographic development, drying effectiveness, equipment fit, ergonomic access, actual lifting, load, stability, chemical or electrical safety claim. No rigging, animation or interaction.",
+  "bounds": {
+    "x": 3.4000000953674316,
+    "y": 2.5999999046325684,
+    "z": 2.4049999713897705,
+    "unit": "m"
+  },
+  "triangles": 15216,
+  "materials": 12,
+  "files": {
+    "glb": {
+      "path": "assets/photography/photography-whole-enlargement-and-empty-print-drying-workcorner-scene-01/v1.0.0/model.glb",
+      "size": 585784,
+      "sha256": "95fabf953918b336d5309a7928069c041633a22f56c166829ad2118b7f55f4a6"
+    },
+    "blend": {
+      "path": "assets/photography/photography-whole-enlargement-and-empty-print-drying-workcorner-scene-01/v1.0.0/source.blend",
+      "size": 2409552,
+      "sha256": "470de077c4cabd4727486eceb9d98b7218e2fc165fca79b9acfc6fe4e0686a6e"
+    },
+    "generator": {
+      "path": "assets/photography/photography-whole-enlargement-and-empty-print-drying-workcorner-scene-01/v1.0.0/generate.py",
+      "size": 155794,
+      "sha256": "4246351ecd5a8478755a23dcafd04744427a6aec5d42eae37c12f26424f0afa9"
+    },
+    "render": {
+      "path": "assets/photography/photography-whole-enlargement-and-empty-print-drying-workcorner-scene-01/v1.0.0/thumbnail.png",
+      "size": 517317,
+      "sha256": "e580de939045945b32a67ec736b4cf0f44c5e495701f8a5d1ff36fbb3b45ed97"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

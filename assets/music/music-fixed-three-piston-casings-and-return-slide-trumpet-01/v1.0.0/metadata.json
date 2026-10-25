@@ -1,0 +1,42 @@
+{
+  "id": "music-fixed-three-piston-casings-and-return-slide-trumpet-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "music",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Three Piston Casings and Return Slide Trumpet",
+  "description": "One newly authored complete static three-piston-trumpet-style exterior. Three independent upright cylindrical valve housings have full lower caps, upper collars, fixed proud stems and separate finger buttons. Three complete differently extended U return slides meet the housing sides. A long separate leadpipe returns to the last housing, while a full lower curved branch leaves the first and grows continuously into a genuinely open flared bell with inner wall. A separate open cup mouthpiece seats onto the leadpipe and two complete stays connect the long branches. Both visible mouths are real geometric cavities, not dark cap disks. All numeric shapes are new; the three-cylinder cluster and whole side-return routing are not the previous valveless U bugle lengthened, a saxophone body stripped of keys, or a string-count variant. Four opaque constant PBR roles, metres, Z up and horizontal-envelope-centred ground datum at the three broad lower valve-cap faces. One prop, zero scenes. Generic low-poly fixed display only: piston internals, actual connected acoustic airways through the solid housings, airtight seals, tuning, sound, blowing, valve movement, performance, exact historical construction and manufacture are not modeled or verified. No rigging, animation or interaction.",
+  "bounds": {
+    "x": 0.92,
+    "y": 0.394,
+    "z": 0.2853703740689996,
+    "unit": "m"
+  },
+  "triangles": 7296,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/music/music-fixed-three-piston-casings-and-return-slide-trumpet-01/v1.0.0/model.glb",
+      "size": 441280,
+      "sha256": "caf696ef9eb335c7027a3760cba0a37eff45818a6bd3ae03498b4215c64eda43"
+    },
+    "blend": {
+      "path": "assets/music/music-fixed-three-piston-casings-and-return-slide-trumpet-01/v1.0.0/source.blend",
+      "size": 1068416,
+      "sha256": "88238a61c937fec64b5c92623e62a777dc4bad917bfbf6aa45f21a07bd84f130"
+    },
+    "generator": {
+      "path": "assets/music/music-fixed-three-piston-casings-and-return-slide-trumpet-01/v1.0.0/generate.py",
+      "size": 12935,
+      "sha256": "d2203c6648bc3cc718c91cddc057bbeae5609f6068a8100f53e7466e4690399b"
+    },
+    "render": {
+      "path": "assets/music/music-fixed-three-piston-casings-and-return-slide-trumpet-01/v1.0.0/thumbnail.png",
+      "size": 396000,
+      "sha256": "dbc8da971042306537a742248915d96431f558c50c0e061cdc13d7956c7c8dc5"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

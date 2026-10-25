@@ -1,0 +1,42 @@
+{
+  "id": "interior-fixed-long-housing-and-two-arm-door-closer-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "interior",
+  "style": "source-preserved-low-poly",
+  "title": "Fixed Long Housing And Two Arm Door Closer",
+  "description": "One newly authored complete static surface-mounted two-arm door-closer exterior. A long rounded closed mechanism housing sits on its whole back mounting strip. One proud vertical output spindle and collar carry a complete broad flat main arm; a separate thinner forearm occupies a distinct height and joins at a full headed elbow pin, then reaches a true two-ear shoe with a transverse toe pin and a complete remote mounting plate. Two discrete end service-plug appearances and proud mounting heads finish the closed housing exterior. The articulated arms are a fixed linkage between the housing output and a separate mounting shoe, not a wall display bracket with its screen removed or a hinge extracted from an old doorway. All complete shapes newly authored, no imported meshes. One prop, zero scenes, four opaque untextured PBR roles. Isolated fixed apparatus appearance without a host door, wall or operating mechanism. No hydraulic contents, spring model, automatic closing, damping, force, opening range, installation dimensions, fire rating, compatibility, manufacture or safety performance. No motion, rigging or interaction made; these are outside the static delivery scope.",
+  "bounds": {
+    "x": 0.4320000112056732,
+    "y": 0.220989391207695,
+    "z": 0.1509999930858612,
+    "unit": "m"
+  },
+  "triangles": 1092,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/interior/interior-fixed-long-housing-and-two-arm-door-closer-01/v1.0.0/model.glb",
+      "size": 106128,
+      "sha256": "47aef5a74e71feab909117b7d28111c51a9a54ce130f8639eca7fccda8f42954"
+    },
+    "blend": {
+      "path": "assets/interior/interior-fixed-long-housing-and-two-arm-door-closer-01/v1.0.0/source.blend",
+      "size": 767552,
+      "sha256": "4b7d9087604bae9602437d41cd0e8afdbc56e54a05a17cd653cf105cec790141"
+    },
+    "generator": {
+      "path": "assets/interior/interior-fixed-long-housing-and-two-arm-door-closer-01/v1.0.0/generate.py",
+      "size": 17606,
+      "sha256": "da8b4b31de8c1f671c80fbf5b56fb2f8f16849192fb0aaef22d68d0486673672"
+    },
+    "render": {
+      "path": "assets/interior/interior-fixed-long-housing-and-two-arm-door-closer-01/v1.0.0/thumbnail.png",
+      "size": 463234,
+      "sha256": "e61d3327bcbd55d9d7929068b612909715bffa6715d9c72fa0b9d10c35164956"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

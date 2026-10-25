@@ -1,0 +1,42 @@
+{
+  "id": "animal-static-broad-open-jaw-hippopotamus-01",
+  "version": "1.0.0",
+  "category": "modular",
+  "assetKind": "prop",
+  "theme": "animal",
+  "style": "warm-handcrafted-village",
+  "title": "Static Broad Open-Jaw Hippopotamus",
+  "description": "One complete newly authored stylised hippopotamus-like animal in a fixed open-mouth stance: a broad low barrel torso flows through a short thick neck into a huge raised rounded upper muzzle. One whole deep lower jaw slopes from a seated rear root into a broad low lip, leaving a genuine wide air gap and visible dark oral roof/floor between the jaws. Two thick blunt lower canine-like teeth sit on that jaw. Four short thick legs with broad finite feet, small high ears and eyes, paired nasal mounds and a short tapering tail complete the animal. All body sections, jaw and limbs new, not a rhinoceros with horns removed or a pig resized; no imported parts. One static opaque animal, zero scenes. No exact anatomy/species, complete dentition, jaw movement, bite, aggression, rig or interaction claim.",
+  "bounds": {
+    "x": 1.139999986,
+    "y": 2.940000057,
+    "z": 1.544999957,
+    "unit": "m"
+  },
+  "triangles": 1724,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/animal/animal-static-broad-open-jaw-hippopotamus-01/v1.0.0/model.glb",
+      "size": 99704,
+      "sha256": "296299822d58c174b626275a31aa3fec4b1ab2ac5bbb92c0183a9272090bbb62"
+    },
+    "blend": {
+      "path": "assets/animal/animal-static-broad-open-jaw-hippopotamus-01/v1.0.0/source.blend",
+      "size": 650200,
+      "sha256": "4650e2502e60a29243a93259f3016e7abcea3e1c29d18f408368d44803b93b6d"
+    },
+    "generator": {
+      "path": "assets/animal/animal-static-broad-open-jaw-hippopotamus-01/v1.0.0/generate.py",
+      "size": 30593,
+      "sha256": "69542a86d6f0a590cdbf2d8e1164faa1b4d656a8782fdf1e5e504d9f27a6c3d6"
+    },
+    "render": {
+      "path": "assets/animal/animal-static-broad-open-jaw-hippopotamus-01/v1.0.0/thumbnail.png",
+      "size": 485808,
+      "sha256": "1bb8c6ade4b1c0b5da78615ae62e553e5549f06a36a8edc778e42059fcd5e96a"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

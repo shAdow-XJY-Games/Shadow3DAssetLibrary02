@@ -1,0 +1,42 @@
+{
+  "id": "winter-fixed-twin-front-skis-and-single-rear-track-snowmobile-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "winter",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Twin Front Skis and Single Rear Track Snowmobile",
+  "description": "One newly authored whole static snowmobile-style recreation-vehicle exterior. Two independent long curved-up front skis have broad finite flat running patches and real upright/paired-arm support structures beneath a newly shaped low faceted hood. A single broad rear continuous thick closed-loop track surrounds four fixed rollers on transverse axles and outside rails; a complete upper tunnel carries a long low saddle and two separate full running boards. A rooted steering stem, transverse grips and opaque solid windshield complete the riding-vehicle silhouette. The geometry is entirely new, not the old dual-track excavator with its boom removed or a step-through road scooter with changed wheels. The complete front-ski/rear-belt/straddle-saddle architecture changes the whole support layout; no old vehicle meshes are imported. Four opaque untextured PBR roles, metres, Z up and horizontal-envelope-centred ground datum. One prop and zero scenes. Fixed illustrative exterior only: no drivetrain, suspension or steering movement, continuous track deformation, traction, snow interaction, user fit, load, engine performance, road compliance or sport safety is modeled or verified. No rider, animation, interaction or transparent optics.",
+  "bounds": {
+    "x": 1.056,
+    "y": 2.235,
+    "z": 1.017,
+    "unit": "m"
+  },
+  "triangles": 1472,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/winter/winter-fixed-twin-front-skis-and-single-rear-track-snowmobile-01/v1.0.0/model.glb",
+      "size": 91328,
+      "sha256": "56e4588b093aaaff5f07a20b22261ab8d747c6516515e2110276f1e56b13761a"
+    },
+    "blend": {
+      "path": "assets/winter/winter-fixed-twin-front-skis-and-single-rear-track-snowmobile-01/v1.0.0/source.blend",
+      "size": 809692,
+      "sha256": "a0becc9f15c6aab88c402207b809d088c32c8547bea3489053af1cd15d3fb284"
+    },
+    "generator": {
+      "path": "assets/winter/winter-fixed-twin-front-skis-and-single-rear-track-snowmobile-01/v1.0.0/generate.py",
+      "size": 12897,
+      "sha256": "3bb6f830f611e471c1664a16b2df131e19bcbdec370451115d4ce66eb36760a1"
+    },
+    "render": {
+      "path": "assets/winter/winter-fixed-twin-front-skis-and-single-rear-track-snowmobile-01/v1.0.0/thumbnail.png",
+      "size": 414799,
+      "sha256": "a3a0f4afeda5c4fcb181e83982db30317645a5a794bd5adde230d1c783696d23"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

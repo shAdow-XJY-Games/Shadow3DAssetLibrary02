@@ -1,0 +1,42 @@
+{
+  "id": "professional-whole-wheel-bench-and-clamped-cycle-workbay-scene-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "professional",
+  "style": "source-preserved-low-poly",
+  "title": "Whole Wheel Bench and Clamped Cycle Workbay",
+  "description": "One static cycle wheel-service workbay, one scene and zero new independent models. Five whole qualified instances are retained: the entire open worktable supports the entire new fixed wheel-rim fixture on its complete base; the separate whole bicycle repair stand carries the unchanged complete city bicycle in the stand authors documented fixed relative pose; and the entire cycle-service tool panel, including all tools, keepers and both rear cleats, mounts on the finite back wall. The fixture is turned by one exact quarter turn as a complete unit so its full .68 by .47 metre sole fits the actual 1.20 by .60 metre tabletop without scaling or overhang. The two ground-level work stations remain horizontally separate, with an empty central floor strip and a front approach strip. This is not the previous outdoor noticeboard and drinking-station trailhead court, nor the single locksmith table with an underside-clamped vise: here tabletop wheel work and a separate suspended whole-cycle station share a real wall-mounted tool panel. Every original geometry buffer, index, normal, full material dictionary and internal node hierarchy remains unchanged; only whole-instance rigid parent placement and prefixed names are added. The old clamp and tube retain their actual opposed geometric contact, not an invented floating bicycle. A floor slab and back wall are scene-only geometry, not new reusable model counts. Static visual composition only: no repair, truing, clamping operation, bicycle compatibility beyond this fixed authored placement, force, calibration, accessibility, ergonomics, human navigation, workflow productivity, installation, load or safety assurance. Rigging, animation and interaction are not made and outside this static scope.",
+  "bounds": {
+    "x": 3.700000047683716,
+    "y": 2.4000000953674316,
+    "z": 2.5,
+    "unit": "m"
+  },
+  "triangles": 7420,
+  "materials": 16,
+  "files": {
+    "glb": {
+      "path": "assets/professional/professional-whole-wheel-bench-and-clamped-cycle-workbay-scene-01/v1.0.0/model.glb",
+      "size": 492168,
+      "sha256": "3a1f7e5fed3170c1b709c9abc13c88a1865d7c128c86d746a6b27b0c6c9710d8"
+    },
+    "blend": {
+      "path": "assets/professional/professional-whole-wheel-bench-and-clamped-cycle-workbay-scene-01/v1.0.0/source.blend",
+      "size": 2245512,
+      "sha256": "d6984f5daa3420f43102a91db49272f397be00996d80eafb461a39e93c13fd9a"
+    },
+    "generator": {
+      "path": "assets/professional/professional-whole-wheel-bench-and-clamped-cycle-workbay-scene-01/v1.0.0/generate.py",
+      "size": 199668,
+      "sha256": "01f0995c4e05706103c378eb404c121c160afc36d401aaed6266363fd3509653"
+    },
+    "render": {
+      "path": "assets/professional/professional-whole-wheel-bench-and-clamped-cycle-workbay-scene-01/v1.0.0/thumbnail.png",
+      "size": 530472,
+      "sha256": "48ba65b5b456750171c7acfb07ae9010a37e4780ea31df67558814214bf4d4d1"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

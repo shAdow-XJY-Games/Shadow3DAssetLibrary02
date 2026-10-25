@@ -1,0 +1,42 @@
+{
+  "id": "professional-fixed-overhead-carriage-and-slotted-table-radial-saw-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "professional",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Overhead Carriage and Slotted Table Radial Saw",
+  "description": "One newly authored complete freestanding radial-arm-saw-style machine exterior. Four whole splayed legs and finite shoes, full aprons and lower stretchers support one broad thick wood-like tabletop with a genuine front-open narrow slot. A complete high rear column and fixed overhead fore-aft arm carry a separate truly through-bored wraparound carriage, continuous downturned yoke and full transverse motor-style body. One suspended thick toothless disk has its lower arc inside the tabletop slot, with a separate complete open-bottom upper guard web and curved rim, spindle and proud cap. A whole forward stem and transverse grip belong to the hanging head, while two complete split-fence halves remain on the table. All geometry is newly authored; no old radial robot, hand circular saw, table or power hacksaw components are imported. The entire table-plus-overhead-carriage-and-hanging-disk relation is the difference, not a swapped blade or changed size. Four opaque constant PBR roles, one complete prop and zero scenes. Metres, native Z up, full horizontal bounds-centred ground origin. Empty static occupational appearance only: no sharp teeth, cutting setup, blade rotation, carriage or column travel, moving guard, working drive, motor wiring, workholding, load, stability, human fit, manufacture or machinery-safety assurance. Rigging, animation and interaction are not made and outside this static delivery.",
+  "bounds": {
+    "x": 1.2,
+    "y": 0.89,
+    "z": 1.52,
+    "unit": "m"
+  },
+  "triangles": 2488,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/professional/professional-fixed-overhead-carriage-and-slotted-table-radial-saw-01/v1.0.0/model.glb",
+      "size": 141128,
+      "sha256": "5a683cc303054a6fbc16a859d72ea733bc76cacd76c93e9bf63f390054e67fd7"
+    },
+    "blend": {
+      "path": "assets/professional/professional-fixed-overhead-carriage-and-slotted-table-radial-saw-01/v1.0.0/source.blend",
+      "size": 822488,
+      "sha256": "1a0ed21b9a89f9fbb7857f0c6feb0e542fd791fa8aeae29c0177ef5f1b28b11d"
+    },
+    "generator": {
+      "path": "assets/professional/professional-fixed-overhead-carriage-and-slotted-table-radial-saw-01/v1.0.0/generate.py",
+      "size": 30815,
+      "sha256": "20297293218eb63e0894693a09440be93691cac41965f68219d1dc98e6f30e2d"
+    },
+    "render": {
+      "path": "assets/professional/professional-fixed-overhead-carriage-and-slotted-table-radial-saw-01/v1.0.0/thumbnail.png",
+      "size": 541799,
+      "sha256": "18344b25daa798a86d743d298c56c93664d115a0bcf6d182aa3b9ca5f93cce08"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

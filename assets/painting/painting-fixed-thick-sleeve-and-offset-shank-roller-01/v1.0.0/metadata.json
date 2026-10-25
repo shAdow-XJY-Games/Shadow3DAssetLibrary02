@@ -1,0 +1,42 @@
+{
+  "id": "painting-fixed-thick-sleeve-and-offset-shank-roller-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "painting",
+  "style": "source-preserved-low-poly",
+  "title": "Fixed Thick Sleeve and Offset Shank Roller",
+  "description": "One newly authored complete fixed handheld paint-roller appearance in a horizontal empty display pose. A full thick cylindrical sleeve has softened annular shoulders and a genuine axial cavity, occupied locally by two annular end bearings and one continuous small shaft. The same whole metal shank returns beyond one sleeve end, turns away through a full offset neck and enters one long swelling blunt grip, with a finite separate neck collar. All geometry new, not a roller feed stand with legs removed or a rolling pin with one handle omitted. Three opaque untextured PBR roles; one model zero scenes. Sleeve colour is only a plain material, not simulated fibres or paint. No paint, tray, wall, person, rotation, coating result, hand fit, load, manufacture, operation or safety certification. Rigging animation and interaction not made.",
+  "bounds": {
+    "x": 0.269992470741272,
+    "y": 0.4740000069141388,
+    "z": 0.06800000369548798,
+    "unit": "m"
+  },
+  "triangles": 1588,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/painting/painting-fixed-thick-sleeve-and-offset-shank-roller-01/v1.0.0/model.glb",
+      "size": 138688,
+      "sha256": "d51e546326173a55b25156ccd97a323d68beb50c5952cf5f35c79df51d86e11f"
+    },
+    "blend": {
+      "path": "assets/painting/painting-fixed-thick-sleeve-and-offset-shank-roller-01/v1.0.0/source.blend",
+      "size": 738784,
+      "sha256": "772c0918db6d514e7ada457d97d04c7787fb30099c1ba7a20caabcb488884bc9"
+    },
+    "generator": {
+      "path": "assets/painting/painting-fixed-thick-sleeve-and-offset-shank-roller-01/v1.0.0/generate.py",
+      "size": 14938,
+      "sha256": "6170ba8ee1733c504ed2b6b76c9a25fe2938ee95160ebe0de7e5998cd111760d"
+    },
+    "render": {
+      "path": "assets/painting/painting-fixed-thick-sleeve-and-offset-shank-roller-01/v1.0.0/thumbnail.png",
+      "size": 477185,
+      "sha256": "45847a2b192125a3e74083191abcaa9ed1fc8e2c0586e2a0d24cda795e842323"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

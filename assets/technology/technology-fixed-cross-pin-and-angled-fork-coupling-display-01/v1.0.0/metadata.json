@@ -1,0 +1,42 @@
+{
+  "id": "technology-fixed-cross-pin-and-angled-fork-coupling-display-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "technology",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Cross Pin and Angled Fork Coupling Display",
+  "description": "One newly authored complete fixed two-fork shaft-coupling display. A single finite low foot carries two separate annular bearing sleeves and their full uprights. Two complete short collared shafts terminate in full open fork assemblies, each comprising an entire transverse bridge and two thick rounded cheeks with true circular through bores. The output shaft is held at one authored 25-degree angle to the input. Their fork cheeks occupy perpendicular directions and meet one connected thick cross centre through four complete collared trunnions. Small actual radial intervals remain around the trunnions in their bores; the proud collar faces retain the fixed static assembly. No old robot link, lap hinge, gyroscope ring, armillary part, shaft or machine geometry is imported or extracted. This is a whole self-supported illustrative connector assembly, not a motor, a new robot arm, several separately counted joint components or a functioning mechanism. One prop, zero scenes; four opaque constant untextured PBR materials, metres, Z up and horizontally bounds-centred ground origin. Selected fixed overlap seats are artistic, not engineering tolerances. No rotation, constant speed, angular range, torque or power transmission, load, fit to other assets, alignment, lubrication, manufacture or mechanical safety capability is made or verified. Rigging, animation and interaction are not made and outside this static delivery.",
+  "bounds": {
+    "x": 1.3,
+    "y": 0.4,
+    "z": 0.552919,
+    "unit": "m"
+  },
+  "triangles": 3960,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/technology/technology-fixed-cross-pin-and-angled-fork-coupling-display-01/v1.0.0/model.glb",
+      "size": 180644,
+      "sha256": "54ab0b6d8eb422dbb219ff97421e055623d86df2696107cf0a63047834a6bc3b"
+    },
+    "blend": {
+      "path": "assets/technology/technology-fixed-cross-pin-and-angled-fork-coupling-display-01/v1.0.0/source.blend",
+      "size": 822056,
+      "sha256": "ee37cf1f5c7878517364d805edf50dccb7b8da6d346f2296e903345195810fc3"
+    },
+    "generator": {
+      "path": "assets/technology/technology-fixed-cross-pin-and-angled-fork-coupling-display-01/v1.0.0/generate.py",
+      "size": 27201,
+      "sha256": "3564d49d468f9e87b7554abf8f3bcfad7e4a7a3c5e8cec35239726f8865d4938"
+    },
+    "render": {
+      "path": "assets/technology/technology-fixed-cross-pin-and-angled-fork-coupling-display-01/v1.0.0/thumbnail.png",
+      "size": 497034,
+      "sha256": "afac481703f088b1ca7b83ae50d409e91b951de688236d7fafb0c368f07d0c28"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "animal-static-thick-hook-bill-long-tail-parrot-01",
+  "version": "1.0.0",
+  "category": "modular",
+  "assetKind": "prop",
+  "theme": "animal",
+  "style": "warm-handcrafted-village",
+  "title": "Static Thick Hook-Bill Long-Tail Parrot",
+  "description": "One newly authored complete stylised parrot-like bird in a fixed standing pose: rounded upright chest rises through a short thick neck into a forward broad head with a large thick downcurving hook bill; two complete long folded wings lie against its sides and one long tapered rear tail reaches low behind. Two short whole legs stand on separate thick four-lobed feet with real toe clefts and finite soles, while two small lateral eyes sit in the head. All body sections, hook bill, wings, feet and tail newly authored; no owl facial-disc removal or shortened pelican bill/pouch, no imported bird parts. One static opaque bird, zero scenes. No exact species, feather simulation, full toe anatomy/grasping, flight, calling, rig or interaction claim.",
+  "bounds": {
+    "x": 0.680000007,
+    "y": 1.6247679,
+    "z": 1.75999999,
+    "unit": "m"
+  },
+  "triangles": 1284,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/animal/animal-static-thick-hook-bill-long-tail-parrot-01/v1.0.0/model.glb",
+      "size": 73780,
+      "sha256": "ed24e09715cf1b1a6a71c3e3b10db0c9be7d77562b4da9550c6b8b780a8e7520"
+    },
+    "blend": {
+      "path": "assets/animal/animal-static-thick-hook-bill-long-tail-parrot-01/v1.0.0/source.blend",
+      "size": 616312,
+      "sha256": "d48c1ef376c5139d8679866388ed218a3198e7b4fd3efd1d607a599b2409e046"
+    },
+    "generator": {
+      "path": "assets/animal/animal-static-thick-hook-bill-long-tail-parrot-01/v1.0.0/generate.py",
+      "size": 30134,
+      "sha256": "9085904879da91037335bb3708836eaaa72a23f8e436b301dbfcb8afbc3e8e98"
+    },
+    "render": {
+      "path": "assets/animal/animal-static-thick-hook-bill-long-tail-parrot-01/v1.0.0/thumbnail.png",
+      "size": 480908,
+      "sha256": "5b080f7bce28e2f8f7fdc486f3c7e269e16332bb576adb3345daa68883f5858b"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

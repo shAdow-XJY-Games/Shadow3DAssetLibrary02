@@ -1,0 +1,42 @@
+{
+  "id": "industrial-whole-three-station-forming-workcorner-scene-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "industrial",
+  "style": "source-preserved-low-poly",
+  "title": "Whole Three-Station Forming Workcorner",
+  "description": "One static metal-forming preparation workcorner scene, zero new independent models. Two complete original open worktables form separated rear left and rear right stations: the left carries one complete upright triangular three-roll former and the right carries one complete horizontal former-and-lever tube bender. A separate complete long raised-apron sheet brake stands on the forward central floor station, with its original forward levers retained and side passages unoccupied. The two table instances serve separate intact tools, not new furniture or count-added models. All five complete unit-scale instances retain every original local geometry buffer, normal, full PBR dictionary and internal hierarchy under translation-only wrappers; names are prefixed only to distinguish two whole copies of the same qualified table, with original node names retained as extras. Full tool soles rest on the actual full table surfaces, and every ground foot rests on the single scene-only floor. Unlike the old smith stump/anvil, stock trestle and rack, this is three empty forming-machine stations; unlike the steam piston and perpendicular gear table/rack, the two supported machines sit behind a lower broad central brake station. No reused part is extracted, resized, recoloured, counted as a new model or functionally connected. No stock, actual bending, material flow, operation, force, ergonomics, navigation, machinery compatibility, loading or safety claim. Static only; rigging, animation and interaction not made and outside scope.",
+  "bounds": {
+    "x": 3.799999952316284,
+    "y": 2.899999976158142,
+    "z": 1.7100000381469727,
+    "unit": "m"
+  },
+  "triangles": 7056,
+  "materials": 17,
+  "files": {
+    "glb": {
+      "path": "assets/industrial/industrial-whole-three-station-forming-workcorner-scene-01/v1.0.0/model.glb",
+      "size": 607456,
+      "sha256": "7cbb733ae9f0bf2a996a57e9ee53797ab95218ed5de6957b8f485b7ec018e143"
+    },
+    "blend": {
+      "path": "assets/industrial/industrial-whole-three-station-forming-workcorner-scene-01/v1.0.0/source.blend",
+      "size": 2102180,
+      "sha256": "853e799f08cb3f2b4f73f3986d142049f1a7e4deb24ecad1be80e02a40941ddb"
+    },
+    "generator": {
+      "path": "assets/industrial/industrial-whole-three-station-forming-workcorner-scene-01/v1.0.0/generate.py",
+      "size": 180211,
+      "sha256": "42c8bca6986af43b083425c14675983e10f2b3d7bb56e6561edd9ee0c8de5674"
+    },
+    "render": {
+      "path": "assets/industrial/industrial-whole-three-station-forming-workcorner-scene-01/v1.0.0/thumbnail.png",
+      "size": 492802,
+      "sha256": "6771782328553e82e571422b4850300e78d2ffe26d57ec854ee20649209f86f5"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

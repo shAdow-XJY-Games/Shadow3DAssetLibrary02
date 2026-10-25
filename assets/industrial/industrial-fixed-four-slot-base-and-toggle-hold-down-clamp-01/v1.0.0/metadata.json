@@ -1,0 +1,42 @@
+{
+  "id": "industrial-fixed-four-slot-base-and-toggle-hold-down-clamp-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "industrial",
+  "style": "source-preserved-low-poly",
+  "title": "Fixed Four Slot Base and Toggle Hold Down Clamp",
+  "description": "One newly authored whole static toggle hold-down clamp appearance. One continuous low mounting base has four genuine rectangular through-slots. Two upright cheeks support separate front and rear base pivots. A complete long forward pressure arm, one continuous bent operating lever with an upper overgrip and two full short rear toggle plates meet through four retained transverse pivot axes. A fixed vertical spindle at the arm end carries two hexagonal retainers and one finite round pressure pad above the display ground. All complete geometry is new, not an F clamp with its bar removed, a cropped compound cutter or a door closer relabelled. Three opaque solid PBR roles, one model zero scenes. Empty static mechanical appearance only: no host bench, workpiece, bolts, functional pivot bores, moving linkage, over-centre lock, adjustment, clamping force, load, installation, manufacture, operation or safety claim. Small intentional fixed overlaps join parts. Rigging animation and interaction are not made.",
+  "bounds": {
+    "x": 0.10999999940395355,
+    "y": 0.28299999237060547,
+    "z": 0.2518887221813202,
+    "unit": "m"
+  },
+  "triangles": 1360,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/industrial/industrial-fixed-four-slot-base-and-toggle-hold-down-clamp-01/v1.0.0/model.glb",
+      "size": 132140,
+      "sha256": "6f14b64621678a03dcc548465878e643c91bba60fffdcc4c4037b93813bf8b23"
+    },
+    "blend": {
+      "path": "assets/industrial/industrial-fixed-four-slot-base-and-toggle-hold-down-clamp-01/v1.0.0/source.blend",
+      "size": 797920,
+      "sha256": "7d0c9ce24541062e75849250b71c03b0deee91023bfb3019037e726977ab57a4"
+    },
+    "generator": {
+      "path": "assets/industrial/industrial-fixed-four-slot-base-and-toggle-hold-down-clamp-01/v1.0.0/generate.py",
+      "size": 16488,
+      "sha256": "c0bb8746e2948137336502482cfb4aaa1d44ac8e4a0e85819aa7a9e1ec8a1d61"
+    },
+    "render": {
+      "path": "assets/industrial/industrial-fixed-four-slot-base-and-toggle-hold-down-clamp-01/v1.0.0/thumbnail.png",
+      "size": 493540,
+      "sha256": "18dbb1a4ae7033401efdd1b7fb74202c0bf64a0f50eb2546b82a4eaa28b6a375"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

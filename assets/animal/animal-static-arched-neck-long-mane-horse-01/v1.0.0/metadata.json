@@ -1,0 +1,42 @@
+{
+  "id": "animal-static-arched-neck-long-mane-horse-01",
+  "version": "1.0.0",
+  "category": "modular",
+  "assetKind": "prop",
+  "theme": "animal",
+  "style": "warm-handcrafted-village",
+  "title": "Static Arched-Neck Long-Mane Horse",
+  "description": "A newly authored complete stylised horse in a fixed four-hoof standing pose: deep rounded barrel and muscular shoulder/hindquarter, a high sloping arched neck, long broad cheek and downward muzzle, two upright tapered ears, continuous thick mane crest, four long jointed legs with integral distinct hooves and one long hanging tapered tail. All body sections and paths are newly drawn; not deer with antlers deleted or camel with hump removed, no imported animal parts. Opaque static exterior only; no precise breed, anatomical accuracy, hair strands, riding, movement, rig or interaction claim.",
+  "bounds": {
+    "x": 0.753866673,
+    "y": 2.765229702,
+    "z": 2.549999952,
+    "unit": "m"
+  },
+  "triangles": 1604,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/animal/animal-static-arched-neck-long-mane-horse-01/v1.0.0/model.glb",
+      "size": 93884,
+      "sha256": "ab49e582fdd487e8bcbaa1d41e3621ba586f54ccfd129993dc8e17300136fb20"
+    },
+    "blend": {
+      "path": "assets/animal/animal-static-arched-neck-long-mane-horse-01/v1.0.0/source.blend",
+      "size": 631068,
+      "sha256": "1ac44d0e468d56feb2c13f322ed870e499cf40e9d71ef6fb329e3860e9cf6ea4"
+    },
+    "generator": {
+      "path": "assets/animal/animal-static-arched-neck-long-mane-horse-01/v1.0.0/generate.py",
+      "size": 29922,
+      "sha256": "6e5b4ddbf0432fee7ec3bc8666832488abf7cb73f5046f23f258043812e3bbdb"
+    },
+    "render": {
+      "path": "assets/animal/animal-static-arched-neck-long-mane-horse-01/v1.0.0/thumbnail.png",
+      "size": 485637,
+      "sha256": "041cf32aa4369932eb8d355ba9b095e6527ce286dd20fd76a0490c9eb459b8a0"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

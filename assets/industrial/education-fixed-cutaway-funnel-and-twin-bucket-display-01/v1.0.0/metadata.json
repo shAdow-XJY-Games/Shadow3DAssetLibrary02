@@ -1,0 +1,42 @@
+{
+  "id": "education-fixed-cutaway-funnel-and-twin-bucket-display-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "industrial",
+  "style": "source-preserved-low-poly",
+  "title": "Fixed Cutaway Funnel And Twin Bucket Display",
+  "description": "One newly authored complete static teaching cutaway of a funnel-and-twin-bucket rain-gauge-style apparatus. One broad open collector funnels continuously to a real hollow narrow bottom spout. Below it two independent genuinely open thick rectangular buckets share a complete low rocker connector and transverse axle between two grounded bearing pedestals. Their sloped integral bottoms and central gap are visible through a deliberately open front of the partial cylindrical casing; a complete low circular floor and three finite ground feet support the whole assembly. The full funnel rests on three actual rim-support posts tied to the floor. This is not an offset high reservoir over a float receiver and index rod, nor two suspended weighing pans on a beam. All mesh coordinates newly authored; no old vessel, balance or source mesh imported. One prop, zero scenes, four plain opaque PBR roles. An intentionally dry fixed explanatory cutaway, not a rainproof or calibrated measuring instrument. No liquid, rainfall collection performance, volume, precipitation reading, tipping movement, sensor, electronics, flow, drainage, equilibrium, operation, manufacture or safety performance. Rigging, animation and interaction not made and outside scope.",
+  "bounds": {
+    "x": 0.37400001287460327,
+    "y": 0.37400001287460327,
+    "z": 0.48100000619888306,
+    "unit": "m"
+  },
+  "triangles": 1984,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/industrial/education-fixed-cutaway-funnel-and-twin-bucket-display-01/v1.0.0/model.glb",
+      "size": 178640,
+      "sha256": "352c8718de035af2cae762cf97b461a99f445470468e1693915611786ac3ebd2"
+    },
+    "blend": {
+      "path": "assets/industrial/education-fixed-cutaway-funnel-and-twin-bucket-display-01/v1.0.0/source.blend",
+      "size": 853344,
+      "sha256": "3196a8c5cf3444276637d7f470846a8f33bde134619968505aa0f7dbffdf63af"
+    },
+    "generator": {
+      "path": "assets/industrial/education-fixed-cutaway-funnel-and-twin-bucket-display-01/v1.0.0/generate.py",
+      "size": 18387,
+      "sha256": "08e488daae6a8e694eed0f0fb6ca3b05dd6dd16027bda1b6de4c85704f2424ac"
+    },
+    "render": {
+      "path": "assets/industrial/education-fixed-cutaway-funnel-and-twin-bucket-display-01/v1.0.0/thumbnail.png",
+      "size": 551593,
+      "sha256": "9f686074de52a9459ef32fe772fb02499107720acccc4e49ef4d34a2f89a3303"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

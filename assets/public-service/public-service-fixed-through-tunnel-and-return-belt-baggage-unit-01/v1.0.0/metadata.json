@@ -1,0 +1,42 @@
+{
+  "id": "public-service-fixed-through-tunnel-and-return-belt-baggage-unit-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "public-service",
+  "style": "source-preserved-low-poly",
+  "title": "Fixed Through Tunnel and Return Belt Baggage Unit",
+  "description": "One newly authored complete static baggage-tunnel equipment appearance. A full thick rectangular annular housing has two genuine opposite axial openings above a grounded lower cabinet. One continuous thick closed return belt extends from both mouths through the entire housing, around two full fixed end rollers, with a separate internal upper support deck. Two long external side beams, four outer legs with pads and diagonal braces support the exposed spans; whole axles and bearing blocks complete the fixed assembly. A side-mounted two-part arm carries a blank opaque control display and three unmarked controls. Not an old medical ring with its bed replaced, an unaltered treadmill inside a box, or a cantilever scan station renamed; all whole numeric geometry is new. Three opaque constant PBR roles, one model zero scenes. Empty static exterior only: no baggage, scanning sensor, X-ray source, radiation, detection, image analysis, belt motion, drive mechanism, throughput, transport load, operating procedure, security protection, manufacture or safety claim. Rigging animation and interaction are not made.",
+  "bounds": {
+    "x": 1.3049999475479126,
+    "y": 2.049999952316284,
+    "z": 1.4299999475479126,
+    "unit": "m"
+  },
+  "triangles": 1820,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/public-service/public-service-fixed-through-tunnel-and-return-belt-baggage-unit-01/v1.0.0/model.glb",
+      "size": 180632,
+      "sha256": "45d671ec1e66c7fa79db5a0b07e7c32610d201b182faa1a5dd504be7bdc86aa6"
+    },
+    "blend": {
+      "path": "assets/public-service/public-service-fixed-through-tunnel-and-return-belt-baggage-unit-01/v1.0.0/source.blend",
+      "size": 920000,
+      "sha256": "6e6398ddd14b89d67b9fab6e582053e3e54ec08ca45191630ed5ebba6edc6314"
+    },
+    "generator": {
+      "path": "assets/public-service/public-service-fixed-through-tunnel-and-return-belt-baggage-unit-01/v1.0.0/generate.py",
+      "size": 16887,
+      "sha256": "c83deee17eabe33c8a44bfb7ca48096e7a27399284ef74bced3dffd1acf3521c"
+    },
+    "render": {
+      "path": "assets/public-service/public-service-fixed-through-tunnel-and-return-belt-baggage-unit-01/v1.0.0/thumbnail.png",
+      "size": 507963,
+      "sha256": "be679ddc71a4fda71b410ea9955f61ef9f598a945f157304880e6a386fe552ab"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

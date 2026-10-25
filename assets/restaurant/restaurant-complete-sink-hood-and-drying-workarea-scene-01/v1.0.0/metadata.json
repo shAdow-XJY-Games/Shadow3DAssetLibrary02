@@ -1,0 +1,42 @@
+{
+  "id": "restaurant-complete-sink-hood-and-drying-workarea-scene-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "restaurant",
+  "style": "source-preserved-low-poly",
+  "title": "Complete Sink Hood and Drying Workarea",
+  "description": "One complete static restaurant sink, raised-hood washer and drying-worktable equipment scene, counted as one scene and zero new independent models. The whole original offset-basin open sink table occupies the left station; one complete fixed raised-hood dishwashing unit stands at the centre; a separate complete open worktable on the right supports one entire empty dish-drying rack including its original catch tray, feet, dividers and end handles. Open front space and finite gaps separate these three ground stations. This is not the older laboratory sink-plus-tall-cabinet scene renamed, nor a customer order counter or stove vignette. Every original raw GLB buffer, local POSITION/NORMAL, material dictionary, face assignment and internal hierarchy remains byte-exact; only whole unit-scale translations and one finite scene-only floor are new. No original part is extracted, resized, recoloured or counted anew. Static empty equipment display only, no dishes, water, chemicals, connected plumbing, washing action, hygienic route, food sanitation, electrical or heat operation, load or safety certification. Rigging, animation and interaction are not made.",
+  "bounds": {
+    "x": 4.199999809265137,
+    "y": 2.200000047683716,
+    "z": 1.809999942779541,
+    "unit": "m"
+  },
+  "triangles": 6820,
+  "materials": 14,
+  "files": {
+    "glb": {
+      "path": "assets/restaurant/restaurant-complete-sink-hood-and-drying-workarea-scene-01/v1.0.0/model.glb",
+      "size": 535368,
+      "sha256": "14bfb70deb8c842a9832fe02f597103b232e5c1d946efbb9e7eb69b6dc46c1b9"
+    },
+    "blend": {
+      "path": "assets/restaurant/restaurant-complete-sink-hood-and-drying-workarea-scene-01/v1.0.0/source.blend",
+      "size": 1891008,
+      "sha256": "942aa63b619c15ada2e45d7008b2b3f477756f53fa3043beaec01598594a6a42"
+    },
+    "generator": {
+      "path": "assets/restaurant/restaurant-complete-sink-hood-and-drying-workarea-scene-01/v1.0.0/generate.py",
+      "size": 146801,
+      "sha256": "b5086b8d5dac18e87c793e68f19978c907a8f752021ca22ad72d9500c443a4f2"
+    },
+    "render": {
+      "path": "assets/restaurant/restaurant-complete-sink-hood-and-drying-workarea-scene-01/v1.0.0/thumbnail.png",
+      "size": 487385,
+      "sha256": "088378ed8ed0c225485885b48307a14b9706fbe9b702c16bb9828d39dac8de39"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

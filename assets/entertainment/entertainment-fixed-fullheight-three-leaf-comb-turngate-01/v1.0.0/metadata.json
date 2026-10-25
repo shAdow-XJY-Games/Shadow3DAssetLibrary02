@@ -1,0 +1,42 @@
+{
+  "id": "entertainment-fixed-fullheight-three-leaf-comb-turngate-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "entertainment",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Full Height Three Leaf Comb Turngate",
+  "description": "One newly authored whole full-height three-leaf comb-turngate static exterior. A grounded low machine plinth supports four full-height frame posts and a closed rectangular upper frame. The complete vertical rotor has lower and upper bearing housings, three radial comb leaves with eight full crossbars apiece, and a separate fixed interleaving comb rooted in a full-height side mast. A continuous half-round fixed cage, with real open cells, encloses the opposite side. Upper and lower cage rails and six full vertical cage rods form a complete connected structure. This is not a waist-height cabinet tripod gate enlarged: its through-height rotor, fixed comb, cage and overhead bearing frame are all newly authored full geometry. Nor is it an old flat fence made taller. One complete prop, zero scenes, four opaque PBR roles. Metres, Z up, horizontal envelope centred, entire flat plinth underside grounded. Fixed illustrative pose only: no rotation, access control, locking, ticketing, egress, accessibility, installation, structural, crowd-control or safety performance is modeled or validated. No people, passage animation, rigging or interaction.",
+  "bounds": {
+    "x": 1.94,
+    "y": 1.76,
+    "z": 2.24,
+    "unit": "m"
+  },
+  "triangles": 1292,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/entertainment/entertainment-fixed-fullheight-three-leaf-comb-turngate-01/v1.0.0/model.glb",
+      "size": 94404,
+      "sha256": "272f12c8ee8d3cc68eae5f2982fc46e7349744be1d8c14af8254303e461d5100"
+    },
+    "blend": {
+      "path": "assets/entertainment/entertainment-fixed-fullheight-three-leaf-comb-turngate-01/v1.0.0/source.blend",
+      "size": 888084,
+      "sha256": "d6d87608a137a4dab8fe4b7698dd7f8a3424a630373f75d8ac57c3353bb1f811"
+    },
+    "generator": {
+      "path": "assets/entertainment/entertainment-fixed-fullheight-three-leaf-comb-turngate-01/v1.0.0/generate.py",
+      "size": 11506,
+      "sha256": "781b914d532bab89a655f09736b96060bfc7e8ecc2b18384cc321cd8007244f5"
+    },
+    "render": {
+      "path": "assets/entertainment/entertainment-fixed-fullheight-three-leaf-comb-turngate-01/v1.0.0/thumbnail.png",
+      "size": 479112,
+      "sha256": "a4011006bf62ffb4bb885a4229ece14e096f3b3c8303eabb9663c667a3ecc1c2"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

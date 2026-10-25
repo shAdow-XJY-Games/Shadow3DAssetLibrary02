@@ -1,0 +1,42 @@
+{
+  "id": "education-fixed-capsule-stack-and-upright-drum-barograph-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "industrial",
+  "style": "source-preserved-low-poly",
+  "title": "Fixed Capsule Stack And Upright Drum Barograph",
+  "description": "One newly authored complete static capsule-stack and upright-drum barograph-style teaching display. A shallow complete wooden case with finite feet supports one low metal mounting plate, a compact stack of five closed corrugated capsule-shaped bodies on a central post, an independent two-cheek lever pivot and a full long tapered recording arm reaching the outside of one upright blank drum. A short fixed link joins the top capsule seat to the lever, and a distinct top drum knob and two retaining bands define the vertical recording cylinder. A whole opaque lid stands fixed open at the rear on two hinge blocks; there is no transparent cover. Not the old tall spring portal and suspended mass over a horizontal drum, nor a cuff/round face gauge with hoses and bulb. All meshes newly authored, no old geometry imported. One prop, zero scenes, four opaque untextured PBR roles. No paper marks, barometric measurement, calibration, pressure response, capsule deformation, writing, recording, timing, motion, electronics, mechanism tolerances, manufacture or safety function. Fixed educational exterior/cutaway appearance only; rigging, animation and interaction not made and outside scope.",
+  "bounds": {
+    "x": 0.3799999952316284,
+    "y": 0.23800000548362732,
+    "z": 0.25,
+    "unit": "m"
+  },
+  "triangles": 4272,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/industrial/education-fixed-capsule-stack-and-upright-drum-barograph-01/v1.0.0/model.glb",
+      "size": 380268,
+      "sha256": "1e793b65ffcedafe78df494542c0e25aed8c7762b0c9eaeaae5b208107749bde"
+    },
+    "blend": {
+      "path": "assets/industrial/education-fixed-capsule-stack-and-upright-drum-barograph-01/v1.0.0/source.blend",
+      "size": 1170752,
+      "sha256": "1b753e9e1f272afd7b35c78d74ab79d19f750db387e91afb47ed52d0988348eb"
+    },
+    "generator": {
+      "path": "assets/industrial/education-fixed-capsule-stack-and-upright-drum-barograph-01/v1.0.0/generate.py",
+      "size": 18460,
+      "sha256": "09ea3e09be93bdbbb2a28e9bb8076d343795bc617b9ffe8a453977bd0d560af5"
+    },
+    "render": {
+      "path": "assets/industrial/education-fixed-capsule-stack-and-upright-drum-barograph-01/v1.0.0/thumbnail.png",
+      "size": 577220,
+      "sha256": "b7e6f0492e3ff51507f71629b63ccb0b6a4bb63752353062091c757e8a604143"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

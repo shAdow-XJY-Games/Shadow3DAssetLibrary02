@@ -1,0 +1,42 @@
+{
+  "id": "agriculture-whole-raised-separator-floor-churn-workcorner-scene-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "agriculture",
+  "style": "source-preserved-faceted-natural-ecology",
+  "title": "Whole Raised-Separator and Floor-Churn Work Corner",
+  "description": "One static agricultural dairy-equipment work-corner scene, zero new reusable models. A complete previously qualified twin-outfall cream separator stands at unit scale on a new scene-only low solid work counter on the left; the full previously qualified open-hatch barrel churn with both bearing frames, side crank and visible internal paddles rests separately on the floor at right. The raised receiving bowl/outfall station and lower open churn have distinct unobstructed front approach positions on one continuous finite floor. Every original oriented world-space triangle and per-face opaque PBR is retained, with only whole translations and explicit float32 storage; original node hierarchy and normals are baked/recomputed, not claimed byte-identical GLB. No parts extracted, rescaled or recolored, no product pipelines or fluids added. One scene, zero models. Static visual preparation/display relationship only; no actual dairy process, hygienic operation, food suitability, fluid flow, powered mechanisms, human accessibility, load or safety claim.",
+  "bounds": {
+    "x": 3.599999905,
+    "y": 2.700000048,
+    "z": 1.899999976,
+    "unit": "m"
+  },
+  "triangles": 4972,
+  "materials": 8,
+  "files": {
+    "glb": {
+      "path": "assets/agriculture/agriculture-whole-raised-separator-floor-churn-workcorner-scene-01/v1.0.0/model.glb",
+      "size": 271940,
+      "sha256": "565a08ff49d653636aa47fcc6edbebb9f411ba1c19fc5761bd9586b4f6bf1208"
+    },
+    "blend": {
+      "path": "assets/agriculture/agriculture-whole-raised-separator-floor-churn-workcorner-scene-01/v1.0.0/source.blend",
+      "size": 1026312,
+      "sha256": "a1307732b64180e9bd2a241103c308a39264d367c38542864c08cdafdda5105f"
+    },
+    "generator": {
+      "path": "assets/agriculture/agriculture-whole-raised-separator-floor-churn-workcorner-scene-01/v1.0.0/generate.py",
+      "size": 111265,
+      "sha256": "03bb32ceba1bb82511ba0f966cb53fb75180f064086d2ed25c0485424554eae2"
+    },
+    "render": {
+      "path": "assets/agriculture/agriculture-whole-raised-separator-floor-churn-workcorner-scene-01/v1.0.0/thumbnail.png",
+      "size": 500647,
+      "sha256": "46ecda7c580b50f50784e44d713c26df27e4047174895b727579eef2faaea0a0"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

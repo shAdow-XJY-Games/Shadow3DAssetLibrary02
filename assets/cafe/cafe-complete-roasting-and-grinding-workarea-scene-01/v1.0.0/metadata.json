@@ -1,0 +1,42 @@
+{
+  "id": "cafe-complete-roasting-and-grinding-workarea-scene-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "cafe",
+  "style": "source-preserved-low-poly",
+  "title": "Complete Roasting and Grinding Workarea",
+  "description": "One complete static coffee roasting and grinding equipment workarea, counted as one scene and zero new independent models. One whole open-drum and front-pan coffee roaster occupies the left ground station. A separate complete open worktable on the right supports one whole dose grinder, leaving the front region and the space between the two stations open. This is not the older customer order/pickup counter scene renamed: no service counters, payment region, mug or espresso-machine station is added. Every original raw GLB buffer, local POSITION/NORMAL, material dictionary, per-face assignment and internal hierarchy remains byte-exact. Only whole-instance unit-scale translations and one finite scene-only floor are new. No source component is removed, rescaled or recoloured. Static unoccupied exhibit only: no beans, heat, cooling, airflow, brewing, electricity, real process routing, food hygiene, machine performance, load, ergonomics or safety certification. Rigging, animation and interaction are not made.",
+  "bounds": {
+    "x": 3.200000047683716,
+    "y": 2.4000000953674316,
+    "z": 1.7349998950958252,
+    "unit": "m"
+  },
+  "triangles": 6060,
+  "materials": 10,
+  "files": {
+    "glb": {
+      "path": "assets/cafe/cafe-complete-roasting-and-grinding-workarea-scene-01/v1.0.0/model.glb",
+      "size": 545920,
+      "sha256": "5777c3cae39a9169042bac4ca66c828a5588fd3dafeac72e8fb42be922390a97"
+    },
+    "blend": {
+      "path": "assets/cafe/cafe-complete-roasting-and-grinding-workarea-scene-01/v1.0.0/source.blend",
+      "size": 1655488,
+      "sha256": "71079793c1b4bdf0bde0cb1397d6745a1233f654a1203dd182207717f88bffed"
+    },
+    "generator": {
+      "path": "assets/cafe/cafe-complete-roasting-and-grinding-workarea-scene-01/v1.0.0/generate.py",
+      "size": 149208,
+      "sha256": "77ecd84992c23f245591a8c7124825e75b79488c36bfb04e75d6b67ad8f84a8c"
+    },
+    "render": {
+      "path": "assets/cafe/cafe-complete-roasting-and-grinding-workarea-scene-01/v1.0.0/thumbnail.png",
+      "size": 503390,
+      "sha256": "ca3fd66c0457ea919dc6f570caf49049543c8acf45d772a58a01499418c622eb"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

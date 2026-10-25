@@ -1,0 +1,42 @@
+{
+  "id": "sports-whole-boxing-ring-and-separated-bag-training-workcorner-scene-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "sports",
+  "style": "source-preserved-low-poly",
+  "title": "Whole Boxing Ring and Separated Bag Training Workcorner",
+  "description": "One static boxing-training workcorner scene, three complete existing models and zero new independent models. A whole raised rope boxing ring occupies the left training zone with its original entry steps facing the front approach; a full four-strap heavy-bag stand and complete round-platform speed-bag stand occupy two separate stations on the right. All original GLB geometry, normals, hierarchy and full PBR are retained at unit scale with translation-only wrappers. One scene-only finite floor connects these spatially separated tasks. This is not a barbell/bench strength zone, rower/treadmill cardio pair or a recoloured old exercise corner. No old component is extracted, reshaped, recoloured or counted as a new model. Static illustrative layout only: no usable sporting equipment, boxing instruction, training efficacy, structural load, impact resistance, navigation, accessibility or safety claim. Rigging, animation and interaction not made and outside delivery.",
+  "bounds": {
+    "x": 6.8999998569488525,
+    "y": 5.5,
+    "z": 2.429999828338623,
+    "unit": "m"
+  },
+  "triangles": 3788,
+  "materials": 11,
+  "files": {
+    "glb": {
+      "path": "assets/sports/sports-whole-boxing-ring-and-separated-bag-training-workcorner-scene-01/v1.0.0/model.glb",
+      "size": 245828,
+      "sha256": "d2565cf2f140a18b0f5ebd8f4d5e9db1040d97f8434125c4277ec169c28942d3"
+    },
+    "blend": {
+      "path": "assets/sports/sports-whole-boxing-ring-and-separated-bag-training-workcorner-scene-01/v1.0.0/source.blend",
+      "size": 1395884,
+      "sha256": "ca4f02c94c3c093abdfad3e78a32ff42a0a88fefad200a00431d3f78422c9ce4"
+    },
+    "generator": {
+      "path": "assets/sports/sports-whole-boxing-ring-and-separated-bag-training-workcorner-scene-01/v1.0.0/generate.py",
+      "size": 98878,
+      "sha256": "aabe5464e77fa433fffe6c694a445ab1c3633b10e13e78c2fceab28d944fedf2"
+    },
+    "render": {
+      "path": "assets/sports/sports-whole-boxing-ring-and-separated-bag-training-workcorner-scene-01/v1.0.0/thumbnail.png",
+      "size": 528872,
+      "sha256": "683dd5de5d472fa1e19b0a7667c818de0159c7928eec5c3fbf5717da2d3ca197"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

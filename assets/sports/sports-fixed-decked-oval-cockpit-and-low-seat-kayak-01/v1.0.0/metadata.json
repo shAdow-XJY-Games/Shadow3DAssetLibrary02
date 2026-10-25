@@ -1,0 +1,42 @@
+{
+  "id": "sports-fixed-decked-oval-cockpit-and-low-seat-kayak-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "sports",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Decked Oval Cockpit and Low Seat Kayak",
+  "description": "One newly authored whole static decked single-seat kayak appearance. A continuous long narrow symmetric pointed-plan body has a broad finite underside, chamfered bilges, raised ends and complete fore and aft decks surrounding one genuine central oval cockpit opening. The same closed material body continues down the full inner cockpit walls to a deep solid interior floor. A separate continuous raised oval coaming has an actual open centre, while one connected low seat-and-sloped-back solid and a finite transverse footrest occupy the cockpit. It is not the old wide fully open work skiff with its two bench boards removed or the long dragonboat without ornaments; the entirely new annular deck, single bounded central cavity and low contained seating define this whole form. Four opaque untextured PBR roles, metres, Z up and horizontal-envelope-centred ground datum. One complete prop and zero scenes; no paddle, person or water scene is included. Static simplified exterior only. The fore/aft deck volumes are modeled solid rather than claimed internal storage chambers. No buoyancy, flotation, watertightness, hydrodynamics, stability, actual seating fit, paddling performance, load, construction specification or water-safety claim; no rigging, animation or interaction.",
+  "bounds": {
+    "x": 0.7,
+    "y": 3.2,
+    "z": 0.31,
+    "unit": "m"
+  },
+  "triangles": 1180,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/sports/sports-fixed-decked-oval-cockpit-and-low-seat-kayak-01/v1.0.0/model.glb",
+      "size": 72216,
+      "sha256": "4a1fae29ef233284eb95a778b3cb3286f834e31bbabd8c321d1f29fbb86f30e1"
+    },
+    "blend": {
+      "path": "assets/sports/sports-fixed-decked-oval-cockpit-and-low-seat-kayak-01/v1.0.0/source.blend",
+      "size": 622392,
+      "sha256": "2a49689cfc9f2242cf69f28dc802cba853424e9cffd2e1439a42e5f20ec30e6c"
+    },
+    "generator": {
+      "path": "assets/sports/sports-fixed-decked-oval-cockpit-and-low-seat-kayak-01/v1.0.0/generate.py",
+      "size": 11134,
+      "sha256": "2b48c7c4ab275b2a314f1cac9482b2de0a6c83b3a848f107db96affdc449974e"
+    },
+    "render": {
+      "path": "assets/sports/sports-fixed-decked-oval-cockpit-and-low-seat-kayak-01/v1.0.0/thumbnail.png",
+      "size": 343962,
+      "sha256": "24d2a9a9f353f799fa8e54d26c7c39420246530710e4a8b313efc8736a99d4ce"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

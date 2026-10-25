@@ -1,0 +1,42 @@
+{
+  "id": "sports-fixed-curved-sail-wishbone-and-footstrap-windsurf-rig-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "sports",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Curved Sail Wishbone and Footstrap Windsurf Rig",
+  "description": "One newly authored whole static windsurf-rig appearance. A wide-tailed continuous low faceted board has an entirely new rocker and section profile, a real thick swept underside fin and three full arched foot straps with empty openings. One long curved mast rises from a modeled deck root and follows the leading edge of a single finite-thickness curved triangular sail. Two continuous bowed tubular arms form the complete wishbone grip around both sides of the sail and meet at the mast and trailing clamp. The sail is an actual closed polygonal solid with face-assigned opaque panels, not a texture or transparent sheet. The fixed inclined storage pose rests on finite nose-bottom and fin-tip patches; it is not a floating simulation or stability guarantee. No old surfboard, kite or other mesh was imported. This integrated mast/sail/wishbone/strap/board arrangement is not the old single-fin surfboard with changed paint, and has no kite cross spar, paper diamond or ribbon tail. Four opaque constant untextured PBR roles, metres, Z up and whole horizontally centred ground datum. One prop, zero scenes. Static illustrative exterior only: sail tension, aerodynamic or hydrodynamic performance, rigging adjustment, steering, user fit, buoyancy, wind or water use, manufacture and safety are not verified; no animation or interaction.",
+  "bounds": {
+    "x": 0.73,
+    "y": 2.23,
+    "z": 2.962134366511388,
+    "unit": "m"
+  },
+  "triangles": 1108,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/sports/sports-fixed-curved-sail-wishbone-and-footstrap-windsurf-rig-01/v1.0.0/model.glb",
+      "size": 76076,
+      "sha256": "81bd679b26798a168a7b76f1936c449dad03c170593d27a05958dc2298aaec9b"
+    },
+    "blend": {
+      "path": "assets/sports/sports-fixed-curved-sail-wishbone-and-footstrap-windsurf-rig-01/v1.0.0/source.blend",
+      "size": 655592,
+      "sha256": "3590bcf62267c3534f73f3a1f074806e77a9551c6170f58e399d1502d842b18c"
+    },
+    "generator": {
+      "path": "assets/sports/sports-fixed-curved-sail-wishbone-and-footstrap-windsurf-rig-01/v1.0.0/generate.py",
+      "size": 12736,
+      "sha256": "45c3ae86f7c152b2683cff5b508cfd1dfae2e3d08498ee3eaaac44f25a957ea1"
+    },
+    "render": {
+      "path": "assets/sports/sports-fixed-curved-sail-wishbone-and-footstrap-windsurf-rig-01/v1.0.0/thumbnail.png",
+      "size": 397224,
+      "sha256": "ed59ba3cf232de2bad7640192fb4bacd23033e966579e6e3e6ce415261f0fe12"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

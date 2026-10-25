@@ -1,0 +1,42 @@
+{
+  "id": "animal-static-banded-domed-armor-long-tail-armadillo-01",
+  "version": "1.0.0",
+  "category": "modular",
+  "assetKind": "prop",
+  "theme": "animal",
+  "style": "warm-handcrafted-village",
+  "title": "Static Banded Domed-Armor Long-Tail Armadillo",
+  "description": "One newly authored whole static armadillo-like animal. A long narrow pointed muzzle and small head rise through broad shoulder armor into a high rounded back with six real transverse flexible-band-like ridges and recesses only across its middle. The rear broad pelvic armor tapers directly into a long thin curved tapering tail, all in one closed continuous whole skin. Four short substantial bent legs terminate in broad finite grounded forward paws, two thin upright ears and small lateral eyes finish the mammal silhouette. The front and rear large shields remain visually different from the narrower central bands. All whole head, armor and tail stations and limb paths are newly authored, not an isopod with fewer legs or a hedgehog with spines removed. One static stylised model, zero scenes; no precise species, armor mechanics, roll-up, gait, rig or biological claim.",
+  "bounds": {
+    "x": 0.889999986,
+    "y": 3.164999962,
+    "z": 0.935000002,
+    "unit": "m"
+  },
+  "triangles": 2640,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/animal/animal-static-banded-domed-armor-long-tail-armadillo-01/v1.0.0/model.glb",
+      "size": 147032,
+      "sha256": "5bd7bcbe60b37e2216423c63d42d600c30c5cfddafbd7eb713d9e741bc17e788"
+    },
+    "blend": {
+      "path": "assets/animal/animal-static-banded-domed-armor-long-tail-armadillo-01/v1.0.0/source.blend",
+      "size": 659404,
+      "sha256": "dcccac539cd76b80d7997e21e584025050b178b23de82907d7daffe8bc766874"
+    },
+    "generator": {
+      "path": "assets/animal/animal-static-banded-domed-armor-long-tail-armadillo-01/v1.0.0/generate.py",
+      "size": 29687,
+      "sha256": "b91bedf21102ad0b4fc51209e3286650d781f24bf2c416b4e8e0ca3f81b3d505"
+    },
+    "render": {
+      "path": "assets/animal/animal-static-banded-domed-armor-long-tail-armadillo-01/v1.0.0/thumbnail.png",
+      "size": 473041,
+      "sha256": "affa0aef07d8c4f8aad76ccb97f350f748f4711ecd681778e8d9ebbcf24a55fd"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

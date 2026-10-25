@@ -1,0 +1,42 @@
+{
+  "id": "animal-static-pointed-muzzle-low-bushy-tail-fox-01",
+  "version": "1.0.0",
+  "category": "modular",
+  "assetKind": "prop",
+  "theme": "animal",
+  "style": "warm-handcrafted-village",
+  "title": "Static Pointed-Muzzle Low Bushy-Tail Fox",
+  "description": "One newly authored complete stylised fox-like animal standing on four bent paw legs: a narrow pointed wedge muzzle opens into broad cheek/head, two large triangular ears and a short neck lead into a long low canine torso with sloped shoulder and hindquarter. A whole long rear-reaching bushy tail curves downward and to one side, with a finite light tip region on original faces. Pale cheek/underside and dark paw regions also belong to the whole meshes, not floating overlays. Entire body sections, four limb paths and tail skin newly authored; not squirrel tail rotated or anteater shortened/recolored. One static opaque animal exterior, zero scenes. No exact species, fur strands, predation, gait, rig or interaction claim.",
+  "bounds": {
+    "x": 0.822785199,
+    "y": 2.934999943,
+    "z": 1.549999952,
+    "unit": "m"
+  },
+  "triangles": 1460,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/animal/animal-static-pointed-muzzle-low-bushy-tail-fox-01/v1.0.0/model.glb",
+      "size": 88276,
+      "sha256": "de51317d9abecac8d03627e42340cdca2356b1894ff693e90890cdacea714fcf"
+    },
+    "blend": {
+      "path": "assets/animal/animal-static-pointed-muzzle-low-bushy-tail-fox-01/v1.0.0/source.blend",
+      "size": 621128,
+      "sha256": "20118330782ab2850edc1016822ae128364fe273cfc93cc4afbd429636cd2e9c"
+    },
+    "generator": {
+      "path": "assets/animal/animal-static-pointed-muzzle-low-bushy-tail-fox-01/v1.0.0/generate.py",
+      "size": 29967,
+      "sha256": "01a5986d4a1df689eaa9165f70411fc9a66b07637461f34e0f2b878494589966"
+    },
+    "render": {
+      "path": "assets/animal/animal-static-pointed-muzzle-low-bushy-tail-fox-01/v1.0.0/thumbnail.png",
+      "size": 484996,
+      "sha256": "62243de15e4f9bf4064f9310964bf09eaa156b4c37344e01e71a16ac92869da8"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

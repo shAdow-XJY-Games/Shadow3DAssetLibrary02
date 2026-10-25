@@ -1,0 +1,42 @@
+{
+  "id": "animal-static-long-snout-broad-plume-tail-anteater-01",
+  "version": "1.0.0",
+  "category": "modular",
+  "assetKind": "prop",
+  "theme": "animal",
+  "style": "warm-handcrafted-village",
+  "title": "Static Long-Snout Broad-Plume-Tail Anteater",
+  "description": "One newly authored complete stylised anteater-like animal in a fixed four-foot resting pose: a long low narrow tapered snout and small head flow into a sloping neck and high arched hind torso, with a large thick flattened plume-like tail, two bent forelegs, two heavier bent hindlegs, small rounded ears, dark side eyes and a tiny nose. All whole body sections, tail sections and limb paths are new; not a stretched pig snout, crocodilian tail recoloring or old animal parts combined. Dark/light shoulder regions use original body faces, not overlaid skin. One opaque static animal prop, zero scenes. No exact species, scientific anatomy, fur strands, individual claw count, feeding, digging, locomotion, rig, animation or interaction claim.",
+  "bounds": {
+    "x": 0.792503655,
+    "y": 3.838999987,
+    "z": 1.110000014,
+    "unit": "m"
+  },
+  "triangles": 1444,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/animal/animal-static-long-snout-broad-plume-tail-anteater-01/v1.0.0/model.glb",
+      "size": 84852,
+      "sha256": "0c38fe36b061b6209c7a181bcabe010cea5a3c682cf0e552b138089daa327749"
+    },
+    "blend": {
+      "path": "assets/animal/animal-static-long-snout-broad-plume-tail-anteater-01/v1.0.0/source.blend",
+      "size": 620676,
+      "sha256": "9dd3d5150b1af04625a3d0299ac48b84f28215cc80b2d6ba923d2d91d9ed3552"
+    },
+    "generator": {
+      "path": "assets/animal/animal-static-long-snout-broad-plume-tail-anteater-01/v1.0.0/generate.py",
+      "size": 29843,
+      "sha256": "b9b71610330dd98216cc28d8620808afbdb143de3059ed2d903d2831969f11e8"
+    },
+    "render": {
+      "path": "assets/animal/animal-static-long-snout-broad-plume-tail-anteater-01/v1.0.0/thumbnail.png",
+      "size": 476727,
+      "sha256": "9c917e78f35525aaaab53d905ae0f6728e8148d75954710c53ea35767fc03e11"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "music-fixed-hexagonal-resonator-and-two-string-spike-fiddle-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "music",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Hexagonal Resonator and Two String Spike Fiddle",
+  "description": "One newly authored whole unbowed two-string spike-fiddle-style static exterior: a short hollow hexagonal timber resonator with real open rear and thin complete front membrane, a continuous round rod passing through the body and extending into a long fingerboard-free neck, two large lateral tuning pegs, two separate supported strings, a small bridge, upper binding and lower tail attachment. The open-back hexagonal tube and through-rod topology differs from a carved waisted violin with fingerboard and four-peg box, and from a circular banjo pot with broad fretted neck and five strings. Newly authored geometry, no extracted kit parts. Four opaque PBR roles, metres, Z up, horizontal-envelope-centred, laid on its finite rear hexagonal rim. One whole model, zero scenes. No bow included; no rigging, tuning, string tension, acoustic operation, historical authenticity, manufacture, protective or safety claim. Fixed illustrative display only.",
+  "bounds": {
+    "x": 0.22699999999999998,
+    "y": 1.1499203965146356,
+    "z": 0.18400000000000002,
+    "unit": "m"
+  },
+  "triangles": 560,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/music/music-fixed-hexagonal-resonator-and-two-string-spike-fiddle-01/v1.0.0/model.glb",
+      "size": 38000,
+      "sha256": "d6a9888d6e0783701cd414e4841777a031fa6f6931f5f686d16bfa23df7714a5"
+    },
+    "blend": {
+      "path": "assets/music/music-fixed-hexagonal-resonator-and-two-string-spike-fiddle-01/v1.0.0/source.blend",
+      "size": 658424,
+      "sha256": "2006aca6bc1d9b81a3d7b329d3e99de69fa03cd99fecc600c10c0b85fc705b04"
+    },
+    "generator": {
+      "path": "assets/music/music-fixed-hexagonal-resonator-and-two-string-spike-fiddle-01/v1.0.0/generate.py",
+      "size": 10456,
+      "sha256": "b174aa7a2f13e8a3b7d1a7c2d27c650b94bd893dc036043b5b1a8dcc62c81cb3"
+    },
+    "render": {
+      "path": "assets/music/music-fixed-hexagonal-resonator-and-two-string-spike-fiddle-01/v1.0.0/thumbnail.png",
+      "size": 339760,
+      "sha256": "3d5fc34fa5067602ccceaad79b52fb6e5621c6b2ade2d1f39b159d5e6bb98135"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

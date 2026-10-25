@@ -1,0 +1,42 @@
+{
+  "id": "village-fixed-yoked-bell-and-rope-wheel-frame-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "village",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Yoked Bell and Rope Wheel Frame",
+  "description": "One newly authored complete static timber bell frame. Two grounded runners and braced bearing posts carry a horizontal axle and full timber yoke over one hollow flared bronze bell with a closed crown, thick continuous wall and genuinely open lower mouth. Two crown straps connect the bell to the yoke; a whole internal clapper is fixed at the crown. A large side wheel has a full rim, six spokes, a bored hub and a short continuous descending rope. This is a complete axle-yoke-wheel suspension layout, not an enlarged handled handbell or a tubular percussion rack with changed tube count. Three opaque PBR materials; metres, Z up, horizontally centred whole ground datum. One static model, zero scenes; no swing rig, ringing, tuning, torque, rope action, load capacity, assembly engineering, fabrication or safety claims.",
+  "bounds": {
+    "x": 1.9,
+    "y": 1.16,
+    "z": 2.19,
+    "unit": "m"
+  },
+  "triangles": 2256,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/village/village-fixed-yoked-bell-and-rope-wheel-frame-01/v1.0.0/model.glb",
+      "size": 121316,
+      "sha256": "b3b853f6d056293ab92d781a2e71798b655fd5f89591e11b60f4c55f3f6a8c05"
+    },
+    "blend": {
+      "path": "assets/village/village-fixed-yoked-bell-and-rope-wheel-frame-01/v1.0.0/source.blend",
+      "size": 758820,
+      "sha256": "e72f7b724cd498ca01f027f8d842bebf1777c894d9de873dadefe0a7772e4a98"
+    },
+    "generator": {
+      "path": "assets/village/village-fixed-yoked-bell-and-rope-wheel-frame-01/v1.0.0/generate.py",
+      "size": 11041,
+      "sha256": "8cc5dade8382706b31a690609239f36071aa827a43ee1f06b64640b6a2648b22"
+    },
+    "render": {
+      "path": "assets/village/village-fixed-yoked-bell-and-rope-wheel-frame-01/v1.0.0/thumbnail.png",
+      "size": 493708,
+      "sha256": "5999dd5ffbd4183a4dd71b96ee13ed21dd3d7b29ef1a00c99d27f1c0bd3782a5"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

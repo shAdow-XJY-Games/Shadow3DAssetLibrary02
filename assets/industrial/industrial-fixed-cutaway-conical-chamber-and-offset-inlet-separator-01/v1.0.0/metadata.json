@@ -1,0 +1,42 @@
+{
+  "id": "industrial-fixed-cutaway-conical-chamber-and-offset-inlet-separator-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "industrial",
+  "style": "S01-clean-geometric",
+  "title": "Cutaway Conical Chamber and Offset Inlet Separator",
+  "description": "One newly authored whole fixed separator-vessel cutaway appearance. A single connected thick shell runs from a circular upper chamber through a long narrowing cone to a complete short open lower neck. A broad front-left inspection cutaway reveals the real interior; a separate bounded upper side opening admits one entire four-walled rectangular offset inlet. A full annular roof supports one independent thick open axial tube that descends into the chamber, with a proud upper lip and visible lower mouth. A complete shoulder collar, four full legs and four whole ground pads support the one installation. Two subordinate fixed stays root the side duct. The real side window is deliberately larger than the duct and is not sealed. The inlet axis is eccentric and parallel to Y, not a claimed exact engineered tangent. The complete internal tube/offset side channel/conical chamber relation differs from the old pleated upper filter and lower soft bag with radial blower, and from a roofed ribbed grain silo without side inlet or central descending tube. All visible geometry newly authored, no old collector, silo or pipe meshes imported or extracted. One prop, zero scenes; four opaque constant untextured PBR materials, metres, Z up and true horizontally bounds-centred ground origin. Cut faces are actual finite material surfaces. Static illustrative art only: no cyclone flow, separation, collection, filtration, pressure, sealing, capacity, pollution protection, installation, manufacture, structural loading or machinery safety claim. No contents, motor, external piping, scene, rigging, animation or interaction are included.",
+  "bounds": {
+    "x": 1.06,
+    "y": 1.29,
+    "z": 2.19,
+    "unit": "m"
+  },
+  "triangles": 2716,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/industrial/industrial-fixed-cutaway-conical-chamber-and-offset-inlet-separator-01/v1.0.0/model.glb",
+      "size": 124460,
+      "sha256": "e95c59f426ce2d64ee360d025e590d732d11e347ba2252b879333d6bb176bb5f"
+    },
+    "blend": {
+      "path": "assets/industrial/industrial-fixed-cutaway-conical-chamber-and-offset-inlet-separator-01/v1.0.0/source.blend",
+      "size": 738868,
+      "sha256": "1065d24094eb3a831ab80563fc5c95c34c7f44a6ed7a302cbcf41fb7262ac50a"
+    },
+    "generator": {
+      "path": "assets/industrial/industrial-fixed-cutaway-conical-chamber-and-offset-inlet-separator-01/v1.0.0/generate.py",
+      "size": 27879,
+      "sha256": "a008eafb13747c48278daa5df9790a9d49178c7cbb1e0db69c2d23a46e25d05d"
+    },
+    "render": {
+      "path": "assets/industrial/industrial-fixed-cutaway-conical-chamber-and-offset-inlet-separator-01/v1.0.0/thumbnail.png",
+      "size": 536962,
+      "sha256": "bb0578cdf098469fc06866bfafb2191919c4441e73cc3c70b82102ef67bc8c77"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

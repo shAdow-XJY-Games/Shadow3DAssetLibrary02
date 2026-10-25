@@ -1,0 +1,42 @@
+{
+  "id": "sports-fixed-open-pocket-and-pierced-web-baseball-glove-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "sports",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Open Pocket and Pierced Web Baseball Glove",
+  "description": "One newly authored complete static baseball-style receiving glove appearance. An asymmetric thick open concave palm rises into a broad rounded finger side and opposed shorter thumb lobe, with a complete genuinely pierced grid web joining their upper edges. A full separate open annular wrist cuff and its binding join the lower palm root. The palm has an actual recessed receiving bowl rather than a black decal; the thin web has through apertures rather than alpha texture. This is not the old closed padded boxing fist or five-finger plate gauntlet recoloured: no geometry is reused. Fixed display lying on a finite back patch, not an actual hand or wearable finger-channel model. Three opaque untextured PBR roles, metres, Z up and horizontal envelope-centred ground origin. One glove, no ball or partner glove, zero scenes. No catch performance, articulated fit, grip, padding response, fastening, protective capability, sport compliance, manufacture or safe-use claim. Rigging, animation and interaction not made.",
+  "bounds": {
+    "x": 0.27949999999999997,
+    "y": 0.33362500000000006,
+    "z": 0.1775,
+    "unit": "m"
+  },
+  "triangles": 1030,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/sports/sports-fixed-open-pocket-and-pierced-web-baseball-glove-01/v1.0.0/model.glb",
+      "size": 57024,
+      "sha256": "89f9a557731869a8bf3556f856ce9049936546babc98b542cc21d06445d8e638"
+    },
+    "blend": {
+      "path": "assets/sports/sports-fixed-open-pocket-and-pierced-web-baseball-glove-01/v1.0.0/source.blend",
+      "size": 618652,
+      "sha256": "b344fe9d46644b5a4baadc83b721197e0e39bd3c94f0b963dcfe6a1861b50525"
+    },
+    "generator": {
+      "path": "assets/sports/sports-fixed-open-pocket-and-pierced-web-baseball-glove-01/v1.0.0/generate.py",
+      "size": 11797,
+      "sha256": "41b3706595e59f0340941bcf5d28cbfe4f8c045f46b79e8d2e2999afcadc4743"
+    },
+    "render": {
+      "path": "assets/sports/sports-fixed-open-pocket-and-pierced-web-baseball-glove-01/v1.0.0/thumbnail.png",
+      "size": 532164,
+      "sha256": "2ebb2a970c58fb07ed2a78647413b0b6372e5ff8b856e83d6ff156922057a9fc"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "education-whole-mechanics-and-fluid-apparatus-workcorner-scene-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "education",
+  "style": "source-preserved-low-poly",
+  "title": "Whole Mechanics and Fluid Apparatus Workcorner",
+  "description": "One static mechanics and fluid-apparatus teaching workcorner scene, zero new independent models. Five entire previously qualified GLBs retain original complete mesh buffers, hierarchy, normals and full PBR dictionaries, at unit scale with translation-only wrappers. A complete raised crank desk carries a complete slotted incline apparatus on its front strip and a complete cutaway U-tube on a separate rear-right strip; their full finite soles seat on the actual complete writing top. A complete four-legged shallow-pan apparatus stands independently to the left, and a complete tripod ring-footrest stool occupies the forward desk approach. One scene-only finite floor supports the entire three floor-standing originals. This is a high tabletop preparation station beside an independent lower pan station with a low forward seat, not three display plinths or an L-shaped pair of printing tables. No original mesh is extracted, resized, recoloured or counted as a new model. Empty static illustrative equipment only: no fluid, waves, light paths, optical or measurement function, connected experiment, calibration, motion, ergonomics, accessibility, load or safety claim. Rigging, animation and interaction not made and outside delivery scope.",
+  "bounds": {
+    "x": 3.100000023841858,
+    "y": 2.299999952316284,
+    "z": 2.135000228881836,
+    "unit": "m"
+  },
+  "triangles": 5968,
+  "materials": 20,
+  "files": {
+    "glb": {
+      "path": "assets/education/education-whole-mechanics-and-fluid-apparatus-workcorner-scene-01/v1.0.0/model.glb",
+      "size": 493992,
+      "sha256": "a3788dfaec1b22aa152b70042d3f31dde1e1c8097e3e970c3dd071d041e0c9bd"
+    },
+    "blend": {
+      "path": "assets/education/education-whole-mechanics-and-fluid-apparatus-workcorner-scene-01/v1.0.0/source.blend",
+      "size": 1953392,
+      "sha256": "3ed775ccf88acb2c430acc23243fcd3a65464bca8548061cdac8dafda7454c4d"
+    },
+    "generator": {
+      "path": "assets/education/education-whole-mechanics-and-fluid-apparatus-workcorner-scene-01/v1.0.0/generate.py",
+      "size": 130662,
+      "sha256": "0a56dbb7a3bcc8899cd380b6228aa9f2f4f71474e5bc876122e799726ec61137"
+    },
+    "render": {
+      "path": "assets/education/education-whole-mechanics-and-fluid-apparatus-workcorner-scene-01/v1.0.0/thumbnail.png",
+      "size": 508152,
+      "sha256": "81029e02946ca5a6d7c633aabb1460f3635ad1ecd191d3f31efa6457afb76173"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

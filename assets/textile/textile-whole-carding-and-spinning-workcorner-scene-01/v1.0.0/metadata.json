@@ -1,0 +1,42 @@
+{
+  "id": "textile-whole-carding-and-spinning-workcorner-scene-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "textile",
+  "style": "source-preserved-low-poly",
+  "title": "Whole Carding and Spinning Workcorner",
+  "description": "One static fibre preparation and spinning workcorner scene, zero new independent models. Three complete previously qualified originals retain all original geometry buffers, hierarchy, normals and opaque PBR materials: one open worktable carries one complete unequal-drum carder rotated as an entire unit by a quarter turn, while a separate complete treadle spinning wheel occupies the lower floor station to the right. Both full carder base rails have finite full underside contact on the actual tabletop; elevated crank and feed portions can overhang without being mistaken for unsupported feet. The entire worktable and spinning wheel feet seat on one scene-only floor. An open forward approach separates the higher carding station from the independent lower spinning station; this is not two floor looms or a dye vat beside cloth. No original submesh is extracted, resized, recoloured or counted as a new model. Static illustrative equipment, empty of new fibre stock: no fibre processing, moving belt or treadle, yarn production, operator fit, ergonomics, loading, stability or safety performance claim. Rigging, animation and interaction not made and outside scope.",
+  "bounds": {
+    "x": 3.649999976158142,
+    "y": 2.149999976158142,
+    "z": 1.468374490737915,
+    "unit": "m"
+  },
+  "triangles": 7696,
+  "materials": 11,
+  "files": {
+    "glb": {
+      "path": "assets/textile/textile-whole-carding-and-spinning-workcorner-scene-01/v1.0.0/model.glb",
+      "size": 554956,
+      "sha256": "4fe7437127e36318d398285ac3a55e90c087cacabdf1345ed3c172b385dc4b6b"
+    },
+    "blend": {
+      "path": "assets/textile/textile-whole-carding-and-spinning-workcorner-scene-01/v1.0.0/source.blend",
+      "size": 1890720,
+      "sha256": "4f3258410a4558b35d5da5bad78e60732a93710026ee6688bee02a2a6ff6dd8e"
+    },
+    "generator": {
+      "path": "assets/textile/textile-whole-carding-and-spinning-workcorner-scene-01/v1.0.0/generate.py",
+      "size": 164596,
+      "sha256": "f954112f5fd6932339337afcc7fda26cfc95997172b73bf08e1d65e6667fe6cd"
+    },
+    "render": {
+      "path": "assets/textile/textile-whole-carding-and-spinning-workcorner-scene-01/v1.0.0/thumbnail.png",
+      "size": 498130,
+      "sha256": "26193f7d9ffaf714735a181f7ee1d4a02580f82e515af5b0ff13c6b6a13f808d"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

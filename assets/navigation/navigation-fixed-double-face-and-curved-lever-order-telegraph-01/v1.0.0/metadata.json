@@ -1,0 +1,42 @@
+{
+  "id": "navigation-fixed-double-face-and-curved-lever-order-telegraph-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "navigation",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Double Face and Curved Lever Order Telegraph",
+  "description": "One newly authored complete fixed ship-style order-telegraph exterior. A broad grounded foot and one continuously waisted column support a thick deep annular head with two opposite genuinely recessed blank circular faces. Each side has its own proud axial boss, complete outward-bent operating lever, transverse dark grip and low fixed positioning hood. The two levers are held in distinct offset planes with real open intervals to the face and rim, and extend beyond the head silhouette; their entire opposing grips remain part of the same instrument. Each blank face has one raised sector band and subordinate separators, deliberately not a calibrated clock dial or written command scale. It is not a parking-meter arch case on a taller post, a double alarm clock, or the old open half-hood gimbal compass cabinet: no coin cavity, bells, clock hands, compass card, gimbal rings or imported geometry is reused. All meshes are newly authored. One complete prop, zero scenes; four opaque constant untextured PBR materials, metres, Z up and horizontally bounds-centred ground origin. Fixed artistic mounting overlaps only. No transmission, signal response, command order, ship control, navigation, detent operation, motion, historical calibration, manufacture, installation, load, environmental sealing or safety capability is modeled or claimed. Rigging, animation and interaction are not made and outside this static deliverable.",
+  "bounds": {
+    "x": 0.632,
+    "y": 0.696,
+    "z": 1.402,
+    "unit": "m"
+  },
+  "triangles": 3400,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/navigation/navigation-fixed-double-face-and-curved-lever-order-telegraph-01/v1.0.0/model.glb",
+      "size": 181664,
+      "sha256": "89699dffae9e74e6096270065e19e4222bd6e0dd6825158528c8cbf6ff94a90d"
+    },
+    "blend": {
+      "path": "assets/navigation/navigation-fixed-double-face-and-curved-lever-order-telegraph-01/v1.0.0/source.blend",
+      "size": 857024,
+      "sha256": "faa45e768cf67142005ef73eed455c3b9e831543f61d69bd1af3cdcedeb87bf1"
+    },
+    "generator": {
+      "path": "assets/navigation/navigation-fixed-double-face-and-curved-lever-order-telegraph-01/v1.0.0/generate.py",
+      "size": 27133,
+      "sha256": "9785dd88461defd1553338391dc9bcf1b460e2462d54ae912866bc35a3d8874a"
+    },
+    "render": {
+      "path": "assets/navigation/navigation-fixed-double-face-and-curved-lever-order-telegraph-01/v1.0.0/thumbnail.png",
+      "size": 506674,
+      "sha256": "904b56fe332222320592ffc33c25259c374fb3c6b90fa22097453dfc0accab14"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "renovation-fixed-upright-case-and-slant-magazine-nailer-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "renovation",
+  "style": "source-preserved-low-poly",
+  "title": "Fixed Upright Case and Slant Magazine Nailer",
+  "description": "One newly authored complete static pneumatic-nailer-style exterior. A tall closed front cylinder with a full crown cap narrows to a closed blunt nose pad. A rear horizontal grip has a true open lower trigger guard and one fixed blunt trigger; a separate complete closed oblique magazine connects the nose region to a rear grip bridge, with a retained end stop and a short closed rear connector. All geometry newly authored, not a battery drill with its chuck replaced or a manual tacker with its lever removed. Three opaque untextured PBR roles; one model zero scenes. Exterior-only empty visual prop: no fasteners, internal driver, spring, pressure chamber, firing or feed passage, moving parts, air supply, construction instructions, operation or tool performance. No safety, manufacture, load or hand-fit certification. Rigging animation and interaction not made.",
+  "bounds": {
+    "x": 0.09200000017881393,
+    "y": 0.3619999885559082,
+    "z": 0.3240000009536743,
+    "unit": "m"
+  },
+  "triangles": 1084,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/renovation/renovation-fixed-upright-case-and-slant-magazine-nailer-01/v1.0.0/model.glb",
+      "size": 102680,
+      "sha256": "16ecb504f96a88790fb0f249c1029590362df54806c383ef090777533f600e90"
+    },
+    "blend": {
+      "path": "assets/renovation/renovation-fixed-upright-case-and-slant-magazine-nailer-01/v1.0.0/source.blend",
+      "size": 729376,
+      "sha256": "fadba0008b0c1fbe94d32db71a5214c1bcfe851b89237a91cfeee76892ac169f"
+    },
+    "generator": {
+      "path": "assets/renovation/renovation-fixed-upright-case-and-slant-magazine-nailer-01/v1.0.0/generate.py",
+      "size": 15879,
+      "sha256": "6075503df9b60d5478ca083db1097a80597df29a82a91371ea3e7f2b50fff00e"
+    },
+    "render": {
+      "path": "assets/renovation/renovation-fixed-upright-case-and-slant-magazine-nailer-01/v1.0.0/thumbnail.png",
+      "size": 513933,
+      "sha256": "b6fe15ac2a3acd81f1b67ff62b1062a715c454b00e03c6060511239d7c3ae955"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

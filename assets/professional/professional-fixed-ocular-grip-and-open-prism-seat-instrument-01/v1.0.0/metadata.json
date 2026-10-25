@@ -1,0 +1,42 @@
+{
+  "id": "professional-fixed-ocular-grip-and-open-prism-seat-instrument-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "professional",
+  "style": "source-preserved-low-poly",
+  "title": "Fixed Ocular Grip And Open Prism Seat Instrument",
+  "description": "One newly authored complete handheld open-cover refractometer-style exterior. One long ocular barrel and broad grip sleeve join a short faceted front shoulder and a complete sloping sample-seat head. An independent opaque inset plate sits on the head incline, while a full raised rectangular cover is connected by two side ears and a transverse hinge pin. A thick rear eyecup has a real blind recess and opaque recessed ocular disc. The complete portable body has no stand, clamp, binocular bridge or duplicated optical barrel. Unlike the complete paired binoculars, it has one slender grip and an exposed inclined sample seat under a fixed raised lid; unlike the stem-and-prism drawing aid, it has no table clamp, long angled post or suspended drawing aperture. All geometry newly authored without importing old components. One prop, zero scenes, four opaque untextured PBR roles. It is a fixed exterior display, not a working optical instrument: no refraction, transparency, magnification, measurement, calibration, sample handling, fluid compatibility, hinge movement, manufacturing or safety performance. No rigging, animation or interaction made; outside static scope.",
+  "bounds": {
+    "x": 0.4259999990463257,
+    "y": 0.07999999821186066,
+    "z": 0.15139999985694885,
+    "unit": "m"
+  },
+  "triangles": 1536,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/professional/professional-fixed-ocular-grip-and-open-prism-seat-instrument-01/v1.0.0/model.glb",
+      "size": 139788,
+      "sha256": "e636c8c5f33fc54ded7aa8e5d0b6d6c756fe62e9f13bcf4f99972c97804fabe8"
+    },
+    "blend": {
+      "path": "assets/professional/professional-fixed-ocular-grip-and-open-prism-seat-instrument-01/v1.0.0/source.blend",
+      "size": 793760,
+      "sha256": "1c79329fce4702169c5fdacd41aae49d091c62ae0a55b22a407344caa71ef7b1"
+    },
+    "generator": {
+      "path": "assets/professional/professional-fixed-ocular-grip-and-open-prism-seat-instrument-01/v1.0.0/generate.py",
+      "size": 17539,
+      "sha256": "ea763c90545ced03a7c80f52c385f74ba46fbcfa1d3f506cef1d1aff04397938"
+    },
+    "render": {
+      "path": "assets/professional/professional-fixed-ocular-grip-and-open-prism-seat-instrument-01/v1.0.0/thumbnail.png",
+      "size": 413179,
+      "sha256": "5bcea3c0d3f0257166315dc12f2e29caaac90b40b67e0addc09067d61457066a"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

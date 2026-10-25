@@ -1,0 +1,42 @@
+{
+  "id": "entertainment-fixed-twin-float-and-central-paddle-pedalboat-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "entertainment",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Twin Float and Central Paddle Pedalboat",
+  "description": "One newly authored whole fixed twin-float pedalboat exterior. Two complete shaped pointed-bow float solids support full front and rear cross bridges and a common two-seat platform. A separately supported transverse shaft carries a central eight-blade paddle assembly inside the open longitudinal gap, with opposed outer cranks and two full pedal treads. Two separate low seat pans and angled backs sit on actual platform supports. A complete stern rudder exterior and top tiller connect through a rear shaft and fixed bracket. New entire numeric geometry, not old kayak shells duplicated, a kart with wheels removed, or an imported water wheel moved into a scene. One complete model, zero scenes, four opaque untextured PBR roles. Metres, Z up, full horizontal envelope centred; two finite lower float soles grounded for dry display. Floats are solid closed stylized volumes, not validated hollow flotation chambers. Fixed illustrative pose only: no buoyancy, water simulation, drive ratio, propulsion, steering, occupancy, loading, motion, ergonomic fit, manufacture, operation or water safety claim. No occupants, water, rigging, animation or interaction.",
+  "bounds": {
+    "x": 1.68,
+    "y": 2.7800000000000002,
+    "z": 0.93,
+    "unit": "m"
+  },
+  "triangles": 1080,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/entertainment/entertainment-fixed-twin-float-and-central-paddle-pedalboat-01/v1.0.0/model.glb",
+      "size": 72884,
+      "sha256": "9ad06b6a81271e0fce8fabb3fabfaafbab596e2093e8a6fa4cbdabe2ff23c0a2"
+    },
+    "blend": {
+      "path": "assets/entertainment/entertainment-fixed-twin-float-and-central-paddle-pedalboat-01/v1.0.0/source.blend",
+      "size": 769952,
+      "sha256": "acac8e08c896bf3ba6ce90eec6f17bf848746c231784e7d05de4df09453bc4a4"
+    },
+    "generator": {
+      "path": "assets/entertainment/entertainment-fixed-twin-float-and-central-paddle-pedalboat-01/v1.0.0/generate.py",
+      "size": 12166,
+      "sha256": "ddf7e12998cf8eee0801970da8e4bc39e901c596f1894ca0dc27d07946e546ca"
+    },
+    "render": {
+      "path": "assets/entertainment/entertainment-fixed-twin-float-and-central-paddle-pedalboat-01/v1.0.0/thumbnail.png",
+      "size": 441344,
+      "sha256": "836e0e6a33e4d1ee67a43b687f6da78f465cf736a0328640994ce79fbdd92dd7"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

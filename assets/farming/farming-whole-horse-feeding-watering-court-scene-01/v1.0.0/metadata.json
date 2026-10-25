@@ -1,0 +1,42 @@
+{
+  "id": "farming-whole-horse-feeding-watering-court-scene-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "farming",
+  "style": "source-preserved-faceted-natural-ecology",
+  "title": "Whole Horse Feeding and Watering Court",
+  "description": "One static outdoor horse feeding-and-watering court scene built from three complete qualified originals at unit scale: the full arched-neck horse stands behind a separate empty V-rack hay manger, while a complete low stone water trough occupies the left-side bay. A continuous scene-only ground plinth joins the unequal feeding and watering positions with a visible empty center-left approach. All original oriented world-space triangles, face material assignment and constant opaque PBR retained; only whole translations and explicit final float32 coordinate storage. Source node hierarchy and normals are baked/recomputed explicitly, not claimed byte-identical GLB. No old parts cut, rescaled, recolored or multiplied. One scene, zero new reusable models. No animated eating, edible hay, water supply, husbandry/species-fit, navigation, accessibility, stability or safety guarantee; static game-art display only.",
+  "bounds": {
+    "x": 5.599999905,
+    "y": 5.0,
+    "z": 2.674999952,
+    "unit": "m"
+  },
+  "triangles": 2108,
+  "materials": 11,
+  "files": {
+    "glb": {
+      "path": "assets/farming/farming-whole-horse-feeding-watering-court-scene-01/v1.0.0/model.glb",
+      "size": 163844,
+      "sha256": "6bc703410e2d5ce1ae8801b27b8dcbc102e58f16ea055e34e08dc1f3b31f852f"
+    },
+    "blend": {
+      "path": "assets/farming/farming-whole-horse-feeding-watering-court-scene-01/v1.0.0/source.blend",
+      "size": 974536,
+      "sha256": "70e969a969459d696e0a8351d6df60bc016b5ef52cd04c890af008bb82091697"
+    },
+    "generator": {
+      "path": "assets/farming/farming-whole-horse-feeding-watering-court-scene-01/v1.0.0/generate.py",
+      "size": 73338,
+      "sha256": "11cd07d39bc43b1732b0e8408e53adeb6d8d6277879c2bff247a4c5241d35e97"
+    },
+    "render": {
+      "path": "assets/farming/farming-whole-horse-feeding-watering-court-scene-01/v1.0.0/thumbnail.png",
+      "size": 511521,
+      "sha256": "f452819d4c467ee37fe54f3dd6d3747d369cbee958b2b7b8626d499f94a6e3e0"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

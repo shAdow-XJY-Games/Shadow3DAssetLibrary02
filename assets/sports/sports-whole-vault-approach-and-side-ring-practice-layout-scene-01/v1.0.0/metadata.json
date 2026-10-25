@@ -1,0 +1,42 @@
+{
+  "id": "sports-whole-vault-approach-and-side-ring-practice-layout-scene-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "sports",
+  "style": "source-preserved-low-poly",
+  "title": "Whole Vault Approach and Side Ring Practice Layout",
+  "description": "One static gymnastics-apparatus preparation layout, three complete existing models and zero new independent models. At left a whole curved-deck springboard is aligned along the long floor direction before a complete broad-head vault table, with a real separated gap rather than inferred mechanical connection. At right an entire independently guyed twin-ring portal occupies a separate tall hanging-apparatus zone. All original GLB geometry, normals, hierarchy, fixed poses and complete PBR remain at unit scale, translated only. One scene-only floor connects the separate approach and side apparatus areas. This is neither a raised boxing enclosure with bag stations nor the old barbell-and-bench or rower-and-treadmill corner. No model component is extracted, duplicated or counted as new. Static illustrative equipment preparation only: no functional compatibility of board/table, actual run-up length, landing provision, training routine, user fit, load, stability, certified clearance or safety claim. Rigging, animation and interaction not made.",
+  "bounds": {
+    "x": 5.299999952316284,
+    "y": 4.200000047683716,
+    "z": 3.359999895095825,
+    "unit": "m"
+  },
+  "triangles": 5766,
+  "materials": 10,
+  "files": {
+    "glb": {
+      "path": "assets/sports/sports-whole-vault-approach-and-side-ring-practice-layout-scene-01/v1.0.0/model.glb",
+      "size": 365596,
+      "sha256": "db517ce060cf06eb9dbd97065f200da55b5a76d8f3e15c9047967e3ec15c3f71"
+    },
+    "blend": {
+      "path": "assets/sports/sports-whole-vault-approach-and-side-ring-practice-layout-scene-01/v1.0.0/source.blend",
+      "size": 1464776,
+      "sha256": "7b8a9f587ae899f668196d3699fbb0f5268752fa4122f50371558d282c3a9845"
+    },
+    "generator": {
+      "path": "assets/sports/sports-whole-vault-approach-and-side-ring-practice-layout-scene-01/v1.0.0/generate.py",
+      "size": 126400,
+      "sha256": "2dee9df4245019d912364992a5ddc72be8352c88733b1f2d5630082740c5b27a"
+    },
+    "render": {
+      "path": "assets/sports/sports-whole-vault-approach-and-side-ring-practice-layout-scene-01/v1.0.0/thumbnail.png",
+      "size": 508019,
+      "sha256": "7aa10909665faad213715c19b838d01f0a1f50e0396e2afed020c3ba3b60a4f9"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

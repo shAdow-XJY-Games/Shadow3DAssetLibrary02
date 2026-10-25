@@ -1,0 +1,42 @@
+{
+  "id": "kitchen-fixed-open-fork-and-blunt-wheel-cutter-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "kitchen",
+  "style": "source-preserved-low-poly",
+  "title": "Fixed Open Fork and Blunt Wheel Cutter",
+  "description": "One newly authored complete fixed handheld wheel-cutter-style kitchen prop in an empty horizontal display pose. A whole thick blunt circular wheel with a genuine small axial opening is retained by one through axle and two finite caps between the separated upper and lower cheeks of a continuous open fork. The fork joins a complete tang entering one long swelling blunt grip with a broad finger-stop collar. All geometry new, not a motor saw with its case removed or a pipe cutter with its C frame cropped. Three opaque constant PBR roles; one model zero scenes. No food, sharp edge, powered parts, wheel motion, cutting performance, hand fit, food contact, hygiene, manufacture, operation or safety certification. Rigging animation and interaction are not made.",
+  "bounds": {
+    "x": 0.12800000607967377,
+    "y": 0.4090000092983246,
+    "z": 0.052000001072883606,
+    "unit": "m"
+  },
+  "triangles": 1508,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/kitchen/kitchen-fixed-open-fork-and-blunt-wheel-cutter-01/v1.0.0/model.glb",
+      "size": 133028,
+      "sha256": "143228870be74774897a801e86c9bab6f6a38d0ce0d370aa6ffcf516d2fb51f2"
+    },
+    "blend": {
+      "path": "assets/kitchen/kitchen-fixed-open-fork-and-blunt-wheel-cutter-01/v1.0.0/source.blend",
+      "size": 739232,
+      "sha256": "bdb2133b40acc6b79f615e4ab9e7fec9ca58e015f0fe1fc5fb035141b0338c8b"
+    },
+    "generator": {
+      "path": "assets/kitchen/kitchen-fixed-open-fork-and-blunt-wheel-cutter-01/v1.0.0/generate.py",
+      "size": 14673,
+      "sha256": "8bd2299f97f94dbcaed0983a546ea876c2ff765621dfb0b7b1f5d68d9f9d63b0"
+    },
+    "render": {
+      "path": "assets/kitchen/kitchen-fixed-open-fork-and-blunt-wheel-cutter-01/v1.0.0/thumbnail.png",
+      "size": 469818,
+      "sha256": "b3f56adc20d8f620d4676d9e9b2f2cfdd63632e39c2f10385c8b027d409f11f0"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

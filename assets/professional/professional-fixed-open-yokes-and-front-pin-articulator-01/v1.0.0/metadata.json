@@ -1,0 +1,42 @@
+{
+  "id": "professional-fixed-open-yokes-and-front-pin-articulator-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "professional",
+  "style": "source-preserved-low-poly",
+  "title": "Fixed Open Yokes and Front Pin Articulator",
+  "description": "One newly authored whole static empty articulator-style professional display. A continuous open lower mounting frame on four full pads supports two rear uprights and one retained transverse hinge axle. A separate complete open upper yoke is fixed at a shallow raised angle; two blank opposed mounting discs leave the middle empty rather than carrying teeth or casts. A long front vertical pin passes visually through a complete forward guide and lands on a finite sloped lower table, with separate fixed stop and side lock-wheel exteriors. Three opaque solid PBR materials, one prop zero scenes. New full geometry, not a bench vise without jaws or a waffle machine without mould squares. Static external appearance only: no dental casts, teeth, patient, diagnosis, occlusion or anatomical accuracy, calibration, adjustment range, clinical operation, moving mechanism, gripping, manufacture or safety performance. Rigging, animation and interaction are not made.",
+  "bounds": {
+    "x": 0.23999999463558197,
+    "y": 0.22200000286102295,
+    "z": 0.2540000081062317,
+    "unit": "m"
+  },
+  "triangles": 2168,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/professional/professional-fixed-open-yokes-and-front-pin-articulator-01/v1.0.0/model.glb",
+      "size": 198080,
+      "sha256": "d6e721d60d6b4053fb71af07362012e2e8614b6e8c0bce4fd75946d57f850bdd"
+    },
+    "blend": {
+      "path": "assets/professional/professional-fixed-open-yokes-and-front-pin-articulator-01/v1.0.0/source.blend",
+      "size": 879008,
+      "sha256": "10c96feb08e38e20853007f30c9e0e8348cb56cd167b38c3f43775ad5b34d72a"
+    },
+    "generator": {
+      "path": "assets/professional/professional-fixed-open-yokes-and-front-pin-articulator-01/v1.0.0/generate.py",
+      "size": 16656,
+      "sha256": "7f3db34b85a5c674bbd55e01de28eaba999f19f56c8f55c40ed620f8a71926a0"
+    },
+    "render": {
+      "path": "assets/professional/professional-fixed-open-yokes-and-front-pin-articulator-01/v1.0.0/thumbnail.png",
+      "size": 521834,
+      "sha256": "4124b96e7e5070a95225805197951faae203030c3d2266d14b051dce7b1b1dd3"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "music-fixed-string-console-and-three-pedal-linkage-steel-guitar-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "music",
+  "style": "S01-clean-geometric",
+  "title": "Fixed String Console and Three Pedal Linkage Steel Guitar",
+  "description": "One newly authored whole static pedal-steel-style string-console instrument. A long narrow solid console with deep front and rear aprons has a full raised string deck, a genuinely open central tuner-head pocket at one end and ten separate fixed bridge fingers on a common transverse axle at the other. Ten continuous strings span individual tuner posts, a full nut and bridge; a separate pickup and fixed controls complete the top. Four outward-sloping legs terminate in finite ground feet. A complete low front pedal bar joins the front legs, carries three thick projecting foot pedals and three full vertical rods ending in separately modeled under-console crank arms. Two additional fixed knee-lever appearances hang below the console. All geometry is new: not an electric guitar laid on a stand or a zither with more strings; the legged console, end hardware and entire pedal-to-underframe layout define the complete object. Four opaque untextured PBR roles, metres, Z up and horizontal-envelope-centred ground origin. One prop and zero scenes. Static illustrative exterior only; string tension, sound, tuning, pitch-change mechanism, pedal or knee movement, electrical internals, playing ergonomics and manufacture are not verified. No rigging, animation or interaction.",
+  "bounds": {
+    "x": 1.0368,
+    "y": 0.622,
+    "z": 0.858,
+    "unit": "m"
+  },
+  "triangles": 2216,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/music/music-fixed-string-console-and-three-pedal-linkage-steel-guitar-01/v1.0.0/model.glb",
+      "size": 171624,
+      "sha256": "2308f5f0cdc5eb1af73be51fa2f1730449bb30f2d021ee557df7925ac9b65ff2"
+    },
+    "blend": {
+      "path": "assets/music/music-fixed-string-console-and-three-pedal-linkage-steel-guitar-01/v1.0.0/source.blend",
+      "size": 1225412,
+      "sha256": "4bed46c04d5b741d17a08a6ef9559c4aab3401ba69b3fff0bca2b3b8f4d10ea1"
+    },
+    "generator": {
+      "path": "assets/music/music-fixed-string-console-and-three-pedal-linkage-steel-guitar-01/v1.0.0/generate.py",
+      "size": 12761,
+      "sha256": "90b859e67338530fd6cc73a37fdcef34b1cbdc284faa5c0df7222acc4854b252"
+    },
+    "render": {
+      "path": "assets/music/music-fixed-string-console-and-three-pedal-linkage-steel-guitar-01/v1.0.0/thumbnail.png",
+      "size": 457447,
+      "sha256": "35a4d1e1369106f8fbf156134e9019d1e86ef07cb639985871e4a57838764ee5"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

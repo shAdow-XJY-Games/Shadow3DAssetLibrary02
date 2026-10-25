@@ -1,0 +1,42 @@
+{
+  "id": "cafe-fixed-open-gear-and-twin-cage-hand-beater-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "cafe",
+  "style": "source-preserved-low-poly",
+  "title": "Fixed Open Gear and Twin Cage Hand Beater",
+  "description": "One newly authored complete static hand-crank twin-beater appearance. A continuous open twin-shaft bearing frame carries one fixed upper handgrip and a transverse axle with a separate large open toothed side wheel and three full spokes. A whole offset crank and short separate grip project forward. Two distinct long vertical shafts pass through lower collars and carry complete crossed thick wire cages; two small tooth-collar exteriors remain visibly separate from the large wheel rather than promising working gear mesh. All whole numeric geometry is newly authored, not the earlier electric mixer stripped of its motor or a single-spindle hand drill with its bit renamed. Three opaque solid PBR roles, one prop zero scenes. No bowl, food, electricity, working drive, gear ratio, rotation, mixing or whisking performance, food-contact hygiene, manufacturing, grip fit, balance or safety claim. Lowest wires only define a static display datum, not self-standing use. Rigging animation and interaction are not made.",
+  "bounds": {
+    "x": 0.13371309638023376,
+    "y": 0.14399999380111694,
+    "z": 0.3959999978542328,
+    "unit": "m"
+  },
+  "triangles": 4980,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/cafe/cafe-fixed-open-gear-and-twin-cage-hand-beater-01/v1.0.0/model.glb",
+      "size": 434404,
+      "sha256": "e5e6e597d68772fdbecbecb1a0464dee34d9e04ab0352144239377c9b42b059e"
+    },
+    "blend": {
+      "path": "assets/cafe/cafe-fixed-open-gear-and-twin-cage-hand-beater-01/v1.0.0/source.blend",
+      "size": 1189248,
+      "sha256": "7a82a6cea2327fe706151643e71653d8ca9ddd6ab1e7b8a01b53061cb25d1381"
+    },
+    "generator": {
+      "path": "assets/cafe/cafe-fixed-open-gear-and-twin-cage-hand-beater-01/v1.0.0/generate.py",
+      "size": 16888,
+      "sha256": "e72a5d51eaf23091fae5a00abad6a698240bfe80d26b08f6639d168d1296be09"
+    },
+    "render": {
+      "path": "assets/cafe/cafe-fixed-open-gear-and-twin-cage-hand-beater-01/v1.0.0/thumbnail.png",
+      "size": 456780,
+      "sha256": "456e20ad6cda711d94340f7b7d07ca57402a771b0ad4be3158c84c1b60dfb0eb"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

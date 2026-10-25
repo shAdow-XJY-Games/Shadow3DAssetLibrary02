@@ -1,0 +1,42 @@
+{
+  "id": "playground-fixed-puffed-floor-and-open-grid-arch-enclosure-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "playground",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Puffed Floor and Open Grid Arch Enclosure",
+  "description": "One newly authored whole fixed soft-play-enclosure exterior. A complete thick chamfer-rounded puffed floor has a finite flat underside and a gently raised top. Four rooted padded columns carry a tall continuous front entry arch and complete side/back lower and upper padded rails. Three full window fields consist of real separate crossed finite strands with actual open cells, not transparent planes or printed mesh. A whole broad low inclined entry ramp is grounded and enters the front of the floor. The complete rooted floor, columns, arch and enclosing windows form one prop, not a trampoline with a changed surface, a sandpit with taller walls, a castle recolour or a scene assembled from earlier pieces. All numeric geometry newly authored, four opaque constant untextured PBR roles, metres, Z up and whole horizontally centred ground datum. One model, zero scenes. Fixed illustrative exterior only: padded forms use solid closed surfaces, internal pressure chambers, blower, inflation, fabric seams, elastic response, jumping, child fit, restraint/enclosure effectiveness, load, installation, manufacture and playground safety are not modeled or verified. No rigging, animation or interaction.",
+  "bounds": {
+    "x": 2.5900000000000003,
+    "y": 3.255,
+    "z": 2.6500000000000004,
+    "unit": "m"
+  },
+  "triangles": 3288,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/playground/playground-fixed-puffed-floor-and-open-grid-arch-enclosure-01/v1.0.0/model.glb",
+      "size": 210304,
+      "sha256": "760871041cb9f9d8dca544cf5033dd4e0e051be96935358de903f1be0b40cc6e"
+    },
+    "blend": {
+      "path": "assets/playground/playground-fixed-puffed-floor-and-open-grid-arch-enclosure-01/v1.0.0/source.blend",
+      "size": 1088588,
+      "sha256": "406713b01ea068f154978f3928ddcd034bea5d50ee5d4179dfb1d5cc5a0c30c0"
+    },
+    "generator": {
+      "path": "assets/playground/playground-fixed-puffed-floor-and-open-grid-arch-enclosure-01/v1.0.0/generate.py",
+      "size": 12068,
+      "sha256": "04187e962f12934b39b0fb8ab9f5e83322647ce31822e9b1dd15200c5397b7a0"
+    },
+    "render": {
+      "path": "assets/playground/playground-fixed-puffed-floor-and-open-grid-arch-enclosure-01/v1.0.0/thumbnail.png",
+      "size": 620259,
+      "sha256": "2a5543344d9f84dadff265ec3a262fad73c8e1c200965d9e56f918cd95ed53ce"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

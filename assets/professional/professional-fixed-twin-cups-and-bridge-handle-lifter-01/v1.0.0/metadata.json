@@ -1,0 +1,42 @@
+{
+  "id": "professional-fixed-twin-cups-and-bridge-handle-lifter-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "professional",
+  "style": "source-preserved-low-poly",
+  "title": "Fixed Twin Cups And Bridge Handle Lifter",
+  "description": "One newly authored complete fixed twin-cup and bridge-handle lifter exterior. Two independently closed thick shallow flexible-looking cup shells have true downward blind cavities and broad annular contact lips. Each carries its own complete upper cover, double-ear pivot seat, full transverse pin and raised short lever. A single connected inverted-U bridge joins both cup crowns and carries a broad central grip above a genuine hand opening. No robot, crane, frame, separate cup kit or workpiece is included. Unlike the complete three-branch parallel robot, no upper platform, converging linkage, tall peripheral columns or extracted end tool is used; unlike the old pear hand bellows, no paired boards, tapered nozzle or pleated bag is present. All surfaces newly authored as one coherent handheld-tool exterior; repeated cups belong to one model and are not separate assets or variants. One prop, zero scenes, four opaque untextured PBR roles. The two raised levers are fixed display geometry only; the underside cavities are real but not a validated sealed pneumatic system. No suction, vacuum, adhesion, carrying capacity, grip, glass handling, actuation, cam law, deformation, manufacture or safety performance. No rigging, animation or interaction made; outside static scope.",
+  "bounds": {
+    "x": 0.492000013589859,
+    "y": 0.2160000056028366,
+    "z": 0.1509999930858612,
+    "unit": "m"
+  },
+  "triangles": 2296,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/professional/professional-fixed-twin-cups-and-bridge-handle-lifter-01/v1.0.0/model.glb",
+      "size": 206256,
+      "sha256": "7e4073b75d909065fd5124f0f5f480edf8108ae7225618d89ed811fbc89cab24"
+    },
+    "blend": {
+      "path": "assets/professional/professional-fixed-twin-cups-and-bridge-handle-lifter-01/v1.0.0/source.blend",
+      "size": 897696,
+      "sha256": "3535bc5f7db7bd049ef5d776afc488e68364f295b9b9c67c84439adbd1c6487c"
+    },
+    "generator": {
+      "path": "assets/professional/professional-fixed-twin-cups-and-bridge-handle-lifter-01/v1.0.0/generate.py",
+      "size": 17382,
+      "sha256": "1eb5c44f510b79311bdebe18da08a5c593b98333ba5d67f84504a9cb88d4d82a"
+    },
+    "render": {
+      "path": "assets/professional/professional-fixed-twin-cups-and-bridge-handle-lifter-01/v1.0.0/thumbnail.png",
+      "size": 504099,
+      "sha256": "6472db43015c981b3904777f75b73449400550ca57a952abdaa4b32132fb6ea3"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

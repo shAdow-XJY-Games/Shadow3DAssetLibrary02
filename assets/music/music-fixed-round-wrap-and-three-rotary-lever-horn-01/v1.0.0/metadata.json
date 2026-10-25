@@ -1,0 +1,42 @@
+{
+  "id": "music-fixed-round-wrap-and-three-rotary-lever-horn-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "music",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Round Wrap and Three Rotary Lever Horn",
+  "description": "One newly authored whole static rotary-horn-style exterior. A continuous near-circular hollow main tube surrounds three short broad rotor drum housings and flows into a back-swept expanding open side bell. Each drum has its own raised cover, fixed spindle and crank, complete short link rod, separate lever paddle and upper return slide. A common supported lever bearing and three rooted branch stays connect the complete assembly. A higher swept inlet ends in a real open shallow cup. All numeric geometry is new, with no imported instrument meshes. The surrounding round wrap and low rotary-linkage bank are not the old long valveless U bugle lengthened or an inline three-piston trumpet scaled or recoloured. Four opaque untextured PBR roles, metres, Z up and horizontal-envelope-centred datum on three finite rotor-cap lower faces. One whole prop, zero scenes. Generic fixed illustrative exterior only: the drum housings are solid, internal acoustic routing and airtightness are not modeled; no sound, tuning, playability, rotor motion, linkage operation, exact historical design, fit, manufacture or safety claim. No animation, rigging, interaction, player or stand.",
+  "bounds": {
+    "x": 0.8785491283665722,
+    "y": 0.6054554556377649,
+    "z": 0.2835590277256126,
+    "unit": "m"
+  },
+  "triangles": 9176,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/music/music-fixed-round-wrap-and-three-rotary-lever-horn-01/v1.0.0/model.glb",
+      "size": 569216,
+      "sha256": "8b4e9ad15f1ddd7499ce1a035510946ae1dc189821a1dd4a903f9a5479e4136d"
+    },
+    "blend": {
+      "path": "assets/music/music-fixed-round-wrap-and-three-rotary-lever-horn-01/v1.0.0/source.blend",
+      "size": 1202388,
+      "sha256": "3bf631d5d341228f1da601f29ccb31b34727465eb978617997789d0e8708cb2e"
+    },
+    "generator": {
+      "path": "assets/music/music-fixed-round-wrap-and-three-rotary-lever-horn-01/v1.0.0/generate.py",
+      "size": 12602,
+      "sha256": "17cd6912a49dc2d07712c6aae40d44711eebfca8cd70d85a348f022b76dbf9da"
+    },
+    "render": {
+      "path": "assets/music/music-fixed-round-wrap-and-three-rotary-lever-horn-01/v1.0.0/thumbnail.png",
+      "size": 453052,
+      "sha256": "86d3defd517dc25d273e1b5af6f5ddfe30ec8dbf07d6c79ba0c4171d68fca283"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

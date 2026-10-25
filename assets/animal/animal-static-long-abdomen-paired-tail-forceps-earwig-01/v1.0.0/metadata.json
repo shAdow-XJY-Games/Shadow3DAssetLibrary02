@@ -1,0 +1,42 @@
+{
+  "id": "animal-static-long-abdomen-paired-tail-forceps-earwig-01",
+  "version": "1.0.0",
+  "category": "modular",
+  "assetKind": "prop",
+  "theme": "animal",
+  "style": "warm-handcrafted-village",
+  "title": "Static Long-Abdomen Paired Tail-Forceps Earwig",
+  "description": "One complete newly authored static earwig-like insect. A low rounded head and short thorax lead into a long exposed broad segmented-looking abdomen with shallow real transverse ridges. Two thick short wing covers sit on the forward thorax with a genuine narrow middle seam, leaving the rear abdomen visible. Two long tapered terminal forceps curve outward then inward at the rear around a real open space; they are tail appendages rather than a scorpion front claw pair or rising sting. Six complete angled walking legs have finite grounded toe caps, two long thin antennae extend forward and two small lateral eyes finish the head. Whole new sections and paths; no beetle mesh elongated, no scorpion parts cut. One static stylised model, zero scenes; no precise species, microscopic joints, actual pinching, flying, gait, biological function or rig claim.",
+  "bounds": {
+    "x": 1.186629534,
+    "y": 3.224602938,
+    "z": 0.428000003,
+    "unit": "m"
+  },
+  "triangles": 2356,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/animal/animal-static-long-abdomen-paired-tail-forceps-earwig-01/v1.0.0/model.glb",
+      "size": 135728,
+      "sha256": "6db5a52134cd90d5203131b772f39c5127dda7903f908078c8f57048d9efeeb4"
+    },
+    "blend": {
+      "path": "assets/animal/animal-static-long-abdomen-paired-tail-forceps-earwig-01/v1.0.0/source.blend",
+      "size": 674276,
+      "sha256": "09ab3e90310a0d7b0960c0b2b51da60207f7ab63aeb8280bd1d7cc8665c03d2f"
+    },
+    "generator": {
+      "path": "assets/animal/animal-static-long-abdomen-paired-tail-forceps-earwig-01/v1.0.0/generate.py",
+      "size": 30093,
+      "sha256": "c438a838780a7215e158c1a74b8960c23aa0fe6a4789d5eab011832d2d9b6e73"
+    },
+    "render": {
+      "path": "assets/animal/animal-static-long-abdomen-paired-tail-forceps-earwig-01/v1.0.0/thumbnail.png",
+      "size": 478817,
+      "sha256": "1704853d0ea72c19dd53f8fe69713ebf85c8b6af72f0f52981f84a9292e126f5"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

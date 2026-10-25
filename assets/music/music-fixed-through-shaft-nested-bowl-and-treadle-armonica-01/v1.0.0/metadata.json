@@ -1,0 +1,42 @@
+{
+  "id": "music-fixed-through-shaft-nested-bowl-and-treadle-armonica-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "music",
+  "style": "source-preserved-low-poly",
+  "title": "Fixed Through Shaft Nested Bowl and Treadle Armonica",
+  "description": "One newly authored whole fixed nested-bowl music-instrument appearance on its integral foot-treadle frame. Two broad grounded end shoes, four splayed legs and a paired open bed carry two independent bored shaft bearings. One continuous horizontal axle passes through six complete progressively smaller hollow bowl shells whose open mouths face one end; each has its own real thick curved wall and central shaft bore, and adjacent shells nest with visible separation rather than becoming a solid cone. A separate fixed crank, long diagonal connecting rod and complete low hinged foot treadle belong to the same supported assembly. The bowl column on a through axle and fixed crank-treadle frame is not a spring-pole lathe with a solid blank/tool rest/return pole, nor a kettle drum sealed by a membrane. New numeric whole geometry, no existing bowl or lathe mesh imported; six bowls are constituent parts, not six counted assets. Four opaque constant PBR roles, metres, one prop and zero scenes. Opaque pale bowl surfaces only, no transparent glass, sound, musical tuning, wet friction, kinetic linkage, rotation, pedal travel, acoustic performance, ergonomics, material fabrication, load or safety claim. Fixed illustrative art; rigging, animation and interaction not made and outside static scope.",
+  "bounds": {
+    "x": 1.3630000352859497,
+    "y": 0.7200000286102295,
+    "z": 1.1799999475479126,
+    "unit": "m"
+  },
+  "triangles": 6024,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/music/music-fixed-through-shaft-nested-bowl-and-treadle-armonica-01/v1.0.0/model.glb",
+      "size": 528108,
+      "sha256": "165d5761d35b2634affddc114245eb0df4cfd50b7bddacce6bce012163d8771d"
+    },
+    "blend": {
+      "path": "assets/music/music-fixed-through-shaft-nested-bowl-and-treadle-armonica-01/v1.0.0/source.blend",
+      "size": 1371680,
+      "sha256": "930149c8ea30d8d945cfb6b92452483dc5f7812023fab31b10767de15cb62389"
+    },
+    "generator": {
+      "path": "assets/music/music-fixed-through-shaft-nested-bowl-and-treadle-armonica-01/v1.0.0/generate.py",
+      "size": 18010,
+      "sha256": "a877504163350978cb8efcb976b1ec973ade9ef410ddaa58b8d2816d92c42cb1"
+    },
+    "render": {
+      "path": "assets/music/music-fixed-through-shaft-nested-bowl-and-treadle-armonica-01/v1.0.0/thumbnail.png",
+      "size": 587757,
+      "sha256": "e8a8e5861f25438fd53a8019b4da81049c6c281c1657cc35de2c058e5bafbeb6"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

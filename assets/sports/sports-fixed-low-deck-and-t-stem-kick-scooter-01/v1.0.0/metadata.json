@@ -1,0 +1,42 @@
+{
+  "id": "sports-fixed-low-deck-and-t-stem-kick-scooter-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "sports",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Low Deck and T Stem Kick Scooter",
+  "description": "One newly authored complete static unpowered kick-scooter exterior. A low long narrow foot deck continues into two integral rear axle prongs around a small rear wheel and a rising front neck that seats a real open cylindrical steering head. A long thin T mast, separate front fork crown and paired legs, two full annular small tires with hubs/axles, two thick handle grips, a complete curved rear fender-brake appearance, and a deployed narrow stand form one integrated whole vehicle. The head tube retains a real annular opening around its narrower fixed stem. No old electric step-through body is stripped: all geometry is new, with no saddle, broad leg shield or motor housing. Unlike the old skateboard there are no transverse paired-wheel trucks or double-kick concave deck. Three opaque untextured PBR roles, metres, ground-centred envelope, one prop and zero scenes. Fixed display only; no steering, braking, folding, riding suitability, load, road compliance, material or safety performance claim. Rigging, animation and interaction not made.",
+  "bounds": {
+    "x": 0.528,
+    "y": 1.0277031638759089,
+    "z": 0.9530000000000001,
+    "unit": "m"
+  },
+  "triangles": 1832,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/sports/sports-fixed-low-deck-and-t-stem-kick-scooter-01/v1.0.0/model.glb",
+      "size": 90264,
+      "sha256": "82adc4f4a789589188f34ee6f0ecad990899cbe3b0bc06bdc699e99cf693c58e"
+    },
+    "blend": {
+      "path": "assets/sports/sports-fixed-low-deck-and-t-stem-kick-scooter-01/v1.0.0/source.blend",
+      "size": 717444,
+      "sha256": "44a3f7fbca25df5200980054c58beabc1f127b80114b17ccafa38a61c67f2a75"
+    },
+    "generator": {
+      "path": "assets/sports/sports-fixed-low-deck-and-t-stem-kick-scooter-01/v1.0.0/generate.py",
+      "size": 12501,
+      "sha256": "88a39c5f1b3e5d0c26b3a5a327ad6b2bff637568f60312d111aedf7e5b8e31da"
+    },
+    "render": {
+      "path": "assets/sports/sports-fixed-low-deck-and-t-stem-kick-scooter-01/v1.0.0/thumbnail.png",
+      "size": 323094,
+      "sha256": "0eb964961cb889a497638a7048cdb34a20528a982add19a276e3826c344ae283"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

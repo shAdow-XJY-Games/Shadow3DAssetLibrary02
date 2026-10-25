@@ -1,0 +1,42 @@
+{
+  "id": "animal-static-high-shoulder-knuckle-grounded-gorilla-01",
+  "version": "1.0.0",
+  "category": "modular",
+  "assetKind": "prop",
+  "theme": "animal",
+  "style": "warm-handcrafted-village",
+  "title": "Static High-Shoulder Knuckle-Grounded Gorilla",
+  "description": "One complete newly authored static gorilla-like ape in a low four-contact display pose. A broad high shoulder/back mass narrows toward a lower rear pelvis; its short thick forward neck and low heavy-browed head are continuous with the torso. Two very long muscular bent forearms end in broad thick grounded knuckle-like hand masses while two much shorter flexed rear legs end in forward finite feet. A broad flat nose, small forward eyes, thick brow and two small low ears distinguish the face; no tail or branch. All whole body/limb/face sections and positions newly authored, not a plush bear stretched or the hanging sloth reposed. One static stylised model, zero scenes; no exact species, detailed finger anatomy, real gait/load-bearing, aggression, rig, animation or biological claim.",
+  "bounds": {
+    "x": 1.59461987,
+    "y": 1.665570378,
+    "z": 2.059999943,
+    "unit": "m"
+  },
+  "triangles": 1516,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/animal/animal-static-high-shoulder-knuckle-grounded-gorilla-01/v1.0.0/model.glb",
+      "size": 88892,
+      "sha256": "cb84c7c73adbef93306c4463b04c9f7ad0877a499cc4b240e7d33ed331eb81b1"
+    },
+    "blend": {
+      "path": "assets/animal/animal-static-high-shoulder-knuckle-grounded-gorilla-01/v1.0.0/source.blend",
+      "size": 623600,
+      "sha256": "f15f2ad084fb0e13a407eb7f203e469e351152b4465a928b3ce6cdb90e3ee5e4"
+    },
+    "generator": {
+      "path": "assets/animal/animal-static-high-shoulder-knuckle-grounded-gorilla-01/v1.0.0/generate.py",
+      "size": 30022,
+      "sha256": "c83a35f00258331de452c57650d52c73e8bb8218acbe804b6cf8f6078fddb53c"
+    },
+    "render": {
+      "path": "assets/animal/animal-static-high-shoulder-knuckle-grounded-gorilla-01/v1.0.0/thumbnail.png",
+      "size": 480632,
+      "sha256": "27aef83c6ce3166b26076ebe0b6af4a03a8cd05374f99180a32e200ca4d8e9b5"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
