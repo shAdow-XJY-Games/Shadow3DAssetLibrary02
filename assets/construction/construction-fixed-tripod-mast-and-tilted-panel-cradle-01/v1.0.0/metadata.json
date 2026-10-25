@@ -1,0 +1,42 @@
+{
+  "id": "construction-fixed-tripod-mast-and-tilted-panel-cradle-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "construction",
+  "style": "source-preserved-low-poly",
+  "title": "Fixed Tripod Mast and Tilted Panel Cradle",
+  "description": "One newly authored complete empty panel-lift-style static exterior. Three low radial outriggers end in complete caster forks, wheels and pivots around one central base. A genuinely bored tall square outer mast surrounds one separate fixed raised inner section with a transverse retaining pin. A complete side bracket carries a flanged drum, through shaft and large three-spoke handwheel with a distinct offset grip. The upper open clevis and full pivot carry one broad tilted H-shaped cradle: an entire cross spine, two whole transverse rails, four small pads and two continuous front stop hooks. No panel, load, cable routing, duplicated old hoist or engine-stand payload. All geometry newly authored; three opaque PBR roles, metres Z up and whole ground-centred bounds. One prop zero scenes. Fixed visual display only: no wheel motion, telescoping travel, winch transmission, brake, board fit, lifting, load capacity, stability, construction use, installation, manufacture or safety claim. Rigging animation interaction not made.",
+  "bounds": {
+    "x": 2.1600000858306885,
+    "y": 1.3334275484085083,
+    "z": 2.706462860107422,
+    "unit": "m"
+  },
+  "triangles": 2716,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/construction/construction-fixed-tripod-mast-and-tilted-panel-cradle-01/v1.0.0/model.glb",
+      "size": 258156,
+      "sha256": "e42d342823f82091705af285b51324a7cde6dcc66b451d8341322bbf6b4a390a"
+    },
+    "blend": {
+      "path": "assets/construction/construction-fixed-tripod-mast-and-tilted-panel-cradle-01/v1.0.0/source.blend",
+      "size": 1029760,
+      "sha256": "e3bb0940c328bf5a59b641d9e96c35b4ec12da6bc5c36d57271e2a9a1d0c294d"
+    },
+    "generator": {
+      "path": "assets/construction/construction-fixed-tripod-mast-and-tilted-panel-cradle-01/v1.0.0/generate.py",
+      "size": 18487,
+      "sha256": "cfaa4fcb765e73e7002a95fc70128e60323f6201007e925c4299e7a6e1eabee7"
+    },
+    "render": {
+      "path": "assets/construction/construction-fixed-tripod-mast-and-tilted-panel-cradle-01/v1.0.0/thumbnail.png",
+      "size": 466444,
+      "sha256": "042e88db7f0647ca49df78b57b2f9201d2a780a0e4461f1540fdd79aa8a0ff65"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

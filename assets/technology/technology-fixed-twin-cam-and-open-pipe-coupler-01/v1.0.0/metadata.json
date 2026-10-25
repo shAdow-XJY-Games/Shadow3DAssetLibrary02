@@ -1,0 +1,42 @@
+{
+  "id": "technology-fixed-twin-cam-and-open-pipe-coupler-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "technology",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Twin Cam and Open Pipe Coupler",
+  "description": "One complete newly authored static twin-cam pipe-coupler display. A thick through-bored female sleeve has two actual opposed side windows bounded by continuous front and rear annular rings. Two whole bronze eccentric-cam and long-lever bodies rotate only in their declared fixed display pose between paired exterior support ears and real vertical pins. A separate complete open male adaptor partly enters the sleeve, with a recessed circumferential exterior seat and a fully open barb-profile tail. A low base and sleeve saddle provide the display support. Unlike the old paired cam cleat or open wafer-disc valve, this complete relation surrounds a longitudinal male/female passage, uses external lateral cam levers and contains no closure disc, radial collet fingers or rope jaws. All whole geometry newly authored; no old meshes imported. Three opaque PBR materials, metres Z-up and horizontal whole-envelope centred ground origin. Static exterior only: no seal, pressure rating, fit, hose compatibility, locking, rotation, pipe connection, flow, transport or safety claim; no rig or interaction.",
+  "bounds": {
+    "x": 0.8200000000000001,
+    "y": 0.7987169503559144,
+    "z": 0.48,
+    "unit": "m"
+  },
+  "triangles": 3328,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/technology/technology-fixed-twin-cam-and-open-pipe-coupler-01/v1.0.0/model.glb",
+      "size": 157448,
+      "sha256": "d1af276ebfd2f851959b0755edd94a2465831b796a9fd222ee4fd5bbd4837e1c"
+    },
+    "blend": {
+      "path": "assets/technology/technology-fixed-twin-cam-and-open-pipe-coupler-01/v1.0.0/source.blend",
+      "size": 761272,
+      "sha256": "2ed85798eca91cdb1efdb08958ae4c4dd1282cca346666c6538996e00e008c86"
+    },
+    "generator": {
+      "path": "assets/technology/technology-fixed-twin-cam-and-open-pipe-coupler-01/v1.0.0/generate.py",
+      "size": 11913,
+      "sha256": "9d55e0345d82f20bcd1bbc7856463287f7a60372d5e05a8598ef56914dec75e0"
+    },
+    "render": {
+      "path": "assets/technology/technology-fixed-twin-cam-and-open-pipe-coupler-01/v1.0.0/thumbnail.png",
+      "size": 449490,
+      "sha256": "905d9693f75cfa3e03576c86625587c0b5e58fda3a06c8c9e2b9c487d2be6797"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

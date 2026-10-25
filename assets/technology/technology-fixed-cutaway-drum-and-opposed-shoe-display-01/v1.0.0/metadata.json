@@ -1,0 +1,42 @@
+{
+  "id": "technology-fixed-cutaway-drum-and-opposed-shoe-display-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "technology",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Cutaway Drum and Opposed Shoe Display",
+  "description": "One complete newly authored fixed cutaway drum-and-shoe display on its own low grounded stand. A whole circular backing plate carries two complete opposed curved metal shoe webs and separate thick lining silhouettes. Half of a thick outer drum remains as a real curved wall with two finite section ends; the other half is deliberately absent to expose the assembly rather than made transparent. A lower broad anchor, upper eccentric spreader and whole short axle with rear lever relate the shoe ends. Two complete illustrative coil springs cross the front and terminate at finite shoe lugs. Unlike the old separated conical clutch, this is a radial two-shoe assembly around a common centre, not two axial cones and fork; unlike the paired rope cam cleat it encloses curved linings inside a drum perimeter rather than a rope guide. All numeric geometry newly authored, no old machine meshes imported. Three opaque PBR materials, metres Z-up and horizontal complete-envelope centred ground origin. Static explanatory exterior only: no braking, friction, thermal behaviour, spring force, running fit, movement, adjustment, vehicle compatibility, installation, manufacture or engineering safety claim. No rig, animation or interaction.",
+  "bounds": {
+    "x": 0.9,
+    "y": 0.42,
+    "z": 1.004047160339045,
+    "unit": "m"
+  },
+  "triangles": 5524,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/technology/technology-fixed-cutaway-drum-and-opposed-shoe-display-01/v1.0.0/model.glb",
+      "size": 361900,
+      "sha256": "cc2a469e0416dad37bb67a395a05daf3a648a8a2c936793711f242f9cdbd842d"
+    },
+    "blend": {
+      "path": "assets/technology/technology-fixed-cutaway-drum-and-opposed-shoe-display-01/v1.0.0/source.blend",
+      "size": 921544,
+      "sha256": "53d6df9bea5cec44873d36904d3739e42615c751feeaa9ded03b0a615c0bf8c6"
+    },
+    "generator": {
+      "path": "assets/technology/technology-fixed-cutaway-drum-and-opposed-shoe-display-01/v1.0.0/generate.py",
+      "size": 12244,
+      "sha256": "1716b333f4bb049929973df6299f182054b3c27ba219cf800db692c4bbc8e051"
+    },
+    "render": {
+      "path": "assets/technology/technology-fixed-cutaway-drum-and-opposed-shoe-display-01/v1.0.0/thumbnail.png",
+      "size": 530097,
+      "sha256": "462b1073c2d4a1261d17485344ec0b51a354593328a1ab65b49b418d8211237a"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

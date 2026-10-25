@@ -1,0 +1,42 @@
+{
+  "id": "transport-static-coaxial-wheels-and-standing-platform-01",
+  "version": "1.0.0",
+  "category": "vehicles",
+  "assetKind": "prop",
+  "theme": "transport",
+  "style": "source-preserved-low-poly",
+  "title": "Static Coaxial Wheels And Standing Platform",
+  "description": "One newly authored complete fixed two-wheel standing-transporter exterior, without branding. A broad transverse chamfered central platform carries two separate full foot pads and a central forward rising mast socket. Two large complete wheels share one transverse axle line immediately beside the platform, with integral closed stepped hub faces and separate thick curved upper wheel cowls tied into the platform sides. A continuous slightly rearward raked central mast rises from the socket into a wide T head with two full thick grips and a small opaque central control face. This is not a kick scooter with a wheel moved: there is no long fore-aft deck, separate front fork, rear brake or steering head over a front wheel. It is also not an old unicycle doubled: there is no fork above a tyre, saddle, direct pedal cranks or exposed spoked wheel. Every platform, wheel profile, cowl and mast is newly dimensioned together, without imported old vehicle meshes. One model zero scenes, four opaque constant PBR roles, metres Z up and whole horizontal bounds-centred origin, both finite flat tyre tread facets on ground. Fixed illustrative upright pose only, not a physically balanced resting simulation. No rider, drive system, battery, sensors, balancing mechanism, steering linkage, animation or interaction. No self-balancing, riding, range, control, manoeuvrability, load, ergonomics, manufacture, roadworthiness or safety claim.",
+  "bounds": {
+    "x": 0.8659999966621399,
+    "y": 0.5134221315383911,
+    "z": 1.1430000066757202,
+    "unit": "m"
+  },
+  "triangles": 1308,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/transport/transport-static-coaxial-wheels-and-standing-platform-01/v1.0.0/model.glb",
+      "size": 123564,
+      "sha256": "088fa1dafaaaa2557cd7d63f7cbf1d2f84b3ab444db97d879de8e5abd755f900"
+    },
+    "blend": {
+      "path": "assets/transport/transport-static-coaxial-wheels-and-standing-platform-01/v1.0.0/source.blend",
+      "size": 782368,
+      "sha256": "318085b61523cd5db1268fc12e587548fa91022046039825dda4426820ef2931"
+    },
+    "generator": {
+      "path": "assets/transport/transport-static-coaxial-wheels-and-standing-platform-01/v1.0.0/generate.py",
+      "size": 17337,
+      "sha256": "9df862b79ce3a8fd9a7822129497b4d94937bb0dfee729920d0d011ae9d3a676"
+    },
+    "render": {
+      "path": "assets/transport/transport-static-coaxial-wheels-and-standing-platform-01/v1.0.0/thumbnail.png",
+      "size": 489340,
+      "sha256": "2b496b159ae64831f69aa74b6f8a7e9d62184812f64ac89d9c830fd41068953a"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
