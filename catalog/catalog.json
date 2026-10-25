@@ -1539,6 +1539,11 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary02",
       "commit": "d0500e985799a5c6cfff94c315b549718e1e0346"
+    },
+    "original-qualified-batch-1174-volume02-20261025": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary02",
+      "commit": "67d53434399df51e741a2bafb7513845e5f6e311"
     }
   },
   "assets": [
@@ -51808,6 +51813,221 @@
       "status": "verified",
       "license": "All rights reserved",
       "sourceId": "original-qualified-batch-1169-volume02-20261025"
+    },
+    {
+      "id": "beekeeping-whole-domed-coarse-band-low-entry-skep-01",
+      "version": "1.0.0",
+      "category": "modular",
+      "assetKind": "prop",
+      "theme": "beekeeping",
+      "style": "warm-handcrafted-village",
+      "title": "Whole Domed Coarse-Band Low-Entry Skep",
+      "description": "One newly authored complete static coarse-band straw-skep-like hive cover. A continuous thick rounded dome encloses a genuine uninterrupted hollow interior and has a whole open underside. A low front arched entrance is part of the real wall boundary with full thick jamb and lintel surfaces, not a black decal or overlapping door block. Broad circumferential ridges are geometric surface relief integrated into the same shell, with quieter inner walls and a closed finite-thickness crown. The new low mouth, closed dome, bottom aperture and full roof-to-wall continuity differ from the old raised stacked timber supers and the old open-top floored carrying basket. No old basket is inverted or imported, no merely additional coil count defines the object. One model zero scenes. Opaque static decorative/historical-style game prop, not real woven fibres or a living colony installation. No bee habitat, ventilation, brood chamber, harvesting, thermal, strength, carrying, animal care or operating safety claim.",
+      "bounds": {
+        "x": 1.207210898,
+        "y": 1.207210898,
+        "z": 1.404999971,
+        "unit": "m"
+      },
+      "triangles": 3456,
+      "materials": 4,
+      "files": {
+        "glb": {
+          "path": "assets/beekeeping/beekeeping-whole-domed-coarse-band-low-entry-skep-01/v1.0.0/model.glb",
+          "size": 191204,
+          "sha256": "2c708788be3ecb28345b6f831825e29c16d7797ff35554dc20df3bbb44864c69"
+        },
+        "blend": {
+          "path": "assets/beekeeping/beekeeping-whole-domed-coarse-band-low-entry-skep-01/v1.0.0/source.blend",
+          "size": 647728,
+          "sha256": "12642ad22e5a08c60d756c3ea38f3f004aac14254a30c955e4b3c0aa2bae20bb"
+        },
+        "generator": {
+          "path": "assets/beekeeping/beekeeping-whole-domed-coarse-band-low-entry-skep-01/v1.0.0/generate.py",
+          "size": 28610,
+          "sha256": "f8e8a931de031cc19675a4b3755f99fc986c0e26721e2928ec6a07d281320f8c"
+        },
+        "render": {
+          "path": "assets/beekeeping/beekeeping-whole-domed-coarse-band-low-entry-skep-01/v1.0.0/thumbnail.png",
+          "size": 528441,
+          "sha256": "c335bfaa05e03d476234f98fd2b60f64d2dd193c0fa72b5604e514752115eab1"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1174-volume02-20261025"
+    },
+    {
+      "id": "industrial-fixed-through-chuck-and-raised-die-head-threader-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "industrial",
+      "style": "source-preserved-low-poly",
+      "title": "Fixed Through Chuck and Raised Die Head Threader",
+      "description": "One newly authored complete fixed pipe-threading-machine-style exterior in an empty raised-head pose. Four full splayed legs and flat feet support a genuinely open shallow sump tray. A short thick through-bored headstock sits on a lower drive-case exterior, with a separate front annular chuck and three blunt fixed jaws leaving an actual centre passage. Two full forward round guides carry one cross carriage. A continuous side arm and transverse pivot support a distinctly raised annular die-head appearance with four finite blunt radial blanks and a side grip. A low feed lever and blank switch complete the whole apparatus. No old lathe or handheld pipe cutter geometry imported; one prop zero scenes, three opaque PBR roles, metres and grounded centred origin. No pipe, threads, sharp edges, internal drive, rotation, feed, oil circuit, gripping, machining, fabrication, tolerances, operating instructions or safety claim. Rigging animation and interaction not made.",
+      "bounds": {
+        "x": 1.100000023841858,
+        "y": 0.8847137689590454,
+        "z": 1.3127338886260986,
+        "unit": "m"
+      },
+      "triangles": 2428,
+      "materials": 3,
+      "files": {
+        "glb": {
+          "path": "assets/industrial/industrial-fixed-through-chuck-and-raised-die-head-threader-01/v1.0.0/model.glb",
+          "size": 229964,
+          "sha256": "e450f45e93c8dee4f2ded72f80f7172730831e434a2a1e5928af7ae4a91f038d"
+        },
+        "blend": {
+          "path": "assets/industrial/industrial-fixed-through-chuck-and-raised-die-head-threader-01/v1.0.0/source.blend",
+          "size": 969280,
+          "sha256": "4ac86f398830089c36773df33eb554638582d1e5c4b4201ce852fd6face2a229"
+        },
+        "generator": {
+          "path": "assets/industrial/industrial-fixed-through-chuck-and-raised-die-head-threader-01/v1.0.0/generate.py",
+          "size": 17733,
+          "sha256": "fe62f9cd17245c713e7728e1635742b4413d8f55fbcd8267cbf01cba9e096167"
+        },
+        "render": {
+          "path": "assets/industrial/industrial-fixed-through-chuck-and-raised-die-head-threader-01/v1.0.0/thumbnail.png",
+          "size": 530443,
+          "sha256": "acc8af963ce4c217bc410a76e3bc8f814099bc96466c178bc58b3c1347487adb"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1174-volume02-20261025"
+    },
+    {
+      "id": "tailoring-fixed-long-upturned-horn-and-arched-head-patcher-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "tailoring",
+      "style": "source-preserved-low-poly",
+      "title": "Fixed Long Upturned Horn and Arched Head Patcher",
+      "description": "One newly authored complete fixed long-horn shoe-patching-sewing-machine-style exterior. Two full long ground shoes and angled risers support a compact saddle and a single high arched upper neck/column. A separate entire tapered round horn projects far forward from that column and curves up to a small closed tip under the blunt fixed needle and forked presser appearance; there is no flat tabletop or broad lower sewing bed. A full open four-spoke side handwheel, distinct hub and offset grip, plain top spool, tension boss, fixed lower treadle and one exterior linkage complete the whole machine. All geometry newly authored, not an old flat-bed workstation with its tabletop deleted or a compact overlock machine stretched. Three opaque PBR roles, metres and centred grounded origin, one prop zero scenes. Empty static illustration only: no needle motion, sewing, transmission, fabric or shoe compatibility, ergonomics, manufacturing, operating instructions or safety claim. Rigging animation and interaction not made.",
+      "bounds": {
+        "x": 0.8500000238418579,
+        "y": 0.5799999833106995,
+        "z": 1.4919999837875366,
+        "unit": "m"
+      },
+      "triangles": 2144,
+      "materials": 3,
+      "files": {
+        "glb": {
+          "path": "assets/tailoring/tailoring-fixed-long-upturned-horn-and-arched-head-patcher-01/v1.0.0/model.glb",
+          "size": 199008,
+          "sha256": "74632c631e6b413fc64d1e654f5a1cc87fb1a0e1157b94be81967216bcca4493"
+        },
+        "blend": {
+          "path": "assets/tailoring/tailoring-fixed-long-upturned-horn-and-arched-head-patcher-01/v1.0.0/source.blend",
+          "size": 895136,
+          "sha256": "313c9cfa90622dee233157fc269dc1a12b44b012f8351aaa1f7cbf9e300a4ae3"
+        },
+        "generator": {
+          "path": "assets/tailoring/tailoring-fixed-long-upturned-horn-and-arched-head-patcher-01/v1.0.0/generate.py",
+          "size": 18034,
+          "sha256": "26c9aa063280062478fbef609480ba30213faaef3cd038409f89e045907773f6"
+        },
+        "render": {
+          "path": "assets/tailoring/tailoring-fixed-long-upturned-horn-and-arched-head-patcher-01/v1.0.0/thumbnail.png",
+          "size": 485363,
+          "sha256": "29742c46d355408f256490853d09c14b32ba653e6db2039686a275fc6c6a376c"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1174-volume02-20261025"
+    },
+    {
+      "id": "textile-fixed-centre-hole-table-and-suspended-bobbin-braiding-stand-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "textile",
+      "style": "S01-clean-geometric",
+      "title": "Fixed Centre Hole Table and Suspended Bobbin Braiding Stand",
+      "description": "One newly authored complete round-top braiding-stand appearance in a fixed illustrative pose. A thick annular wooden table has one genuine central through-opening and four complete grounded legs with a low perimeter frame. Eight whole continuous thick thread appearances spread radially from a gathered centre, pass over the entire tabletop and edge, and descend to independent complete turned hanging bobbins. One full central braid descends through the opening to a separate whole suspended counterweight. This is not the crossed-rib yarn swift stripped of its mast: there are no crossed ribs, expanding outer supports or surrounding yarn circuits. It is not the old horizontal roll-pillow lace apparatus rotated or multiplied: there is no pillow, pin field, roll shaft or front catch board, but a radial tabletop and a central through-hole/downweight relationship. All numerical geometry newly authored, four opaque PBR roles, metres Z up and horizontal whole-bounds-centred ground origin. One whole static prop zero scenes, not separately counted bobbins or threads. Generic marudai-inspired art only, not a verified historic pattern: no braiding sequence, thread travel, tension equilibrium, actual textile production, tool suitability, load, manufacture or safety claim. No rigging, animation or interaction.",
+      "bounds": {
+        "x": 0.5860000000000001,
+        "y": 0.5860000000000001,
+        "z": 0.6632,
+        "unit": "m"
+      },
+      "triangles": 3152,
+      "materials": 4,
+      "files": {
+        "glb": {
+          "path": "assets/textile/textile-fixed-centre-hole-table-and-suspended-bobbin-braiding-stand-01/v1.0.0/model.glb",
+          "size": 177000,
+          "sha256": "d30b84151697908101f1f4cc52c3c511eac46eed26cb37c52b31d09fdecba878"
+        },
+        "blend": {
+          "path": "assets/textile/textile-fixed-centre-hole-table-and-suspended-bobbin-braiding-stand-01/v1.0.0/source.blend",
+          "size": 835508,
+          "sha256": "894d342a5419fbf03b730d380b99e16ea524394adad3915466d7f08fde9209eb"
+        },
+        "generator": {
+          "path": "assets/textile/textile-fixed-centre-hole-table-and-suspended-bobbin-braiding-stand-01/v1.0.0/generate.py",
+          "size": 11401,
+          "sha256": "60e2d6f49417d1d8452ee957c715c896fda4962a15d8f5a139c0357bc906207e"
+        },
+        "render": {
+          "path": "assets/textile/textile-fixed-centre-hole-table-and-suspended-bobbin-braiding-stand-01/v1.0.0/thumbnail.png",
+          "size": 536686,
+          "sha256": "4f8027564d91cdfc0b3a06d811186d4e42d08efd447b6de67de1787c44bac66f"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1174-volume02-20261025"
+    },
+    {
+      "id": "toys-fixed-long-neck-and-cross-pivot-bulb-bird-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "toys",
+      "style": "source-preserved-low-poly",
+      "title": "Fixed Long Neck And Cross Pivot Bulb Bird",
+      "description": "One newly authored complete long-neck bulb-bird toy appearance in a fixed forward-leaning pose. A broad low plinth carries two separate tall side standards with complete bored circular top bearings. One transverse axle passes through the narrow neck of a single continuous lower rounded bulb, long slender stem and smaller round head silhouette. A complete blunt tapered beak, a single thick brim-and-crown hat and two small opaque eyes finish the new whole bird shape. The lower bulb hangs freely above the plinth between the standards; the upper head leans forward of the axle. Unlike the complete hand-cranked wing bird, there are no wing hinges, linkage rods or drive crank, and unlike the stacked laboratory vessel there are no nested chambers, cutaway, inserted long inner stem, fluid mouth or side valve. No old animal, vessel or frame mesh is imported or extracted. One model zero scenes, four opaque constant PBR appearances, metres Z up and whole horizontal envelope centred on the finite plinth underside. This is only a solid opaque stylized static toy exterior, not a real fluid-filled glass apparatus. No transparent glass, liquid, thermal cycle, evaporation, pressure, drinking, automatic rocking, balancing, working pivot, physical stability, toy operation, child suitability, handling, fabrication or safety capability. Rigging, animation and interaction are not made.",
+      "bounds": {
+        "x": 0.41999998688697815,
+        "y": 0.49000000953674316,
+        "z": 0.7952438592910767,
+        "unit": "m"
+      },
+      "triangles": 1760,
+      "materials": 4,
+      "files": {
+        "glb": {
+          "path": "assets/toys/toys-fixed-long-neck-and-cross-pivot-bulb-bird-01/v1.0.0/model.glb",
+          "size": 156608,
+          "sha256": "3f18aa7ef8b6dba7089385084b7d47fd7062025a9c8455e5c7517ff45da248d1"
+        },
+        "blend": {
+          "path": "assets/toys/toys-fixed-long-neck-and-cross-pivot-bulb-bird-01/v1.0.0/source.blend",
+          "size": 804736,
+          "sha256": "c5fc9411c4bc1ab92a7c484d3cc0fac92bf3d0e329ee9be58fd04fec28d6a45a"
+        },
+        "generator": {
+          "path": "assets/toys/toys-fixed-long-neck-and-cross-pivot-bulb-bird-01/v1.0.0/generate.py",
+          "size": 17056,
+          "sha256": "8494f50a1453579c740e166b81eac2f1bc765b5dcc699187e48480d617aec860"
+        },
+        "render": {
+          "path": "assets/toys/toys-fixed-long-neck-and-cross-pivot-bulb-bird-01/v1.0.0/thumbnail.png",
+          "size": 482101,
+          "sha256": "cf6f56032039996f4868869b95459b426be9decd613137600b1b23084392a32f"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1174-volume02-20261025"
     }
   ]
 }
