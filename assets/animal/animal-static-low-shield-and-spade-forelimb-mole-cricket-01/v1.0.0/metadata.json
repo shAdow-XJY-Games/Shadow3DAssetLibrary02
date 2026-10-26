@@ -1,0 +1,42 @@
+{
+  "id": "animal-static-low-shield-and-spade-forelimb-mole-cricket-01",
+  "version": "1.0.0",
+  "category": "modular",
+  "assetKind": "prop",
+  "theme": "animal",
+  "style": "warm-handcrafted-village",
+  "title": "Static Low Shield and Spade Forelimb Mole Cricket",
+  "description": "One complete newly authored low stout mole-cricket-like insect: short broad pronotal shield, small forward head with two fine long antennae, paired whole outward four-toothed spade forelimbs, four slender grounded walking legs, narrow folded wings and two short rear cerci. Not a jumping grasshopper or raised folded raptorial mantis. Static illustrative exterior only, not exact taxonomy, digging, gait, rigging, animation or biological accuracy.",
+  "bounds": {
+    "x": 1.320000052,
+    "y": 2.368999958,
+    "z": 0.560000002,
+    "unit": "m"
+  },
+  "triangles": 1324,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/animal/animal-static-low-shield-and-spade-forelimb-mole-cricket-01/v1.0.0/model.glb",
+      "size": 78324,
+      "sha256": "7e53225283974629f6e5f80464453e40dc629881261281707083ec93f30af801"
+    },
+    "blend": {
+      "path": "assets/animal/animal-static-low-shield-and-spade-forelimb-mole-cricket-01/v1.0.0/source.blend",
+      "size": 637528,
+      "sha256": "d5039e9fb261e752263ff2783a4a0b3d29bdb7949bd5b786f88bc5dc26dab041"
+    },
+    "generator": {
+      "path": "assets/animal/animal-static-low-shield-and-spade-forelimb-mole-cricket-01/v1.0.0/generate.py",
+      "size": 29740,
+      "sha256": "af4aca23a489a3b7cf52e2aa3e842a05c18562beb610ea5446c327a94d4f6455"
+    },
+    "render": {
+      "path": "assets/animal/animal-static-low-shield-and-spade-forelimb-mole-cricket-01/v1.0.0/thumbnail.png",
+      "size": 485257,
+      "sha256": "137ee91e8903d4d4d28bbdfb636f879ee72cf3446e6cf8de45a2a0b993150835"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

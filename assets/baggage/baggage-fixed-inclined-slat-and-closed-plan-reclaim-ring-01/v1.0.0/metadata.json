@@ -1,0 +1,42 @@
+{
+  "id": "baggage-fixed-inclined-slat-and-closed-plan-reclaim-ring-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "baggage",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Inclined Slat and Closed Plan Reclaim Ring",
+  "description": "One newly authored complete empty inclined-slat baggage-reclaim ring in a fixed static pose. A whole low racetrack-plan annular plinth retains a genuine open central well, carrying complete closed inner and outer support rails. Seventy-two independent thick plates form the entire outward-descending annular deck: straight-run plates and genuine fan-shaped end plates follow one closed horizontal route, with visible small fixed gaps. The inner edge is higher than the outer pickup edge; a continuous high inner guard and low outer lip belong to the same full apparatus. Unlike the old quarter-turn module this is not a set of radial cylindrical rollers on two terminal mouths, and unlike the short capsule belt terminal this has no vertical top/return belt wrapped around two transverse drums. It is not made by joining old conveyor modules: every plate, entire plan annulus, rail and ground shell is newly authored. The lower shell is intentionally closed and no internal drive or return chain is represented. Four opaque untextured PBR materials, metres Z up and actual horizontal bounds-centred ground datum. One complete empty public-facility prop zero scenes. Static visual layout only; no bag, movement, drive, conveying path validity, slat articulation, installation, load, user clearance, maintenance, airport operation, ergonomic suitability or safety performance. Rigging animation interaction not made.",
+  "bounds": {
+    "x": 4.292,
+    "y": 2.092,
+    "z": 0.9,
+    "unit": "m"
+  },
+  "triangles": 3744,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/baggage/baggage-fixed-inclined-slat-and-closed-plan-reclaim-ring-01/v1.0.0/model.glb",
+      "size": 191720,
+      "sha256": "071db15c02354d2a7bbb19ddccbd02aa8931bfce87aaecd6192cd8c2239a060f"
+    },
+    "blend": {
+      "path": "assets/baggage/baggage-fixed-inclined-slat-and-closed-plan-reclaim-ring-01/v1.0.0/source.blend",
+      "size": 1099164,
+      "sha256": "890b63af9ef2b9055d8d2f7410960c591be50982d268fc25cbed5077076b6e03"
+    },
+    "generator": {
+      "path": "assets/baggage/baggage-fixed-inclined-slat-and-closed-plan-reclaim-ring-01/v1.0.0/generate.py",
+      "size": 11341,
+      "sha256": "2b9f1be6304ac9ca066eec354c04e866da6f4f0722e508c3353d491da8987e77"
+    },
+    "render": {
+      "path": "assets/baggage/baggage-fixed-inclined-slat-and-closed-plan-reclaim-ring-01/v1.0.0/thumbnail.png",
+      "size": 380680,
+      "sha256": "abde0451c63f119e74cd6e47a91de516ddb6a673dc9ae8556730c7508951a90c"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
