@@ -1859,6 +1859,11 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary02",
       "commit": "58b07ef883fe9a1ccd7b88186ad346a6f7a926ed"
+    },
+    "original-qualified-batch-1407-volume02-20261025": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary02",
+      "commit": "a45f252001b3f5e167d992246ee27b92772215ec"
     }
   },
   "assets": [
@@ -62276,6 +62281,92 @@
       "status": "verified",
       "license": "All rights reserved",
       "sourceId": "original-qualified-batch-1405-volume02-20261025"
+    },
+    {
+      "id": "architecture-fixed-single-pylon-and-direct-fan-stay-bridge-01",
+      "version": "1.0.0",
+      "category": "architecture",
+      "assetKind": "modular",
+      "theme": "architecture",
+      "style": "S01-clean-geometric",
+      "title": "Fixed Single Pylon and Direct Fan Stay Bridge",
+      "description": "One newly authored complete fixed single-pylon cable-stayed bridge appearance. One continuous open-fork tall pylon rises from its own broad ground foot beside an off-centre point of one full level deck. Two complete longitudinal edge girders join the two terminal abutments. Two banks of independent straight full-length stays radiate from the single pylon head directly to separate finite deck-edge seats on both sides of the pylon, leaving the under-deck spans open. Complete low side guards belong to the deck. Unlike the earlier suspension footbridge, there is no sagging anchor-to-anchor main cable or separate vertical suspenders; unlike the tied-arch bridge, there are no bowed ribs, arch crown or vertical hangers. This is not a tower-count variant: the whole principal cable relationship changes to direct pylon-to-deck fans. All numeric geometry newly authored without importing old bridge meshes. Three opaque solid PBR roles, metres Z up, horizontally centred full bounds and three grounded support foundations. One architectural module zero scenes. Fixed stylized bridge artwork only, no water, road, vehicles or people. No cable tension, equilibrium, anchoring design, load path solution, construction method, vehicle or pedestrian clearance, navigation, load capacity, material performance or civil-engineering safety claim. Animation rigging interaction not made or verified.",
+      "bounds": {
+        "x": 7.1,
+        "y": 2.8,
+        "z": 4.05,
+        "unit": "m"
+      },
+      "triangles": 1084,
+      "materials": 3,
+      "files": {
+        "glb": {
+          "path": "assets/architecture/architecture-fixed-single-pylon-and-direct-fan-stay-bridge-01/v1.0.0/model.glb",
+          "size": 88312,
+          "sha256": "7ffcdbeb3eab3acb17b6b2809278ae1d08c825dc3ce27abb552ec0f243eb5ec8"
+        },
+        "blend": {
+          "path": "assets/architecture/architecture-fixed-single-pylon-and-direct-fan-stay-bridge-01/v1.0.0/source.blend",
+          "size": 848104,
+          "sha256": "a813ede5a9f5ac693e5e10fca7fb722bf90e684327d2e44908ca76e9463cfec5"
+        },
+        "generator": {
+          "path": "assets/architecture/architecture-fixed-single-pylon-and-direct-fan-stay-bridge-01/v1.0.0/generate.py",
+          "size": 11480,
+          "sha256": "204485dda78f85aa85e161894f2ac5dfa867c0da41056abbadfd7d483218f17b"
+        },
+        "render": {
+          "path": "assets/architecture/architecture-fixed-single-pylon-and-direct-fan-stay-bridge-01/v1.0.0/thumbnail.png",
+          "size": 433664,
+          "sha256": "42d344acde600c189757ff9e239fdcdc14e284061cccad88e7b81c626ee14af2"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1407-volume02-20261025"
+    },
+    {
+      "id": "professional-fixed-empty-grooved-rims-and-open-temple-trial-frame-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "professional",
+      "style": "source-preserved-low-poly",
+      "title": "Fixed Empty Grooved Rims and Open Temple Trial Frame",
+      "description": "One wholly newly authored complete empty trial-spectacle-frame exterior, not an optical or medical device. Two thick open circular carriers have genuine internal annular seating recesses and are joined to one complete horizontal bridge rail by bored upper collars. A central stem supports two separate nose-pad appearances, while full outer hinge blocks carry two whole long rearward temple arms with curved dropped ends. Small blank bridge controls belong to this complete open frame. All vertices new; no old ocular housing or stand is imported. Unlike the complete phoropter-style head there are no thick flattened instrument housings, lower dial banks, hanging post or floor base; unlike the full slit-lamp table there is no headrest gantry, central binocular barrel or illumination column. The complete rim/bridge/nose/temple organization is the distinction, not fewer sight holes. Three opaque PBR roles, metres Z up, horizontal bounds centred and grounded, one model zero scenes. Empty fixed static exterior only: no lenses, transparent glass, prescription or vision testing, adjustment, measurement, patient, wearability, facial fit, manufacture, medical operation or safety capability. Rigging animation interaction not made.",
+      "bounds": {
+        "x": 0.13299959897994995,
+        "y": 0.1572461575269699,
+        "z": 0.05999999865889549,
+        "unit": "m"
+      },
+      "triangles": 3968,
+      "materials": 3,
+      "files": {
+        "glb": {
+          "path": "assets/professional/professional-fixed-empty-grooved-rims-and-open-temple-trial-frame-01/v1.0.0/model.glb",
+          "size": 348704,
+          "sha256": "ac20e7acbdd35d9bbd68d6691cc00d14e95a5faa90471d28868e9358fb77c57c"
+        },
+        "blend": {
+          "path": "assets/professional/professional-fixed-empty-grooved-rims-and-open-temple-trial-frame-01/v1.0.0/source.blend",
+          "size": 1071200,
+          "sha256": "1f12f377197966f5707c2794d0661ec253f7da9e8a14a7a4557f4ed8c0d4270a"
+        },
+        "generator": {
+          "path": "assets/professional/professional-fixed-empty-grooved-rims-and-open-temple-trial-frame-01/v1.0.0/generate.py",
+          "size": 15999,
+          "sha256": "5eab68a5617c88f229d61382193b1f81c8ca6ab35eb5533ee121d1ff890ac506"
+        },
+        "render": {
+          "path": "assets/professional/professional-fixed-empty-grooved-rims-and-open-temple-trial-frame-01/v1.0.0/thumbnail.png",
+          "size": 477407,
+          "sha256": "cd8f2ea34c0c19d2d1f85609c87d01aa522664aa988542c6c70505e924875ced"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1407-volume02-20261025"
     }
   ]
 }
