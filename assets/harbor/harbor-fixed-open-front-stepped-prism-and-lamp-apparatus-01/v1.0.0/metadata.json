@@ -1,0 +1,42 @@
+{
+  "id": "harbor-fixed-open-front-stepped-prism-and-lamp-apparatus-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "harbor",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Open-Front Stepped Prism and Lamp Apparatus",
+  "description": "One newly authored complete static lighthouse-optic-style display apparatus, separate from any building. A whole grounded stepped pedestal and four rising struts support two complete open carrier rings with four slender posts. Three full circular rimmed lens-style panels have continuous rear faces and actual concentric stepped front relief; two continuous rear half-annular prism-style bands have real stepped faces, inner walls and exposed cut ends. The entire front is intentionally left open in a fixed cutaway arrangement to show an independently supported complete inert central lamp body and cap. This is not the old lighthouse lantern room extracted or enlarged: that earlier building contains only an ordinary solid small lamp, not this surrounding stepped-panel and prism-band assembly. Nor is it the film-history lantern with a box chamber, chimney, crossing slide and long forward lens barrel. All visible geometry newly authored, with no old lamp, enclosure or camera mesh imported. Four opaque constant untextured PBR materials; the pale lens-like surfaces do not transmit or refract. One complete prop zero scenes, metres Z up and horizontal-bounds-centred finite ground datum. Artistic static cutaway only: no historical/optical prescription accuracy, Fresnel performance, focusing, light output, emission, rotation, navigation, electrical power, fuel, heat, installation, structural rating or maritime safety capability. Rigging animation and interaction not made.",
+  "bounds": {
+    "x": 1.76,
+    "y": 1.64,
+    "z": 2.72,
+    "unit": "m"
+  },
+  "triangles": 6252,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/harbor/harbor-fixed-open-front-stepped-prism-and-lamp-apparatus-01/v1.0.0/model.glb",
+      "size": 326548,
+      "sha256": "1ff1a98bb7a4b319b2f85822cea081a8ee038aeee17d94fe80df161d6b489be3"
+    },
+    "blend": {
+      "path": "assets/harbor/harbor-fixed-open-front-stepped-prism-and-lamp-apparatus-01/v1.0.0/source.blend",
+      "size": 966188,
+      "sha256": "aedabffdcadc6fce2221748b0b00a76395d67252425db578eff5e5973c18ced7"
+    },
+    "generator": {
+      "path": "assets/harbor/harbor-fixed-open-front-stepped-prism-and-lamp-apparatus-01/v1.0.0/generate.py",
+      "size": 27973,
+      "sha256": "e7a622af0392d3f3e5209ef406a7abc4ef7b56b64d1733eeae8731502b25e475"
+    },
+    "render": {
+      "path": "assets/harbor/harbor-fixed-open-front-stepped-prism-and-lamp-apparatus-01/v1.0.0/thumbnail.png",
+      "size": 589400,
+      "sha256": "aea8c91c78dfa88918048cab774dd8a876c348107bb59c1979cebab97710d2e2"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

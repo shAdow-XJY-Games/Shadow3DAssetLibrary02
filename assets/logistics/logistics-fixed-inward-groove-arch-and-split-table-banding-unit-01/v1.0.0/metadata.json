@@ -1,0 +1,42 @@
+{
+  "id": "logistics-fixed-inward-groove-arch-and-split-table-banding-unit-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "logistics",
+  "style": "source-preserved-low-poly",
+  "title": "Fixed Inward Groove Arch and Split Table Banding Unit",
+  "description": "One newly authored complete fixed arch-strapping-table-style exterior. A full low rectangular cabinet on four broad feet supports two distinct empty tabletop halves separated by one real narrow transverse centre slot. One complete thin-depth tall U arch rises from both side roots, with continuous thick outer webs and front/rear inner lips defining a visible inward-facing groove along both uprights and the top span. A full side-mounted opaque annular supply-band roll sits between two entire bored retaining flanges on one continuous shaft and rooted mount. A small closed lower transition cover and blank front controls belong to the same cabinet. Unlike the old pallet stretch wrapper there is no floor turntable/tall side mast/vertical travelling roll, and unlike the baggage unit there is no deep tunnel, long belt or extended conveyor legs. The thin channel arch, table-slot relationship and side spool are newly authored together, not old parts assembled or resized. One whole model zero scenes; three opaque solid PBR roles. Empty static exterior only, no package or routed band, true multiple layers, feed circuit, tension, sealing, cutting, motor, movement, load, operating instruction or packaging/safety capability. Rigging animation interaction not made.",
+  "bounds": {
+    "x": 1.5549999475479126,
+    "y": 0.8600000143051147,
+    "z": 1.7000000476837158,
+    "unit": "m"
+  },
+  "triangles": 1752,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/logistics/logistics-fixed-inward-groove-arch-and-split-table-banding-unit-01/v1.0.0/model.glb",
+      "size": 161284,
+      "sha256": "0b574bf2767848fa9bd1857c1a92ac38a00ece8232038dd00fa193840829fba6"
+    },
+    "blend": {
+      "path": "assets/logistics/logistics-fixed-inward-groove-arch-and-split-table-banding-unit-01/v1.0.0/source.blend",
+      "size": 823008,
+      "sha256": "b4c6da60f4563eb216dc3d9292019de6de90acfdf626721548985cc7b33a77f4"
+    },
+    "generator": {
+      "path": "assets/logistics/logistics-fixed-inward-groove-arch-and-split-table-banding-unit-01/v1.0.0/generate.py",
+      "size": 16587,
+      "sha256": "97861fb3969b1c65e28c8b7714d832d9a8307d683bdf2e03313f9c03267ffda8"
+    },
+    "render": {
+      "path": "assets/logistics/logistics-fixed-inward-groove-arch-and-split-table-banding-unit-01/v1.0.0/thumbnail.png",
+      "size": 480424,
+      "sha256": "0913f811afd63ab82bc5b0d52d454a820462920cc691ad3dea203cc0c62c31df"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

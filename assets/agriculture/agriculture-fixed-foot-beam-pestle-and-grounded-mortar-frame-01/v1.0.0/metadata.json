@@ -1,0 +1,42 @@
+{
+  "id": "agriculture-fixed-foot-beam-pestle-and-grounded-mortar-frame-01",
+  "version": "1.0.0",
+  "category": "modular",
+  "assetKind": "prop",
+  "theme": "agriculture",
+  "style": "warm-handcrafted-village",
+  "title": "Fixed Foot Beam Pestle and Grounded Mortar Frame",
+  "description": "One newly authored whole static foot-beam mortar-frame exterior. Two long low ground sills and cross ties form one complete floor structure. A pair of short upright cheeks carry a transverse fixed axle under a long unequal inclined timber beam; its lowered broad rear end provides a visibly enlarged foot-paddle area. The forward high end carries one complete downward pestle ending inside, but above the floor of, a genuinely open thick-walled blind mortar fixed to the front cross-tie. The mortar remains on the base rather than hanging from the lever. An external rear limit stop and two diagonal cheek braces complete the fixed frame. All profiles, bowl wall and complete assembly newly drawn. Not a lowered water-sweep with its bucket retained, a hand mortar enlarged, or the cam-driven two-stamp mill with one stamp removed: no camshaft, flywheel or tall sliding-stem guide. One model zero scenes. Static historical-looking game-art exterior only, no rice processing, pounding motion, efficiency, pedal ergonomics, historical authenticity, manufacture, load or safety claim. Rig animation interaction not made.",
+  "bounds": {
+    "x": 0.839999974,
+    "y": 2.619999886,
+    "z": 1.190000057,
+    "unit": "m"
+  },
+  "triangles": 764,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/agriculture/agriculture-fixed-foot-beam-pestle-and-grounded-mortar-frame-01/v1.0.0/model.glb",
+      "size": 49376,
+      "sha256": "72e1d8c0bcb0ecc1448cb3d3579e46bb43283b6a095c9f809b45a79afb91c423"
+    },
+    "blend": {
+      "path": "assets/agriculture/agriculture-fixed-foot-beam-pestle-and-grounded-mortar-frame-01/v1.0.0/source.blend",
+      "size": 613736,
+      "sha256": "2d73dbd644d433fa685d04761446a68295e0dd564a69e08a2fde7092ea819397"
+    },
+    "generator": {
+      "path": "assets/agriculture/agriculture-fixed-foot-beam-pestle-and-grounded-mortar-frame-01/v1.0.0/generate.py",
+      "size": 30934,
+      "sha256": "140576cf02bfebbee287ce361e4bbcc24b55dd6212699b96c5dc3ea79d965c13"
+    },
+    "render": {
+      "path": "assets/agriculture/agriculture-fixed-foot-beam-pestle-and-grounded-mortar-frame-01/v1.0.0/thumbnail.png",
+      "size": 499535,
+      "sha256": "f19e0a701be134a4302536e83b795748e340adbb2cd28f5d7fee04b2769bfabf"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

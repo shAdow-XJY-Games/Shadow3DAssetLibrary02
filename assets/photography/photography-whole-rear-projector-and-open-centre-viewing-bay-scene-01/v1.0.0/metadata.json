@@ -1,0 +1,42 @@
+{
+  "id": "photography-whole-rear-projector-and-open-centre-viewing-bay-scene-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "photography",
+  "style": "source-preserved-low-poly",
+  "title": "Whole Rear Projector and Open Centre Viewing Bay",
+  "description": "One static slide-viewing preparation bay, one scene and zero new independent models. Five complete qualified originals at unchanged unit scale form four unique asset identities: an entire tripod roll screen stands at the front, a full tray projector stand occupies a separate rear operator position carrying the entire radial-slot carousel projector on both actual complete feet, and two full return-frame chairs sit to either side of the open longitudinal centre. The projector and both chairs turn as entire instances to face the screen. A single new scene-only floor carries all ground soles. Unlike the old four-desk classroom this has no teaching desk rows or lectern; unlike the elevated indoor performance stage it has no raised stage, stairs, instruments or front performer area. The complete rear loaded projector stand sits behind the separated viewing seats and the centre remains unoccupied toward the freestanding screen. Every original vertex/normal/index payload, full opaque PBR and internal hierarchy is retained under whole-instance rigid transforms only. No parts extracted, rescaled, recoloured or counted as new models. Static blank unlit equipment arrangement only: no projection, optics, sightline certification, seating suitability, access standard, electrical linkage, load, installation or safety capability. Rigging, animation and interaction not made.",
+  "bounds": {
+    "x": 2.5999999046325684,
+    "y": 3.4000000953674316,
+    "z": 2.0220000743865967,
+    "unit": "m"
+  },
+  "triangles": 4228,
+  "materials": 20,
+  "files": {
+    "glb": {
+      "path": "assets/photography/photography-whole-rear-projector-and-open-centre-viewing-bay-scene-01/v1.0.0/model.glb",
+      "size": 246480,
+      "sha256": "b292b504646b6d49d8efca2bbc3ccd4eb07848db9fa75ccbe98a9469ab069458"
+    },
+    "blend": {
+      "path": "assets/photography/photography-whole-rear-projector-and-open-centre-viewing-bay-scene-01/v1.0.0/source.blend",
+      "size": 1685244,
+      "sha256": "a56c32618545fc6473f0e4250b96dd2c877ef4865859922a6b08821096f1290c"
+    },
+    "generator": {
+      "path": "assets/photography/photography-whole-rear-projector-and-open-centre-viewing-bay-scene-01/v1.0.0/generate.py",
+      "size": 111334,
+      "sha256": "f063d7ac4e4149ce6c1fa355bd50ec6c37bc440307c8e0883ae2e6aebc450fc0"
+    },
+    "render": {
+      "path": "assets/photography/photography-whole-rear-projector-and-open-centre-viewing-bay-scene-01/v1.0.0/thumbnail.png",
+      "size": 505727,
+      "sha256": "930bb57635add05a100c69f663362ad096f0fe111fe37fe0d01dfe3afe4ed043"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

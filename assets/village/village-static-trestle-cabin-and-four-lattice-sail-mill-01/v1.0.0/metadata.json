@@ -1,0 +1,42 @@
+{
+  "id": "village-static-trestle-cabin-and-four-lattice-sail-mill-01",
+  "version": "1.0.0",
+  "category": "architecture",
+  "assetKind": "prop",
+  "theme": "village",
+  "style": "S01-clean-geometric",
+  "title": "Static Trestle Cabin and Four Lattice Sail Mill",
+  "description": "One wholly newly authored complete fixed timber sail-mill exterior. Two crossed ground shoes and four diagonal braces surround a thick central fixed post supporting a whole raised wooden cabin, real open wall windows and rear entry, full floor and thick gabled cap. A full horizontal windshaft projects from the cabin into a distinct front hub with four long complete lattice sails, each with real empty rung apertures. Behind are one full small entry platform, six fixed treads with complete side stringers and a separate long tail beam ending on a ground foot. Unlike the old small tubular wind-turbine mast with three solid propeller blades or a tapered lighthouse with a lantern gallery, this is a raised post-and-trestle millhouse with an open-grid sail assembly and rear access/tail relation. Every numeric body, aperture and sail frame newly drawn; no old lighthouse, rotor, cabin or stairs mesh imported. Three opaque constant PBR materials, metres Z-up and full horizontal bounds-centred ground origin. One complete static building prop zero scenes. Stylized post-mill-inspired exterior only, no internal milling machinery, exact historic reconstruction, wind capture, rotation, grinding, transmission, human access, structural load, construction or equipment safety capability. Rigging animation interaction not made.",
+  "bounds": {
+    "x": 3.516018202173475,
+    "y": 3.4299999999999997,
+    "z": 4.148009101086737,
+    "unit": "m"
+  },
+  "triangles": 1056,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/village/village-static-trestle-cabin-and-four-lattice-sail-mill-01/v1.0.0/model.glb",
+      "size": 84516,
+      "sha256": "a27eebe0c29d720150ea99b2d016ebb7ad7d34aaf05f56e452000b46f84ef340"
+    },
+    "blend": {
+      "path": "assets/village/village-static-trestle-cabin-and-four-lattice-sail-mill-01/v1.0.0/source.blend",
+      "size": 860368,
+      "sha256": "8f725983acd22cc32fe220ef3949e80f99e805ce9b43664ae51ee5a59ca9516f"
+    },
+    "generator": {
+      "path": "assets/village/village-static-trestle-cabin-and-four-lattice-sail-mill-01/v1.0.0/generate.py",
+      "size": 13176,
+      "sha256": "f669fc183bd378d608dd487cbaed9623c402ee8ad092dff931c1039958a38ca0"
+    },
+    "render": {
+      "path": "assets/village/village-static-trestle-cabin-and-four-lattice-sail-mill-01/v1.0.0/thumbnail.png",
+      "size": 472107,
+      "sha256": "76f0ceb9157bfe1073db217c7682e737bd34c6c576ab74f48bd69fb1902189d2"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
