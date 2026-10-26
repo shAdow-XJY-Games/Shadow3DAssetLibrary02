@@ -1639,6 +1639,11 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary02",
       "commit": "249a465e2ae25106343a2c8d9b55af386c23235a"
+    },
+    "original-qualified-batch-1295-volume02-20261025": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary02",
+      "commit": "ccf711851b20a0d9109b6b78f6599a44fc977e42"
     }
   },
   "assets": [
@@ -57283,6 +57288,49 @@
       "status": "verified",
       "license": "All rights reserved",
       "sourceId": "original-qualified-batch-1294-volume02-20261025"
+    },
+    {
+      "id": "timekeeping-static-open-bird-hatch-and-hanging-weight-clock-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "timekeeping",
+      "style": "S01-clean-geometric",
+      "title": "Static Open Bird Hatch and Hanging Weight Clock",
+      "description": "One wholly newly authored complete fixed bird-window wall-clock exterior. A full deep timber case has a true upper blind bird chamber and one thick hatch held open on its fixed hinge; one whole small stylized bird rests on a continuous short perch projecting from the chamber back. Below are a complete raised circular bezel, recessed ivory dial, twelve plain markers and two separately layered fixed hands. One full pendulum rod and bob plus two continuous suspension-appearance cords and two whole shaped weights hang below the case. A full thick gabled cap closes the top. Unlike the old open-frame table clock or four-faced through-arch tower, this whole shallow wall case organises an actual opening bird compartment above the dial and separate hanging pendulum/weight elements below it; no old clock, roof or bird mesh imported. Three opaque constant PBR roles, metres Z-up, full horizontal bounds-centred origin at the lowest weight bottoms. One static uninstalled wall prop zero scenes. No host wall or load-bearing mount is supplied; the hanging display pose is fixed geometry, not a demonstrated supported installation. No working internal escapement, bird linkage, bellows, chime, timekeeping, calibration, pendulum motion, cord winding, moving hatch, manufacture or safety capability. Small bird is a simplified ornament, not biological anatomy. Rigging animation interaction not made.",
+      "bounds": {
+        "x": 0.74,
+        "y": 0.6622982203308487,
+        "z": 1.68,
+        "unit": "m"
+      },
+      "triangles": 1636,
+      "materials": 3,
+      "files": {
+        "glb": {
+          "path": "assets/timekeeping/timekeeping-static-open-bird-hatch-and-hanging-weight-clock-01/v1.0.0/model.glb",
+          "size": 96784,
+          "sha256": "ca305cf61895ec4d60595b3442d833df4535bfaeaf0b52dd1121d07b3cd1544e"
+        },
+        "blend": {
+          "path": "assets/timekeeping/timekeeping-static-open-bird-hatch-and-hanging-weight-clock-01/v1.0.0/source.blend",
+          "size": 753144,
+          "sha256": "2e16283c12069b27dff45b6c8812e2ac52ccffe64e8e5c0111e05e0d64445e1d"
+        },
+        "generator": {
+          "path": "assets/timekeeping/timekeeping-static-open-bird-hatch-and-hanging-weight-clock-01/v1.0.0/generate.py",
+          "size": 13424,
+          "sha256": "5df6025d1238b0a4715f3437929abbd8fef0ee918616f53bdc81f81c0b3a78be"
+        },
+        "render": {
+          "path": "assets/timekeeping/timekeeping-static-open-bird-hatch-and-hanging-weight-clock-01/v1.0.0/thumbnail.png",
+          "size": 406509,
+          "sha256": "97c46bdd638bce794686148655d39038a31ec3f73b598b2a004d25019b1048d9"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1295-volume02-20261025"
     }
   ]
 }
