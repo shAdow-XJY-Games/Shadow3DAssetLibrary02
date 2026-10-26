@@ -1,0 +1,42 @@
+{
+  "id": "animal-static-broad-mouth-curled-lobe-and-pointed-wing-manta-01",
+  "version": "1.0.0",
+  "category": "modular",
+  "assetKind": "prop",
+  "theme": "animal",
+  "style": "warm-handcrafted-village",
+  "title": "Static Broad Mouth Curled Lobe and Pointed-Wing Manta",
+  "description": "One newly authored whole stylised manta-like exterior. A broad flattened head with a real forward blind mouth cavity flows continuously into thick central trunk, two long pointed triangular pectoral wings with raised swept tips, and a fine short tail. Two complete thick forward-curled cephalic lobes have genuinely open grooves at the mouth corners; two small lateral eyes sit on the broad front body. This is not the old closed pointed-snout rounded-disc ray widened or recoloured: the entire new sectioned skin, open mouth returns, broad front and curled lobes are drawn together, with no old coordinate arrays or meshes imported. One model zero scenes. Fixed artistic belly datum only, not a ground-standing animal, exact species or anatomy, feeding, gills, swimming, biomechanics, ecology, animal handling or safety representation. Rig, animation and interaction not made.",
+  "bounds": {
+    "x": 3.75999999,
+    "y": 2.650000095,
+    "z": 0.425000012,
+    "unit": "m"
+  },
+  "triangles": 1280,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/animal/animal-static-broad-mouth-curled-lobe-and-pointed-wing-manta-01/v1.0.0/model.glb",
+      "size": 71136,
+      "sha256": "c4ae93a4b06db68738221a5c4dec99993c297775db1259fd8bbe2cdc2364973b"
+    },
+    "blend": {
+      "path": "assets/animal/animal-static-broad-mouth-curled-lobe-and-pointed-wing-manta-01/v1.0.0/source.blend",
+      "size": 586556,
+      "sha256": "9ca29983a18b9c33ce9b98af8f362bef2fe577a2712f365106c557a1e62eae6f"
+    },
+    "generator": {
+      "path": "assets/animal/animal-static-broad-mouth-curled-lobe-and-pointed-wing-manta-01/v1.0.0/generate.py",
+      "size": 29940,
+      "sha256": "d84b8cc8c76908015c83b25a67e4d80665f905959420cef17d7685f0f7da66f4"
+    },
+    "render": {
+      "path": "assets/animal/animal-static-broad-mouth-curled-lobe-and-pointed-wing-manta-01/v1.0.0/thumbnail.png",
+      "size": 463448,
+      "sha256": "0595d47a322953fa7b4e11b35f4882df043018c67e058e11997cc5f32cd528e3"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

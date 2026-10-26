@@ -1,0 +1,42 @@
+{
+  "id": "professional-fixed-slotted-heel-and-continuous-loop-strap-wrench-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "professional",
+  "style": "source-preserved-low-poly",
+  "title": "Fixed Slotted Heel and Continuous Loop Strap Wrench",
+  "description": "One newly authored complete fixed hand strap-wrench-style exterior. A continuous long grounded handle and broad bent-heel head form one closed connected body, with a genuine longitudinal rectangular guide tunnel through one side of the head. One entire finite-thickness broad strap starts inside the opposite heel anchor, sweeps around a large empty oval, returns through the real guide tunnel and ends in a short offset free tail. The band is one capped continuous solid, not disconnected ribbon patches or a closed rigid ring pasted onto a handle. A complete narrow inset grip pad finishes the handle. Unlike the old chain pipe vise there is no ground mounting plate, paired V saddles, alternating chain links or vertical screw; unlike the two-hook ratchet tie there is no low buckle drum, raised lever, toothed disks, end hooks or shallow wound coil. All geometry newly authored, only generic union and mesh primitives reused. Three opaque constant PBR roles, metre Z-up and full horizontal-envelope centred ground datum. One whole prop zero scenes. Empty simplified static appearance only: no pipe, flexibility, threading instruction, self-tightening, friction, adjustment, gripping, torque, manufacture, human fit, operation or safety capability. Rigging animation and interaction not made.",
+  "bounds": {
+    "x": 0.164000004529953,
+    "y": 0.5170000195503235,
+    "z": 0.032999999821186066,
+    "unit": "m"
+  },
+  "triangles": 760,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/professional/professional-fixed-slotted-heel-and-continuous-loop-strap-wrench-01/v1.0.0/model.glb",
+      "size": 66700,
+      "sha256": "59ea30373ee125e0f89c2a68ad5a21dd44e92ccc786b0829ccb815eb8e054c56"
+    },
+    "blend": {
+      "path": "assets/professional/professional-fixed-slotted-heel-and-continuous-loop-strap-wrench-01/v1.0.0/source.blend",
+      "size": 631936,
+      "sha256": "174ba733659830a158ea44b720079c4e2a355316406e776b27c3a17c3324deab"
+    },
+    "generator": {
+      "path": "assets/professional/professional-fixed-slotted-heel-and-continuous-loop-strap-wrench-01/v1.0.0/generate.py",
+      "size": 15959,
+      "sha256": "169533af96b84c9edd68d6779cdb5c65d5e6c7be8327ee48ddfde24f22fd0858"
+    },
+    "render": {
+      "path": "assets/professional/professional-fixed-slotted-heel-and-continuous-loop-strap-wrench-01/v1.0.0/thumbnail.png",
+      "size": 459823,
+      "sha256": "eb4a29940029b800123c79026e1138af5772f4ea780f0f663df8502ac28dc945"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

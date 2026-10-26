@@ -1,0 +1,42 @@
+{
+  "id": "architecture-fixed-interleaved-finger-plates-and-open-deck-joint-01",
+  "version": "1.0.0",
+  "category": "architecture",
+  "assetKind": "modular",
+  "theme": "architecture",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Interleaved Finger Plates and Open Deck Joint",
+  "description": "One newly authored complete static bridge-deck finger-joint display module. Two whole independently grounded concrete-style deck-end blocks leave a real central transverse gap. Each end carries one integral thick root plate with long chamfer-tipped fingers; the two horizontal plates interleave at the same height while retaining visible lateral and end clearances. Eight proud blank hex caps sit on the supported root strips. One continuous open-ended U-section catch trough sits beneath the gap with its side lips entering the two end blocks. This new opposing coplanar over-gap organization differs from a right-angle flared dovetail board and a hooked scarf beam locked by a transverse key: there are no sockets, mechanical lock or trapped key, and no reused timber geometry. All numeric geometry new; one architectural module zero scenes, three opaque constant PBR roles, metres Z-up and bounds-centred finite ground soles. The two deck ends and trough are included as part of the module, not a whole bridge or road scene. Fixed empty illustrative appearance only. No expansion travel, finger engagement tolerance, waterproofing, drainage performance, vehicle wheel passage, loading, fatigue, bridge or road design, installation or safety capability. No physical joint, rig animation or interaction made or verified.",
+  "bounds": {
+    "x": 2.5,
+    "y": 2.28,
+    "z": 0.432,
+    "unit": "m"
+  },
+  "triangles": 484,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/architecture/architecture-fixed-interleaved-finger-plates-and-open-deck-joint-01/v1.0.0/model.glb",
+      "size": 29172,
+      "sha256": "6cf4b0824d5906519d47cc9ddb820eb1de1a009a095a47f2bed8ec48023de831"
+    },
+    "blend": {
+      "path": "assets/architecture/architecture-fixed-interleaved-finger-plates-and-open-deck-joint-01/v1.0.0/source.blend",
+      "size": 603184,
+      "sha256": "7ea7ca180b95eb885fe37d49139c146f4fd98e3cc4fa072dd4b302889d082acd"
+    },
+    "generator": {
+      "path": "assets/architecture/architecture-fixed-interleaved-finger-plates-and-open-deck-joint-01/v1.0.0/generate.py",
+      "size": 11389,
+      "sha256": "9856aa991d033d0ebc57e94d13cbd1d5d8d03cbc205610acc1e73b55aa90eac1"
+    },
+    "render": {
+      "path": "assets/architecture/architecture-fixed-interleaved-finger-plates-and-open-deck-joint-01/v1.0.0/thumbnail.png",
+      "size": 366603,
+      "sha256": "95d34ac145162f8afeedae8ffa983440899b0fa257345095e60c2cf141e17833"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
