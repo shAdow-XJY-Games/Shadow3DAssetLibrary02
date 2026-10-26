@@ -1944,6 +1944,11 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary02",
       "commit": "bfa5535c456f6f7070a792c842336ac6de8f59df"
+    },
+    "original-qualified-batch-1483-volume02-20261025": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary02",
+      "commit": "b6adb62a95e0fe1ab7997613386cb7c71343a684"
     }
   },
   "assets": [
@@ -65586,6 +65591,135 @@
       "status": "verified",
       "license": "All rights reserved",
       "sourceId": "original-qualified-batch-1480-volume02-20261025"
+    },
+    {
+      "id": "public-service-whole-offset-basin-and-empty-hand-bay-station-scene-01",
+      "version": "1.0.0",
+      "category": "scenes",
+      "assetKind": "scene",
+      "theme": "public-service",
+      "style": "source-preserved-low-poly",
+      "title": "Whole Offset Basin and Empty Hand Bay Station",
+      "description": "One empty public wash-and-dry equipment preparation point, one scene zero new independent models. A complete original open-frame offset-basin sink table stands at rear-left, retaining its deep inner basin floor, entire ribbed side deck, angular tap exterior, splash panel and both open end trestles. A separate entire original opposed-shoulder hand-bay appliance stands forward-right with its real top-open and side-open deep bay unchanged. The two whole grounded stations face a shared empty front floor and have a positive lateral interval, rather than being fitted into one continuous countertop. The laboratory-origin sink is openly reused as the same unchanged visual prop, not a new public-facility fixture. The original flat dark drain patch remains a material partition only, not a new drain hole. Unlike the old sink beside tall storage cabinet and the four-station floor-cleaning machinery bay, there is no storage, cleaning bucket, floor buffer or upright cleaner here: this is a bounded basin-and-empty-hand-bay artistic station. All original unit-scale buffers, normals, complete PBR dictionaries and internal hierarchy remain unchanged under whole translations. Only a finite low floor is new scene-only geometry. No person, hands, water, soap, pipe connection, washing, drying, sanitation, airflow, electrical operation, human fit, accessibility, load, installation or safety capability is asserted. Rigging animation interaction not made.",
+      "bounds": {
+        "x": 2.5999999046325684,
+        "y": 1.7999999523162842,
+        "z": 1.3499999046325684,
+        "unit": "m"
+      },
+      "triangles": 684,
+      "materials": 9,
+      "files": {
+        "glb": {
+          "path": "assets/public-service/public-service-whole-offset-basin-and-empty-hand-bay-station-scene-01/v1.0.0/model.glb",
+          "size": 61736,
+          "sha256": "2854c5f78ca49abb9cb9c5b175a03d3f2fd74be472b2edf281678c76a6ff76aa"
+        },
+        "blend": {
+          "path": "assets/public-service/public-service-whole-offset-basin-and-empty-hand-bay-station-scene-01/v1.0.0/source.blend",
+          "size": 818456,
+          "sha256": "fb207f14a5808f75355a10b600d616ec59d274da9f72abaf83a87933d94913a7"
+        },
+        "generator": {
+          "path": "assets/public-service/public-service-whole-offset-basin-and-empty-hand-bay-station-scene-01/v1.0.0/generate.py",
+          "size": 52237,
+          "sha256": "0fbf968274684959653983c004a685cdc1ab45d90bd58bb07c1163699aee1701"
+        },
+        "render": {
+          "path": "assets/public-service/public-service-whole-offset-basin-and-empty-hand-bay-station-scene-01/v1.0.0/thumbnail.png",
+          "size": 484006,
+          "sha256": "28ed2c6a0adac900677b8d13edef48e734e81a5b3630e49e1b6ec92f2ae0904c"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1483-volume02-20261025"
+    },
+    {
+      "id": "spacebase-whole-fin-tip-rocket-and-open-well-platform-scene-01",
+      "version": "1.0.0",
+      "category": "scenes",
+      "assetKind": "scene",
+      "theme": "spacebase",
+      "style": "source-preserved-low-poly",
+      "title": "Whole Fin Tip Rocket and Open Well Platform",
+      "description": "One static fictional non-weapon space-display scene, one scene and zero new independent models. One entire qualified stepped-body ogive-fairing rocket stands at original unit scale on one complete original octagonal well-and-outlet platform. All four whole fin-tip sole patches sit on the actual upper field outside the square central well; the original downward-open blind decorative bell is above that well with a visible fixed vertical gap. The complete original side approach and low front outlet remain present and empty. One finite scene-only apron supports both the original full plinth sole and whole ramp sole. Original rocket body, fins and blind bell are not extracted, resized, posed or rebuilt; the platform, turning inner void, full side ramp and per-face markings are unchanged. Both complete original GLBs retain all raw vertex, index and normal payload bytes, local transforms and full material dictionaries, only whole parent translations are added. This mounted four-tip/annular-field relation differs from the old separate landing-platform and offset access-lift court and from the junction/solar-array/rover forecourt. No new tower, launcher, engine, flame, fuel, vehicle, boarding mechanism or repeated model is counted. Empty static artistic arrangement only. The geometric contact and open spaces are not a working rocket-platform compatibility or load assessment; no thrust, exhaust route, launch, propulsion, orbit, flight, thermal, clearance standard, evacuation, access, manufacture, installation or equipment safety capability is made or verified. All original limitations remain. Rigging animation and interaction are not made.",
+      "bounds": {
+        "x": 7.5,
+        "y": 5.599999904632568,
+        "z": 6.989999771118164,
+        "unit": "m"
+      },
+      "triangles": 1892,
+      "materials": 9,
+      "files": {
+        "glb": {
+          "path": "assets/spacebase/spacebase-whole-fin-tip-rocket-and-open-well-platform-scene-01/v1.0.0/model.glb",
+          "size": 102208,
+          "sha256": "a12c1fa6d4a078bc1893a573ea413e2dced41e7513bc14799bbc16dd6c362e8f"
+        },
+        "blend": {
+          "path": "assets/spacebase/spacebase-whole-fin-tip-rocket-and-open-well-platform-scene-01/v1.0.0/source.blend",
+          "size": 142136,
+          "sha256": "d16b9ae4a6de231ecae7048cb6ee8142ac6aecbde0f548ecea516bd37079253f"
+        },
+        "generator": {
+          "path": "assets/spacebase/spacebase-whole-fin-tip-rocket-and-open-well-platform-scene-01/v1.0.0/generate.py",
+          "size": 44276,
+          "sha256": "3ec836f3d0a44b66fa80304762b01bb0492ee1fd751f8c3711f7c39d30660e54"
+        },
+        "render": {
+          "path": "assets/spacebase/spacebase-whole-fin-tip-rocket-and-open-well-platform-scene-01/v1.0.0/thumbnail.png",
+          "size": 486952,
+          "sha256": "216bd3226b2b9e1005ab1741755ca1427b663889e85b2b2d3702f949866bbb88"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1483-volume02-20261025"
+    },
+    {
+      "id": "agriculture-whole-long-apron-box-and-rear-vertical-drum-spreader-01",
+      "version": "1.0.0",
+      "category": "modular",
+      "assetKind": "prop",
+      "theme": "agriculture",
+      "style": "warm-handcrafted-village",
+      "title": "Whole Long Apron Box and Rear Vertical Drum Spreader",
+      "description": "One independently authored complete empty rear-drum agricultural spreader-trailer appearance. A long low towable frame with two full road wheels and a finite parking prop carries a deep outward-sided box with a closed front, whole slatted apron floor and genuinely open rear. Beyond that opening a full-height independent bearing gate supports two complete vertical drums, each with a continuous thick blunt helical vane; lower and upper beams join the whole frame. The long apron-box-to-rear-upright-drum relationship differs from the existing hand-push round funnel and horizontal spinner underneath, and from the compact closed-back cargo tub. All visible coordinates are new, not old trailer geometry with extra cargo or a copied auger. One model zero scenes, four opaque PBR materials, no contents. Static fixed artistic exterior only: no conveying, manure/fertilizer compatibility, throwing, drive, flow, coverage, rotation, coupling fit, towing, load, handling, manufacture or safety performance. Rigging animation interaction not made.",
+      "bounds": {
+        "x": 2.25999999,
+        "y": 4.464878082,
+        "z": 1.99000001,
+        "unit": "m"
+      },
+      "triangles": 1400,
+      "materials": 4,
+      "files": {
+        "glb": {
+          "path": "assets/agriculture/agriculture-whole-long-apron-box-and-rear-vertical-drum-spreader-01/v1.0.0/model.glb",
+          "size": 89480,
+          "sha256": "3efa51836e6edffb832933875db7da12b0f1330ac444b264db30093fcdc3ab3a"
+        },
+        "blend": {
+          "path": "assets/agriculture/agriculture-whole-long-apron-box-and-rear-vertical-drum-spreader-01/v1.0.0/source.blend",
+          "size": 719264,
+          "sha256": "c9e69c7ee3086f4e64782584ff0ccc0b3fae44f9ed9201209e15be352b75db33"
+        },
+        "generator": {
+          "path": "assets/agriculture/agriculture-whole-long-apron-box-and-rear-vertical-drum-spreader-01/v1.0.0/generate.py",
+          "size": 31635,
+          "sha256": "b308580bc7e03f7f34952a9de9c8e7368a3de1af57dd13d8b7e387241b3a562a"
+        },
+        "render": {
+          "path": "assets/agriculture/agriculture-whole-long-apron-box-and-rear-vertical-drum-spreader-01/v1.0.0/thumbnail.png",
+          "size": 523865,
+          "sha256": "10ae99a8df2dc28f388b309961de9e9747de859de5a1af265ce66785399fac63"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1483-volume02-20261025"
     }
   ]
 }
