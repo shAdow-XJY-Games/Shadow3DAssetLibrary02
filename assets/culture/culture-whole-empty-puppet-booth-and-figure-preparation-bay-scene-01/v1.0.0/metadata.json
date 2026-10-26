@@ -1,0 +1,42 @@
+{
+  "id": "culture-whole-empty-puppet-booth-and-figure-preparation-bay-scene-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "culture",
+  "style": "source-preserved-low-poly",
+  "title": "Whole Empty Puppet Booth and Figure Preparation Bay",
+  "description": "One static cultural puppet-equipment preparation and display bay, one scene and zero new independent models. Four complete qualified originals retain all original raw geometry buffers, local normals, hierarchy, opaque PBR and unit scale. The entire open-backed folding-wing puppet theatre stands empty at the rear-left with its original curtains, sill and complete wings. A separate whole eight-string wooden marionette and its own rear stand, crossed control and finite base occupy the front-left floor. A whole open worktable on the right carries the complete three-rod pierced shadow-puppet display with its original base. Neither figure is inserted into the booth, no suspension cord or control rod is extracted, and no manipulation or compatibility is implied. The booth, standing figure display and table are independent positions on one new finite common floor. Unlike the mechanical sound-effects corner with cloth drum and suspended bells or the wardrobe/steamer/empty cart bay, this stages actual complete theatrical figure and presentation equipment, not an operated show. No performer, audience, lighting test, shadow projection, historical costume identification, puppeteering, control rig, string motion, folding travel, human fit, load, installation or child/workplace safety claim. Rigging animation interaction not made.",
+  "bounds": {
+    "x": 4.400000095367432,
+    "y": 3.200000047683716,
+    "z": 1.8049999475479126,
+    "unit": "m"
+  },
+  "triangles": 6864,
+  "materials": 13,
+  "files": {
+    "glb": {
+      "path": "assets/culture/culture-whole-empty-puppet-booth-and-figure-preparation-bay-scene-01/v1.0.0/model.glb",
+      "size": 410664,
+      "sha256": "d8727a1cd9a941122360688fb900a0fdc21ec6ea07f1e2bc12696ed7fcddc973"
+    },
+    "blend": {
+      "path": "assets/culture/culture-whole-empty-puppet-booth-and-figure-preparation-bay-scene-01/v1.0.0/source.blend",
+      "size": 1963748,
+      "sha256": "247b28a3d20e95d5dc9a3506581fc21ab01f18c3921c1d2cdc0bdefcf5c5e60e"
+    },
+    "generator": {
+      "path": "assets/culture/culture-whole-empty-puppet-booth-and-figure-preparation-bay-scene-01/v1.0.0/generate.py",
+      "size": 156995,
+      "sha256": "d0fadc31382afcb167ac39ac5c07fac3069ec29b823736ba816c31f5e1658443"
+    },
+    "render": {
+      "path": "assets/culture/culture-whole-empty-puppet-booth-and-figure-preparation-bay-scene-01/v1.0.0/thumbnail.png",
+      "size": 522390,
+      "sha256": "10735fc4e7358010041483e8c8630be0953781d10bc363900e01deabea11be0d"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
