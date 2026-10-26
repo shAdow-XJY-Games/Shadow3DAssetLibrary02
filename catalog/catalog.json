@@ -1654,6 +1654,11 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary02",
       "commit": "8916b1c2cb44bc7ee631a40541188988c6e57273"
+    },
+    "original-qualified-batch-1305-volume02-20261025": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary02",
+      "commit": "ecdb365dc815612d74f3e5ef54631364dc5647a8"
     }
   },
   "assets": [
@@ -57685,6 +57690,92 @@
       "status": "verified",
       "license": "All rights reserved",
       "sourceId": "original-qualified-batch-1303-volume02-20261025"
+    },
+    {
+      "id": "agriculture-fixed-opposed-oblique-concave-disc-harrow-01",
+      "version": "1.0.0",
+      "category": "modular",
+      "assetKind": "prop",
+      "theme": "agriculture",
+      "style": "warm-handcrafted-village",
+      "title": "Fixed Opposed Oblique Concave Disc Harrow",
+      "description": "One newly authored whole fixed disc-harrow-style trailer exterior. An open rectangular low frame carries two separate oblique full gang shafts with opposite plan angles. Each shaft passes through rooted hubs and a spaced row of genuine thick concave circular discs with open central holes and continuous dish walls, not flat saw blades or downward peg teeth. Four complete bearing posts join the shafts to the outer rails. A separate rear transport axle with two full side wheels, long front draw beam with open terminal eye and grounded parking leg complete the static parked assembly. No motor, hood, handles, feed vessel or old triangular timber frame; all geometry is newly drawn. One model zero scenes. Coarse static exterior only; no rotation, cultivation, draft attachment compatibility, load, soil clearance, engineering or safety capability, rig, animation or interaction claim.",
+      "bounds": {
+        "x": 2.25999999,
+        "y": 2.644999981,
+        "z": 0.800000012,
+        "unit": "m"
+      },
+      "triangles": 3816,
+      "materials": 4,
+      "files": {
+        "glb": {
+          "path": "assets/agriculture/agriculture-fixed-opposed-oblique-concave-disc-harrow-01/v1.0.0/model.glb",
+          "size": 204828,
+          "sha256": "ef7d93dfb21731d44de0d6b9762da1cdb55c1f350dfa0ade839543e6f7a7d299"
+        },
+        "blend": {
+          "path": "assets/agriculture/agriculture-fixed-opposed-oblique-concave-disc-harrow-01/v1.0.0/source.blend",
+          "size": 825096,
+          "sha256": "4abe1c3eea20e0bf8c46edf7e27437a90a8bec1d54dd2ecedff2c2eb655308c5"
+        },
+        "generator": {
+          "path": "assets/agriculture/agriculture-fixed-opposed-oblique-concave-disc-harrow-01/v1.0.0/generate.py",
+          "size": 31262,
+          "sha256": "13b8c5cbd1b2165d8b779a5e921a08359d2223b4998c79cb1a1cabded1754a6f"
+        },
+        "render": {
+          "path": "assets/agriculture/agriculture-fixed-opposed-oblique-concave-disc-harrow-01/v1.0.0/thumbnail.png",
+          "size": 505543,
+          "sha256": "9f3cf14536ac81871effece7bcc9e8d850c9d91b7b4465576878500608df16fe"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1305-volume02-20261025"
+    },
+    {
+      "id": "public-service-fixed-lowered-upper-trough-cycle-rack-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "public-service",
+      "style": "S01-clean-geometric",
+      "title": "Fixed Lowered Upper Trough Cycle Rack",
+      "description": "One newly authored complete empty two-level cycle-parking rack appearance in one fixed lowered-upper-tray pose. Four full finite mounting feet and a low common rectangular chassis carry a full horizontal open U wheel trough. Two complete rear columns support a real transverse upper pivot shaft and a second entire long U trough tilted downward and forward into a distinct loading silhouette. Two independently drawn side sleeve-and-rod supports meet separate whole pins beneath the upper trough. Continuous high side walls, rear stop bars, a full front loop grip and fixed rear pivot cheeks belong to the one common rack, not two unrelated stands. No old parking hoop, bicycle, scissor platform, crossed link or tray mesh imported. Four opaque PBR roles; metres Z up, whole XY bounds centred, four ground soles, one model zero scenes. Static empty visual structure only: no lifting or sliding travel, mechanism constraints, counterbalance, damping, wheel capture, bicycle fit or support, accessibility certification, human operation, security, manufacture, installation or load/safety performance. No bicycle supplied, no rigging animation or interaction.",
+      "bounds": {
+        "x": 0.66,
+        "y": 2.61795433170723,
+        "z": 1.67,
+        "unit": "m"
+      },
+      "triangles": 1008,
+      "materials": 4,
+      "files": {
+        "glb": {
+          "path": "assets/public-service/public-service-fixed-lowered-upper-trough-cycle-rack-01/v1.0.0/model.glb",
+          "size": 65004,
+          "sha256": "e020a52846607134c369feaca05705de82e69a8436ae6a9d62716d6a554f024c"
+        },
+        "blend": {
+          "path": "assets/public-service/public-service-fixed-lowered-upper-trough-cycle-rack-01/v1.0.0/source.blend",
+          "size": 742940,
+          "sha256": "98d89695b1cddf88d9d17fe1638f0c301aad61cb4db65b98fdbc5cf9b05721d1"
+        },
+        "generator": {
+          "path": "assets/public-service/public-service-fixed-lowered-upper-trough-cycle-rack-01/v1.0.0/generate.py",
+          "size": 12672,
+          "sha256": "a12029d807c9383717d58a5adc713bfd9e703b4034dabed95a139327b034dfed"
+        },
+        "render": {
+          "path": "assets/public-service/public-service-fixed-lowered-upper-trough-cycle-rack-01/v1.0.0/thumbnail.png",
+          "size": 372477,
+          "sha256": "3ac3b6101afd12f7af1afe7ffbb357ab98ea1e77868e402ae489f9e5638b938e"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1305-volume02-20261025"
     }
   ]
 }
