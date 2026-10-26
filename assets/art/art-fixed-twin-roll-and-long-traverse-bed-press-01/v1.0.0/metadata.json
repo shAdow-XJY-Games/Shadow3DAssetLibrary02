@@ -1,0 +1,42 @@
+{
+  "id": "art-fixed-twin-roll-and-long-traverse-bed-press-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "art",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Twin Roll and Long Traverse Bed Press",
+  "description": "One newly authored whole static intaglio-press-style exterior. A complete long rigid blank bed extends through two independent closed pierced side castings, supported along two finite longitudinal underside strips by two full rails and their end stays. Two entire horizontal steel rolls with separate full axles flank the bed above and below, with four fixed bearing blocks seated in the actual casting openings. Two upright pressure-screw appearances reach the upper bearings through the top bridges. An entire outboard six-arm star handwheel and its proud hub belong to the lower roll shaft. Four complete legs on two long ground shoes, longitudinal ties and transverse frame members form one open floor frame. Unlike the old cloth wringer there is no hanging cloth, short feed ledge or catch pan: the continuous rigid bed and its lengthwise supporting carriage organize this whole machine. Unlike the open platen press there is no hinged impression plate, chase or raised ink disc. All geometry newly authored with no imported old machine parts. Four opaque constant PBR roles, metres Z up and centred grounded origin, one model zero scenes. Fixed empty appearance only: no sheet, plate, ink transfer, adjustable nip, bed travel, pressure, gearing, historical accuracy, print performance, load, manufacture or safe operation. No rigging, animation or interaction.",
+  "bounds": {
+    "x": 1.01,
+    "y": 1.65,
+    "z": 1.379,
+    "unit": "m"
+  },
+  "triangles": 1716,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/art/art-fixed-twin-roll-and-long-traverse-bed-press-01/v1.0.0/model.glb",
+      "size": 101204,
+      "sha256": "0063410a17aaaea90329f7e8743b400c750ed87f21a0426ef0508925f45abe40"
+    },
+    "blend": {
+      "path": "assets/art/art-fixed-twin-roll-and-long-traverse-bed-press-01/v1.0.0/source.blend",
+      "size": 850656,
+      "sha256": "7073d65bb728f22f10c553f155358e64e531d4b1b5c64ea045cb413112d2a124"
+    },
+    "generator": {
+      "path": "assets/art/art-fixed-twin-roll-and-long-traverse-bed-press-01/v1.0.0/generate.py",
+      "size": 11547,
+      "sha256": "a105a3da10f56c88317408ef259b569b76c9784a8cc86529edbb78d94e9c1255"
+    },
+    "render": {
+      "path": "assets/art/art-fixed-twin-roll-and-long-traverse-bed-press-01/v1.0.0/thumbnail.png",
+      "size": 478142,
+      "sha256": "f79bfb3ea384c6e3b7055507dda08433f338f27d89f94dcd22cea116f448b630"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

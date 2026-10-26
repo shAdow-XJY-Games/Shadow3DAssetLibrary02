@@ -1,0 +1,42 @@
+{
+  "id": "nature-whole-gullied-cone-and-deep-summit-crater-01",
+  "version": "1.0.0",
+  "category": "modular",
+  "assetKind": "prop",
+  "theme": "nature",
+  "style": "warm-handcrafted-village",
+  "title": "Whole Gullied Cone and Deep Summit Crater",
+  "description": "One newly authored whole static volcanic-cone-like terrain appearance. A broad irregular finite mountain foot rises through continuous radially gullied outward flanks into a high asymmetric narrow summit rim. Inside the thick crest a deep open crater descends through uneven steep inner walls to a small fully retained closed rock floor, all one connected closed material boundary. The elevated positive conical mountain, diverging downhill grooves and localized summit cavity differ from the old broad low shoulder terrain enclosing a downward offset blind depression and from the open two-horn crescent dune. Entire coordinates newly authored, no old terrain mesh scaled or recolored. One terrain model zero scenes. No lava, smoke, eruption, particles, water or independent rock pile. Static artistic landform only; no real location, geological formation, activity, erosion, fluid, navigation, accessibility or hazard/safety claim.",
+  "bounds": {
+    "x": 6.953920364,
+    "y": 6.281161308,
+    "z": 2.665964127,
+    "unit": "m"
+  },
+  "triangles": 1052,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/nature/nature-whole-gullied-cone-and-deep-summit-crater-01/v1.0.0/model.glb",
+      "size": 58944,
+      "sha256": "163ca8f7042d59092dd6a9e9bb83ddf49059ae8bdedb96c0f167f632bc17fd06"
+    },
+    "blend": {
+      "path": "assets/nature/nature-whole-gullied-cone-and-deep-summit-crater-01/v1.0.0/source.blend",
+      "size": 557300,
+      "sha256": "c36eae4d7bc2b35d718436e665c143b34ee3771bad69030c936a0d5636e13c3d"
+    },
+    "generator": {
+      "path": "assets/nature/nature-whole-gullied-cone-and-deep-summit-crater-01/v1.0.0/generate.py",
+      "size": 28369,
+      "sha256": "413b20a33e2eb529ee5aec6a557bd05b5a316e51c18acab7880b3c10f15ab0b6"
+    },
+    "render": {
+      "path": "assets/nature/nature-whole-gullied-cone-and-deep-summit-crater-01/v1.0.0/thumbnail.png",
+      "size": 486618,
+      "sha256": "462c018ef5ef775a08fdc6e6634e447468e90cab279daa5fe873140dcbfbab2c"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

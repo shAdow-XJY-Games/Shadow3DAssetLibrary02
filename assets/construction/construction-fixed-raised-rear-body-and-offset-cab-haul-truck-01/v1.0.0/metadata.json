@@ -1,0 +1,42 @@
+{
+  "id": "construction-fixed-raised-rear-body-and-offset-cab-haul-truck-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "construction",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Raised Rear Body and Offset Cab Haul Truck",
+  "description": "One wholly newly authored rigid-frame haul-truck-style static exterior. Two full axles and four whole annular ground-facet tyres carry one connected ladder chassis. A broad front platform supports a new offset left cab with blank opaque windows and a separate lower right power hood. Two rear hinge bearers and a full transverse pivot carry a fixed raised rear body: one continuous U-section thick floor/flared-side shell with a true open top and full open rear, a tall complete front headboard and forward-projecting canopy. Two full underside bearers and two separate complete cylinder-and-rod exterior columns join that body to the rigid chassis. It is not the old horizontally yaw-articulated open-bin robot with a cab added, nor the longitudinal-trunnion curved railway skip or equipment-deck pump truck. All visible coordinates new, no old vehicle meshes imported or extracted. One prop zero scenes, four opaque constant untextured PBR roles, metres, native Z up and centred complete horizontal bounds with actual four-tyre facets at ground datum. Empty static exterior only. No cargo, actual tipping, unloading, driving, hydraulics, engine internals, steering, bearing fit, rail or road compatibility, operator fit, loads, manufacture, stability, engineering or safety performance. Rigging, animation and interaction not made or verified.",
+  "bounds": {
+    "x": 2.51,
+    "y": 4.707626,
+    "z": 3.267654,
+    "unit": "m"
+  },
+  "triangles": 2396,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/construction/construction-fixed-raised-rear-body-and-offset-cab-haul-truck-01/v1.0.0/model.glb",
+      "size": 115076,
+      "sha256": "bf98b9cff4cf707285cbdc4cdf6018f9037abe5c4fe891ae9f5b2668cc60b691"
+    },
+    "blend": {
+      "path": "assets/construction/construction-fixed-raised-rear-body-and-offset-cab-haul-truck-01/v1.0.0/source.blend",
+      "size": 802608,
+      "sha256": "aaeb3373e8ddd498c817fb524559c97994058c0180dc4c1de8198f67aeb87dae"
+    },
+    "generator": {
+      "path": "assets/construction/construction-fixed-raised-rear-body-and-offset-cab-haul-truck-01/v1.0.0/generate.py",
+      "size": 28546,
+      "sha256": "b5ea76ceb372dbf0824edeea9ab92849c71417a0491c382ce1f11250e97d8b22"
+    },
+    "render": {
+      "path": "assets/construction/construction-fixed-raised-rear-body-and-offset-cab-haul-truck-01/v1.0.0/thumbnail.png",
+      "size": 577478,
+      "sha256": "59ce75189fe3a3fad0e92a1b50860de7a9ca50d7daec911d81d903257b62df99"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

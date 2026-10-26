@@ -1,0 +1,42 @@
+{
+  "id": "agriculture-whole-tiller-and-seeder-preparation-bay-scene-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "agriculture",
+  "style": "source-preserved-faceted-natural-ecology",
+  "title": "Whole Tiller and Seeder Preparation Bay",
+  "description": "One static agricultural machinery preparation display scene, zero new reusable models. The entire qualified hand-operated curved-tine tiller is parked at the left of one finite common floor, retaining its complete transverse claw rotor, curved open-bottom hood, compact motor-shaped body, two wheels and high paired handles. The entire older hand-push roller seeder is parked separately to its right at unit scale, retaining its broad drum, genuine open tapering hopper, rising side frames and complete parking foot. The different front working silhouettes remain visible from the open front strip, while a continuous central interval separates the two complete machine bounds. No loose duplicate tools, crops or filler piles. Whole original oriented triangles and opaque per-face PBR are retained with float32 translation; original hierarchy and normals are baked/recomputed explicitly. This is a parked equipment display, not a connected sowing line or a resized mower scene. No powered operation, seed delivery, soil processing, human accessibility, navigation, load or safety claim; no rig or interaction.",
+  "bounds": {
+    "x": 3.299999952,
+    "y": 3.5,
+    "z": 1.335000038,
+    "unit": "m"
+  },
+  "triangles": 1752,
+  "materials": 9,
+  "files": {
+    "glb": {
+      "path": "assets/agriculture/agriculture-whole-tiller-and-seeder-preparation-bay-scene-01/v1.0.0/model.glb",
+      "size": 114624,
+      "sha256": "e05bceb87dff58849f3edbf4eb113d8a5b84f1d27a011c698d25d2e6a78011a0"
+    },
+    "blend": {
+      "path": "assets/agriculture/agriculture-whole-tiller-and-seeder-preparation-bay-scene-01/v1.0.0/source.blend",
+      "size": 954644,
+      "sha256": "b37be2dfe2ecf30c655b438346fa83c984f1b1559c93ff0e797c23f091c9948b"
+    },
+    "generator": {
+      "path": "assets/agriculture/agriculture-whole-tiller-and-seeder-preparation-bay-scene-01/v1.0.0/generate.py",
+      "size": 62469,
+      "sha256": "c71c417d602d1bcc0e8f9d12fbeb65e93d8bcbc28b410da28315c9afdd69ef1c"
+    },
+    "render": {
+      "path": "assets/agriculture/agriculture-whole-tiller-and-seeder-preparation-bay-scene-01/v1.0.0/thumbnail.png",
+      "size": 519037,
+      "sha256": "f46612ffd24bd57fd4d8cbffc4c4e7eea124ad6b085e75d813976643c966b209"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

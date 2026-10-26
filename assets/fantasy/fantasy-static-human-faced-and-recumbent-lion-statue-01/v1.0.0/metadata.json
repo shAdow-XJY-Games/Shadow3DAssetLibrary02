@@ -1,0 +1,42 @@
+{
+  "id": "fantasy-static-human-faced-and-recumbent-lion-statue-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "fantasy",
+  "style": "S01-clean-geometric",
+  "title": "Static Human Faced and Recumbent Lion Statue",
+  "description": "One newly authored complete static fantasy stone-statue appearance: a low recumbent feline torso and raised chest join an upright human-like neck/head, two long forelegs ending in broad front paws, two folded side haunches with tucked paws and one low curled tail. A complete swept crown and two thick shoulder-length headcloth lappets frame the blank human-like face, not a cat muzzle or furry mane. All parts belong to one whole plinth-mounted character, not an old lion body imported beneath a replacement head or a griffin with wings removed. Newly authored silhouette and coordinates, three opaque stone-toned PBR roles, metres Z up, centred full horizontal bounds, one model zero scenes. Static fictional stylisation only, not an identified historical monument, archaeological reconstruction, exact anatomy, ritual object, load-bearing sculpture or manufacturing/safety design. No rigging, animation or interaction made.",
+  "bounds": {
+    "x": 1.32,
+    "y": 2.76,
+    "z": 1.67,
+    "unit": "m"
+  },
+  "triangles": 1568,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/fantasy/fantasy-static-human-faced-and-recumbent-lion-statue-01/v1.0.0/model.glb",
+      "size": 118332,
+      "sha256": "f4cd2741109ee7599bfe0f636a4de66146433126b0e47aed87e554182bf56752"
+    },
+    "blend": {
+      "path": "assets/fantasy/fantasy-static-human-faced-and-recumbent-lion-statue-01/v1.0.0/source.blend",
+      "size": 670960,
+      "sha256": "6e663c1bc3851e2aab90500455021112f053c6f39c3011db4f945442ceb98584"
+    },
+    "generator": {
+      "path": "assets/fantasy/fantasy-static-human-faced-and-recumbent-lion-statue-01/v1.0.0/generate.py",
+      "size": 12947,
+      "sha256": "17400a74f1320db3546c7f5757fcf31b73b46b476652d3eee506b7f589a3d026"
+    },
+    "render": {
+      "path": "assets/fantasy/fantasy-static-human-faced-and-recumbent-lion-statue-01/v1.0.0/thumbnail.png",
+      "size": 403586,
+      "sha256": "d88d9f29dd22ad0a699bc381d9128164294115341eea4fbfbddb05d48a16ebd4"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

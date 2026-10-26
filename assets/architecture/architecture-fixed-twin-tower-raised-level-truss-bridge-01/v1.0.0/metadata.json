@@ -1,0 +1,42 @@
+{
+  "id": "architecture-fixed-twin-tower-raised-level-truss-bridge-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "architecture",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Twin Tower Raised Level Truss Bridge",
+  "description": "One entirely newly authored complete fixed vertical-lift-bridge-style exterior. Two full grounded piers and low approach ledges carry two whole four-leg open towers with top ties and fixed side braces. One complete horizontal thick deck with both windowed side trusses is visibly raised between them, with end guide shoes and whole truss diagonals. Four complete continuous opaque rope paths pass from that level span over four recessed-groove top wheels on complete axles and bearers to four distinct fixed hanging weight exteriors inside the tower clearances. Unlike the old raised gate leaf, the span has no root pivot; unlike the old suspension footbridge, there is no anchor-to-anchor sagging primary cable or short deck hangers. All visible geometry newly authored, no old bridge meshes or scene instances imported. One prop zero scenes, four opaque constant untextured PBR roles, metre scale, native Z up and centred complete horizontal bounds with whole pier soles at ground datum. No water, terrain, vehicles, people or actual lifting, balance, rope tension, traffic passage, bearing fit, loads, installation, engineering or safety performance. Rigging, animation and interaction not made or verified.",
+  "bounds": {
+    "x": 8.1,
+    "y": 3.0,
+    "z": 4.4,
+    "unit": "m"
+  },
+  "triangles": 5764,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/architecture/architecture-fixed-twin-tower-raised-level-truss-bridge-01/v1.0.0/model.glb",
+      "size": 277632,
+      "sha256": "ed1bf174646020a95ec9206118909ae416bf70991aaf845b019729371a274277"
+    },
+    "blend": {
+      "path": "assets/architecture/architecture-fixed-twin-tower-raised-level-truss-bridge-01/v1.0.0/source.blend",
+      "size": 1086256,
+      "sha256": "d9873375e48613410cd77409e3963a7238c23caa12527d35cdeac4be0b398b87"
+    },
+    "generator": {
+      "path": "assets/architecture/architecture-fixed-twin-tower-raised-level-truss-bridge-01/v1.0.0/generate.py",
+      "size": 27492,
+      "sha256": "c4f8b99124146df594f98f0a62a94bbad2c1c5244a2a52d9017f09b10199dd6e"
+    },
+    "render": {
+      "path": "assets/architecture/architecture-fixed-twin-tower-raised-level-truss-bridge-01/v1.0.0/thumbnail.png",
+      "size": 594484,
+      "sha256": "67b6c1bf6783cd2daff0a20a8e7093544b34ffc23638f199bffacc7f8043266a"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

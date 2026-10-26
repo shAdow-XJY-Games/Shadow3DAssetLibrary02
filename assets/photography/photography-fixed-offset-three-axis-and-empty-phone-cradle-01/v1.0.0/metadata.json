@@ -1,0 +1,42 @@
+{
+  "id": "photography-fixed-offset-three-axis-and-empty-phone-cradle-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "photography",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Offset Three Axis and Empty Phone Cradle",
+  "description": "One newly authored whole handheld three-axis camera-support-style static exterior with an empty phone cradle. A complete upright rounded grip carries a vertical upper pivot housing. One continuous stepped side arm reaches a separate transverse round housing, then a second full returned arm reaches a third fore-aft housing at a different height. The three distinct axis directions belong to one open single-sided support chain rather than nested closed gimbal rings. A whole rear carrier and two genuinely open opposed hooked jaws, with separate inset pads, terminate the chain; no phone, camera or display content is supplied. Proud fixed retaining caps, a small blank control panel and blunt control nub finish the exterior. No old gyro rings, lamp barrel, headwear or camera meshes imported. All numerical geometry new, four opaque constant PBR roles, metres Z up and whole horizontal envelope centred on the finite grip butt, one prop zero scenes. Fixed illustrative appearance only: no powered stabilization, motors or circuitry, axis travel, object fit, active clamp, balancing, battery, grip ergonomics, load, manufacturing or safety certification. No rigging, animation or interaction.",
+  "bounds": {
+    "x": 0.176,
+    "y": 0.15400000000000003,
+    "z": 0.392,
+    "unit": "m"
+  },
+  "triangles": 1336,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/photography/photography-fixed-offset-three-axis-and-empty-phone-cradle-01/v1.0.0/model.glb",
+      "size": 74784,
+      "sha256": "f57677789da18353296019947ccd8ffeed224a2f2b19f754c5f455a30c93154b"
+    },
+    "blend": {
+      "path": "assets/photography/photography-fixed-offset-three-axis-and-empty-phone-cradle-01/v1.0.0/source.blend",
+      "size": 700384,
+      "sha256": "1e723fe01724d6a01b7da8e105b4258433344d37ace3f51c79be98e83a7861c5"
+    },
+    "generator": {
+      "path": "assets/photography/photography-fixed-offset-three-axis-and-empty-phone-cradle-01/v1.0.0/generate.py",
+      "size": 11625,
+      "sha256": "e7cf8fb34af2e4209d4a6e27b72e527bdeec3ea965db15f9c802de2c5e82bbe1"
+    },
+    "render": {
+      "path": "assets/photography/photography-fixed-offset-three-axis-and-empty-phone-cradle-01/v1.0.0/thumbnail.png",
+      "size": 312411,
+      "sha256": "a35e8b984a85a2c63f1c845fd0e338ed8e801477a39df91d69d00b682ea1633e"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

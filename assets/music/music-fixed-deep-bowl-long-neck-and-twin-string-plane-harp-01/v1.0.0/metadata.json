@@ -1,0 +1,42 @@
+{
+  "id": "music-fixed-deep-bowl-long-neck-and-twin-string-plane-harp-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "music",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Deep Bowl Long Neck and Twin String Plane Harp",
+  "description": "One newly authored complete kora-inspired static harp-lute exterior, lying on the finite flattened back of its deep rounded bowl. One complete thick bowl shell has a genuine blind interior under a full membrane-style board with a real offset opening. A complete round long neck traverses the body and extends well above it; two separate short parallel hand posts enter the board beside it. A high continuous tapered central bridge supports two separated planes of whole strings, running from a lower anchor across the bridge shoulders to individual fixed collars distributed along the round neck. This is not a bowl-backed yoke lyre given more strings: no paired perimeter arms or upper transverse yoke. It is not a banjo with a large pot: no flat fretboard, long frets, peghead or outer tension hooks, and the tall bridge and two-plane fan relationship are newly authored together. No old mesh geometry imported. Four opaque untextured PBR roles, metres Z up and full horizontal bounds-centred ground origin. One whole prop zero scenes. Deliberately simplified cultural-art interpretation, not an exact regional, historic or playable specimen; string count and proportions are stylized. The cavity is real but partly occupied by fixed neck interfaces, not an acoustic design. No tuning, sound, string tension, hand fit, membrane behaviour, structural performance, manufacture or safety capability. No rigging, animation or interaction.",
+  "bounds": {
+    "x": 0.48,
+    "y": 1.3930000000000002,
+    "z": 0.421,
+    "unit": "m"
+  },
+  "triangles": 3548,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/music/music-fixed-deep-bowl-long-neck-and-twin-string-plane-harp-01/v1.0.0/model.glb",
+      "size": 194652,
+      "sha256": "fbb6eec24481522acf4679930050e51dbe4709f2f524c60ea3085b6a615b3e8c"
+    },
+    "blend": {
+      "path": "assets/music/music-fixed-deep-bowl-long-neck-and-twin-string-plane-harp-01/v1.0.0/source.blend",
+      "size": 884428,
+      "sha256": "8d32f24f6116977ed22f2391ed4a3e053656ed950aedb528c06eaf67ff649947"
+    },
+    "generator": {
+      "path": "assets/music/music-fixed-deep-bowl-long-neck-and-twin-string-plane-harp-01/v1.0.0/generate.py",
+      "size": 11696,
+      "sha256": "9d4b9147b991cce133e60bacc09b8f6c92fe4c4946a562ac5b24e2f948f8a67c"
+    },
+    "render": {
+      "path": "assets/music/music-fixed-deep-bowl-long-neck-and-twin-string-plane-harp-01/v1.0.0/thumbnail.png",
+      "size": 388708,
+      "sha256": "0f7dcdd40cded94db423d195968c612a25c7744510f135b92d6003bba868c65c"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

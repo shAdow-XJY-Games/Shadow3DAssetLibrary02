@@ -1,0 +1,42 @@
+{
+  "id": "professional-fixed-reservoir-and-forward-hood-brazing-lamp-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "professional",
+  "style": "source-preserved-low-poly",
+  "title": "Fixed Reservoir and Forward Hood Brazing Lamp",
+  "description": "One newly authored whole unlit reservoir brazing-lamp-style exterior. A complete squat closed tank with domed shoulder and broad flat foot carries a genuine open D-shaped side carrying handle, separate top fill-cap appearance and small upright plunger/cap. One continuous bent upper neck supports a complete forward-facing thick hollow horizontal hood with a closed rear; a separate shallow cup sits below it. One short side control stem and blank knob finish the same assembly. Unlike the canister stove, there are no radial cookware arms or upward cooking cup; unlike the laboratory burner, there is no tall vertical tube on a small base. All whole coordinates are new, with no old canister or nozzle imported. Three opaque PBR roles, one prop zero scenes. Tank is a closed visual solid and the hood is a blind exterior cavity, not a pressure vessel, fuel reservoir interior, injector or connected gas path. No fuel, flame, ignition, combustion, heat, pressure, valve action, brazing operation, manufacture or safety capability. Rigging animation interaction not made.",
+  "bounds": {
+    "x": 0.17000000178813934,
+    "y": 0.3490000069141388,
+    "z": 0.34700000286102295,
+    "unit": "m"
+  },
+  "triangles": 2396,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/professional/professional-fixed-reservoir-and-forward-hood-brazing-lamp-01/v1.0.0/model.glb",
+      "size": 210448,
+      "sha256": "e5c56616fcbd70c2abc85c4e68a709d80bc0f1822a2f9fcd31f50e8947c435b5"
+    },
+    "blend": {
+      "path": "assets/professional/professional-fixed-reservoir-and-forward-hood-brazing-lamp-01/v1.0.0/source.blend",
+      "size": 857504,
+      "sha256": "30cf3b391a9bdb80b4bc7b8126f4e462be8a43ee658543fcb0fd868b3a12b2a0"
+    },
+    "generator": {
+      "path": "assets/professional/professional-fixed-reservoir-and-forward-hood-brazing-lamp-01/v1.0.0/generate.py",
+      "size": 16246,
+      "sha256": "a6f7d1110e72a5a27c30b99635e2a540d4ea6059820aac6baa52ece912f151e0"
+    },
+    "render": {
+      "path": "assets/professional/professional-fixed-reservoir-and-forward-hood-brazing-lamp-01/v1.0.0/thumbnail.png",
+      "size": 517667,
+      "sha256": "f0db206a09409ba1c5c26075a53d56b71d399f4e784dd7d3eff37ff4eb259f54"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

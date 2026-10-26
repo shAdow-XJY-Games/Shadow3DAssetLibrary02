@@ -1,0 +1,42 @@
+{
+  "id": "technology-fixed-pivoted-slot-lever-and-guided-ram-display-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "technology",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Pivoted Slot Lever and Guided Ram Display",
+  "description": "One wholly newly authored fixed pivoted-slot lever and guided-ram teaching display. A common finite ground bed supports a low fixed lever pivot, an independent rear crank-disc shaft and two full upper ram-guide posts. One complete long thick lever contains a genuine bounded longitudinal slot and pivots visually at its lower end; a separate fixed rectangular block in that slot receives the rear disc eccentric pin. At the upper lever end a whole independent connecting link reaches a separate horizontal ram through two genuinely bored guide sleeves. This topology is not the old directly translated vertical-slot yoke with integral stems, nor the cylinder/piston-crosshead bench: lower fixed lever pivot and upper second link are explicit parts of this complete arrangement. All coordinates and meshes new, three opaque PBR roles, metres Z up, one model zero scenes. Static artistic pose only; fixed pin overlaps and clearances do not validate kinematics. No quick-return ratio, straight-line trajectory, full travel, sliding or rotation, motion solution, timing, torque, force, transmission, processing, manufacture or machinery safety capability. Rigging animation interaction not made.",
+  "bounds": {
+    "x": 2.45,
+    "y": 0.86,
+    "z": 1.58358971893974,
+    "unit": "m"
+  },
+  "triangles": 1200,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/technology/technology-fixed-pivoted-slot-lever-and-guided-ram-display-01/v1.0.0/model.glb",
+      "size": 60676,
+      "sha256": "9b867e9cfcaf5e4f07649d9dc947924230ed7acf85d0e8ebd954ad702c1362e4"
+    },
+    "blend": {
+      "path": "assets/technology/technology-fixed-pivoted-slot-lever-and-guided-ram-display-01/v1.0.0/source.blend",
+      "size": 683344,
+      "sha256": "6a5ff2d780f4dfa574db680ff181f44d437ce24b8f961e808ab15d555c0e7a37"
+    },
+    "generator": {
+      "path": "assets/technology/technology-fixed-pivoted-slot-lever-and-guided-ram-display-01/v1.0.0/generate.py",
+      "size": 12592,
+      "sha256": "79e2bacb4cf73d65ebc979a0a65dde806f40252df9f88de984d04a0bc0460f06"
+    },
+    "render": {
+      "path": "assets/technology/technology-fixed-pivoted-slot-lever-and-guided-ram-display-01/v1.0.0/thumbnail.png",
+      "size": 403247,
+      "sha256": "9b3b9511449901aeff59a0e5dd7188eeb17f8e48df8810544bcea1cd84847bc6"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

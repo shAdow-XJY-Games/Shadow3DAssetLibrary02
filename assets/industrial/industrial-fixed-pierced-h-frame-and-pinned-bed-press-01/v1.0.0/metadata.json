@@ -1,0 +1,42 @@
+{
+  "id": "industrial-fixed-pierced-h-frame-and-pinned-bed-press-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "industrial",
+  "style": "source-preserved-low-poly",
+  "title": "Fixed Pierced H Frame and Pinned Bed Press",
+  "description": "One newly authored complete static floor-standing H-frame press appearance. Two whole deep pierced uprights and a broad upper crosshead stand on long flat feet with a full low tie. Two independent thick bed rails span the upright openings and rest on complete cross pins at one fixed height, leaving an actual open centre. A short central upper cylinder, exposed blunt ram and finite flat pressing pad face that bed across a real empty work interval. A separate rooted side pump case, long fixed lever and one continuous external hose complete the whole exterior. Unlike the earlier open C-casting rack press, this has a bilateral tall portal load-frame and a full spanning pinned bed, with no rack or pinion. It is not the old bottle jack placed in a borrowed frame; all coordinates are newly authored. Three opaque PBR roles, one model zero scenes. No workpiece, hydraulic circuit, pressure, force, travel, lifting, load, stability, manufacture, installation or safety capability. Rigging animation interaction not made.",
+  "bounds": {
+    "x": 1.3927762508392334,
+    "y": 0.7599999904632568,
+    "z": 1.7799999713897705,
+    "unit": "m"
+  },
+  "triangles": 1660,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/industrial/industrial-fixed-pierced-h-frame-and-pinned-bed-press-01/v1.0.0/model.glb",
+      "size": 156588,
+      "sha256": "e3ccd66e6860262d7d21aba17c1c1f6ae9256527886b89f361947b3ec36960f3"
+    },
+    "blend": {
+      "path": "assets/industrial/industrial-fixed-pierced-h-frame-and-pinned-bed-press-01/v1.0.0/source.blend",
+      "size": 831520,
+      "sha256": "9e26cca3215525f940c3f9eeea6cbeec0d7204c40f309e58c7cab8344747bdcd"
+    },
+    "generator": {
+      "path": "assets/industrial/industrial-fixed-pierced-h-frame-and-pinned-bed-press-01/v1.0.0/generate.py",
+      "size": 16284,
+      "sha256": "a00af6e4ba54d5b322fa805fce0b0d731f43dadd0c6876e272690512072883f8"
+    },
+    "render": {
+      "path": "assets/industrial/industrial-fixed-pierced-h-frame-and-pinned-bed-press-01/v1.0.0/thumbnail.png",
+      "size": 513478,
+      "sha256": "f23a288382724d348ccf1fbf511a6cd51ecc823d12b24e717b808b9149901718"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

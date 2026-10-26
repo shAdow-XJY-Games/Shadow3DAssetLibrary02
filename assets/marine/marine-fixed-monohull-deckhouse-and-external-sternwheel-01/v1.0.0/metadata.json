@@ -1,0 +1,42 @@
+{
+  "id": "marine-fixed-monohull-deckhouse-and-external-sternwheel-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "marine",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Monohull Deckhouse and External Sternwheel Riverboat",
+  "description": "One complete newly authored dry-display sternwheel-riverboat-style exterior. A broad continuous closed pointed-bow and flat-stern monohull with full deck and low perimeter bulwark carries a full lower central deckhouse, covered exterior side passages, a complete upper promenade deck and forward pilot-house with separate pitched roof. Opaque window bands and open upper rail frames are whole finite shapes, while one tall chimney-like thick shell has a real deep blind open mouth. Beyond the broad stern, two complete external fork bearers and blocks carry one full transverse axle, hub, two open annular wheel rims, whole spokes and complete broad transverse paddle boards. This is not the old twin-float central-pedal boat enlarged or a forewell bucket-dredger with its ladder removed; all visible hull, cabin, deck and wheel coordinates newly drawn and no existing model mesh imported. Four opaque untextured constant PBR roles, metres, native Z up and complete horizontal envelope centred with full monohull dry sole at datum. One prop, zero scenes. No water, occupants, real boiler or engine internals, drive linkage, buoyancy, sailing, stability, loading, propulsion, steering, hydrodynamics, accessibility, manufacture, operation or safety claim. Rigging, animation and interaction not made or verified.",
+  "bounds": {
+    "x": 2.5,
+    "y": 6.865,
+    "z": 3.19,
+    "unit": "m"
+  },
+  "triangles": 1812,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/marine/marine-fixed-monohull-deckhouse-and-external-sternwheel-01/v1.0.0/model.glb",
+      "size": 120368,
+      "sha256": "63afa7a786399ffd3759cc75d7cdfbaf7542784a53a440d6773b31697fde9bd5"
+    },
+    "blend": {
+      "path": "assets/marine/marine-fixed-monohull-deckhouse-and-external-sternwheel-01/v1.0.0/source.blend",
+      "size": 874332,
+      "sha256": "954acc4a3b622051498da293602324d024c2e1a2dfa8b7b80632e1460ae7439f"
+    },
+    "generator": {
+      "path": "assets/marine/marine-fixed-monohull-deckhouse-and-external-sternwheel-01/v1.0.0/generate.py",
+      "size": 30395,
+      "sha256": "73a46bd36ac615699a785430250f15fe524be061d5542bf40942faa83039bd19"
+    },
+    "render": {
+      "path": "assets/marine/marine-fixed-monohull-deckhouse-and-external-sternwheel-01/v1.0.0/thumbnail.png",
+      "size": 550759,
+      "sha256": "57372c61a7804f012e8a2624be865397511848113afb9f0063a98ba97da75793"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

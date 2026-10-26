@@ -1,0 +1,42 @@
+{
+  "id": "village-fixed-open-offset-rafter-and-central-aperture-roof-frame-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "village",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Open Offset Rafter and Central Aperture Roof Frame",
+  "description": "One complete original open timber roof framework: eight full grounded posts with stone feet support a continuous peripheral octagonal bearing ring; eight inclined tangentially offset chord rafters form a cyclic overlapping arrangement around a real central polygonal aperture, with no central post or independent crown ring. Each rafter crosses an adjacent rafter at a different position along its sloping length. This is not the old radial yurt rafters terminating at a separate crown ring, not a planar hammerbeam portal, and not a roof-cover colour/count variant. All geometry authored for this whole frame. The roof is deliberately uncovered so the entire rafter organisation remains visible; no cover, walls or weather enclosure are promised. Three opaque PBR roles, metres Z up, complete horizontal bounds centred. Static artistic assembly only: crossings are fixed overlapping timber seats, not engineered joinery, reciprocal load analysis, construction instructions, tested load bearing or human-use safety. No rig, animation or interaction.",
+  "bounds": {
+    "x": 4.36,
+    "y": 4.36,
+    "z": 2.8000000000000003,
+    "unit": "m"
+  },
+  "triangles": 352,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/village/village-fixed-open-offset-rafter-and-central-aperture-roof-frame-01/v1.0.0/model.glb",
+      "size": 33124,
+      "sha256": "18744158510e8bce9bc40f7a5adf9a0da983aeb79766033efd368ff55d912e41"
+    },
+    "blend": {
+      "path": "assets/village/village-fixed-open-offset-rafter-and-central-aperture-roof-frame-01/v1.0.0/source.blend",
+      "size": 651468,
+      "sha256": "4fcc65bf9692be6bb000f4121235ef454d7e58884d92d0c7846dae43dc440987"
+    },
+    "generator": {
+      "path": "assets/village/village-fixed-open-offset-rafter-and-central-aperture-roof-frame-01/v1.0.0/generate.py",
+      "size": 10691,
+      "sha256": "4194cf46d70bc82532b8cb83c898c49de49e2996e75defb19a5fe54be1f8461d"
+    },
+    "render": {
+      "path": "assets/village/village-fixed-open-offset-rafter-and-central-aperture-roof-frame-01/v1.0.0/thumbnail.png",
+      "size": 513617,
+      "sha256": "023d952e4075c10d06e1bb26e34b3bacd57921c1cf5f0a9723e79ce4778c6b7e"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

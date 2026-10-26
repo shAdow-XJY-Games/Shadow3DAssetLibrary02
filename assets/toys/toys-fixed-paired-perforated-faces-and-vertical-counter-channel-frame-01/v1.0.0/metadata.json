@@ -1,0 +1,42 @@
+{
+  "id": "toys-fixed-paired-perforated-faces-and-vertical-counter-channel-frame-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "toys",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Paired Perforated Faces and Vertical Counter Channel Frame",
+  "description": "One newly authored complete static upright counter-channel tabletop-game exterior. Two entire thick face sheets each have a real circular through-opening grid; full vertical partitions between them define separate continuous top-open slots above one full bottom retaining bed. Two whole side standards stand on broad independent fore-aft feet. Five complete fixed flat circular counters occupy selected low positions inside the channels and show through the paired face apertures; the other circular apertures remain empty. Unlike the earlier pin-relief screen there are no depth-projecting rods, front heads or rear stops, and each circle opens into a continuous vertical counter channel instead of an isolated transverse guide bore. Unlike the peg-drop cabinet there is no solid back field, staggered obstacle peg forest, top funnel or partitioned receiving trough. The slot organization, full sides and feet and counter seating are newly authored together; not a hole-count variation or extracted old panel. Four opaque PBR roles, metres Z up and horizontal-bounds-centred finite ground origin. One complete prop zero scenes. Fixed illustrative tabletop toy only: no game rules, scoring, winning layout, drop trajectory, counter-release motion, mechanical tolerance, child suitability, choking safety, manufacture, load or stable play capability. No branding, text, player, rigging, animation or interaction.",
+  "bounds": {
+    "x": 0.40299999999999997,
+    "y": 0.17,
+    "z": 0.39949999999999997,
+    "unit": "m"
+  },
+  "triangles": 6876,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/toys/toys-fixed-paired-perforated-faces-and-vertical-counter-channel-frame-01/v1.0.0/model.glb",
+      "size": 233040,
+      "sha256": "05d092f86fbf4986c4339ec25df9644f88887bb52e2cfa76bf1d84e425c6a354"
+    },
+    "blend": {
+      "path": "assets/toys/toys-fixed-paired-perforated-faces-and-vertical-counter-channel-frame-01/v1.0.0/source.blend",
+      "size": 997984,
+      "sha256": "ea379958535b2410a82e5fd49bdf5726293864f6a92af8131b0064c0440eac83"
+    },
+    "generator": {
+      "path": "assets/toys/toys-fixed-paired-perforated-faces-and-vertical-counter-channel-frame-01/v1.0.0/generate.py",
+      "size": 11133,
+      "sha256": "232ea68ffbe51f82719fad829f23e7ff3378be396821e30c5d9b5b700c814ff6"
+    },
+    "render": {
+      "path": "assets/toys/toys-fixed-paired-perforated-faces-and-vertical-counter-channel-frame-01/v1.0.0/thumbnail.png",
+      "size": 534251,
+      "sha256": "403c93f266a68b35c66ea2feef582f996812c3740a7e484baf0baf1529dbe962"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

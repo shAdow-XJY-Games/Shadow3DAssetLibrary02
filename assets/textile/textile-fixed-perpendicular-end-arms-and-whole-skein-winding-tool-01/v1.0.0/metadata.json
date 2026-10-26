@@ -1,0 +1,42 @@
+{
+  "id": "textile-fixed-perpendicular-end-arms-and-whole-skein-winding-tool-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "textile",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Perpendicular End Arms and Whole Skein Winding Tool",
+  "description": "One newly authored complete handheld cross-arm skein-winding tool appearance standing in a fixed display pose. A complete turned central hand column joins two complete transverse wooden end arms at right angles to one another. Both arms have integral shallow upturned retaining ends, with the lower full arm resting on its flat underside. Three whole closed thick yarn-appearance circuits alternately pass around the four separated arm ends, making a nonplanar long loop around the entire tool rather than a flat coil. This is not the earlier supported horizontal four-wing warping cage with its stands removed: there are no paired radial crosses, four parallel longitudinal rails, bearings or crank. It is not an umbrella swift shrunk or stripped: no central sliding hubs, crossing ribs, expanding outer uprights or polygonal perimeter. All complete coordinates newly authored together, no old meshes imported. Three opaque untextured PBR materials, metres Z up, actual horizontal envelope centred and finite lower arm sole at zero. One whole static prop zero scenes. Fixed textile-tool illustration only, not a verified weaving or winding arrangement: no release path, measured skein length, yarn travel or tension, hand fit, stability, manufacture, child suitability or safety claim. No rigging, animation or interaction.",
+  "bounds": {
+    "x": 0.33,
+    "y": 0.33,
+    "z": 0.507,
+    "unit": "m"
+  },
+  "triangles": 1496,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/textile/textile-fixed-perpendicular-end-arms-and-whole-skein-winding-tool-01/v1.0.0/model.glb",
+      "size": 107464,
+      "sha256": "6a800f378d0dd3fdb7a403bbb2ed5ce63286637ea6c9148f6a5f09a116b94d79"
+    },
+    "blend": {
+      "path": "assets/textile/textile-fixed-perpendicular-end-arms-and-whole-skein-winding-tool-01/v1.0.0/source.blend",
+      "size": 625408,
+      "sha256": "ab1d3819aee688090748e950d0e0be77ba4d0cf8c53ec1bedce883673b54de1b"
+    },
+    "generator": {
+      "path": "assets/textile/textile-fixed-perpendicular-end-arms-and-whole-skein-winding-tool-01/v1.0.0/generate.py",
+      "size": 11103,
+      "sha256": "608945186525f9552b1442eea03607eff2c5975888f66544776a10397c862be5"
+    },
+    "render": {
+      "path": "assets/textile/textile-fixed-perpendicular-end-arms-and-whole-skein-winding-tool-01/v1.0.0/thumbnail.png",
+      "size": 412720,
+      "sha256": "ff9816d72d4c96c25979754dd7be433449d6cdaec9e8879c1416789815205e4d"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

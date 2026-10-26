@@ -1,0 +1,42 @@
+{
+  "id": "agriculture-fixed-high-wheel-curved-tine-hay-rake-01",
+  "version": "1.0.0",
+  "category": "modular",
+  "assetKind": "prop",
+  "theme": "agriculture",
+  "style": "warm-handcrafted-village",
+  "title": "Fixed High-Wheel Curved-Tine Hay Rake",
+  "description": "One newly authored whole fixed high-wheel hay-rake-like farm implement exterior. Two large open spoked wheels flank a complete transverse axle and wide curved-tooth beam. A single row of full long thick teeth sweeps downward and forward from that beam into finite blunt ground ends. A long central timber draw beam with true open terminal eye projects forward above the teeth; a rearward curved seat support carries one complete shallow pan seat, and two diagonal frame braces connect the wide axle region to the draw beam. A short resting prop under the forward beam fixes this static pose. This high two-wheel/whole curved comb/seat/drawbeam relation differs from the low triangular drag-harrow perimeter with dispersed short teeth and from the compact motor-hood walkbehind rotor with circular claws and rear handle grips. All geometry authored anew, no old wheels, tine arrays or machine meshes imported. One model zero scenes. No moving dump linkage, harvesting, raking, horse/tractor attachment, human seating ergonomics, hitch dimensions, load, assembly manufacture, stability or safety claim. Rig animation interaction not made.",
+  "bounds": {
+    "x": 2.74000001,
+    "y": 3.122999907,
+    "z": 1.360000014,
+    "unit": "m"
+  },
+  "triangles": 2988,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/agriculture/agriculture-fixed-high-wheel-curved-tine-hay-rake-01/v1.0.0/model.glb",
+      "size": 163316,
+      "sha256": "1df52f9a4b73e469bd345613968f47f656b93c949b124ac1cb65853a5bb5cfca"
+    },
+    "blend": {
+      "path": "assets/agriculture/agriculture-fixed-high-wheel-curved-tine-hay-rake-01/v1.0.0/source.blend",
+      "size": 821272,
+      "sha256": "df73e656af61489c6c49043941b3d62877f10202aa79db9c7c08c302a8a64e73"
+    },
+    "generator": {
+      "path": "assets/agriculture/agriculture-fixed-high-wheel-curved-tine-hay-rake-01/v1.0.0/generate.py",
+      "size": 31431,
+      "sha256": "de5be2409342a464888deefb4a35b7468a9c4e92dc641908c05b14025294b840"
+    },
+    "render": {
+      "path": "assets/agriculture/agriculture-fixed-high-wheel-curved-tine-hay-rake-01/v1.0.0/thumbnail.png",
+      "size": 521873,
+      "sha256": "cb45042214d1f70721b49ee98d398c2280b497fbd3e19ce1e6f011a328370f73"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

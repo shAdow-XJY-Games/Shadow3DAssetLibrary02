@@ -1,0 +1,42 @@
+{
+  "id": "animal-static-overlapping-keeled-scales-thick-tail-pangolin-01",
+  "version": "1.0.0",
+  "category": "modular",
+  "assetKind": "prop",
+  "theme": "animal",
+  "style": "warm-handcrafted-village",
+  "title": "Static Overlapping Keeled-Scale Thick-Tail Pangolin",
+  "description": "One newly authored whole static stylised pangolin-like animal. A narrow gently downturned conical muzzle flows into a small earless head, low arched thick torso and long broad-rooted gradually tapering curved tail as one continuous closed body. Staggered rows of individually thick broad pointed keeled shield scales overlap along the back and tail; they are not quills, transverse armadillo accordion rings or a fur plume. Four short bent limbs end in finite broad soles, with long blunt foreclaw forms at the front feet; small lateral eyes and short dark nose complete the head. All body, tail, limb and shield profiles newly authored with no old animal mesh/coordinate arrays imported. Different entire low long-tailed silhouette from the higher banded armadillo with tall ears and narrow tail or long-legged anteater with huge deep plume tail. One static animal model zero scenes. No exact species/anatomy, scale biology, defensive curling, locomotion, feeding, conservation, specimen handling or safety claim; rig animation interaction not made.",
+  "bounds": {
+    "x": 0.78575331,
+    "y": 3.13499999,
+    "z": 0.915635467,
+    "unit": "m"
+  },
+  "triangles": 2238,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/animal/animal-static-overlapping-keeled-scales-thick-tail-pangolin-01/v1.0.0/model.glb",
+      "size": 160168,
+      "sha256": "9ed371bd94fdde2442c6048958496c5168e2428f28c1b9a2c30cd8f63fd4f27d"
+    },
+    "blend": {
+      "path": "assets/animal/animal-static-overlapping-keeled-scales-thick-tail-pangolin-01/v1.0.0/source.blend",
+      "size": 888636,
+      "sha256": "8e0b542fddf5f81c182c9ffd70a650724247698b76bb6a1044bfc5720c465fbe"
+    },
+    "generator": {
+      "path": "assets/animal/animal-static-overlapping-keeled-scales-thick-tail-pangolin-01/v1.0.0/generate.py",
+      "size": 31102,
+      "sha256": "9712004ce0b2897fb298dea9da3f9965ea37e261c401e5d00cc6c879f8ea449a"
+    },
+    "render": {
+      "path": "assets/animal/animal-static-overlapping-keeled-scales-thick-tail-pangolin-01/v1.0.0/thumbnail.png",
+      "size": 480837,
+      "sha256": "a61691c636821b01fc12e454c053a806bca4b41ea52cc1eb81f4d346f8d37457"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

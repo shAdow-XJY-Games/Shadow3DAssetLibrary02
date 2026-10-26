@@ -1,0 +1,42 @@
+{
+  "id": "railway-fixed-window-sideframes-and-sprung-bolster-bogie-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "railway",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Window Sideframes and Sprung Bolster Railway Bogie",
+  "description": "One newly authored complete static railway bogie display module. Two full transverse wheelsets each carry two whole profiled and bored flange wheels. Four separate outer axlebox exteriors and proud end covers meet two full longitudinal sideframes with real elongated polygonal windows and sloping shoulders. Four whole continuous helical coils stand on the sideframe lower sills below the wide ends of one full tapered transverse bolster. A complete open centre-bearing bowl with a central bore and two raised side pads sit on that bolster. This new whole wheelset-sideframe-spring-bolster relationship is not a flatbed wagon with its deck removed, nor the earlier bowed leaf pack with added wheels. All visible coordinates newly authored; no source meshes imported or extracted. One complete prop zero scenes, four opaque untextured constant PBR roles, metres and native Z up. The lowest flange facets define a static display datum, not a rail gauge or compatibility interface. No rails, coach or wagon body included. All fixed: no running, suspension travel, elasticity, wheel rotation, bearing fit, vehicle compatibility, manufacture, load, motion, railway operations or safety claims. Rigging, animation and interaction not made or verified.",
+  "bounds": {
+    "x": 2.444,
+    "y": 2.574183,
+    "z": 0.885,
+    "unit": "m"
+  },
+  "triangles": 8884,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/railway/railway-fixed-window-sideframes-and-sprung-bolster-bogie-01/v1.0.0/model.glb",
+      "size": 611172,
+      "sha256": "671c2bcf451ca22b87f141acb0bf621c04aff027c60baadd8df70c7f51b12a5a"
+    },
+    "blend": {
+      "path": "assets/railway/railway-fixed-window-sideframes-and-sprung-bolster-bogie-01/v1.0.0/source.blend",
+      "size": 1118016,
+      "sha256": "591a4d7336950aeceebe7a5e138a416267489a3684b5c9a53c121c20c2a6b9fb"
+    },
+    "generator": {
+      "path": "assets/railway/railway-fixed-window-sideframes-and-sprung-bolster-bogie-01/v1.0.0/generate.py",
+      "size": 26801,
+      "sha256": "c59eed3ae3117c9fc9bc2163b7d83c4a814b273f1b6ed87a0c44f4446854f3fd"
+    },
+    "render": {
+      "path": "assets/railway/railway-fixed-window-sideframes-and-sprung-bolster-bogie-01/v1.0.0/thumbnail.png",
+      "size": 520817,
+      "sha256": "737817b5710917edb2cec5a993f99bb74a98fc6f3c63b4a5a8c1a9b3467728f9"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

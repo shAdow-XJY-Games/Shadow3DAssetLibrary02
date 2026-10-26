@@ -1,0 +1,42 @@
+{
+  "id": "carpentry-fixed-long-blunt-plate-and-upright-eye-grip-froe-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "carpentry",
+  "style": "source-preserved-low-poly",
+  "title": "Fixed Long Blunt Plate and Upright Eye Grip Froe",
+  "description": "One newly authored whole fixed froe-inspired woodworking display. A single connected metal head extends from one thick annular end eye into a long broad constant-thickness blunt plate, with no separate poll or bulbous axe wedge. The head has a genuine full vertical through-eye in isolation, occupied by one complete gently shaped upright wooden handle in the fixed assembly. The long plate and single perpendicular end grip form the characteristic L silhouette; unlike the old drawknife there are no two returned tangs and parallel double grips, and unlike the display axe the socket sits at the end of a long flat plate rather than within a short thick curved-bit head. The broad head underside is only a static display datum. Two closed editable meshes and three opaque constant face-material roles; one prop zero scenes. All vertex geometry new, no old head or handle imported. No sharpened edge, cutting/splitting action, impact, wood processing, joint strength, hand fit, manufacture, operation or safety capability. The assembled eye is not claimed empty. Rigging animation interaction not made.",
+  "bounds": {
+    "x": 0.3959999978542328,
+    "y": 0.052000001072883606,
+    "z": 0.35499998927116394,
+    "unit": "m"
+  },
+  "triangles": 820,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/carpentry/carpentry-fixed-long-blunt-plate-and-upright-eye-grip-froe-01/v1.0.0/model.glb",
+      "size": 71604,
+      "sha256": "5ee5f8a662ef2f2c9186eb66889506dfdf824a228fbdc0f180ca7c5f020f3a9d"
+    },
+    "blend": {
+      "path": "assets/carpentry/carpentry-fixed-long-blunt-plate-and-upright-eye-grip-froe-01/v1.0.0/source.blend",
+      "size": 633968,
+      "sha256": "2ec20378ea40eb4cc1cefb29b824d6616636d185338ddf6f8360217f15ce51c2"
+    },
+    "generator": {
+      "path": "assets/carpentry/carpentry-fixed-long-blunt-plate-and-upright-eye-grip-froe-01/v1.0.0/generate.py",
+      "size": 15439,
+      "sha256": "c016130115a8a141d01cfb64d09f8e4c6620ddba9e0b2fa55b822cdd32b78ee0"
+    },
+    "render": {
+      "path": "assets/carpentry/carpentry-fixed-long-blunt-plate-and-upright-eye-grip-froe-01/v1.0.0/thumbnail.png",
+      "size": 447110,
+      "sha256": "60967be8452fb347d1c0a65439bc7d279db1803f7a50d4b0e007741dfacb9a61"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

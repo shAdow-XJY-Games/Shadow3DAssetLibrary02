@@ -1,0 +1,42 @@
+{
+  "id": "carpentry-fixed-rectangular-pad-and-clamp-bow-palm-sander-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "carpentry",
+  "style": "source-preserved-low-poly",
+  "title": "Fixed Rectangular Pad and Clamp Bow Palm Sander",
+  "description": "One newly authored complete fixed quarter-sheet palm-sander-style exterior. A broad thin rectangular sole and continuous dark cushion carry a compact tapered shoulder case rather than a closed moving belt or split drum soles. One broad low dome forms the whole palm grip, with a small separate blank side switch. Two complete bent metal clamping bows follow the front and rear ends of the rectangular pad, each rooted at two finite side seats; their long cross spans remain visibly separate from the upper case. A short thick rear annular dust-port exterior and offset closed cable entry complete the same whole tool. No old belt, planer housing or grip mesh is imported; all coordinates are newly authored. Three opaque constant PBR roles, one model zero scenes. No abrasive grit, paper sheet, dust, moving clamp, orbital mechanism, electrical or sanding performance, ergonomics, operation or safety claim. The rear port is blind at the closed case, not a continuous flow passage. Rigging animation and interaction not made.",
+  "bounds": {
+    "x": 0.11599999666213989,
+    "y": 0.16571541130542755,
+    "z": 0.13199999928474426,
+    "unit": "m"
+  },
+  "triangles": 1196,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/carpentry/carpentry-fixed-rectangular-pad-and-clamp-bow-palm-sander-01/v1.0.0/model.glb",
+      "size": 111004,
+      "sha256": "d9687da2322ce8cbc7c92aa465e7c31391eb75e0b4b5e749ebfba41124adb8d5"
+    },
+    "blend": {
+      "path": "assets/carpentry/carpentry-fixed-rectangular-pad-and-clamp-bow-palm-sander-01/v1.0.0/source.blend",
+      "size": 732512,
+      "sha256": "6c4f0629bdfb437a94e61010e66ceade69fcf4c761fdb5f6c05577bb0511cce8"
+    },
+    "generator": {
+      "path": "assets/carpentry/carpentry-fixed-rectangular-pad-and-clamp-bow-palm-sander-01/v1.0.0/generate.py",
+      "size": 15875,
+      "sha256": "6cfea11599171dffb10ccd00228da7afa021647403d2b7f7b1aef30262b7c2e3"
+    },
+    "render": {
+      "path": "assets/carpentry/carpentry-fixed-rectangular-pad-and-clamp-bow-palm-sander-01/v1.0.0/thumbnail.png",
+      "size": 503014,
+      "sha256": "990c0d43febd4a7aeda69f99448d085a1cb876e0fff79ba7f75ba913611c1264"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

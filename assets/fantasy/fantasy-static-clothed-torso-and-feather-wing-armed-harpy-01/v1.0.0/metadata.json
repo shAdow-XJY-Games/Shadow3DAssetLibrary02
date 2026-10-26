@@ -1,0 +1,42 @@
+{
+  "id": "fantasy-static-clothed-torso-and-feather-wing-armed-harpy-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "fantasy",
+  "style": "S01-clean-geometric",
+  "title": "Static Clothed Torso and Feather Wing Armed Harpy",
+  "description": "One newly authored complete fixed harpy-inspired fictional character. A continuous fully clothed upright torso and narrow neck carry one adult-like human-style head with integral dark crown, blunt nose and seated eyes. Two whole bent feather wings root directly at the shoulders in place of arms, with genuinely notched long primary tips and rooted layered coverts; no additional human arms are hidden behind them. Feathered hips continue into two long bent bird legs and whole three-toed finite ground feet, with one short rear feather tail. The entire body, wing outlines, limbs and proportions are newly drawn, not a griffin with its hindlegs removed or a bull humanoid with wings attached. Three opaque PBR roles, metres Z up and complete horizontal envelope centred at ground, one character prop zero scenes. Nonsexual clothed fictional art only: no anatomy, species accuracy, flight, gait, balance, biological function, rigging, animation or interaction represented.",
+  "bounds": {
+    "x": 2.16,
+    "y": 0.5512,
+    "z": 1.74,
+    "unit": "m"
+  },
+  "triangles": 1144,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/fantasy/fantasy-static-clothed-torso-and-feather-wing-armed-harpy-01/v1.0.0/model.glb",
+      "size": 84356,
+      "sha256": "b79ab4ad19fcb11711ede66b5273629cd3fdc9cbaea2d30340086f310863ad58"
+    },
+    "blend": {
+      "path": "assets/fantasy/fantasy-static-clothed-torso-and-feather-wing-armed-harpy-01/v1.0.0/source.blend",
+      "size": 661924,
+      "sha256": "d3fc762ee3543c098869571fe3cdf4656c20ed7e0e6de5daa8f35753c85bc54e"
+    },
+    "generator": {
+      "path": "assets/fantasy/fantasy-static-clothed-torso-and-feather-wing-armed-harpy-01/v1.0.0/generate.py",
+      "size": 12531,
+      "sha256": "fe29ba1ac3c9f2fa714b32bf76b227c63a7ca1cdabe66e1e8cdc33e646a9383c"
+    },
+    "render": {
+      "path": "assets/fantasy/fantasy-static-clothed-torso-and-feather-wing-armed-harpy-01/v1.0.0/thumbnail.png",
+      "size": 399818,
+      "sha256": "cabc9bd3d5a3fe8e0c73116a336877fa4a54e1748d7d662f874c9b61bd943769"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

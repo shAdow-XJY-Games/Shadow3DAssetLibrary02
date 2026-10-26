@@ -1,0 +1,42 @@
+{
+  "id": "animal-static-flat-serrated-rostrum-long-tail-sawfish-01",
+  "version": "1.0.0",
+  "category": "modular",
+  "assetKind": "prop",
+  "theme": "animal",
+  "style": "warm-handcrafted-village",
+  "title": "Static Flat Serrated-Rostrum Long-Tail Sawfish",
+  "description": "One newly authored whole stylised sawfish-like static animal. The long narrow flattened rostrum and low broad wedge head blend through a thicker trunk into a long narrow tail in one continuous closed skin. Two complete lateral rows of distinct short flat tapered rostral teeth, large swept pectoral fins, small paired pelvic fins, two unequal erect dorsal fins and an asymmetric vertical caudal fin define the whole silhouette. Small dorsal-lateral eyes lie behind the saw rather than on a transverse cephalofoil. All body stations and fin outlines newly authored; no old ray or hammerhead geometry imported or removed. Unlike the wide-disc ray this has no whole disc and whip-tail relation; unlike the hammerhead the front is a long narrow flat saw, not lateral head lobes on a fusiform shark. One model zero scenes, posed on a finite belly area for a static game-art display only. Not exact species/anatomy, swimming, feeding, marine ecology, specimen care or safe handling. Rig animation interaction not made.",
+  "bounds": {
+    "x": 1.899999976,
+    "y": 4.400000095,
+    "z": 0.74000001,
+    "unit": "m"
+  },
+  "triangles": 1220,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/animal/animal-static-flat-serrated-rostrum-long-tail-sawfish-01/v1.0.0/model.glb",
+      "size": 87304,
+      "sha256": "2e5654087dfb4669bc3b0fc8999362509b91ac6a6944204ec7fa6fccea586904"
+    },
+    "blend": {
+      "path": "assets/animal/animal-static-flat-serrated-rostrum-long-tail-sawfish-01/v1.0.0/source.blend",
+      "size": 735124,
+      "sha256": "a1f55b329f83cbf039ab84d0f1c66bf3c55ac8fd68641f36ea3751d91784b57c"
+    },
+    "generator": {
+      "path": "assets/animal/animal-static-flat-serrated-rostrum-long-tail-sawfish-01/v1.0.0/generate.py",
+      "size": 30326,
+      "sha256": "5bb4c613be2785e968d736d2341401b4325d486d0a5c666491a4a3a59d2f8324"
+    },
+    "render": {
+      "path": "assets/animal/animal-static-flat-serrated-rostrum-long-tail-sawfish-01/v1.0.0/thumbnail.png",
+      "size": 468392,
+      "sha256": "5deaaa4f7184c989e106ae9b9b6bc0a80278e8ca90e7238d244a3723bb53f880"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

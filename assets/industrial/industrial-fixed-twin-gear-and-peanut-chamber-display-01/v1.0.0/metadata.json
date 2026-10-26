@@ -1,0 +1,42 @@
+{
+  "id": "industrial-fixed-twin-gear-and-peanut-chamber-display-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "industrial",
+  "style": "source-preserved-low-poly",
+  "title": "Fixed Twin Gear and Peanut Chamber Display",
+  "description": "One newly authored whole open-front twin-gear chamber display. A continuous finite peanut-shaped casing encloses two parallel horizontal shafts and two complete thick externally toothed annular wheels in a fixed separated interleaving phase. Two fitted rear cover halves have real shaft bores; short rear bearing blocks and independent grounded feet join the enclosed assembly to one low base. Two opposed thick annular side connector mouths root into the casing wall; these are blind external connector appearances, not a verified internal fluid path. The dual circular chamber envelope and rear-supported shafts differ from the old unenclosed flat gear study kit and from the single offset slotted vane rotor. No old gear or case geometry is imported, tooth count is not the claimed difference. Three opaque PBR roles, one model zero scenes. Front cover intentionally omitted for static inspection. No fluid passages, sealing, pumping, gear conjugacy, transmission, pressure, flow, movement, load or machinery safety capability. Rigging animation interaction not made.",
+  "bounds": {
+    "x": 0.7799999713897705,
+    "y": 0.4650000035762787,
+    "z": 0.49299535155296326,
+    "unit": "m"
+  },
+  "triangles": 4404,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/industrial/industrial-fixed-twin-gear-and-peanut-chamber-display-01/v1.0.0/model.glb",
+      "size": 385908,
+      "sha256": "29095a8b5549f6c69232e3bd7306320fbc31d1cdfde0b34208f8af784deebe6c"
+    },
+    "blend": {
+      "path": "assets/industrial/industrial-fixed-twin-gear-and-peanut-chamber-display-01/v1.0.0/source.blend",
+      "size": 1129440,
+      "sha256": "020f14d1eb68559040a98a3211b58d52cca4451535248e112424fc38cb1ecbdc"
+    },
+    "generator": {
+      "path": "assets/industrial/industrial-fixed-twin-gear-and-peanut-chamber-display-01/v1.0.0/generate.py",
+      "size": 17062,
+      "sha256": "5985931b810c17a66258a2bc1654ac72a9ef7fe9b1939d5e4e393f6e1cce1c6d"
+    },
+    "render": {
+      "path": "assets/industrial/industrial-fixed-twin-gear-and-peanut-chamber-display-01/v1.0.0/thumbnail.png",
+      "size": 508975,
+      "sha256": "46c3ca6b8bde9450d5168c31a71245203df9065bcf3585adb3121d785aa3214e"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

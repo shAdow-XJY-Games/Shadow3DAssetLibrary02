@@ -1,0 +1,42 @@
+{
+  "id": "music-fixed-open-bow-jaws-and-bent-end-reed-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "music",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Open Bow Jaws and Bent End Reed",
+  "description": "One newly authored whole small bowed-frame reed-instrument static appearance. One continuous thick planar metal frame forms a broad rounded rear bow and two long tapered parallel blunt jaws, leaving a genuine full open central slot and open front end. A separate continuous finite-thickness flat reed is rooted into the rear bow, crosses the broad empty bow interior, then passes between both jaws with visible side gaps; its free end extends beyond the jaws and bends upward into a short blunt tab. The complete two-body relation is not a single tine removed from the old wooden soundbox, and it has no flexatone grip, upper clamp, broad hanging plate or flanking ball arms. Both entire outlines and sections are new without imported instrument geometry. Two opaque constant metal PBR appearances, metres native Z up, horizontally centred ground origin on the whole frame underside, one prop zero scenes. Generic jaw-harp-inspired fixed visual only: no resonance, vibration, spring response, pitch, oral-contact suitability, playability, material authenticity, injury protection, manufacture or safe use claim. No rigging, animation or interaction.",
+  "bounds": {
+    "x": 0.06,
+    "y": 0.14665,
+    "z": 0.018,
+    "unit": "m"
+  },
+  "triangles": 232,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/music/music-fixed-open-bow-jaws-and-bent-end-reed-01/v1.0.0/model.glb",
+      "size": 12444,
+      "sha256": "8f301225b3f393abc57a9e9d2d08d7d58028e608310aaf197195f7929c37dcdc"
+    },
+    "blend": {
+      "path": "assets/music/music-fixed-open-bow-jaws-and-bent-end-reed-01/v1.0.0/source.blend",
+      "size": 515556,
+      "sha256": "92325e434ccb494299e0d2d185a17c3b7d3595c7713a76d3ed327316ec579958"
+    },
+    "generator": {
+      "path": "assets/music/music-fixed-open-bow-jaws-and-bent-end-reed-01/v1.0.0/generate.py",
+      "size": 10477,
+      "sha256": "65e83607b5d61aed4509b7e1d6e3ee036a3039d000b44b974bb20adaa8393fba"
+    },
+    "render": {
+      "path": "assets/music/music-fixed-open-bow-jaws-and-bent-end-reed-01/v1.0.0/thumbnail.png",
+      "size": 359296,
+      "sha256": "b4e9788468e46364c5d768b6395660731820a67cd4557b0153cb0847b39fef48"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

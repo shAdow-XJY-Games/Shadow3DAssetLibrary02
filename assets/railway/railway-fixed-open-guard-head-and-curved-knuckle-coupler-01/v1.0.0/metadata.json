@@ -1,0 +1,42 @@
+{
+  "id": "railway-fixed-open-guard-head-and-curved-knuckle-coupler-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "railway",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Open Guard Head and Curved Knuckle Coupler",
+  "description": "One newly authored complete fixed railway-style knuckle connector display. A full long rectangular tail shank has a genuine vertical through-window near its far end. Its shoulders meet one broad flared head with two thick continuous guard cheeks around a real front-open throat. One separately closed asymmetrical curved knuckle tongue sweeps forward at a fixed partly open angle, joined by one complete proud-ended vertical pivot pin. A raised T-shoulder lock-stem exterior and two low embedded shoulder ribs complete the head, resting on one low display cradle. Unlike the flatbed wagon plain coupling blocks or raised-lever wire-loop latch, this entire assembly has a guarded concave mouth and thick vertical-pin hook tongue attached to a slotted long shank. All visible coordinates newly authored, no old meshes imported or extracted. One complete prop zero scenes, four constant opaque untextured PBR roles, metres, native Z up and full-bounds-centred cradle-sole datum. Single unmated connector only, no opposing coupler, vehicle, internal draft gear or engineered locking system. No automatic coupling, mating compatibility, locking, movement, strength, railway gauge, load, manufacture, inspection method or engineering/safety claim. Rigging, animation and interaction not made or verified.",
+  "bounds": {
+    "x": 1.08,
+    "y": 1.95,
+    "z": 0.735,
+    "unit": "m"
+  },
+  "triangles": 472,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/railway/railway-fixed-open-guard-head-and-curved-knuckle-coupler-01/v1.0.0/model.glb",
+      "size": 27544,
+      "sha256": "133d9eac13edd92a8b34ac9d393679bd4dfcd55c29aef021cc57728b9314c411"
+    },
+    "blend": {
+      "path": "assets/railway/railway-fixed-open-guard-head-and-curved-knuckle-coupler-01/v1.0.0/source.blend",
+      "size": 582056,
+      "sha256": "6b59f72fdba740dbfb27887be707fe5fda02b6408ee2848a1f0c1ce71515401c"
+    },
+    "generator": {
+      "path": "assets/railway/railway-fixed-open-guard-head-and-curved-knuckle-coupler-01/v1.0.0/generate.py",
+      "size": 25646,
+      "sha256": "f82d5918053d896c9281e59fbe4754ccc3b47770bdab34709b2ad6bcaa8944d9"
+    },
+    "render": {
+      "path": "assets/railway/railway-fixed-open-guard-head-and-curved-knuckle-coupler-01/v1.0.0/thumbnail.png",
+      "size": 501824,
+      "sha256": "afdb4d6eb8e46ad95062259bd0328374e8fcbea9b56b97aaae3fd9363a2ebc32"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

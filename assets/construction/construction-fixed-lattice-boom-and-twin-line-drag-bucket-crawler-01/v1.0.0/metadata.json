@@ -1,0 +1,42 @@
+{
+  "id": "construction-fixed-lattice-boom-and-twin-line-drag-bucket-crawler-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "construction",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Lattice Boom and Twin Line Drag Bucket Crawler",
+  "description": "One newly authored complete crawler-mounted dragline-style static exterior. Two whole continuous closed crawler belts and their full rollers support a connected low track frame, fixed round pedestal and long chamfered upper deck. A complete sloping rear machinery house and side cabin with true empty window openings sit behind the full heel fork. One new long tapered triangular-section lattice boom consists of three complete perforated web faces and a solid nose; an independent rear open A mast and two full stays join the deck to the nose. One whole hollow bucket has a bent back/floor, tapered side walls and continuous top bail. A complete high hoist line connects the nose to the bail, while a separate low sagged drag line and two short branches reach the bucket mouth through a fixed fairlead. All visible coordinates are new; no old hydraulic excavator, tower-crane, cabin or bucket meshes are imported or extracted. There is no hydraulic two-section dipper, no tall mast with balanced horizontal jibs, and no trolley or hook accessory swap. One whole prop zero scenes, four opaque constant untextured PBR roles, metres, native Z up and full horizontal bounds-centred crawler-sole origin. Empty reduced-proportion illustrative machine only: no running tracks, slewing, winch internals, reeving, cable tension or dynamics, boom lift, bucket travel, digging, material handling, operator fit, drive, manufacturing, stability, load or engineering/safety performance. No people or soil. Rigging, animation and interaction are not made or verified.",
+  "bounds": {
+    "x": 2.203,
+    "y": 5.16,
+    "z": 3.56,
+    "unit": "m"
+  },
+  "triangles": 3516,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/construction/construction-fixed-lattice-boom-and-twin-line-drag-bucket-crawler-01/v1.0.0/model.glb",
+      "size": 178340,
+      "sha256": "f8fece4bd09c2b2619f0714b830231fe67bf219436c4440a650c39aab4e0e550"
+    },
+    "blend": {
+      "path": "assets/construction/construction-fixed-lattice-boom-and-twin-line-drag-bucket-crawler-01/v1.0.0/source.blend",
+      "size": 909432,
+      "sha256": "34ca5d27e972a81636f9f4b6f9dc77809b6e23fe84720fd17e16c13839079195"
+    },
+    "generator": {
+      "path": "assets/construction/construction-fixed-lattice-boom-and-twin-line-drag-bucket-crawler-01/v1.0.0/generate.py",
+      "size": 33947,
+      "sha256": "2968cd102e6df9915c4a778a7239cd78d14a6462d2dee500ec29ce82c75c4be4"
+    },
+    "render": {
+      "path": "assets/construction/construction-fixed-lattice-boom-and-twin-line-drag-bucket-crawler-01/v1.0.0/thumbnail.png",
+      "size": 558095,
+      "sha256": "6a344be663406fd125790a18b770205cd036196a48f4b139204964cc22cb9881"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

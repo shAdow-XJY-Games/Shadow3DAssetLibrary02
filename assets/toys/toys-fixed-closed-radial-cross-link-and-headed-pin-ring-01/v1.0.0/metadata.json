@@ -1,0 +1,42 @@
+{
+  "id": "toys-fixed-closed-radial-cross-link-and-headed-pin-ring-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "toys",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Closed Radial Cross Link and Headed Pin Ring",
+  "description": "One newly authored complete fixed planar closed cross-link ring toy appearance, lying flat. Eight coupled radial bays form one complete periodic cycle around a real large central opening. Every lower and upper full link has three actual through bores: two shared end-node positions and one asymmetric crossing position. Each upper link is separated from the lower layer and connected by full headed pins at both inner and outer cycle vertices and every crossing. The ring closure uses newly drawn nonparallel radial endpoints and off-centre crossing axes; it is not an old straight lattice gate bent or copied into a circle. Unlike the single rhombus inversor on two fixed posts, this is a complete repeated closed cycle without grounded origins, output arm, track or staves. All visible coordinates authored together, no old part meshes imported. Four opaque PBR materials, metres Z up and full horizontal envelope centred on the lower link faces. One whole static prop zero scenes. A decorative fixed linkage-loop exterior only: deliberate tiny bore seats lock the displayed pose, not moving joints. No expanding motion, kinematic compatibility over travel, ring contraction, pinch clearance, manufacturing, child suitability, playability or safety claim. No rigging, animation or interaction.",
+  "bounds": {
+    "x": 0.44864297458,
+    "y": 0.44864297458,
+    "z": 0.021,
+    "unit": "m"
+  },
+  "triangles": 5888,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/toys/toys-fixed-closed-radial-cross-link-and-headed-pin-ring-01/v1.0.0/model.glb",
+      "size": 240252,
+      "sha256": "b5381045dbaeac42fdf7a570030fd72520a33faa301ea6edd14e116ea263c2e6"
+    },
+    "blend": {
+      "path": "assets/toys/toys-fixed-closed-radial-cross-link-and-headed-pin-ring-01/v1.0.0/source.blend",
+      "size": 1042268,
+      "sha256": "3b1777b67c7b1742252fd587115d54d78a0d16a77cb66ed698cfece33999ca4a"
+    },
+    "generator": {
+      "path": "assets/toys/toys-fixed-closed-radial-cross-link-and-headed-pin-ring-01/v1.0.0/generate.py",
+      "size": 11164,
+      "sha256": "caf8e2ebc4047ef6398d072da55fbb0f244e71baa7bfdafc158ba2c4f3ce9c02"
+    },
+    "render": {
+      "path": "assets/toys/toys-fixed-closed-radial-cross-link-and-headed-pin-ring-01/v1.0.0/thumbnail.png",
+      "size": 427372,
+      "sha256": "427a983af84a02bb0d95453192656f0ab72bb00f354bfbce0560697a7483fd61"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

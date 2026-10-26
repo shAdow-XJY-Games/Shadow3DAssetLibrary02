@@ -1,0 +1,42 @@
+{
+  "id": "education-fixed-side-return-and-jacketed-chamber-cutaway-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "industrial",
+  "style": "source-preserved-low-poly",
+  "title": "Fixed Side Return And Jacketed Chamber Cutaway",
+  "description": "One newly authored complete dry educational vessel cutaway. A broad stand and full offset upright support a lower round flask, a separate wide cylindrical middle chamber with an empty inner thimble, and an upper long concentric jacket and open central tube. A tall side bypass and an independent curved return loop sit on opposite sides of the middle chamber and join the neck levels. Deliberate front sectors of the thick flask, chamber and upper jacket are removed to expose these distinct nested cavities; all section edges are finite closed material walls. The hollow side tubes have real open bores but their intersecting fixture ends are not validated continuous fluid joints. Entirely new geometry, not old stacked-bulb or brewer components, one model zero scenes, four opaque constant PBR materials. Simplified Soxhlet-inspired teaching art only, no glass transparency, chemical substances, extraction, condensation, heating, pressure, siphoning, material compatibility, apparatus construction, laboratory operation or safety functionality. No animation, rigging or interaction.",
+  "bounds": {
+    "x": 0.6200000047683716,
+    "y": 0.3799999952316284,
+    "z": 1.225000023841858,
+    "unit": "m"
+  },
+  "triangles": 5384,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/industrial/education-fixed-side-return-and-jacketed-chamber-cutaway-01/v1.0.0/model.glb",
+      "size": 467764,
+      "sha256": "e06a999b10db4ec9e96c4306e90fb426621cd2bd2b225b79eba2455c317e4816"
+    },
+    "blend": {
+      "path": "assets/industrial/education-fixed-side-return-and-jacketed-chamber-cutaway-01/v1.0.0/source.blend",
+      "size": 1252976,
+      "sha256": "d6bb85400a69bc46b9baf35bd3f978006d7db5795bee266c9f057978b98474dd"
+    },
+    "generator": {
+      "path": "assets/industrial/education-fixed-side-return-and-jacketed-chamber-cutaway-01/v1.0.0/generate.py",
+      "size": 20306,
+      "sha256": "57d0cf98f1827d1047fcdc5196769e2ac967204abb20c916378bd2626b8f9de9"
+    },
+    "render": {
+      "path": "assets/industrial/education-fixed-side-return-and-jacketed-chamber-cutaway-01/v1.0.0/thumbnail.png",
+      "size": 493805,
+      "sha256": "86bca34b7c1c522a01804bfe5bb096b0660827507ea55f9c1808c83ef860e13e"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

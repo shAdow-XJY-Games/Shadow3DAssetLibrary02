@@ -1,0 +1,42 @@
+{
+  "id": "agriculture-fixed-walkbehind-curved-tine-rotor-tiller-01",
+  "version": "1.0.0",
+  "category": "modular",
+  "assetKind": "prop",
+  "theme": "agriculture",
+  "style": "warm-handcrafted-village",
+  "title": "Fixed Walk-Behind Curved-Tine Rotor Tiller",
+  "description": "One newly authored whole fixed walk-behind rotary-tiller-style exterior. Four spaced hubs on a complete transverse axle carry individual thick curved hook-like tine volumes, underneath a separate full semicircular protective-looking upper hood. A narrow middle drive-shaped casing joins the rotor to a compact rear chassis, angular low motor cover and rounded rectangular top tank exterior. Two small transport wheels and a rear finite drag-foot support the fixed pose. Two long separate rising handles end in dark grips; no front receiving bucket, opposed continuous helical flights, discharge chimney, longitudinal reel strips or feed hopper. All coordinates and whole geometry newly drawn, no old machine mesh imported. One static model zero scenes. No engine, rotation, soil processing, contact dynamics, power transmission, guard performance, handling, operational dimensions or engineering/safety claim. Rig, animation and interaction not made.",
+  "bounds": {
+    "x": 1.100000024,
+    "y": 2.294007063,
+    "z": 1.178364158,
+    "unit": "m"
+  },
+  "triangles": 1400,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/agriculture/agriculture-fixed-walkbehind-curved-tine-rotor-tiller-01/v1.0.0/model.glb",
+      "size": 87292,
+      "sha256": "8d0d7d1e0b89851e567aa6c39b40aa4f5c20759fd62fd610ba854e2a86ca4b46"
+    },
+    "blend": {
+      "path": "assets/agriculture/agriculture-fixed-walkbehind-curved-tine-rotor-tiller-01/v1.0.0/source.blend",
+      "size": 747392,
+      "sha256": "c0e37db4a919eb294e82a2a60bc4fcca94dd0ff8e08a432c731601bdedbd9f34"
+    },
+    "generator": {
+      "path": "assets/agriculture/agriculture-fixed-walkbehind-curved-tine-rotor-tiller-01/v1.0.0/generate.py",
+      "size": 31770,
+      "sha256": "340316154527db90f3953391d18a0b170147499529c956a0b78c23ca9d2f9414"
+    },
+    "render": {
+      "path": "assets/agriculture/agriculture-fixed-walkbehind-curved-tine-rotor-tiller-01/v1.0.0/thumbnail.png",
+      "size": 516958,
+      "sha256": "821888704a14cb757d0d5af873d36bb6359103c67295b79434badde8a97c3a92"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

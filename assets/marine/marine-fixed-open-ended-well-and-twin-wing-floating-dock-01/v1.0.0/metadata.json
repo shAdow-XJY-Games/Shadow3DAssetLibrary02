@@ -1,0 +1,42 @@
+{
+  "id": "marine-fixed-open-ended-well-and-twin-wing-floating-dock-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "marine",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Open Ended Well and Twin Wing Floating Dock",
+  "description": "One wholly newly authored complete dry-display floating-dock-style exterior. One continuous thick U-section body joins a full low central dock floor to two high longitudinal wing walls. The central ship space remains open across both full ends; six complete empty low keel blocks stand on the floor. Both wide upper wing surfaces carry rooted outer rails, and two complete inner ladders with real behind-rung space join the lower floor to the upper level through finite standoffs. Two small opaque closed equipment housings belong to the side tops. Unlike a twin-pontoon walkway, the occupied floor lies below the full side wings rather than above transverse floats; unlike a dredger, the full floor runs beneath an open-ended empty berth with no bow well, bucket ladder, machinery or aft closure. All coordinates and shapes new, no old meshes extracted. Three solid PBR roles, metres Z up and centred complete horizontal bounds, one prop zero scenes. Static artistic exterior only: the solid side wings do not model ballast interiors. No water, ship, flooding, flotation, buoyancy, stability, docking, pumping, structural capacity, walkway access, manufacture or maritime safety capability. Rigging animation and interaction not made.",
+  "bounds": {
+    "x": 4.0,
+    "y": 7.4,
+    "z": 2.5359999999999996,
+    "unit": "m"
+  },
+  "triangles": 1404,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/marine/marine-fixed-open-ended-well-and-twin-wing-floating-dock-01/v1.0.0/model.glb",
+      "size": 83796,
+      "sha256": "9d0d3e6777a07d3bf159e90a232a03ed99371fcafdc6db6a0ced866177de84cc"
+    },
+    "blend": {
+      "path": "assets/marine/marine-fixed-open-ended-well-and-twin-wing-floating-dock-01/v1.0.0/source.blend",
+      "size": 819184,
+      "sha256": "944e3a4a627e93a72aa48a9b8ce20ed9b246001b79bd75a228b3ff96f2061384"
+    },
+    "generator": {
+      "path": "assets/marine/marine-fixed-open-ended-well-and-twin-wing-floating-dock-01/v1.0.0/generate.py",
+      "size": 11275,
+      "sha256": "5a8d8b4ae6ded7787c4ab352a96a1b6fc39854f72c13b2960f12bbdb7d312d05"
+    },
+    "render": {
+      "path": "assets/marine/marine-fixed-open-ended-well-and-twin-wing-floating-dock-01/v1.0.0/thumbnail.png",
+      "size": 501620,
+      "sha256": "68bc7ef1ae346f523b03a352e2612357fdce0d0dee5f623c9c23a3f6a581c980"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

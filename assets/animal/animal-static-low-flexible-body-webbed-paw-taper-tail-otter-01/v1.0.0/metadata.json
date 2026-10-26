@@ -1,0 +1,42 @@
+{
+  "id": "animal-static-low-flexible-body-webbed-paw-taper-tail-otter-01",
+  "version": "1.0.0",
+  "category": "modular",
+  "assetKind": "prop",
+  "theme": "animal",
+  "style": "warm-handcrafted-village",
+  "title": "Static Low Flexible Body Webbed-Paw Taper-Tail Otter",
+  "description": "One newly authored whole stylised otter-like animal standing in a low four-foot pose. The small broad blunt head and low neck continue into an elongated gently arched flexible torso and a thick-rooted long gradually tapering tail curving to one side, all one closed continuous skin. Four short bent limbs terminate in broad whole webbed feet with finite flat soles, rather than seal flippers or a heavy seated beaver haunch. Small round ears, lateral eyes, two pale blunt muzzle pads and a short dark nose complete the head; no protruding incisors. All sections and limb outlines newly authored, no old animal mesh or coordinate array reused. One static animal model zero scenes. Illustrative otter-like exterior only, not exact species/anatomy, fur simulation, swimming, gait, ecology or handling/safety guidance; rig animation and interaction not made.",
+  "bounds": {
+    "x": 0.874422193,
+    "y": 3.029999971,
+    "z": 0.709999979,
+    "unit": "m"
+  },
+  "triangles": 1912,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/animal/animal-static-low-flexible-body-webbed-paw-taper-tail-otter-01/v1.0.0/model.glb",
+      "size": 105096,
+      "sha256": "b5675eee5ecf94c10ff09c6dfae7f28ac164d703a7f08d8ce6a715d4ffca01c7"
+    },
+    "blend": {
+      "path": "assets/animal/animal-static-low-flexible-body-webbed-paw-taper-tail-otter-01/v1.0.0/source.blend",
+      "size": 642296,
+      "sha256": "ca6417f55676974bf9fe77765a4e4cd5531498cb26929ef11bf08ffaf2bd86a6"
+    },
+    "generator": {
+      "path": "assets/animal/animal-static-low-flexible-body-webbed-paw-taper-tail-otter-01/v1.0.0/generate.py",
+      "size": 29769,
+      "sha256": "76b3ca08968f30482f98e78de3f63a8b42ea4e68ebadabe3553441fe37c1e251"
+    },
+    "render": {
+      "path": "assets/animal/animal-static-low-flexible-body-webbed-paw-taper-tail-otter-01/v1.0.0/thumbnail.png",
+      "size": 471032,
+      "sha256": "b98acade4f413816c0c1a3d813787e73ec92359139d4c3b7b5a543911258faae"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

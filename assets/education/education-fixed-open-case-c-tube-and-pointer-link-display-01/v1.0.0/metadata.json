@@ -1,0 +1,42 @@
+{
+  "id": "education-fixed-open-case-c-tube-and-pointer-link-display-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "education",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Open Case C Tube and Pointer Link Display",
+  "description": "One newly authored complete static open-case C-tube instrument-style exhibit. A continuous shallow round backed cup on a complete foot and lower support exposes one whole flattened C-curved metal-like tube exterior. Its lower end is fixed in a full block, while its other end joins a complete short pinned link to a separate tooth-edged sector. An independently supported small tooth-edged pinion, fixed shaft and whole long blank pointer sit before the open mechanism; a narrow blank reference arc has two real rear seats. Unlike a closed cuff-gauge face or a capsule-stack pen drum, the visible curved tube-tip/link/sector/pointer relationship defines this complete newly authored object. No old gauge or mechanism vertices imported. Three opaque PBR roles, metres Z up, one model zero scenes. The tube is a closed exterior solid, not a modelled fluid bore; no transparent cover or calibrated marks. Static illustrative appearance only, not a functional pressure instrument. No pressure containment, fluid path, deformation, gearing accuracy, motion solution, readings, calibration, manufacture, operation or safety performance. Rigging animation interaction not made.",
+  "bounds": {
+    "x": 0.92,
+    "y": 0.4,
+    "z": 1.11,
+    "unit": "m"
+  },
+  "triangles": 2464,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/education/education-fixed-open-case-c-tube-and-pointer-link-display-01/v1.0.0/model.glb",
+      "size": 130520,
+      "sha256": "3526a429a26e3e3766d8dfdf302db969cef7c4845339497f4a3a25b3c1548cfd"
+    },
+    "blend": {
+      "path": "assets/education/education-fixed-open-case-c-tube-and-pointer-link-display-01/v1.0.0/source.blend",
+      "size": 737824,
+      "sha256": "0c412e68a2e986850ee5e45c7346eda52a008418d4c1c2d30e492666f8ddb37e"
+    },
+    "generator": {
+      "path": "assets/education/education-fixed-open-case-c-tube-and-pointer-link-display-01/v1.0.0/generate.py",
+      "size": 12955,
+      "sha256": "3a7f5c1f16bd923e64aa92118b718a6d0e0a130d9963eb8e611813871b78561c"
+    },
+    "render": {
+      "path": "assets/education/education-fixed-open-case-c-tube-and-pointer-link-display-01/v1.0.0/thumbnail.png",
+      "size": 482448,
+      "sha256": "a9c46a5ab6cbf663f0f9114c430a690ea1e70a65bc464164ed3a4c0b43c7a970"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

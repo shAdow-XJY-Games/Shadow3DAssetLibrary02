@@ -1,0 +1,42 @@
+{
+  "id": "industrial-fixed-pedestal-and-opposed-reach-arm-machine-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "industrial",
+  "style": "source-preserved-low-poly",
+  "title": "Fixed Pedestal and Opposed Reach Arm Machine",
+  "description": "One newly authored complete fixed pedestal spot-contact-machine-style exterior. A full tall tapered machine cabinet and broad ground foot carry a low forward cylindrical arm ending in an upward blunt contact nose. A separate complete upper reach arm is fixed at a visible rear fork and transverse axle, with its front blunt nose facing down across a real open gap. One whole side operating-style lever and grip share that rear pivot. A fixed broad foot pedal, rooted lower fork and attached short linkage belong to the same ground base; a blank front panel and one knob are subordinate exterior details. Unlike the old C-casting rack press, there is no surrounding C frame, vertical toothed ram or anvil bed; unlike the soldering station there is no handheld iron or coil rest. All whole geometry newly authored, not old equipment with a replacement tip. Three opaque PBR roles, one model zero scenes. Empty fixed art appearance only: no workpiece, current path, powered heat, welding, clamping force, pedal actuation, electrical enclosure rating, installation, operation or safety capability. Rigging animation interaction not made.",
+  "bounds": {
+    "x": 0.5699999928474426,
+    "y": 1.0049999952316284,
+    "z": 1.3685460090637207,
+    "unit": "m"
+  },
+  "triangles": 1324,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/industrial/industrial-fixed-pedestal-and-opposed-reach-arm-machine-01/v1.0.0/model.glb",
+      "size": 124552,
+      "sha256": "8c9a56fcb79557a4391d8b340eb4ba2f3abbe5163100ff6cd7c8f82e0dadbe91"
+    },
+    "blend": {
+      "path": "assets/industrial/industrial-fixed-pedestal-and-opposed-reach-arm-machine-01/v1.0.0/source.blend",
+      "size": 765664,
+      "sha256": "cf7d3fc399ebdca8f5ca3e66e65b1f0496e196dab842de1b0418a38362ad1e84"
+    },
+    "generator": {
+      "path": "assets/industrial/industrial-fixed-pedestal-and-opposed-reach-arm-machine-01/v1.0.0/generate.py",
+      "size": 16602,
+      "sha256": "ce2b2aa009bf04dc13224b17765dc4f42ba97b724129f29c3610279f4dcc7acf"
+    },
+    "render": {
+      "path": "assets/industrial/industrial-fixed-pedestal-and-opposed-reach-arm-machine-01/v1.0.0/thumbnail.png",
+      "size": 518987,
+      "sha256": "f4353b93c35dec75d6e9897359cdbb95d17fc85e69fab7c3a6b8a55233fba0d8"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

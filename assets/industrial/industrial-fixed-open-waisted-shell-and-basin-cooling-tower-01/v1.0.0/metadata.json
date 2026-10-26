@@ -1,0 +1,42 @@
+{
+  "id": "industrial-fixed-open-waisted-shell-and-basin-cooling-tower-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "industrial",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Open Waisted Shell and Basin Cooling Tower",
+  "description": "One independently authored complete stylized dry cooling-tower-style architectural exterior. A single continuous thick curved shell rises from a broad integral lower ring through a long inward curve to a high narrow waist and then flares into a wide genuinely open top mouth with integral lip. Its full inner wall follows the whole profile; there is no roof cap, lower outlet neck, side inlet or central inserted tube. Complete paired inclined colonnade posts connect that open lower ring to one whole shallow circular empty basin with a full floor, perimeter wall and entire dry ground sole; real open gaps remain around the bottom. This differs from the old roofed ribbed grain silo over a narrowing hopper and four legs, and from the cutaway cone separator with eccentric duct and deep axial tube. All visible coordinates newly authored, no old silo, vessel or building mesh imported. Four opaque constant untextured PBR roles, metres, native Z up and horizontally centred complete bounds. One prop zero scenes. Generic static artistic building appearance, not a replica or exact hyperboloid construction. No water, fill, fan, piping, process plant, heat exchange, cooling, airflow, evaporation, energy or nuclear system, capacity, installation, structure, manufacture, loads, access or engineering/safety performance is modeled or verified. Rigging, animation and interaction not made or verified.",
+  "bounds": {
+    "x": 3.96,
+    "y": 3.96,
+    "z": 4.83,
+    "unit": "m"
+  },
+  "triangles": 2784,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/industrial/industrial-fixed-open-waisted-shell-and-basin-cooling-tower-01/v1.0.0/model.glb",
+      "size": 161004,
+      "sha256": "71f395c622dc4ba3e26c854baf7c3ffa602944729b93cb16b7aff2630748f98f"
+    },
+    "blend": {
+      "path": "assets/industrial/industrial-fixed-open-waisted-shell-and-basin-cooling-tower-01/v1.0.0/source.blend",
+      "size": 801128,
+      "sha256": "c90dbe1a8e181032e5e2b9723e36f45ba9235d22fa3116d4b4a66bf358d7ddcf"
+    },
+    "generator": {
+      "path": "assets/industrial/industrial-fixed-open-waisted-shell-and-basin-cooling-tower-01/v1.0.0/generate.py",
+      "size": 24458,
+      "sha256": "99ca2255614afab13e3065a590f2a85bca9cd9830567be1cd927988d92a242d3"
+    },
+    "render": {
+      "path": "assets/industrial/industrial-fixed-open-waisted-shell-and-basin-cooling-tower-01/v1.0.0/thumbnail.png",
+      "size": 506501,
+      "sha256": "7b1b5c17cc6aa17792c614d649e0a028c5d3daea48da4e3ffdac8a64dec21917"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

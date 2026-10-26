@@ -1,0 +1,42 @@
+{
+  "id": "art-fixed-orthogonal-pendulums-and-converging-pen-frame-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "art",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Orthogonal Pendulums and Converging Pen Frame",
+  "description": "One newly authored complete fixed two-pendulum drawing-apparatus exterior. A whole open four-leg table frame carries a blank central drawing board while leaving separate left and rear open pivot bays. Each bay has a full pair of rooted support bridges and bearing blocks around a complete transverse pivot, with the two pivot axes perpendicular. Two whole upright rods continue below the frame into separate low cylindrical weights and above it into two independent long flat arms. Those arms occupy different heights and converge at one proud vertical pin and a blunt pen-shaped stem over the blank board. No drum, coil spring, tracing target, closed copying parallelogram or imported old table is supplied. The through-frame suspended rods and converging upper arm chain form one new whole instrument rather than two existing recorders arranged together. All numeric geometry new; four opaque constant PBR roles, metres native Z up, complete horizontal bounds centred on four finite grounded feet, one prop zero scenes. Generic harmonograph-inspired static display only: no actual oscillation, coupling, phase, drawing trajectory, markings, accuracy, tuning, suspension fit, stability, load, manufacture or machinery safety. Rigging, animation and interaction are not made.",
+  "bounds": {
+    "x": 1.1099999999999999,
+    "y": 0.9,
+    "z": 1.367,
+    "unit": "m"
+  },
+  "triangles": 1708,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/art/art-fixed-orthogonal-pendulums-and-converging-pen-frame-01/v1.0.0/model.glb",
+      "size": 104088,
+      "sha256": "9155a5adc98ed79f86781c44c212584647e5b180db066f7b6ec42b8fc9887bcf"
+    },
+    "blend": {
+      "path": "assets/art/art-fixed-orthogonal-pendulums-and-converging-pen-frame-01/v1.0.0/source.blend",
+      "size": 831736,
+      "sha256": "9a2d4236d833f4a6265e94682c7211b4fe7bfc48cb3af890d36ca6ebd0b9de55"
+    },
+    "generator": {
+      "path": "assets/art/art-fixed-orthogonal-pendulums-and-converging-pen-frame-01/v1.0.0/generate.py",
+      "size": 11980,
+      "sha256": "689cdbde81465b0bd817f9c50842e0bb2b17ad12d8bbdfb9bad0e76b143d97ab"
+    },
+    "render": {
+      "path": "assets/art/art-fixed-orthogonal-pendulums-and-converging-pen-frame-01/v1.0.0/thumbnail.png",
+      "size": 510546,
+      "sha256": "9eb9967cdc6f572c8f0364754cbc62995fdaa12716af5388a7027fe06aeb9df0"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
