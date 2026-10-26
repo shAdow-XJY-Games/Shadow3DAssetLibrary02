@@ -1,0 +1,42 @@
+{
+  "id": "textile-whole-tabletop-band-and-braiding-preparation-bay-scene-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "textile",
+  "style": "source-preserved-low-poly",
+  "title": "Whole Tabletop Band and Braiding Preparation Bay",
+  "description": "One static narrow-band weaving and braiding preparation bay, one scene and zero new independent models. Three complete qualified originals retain original raw mesh buffers, normals, internal hierarchy, opaque PBR and unit scale. One entire single-sided peg and continuous-warp band loom stands with both full crossfeet on a complete open worktable. Beside it, the whole round centre-hole braiding stand remains directly floor-supported with every original radial thread, bobbin and central hanging weight intact. A common finite floor and open foreground are scene-only additions. The tabletop band station and lower independent radial braiding station are a real handcraft-equipment combination, not a new loom, a new braiding tool or a new functional process. Unlike the existing two large floor-machine warping bay, the support levels and small handcraft tools are different; unlike the roller-pillow lace and empty hoop preparation bay, these entire original tools display continuous band loops and a central descending braid, with no pillow or empty embroidery ring. No yarn connects the stations, no new thread or cloth is added. Static unoccupied illustrative display only, no weaving sequence, tension, operation, human fit, ergonomics, load, manufacture, compatibility or safety capability. Rigging animation and interaction not made.",
+  "bounds": {
+    "x": 3.0999999046325684,
+    "y": 2.299999952316284,
+    "z": 1.6299999952316284,
+    "unit": "m"
+  },
+  "triangles": 8152,
+  "materials": 11,
+  "files": {
+    "glb": {
+      "path": "assets/textile/textile-whole-tabletop-band-and-braiding-preparation-bay-scene-01/v1.0.0/model.glb",
+      "size": 490528,
+      "sha256": "6c9ac3aac169f2beac0019e9fa985895a79ba9030321ef3dbe2400ad7331597a"
+    },
+    "blend": {
+      "path": "assets/textile/textile-whole-tabletop-band-and-braiding-preparation-bay-scene-01/v1.0.0/source.blend",
+      "size": 1856668,
+      "sha256": "33fc9d66b84efed183c217c850fd45f3a1896eb9b5ec6d2796bff5494e29ad1d"
+    },
+    "generator": {
+      "path": "assets/textile/textile-whole-tabletop-band-and-braiding-preparation-bay-scene-01/v1.0.0/generate.py",
+      "size": 136608,
+      "sha256": "036a2d6887f20f8b2773d6f95c7f5965f1716ba473f0c7035d924d4d96b4fe94"
+    },
+    "render": {
+      "path": "assets/textile/textile-whole-tabletop-band-and-braiding-preparation-bay-scene-01/v1.0.0/thumbnail.png",
+      "size": 507672,
+      "sha256": "601255963a0d5b559b81d9943b43b77bb40ee5a59f40a08005cd8f291f6f762e"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

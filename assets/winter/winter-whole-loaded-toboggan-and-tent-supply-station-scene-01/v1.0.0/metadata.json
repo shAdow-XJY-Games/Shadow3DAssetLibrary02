@@ -1,0 +1,42 @@
+{
+  "id": "winter-whole-loaded-toboggan-and-tent-supply-station-scene-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "winter",
+  "style": "source-preserved-faceted-natural-ecology",
+  "title": "Whole Loaded Toboggan and Tent Supply Station",
+  "description": "One static snow-camp supply-staging scene, one scene and zero new independent models. A complete original rolltop backpack rests on the actual middle reinforcing batten of a complete original curled-deck toboggan, beside one entire qualified open domed tent. The full sled nose, both side cords and all three battens remain intact; the whole pack retains its pockets, buckles, shoulder loops and carry handle. The pack is neither fitted to the tent nor attached to the sled. The tent retains every shell, floor, threshold and crossed pole. All three originals remain at unchanged unit scale with all oriented triangles and constant opaque per-face PBR; only whole translations are applied, original hierarchy explicitly baked and normals recomputed. A common pale floor is scene-only. Unlike the parked powered snowmobile and separate tent or skis/boots around a bench, this groups an actually supported pack on a small sliding carrier beside an independent shelter entry, leaving the curled nose and entrance foreground visible. Static illustrative arrangement only, no transport, tie-down, snow interaction, loading capacity, pack restraint, camping readiness, weather protection, human fit, access compliance or safety capability. Rigging animation and interaction not made.",
+  "bounds": {
+    "x": 5.0,
+    "y": 4.400000095,
+    "z": 1.437000036,
+    "unit": "m"
+  },
+  "triangles": 2252,
+  "materials": 11,
+  "files": {
+    "glb": {
+      "path": "assets/winter/winter-whole-loaded-toboggan-and-tent-supply-station-scene-01/v1.0.0/model.glb",
+      "size": 127876,
+      "sha256": "507c9ce57dbfc3d88f3741535ae14dd9f94a1fe9b5685aee0488863652fbc8c2"
+    },
+    "blend": {
+      "path": "assets/winter/winter-whole-loaded-toboggan-and-tent-supply-station-scene-01/v1.0.0/source.blend",
+      "size": 857260,
+      "sha256": "8f672e545cd3f912d435c1b22f7c54f4b6fc07f300bdbb14c6e36cf70a76ff12"
+    },
+    "generator": {
+      "path": "assets/winter/winter-whole-loaded-toboggan-and-tent-supply-station-scene-01/v1.0.0/generate.py",
+      "size": 76656,
+      "sha256": "e4d2ccb954f959dbd8b89423d1e4c3913f5496d324ca173c5882df22b3d0ca5c"
+    },
+    "render": {
+      "path": "assets/winter/winter-whole-loaded-toboggan-and-tent-supply-station-scene-01/v1.0.0/thumbnail.png",
+      "size": 503178,
+      "sha256": "f72532b71106859874fa8ad823741be9c013dc7954ff5ee3d061c00dce1ba985"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

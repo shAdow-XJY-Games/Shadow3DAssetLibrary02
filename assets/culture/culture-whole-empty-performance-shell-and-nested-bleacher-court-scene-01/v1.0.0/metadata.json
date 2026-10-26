@@ -1,0 +1,42 @@
+{
+  "id": "culture-whole-empty-performance-shell-and-nested-bleacher-court-scene-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "culture",
+  "style": "source-preserved-low-poly",
+  "title": "Whole Empty Performance Shell and Nested Bleacher Court",
+  "description": "One static empty outdoor cultural venue preparation court. One entire flared ribbed performance shell with its curved stage stands behind one complete partly nested wheeled bleacher assembly, turned as a whole toward the shell. All original geometry, unit scale, PBR and fixed folded-seat positions remain unchanged. The two entire originals stand independently on a common finite floor, with a clear gap in front of the stage and open side strips. Only the common closed floor is new scene geometry. This is one scene and zero new independent models. Unlike the old indoor instrument performance hall with repeated benches, walls and stage cap, this is an empty outdoor shell court with one intact nested carriage assembly; unlike the performer side-stage preparation layout, it contains no instrument, wing divider, cart or festoon. This real venue-equipment combination does not claim a novel universal floorplan. The bleacher remains partly nested, not declared deployed or ready for occupancy. No audience, performer, acoustics, installation, folding motion, loading, access or safety capability. Rigging, animation and interaction not made.",
+  "bounds": {
+    "x": 7.800000190734863,
+    "y": 8.0,
+    "z": 3.9474220275878906,
+    "unit": "m"
+  },
+  "triangles": 5688,
+  "materials": 9,
+  "files": {
+    "glb": {
+      "path": "assets/culture/culture-whole-empty-performance-shell-and-nested-bleacher-court-scene-01/v1.0.0/model.glb",
+      "size": 390136,
+      "sha256": "4859aab72b493265f28dd0c83e0bf316d5f5fd9479c3e34684c788f66c0439d2"
+    },
+    "blend": {
+      "path": "assets/culture/culture-whole-empty-performance-shell-and-nested-bleacher-court-scene-01/v1.0.0/source.blend",
+      "size": 1778716,
+      "sha256": "913eff04ba3c8cb63ba7c336f8a09b8e0b8867852f1440ba08b51c8d8e9d026d"
+    },
+    "generator": {
+      "path": "assets/culture/culture-whole-empty-performance-shell-and-nested-bleacher-court-scene-01/v1.0.0/generate.py",
+      "size": 129870,
+      "sha256": "89e8e4054639b8720441f514293238900750f8292757d67cd7694871f890cf8e"
+    },
+    "render": {
+      "path": "assets/culture/culture-whole-empty-performance-shell-and-nested-bleacher-court-scene-01/v1.0.0/thumbnail.png",
+      "size": 538022,
+      "sha256": "08cd2bf386876bb60fc7e90b7946046032840359be5b669b4160815322c11a75"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
