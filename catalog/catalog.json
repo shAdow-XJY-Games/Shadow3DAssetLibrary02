@@ -1774,6 +1774,11 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary02",
       "commit": "49c714751a070ce699d83d06cb880c89cabe938d"
+    },
+    "original-qualified-batch-1362-volume02-20261025": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary02",
+      "commit": "3ee1f3ad0f1ccc40dfe6cd3c7a1f33a3db10b1de"
     }
   },
   "assets": [
@@ -60256,6 +60261,92 @@
       "status": "verified",
       "license": "All rights reserved",
       "sourceId": "original-qualified-batch-1360-volume02-20261025"
+    },
+    {
+      "id": "industrial-whole-high-shaft-and-ladle-two-level-staging-court-scene-01",
+      "version": "1.0.0",
+      "category": "scenes",
+      "assetKind": "scene",
+      "theme": "industrial",
+      "style": "source-preserved-low-poly",
+      "title": "Whole High Shaft and Ladle Two Level Staging Court",
+      "description": "One static industrial foundry-style staging court, one scene and zero new independent models. Two complete qualified original models retain unit scale, every original raw GLB buffer, material dictionary and internal node hierarchy under translation-only wrappers: the whole tall ported cupola stands at the rear-right, while the whole empty trunnion-bail ladle stands separately on the lower forward-right apron. New scene-only architecture forms a grounded slab, a left stair rising to a high landing and short transverse raised deck beside the upper shaft opening, with full supporting columns and two fixed outer rail appearances. The entire side sill, lower spout, shaft feet and ladle remain intact and separate from the architecture; the high deck terminates with an explicit small gap, not a claimed compatible connection. The low ladle is staged away from the low port and is not shown receiving material. Unlike the old kiln containing one vessel on its own shelf or the flat steam piston/table/rack corner, this composition separates a high approach level from the independent lower vessel bay and an open under-deck region. No old mesh is extracted, resized, recoloured or counted again. No metal, fuel, fire, pouring, furnace process, vessel capacity, suspension, machinery motion, operator access, usable stair dimensions, fall protection, heat separation, load, construction, installation or safety capability. Rigging animation and interaction not made or verified.",
+      "bounds": {
+        "x": 8.800000190734863,
+        "y": 9.600000381469727,
+        "z": 4.569999694824219,
+        "unit": "m"
+      },
+      "triangles": 8072,
+      "materials": 11,
+      "files": {
+        "glb": {
+          "path": "assets/industrial/industrial-whole-high-shaft-and-ladle-two-level-staging-court-scene-01/v1.0.0/model.glb",
+          "size": 505308,
+          "sha256": "a2f5119a528b04c356e3494155183fe59df90ac9bc4d2c69acbd79d976918871"
+        },
+        "blend": {
+          "path": "assets/industrial/industrial-whole-high-shaft-and-ladle-two-level-staging-court-scene-01/v1.0.0/source.blend",
+          "size": 1693984,
+          "sha256": "080cc91dd7b7f4b3dc200bfc35a2a78a68de4ea5978fa9a4fc6d05e8baa56f7b"
+        },
+        "generator": {
+          "path": "assets/industrial/industrial-whole-high-shaft-and-ladle-two-level-staging-court-scene-01/v1.0.0/generate.py",
+          "size": 135685,
+          "sha256": "4cc02d7331835e7bde0dc1c4eb31f3fe27873af5a95a267abed3af792312b108"
+        },
+        "render": {
+          "path": "assets/industrial/industrial-whole-high-shaft-and-ladle-two-level-staging-court-scene-01/v1.0.0/thumbnail.png",
+          "size": 485577,
+          "sha256": "bee0414c21757dbcdd63e96c5f0ca0018c3f7d97f6e87d48edce0cb43c80b6c2"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1362-volume02-20261025"
+    },
+    {
+      "id": "pet-care-whole-open-aviary-and-table-carrier-staging-scene-01",
+      "version": "1.0.0",
+      "category": "scenes",
+      "assetKind": "scene",
+      "theme": "pet-care",
+      "style": "source-preserved-faceted-natural-ecology",
+      "title": "Whole Open Aviary and Table Carrier Staging",
+      "description": "One static empty aviary equipment-staging display scene, zero new models. The complete qualified octagonal openwork aviary occupies the right-rear side with every bar, two internal perches, whole roof, grounded plinth and fixed outward-open gate unchanged. A separate whole original worktable stands to its front-left and carries one entire original empty vented arched transport carrier on all four original sole pads. The carrier is rotated exactly90degrees as one unit, its grille faces toward the open rightward inspection side; the table and carrier remain beyond the complete aviary bounds and gate. A continuous finite scene-only floor and visibly empty approach separate these two unequal stations. Unlike the existing wash/rest corner with three independent floor objects, this layout has a genuine carrier-to-table support relationship next to a full tall enclosure entrance. All original unit-scale oriented triangles and per-face opaque PBR retained before declared float32 rigid transform; source hierarchy baked and normals recomputed, not raw GLB bytes. No animals, real enclosure fit, transport suitability, gate sweep simulation, care procedure, hygienic zoning, access, load, stability, welfare or safety claim. Rig animation and interaction not made.",
+      "bounds": {
+        "x": 4.199999809,
+        "y": 3.799999952,
+        "z": 2.779999971,
+        "unit": "m"
+      },
+      "triangles": 3148,
+      "materials": 10,
+      "files": {
+        "glb": {
+          "path": "assets/pet-care/pet-care-whole-open-aviary-and-table-carrier-staging-scene-01/v1.0.0/model.glb",
+          "size": 249788,
+          "sha256": "a239b57b829d91cd8e6d37c1729eabd741f58b73a853bd57bb8e1135e2fbbaf3"
+        },
+        "blend": {
+          "path": "assets/pet-care/pet-care-whole-open-aviary-and-table-carrier-staging-scene-01/v1.0.0/source.blend",
+          "size": 1492412,
+          "sha256": "48f6686adc73befe2cd0f5b685d59ff954b554e9a844c6c79e435ec875288d41"
+        },
+        "generator": {
+          "path": "assets/pet-care/pet-care-whole-open-aviary-and-table-carrier-staging-scene-01/v1.0.0/generate.py",
+          "size": 78842,
+          "sha256": "7dd37bb0a7960cbea8ee1d4a46605b80c9a3d48186a283a2feca14150e0c3df3"
+        },
+        "render": {
+          "path": "assets/pet-care/pet-care-whole-open-aviary-and-table-carrier-staging-scene-01/v1.0.0/thumbnail.png",
+          "size": 534747,
+          "sha256": "b0f007cb84b67eb56fc65dd977e0cf06aae29d05a2646c0cc26345c0e1633ab7"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1362-volume02-20261025"
     }
   ]
 }
