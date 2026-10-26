@@ -1909,6 +1909,11 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary02",
       "commit": "6ebaf06e71bc0090ff6a41cd51fb6c83576e9135"
+    },
+    "original-qualified-batch-1467-volume02-20261025": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary02",
+      "commit": "4f3dc6d5b6c4e6aab630b43d8e48120bfac02bbf"
     }
   },
   "assets": [
@@ -64906,6 +64911,92 @@
       "status": "verified",
       "license": "All rights reserved",
       "sourceId": "original-qualified-batch-1465-volume02-20261025"
+    },
+    {
+      "id": "architecture-fixed-curled-deck-chain-and-paired-link-sides-01",
+      "version": "1.0.0",
+      "category": "architecture",
+      "assetKind": "modular",
+      "theme": "architecture",
+      "style": "S01-clean-geometric",
+      "title": "Fixed Curled Deck Chain And Paired Link Sides",
+      "description": "One wholly newly authored fixed curled-deck bridge-style architectural apparatus. A grounded bank foot and short fixed approach carry paired root pivot pedestals. Eight complete thick deck sections form one upward and returning open polygonal curl, linked by whole transverse headed pin appearances rather than a single rigid bridge leaf. Two full side assemblies follow that chain: independent complete posts at the shared deck axes meet separate upper links and proud joint barrels, leaving real open panels and a large open centre. The deck sections have bounded end gaps around the retained pins; no painted articulation or hidden curved support sheet. Unlike the rolling-heel bridge, there are no curved sector shoes, rigid long truss span or counterweight; unlike the sectional overhead door, there are no curved C guides, rollers or wall jambs. All shapes newly authored, not old panels or bridge pieces extracted. Three opaque untextured PBR roles, metres Z up and full horizontal envelope centred at ground, one whole model zero scenes. Permanent stylized display only, without a river, roadway or person. No solved folding motion, real hinge contact, linked-bar kinematics, actuator, load capacity, usable crossing, navigation, engineering, fabrication or safety performance. Rigging animation and interaction not made.",
+      "bounds": {
+        "x": 2.762820323027551,
+        "y": 2.04,
+        "z": 3.5556406460551018,
+        "unit": "m"
+      },
+      "triangles": 2112,
+      "materials": 3,
+      "files": {
+        "glb": {
+          "path": "assets/architecture/architecture-fixed-curled-deck-chain-and-paired-link-sides-01/v1.0.0/model.glb",
+          "size": 128408,
+          "sha256": "b2ad1377da05a7e31fd0db3478a35bf39fbf009551e8a538f2b1d2dc8abea3cb"
+        },
+        "blend": {
+          "path": "assets/architecture/architecture-fixed-curled-deck-chain-and-paired-link-sides-01/v1.0.0/source.blend",
+          "size": 968296,
+          "sha256": "a965280170bb211272b9b5e454ce29940729f81f64bfd52e5aa75cfb39eb01c8"
+        },
+        "generator": {
+          "path": "assets/architecture/architecture-fixed-curled-deck-chain-and-paired-link-sides-01/v1.0.0/generate.py",
+          "size": 11494,
+          "sha256": "f169392865c13c5d41abf699f275c3d6146e2137e8bc7bbb0f191a3bac976d87"
+        },
+        "render": {
+          "path": "assets/architecture/architecture-fixed-curled-deck-chain-and-paired-link-sides-01/v1.0.0/thumbnail.png",
+          "size": 464088,
+          "sha256": "6180d4e7a0cdd5871eb6208ad4d30244e76bb74b8261dd5a96e31d0d0cd92a43"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1467-volume02-20261025"
+    },
+    {
+      "id": "retail-whole-open-till-and-note-coin-preparation-bay-scene-01",
+      "version": "1.0.0",
+      "category": "scenes",
+      "assetKind": "scene",
+      "theme": "retail",
+      "style": "source-preserved-low-poly",
+      "title": "Whole Open Till and Note Coin Preparation Bay",
+      "description": "One static empty cash-equipment preparation bay, one scene and zero new independent models. A complete original open-shelf service counter stands forward-left and supports the entire fixed-open till cash register, including its original extended three-well drawer and key deck. Behind and to the right a separate complete open worktable supports one whole open-feed note counter on the left and one entire circular-feed radial-cup coin sorter on the right. Both complete device footprints rest separately on the tabletop with a visible intervening strip; the service counter and rear table have independent floor footprints and an empty intervening floor gap. This stages a forward till position and a separate two-device reconciliation bench rather than gondola shopping aisles, a postal locker/scale hall or a pastry case and register sharing one tabletop. Every original unit-scale model, raw mesh buffer, local normal, hierarchy and full PBR dictionary is preserved; only five whole translations and one finite floor are new. No register drawer, coin cup or feed roller is removed or counted separately, no coins, notes, valuables or customers are included. Small keys and controls remain subordinate at scene scale. Static illustrative arrangement only: no payment, counting, authentication, sorting mechanism, financial procedure, surveillance, storage security, electrical operation, equipment compatibility, rated loading, human access compliance or workplace safety claim. Rigging animation interaction not made.",
+      "bounds": {
+        "x": 3.299999952316284,
+        "y": 2.299999952316284,
+        "z": 1.3650000095367432,
+        "unit": "m"
+      },
+      "triangles": 6128,
+      "materials": 16,
+      "files": {
+        "glb": {
+          "path": "assets/retail/retail-whole-open-till-and-note-coin-preparation-bay-scene-01/v1.0.0/model.glb",
+          "size": 510736,
+          "sha256": "6201c4f8431cd0206b384b527da4ed05dd7314e201a5b238e6fe036ef1f4f897"
+        },
+        "blend": {
+          "path": "assets/retail/retail-whole-open-till-and-note-coin-preparation-bay-scene-01/v1.0.0/source.blend",
+          "size": 1812496,
+          "sha256": "411947640f32a1df86cbc68958a10d6a5e7c5c9868792d6ac27bac45a333e39f"
+        },
+        "generator": {
+          "path": "assets/retail/retail-whole-open-till-and-note-coin-preparation-bay-scene-01/v1.0.0/generate.py",
+          "size": 155230,
+          "sha256": "6d4f23f31932bd3d6e6411835788a6792dd4b9fabb7ffd047e35b421d37e4400"
+        },
+        "render": {
+          "path": "assets/retail/retail-whole-open-till-and-note-coin-preparation-bay-scene-01/v1.0.0/thumbnail.png",
+          "size": 493670,
+          "sha256": "d5ab1710b35594f0da41171e616b8fdef6bff7b1a3917fc821f57b38117f73a5"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1467-volume02-20261025"
     }
   ]
 }
