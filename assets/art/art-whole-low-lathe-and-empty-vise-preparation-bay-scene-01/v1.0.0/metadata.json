@@ -1,0 +1,42 @@
+{
+  "id": "art-whole-low-lathe-and-empty-vise-preparation-bay-scene-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "art",
+  "style": "source-preserved-low-poly",
+  "title": "Whole Low Lathe and Empty Vise Preparation Bay",
+  "description": "One static craft-equipment preparation and display bay, one scene and zero new independent models. Four complete qualified originals retain all raw geometry buffers, local normals, opaque PBR, internal hierarchy and unit scale. The complete low-bed ornamental-turning apparatus stands independently on its four original finite feet at the left floor position, deliberately not fitted to or enlarged over an undersized worktable. An entire open worktable at rear right carries the complete empty hemisphere-seat engraving vise on its full original base. A whole empty two-basin tool trolley stands separately at front right with all original basins, handle, slot holder and wheels retained. These are unconnected staged craft objects, not a functioning turning or engraving line; the low apparatus is not claimed at an ergonomic operating height. Unlike the watchmaker recess-bench and watch/parts-tray corner, this includes an independent complete machine and parked empty trolley beside a small-tool bench. Unlike the three-station forming corner, there are not two table-mounted forming machines and a central brake. No workpiece, cutting, engraving, clamping action, tools inserted in the trolley, fitting, adaptation, human access, loading, installation or workplace safety capability. Only whole translations and one finite common scene floor are new. Rigging animation interaction not made.",
+  "bounds": {
+    "x": 3.799999952316284,
+    "y": 3.200000047683716,
+    "z": 1.212999939918518,
+    "unit": "m"
+  },
+  "triangles": 8132,
+  "materials": 16,
+  "files": {
+    "glb": {
+      "path": "assets/art/art-whole-low-lathe-and-empty-vise-preparation-bay-scene-01/v1.0.0/model.glb",
+      "size": 392252,
+      "sha256": "124abb0a12dd99a9ed6272405ee2f896b7040f4d07e5c164c96d9cf2acbf3ad9"
+    },
+    "blend": {
+      "path": "assets/art/art-whole-low-lathe-and-empty-vise-preparation-bay-scene-01/v1.0.0/source.blend",
+      "size": 1984868,
+      "sha256": "cbe8cd7e934f6534d27a2be0b94e70e093843cae5cbf9f3046a06e826561be08"
+    },
+    "generator": {
+      "path": "assets/art/art-whole-low-lathe-and-empty-vise-preparation-bay-scene-01/v1.0.0/generate.py",
+      "size": 145551,
+      "sha256": "c73925776a730c8d6515d92921afdf74b22e13f2bc496291f9be48613e719b09"
+    },
+    "render": {
+      "path": "assets/art/art-whole-low-lathe-and-empty-vise-preparation-bay-scene-01/v1.0.0/thumbnail.png",
+      "size": 510522,
+      "sha256": "d3705201113c84f1acf5e225e1f2515c17197b008f80a925e279719f9051300b"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
