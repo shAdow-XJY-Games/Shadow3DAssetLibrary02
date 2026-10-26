@@ -1,0 +1,42 @@
+{
+  "id": "classical-whole-inward-stepped-corbel-and-capstone-passage-01",
+  "version": "1.0.0",
+  "category": "architecture",
+  "assetKind": "modular",
+  "theme": "classical",
+  "style": "S01-clean-geometric",
+  "title": "Whole Inward Stepped Corbel and Capstone Passage",
+  "description": "One complete newly authored static inward-corbelled passage module. Two whole full-depth sidewall solids each rise vertically from a finite ground sole and then step inward through five genuine projecting horizontal shoulders; their exterior faces also recede in discrete courses. One independent thick flat crown stone bridges the final narrow upper opening. Both axial mouths remain open and the continuous inner passage has a stepped triangular upper profile rather than a semicircular soffit. Each sidewall is one closed concave mesh, not a stack of overlapping detached stone boxes. Unlike the complete radial voussoir gateway there is no curved arch ring or keystone; unlike the coffered barrel vault there is no continuous cylindrical roof shell or blind panel recess. All visible coordinates new, no old wall or roof meshes imported. Three opaque stone PBR roles, metres Z-up, centred complete horizontal envelope and two finite ground soles; one architectural module zero scenes. Fixed stylized appearance only, not a historical reconstruction or working masonry design. No cantilever stability, thrust, load capacity, installation fit, accessible clearance, navigation, building-code or safety claim. Rigging animation and interaction not made or verified.",
+  "bounds": {
+    "x": 3.36,
+    "y": 2.54,
+    "z": 3.13,
+    "unit": "m"
+  },
+  "triangles": 196,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/classical/classical-whole-inward-stepped-corbel-and-capstone-passage-01/v1.0.0/model.glb",
+      "size": 12540,
+      "sha256": "c1c201601766443f70f5b1ed049d60457056de47aa2faa3535fcb469e265b694"
+    },
+    "blend": {
+      "path": "assets/classical/classical-whole-inward-stepped-corbel-and-capstone-passage-01/v1.0.0/source.blend",
+      "size": 541432,
+      "sha256": "effebd23cd6e879a33a7c24d1666b628722e3ba0c794be21b60ee4bf8a3d8299"
+    },
+    "generator": {
+      "path": "assets/classical/classical-whole-inward-stepped-corbel-and-capstone-passage-01/v1.0.0/generate.py",
+      "size": 10819,
+      "sha256": "234609fad5e74ffa652e6571216dd17246be65939550da58e846d949d6c9df02"
+    },
+    "render": {
+      "path": "assets/classical/classical-whole-inward-stepped-corbel-and-capstone-passage-01/v1.0.0/thumbnail.png",
+      "size": 504762,
+      "sha256": "07ebedaf8d4b30fde684649f108d546bc16dd766cc1f280043c1838454b24a51"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

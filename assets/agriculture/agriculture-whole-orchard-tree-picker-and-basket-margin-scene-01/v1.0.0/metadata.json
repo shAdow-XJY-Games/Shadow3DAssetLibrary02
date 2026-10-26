@@ -1,0 +1,42 @@
+{
+  "id": "agriculture-whole-orchard-tree-picker-and-basket-margin-scene-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "agriculture",
+  "style": "source-preserved-faceted-natural-ecology",
+  "title": "Whole Orchard Tree Picker and Basket Margin",
+  "description": "One static orchard-edge collection-preparation display scene, zero new models. One entire qualified forked-trunk orchard tree stands at the left rear, while an entire qualified upright high side-cup fruit picker is parked separately to its right and one entire qualified empty coarse-band harvest basket occupies a distinct front-right station. All three originals preserve every oriented world triangle, full unit-scale dimensions and opaque per-face PBR. The picker does not touch the tree or reach into the crown, and there is a real open foreground strip; no fruit is added or retained. One finite scene-only earthy floor is the only new mesh. The unchanged tree root tips and low trunk are intentionally embedded 35mm into that ground, with selected actual finite material overlap; the complete picker pole sole and basket base rest on the top plane. This is not the old stone-trough/firewood-shelter workyard or the poultry apparatus court with renamed equipment: its whole tall tree edge, independent upright collection tool and low empty receiving position form a new visual relationship. Source hierarchy is baked and normals recomputed, not original GLB byte retention; whole translated coordinates are explicitly stored float32. No growth, fruit collection, basket capacity, tool-to-tree reach compatibility, pole stability, access, ecology, working procedure, loading or safety validation. Rig animation and interaction not made.",
+  "bounds": {
+    "x": 4.0,
+    "y": 3.5,
+    "z": 3.258682251,
+    "unit": "m"
+  },
+  "triangles": 3412,
+  "materials": 9,
+  "files": {
+    "glb": {
+      "path": "assets/agriculture/agriculture-whole-orchard-tree-picker-and-basket-margin-scene-01/v1.0.0/model.glb",
+      "size": 239532,
+      "sha256": "61535fe8f3daae874b206744736b57ddc9586ff35d54528ce4c05befa6cfd5be"
+    },
+    "blend": {
+      "path": "assets/agriculture/agriculture-whole-orchard-tree-picker-and-basket-margin-scene-01/v1.0.0/source.blend",
+      "size": 857200,
+      "sha256": "35d4e3873abb3cd792aa9fefaa16a9b2131b58bdabbcfb2a778a0eae4fe723e8"
+    },
+    "generator": {
+      "path": "assets/agriculture/agriculture-whole-orchard-tree-picker-and-basket-margin-scene-01/v1.0.0/generate.py",
+      "size": 112626,
+      "sha256": "3f73a53f92295b0dde41a631b1f28e7caa3724b6cbd0147fa472b5c7d3dcabe0"
+    },
+    "render": {
+      "path": "assets/agriculture/agriculture-whole-orchard-tree-picker-and-basket-margin-scene-01/v1.0.0/thumbnail.png",
+      "size": 502335,
+      "sha256": "6b90d749a9f90a672ed3ac05b36dd0e295e58514b38193dccc7a31fe9d1953f4"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

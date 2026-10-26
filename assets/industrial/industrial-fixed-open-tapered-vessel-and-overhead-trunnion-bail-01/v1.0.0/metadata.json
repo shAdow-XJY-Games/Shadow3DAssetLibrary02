@@ -1,0 +1,42 @@
+{
+  "id": "industrial-fixed-open-tapered-vessel-and-overhead-trunnion-bail-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "industrial",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Open Tapered Vessel and Overhead Trunnion Bail",
+  "description": "One wholly newly authored complete foundry-ladle-style static exterior: one deep thick tapered upright vessel has a genuine empty chamber, complete flat closed bottom and an integrated front lip that projects outward and lowers slightly. Two opposed whole horizontal side trunnions connect the vessel to one high open overhead bail and a real open upper suspension eye. On one side a full blank reduction-case exterior and complete three-spoke open handwheel with blunt grip finish the fixed assembly. The full vessel bottom alone defines ground; no separate crane, rail wagon, frame or payload is counted. Unlike the existing side-tip wagon, there is no longitudinal half-round trough, two end A-bearers, wheels, axle chassis or underbody tub stops. Unlike the existing pear-drum mixer, there is no inclined spindle, rear U cradle, motor or wheel/foot frame. New whole pot, overhead bail and side control housing organisation, not old geometry extracted or a pot given extra handles. One prop zero scenes, four opaque constant PBR roles, metres native Z up and centred whole horizontal bounds. Empty static art only. No molten material, heat, refractory design, actual pouring, tilting, suspension operation, gears, braking, bearing fit, hook compatibility, rated load, manufacturing, installation, human fit or safety performance. Rigging animation interaction not made or verified.",
+  "bounds": {
+    "x": 2.79,
+    "y": 1.61,
+    "z": 2.865,
+    "unit": "m"
+  },
+  "triangles": 1852,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/industrial/industrial-fixed-open-tapered-vessel-and-overhead-trunnion-bail-01/v1.0.0/model.glb",
+      "size": 99192,
+      "sha256": "135a59724a8ccc03d70df925c07cada1fce911e2a81c8fea27209e6e80cffaad"
+    },
+    "blend": {
+      "path": "assets/industrial/industrial-fixed-open-tapered-vessel-and-overhead-trunnion-bail-01/v1.0.0/source.blend",
+      "size": 676860,
+      "sha256": "085885823990ef661af665eb47e4d8de6b49a012d9dbad977a2f7941e08e071d"
+    },
+    "generator": {
+      "path": "assets/industrial/industrial-fixed-open-tapered-vessel-and-overhead-trunnion-bail-01/v1.0.0/generate.py",
+      "size": 26443,
+      "sha256": "3bd2f3d1ce2da4228496dd7f4b54c52cecccf3e2c6837bb1e7f46f6bc8b96c6b"
+    },
+    "render": {
+      "path": "assets/industrial/industrial-fixed-open-tapered-vessel-and-overhead-trunnion-bail-01/v1.0.0/thumbnail.png",
+      "size": 508137,
+      "sha256": "216860a23538a9b68ec685bb61fcb9b5debd34a592ec6d4f6b12214f35671e1c"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

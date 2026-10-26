@@ -1,0 +1,42 @@
+{
+  "id": "professional-fixed-single-beam-and-paired-bored-point-heads-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "professional",
+  "style": "source-preserved-low-poly",
+  "title": "Fixed Single Beam and Paired Bored Point Heads",
+  "description": "One newly authored complete fixed beam-divider-style drawing-tool exterior. One long chamfer-ended rectangular beam passes through two entire independently modeled thick slider heads. Each head contains its own real rectangular axial bore surrounding the beam with visible side clearance and a continuous forward neck carrying one complete short tapered blunt point. Two full stem-and-thumbcap profiles root into the top of the heads. The parallel points are fixed at one separated position along the same straight beam, not a shared central hinge or diverging compass legs. Unlike the old combination square there is no broad angled bearing stock, ninety-degree rule relation or scale marks; unlike the old drawing compass there are no pivot arms, top turning grip or chalk clamp. All geometry newly authored together without importing old head, ruler or pointer geometry. Three opaque constant PBR roles, metres Z up, full horizontally centred finite ground datum on the two head undersides. One whole model zero scenes. Blank fixed artistic display only: no calibrated distance, compass circle accuracy, measuring, marking, sliding, clamping, sharp point, handling, manufacture, human fit or safety capability. Rigging animation and interaction not made.",
+  "bounds": {
+    "x": 0.7200000286102295,
+    "y": 0.2199999988079071,
+    "z": 0.09099999815225601,
+    "unit": "m"
+  },
+  "triangles": 1388,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/professional/professional-fixed-single-beam-and-paired-bored-point-heads-01/v1.0.0/model.glb",
+      "size": 122132,
+      "sha256": "b4e296ee7ce2e17e8964e08a268943f66789defd7b66b25553bceed5b7514cd0"
+    },
+    "blend": {
+      "path": "assets/professional/professional-fixed-single-beam-and-paired-bored-point-heads-01/v1.0.0/source.blend",
+      "size": 721088,
+      "sha256": "b74098da13a562e3dc85b32ee8338f53517381f369ba01cfa8a884536c702ac8"
+    },
+    "generator": {
+      "path": "assets/professional/professional-fixed-single-beam-and-paired-bored-point-heads-01/v1.0.0/generate.py",
+      "size": 15437,
+      "sha256": "072d929ea3afda4f9ca93be34e0aaf74c7328fc5c2ab7685538031044801215b"
+    },
+    "render": {
+      "path": "assets/professional/professional-fixed-single-beam-and-paired-bored-point-heads-01/v1.0.0/thumbnail.png",
+      "size": 458206,
+      "sha256": "fc6edf9ddf420a0dab18ea0ab757f9bc4d08548d89006aeb95b22e9bdd4a02af"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
