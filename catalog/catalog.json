@@ -1864,6 +1864,11 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary02",
       "commit": "a45f252001b3f5e167d992246ee27b92772215ec"
+    },
+    "original-qualified-batch-1408-volume02-20261025": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary02",
+      "commit": "fea23c35a0a98e5447578c8ec33d131218e72651"
     }
   },
   "assets": [
@@ -62367,6 +62372,49 @@
       "status": "verified",
       "license": "All rights reserved",
       "sourceId": "original-qualified-batch-1407-volume02-20261025"
+    },
+    {
+      "id": "agriculture-fixed-front-share-and-open-rod-web-rootcrop-lifter-01",
+      "version": "1.0.0",
+      "category": "modular",
+      "assetKind": "prop",
+      "theme": "agriculture",
+      "style": "warm-handcrafted-village",
+      "title": "Fixed Front Share and Open Rod Web Rootcrop Lifter",
+      "description": "One newly authored complete parked root-crop lifting implement exterior. A broad low blunt share and two low forward cheeks precede a whole inclined open rod web: two continuous closed side bands, two full end rollers, and full-width cross rods around both ascending and return runs. Complete lower side frames and four bearing stands support the web above a transverse axle with two full grounded wheels. Two diverging long draw members join a cross nose and one finite parked foot. Unlike a tracked narrow digging-chain boom or high four-wheel combine with header reel, cab, closed feeder neck and grain tank. All whole geometry newly authored; no old machine meshes or coordinates imported. One model zero scenes. Fixed empty appearance only, no digging, crop separation, crop path, conveyor motion, powertrain, hitch fit, load, manufacture or use-safety claim.",
+      "bounds": {
+        "x": 1.667999983,
+        "y": 3.006752968,
+        "z": 1.28428793,
+        "unit": "m"
+      },
+      "triangles": 2444,
+      "materials": 4,
+      "files": {
+        "glb": {
+          "path": "assets/animal/agriculture-fixed-front-share-and-open-rod-web-rootcrop-lifter-01/v1.0.0/model.glb",
+          "size": 140644,
+          "sha256": "e11b2e387aed5a48cf0014c49d6d0136c1eeffa8e43b2bc2e66ecaca9a6226c2"
+        },
+        "blend": {
+          "path": "assets/animal/agriculture-fixed-front-share-and-open-rod-web-rootcrop-lifter-01/v1.0.0/source.blend",
+          "size": 895924,
+          "sha256": "eb26970205299d7b3bbaa403492b6b0125d9280bd5dcf2f3aebd67347649bbc3"
+        },
+        "generator": {
+          "path": "assets/animal/agriculture-fixed-front-share-and-open-rod-web-rootcrop-lifter-01/v1.0.0/generate.py",
+          "size": 33041,
+          "sha256": "ac9a90601c282ef2d635c604ebcd1a0dd7a0479ad8f25a9d11515815d233b500"
+        },
+        "render": {
+          "path": "assets/animal/agriculture-fixed-front-share-and-open-rod-web-rootcrop-lifter-01/v1.0.0/thumbnail.png",
+          "size": 519646,
+          "sha256": "880960ffa9e62208edf9a30ea8308e63b2ea84cf344bb8f227970fae325cb17e"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1408-volume02-20261025"
     }
   ]
 }
