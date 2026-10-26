@@ -1,0 +1,42 @@
+{
+  "id": "restaurant-whole-empty-spit-roaster-and-basket-fryer-preparation-bay-scene-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "restaurant",
+  "style": "source-preserved-low-poly",
+  "title": "Whole Empty Spit Roaster and Basket Fryer Preparation Bay",
+  "description": "One empty static restaurant hot-equipment preparation bay, one scene and zero new independent models. A complete original empty vertical-spit and panel roaster is supported on the left whole open worktable. A complete original open-well wire-basket fryer is supported on a separate right whole worktable, slightly forward of the first station. Both complete machines are quarter-turned together so their open work faces and handles are visible from the front-right view; their original feet rest on the actual table tops. The four whole instances remain independent with a visible gap between the tables and an open foreground floor. This differs from the existing combined stove-sink-prep kitchen line and the cafe customer order/pickup counters: it is a simple empty two-station equipment preparation arrangement without customer counters, sink, cookware or food. Three unique complete old models are used as four whole instances; all original buffers, local normals, internal hierarchy, dimensions and PBR dictionaries are retained, including the original orange/brown worktable colours. Only whole-instance exact quarter-turns, translations and one finite common floor are authored. No new independent model is counted. Static art only: no food or oil, heating, frying, roasting, operational flow, thermal clearances, electrical installation, equipment compatibility, rated support, human access compliance or workplace safety claim. Rigging animation interaction not made.",
+  "bounds": {
+    "x": 3.299999952316284,
+    "y": 2.0999999046325684,
+    "z": 2.0299999713897705,
+    "unit": "m"
+  },
+  "triangles": 6032,
+  "materials": 12,
+  "files": {
+    "glb": {
+      "path": "assets/restaurant/restaurant-whole-empty-spit-roaster-and-basket-fryer-preparation-bay-scene-01/v1.0.0/model.glb",
+      "size": 539216,
+      "sha256": "c3581e9c64db66a0e021debf15017e88d7848e67a9b73c6b18502d06348b52e9"
+    },
+    "blend": {
+      "path": "assets/restaurant/restaurant-whole-empty-spit-roaster-and-basket-fryer-preparation-bay-scene-01/v1.0.0/source.blend",
+      "size": 1725680,
+      "sha256": "a09cfdaf67ab6f7b2a5934b58420fb552956b6f6f12575453686fb77beb68780"
+    },
+    "generator": {
+      "path": "assets/restaurant/restaurant-whole-empty-spit-roaster-and-basket-fryer-preparation-bay-scene-01/v1.0.0/generate.py",
+      "size": 135974,
+      "sha256": "7300f7836ac8c705336189112eedcd7dc3fa16d1ec958ac43c36d7e41d2dad4e"
+    },
+    "render": {
+      "path": "assets/restaurant/restaurant-whole-empty-spit-roaster-and-basket-fryer-preparation-bay-scene-01/v1.0.0/thumbnail.png",
+      "size": 498657,
+      "sha256": "a18bdbc88198474bd669c15ded62d0e76fe75aeddf5cd524fb5653806e6fc88c"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

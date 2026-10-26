@@ -1,0 +1,42 @@
+{
+  "id": "renewable-fixed-long-open-trough-and-elevated-receiver-tube-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "renewable",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Long Open Trough and Elevated Receiver Tube",
+  "description": "One wholly newly authored complete parabolic-trough-collector-style static display. A continuous single-curvature thick shell runs between two ends with true open concavity, finite thin end edges and separate complete underside reinforcement ribs. Each fixed end trunnion meets an entire tapered end post and complete grounded transverse foot; two whole low longitudinal ties join the feet. Two pairs of thin complete end struts hold one whole elevated longitudinal receiver-style tube over the open centre. Unlike the old planar solar rack, there are no repeated flat cells or tilted slab; unlike the rotational dish, there is no doubly curved axisymmetric bowl, single centre mast or point feed. The complete trough, full-length above-trough tube and end-supported stand are authored together from new numeric geometry. No old mesh imported or scaled, one model zero scenes, four opaque constant untextured PBR appearances, metre coordinates/Z up and centred entire ground envelope. Illustrative exterior only, no transparent optical surfaces, focal geometry, heat, fluid, energy collection, generation, tracking, rotation, pressure, manufacture, load bearing, operation or safety performance is made or verified. Rigging animation interaction not made.",
+  "bounds": {
+    "x": 2.16,
+    "y": 3.7,
+    "z": 1.513,
+    "unit": "m"
+  },
+  "triangles": 996,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/renewable/renewable-fixed-long-open-trough-and-elevated-receiver-tube-01/v1.0.0/model.glb",
+      "size": 59208,
+      "sha256": "beb26d32358a702bcfd11d83118f554bb40b9f204828ecddd30ff62f3a76fbf0"
+    },
+    "blend": {
+      "path": "assets/renewable/renewable-fixed-long-open-trough-and-elevated-receiver-tube-01/v1.0.0/source.blend",
+      "size": 651420,
+      "sha256": "4cce633d644e32dc09fa7f85ffd504166e52d0d2dd236fea88275139fdca24b8"
+    },
+    "generator": {
+      "path": "assets/renewable/renewable-fixed-long-open-trough-and-elevated-receiver-tube-01/v1.0.0/generate.py",
+      "size": 26373,
+      "sha256": "0d617a5f0ed39bf34f90882fe2f00943556dc96c5ff82079a3a36c9f58911475"
+    },
+    "render": {
+      "path": "assets/renewable/renewable-fixed-long-open-trough-and-elevated-receiver-tube-01/v1.0.0/thumbnail.png",
+      "size": 530790,
+      "sha256": "b37206f8ea0883f65bb5a1ab53bc3d8e1010bdf4683686c7ed80fdf829807e40"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

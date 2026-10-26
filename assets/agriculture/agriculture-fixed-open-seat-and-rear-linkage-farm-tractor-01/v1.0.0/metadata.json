@@ -1,0 +1,42 @@
+{
+  "id": "agriculture-fixed-open-seat-and-rear-linkage-farm-tractor-01",
+  "version": "1.0.0",
+  "category": "modular",
+  "assetKind": "prop",
+  "theme": "agriculture",
+  "style": "warm-handcrafted-village",
+  "title": "Fixed Open Seat and Rear Linkage Farm Tractor",
+  "description": "One complete newly authored generic open agricultural tractor exterior. Small front wheels under a low sloping bonnet and a narrow continuous frame lead to two large rear wheels, high full arched mudguards, an empty raised seat and inclined open steering wheel. Whole side footplates and rear differential appearance lead to two separated splayed lower linkage arms and a higher central link. This is not an old steam engine with its boiler removed, nor a combine without its header: all visible geometry and vehicle arrangement are newly drawn. One static model zero scenes, four opaque constant PBR materials. No engine interior, steering, transmission, rolling, towing, hitch fit, hydraulic or agricultural operation, load, occupant safety or manufacturing claim. Rigging, animation and interaction not made.",
+  "bounds": {
+    "x": 1.940000057,
+    "y": 3.2767272,
+    "z": 1.590000033,
+    "unit": "m"
+  },
+  "triangles": 2268,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/agriculture/agriculture-fixed-open-seat-and-rear-linkage-farm-tractor-01/v1.0.0/model.glb",
+      "size": 126704,
+      "sha256": "0d5d3e3a36797a2d7042fd9040a5666accaa18f523c7b1f0c8b13e2319a2a6ff"
+    },
+    "blend": {
+      "path": "assets/agriculture/agriculture-fixed-open-seat-and-rear-linkage-farm-tractor-01/v1.0.0/source.blend",
+      "size": 754640,
+      "sha256": "99edf2131c234211c1a3774cebfd6947ae9e18de2dafb88ba7294d42860b0eb7"
+    },
+    "generator": {
+      "path": "assets/agriculture/agriculture-fixed-open-seat-and-rear-linkage-farm-tractor-01/v1.0.0/generate.py",
+      "size": 32407,
+      "sha256": "c8bdcab6a6f68318a8dda7325585c022d460a7529ff12e017631b7155176f859"
+    },
+    "render": {
+      "path": "assets/agriculture/agriculture-fixed-open-seat-and-rear-linkage-farm-tractor-01/v1.0.0/thumbnail.png",
+      "size": 519984,
+      "sha256": "9268e49910e79e6d168cad4df725880c8bcd52e49c71ec2ee4b3db4578373391"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

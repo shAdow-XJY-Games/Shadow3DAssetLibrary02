@@ -1,0 +1,42 @@
+{
+  "id": "photography-fixed-empty-vest-and-double-arm-sled-rig-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "photography",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Empty Vest and Double Arm Sled Rig",
+  "description": "One complete newly authored static empty body-carried camera-support rig appearance on its own low display support. A curved waist band, separate chest plate, back plate and two thick over-shoulder bridges surround an actual empty body space. A side root carries two serial full parallelogram sections, folded in different horizontal directions, with separate upper and lower links, complete end blocks, proud pins and thick diagonal spring-housing exteriors. The far wrist carries an independent long vertical sled through a closed collar and side pin; a wide blank upper camera plate and low crossbar with two complete counterweight exteriors terminate this sled. No camera, person, monitor or battery internals. The ground display bracket connects only to the empty back frame; it is not a wearable human or a separate scene object. All meshes numerically new, not a cuirass or old long camera jib imported or merely given a different base. The compact lateral two-stage folded chain and vertically distributed payload/counterweight silhouette are distinct from the old single forward parallel jib and rear tail weight. Four opaque constant PBR roles, metres Z up, horizontal-envelope-centred ground datum, one whole model zero scenes. Fixed illustrative appearance only. No wearable fit, ergonomics, spring action, arm travel, stabilization, gimbal operation, balancing, camera compatibility, load, strength or safety capability made or validated. No rigging, animation or interaction.",
+  "bounds": {
+    "x": 1.8775000000000002,
+    "y": 0.915,
+    "z": 1.613,
+    "unit": "m"
+  },
+  "triangles": 1340,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/photography/photography-fixed-empty-vest-and-double-arm-sled-rig-01/v1.0.0/model.glb",
+      "size": 79620,
+      "sha256": "1296abf3c6a995a8a3a3a6b6f88bf9971ecf41bb06776a491b179465d75a8565"
+    },
+    "blend": {
+      "path": "assets/photography/photography-fixed-empty-vest-and-double-arm-sled-rig-01/v1.0.0/source.blend",
+      "size": 760812,
+      "sha256": "804d40818b1fa0e948db04989028c57343e1e9bee4542c6db299f6a93e203e53"
+    },
+    "generator": {
+      "path": "assets/photography/photography-fixed-empty-vest-and-double-arm-sled-rig-01/v1.0.0/generate.py",
+      "size": 12502,
+      "sha256": "4a1eb1d4ef16d8017e3e0b699a583ebc5e040bf8a49b090e724d2705ad03a48e"
+    },
+    "render": {
+      "path": "assets/photography/photography-fixed-empty-vest-and-double-arm-sled-rig-01/v1.0.0/thumbnail.png",
+      "size": 342895,
+      "sha256": "29e2e0183225b54d35fa989b2633f2ce83f3608a6b4431166024f7abdcad3e67"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

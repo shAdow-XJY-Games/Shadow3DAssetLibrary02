@@ -1,0 +1,42 @@
+{
+  "id": "marine-fixed-double-ended-through-deck-and-cross-bridge-ferry-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "marine",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Double Ended Through Deck and Cross Bridge Ferry",
+  "description": "One wholly newly authored complete empty double-ended roll-on-ferry-style dry exterior. A continuous closed monohull tapers at both ends into broad deck gateways and has a full low through deck. Two complete low side service galleries rise only at the middle into tall piers, carrying one transverse high bridge floor and broad closed pilot cabin above the uninterrupted centre roadway. Proud opaque window bands, real raised mullions, one complete roof and two short capped vents belong to that cabin. At each end a full wide thick ramp is fixed partly lowered, with its own full transverse pin, two complete side posts and two entire fixed support bars. Open side rail segments end before the gates. Unlike the central-house sternwheel boat, there is no low house occupying the roadway, upper promenade or external wheel; unlike the U-section floating dock there are no full-height longitudinal wings or sunken ship berth, and the hull ends taper rather than end as one rectangular open U section. The complete deck, transverse bridge, end gateways and ramp architecture are newly authored together; no old hull, cabin, dock or ramp mesh is imported. One model zero scenes, four opaque constant untextured PBR appearances, native metre game coordinates/Z up, entire horizontal envelope centred over the whole hull dry sole. Ramps end above the display datum and have no land support. Empty illustrative art only: no water, vehicle, quay, occupant, buoyancy, watertight compartments, propulsion, steering, navigation, stability, vehicle fit, access clearance, ramp movement, mooring, payload, manufacture, operation or maritime/transport safety capability is made or verified. Rigging animation interaction not made.",
+  "bounds": {
+    "x": 4.1,
+    "y": 9.38,
+    "z": 4.01,
+    "unit": "m"
+  },
+  "triangles": 1384,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/marine/marine-fixed-double-ended-through-deck-and-cross-bridge-ferry-01/v1.0.0/model.glb",
+      "size": 85160,
+      "sha256": "85538fd4774e4fe697cfa7fff7302d4540f8bc42d6e1876be2e5c8d3cfadc49c"
+    },
+    "blend": {
+      "path": "assets/marine/marine-fixed-double-ended-through-deck-and-cross-bridge-ferry-01/v1.0.0/source.blend",
+      "size": 765520,
+      "sha256": "e8326f0eac257d92fcf976c42ec310212cce0a742fc2583f91dcb2f50aabe016"
+    },
+    "generator": {
+      "path": "assets/marine/marine-fixed-double-ended-through-deck-and-cross-bridge-ferry-01/v1.0.0/generate.py",
+      "size": 29374,
+      "sha256": "9b2a905b23620ba252b8c6d5f377efad4a9f47dff90d17a5e055b7e6ae5d4c5f"
+    },
+    "render": {
+      "path": "assets/marine/marine-fixed-double-ended-through-deck-and-cross-bridge-ferry-01/v1.0.0/thumbnail.png",
+      "size": 559497,
+      "sha256": "2a9e9bb4fd2b86577e7bcc3695a79c84439cd7166d0495e6fbe7c85c28dee664"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

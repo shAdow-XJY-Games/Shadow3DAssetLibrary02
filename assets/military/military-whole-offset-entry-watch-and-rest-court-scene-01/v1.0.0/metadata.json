@@ -1,0 +1,42 @@
+{
+  "id": "military-whole-offset-entry-watch-and-rest-court-scene-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "military",
+  "style": "source-preserved-low-poly",
+  "title": "Whole Offset Entry Watch And Rest Court",
+  "description": "One complete static nonweapon watch-and-rest courtyard scene, one scene and zero new standalone models. Four entire original unit-scale instances retain raw mesh positions/normals, indexed triangles, full node hierarchy and per-face PBR: one whole four-post high window-cabin observation tower with its original returning stairs, two whole stone-filled gabions offset in the foreground, and one complete empty crossframe field cot on a separate low rear-right rest pad. A new finite dry-earth slab and connected offset entry path place the approach between the staggered low barriers before opening into the court; the tower and its complete stair envelope occupy the rear-left while the empty cot remains separate at rear-right. The two gabions are low entrance markers rather than a closed wall or certified defensive obstacle. This is not the older camping social island with tent/chairs/fire/table or an indoor armour inspection shelf: high watch-cabin access, offset forecourt threshold and separated empty rest zone organize this single outdoor composition. All reused objects remain complete at original scale and pose; only whole translations, no color change or extracted parts. Three new closed supporting ground/path/pad meshes are scene-only. No personnel, weapon, fire, additional equipment or functional controls. Fixed artistic layout only, not a military position, surveillance plan or safe camp. No protection, observation coverage, human access, navigation, egress, rest suitability, loading, construction, operational or safety claim. Rigging animation and interaction not made or verified.",
+  "bounds": {
+    "x": 10.600000381469727,
+    "y": 9.600000381469727,
+    "z": 6.179999828338623,
+    "unit": "m"
+  },
+  "triangles": 14992,
+  "materials": 15,
+  "files": {
+    "glb": {
+      "path": "assets/military/military-whole-offset-entry-watch-and-rest-court-scene-01/v1.0.0/model.glb",
+      "size": 642988,
+      "sha256": "31ae8bc02cf07231464af7697c8ce36a61e251c0bc0a79987de4f19208c1c52f"
+    },
+    "blend": {
+      "path": "assets/military/military-whole-offset-entry-watch-and-rest-court-scene-01/v1.0.0/source.blend",
+      "size": 2757208,
+      "sha256": "2b6418af8deb56881a5b58fb61ad081975657f977f03e2e4ae38c6fcf5918eba"
+    },
+    "generator": {
+      "path": "assets/military/military-whole-offset-entry-watch-and-rest-court-scene-01/v1.0.0/generate.py",
+      "size": 166890,
+      "sha256": "c715a0bbbd6722045e1c7d2a9c598148bedffbc53247a1a4349aaa6c3aca5f2c"
+    },
+    "render": {
+      "path": "assets/military/military-whole-offset-entry-watch-and-rest-court-scene-01/v1.0.0/thumbnail.png",
+      "size": 528079,
+      "sha256": "5c6ddf395e7b64df896c227505831ba6abb266bc45b13c9cb0c28c7e9aa8c060"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

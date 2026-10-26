@@ -1,0 +1,42 @@
+{
+  "id": "painting-whole-receiver-sprayer-and-blank-panel-preparation-bay-scene-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "painting",
+  "style": "source-preserved-low-poly",
+  "title": "Whole Receiver Sprayer and Blank Panel Preparation Bay",
+  "description": "One static spray-equipment preparation bay, one scene and zero new independent models. The complete original twin-cylinder horizontal receiver compressor is parked on the left foreground floor with its original exposed illustrative drive and open push handle intact. A complete H-frame easel with its entire original blank thick board stands independently behind it, separated by an open floor strip. On the right a complete open worktable supports one entire original upper-cup hand sprayer upright on its original finite grip heel, away from the table edges. The original spray tool is not attached to the compressor, aimed at the board, disassembled or enlarged. These complete floor equipment, blank-panel and bench-preparation positions are independently spaced, with an empty foreground and no connecting hose, paint, workpiece or operating demonstration. Unlike the old drafting/easel/drying-rack/tool-cart studio or the whole screen press with drying rack and basin cart, this bay stages one floor receiver machine and a separate whole small tool beside a blank panel position. Four complete old models preserve every raw geometry buffer, local normal, internal hierarchy, original unit scale and full PBR dictionary. Only four whole translations and one finite scene-only floor are new. Small sprayer details remain subordinate in the whole-bay image. Static art only: no compressed air, spraying, drying, power or fluid circuit, chemical handling, ventilation, equipment compatibility, load rating, ergonomic access or safe workplace claim. Rigging animation interaction not made.",
+  "bounds": {
+    "x": 2.799999952316284,
+    "y": 2.299999952316284,
+    "z": 1.8600000143051147,
+    "unit": "m"
+  },
+  "triangles": 8516,
+  "materials": 14,
+  "files": {
+    "glb": {
+      "path": "assets/painting/painting-whole-receiver-sprayer-and-blank-panel-preparation-bay-scene-01/v1.0.0/model.glb",
+      "size": 541936,
+      "sha256": "7d670e0ca0d5b051954883d34a8edd02002f0bb787d5aa2a758f3de7b57cb832"
+    },
+    "blend": {
+      "path": "assets/painting/painting-whole-receiver-sprayer-and-blank-panel-preparation-bay-scene-01/v1.0.0/source.blend",
+      "size": 2004052,
+      "sha256": "1819b7b7d979feab1a5c7ff9324eb5946e950315adc25f3aa6fa5c70e9f92b64"
+    },
+    "generator": {
+      "path": "assets/painting/painting-whole-receiver-sprayer-and-blank-panel-preparation-bay-scene-01/v1.0.0/generate.py",
+      "size": 197996,
+      "sha256": "6583a9409b7d33e88d70a81ead470a8f197454e59a7454362e75b7c05564fdfd"
+    },
+    "render": {
+      "path": "assets/painting/painting-whole-receiver-sprayer-and-blank-panel-preparation-bay-scene-01/v1.0.0/thumbnail.png",
+      "size": 506188,
+      "sha256": "26b6fe812ff0cfc6412c7bcbd87831c9b68e3aa9390363e44a3291435ad11c8f"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

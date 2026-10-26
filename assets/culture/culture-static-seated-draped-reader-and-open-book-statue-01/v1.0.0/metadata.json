@@ -1,0 +1,42 @@
+{
+  "id": "culture-static-seated-draped-reader-and-open-book-statue-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "culture",
+  "style": "S01-clean-geometric",
+  "title": "Static Seated Draped Reader and Open Book Statue",
+  "description": "One wholly newly authored complete low-poly cultural sculpture of an anonymous adult-like seated reader. A full flat plinth carries a low solid seat and both forward feet. The continuous draped body rises from a folded lower hem over broad forward knees into a set-back seated hip, narrower waist, shoulders, short inclined neck and simplified head. Drapery folds are part of the actual closed surface rather than applied stripes. Two entire bent sleeve arms root at the shoulders, turn forward at the elbows and end in small complete palms seated on the two sides of one thick open book. Two sloping blank page masses and a full rounded centre spine make the book opening actual geometry. A blunt sculpted nose and small same-stone closed eyelid ridges suggest a downward-looking calm face, not a likeness of a real person. No original caryatid, wooden toy or book mesh is imported: this is a newly drawn full seated figure, not a removed capital on an old standing body or a mechanical puppet recoloured as stone. Four opaque constant untextured stone-toned PBR roles, metres Z up, full horizontal bounds centre, one complete sculpture zero scenes; seat, book and plinth are integral parts of this one composition, not separately counted assets. Generic contemporary game-art sculpture, not a named historical artifact, specific person, anatomical study, religious identity, readable text, tactile accessibility or public installation design. No pose change, binding, animation, interaction, structural or load/installation safety capability made or verified.",
+  "bounds": {
+    "x": 0.94,
+    "y": 0.9,
+    "z": 1.82,
+    "unit": "m"
+  },
+  "triangles": 1800,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/culture/culture-static-seated-draped-reader-and-open-book-statue-01/v1.0.0/model.glb",
+      "size": 138012,
+      "sha256": "34656d9cf6b090ff446095adaa94cf7edc32bc8dd567ff09d320d3a9e9f45bf8"
+    },
+    "blend": {
+      "path": "assets/culture/culture-static-seated-draped-reader-and-open-book-statue-01/v1.0.0/source.blend",
+      "size": 706896,
+      "sha256": "3b0ffc6a5fd7931ff970d2c093f7d7b4448ca95cbfb6588c336736ea0cc983e6"
+    },
+    "generator": {
+      "path": "assets/culture/culture-static-seated-draped-reader-and-open-book-statue-01/v1.0.0/generate.py",
+      "size": 13337,
+      "sha256": "9d0063415796f8a1532345f786debc631ae1abd82441b3a10ea029533f89068f"
+    },
+    "render": {
+      "path": "assets/culture/culture-static-seated-draped-reader-and-open-book-statue-01/v1.0.0/thumbnail.png",
+      "size": 356918,
+      "sha256": "8247ba799dcc3edd11bf37cdee18b0116165a92048e118c1c16322187bfad586"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
