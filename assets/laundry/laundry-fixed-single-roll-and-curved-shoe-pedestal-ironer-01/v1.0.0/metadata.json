@@ -1,0 +1,42 @@
+{
+  "id": "laundry-fixed-single-roll-and-curved-shoe-pedestal-ironer-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "laundry",
+  "style": "source-preserved-low-poly",
+  "title": "Fixed Single Roll and Curved Shoe Pedestal Ironer",
+  "description": "One newly authored complete fixed floor-standing roller-ironer-style exterior. A single full broad horizontal padded-looking cylinder sits on a complete transverse axle between short side seats supported by a rear-offset pedestal and crosshead. A separate continuous thick concave shoe shell follows the rear arc of the cylinder with a real fixed radial gap, leaving the front cylinder exposed. A wide low feed board on two whole under-brackets projects in front; a single broad foot pedal and its fixed short support root into the common lower frame. Two entire long ground feet, lower cross-tie and one blank side control finish the whole appliance. Unlike the old hand wringer there is no second stacked roller, tall pressure frame, upper adjustment screws, side hand crank, catch pan or draped cloth. Unlike the upright garment press there are no two long facing boards, bottom-opening panel or clothes hanger. Every visible mesh newly authored, not old rollers or old panels moved to a different stand. Three opaque solid PBR roles, metres Z up and full horizontally centred ground datum. One model zero scenes. Empty static artistic exterior only: no cloth, electricity, heating, pressure, roll or shoe motion, fabric feeding, ironing result, foot control, human suitability, manufacture, installation or safety performance. Rigging animation and interaction not made.",
+  "bounds": {
+    "x": 0.9309999942779541,
+    "y": 0.6499999761581421,
+    "z": 1.1193530559539795,
+    "unit": "m"
+  },
+  "triangles": 1208,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/laundry/laundry-fixed-single-roll-and-curved-shoe-pedestal-ironer-01/v1.0.0/model.glb",
+      "size": 113380,
+      "sha256": "dc483b078a2bb7daa28f0e3613fd1d54c57f518513a7f3f09e1f4676382b958c"
+    },
+    "blend": {
+      "path": "assets/laundry/laundry-fixed-single-roll-and-curved-shoe-pedestal-ironer-01/v1.0.0/source.blend",
+      "size": 743264,
+      "sha256": "44f3d79980f87b2bf50ebf766aa7132da2f7841c968b2a0f2acacaf83079dc10"
+    },
+    "generator": {
+      "path": "assets/laundry/laundry-fixed-single-roll-and-curved-shoe-pedestal-ironer-01/v1.0.0/generate.py",
+      "size": 16766,
+      "sha256": "2e429235fed58a986d00a465fc8082982d0aefddc0275c0b80f3054185255e3f"
+    },
+    "render": {
+      "path": "assets/laundry/laundry-fixed-single-roll-and-curved-shoe-pedestal-ironer-01/v1.0.0/thumbnail.png",
+      "size": 502789,
+      "sha256": "c59ef0f6e48d16cacac411bfa8a4294362d4b3ce68d418e499a60f91ff8b5121"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
