@@ -1829,6 +1829,11 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary02",
       "commit": "bac0497627312556bd9db55f3a9c8f5719c19f3a"
+    },
+    "original-qualified-batch-1392-volume02-20261025": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary02",
+      "commit": "c648ac4516f192d82d810d68897c72d8ffaa7d32"
     }
   },
   "assets": [
@@ -61515,6 +61520,178 @@
       "status": "verified",
       "license": "All rights reserved",
       "sourceId": "original-qualified-batch-1388-volume02-20261025"
+    },
+    {
+      "id": "industrial-fixed-raised-split-cap-and-through-sleeve-bearing-housing-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "industrial",
+      "style": "source-preserved-low-poly",
+      "title": "Fixed Raised Split Cap and Through Sleeve Bearing Housing",
+      "description": "One wholly newly authored complete split-bearing-housing display in a fixed partly opened pose. A broad continuous grounded mounting foot has two actual bounded mounting windows. A whole lower semicircular thick saddle and its two side ears are rooted in that foot. A separate complete upper semicircular cap with full side ears stays visibly raised on two retained long studs and lower collars, with independent proud top nuts. One whole bronze-looking through sleeve remains seated in the lower saddle with its full empty axial bore open. The raised cap is held by visible studs and collars, not an unsupported exploded loose part. Unlike a complete ball bearing, there are no rolling balls, grooved races or pocket cage; unlike an old coupling display support sleeve, the whole structure is a two-ear footed split housing with independently retained raised cap. No old bearing, shaft or support component imported or extracted. Three opaque solid PBR roles, metres Z up and full bounds-centred ground datum, one whole model zero scenes. Fixed static illustrative mechanical exterior only: no shaft, motion, lubrication, alignment, tolerances, installation fit, clamping, load, manufacture, maintenance procedure or safety capability. Rigging animation and interaction not made.",
+      "bounds": {
+        "x": 0.4399999976158142,
+        "y": 0.20999999344348907,
+        "z": 0.3149999976158142,
+        "unit": "m"
+      },
+      "triangles": 1668,
+      "materials": 3,
+      "files": {
+        "glb": {
+          "path": "assets/industrial/industrial-fixed-raised-split-cap-and-through-sleeve-bearing-housing-01/v1.0.0/model.glb",
+          "size": 150240,
+          "sha256": "75fc2669b28c1b56ae0875e0a6ba3e9df3103673952d7de28e5f6bf61c0e53cc"
+        },
+        "blend": {
+          "path": "assets/industrial/industrial-fixed-raised-split-cap-and-through-sleeve-bearing-housing-01/v1.0.0/source.blend",
+          "size": 785376,
+          "sha256": "d5090626b308c66ca6404c4b0492eef5d59aef5f9f03aea4ab4ef7ff5bf93837"
+        },
+        "generator": {
+          "path": "assets/industrial/industrial-fixed-raised-split-cap-and-through-sleeve-bearing-housing-01/v1.0.0/generate.py",
+          "size": 16450,
+          "sha256": "3eaee5308fd5f3fb155ca03261e6c8758b58726f1e5e4b98bd5add0721b4ba75"
+        },
+        "render": {
+          "path": "assets/industrial/industrial-fixed-raised-split-cap-and-through-sleeve-bearing-housing-01/v1.0.0/thumbnail.png",
+          "size": 515096,
+          "sha256": "9618da51817514b7f806bdd0959b8634a22cfa64e3e03fd5883e0b77869f4d8b"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1392-volume02-20261025"
+    },
+    {
+      "id": "textile-fixed-inclined-beam-and-suspended-warp-weight-loom-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "textile",
+      "style": "S01-clean-geometric",
+      "title": "Fixed Inclined Beam and Suspended Warp Weight Loom",
+      "description": "One newly authored complete warp-weighted upright textile loom in a single fixed display pose. Two long finite feet carry inclined full standards and independent rear braces, with a complete upper transverse winding beam and a short folded woven-cloth appearance. Twelve continuous thick warp strands descend from that cloth edge; alternate paths pass in front of a distinct low shed bar, and six complete thick perforated clay-looking weights terminate the paired hanging strands. Each weight has a genuine open upper hole and continuous whole material rim, not a painted circle. Short side brackets hold a separate projecting heddle rod and individual closed elongated heddle loops around the alternate strand lanes. Unlike the old bounded flat loom, there is no lower beam fixing the warp ends: the open lower field and independently hanging weights define the full silhouette and support relation. Unlike the fore-aft treadle loom there are no rear warp drum, floor treadles, twin castle shafts or reed-beater assembly. All coordinates authored for this one complete inclined weighted apparatus, no old frame or cloth meshes copied. Four opaque solid PBR materials, metres Z up, horizontal bounds-centred ground origin. One static cultural-craft prop zero scenes. Generic illustrative construction, no historical reconstruction, working weave, tension equilibrium, weight suspension safety, shed movement, cloth simulation, ergonomics, manufacture or safe use; rigging animation interaction not made.",
+      "bounds": {
+        "x": 1.68,
+        "y": 0.95,
+        "z": 1.9713888490354794,
+        "unit": "m"
+      },
+      "triangles": 2812,
+      "materials": 4,
+      "files": {
+        "glb": {
+          "path": "assets/textile/textile-fixed-inclined-beam-and-suspended-warp-weight-loom-01/v1.0.0/model.glb",
+          "size": 167368,
+          "sha256": "4b333de480d519ddaf2a9a20d2315713839a80ddfda9ea58a4a07c4a577a9829"
+        },
+        "blend": {
+          "path": "assets/textile/textile-fixed-inclined-beam-and-suspended-warp-weight-loom-01/v1.0.0/source.blend",
+          "size": 904840,
+          "sha256": "056d3cf9c25d1d14d8936710759162f97026c074ea5957e98d5452715dbf94d1"
+        },
+        "generator": {
+          "path": "assets/textile/textile-fixed-inclined-beam-and-suspended-warp-weight-loom-01/v1.0.0/generate.py",
+          "size": 12787,
+          "sha256": "b76fc57894f96f7b6fcf23ef409c8c169df5cd25afb309fd24c86dd2c3c9f669"
+        },
+        "render": {
+          "path": "assets/textile/textile-fixed-inclined-beam-and-suspended-warp-weight-loom-01/v1.0.0/thumbnail.png",
+          "size": 484755,
+          "sha256": "64bc6bad177f018ff1269de8ec981c6795ac27e0444656f7a4cab7cf40a4a070"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1392-volume02-20261025"
+    },
+    {
+      "id": "transport-fixed-double-cradle-and-tank-over-engine-motorcycle-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "transport",
+      "style": "S01-clean-geometric",
+      "title": "Fixed Double Cradle and Tank Over Engine Motorcycle",
+      "description": "One wholly newly authored complete empty motorcycle-style static exterior. Two broad annular tires with open rims, complete spokes, hubs and fixed transverse axles carry a new twin-fork and rear-swing-arm organization. Two continuous closed lower cradle loops surround an independent round crankcase, integral-rib cylinder and complete head. A full sculpted longitudinal tank occupies the upper frame, while two whole rear rails support a separate long stepped saddle over the rear wheel. Full fixed suspension-strut appearances, fork crowns, raised handlebar/grips, blank round headlamp, two genuinely thick raised mudguard arches and a complete bent side exhaust with long low muffler finish the whole vehicle. A deployed two-foot stand accompanies the actual finite tire tread facets. This is not the existing thin diamond-frame pedal bicycle with a motor pasted on: no old frame, pedal crank, chainring or mesh is reused. It is not the existing step-through scooter with different wheels: there is no low foot deck, leg shield, enclosing rear seat body or open step-through bay. Every visible coordinate is newly authored to the complete engine-in-cradle/tank/saddle/fork/swing-arm organization. One prop zero scenes, four opaque constant untextured PBR roles, metres native Z up and whole horizontal-envelope-centered ground datum. Simplified invented fixed illustrative exterior only: no rider, internal engine, fuel path, exhaust fluid, real brakes, suspension spring, drivetrain, steering, wheel rotation, speed, balance, rider fit, load, roadworthiness, manufacture or operating safety is made or verified. Rigging animation and interaction not made.",
+      "bounds": {
+        "x": 0.761748,
+        "y": 2.487463,
+        "z": 1.247,
+        "unit": "m"
+      },
+      "triangles": 5376,
+      "materials": 4,
+      "files": {
+        "glb": {
+          "path": "assets/transport/transport-fixed-double-cradle-and-tank-over-engine-motorcycle-01/v1.0.0/model.glb",
+          "size": 302048,
+          "sha256": "dec72c75b94efc7cbf62cdb5f2f7ff317bac30d7f5ec0db3c056336b738c77d0"
+        },
+        "blend": {
+          "path": "assets/transport/transport-fixed-double-cradle-and-tank-over-engine-motorcycle-01/v1.0.0/source.blend",
+          "size": 1100828,
+          "sha256": "72eee996e9dd76ce26eb24ad96e981d58736d06599202e7538dd7db6eae1b097"
+        },
+        "generator": {
+          "path": "assets/transport/transport-fixed-double-cradle-and-tank-over-engine-motorcycle-01/v1.0.0/generate.py",
+          "size": 34751,
+          "sha256": "96e0a0fd858c102a94ef8bd09cab557d60ebcf0f4a4bda73302804d7d6222e1f"
+        },
+        "render": {
+          "path": "assets/transport/transport-fixed-double-cradle-and-tank-over-engine-motorcycle-01/v1.0.0/thumbnail.png",
+          "size": 569630,
+          "sha256": "cca370f7bebefb08681cb837eef5492bbca93b58dd70ef98f98fe7a8e9f2ecb9"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1392-volume02-20261025"
+    },
+    {
+      "id": "underwater-fixed-double-open-end-cap-and-spine-sampling-cylinder-01",
+      "version": "1.0.0",
+      "category": "modular",
+      "assetKind": "prop",
+      "theme": "underwater",
+      "style": "warm-handcrafted-village",
+      "title": "Fixed Double Open End Cap and Spine Sampling Cylinder",
+      "description": "One wholly newly authored complete empty water-sampling-cylinder-inspired static exterior. A single thick long tube has genuine top and bottom open ports. Each end has a complete separate solid cap fixed vertically out beside the port on a full side pivot, with its own continuous curved retaining cord attached to a full external longitudinal spine. Two entire outer clamp bands and short rear bridges attach tube to spine, with a true open rear handgrip and a small integrated display foot. Unlike the old closed paired diving cylinders there are no domed bottle bottoms, paired tanks or top valves; unlike the footed laboratory cylinder there is no inner floor, pour lip or scale. Every visible part newly authored. One model zero scenes. Static illustrative empty exhibit only, not a usable Niskin bottle or working hinge/closure: no water collection, depth, pressure, sealing, fluid volume, deployment, scientific accuracy, manufacture, handling or safety claim. Rig animation interaction not made.",
+      "bounds": {
+        "x": 0.528000772,
+        "y": 0.689999998,
+        "z": 1.91871202,
+        "unit": "m"
+      },
+      "triangles": 1364,
+      "materials": 4,
+      "files": {
+        "glb": {
+          "path": "assets/underwater/underwater-fixed-double-open-end-cap-and-spine-sampling-cylinder-01/v1.0.0/model.glb",
+          "size": 68296,
+          "sha256": "b8fe08b154492a37ccfbf519793df247ae23a00634d6c6794f238f28cf499b59"
+        },
+        "blend": {
+          "path": "assets/underwater/underwater-fixed-double-open-end-cap-and-spine-sampling-cylinder-01/v1.0.0/source.blend",
+          "size": 633804,
+          "sha256": "e45067ae3cf7dd205166e17bc43a9865a40b7ef01780e58959ef6af1b1ae0db5"
+        },
+        "generator": {
+          "path": "assets/underwater/underwater-fixed-double-open-end-cap-and-spine-sampling-cylinder-01/v1.0.0/generate.py",
+          "size": 30757,
+          "sha256": "8e63634dc1c4845e6bfacc3f065cda59af596a5e4aad02d8bc77c4859f061282"
+        },
+        "render": {
+          "path": "assets/underwater/underwater-fixed-double-open-end-cap-and-spine-sampling-cylinder-01/v1.0.0/thumbnail.png",
+          "size": 474014,
+          "sha256": "8bc1152648c63dd3ab42b7be43dcc52e46b227a0c3aef7c7d6e52696b4b363e7"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1392-volume02-20261025"
     }
   ]
 }
