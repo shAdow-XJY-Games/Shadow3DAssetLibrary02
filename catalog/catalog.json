@@ -1674,6 +1674,11 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary02",
       "commit": "5f86ce42729cbbf4af25929cedc755b25017bebf"
+    },
+    "original-qualified-batch-1313-volume02-20261025": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary02",
+      "commit": "0e549e682fe993891d10c43a061eb580d35b4d07"
     }
   },
   "assets": [
@@ -58049,6 +58054,92 @@
       "status": "verified",
       "license": "All rights reserved",
       "sourceId": "original-qualified-batch-1311-volume02-20261025"
+    },
+    {
+      "id": "agriculture-fixed-front-roller-open-shoe-sod-cutting-frame-01",
+      "version": "1.0.0",
+      "category": "modular",
+      "assetKind": "prop",
+      "theme": "agriculture",
+      "style": "warm-handcrafted-village",
+      "title": "Fixed Front Roller and Open Shoe Sod Cutting Frame",
+      "description": "One newly authored whole hand-guided sod-cutting-frame-style static exterior. A single broad front roller on a transverse axle supports two side rails leading to a low whole U-section open shoe with a broad horizontal bottom and two vertical side cheeks. Two complete tall backward-bent handles root in the cheeks and join a full transverse upper grip; a broad transverse step bar spans the lower handle roots. The open shoe is not a shallow snow scoop, and there is no rotary reel, engine, hopper or side transport wheels. All geometry newly drawn, no old tool mesh imported. One model zero scenes. Blunt static art only; no cutting, depth setting, soil work, operation, fit, load or safety claim; animation and interaction not made.",
+      "bounds": {
+        "x": 0.699999988,
+        "y": 1.478999972,
+        "z": 1.034000039,
+        "unit": "m"
+      },
+      "triangles": 508,
+      "materials": 4,
+      "files": {
+        "glb": {
+          "path": "assets/agriculture/agriculture-fixed-front-roller-open-shoe-sod-cutting-frame-01/v1.0.0/model.glb",
+          "size": 31708,
+          "sha256": "2388681cea10eb9eb0566bdd5fd0fa6d28988f8e6d031b1dfdba91cf698c901e"
+        },
+        "blend": {
+          "path": "assets/agriculture/agriculture-fixed-front-roller-open-shoe-sod-cutting-frame-01/v1.0.0/source.blend",
+          "size": 577768,
+          "sha256": "abf172c8fd9465af5f0f39c3627a992edca8215e0ce464423252c5bf4b94dae1"
+        },
+        "generator": {
+          "path": "assets/agriculture/agriculture-fixed-front-roller-open-shoe-sod-cutting-frame-01/v1.0.0/generate.py",
+          "size": 29223,
+          "sha256": "c6889aaa5a992c8e1a95543d1ea3a8df3daffcc633d18d38e5afdebd5b938dc6"
+        },
+        "render": {
+          "path": "assets/agriculture/agriculture-fixed-front-roller-open-shoe-sod-cutting-frame-01/v1.0.0/thumbnail.png",
+          "size": 494969,
+          "sha256": "284d6475705cb1bc61f749f1ec18b6af2b713b0b15080121ba7ff3d31cb57f2d"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1313-volume02-20261025"
+    },
+    {
+      "id": "retail-fixed-circular-feed-and-radial-cup-coin-sorter-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "retail",
+      "style": "source-preserved-low-poly",
+      "title": "Fixed Circular Feed and Radial Cup Coin Sorter",
+      "description": "One newly authored complete fixed tabletop coin-sorter-style exterior. A broad low ground base carries a full central round closed mechanism housing and a genuinely empty shallow circular loading bowl. Five separate thick open receiving cups rest on the common base around its front half, each below a whole downward inclined short U channel rooted in the case. One small complete blank side control dial is seated into the round case. Unlike the old note counter with paired cheeks, transverse feed rollers and a lowered rectangular stacking tray, the complete layout is vertical circular loading over a radial set of separated cup receivers. Unlike the old tall token cabinet with independent blind input and single scoop, there is no payment slot, tall cabinet or claimed dispensing route. All numeric geometry newly authored, no imported components. Three opaque constant PBR roles, metres Z up, whole ground-centred origin, one model zero scenes. Empty static exterior only: bowl and channels terminate at the closed housing, no continuous internal sorting path is modeled or claimed. No coins, currency, denomination, counting, authentication, rotation, sorting accuracy, motor, electronics, payments, security, adjustment, manufacture or operating safety capability. Rigging animation interaction not made.",
+      "bounds": {
+        "x": 0.5299999713897705,
+        "y": 0.5299999713897705,
+        "z": 0.30399999022483826,
+        "unit": "m"
+      },
+      "triangles": 3416,
+      "materials": 3,
+      "files": {
+        "glb": {
+          "path": "assets/retail/retail-fixed-circular-feed-and-radial-cup-coin-sorter-01/v1.0.0/model.glb",
+          "size": 298076,
+          "sha256": "8e3e1a89f234e1226f015300afd500f970afbe535ba027a2fbeba1165def3817"
+        },
+        "blend": {
+          "path": "assets/retail/retail-fixed-circular-feed-and-radial-cup-coin-sorter-01/v1.0.0/source.blend",
+          "size": 981152,
+          "sha256": "39457457e08be38d63b45ace372cb97a2e143ef0c678fc07893f13fcb1ef0c32"
+        },
+        "generator": {
+          "path": "assets/retail/retail-fixed-circular-feed-and-radial-cup-coin-sorter-01/v1.0.0/generate.py",
+          "size": 15820,
+          "sha256": "32b50323f4d3a2321e34f6991cf9d82a4344a5dfd5e0be98e13fc8358abd4ee7"
+        },
+        "render": {
+          "path": "assets/retail/retail-fixed-circular-feed-and-radial-cup-coin-sorter-01/v1.0.0/thumbnail.png",
+          "size": 533399,
+          "sha256": "b21e9799e576b344dcd9c0abcc2228f2b280cc88614c161241069397bc845561"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1313-volume02-20261025"
     }
   ]
 }
