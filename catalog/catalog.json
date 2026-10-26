@@ -1839,6 +1839,11 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary02",
       "commit": "3a9db93fbf267030ce6f39e4e12ca55386bd1c04"
+    },
+    "original-qualified-batch-1397-volume02-20261025": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary02",
+      "commit": "ebdab9a2a7f3523a405f84c2d6bbc6b84962aeee"
     }
   },
   "assets": [
@@ -61783,6 +61788,135 @@
       "status": "verified",
       "license": "All rights reserved",
       "sourceId": "original-qualified-batch-1394-volume02-20261025"
+    },
+    {
+      "id": "animal-static-low-shield-and-spade-forelimb-mole-cricket-01",
+      "version": "1.0.0",
+      "category": "modular",
+      "assetKind": "prop",
+      "theme": "animal",
+      "style": "warm-handcrafted-village",
+      "title": "Static Low Shield and Spade Forelimb Mole Cricket",
+      "description": "One complete newly authored low stout mole-cricket-like insect: short broad pronotal shield, small forward head with two fine long antennae, paired whole outward four-toothed spade forelimbs, four slender grounded walking legs, narrow folded wings and two short rear cerci. Not a jumping grasshopper or raised folded raptorial mantis. Static illustrative exterior only, not exact taxonomy, digging, gait, rigging, animation or biological accuracy.",
+      "bounds": {
+        "x": 1.320000052,
+        "y": 2.368999958,
+        "z": 0.560000002,
+        "unit": "m"
+      },
+      "triangles": 1324,
+      "materials": 4,
+      "files": {
+        "glb": {
+          "path": "assets/animal/animal-static-low-shield-and-spade-forelimb-mole-cricket-01/v1.0.0/model.glb",
+          "size": 78324,
+          "sha256": "7e53225283974629f6e5f80464453e40dc629881261281707083ec93f30af801"
+        },
+        "blend": {
+          "path": "assets/animal/animal-static-low-shield-and-spade-forelimb-mole-cricket-01/v1.0.0/source.blend",
+          "size": 637528,
+          "sha256": "d5039e9fb261e752263ff2783a4a0b3d29bdb7949bd5b786f88bc5dc26dab041"
+        },
+        "generator": {
+          "path": "assets/animal/animal-static-low-shield-and-spade-forelimb-mole-cricket-01/v1.0.0/generate.py",
+          "size": 29740,
+          "sha256": "af4aca23a489a3b7cf52e2aa3e842a05c18562beb610ea5446c327a94d4f6455"
+        },
+        "render": {
+          "path": "assets/animal/animal-static-low-shield-and-spade-forelimb-mole-cricket-01/v1.0.0/thumbnail.png",
+          "size": 485257,
+          "sha256": "137ee91e8903d4d4d28bbdfb636f879ee72cf3446e6cf8de45a2a0b993150835"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1397-volume02-20261025"
+    },
+    {
+      "id": "baggage-fixed-inclined-slat-and-closed-plan-reclaim-ring-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "baggage",
+      "style": "S01-clean-geometric",
+      "title": "Fixed Inclined Slat and Closed Plan Reclaim Ring",
+      "description": "One newly authored complete empty inclined-slat baggage-reclaim ring in a fixed static pose. A whole low racetrack-plan annular plinth retains a genuine open central well, carrying complete closed inner and outer support rails. Seventy-two independent thick plates form the entire outward-descending annular deck: straight-run plates and genuine fan-shaped end plates follow one closed horizontal route, with visible small fixed gaps. The inner edge is higher than the outer pickup edge; a continuous high inner guard and low outer lip belong to the same full apparatus. Unlike the old quarter-turn module this is not a set of radial cylindrical rollers on two terminal mouths, and unlike the short capsule belt terminal this has no vertical top/return belt wrapped around two transverse drums. It is not made by joining old conveyor modules: every plate, entire plan annulus, rail and ground shell is newly authored. The lower shell is intentionally closed and no internal drive or return chain is represented. Four opaque untextured PBR materials, metres Z up and actual horizontal bounds-centred ground datum. One complete empty public-facility prop zero scenes. Static visual layout only; no bag, movement, drive, conveying path validity, slat articulation, installation, load, user clearance, maintenance, airport operation, ergonomic suitability or safety performance. Rigging animation interaction not made.",
+      "bounds": {
+        "x": 4.292,
+        "y": 2.092,
+        "z": 0.9,
+        "unit": "m"
+      },
+      "triangles": 3744,
+      "materials": 4,
+      "files": {
+        "glb": {
+          "path": "assets/baggage/baggage-fixed-inclined-slat-and-closed-plan-reclaim-ring-01/v1.0.0/model.glb",
+          "size": 191720,
+          "sha256": "071db15c02354d2a7bbb19ddccbd02aa8931bfce87aaecd6192cd8c2239a060f"
+        },
+        "blend": {
+          "path": "assets/baggage/baggage-fixed-inclined-slat-and-closed-plan-reclaim-ring-01/v1.0.0/source.blend",
+          "size": 1099164,
+          "sha256": "890b63af9ef2b9055d8d2f7410960c591be50982d268fc25cbed5077076b6e03"
+        },
+        "generator": {
+          "path": "assets/baggage/baggage-fixed-inclined-slat-and-closed-plan-reclaim-ring-01/v1.0.0/generate.py",
+          "size": 11341,
+          "sha256": "2b9f1be6304ac9ca066eec354c04e866da6f4f0722e508c3353d491da8987e77"
+        },
+        "render": {
+          "path": "assets/baggage/baggage-fixed-inclined-slat-and-closed-plan-reclaim-ring-01/v1.0.0/thumbnail.png",
+          "size": 380680,
+          "sha256": "abde0451c63f119e74cd6e47a91de516ddb6a673dc9ae8556730c7508951a90c"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1397-volume02-20261025"
+    },
+    {
+      "id": "public-fixed-opposed-shoulders-and-open-sided-hand-bay-unit-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "public",
+      "style": "source-preserved-low-poly",
+      "title": "Fixed Opposed Shoulders and Open Sided Hand Bay Unit",
+      "description": "One wholly newly authored complete hands-in-dryer-style appliance exterior in a fixed empty standing presentation. A single continuous tall body grows into two unequal-height opposed thick upper shoulders, leaving a genuine deep top-open and both-side-open hand bay between them. Its continuous bottom closes the bay above the lower body; a whole shallow collecting-tray appearance sits in that bottom. Each opposing shoulder carries one complete long recessed slot rail facing inward. A plain proud lower service-panel appearance and a small blank upper indicator complete the unit. Unlike the complete shoe-polisher low front bay with transverse brush rolls, this has no roof, brushes or foot mat; unlike the inverted-bottle cabinet, it has no upper reservoir, taps or front-only cup alcove. The complete crosswise open upper bay is newly authored as one connected thick body, not an old cabinet with its accessories removed. Three opaque constant PBR roles, metres Z up and complete centred ground datum, one model zero scenes. No hands or water. Static artistic appliance exterior only: no air supply, drying, hygiene, sanitization, sensors, plumbing, human fit, electrical function, installation, manufacture or safe use capability. Rigging animation interaction not made.",
+      "bounds": {
+        "x": 0.3100000023841858,
+        "y": 0.2639999985694885,
+        "z": 0.7799999713897705,
+        "unit": "m"
+      },
+      "triangles": 424,
+      "materials": 3,
+      "files": {
+        "glb": {
+          "path": "assets/public/public-fixed-opposed-shoulders-and-open-sided-hand-bay-unit-01/v1.0.0/model.glb",
+          "size": 40280,
+          "sha256": "6cbb18a519f521f27941e8b4bb0cd24bbf5749a0d2df90ca94702cef1a85c9f9"
+        },
+        "blend": {
+          "path": "assets/public/public-fixed-opposed-shoulders-and-open-sided-hand-bay-unit-01/v1.0.0/source.blend",
+          "size": 608416,
+          "sha256": "7b9df30a22aacec2f81ebe134bba4322f9f5ea72a0edcca1691b0cc9aa842405"
+        },
+        "generator": {
+          "path": "assets/public/public-fixed-opposed-shoulders-and-open-sided-hand-bay-unit-01/v1.0.0/generate.py",
+          "size": 16624,
+          "sha256": "8efce1430b50994cc80b5871d339fd1a3726fc7598a59ef39c719b2a3638014f"
+        },
+        "render": {
+          "path": "assets/public/public-fixed-opposed-shoulders-and-open-sided-hand-bay-unit-01/v1.0.0/thumbnail.png",
+          "size": 477264,
+          "sha256": "f2090cd46ac72da2fcb4d395ddc8275b600599412af650f901554b5127bfdccf"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1397-volume02-20261025"
     }
   ]
 }
