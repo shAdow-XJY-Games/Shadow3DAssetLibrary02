@@ -1,0 +1,42 @@
+{
+  "id": "forestry-fixed-side-feed-and-high-elbow-wheeled-chipper-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "forestry",
+  "style": "source-preserved-low-poly",
+  "title": "Fixed Side Feed and High Elbow Wheeled Chipper",
+  "description": "One newly authored complete fixed small wheeled wood-chipper-style exterior. A common low steel-look frame on two complete wheels and a broad front parking foot carries a transverse round closed chamber. A full thick rectangular tapered loading hopper extends obliquely forward and upward into that case. A separate continuous thick rectangular discharge duct rises from the opposite upper case and bends rearward to a genuinely open mouth. A full lateral motor-shaped casing and lower motor seat belong to the same chassis. This is not the old timber hand-crank winnower resized: there is no upper vertical loading hopper, low descending grain trough or hand crank. The new low two-wheel chassis, long lateral feed throat and opposed high elbow duct define the complete organization. Unlike the backframe blower it has no shoulder loops, wearable plate, flexible hose or forward hand nozzle. All geometry newly authored; three opaque solid PBR roles, one whole model zero scenes, metre Z-up ground-centred datum. Hopper and duct have their own genuine wall-bounded open sections but both terminate at the closed chamber; no connected material or air path through the machine is claimed. Empty fixed illustrative exterior only: no branches, cutting blades, internal rotor, shredding, feeding, discharge, motor, power, emissions, wheel movement, towing compatibility, fabrication, guarding, operation or safety capability. Rigging animation interaction not made.",
+  "bounds": {
+    "x": 0.765999972820282,
+    "y": 1.2642196416854858,
+    "z": 1.183100700378418,
+    "unit": "m"
+  },
+  "triangles": 1992,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/forestry/forestry-fixed-side-feed-and-high-elbow-wheeled-chipper-01/v1.0.0/model.glb",
+      "size": 180104,
+      "sha256": "af17f2be76730353499a129d41fdedbcc1728648134eeac9dacf60e88926c260"
+    },
+    "blend": {
+      "path": "assets/forestry/forestry-fixed-side-feed-and-high-elbow-wheeled-chipper-01/v1.0.0/source.blend",
+      "size": 835776,
+      "sha256": "0ee36a118356ccace9f32e58871411d76c7ffe6afa46d1ecfbc818316e020a73"
+    },
+    "generator": {
+      "path": "assets/forestry/forestry-fixed-side-feed-and-high-elbow-wheeled-chipper-01/v1.0.0/generate.py",
+      "size": 17805,
+      "sha256": "1cf7e420b12f551b7e9d8e1cd84ab7754cf1a28618cc762e986e76586e3edcae"
+    },
+    "render": {
+      "path": "assets/forestry/forestry-fixed-side-feed-and-high-elbow-wheeled-chipper-01/v1.0.0/thumbnail.png",
+      "size": 515719,
+      "sha256": "cc243cc2d6ec5f7e2fcf7d84fda957f1e55564374f19dc34d21a42793dfdbc91"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
