@@ -1,0 +1,42 @@
+{
+  "id": "laboratory-fixed-inclined-flask-head-and-empty-bath-apparatus-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "laboratory",
+  "style": "source-preserved-low-poly",
+  "title": "Fixed Inclined Flask Head and Empty Bath Apparatus",
+  "description": "One newly authored complete rotary-evaporator-inspired static apparatus exterior. A broad low base carries a tall offset guide column, a full enclosing carriage and inclined cylindrical head. One continuous opaque neck-and-round-flask silhouette projects diagonally down from that head and hangs over a separate genuinely open empty circular bath. A tall side jacket appearance with real open top annulus and central tube is held by two entire support reaches; its lower angled branch terminates in a separate small hanging receiver-flask exterior. The shared support frame, oblique head/flask over independent bath and side vertical jacket/receiver form one complete apparatus, not the old coaxial stacked-bulb vessel changed in size or the side-return extraction chamber rearranged. No old visible mesh or flask is imported. Three opaque constant PBR roles, metres native Z up and whole horizontal envelope centred at its lowest base. The two flask shapes are deliberately solid opaque exterior silhouettes, not transparent glass or inspected inner cavities; only the bath and top jacket mouth have declared geometric openings. Fixed dry artistic appearance only, not equipment design, assembly or use instructions. No substances, liquid, vacuum, distillation, evaporation, condensation, pressure, temperature, heating, rotation, lifting, seals, validated fluid connections, electrical operation, chemical compatibility, manufacture, structural stability or laboratory safety capability. Rigging animation interaction not made.",
+  "bounds": {
+    "x": 0.8799999952316284,
+    "y": 0.503000020980835,
+    "z": 1.2549999952316284,
+    "unit": "m"
+  },
+  "triangles": 4072,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/laboratory/laboratory-fixed-inclined-flask-head-and-empty-bath-apparatus-01/v1.0.0/model.glb",
+      "size": 357164,
+      "sha256": "eb9dcb332429938a8ca6ac3ae3e21b9e212d5500d3410c20b2ec9ef1e855c94a"
+    },
+    "blend": {
+      "path": "assets/laboratory/laboratory-fixed-inclined-flask-head-and-empty-bath-apparatus-01/v1.0.0/source.blend",
+      "size": 1082848,
+      "sha256": "2d23d98068c891a59409f07c0653b439815f7434b520de9f28ae0bc5498b66ed"
+    },
+    "generator": {
+      "path": "assets/laboratory/laboratory-fixed-inclined-flask-head-and-empty-bath-apparatus-01/v1.0.0/generate.py",
+      "size": 17757,
+      "sha256": "d8952c976c66ed7186f12b15f54cf925d7cbc88b1b5d702f7350efe2cf9915ff"
+    },
+    "render": {
+      "path": "assets/laboratory/laboratory-fixed-inclined-flask-head-and-empty-bath-apparatus-01/v1.0.0/thumbnail.png",
+      "size": 477360,
+      "sha256": "e3d60e2142d8e4a4a77bbc16d2d57b457c6d74e2ef6aab28cf93229a59a2be46"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

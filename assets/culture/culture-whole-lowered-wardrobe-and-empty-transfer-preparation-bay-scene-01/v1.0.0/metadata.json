@@ -1,0 +1,42 @@
+{
+  "id": "culture-whole-lowered-wardrobe-and-empty-transfer-preparation-bay-scene-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "culture",
+  "style": "source-preserved-low-poly",
+  "title": "Whole Lowered Wardrobe and Empty Transfer Preparation Bay",
+  "description": "One static backstage wardrobe and equipment preparation bay, one scene and zero new independent models. Three complete previously qualified originals retain every mesh, buffer, normal, opaque PBR material and internal hierarchy at original unit scale: an open wardrobe with its complete lowered fourbar rail at rear left, a whole upright garment steamer at rear right, and an empty arched platform luggage trolley at front right. The lowered rail projects toward the open central floor; the trolley is independently parked, not loaded or attached to either appliance. Only a common low floor slab is newly authored scene architecture. Unlike the sample/mirror/hanger fitting corner and folding-table/ironer/table-supported-basket scene, this is an empty wardrobe-access and separate transfer-equipment grouping. No clothes, people, performed work, steaming, transport, load fit, accessible reach, passage certification, equipment compatibility or safety capability. No animation, rigging or interaction made.",
+  "bounds": {
+    "x": 3.200000047683716,
+    "y": 3.200000047683716,
+    "z": 2.0899999141693115,
+    "unit": "m"
+  },
+  "triangles": 6604,
+  "materials": 12,
+  "files": {
+    "glb": {
+      "path": "assets/culture/culture-whole-lowered-wardrobe-and-empty-transfer-preparation-bay-scene-01/v1.0.0/model.glb",
+      "size": 296216,
+      "sha256": "fbf6ef8dfdd277b638b057c393e9bff2844ee33321cc3bc5ee07c52c0f41d561"
+    },
+    "blend": {
+      "path": "assets/culture/culture-whole-lowered-wardrobe-and-empty-transfer-preparation-bay-scene-01/v1.0.0/source.blend",
+      "size": 1552872,
+      "sha256": "8e812dc5cee4e2856813f2ea5d79c14587d9919798a5bbd699980631363b2ff0"
+    },
+    "generator": {
+      "path": "assets/culture/culture-whole-lowered-wardrobe-and-empty-transfer-preparation-bay-scene-01/v1.0.0/generate.py",
+      "size": 108420,
+      "sha256": "b418ce3bff283da2dda67d1683b20ec88cfdd380be248c565f8e0aa211029231"
+    },
+    "render": {
+      "path": "assets/culture/culture-whole-lowered-wardrobe-and-empty-transfer-preparation-bay-scene-01/v1.0.0/thumbnail.png",
+      "size": 547971,
+      "sha256": "2e474014811e23f7ebce2d3a9efa9d17e791a4b01b661958be090a153814c33b"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

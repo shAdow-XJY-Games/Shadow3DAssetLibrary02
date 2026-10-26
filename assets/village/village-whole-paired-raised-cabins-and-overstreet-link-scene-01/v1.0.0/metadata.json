@@ -1,0 +1,42 @@
+{
+  "id": "village-whole-paired-raised-cabins-and-overstreet-link-scene-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "village",
+  "style": "source-preserved-low-poly",
+  "title": "Whole Paired Raised Cabins And Overstreet Link",
+  "description": "One static architectural connection scene, one scene and zero new independent models. Two entire original raised window-cabin towers retain their full returning stairs, platforms, braced posts, roofs and original PBR at unit scale. One whole instance is turned exactly180 degrees; no mesh is cut or rail removed. A newly authored elevated deck connects the two genuinely unrailed outer landing edges at their shared level, with two complete guard sides, underside girders and four grounded supports. A distinct lower pale lane passes beneath the middle of that span, leaving visible above/below circulation layers rather than a single-plane rearrangement. Both entire old tower stair envelopes remain outside the central lane. Unlike the old watch/rest court there are no gabion threshold or resting cot; unlike the slatted shade court, the upper link is a distinct occupied-looking floor between whole elevated cabins, not just overhead roof shading. Empty fixed artistic layout only. No people, load path validation, structural or building-code design, route navigation, human access, egress, surveillance, defensive or safety performance. No rigging animation or interaction made.",
+  "bounds": {
+    "x": 13.0,
+    "y": 7.599999904632568,
+    "z": 6.179999828338623,
+    "unit": "m"
+  },
+  "triangles": 3628,
+  "materials": 9,
+  "files": {
+    "glb": {
+      "path": "assets/village/village-whole-paired-raised-cabins-and-overstreet-link-scene-01/v1.0.0/model.glb",
+      "size": 257476,
+      "sha256": "cee977b3c46cd902fb560ddaef0cbc11d7797fd72dc42d65b566031616e1e0b1"
+    },
+    "blend": {
+      "path": "assets/village/village-whole-paired-raised-cabins-and-overstreet-link-scene-01/v1.0.0/source.blend",
+      "size": 1730212,
+      "sha256": "567c741133b25b71ab3a3d352a8e599458327fa00afce90b3c3934a297aa9159"
+    },
+    "generator": {
+      "path": "assets/village/village-whole-paired-raised-cabins-and-overstreet-link-scene-01/v1.0.0/generate.py",
+      "size": 56781,
+      "sha256": "f502f1e2f8c98172d7c346101873d100586660c455784899712ee4e137eac9df"
+    },
+    "render": {
+      "path": "assets/village/village-whole-paired-raised-cabins-and-overstreet-link-scene-01/v1.0.0/thumbnail.png",
+      "size": 551288,
+      "sha256": "8899040a43e5b73ce6fd581e10def94d6e22efe83b08a07532fc8e17c4ac4b77"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

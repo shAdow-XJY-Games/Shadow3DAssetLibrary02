@@ -1,0 +1,42 @@
+{
+  "id": "nature-whole-open-threshold-and-horseshoe-tarn-basin-01",
+  "version": "1.0.0",
+  "category": "modular",
+  "assetKind": "prop",
+  "theme": "nature",
+  "style": "warm-handcrafted-village",
+  "title": "Whole Open Threshold and Horseshoe Tarn Basin",
+  "description": "One newly authored whole stylised cirque-like terrain: unequal high rear and side horseshoe rock walls enclose an elongated low basin, while the foreground remains a broad low threshold with an outward descending shallow outlet. One complete opaque shallow tarn volume sits into the actual basin floor. Unlike a localized deep crater at the top of a positive conical mountain, this is an open-front basin at the foot of the rear headwall; unlike a through dry ravine it closes at the rear and opens into a broad interior. Entire terrain and water coordinates newly drawn; no old cliff or volcano mesh reused. One terrain model zero scenes. Four opaque untextured PBR colours. No real location, glacial history, geology, hydrology, water flow, terrain navigation, climbing, collision, erosion or safety claim. Animation and simulation not made.",
+  "bounds": {
+    "x": 5.798155308,
+    "y": 6.199999809,
+    "z": 2.85514307,
+    "unit": "m"
+  },
+  "triangles": 1488,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/nature/nature-whole-open-threshold-and-horseshoe-tarn-basin-01/v1.0.0/model.glb",
+      "size": 101692,
+      "sha256": "652c10582ea5af7b1e2bc490d5d23d09bb61d4ee81d99dbed8dec7716d25ec74"
+    },
+    "blend": {
+      "path": "assets/nature/nature-whole-open-threshold-and-horseshoe-tarn-basin-01/v1.0.0/source.blend",
+      "size": 598688,
+      "sha256": "89b4f127683f2b50a61d4993a6311c8eb388605787092fffb4fe33a4a189301a"
+    },
+    "generator": {
+      "path": "assets/nature/nature-whole-open-threshold-and-horseshoe-tarn-basin-01/v1.0.0/generate.py",
+      "size": 29345,
+      "sha256": "f6730cfa889b0a74c344fad0930b3191a24307150005246de338597aa8691f51"
+    },
+    "render": {
+      "path": "assets/nature/nature-whole-open-threshold-and-horseshoe-tarn-basin-01/v1.0.0/thumbnail.png",
+      "size": 507556,
+      "sha256": "b0f8b8e5ae003320a04c4d7b37fb5c4452cb142213dadb66be73a344de38b299"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

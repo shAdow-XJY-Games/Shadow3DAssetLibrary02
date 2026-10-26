@@ -1,0 +1,42 @@
+{
+  "id": "ceramics-whole-corner-shelf-and-clay-chest-display-bay-scene-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "ceramics",
+  "style": "source-preserved-low-poly",
+  "title": "Whole Corner Shelf and Clay Chest Display Bay",
+  "description": "One static ceramics storage and display bay, one scene and zero new independent models. The complete three-post two-level triangular shelf supports the complete open jar and inverted lid set on its upper finite shelf. The lid is not separated, rearranged or newly counted. Beside the shelf, an entire twin-track clay-storage chest remains empty in its original partly retracted cover pose, independently grounded. All three original GLBs retain every mesh, opaque PBR, buffer, normal and internal hierarchy at original unit scale, under whole-instance translation only. A low common slab is scene-only. This is a pottery shelf-display and separate material-container grouping, not the old turntable bench with an amphora under working preparation or honey tank beside a jar-bearing rectangular table. No material, liquid, fire, people, drying, firing, storage preservation, mechanism movement, load rating, vessel fit certification, human access, installation or safety capability. Rigging animation and interaction not made.",
+  "bounds": {
+    "x": 3.200000047683716,
+    "y": 3.200000047683716,
+    "z": 2.2699999809265137,
+    "unit": "m"
+  },
+  "triangles": 3820,
+  "materials": 11,
+  "files": {
+    "glb": {
+      "path": "assets/ceramics/ceramics-whole-corner-shelf-and-clay-chest-display-bay-scene-01/v1.0.0/model.glb",
+      "size": 216832,
+      "sha256": "ca4cf60f57a787c620b487a48c0beb7f843dcaabe788da953d6cf03212cb8e04"
+    },
+    "blend": {
+      "path": "assets/ceramics/ceramics-whole-corner-shelf-and-clay-chest-display-bay-scene-01/v1.0.0/source.blend",
+      "size": 1210780,
+      "sha256": "ee5c09ab1beb95ab348889b258489d218ebdf6f439d5e8d920cccb972d9f3eaa"
+    },
+    "generator": {
+      "path": "assets/ceramics/ceramics-whole-corner-shelf-and-clay-chest-display-bay-scene-01/v1.0.0/generate.py",
+      "size": 110725,
+      "sha256": "450626bdeae7e56c1831c9c839de582c26b1778b5f7c7436f074e96833acf58d"
+    },
+    "render": {
+      "path": "assets/ceramics/ceramics-whole-corner-shelf-and-clay-chest-display-bay-scene-01/v1.0.0/thumbnail.png",
+      "size": 517785,
+      "sha256": "b99b60128f102aff069397fb01446ea62665ed4d2a1f476df465264ddf5dc54f"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

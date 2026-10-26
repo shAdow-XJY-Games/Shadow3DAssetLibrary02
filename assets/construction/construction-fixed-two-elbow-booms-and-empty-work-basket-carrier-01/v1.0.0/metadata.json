@@ -1,0 +1,42 @@
+{
+  "id": "construction-fixed-two-elbow-booms-and-empty-work-basket-carrier-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "construction",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Two Elbow Booms and Empty Work Basket Carrier",
+  "description": "One wholly newly authored complete articulated-boom-platform-style static exterior: a compact short chamfered carrier on four complete annular wheels supports a low fixed pedestal and single closed upper counterweight/power cover. A whole lower arm rises rearward to a high full elbow pin; a separate whole upper arm reverses forward into an independent wrist pin and short integral platform-floor carrier. Separate complete fixed cylinder-and-rod exteriors meet the two arm bodies at their declared roots. A complete empty work basket has one entire floor, four integral corner posts and two open rail levels; its full blank control pod joins the rear rail. This is not the previous carrier with upper cab, three nested hollow straight box-boom sleeves, outriggers and line-suspended hook; there is no cab or suspended load. It is also not the grounded scissor table with two crossing arm pairs and a vertically aligned deck. Full compact turntable body, articulated reverse-reaching two-arm chain, wrist and directly supported empty cage are authored as one new whole exterior. No old vehicle, boom, cage or component mesh imported. One model zero scenes, four opaque constant untextured PBR appearances, metres native Z up and complete horizontal bounds centred over the tyre sole datum. Fixed simplified art only: no working hydraulics, powertrain, articulated travel or clearance, levelling, slew, rolling, steering, access, operator fit, people support, capacity, balance, terrain capability, load, manufacture, operation, machinery/occupational or vehicle safety performance. Rigging animation interaction not made.",
+  "bounds": {
+    "x": 1.892,
+    "y": 3.45,
+    "z": 4.06,
+    "unit": "m"
+  },
+  "triangles": 2680,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/construction/construction-fixed-two-elbow-booms-and-empty-work-basket-carrier-01/v1.0.0/model.glb",
+      "size": 124400,
+      "sha256": "bf9e1f0219732a7587ab0f7b504303a6f6e83816916a8d55693f2e37289f262e"
+    },
+    "blend": {
+      "path": "assets/construction/construction-fixed-two-elbow-booms-and-empty-work-basket-carrier-01/v1.0.0/source.blend",
+      "size": 797640,
+      "sha256": "3ec776727709920e44a4c58a9617f2553068f98249617a7c2be69fe905f893a9"
+    },
+    "generator": {
+      "path": "assets/construction/construction-fixed-two-elbow-booms-and-empty-work-basket-carrier-01/v1.0.0/generate.py",
+      "size": 28832,
+      "sha256": "b205f989afc6be10a6a88625ab8f9d2c746a3924fcb8a3fffc5a533ea8bfd662"
+    },
+    "render": {
+      "path": "assets/construction/construction-fixed-two-elbow-booms-and-empty-work-basket-carrier-01/v1.0.0/thumbnail.png",
+      "size": 552986,
+      "sha256": "6f72f6d67687c84c70c61684b228c04e7331f21fe831be2095e5c162c1833a53"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

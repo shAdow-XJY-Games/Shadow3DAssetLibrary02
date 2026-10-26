@@ -1,0 +1,42 @@
+{
+  "id": "education-fixed-transverse-rod-array-and-continuous-shaft-display-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "education",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Transverse Rod Array and Continuous Shaft Display",
+  "description": "One newly authored whole static transverse-rod display. Two broad cross feet and tall end pedestals join one low long tie and one continuous fine horizontal central shaft. Twenty-five entire long transverse rods root along this single shaft at deliberately different fixed angles, producing opposing rising and falling tip contours. Each rod includes integral blunt enlarged end markers. The space below and between the rods is genuinely open. This is not the paired pierced guide plates and axial-depth pins of a pin screen, nor the two perpendicular weighted pendulums and articulated pen of a harmonograph. All whole coordinates newly authored; generic mesh/export helpers reused, no old model or extracted parts imported. One model, zero scenes. Four opaque constant untextured PBR materials, metres, centred ground datum. Shive-inspired static appearance only: no motion, torsional response, wave propagation, frequency, speed, calibration, experiment, teaching result, manufacture, stability, safety or operational claim. Rigging, animation and interaction not made.",
+  "bounds": {
+    "x": 2.83,
+    "y": 0.96,
+    "z": 0.849967,
+    "unit": "m"
+  },
+  "triangles": 3672,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/education/education-fixed-transverse-rod-array-and-continuous-shaft-display-01/v1.0.0/model.glb",
+      "size": 232680,
+      "sha256": "0f6b098ac44d07455ea49c4411b5f53968993f8f6035ffb45fc4225934416a77"
+    },
+    "blend": {
+      "path": "assets/education/education-fixed-transverse-rod-array-and-continuous-shaft-display-01/v1.0.0/source.blend",
+      "size": 873140,
+      "sha256": "ecc136fc994ac98332299b692c9731fd9d49bdecbc742ef17d8140d33d290e70"
+    },
+    "generator": {
+      "path": "assets/education/education-fixed-transverse-rod-array-and-continuous-shaft-display-01/v1.0.0/generate.py",
+      "size": 22400,
+      "sha256": "dab0708b2a06ac890bb015f7b3cd92f433c4e6d05c56e380f1fe6aeb9437700b"
+    },
+    "render": {
+      "path": "assets/education/education-fixed-transverse-rod-array-and-continuous-shaft-display-01/v1.0.0/thumbnail.png",
+      "size": 506179,
+      "sha256": "9224c54a6d9f50fc93e33e267b0adc28f306d38e49f3ccb288b3a83c176bff37"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
