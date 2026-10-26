@@ -1684,6 +1684,11 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary02",
       "commit": "0bc17a318cd2807e2d9b1f322a7024a728874098"
+    },
+    "original-qualified-batch-1316-volume02-20261025": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary02",
+      "commit": "c78f04c43c7b42df26e021cfa2160cb679dff31f"
     }
   },
   "assets": [
@@ -58188,6 +58193,92 @@
       "status": "verified",
       "license": "All rights reserved",
       "sourceId": "original-qualified-batch-1314-volume02-20261025"
+    },
+    {
+      "id": "professional-fixed-deep-rear-chamber-and-open-hopper-collection-truck-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "professional",
+      "style": "S01-clean-geometric",
+      "title": "Fixed Deep Rear Chamber and Open Hopper Collection Truck",
+      "description": "One wholly newly authored complete rear-loader-style collection vehicle exterior. A new long road chassis with three complete axles and six whole grounded tyre rings carries a low wide front cab with blank opaque windows. A separate fixed-level long thick arched collection shell has genuine inner walls, a closed front bulkhead and a deep rear opening. Two whole shaped rear cheeks, an upper curved cover and independent thick low scoop form an actual rear feeding cavity; a full blank inner plate and cross pin sit within it, and a complete upper cross-pivot exterior joins the receiver hood. This entire rear receiving organisation is not the offset-cab haul truck with its open tipped tub replaced, and not the compact road sweeper stripped of brushes: the whole body is new, no old chassis, cabin, bucket or tool meshes imported. One prop zero scenes, four opaque constant PBR roles, metres Z up and complete horizontal bounds centred over six real tyre facets. Fixed empty static art only. No people, waste, pressure, compaction system, actual material-flow process, hydraulic circuit, moving tailgate or plate, driving, lifting, steering, load, stability, manufacturing, sanitation, road or machinery safety performance. Rigging, animation and interaction not made or verified.",
+      "bounds": {
+        "x": 2.13,
+        "y": 5.92,
+        "z": 2.56,
+        "unit": "m"
+      },
+      "triangles": 2700,
+      "materials": 4,
+      "files": {
+        "glb": {
+          "path": "assets/professional/professional-fixed-deep-rear-chamber-and-open-hopper-collection-truck-01/v1.0.0/model.glb",
+          "size": 128856,
+          "sha256": "279ab2e111eed34e56494b2415ac0feffa5bc496a1b0a1f35f979960074cddf4"
+        },
+        "blend": {
+          "path": "assets/professional/professional-fixed-deep-rear-chamber-and-open-hopper-collection-truck-01/v1.0.0/source.blend",
+          "size": 814584,
+          "sha256": "d846ee532afe9b7d1b7cf991818d0924b195f5096d01349722b493d0eaeb6d3e"
+        },
+        "generator": {
+          "path": "assets/professional/professional-fixed-deep-rear-chamber-and-open-hopper-collection-truck-01/v1.0.0/generate.py",
+          "size": 28723,
+          "sha256": "841539e1b283183a5041b4d94fdd2fbab565c65e9fc86f728be666aa664ab531"
+        },
+        "render": {
+          "path": "assets/professional/professional-fixed-deep-rear-chamber-and-open-hopper-collection-truck-01/v1.0.0/thumbnail.png",
+          "size": 511157,
+          "sha256": "5b812c6612b87f44281bc80c779dff01277e3cd981d61ca48deb183690a41d8e"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1316-volume02-20261025"
+    },
+    {
+      "id": "village-whole-sunken-return-stairs-and-central-dry-well-01",
+      "version": "1.0.0",
+      "category": "architecture",
+      "assetKind": "modular",
+      "theme": "village",
+      "style": "S01-clean-geometric",
+      "title": "Whole Sunken Return Stairs and Central Dry Well",
+      "description": "One complete newly authored dry stepwell-like architectural module. A full thick square outer retaining enclosure surrounds a large open descending interior: an offset upper entry feeds a left straight stair down to a full rear landing; the opposite parallel stair returns toward the front at a lower level. A complete low perimeter walk surrounds a further recessed central square dry well floor. All retaining walls, full treads, landings, floor and lower gallery share one continuous closed material boundary without hidden internal cell faces or independent overlapping step blocks. The new whole subject is the retained below-rim descent and nested deep court/well, not a small cylindrical well with more stone courses, an old freestanding half-turn stair placed into a box, or the sloping covered cellar entry with its doors removed. All coordinates new and no old mesh imported. Three opaque stone PBR roles, metres Z-up, full square footprint centred over the lowest exterior underside. One architectural module zero scenes. Outside retaining faces deliberately exposed with no surrounding terrain; upper rim is an invented exterior grade appearance, not the preview-ground level. No water, pumping, groundwater, excavation design, accessible passage, building code, rail protection, load, historical site reconstruction, host fit or engineering/safety capability. Rigging animation interaction not made.",
+      "bounds": {
+        "x": 4.9,
+        "y": 4.9,
+        "z": 3.05,
+        "unit": "m"
+      },
+      "triangles": 4304,
+      "materials": 3,
+      "files": {
+        "glb": {
+          "path": "assets/village/village-whole-sunken-return-stairs-and-central-dry-well-01/v1.0.0/model.glb",
+          "size": 93792,
+          "sha256": "482d0965a352f82f6bdfbe859507aedf50c8e53fd3efa8ed78be6668e16fb4b6"
+        },
+        "blend": {
+          "path": "assets/village/village-whole-sunken-return-stairs-and-central-dry-well-01/v1.0.0/source.blend",
+          "size": 769752,
+          "sha256": "98212e55687f77da888848f8f91c5e7eff0a82c5d376ce85a38a766c737ee855"
+        },
+        "generator": {
+          "path": "assets/village/village-whole-sunken-return-stairs-and-central-dry-well-01/v1.0.0/generate.py",
+          "size": 11733,
+          "sha256": "3462b939185541102fe89cc6131bf14982914d3ac4d838a4e746e42ec92097af"
+        },
+        "render": {
+          "path": "assets/village/village-whole-sunken-return-stairs-and-central-dry-well-01/v1.0.0/thumbnail.png",
+          "size": 546075,
+          "sha256": "f1200daab89a7e4da7946a82466fd82d669a6f36a270e755ab95139afcebe0eb"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1316-volume02-20261025"
     }
   ]
 }
