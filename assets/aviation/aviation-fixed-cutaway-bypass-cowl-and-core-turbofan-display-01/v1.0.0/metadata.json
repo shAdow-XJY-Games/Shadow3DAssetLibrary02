@@ -1,0 +1,42 @@
+{
+  "id": "aviation-fixed-cutaway-bypass-cowl-and-core-turbofan-display-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "aviation",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Cutaway Bypass Cowl and Core Turbofan Display",
+  "description": "One newly authored complete static turbofan-style engine display on its own whole ground carrier. A full thick flared front intake annulus surrounds a blunt spinner and eighteen individually whole curved finite-thickness fan blades. Behind it, one much smaller complete stepped core extends into a long thin tail cone, while a separate long tapered thick cowl has a deliberate upper-near cutaway with real inner wall and full cut edges. This leaves a genuine annular gap around the core, crossed only by three fixed rear support struts; full case bands and an independent complete contracting rear nozzle finish the visible core/cowl organisation. Two whole lower crescent saddles and four complete legs root the assembly to a connected ground frame. Unlike the earlier short mine fan with a central motor and front grille, the new assembly has a complete long smaller coaxial core, surrounding bypass space and separate rear outlet/tail relation; unlike the radial-cylinder engine it has no external finned cylinders, heads, pushrod tubes or annular exhaust collector. All geometry new, not a fan housing elongated, repeated stage count or an imported engine mesh. Four opaque constant PBR appearances, metres Z up and horizontal-bounds-centred ground datum. One complete prop zero scenes, no aircraft. Static illustrative cutaway only; solid core internals and no functional compressor, combustion or turbine system. No blade aerodynamic specification, fuel, airflow, thermodynamics, rotation, power, thrust, performance, aircraft fit, manufacture, flight or equipment safety capability. Rigging animation and interaction not made.",
+  "bounds": {
+    "x": 1.99,
+    "y": 3.77,
+    "z": 2.345,
+    "unit": "m"
+  },
+  "triangles": 6288,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/aviation/aviation-fixed-cutaway-bypass-cowl-and-core-turbofan-display-01/v1.0.0/model.glb",
+      "size": 338968,
+      "sha256": "2da740544b0a8dd640e7e6caae6d11053f11461d37d7e93af746edf1156de3a2"
+    },
+    "blend": {
+      "path": "assets/aviation/aviation-fixed-cutaway-bypass-cowl-and-core-turbofan-display-01/v1.0.0/source.blend",
+      "size": 1040972,
+      "sha256": "e5193958c612baf3887f5ab27312f48784d3c2c25dd49242983c42d3bd3b1d65"
+    },
+    "generator": {
+      "path": "assets/aviation/aviation-fixed-cutaway-bypass-cowl-and-core-turbofan-display-01/v1.0.0/generate.py",
+      "size": 28976,
+      "sha256": "7e35048fa1972e0bd875a40277906e0447c60cf293d3234564783df5d6c040ee"
+    },
+    "render": {
+      "path": "assets/aviation/aviation-fixed-cutaway-bypass-cowl-and-core-turbofan-display-01/v1.0.0/thumbnail.png",
+      "size": 551725,
+      "sha256": "5ff9a7858572e6b2cc41b9b604d91fd04ecd7dcb2e226d140bf95d4a053f37ef"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

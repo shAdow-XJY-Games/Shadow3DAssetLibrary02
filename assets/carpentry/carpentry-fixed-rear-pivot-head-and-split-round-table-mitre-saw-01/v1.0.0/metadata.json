@@ -1,0 +1,42 @@
+{
+  "id": "carpentry-fixed-rear-pivot-head-and-split-round-table-mitre-saw-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "carpentry",
+  "style": "source-preserved-low-poly",
+  "title": "Fixed Rear Pivot Head and Split Round Table Mitre Saw",
+  "description": "One newly authored complete fixed raised-head mitre-saw-style exterior. A low wide grounded base with lateral support wings carries a circular central platform whose two entire top halves leave a real narrow recessed straight slot. Two full rear fence halves flank that slot. A compact rear upright and true bored paired ears carry one full transverse pin; a short upward-forward head arm connects that pin to the complete transverse motor case, blunt toothless disk, open-bottom upper hood and full raised handle loop. A fixed front adjustment-handle appearance belongs to the circular platform while the high grip belongs to the raised head. Unlike the old radial saw there is no high column, long overhead guide or wraparound sliding carriage, and unlike the hand circular saw there is no movable shoe/grip-only tool: the low platform, rear support/pivot and entire raised head form one newly authored apparatus. All geometry new, no old saw component imported. Three opaque solid PBR roles, one model zero scenes. The platform slot has a finite lower floor, not a through-cut claimed through the entire base. Empty static exterior only, no teeth/sharpened edge, workpiece, cutting, blade or table rotation, travel, angle setting/scale, guard movement, electrical, operation or safety capability. Rigging animation interaction not made.",
+  "bounds": {
+    "x": 0.7639999985694885,
+    "y": 0.6460000276565552,
+    "z": 0.5289999842643738,
+    "unit": "m"
+  },
+  "triangles": 2296,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/carpentry/carpentry-fixed-rear-pivot-head-and-split-round-table-mitre-saw-01/v1.0.0/model.glb",
+      "size": 211840,
+      "sha256": "33df26e6e1eb64898fbf82d01719091af494f92fc196ec8fc9667d902a0bd207"
+    },
+    "blend": {
+      "path": "assets/carpentry/carpentry-fixed-rear-pivot-head-and-split-round-table-mitre-saw-01/v1.0.0/source.blend",
+      "size": 916864,
+      "sha256": "433a68ee8f410b4e3311db37d5cbfb0fdc958ae02de36d90879aa9e760afcd77"
+    },
+    "generator": {
+      "path": "assets/carpentry/carpentry-fixed-rear-pivot-head-and-split-round-table-mitre-saw-01/v1.0.0/generate.py",
+      "size": 17679,
+      "sha256": "beba24d1853793d08f4217f53782c39c5b64b220497644bda7ac1618b96e845f"
+    },
+    "render": {
+      "path": "assets/carpentry/carpentry-fixed-rear-pivot-head-and-split-round-table-mitre-saw-01/v1.0.0/thumbnail.png",
+      "size": 484051,
+      "sha256": "64c1b55a3d210ea41da76a9e642d480260d4ca8fbbce8bd0f220352e13cf5822"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

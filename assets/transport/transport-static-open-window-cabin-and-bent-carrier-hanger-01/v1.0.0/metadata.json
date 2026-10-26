@@ -1,0 +1,42 @@
+{
+  "id": "transport-static-open-window-cabin-and-bent-carrier-hanger-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "transport",
+  "style": "S01-clean-geometric",
+  "title": "Static Open Window Cabin and Bent Carrier Hanger",
+  "description": "One wholly newly authored complete aerial-cabin-style static exterior. A single chamfered hollow lower pan has a true empty interior, integral floor and shaped skirt. Eight complete narrow pillars leave open unglazed window bays below a full closed faceted roof; two fixed internal low benches remain inside the pan. A whole thick offset bent suspension-hanger appearance roots into the roof and into a complete overhead double-cheek carrier, with two independently axled wheels whose circumferential grooves are real geometry and whose outer retainers are proud. This ground-resting display has no cable, station or external guide. Unlike the old elevated cage within a tall fixed guide tower and forward trough, the cabin carries its own upper bent hanger and travelling-carriage-style exterior; unlike a Ferris-wheel open tub, it has a full roof/window enclosure and no surrounding observation wheel. Every shell, post, hanger and wheel profile newly drawn, no extracted old cabin or wheel. Three opaque constant PBR roles, metres Z-up and complete horizontal bounds-centred ground origin. One whole static transport prop zero scenes. Unglazed windows are intentional open cutaway appearances, not transparent panes. No actual suspension, travel, cable fit, rotation, boarding, human fit, restraint, payload, manufacture, structural or passenger safety capability; rigging animation interaction not made.",
+  "bounds": {
+    "x": 1.5,
+    "y": 1.4649999999999999,
+    "z": 3.025,
+    "unit": "m"
+  },
+  "triangles": 1704,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/transport/transport-static-open-window-cabin-and-bent-carrier-hanger-01/v1.0.0/model.glb",
+      "size": 94792,
+      "sha256": "77179a769f68d3b2d78bacc4442c0559ed42fcb763f7805ec34cb04d55eb3fe3"
+    },
+    "blend": {
+      "path": "assets/transport/transport-static-open-window-cabin-and-bent-carrier-hanger-01/v1.0.0/source.blend",
+      "size": 719828,
+      "sha256": "2c3322f21261550faf72e4eaf85f94e7e28221443c54fdbd987d8024a4b6180a"
+    },
+    "generator": {
+      "path": "assets/transport/transport-static-open-window-cabin-and-bent-carrier-hanger-01/v1.0.0/generate.py",
+      "size": 12291,
+      "sha256": "1eea2d52377c5c89c12d89d7caf8e62b3adc48bb0f2261d586a8d82dd1508ff9"
+    },
+    "render": {
+      "path": "assets/transport/transport-static-open-window-cabin-and-bent-carrier-hanger-01/v1.0.0/thumbnail.png",
+      "size": 443151,
+      "sha256": "12d7439db1cd9ee66015ab9557e94dc786f38fb84f479fc4161a819ff7849b95"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

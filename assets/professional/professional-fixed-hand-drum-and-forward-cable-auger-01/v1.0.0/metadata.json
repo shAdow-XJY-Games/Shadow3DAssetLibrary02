@@ -1,0 +1,42 @@
+{
+  "id": "professional-fixed-hand-drum-and-forward-cable-auger-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "professional",
+  "style": "source-preserved-low-poly",
+  "title": "Fixed Hand Drum and Forward Cable Auger",
+  "description": "One newly authored complete static hand-drum drain-auger-style exterior. A full rounded deep horizontal drum body narrows continuously into a forward neck, with an independent complete lower pistol grip rooted in that neck. A true thick blind recessed outlet collar surrounds the short emerging capped flexible cable exterior; the assembly is not described as an unoccupied through bore. At the rear a full short coaxial spindle supports one entire offset crank and a separate projecting shaped crank grip. The large closed drum silhouette, forward narrowed outlet and lower grip are one handheld whole, not the old standing double-flange cable reel with an exposed winding or the open C-frame geared hand drill with a chuck. All numeric geometry newly authored; no old parts imported. Three opaque constant PBR roles, one model zero scenes. Drum interior and hidden mechanism are not modeled. Empty fixed static appearance only: no rotation, feed, drainage, cleaning, spring, pressure, cable compatibility, hand fit, electrical, operation or safety capability. Rigging animation interaction not made.",
+  "bounds": {
+    "x": 0.23800000548362732,
+    "y": 0.5874407887458801,
+    "z": 0.3370000123977661,
+    "unit": "m"
+  },
+  "triangles": 1488,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/professional/professional-fixed-hand-drum-and-forward-cable-auger-01/v1.0.0/model.glb",
+      "size": 131528,
+      "sha256": "0cb465c6e700c2796f33387e654f20ce429ea46e0713aac63dc6a8f3d39d6544"
+    },
+    "blend": {
+      "path": "assets/professional/professional-fixed-hand-drum-and-forward-cable-auger-01/v1.0.0/source.blend",
+      "size": 736992,
+      "sha256": "0179ce0901f97dfcc592dc6eef28fcd4638dae90d13eb4ff672ac00d5f80c1a7"
+    },
+    "generator": {
+      "path": "assets/professional/professional-fixed-hand-drum-and-forward-cable-auger-01/v1.0.0/generate.py",
+      "size": 15505,
+      "sha256": "769be00e6dc16a1bd02486ace1d39293e955b7cc929f18f3f3a86a819b6a9c6e"
+    },
+    "render": {
+      "path": "assets/professional/professional-fixed-hand-drum-and-forward-cable-auger-01/v1.0.0/thumbnail.png",
+      "size": 473442,
+      "sha256": "1b7ce50d4487817ac65f347b6e528d0e9f794598e8fee059ba357266844eb864"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

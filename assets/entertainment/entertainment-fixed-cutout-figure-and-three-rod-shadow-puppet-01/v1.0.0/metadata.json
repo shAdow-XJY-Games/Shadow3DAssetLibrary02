@@ -1,0 +1,42 @@
+{
+  "id": "entertainment-fixed-cutout-figure-and-three-rod-shadow-puppet-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "entertainment",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Cutout Figure and Three Rod Shadow Puppet",
+  "description": "One newly authored complete fixed shadow-puppet-style display. A single continuous thin but thick-walled profile character has a side-facing crowned head, nose, torso, two legs and real pierced eye and costume openings. Two separate two-segment flat arms overlap at actual rooted transverse joint pins. One complete central holding rod and two full independent hand rods run to a common plain display foot, permanently fixing the portrayed pose. The pierced silhouette, flat arm layers and below-held rods are newly authored; no volumetric wooden marionette, suspension cords, cross-control or book facade imported. Four opaque constant PBR appearances; metres Z up, complete horizontal bounds centred, display sole at zero, one model zero scenes. Generic fictional theatrical art, no identified historical costume or cultural reconstruction. No shadow-projection test, puppeteering, movable linkage, rig, animation, interaction, load or child-safety capability claimed.",
+  "bounds": {
+    "x": 0.47,
+    "y": 0.2,
+    "z": 0.795,
+    "unit": "m"
+  },
+  "triangles": 1140,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/entertainment/entertainment-fixed-cutout-figure-and-three-rod-shadow-puppet-01/v1.0.0/model.glb",
+      "size": 51600,
+      "sha256": "a0d56cacea74e90be4783fbaee1b84d5faed459980211624b60c48f95b0f121d"
+    },
+    "blend": {
+      "path": "assets/entertainment/entertainment-fixed-cutout-figure-and-three-rod-shadow-puppet-01/v1.0.0/source.blend",
+      "size": 685084,
+      "sha256": "71757b54f065523ba51f59c9b8d8761e37682a7a0a1a79e621164ae8b325f5be"
+    },
+    "generator": {
+      "path": "assets/entertainment/entertainment-fixed-cutout-figure-and-three-rod-shadow-puppet-01/v1.0.0/generate.py",
+      "size": 12497,
+      "sha256": "90c048a910a4c1915652346841545095f7629602c6c081b3ead62a0f39f5c80a"
+    },
+    "render": {
+      "path": "assets/entertainment/entertainment-fixed-cutout-figure-and-three-rod-shadow-puppet-01/v1.0.0/thumbnail.png",
+      "size": 330779,
+      "sha256": "fc97fc723d63d66aa370e924da94f3e51127cce50c7bd24e861b2b11ed0d507b"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
