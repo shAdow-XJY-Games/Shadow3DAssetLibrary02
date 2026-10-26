@@ -1724,6 +1724,11 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary02",
       "commit": "cc2c20cc7cdf754941e3f078416e36e22bf11e4f"
+    },
+    "original-qualified-batch-1332-volume02-20261025": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary02",
+      "commit": "e0c21ddcd9d4169e399e03b28c5662cdb306d8cb"
     }
   },
   "assets": [
@@ -58873,6 +58878,135 @@
       "status": "verified",
       "license": "All rights reserved",
       "sourceId": "original-qualified-batch-1329-volume02-20261025"
+    },
+    {
+      "id": "public-service-fixed-nested-carriages-and-folded-seat-bleachers-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "public-service",
+      "style": "S01-clean-geometric",
+      "title": "Fixed Nested Carriages and Folded Seat Bleachers",
+      "description": "One newly authored complete static partly nested bleacher-frame appearance. Three whole unequal-width wheel-supported undercarriages overlap beneath three progressively higher full cantilevered foot decks. Each complete pair of long base rails has its own four wheels, full front and rear cross ties, two posts and two deck bearers. Two pairs of complete open guide sleeves and connecting shoulders tie successive whole carriages together at the rear; they are not three loose benches grouped into a scene. Every full-width seat has its own transverse hinge axis and two rooted risers: the lowest entire seat board is fixed folded upward while the upper two are horizontal. A full high rear guard belongs to the largest rear carriage. All outlines and supports independently authored, no old mesh imported. Unlike the older fixed bleachers with common grounded runners, nine upright posts and diagonal braces, this whole assembly visibly uses nested different-width rolling chassis, rear guide captures and separate pivoted seat-to-deck relations. Four opaque untextured material roles, metres Z up, horizontal bounds-centred ground datum and twelve finite wheel soles. One fixed prop zero scenes, empty and unoccupied. The shown positions are static illustrative art only, not validated retracting or folding kinematics, sliding fits, rolling action, locking, pinch clearances, public access, egress, spectator capacity, load, stability, manufacture, installation or safety certification. Rigging animation interaction not made.",
+      "bounds": {
+        "x": 2.75,
+        "y": 2.2199999999999998,
+        "z": 1.7925,
+        "unit": "m"
+      },
+      "triangles": 2536,
+      "materials": 4,
+      "files": {
+        "glb": {
+          "path": "assets/public-service/public-service-fixed-nested-carriages-and-folded-seat-bleachers-01/v1.0.0/model.glb",
+          "size": 170152,
+          "sha256": "efe8632b2d5724b7d0762be8d2cb01dd6eb37326548f1623b676d5a7ea2b744b"
+        },
+        "blend": {
+          "path": "assets/public-service/public-service-fixed-nested-carriages-and-folded-seat-bleachers-01/v1.0.0/source.blend",
+          "size": 1149972,
+          "sha256": "84a644a31ed45e21ecf1096daaecf18147675c3fd38b1d3434a32884762a763c"
+        },
+        "generator": {
+          "path": "assets/public-service/public-service-fixed-nested-carriages-and-folded-seat-bleachers-01/v1.0.0/generate.py",
+          "size": 13230,
+          "sha256": "2ae9ebb49283e2f5fcf2c0a8b8d4bc0853d0987e9b0e7464d6092de3f4e912fd"
+        },
+        "render": {
+          "path": "assets/public-service/public-service-fixed-nested-carriages-and-folded-seat-bleachers-01/v1.0.0/thumbnail.png",
+          "size": 503072,
+          "sha256": "3c6a98ccb912b01d176ab78848a1c3c6cc3b7359efd9a51c36a5c14f5c2077ba"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1332-volume02-20261025"
+    },
+    {
+      "id": "renovation-fixed-open-trough-and-hand-cranked-comb-tool-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "renovation",
+      "style": "source-preserved-low-poly",
+      "title": "Fixed Open Trough and Hand Cranked Comb Tool",
+      "description": "One newly authored whole static hand-cranked broad-mouth wall-coating-tool-style exterior. A continuous thick shallow trough shell has a complete floor, two tall sides, rear wall and low front retaining lip, leaving its broad front and top genuinely open. One whole transverse shaft and hub support eight complete blunt comb plates inside the cavity; every comb has a continuous root and physically separate thick short tines. A full raised cross-carry handle meets both upper side walls, while one exterior offset crank and separate short hand grip root on the transverse shaft. All numerical geometry newly authored, not the old closed winnower drum reduced and stripped of its legs, or a gravity-cup spray gun with a different reservoir. There is no upper cup, axial spray nozzle, trigger, long discharge chute or ground timber frame. One prop zero scenes; three opaque constant untextured PBR roles, metres Z up and entire horizontal bounds-centred floor datum. Empty fixed illustrative tool only: no plaster, liquid, rotating drum, spring deflection, pressure bar function, spraying performance, material recipe, hand fit, manufacture, safe handling or operation capability. No rigging, animation or interaction.",
+      "bounds": {
+        "x": 0.3449999988079071,
+        "y": 0.25,
+        "z": 0.31299999356269836,
+        "unit": "m"
+      },
+      "triangles": 2128,
+      "materials": 3,
+      "files": {
+        "glb": {
+          "path": "assets/renovation/renovation-fixed-open-trough-and-hand-cranked-comb-tool-01/v1.0.0/model.glb",
+          "size": 190944,
+          "sha256": "8030243f8c35b2a2399ef07aa4e7ba777831fbc672318088da7106515d8c4329"
+        },
+        "blend": {
+          "path": "assets/renovation/renovation-fixed-open-trough-and-hand-cranked-comb-tool-01/v1.0.0/source.blend",
+          "size": 846304,
+          "sha256": "2296c1e607c8da80c4c20284d3c0c8cd5fd2fc20f1b4468ef28aeccfb4c68d5c"
+        },
+        "generator": {
+          "path": "assets/renovation/renovation-fixed-open-trough-and-hand-cranked-comb-tool-01/v1.0.0/generate.py",
+          "size": 15881,
+          "sha256": "4cfa5d1223f0d5557b00409f94fb281725bc1dcd736de379e997b977ae07dd21"
+        },
+        "render": {
+          "path": "assets/renovation/renovation-fixed-open-trough-and-hand-cranked-comb-tool-01/v1.0.0/thumbnail.png",
+          "size": 530992,
+          "sha256": "0b1746d76e1beffe67b6b8ba64ede82c0b80e69dd8ce9f885a9529f186af086c"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1332-volume02-20261025"
+    },
+    {
+      "id": "steam-workshop-fixed-cutaway-seat-and-spring-poppet-valve-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "steam-workshop",
+      "style": "S01-clean-geometric",
+      "title": "Fixed Cutaway Seat and Spring Poppet Valve",
+      "description": "One complete newly authored static spring-poppet-valve-inspired cutaway display. A continuous thick lower chamber has a real front cutaway, axial lower opening and hollow lateral outlet branch. Its complete bored lower flange, separate annular seat and integral raised disk with long upright stem remain distinct. Two whole bonnet posts and a crosshead expose one continuous five-turn helical spring surrounding that stem between two annular spring seats, with a full top adjusting-stem and hex cap. Two finite side feet meet a common display plinth. The new axial disk-seat/open-spring organization and right-angle chamber differ from the old hollow straight handwheel body and the quarter-cut sphere with a straight through-bore; no old visible meshes or pipe parts imported. Three opaque PBR roles, metres Z-up and horizontal complete-bounds-centred plinth origin; one model zero scenes. The disk is fixed visibly lifted from its seat and the front shell deliberately cut open. Dry illustrative apparatus only, not a working relief or check valve. No pressure, flow, sealing, spring force, adjustment, actuation, relief performance, operational setpoint, manufacture, engineering or safety capability supplied. Rigging animation and interaction not made or verified.",
+      "bounds": {
+        "x": 1.26,
+        "y": 0.78,
+        "z": 2.055,
+        "unit": "m"
+      },
+      "triangles": 3836,
+      "materials": 3,
+      "files": {
+        "glb": {
+          "path": "assets/steam-workshop/steam-workshop-fixed-cutaway-seat-and-spring-poppet-valve-01/v1.0.0/model.glb",
+          "size": 230844,
+          "sha256": "9d2c1befc871ebd23fed851d3fdc59cd09e69c25035ed3f1d4d8a0e7e301e8e7"
+        },
+        "blend": {
+          "path": "assets/steam-workshop/steam-workshop-fixed-cutaway-seat-and-spring-poppet-valve-01/v1.0.0/source.blend",
+          "size": 788648,
+          "sha256": "1cca5dcf94a96df0d08a42105da6a1c3bc80ff16aa97aa55c8a3e92a4d873daf"
+        },
+        "generator": {
+          "path": "assets/steam-workshop/steam-workshop-fixed-cutaway-seat-and-spring-poppet-valve-01/v1.0.0/generate.py",
+          "size": 12806,
+          "sha256": "c303a753dc74dbfbcaac838efea5ae43cc22b802a9d19de8aed82aa2f9d6fced"
+        },
+        "render": {
+          "path": "assets/steam-workshop/steam-workshop-fixed-cutaway-seat-and-spring-poppet-valve-01/v1.0.0/thumbnail.png",
+          "size": 423381,
+          "sha256": "7867ccdf9862b8a982b7d2986fa2ac2bb82efe7b89b095e7bee991efcf7329b2"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1332-volume02-20261025"
     }
   ]
 }
