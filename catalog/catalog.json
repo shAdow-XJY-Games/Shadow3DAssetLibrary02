@@ -1754,6 +1754,11 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary02",
       "commit": "404443f2d3d5f6f61c5adaf0133268735ab2e9b2"
+    },
+    "original-qualified-batch-1349-volume02-20261025": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary02",
+      "commit": "fe70c58359f06775f3c9e7c3741600461b36018c"
     }
   },
   "assets": [
@@ -59677,6 +59682,92 @@
       "status": "verified",
       "license": "All rights reserved",
       "sourceId": "original-qualified-batch-1347-volume02-20261025"
+    },
+    {
+      "id": "garden-whole-trimmer-bench-and-chipper-preparation-corner-scene-01",
+      "version": "1.0.0",
+      "category": "scenes",
+      "assetKind": "scene",
+      "theme": "garden",
+      "style": "source-preserved-low-poly",
+      "title": "Whole Garden Equipment Preparation Corner",
+      "description": "One complete static garden-equipment preparation corner, one scene and zero new models. A whole original open worktable at the rear-left supports the entire qualified twin-comb trimmer turned through one exact quarter turn, keeping its original case, both complete hand openings, guard and complete comb head. An entire backframe blower stands separately at front-left with its original straps and full hose/nozzle. A whole wheeled chipper occupies the separate right floor station with all wheels, parking feet, side open feed and tall elbow retained. The elevated long-tool bench, wearable-equipment parking and separate feed-side equipment envelope frame an empty front approach. This is not the earlier foreground horizontal splitting machine with rear log shelter and barrow, nor the paired cleaning-equipment bays. Four complete original unit-scale models retain every raw GLB buffer, local normal, internal hierarchy and per-face PBR. Only whole rigid wrappers and one finite scene-only support floor are new. No components are extracted, resized, recoloured or counted as new models. Static artistic empty equipment display only; no trimming, feeding, chipping, air flow, operation, material flow, human reach, fit, access compliance, loading, stability or safety claim. Rigging animation and interaction are not made.",
+      "bounds": {
+        "x": 3.200000047683716,
+        "y": 2.799999952316284,
+        "z": 1.243100643157959,
+        "unit": "m"
+      },
+      "triangles": 6364,
+      "materials": 13,
+      "files": {
+        "glb": {
+          "path": "assets/garden/garden-whole-trimmer-bench-and-chipper-preparation-corner-scene-01/v1.0.0/model.glb",
+          "size": 575040,
+          "sha256": "f4b4bf094de6a41f8da70682bd5a42f5318a9cc639fbdb20c20380517ce4640f"
+        },
+        "blend": {
+          "path": "assets/garden/garden-whole-trimmer-bench-and-chipper-preparation-corner-scene-01/v1.0.0/source.blend",
+          "size": 1780480,
+          "sha256": "ade246a2c47833440bafd807b6b2f4c3b95891607b02b6201cf28815e7f41950"
+        },
+        "generator": {
+          "path": "assets/garden/garden-whole-trimmer-bench-and-chipper-preparation-corner-scene-01/v1.0.0/generate.py",
+          "size": 164429,
+          "sha256": "2aa35df28a835de03d67cee6b4021edbffabfb55cc2a7c28e830043e25ca59a4"
+        },
+        "render": {
+          "path": "assets/garden/garden-whole-trimmer-bench-and-chipper-preparation-corner-scene-01/v1.0.0/thumbnail.png",
+          "size": 483882,
+          "sha256": "ca1005325189e6b41796526841d1a48c3e3a80a2d34c48ddcee25ce6e81e02f7"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1349-volume02-20261025"
+    },
+    {
+      "id": "public-service-fixed-curved-heel-and-raised-truss-bridge-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "public-service",
+      "style": "S01-clean-geometric",
+      "title": "Fixed Curved Heel and Raised Truss Bridge",
+      "description": "One independently authored complete fixed rolling-heel-style opening-bridge exterior. Two full ground piers carry short flat bearing rails. Two entire thick curved heel sectors, each with actual inner opening and three full spokes, meet those rails at their low faceted soles and join a complete transverse hub. One broad raised deck with full side trusses and underfloor crossbearers extends forward from that hub. Two whole rear upper arms carry one complete crosswise counterweight appearance, while a low fixed rear approach ties the two piers. The curved heel-to-short-flat-track support is new full geometry: no overhead towers or rope paths, no anchored gate-leaf root pivot, and no central turning table. Unlike the old twin-tower lift bridge the entire span is inclined and its support is local to the rear; unlike the old masonry drawbridge gateway there is no enclosing portal or high rope routing. All geometry newly authored, no old bridge imported, scaled or reduced. Four opaque constant PBR roles, metre Z up and full horizontally centred ground datum; one complete static architectural equipment model zero scenes. Deliberate fixed embedded joints and small bearing overlaps are artistic support appearances, not functional rolling contact or an engineered mechanism. No terrain, river, vehicle, person, actual opening path, balance, gear engagement, traffic passage, waterway clearance, load, installation, manufacture or civil/safety performance. Rigging animation interaction not made.",
+      "bounds": {
+        "x": 2.7600000000000002,
+        "y": 5.453712074222596,
+        "z": 3.935255371935023,
+        "unit": "m"
+      },
+      "triangles": 1592,
+      "materials": 4,
+      "files": {
+        "glb": {
+          "path": "assets/public-service/public-service-fixed-curved-heel-and-raised-truss-bridge-01/v1.0.0/model.glb",
+          "size": 77172,
+          "sha256": "15aa2cfaa1d392f85cf68b946c104ea379595acb5209bb9e74841532f98871e5"
+        },
+        "blend": {
+          "path": "assets/public-service/public-service-fixed-curved-heel-and-raised-truss-bridge-01/v1.0.0/source.blend",
+          "size": 774268,
+          "sha256": "6dda9fb8bb4e8d44800ae80436f2bccd2e67edb8ba0474a78bd0e42cc1fdcd32"
+        },
+        "generator": {
+          "path": "assets/public-service/public-service-fixed-curved-heel-and-raised-truss-bridge-01/v1.0.0/generate.py",
+          "size": 12872,
+          "sha256": "b96678430ee87d660969eb73933c449e61a423e1b232999c9d05852345842ccc"
+        },
+        "render": {
+          "path": "assets/public-service/public-service-fixed-curved-heel-and-raised-truss-bridge-01/v1.0.0/thumbnail.png",
+          "size": 463338,
+          "sha256": "76fe45ff16365079c218ef2ef7ea8681f6af21e204614ea088670a84d82914c3"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1349-volume02-20261025"
     }
   ]
 }
