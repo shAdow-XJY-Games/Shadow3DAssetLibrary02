@@ -1699,6 +1699,11 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary02",
       "commit": "2cccb13c07aa8f4c875892722ba557fca1b3b04f"
+    },
+    "original-qualified-batch-1321-volume02-20261025": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary02",
+      "commit": "e79bf1eb289d588f551d16235cc9c0331b18466f"
     }
   },
   "assets": [
@@ -58418,6 +58423,92 @@
       "status": "verified",
       "license": "All rights reserved",
       "sourceId": "original-qualified-batch-1319-volume02-20261025"
+    },
+    {
+      "id": "architecture-fixed-high-truss-and-low-suspended-transporter-bridge-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "architecture",
+      "style": "S01-clean-geometric",
+      "title": "Fixed High Truss and Low Suspended Transporter Bridge",
+      "description": "One newly authored whole fixed transporter-bridge-style exterior. Two complete high open portal towers on grounded end piers carry a permanently high, long twin-sided open truss and upper cross ties. One offset four-wheel overhead carriage rests on the two long lower chords; four entire long suspension rods connect it to a much shorter low gondola deck with two full side rails and open ends. The open air beneath the high fixed crossing remains distinct from the short hanging platform. Unlike the old vertical-lift bridge, no full-width crossing deck rises between guide towers, no top rope wheels or counterweights are supplied. Unlike the small orthogonal robot gantry, there is no transverse sliding bridge, downward tool guide or finger tool; only one fixed long travel direction and a low suspended crossing platform. No old visible meshes imported. Three opaque PBR materials, metres Z-up and complete horizontal-bounds-centred pier datum. One complete model zero scenes. Static architectural transport illustration only; no people, vehicles, water, terrain, drive or internal brake. No motion, path clearance, traffic access, engineering, cable tension, load, manufacture, navigation or safety capability is asserted. Rigging, animation and interaction are not made or verified.",
+      "bounds": {
+        "x": 8.0,
+        "y": 3.0,
+        "z": 5.27,
+        "unit": "m"
+      },
+      "triangles": 1944,
+      "materials": 3,
+      "files": {
+        "glb": {
+          "path": "assets/architecture/architecture-fixed-high-truss-and-low-suspended-transporter-bridge-01/v1.0.0/model.glb",
+          "size": 126592,
+          "sha256": "872a87cc4c62129c30c27925cb45d1968a3a695ddb8bec915f988481e8696a26"
+        },
+        "blend": {
+          "path": "assets/architecture/architecture-fixed-high-truss-and-low-suspended-transporter-bridge-01/v1.0.0/source.blend",
+          "size": 945252,
+          "sha256": "fc03b6b9ec1b88f05cd6debe21a5b00dc90968b766f82ef701a9913d917a56b9"
+        },
+        "generator": {
+          "path": "assets/architecture/architecture-fixed-high-truss-and-low-suspended-transporter-bridge-01/v1.0.0/generate.py",
+          "size": 13514,
+          "sha256": "e70965fcf12c500133c029c2293fba9c2a184242284f76dc47488c265596b3d1"
+        },
+        "render": {
+          "path": "assets/architecture/architecture-fixed-high-truss-and-low-suspended-transporter-bridge-01/v1.0.0/thumbnail.png",
+          "size": 524066,
+          "sha256": "f4ccdfaccefb1cf5d1cf9fdc6db0367077e5f9b2df92ebbc4f91b518efc0aa6a"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1321-volume02-20261025"
+    },
+    {
+      "id": "professional-fixed-fork-saddles-and-guided-plunger-driver-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "professional",
+      "style": "source-preserved-low-poly",
+      "title": "Fixed Fork Saddles and Guided Plunger Driver",
+      "description": "One newly authored complete static tabletop syringe-driver-style exhibit. A long low chamfered appliance case on four feet supports a full horizontal opaque blunt-ended syringe exterior on two complete fork saddles. Its broad barrel shoulder is captured in a separate truly open fork plate. A full slim rear plunger enters the barrel and terminates in a broad thumb disc against a separate tall carriage; that carriage encloses two entire parallel fixed guide rods rooted in independent end supports on the same base. A genuine deep opening in the shoulder fork exposes the barrel-side relationship rather than a black decal. A blank front control panel and two small blank buttons finish the casing. No old grease-gun barrel or threading-machine parts are imported: the fixed cradle, captured barrel flange and independent guided rear pusher are authored as one whole assembly, not a lever gun with its handle removed or a pipe lathe rescaled. Three opaque constant PBR roles, metre Z-up, whole bounds-centred ground datum, one complete model zero scenes. Static unpowered illustrative exterior only. Syringe tip is a short closed blunt cap, with no needle, liquid, tubing, readable scale, medicine or patient. Opaque barrel has no validated internal lumen or seal; fixed rods intentionally enter their supports. No motor, screw transmission, plunger travel, fluid delivery, volume, rate, calibration, dosage, compatibility, sterilization, clinical use, medical performance, manufacture or safety claim. Rigging animation interaction not made.",
+      "bounds": {
+        "x": 0.4959999918937683,
+        "y": 0.2669999897480011,
+        "z": 0.23899999260902405,
+        "unit": "m"
+      },
+      "triangles": 1228,
+      "materials": 3,
+      "files": {
+        "glb": {
+          "path": "assets/professional/professional-fixed-fork-saddles-and-guided-plunger-driver-01/v1.0.0/model.glb",
+          "size": 119452,
+          "sha256": "e63d1803536db42b71bb26d10fee4bd888be9c2427e8dcc134a9c1476b7999c4"
+        },
+        "blend": {
+          "path": "assets/professional/professional-fixed-fork-saddles-and-guided-plunger-driver-01/v1.0.0/source.blend",
+          "size": 778432,
+          "sha256": "9bcf915a321b4bf25ce38757052ce2e8ac466d1bb3522754b5c4b57d48f331ee"
+        },
+        "generator": {
+          "path": "assets/professional/professional-fixed-fork-saddles-and-guided-plunger-driver-01/v1.0.0/generate.py",
+          "size": 16952,
+          "sha256": "9ca0442cf053fb22fc8f0352b43ae2d480e8c43bd1b5229a9b2452cec8d100e0"
+        },
+        "render": {
+          "path": "assets/professional/professional-fixed-fork-saddles-and-guided-plunger-driver-01/v1.0.0/thumbnail.png",
+          "size": 495684,
+          "sha256": "9e1d6c8bf95eb199ba56462ed119c8920cf8007f5634c9d413b894fd92cdfc0f"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1321-volume02-20261025"
     }
   ]
 }
