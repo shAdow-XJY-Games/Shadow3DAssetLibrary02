@@ -1,0 +1,42 @@
+{
+  "id": "art-whole-floor-roll-press-and-empty-preparation-bench-scene-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "art",
+  "style": "source-preserved-low-poly",
+  "title": "Whole Floor Roll Press and Empty Preparation Bench",
+  "description": "One static printmaking-equipment preparation bay, one scene and zero new independent models. Four complete qualified originals retain their raw geometry buffers, normals, full opaque PBR dictionaries, hierarchy and unit scale. A whole floor-standing twin-roll long-traverse-bed press occupies the rear-left, its entire blank bed, star wheel and both shoes intact. A separate complete open worktable stands forward-right and supports the entire grinding-slab and muller set on the left and the whole horizontal double-fork brayer on the right, separated by visible tabletop. No tool or slab is extracted from its original asset, no plate or sheet is fed through the press, and no material connects the stations. Unlike the raised screen-frame, drying-rack and basin-cart bay, this groups a floor-standing roller press with a small-tool bench; unlike the two-table platen-printing/book-sewing corner it has no sewing station or bookcase. Only whole translations and one finite scene-only floor are authored. Small tool details remain subordinate at whole-scene scale. No ink, pigment, paper, chemical preparation, print transfer, machine operation, roller pressure, bed travel, equipment compatibility, ergonomic compliance, load rating or workplace safety capability. Rigging animation interaction not made.",
+  "bounds": {
+    "x": 3.299999952316284,
+    "y": 2.4000000953674316,
+    "z": 1.438999891281128,
+    "unit": "m"
+  },
+  "triangles": 4408,
+  "materials": 12,
+  "files": {
+    "glb": {
+      "path": "assets/art/art-whole-floor-roll-press-and-empty-preparation-bench-scene-01/v1.0.0/model.glb",
+      "size": 262260,
+      "sha256": "6e3bcf07b2e81398950e407ba8133cbbc7775bd4674db87c514b793926646075"
+    },
+    "blend": {
+      "path": "assets/art/art-whole-floor-roll-press-and-empty-preparation-bench-scene-01/v1.0.0/source.blend",
+      "size": 1495336,
+      "sha256": "f8089c95d61628581ad7eef3b70a0eb6ba4169e9cda1fe0339f6ad74717f2aac"
+    },
+    "generator": {
+      "path": "assets/art/art-whole-floor-roll-press-and-empty-preparation-bench-scene-01/v1.0.0/generate.py",
+      "size": 105403,
+      "sha256": "796415a9de91e417c8c59dbd068073c5dfdc556bd93596dc836629f04dc056a0"
+    },
+    "render": {
+      "path": "assets/art/art-whole-floor-roll-press-and-empty-preparation-bench-scene-01/v1.0.0/thumbnail.png",
+      "size": 515515,
+      "sha256": "1e9ac2a14dbf12af477320c276ce9552a1070b44816a7521cafad563ce4a6ab6"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

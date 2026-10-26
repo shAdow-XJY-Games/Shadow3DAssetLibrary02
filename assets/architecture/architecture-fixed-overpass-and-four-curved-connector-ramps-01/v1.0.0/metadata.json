@@ -1,0 +1,42 @@
+{
+  "id": "architecture-fixed-overpass-and-four-curved-connector-ramps-01",
+  "version": "1.0.0",
+  "category": "architecture",
+  "assetKind": "modular",
+  "theme": "architecture",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Overpass And Four Curved Connector Ramps",
+  "description": "One newly authored static grade-separated road junction miniature module. A complete elevated straight bridge crosses one complete perpendicular lower road with an open underpass. Four continuous thick quarter-curve graded branch decks occupy the four quadrants, each joining an upper-road side mouth to a lower-road side mouth; not two unconnected roads merely stacked. Complete curb strips leave the eight branch mouths open. Two bridge piers and four independent ramp piers connect the decks to one whole grounded plinth. New geometry throughout, not rescaled existing roads or imported culvert pieces. Three opaque PBR roles, metres Z-up, centred bounds and grounded datum. One complete static model zero scenes. No vehicle, lane markings, traffic circulation rules, road-network compatibility, verified driving surface, accessibility, turning radius, gradient suitability, clearance, loading, drainage, construction or engineering safety capability. No animation or interaction made.",
+  "bounds": {
+    "x": 8.4,
+    "y": 8.4,
+    "z": 1.59,
+    "unit": "m"
+  },
+  "triangles": 2220,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/architecture/architecture-fixed-overpass-and-four-curved-connector-ramps-01/v1.0.0/model.glb",
+      "size": 161736,
+      "sha256": "87415e60c55fe05fe3263d5eb8487ddc4122e2ffdb5450077b2794b30e1db207"
+    },
+    "blend": {
+      "path": "assets/architecture/architecture-fixed-overpass-and-four-curved-connector-ramps-01/v1.0.0/source.blend",
+      "size": 789328,
+      "sha256": "95d1c34d8d18cfeae49a3599ab45a3cd86db5feb74cc4d2ba5e2fd26eca924c0"
+    },
+    "generator": {
+      "path": "assets/architecture/architecture-fixed-overpass-and-four-curved-connector-ramps-01/v1.0.0/generate.py",
+      "size": 11263,
+      "sha256": "6d2369e3ce54e9da2404eb6f005e85943b768f6edbe77536160d128ad1df9053"
+    },
+    "render": {
+      "path": "assets/architecture/architecture-fixed-overpass-and-four-curved-connector-ramps-01/v1.0.0/thumbnail.png",
+      "size": 419174,
+      "sha256": "7f6d3459307b1b3f0e53a2b765b7ae0fe22e7a1db386f78b9893f1bd0ad9fbee"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
