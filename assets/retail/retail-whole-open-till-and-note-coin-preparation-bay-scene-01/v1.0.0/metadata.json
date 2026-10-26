@@ -1,0 +1,42 @@
+{
+  "id": "retail-whole-open-till-and-note-coin-preparation-bay-scene-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "retail",
+  "style": "source-preserved-low-poly",
+  "title": "Whole Open Till and Note Coin Preparation Bay",
+  "description": "One static empty cash-equipment preparation bay, one scene and zero new independent models. A complete original open-shelf service counter stands forward-left and supports the entire fixed-open till cash register, including its original extended three-well drawer and key deck. Behind and to the right a separate complete open worktable supports one whole open-feed note counter on the left and one entire circular-feed radial-cup coin sorter on the right. Both complete device footprints rest separately on the tabletop with a visible intervening strip; the service counter and rear table have independent floor footprints and an empty intervening floor gap. This stages a forward till position and a separate two-device reconciliation bench rather than gondola shopping aisles, a postal locker/scale hall or a pastry case and register sharing one tabletop. Every original unit-scale model, raw mesh buffer, local normal, hierarchy and full PBR dictionary is preserved; only five whole translations and one finite floor are new. No register drawer, coin cup or feed roller is removed or counted separately, no coins, notes, valuables or customers are included. Small keys and controls remain subordinate at scene scale. Static illustrative arrangement only: no payment, counting, authentication, sorting mechanism, financial procedure, surveillance, storage security, electrical operation, equipment compatibility, rated loading, human access compliance or workplace safety claim. Rigging animation interaction not made.",
+  "bounds": {
+    "x": 3.299999952316284,
+    "y": 2.299999952316284,
+    "z": 1.3650000095367432,
+    "unit": "m"
+  },
+  "triangles": 6128,
+  "materials": 16,
+  "files": {
+    "glb": {
+      "path": "assets/retail/retail-whole-open-till-and-note-coin-preparation-bay-scene-01/v1.0.0/model.glb",
+      "size": 510736,
+      "sha256": "6201c4f8431cd0206b384b527da4ed05dd7314e201a5b238e6fe036ef1f4f897"
+    },
+    "blend": {
+      "path": "assets/retail/retail-whole-open-till-and-note-coin-preparation-bay-scene-01/v1.0.0/source.blend",
+      "size": 1812496,
+      "sha256": "411947640f32a1df86cbc68958a10d6a5e7c5c9868792d6ac27bac45a333e39f"
+    },
+    "generator": {
+      "path": "assets/retail/retail-whole-open-till-and-note-coin-preparation-bay-scene-01/v1.0.0/generate.py",
+      "size": 155230,
+      "sha256": "6d4f23f31932bd3d6e6411835788a6792dd4b9fabb7ffd047e35b421d37e4400"
+    },
+    "render": {
+      "path": "assets/retail/retail-whole-open-till-and-note-coin-preparation-bay-scene-01/v1.0.0/thumbnail.png",
+      "size": 493670,
+      "sha256": "d5ab1710b35594f0da41171e616b8fdef6bff7b1a3917fc821f57b38117f73a5"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
