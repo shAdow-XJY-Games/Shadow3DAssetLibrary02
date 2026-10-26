@@ -1,0 +1,42 @@
+{
+  "id": "industrial-fixed-tapered-derrick-and-open-rotary-floor-rig-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "industrial",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Tapered Derrick and Open Rotary Floor Rig",
+  "description": "One newly authored complete reduced-proportion static derrick-rig exterior. An entire elevated thick rectangular rig floor has a real central through-opening, four full foot-and-leg supports and one continuous ground-to-deck approach stair. Four complete long converging corners and four whole tapered narrow-X-web triangular-aperture faces make a pyramidal tower around the central assembly. A complete open crown frame supports a true transverse axle and two full grooved sheaves. Inside the tower one entire lowered U block exposes two complete lower sheaves and carries a thick coupler with a single long blunt fixed rod passing freely through the actual annular rotary-table rim and through the floor. One whole double-flange rear drum, cross axle and full support bodies sit on the same deck; one entire finite-thickness static cable appearance links the drum, sheaves and crown. All visible coordinates newly authored with generic mesh helpers only, no old shaft-headframe, crane, winch or rod meshes imported. This is not the old two front-post/two raked-stay mine headframe with a single large top wheel over a ground collar, nor an equal-width tower crane with upper slewing head, opposite jibs and hook. One whole prop zero scenes, metres, native Z up, complete horizontal bounds centred over actual full soles, four opaque constant untextured PBR roles. Static artistic appearance only, no oilfield or manufacturer replica, underground well, sharp tool, fluids, pumps, pressure, fuel or process system. No drilling, extraction, spinning, cable travel, functional reeving, motion, tension, working load, access, manufacture, engineering or safety performance. Rigging, animation and interaction not made or verified.",
+  "bounds": {
+    "x": 2.9,
+    "y": 4.17,
+    "z": 6.17,
+    "unit": "m"
+  },
+  "triangles": 6048,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/industrial/industrial-fixed-tapered-derrick-and-open-rotary-floor-rig-01/v1.0.0/model.glb",
+      "size": 279400,
+      "sha256": "aeaa723c7ed75102a8f8a299e022e4bc20e2f3f480afe659b5dcabe3a57b1056"
+    },
+    "blend": {
+      "path": "assets/industrial/industrial-fixed-tapered-derrick-and-open-rotary-floor-rig-01/v1.0.0/source.blend",
+      "size": 1003160,
+      "sha256": "fbb7ecc5ab625ffc48395add4b687aa2b7032a2b512c1bbcaef47cd2614e68c1"
+    },
+    "generator": {
+      "path": "assets/industrial/industrial-fixed-tapered-derrick-and-open-rotary-floor-rig-01/v1.0.0/generate.py",
+      "size": 32870,
+      "sha256": "d4f3940e26253928329da51d1a74a472ed894d4db23bda60c313e00db1c9cc69"
+    },
+    "render": {
+      "path": "assets/industrial/industrial-fixed-tapered-derrick-and-open-rotary-floor-rig-01/v1.0.0/thumbnail.png",
+      "size": 580564,
+      "sha256": "bcc5a60d39c05b9b49adad9b0698ef8ce2f35263a45e6f1db767cade970b3e09"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

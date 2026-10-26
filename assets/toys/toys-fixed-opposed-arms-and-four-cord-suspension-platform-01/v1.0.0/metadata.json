@@ -1,0 +1,42 @@
+{
+  "id": "toys-fixed-opposed-arms-and-four-cord-suspension-platform-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "toys",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Opposed Arms and Four Cord Suspension Platform",
+  "description": "One newly authored complete tabletop suspension-platform-style static display. A complete broad chamfered lower platform has a whole continuous rising inward-hook arm; a separate full upper platform has its own oppositely rooted descending inward-hook arm. Their free ends face each other at different heights with a real central gap and one complete short vertical cord joining them. Three separate full perimeter cords connect independent finite anchors at the two platforms, leaving all intermediate space open. The upper platform has no rigid continuous leg to the base: its explicitly drawn connections are the central and perimeter cords. Eight proud anchor heads complete the four illustrated connections. No old frame, sphere, chair rail or table parts imported, no spheres or payloads supplied. Newly authored whole profiles and coordinates; four opaque constant PBR roles, metres Z up, whole XY bounds centred on the entire lower platform sole, one prop zero scenes. This is a fixed tension-table-style visual toy, not a claimed working physical prototype: no force or moment balance, tension, material stiffness, load bearing, stability, motion, instruction, manufacture or safety certification. No rigging, animation or interaction.",
+  "bounds": {
+    "x": 0.44,
+    "y": 0.38,
+    "z": 0.375,
+    "unit": "m"
+  },
+  "triangles": 800,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/toys/toys-fixed-opposed-arms-and-four-cord-suspension-platform-01/v1.0.0/model.glb",
+      "size": 41976,
+      "sha256": "da402c2046e4169097286103f0a073a94600454311ef98d7d72300f4677cf586"
+    },
+    "blend": {
+      "path": "assets/toys/toys-fixed-opposed-arms-and-four-cord-suspension-platform-01/v1.0.0/source.blend",
+      "size": 657532,
+      "sha256": "e464eb9070123cfa39f61925af05b2264b40d4be0de9510f7209cd91026ecd31"
+    },
+    "generator": {
+      "path": "assets/toys/toys-fixed-opposed-arms-and-four-cord-suspension-platform-01/v1.0.0/generate.py",
+      "size": 10887,
+      "sha256": "af32ddd8a41ff074c75657d5af2a7c8ca3201ac1926a7983099e03fb40e52198"
+    },
+    "render": {
+      "path": "assets/toys/toys-fixed-opposed-arms-and-four-cord-suspension-platform-01/v1.0.0/thumbnail.png",
+      "size": 486562,
+      "sha256": "989d9895226aee8e333fa304a76f30c0319d3f216ccd671a2b03832c14b077fb"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

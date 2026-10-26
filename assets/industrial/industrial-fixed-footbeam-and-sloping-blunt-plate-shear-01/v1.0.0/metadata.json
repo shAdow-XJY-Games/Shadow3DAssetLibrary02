@@ -1,0 +1,42 @@
+{
+  "id": "industrial-fixed-footbeam-and-sloping-blunt-plate-shear-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "industrial",
+  "style": "source-preserved-low-poly",
+  "title": "Fixed Footbeam and Sloping Blunt Plate Shear",
+  "description": "One newly authored whole fixed foot-shear-style machine exterior. Two full tall side frames on long floor shoes support one broad empty feed table. Behind its rear edge a real narrow open transverse slot separates the table from a whole thick diagonally bottomed blunt plate, held in a complete raised cross-carrier between two tall integral slotted guide cheeks. One full low front treadle beam, two long rearward pedal arms, a continuous rear pivot shaft and two independent outboard rising link rods complete the characteristic floor-operated silhouette in one fixed pose. A full rear downward inclined trough-like receiving tray is rooted on its own transverse bearer. Unlike the old sheet brake there is no upward hinged wide folding apron or pair of long hand levers, and unlike the paper trimmer there is no single side-hinged raised cutting arm. All entire geometry newly drawn; no old bed/frame/blade imported. One model zero scenes, three opaque solid PBR materials. No workpiece, sharpened edge, shearing action, moving guide, force, adjustment, manufacturing or machine/foot safety capability. Static art only; rigging animation interaction not made.",
+  "bounds": {
+    "x": 1.9240000247955322,
+    "y": 1.3383073806762695,
+    "z": 1.2450000047683716,
+    "unit": "m"
+  },
+  "triangles": 1100,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/industrial/industrial-fixed-footbeam-and-sloping-blunt-plate-shear-01/v1.0.0/model.glb",
+      "size": 109308,
+      "sha256": "964ec6bc18786d9851452d7e98ac31925ba45c45142f8c047474d34bfcab0db3"
+    },
+    "blend": {
+      "path": "assets/industrial/industrial-fixed-footbeam-and-sloping-blunt-plate-shear-01/v1.0.0/source.blend",
+      "size": 764096,
+      "sha256": "4de29221b6d822e923e435becb98806ad960e505e4005bb2e9b9446b9aac1798"
+    },
+    "generator": {
+      "path": "assets/industrial/industrial-fixed-footbeam-and-sloping-blunt-plate-shear-01/v1.0.0/generate.py",
+      "size": 16676,
+      "sha256": "b9108a4d6ed369402eaf0157ce3c1575ec1354d8836e80e1fb23cb4a279202b0"
+    },
+    "render": {
+      "path": "assets/industrial/industrial-fixed-footbeam-and-sloping-blunt-plate-shear-01/v1.0.0/thumbnail.png",
+      "size": 519699,
+      "sha256": "abbef790ad020dbeb4bff258669c8448c05cc08354b20ff9ad3b2fc3a003a165"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

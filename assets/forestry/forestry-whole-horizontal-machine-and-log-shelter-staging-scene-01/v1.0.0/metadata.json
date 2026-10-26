@@ -1,0 +1,42 @@
+{
+  "id": "forestry-whole-horizontal-machine-and-log-shelter-staging-scene-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "forestry",
+  "style": "source-preserved-low-poly",
+  "title": "Whole Horizontal Machine and Log Shelter Staging",
+  "description": "One static forestry equipment-staging scene, zero new independent models. The entire qualified horizontal pushplate/blunt-wedge frame spans the foreground at original unit scale, including both wheels, parking shoe, side case, empty bed and forward draw members. A whole original roofed six-log storage shelter stands separately along the rear right edge, with its original four posts, sloping roof, raised log bed and all six logs intact. One complete empty wheelbarrow occupies the rear left receiving side, with its original thick open tub, wheel, handles and feet. An open transverse ground interval separates the front machine from the rear storage edge; the barrow is outside both envelopes. This is neither the old trough-and-shelter farm yard with stepping stones, nor a raised tabletop planer opposite a long ground jointer. No log is moved into the machine and no workpiece or operational connection is added. All three complete original GLB buffer payloads, local normals, internal hierarchy and full per-face PBR remain unchanged through translation-only whole wrappers. Only one finite floor is new scene-only geometry. One scene zero new models, no copied partial old scene, scaled tools or recolouring. Static artistic equipment arrangement only, not a splitting/storage workflow, human access, loading, towing, machine operation, wood processing, structural or safety claim. Rigging animation interaction not made.",
+  "bounds": {
+    "x": 4.0,
+    "y": 3.5999999046325684,
+    "z": 1.7058770656585693,
+    "unit": "m"
+  },
+  "triangles": 4484,
+  "materials": 12,
+  "files": {
+    "glb": {
+      "path": "assets/forestry/forestry-whole-horizontal-machine-and-log-shelter-staging-scene-01/v1.0.0/model.glb",
+      "size": 373656,
+      "sha256": "cbd8e745f1f6a574b40db1fb432a0c58712d70d6e27bf8a36d4e6ad105256e87"
+    },
+    "blend": {
+      "path": "assets/forestry/forestry-whole-horizontal-machine-and-log-shelter-staging-scene-01/v1.0.0/source.blend",
+      "size": 1400340,
+      "sha256": "de30ccf580ef8d78e3cec094e96119106eaba00f0f9e99d745a2168f0f2bd9ac"
+    },
+    "generator": {
+      "path": "assets/forestry/forestry-whole-horizontal-machine-and-log-shelter-staging-scene-01/v1.0.0/generate.py",
+      "size": 121832,
+      "sha256": "f26a4c2b5fb45a2389d59a104cb33aac2827a65e407eb871fe7ba2726e521bbd"
+    },
+    "render": {
+      "path": "assets/forestry/forestry-whole-horizontal-machine-and-log-shelter-staging-scene-01/v1.0.0/thumbnail.png",
+      "size": 503026,
+      "sha256": "738253091abbb03c07e5d1a51f8c5fec4b4c76c167ea38af54ccebbc41615120"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

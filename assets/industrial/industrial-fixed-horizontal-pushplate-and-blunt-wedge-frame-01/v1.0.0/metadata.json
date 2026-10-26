@@ -1,0 +1,42 @@
+{
+  "id": "industrial-fixed-horizontal-pushplate-and-blunt-wedge-frame-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "industrial",
+  "style": "source-preserved-low-poly",
+  "title": "Fixed Horizontal Pushplate and Blunt Wedge Frame",
+  "description": "One newly authored complete horizontal log-splitter-style empty machine exterior. A full long I-section bed on a paired-wheel chassis and finite front parking foot carries one fixed broad blunt end wedge and a distinct captured push-plate carriage, with a visible empty longitudinal interval. A complete rear horizontal cylinder exterior, separate collar and exposed fixed rod align with that plate. A short rear mounting block, low side-mounted motor-shaped case and one continuous external hose belong to the same frame. Two full forward draw members meet one closed blunt towing-head exterior, without a vehicle or hitch compatibility claim. Unlike the old ring-guided vertical wedge stand it has no surrounding upright guide ring; unlike the H press it has no bilateral vertical portal or pinned cross-bed. All visible geometry new; no old frame, wedge, wheel or press assembly imported. Three opaque PBR roles, one model zero scenes. No log, sharpened edge, hydraulic circuit, actual moving guide, pressure, powered splitting, towing, load, operation or machinery safety claim. Tyres and parking shoe are only static visual grounding. Rigging animation interaction not made.",
+  "bounds": {
+    "x": 2.315000057220459,
+    "y": 0.8939999938011169,
+    "z": 0.9679999947547913,
+    "unit": "m"
+  },
+  "triangles": 2256,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/industrial/industrial-fixed-horizontal-pushplate-and-blunt-wedge-frame-01/v1.0.0/model.glb",
+      "size": 208312,
+      "sha256": "5d0e1f57c11f3227341eb38dc76c27da850fae348f4f0ad4cddc2a8507bf19b7"
+    },
+    "blend": {
+      "path": "assets/industrial/industrial-fixed-horizontal-pushplate-and-blunt-wedge-frame-01/v1.0.0/source.blend",
+      "size": 907680,
+      "sha256": "d8926bb5b89a52c0302bde23120526b554fcfbc1461214293a5d869c3edc0afe"
+    },
+    "generator": {
+      "path": "assets/industrial/industrial-fixed-horizontal-pushplate-and-blunt-wedge-frame-01/v1.0.0/generate.py",
+      "size": 17150,
+      "sha256": "b6f11d18545b484977bac7169938d81e10992f0465fc0a879b96d6e30246da5e"
+    },
+    "render": {
+      "path": "assets/industrial/industrial-fixed-horizontal-pushplate-and-blunt-wedge-frame-01/v1.0.0/thumbnail.png",
+      "size": 479483,
+      "sha256": "991eb367b0b4226f4ff6070b17aacd17c466045591cb9512a0f854feacc8ebaa"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

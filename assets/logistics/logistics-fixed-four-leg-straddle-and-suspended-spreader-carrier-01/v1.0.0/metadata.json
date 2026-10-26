@@ -1,0 +1,42 @@
+{
+  "id": "logistics-fixed-four-leg-straddle-and-suspended-spreader-carrier-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "logistics",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Four-Leg Straddle and Suspended Spreader Carrier",
+  "description": "One newly authored complete empty straddle-carrier vehicle exterior. Two independent long wheeled side chassis carry four full-height corner legs, two fixed upper side ties and two cross bridges, leaving the centre open from the ground. Two entire crosswise flanged drums and four fixed hanging-line exteriors support one complete shared-vertex rectangular spreader with a genuine large centre aperture and integral downward corner heads. A newly shaped high offset side cab with proud opaque windows, its separate platform and one whole connected ladder-like frame complete the vehicle; a compact upper rear cowl is fixed on the opposite side. Unlike the old Cartesian robot, there are no rail shoes, moving bridge, orthogonal tool slide or small fingers. Unlike the shop crane, there is no single rear mast with inclined actuator/boom and hook. This is not either old frame scaled up or given wheels: the complete side-chassis, four-point surrounding suspension and large low cargo interface are newly authored together. All coordinates are new; no old vehicle or gantry mesh imported. One prop zero scenes, no container or payload. Four opaque untextured PBR roles, metres Z up and horizontal-bounds-centred ground datum. Static artistic exterior only; no engine, steering, driving, rope mechanics, reeving, lifting, rated load, container fit, climbability, operator occupancy, manufacturing or road/port safety capability. Rigging animation and interaction not made.",
+  "bounds": {
+    "x": 4.6,
+    "y": 5.48,
+    "z": 6.33,
+    "unit": "m"
+  },
+  "triangles": 5384,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/logistics/logistics-fixed-four-leg-straddle-and-suspended-spreader-carrier-01/v1.0.0/model.glb",
+      "size": 240008,
+      "sha256": "c05edb36de3d62397969bd995d3a2e60e238ae74b70c5ff172489cc8164c0f61"
+    },
+    "blend": {
+      "path": "assets/logistics/logistics-fixed-four-leg-straddle-and-suspended-spreader-carrier-01/v1.0.0/source.blend",
+      "size": 1096224,
+      "sha256": "640649c94ebad642832fb327bf76fce4840534eeb8f54c1fa81bd10d524debbe"
+    },
+    "generator": {
+      "path": "assets/logistics/logistics-fixed-four-leg-straddle-and-suspended-spreader-carrier-01/v1.0.0/generate.py",
+      "size": 29551,
+      "sha256": "59e7ff8cec0c73edb5dec5e6b5a4f13bffca651594dd2d7ef8a03fe32ac90e6a"
+    },
+    "render": {
+      "path": "assets/logistics/logistics-fixed-four-leg-straddle-and-suspended-spreader-carrier-01/v1.0.0/thumbnail.png",
+      "size": 680680,
+      "sha256": "936fafdf3024fbeb9adccfe69e0365345a73400412856b5163c279ff3fbcefd8"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

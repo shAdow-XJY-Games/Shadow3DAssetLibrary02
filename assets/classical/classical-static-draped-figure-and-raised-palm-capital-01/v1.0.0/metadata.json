@@ -1,0 +1,42 @@
+{
+  "id": "classical-static-draped-figure-and-raised-palm-capital-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "classical",
+  "style": "S01-clean-geometric",
+  "title": "Static Draped Figure and Raised Palm Capital",
+  "description": "One wholly newly authored classical-inspired figure-support sculpture. A full broad ground plinth carries two complete stone feet and one continuous fully draped body through waist, shoulders, neck and a stylized adult-like head. Genuine longitudinal folds are part of the lower garment surface, not painted strips. Two whole raised bent arms end in broad palms embedded into the underside of one complete thick rectangular capital; a separate full head cushion joins the same capital above the figure. The entire human-figure-to-capital relation, open arm bays and draped body silhouette are the subject, not a fluted shaft with a replacement head or an extracted puppet under a block. All body sections, folds, hands, face and supports newly drawn; no old column or character mesh imported. Three opaque matte stone PBR roles, metres Z up and full horizontal bounds centred, one complete static prop zero scenes. Simplified generic art, not an identified archaeological monument or exact historical order. No live person, structural capacity, load path validation, construction method, material strength, installation fit, building code, rigging, animation or safety capability.",
+  "bounds": {
+    "x": 1.134,
+    "y": 0.66,
+    "z": 2.42,
+    "unit": "m"
+  },
+  "triangles": 1688,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/classical/classical-static-draped-figure-and-raised-palm-capital-01/v1.0.0/model.glb",
+      "size": 124280,
+      "sha256": "1c77389ddbcde90043add4032e5e88960d0a7c712d60405f14da214253b928c9"
+    },
+    "blend": {
+      "path": "assets/classical/classical-static-draped-figure-and-raised-palm-capital-01/v1.0.0/source.blend",
+      "size": 658960,
+      "sha256": "c45404ed742f69654b11ea17b51d9d0c80a0f3edc25874dbf864787dbdc3be43"
+    },
+    "generator": {
+      "path": "assets/classical/classical-static-draped-figure-and-raised-palm-capital-01/v1.0.0/generate.py",
+      "size": 12548,
+      "sha256": "4d264942be110ff95d6407797bfa2a007f1518d1e96eb48f6ebda791ddd070b7"
+    },
+    "render": {
+      "path": "assets/classical/classical-static-draped-figure-and-raised-palm-capital-01/v1.0.0/thumbnail.png",
+      "size": 363384,
+      "sha256": "5b42af27d78d4b855ea033f7aeab709dc9fb3c37be948f708679ac3e10c7b53a"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

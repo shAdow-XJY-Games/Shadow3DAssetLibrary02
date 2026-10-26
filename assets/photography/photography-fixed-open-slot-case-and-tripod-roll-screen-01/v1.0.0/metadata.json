@@ -1,0 +1,42 @@
+{
+  "id": "photography-fixed-open-slot-case-and-tripod-roll-screen-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "photography",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Open Slot Case and Tripod Roll Screen",
+  "description": "One newly authored complete fixed-expanded portable roll-screen exterior. Three whole splayed legs and separate finite shoes meet one central collar and a tall rear tubular mast, with three lower fixed stays. A narrow inner upper mast reaches a short forward hook supporting a whole top rail. A complete wide horizontal cylindrical case is rooted on the lower mast; its single thick C-section shell has a true continuous long upward slot and independent proud end caps. One uninterrupted thin opaque blank screen rises from inside that slot to the top rail. Its dark border and cream centre are face materials on one shared-vertex closed sheet, not duplicate coplanar overlays. No blackboard slab, panel-lift, easel, projector or old frame meshes reused. Unlike two-legged thick teaching boards this has a thin deployed sheet between lower slot case and upper rail on a rear tripod mast; unlike a wheeled lifting cradle it has no winch, wheels or tilting H carrier. Three finite ground shoes; four solid opaque PBR roles, metres Z up, complete bounds-centred horizontal origin; one prop zero scenes. Fixed appearance only: no retracting, winding, spring or tension mechanism, telescoping travel, projection optics, reflective performance, load, installation, stability or safety claim. No rigging, animation or interaction.",
+  "bounds": {
+    "x": 1.586,
+    "y": 0.7999999999999999,
+    "z": 1.962,
+    "unit": "m"
+  },
+  "triangles": 1340,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/photography/photography-fixed-open-slot-case-and-tripod-roll-screen-01/v1.0.0/model.glb",
+      "size": 72976,
+      "sha256": "5ff1974234e560730f24d3014c172578afe7588213a5c916d3086ddece4398c4"
+    },
+    "blend": {
+      "path": "assets/photography/photography-fixed-open-slot-case-and-tripod-roll-screen-01/v1.0.0/source.blend",
+      "size": 709860,
+      "sha256": "91952d154256b0c7d7304e26a83bb2e99db121dae38bd72e166f15e94a7bcdfd"
+    },
+    "generator": {
+      "path": "assets/photography/photography-fixed-open-slot-case-and-tripod-roll-screen-01/v1.0.0/generate.py",
+      "size": 12075,
+      "sha256": "3659526bfc1a714fec3cf26353d5c1e1ba50840ca3ad629b4cf89c43a78122b6"
+    },
+    "render": {
+      "path": "assets/photography/photography-fixed-open-slot-case-and-tripod-roll-screen-01/v1.0.0/thumbnail.png",
+      "size": 381497,
+      "sha256": "978ddb9434e943ab4206f7c6aca893376483e91760e6603545829bdae853a4cb"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

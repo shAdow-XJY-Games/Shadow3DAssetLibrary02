@@ -1,0 +1,42 @@
+{
+  "id": "professional-fixed-twin-side-brush-and-high-cab-road-sweeper-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "professional",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Twin Side Brush and High Cab Road Sweeper",
+  "description": "One newly authored complete compact road-sweeper-style static vehicle exterior. Four whole flat-facet tyres and full hubs on two fixed cross axles carry a new low ladder frame, narrow tall forward cab with complete thick opaque window inserts and a full fixed sloping rear collection-body exterior. Two independently mounted outboard diagonal arms each carry one integral round brush deck/spindle and a continuous closed fluted brush appearance. Between them a whole low hood has a genuinely open forward/underside mouth, two full chassis mounts and a complete opaque rising side-duct exterior reaching the rear body. This entire pickup layout, forward high cab and fixed compact rear body are not the old single-disc two-wheel push-frame scrubber with a cab added, and not the offset-cab raised haul tub with brushes attached. No old vehicle, brush, tank or tool meshes imported; all visible coordinates newly authored. One whole static prop zero scenes, four opaque constant untextured PBR roles, metres, native Z up and complete horizontal bounds centred over four real tyre facets. No people, dirt, road, liquids or process internals. Cabin and rear body are opaque exteriors, not occupiable or hollow chambers; the side duct does not claim a working internal air route. No driving, steering, wheel or brush rotation, suction, cleaning efficacy, hydraulics, electrics, disposal, noise, operator fit, manufacture, load or road/safety capability. Rigging, animation and interaction are not made or verified.",
+  "bounds": {
+    "x": 2.34,
+    "y": 3.37,
+    "z": 2.142,
+    "unit": "m"
+  },
+  "triangles": 3404,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/professional/professional-fixed-twin-side-brush-and-high-cab-road-sweeper-01/v1.0.0/model.glb",
+      "size": 168576,
+      "sha256": "3b41187a310499334e713ebaf645f3686fb7137e4b7265e2e860a10d03b9dfc9"
+    },
+    "blend": {
+      "path": "assets/professional/professional-fixed-twin-side-brush-and-high-cab-road-sweeper-01/v1.0.0/source.blend",
+      "size": 852620,
+      "sha256": "dbb695189a0db2f7e33e8f28612c730dd3262b69513138a3dde122fa84c8e480"
+    },
+    "generator": {
+      "path": "assets/professional/professional-fixed-twin-side-brush-and-high-cab-road-sweeper-01/v1.0.0/generate.py",
+      "size": 29573,
+      "sha256": "7e0f3289521d4b2f8f54c0b1db1dd3eb7aeae92be53fb3447d7dbdd8aa230bd6"
+    },
+    "render": {
+      "path": "assets/professional/professional-fixed-twin-side-brush-and-high-cab-road-sweeper-01/v1.0.0/thumbnail.png",
+      "size": 526704,
+      "sha256": "f0084122c7d5811dc93c843a15589f078ace087a1dd51fe27859824990c1eed9"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
