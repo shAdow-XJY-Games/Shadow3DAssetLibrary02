@@ -1964,6 +1964,11 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary02",
       "commit": "c7cd10225ee066ba6cdb0d345d37170c28cbb653"
+    },
+    "original-qualified-batch-1488-volume02-20261025": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary02",
+      "commit": "4a38779a3f2b7db2e86f166ceabdc30b274ca238"
     }
   },
   "assets": [
@@ -65864,6 +65869,92 @@
       "status": "verified",
       "license": "All rights reserved",
       "sourceId": "original-qualified-batch-1486-volume02-20261025"
+    },
+    {
+      "id": "regional-fixed-three-aisle-and-apsidal-hall-section-01",
+      "version": "1.0.0",
+      "category": "architecture",
+      "assetKind": "modular",
+      "theme": "regional",
+      "style": "S01-clean-geometric",
+      "title": "Fixed Three Aisle And Apsidal Hall Section",
+      "description": "One newly authored complete static architectural section of a high central longitudinal hall, two lower side aisles and a semicircular rear chamber. Two complete parallel high arcade assemblies have three genuine ground-to-arch openings each, connecting the central floor to lower lateral passages. Whole side walls and inclined aisle roofs sit below the retained high central gabled roof. A single continuous floor expands into the rear semicircular chamber, whose thick half-cylinder wall and closed thick half-dome terminate only the central hall, not all three aisles. The front half of the high roof and the front-right low roof/wall are deliberately omitted as finite presentation sections to expose the interior hierarchy; all retained pieces have closed finite edges. Unlike the earlier monitor roof alone, this includes grounded rooms, arcades, lower aisles and an apsidal termination; unlike a square groin bay it is a longitudinal three-volume organization rather than crossed cylindrical roofs. All coordinates newly authored, no old columns, roof or church parts imported. Three opaque solid PBR appearances, metres Z-up and bounds-centred ground datum, one static architecture model zero scenes. A generic artistic sectional building, not a historically exact basilica or a religious-use proposal. No people, rituals, furnishing, hidden finished front facade, complete weather enclosure, occupancy, daylight, acoustics, load, construction, historical accuracy, building-code or safety capability. No rigging animation interaction.",
+      "bounds": {
+        "x": 4.7,
+        "y": 6.41,
+        "z": 4.07,
+        "unit": "m"
+      },
+      "triangles": 1656,
+      "materials": 3,
+      "files": {
+        "glb": {
+          "path": "assets/regional/regional-fixed-three-aisle-and-apsidal-hall-section-01/v1.0.0/model.glb",
+          "size": 94772,
+          "sha256": "e9e76e7db353a23dacf6fc968fac206ad3ddcb9aed03dd8650e40eab646322f0"
+        },
+        "blend": {
+          "path": "assets/regional/regional-fixed-three-aisle-and-apsidal-hall-section-01/v1.0.0/source.blend",
+          "size": 726532,
+          "sha256": "24c54defedf39d4fd60b2e22cad22f677d0ee5636afa622e332405386eaac0ab"
+        },
+        "generator": {
+          "path": "assets/regional/regional-fixed-three-aisle-and-apsidal-hall-section-01/v1.0.0/generate.py",
+          "size": 13857,
+          "sha256": "c86acf1720c7bc23e5679432e0275a1931c63d88873c5d6f038fd6fe3849d49c"
+        },
+        "render": {
+          "path": "assets/regional/regional-fixed-three-aisle-and-apsidal-hall-section-01/v1.0.0/thumbnail.png",
+          "size": 512127,
+          "sha256": "5b064885d358e1e743719bb6c0641172fb20c681b425f3bd17e526d7821be84a"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1488-volume02-20261025"
+    },
+    {
+      "id": "restaurant-whole-open-chest-and-closed-fridge-shelf-bay-scene-01",
+      "version": "1.0.0",
+      "category": "scenes",
+      "assetKind": "scene",
+      "theme": "restaurant",
+      "style": "source-preserved-low-poly",
+      "title": "Whole Empty Chest Fridge and Corner Shelf Bay",
+      "description": "One empty restaurant cold-appliance and shelf preparation bay, one scene zero new independent models. A complete fixed-open chest freezer occupies the front-left station, with its whole deep liner, raised lid, gasket, handle and original hinges unchanged. An entire closed double-door refrigerator exterior stands separately behind it, with a positive interval beyond the chest lid envelope; its decorative door faces remain solid, with no new opening or inner chamber claim. A full three-post corner shelf stands separately at the rear-right, keeping both triangular shelves, underframes, brackets, all posts and braces intact and unstocked. The low floor and clear forward strip join these three distinct floor stations. This is not the old L kitchen continuous worktop/sink installation or the pantry table carrying small utensils. All original unit-scale mesh buffers, normals, hierarchy and opaque PBR dictionaries remain unchanged; only a bounded scene-only floor is new. No food, people, operating cold-chain, refrigeration, temperature, food-storage suitability, hygiene, load, electrical operation, moving door, accessibility, installation or safety capability. Rigging animation interaction not made.",
+      "bounds": {
+        "x": 3.4000000953674316,
+        "y": 2.799999952316284,
+        "z": 2.25,
+        "unit": "m"
+      },
+      "triangles": 2548,
+      "materials": 16,
+      "files": {
+        "glb": {
+          "path": "assets/restaurant/restaurant-whole-open-chest-and-closed-fridge-shelf-bay-scene-01/v1.0.0/model.glb",
+          "size": 205852,
+          "sha256": "fc4f8ac1a8217d96e35e9e91bf0f23235b25a8b19a307800bc64612762d247c0"
+        },
+        "blend": {
+          "path": "assets/restaurant/restaurant-whole-open-chest-and-closed-fridge-shelf-bay-scene-01/v1.0.0/source.blend",
+          "size": 1423812,
+          "sha256": "d069cd96a9f739c2c9d6930eca05d456fc434aac26f20cddb1f2fa74853a008e"
+        },
+        "generator": {
+          "path": "assets/restaurant/restaurant-whole-open-chest-and-closed-fridge-shelf-bay-scene-01/v1.0.0/generate.py",
+          "size": 83610,
+          "sha256": "954a4b8fad806b4ce175d092f4029e8b8b8d354da26ed562232f707bf56db80c"
+        },
+        "render": {
+          "path": "assets/restaurant/restaurant-whole-open-chest-and-closed-fridge-shelf-bay-scene-01/v1.0.0/thumbnail.png",
+          "size": 536704,
+          "sha256": "6b5a50d5904effa3a763cf90ee28e5cb5d047277857cecb62ede8bbd2096aa8d"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1488-volume02-20261025"
     }
   ]
 }
