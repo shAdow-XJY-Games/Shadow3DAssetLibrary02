@@ -1799,6 +1799,11 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary02",
       "commit": "d2078fd24a6d1ff3ea524f43484f2c7e09715136"
+    },
+    "original-qualified-batch-1371-volume02-20261025": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary02",
+      "commit": "e6386e6c634db4752b243d8bbfaf2c0de90ddf69"
     }
   },
   "assets": [
@@ -60711,6 +60716,49 @@
       "status": "verified",
       "license": "All rights reserved",
       "sourceId": "original-qualified-batch-1370-volume02-20261025"
+    },
+    {
+      "id": "carpentry-whole-treadle-stone-and-tool-bench-preparation-scene-01",
+      "version": "1.0.0",
+      "category": "scenes",
+      "assetKind": "scene",
+      "theme": "carpentry",
+      "style": "source-preserved-low-poly",
+      "title": "Whole Treadle Grindstone and Tool Preparation Bench",
+      "description": "One complete static carpentry tool-preparation corner, one scene and zero new models. The complete original treadle standing grindstone occupies its own right-hand floor station, retaining the entire stone, axle supports, runners, forward rest, long footboard and connecting rod. A separate complete original open worktable stands to its rear-left and supports one complete original transverse-grip spokeshave. The whole footboard and front rest remain free of the table and tool; an empty finite foreground separates the floor-level pedal station from the elevated small-tool staging surface. This is not the old joint-sample assembly table and rear freestanding tool rack with a different sample: no joint sample or tool rack is used, and the independent tall floor machine and its low forward treadle establish a different staging relationship. All three original complete objects retain their full raw GLB buffers, per-face PBR and internal hierarchy at unit scale. Only rigid whole translations and a finite scene-only floor are new. No old components are extracted, recoloured, resized or counted as new models. Fixed empty game-art display only; no grinding, sharpening, linkage motion, tool contact with the stone, worker, human reach, access compliance, loading, stability or safety claim. Rigging animation and interaction are not made.",
+      "bounds": {
+        "x": 2.799999952316284,
+        "y": 2.200000047683716,
+        "z": 1.6799999475479126,
+        "unit": "m"
+      },
+      "triangles": 3700,
+      "materials": 10,
+      "files": {
+        "glb": {
+          "path": "assets/carpentry/carpentry-whole-treadle-stone-and-tool-bench-preparation-scene-01/v1.0.0/model.glb",
+          "size": 256012,
+          "sha256": "37dd0f8686de3e00a95f91694d13ff0824d796568fe4b4a69f62e07c439dcdac"
+        },
+        "blend": {
+          "path": "assets/carpentry/carpentry-whole-treadle-stone-and-tool-bench-preparation-scene-01/v1.0.0/source.blend",
+          "size": 1325436,
+          "sha256": "c147ddfa1f5b7c619cc4eef6439435f896f59f96711409aa43cfc597038650c6"
+        },
+        "generator": {
+          "path": "assets/carpentry/carpentry-whole-treadle-stone-and-tool-bench-preparation-scene-01/v1.0.0/generate.py",
+          "size": 93325,
+          "sha256": "dc7796d8ce1d74b9121f80db047f9781a1b6bcb6e85648994a1c5edf8f6555f9"
+        },
+        "render": {
+          "path": "assets/carpentry/carpentry-whole-treadle-stone-and-tool-bench-preparation-scene-01/v1.0.0/thumbnail.png",
+          "size": 502812,
+          "sha256": "4f788b9a1f727c567150cb240449dda0d9432ef67deb85e0f6db45b8ed7b2837"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1371-volume02-20261025"
     }
   ]
 }
