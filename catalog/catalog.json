@@ -1919,6 +1919,11 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary02",
       "commit": "760bc864552af79c48b8188e28af94a9cbf2cebf"
+    },
+    "original-qualified-batch-1470-volume02-20261025": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary02",
+      "commit": "ba4ff2f4277338b4d7b0f8466147431b1c038415"
     }
   },
   "assets": [
@@ -65045,6 +65050,92 @@
       "status": "verified",
       "license": "All rights reserved",
       "sourceId": "original-qualified-batch-1468-volume02-20261025"
+    },
+    {
+      "id": "photography-whole-empty-jib-and-camera-pedestal-preparation-bay-scene-01",
+      "version": "1.0.0",
+      "category": "scenes",
+      "assetKind": "scene",
+      "theme": "photography",
+      "style": "source-preserved-low-poly",
+      "title": "Whole Empty Jib and Camera Pedestal Preparation Bay",
+      "description": "One static camera-support equipment preparation bay, one scene and zero new independent models. Three whole qualified originals retain complete mesh buffers, opaque PBR, normals, internal hierarchies and unit scale: a complete empty parallel-arm camera jib independently occupies the rear position, while a whole three-arm caster/column pedestal in front carries the entire twin-magazine turret cine camera on its finite upper plate. Only whole translations place these objects; camera body sole rests on the plate without altered parts or a newly modeled adapter. The jib carrier remains empty. Unlike the portrait sweep scene, there is no subject backdrop or lighting setup; unlike the double-table film inspection corner, this groups full floor-standing support equipment rather than rewind and slate work surfaces. One new finite common slab is scene-only. The fixed geometric display is not verified equipment compatibility, mounted retention or safe loading. No people, camera imaging, optics, motion, balance, hydraulics, rolling, installation, load rating, operational procedure or safety capability. Rigging animation interaction not made.",
+      "bounds": {
+        "x": 4.199999809265137,
+        "y": 3.4000000953674316,
+        "z": 2.2899999618530273,
+        "unit": "m"
+      },
+      "triangles": 7152,
+      "materials": 11,
+      "files": {
+        "glb": {
+          "path": "assets/photography/photography-whole-empty-jib-and-camera-pedestal-preparation-bay-scene-01/v1.0.0/model.glb",
+          "size": 368684,
+          "sha256": "b9153e8120449aaaa361fcf4ab905edcae95ca7748fcd8222cdfd704356910a9"
+        },
+        "blend": {
+          "path": "assets/photography/photography-whole-empty-jib-and-camera-pedestal-preparation-bay-scene-01/v1.0.0/source.blend",
+          "size": 1773436,
+          "sha256": "743966331b860740f0fb6e3a9e751f58ec340b36937005941f1201b3c5c53817"
+        },
+        "generator": {
+          "path": "assets/photography/photography-whole-empty-jib-and-camera-pedestal-preparation-bay-scene-01/v1.0.0/generate.py",
+          "size": 121565,
+          "sha256": "9d85265bbc2219a00ff403ec4ea8c24a4bc39f4b1dfab0b423c2c2e06b657040"
+        },
+        "render": {
+          "path": "assets/photography/photography-whole-empty-jib-and-camera-pedestal-preparation-bay-scene-01/v1.0.0/thumbnail.png",
+          "size": 509535,
+          "sha256": "e2600af1de7e631d8d9843a7bded58cd185040ea71d7442c8aee8bcc953ddde2"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1470-volume02-20261025"
+    },
+    {
+      "id": "spacebase-fixed-segmented-reflector-and-layered-kite-shield-observatory-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "spacebase",
+      "style": "S01-clean-geometric",
+      "title": "Fixed Segmented Reflector and Layered Kite Shield Observatory",
+      "description": "One wholly newly authored complete deployed orbital-observatory-style exterior. A closed chamfered central instrument bus carries a tall rear spine and complete shallow concave backplate, nineteen separate thick opaque hexagonal face elements with real small gaps, and three entire forward struts converging on one complete secondary-style pod. Three whole broad kite-shaped shield shells sit below this instrument, each a single finite-thickness shallow folded surface with its own complete outline and real interlayer gaps away from the central bus. The bus joins every layer and bears a small whole rear equipment cover. Unlike the old ground-rocker telescope, there is no square mirror box, long tubular diagonal-rod span, front cage, side eyepiece or ground altitude bearings; unlike the twin-wing solar array there is no mast/spar pair supporting two ladder-frame panel wings or painted cell grid. The whole elevated primary/forward pod and broad under-shield/common-bus relationship is newly designed, not old mirrors pasted onto solar panels, a number change or imported mesh collection. One model zero scenes, four opaque constant untextured PBR appearances, metre-style native Z-up coordinates and complete horizontal envelope centred over the bus lower display datum. All dimensions simplified artistic; no named real mission or technical replica. The display datum does not imply actual ground stability or space flight. No optical prescription, reflection/collection/sensing, alignment, light path, thermal control, energy or electrical generation, electronics, deployment, orbit, navigation, propulsion, gravity, balance, load, manufacture, working instrument, spacecraft or equipment safety capability is made or verified. Rigging animation and interaction not made.",
+      "bounds": {
+        "x": 3.5776,
+        "y": 5.096,
+        "z": 3.6,
+        "unit": "m"
+      },
+      "triangles": 1628,
+      "materials": 4,
+      "files": {
+        "glb": {
+          "path": "assets/spacebase/spacebase-fixed-segmented-reflector-and-layered-kite-shield-observatory-01/v1.0.0/model.glb",
+          "size": 114564,
+          "sha256": "af0dd4b4c0fd10364a59787a8ac7a54017944499b75b4fda654fae715816efe7"
+        },
+        "blend": {
+          "path": "assets/spacebase/spacebase-fixed-segmented-reflector-and-layered-kite-shield-observatory-01/v1.0.0/source.blend",
+          "size": 759968,
+          "sha256": "ab37de92ef9727c8aad85886705cc8bb0e0b2685e9203e034a47a895d63d7b07"
+        },
+        "generator": {
+          "path": "assets/spacebase/spacebase-fixed-segmented-reflector-and-layered-kite-shield-observatory-01/v1.0.0/generate.py",
+          "size": 27599,
+          "sha256": "ab84b97bd5be8cf8bbd8ba888ebe8543d3e1bbabaf5b6b0072dd3f14f8285450"
+        },
+        "render": {
+          "path": "assets/spacebase/spacebase-fixed-segmented-reflector-and-layered-kite-shield-observatory-01/v1.0.0/thumbnail.png",
+          "size": 578576,
+          "sha256": "058055df407d0b3280a44a02fa3a95fce28fab675988f0bcc199978090a08530"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1470-volume02-20261025"
     }
   ]
 }
