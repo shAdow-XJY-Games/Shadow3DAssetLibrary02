@@ -1,0 +1,42 @@
+{
+  "id": "nature-whole-stepped-columnar-joint-rock-escarpment-01",
+  "version": "1.0.0",
+  "category": "modular",
+  "assetKind": "prop",
+  "theme": "nature",
+  "style": "warm-handcrafted-village",
+  "title": "Whole Stepped Columnar Joint Rock Escarpment",
+  "description": "One independently authored whole stylized columnar-joint rock escarpment. A continuous irregular low rock apron carries tightly packed complete polygonal shafts with genuinely separated deep longitudinal joint faces, small coherent sidewall kinks and staggered broken top elevations. The low front cells rise through a middle band into a high rear crown, making one stepped cliff mass rather than scattered rocks, a pillar-count variant or a colour replacement. All numeric geometry new; no old wall, terrain or mineral mesh imported. One complete terrain prop zero scenes, four matte opaque rock PBR roles. Fixed artistic visual form only: no geological formation, exact basalt crystallography, age, climbing, navigation, collision, stability or engineering safety claim. No plants, water, lava effects, rigging or animation.",
+  "bounds": {
+    "x": 3.136049986,
+    "y": 2.163934469,
+    "z": 2.130919218,
+    "unit": "m"
+  },
+  "triangles": 1170,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/nature/nature-whole-stepped-columnar-joint-rock-escarpment-01/v1.0.0/model.glb",
+      "size": 97544,
+      "sha256": "aca4821dd45c5ba8029d86c78f1a9650f32646cdb992fd39fa946d784d682dce"
+    },
+    "blend": {
+      "path": "assets/nature/nature-whole-stepped-columnar-joint-rock-escarpment-01/v1.0.0/source.blend",
+      "size": 663864,
+      "sha256": "eb6c51ed1c000262943bc41cabf9134ba7ed3fe1615359a0fcc2e6734dad4fac"
+    },
+    "generator": {
+      "path": "assets/nature/nature-whole-stepped-columnar-joint-rock-escarpment-01/v1.0.0/generate.py",
+      "size": 28848,
+      "sha256": "7d4e0b59eb5db14a4ea72e22faf0449bd075c94e36cdc8016d45e74e81819134"
+    },
+    "render": {
+      "path": "assets/nature/nature-whole-stepped-columnar-joint-rock-escarpment-01/v1.0.0/thumbnail.png",
+      "size": 508320,
+      "sha256": "c3e1bd51fa4ab6ee288aecd80de89b243d3f9c3e3773ead194e12e664b218eed"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
