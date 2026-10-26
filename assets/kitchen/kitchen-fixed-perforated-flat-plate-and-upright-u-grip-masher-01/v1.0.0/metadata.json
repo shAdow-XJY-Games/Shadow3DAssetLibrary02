@@ -1,0 +1,42 @@
+{
+  "id": "kitchen-fixed-perforated-flat-plate-and-upright-u-grip-masher-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "kitchen",
+  "style": "source-preserved-low-poly",
+  "title": "Fixed Perforated Flat Plate and Upright U Grip Masher",
+  "description": "One newly authored complete fixed hand-masher-style exterior. A single thick flat rectangular pressing-plate appearance contains twelve actual bounded through apertures and one continuous perimeter. A complete curved U-shaped support rises from both opposite side roots of that plate into one uninterrupted upper crossbar, leaving a large empty vertical region above the plate. A full turned-looking grip encloses the central upper crossbar. The plane of the whole plate is perpendicular to the upright grip frame; this is not the old slotted turner with a single coplanar neck and handle or a deep food-mill bowl with a crank and sweep. Every visible vertex newly authored; no old plate, bowl or handle mesh imported. Three opaque constant PBR roles, metres Z up and full horizontally centred ground datum on the plate underside, one whole model zero scenes. Empty static artistic kitchen-tool appearance only: no food, mashing performance, food contact, strength, flex, hand fit, cleaning, manufacture, operating guidance or safety capability. Rigging animation and interaction not made.",
+  "bounds": {
+    "x": 0.15000000596046448,
+    "y": 0.10000000149011612,
+    "z": 0.21899999678134918,
+    "unit": "m"
+  },
+  "triangles": 740,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/kitchen/kitchen-fixed-perforated-flat-plate-and-upright-u-grip-masher-01/v1.0.0/model.glb",
+      "size": 65108,
+      "sha256": "64e58c3f38ffa90daa379f45649e5d785acc999fb9b9e7be6ffc7d5083e5cfbd"
+    },
+    "blend": {
+      "path": "assets/kitchen/kitchen-fixed-perforated-flat-plate-and-upright-u-grip-masher-01/v1.0.0/source.blend",
+      "size": 629696,
+      "sha256": "1cf2b7e19b49d3f53c3231b08c9cba30d96f3897f444413e3a6c652e635768f6"
+    },
+    "generator": {
+      "path": "assets/kitchen/kitchen-fixed-perforated-flat-plate-and-upright-u-grip-masher-01/v1.0.0/generate.py",
+      "size": 15095,
+      "sha256": "479e05575f65ca3f31b3ab568d4ccbd9e5d02e980311e0ce2fd1da5775515c55"
+    },
+    "render": {
+      "path": "assets/kitchen/kitchen-fixed-perforated-flat-plate-and-upright-u-grip-masher-01/v1.0.0/thumbnail.png",
+      "size": 492270,
+      "sha256": "bb49d66ea5ed8c6b63719e31e75b70a40281e1df6d5abed3b38ce1a2ef24f8d0"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
