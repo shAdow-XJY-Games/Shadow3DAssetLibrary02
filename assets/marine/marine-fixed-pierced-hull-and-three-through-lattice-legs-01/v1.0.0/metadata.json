@@ -1,0 +1,42 @@
+{
+  "id": "marine-fixed-pierced-hull-and-three-through-lattice-legs-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "marine",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Pierced Hull And Three Through Lattice Legs",
+  "description": "One wholly newly authored fixed self-elevating-work-barge-inspired exterior. A single continuous low rectangular hull-like mass has three genuine square wells passing fully through its thickness. Three complete long four-chord lattice legs extend through those wells both above and below the raised deck, each ending on its own broad grounded foot. Paired open guide collars, four short guide posts and fixed guide-pad appearances surround each leg above the hull; no solid cap hides the wells. One low blank station housing and two full side edge rails complete the same apparatus. Unlike the U-section floating dock, there is no central ship berth between high wing walls; unlike a tower crane, the wide deck surrounds through-going legs instead of sitting above one mast beneath a jib. All hull, legs, lattice bars, through-wells and guide structures newly authored, with no old crane/dock pieces imported. Three opaque solid PBR appearances, metres Z up and bounds-centred ground datum, one whole model zero scenes. Permanent dry static display only; hull is a solid external volume, not a ballast interior. No water, vessel cargo, people, jacking drive, leg travel, flotation, stability, offshore suitability, structural load, human access, installation, manufacture or safety performance. No rigging animation or interaction made.",
+  "bounds": {
+    "x": 4.6,
+    "y": 3.3,
+    "z": 4.28,
+    "unit": "m"
+  },
+  "triangles": 2420,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/marine/marine-fixed-pierced-hull-and-three-through-lattice-legs-01/v1.0.0/model.glb",
+      "size": 172824,
+      "sha256": "0da7f739705792882fdf1afe38fbb050074014d02e9aa66c2ab1a332ce4c8dea"
+    },
+    "blend": {
+      "path": "assets/marine/marine-fixed-pierced-hull-and-three-through-lattice-legs-01/v1.0.0/source.blend",
+      "size": 1187960,
+      "sha256": "49b1174d0aef14e76a77e5fba5f3c54a8195695c3098a73d6adc01ca5f8af011"
+    },
+    "generator": {
+      "path": "assets/marine/marine-fixed-pierced-hull-and-three-through-lattice-legs-01/v1.0.0/generate.py",
+      "size": 12560,
+      "sha256": "54d086d4f0230772eb78a95ac18938f2039420f2b7978d10620acf1dc001d196"
+    },
+    "render": {
+      "path": "assets/marine/marine-fixed-pierced-hull-and-three-through-lattice-legs-01/v1.0.0/thumbnail.png",
+      "size": 548326,
+      "sha256": "c85994b1dea611b212c70ea2508be2d88bc6668dff4c9f408a407979f34c8110"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

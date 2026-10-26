@@ -1,0 +1,42 @@
+{
+  "id": "textile-whole-tabletop-lace-and-empty-hoop-preparation-bay-scene-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "textile",
+  "style": "source-preserved-low-poly",
+  "title": "Whole Tabletop Lace and Empty Hoop Preparation Bay",
+  "description": "One static textile handcraft preparation bay, one scene and zero new independent models. Three complete qualified originals retain all geometry buffers, normals, opaque PBR, hierarchy and unit scale: a full roller-pillow and fanned-bobbin lace apparatus rests with both complete runners on an unchanged open worktable, beside an independent complete empty split-double-hoop tilting floor stand. Only whole translations and a common scene-only slab are new. The lace threads and bobbins remain entirely within their original apparatus; no yarn or cloth links the stations and the embroidery aperture stays empty. Unlike the whole warping and treadle-loom bay or carding/spinning corner, these are the actual small handcraft preparation objects rather than loom or fibre processing equipment. No claimed new functional process, working mechanism, tension, stitch production, human fit, accessibility, safe loading, manufacture or safety performance. Rigging animation interaction not made.",
+  "bounds": {
+    "x": 3.0999999046325684,
+    "y": 2.299999952316284,
+    "z": 1.4431383609771729,
+    "unit": "m"
+  },
+  "triangles": 6392,
+  "materials": 11,
+  "files": {
+    "glb": {
+      "path": "assets/textile/textile-whole-tabletop-lace-and-empty-hoop-preparation-bay-scene-01/v1.0.0/model.glb",
+      "size": 383876,
+      "sha256": "df7c2392bc379a1c65cb5898fedee106078fcea2b951638487b42b35d14aaf0a"
+    },
+    "blend": {
+      "path": "assets/textile/textile-whole-tabletop-lace-and-empty-hoop-preparation-bay-scene-01/v1.0.0/source.blend",
+      "size": 1749244,
+      "sha256": "c360495210654977591c7aa1b244282a3fa66d30dab49c6d49f50dcb93c350b1"
+    },
+    "generator": {
+      "path": "assets/textile/textile-whole-tabletop-lace-and-empty-hoop-preparation-bay-scene-01/v1.0.0/generate.py",
+      "size": 120612,
+      "sha256": "12d64e727680ba5d884250053a4079bb6462fef2f660881c820046a6db4af786"
+    },
+    "render": {
+      "path": "assets/textile/textile-whole-tabletop-lace-and-empty-hoop-preparation-bay-scene-01/v1.0.0/thumbnail.png",
+      "size": 504808,
+      "sha256": "21448e56949d6a708f912add1d5dd0ad2384cd1ed90e218e6f0b94aa1b6c78c7"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
