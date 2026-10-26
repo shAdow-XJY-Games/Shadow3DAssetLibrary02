@@ -1704,6 +1704,11 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary02",
       "commit": "e79bf1eb289d588f551d16235cc9c0331b18466f"
+    },
+    "original-qualified-batch-1323-volume02-20261025": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary02",
+      "commit": "509a7b3e8dbf6ea2d563f4aa56eea1ce501b0b64"
     }
   },
   "assets": [
@@ -58509,6 +58514,92 @@
       "status": "verified",
       "license": "All rights reserved",
       "sourceId": "original-qualified-batch-1321-volume02-20261025"
+    },
+    {
+      "id": "education-whole-dual-chamber-and-rhombus-link-viewing-bay-scene-01",
+      "version": "1.0.0",
+      "category": "scenes",
+      "assetKind": "scene",
+      "theme": "education",
+      "style": "source-preserved-low-poly",
+      "title": "Whole Dual Chamber And Rhombus Link Viewing Bay",
+      "description": "One static mechanical teaching viewing bay, one scene and zero new independent models. Four complete qualified instances retain unit scale, full original mesh buffers, normals, PBR dictionaries and internal hierarchy: two entire raised crank desks separately support the full unequal double-chamber and phased-rod exhibit and the full closed-rhombus long-link inversor exhibit. The desks stand side by side with a genuine central gap, one station set farther back, and an uninterrupted foreground viewing strip. Each entire apparatus base is contained on its actual complete writing tabletop. Both exhibit fronts face the same open viewing side, rather than the old single turned desk beside a floor-level orthogonal-disc exhibit, or the incline/U-tube desk beside a pan and stool. A single scene-only finite floor carries both desks. The subjects are not connected into one mechanism; repeated furniture is not a new variant or model. No old component is removed, recoloured, resized or separately counted. Static unoccupied art only, no thermodynamic cycle, motion, linkage solution, experimental accuracy, heat, electricity, load, physical stability, ergonomics, accessibility, installation or safety capability; no rigging, animation or interaction.",
+      "bounds": {
+        "x": 4.300000190734863,
+        "y": 2.299999952316284,
+        "z": 2.0850000381469727,
+        "unit": "m"
+      },
+      "triangles": 6060,
+      "materials": 15,
+      "files": {
+        "glb": {
+          "path": "assets/education/education-whole-dual-chamber-and-rhombus-link-viewing-bay-scene-01/v1.0.0/model.glb",
+          "size": 521600,
+          "sha256": "3359c1f13dd32c5e6037855d994b186c55df44d2643fda52047fcce4913b470c"
+        },
+        "blend": {
+          "path": "assets/education/education-whole-dual-chamber-and-rhombus-link-viewing-bay-scene-01/v1.0.0/source.blend",
+          "size": 1946060,
+          "sha256": "3ac6b5d7d7a96c6135d3c1a8430bc0f5de2cf14bed29e00c1e285fcf5b763d5b"
+        },
+        "generator": {
+          "path": "assets/education/education-whole-dual-chamber-and-rhombus-link-viewing-bay-scene-01/v1.0.0/generate.py",
+          "size": 105959,
+          "sha256": "69777d4363e61ad046776e1716664ba15c464b2917e0f3249e6929698191ce06"
+        },
+        "render": {
+          "path": "assets/education/education-whole-dual-chamber-and-rhombus-link-viewing-bay-scene-01/v1.0.0/thumbnail.png",
+          "size": 494598,
+          "sha256": "2f4afb0b763a3834abeba73eb7c1a74e6f9f270418386859c69924557f8fae52"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1323-volume02-20261025"
+    },
+    {
+      "id": "textile-fixed-cross-carriage-and-twin-roll-longarm-quilting-frame-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "textile",
+      "style": "S01-clean-geometric",
+      "title": "Fixed Cross Carriage and Twin Roll Longarm Quilting Frame",
+      "description": "One newly authored complete fixed longarm-quilting-frame appearance. Four whole grounded legs and a common open chassis carry two full long rails. A complete cross carriage rests on four lower wheels; two transverse rails carry a second whole four-wheel saddle and one continuous long-throat machine casing with an integral lower bed, raised rear column and forward overhanging head. Two separately supported full-width cloth rollers and axles flank a single continuous blank thick cloth sheet crossing the open working field and curling over both rollers. A full side handwheel, plain top spool, blank control, two forward guide grips and finite blunt needle/presser appearances belong to the one whole assembly. All geometry independently authored, not an old sewing workstation placed on a generic table or an extracted shoe-patcher head. Unlike the old fixed tabletop bed or upturned narrow horn, the broad roll-held field surrounds a two-stage rail carriage with a full long-clearance head. Four opaque PBR roles, metres Z up and whole horizontal bounds-centred ground origin; one model zero scenes. Static artistic machine exterior with one blank display cloth only: no sewing, cutting, needle motion, stitch formation, thread path, carriage travel, roller rotation, tension, workpiece compatibility, ergonomics, load, manufacture or operating safety. Rigging animation interaction not made.",
+      "bounds": {
+        "x": 2.18,
+        "y": 1.44,
+        "z": 1.74,
+        "unit": "m"
+      },
+      "triangles": 2976,
+      "materials": 4,
+      "files": {
+        "glb": {
+          "path": "assets/textile/textile-fixed-cross-carriage-and-twin-roll-longarm-quilting-frame-01/v1.0.0/model.glb",
+          "size": 168780,
+          "sha256": "4cba1265f273982664ae74a83f7d6491d1d1712ddcff3bda1f363648ac95daa1"
+        },
+        "blend": {
+          "path": "assets/textile/textile-fixed-cross-carriage-and-twin-roll-longarm-quilting-frame-01/v1.0.0/source.blend",
+          "size": 1025268,
+          "sha256": "04af16f5d32ff93d7b64a2daf394aadd3340b426f5eae66d679577d344f9900d"
+        },
+        "generator": {
+          "path": "assets/textile/textile-fixed-cross-carriage-and-twin-roll-longarm-quilting-frame-01/v1.0.0/generate.py",
+          "size": 13282,
+          "sha256": "5d90136ab6bfa10d3bd0a9d887453bbc845e5f428d9c540ab46f87a631f607dd"
+        },
+        "render": {
+          "path": "assets/textile/textile-fixed-cross-carriage-and-twin-roll-longarm-quilting-frame-01/v1.0.0/thumbnail.png",
+          "size": 441575,
+          "sha256": "2a7e3fbf0f06a8c61698579e51d8dd5fea3ad42ea936c0891d96c4e8b6935eb6"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1323-volume02-20261025"
     }
   ]
 }
