@@ -1,0 +1,42 @@
+{
+  "id": "agriculture-whole-long-apron-box-and-rear-vertical-drum-spreader-01",
+  "version": "1.0.0",
+  "category": "modular",
+  "assetKind": "prop",
+  "theme": "agriculture",
+  "style": "warm-handcrafted-village",
+  "title": "Whole Long Apron Box and Rear Vertical Drum Spreader",
+  "description": "One independently authored complete empty rear-drum agricultural spreader-trailer appearance. A long low towable frame with two full road wheels and a finite parking prop carries a deep outward-sided box with a closed front, whole slatted apron floor and genuinely open rear. Beyond that opening a full-height independent bearing gate supports two complete vertical drums, each with a continuous thick blunt helical vane; lower and upper beams join the whole frame. The long apron-box-to-rear-upright-drum relationship differs from the existing hand-push round funnel and horizontal spinner underneath, and from the compact closed-back cargo tub. All visible coordinates are new, not old trailer geometry with extra cargo or a copied auger. One model zero scenes, four opaque PBR materials, no contents. Static fixed artistic exterior only: no conveying, manure/fertilizer compatibility, throwing, drive, flow, coverage, rotation, coupling fit, towing, load, handling, manufacture or safety performance. Rigging animation interaction not made.",
+  "bounds": {
+    "x": 2.25999999,
+    "y": 4.464878082,
+    "z": 1.99000001,
+    "unit": "m"
+  },
+  "triangles": 1400,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/agriculture/agriculture-whole-long-apron-box-and-rear-vertical-drum-spreader-01/v1.0.0/model.glb",
+      "size": 89480,
+      "sha256": "3efa51836e6edffb832933875db7da12b0f1330ac444b264db30093fcdc3ab3a"
+    },
+    "blend": {
+      "path": "assets/agriculture/agriculture-whole-long-apron-box-and-rear-vertical-drum-spreader-01/v1.0.0/source.blend",
+      "size": 719264,
+      "sha256": "c9e69c7ee3086f4e64782584ff0ccc0b3fae44f9ed9201209e15be352b75db33"
+    },
+    "generator": {
+      "path": "assets/agriculture/agriculture-whole-long-apron-box-and-rear-vertical-drum-spreader-01/v1.0.0/generate.py",
+      "size": 31635,
+      "sha256": "b308580bc7e03f7f34952a9de9c8e7368a3de1af57dd13d8b7e387241b3a562a"
+    },
+    "render": {
+      "path": "assets/agriculture/agriculture-whole-long-apron-box-and-rear-vertical-drum-spreader-01/v1.0.0/thumbnail.png",
+      "size": 523865,
+      "sha256": "10ae99a8df2dc28f388b309961de9e9747de859de5a1af265ce66785399fac63"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

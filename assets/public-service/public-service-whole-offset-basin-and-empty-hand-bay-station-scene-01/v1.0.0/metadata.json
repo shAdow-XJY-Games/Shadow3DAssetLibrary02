@@ -1,0 +1,42 @@
+{
+  "id": "public-service-whole-offset-basin-and-empty-hand-bay-station-scene-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "public-service",
+  "style": "source-preserved-low-poly",
+  "title": "Whole Offset Basin and Empty Hand Bay Station",
+  "description": "One empty public wash-and-dry equipment preparation point, one scene zero new independent models. A complete original open-frame offset-basin sink table stands at rear-left, retaining its deep inner basin floor, entire ribbed side deck, angular tap exterior, splash panel and both open end trestles. A separate entire original opposed-shoulder hand-bay appliance stands forward-right with its real top-open and side-open deep bay unchanged. The two whole grounded stations face a shared empty front floor and have a positive lateral interval, rather than being fitted into one continuous countertop. The laboratory-origin sink is openly reused as the same unchanged visual prop, not a new public-facility fixture. The original flat dark drain patch remains a material partition only, not a new drain hole. Unlike the old sink beside tall storage cabinet and the four-station floor-cleaning machinery bay, there is no storage, cleaning bucket, floor buffer or upright cleaner here: this is a bounded basin-and-empty-hand-bay artistic station. All original unit-scale buffers, normals, complete PBR dictionaries and internal hierarchy remain unchanged under whole translations. Only a finite low floor is new scene-only geometry. No person, hands, water, soap, pipe connection, washing, drying, sanitation, airflow, electrical operation, human fit, accessibility, load, installation or safety capability is asserted. Rigging animation interaction not made.",
+  "bounds": {
+    "x": 2.5999999046325684,
+    "y": 1.7999999523162842,
+    "z": 1.3499999046325684,
+    "unit": "m"
+  },
+  "triangles": 684,
+  "materials": 9,
+  "files": {
+    "glb": {
+      "path": "assets/public-service/public-service-whole-offset-basin-and-empty-hand-bay-station-scene-01/v1.0.0/model.glb",
+      "size": 61736,
+      "sha256": "2854c5f78ca49abb9cb9c5b175a03d3f2fd74be472b2edf281678c76a6ff76aa"
+    },
+    "blend": {
+      "path": "assets/public-service/public-service-whole-offset-basin-and-empty-hand-bay-station-scene-01/v1.0.0/source.blend",
+      "size": 818456,
+      "sha256": "fb207f14a5808f75355a10b600d616ec59d274da9f72abaf83a87933d94913a7"
+    },
+    "generator": {
+      "path": "assets/public-service/public-service-whole-offset-basin-and-empty-hand-bay-station-scene-01/v1.0.0/generate.py",
+      "size": 52237,
+      "sha256": "0fbf968274684959653983c004a685cdc1ab45d90bd58bb07c1163699aee1701"
+    },
+    "render": {
+      "path": "assets/public-service/public-service-whole-offset-basin-and-empty-hand-bay-station-scene-01/v1.0.0/thumbnail.png",
+      "size": 484006,
+      "sha256": "28ed2c6a0adac900677b8d13edef48e734e81a5b3630e49e1b6ec92f2ae0904c"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

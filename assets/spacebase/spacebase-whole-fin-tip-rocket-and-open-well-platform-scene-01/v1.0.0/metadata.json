@@ -1,0 +1,42 @@
+{
+  "id": "spacebase-whole-fin-tip-rocket-and-open-well-platform-scene-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "spacebase",
+  "style": "source-preserved-low-poly",
+  "title": "Whole Fin Tip Rocket and Open Well Platform",
+  "description": "One static fictional non-weapon space-display scene, one scene and zero new independent models. One entire qualified stepped-body ogive-fairing rocket stands at original unit scale on one complete original octagonal well-and-outlet platform. All four whole fin-tip sole patches sit on the actual upper field outside the square central well; the original downward-open blind decorative bell is above that well with a visible fixed vertical gap. The complete original side approach and low front outlet remain present and empty. One finite scene-only apron supports both the original full plinth sole and whole ramp sole. Original rocket body, fins and blind bell are not extracted, resized, posed or rebuilt; the platform, turning inner void, full side ramp and per-face markings are unchanged. Both complete original GLBs retain all raw vertex, index and normal payload bytes, local transforms and full material dictionaries, only whole parent translations are added. This mounted four-tip/annular-field relation differs from the old separate landing-platform and offset access-lift court and from the junction/solar-array/rover forecourt. No new tower, launcher, engine, flame, fuel, vehicle, boarding mechanism or repeated model is counted. Empty static artistic arrangement only. The geometric contact and open spaces are not a working rocket-platform compatibility or load assessment; no thrust, exhaust route, launch, propulsion, orbit, flight, thermal, clearance standard, evacuation, access, manufacture, installation or equipment safety capability is made or verified. All original limitations remain. Rigging animation and interaction are not made.",
+  "bounds": {
+    "x": 7.5,
+    "y": 5.599999904632568,
+    "z": 6.989999771118164,
+    "unit": "m"
+  },
+  "triangles": 1892,
+  "materials": 9,
+  "files": {
+    "glb": {
+      "path": "assets/spacebase/spacebase-whole-fin-tip-rocket-and-open-well-platform-scene-01/v1.0.0/model.glb",
+      "size": 102208,
+      "sha256": "a12c1fa6d4a078bc1893a573ea413e2dced41e7513bc14799bbc16dd6c362e8f"
+    },
+    "blend": {
+      "path": "assets/spacebase/spacebase-whole-fin-tip-rocket-and-open-well-platform-scene-01/v1.0.0/source.blend",
+      "size": 142136,
+      "sha256": "d16b9ae4a6de231ecae7048cb6ee8142ac6aecbde0f548ecea516bd37079253f"
+    },
+    "generator": {
+      "path": "assets/spacebase/spacebase-whole-fin-tip-rocket-and-open-well-platform-scene-01/v1.0.0/generate.py",
+      "size": 44276,
+      "sha256": "3ec836f3d0a44b66fa80304762b01bb0492ee1fd751f8c3711f7c39d30660e54"
+    },
+    "render": {
+      "path": "assets/spacebase/spacebase-whole-fin-tip-rocket-and-open-well-platform-scene-01/v1.0.0/thumbnail.png",
+      "size": 486952,
+      "sha256": "216bd3226b2b9e1005ab1741755ca1427b663889e85b2b2d3702f949866bbb88"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
