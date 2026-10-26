@@ -1984,6 +1984,11 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary02",
       "commit": "6b7314732484349902f5e0b7e05b2feb7ec9ab17"
+    },
+    "original-qualified-batch-1499-volume02-20261025": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary02",
+      "commit": "d8ca980f040c41f285017098a7e6edd7e468425e"
     }
   },
   "assets": [
@@ -66271,6 +66276,178 @@
       "status": "verified",
       "license": "All rights reserved",
       "sourceId": "original-qualified-batch-1495-volume02-20261025"
+    },
+    {
+      "id": "tailoring-fixed-divergent-tapes-and-three-mouth-slider-fastener-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "tailoring",
+      "style": "S01-clean-geometric",
+      "title": "Fixed Divergent Tapes and Three Mouth Slider Fastener",
+      "description": "One wholly newly authored complete partially open zipper-style connector, laid flat in one fixed display pose. Two continuous finite-thickness textile-looking tapes run from near-parallel lower sections into divergent upper ends. Whole blunt headed teeth alternate along the lower centre and form separate upper rows; a complete bottom stop and two complete upper stops belong to the same assembly. At the split, separate full lower/upper plates, two tapered side rails and one whole triangular divider enclose a real two-entrance/one-exit slider-shaped chamber. A continuous raised bridge carries a full inclined pull tab with a genuine long through window. This is not the old pair of thick rigid comb plates with a constant meandering interface, nor a two-mount lever draw latch and keeper. Every visible coordinate is new; no old clothing, fastener or tooth meshes imported, and tooth count/colour does not establish novelty. One complete connector prop, zero scenes, four opaque constant untextured PBR appearances, metre-style native Z up, whole horizontal envelope centred on the tapes and lower-plate ground datum. Enlarged simplified artistic object, not a manufacturing or repair diagram. Fixed joins and deliberate sparse gaps are not working tooth engagement or a validated slider route. No host garment, stitching, cloth deformation, flexibility, opening/closing, slider travel, fastening strength, load, hand fit, protective equipment use, manufacture, installation or safety capability is made or verified. Rigging animation and interaction not made.",
+      "bounds": {
+        "x": 1.4052,
+        "y": 2.45,
+        "z": 0.328135,
+        "unit": "m"
+      },
+      "triangles": 1416,
+      "materials": 4,
+      "files": {
+        "glb": {
+          "path": "assets/tailoring/tailoring-fixed-divergent-tapes-and-three-mouth-slider-fastener-01/v1.0.0/model.glb",
+          "size": 95972,
+          "sha256": "1a4cd26c09d9cec8c601c44b4f22d2f3cea9920fd2bf087df8be888dbda4a8fc"
+        },
+        "blend": {
+          "path": "assets/tailoring/tailoring-fixed-divergent-tapes-and-three-mouth-slider-fastener-01/v1.0.0/source.blend",
+          "size": 811284,
+          "sha256": "09debc136761b5ae46ebeb64c7d417c487ec59d0dca3eb2014b5b6c0492a12be"
+        },
+        "generator": {
+          "path": "assets/tailoring/tailoring-fixed-divergent-tapes-and-three-mouth-slider-fastener-01/v1.0.0/generate.py",
+          "size": 28098,
+          "sha256": "245989f99f4a06723fc3a560b795f216d8f19dabfb079daa46e1033869a43e88"
+        },
+        "render": {
+          "path": "assets/tailoring/tailoring-fixed-divergent-tapes-and-three-mouth-slider-fastener-01/v1.0.0/thumbnail.png",
+          "size": 500831,
+          "sha256": "2da1d5f911f01598b1355c4247c3c1fc322046b21c40695c7fc47f5efd6c0ff6"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1499-volume02-20261025"
+    },
+    {
+      "id": "culture-whole-empty-performance-shell-and-nested-bleacher-court-scene-01",
+      "version": "1.0.0",
+      "category": "scenes",
+      "assetKind": "scene",
+      "theme": "culture",
+      "style": "source-preserved-low-poly",
+      "title": "Whole Empty Performance Shell and Nested Bleacher Court",
+      "description": "One static empty outdoor cultural venue preparation court. One entire flared ribbed performance shell with its curved stage stands behind one complete partly nested wheeled bleacher assembly, turned as a whole toward the shell. All original geometry, unit scale, PBR and fixed folded-seat positions remain unchanged. The two entire originals stand independently on a common finite floor, with a clear gap in front of the stage and open side strips. Only the common closed floor is new scene geometry. This is one scene and zero new independent models. Unlike the old indoor instrument performance hall with repeated benches, walls and stage cap, this is an empty outdoor shell court with one intact nested carriage assembly; unlike the performer side-stage preparation layout, it contains no instrument, wing divider, cart or festoon. This real venue-equipment combination does not claim a novel universal floorplan. The bleacher remains partly nested, not declared deployed or ready for occupancy. No audience, performer, acoustics, installation, folding motion, loading, access or safety capability. Rigging, animation and interaction not made.",
+      "bounds": {
+        "x": 7.800000190734863,
+        "y": 8.0,
+        "z": 3.9474220275878906,
+        "unit": "m"
+      },
+      "triangles": 5688,
+      "materials": 9,
+      "files": {
+        "glb": {
+          "path": "assets/culture/culture-whole-empty-performance-shell-and-nested-bleacher-court-scene-01/v1.0.0/model.glb",
+          "size": 390136,
+          "sha256": "4859aab72b493265f28dd0c83e0bf316d5f5fd9479c3e34684c788f66c0439d2"
+        },
+        "blend": {
+          "path": "assets/culture/culture-whole-empty-performance-shell-and-nested-bleacher-court-scene-01/v1.0.0/source.blend",
+          "size": 1778716,
+          "sha256": "913eff04ba3c8cb63ba7c336f8a09b8e0b8867852f1440ba08b51c8d8e9d026d"
+        },
+        "generator": {
+          "path": "assets/culture/culture-whole-empty-performance-shell-and-nested-bleacher-court-scene-01/v1.0.0/generate.py",
+          "size": 129870,
+          "sha256": "89e8e4054639b8720441f514293238900750f8292757d67cd7694871f890cf8e"
+        },
+        "render": {
+          "path": "assets/culture/culture-whole-empty-performance-shell-and-nested-bleacher-court-scene-01/v1.0.0/thumbnail.png",
+          "size": 538022,
+          "sha256": "08cd2bf386876bb60fc7e90b7946046032840359be5b669b4160815322c11a75"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1499-volume02-20261025"
+    },
+    {
+      "id": "textile-whole-tabletop-band-and-braiding-preparation-bay-scene-01",
+      "version": "1.0.0",
+      "category": "scenes",
+      "assetKind": "scene",
+      "theme": "textile",
+      "style": "source-preserved-low-poly",
+      "title": "Whole Tabletop Band and Braiding Preparation Bay",
+      "description": "One static narrow-band weaving and braiding preparation bay, one scene and zero new independent models. Three complete qualified originals retain original raw mesh buffers, normals, internal hierarchy, opaque PBR and unit scale. One entire single-sided peg and continuous-warp band loom stands with both full crossfeet on a complete open worktable. Beside it, the whole round centre-hole braiding stand remains directly floor-supported with every original radial thread, bobbin and central hanging weight intact. A common finite floor and open foreground are scene-only additions. The tabletop band station and lower independent radial braiding station are a real handcraft-equipment combination, not a new loom, a new braiding tool or a new functional process. Unlike the existing two large floor-machine warping bay, the support levels and small handcraft tools are different; unlike the roller-pillow lace and empty hoop preparation bay, these entire original tools display continuous band loops and a central descending braid, with no pillow or empty embroidery ring. No yarn connects the stations, no new thread or cloth is added. Static unoccupied illustrative display only, no weaving sequence, tension, operation, human fit, ergonomics, load, manufacture, compatibility or safety capability. Rigging animation and interaction not made.",
+      "bounds": {
+        "x": 3.0999999046325684,
+        "y": 2.299999952316284,
+        "z": 1.6299999952316284,
+        "unit": "m"
+      },
+      "triangles": 8152,
+      "materials": 11,
+      "files": {
+        "glb": {
+          "path": "assets/textile/textile-whole-tabletop-band-and-braiding-preparation-bay-scene-01/v1.0.0/model.glb",
+          "size": 490528,
+          "sha256": "6c9ac3aac169f2beac0019e9fa985895a79ba9030321ef3dbe2400ad7331597a"
+        },
+        "blend": {
+          "path": "assets/textile/textile-whole-tabletop-band-and-braiding-preparation-bay-scene-01/v1.0.0/source.blend",
+          "size": 1856668,
+          "sha256": "33fc9d66b84efed183c217c850fd45f3a1896eb9b5ec6d2796bff5494e29ad1d"
+        },
+        "generator": {
+          "path": "assets/textile/textile-whole-tabletop-band-and-braiding-preparation-bay-scene-01/v1.0.0/generate.py",
+          "size": 136608,
+          "sha256": "036a2d6887f20f8b2773d6f95c7f5965f1716ba473f0c7035d924d4d96b4fe94"
+        },
+        "render": {
+          "path": "assets/textile/textile-whole-tabletop-band-and-braiding-preparation-bay-scene-01/v1.0.0/thumbnail.png",
+          "size": 507672,
+          "sha256": "601255963a0d5b559b81d9943b43b77bb40ee5a59f40a08005cd8f291f6f762e"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1499-volume02-20261025"
+    },
+    {
+      "id": "winter-whole-loaded-toboggan-and-tent-supply-station-scene-01",
+      "version": "1.0.0",
+      "category": "scenes",
+      "assetKind": "scene",
+      "theme": "winter",
+      "style": "source-preserved-faceted-natural-ecology",
+      "title": "Whole Loaded Toboggan and Tent Supply Station",
+      "description": "One static snow-camp supply-staging scene, one scene and zero new independent models. A complete original rolltop backpack rests on the actual middle reinforcing batten of a complete original curled-deck toboggan, beside one entire qualified open domed tent. The full sled nose, both side cords and all three battens remain intact; the whole pack retains its pockets, buckles, shoulder loops and carry handle. The pack is neither fitted to the tent nor attached to the sled. The tent retains every shell, floor, threshold and crossed pole. All three originals remain at unchanged unit scale with all oriented triangles and constant opaque per-face PBR; only whole translations are applied, original hierarchy explicitly baked and normals recomputed. A common pale floor is scene-only. Unlike the parked powered snowmobile and separate tent or skis/boots around a bench, this groups an actually supported pack on a small sliding carrier beside an independent shelter entry, leaving the curled nose and entrance foreground visible. Static illustrative arrangement only, no transport, tie-down, snow interaction, loading capacity, pack restraint, camping readiness, weather protection, human fit, access compliance or safety capability. Rigging animation and interaction not made.",
+      "bounds": {
+        "x": 5.0,
+        "y": 4.400000095,
+        "z": 1.437000036,
+        "unit": "m"
+      },
+      "triangles": 2252,
+      "materials": 11,
+      "files": {
+        "glb": {
+          "path": "assets/winter/winter-whole-loaded-toboggan-and-tent-supply-station-scene-01/v1.0.0/model.glb",
+          "size": 127876,
+          "sha256": "507c9ce57dbfc3d88f3741535ae14dd9f94a1fe9b5685aee0488863652fbc8c2"
+        },
+        "blend": {
+          "path": "assets/winter/winter-whole-loaded-toboggan-and-tent-supply-station-scene-01/v1.0.0/source.blend",
+          "size": 857260,
+          "sha256": "8f672e545cd3f912d435c1b22f7c54f4b6fc07f300bdbb14c6e36cf70a76ff12"
+        },
+        "generator": {
+          "path": "assets/winter/winter-whole-loaded-toboggan-and-tent-supply-station-scene-01/v1.0.0/generate.py",
+          "size": 76656,
+          "sha256": "e4d2ccb954f959dbd8b89423d1e4c3913f5496d324ca173c5882df22b3d0ca5c"
+        },
+        "render": {
+          "path": "assets/winter/winter-whole-loaded-toboggan-and-tent-supply-station-scene-01/v1.0.0/thumbnail.png",
+          "size": 503178,
+          "sha256": "f72532b71106859874fa8ad823741be9c013dc7954ff5ee3d061c00dce1ba985"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1499-volume02-20261025"
     }
   ]
 }
