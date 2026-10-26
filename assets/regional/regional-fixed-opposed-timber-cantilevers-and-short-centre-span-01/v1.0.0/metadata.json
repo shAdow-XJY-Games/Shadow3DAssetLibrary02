@@ -1,0 +1,42 @@
+{
+  "id": "regional-fixed-opposed-timber-cantilevers-and-short-centre-span-01",
+  "version": "1.0.0",
+  "category": "architecture",
+  "assetKind": "modular",
+  "theme": "regional",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Opposed Timber Cantilevers and Short Centre Span",
+  "description": "One complete newly authored fixed regional timber-cantilever-inspired bridge module. Two separate terminal masonry abutments carry paired longitudinal timber stacks, alternating with whole transverse root and nose sleepers. Each upper longitudinal level projects farther inward while genuine open intervals remain between the long members. The two opposing assemblies stop short of each other, and their complete tip crossheads carry two independent short central span girders. Three broad level deck sections and two open guard rails continue across the bank frames and middle gap. Unlike the old shallow arched plank footbridge, no continuous curved stringer runs between both banks; unlike the inward-corbel stone passage, these are open orthogonal timber frameworks rather than solid stepped walls or a roof cap closing a tunnel. No suspension towers, arch ribs, middle pier, river, terrain or previous model meshes are included. All geometry newly authored, three opaque PBR roles, metres Z up and full horizontal bounds-centred abutment soles. One architectural module zero scenes. Static historical-style artistic appearance, not an exact reconstruction or buildable joint schedule. No tested cantilever anchorage, bending capacity, timber connection design, middle-span seating tolerance, load, pedestrian access, host bank alignment, flood clearance, construction or engineering safety capability. Rigging animation interaction not made or verified.",
+  "bounds": {
+    "x": 8.24,
+    "y": 2.04,
+    "z": 3.12,
+    "unit": "m"
+  },
+  "triangles": 660,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/regional/regional-fixed-opposed-timber-cantilevers-and-short-centre-span-01/v1.0.0/model.glb",
+      "size": 63712,
+      "sha256": "2d32057e0053b4ca05ac41b638e46f2ed4c36cc8b9ad6528cb290fe9439ca32b"
+    },
+    "blend": {
+      "path": "assets/regional/regional-fixed-opposed-timber-cantilevers-and-short-centre-span-01/v1.0.0/source.blend",
+      "size": 806728,
+      "sha256": "f31c98d79f2d74b604ba222f36a4ee80128d619c053bb3b377a7ef4f62f8b63c"
+    },
+    "generator": {
+      "path": "assets/regional/regional-fixed-opposed-timber-cantilevers-and-short-centre-span-01/v1.0.0/generate.py",
+      "size": 11912,
+      "sha256": "6b7e93979447c8df5fee2b444cd975b4cf5c87cb9d58cf92b568af0444fdb08c"
+    },
+    "render": {
+      "path": "assets/regional/regional-fixed-opposed-timber-cantilevers-and-short-centre-span-01/v1.0.0/thumbnail.png",
+      "size": 508305,
+      "sha256": "61f7bfd101f5c7bc16714b8baba52b7bdba78c8f87720c04b6bdc3d64180d111"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "agriculture-whole-hay-rake-and-open-baler-preparation-bay-scene-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "agriculture",
+  "style": "source-preserved-faceted-natural-ecology",
+  "title": "Whole Hay Rake and Open Baler Preparation Bay",
+  "description": "One static agricultural hay-equipment preparation display scene, zero new reusable models. One complete qualified high-wheel curved-tine hay rake stands on the left, with its whole wide wheels, swept blunt teeth, long forward draw beam, parking prop and rear seat untouched. One complete qualified open-side long-lever baling press stands separately to the right and slightly rearward, retaining its entire empty chamber, outswung gate, raised platen and long inclined lever. All oriented triangles, per-face opaque PBR and unit dimensions of both originals are retained; only rigid translations and explicit float32 coordinate storage are applied, with old hierarchy baked and normals recomputed. One finite earthy scene-only floor is the only new mesh. Full original finite soles seat on the floor; separate whole envelopes leave a central strip and a broad front strip clear without changing or operating either machine. This is a low wide gathering-implement station beside a tall open chamber station, not the old narrow headgate and portable dairy cart arrangement. No crop, bale, animal or operator is added. No hay processing, compression, towing, usable workflow, ergonomics, clearance certification, loading, navigation, rig or animation claim.",
+  "bounds": {
+    "x": 6.0,
+    "y": 4.199999809,
+    "z": 2.180000067,
+    "unit": "m"
+  },
+  "triangles": 3368,
+  "materials": 9,
+  "files": {
+    "glb": {
+      "path": "assets/agriculture/agriculture-whole-hay-rake-and-open-baler-preparation-bay-scene-01/v1.0.0/model.glb",
+      "size": 214888,
+      "sha256": "8e6085b7588450836ba728b0062dd7e724fdfa6bdd1d3e79add76350bc0491b2"
+    },
+    "blend": {
+      "path": "assets/agriculture/agriculture-whole-hay-rake-and-open-baler-preparation-bay-scene-01/v1.0.0/source.blend",
+      "size": 1130392,
+      "sha256": "530be7ca538a1d4285bd6d9c3e41452c759e9abe0a95c05e746d2fb2ef4f9de5"
+    },
+    "generator": {
+      "path": "assets/agriculture/agriculture-whole-hay-rake-and-open-baler-preparation-bay-scene-01/v1.0.0/generate.py",
+      "size": 74503,
+      "sha256": "9367579be7f8746f33ab35dcdbc22393839ddf031a96e7b04706986a372f5425"
+    },
+    "render": {
+      "path": "assets/agriculture/agriculture-whole-hay-rake-and-open-baler-preparation-bay-scene-01/v1.0.0/thumbnail.png",
+      "size": 515601,
+      "sha256": "6b01cb68766f848a3d6830611649311f53fe46bbfadd3ac5bfbf530ead336265"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

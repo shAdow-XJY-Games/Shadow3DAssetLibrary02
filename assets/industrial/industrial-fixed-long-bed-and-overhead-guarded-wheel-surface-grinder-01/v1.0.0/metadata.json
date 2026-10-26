@@ -1,0 +1,42 @@
+{
+  "id": "industrial-fixed-long-bed-and-overhead-guarded-wheel-surface-grinder-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "industrial",
+  "style": "source-preserved-low-poly",
+  "title": "Fixed Long Bed and Overhead Guarded Wheel Surface Grinder",
+  "description": "One wholly newly authored complete empty surface-grinder-style machine exterior. A broad low pedestal supports a long horizontal bed with two distinct longitudinal guide strips, a separate cross saddle and an entire long shallow tray table carrying one blank low rectangular platen. Behind this bed a separate tall rear column has a genuine exposed vertical guide and whole head slide supporting a horizontal shaft wheel above the table. The single thick blunt wheel has its own full back guard and continuous thick open-bottom rim guard; its lower rim is visibly separated from the platen. A rear drive housing, two independent front controls and one upper side control wheel complete this grounded machine. Unlike the complete knee mill there is no forward lifting knee, upper ram, tall vertical quill or T-slotted elevated cantilever table. Unlike the belt-and-disc sander there is no long abrasive belt or small side table facing a vertical disc. The new full relationship is a low long guide bed beneath an overhead peripheral wheel and a separate rear slide column, not a reused mill with its head renamed. All visible vertices original, three opaque constant PBR roles, metres Z up with full centred ground datum, one model zero scenes. Static artistic exterior only: no workpiece, abrasive function, magnetic holding, feeds, rotation, precision, actual adjustment, power, coolant, manufacture, operator fit, machining or safety capability. Rigging animation interaction not made.",
+  "bounds": {
+    "x": 1.6799999475479126,
+    "y": 1.0019999742507935,
+    "z": 1.475000023841858,
+    "unit": "m"
+  },
+  "triangles": 3152,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/industrial/industrial-fixed-long-bed-and-overhead-guarded-wheel-surface-grinder-01/v1.0.0/model.glb",
+      "size": 292668,
+      "sha256": "d410bd3ab6e5c4e52e2cad201ca2531d141a6c358645005dade5db12a7582fa7"
+    },
+    "blend": {
+      "path": "assets/industrial/industrial-fixed-long-bed-and-overhead-guarded-wheel-surface-grinder-01/v1.0.0/source.blend",
+      "size": 1069184,
+      "sha256": "311c27e0f4ea904907f8436b249a800bb1706ca6ee7be2a5091ba42b82030a75"
+    },
+    "generator": {
+      "path": "assets/industrial/industrial-fixed-long-bed-and-overhead-guarded-wheel-surface-grinder-01/v1.0.0/generate.py",
+      "size": 17988,
+      "sha256": "70a0765ca88f7074359f9af25161ec58cf4ade8c134081297128147fc60d9afc"
+    },
+    "render": {
+      "path": "assets/industrial/industrial-fixed-long-bed-and-overhead-guarded-wheel-surface-grinder-01/v1.0.0/thumbnail.png",
+      "size": 506739,
+      "sha256": "b9a5bd723403d5221e7ed8edf1132c9372ca6eac3ed87b794cef41fda0b59d3a"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
