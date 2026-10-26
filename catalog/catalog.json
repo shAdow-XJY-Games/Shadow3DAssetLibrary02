@@ -1749,6 +1749,11 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary02",
       "commit": "7efe4dfc115bbf9cf8619a342e5b5293649a9fe6"
+    },
+    "original-qualified-batch-1347-volume02-20261025": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary02",
+      "commit": "404443f2d3d5f6f61c5adaf0133268735ab2e9b2"
     }
   },
   "assets": [
@@ -59543,6 +59548,135 @@
       "status": "verified",
       "license": "All rights reserved",
       "sourceId": "original-qualified-batch-1344-volume02-20261025"
+    },
+    {
+      "id": "architecture-fixed-open-core-helical-ramp-and-peripheral-bents-01",
+      "version": "1.0.0",
+      "category": "architecture",
+      "assetKind": "modular",
+      "theme": "architecture",
+      "style": "S01-clean-geometric",
+      "title": "Fixed Open Core Helical Ramp and Peripheral Bents",
+      "description": "One complete newly authored static architectural full-turn helical ramp module. One continuously sloping thin annular slab includes its full lower and upper tangential terminal platforms, separated vertically at the same azimuth. The whole central eye remains open and the rising underside is exposed between independent peripheral columns and radial underside headers; there is no central mast, ground-filled wedge mass, separate climbing ladder or U-section slide trough. Two continuous open top rails and individual posts follow the complete ramp and its level ends. The new whole peripheral support and two-level circulation organization is not an old winding stone stair with its treads removed, nor an enlarged mast-supported playground slide. No old visible geometry imported. Three opaque PBR roles, metres Z up, whole horizontal envelope centred over finite ground feet. One architectural module zero scenes. Fixed game-art appearance only. No host floors or building, actual walkability, accessible slope, headroom certification, ramp or rail performance, structural calculation, load rating, building-code or safety capability. Rig animation and interaction not made or verified.",
+      "bounds": {
+        "x": 4.8100000000000005,
+        "y": 4.8,
+        "z": 4.51,
+        "unit": "m"
+      },
+      "triangles": 2148,
+      "materials": 3,
+      "files": {
+        "glb": {
+          "path": "assets/architecture/architecture-fixed-open-core-helical-ramp-and-peripheral-bents-01/v1.0.0/model.glb",
+          "size": 158204,
+          "sha256": "45a5a29da4c29f57e6fc1944111709ee487fe2b861e89530d149f68559252fe0"
+        },
+        "blend": {
+          "path": "assets/architecture/architecture-fixed-open-core-helical-ramp-and-peripheral-bents-01/v1.0.0/source.blend",
+          "size": 840880,
+          "sha256": "91222e4686dc4c5c473275369f5bf1c91c459d78c865394e1d98ea086493715b"
+        },
+        "generator": {
+          "path": "assets/architecture/architecture-fixed-open-core-helical-ramp-and-peripheral-bents-01/v1.0.0/generate.py",
+          "size": 12450,
+          "sha256": "7d6da669d7e27998a8071dc9df9a132a4ee3555e9f97d8f56755edf471eaf6bc"
+        },
+        "render": {
+          "path": "assets/architecture/architecture-fixed-open-core-helical-ramp-and-peripheral-bents-01/v1.0.0/thumbnail.png",
+          "size": 465975,
+          "sha256": "841252a631cd754d9378da7cb5192e0e747380ad272f353ba51ec9c70b33e34e"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1347-volume02-20261025"
+    },
+    {
+      "id": "industrial-fixed-high-ported-shaft-and-annular-wind-belt-cupola-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "industrial",
+      "style": "S01-clean-geometric",
+      "title": "Fixed High Ported Shaft and Annular Wind Belt Cupola",
+      "description": "One wholly newly authored complete raised cupola-style shaft-furnace static exterior. Four full long columns on finite broad feet carry a closed bottom and one continuous thick tall cylindrical shaft, with a genuine open upper mouth, broad high side charging-style opening and a distinct smaller low side port all entering the same empty chamber. A whole high open sill and separate lower open spout complete those two openings. The lower casing is encircled by one complete solid annular wind-belt exterior attached by four full radial branch exteriors, plus a short thick open side sleeve that terminates blindly at that solid belt. This is not the old closed rectangular firebox/solid stepped boiler with a blind short chimney, nor the long rising-vault kiln with its independent rear rectangular flue. No old barrel, silo, kiln or pipe mesh imported, scaled or renamed. One prop zero scenes; four constant opaque PBR roles, metres native Z up, centred whole horizontal envelope and four full ground soles. Empty illustrative exterior only: no furnace design, refractory layers, fuel, flame, metal, heat, combustion, smelting, internal tuyeres, connected air circuit, pressure, exhaust draft, material loading/discharge process, operation, emission control, manufacture, installation, structural capacity or safety performance. Rigging animation interaction not made or verified.",
+      "bounds": {
+        "x": 2.465,
+        "y": 2.225,
+        "z": 4.45,
+        "unit": "m"
+      },
+      "triangles": 3552,
+      "materials": 4,
+      "files": {
+        "glb": {
+          "path": "assets/industrial/industrial-fixed-high-ported-shaft-and-annular-wind-belt-cupola-01/v1.0.0/model.glb",
+          "size": 176300,
+          "sha256": "0afa1e46d6ea42cb73ba1052c2df11f3428f868da3b19205d9078199549cac7c"
+        },
+        "blend": {
+          "path": "assets/industrial/industrial-fixed-high-ported-shaft-and-annular-wind-belt-cupola-01/v1.0.0/source.blend",
+          "size": 804640,
+          "sha256": "d33adfb1a88f7b60852bbfa64e7ecdd5512a358bbd95529f08bef94ed9292073"
+        },
+        "generator": {
+          "path": "assets/industrial/industrial-fixed-high-ported-shaft-and-annular-wind-belt-cupola-01/v1.0.0/generate.py",
+          "size": 27637,
+          "sha256": "17c6d9b04a56af84ed2338f3cb3767a541f57deb2f9d8f6472c52b254c6b553f"
+        },
+        "render": {
+          "path": "assets/industrial/industrial-fixed-high-ported-shaft-and-annular-wind-belt-cupola-01/v1.0.0/thumbnail.png",
+          "size": 502723,
+          "sha256": "18127c769097a019da2cac860adbbb6305161a7a904231c806de255e7e315d91"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1347-volume02-20261025"
+    },
+    {
+      "id": "underwater-fixed-opposed-concave-jaws-and-cross-arm-grab-01",
+      "version": "1.0.0",
+      "category": "modular",
+      "assetKind": "prop",
+      "theme": "underwater",
+      "style": "warm-handcrafted-village",
+      "title": "Fixed Opposed Concave Jaws and Cross-Arm Grab",
+      "description": "One newly authored complete empty paired-jaw sediment-grab-style static exterior. Two opposed whole thick curved bowl floors each have two complete side cheeks, a genuinely open concave interior and a flat basal landing. Four full long oblique arms rise from the outer cheeks and cross at a full fixed transverse pin, then join a separate upper crosshead and a real open lifting-eye appearance. The two inward low lips remain separated in this fixed partly open dry pose. This is not two copied excavator buckets, an opened luggage case without wheels or a robot palm with new fingers: all curved jaw profiles, tall crossed carrier and top organization are newly authored together, without old mesh imports. One model zero scenes. Static illustrative exterior only, no sampling, closure path, pivot rotation, water use, sediment capture, lifting, load, rope compatibility, corrosion, manufacturing or engineering/safety claim. Rig, animation and interaction not made.",
+      "bounds": {
+        "x": 1.399999976,
+        "y": 0.850000024,
+        "z": 1.549999952,
+        "unit": "m"
+      },
+      "triangles": 668,
+      "materials": 4,
+      "files": {
+        "glb": {
+          "path": "assets/underwater/underwater-fixed-opposed-concave-jaws-and-cross-arm-grab-01/v1.0.0/model.glb",
+          "size": 41440,
+          "sha256": "3d4ed8f15b6c551841f2686e714d37ead31672eb7b7130188a24861fa260ab02"
+        },
+        "blend": {
+          "path": "assets/underwater/underwater-fixed-opposed-concave-jaws-and-cross-arm-grab-01/v1.0.0/source.blend",
+          "size": 611032,
+          "sha256": "e3c301883cc0bc8f7244fce227e70ff89d17cec6f835099dae963e34ee56ac50"
+        },
+        "generator": {
+          "path": "assets/underwater/underwater-fixed-opposed-concave-jaws-and-cross-arm-grab-01/v1.0.0/generate.py",
+          "size": 30017,
+          "sha256": "f1698c2b28ca25fba7f77afe1d297445e73c5b5c405b182ede91a763e86826b1"
+        },
+        "render": {
+          "path": "assets/underwater/underwater-fixed-opposed-concave-jaws-and-cross-arm-grab-01/v1.0.0/thumbnail.png",
+          "size": 521365,
+          "sha256": "13757e5a4bf6e20c8005d8b6a4a85ee1b8982ee0287b10738cffb384d790cc62"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1347-volume02-20261025"
     }
   ]
 }
