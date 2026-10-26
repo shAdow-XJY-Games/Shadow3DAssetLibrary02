@@ -1669,6 +1669,11 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary02",
       "commit": "34020991d0dc54039e0cb93dc11debd8400f53cf"
+    },
+    "original-qualified-batch-1311-volume02-20261025": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary02",
+      "commit": "5f86ce42729cbbf4af25929cedc755b25017bebf"
     }
   },
   "assets": [
@@ -58001,6 +58006,49 @@
       "status": "verified",
       "license": "All rights reserved",
       "sourceId": "original-qualified-batch-1310-volume02-20261025"
+    },
+    {
+      "id": "fantasy-static-recessed-core-and-heavy-stone-giant-01",
+      "version": "1.0.0",
+      "category": "characters",
+      "assetKind": "character",
+      "theme": "fantasy",
+      "style": "S01-clean-geometric",
+      "title": "Static Recessed Core and Heavy Stone Giant",
+      "description": "One complete newly authored fictional stone-giant character in a fixed grounded pose. A broad continuous faceted shoulder torso has an actual front chest recess containing one rooted opaque angular stone core. Its heavy blunt head has two genuinely recessed eye bands and a small recessed mouth. Two squat separated hip/leg stacks terminate in broad full flat stone feet; asymmetrically raised shoulder boulders join massive angular upper and lower arms, broad palms, three separated blunt fingers and one bent thumb per hand. These are whole newly shaped irregular stone masses, not a human worker recoloured, a narrow open-waist plate robot with a rock texture, or a treefolk trunk with its branches shortened. No external pins, steel axles, claw-only hands, control strings, bark crown or imported body meshes. Three opaque constant PBR roles, metres Z-up and full horizontal-bounds-centred ground origin. One static fantasy character zero scenes. The core is an opaque stone accent, not a light or power system. No anatomy accuracy, sentience, walking, joint operation, balance, structural/load strength, rigging, animation, combat, physics or interaction is supplied or validated.",
+      "bounds": {
+        "x": 2.4352422169756047,
+        "y": 0.87,
+        "z": 2.29,
+        "unit": "m"
+      },
+      "triangles": 1460,
+      "materials": 3,
+      "files": {
+        "glb": {
+          "path": "assets/fantasy/fantasy-static-recessed-core-and-heavy-stone-giant-01/v1.0.0/model.glb",
+          "size": 106072,
+          "sha256": "186f8d7ce0bc79f2682ee23e23d1e33de4c3293cd9141aadada29c980962bd44"
+        },
+        "blend": {
+          "path": "assets/fantasy/fantasy-static-recessed-core-and-heavy-stone-giant-01/v1.0.0/source.blend",
+          "size": 711360,
+          "sha256": "0d034a536552ff27b1c744432b1fd57ceff840827d6466b570cefb22b95fb99e"
+        },
+        "generator": {
+          "path": "assets/fantasy/fantasy-static-recessed-core-and-heavy-stone-giant-01/v1.0.0/generate.py",
+          "size": 13839,
+          "sha256": "ff9cb4e712cc8b1c31bc0d1b8e1dea82e56be57fb4d34dcc66b8d4dfe11582f1"
+        },
+        "render": {
+          "path": "assets/fantasy/fantasy-static-recessed-core-and-heavy-stone-giant-01/v1.0.0/thumbnail.png",
+          "size": 449570,
+          "sha256": "32bf1d7587a069a04169671f7f1af7685fa8a3d04110af61d37af75ab7797a50"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1311-volume02-20261025"
     }
   ]
 }
