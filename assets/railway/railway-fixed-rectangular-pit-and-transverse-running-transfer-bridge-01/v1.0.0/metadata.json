@@ -1,0 +1,42 @@
+{
+  "id": "railway-fixed-rectangular-pit-and-transverse-running-transfer-bridge-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "railway",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Rectangular Pit and Transverse Running Transfer Bridge",
+  "description": "One newly authored complete fixed railway-traverser-style exterior. A single thick rectangular pit shell has an integrated floor and four low retaining walls. Three complete parallel straight foot/web/head rails span the pit across the long upper railway direction. Two full low axles and six genuinely bored flanged wheels support a connected cross-tied underframe, one full empty long deck and two entire upper I-section track rails, all fixed at an offset position with clear empty pit regions before and behind. A short independent side service ledge carries a compact sloped blank control-box exterior and a fixed outer rail. The complete low carrying bridge is not a circular turntable given a square rim: there is no centre pedestal, radial rotation or circular running ring, and the separate straight floor rails carry the wheel groups. It is not the old three-axis high gantry: no tall posts, elevated tool carriage, vertical slide or gripper is present. All visible coordinates are new, no old pit, robot, wagon, track or wheel meshes imported or extracted. One complete static prop zero scenes, four opaque untextured constant PBR appearances, metres native Z up, grounded entire pit sole and horizontally centred bounds. The invented fixed display geometry does not establish track end alignment, gauge fit, continuous passage, lateral motion, wheel running, drive mechanism, vehicle carrying, access, railing protection, electrical controls, loads, installation, manufacture or railway safety. No wagon, personnel, rigging, animation or interaction made or verified.",
+  "bounds": {
+    "x": 6.8,
+    "y": 6.2,
+    "z": 1.365,
+    "unit": "m"
+  },
+  "triangles": 3264,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/railway/railway-fixed-rectangular-pit-and-transverse-running-transfer-bridge-01/v1.0.0/model.glb",
+      "size": 146100,
+      "sha256": "1c96c4630ede3284ba7959e61bd22c2069da6adcdcfc6db807170a213397b9f1"
+    },
+    "blend": {
+      "path": "assets/railway/railway-fixed-rectangular-pit-and-transverse-running-transfer-bridge-01/v1.0.0/source.blend",
+      "size": 819740,
+      "sha256": "935e57de4ce686b6a3b20c0dadb18755fc1eb242cde3f9395b924d6360fcc88f"
+    },
+    "generator": {
+      "path": "assets/railway/railway-fixed-rectangular-pit-and-transverse-running-transfer-bridge-01/v1.0.0/generate.py",
+      "size": 27192,
+      "sha256": "2ae71963b49684f692929881f7a2f6e90ce11b2ac7f450019db630d8952789ab"
+    },
+    "render": {
+      "path": "assets/railway/railway-fixed-rectangular-pit-and-transverse-running-transfer-bridge-01/v1.0.0/thumbnail.png",
+      "size": 507588,
+      "sha256": "8fb8ff826f0f7ca5d7bed9e9bae06bb1c6096050492bde71886bc2cf019f77c7"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

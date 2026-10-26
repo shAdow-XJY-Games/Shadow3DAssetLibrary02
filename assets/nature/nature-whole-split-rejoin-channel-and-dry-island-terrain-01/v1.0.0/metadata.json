@@ -1,0 +1,42 @@
+{
+  "id": "nature-whole-split-rejoin-channel-and-dry-island-terrain-01",
+  "version": "1.0.0",
+  "category": "modular",
+  "assetKind": "prop",
+  "theme": "nature",
+  "style": "warm-handcrafted-village",
+  "title": "Whole Split Rejoin Channel and Dry Island Terrain",
+  "description": "One newly authored complete static river-terrain appearance. One upstream and one downstream cut-edge water opening are joined by two unequal-curving channels around one elongated raised dry island. Both branches separate and reconnect rather than ending as coves; outer banks remain separate from the island above the flat water-appearance level. All sloping banks, island, water-coloured flat facets and deep substrate form one shared-vertex closed terrain with a finite basal sole. Opaque matte water appearance is integral solid-filled surface, not a fluid simulation, transparent sheet or an unfilled air layer over a separate floor. Newly authored two-route geometry, not old Y confluence with added arms, nor old cutoff lake with a renamed dry neck. One terrain model zero scenes. No measured geomorphology, sediment process, current direction, flow dynamics, traversal, real habitat or safety claim; rig animation and interaction not made.",
+  "bounds": {
+    "x": 3.700000048,
+    "y": 4.599999905,
+    "z": 0.484999985,
+    "unit": "m"
+  },
+  "triangles": 2992,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/nature/nature-whole-split-rejoin-channel-and-dry-island-terrain-01/v1.0.0/model.glb",
+      "size": 181208,
+      "sha256": "db683bac85c6ee0d92cfabb7b1e3fdb28eb6606be3027a9a3cb7b6dd1d749d48"
+    },
+    "blend": {
+      "path": "assets/nature/nature-whole-split-rejoin-channel-and-dry-island-terrain-01/v1.0.0/source.blend",
+      "size": 677052,
+      "sha256": "efe0203e6a9c2d1f3b3ff61e2a74333972218d23459150382eb1a0495ccdf066"
+    },
+    "generator": {
+      "path": "assets/nature/nature-whole-split-rejoin-channel-and-dry-island-terrain-01/v1.0.0/generate.py",
+      "size": 29242,
+      "sha256": "8561eab078760158ffaef3679b6986ad907b1bad866833933199b2b3e27767cd"
+    },
+    "render": {
+      "path": "assets/nature/nature-whole-split-rejoin-channel-and-dry-island-terrain-01/v1.0.0/thumbnail.png",
+      "size": 503576,
+      "sha256": "05ecd20f1081584c9f4d2a87cc5c0c41815e65c68cf822e992c9b4cac8cc2101"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
