@@ -1744,6 +1744,11 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary02",
       "commit": "b77fb7c2a7b5e8ea311240d53a6b05f3fb1a6521"
+    },
+    "original-qualified-batch-1344-volume02-20261025": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary02",
+      "commit": "7efe4dfc115bbf9cf8619a342e5b5293649a9fe6"
     }
   },
   "assets": [
@@ -59409,6 +59414,135 @@
       "status": "verified",
       "license": "All rights reserved",
       "sourceId": "original-qualified-batch-1341-volume02-20261025"
+    },
+    {
+      "id": "construction-fixed-elevated-ported-pan-and-inclined-skip-mixing-station-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "construction",
+      "style": "S01-clean-geometric",
+      "title": "Fixed Elevated Ported Pan and Inclined Skip Mixing Station",
+      "description": "One wholly newly authored complete stationary pan-mixing-station-style exterior. A shared pair of full grounded skids support a raised four-leg pan frame and two long inclined skip rails. The fixed horizontal shallow circular pan has a thick blind floor, genuinely open top and one low front wall aperture under a continuous upper wall band; a complete empty open chute leaves that aperture. A full bridge supports a blank drive housing and separate upright shaft with three radial arms and low broad paddles, all fixed clear of the floor. The side rail assembly has a high cross-shaft and whole grooved sheave, two braces, a fixed lower cross-carriage and an entire raised empty skip with tall back, floor and sloping cheeks, plus one complete connecting strand. Not a tilted pear drum on its side trunnion U cradle, not a high roofed grain cylinder with hopper neck, and no old meshes or visible coordinates imported. One prop zero scenes, four opaque constant untextured PBR roles, metres native Z up, centred complete horizontal envelope and two whole ground skid soles. Empty static illustrative exterior only: no aggregate, cement, internal drive, rotation, mixing result, pouring, rope motion, operating lift path, controls, material flow, rated capacity, load, guarding, manufacturing, construction process or safety performance. Rigging animation interaction not made or verified.",
+      "bounds": {
+        "x": 4.0,
+        "y": 2.33,
+        "z": 2.7,
+        "unit": "m"
+      },
+      "triangles": 1896,
+      "materials": 4,
+      "files": {
+        "glb": {
+          "path": "assets/construction/construction-fixed-elevated-ported-pan-and-inclined-skip-mixing-station-01/v1.0.0/model.glb",
+          "size": 109656,
+          "sha256": "84f68e5b4992a2883dbf4aaf9a072035110821a1270bfb44f776af9a117612cc"
+        },
+        "blend": {
+          "path": "assets/construction/construction-fixed-elevated-ported-pan-and-inclined-skip-mixing-station-01/v1.0.0/source.blend",
+          "size": 776344,
+          "sha256": "3dee4c83748cc2509ad29e9ede77e4d166eb3f4b764997385a46591d9a76c61c"
+        },
+        "generator": {
+          "path": "assets/construction/construction-fixed-elevated-ported-pan-and-inclined-skip-mixing-station-01/v1.0.0/generate.py",
+          "size": 30320,
+          "sha256": "82299b43310603a411eda90f63faccbfa3e7b31cd2b2f817d52082e180c1f2a7"
+        },
+        "render": {
+          "path": "assets/construction/construction-fixed-elevated-ported-pan-and-inclined-skip-mixing-station-01/v1.0.0/thumbnail.png",
+          "size": 589054,
+          "sha256": "03bab59ce0b5d490293182f14b0b83343fef322ce2aeb7d88c20c9b5215b7cf2"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1344-volume02-20261025"
+    },
+    {
+      "id": "culture-fixed-flared-ribbed-shell-and-curved-stage-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "culture",
+      "style": "S01-clean-geometric",
+      "title": "Fixed Flared Ribbed Shell and Curved Stage",
+      "description": "One newly authored complete fixed outdoor performance-shell appearance. A broad continuous D-shaped raised stage supports one thin but finite flared arch shell: its narrow high rear grows continuously into a much wider and taller open forward mouth. The whole curved roof and side fields have a genuinely empty interior, a separate entire shaped rear closure and seven full longitudinal radial ribs rooted over the shell exterior. Two rear leaning supports and their complete foot blocks connect the back shell to the same stage. This is neither a low rectangular stage with an imported roof nor a four-pier spherical sail vault: the directional expanding mouth, deep closed narrow back, full fanlike exterior ribs and curved stage edge form one newly authored venue module. No old meshes or geometry imported. Four opaque constant PBR roles, metres Z up, full horizontal-bounds-centred ground datum. One complete architecture prop zero scenes, no performer or furnishings. Fixed illustrative appearance only: no acoustic amplification, sound distribution, weatherproofing, performance operations, audience access, fall protection, structural thrust, load, construction, installation or safety capability. No rigging animation interaction made.",
+      "bounds": {
+        "x": 6.8,
+        "y": 3.42,
+        "z": 3.8874219996062633,
+        "unit": "m"
+      },
+      "triangles": 3140,
+      "materials": 4,
+      "files": {
+        "glb": {
+          "path": "assets/culture/culture-fixed-flared-ribbed-shell-and-curved-stage-01/v1.0.0/model.glb",
+          "size": 216344,
+          "sha256": "b4bae9eff467cba0b22078838aa5ad1ec431c786630412d8f36d2a1320355f96"
+        },
+        "blend": {
+          "path": "assets/culture/culture-fixed-flared-ribbed-shell-and-curved-stage-01/v1.0.0/source.blend",
+          "size": 774620,
+          "sha256": "51321a629f64090c48c8d5b3a268a20b735f0e3981fe63630eaab004e533ee67"
+        },
+        "generator": {
+          "path": "assets/culture/culture-fixed-flared-ribbed-shell-and-curved-stage-01/v1.0.0/generate.py",
+          "size": 11126,
+          "sha256": "29bd9ceba951f781141eee3223f993cb5dd7b9d03a4d31b453e6872ef981eaa3"
+        },
+        "render": {
+          "path": "assets/culture/culture-fixed-flared-ribbed-shell-and-curved-stage-01/v1.0.0/thumbnail.png",
+          "size": 471179,
+          "sha256": "7e0bbd841f42821b6a87e86002c393c7e56d9e9f7664ef1bac36d5a788168cf5"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1344-volume02-20261025"
+    },
+    {
+      "id": "professional-fixed-horizontal-twin-comb-and-loop-grip-trimmer-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "professional",
+      "style": "source-preserved-low-poly",
+      "title": "Fixed Horizontal Twin Comb and Loop Grip Trimmer",
+      "description": "One newly authored complete fixed twin-comb hedge-trimmer-style exterior. A low long axial housing connects an open rear holding frame to a short front gear-case exterior. Ahead of the body, two entire thin horizontal double-sided comb plates extend along one continuous central guide; their thick blunt tines alternate along both long edges and their real notch spaces remain open. The plates are held in one fixed separated pose, rooted at the nose, not an animated cutting mechanism. A whole broad front wrap grip and separate finite shield flank the low housing. Unlike the old portable chain saw there is no vertical side-offset rounded guide plate or continuous closed chain band; unlike the old reciprocating saw there is no single upright narrow strip through a tall work-contact shoe. All body, handles, shield, guide and full comb plates are newly authored together, without old tool meshes. Three opaque constant PBR roles, metres Z up and complete centred ground datum on a rear heel and front resting pad. One whole prop zero scenes. No sharp edge, plants, motor, battery internals, power cable, blade travel, cutting or trimming ability, protective performance, hand fit, manufacturing or operating safety. Rigging animation interaction not made.",
+      "bounds": {
+        "x": 0.20999999344348907,
+        "y": 0.9679999947547913,
+        "z": 0.22100000083446503,
+        "unit": "m"
+      },
+      "triangles": 1452,
+      "materials": 3,
+      "files": {
+        "glb": {
+          "path": "assets/professional/professional-fixed-horizontal-twin-comb-and-loop-grip-trimmer-01/v1.0.0/model.glb",
+          "size": 129364,
+          "sha256": "ece5de9f576365946cb58e37000a46afb9980930a1b615eb0124dba6a3e1285e"
+        },
+        "blend": {
+          "path": "assets/professional/professional-fixed-horizontal-twin-comb-and-loop-grip-trimmer-01/v1.0.0/source.blend",
+          "size": 742368,
+          "sha256": "da4b10c8a53541cc0dcb0b6c87ee8ec07ee783d47dcdf93b117e8239fb99f4d8"
+        },
+        "generator": {
+          "path": "assets/professional/professional-fixed-horizontal-twin-comb-and-loop-grip-trimmer-01/v1.0.0/generate.py",
+          "size": 17876,
+          "sha256": "cf5a2ddc5aa6775b425c244bf177e94c93ae5287b839e01e7cbe5a040bcd2406"
+        },
+        "render": {
+          "path": "assets/professional/professional-fixed-horizontal-twin-comb-and-loop-grip-trimmer-01/v1.0.0/thumbnail.png",
+          "size": 521720,
+          "sha256": "2fbb256120f77c27142e43551e44bde601736a2bafd0f3b35deed78a42e678d1"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1344-volume02-20261025"
     }
   ]
 }
