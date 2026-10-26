@@ -1659,6 +1659,11 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary02",
       "commit": "ecdb365dc815612d74f3e5ef54631364dc5647a8"
+    },
+    "original-qualified-batch-1306-volume02-20261025": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary02",
+      "commit": "f07b831093c0d78c4ccee019c5dca761387452db"
     }
   },
   "assets": [
@@ -57776,6 +57781,49 @@
       "status": "verified",
       "license": "All rights reserved",
       "sourceId": "original-qualified-batch-1305-volume02-20261025"
+    },
+    {
+      "id": "carpentry-fixed-through-table-and-upright-drum-bench-sander-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "carpentry",
+      "style": "source-preserved-low-poly",
+      "title": "Fixed Through Table and Upright Drum Bench Sander",
+      "description": "One newly authored complete fixed bench spindle-sander-style exterior. A low taper-sided closed machine case on four feet supports a broad entire oval worktable with a genuine round central through opening. One full upright thick drum rises through that opening with a visible finite radial gap, rooted on an independent complete central spindle in the lower case. A full upper compression-cap appearance and small blank retaining head finish the drum. Four short solid table seats join its underside to the case, while one complete front switch housing and blank rocker belong to the machine. Unlike the old raised long belt and perpendicular side disc, there is no belt, side working disc or separate side table; unlike the drill press there is no tall rear column, upper head, chuck or downward suspended bit. The whole working-surface-around-an-upstanding-drum organization is newly authored, no old parts imported. Three opaque solid PBR roles, one model zero scenes. The table hole is through its own thickness but ends above a closed case, not a claimed open air passage through the machine. Static visual exterior only: no abrasive texture/performance, material removal, rotation, oscillation, internal motor, dust flow, power, adjustment, guarding adequacy, operation or safety capability. Rigging animation interaction not made.",
+      "bounds": {
+        "x": 0.5299999713897705,
+        "y": 0.4099999964237213,
+        "z": 0.45899999141693115,
+        "unit": "m"
+      },
+      "triangles": 1188,
+      "materials": 3,
+      "files": {
+        "glb": {
+          "path": "assets/carpentry/carpentry-fixed-through-table-and-upright-drum-bench-sander-01/v1.0.0/model.glb",
+          "size": 111016,
+          "sha256": "16f2900bb52e63bc0e82cd635b5e2a268bffa6f87148c1ea59633ef7b2ea55ce"
+        },
+        "blend": {
+          "path": "assets/carpentry/carpentry-fixed-through-table-and-upright-drum-bench-sander-01/v1.0.0/source.blend",
+          "size": 741024,
+          "sha256": "952a61812d0592bcae9b87cdd6a6fb968eecf0fc0618e983d021e6a013c9c664"
+        },
+        "generator": {
+          "path": "assets/carpentry/carpentry-fixed-through-table-and-upright-drum-bench-sander-01/v1.0.0/generate.py",
+          "size": 16337,
+          "sha256": "b78f2569ec370b5a2c2646dee8f27167236f52b28360da11f284d6927e5059e7"
+        },
+        "render": {
+          "path": "assets/carpentry/carpentry-fixed-through-table-and-upright-drum-bench-sander-01/v1.0.0/thumbnail.png",
+          "size": 492201,
+          "sha256": "9b264f2f544b1e9682d37a85004f962164215dc477d2c05cc956e29b741e74ad"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1306-volume02-20261025"
     }
   ]
 }
