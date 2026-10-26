@@ -1,0 +1,42 @@
+{
+  "id": "tailoring-fixed-open-bell-cup-and-feed-roller-bench-machine-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "tailoring",
+  "style": "source-preserved-low-poly",
+  "title": "Fixed Open Bell Cup and Feed Roller Bench Machine",
+  "description": "One newly authored complete empty bell-skiver-style bench machine exterior. A whole low footed bed supports a right-side rounded drive housing with a short horizontal shaft, a genuinely open thick bell cup facing left, a separate low feed roller near its lower lip, and a distinct upper curved presser arm ending above that roller. A left approach table with an open throat beside the cup and a short side guide belong to the same machine. The cup is thick and blunt, not an actual cutting edge. Unlike the complete old deli slicer solid vertical disc and sliding carriage, this whole organization has a deep open axial cup and opposed local feed/presser region; unlike the complete old patcher it has no long upturned horn, needle bridge or treadle. All vertices newly authored, no old geometry imported. Three opaque constant PBR roles, metres Z up, complete centred ground datum, one model zero scenes. Static artistic device exterior only: no leather, blade action, feed motion, skiving performance, power, dust extraction, adjustment, manufacture, operation or safety capability. Rigging animation and interaction not made.",
+  "bounds": {
+    "x": 0.5699999928474426,
+    "y": 0.3100000023841858,
+    "z": 0.36399999260902405,
+    "unit": "m"
+  },
+  "triangles": 1864,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/tailoring/tailoring-fixed-open-bell-cup-and-feed-roller-bench-machine-01/v1.0.0/model.glb",
+      "size": 170228,
+      "sha256": "e9eb08e46a582877105e017119cd2a506b240c8f9c9de8bfc02b12c34645ab61"
+    },
+    "blend": {
+      "path": "assets/tailoring/tailoring-fixed-open-bell-cup-and-feed-roller-bench-machine-01/v1.0.0/source.blend",
+      "size": 830848,
+      "sha256": "ea6eb6116da73e91419468877260e88b855b9e522ca6af46b02db67e6af2c9a1"
+    },
+    "generator": {
+      "path": "assets/tailoring/tailoring-fixed-open-bell-cup-and-feed-roller-bench-machine-01/v1.0.0/generate.py",
+      "size": 16108,
+      "sha256": "1a435d3ffdf5030145e8c339c6e3283d3fe2724f1873497afae609c077ce1130"
+    },
+    "render": {
+      "path": "assets/tailoring/tailoring-fixed-open-bell-cup-and-feed-roller-bench-machine-01/v1.0.0/thumbnail.png",
+      "size": 501623,
+      "sha256": "5c7be074af58dbeb2ae48d6d7e0f6e4022fbfaf3726ee66a21b2adefcb1aa41a"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

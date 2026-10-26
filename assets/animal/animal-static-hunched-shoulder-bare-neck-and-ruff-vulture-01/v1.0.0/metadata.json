@@ -1,0 +1,42 @@
+{
+  "id": "animal-static-hunched-shoulder-bare-neck-and-ruff-vulture-01",
+  "version": "1.0.0",
+  "category": "modular",
+  "assetKind": "prop",
+  "theme": "animal",
+  "style": "warm-handcrafted-village",
+  "title": "Static Hunched Shoulder Bare Neck and Ruff Vulture",
+  "description": "One newly authored complete stylised vulture-like bird in a fixed grounded stance. A high broad hunched shoulder torso carries two long drooping folded wings and a modest short rear tail. A pale complete feather ruff surrounds the root of a conspicuously slender bare recurved neck leading to a small bald head and short down-hook bill. Two short bare bent legs join full toe-cleft feet. All whole body sections and limb/head outlines new, not old parrot arrays with a different beak or pelican pouch removed. One model zero scenes. Stylised static exterior only, not precise species, feather or anatomy simulation, feeding, flight, rig, animation, biology or safety claim.",
+  "bounds": {
+    "x": 0.924000025,
+    "y": 1.574769258,
+    "z": 1.875,
+    "unit": "m"
+  },
+  "triangles": 1804,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/animal/animal-static-hunched-shoulder-bare-neck-and-ruff-vulture-01/v1.0.0/model.glb",
+      "size": 102568,
+      "sha256": "78db7e22d6c61727cd30ef0e2667a9c7ed19e27b217cbc31d003c1f3d2cd467d"
+    },
+    "blend": {
+      "path": "assets/animal/animal-static-hunched-shoulder-bare-neck-and-ruff-vulture-01/v1.0.0/source.blend",
+      "size": 644472,
+      "sha256": "32afefffcfd6b53abc82805bcee93184f5cc989a43f79b9d40a64ec1af727ffa"
+    },
+    "generator": {
+      "path": "assets/animal/animal-static-hunched-shoulder-bare-neck-and-ruff-vulture-01/v1.0.0/generate.py",
+      "size": 31321,
+      "sha256": "7f5efd4bfe078e6d4f5989b85fd4f1491c21ec44ff0f35e2c3906e7be50e333e"
+    },
+    "render": {
+      "path": "assets/animal/animal-static-hunched-shoulder-bare-neck-and-ruff-vulture-01/v1.0.0/thumbnail.png",
+      "size": 481058,
+      "sha256": "10eeb3d5d1319813f715a9b0a54e0f87c19925f3f7ee155cf6e39d2fc01dee67"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

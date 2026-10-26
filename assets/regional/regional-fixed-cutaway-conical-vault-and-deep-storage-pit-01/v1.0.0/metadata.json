@@ -1,0 +1,42 @@
+{
+  "id": "regional-fixed-cutaway-conical-vault-and-deep-storage-pit-01",
+  "version": "1.0.0",
+  "category": "architecture",
+  "assetKind": "modular",
+  "theme": "regional",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Cutaway Conical Vault and Deep Storage Pit",
+  "description": "One newly authored complete static regional icehouse-inspired architectural section. A deliberately removed front quarter exposes a deep blind circular storage pit within a thick retaining mass, an upper perimeter access ledge, and one whole stair descending from that ledge into the dry pit. Above it, a full-thickness tapering vault rises to a genuinely open narrow top throat. A low arched side vestibule passes through a real raised opening in the vault base and meets the upper ledge rather than the pit floor. The retained vault and retaining mass each close their visible finite section faces; the cut is a presentation choice, not an unfinished hole. Unlike the old hollow straw skep there is a below-grade pit with a separate high entry datum, and unlike the open sunken stepwell the pit is enclosed by a thick tapering overhead vault and side-entry throat. All geometry newly authored together, no old cover, stair, well or building meshes imported. Three opaque constant PBR roles, metres Z up with the lowest foundation on the origin ground, one architectural module zero scenes. Dry stylized game exhibit only, not a historically exact building. No ice, water, external terrain, real cooling, thermal insulation, airflow, storage performance, drainage, human access, structural thrust, load, construction or engineering safety capability. Rigging animation interaction not made or verified.",
+  "bounds": {
+    "x": 8.32,
+    "y": 6.145584412270001,
+    "z": 6.12,
+    "unit": "m"
+  },
+  "triangles": 2526,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/regional/regional-fixed-cutaway-conical-vault-and-deep-storage-pit-01/v1.0.0/model.glb",
+      "size": 134848,
+      "sha256": "f9b6a785efe2227296c571ee128f4ff4ef52b87909ae818ba76ac9b5dec44586"
+    },
+    "blend": {
+      "path": "assets/regional/regional-fixed-cutaway-conical-vault-and-deep-storage-pit-01/v1.0.0/source.blend",
+      "size": 676496,
+      "sha256": "ccb57063bf6ecdeca4aad03d3f2bb9aec688bed2f44fbeb5b5af3693d89ffe88"
+    },
+    "generator": {
+      "path": "assets/regional/regional-fixed-cutaway-conical-vault-and-deep-storage-pit-01/v1.0.0/generate.py",
+      "size": 13401,
+      "sha256": "a085511e8d9fffeb1d1876747bb251335acde9e606cae37f9e6a2c1584d1a837"
+    },
+    "render": {
+      "path": "assets/regional/regional-fixed-cutaway-conical-vault-and-deep-storage-pit-01/v1.0.0/thumbnail.png",
+      "size": 600930,
+      "sha256": "e21e25b139cbc73382d02a9c48a7a1c449048e7e37913ecb426f4d287f4f38c0"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

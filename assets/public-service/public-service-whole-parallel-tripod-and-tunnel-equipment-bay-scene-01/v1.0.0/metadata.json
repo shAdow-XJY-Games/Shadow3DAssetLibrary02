@@ -1,0 +1,42 @@
+{
+  "id": "public-service-whole-parallel-tripod-and-tunnel-equipment-bay-scene-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "public-service",
+  "style": "source-preserved-low-poly",
+  "title": "Whole Parallel Tripod and Tunnel Equipment Bay",
+  "description": "One complete static public-entry equipment display bay, one scene and zero new models. One entire original waist-height tripod gate stands at the front-left with all three arms and original raised reader retained. A complete original open-through baggage-tunnel unit stands separately to its right, with its entire continuous belt, both exposed spans, full side console and all supporting legs. The two whole units face parallel longitudinal directions with actual space between their complete envelopes. A complete empty original worktable is set beyond and to the side of the tunnel rear end, separated rather than connected as a transfer surface. One finite floor joins these parallel foreground equipment positions and offset rear table station. This differs from the old cage/straight-roller/cantilever-scan receiving sequence and from the old loaded-trolley/counter/scale baggage acceptance area: no cage, loose bag, roller-table junction or weighing counter is used. Three complete original unit-scale models preserve all raw geometry buffers, local normals, internal hierarchy and full PBR; only whole translations and a finite scene-only floor are authored. No part is extracted, resized, recoloured or counted anew. Empty static artistic arrangement only: no person, luggage, X-ray source, radiation, detection, screening, access control, operating route, accessible passage, security protection, automated transfer, load, installation or safety claim. Original fixed bar and conveyor poses are not operational clearance promises. Rigging animation and interaction are not made.",
+  "bounds": {
+    "x": 3.4000000953674316,
+    "y": 3.799999952316284,
+    "z": 1.4899998903274536,
+    "unit": "m"
+  },
+  "triangles": 2544,
+  "materials": 11,
+  "files": {
+    "glb": {
+      "path": "assets/public-service/public-service-whole-parallel-tripod-and-tunnel-equipment-bay-scene-01/v1.0.0/model.glb",
+      "size": 247896,
+      "sha256": "d0e61b412b72e627d11d4ad7ec9bd9bf6e42a6b76f51f014a2501add0d13e7e7"
+    },
+    "blend": {
+      "path": "assets/public-service/public-service-whole-parallel-tripod-and-tunnel-equipment-bay-scene-01/v1.0.0/source.blend",
+      "size": 1309984,
+      "sha256": "adfeeb35415138ce2b760053e8bfed5698588dbe4487de4e5a66636f3ad51b8f"
+    },
+    "generator": {
+      "path": "assets/public-service/public-service-whole-parallel-tripod-and-tunnel-equipment-bay-scene-01/v1.0.0/generate.py",
+      "size": 92395,
+      "sha256": "3dd99fa5c05a49d68be58b9721fd697b7e0a2291c824e3a7a43c5f49850aa921"
+    },
+    "render": {
+      "path": "assets/public-service/public-service-whole-parallel-tripod-and-tunnel-equipment-bay-scene-01/v1.0.0/thumbnail.png",
+      "size": 486728,
+      "sha256": "ebaed30bf6185bf6725462127db39594fa6f1b554f62a80fb73fd4b60c7790d7"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

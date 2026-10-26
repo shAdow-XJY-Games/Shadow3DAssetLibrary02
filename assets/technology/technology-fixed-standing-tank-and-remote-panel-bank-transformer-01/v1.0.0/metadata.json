@@ -1,0 +1,42 @@
+{
+  "id": "technology-fixed-standing-tank-and-remote-panel-bank-transformer-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "technology",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Standing Tank and Remote Panel Bank Transformer",
+  "description": "One wholly newly authored complete floor-standing transformer-style exterior. Two whole long skids carry a chamfer-cornered upright tank case and proud full lid. Two independent stand-off banks consist of complete broad shallow panels joined at both ends to full upper and lower round headers, with short whole connections to the main tank and genuinely open intervals between all panels and between banks and tank. A high horizontal rounded-ended conservator-like cylinder stands on two complete supports above the lid, while three full ribbed bushing-like bodies and capped terminal studs occupy the front of the lid. A blank front plate and low capped boss finish the complete exterior. Not the old inverter cabinet with fins pasted to one rear plate, not a wheeled receiver carrying a compressor engine, and not independent cast open heating columns. All visible coordinates newly authored, no old appliance meshes imported or extracted. One complete static prop, zero scenes; four opaque constant PBR roles, metres, native Z up and complete horizontal envelope centered above whole skid soles. Closed tank and upper cylinder are exterior solid representations without internal winding, core, liquid, pipe circuit or electrical connection. No voltage, power conversion, insulation, oil storage or expansion, cooling, flow, temperature, electrical clearance, circuit, noise, load, manufacture, installation or operational safety capability. Rigging animation and interaction not made or verified.",
+  "bounds": {
+    "x": 3.46,
+    "y": 1.4,
+    "z": 2.6,
+    "unit": "m"
+  },
+  "triangles": 4892,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/technology/technology-fixed-standing-tank-and-remote-panel-bank-transformer-01/v1.0.0/model.glb",
+      "size": 275428,
+      "sha256": "0d82e34fa1b2a7c32a03d2d721bcec3b31fc75c71fb9314feb8e9adcf4a320a0"
+    },
+    "blend": {
+      "path": "assets/technology/technology-fixed-standing-tank-and-remote-panel-bank-transformer-01/v1.0.0/source.blend",
+      "size": 975772,
+      "sha256": "b4c601153147837e86104e02ea63558f653f1588a7d325df2c2790ac1d72b1ba"
+    },
+    "generator": {
+      "path": "assets/technology/technology-fixed-standing-tank-and-remote-panel-bank-transformer-01/v1.0.0/generate.py",
+      "size": 28106,
+      "sha256": "2a70a6a6aac714bd667f33f0fb73ff90ca02c2fa7365a25723eb749298d97d58"
+    },
+    "render": {
+      "path": "assets/technology/technology-fixed-standing-tank-and-remote-panel-bank-transformer-01/v1.0.0/thumbnail.png",
+      "size": 559628,
+      "sha256": "ed91f97fef61f67555a4be015318214b14749e5df0d00f7e1aa2bd013fe3c694"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

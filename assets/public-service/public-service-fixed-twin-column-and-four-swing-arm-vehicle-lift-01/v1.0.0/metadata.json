@@ -1,0 +1,42 @@
+{
+  "id": "public-service-fixed-twin-column-and-four-swing-arm-vehicle-lift-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "public-service",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Twin Column and Four Swing Arm Vehicle Lift",
+  "description": "One wholly newly authored complete empty twin-column vehicle-lift-style static exterior. Two wide independent ground sole plates support complete inward-open tall C-channel columns joined only by a high crosshead. Each column contains a fixed guide-carriage appearance and separate finite rollers, with a lower outward saddle carrying two independent vertical pivot appearances. Four full arms open diagonally into the empty central bay; each has a genuinely hollow rectangular outer sleeve, smaller continuous inner extension and raised blunt round end pad. A rooted side service case and blank control complete the entire stationary machine. Unlike the manual stacker, there is no wheeled straddle chassis, shared rear carriage, pair of straight elevated forks or winch cable. Unlike the scissor platform, no crossed supporting links or continuous upper deck fill the centre: two separate side carriages and four independently directed pad-ended arms organize the whole object. New geometry only, not duplicating old stacker masts or placing old jack parts in a frame. Four opaque PBR roles, metre coordinates, Z up and whole centred ground datum, one model zero scenes. Empty fixed artistic exterior only; channel contacts and partly nested sleeves are illustrative embedded joins. No vehicle, load, drive internals, synchronized lift, arm sweep, extension travel, pad fit, hydraulics, anchoring design, structural rating, operation, manufacture, installation or safe-use capability. Rigging animation interaction not made.",
+  "bounds": {
+    "x": 4.145,
+    "y": 2.19,
+    "z": 3.42,
+    "unit": "m"
+  },
+  "triangles": 2520,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/public-service/public-service-fixed-twin-column-and-four-swing-arm-vehicle-lift-01/v1.0.0/model.glb",
+      "size": 132100,
+      "sha256": "3b02394a10cd94704f869c2766e6370e5c305ebf0960c01e1fcb6519db9968a4"
+    },
+    "blend": {
+      "path": "assets/public-service/public-service-fixed-twin-column-and-four-swing-arm-vehicle-lift-01/v1.0.0/source.blend",
+      "size": 889268,
+      "sha256": "2d7b87c25a60393bce0c53432fffdde4db41ed1ff70bbf5db56f58c5e7fd4c12"
+    },
+    "generator": {
+      "path": "assets/public-service/public-service-fixed-twin-column-and-four-swing-arm-vehicle-lift-01/v1.0.0/generate.py",
+      "size": 12119,
+      "sha256": "2eba4e5ecb77f14d5ae9eacb0b347a5615306abe7f8a71946a74bc429af8f6c3"
+    },
+    "render": {
+      "path": "assets/public-service/public-service-fixed-twin-column-and-four-swing-arm-vehicle-lift-01/v1.0.0/thumbnail.png",
+      "size": 459145,
+      "sha256": "8d050f537b9313237c67ccdc4cd3288ba7464f0c33aeef27a25eaef3247b7d74"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
