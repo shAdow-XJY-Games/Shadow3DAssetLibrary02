@@ -1,0 +1,42 @@
+{
+  "id": "education-whole-dual-chamber-and-rhombus-link-viewing-bay-scene-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "education",
+  "style": "source-preserved-low-poly",
+  "title": "Whole Dual Chamber And Rhombus Link Viewing Bay",
+  "description": "One static mechanical teaching viewing bay, one scene and zero new independent models. Four complete qualified instances retain unit scale, full original mesh buffers, normals, PBR dictionaries and internal hierarchy: two entire raised crank desks separately support the full unequal double-chamber and phased-rod exhibit and the full closed-rhombus long-link inversor exhibit. The desks stand side by side with a genuine central gap, one station set farther back, and an uninterrupted foreground viewing strip. Each entire apparatus base is contained on its actual complete writing tabletop. Both exhibit fronts face the same open viewing side, rather than the old single turned desk beside a floor-level orthogonal-disc exhibit, or the incline/U-tube desk beside a pan and stool. A single scene-only finite floor carries both desks. The subjects are not connected into one mechanism; repeated furniture is not a new variant or model. No old component is removed, recoloured, resized or separately counted. Static unoccupied art only, no thermodynamic cycle, motion, linkage solution, experimental accuracy, heat, electricity, load, physical stability, ergonomics, accessibility, installation or safety capability; no rigging, animation or interaction.",
+  "bounds": {
+    "x": 4.300000190734863,
+    "y": 2.299999952316284,
+    "z": 2.0850000381469727,
+    "unit": "m"
+  },
+  "triangles": 6060,
+  "materials": 15,
+  "files": {
+    "glb": {
+      "path": "assets/education/education-whole-dual-chamber-and-rhombus-link-viewing-bay-scene-01/v1.0.0/model.glb",
+      "size": 521600,
+      "sha256": "3359c1f13dd32c5e6037855d994b186c55df44d2643fda52047fcce4913b470c"
+    },
+    "blend": {
+      "path": "assets/education/education-whole-dual-chamber-and-rhombus-link-viewing-bay-scene-01/v1.0.0/source.blend",
+      "size": 1946060,
+      "sha256": "3ac6b5d7d7a96c6135d3c1a8430bc0f5de2cf14bed29e00c1e285fcf5b763d5b"
+    },
+    "generator": {
+      "path": "assets/education/education-whole-dual-chamber-and-rhombus-link-viewing-bay-scene-01/v1.0.0/generate.py",
+      "size": 105959,
+      "sha256": "69777d4363e61ad046776e1716664ba15c464b2917e0f3249e6929698191ce06"
+    },
+    "render": {
+      "path": "assets/education/education-whole-dual-chamber-and-rhombus-link-viewing-bay-scene-01/v1.0.0/thumbnail.png",
+      "size": 494598,
+      "sha256": "2f4afb0b763a3834abeba73eb7c1a74e6f9f270418386859c69924557f8fae52"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
