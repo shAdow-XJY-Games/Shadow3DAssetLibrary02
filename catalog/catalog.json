@@ -1889,6 +1889,11 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary02",
       "commit": "f95e92f2430626d0dbdbc985c69f824b353ac7c0"
+    },
+    "original-qualified-batch-1448-volume02-20261025": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary02",
+      "commit": "310282ad3e70dd20d11849ef89c66f3271dfc17c"
     }
   },
   "assets": [
@@ -62951,6 +62956,1210 @@
       "status": "verified",
       "license": "All rights reserved",
       "sourceId": "original-qualified-batch-1420-volume02-20261025"
+    },
+    {
+      "id": "agriculture-fixed-toothed-rack-and-opposed-grip-wire-strainer-01",
+      "version": "1.0.0",
+      "category": "modular",
+      "assetKind": "prop",
+      "theme": "agriculture",
+      "style": "warm-handcrafted-village",
+      "title": "Fixed Toothed Rack and Opposed Grip Wire Strainer",
+      "description": "One complete newly authored static rack-type fence-wire-strainer-like tool exterior. A long bar has integral blunt rack teeth; an open U carriage surrounds it and carries a raised long hand lever, transverse pivot and short pawl-like tab. The fixed end and carriage each reach sideways to an opposed open C jaw housing with a complete blunt eccentric cam, leaving real lower mouth gaps. No wire is included. This is not a drum winch, webbing ratchet buckle or chain hoist renamed: the continuous rack, sliding-body exterior and two opposed grips create the whole organisation. All geometry newly authored. One static prop zero scenes, display-resting on finite housing and carriage backs. No working clamp, ratchet engagement, sliding, tension, load capacity, wire compatibility, fabrication, ergonomic or safety performance; mechanisms, interaction and animation unmade.",
+      "bounds": {
+        "x": 1.450000048,
+        "y": 0.305999994,
+        "z": 0.675999999,
+        "unit": "m"
+      },
+      "triangles": 872,
+      "materials": 4,
+      "files": {
+        "glb": {
+          "path": "assets/agriculture/agriculture-fixed-toothed-rack-and-opposed-grip-wire-strainer-01/v1.0.0/model.glb",
+          "size": 50424,
+          "sha256": "009261903ebe05dab46d67fbe8e72837d22d2979c37ebcc7a6d65a8dcc0f413f"
+        },
+        "blend": {
+          "path": "assets/agriculture/agriculture-fixed-toothed-rack-and-opposed-grip-wire-strainer-01/v1.0.0/source.blend",
+          "size": 620556,
+          "sha256": "087fb1138be6463bad448ac5bb15d915ce6a369b649de1271063860a50bf6179"
+        },
+        "generator": {
+          "path": "assets/agriculture/agriculture-fixed-toothed-rack-and-opposed-grip-wire-strainer-01/v1.0.0/generate.py",
+          "size": 30461,
+          "sha256": "c49925a75fa8b24466146f7891f6f196a8e73a2c4f044299e53c82c6d028d067"
+        },
+        "render": {
+          "path": "assets/agriculture/agriculture-fixed-toothed-rack-and-opposed-grip-wire-strainer-01/v1.0.0/thumbnail.png",
+          "size": 465133,
+          "sha256": "b9f499f9e3aeb5bc1fbf941ff60ba7d370ff53288c71edbec99d592cc5d64d0a"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1448-volume02-20261025"
+    },
+    {
+      "id": "animal-static-four-spread-fin-and-unequal-tail-flying-fish-01",
+      "version": "1.0.0",
+      "category": "modular",
+      "assetKind": "prop",
+      "theme": "animal",
+      "style": "warm-handcrafted-village",
+      "title": "Static Four Spread Fin and Unequal Tail Flying Fish",
+      "description": "One wholly newly authored stylised flying-fish-like static exterior: long narrow fusiform head and trunk, two broad swept winglike pectoral fins plus a distinct smaller rear pair of extended pelvic fins, small aft dorsal fin and vertically forked tail with a distinctly longer lower lobe. Small lateral eyes and a finite lower trunk display patch complete the whole fish. Not an old ordinary fish with scaled fins or a ray disc with a different tail; every axial section and complete fin outline is new. One model zero scenes. Opaque illustrative surfaces, no biological fin-ray texture or translucency; no species accuracy, gliding, flight, swimming, buoyancy, ecological behaviour, physical resting balance, rig or animation claim.",
+      "bounds": {
+        "x": 2.559999943,
+        "y": 2.769999981,
+        "z": 0.689999998,
+        "unit": "m"
+      },
+      "triangles": 680,
+      "materials": 4,
+      "files": {
+        "glb": {
+          "path": "assets/animal/animal-static-four-spread-fin-and-unequal-tail-flying-fish-01/v1.0.0/model.glb",
+          "size": 43840,
+          "sha256": "4702c719771fc28df124587fda0d8ab5c8e617489fdc0bca3d7b562261008b89"
+        },
+        "blend": {
+          "path": "assets/animal/animal-static-four-spread-fin-and-unequal-tail-flying-fish-01/v1.0.0/source.blend",
+          "size": 586460,
+          "sha256": "d8dba8e42200ef8f0e8278d8b64a5c41f52af24850e2b9a7132705bc521d1235"
+        },
+        "generator": {
+          "path": "assets/animal/animal-static-four-spread-fin-and-unequal-tail-flying-fish-01/v1.0.0/generate.py",
+          "size": 29265,
+          "sha256": "010bef9209794a46bdc9eb9bdf21e4be0f331cf792f8eba93bab2fbe941377c4"
+        },
+        "render": {
+          "path": "assets/animal/animal-static-four-spread-fin-and-unequal-tail-flying-fish-01/v1.0.0/thumbnail.png",
+          "size": 471815,
+          "sha256": "e98ae8058b9995bbadc76feafa64d5a18cf47a10320289231a775ff9af3d1a99"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1448-volume02-20261025"
+    },
+    {
+      "id": "animal-static-needle-bill-and-swept-wing-perching-hummingbird-01",
+      "version": "1.0.0",
+      "category": "modular",
+      "assetKind": "prop",
+      "theme": "animal",
+      "style": "warm-handcrafted-village",
+      "title": "Static Needle Bill and Swept Wing Perching Hummingbird",
+      "description": "One complete newly authored stylised hummingbird-like perched animal: compact forward-inclined body and small rounded head, a long fine straight tapered bill, long narrow swept folded wings and a short genuinely forked tail. Two tiny bent legs and curved toe masses meet a complete low transverse twig support with finite base. This is not an old trunk-clinging wedge-billed bird with recolouring or a small ground kiwi; all body sections, bill, wing and support contours are newly authored. One whole static model zero scenes, twig not separately counted. Artistic exterior only, not exact species or life size, scientific anatomy, flight, feeding, grip or physical balance, ecological suitability, animation or rigging.",
+      "bounds": {
+        "x": 0.699999988,
+        "y": 1.590000033,
+        "z": 0.975000024,
+        "unit": "m"
+      },
+      "triangles": 1172,
+      "materials": 4,
+      "files": {
+        "glb": {
+          "path": "assets/animal/animal-static-needle-bill-and-swept-wing-perching-hummingbird-01/v1.0.0/model.glb",
+          "size": 70976,
+          "sha256": "66081495acfa50fe2d30bc2bbeb033d7c90894e3d81d664ece8ea707afc44724"
+        },
+        "blend": {
+          "path": "assets/animal/animal-static-needle-bill-and-swept-wing-perching-hummingbird-01/v1.0.0/source.blend",
+          "size": 622600,
+          "sha256": "070270fee30c92bc9cdf2dd8d479d222c4814714c74f5af84ea41bb300e9b5a9"
+        },
+        "generator": {
+          "path": "assets/animal/animal-static-needle-bill-and-swept-wing-perching-hummingbird-01/v1.0.0/generate.py",
+          "size": 30745,
+          "sha256": "e21089d63fab8b2061c37e3db7d489dfc7ee6a801203e24d4b841242f79c1da1"
+        },
+        "render": {
+          "path": "assets/animal/animal-static-needle-bill-and-swept-wing-perching-hummingbird-01/v1.0.0/thumbnail.png",
+          "size": 462345,
+          "sha256": "f8d3bede2692cf90b2807461fd60cb97fbc1c755eab881fc36f8f7191eefc8d2"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1448-volume02-20261025"
+    },
+    {
+      "id": "animal-static-upright-triangular-wing-and-three-filament-mayfly-01",
+      "version": "1.0.0",
+      "category": "modular",
+      "assetKind": "prop",
+      "theme": "animal",
+      "style": "warm-handcrafted-village",
+      "title": "Static Upright Triangular Wing and Three Filament Mayfly",
+      "description": "One complete newly authored stylised mayfly-like insect: small head and short raised thorax continue into a long slender upward-curved abdomen. Tall upright triangular forewings and much smaller upright hindwings meet the real thorax; three whole fine gradually tapering caudal filaments extend from the abdominal tip. Six slender angled walking limbs have finite soles and two short fine antennae complete the silhouette. Not a dragonfly with rotated old wings or a cicada with added tail sticks; every whole body section, wing outline and limb path is new. One static model zero scenes. Opaque illustrative wing volume only, not exact species, biological venation or translucency, flight, gait, lifespan, aquatic lifecycle, ecological performance or handling guidance; rig and animation not made.",
+      "bounds": {
+        "x": 0.80516398,
+        "y": 2.612081766,
+        "z": 1.179999948,
+        "unit": "m"
+      },
+      "triangles": 1600,
+      "materials": 4,
+      "files": {
+        "glb": {
+          "path": "assets/animal/animal-static-upright-triangular-wing-and-three-filament-mayfly-01/v1.0.0/model.glb",
+          "size": 99048,
+          "sha256": "9a695ff20f4b8aab72a96db09477d59126569ed70a6045c0195a65435ffc3fd7"
+        },
+        "blend": {
+          "path": "assets/animal/animal-static-upright-triangular-wing-and-three-filament-mayfly-01/v1.0.0/source.blend",
+          "size": 663796,
+          "sha256": "1cf24b178f40be410e12a051aab2836ef481adaddeb835c996a297fe64c76a4f"
+        },
+        "generator": {
+          "path": "assets/animal/animal-static-upright-triangular-wing-and-three-filament-mayfly-01/v1.0.0/generate.py",
+          "size": 30342,
+          "sha256": "02bbe28eb9e0a020080227c9296251aaf686931b73a29d8bb09d1525594082b5"
+        },
+        "render": {
+          "path": "assets/animal/animal-static-upright-triangular-wing-and-three-filament-mayfly-01/v1.0.0/thumbnail.png",
+          "size": 470560,
+          "sha256": "e877baf8a2fde403cbae427397d01c85cbabba164014a241962c746560b25a80"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1448-volume02-20261025"
+    },
+    {
+      "id": "architecture-fixed-triangulated-hemisphere-and-annular-foot-frame-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "architecture",
+      "style": "S01-clean-geometric",
+      "title": "Fixed Triangulated Hemisphere and Annular Foot Frame",
+      "description": "One newly authored complete open hemispherical triangular-frame architectural display. Short straight thick struts form a continuous spatial triangular network derived from subdivided polyhedral directions and a clipped equator, with independent solid six-sided joint hubs at each meeting point. Every rod end seats inside its hub. A complete lower annular sill and eight finite foot pads carry the full open dome; the interior and every triangle remain genuinely empty, with no filled glass, hidden hemisphere or opaque shelter fabric. Unlike the complete observatory shell and cylindrical-wall radial-rafter yurt, the new whole structure has neither solid roof shell nor separate radial rafters and wall lattice: one triangulated hemispherical graph spans from its basal ring across the crown. No old geometry imported. One static architectural module, zero scenes, three opaque PBR materials, metres Z-up and ground-centred bounds. Geodesic-inspired artistic framing only, not a certified geometric frequency or engineering design. No construction, weather protection, load, stability, installation, climbability, occupant, accessibility or safety capability. Rigging animation and interaction not made or verified.",
+      "bounds": {
+        "x": 5.3,
+        "y": 5.3,
+        "z": 2.8449999999999998,
+        "unit": "m"
+      },
+      "triangles": 3144,
+      "materials": 3,
+      "files": {
+        "glb": {
+          "path": "assets/architecture/architecture-fixed-triangulated-hemisphere-and-annular-foot-frame-01/v1.0.0/model.glb",
+          "size": 209220,
+          "sha256": "3f2f26cd37a06d84ce0ccf74cd5690a04e25df8838e89ee082672c59cec10f8d"
+        },
+        "blend": {
+          "path": "assets/architecture/architecture-fixed-triangulated-hemisphere-and-annular-foot-frame-01/v1.0.0/source.blend",
+          "size": 1194936,
+          "sha256": "92cbfd6d5d17a03adcf03d6ea65cde246fd8d7a5b7b2edf0636962dd098ec133"
+        },
+        "generator": {
+          "path": "assets/architecture/architecture-fixed-triangulated-hemisphere-and-annular-foot-frame-01/v1.0.0/generate.py",
+          "size": 11845,
+          "sha256": "fc1b5930a76743f80509ea82f5725487b2abf7c1270892479c5ee87a37aeaece"
+        },
+        "render": {
+          "path": "assets/architecture/architecture-fixed-triangulated-hemisphere-and-annular-foot-frame-01/v1.0.0/thumbnail.png",
+          "size": 452856,
+          "sha256": "aad66a8e70007a965a29a399e76444cc9f2db5ff4e86a7bb7c03c72f7eed0aee"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1448-volume02-20261025"
+    },
+    {
+      "id": "industrial-fixed-double-curved-trough-and-parallel-twisted-blades-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "industrial",
+      "style": "S01-clean-geometric",
+      "title": "Fixed Double Curved Trough and Parallel Twisted Blades",
+      "description": "One wholly newly authored complete empty twin-shaft trough-kneader-style static exterior. A single thick open long trough has complete end walls, an uninterrupted top rim and two real curved floor bays meeting at a low central saddle. Two independent full horizontal shafts run along those bays; each carries one broad finite-thickness continuous blade with a single longitudinal partial twist, rather than a cylindrical drum or wire cage. Both shafts enter one shared closed outboard drive-box exterior carried on a full pedestal; two grounded skids, four complete trough legs, two fixed outer collars, a raised side cover and one blank dial complete the whole machine. Unlike the oval-raceway paper beater it has no long partition or connected circulation loop and no single transverse bar drum; unlike the countertop mixer it has no separate circular bowl, overhead motor head or vertical hook. No old meshes or subassemblies are imported or resized. One model zero scenes, four opaque constant untextured PBR appearances, native metre game coordinates/Z up, complete horizontal envelope centred and both whole skid soles grounded. Empty schematic artistic exterior only: no dough, chemicals, drive or gear internals, real shaft seals or bore fit, rotation or swept-envelope verification, kneading/mixing result, fluid path, food contact, hygiene, heat, capacity, manufacture, operation or safety capability is made or verified. Fixed embedded joins are visual assembly details. Rigging animation interaction not made.",
+      "bounds": {
+        "x": 3.63,
+        "y": 1.68,
+        "z": 1.68,
+        "unit": "m"
+      },
+      "triangles": 1448,
+      "materials": 4,
+      "files": {
+        "glb": {
+          "path": "assets/industrial/industrial-fixed-double-curved-trough-and-parallel-twisted-blades-01/v1.0.0/model.glb",
+          "size": 93528,
+          "sha256": "ca1e6773f80988f2d28bdda21add233c3173b03bb1495f135f834f8e314528e8"
+        },
+        "blend": {
+          "path": "assets/industrial/industrial-fixed-double-curved-trough-and-parallel-twisted-blades-01/v1.0.0/source.blend",
+          "size": 681152,
+          "sha256": "bc6ee6373b8978bb8a1590f4baafe2486148d5f98e0c1346602c763444ad68da"
+        },
+        "generator": {
+          "path": "assets/industrial/industrial-fixed-double-curved-trough-and-parallel-twisted-blades-01/v1.0.0/generate.py",
+          "size": 28382,
+          "sha256": "258b01d35f6956b3d75f60c74029f2d7f379405fac2d6df91e4f7d963f44eb05"
+        },
+        "render": {
+          "path": "assets/industrial/industrial-fixed-double-curved-trough-and-parallel-twisted-blades-01/v1.0.0/thumbnail.png",
+          "size": 537933,
+          "sha256": "23583459b6cc33b7996dc769d3ec67108dccb0e4b2c4b4b4331a359d27c53658"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1448-volume02-20261025"
+    },
+    {
+      "id": "laboratory-fixed-tall-column-and-conical-observation-console-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "laboratory",
+      "style": "S01-clean-geometric",
+      "title": "Fixed Tall Column and Conical Observation Console",
+      "description": "One wholly newly authored complete tall-column observation-instrument exterior. One broad floor plinth supports a deep chamfered lower cabinet and a central conical-shoulder chamber. A long integral stepped column rises directly from that chamber, while a thick slanted front port contains an actual short blind circular recess. Two connected deep sloping control wings extend from the same cabinet and carry thick blank opaque inset panels and short fixed knobs. One small capped side boss and a whole stem-handle belong to the upper column, with no specimen or exposed working stage. Unlike the old C-arm microscope there is no arched limb, naked slide stage or eye tube suspended over an object; unlike the round-screen comparator there is no huge upright display, crossed slide-table stack or side illuminator. The complete new cabinet/chamber/column/wing organization is authored together, not old instrument parts enlarged, rotated or combined into a scene. One prop zero scenes, four opaque constant untextured PBR appearances; native metres Z up and horizontally centred over the whole plinth sole. Static stylized scientific-instrument art only: no electron beam, vacuum enclosure, imaging, magnification, optical transmission, radiation, specimen handling, diagnostic or medical capability, electronics, dimensions for manufacture, installation, operational precision or safety. Chamber and column are solid art bodies; the front recess is short and blind, not an actual vacuum or optical passage. Rigging animation interaction not made or verified.",
+      "bounds": {
+        "x": 2.2,
+        "y": 1.362,
+        "z": 3.29,
+        "unit": "m"
+      },
+      "triangles": 2388,
+      "materials": 4,
+      "files": {
+        "glb": {
+          "path": "assets/laboratory/laboratory-fixed-tall-column-and-conical-observation-console-01/v1.0.0/model.glb",
+          "size": 128476,
+          "sha256": "32dc3c8a1bc105f49ca8958215db500dc13ff02e10e456c819e98007551913c2"
+        },
+        "blend": {
+          "path": "assets/laboratory/laboratory-fixed-tall-column-and-conical-observation-console-01/v1.0.0/source.blend",
+          "size": 737364,
+          "sha256": "287875a878cafbff1385bc4dacc96f7a43b21695d9c3f636c336c834e75faa04"
+        },
+        "generator": {
+          "path": "assets/laboratory/laboratory-fixed-tall-column-and-conical-observation-console-01/v1.0.0/generate.py",
+          "size": 27980,
+          "sha256": "890da886a1dfd43883e64d1d87bf89e3a1b6a2c4995665dc303415b98523bd37"
+        },
+        "render": {
+          "path": "assets/laboratory/laboratory-fixed-tall-column-and-conical-observation-console-01/v1.0.0/thumbnail.png",
+          "size": 488545,
+          "sha256": "1e8ec0ce8eb633805ab311494dfaed95a22172cd158e2e618e140d64cf90cacc"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1448-volume02-20261025"
+    },
+    {
+      "id": "laundry-whole-roll-ironer-and-empty-folding-table-preparation-bay-scene-01",
+      "version": "1.0.0",
+      "category": "scenes",
+      "assetKind": "scene",
+      "theme": "laundry",
+      "style": "source-preserved-low-poly",
+      "title": "Whole Roll Ironer and Empty Folding Table Preparation Bay",
+      "description": "One empty static laundry finishing equipment bay, one scene and zero new independent models. A whole single-roll curved-shoe pedestal ironer stands at the rear left, exposing its complete front feed board and fixed pedal. A complete four-panel folding table stands separately at the right with all original through hand slots and fixed connector webs retained and its top empty. A whole suspended fabric hamper cart waits independently forward of the ironer, leaving a visible gap before its feed board and a central open floor strip toward the table. This is a normal roll-ironing, empty surface and collection equipment preparation layout, not the old closed washer with cart or folding board supporting a clip basket beside an iron-on-board kit. All three originals remain whole and unit-scale with original local buffers, normals, PBR and internal hierarchy unchanged. Only rigid whole translations and one finite scene floor are new. No garments, transfers, heating, ironing, folding, movement, operating sequence, machine compatibility, human fit, load or workplace safety is asserted. Rigging animation interaction not made.",
+      "bounds": {
+        "x": 3.200000047683716,
+        "y": 2.5999999046325684,
+        "z": 1.1693530082702637,
+        "unit": "m"
+      },
+      "triangles": 2988,
+      "materials": 14,
+      "files": {
+        "glb": {
+          "path": "assets/logistics/laundry-whole-roll-ironer-and-empty-folding-table-preparation-bay-scene-01/v1.0.0/model.glb",
+          "size": 229824,
+          "sha256": "54ee25b74d2512c0eb7f1df20c2eac4761960fb7750252614d39e8846e8f42c3"
+        },
+        "blend": {
+          "path": "assets/logistics/laundry-whole-roll-ironer-and-empty-folding-table-preparation-bay-scene-01/v1.0.0/source.blend",
+          "size": 1428236,
+          "sha256": "7dae068ba62b45854a5ffacb604f0e826a0ebe71ac01b93806591733173fb040"
+        },
+        "generator": {
+          "path": "assets/logistics/laundry-whole-roll-ironer-and-empty-folding-table-preparation-bay-scene-01/v1.0.0/generate.py",
+          "size": 97057,
+          "sha256": "11753a5176d3cd732e599514c8ed142d0618c370d4ec77e45f5eb2d51df3eee2"
+        },
+        "render": {
+          "path": "assets/logistics/laundry-whole-roll-ironer-and-empty-folding-table-preparation-bay-scene-01/v1.0.0/thumbnail.png",
+          "size": 494694,
+          "sha256": "1f71f18148d3a475f155806395f0c0e89e9c1962ac12396fc856af494af9a791"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1448-volume02-20261025"
+    },
+    {
+      "id": "logistics-whole-crate-in-cage-and-cross-table-sorting-bay-scene-01",
+      "version": "1.0.0",
+      "category": "scenes",
+      "assetKind": "scene",
+      "theme": "logistics",
+      "style": "source-preserved-low-poly",
+      "title": "Whole Crate In Cage and Cross Table Sorting Bay",
+      "description": "One complete static reusable-container receiving and sorting preparation bay, one scene and zero new independent models. One unchanged complete open-front delivery cage stands at the left with an entire empty ventilated produce crate supported on its actual interior cargo deck, fully between the original side frames. Its original lower locator tongues remain the lowest contact features; the outer raised landing pads are not falsely called flush deck contacts. To the right, a complete original open worktable is turned ninety degrees so its long axis runs alongside the cage depth. An entire original low-front picking bin is supported at the far end of that table, with its original low mouth facing the visibly empty near tabletop strip. The crate/cage low receiving position and the elevated bin/table position are separated by a real lateral gap, with broad empty foreground floor. This differs from the old empty cage to roller to suspended scan sequence, and from the old bin on a wide transverse table beside a floor open-lid tote: here the receiving container is actually inside a whole wheeled cage, and the sorting container occupies a separate longitudinal tabletop with an empty near strip. No roller, scan head, loose load or transfer bridge is included. Four complete unit-scale original models retain every original geometry buffer, local normal, hierarchy and whole PBR dictionary. Only exact whole-instance translation/quarter-turn and one finite floor are new. No part is extracted, resized, recoloured or counted anew. Empty static staging only: no actual collection, sorting procedure, food hygiene, logistics simulation, load rating, human access compliance, carrying, wheel movement, equipment fit or workplace safety capability. Rigging animation interaction not made.",
+      "bounds": {
+        "x": 2.5,
+        "y": 2.4000000953674316,
+        "z": 1.6100000143051147,
+        "unit": "m"
+      },
+      "triangles": 3246,
+      "materials": 11,
+      "files": {
+        "glb": {
+          "path": "assets/logistics/logistics-whole-crate-in-cage-and-cross-table-sorting-bay-scene-01/v1.0.0/model.glb",
+          "size": 229156,
+          "sha256": "3e47aea5486a30145ba3f68ee0e826b66f3c0cfc3dd9f80e321f8fc3b5bd9994"
+        },
+        "blend": {
+          "path": "assets/logistics/logistics-whole-crate-in-cage-and-cross-table-sorting-bay-scene-01/v1.0.0/source.blend",
+          "size": 1345724,
+          "sha256": "5c4f7939cf30ac3835008c908255db76fd0ecb5237bbf759ebab84a36871510a"
+        },
+        "generator": {
+          "path": "assets/logistics/logistics-whole-crate-in-cage-and-cross-table-sorting-bay-scene-01/v1.0.0/generate.py",
+          "size": 104642,
+          "sha256": "6ba039b75f268474a3528e1a39fa780ac7ee3aa45d99aa705ba9a5219edbd397"
+        },
+        "render": {
+          "path": "assets/logistics/logistics-whole-crate-in-cage-and-cross-table-sorting-bay-scene-01/v1.0.0/thumbnail.png",
+          "size": 512992,
+          "sha256": "f8df66a7f47287aeb2acf29bc44b8ced3592344c8ae89d2eda0f8839b5858226"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1448-volume02-20261025"
+    },
+    {
+      "id": "logistics-whole-empty-wrapper-banding-unit-and-floor-pallet-staging-scene-01",
+      "version": "1.0.0",
+      "category": "scenes",
+      "assetKind": "scene",
+      "theme": "logistics",
+      "style": "source-preserved-low-poly",
+      "title": "Whole Empty Wrapper Banding Unit and Floor Pallet Staging",
+      "description": "One empty static packing-equipment preparation bay, one scene and zero new independent models. The complete original circular-platform and film-carriage wrapper occupies the rear-left station; its round deck stays empty. A whole original inward-grooved arch and split-table banding unit stands independently at the right, with the original side supply roll, empty arch and tabletop centre gap retained. One complete original wood pallet rests independently on all its original bottom runners on the common floor, in front of the wrapper with a visible gap and no fork or conveyor inserted. The two whole machines and the waiting empty pallet form a normal preparation layout with open foreground space and separation between station envelopes. It is not the existing fork-engaged loading display or the high rack with a parked jack. The initial idea of placing this unchanged pallet on the wrapper was withdrawn before scene source: its extreme bottom corner radius exceeds the existing deck radius, so no complete footprint containment or device compatibility is asserted and no original object is resized. Three complete unit-scale models retain every local buffer, normal, internal hierarchy and PBR dictionary. Only whole translations and one finite scene-only floor are authored; no machine component, pallet runner, film roll or arch segment is removed or counted anew. Empty fixed art only: no film or strap routing, material movement, packing sequence, wrapper rotation, clamping, equipment fit, loading procedure, human access compliance, rated load, installation or machine safety. Rigging animation interaction not made.",
+      "bounds": {
+        "x": 4.699999809265137,
+        "y": 3.5,
+        "z": 2.072000026702881,
+        "unit": "m"
+      },
+      "triangles": 4236,
+      "materials": 10,
+      "files": {
+        "glb": {
+          "path": "assets/logistics/logistics-whole-empty-wrapper-banding-unit-and-floor-pallet-staging-scene-01/v1.0.0/model.glb",
+          "size": 381300,
+          "sha256": "c7eff04f188f58e587ca4e4e73f2a6dd08c99fabf768f2694ad5e6a1f3c7ad6f"
+        },
+        "blend": {
+          "path": "assets/logistics/logistics-whole-empty-wrapper-banding-unit-and-floor-pallet-staging-scene-01/v1.0.0/source.blend",
+          "size": 1382032,
+          "sha256": "acb267b4a6db4239b4bd76877bc35ca56a2217ce126dc1bff97aa6f94e22785c"
+        },
+        "generator": {
+          "path": "assets/logistics/logistics-whole-empty-wrapper-banding-unit-and-floor-pallet-staging-scene-01/v1.0.0/generate.py",
+          "size": 100727,
+          "sha256": "0de2c2e0ef1dca80a6d5b3d45d15a8ec3d55429a388124bd4b3564a8f6146858"
+        },
+        "render": {
+          "path": "assets/logistics/logistics-whole-empty-wrapper-banding-unit-and-floor-pallet-staging-scene-01/v1.0.0/thumbnail.png",
+          "size": 470278,
+          "sha256": "4fc04d2b7389a05e8011c92881754c1cf4a4d70720369a0f502076f4522c4d60"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1448-volume02-20261025"
+    },
+    {
+      "id": "military-fixed-four-post-window-cabin-and-returning-stair-tower-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "military",
+      "style": "S01-clean-geometric",
+      "title": "Fixed Four Post Window Cabin and Returning Stair Tower",
+      "description": "One independently authored complete fixed nonweapon camp observation tower visual model. Four complete ground posts and three diagonal braces carry a thick high floor and one continuous cabin wall shell with actual broad side and rear window voids and a front entry. A whole pitched thick roof caps the cabin. Outside the braced central tower, two independent opposite-running stair flights meet a full intermediate turning landing and reach a full upper entry landing beside the cabin front doorway. Complete stair stringers, rails, and landing supports remain part of this single whole structure. This is not the old elevated open lifeguard seat or the solid tapered lighthouse shaft and lantern gallery. All geometry newly authored, no old meshes imported. Three opaque PBR roles, metres Z up, bounds-centred ground origin. Fixed artistic architectural appearance only: no weapon, occupant, observation coverage, climbability, accessibility, load, stability, wind, military protection, building compliance or safety claim. Rigging animation and interaction not made or verified.",
+      "bounds": {
+        "x": 4.45,
+        "y": 3.91,
+        "z": 6.06,
+        "unit": "m"
+      },
+      "triangles": 1644,
+      "materials": 3,
+      "files": {
+        "glb": {
+          "path": "assets/military/military-fixed-four-post-window-cabin-and-returning-stair-tower-01/v1.0.0/model.glb",
+          "size": 105140,
+          "sha256": "5d35223a64bd7af452f04d4bea50d2ec537692703c3b94c11937e0305a083b09"
+        },
+        "blend": {
+          "path": "assets/military/military-fixed-four-post-window-cabin-and-returning-stair-tower-01/v1.0.0/source.blend",
+          "size": 910580,
+          "sha256": "841743419b9f0dbfbd8f279577666827cd421aefc19d9cce304656e4df9cfbdd"
+        },
+        "generator": {
+          "path": "assets/military/military-fixed-four-post-window-cabin-and-returning-stair-tower-01/v1.0.0/generate.py",
+          "size": 12145,
+          "sha256": "1fe5b92eaf9ebd31328d9fee8bab88c5cfb3a101c7d735c884cfbcaf4a6c6e3c"
+        },
+        "render": {
+          "path": "assets/military/military-fixed-four-post-window-cabin-and-returning-stair-tower-01/v1.0.0/thumbnail.png",
+          "size": 537531,
+          "sha256": "a21c88e65210c41295980f0df60fdf62ad7c725530d4c3b41645c553105095c0"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1448-volume02-20261025"
+    },
+    {
+      "id": "nature-static-flattened-capsule-and-four-curved-horn-eggcase-01",
+      "version": "1.0.0",
+      "category": "modular",
+      "assetKind": "prop",
+      "theme": "nature",
+      "style": "warm-handcrafted-village",
+      "title": "Static Flattened Capsule and Four Curved Horn Eggcase",
+      "description": "One newly authored whole flattened leathery eggcase-like exterior: broad rectangular swollen capsule with waisted sides, four individually curved gradually tapering horns seated in the corners. Not an old suspended pupa recoloured or a seed capsule scaled flat; all profiles and horn paths newly authored. One static illustrative model zero scenes. No species accuracy, internal embryo, reproductive lifecycle, hatching, biological material, ecological or handling claims; no rig or animation.",
+      "bounds": {
+        "x": 0.851249933,
+        "y": 2.625623941,
+        "z": 0.248260885,
+        "unit": "m"
+      },
+      "triangles": 620,
+      "materials": 2,
+      "files": {
+        "glb": {
+          "path": "assets/nature/nature-static-flattened-capsule-and-four-curved-horn-eggcase-01/v1.0.0/model.glb",
+          "size": 37608,
+          "sha256": "ae6ab21b268b6cd1c45cc5ff599d9165bc98373bf05e9caaa69d22f0b6a6d8de"
+        },
+        "blend": {
+          "path": "assets/nature/nature-static-flattened-capsule-and-four-curved-horn-eggcase-01/v1.0.0/source.blend",
+          "size": 562640,
+          "sha256": "a83488bae88544391c46fcbf5bfb558504e5b7b03dc7892643f56ac9ede89032"
+        },
+        "generator": {
+          "path": "assets/nature/nature-static-flattened-capsule-and-four-curved-horn-eggcase-01/v1.0.0/generate.py",
+          "size": 28119,
+          "sha256": "6c30610841e09e2ccd23b81ec321ba32028971f85759d02b831726a839e75183"
+        },
+        "render": {
+          "path": "assets/nature/nature-static-flattened-capsule-and-four-curved-horn-eggcase-01/v1.0.0/thumbnail.png",
+          "size": 473376,
+          "sha256": "e820534b0430dc7c61c2b5a8a24c10c0864aecdcfc9d51ae65cb42519d8760c0"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1448-volume02-20261025"
+    },
+    {
+      "id": "nature-whole-alternating-branch-and-bilobed-fan-leaf-sapling-01",
+      "version": "1.0.0",
+      "category": "modular",
+      "assetKind": "prop",
+      "theme": "nature",
+      "style": "warm-handcrafted-village",
+      "title": "Whole Alternating Branch and Bilobed Fan Leaf Sapling",
+      "description": "One complete newly authored stylised ginkgo-like young tree: a slender gently zigzag tapering trunk carries alternating whole upward-curving woody branches at several heights. Fine separate petioles join broad continuous fan-shaped leaf blades with genuine shallow central distal notches and slight lamina curvature. This is neither an orchard tree with recoloured crown blobs nor an unbranched terminal palm with fewer fan fingers. All whole trunk, branch and fan outlines are newly authored, without importing old geometry. One static plant model, zero scenes. Artistic external form only, not exact species, age, leaf venation science, medicinal status, growth, wind, cultivation or ecological suitability; roots below the display datum, rig and animation not made.",
+      "bounds": {
+        "x": 1.66225183,
+        "y": 1.301389694,
+        "z": 1.87218523,
+        "unit": "m"
+      },
+      "triangles": 1424,
+      "materials": 4,
+      "files": {
+        "glb": {
+          "path": "assets/animal/nature-whole-alternating-branch-and-bilobed-fan-leaf-sapling-01/v1.0.0/model.glb",
+          "size": 108216,
+          "sha256": "9094d2ecdb06ca8ea6163bd2bea9fd6a53d865132557ecece6846210f8d4588b"
+        },
+        "blend": {
+          "path": "assets/animal/nature-whole-alternating-branch-and-bilobed-fan-leaf-sapling-01/v1.0.0/source.blend",
+          "size": 701872,
+          "sha256": "1f806c3ce81e9973104f3acbc4b34ae1ac38293a646721ed2d19b59ee0d70406"
+        },
+        "generator": {
+          "path": "assets/animal/nature-whole-alternating-branch-and-bilobed-fan-leaf-sapling-01/v1.0.0/generate.py",
+          "size": 30060,
+          "sha256": "1237b1d74ac5033d440b2334a7483530e96ebb62da7c8e9dd41ed5444a360d67"
+        },
+        "render": {
+          "path": "assets/animal/nature-whole-alternating-branch-and-bilobed-fan-leaf-sapling-01/v1.0.0/thumbnail.png",
+          "size": 490738,
+          "sha256": "dfde8504b7a74bae5f27db4541bc4a02790c6f5423ff2b523318981c8846f63e"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1448-volume02-20261025"
+    },
+    {
+      "id": "professional-whole-chin-frame-table-and-opposed-stools-preparation-scene-01",
+      "version": "1.0.0",
+      "category": "scenes",
+      "assetKind": "scene",
+      "theme": "professional",
+      "style": "source-preserved-low-poly",
+      "title": "Whole Chin Frame Table and Opposed Stools Preparation",
+      "description": "One empty static optical-apparatus preparation display, one scene and zero new independent models. A whole existing chin/forehead-frame and binocular-column tabletop instrument stands toward the left of one complete open worktable. Its original independent frame, observation branch and illumination branch are retained. One entire empty trial-spectacle frame lies separately on the right tabletop, with real space between the two complete instruments. Two whole existing three-legged ring-footrest stools occupy opposite sides of the table, aligned with the main instrument but separated from its front and rear by visible empty floor intervals. These remain the original barstool forms, not claimed medical seating or anatomically fitted positions. Four distinct complete qualified old models form five unit-scale whole instances; each original geometry buffer, local normal, PBR dictionary and internal hierarchy is preserved. Only whole translations, one exact quarter turn of the small trial frame, and a finite ground slab are new. Unlike the old single-sided microscope-and-vials corner or the raised rear datum plate with two measuring stands and front caliper, this is a two-sided instrument-table station with separate whole stools and a clear side placement for the empty frame. No existing leg, headrest, lens rim, table brace or stool ring is removed, recoloured, resized or counted anew. No patient, real lens, illumination, diagnosis, vision testing, calibrated alignment, examination procedure, human fit, clinical workflow, medical suitability, load or workplace safety is made or verified. Rigging animation interaction not made.",
+      "bounds": {
+        "x": 1.7000000476837158,
+        "y": 2.440000057220459,
+        "z": 1.690000057220459,
+        "unit": "m"
+      },
+      "triangles": 9644,
+      "materials": 19,
+      "files": {
+        "glb": {
+          "path": "assets/professional/professional-whole-chin-frame-table-and-opposed-stools-preparation-scene-01/v1.0.0/model.glb",
+          "size": 678648,
+          "sha256": "933053640088dc4f24a71e9145ab09bcda64a9ab1b31d3af18ec6c3a94820c41"
+        },
+        "blend": {
+          "path": "assets/professional/professional-whole-chin-frame-table-and-opposed-stools-preparation-scene-01/v1.0.0/source.blend",
+          "size": 2266864,
+          "sha256": "fc04a9256550ae5d960b1d654e9b549ed50448da377a3bfe40e97e15a1751e09"
+        },
+        "generator": {
+          "path": "assets/professional/professional-whole-chin-frame-table-and-opposed-stools-preparation-scene-01/v1.0.0/generate.py",
+          "size": 240636,
+          "sha256": "5f5b0a05a6ace5ed1bb0085af76078db603194af34988852a6b953578319cd3d"
+        },
+        "render": {
+          "path": "assets/professional/professional-whole-chin-frame-table-and-opposed-stools-preparation-scene-01/v1.0.0/thumbnail.png",
+          "size": 523591,
+          "sha256": "defb790eb017d51ab79fe9f79b026a072b1db46c7c724f1f81746d2ec1a07890"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1448-volume02-20261025"
+    },
+    {
+      "id": "professional-whole-solder-station-and-twin-probe-meter-preparation-scene-01",
+      "version": "1.0.0",
+      "category": "scenes",
+      "assetKind": "scene",
+      "theme": "professional",
+      "style": "source-preserved-low-poly",
+      "title": "Whole Solder Station and Twin Probe Meter Preparation Bench",
+      "description": "One static electronic-repair equipment preparation bench, one scene and zero new independent models. A complete original open worktable supports the entire corded-iron solder station on its left and the whole recessed blank-dial meter with both original probe leads on its right. The soldering iron remains in its original inclined coil rest and the meter probes stay in their original parked arrangement; neither is detached or connected to another object. A complete original ring-footrest stool stands independently in front, separated from the full table envelope. The empty central tabletop gap and forward floor retain visible separation. This is a normal equipment preparation workstation, not the existing computer-and-printer demonstration or raised two-level mechanical metrology station; no printer, computer, workpiece or raised metrology plinth is supplied. All four whole old models preserve original local buffers, normals, hierarchy, unit scale and complete PBR. Only whole translations and one finite scene-only floor are new. The existing pink stool is not recoloured or certified as operator seating. Static visual only: no electronics repair, circuit connection, soldering heat, electrical test, instrument reading, seated ergonomics, installation, load or safety is claimed. Rigging animation interaction not made.",
+      "bounds": {
+        "x": 1.600000023841858,
+        "y": 2.0,
+        "z": 1.1819279193878174,
+        "unit": "m"
+      },
+      "triangles": 6320,
+      "materials": 14,
+      "files": {
+        "glb": {
+          "path": "assets/logistics/professional-whole-solder-station-and-twin-probe-meter-preparation-scene-01/v1.0.0/model.glb",
+          "size": 528424,
+          "sha256": "96b6b0239cc5e6c3bfc20cb9e5ce4b9a6816449e78dd0edfb46bdd7908b0d8d5"
+        },
+        "blend": {
+          "path": "assets/logistics/professional-whole-solder-station-and-twin-probe-meter-preparation-scene-01/v1.0.0/source.blend",
+          "size": 1723712,
+          "sha256": "ff56c7cf4d3607205145c447e98db10f5e251584dfade2fc2346e272f0b282bc"
+        },
+        "generator": {
+          "path": "assets/logistics/professional-whole-solder-station-and-twin-probe-meter-preparation-scene-01/v1.0.0/generate.py",
+          "size": 182937,
+          "sha256": "205908f103eb2b68b5e443f2ea160e3a10ea0f83e143b61126762a00668bb105"
+        },
+        "render": {
+          "path": "assets/logistics/professional-whole-solder-station-and-twin-probe-meter-preparation-scene-01/v1.0.0/thumbnail.png",
+          "size": 514977,
+          "sha256": "caee8a9cae9cbe8029096c41afeb9ed88e1a4c0e0be61a26f6cec1b9879aa85d"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1448-volume02-20261025"
+    },
+    {
+      "id": "public-fixed-open-side-roller-intake-and-collection-cabinet-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "public",
+      "style": "source-preserved-low-poly",
+      "title": "Fixed Open Side Roller Intake and Collection Cabinet",
+      "description": "One newly authored complete empty bottle-return-intake-style cabinet in a fixed open-side inspection presentation. A tall continuous base, left wall, rear wall and front portal form one housing around a true deep front rectangular intake mouth. Two entire parallel longitudinal cradle rollers and their separate transverse bearing seats occupy the lower intake channel; the rear portion of its roof and right wall is intentionally omitted for inspection visibility. Behind them a full open U-section downward-sloping chute ends above a complete deep empty collection bin in the lower cabinet, with its front handle slightly projecting. The right service side is intentionally open so the distinct upper channel, rear descent and lower receiver can be seen; this is not a sealed operating appliance. A whole blank front display and a small blank status panel have no text or readings. Unlike the old top-slot paper shredder there is a front-to-rear roller intake and separate descending outlet rather than a narrow vertical top feed; unlike the washer there is no circular blind drum or hinged circular door; unlike the inverted-bottle cabinet there are no bottle, taps or cup recess. All geometry is new, not extracted old machine parts, and the visible internals are an appearance only, not a validated working mechanism. Three opaque constant PBR roles, one model zero scenes. No bottle, recognition sensor, crushing mechanism, payments, sorting, flow, roller action, actual collection, recycling performance, usable reach, anchoring, electrical, hygiene, guarding or safety claim. Rigging animation interaction not made.",
+      "bounds": {
+        "x": 0.7200000286102295,
+        "y": 0.8579999804496765,
+        "z": 1.5,
+        "unit": "m"
+      },
+      "triangles": 1288,
+      "materials": 3,
+      "files": {
+        "glb": {
+          "path": "assets/public/public-fixed-open-side-roller-intake-and-collection-cabinet-01/v1.0.0/model.glb",
+          "size": 120220,
+          "sha256": "5e06256182d37ad96c2a747e37836e66f6aabcd38a65bdc6ab08f5ce370dbb1c"
+        },
+        "blend": {
+          "path": "assets/public/public-fixed-open-side-roller-intake-and-collection-cabinet-01/v1.0.0/source.blend",
+          "size": 756928,
+          "sha256": "19789125070adc870ed30208412ef25b34512c6e5631f58d2001408dfd1eb97c"
+        },
+        "generator": {
+          "path": "assets/public/public-fixed-open-side-roller-intake-and-collection-cabinet-01/v1.0.0/generate.py",
+          "size": 17410,
+          "sha256": "c9eff52a65dca61bcae767d5e6f7ec35d700cdde1335aa107b1b3db24e686984"
+        },
+        "render": {
+          "path": "assets/public/public-fixed-open-side-roller-intake-and-collection-cabinet-01/v1.0.0/thumbnail.png",
+          "size": 508721,
+          "sha256": "8bee16f543be4172994331d335781f1cafa601077edf7e06fb6c1c978001eedc"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1448-volume02-20261025"
+    },
+    {
+      "id": "public-service-fixed-front-tank-and-rear-conditioner-ice-machine-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "public-service",
+      "style": "S01-clean-geometric",
+      "title": "Fixed Front Tank and Rear Conditioner Ice Machine",
+      "description": "One complete newly authored ice-rink-resurfacer-style static vehicle exterior. Four full annular flat-bottom-facet tyres and complete hubs carry one low two-rail chassis. A broad high forward closed collection-body exterior has a gently chamfered full outline and sloping shoulders, rather than a front driver cab. A separate empty right-rear operator platform, full seat and back, low side step, blank controls and whole steering ring sit beside a tall central transfer-housing exterior. Behind the vehicle two full trailing arms carry a single broad low conditioner frame with an actual open rear/underside mouth. Inside this frame one whole transverse shaft carries two separate oppositely winding thick continuous helical blade exteriors; a full trailing blunt strip and backing crossbar span the mouth edge. A complete curved opaque riser exterior connects the conditioner centre toward the front body. All parts belong to one integrated newly authored vehicle, not a road sweeper with its brushes exchanged or a walk-behind scrubber enlarged with a seat. Unlike those strongest old models there are no forward outboard brush discs, tall enclosed front cab or bowed squeegee behind a push frame. The high forward body, side-rear open controls and wide rear transverse-helix conditioning sled form a different entire organisation. Four opaque constant PBR roles, metres Z up and whole horizontal bounds centred over four finite tyre soles. One model zero scenes. Fixed unoccupied illustrative exterior only: the front body and rising conduit are opaque, no complete internal transfer or liquid circuit. No snow, ice, water, cooling, shaving, smoothing, blade action, screw transport, steering, driving, wheel motion, operator fit, load, manufacture, operation or safety capability. No people, branding, logos, rigging, animation or interaction.",
+      "bounds": {
+        "x": 1.836,
+        "y": 2.7775,
+        "z": 1.7428986685561156,
+        "unit": "m"
+      },
+      "triangles": 3544,
+      "materials": 4,
+      "files": {
+        "glb": {
+          "path": "assets/public-service/public-service-fixed-front-tank-and-rear-conditioner-ice-machine-01/v1.0.0/model.glb",
+          "size": 208100,
+          "sha256": "013d67041ac174c17758da03235441b4248c42653d619661293b160940b2881a"
+        },
+        "blend": {
+          "path": "assets/public-service/public-service-fixed-front-tank-and-rear-conditioner-ice-machine-01/v1.0.0/source.blend",
+          "size": 935376,
+          "sha256": "831c7e61bbac1cc7647af6c095daf9054960e81f42d090dccd65e9ef21bea2f7"
+        },
+        "generator": {
+          "path": "assets/public-service/public-service-fixed-front-tank-and-rear-conditioner-ice-machine-01/v1.0.0/generate.py",
+          "size": 14320,
+          "sha256": "d74dd8da712a9fc3548112d91dd65cb83d28e1efbcef7bc3a1f452c57c6bf4cc"
+        },
+        "render": {
+          "path": "assets/public-service/public-service-fixed-front-tank-and-rear-conditioner-ice-machine-01/v1.0.0/thumbnail.png",
+          "size": 426740,
+          "sha256": "c9535d5d886b2101730c2ffa5f471423888d381691a7d8bd37dae11dd31dde87"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1448-volume02-20261025"
+    },
+    {
+      "id": "public-service-fixed-twin-shaft-cabin-loop-cutaway-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "public-service",
+      "style": "S01-clean-geometric",
+      "title": "Fixed Twin Shaft Cabin Loop Cutaway",
+      "description": "One complete independently authored compact static architectural cutaway display of a twin-shaft circulating-cabin lift appearance. A shared broad footing carries a full three-pier front frame, two separate open vertical cabin lanes and an entire rear mechanical support frame. Two full level-front thresholds and crossheaders define four genuine open landing mouths. Four whole empty front-open cabins have thick continuous floor, side, rear and roof shells; each has its own rear hanging attachment and pin to the fixed continuous closed return-band appearance behind the cabins. One complete tall closed racetrack band passes around separate upper and lower full return wheels on actual whole axles and bearing pedestals. Upper and lower return spaces stay deliberately open so the route can be seen; no cabin is placed through a turn, and no turning motion is claimed. Unlike the single caged tower with an integral projecting access trough, the building frame has two separate adjacent lanes, repeated level mouths and shared upper/lower returns. Unlike the enclosed narrow grain bucket elevator, there are no transfer ducts, casing inspection window or belt-mounted outward scoops: full upright empty cabins hang by distinct rear fixtures behind architectural landing openings. All geometry newly authored together, no old cabin, chain lift or building mesh imported. Four opaque constant PBR roles, metres Z up, full horizontal bounds centred, one entire modular facility zero scenes. Unoccupied static cutaway art only: no actual cabin circulation, pendulum clearance, guidance, drive, synchronization, stopping, entry or exit, boarding, evacuation, human access, code compliance, load, installation or safety capability. The displayed fixed seats do not validate moving suspension or travel. No people, doors, signs, rigging, animation or interaction.",
+      "bounds": {
+        "x": 1.9799999999999998,
+        "y": 1.2599999999999998,
+        "z": 3.9,
+        "unit": "m"
+      },
+      "triangles": 2700,
+      "materials": 4,
+      "files": {
+        "glb": {
+          "path": "assets/public-service/public-service-fixed-twin-shaft-cabin-loop-cutaway-01/v1.0.0/model.glb",
+          "size": 148296,
+          "sha256": "26559010c9e05fa25f9ba72e270caf5f361985abe8a89dacaf48837a7bf82851"
+        },
+        "blend": {
+          "path": "assets/public-service/public-service-fixed-twin-shaft-cabin-loop-cutaway-01/v1.0.0/source.blend",
+          "size": 945488,
+          "sha256": "afe65716a5b09878355709c750f00fccb2b7d2662e5862c5ff95791c5517e33b"
+        },
+        "generator": {
+          "path": "assets/public-service/public-service-fixed-twin-shaft-cabin-loop-cutaway-01/v1.0.0/generate.py",
+          "size": 13200,
+          "sha256": "a4afc0e4bf74ed746d58a0fadb7333f0e67ba036816408f1f4e6c24d0f912bb1"
+        },
+        "render": {
+          "path": "assets/public-service/public-service-fixed-twin-shaft-cabin-loop-cutaway-01/v1.0.0/thumbnail.png",
+          "size": 480009,
+          "sha256": "ae0b0646150335a7bd062c7988ddac611def7c8a0693e1ef79b8f26fc4496676"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1448-volume02-20261025"
+    },
+    {
+      "id": "public-service-whole-empty-four-arm-lift-and-parked-reservoir-bay-scene-01",
+      "version": "1.0.0",
+      "category": "scenes",
+      "assetKind": "scene",
+      "theme": "public-service",
+      "style": "source-preserved-low-poly",
+      "title": "Whole Empty Four Arm Lift and Parked Reservoir Bay",
+      "description": "One static empty vehicle-maintenance equipment preparation bay, one scene and zero new independent models. The complete original twin-column four-arm lift stands on the left of a common finite floor, with its entire high crosshead, guide carriages, four open telescopic sleeves, inner arms and blunt round pads unchanged. The complete original wheeled reservoir with raised deep funnel stands independently in a side parking strip on the right, outside the full lift envelope, with a visible gap. The central and forward space between the lift columns stays empty; no vehicle or imitation supported load is supplied. This is an ordinary empty lift-and-collection-equipment preparation layout, not the existing tyre-changing/balancing machines with low jack or the clamped bicycle and wheel-service bench. Both originals retain full local buffers, normals, hierarchy, unit scale and PBR, without altering any arm pose or funnel height. Only whole translations and one closed scene-only floor are new. No lifting, drainage, fluid routing, arm sweep, equipment compatibility, drive path, installation, anchoring, human clearance, rated load or safety is claimed. Rigging animation interaction not made.",
+      "bounds": {
+        "x": 6.0,
+        "y": 3.200000047683716,
+        "z": 3.4800000190734863,
+        "unit": "m"
+      },
+      "triangles": 7036,
+      "materials": 9,
+      "files": {
+        "glb": {
+          "path": "assets/logistics/public-service-whole-empty-four-arm-lift-and-parked-reservoir-bay-scene-01/v1.0.0/model.glb",
+          "size": 528032,
+          "sha256": "075e6f67a88a688f75b37f8adea3474ff6a7560109ca12297ed78d7ec611ca95"
+        },
+        "blend": {
+          "path": "assets/logistics/public-service-whole-empty-four-arm-lift-and-parked-reservoir-bay-scene-01/v1.0.0/source.blend",
+          "size": 1717544,
+          "sha256": "45e9178fc941388dc8528c35654f044d9c1c3a56c6e9006383c965da71cfdbc0"
+        },
+        "generator": {
+          "path": "assets/logistics/public-service-whole-empty-four-arm-lift-and-parked-reservoir-bay-scene-01/v1.0.0/generate.py",
+          "size": 134446,
+          "sha256": "9acd4897f3e599c8d1c7fa252c04868a588bcaa96cec7b823c14d0bf90279f8d"
+        },
+        "render": {
+          "path": "assets/logistics/public-service-whole-empty-four-arm-lift-and-parked-reservoir-bay-scene-01/v1.0.0/thumbnail.png",
+          "size": 506384,
+          "sha256": "d8b06bb666a17dcc80d2c997d80012e6ee3c18f1d3f940ad7d0f7a1fe42876b3"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1448-volume02-20261025"
+    },
+    {
+      "id": "railway-fixed-raised-reservoir-and-counterweighted-spout-tower-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "railway",
+      "style": "S01-clean-geometric",
+      "title": "Fixed Raised Reservoir and Counterweighted Spout Tower",
+      "description": "One newly authored complete static railway water-service tower appearance. A high braced four-post trestle supports a whole broad empty flat-bottom cylindrical reservoir with real central bottom outlet and three full exterior bands. Its whole downward feed tube bends forward into a separate fixed raised long open spout, carried by independent lateral trunnions and two complete support cheeks. A full side upright and pulley support one continuous cord from the spout yoke to a separate suspended counterweight within the trestle. The distinctive complete relation is elevated reservoir, lower returning feed, side outboard hinged-spout appearance and independent upper counterweight route, not a grain silo with a changed cone or a scaled ground fire monitor. No old visible geometry imported; one full apparatus, not a scene or separately counted tank and spout. All inner and outer pipe walls and both spout mouths genuinely modeled, dry and empty. Three opaque PBR roles, metres Z up, bounds-centred ground origin. Fixed illustrative railway infrastructure only; no stored water, pipe seal, flow, pressure, rotation, counterbalance solution, refilling, railway compatibility, historical accuracy, load, installation or operator safety capability. Rigging animation and interaction not made or verified.",
+      "bounds": {
+        "x": 3.03,
+        "y": 5.9597679682335105,
+        "z": 5.03,
+        "unit": "m"
+      },
+      "triangles": 2784,
+      "materials": 3,
+      "files": {
+        "glb": {
+          "path": "assets/railway/railway-fixed-raised-reservoir-and-counterweighted-spout-tower-01/v1.0.0/model.glb",
+          "size": 155304,
+          "sha256": "c73828c9db7825a0b23e6274a4fa3520a5ecf84e44b2f5871e32698d090a6782"
+        },
+        "blend": {
+          "path": "assets/railway/railway-fixed-raised-reservoir-and-counterweighted-spout-tower-01/v1.0.0/source.blend",
+          "size": 801108,
+          "sha256": "274b369d0792d3f32752e7ca3124ee9956818c5afdfd88d6a9c19e955caf75cf"
+        },
+        "generator": {
+          "path": "assets/railway/railway-fixed-raised-reservoir-and-counterweighted-spout-tower-01/v1.0.0/generate.py",
+          "size": 12853,
+          "sha256": "3fe214727c011712a5ab75ba3eda340c74a2bf51ba3e1311bf98ab1f7ae64281"
+        },
+        "render": {
+          "path": "assets/railway/railway-fixed-raised-reservoir-and-counterweighted-spout-tower-01/v1.0.0/thumbnail.png",
+          "size": 528715,
+          "sha256": "7ae1716764c0714b33fdcfc52436a9cd2c0bd380551c482ed4ee26e89c0aab44"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1448-volume02-20261025"
+    },
+    {
+      "id": "railway-fixed-twin-bogie-double-end-cab-and-roof-collector-locomotive-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "railway",
+      "style": "S01-clean-geometric",
+      "title": "Fixed Twin Bogie Double End Cab and Roof Collector Locomotive",
+      "description": "One wholly newly authored complete double-ended rail-locomotive-style static exterior. Two independent complete low H-shaped wheelset frames each carry two transverse axles and whole profiled flanged wheels. Separate stepped body seats connect these frames beneath one long bridge underframe and a continuous body floor. One central chamfer-shoulder equipment body is joined to two opposing sloped cab exteriors with proud opaque divided windscreens and full side-window inserts. Complete blunt end beams and closed coupling-style bosses belong to both ends. A roof base supports a complete fixed raised two-sided diamond frame: lower bearings and full transverse axis, four whole links per side, two retained outer bend pins, top axis and one complete shallow collector bow. It is not the old short three-bore toy locomotive with extra wheels or a longer boiler, nor the old standalone spring-bolster bogie copied under a wagon. No old mesh or subassembly is imported. All visible coordinates and the long-body/two-frame/paired-cab/roof-frame relationship are new and authored together as one prop, zero scenes. Four opaque constant untextured PBR appearances, native metre game coordinates and Z up; whole horizontal envelope centred above real flange ground facets. Static stylized exterior only: cab and equipment volumes are solid artwork, side panels and glazing opaque, no passengers, driver, engine or electrical interior, rails or wires. No motor, propulsion, current collection, insulation, articulation, steering, suspension, rolling, rail gauge, track or coupling compatibility, human fit, load, manufacturing, installation, railway operation or safety validation. Rigging animation interaction not made or verified.",
+      "bounds": {
+        "x": 1.88,
+        "y": 7.98,
+        "z": 3.72,
+        "unit": "m"
+      },
+      "triangles": 5384,
+      "materials": 4,
+      "files": {
+        "glb": {
+          "path": "assets/railway/railway-fixed-twin-bogie-double-end-cab-and-roof-collector-locomotive-01/v1.0.0/model.glb",
+          "size": 256204,
+          "sha256": "a7df491b754b464c62335d93139cea6edba0084f96bbe2673e5ddb53e6ba2f2c"
+        },
+        "blend": {
+          "path": "assets/railway/railway-fixed-twin-bogie-double-end-cab-and-roof-collector-locomotive-01/v1.0.0/source.blend",
+          "size": 1109768,
+          "sha256": "4b02a6771cbd2f5baaca04be7c0ce0d12be031ba9d665b171071ba822241c847"
+        },
+        "generator": {
+          "path": "assets/railway/railway-fixed-twin-bogie-double-end-cab-and-roof-collector-locomotive-01/v1.0.0/generate.py",
+          "size": 31300,
+          "sha256": "3bfdf9a2c2c0187288d31f1030b1b69e41909ff3a9e50c28e3429e4b8bdc3dcd"
+        },
+        "render": {
+          "path": "assets/railway/railway-fixed-twin-bogie-double-end-cab-and-roof-collector-locomotive-01/v1.0.0/thumbnail.png",
+          "size": 559633,
+          "sha256": "3323d29642e5f97a982a44400ec7f8073132f7f245f9aa494959b3ac23ebd7fa"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1448-volume02-20261025"
+    },
+    {
+      "id": "railway-whole-end-track-and-raised-water-service-bay-scene-01",
+      "version": "1.0.0",
+      "category": "scenes",
+      "assetKind": "scene",
+      "theme": "railway",
+      "style": "source-preserved-low-poly",
+      "title": "Whole End Track And Raised Water Service Bay",
+      "description": "One static railway end-track water-service bay scene, one scene and zero new standalone models. Four complete unit-scale original instances retain every raw GLB mesh, node hierarchy, triangle, normal and PBR: two entire straight tracks join end-to-end, one whole low buffer stands just beyond the terminal rail ends, and one entire qualified high reservoir with counterweighted raised spout stands beyond the buffer. Its long lateral mouth projects back above the empty terminal-track zone while the reservoir feet and hanging weight remain outside the track envelope. A new finite low ballast-look ground body and one continuous L-shaped slightly raised side-approach/operating pad establish a separate approach along the right flank and a cross-strip in front of the tank trestle, rather than putting another bench beside a through platform. The empty end-track apparatus-overhead relation differs from the old trolley-on-track maintenance stop and the parallel ramped passenger platform. No train, tender, water, working controls or added equipment; every reused whole model remains unchanged, with only complete translations. The low buffer is presented beyond the existing end and is not fitted or certified to the rail. The low pedestrian-looking pad has an unchanged finite edge, not an accessibility ramp. All new geometry is scene-only, not independently counted models. Static artistic composition only; no vehicle gauge fit, human clearance, navigation, track connection, loading/refilling, flow, pressure, motion, counterbalance, ground bearing, civil engineering or railway safety claim. Rigging animation and interaction not made or verified.",
+      "bounds": {
+        "x": 6.400000095367432,
+        "y": 10.600000381469727,
+        "z": 5.150000095367432,
+        "unit": "m"
+      },
+      "triangles": 4108,
+      "materials": 14,
+      "files": {
+        "glb": {
+          "path": "assets/railway/railway-whole-end-track-and-raised-water-service-bay-scene-01/v1.0.0/model.glb",
+          "size": 270464,
+          "sha256": "68f8ac08c1886ec8f0adf240777f0bbe08d5a12f36436b9ed8a306639f454a1e"
+        },
+        "blend": {
+          "path": "assets/railway/railway-whole-end-track-and-raised-water-service-bay-scene-01/v1.0.0/source.blend",
+          "size": 1430432,
+          "sha256": "f0b231a807cdca265c71a496c4cac15f52e3b68c0be53579912c8a13cf81435e"
+        },
+        "generator": {
+          "path": "assets/railway/railway-whole-end-track-and-raised-water-service-bay-scene-01/v1.0.0/generate.py",
+          "size": 82141,
+          "sha256": "41764e0a6ddd4de1c47a967ebe54777a966d4021a24a2edc3159ec0cd9d9c176"
+        },
+        "render": {
+          "path": "assets/railway/railway-whole-end-track-and-raised-water-service-bay-scene-01/v1.0.0/thumbnail.png",
+          "size": 535671,
+          "sha256": "cbbcf2e1eedb3edf0eae5dba42dbd72aede7f66f1a664d9ae3ce0e804bccb7d5"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1448-volume02-20261025"
+    },
+    {
+      "id": "regional-fixed-horizontal-runner-and-stone-millroom-cutaway-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "regional",
+      "style": "S01-clean-geometric",
+      "title": "Fixed Horizontal Runner and Stone Millroom Cutaway",
+      "description": "One newly authored complete static regional millroom cutaway. A real open-ended dry race lies between two full supporting masonry walls beneath the room. A whole horizontal radial paddle runner sits on a low bearing foot and shares one continuous vertical shaft with the complete broad upper and lower millstones above. The lower stone has a genuine shaft passage and sits on two whole exposed transverse floor joists; the upper stone has a real central feed eye. A full open tapering hopper and narrow throat stand on independent complete rear posts, tie and side seats. The retained room has a true rear window, two short side returns, a rear floor patch and a thick pitched rear roof section; the front walls, floor boards and front roof are deliberately omitted to reveal the continuous lower-runner to upper-stone relationship. Finite section faces are closed, not unfinished surface holes. This is neither the old vertically oriented twin-rim waterwheel on an external A-frame nor a standalone hand quern relocated indoors, and no old wheel, building or stone mesh is imported. Three opaque PBR roles, metres Z up, whole horizontal envelope centred, one architectural cutaway zero scenes. Dry unoccupied regional-inspired artwork, not an exact historic reconstruction or operational plan. No water, grain, grinding process, shaft rotation, bearing fit, transmission, hydraulics, energy output, food hygiene, access, loading, structure or engineering safety capability. Rigging animation and interaction not made or verified.",
+      "bounds": {
+        "x": 4.5,
+        "y": 3.8,
+        "z": 4.62,
+        "unit": "m"
+      },
+      "triangles": 1368,
+      "materials": 3,
+      "files": {
+        "glb": {
+          "path": "assets/regional/regional-fixed-horizontal-runner-and-stone-millroom-cutaway-01/v1.0.0/model.glb",
+          "size": 83256,
+          "sha256": "db52656dbc2275a5027f88ee81e962f2ce514456afad0d02e7fdb2995b145ba6"
+        },
+        "blend": {
+          "path": "assets/regional/regional-fixed-horizontal-runner-and-stone-millroom-cutaway-01/v1.0.0/source.blend",
+          "size": 733968,
+          "sha256": "2e4d955f087d6785f85c9574f3c379a0f1f9b8a779628dad74fa907deac05d14"
+        },
+        "generator": {
+          "path": "assets/regional/regional-fixed-horizontal-runner-and-stone-millroom-cutaway-01/v1.0.0/generate.py",
+          "size": 12915,
+          "sha256": "f0e43a55da57b1a80bdde07c6c4e67add645231a023408812cdbc72de828f8cc"
+        },
+        "render": {
+          "path": "assets/regional/regional-fixed-horizontal-runner-and-stone-millroom-cutaway-01/v1.0.0/thumbnail.png",
+          "size": 560611,
+          "sha256": "4043da0fcdee45c6da328297ae48b95a58b3d4eb8227baffe153c563b157880a"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1448-volume02-20261025"
+    },
+    {
+      "id": "regional-fixed-terraced-mass-and-three-approach-shrine-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "regional",
+      "style": "S01-clean-geometric",
+      "title": "Fixed Terraced Mass and Three Approach Shrine",
+      "description": "One newly authored complete stepped-platform-shrine architectural exterior. A single continuous thick grounded masonry body retreats through three broad raised terraces. Three whole lower approach flights converge at one full front landing; from there one continuous upper stair climbs through the terrace fronts to a complete small upper shrine chamber. That chamber has an actual front doorway, thick side and back walls, an internal floor and a full roof, not a dark doorway decal. All tier bodies, landing and stair runs are one shared-vertex closed material boundary without interior overlapping cell faces. This is not a repeated collection of old plinths or an isolated bifurcated stair with changed step count: the three approaches converge and then enter one higher temple-like whole atop a terraced grounded mass. Unlike the old sunken stepwell, routes rise above the surrounding ground toward a separate upper chamber rather than descending within a retaining enclosure to a well. No old stair, architecture or model mesh imported. Three opaque PBR roles, metres Z up and whole horizontal envelope centred. One complete architectural module zero scenes. Fictional regional ancient-inspired static art only, not a named sacred site, historic reconstruction, religious activity or construction plan. No accessible route, stair standard, handrail safety, host fit, material strength, foundation, load, manufacture or engineering safety capability. Rigging animation interaction not made or verified.",
+      "bounds": {
+        "x": 8.8,
+        "y": 8.3,
+        "z": 4.9,
+        "unit": "m"
+      },
+      "triangles": 6600,
+      "materials": 3,
+      "files": {
+        "glb": {
+          "path": "assets/regional/regional-fixed-terraced-mass-and-three-approach-shrine-01/v1.0.0/model.glb",
+          "size": 148908,
+          "sha256": "5c9fa0e975c2a8aae10196be425b0be563b6c8c648491e6b476a51fad50330a4"
+        },
+        "blend": {
+          "path": "assets/regional/regional-fixed-terraced-mass-and-three-approach-shrine-01/v1.0.0/source.blend",
+          "size": 957820,
+          "sha256": "a7b1c86822c634a1fdf131ed8276d7771a2252efd7db04c2e05624d02c474298"
+        },
+        "generator": {
+          "path": "assets/regional/regional-fixed-terraced-mass-and-three-approach-shrine-01/v1.0.0/generate.py",
+          "size": 12189,
+          "sha256": "334f5d38417e7f0859bd1f4211a4e9577cea2d1235de60d231b50af7c605fb29"
+        },
+        "render": {
+          "path": "assets/regional/regional-fixed-terraced-mass-and-three-approach-shrine-01/v1.0.0/thumbnail.png",
+          "size": 558566,
+          "sha256": "82b8c730a4b60b8e43622d78d41a74e61bc03f003be785162c71eb9db6c4a448"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1448-volume02-20261025"
+    },
+    {
+      "id": "sports-whole-enclosed-dry-rink-and-exterior-service-apron-scene-01",
+      "version": "1.0.0",
+      "category": "scenes",
+      "assetKind": "scene",
+      "theme": "sports",
+      "style": "source-preserved-low-poly",
+      "title": "Whole Enclosed Dry Rink and Exterior Service Apron",
+      "description": "One complete static enclosed dry ice-rink-like service-boundary scene, one scene and zero new independent models. A new scene-only rounded rectangular pale pad and a continuous low open-front perimeter wall distinguish an interior empty skating-shaped area from an exterior service apron. The entire previously qualified fixed partly closed roll shutter stands in the front wall opening; the complete qualified front-tank and rear-conditioner ice-machine appearance parks separately to the right outside the boundary. Both original units retain every mesh, full buffer, normal, opaque PBR and internal hierarchy at unchanged unit scale, under translation only. The machine is not underneath the low fixed curtain and no traversable doorway or vehicle fit is claimed. Unlike the old open football goal/trolley floor and four-station utility bay, this is an enclosed interior pad with an exterior service edge, not a substitution of machines at those original positions. Only the common slab, raised pale pad and continuous perimeter boards are new scene architecture; none is counted as a new standalone model. No people, snow, liquids, ice physics, markings, venue regulation, vehicle operation, refrigeration, shutter motion, sightline or human access, loads, installation or safety capability. Rigging, animation and interaction not made.",
+      "bounds": {
+        "x": 11.0,
+        "y": 11.0,
+        "z": 3.197499990463257,
+        "unit": "m"
+      },
+      "triangles": 6096,
+      "materials": 12,
+      "files": {
+        "glb": {
+          "path": "assets/sports/sports-whole-enclosed-dry-rink-and-exterior-service-apron-scene-01/v1.0.0/model.glb",
+          "size": 359992,
+          "sha256": "d00666a7dc8089d0d621da1ab392e9f8784fa32df59feee4564f905fbc6b3e34"
+        },
+        "blend": {
+          "path": "assets/sports/sports-whole-enclosed-dry-rink-and-exterior-service-apron-scene-01/v1.0.0/source.blend",
+          "size": 1605232,
+          "sha256": "2a79bc852f7dd787eda9f1efab9aca1e16307c4479a4354f59b0d09feba38634"
+        },
+        "generator": {
+          "path": "assets/sports/sports-whole-enclosed-dry-rink-and-exterior-service-apron-scene-01/v1.0.0/generate.py",
+          "size": 116681,
+          "sha256": "84ae94ef813bad4cbec81b67525bff488d57daa545f6c2f47d0593f9bf8aa086"
+        },
+        "render": {
+          "path": "assets/sports/sports-whole-enclosed-dry-rink-and-exterior-service-apron-scene-01/v1.0.0/thumbnail.png",
+          "size": 496188,
+          "sha256": "941b991b9fc96621b412810ee6e0085de6fc1c6e982fc2a3ebbb2afa9e7b4e44"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1448-volume02-20261025"
+    },
+    {
+      "id": "technology-fixed-l-slot-sleeve-and-twin-lug-tube-display-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "technology",
+      "style": "S01-clean-geometric",
+      "title": "Fixed L Slot Sleeve and Twin Lug Tube Display",
+      "description": "One newly authored complete fixed two-part pipe-connector illustrative display. A single continuous thick female tube wall contains two actual opposed open-ended L-shaped through paths, each with an axial mouth followed by a finite circumferential return and closed stop. A separate complete coaxial male tube has a real full-length bore and two integral radial lugs sharing its wall boundary. The halves remain axially separated on two whole short lower saddles and one common finite display bed so the positive ears and negative slot paths can be read without pretending that motion has been solved. Both whole mouths remain open. This is not the old external eccentric-cam lever sleeve or the interleaved three-jaw coupling with a separate spider insert: the new relation uses actual rim-open turning tracks and integral tube ears, without external levers, a closure disk or an elastomer insert. All geometry independently authored, no old connector meshes imported. Three opaque solid PBR roles, metres Z up, whole horizontal envelope centred, one connector display model zero scenes. Fixed artistic bayonet-style appearance only, not a weapon or tool blade. No insertion path, twist motion, locking, standardized fit, sealing, fluid flow, pressure, torque, load, manufacture, installation or mechanical safety capability. Rigging animation and interaction not made or verified.",
+      "bounds": {
+        "x": 2.12,
+        "y": 1.1,
+        "z": 1.2,
+        "unit": "m"
+      },
+      "triangles": 1580,
+      "materials": 3,
+      "files": {
+        "glb": {
+          "path": "assets/technology/technology-fixed-l-slot-sleeve-and-twin-lug-tube-display-01/v1.0.0/model.glb",
+          "size": 64000,
+          "sha256": "f17b573e4b41cccaace14290cecf14abcf33abf5240ea7b3427cfcf32c450aed"
+        },
+        "blend": {
+          "path": "assets/technology/technology-fixed-l-slot-sleeve-and-twin-lug-tube-display-01/v1.0.0/source.blend",
+          "size": 625352,
+          "sha256": "2a539d1ba4feab25cec629473873752cf99c46ac2d1e6935f5ad6f1ecfaafd3b"
+        },
+        "generator": {
+          "path": "assets/technology/technology-fixed-l-slot-sleeve-and-twin-lug-tube-display-01/v1.0.0/generate.py",
+          "size": 11474,
+          "sha256": "1bf42be544c10551176443773bf63105ad66b57169c31f998b8963853b7ed3c7"
+        },
+        "render": {
+          "path": "assets/technology/technology-fixed-l-slot-sleeve-and-twin-lug-tube-display-01/v1.0.0/thumbnail.png",
+          "size": 411194,
+          "sha256": "e858cd49b06896a26eb8a45983ab42741f605c73a8e9a6e977295e83d8e5db0b"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1448-volume02-20261025"
+    },
+    {
+      "id": "technology-fixed-opposed-hollow-dee-chambers-and-return-yoke-display-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "technology",
+      "style": "S01-clean-geometric",
+      "title": "Fixed Opposed Hollow Dee Chambers and Return Yoke Display",
+      "description": "One wholly newly authored static scientific-apparatus cutaway exhibit. A complete grounded plinth carries one continuous thick return-yoke form, its lower arm, full rear upright and retained shortened upper arm. A broad lower pole-disc and round chamber floor carry two independent hollow horizontal D-shaped bodies on four short fixed support posts. Each has a closed curved back, thick floor and one genuine open straight mouth facing the other across a continuous central slot. After the first actual image looked like two solid half-discs, this first real visual repair explicitly removes the entire left D roof, retaining its true thick floor, curved wall, finite rim and open straight mouth; the right D keeps its complete roof. The newly exposed interior is an intentional cutaway, not a transparent trick or a hollow claim based only on a hidden sample. A thick rear curved chamber-wall sector remains, while the front wall and entire lid are deliberately omitted. Only the rear segment of the upper pole-disc remains, its flat cut chord explicitly exposing the foreground bodies. A continuous blank rectangular winding-case appearance surrounds the rear yoke, and two closed side-stem appearances meet the D-shell backs. Unlike the U-yoke hand-generator there is no rotating axial drum, winding loops, crank or split-ring brushes; unlike the opposed annular-bowl exhibit there is no shared axis, toroidal cavity, curved vane field or small central guide ring. All visible geometry is new and authored together as one complete exhibit, not old magnetic and pump parts arranged into a scene. One model zero scenes, four opaque constant untextured PBR appearances, metre game coordinates/native Z up and complete horizontal bounds centred over the whole plinth sole. Cyclotron-inspired schematic artistic exterior only, not an accurate scientific instrument or an engineering design. No particle source or beam, electricity, radiofrequency, accelerating field, vacuum, resonance, magnetic field, radiation, calibration, experiment, image, precision, functional electrode/feedthrough, manufacture, operation or safety capability is made or verified. Omitted casing and upper pole regions are deliberate visible cutaway scope, not missing promised opaque walls. Rigging animation interaction not made.",
+      "bounds": {
+        "x": 2.96,
+        "y": 2.72,
+        "z": 2.1,
+        "unit": "m"
+      },
+      "triangles": 2032,
+      "materials": 4,
+      "files": {
+        "glb": {
+          "path": "assets/technology/technology-fixed-opposed-hollow-dee-chambers-and-return-yoke-display-01/v1.0.0/model.glb",
+          "size": 99532,
+          "sha256": "36e3e3280a4c32b407a4c7fa0fcefee323665ab6d91524d47cd47ff0b1d7362a"
+        },
+        "blend": {
+          "path": "assets/technology/technology-fixed-opposed-hollow-dee-chambers-and-return-yoke-display-01/v1.0.0/source.blend",
+          "size": 702996,
+          "sha256": "67bc7a426dc1210da076ae00380eafd83b8032462ac7abce683c6b919a959636"
+        },
+        "generator": {
+          "path": "assets/technology/technology-fixed-opposed-hollow-dee-chambers-and-return-yoke-display-01/v1.0.0/generate.py",
+          "size": 30668,
+          "sha256": "b7e9db21a8955fe9e5fafd017d0e84eeb7a0f16ba1ecf7f9d3c00de4c13d429a"
+        },
+        "render": {
+          "path": "assets/technology/technology-fixed-opposed-hollow-dee-chambers-and-return-yoke-display-01/v1.0.0/thumbnail.png",
+          "size": 539274,
+          "sha256": "99908c3aac4b58021b87aa53b7fa898c78f60546de67b2fe4b6cadb04823c6af"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1448-volume02-20261025"
+    },
+    {
+      "id": "transport-whole-haul-truck-on-bridge-and-ticket-service-entry-scene-01",
+      "version": "1.0.0",
+      "category": "scenes",
+      "assetKind": "scene",
+      "theme": "transport",
+      "style": "source-preserved-low-poly",
+      "title": "Whole Haul Truck on Bridge and Ticket Service Entry",
+      "description": "One static vehicle reception and weighbridge-inspired display, one scene and zero new independent models. The complete existing rigid haul truck remains in its original raised-body pose and unit scale, with all four original tyre soles on one broad continuous scene-only bridge deck. Four low supporting pads connect that deck to the common finite ground slab; real open underside gaps remain between the pads. Two whole sloped scene-only approaches sit at opposite ends, with honest 40mm static separations from the deck, not a promised drivable surface. A complete existing ticket booth stands independently at the side with its genuine service window facing the truck side. Its original TICKETS lettering and striped roof remain unchanged: it is reused as a ticket-service booth, not relabelled as a calibrated weighing console. Broad front and rear empty strips and a separate booth-side area define the entrance composition. Unlike the old grader yard, all vehicle wheels bear on a central raised continuous deck rather than on side ground banks spanning a recessed trench; unlike the old carnival entrance, there is no pennant arch or pedestrian branch sign, and a whole vehicle-support bridge is the central station. Both whole old models retain every original local buffer, normal, PBR dictionary and internal hierarchy; only exact unit rigid placement and scene-only support geometry are new. No vehicle part, booth sign or body pose is altered or extracted. No load cells, weight display, weighing accuracy, driving, tipping, traffic procedure, tyre grip, axle rating, road compatibility, accessible passage, operating clearance, structural or workplace safety are made or verified. The raised empty truck body is a fixed art pose, not an instruction for real vehicle weighing. Rigging animation interaction not made.",
+      "bounds": {
+        "x": 8.800000190734863,
+        "y": 10.199999809265137,
+        "z": 3.6076536178588867,
+        "unit": "m"
+      },
+      "triangles": 3250,
+      "materials": 11,
+      "files": {
+        "glb": {
+          "path": "assets/transport/transport-whole-haul-truck-on-bridge-and-ticket-service-entry-scene-01/v1.0.0/model.glb",
+          "size": 173092,
+          "sha256": "96b2f23ff0e041cdf23153095327d1a63755d1da952ae0a4ffb1be96dcac0a50"
+        },
+        "blend": {
+          "path": "assets/transport/transport-whole-haul-truck-on-bridge-and-ticket-service-entry-scene-01/v1.0.0/source.blend",
+          "size": 1282548,
+          "sha256": "7cbec2b19acc2352370ec1ba386cbfdca985b154185e4ed800fc1c5265b19148"
+        },
+        "generator": {
+          "path": "assets/transport/transport-whole-haul-truck-on-bridge-and-ticket-service-entry-scene-01/v1.0.0/generate.py",
+          "size": 78900,
+          "sha256": "f542a8642ed007444ec63e8ea7533857fab882ab360139415e5b209f6dd3b176"
+        },
+        "render": {
+          "path": "assets/transport/transport-whole-haul-truck-on-bridge-and-ticket-service-entry-scene-01/v1.0.0/thumbnail.png",
+          "size": 519763,
+          "sha256": "f8a81f0ad5e287dd38c5a1f23328c77ee81d66b0e4f5bc0061c7cc33308ef5a5"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1448-volume02-20261025"
     }
   ]
 }
