@@ -1,0 +1,42 @@
+{
+  "id": "restaurant-whole-open-chest-and-closed-fridge-shelf-bay-scene-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "restaurant",
+  "style": "source-preserved-low-poly",
+  "title": "Whole Empty Chest Fridge and Corner Shelf Bay",
+  "description": "One empty restaurant cold-appliance and shelf preparation bay, one scene zero new independent models. A complete fixed-open chest freezer occupies the front-left station, with its whole deep liner, raised lid, gasket, handle and original hinges unchanged. An entire closed double-door refrigerator exterior stands separately behind it, with a positive interval beyond the chest lid envelope; its decorative door faces remain solid, with no new opening or inner chamber claim. A full three-post corner shelf stands separately at the rear-right, keeping both triangular shelves, underframes, brackets, all posts and braces intact and unstocked. The low floor and clear forward strip join these three distinct floor stations. This is not the old L kitchen continuous worktop/sink installation or the pantry table carrying small utensils. All original unit-scale mesh buffers, normals, hierarchy and opaque PBR dictionaries remain unchanged; only a bounded scene-only floor is new. No food, people, operating cold-chain, refrigeration, temperature, food-storage suitability, hygiene, load, electrical operation, moving door, accessibility, installation or safety capability. Rigging animation interaction not made.",
+  "bounds": {
+    "x": 3.4000000953674316,
+    "y": 2.799999952316284,
+    "z": 2.25,
+    "unit": "m"
+  },
+  "triangles": 2548,
+  "materials": 16,
+  "files": {
+    "glb": {
+      "path": "assets/restaurant/restaurant-whole-open-chest-and-closed-fridge-shelf-bay-scene-01/v1.0.0/model.glb",
+      "size": 205852,
+      "sha256": "fc4f8ac1a8217d96e35e9e91bf0f23235b25a8b19a307800bc64612762d247c0"
+    },
+    "blend": {
+      "path": "assets/restaurant/restaurant-whole-open-chest-and-closed-fridge-shelf-bay-scene-01/v1.0.0/source.blend",
+      "size": 1423812,
+      "sha256": "d069cd96a9f739c2c9d6930eca05d456fc434aac26f20cddb1f2fa74853a008e"
+    },
+    "generator": {
+      "path": "assets/restaurant/restaurant-whole-open-chest-and-closed-fridge-shelf-bay-scene-01/v1.0.0/generate.py",
+      "size": 83610,
+      "sha256": "954a4b8fad806b4ce175d092f4029e8b8b8d354da26ed562232f707bf56db80c"
+    },
+    "render": {
+      "path": "assets/restaurant/restaurant-whole-open-chest-and-closed-fridge-shelf-bay-scene-01/v1.0.0/thumbnail.png",
+      "size": 536704,
+      "sha256": "6b5a50d5904effa3a763cf90ee28e5cb5d047277857cecb62ede8bbd2096aa8d"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

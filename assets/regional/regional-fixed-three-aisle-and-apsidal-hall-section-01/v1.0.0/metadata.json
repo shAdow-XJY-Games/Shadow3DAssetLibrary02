@@ -1,0 +1,42 @@
+{
+  "id": "regional-fixed-three-aisle-and-apsidal-hall-section-01",
+  "version": "1.0.0",
+  "category": "architecture",
+  "assetKind": "modular",
+  "theme": "regional",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Three Aisle And Apsidal Hall Section",
+  "description": "One newly authored complete static architectural section of a high central longitudinal hall, two lower side aisles and a semicircular rear chamber. Two complete parallel high arcade assemblies have three genuine ground-to-arch openings each, connecting the central floor to lower lateral passages. Whole side walls and inclined aisle roofs sit below the retained high central gabled roof. A single continuous floor expands into the rear semicircular chamber, whose thick half-cylinder wall and closed thick half-dome terminate only the central hall, not all three aisles. The front half of the high roof and the front-right low roof/wall are deliberately omitted as finite presentation sections to expose the interior hierarchy; all retained pieces have closed finite edges. Unlike the earlier monitor roof alone, this includes grounded rooms, arcades, lower aisles and an apsidal termination; unlike a square groin bay it is a longitudinal three-volume organization rather than crossed cylindrical roofs. All coordinates newly authored, no old columns, roof or church parts imported. Three opaque solid PBR appearances, metres Z-up and bounds-centred ground datum, one static architecture model zero scenes. A generic artistic sectional building, not a historically exact basilica or a religious-use proposal. No people, rituals, furnishing, hidden finished front facade, complete weather enclosure, occupancy, daylight, acoustics, load, construction, historical accuracy, building-code or safety capability. No rigging animation interaction.",
+  "bounds": {
+    "x": 4.7,
+    "y": 6.41,
+    "z": 4.07,
+    "unit": "m"
+  },
+  "triangles": 1656,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/regional/regional-fixed-three-aisle-and-apsidal-hall-section-01/v1.0.0/model.glb",
+      "size": 94772,
+      "sha256": "e9e76e7db353a23dacf6fc968fac206ad3ddcb9aed03dd8650e40eab646322f0"
+    },
+    "blend": {
+      "path": "assets/regional/regional-fixed-three-aisle-and-apsidal-hall-section-01/v1.0.0/source.blend",
+      "size": 726532,
+      "sha256": "24c54defedf39d4fd60b2e22cad22f677d0ee5636afa622e332405386eaac0ab"
+    },
+    "generator": {
+      "path": "assets/regional/regional-fixed-three-aisle-and-apsidal-hall-section-01/v1.0.0/generate.py",
+      "size": 13857,
+      "sha256": "c86acf1720c7bc23e5679432e0275a1931c63d88873c5d6f038fd6fe3849d49c"
+    },
+    "render": {
+      "path": "assets/regional/regional-fixed-three-aisle-and-apsidal-hall-section-01/v1.0.0/thumbnail.png",
+      "size": 512127,
+      "sha256": "5b064885d358e1e743719bb6c0641172fb20c681b425f3bd17e526d7821be84a"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
