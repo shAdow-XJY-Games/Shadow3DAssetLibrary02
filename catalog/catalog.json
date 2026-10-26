@@ -1924,6 +1924,11 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary02",
       "commit": "ba4ff2f4277338b4d7b0f8466147431b1c038415"
+    },
+    "original-qualified-batch-1474-volume02-20261025": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary02",
+      "commit": "804e5257bc79e73f3612dea9454b99a484bdc701"
     }
   },
   "assets": [
@@ -65136,6 +65141,178 @@
       "status": "verified",
       "license": "All rights reserved",
       "sourceId": "original-qualified-batch-1470-volume02-20261025"
+    },
+    {
+      "id": "textile-whole-tabletop-lace-and-empty-hoop-preparation-bay-scene-01",
+      "version": "1.0.0",
+      "category": "scenes",
+      "assetKind": "scene",
+      "theme": "textile",
+      "style": "source-preserved-low-poly",
+      "title": "Whole Tabletop Lace and Empty Hoop Preparation Bay",
+      "description": "One static textile handcraft preparation bay, one scene and zero new independent models. Three complete qualified originals retain all geometry buffers, normals, opaque PBR, hierarchy and unit scale: a full roller-pillow and fanned-bobbin lace apparatus rests with both complete runners on an unchanged open worktable, beside an independent complete empty split-double-hoop tilting floor stand. Only whole translations and a common scene-only slab are new. The lace threads and bobbins remain entirely within their original apparatus; no yarn or cloth links the stations and the embroidery aperture stays empty. Unlike the whole warping and treadle-loom bay or carding/spinning corner, these are the actual small handcraft preparation objects rather than loom or fibre processing equipment. No claimed new functional process, working mechanism, tension, stitch production, human fit, accessibility, safe loading, manufacture or safety performance. Rigging animation interaction not made.",
+      "bounds": {
+        "x": 3.0999999046325684,
+        "y": 2.299999952316284,
+        "z": 1.4431383609771729,
+        "unit": "m"
+      },
+      "triangles": 6392,
+      "materials": 11,
+      "files": {
+        "glb": {
+          "path": "assets/textile/textile-whole-tabletop-lace-and-empty-hoop-preparation-bay-scene-01/v1.0.0/model.glb",
+          "size": 383876,
+          "sha256": "df7c2392bc379a1c65cb5898fedee106078fcea2b951638487b42b35d14aaf0a"
+        },
+        "blend": {
+          "path": "assets/textile/textile-whole-tabletop-lace-and-empty-hoop-preparation-bay-scene-01/v1.0.0/source.blend",
+          "size": 1749244,
+          "sha256": "c360495210654977591c7aa1b244282a3fa66d30dab49c6d49f50dcb93c350b1"
+        },
+        "generator": {
+          "path": "assets/textile/textile-whole-tabletop-lace-and-empty-hoop-preparation-bay-scene-01/v1.0.0/generate.py",
+          "size": 120612,
+          "sha256": "12d64e727680ba5d884250053a4079bb6462fef2f660881c820046a6db4af786"
+        },
+        "render": {
+          "path": "assets/textile/textile-whole-tabletop-lace-and-empty-hoop-preparation-bay-scene-01/v1.0.0/thumbnail.png",
+          "size": 504808,
+          "sha256": "21448e56949d6a708f912add1d5dd0ad2384cd1ed90e218e6f0b94aa1b6c78c7"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1474-volume02-20261025"
+    },
+    {
+      "id": "education-fixed-radial-cord-ring-and-perimeter-wheel-table-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "education",
+      "style": "S01-clean-geometric",
+      "title": "Fixed Radial Cord Ring and Perimeter Wheel Table",
+      "description": "One newly authored whole static round-table cord-and-weight exhibit. Three complete radial feet support a central pedestal and one thick blank circular table. Three independent pairs of edge bearing cheeks hold complete tangent-axis grooved wheels. Three whole continuous cords join one genuinely empty central ring, diverge across open air above the tabletop, wrap over their respective perimeter wheel and descend to three whole shouldered hanging weights. All construction newly authored; no old incline, ceiling fixture, table or pulley mesh imported. Not the single slotted inclined board with a sliding block, nor two ceiling lift bridles routed to a wall cleat. One model, zero scenes. Four opaque constant PBR materials, metres and centred ground datum. Fixed illustrative appearance only: no real equilibrium, mass, force, tension, angle calibration, rope motion, working adjustment, experiment, teaching result, load, manufacture or safety claim. No graduations, numbers or equations. Rigging, animation and interaction not made.",
+      "bounds": {
+        "x": 0.980666,
+        "y": 1.0,
+        "z": 0.984,
+        "unit": "m"
+      },
+      "triangles": 3824,
+      "materials": 4,
+      "files": {
+        "glb": {
+          "path": "assets/education/education-fixed-radial-cord-ring-and-perimeter-wheel-table-01/v1.0.0/model.glb",
+          "size": 218812,
+          "sha256": "c2e3058af60ece6a0d5a69ea3bad65fb000c22393a8dd80e3a61511b9ab4c1f2"
+        },
+        "blend": {
+          "path": "assets/education/education-fixed-radial-cord-ring-and-perimeter-wheel-table-01/v1.0.0/source.blend",
+          "size": 844540,
+          "sha256": "78532459f22eed333bd90de962c514e9a9f5a90c0f60a148d2f5fc3bbf5b5fd7"
+        },
+        "generator": {
+          "path": "assets/education/education-fixed-radial-cord-ring-and-perimeter-wheel-table-01/v1.0.0/generate.py",
+          "size": 25189,
+          "sha256": "6690f6037a4d7c01dfed3e4c6b877860545132e507728a29147935c46c0571d3"
+        },
+        "render": {
+          "path": "assets/education/education-fixed-radial-cord-ring-and-perimeter-wheel-table-01/v1.0.0/thumbnail.png",
+          "size": 510307,
+          "sha256": "2bf7ffe6345547f4b3656d26f1028802a3148327adcb920c20e711ce9af92548"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1474-volume02-20261025"
+    },
+    {
+      "id": "public-service-whole-empty-intake-cabinet-and-parked-cage-bay-scene-01",
+      "version": "1.0.0",
+      "category": "scenes",
+      "assetKind": "scene",
+      "theme": "public-service",
+      "style": "source-preserved-low-poly",
+      "title": "Whole Empty Intake Cabinet and Parked Cage Bay",
+      "description": "One empty public bottle-collection equipment preparation bay, one scene zero new independent models. The complete qualified open-side roller-intake and deep lower receiver cabinet stands at the forward-left side with its original front portal facing the shared empty approach. One entire original empty open-front delivery roll cage is parked separately at the rear-right and turned ninety degrees clockwise, so its open face points toward the lateral service gap rather than blocking the cabinet front. Both whole ground soles rest on one finite low floor. The cabinet retains its complete two rollers, fixed shortened inspection-side channel wall, descending chute and empty receiver; the cage retains its full deck, three framed sides and four caster assemblies. No crate is put inside it, no transfer bridge connects the units, and neither original is resized, trimmed or recoloured. This is ordinary separate intake-cabinet and empty collection-cart preparation, not the crate-in-cage with raised sorting bin/table or cage/roller/suspended scanner receiving line. All original unit-scale GLB buffers, normals, hierarchy and full PBR dictionaries remain unchanged under two rigid whole placements. No bottles, deposit values, customer, actual return processing, material separation, transport path, wheel motion, recycling mechanism, maintenance procedure, equipment fit, accessibility, rated loading or safety claim. Rigging animation interaction not made.",
+      "bounds": {
+        "x": 2.5,
+        "y": 2.200000047683716,
+        "z": 1.590000033378601,
+        "unit": "m"
+      },
+      "triangles": 3144,
+      "materials": 8,
+      "files": {
+        "glb": {
+          "path": "assets/public-service/public-service-whole-empty-intake-cabinet-and-parked-cage-bay-scene-01/v1.0.0/model.glb",
+          "size": 266820,
+          "sha256": "e7d7acb16067c219c2d7e251c0ea116194df8b0ce131dc45fd501d2880ef2e1e"
+        },
+        "blend": {
+          "path": "assets/public-service/public-service-whole-empty-intake-cabinet-and-parked-cage-bay-scene-01/v1.0.0/source.blend",
+          "size": 1279060,
+          "sha256": "7ba40770789ff9343c2cc718b5463a8781b01182e994b22e5ff73e760236b71f"
+        },
+        "generator": {
+          "path": "assets/public-service/public-service-whole-empty-intake-cabinet-and-parked-cage-bay-scene-01/v1.0.0/generate.py",
+          "size": 69116,
+          "sha256": "f64c470fd4f1fa87c9db0e1838d379c2fc52b27d4c7eb26e282570c68e12f240"
+        },
+        "render": {
+          "path": "assets/public-service/public-service-whole-empty-intake-cabinet-and-parked-cage-bay-scene-01/v1.0.0/thumbnail.png",
+          "size": 504011,
+          "sha256": "e0af2b3d7a8c2cf6d63e9c2e1f578d14d2bc227850cd9d8bc5d75f935c170d60"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1474-volume02-20261025"
+    },
+    {
+      "id": "marine-fixed-pierced-hull-and-three-through-lattice-legs-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "marine",
+      "style": "S01-clean-geometric",
+      "title": "Fixed Pierced Hull And Three Through Lattice Legs",
+      "description": "One wholly newly authored fixed self-elevating-work-barge-inspired exterior. A single continuous low rectangular hull-like mass has three genuine square wells passing fully through its thickness. Three complete long four-chord lattice legs extend through those wells both above and below the raised deck, each ending on its own broad grounded foot. Paired open guide collars, four short guide posts and fixed guide-pad appearances surround each leg above the hull; no solid cap hides the wells. One low blank station housing and two full side edge rails complete the same apparatus. Unlike the U-section floating dock, there is no central ship berth between high wing walls; unlike a tower crane, the wide deck surrounds through-going legs instead of sitting above one mast beneath a jib. All hull, legs, lattice bars, through-wells and guide structures newly authored, with no old crane/dock pieces imported. Three opaque solid PBR appearances, metres Z up and bounds-centred ground datum, one whole model zero scenes. Permanent dry static display only; hull is a solid external volume, not a ballast interior. No water, vessel cargo, people, jacking drive, leg travel, flotation, stability, offshore suitability, structural load, human access, installation, manufacture or safety performance. No rigging animation or interaction made.",
+      "bounds": {
+        "x": 4.6,
+        "y": 3.3,
+        "z": 4.28,
+        "unit": "m"
+      },
+      "triangles": 2420,
+      "materials": 3,
+      "files": {
+        "glb": {
+          "path": "assets/marine/marine-fixed-pierced-hull-and-three-through-lattice-legs-01/v1.0.0/model.glb",
+          "size": 172824,
+          "sha256": "0da7f739705792882fdf1afe38fbb050074014d02e9aa66c2ab1a332ce4c8dea"
+        },
+        "blend": {
+          "path": "assets/marine/marine-fixed-pierced-hull-and-three-through-lattice-legs-01/v1.0.0/source.blend",
+          "size": 1187960,
+          "sha256": "49b1174d0aef14e76a77e5fba5f3c54a8195695c3098a73d6adc01ca5f8af011"
+        },
+        "generator": {
+          "path": "assets/marine/marine-fixed-pierced-hull-and-three-through-lattice-legs-01/v1.0.0/generate.py",
+          "size": 12560,
+          "sha256": "54d086d4f0230772eb78a95ac18938f2039420f2b7978d10620acf1dc001d196"
+        },
+        "render": {
+          "path": "assets/marine/marine-fixed-pierced-hull-and-three-through-lattice-legs-01/v1.0.0/thumbnail.png",
+          "size": 548326,
+          "sha256": "c85994b1dea611b212c70ea2508be2d88bc6668dff4c9f408a407979f34c8110"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1474-volume02-20261025"
     }
   ]
 }
