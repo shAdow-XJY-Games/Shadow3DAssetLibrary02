@@ -1,0 +1,42 @@
+{
+  "id": "agriculture-fixed-opposed-oblique-concave-disc-harrow-01",
+  "version": "1.0.0",
+  "category": "modular",
+  "assetKind": "prop",
+  "theme": "agriculture",
+  "style": "warm-handcrafted-village",
+  "title": "Fixed Opposed Oblique Concave Disc Harrow",
+  "description": "One newly authored whole fixed disc-harrow-style trailer exterior. An open rectangular low frame carries two separate oblique full gang shafts with opposite plan angles. Each shaft passes through rooted hubs and a spaced row of genuine thick concave circular discs with open central holes and continuous dish walls, not flat saw blades or downward peg teeth. Four complete bearing posts join the shafts to the outer rails. A separate rear transport axle with two full side wheels, long front draw beam with open terminal eye and grounded parking leg complete the static parked assembly. No motor, hood, handles, feed vessel or old triangular timber frame; all geometry is newly drawn. One model zero scenes. Coarse static exterior only; no rotation, cultivation, draft attachment compatibility, load, soil clearance, engineering or safety capability, rig, animation or interaction claim.",
+  "bounds": {
+    "x": 2.25999999,
+    "y": 2.644999981,
+    "z": 0.800000012,
+    "unit": "m"
+  },
+  "triangles": 3816,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/agriculture/agriculture-fixed-opposed-oblique-concave-disc-harrow-01/v1.0.0/model.glb",
+      "size": 204828,
+      "sha256": "ef7d93dfb21731d44de0d6b9762da1cdb55c1f350dfa0ade839543e6f7a7d299"
+    },
+    "blend": {
+      "path": "assets/agriculture/agriculture-fixed-opposed-oblique-concave-disc-harrow-01/v1.0.0/source.blend",
+      "size": 825096,
+      "sha256": "4abe1c3eea20e0bf8c46edf7e27437a90a8bec1d54dd2ecedff2c2eb655308c5"
+    },
+    "generator": {
+      "path": "assets/agriculture/agriculture-fixed-opposed-oblique-concave-disc-harrow-01/v1.0.0/generate.py",
+      "size": 31262,
+      "sha256": "13b8c5cbd1b2165d8b779a5e921a08359d2223b4998c79cb1a1cabded1754a6f"
+    },
+    "render": {
+      "path": "assets/agriculture/agriculture-fixed-opposed-oblique-concave-disc-harrow-01/v1.0.0/thumbnail.png",
+      "size": 505543,
+      "sha256": "9f3cf14536ac81871effece7bcc9e8d850c9d91b7b4465576878500608df16fe"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

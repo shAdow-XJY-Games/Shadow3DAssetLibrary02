@@ -1,0 +1,42 @@
+{
+  "id": "public-service-fixed-lowered-upper-trough-cycle-rack-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "public-service",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Lowered Upper Trough Cycle Rack",
+  "description": "One newly authored complete empty two-level cycle-parking rack appearance in one fixed lowered-upper-tray pose. Four full finite mounting feet and a low common rectangular chassis carry a full horizontal open U wheel trough. Two complete rear columns support a real transverse upper pivot shaft and a second entire long U trough tilted downward and forward into a distinct loading silhouette. Two independently drawn side sleeve-and-rod supports meet separate whole pins beneath the upper trough. Continuous high side walls, rear stop bars, a full front loop grip and fixed rear pivot cheeks belong to the one common rack, not two unrelated stands. No old parking hoop, bicycle, scissor platform, crossed link or tray mesh imported. Four opaque PBR roles; metres Z up, whole XY bounds centred, four ground soles, one model zero scenes. Static empty visual structure only: no lifting or sliding travel, mechanism constraints, counterbalance, damping, wheel capture, bicycle fit or support, accessibility certification, human operation, security, manufacture, installation or load/safety performance. No bicycle supplied, no rigging animation or interaction.",
+  "bounds": {
+    "x": 0.66,
+    "y": 2.61795433170723,
+    "z": 1.67,
+    "unit": "m"
+  },
+  "triangles": 1008,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/public-service/public-service-fixed-lowered-upper-trough-cycle-rack-01/v1.0.0/model.glb",
+      "size": 65004,
+      "sha256": "e020a52846607134c369feaca05705de82e69a8436ae6a9d62716d6a554f024c"
+    },
+    "blend": {
+      "path": "assets/public-service/public-service-fixed-lowered-upper-trough-cycle-rack-01/v1.0.0/source.blend",
+      "size": 742940,
+      "sha256": "98d89695b1cddf88d9d17fe1638f0c301aad61cb4db65b98fdbc5cf9b05721d1"
+    },
+    "generator": {
+      "path": "assets/public-service/public-service-fixed-lowered-upper-trough-cycle-rack-01/v1.0.0/generate.py",
+      "size": 12672,
+      "sha256": "a12029d807c9383717d58a5adc713bfd9e703b4034dabed95a139327b034dfed"
+    },
+    "render": {
+      "path": "assets/public-service/public-service-fixed-lowered-upper-trough-cycle-rack-01/v1.0.0/thumbnail.png",
+      "size": 372477,
+      "sha256": "3ac3b6101afd12f7af1afe7ffbb357ab98ea1e77868e402ae489f9e5638b938e"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
