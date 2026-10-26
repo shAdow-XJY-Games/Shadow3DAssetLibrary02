@@ -1,0 +1,42 @@
+{
+  "id": "village-whole-sunken-return-stairs-and-central-dry-well-01",
+  "version": "1.0.0",
+  "category": "architecture",
+  "assetKind": "modular",
+  "theme": "village",
+  "style": "S01-clean-geometric",
+  "title": "Whole Sunken Return Stairs and Central Dry Well",
+  "description": "One complete newly authored dry stepwell-like architectural module. A full thick square outer retaining enclosure surrounds a large open descending interior: an offset upper entry feeds a left straight stair down to a full rear landing; the opposite parallel stair returns toward the front at a lower level. A complete low perimeter walk surrounds a further recessed central square dry well floor. All retaining walls, full treads, landings, floor and lower gallery share one continuous closed material boundary without hidden internal cell faces or independent overlapping step blocks. The new whole subject is the retained below-rim descent and nested deep court/well, not a small cylindrical well with more stone courses, an old freestanding half-turn stair placed into a box, or the sloping covered cellar entry with its doors removed. All coordinates new and no old mesh imported. Three opaque stone PBR roles, metres Z-up, full square footprint centred over the lowest exterior underside. One architectural module zero scenes. Outside retaining faces deliberately exposed with no surrounding terrain; upper rim is an invented exterior grade appearance, not the preview-ground level. No water, pumping, groundwater, excavation design, accessible passage, building code, rail protection, load, historical site reconstruction, host fit or engineering/safety capability. Rigging animation interaction not made.",
+  "bounds": {
+    "x": 4.9,
+    "y": 4.9,
+    "z": 3.05,
+    "unit": "m"
+  },
+  "triangles": 4304,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/village/village-whole-sunken-return-stairs-and-central-dry-well-01/v1.0.0/model.glb",
+      "size": 93792,
+      "sha256": "482d0965a352f82f6bdfbe859507aedf50c8e53fd3efa8ed78be6668e16fb4b6"
+    },
+    "blend": {
+      "path": "assets/village/village-whole-sunken-return-stairs-and-central-dry-well-01/v1.0.0/source.blend",
+      "size": 769752,
+      "sha256": "98212e55687f77da888848f8f91c5e7eff0a82c5d376ce85a38a766c737ee855"
+    },
+    "generator": {
+      "path": "assets/village/village-whole-sunken-return-stairs-and-central-dry-well-01/v1.0.0/generate.py",
+      "size": 11733,
+      "sha256": "3462b939185541102fe89cc6131bf14982914d3ac4d838a4e746e42ec92097af"
+    },
+    "render": {
+      "path": "assets/village/village-whole-sunken-return-stairs-and-central-dry-well-01/v1.0.0/thumbnail.png",
+      "size": 546075,
+      "sha256": "f1200daab89a7e4da7946a82466fd82d669a6f36a270e755ab95139afcebe0eb"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
