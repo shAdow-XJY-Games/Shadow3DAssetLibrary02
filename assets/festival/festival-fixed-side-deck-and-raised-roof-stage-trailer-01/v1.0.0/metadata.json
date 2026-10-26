@@ -1,0 +1,42 @@
+{
+  "id": "festival-fixed-side-deck-and-raised-roof-stage-trailer-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "festival",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Side Deck and Raised Roof Stage Trailer",
+  "description": "One wholly newly authored complete fixed expanded performance-stage trailer exterior. A tandem-wheel longitudinal chassis and converging tow yoke carry a raised main deck and continuous low rear backboard. An entire hinged side-deck wing is fixed horizontal, with three complete hinge barrels at its inner edge and two full-height outer support legs on finite ground shoes. Four main stabilizer feet and telescopic-looking square corner columns join the chassis to a raised whole shallow pitched roof body, with separate inner posts, transverse retainers and underside roof beams. A complete short side stair runs to the open stage floor. The low rear side panel and raised overhead roof remain separated by an open performance bay. Unlike the complete arched stock trailer, there is no enclosing stock vault, internal divided pen or rear loading ramp; unlike the field-kitchen trailer, there are no cooking wells or furnace. The outboard horizontal floor wing with its own legs and the lifted corner-supported canopy form an integrated newly authored spatial apparatus, not a copied vehicle carrying old stage objects. Four opaque PBR materials, metres Z up, whole horizontal bounds centred. One static complete model zero scenes. No roof raising sequence, hinge or telescopic travel, towing/road compatibility, wheel motion, weather enclosure, usable clearance, load, occupancy, performance installation or safety ability made or verified. No people, audience, sound equipment, lighting system, rigging, animation or interaction.",
+  "bounds": {
+    "x": 5.51,
+    "y": 3.0949999999999998,
+    "z": 2.9,
+    "unit": "m"
+  },
+  "triangles": 2252,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/festival/festival-fixed-side-deck-and-raised-roof-stage-trailer-01/v1.0.0/model.glb",
+      "size": 130124,
+      "sha256": "232df12c8207f3fa79a213fb5654f4fa67c6db00b045bb925675063a3583ddc3"
+    },
+    "blend": {
+      "path": "assets/festival/festival-fixed-side-deck-and-raised-roof-stage-trailer-01/v1.0.0/source.blend",
+      "size": 953608,
+      "sha256": "7f5115e6f11e023191040f15c3f08104858c0cfa128473321a7896e06b815a8f"
+    },
+    "generator": {
+      "path": "assets/festival/festival-fixed-side-deck-and-raised-roof-stage-trailer-01/v1.0.0/generate.py",
+      "size": 12518,
+      "sha256": "0689e9e551fd72797cc861b004110ab1e28f6b5cbf5fdc86fe6f6ff04e2097c2"
+    },
+    "render": {
+      "path": "assets/festival/festival-fixed-side-deck-and-raised-roof-stage-trailer-01/v1.0.0/thumbnail.png",
+      "size": 436883,
+      "sha256": "e88b08218d7a274fe82cc6540d8118ca5d064abecfb7de9d0aa8115bcf550334"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
