@@ -1,0 +1,42 @@
+{
+  "id": "animal-static-high-shoulder-low-broad-head-bison-01",
+  "version": "1.0.0",
+  "category": "modular",
+  "assetKind": "prop",
+  "theme": "animal",
+  "style": "warm-handcrafted-village",
+  "title": "Static High Shoulder and Low Broad Head Bison",
+  "description": "One newly authored whole stylised bison-like animal in a fixed grounded pose. A continuously high heavy shoulder and deep chest taper to lower narrow hindquarters, above four complete stout legs and broad cloven finite hoof soles. A low broad forehead and short thick neck descend to a blunt nose, with a deep integral throat-beard silhouette, two short upward-curving horns and short lateral ears. One thin hanging tail has an integrated end tuft. All torso, low head and limb sections newly drawn, not old cattle with an added hump or camel rescaled and reheaded. One model zero scenes. Static coarse exterior artwork only; no exact species, sex, anatomy, gait, ecology, animal-care, handling, load or safety claim; no rig, animation or interaction.",
+  "bounds": {
+    "x": 1.120000005,
+    "y": 2.991329193,
+    "z": 2.140000105,
+    "unit": "m"
+  },
+  "triangles": 1920,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/animal/animal-static-high-shoulder-low-broad-head-bison-01/v1.0.0/model.glb",
+      "size": 110824,
+      "sha256": "61a22f8666b6eb0de5016e25374e5e3f220dae4075ef9c6f73742a06e2785fc6"
+    },
+    "blend": {
+      "path": "assets/animal/animal-static-high-shoulder-low-broad-head-bison-01/v1.0.0/source.blend",
+      "size": 673180,
+      "sha256": "eff2f8d9aa525340960d8fd054eb31b9e2a8d880e0724abb76dc66c876bfd12b"
+    },
+    "generator": {
+      "path": "assets/animal/animal-static-high-shoulder-low-broad-head-bison-01/v1.0.0/generate.py",
+      "size": 31036,
+      "sha256": "c0a80bc2ea7aa665bc4658229394712746cf8c36a1f8d83fa6555f295208bca9"
+    },
+    "render": {
+      "path": "assets/animal/animal-static-high-shoulder-low-broad-head-bison-01/v1.0.0/thumbnail.png",
+      "size": 500780,
+      "sha256": "4cb99b10a9b7a6bd710c7926f24d8b2de57b6c4058965fc92a58b7edbf0e006d"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

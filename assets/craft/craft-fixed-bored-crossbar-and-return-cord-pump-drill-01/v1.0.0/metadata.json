@@ -1,0 +1,42 @@
+{
+  "id": "craft-fixed-bored-crossbar-and-return-cord-pump-drill-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "craft",
+  "style": "source-preserved-low-poly",
+  "title": "Fixed Bored Crossbar and Return Cord Pump Drill",
+  "description": "One newly authored complete fixed crossbar-and-cord pump-drill-style tool exterior, displayed lying along its full shaft. One continuous straight spindle passes through a whole broad low transverse pressure bar and a separate thick lower flywheel with a profiled rim. The transverse bar has a genuine full axial bore, occupied by the fixed spindle; its outer ends carry the ends of one continuous raised cord loop returning around the upper head. A whole short blunt end and lower collar complete the same tool. No side drive wheel, perpendicular gear pair, offset sweep crank or upper palm pad is reused. All numeric geometry newly authored. The crossbar/return cord/lower flywheel organization is not the old brace with a changed handle, or the side-geared drill with a different wheel count. Three opaque constant PBR roles, metres Z up, whole horizontal bounds-centred and a finite lower flywheel facet on the display plane. One prop zero scenes. Generic historical-tool-inspired static shape, not a cultural specimen replica or claimed historical reconstruction. No drill motion, cord winding, tension, wheel inertia, working bore fit, drilling, sharp bit, hand fit, manufacture, standing stability or safety capability. Rigging animation interaction not made.",
+  "bounds": {
+    "x": 0.36000001430511475,
+    "y": 0.5724825859069824,
+    "z": 0.14000000059604645,
+    "unit": "m"
+  },
+  "triangles": 1372,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/craft/craft-fixed-bored-crossbar-and-return-cord-pump-drill-01/v1.0.0/model.glb",
+      "size": 121180,
+      "sha256": "5232f29b35657ecf97b1cf25acd2057e58e94de35fe0a252405a09651bc7e8cb"
+    },
+    "blend": {
+      "path": "assets/craft/craft-fixed-bored-crossbar-and-return-cord-pump-drill-01/v1.0.0/source.blend",
+      "size": 719296,
+      "sha256": "f8f767e09c785ee80228174249b1c5ab58497336087b21ca1592fcf15b5ee5ba"
+    },
+    "generator": {
+      "path": "assets/craft/craft-fixed-bored-crossbar-and-return-cord-pump-drill-01/v1.0.0/generate.py",
+      "size": 16176,
+      "sha256": "270b9a3f587475db6fbb2f6ec6f8a031a6f5c2263cb45c006e91acb274ddd7e8"
+    },
+    "render": {
+      "path": "assets/craft/craft-fixed-bored-crossbar-and-return-cord-pump-drill-01/v1.0.0/thumbnail.png",
+      "size": 525512,
+      "sha256": "11a2c7a227c3a1a27667c72c8a3b0e04b47f04c766a5dabf114982f5a4e8e279"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

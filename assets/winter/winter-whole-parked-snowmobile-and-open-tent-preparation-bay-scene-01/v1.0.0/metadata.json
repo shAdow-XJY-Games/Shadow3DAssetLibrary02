@@ -1,0 +1,42 @@
+{
+  "id": "winter-whole-parked-snowmobile-and-open-tent-preparation-bay-scene-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "winter",
+  "style": "source-preserved-faceted-natural-ecology",
+  "title": "Whole Parked Snowmobile and Open Tent Preparation Bay",
+  "description": "One static snow-camp equipment preparation display scene, zero new reusable models. An entire qualified twin-front-ski single-rear-track snowmobile is parked to the right of an entire qualified cross-pole domed tent, both at original unit scale on one finite pale scene floor. The tent retains its full double-curved thick shell, floor, raised threshold, real front entry and two complete crossed pole paths. The vehicle retains every front ski, arm, roller, single continuous track, saddle, running board, hood and handle component. A visible side interval separates the vehicle from the tent; the offset parking position leaves an independent open entrance forecourt and vehicle-front strip. No skier, vehicle occupant, furniture, fire or extra snowbank is added. Unlike the old campsite social island with chairs, table and fire, this is a separated shelter/parked ski-track vehicle relation; unlike the old winter sled corner or ski/boot bench, it includes a whole enclosed shelter and entire powered-vehicle-shaped original. No snow physics, traction, driving, camping readiness, weather resistance, entry fit, navigation, load or safety claim. Original oriented triangles and constant opaque per-face PBR preserved with float32 whole translation; hierarchy baked and normals recomputed. No rig, motion or interaction.",
+  "bounds": {
+    "x": 5.0,
+    "y": 4.400000095,
+    "z": 1.437000036,
+    "unit": "m"
+  },
+  "triangles": 2380,
+  "materials": 9,
+  "files": {
+    "glb": {
+      "path": "assets/winter/winter-whole-parked-snowmobile-and-open-tent-preparation-bay-scene-01/v1.0.0/model.glb",
+      "size": 140200,
+      "sha256": "b516aab7ea3986c40a25bbc70af66e3aeb49f5ab9942b3837d30b8c690775df0"
+    },
+    "blend": {
+      "path": "assets/winter/winter-whole-parked-snowmobile-and-open-tent-preparation-bay-scene-01/v1.0.0/source.blend",
+      "size": 993780,
+      "sha256": "5f6aa37f374462f39c122fd279744efd5cdf3b33be2bc7bebaed43fda954d0da"
+    },
+    "generator": {
+      "path": "assets/winter/winter-whole-parked-snowmobile-and-open-tent-preparation-bay-scene-01/v1.0.0/generate.py",
+      "size": 70577,
+      "sha256": "a30c3853559c270727fa060f01e9bd2c9b1dcb9fe681403fe845c82a41d30758"
+    },
+    "render": {
+      "path": "assets/winter/winter-whole-parked-snowmobile-and-open-tent-preparation-bay-scene-01/v1.0.0/thumbnail.png",
+      "size": 510835,
+      "sha256": "db42d8f026f6e5a33fd380f8170ae84d743cd3eca79626a03095c2d87d9315af"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
