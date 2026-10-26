@@ -1,0 +1,42 @@
+{
+  "id": "farming-fixed-pivot-frame-trussed-pipe-and-wheeled-tower-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "farming",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Pivot Frame Trussed Pipe and Wheeled Tower",
+  "description": "One complete newly authored static centre-pivot-irrigation-inspired apparatus. A fixed four-leg ground frame surrounds a thick hollow upright pipe and curved upper elbow. One whole gently arched long pipe span is supported by two lower chords and diagonal spatial ties, reaching a separate complete two-wheel tandem tower; the far pipe continues as a short downturned overhang. Five complete hanging drop tubes have real annular open outlet heads. The long span is a supported pipe assembly between a ground pivot and a wheeled outer tower, not an old garden sprinkler with longer arms, nor a crane jib stripped of its hook or placed on wheels. No old visible mesh imported. Three opaque PBR roles, metres Z up, full horizontal envelope centred over four pivot feet and the displayed tyre ground facets, one whole prop zero scenes. Fixed stylized empty exterior only; no water, hoses, fields or crops supplied. Internal intersections of the separate hollow parts are not a verified fluid network. No irrigation distribution, pressure, rotary joint, wheel travel, propulsion, motors, structural truss capacity, plumbing fit, installation or operating safety capability. Rig animation and interaction not made or verified.",
+  "bounds": {
+    "x": 7.433400079426867,
+    "y": 2.2,
+    "z": 2.645,
+    "unit": "m"
+  },
+  "triangles": 5000,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/farming/farming-fixed-pivot-frame-trussed-pipe-and-wheeled-tower-01/v1.0.0/model.glb",
+      "size": 281876,
+      "sha256": "14820163748cea7a17b9e1d45d02b21cf6c7628867f493bdee613be67015d8d4"
+    },
+    "blend": {
+      "path": "assets/farming/farming-fixed-pivot-frame-trussed-pipe-and-wheeled-tower-01/v1.0.0/source.blend",
+      "size": 1063768,
+      "sha256": "40e47b7f0450139ea26d0428b7c5b1a3139567457da6a7e069c01772b2b6beb3"
+    },
+    "generator": {
+      "path": "assets/farming/farming-fixed-pivot-frame-trussed-pipe-and-wheeled-tower-01/v1.0.0/generate.py",
+      "size": 13120,
+      "sha256": "4546055eb099d58a10d470a32bf16d2c30bbf5f0465926f394c12defc6140a20"
+    },
+    "render": {
+      "path": "assets/farming/farming-fixed-pivot-frame-trussed-pipe-and-wheeled-tower-01/v1.0.0/thumbnail.png",
+      "size": 362935,
+      "sha256": "b59c0054c50b8a0876270c2a18e618c05e36d71ae92a265d76dd25de2bf2c59d"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
