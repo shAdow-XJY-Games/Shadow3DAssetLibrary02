@@ -1739,6 +1739,11 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary02",
       "commit": "6a4347851e6248f48a419a6358d33c38d6383088"
+    },
+    "original-qualified-batch-1341-volume02-20261025": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary02",
+      "commit": "b77fb7c2a7b5e8ea311240d53a6b05f3fb1a6521"
     }
   },
   "assets": [
@@ -59275,6 +59280,135 @@
       "status": "verified",
       "license": "All rights reserved",
       "sourceId": "original-qualified-batch-1338-volume02-20261025"
+    },
+    {
+      "id": "architecture-fixed-corner-squinches-and-open-octagonal-drum-01",
+      "version": "1.0.0",
+      "category": "architecture",
+      "assetKind": "modular",
+      "theme": "classical",
+      "style": "S01-clean-geometric",
+      "title": "Fixed Corner Squinches and Open Octagonal Drum",
+      "description": "One complete newly authored static square-to-octagonal architectural transition module. Four grounded whole L-section corner walls define a square lower footprint while leaving four side intervals open. At each inner corner, a thick triangular spandrel has a genuinely curved rising underside and diagonal arched front face spanning between the two perpendicular wall returns. These four separate corner squinches meet one continuous thick open octagonal upper drum, with no roof or hemispherical cap filling its centre. Unlike the old continuous spherical sail-vault shell, there is no central round roof flowing into spherical corner sails; unlike a freestanding full voussoir gateway, each new corner vault spans diagonally inside two perpendicular supports. All geometry and coordinates new, no old arch or pier meshes imported. Three opaque PBR roles, metre Z-up, full horizontal-bounds-centred four corner soles, one architectural module zero scenes. Fixed illustrative shape only, not a precise historical construction. No host building, dome, floors, structural thrust or load capacity, masonry design, assembly fit, accessibility, installation, building-code or safety capability. Rigging animation and interaction not made or verified.",
+      "bounds": {
+        "x": 4.44,
+        "y": 4.44,
+        "z": 2.45,
+        "unit": "m"
+      },
+      "triangles": 1504,
+      "materials": 3,
+      "files": {
+        "glb": {
+          "path": "assets/classical/architecture-fixed-corner-squinches-and-open-octagonal-drum-01/v1.0.0/model.glb",
+          "size": 52912,
+          "sha256": "d77b3a9c7e0ce81090a87fa7c31eba01ceba7a21e3304d4ef6ff400a8383de53"
+        },
+        "blend": {
+          "path": "assets/classical/architecture-fixed-corner-squinches-and-open-octagonal-drum-01/v1.0.0/source.blend",
+          "size": 639756,
+          "sha256": "d8cf18d012c90692bc94280e1cd4364f8048a593d50b5c7fecb29c55bd55d90e"
+        },
+        "generator": {
+          "path": "assets/classical/architecture-fixed-corner-squinches-and-open-octagonal-drum-01/v1.0.0/generate.py",
+          "size": 12167,
+          "sha256": "5da044359dc47936c55351ad18c4df8294d64335a60053e4307d86980851eaed"
+        },
+        "render": {
+          "path": "assets/classical/architecture-fixed-corner-squinches-and-open-octagonal-drum-01/v1.0.0/thumbnail.png",
+          "size": 508139,
+          "sha256": "ed23e111e4d548b06c9cee5ac62abc140feccc1b88c5ef2304f37104e3e5b7c2"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1341-volume02-20261025"
+    },
+    {
+      "id": "kitchen-fixed-perforated-bowl-and-bridge-crank-food-mill-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "kitchen",
+      "style": "source-preserved-low-poly",
+      "title": "Fixed Perforated Bowl and Bridge Crank Food Mill",
+      "description": "One newly authored whole empty hand-crank food-mill-style static exterior. A complete deep tapered bowl and low annular ground foot continue into one thick connected floor with twelve genuine radial through-slots and a central bore. A whole rim-rooted raised cross bridge carries one fixed vertical spindle and external offset crank with a full end grip. Below the bridge, one continuous blunt inclined sweep plate roots on the spindle above the floor without touching the bowl. One long side holding handle and two opposite short support ears meet the bowl wall. No separately nesting spinning basket, hinged lid, tall four-leg strainer frame or old bowl mesh is imported. The open fixed bridge/spindle/sweep-over-perforated-floor organization is newly authored together, not a lid removed from the salad spinner or the honey sieve given a new label. Three opaque constant PBR roles, metres Z up and whole horizontal bounds-centred annular-foot datum; one whole model zero scenes. Empty stylized art only: no food, pot, working sieve grade, grinding or pureeing, rotation, scraping, food contact, hygiene, fitting compatibility, hand fit, manufacture, stability or safe operation. Rigging animation and interaction not made.",
+      "bounds": {
+        "x": 0.5827935338020325,
+        "y": 0.335999995470047,
+        "z": 0.2759999930858612,
+        "unit": "m"
+      },
+      "triangles": 1888,
+      "materials": 3,
+      "files": {
+        "glb": {
+          "path": "assets/kitchen/kitchen-fixed-perforated-bowl-and-bridge-crank-food-mill-01/v1.0.0/model.glb",
+          "size": 165672,
+          "sha256": "c7774601eb1acb610fcfcdc9d158054390a3254008a8eaee79aa9e7ab9c57a78"
+        },
+        "blend": {
+          "path": "assets/kitchen/kitchen-fixed-perforated-bowl-and-bridge-crank-food-mill-01/v1.0.0/source.blend",
+          "size": 786496,
+          "sha256": "5de6831b076f2db3c1ce75aa8c4b47d23826413f50ef915d8112834c1c9606a9"
+        },
+        "generator": {
+          "path": "assets/kitchen/kitchen-fixed-perforated-bowl-and-bridge-crank-food-mill-01/v1.0.0/generate.py",
+          "size": 16818,
+          "sha256": "d903e740b5866ee666db3fb3d9a303ca14eb640c460f4e42937d722c1bae9d96"
+        },
+        "render": {
+          "path": "assets/kitchen/kitchen-fixed-perforated-bowl-and-bridge-crank-food-mill-01/v1.0.0/thumbnail.png",
+          "size": 470099,
+          "sha256": "219dd06ea087c1883180ed3aa0c3462d505eadc732cb6b9f6cc1bc31227636aa"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1341-volume02-20261025"
+    },
+    {
+      "id": "public-service-fixed-spiral-curtain-and-open-header-roll-shutter-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "public-service",
+      "style": "S01-clean-geometric",
+      "title": "Fixed Spiral Curtain and Open Header Roll Shutter",
+      "description": "One newly authored complete fixed half-raised roll-shutter doorway with an intentionally open-front header. One uninterrupted finite-thickness curtain runs from its full lower bar up through two straight inward-open C-section jamb guides and continues into a true one-and-a-half-turn separated spiral around the entire upper barrel. The straight curtain has shallow geometric corrugations and the roll has real layer gaps, not a cylinder placed above an unrelated flat panel. A complete upper shaft and both full bearing sleeves sit in two entire side cheeks, joined by a back plate and proud roof cap; the header front is deliberately absent to expose the winding geometry. A full threshold and two lower captive shoe appearances complete the same one doorway. All material surfaces and profiles newly authored, no old door/screen mesh imported. Unlike the complete sectional door with ten independent panels, side rollers and tracks turning into long horizontal overhead returns, this has a continuous coiled curtain retained by straight jamb channels and a compact winding head. Unlike the tripod projection screen, no mast, tripod or upward blank display sheet is used. Four opaque constant PBR roles, metres Z up and full horizontal-bounds-centred ground datum. One static architectural equipment prop zero scenes. No host building, people, powered or manual operation, curtain bending or rolling, continuous passage, locks, security, weather sealing, fire resistance, egress, installation, mechanical fit, load or safety capability verified. Rigging animation interaction not made.",
+      "bounds": {
+        "x": 2.58,
+        "y": 0.6699999999999999,
+        "z": 3.1375,
+        "unit": "m"
+      },
+      "triangles": 2096,
+      "materials": 4,
+      "files": {
+        "glb": {
+          "path": "assets/public-service/public-service-fixed-spiral-curtain-and-open-header-roll-shutter-01/v1.0.0/model.glb",
+          "size": 109752,
+          "sha256": "43d88782dc3fb6f884e2af4da55e660ec311a705351abcf726d7cdf6dd0827d3"
+        },
+        "blend": {
+          "path": "assets/public-service/public-service-fixed-spiral-curtain-and-open-header-roll-shutter-01/v1.0.0/source.blend",
+          "size": 727460,
+          "sha256": "51d9089722b2a34bfe607eeedc99a1fd9abd692e7bb55068de90a5c209782929"
+        },
+        "generator": {
+          "path": "assets/public-service/public-service-fixed-spiral-curtain-and-open-header-roll-shutter-01/v1.0.0/generate.py",
+          "size": 11959,
+          "sha256": "42fb140c5ed3e39925d1650365ee237ce195617d559083c869bf1252213517b6"
+        },
+        "render": {
+          "path": "assets/public-service/public-service-fixed-spiral-curtain-and-open-header-roll-shutter-01/v1.0.0/thumbnail.png",
+          "size": 467878,
+          "sha256": "431c840c8d568475a70eaf0fcaa4dcf7da2061449baad49ab795c004971e8311"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1341-volume02-20261025"
     }
   ]
 }
