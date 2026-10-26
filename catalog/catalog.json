@@ -1679,6 +1679,11 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary02",
       "commit": "0e549e682fe993891d10c43a061eb580d35b4d07"
+    },
+    "original-qualified-batch-1314-volume02-20261025": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary02",
+      "commit": "0bc17a318cd2807e2d9b1f322a7024a728874098"
     }
   },
   "assets": [
@@ -58140,6 +58145,49 @@
       "status": "verified",
       "license": "All rights reserved",
       "sourceId": "original-qualified-batch-1313-volume02-20261025"
+    },
+    {
+      "id": "nature-whole-reflexed-sepal-and-pendant-bell-flower-01",
+      "version": "1.0.0",
+      "category": "modular",
+      "assetKind": "prop",
+      "theme": "nature",
+      "style": "warm-handcrafted-village",
+      "title": "Whole Reflexed-Sepal and Pendant-Bell Flower",
+      "description": "One newly authored complete static pendant-bell flowering shoot. A continuous slim stem arches over to a downward hanging flower, with two whole pointed opposite-direction stem leaves. Four long thick outer sepals extend outward then genuinely turn back upward around a short downward open bell-like inner corolla. The inner corolla is a thick closed shell with a real downward mouth and recessed top, surrounding a long central hanging column and three slim whole hanging filaments. This outer upward-reflexed crown and inner short hanging bell are not a broad upright hibiscus cup rotated downward or a daffodil corona recoloured. Whole new stem curve, leaf surfaces, curved sepal profiles and bell cavity. One plant model zero scenes; stylised static appearance only, no exact cultivar, species, reproductive anatomy, growth, roots, pollination, toxicity or ecological function claim.",
+      "bounds": {
+        "x": 0.997600019,
+        "y": 0.884908497,
+        "z": 1.538025022,
+        "unit": "m"
+      },
+      "triangles": 2180,
+      "materials": 4,
+      "files": {
+        "glb": {
+          "path": "assets/nature/nature-whole-reflexed-sepal-and-pendant-bell-flower-01/v1.0.0/model.glb",
+          "size": 123120,
+          "sha256": "b37806a333e35e0a03e6673ce15e7e1f4408e271e69195d483440af18b6c336f"
+        },
+        "blend": {
+          "path": "assets/nature/nature-whole-reflexed-sepal-and-pendant-bell-flower-01/v1.0.0/source.blend",
+          "size": 656828,
+          "sha256": "86a9cc9b9a0a9106b3cc6bcfe92b2fbd1d0296c085319b4393764f1271c5449d"
+        },
+        "generator": {
+          "path": "assets/nature/nature-whole-reflexed-sepal-and-pendant-bell-flower-01/v1.0.0/generate.py",
+          "size": 30884,
+          "sha256": "d283fc030965593f4d80aa4b273bcbff8b552935d43f7034ac2f60f7c5557fdf"
+        },
+        "render": {
+          "path": "assets/nature/nature-whole-reflexed-sepal-and-pendant-bell-flower-01/v1.0.0/thumbnail.png",
+          "size": 474850,
+          "sha256": "b6252b12ce17d5e71d83312b76cf1d6babe97f03082f367128ce52c997e36faf"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1314-volume02-20261025"
     }
   ]
 }
