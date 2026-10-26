@@ -1879,6 +1879,11 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary02",
       "commit": "18ef39e74b78e36ff8e331a7b0289966cb69c1d8"
+    },
+    "original-qualified-batch-1416-volume02-20261025": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary02",
+      "commit": "b29f4b33862fb8dba4cba9622829f15e8f77e07b"
     }
   },
   "assets": [
@@ -62726,6 +62731,49 @@
       "status": "verified",
       "license": "All rights reserved",
       "sourceId": "original-qualified-batch-1415-volume02-20261025"
+    },
+    {
+      "id": "technology-fixed-paired-anchor-six-strut-and-tilted-platform-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "technology",
+      "style": "S01-clean-geometric",
+      "title": "Fixed Paired Anchor Six Strut and Tilted Platform",
+      "description": "One wholly newly authored complete six-strut spatial-platform display. One broad thick grounded hexagonal base and one separate fixed tilted upper platform are connected by six independent direct inclined strut paths. Alternating offset pairs of whole round-ended mounting stalks belong to both plates. Every path contains a complete stepped outer barrel with integral proud mouth collar, a short blind recess and one narrower exposed rod at its own fixed extension, ending at its own upper stalk. The middle stays open with no hidden central column. Unlike the old three-branch overhead parallel robot, there are no upper root housings, shared elbow bodies, paired thin lower rods, standing peripheral cage or hanging end-tool. Unlike the orthogonal elbow-chain platform, there are no broad folded links, orthogonal hinge families or retained transverse axes; the common tilted plate is reached directly by six spatially inclined barrel-and-rod bodies. All coordinates newly authored without importing or extracting any old robot, actuator or lifting-platform mesh. One prop zero scenes, four opaque untextured PBR appearances, metres native Z up and horizontal whole-envelope centre over the complete base sole. Empty static artistic mechanism only, not a working motion platform: no six-degree-of-freedom performance, solved kinematics, travel, articulation, sliding, precision, actuator power or fluid circuit, payload, human support, balance, manufacture, installation or safety validation. Ball-like ends are deliberately fixed overlapping exterior joins rather than functional sockets. Rigging animation interaction not made or verified.",
+      "bounds": {
+        "x": 2.48,
+        "y": 2.147743,
+        "z": 1.810821,
+        "unit": "m"
+      },
+      "triangles": 3880,
+      "materials": 4,
+      "files": {
+        "glb": {
+          "path": "assets/technology/technology-fixed-paired-anchor-six-strut-and-tilted-platform-01/v1.0.0/model.glb",
+          "size": 211336,
+          "sha256": "435a01fa94c6df8519547c030a5bb715b6e7a8557d1732abac2e88d9721b3839"
+        },
+        "blend": {
+          "path": "assets/technology/technology-fixed-paired-anchor-six-strut-and-tilted-platform-01/v1.0.0/source.blend",
+          "size": 859152,
+          "sha256": "06076649967cae4de2804949813cfbbef9f3d050e8384b11bf5650323d00d642"
+        },
+        "generator": {
+          "path": "assets/technology/technology-fixed-paired-anchor-six-strut-and-tilted-platform-01/v1.0.0/generate.py",
+          "size": 25752,
+          "sha256": "7d237c33ca724f5f91ec5883149d7f057ee8dac2c153794d49414210141e50c9"
+        },
+        "render": {
+          "path": "assets/technology/technology-fixed-paired-anchor-six-strut-and-tilted-platform-01/v1.0.0/thumbnail.png",
+          "size": 543645,
+          "sha256": "ae66a175d055b15ea1a56a85e3f4312bb423d98ab523ff27b2ae4e124dff5a69"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1416-volume02-20261025"
     }
   ]
 }
