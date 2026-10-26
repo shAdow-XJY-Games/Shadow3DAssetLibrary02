@@ -1994,6 +1994,11 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary02",
       "commit": "0b5780aeedf6080e5611d066afc72aa1576633cb"
+    },
+    "original-qualified-batch-1503-volume02-20261025": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary02",
+      "commit": "fe3cd11fd3fb4d0fb06f1d93e7628f60a55434ad"
     }
   },
   "assets": [
@@ -66496,6 +66501,135 @@
       "status": "verified",
       "license": "All rights reserved",
       "sourceId": "original-qualified-batch-1500-volume02-20261025"
+    },
+    {
+      "id": "wilderness-whole-unlit-stove-and-log-shelter-preparation-scene-01",
+      "version": "1.0.0",
+      "category": "scenes",
+      "assetKind": "scene",
+      "theme": "camping",
+      "style": "source-preserved-faceted-natural-ecology",
+      "title": "Whole Unlit Stove and Log Shelter Preparation",
+      "description": "One static wilderness living-equipment preparation scene, one scene and zero new independent models. One complete qualified empty camp stove stands independently on a finite ground pad, with its whole hollow firebox, swung-open front door, open flue, four legs and both carry loops intact. A separate complete original roofed log shelter forms the rear-left storage edge, retaining all roof boards, posts, raised bed and six original logs. No log is removed or placed inside the stove. The foreground of the open stove and the shelter front remain separate visible empty bands. Unlike the old raised canister stove, windscreen and kettle cooking tabletop, this pairs a grounded empty firebox/flue exterior with whole roofed storage; unlike the long splitting-machine, barrow and log-shelter forestry court there is no powered work bed or transfer cart. Both original GLBs retain every oriented triangle and full constant opaque per-face PBR at unit scale under translation only, with hierarchy explicitly baked and faceted normals recomputed. Only the shared pale floor is new scene architecture. No fire, smoke, heat, food, fluid, people or new reusable models. Static artistic equipment grouping only, not instructions or approval for stove placement, fuel storage, fire clearance, ventilation, emissions, heating, weather protection, loads, human access, operation or safety. Rigging animation and interaction not made.",
+      "bounds": {
+        "x": 3.400000095,
+        "y": 2.799999952,
+        "z": 1.770877123,
+        "unit": "m"
+      },
+      "triangles": 3004,
+      "materials": 8,
+      "files": {
+        "glb": {
+          "path": "assets/winter/wilderness-whole-unlit-stove-and-log-shelter-preparation-scene-01/v1.0.0/model.glb",
+          "size": 151744,
+          "sha256": "edac735992ac3e8c4e76d8dd258c52d0b9fc6efbb1c2067cdb67a2b74ccf66f3"
+        },
+        "blend": {
+          "path": "assets/winter/wilderness-whole-unlit-stove-and-log-shelter-preparation-scene-01/v1.0.0/source.blend",
+          "size": 838472,
+          "sha256": "eda6a56a1f37538836688fbb7d7183376ef4b559b9e345d7d641b1e9c8c248e9"
+        },
+        "generator": {
+          "path": "assets/winter/wilderness-whole-unlit-stove-and-log-shelter-preparation-scene-01/v1.0.0/generate.py",
+          "size": 75032,
+          "sha256": "fdfe978bf9bfb8715e62d61a590b860964aa0c2d54ce753df5dde553588bacd8"
+        },
+        "render": {
+          "path": "assets/winter/wilderness-whole-unlit-stove-and-log-shelter-preparation-scene-01/v1.0.0/thumbnail.png",
+          "size": 521548,
+          "sha256": "2431a0d1ad1e189d2957a5eac44548e4b5a6ba70f7590fa86064dd57245eb003"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1503-volume02-20261025"
+    },
+    {
+      "id": "library-whole-v-cradle-and-empty-cart-preparation-bay-scene-01",
+      "version": "1.0.0",
+      "category": "scenes",
+      "assetKind": "scene",
+      "theme": "library",
+      "style": "source-preserved-low-poly",
+      "title": "Whole V Cradle and Empty Cart Preparation Bay",
+      "description": "One static library book-observation equipment preparation bay, one scene and zero new independent models. Three entire qualified originals retain raw geometry buffers, normals, complete PBR, internal hierarchy and unit scale. The complete V-cradle dual-head scanner appearance, including its original blank open book, rests with its entire broad base on the full level top of an unchanged raised twin-column crank desk. One entire empty inclined-shelf sorting book cart stands separately to the right-front, with an open separation from the desk and an unobstructed foreground floor. Only a common finite scene floor is new. The original narrower open worktable was rejected before scene creation because its depth did not support this full base; neither the tool nor furniture is rescaled, cropped or modified. Unlike the old return/sorting service corner, this has no public return counter, bookcase or added book kits; unlike the museum collection store there are no transport crate, picture rack or mineral specimen. This is a real equipment combination, not a claimed new functional workflow or unique generic floorplan. Static empty art only: the sole book is part of the original scanner model, cart shelves remain empty. No scanning, digitisation, optics, preservation, borrowing system, ergonomic height, desk adjustment, load, installation, access or safety capability. Rigging animation and interaction not made.",
+      "bounds": {
+        "x": 3.5999999046325684,
+        "y": 2.5999999046325684,
+        "z": 2.2799999713897705,
+        "unit": "m"
+      },
+      "triangles": 2940,
+      "materials": 12,
+      "files": {
+        "glb": {
+          "path": "assets/library/library-whole-v-cradle-and-empty-cart-preparation-bay-scene-01/v1.0.0/model.glb",
+          "size": 214772,
+          "sha256": "55fd9f18e5a877deeb1dddc92a143eefb1cb06d26b2763e0249e81a57ee0dd87"
+        },
+        "blend": {
+          "path": "assets/library/library-whole-v-cradle-and-empty-cart-preparation-bay-scene-01/v1.0.0/source.blend",
+          "size": 1395992,
+          "sha256": "d64fc9f9020347c3942da8f5ffa15d4ba8f780fb858fbc29a6cb05cf0a095ca5"
+        },
+        "generator": {
+          "path": "assets/library/library-whole-v-cradle-and-empty-cart-preparation-bay-scene-01/v1.0.0/generate.py",
+          "size": 77348,
+          "sha256": "a4e5405e316ec0ced29937cd9385435ef3dc1e8aa55dc259920ffd6fbb49f2b0"
+        },
+        "render": {
+          "path": "assets/library/library-whole-v-cradle-and-empty-cart-preparation-bay-scene-01/v1.0.0/thumbnail.png",
+          "size": 517898,
+          "sha256": "af7a8588706eeccde459767705230a8baf90a9aeed2e44646986eacd6db8a6ee"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1503-volume02-20261025"
+    },
+    {
+      "id": "waterworks-fixed-rounded-overflow-crest-and-low-basin-01",
+      "version": "1.0.0",
+      "category": "architecture",
+      "assetKind": "modular",
+      "theme": "waterworks",
+      "style": "S01-clean-geometric",
+      "title": "Fixed Rounded Overflow Crest and Low Basin",
+      "description": "One newly authored complete fixed dry overflow-crest and low-basin architectural module. A thick high upstream retaining end rises into a rounded crest and one continuous steep curved downstream apron; it then meets a long genuinely recessed low basin and a finite raised end sill. Two entire side guide walls follow all elevations and are welded into the same closed solid as the mass and basin floor. No separate gate leaf, axle, lifting frame, water, pipe, people or terrain is included. Unlike the old radial gate this is a whole immobile overflow body rather than a thin curved leaf above a flat channel; unlike the two-well ceramics basin it has a high crest descending over a long continuous curved apron into one lower basin, without elevated legs or side outlet collars. All geometry newly authored, no old channel scaled or imported. One editable closed mesh with two opaque matte stone-like PBR roles, metres Z up and full horizontal envelope centred on its grounded sole. One module zero scenes. Fixed stylized waterworks exterior only: the sampled artistic curve is not an engineered spillway profile. No hydraulic flow, discharge, energy dissipation, flood control, water retention, erosion, stability, load, manufacture, installation, public access or civil/safety capability. Rigging, animation and interaction not made or verified.",
+      "bounds": {
+        "x": 3.4,
+        "y": 5.4,
+        "z": 2.95,
+        "unit": "m"
+      },
+      "triangles": 508,
+      "materials": 2,
+      "files": {
+        "glb": {
+          "path": "assets/waterworks/waterworks-fixed-rounded-overflow-crest-and-low-basin-01/v1.0.0/model.glb",
+          "size": 21664,
+          "sha256": "4d7383bfcf6e1f7e799c327a9d4a315d16e66dfae03f57ca28d2524b0d5d28a3"
+        },
+        "blend": {
+          "path": "assets/waterworks/waterworks-fixed-rounded-overflow-crest-and-low-basin-01/v1.0.0/source.blend",
+          "size": 525856,
+          "sha256": "e4203f5fde5b5337a6ef16a4e5e3a316107ca2a8baa41a39b34917644f9882a7"
+        },
+        "generator": {
+          "path": "assets/waterworks/waterworks-fixed-rounded-overflow-crest-and-low-basin-01/v1.0.0/generate.py",
+          "size": 10833,
+          "sha256": "ddb7dece8b85baed99eb38f5e22bd49643291664314ea55383d6a4f12cdc0936"
+        },
+        "render": {
+          "path": "assets/waterworks/waterworks-fixed-rounded-overflow-crest-and-low-basin-01/v1.0.0/thumbnail.png",
+          "size": 432749,
+          "sha256": "c40bab53417fdfd53971effc70cc1dedc8ab062a0bb939f498a87049f6af4b4c"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1503-volume02-20261025"
     }
   ]
 }
