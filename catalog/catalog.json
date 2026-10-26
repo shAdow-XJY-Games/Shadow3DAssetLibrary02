@@ -1709,6 +1709,11 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary02",
       "commit": "509a7b3e8dbf6ea2d563f4aa56eea1ce501b0b64"
+    },
+    "original-qualified-batch-1325-volume02-20261025": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary02",
+      "commit": "4ca7330c42095de703fe1629abf976328d5a4c45"
     }
   },
   "assets": [
@@ -58557,6 +58562,135 @@
       "status": "verified",
       "license": "All rights reserved",
       "sourceId": "original-qualified-batch-1323-volume02-20261025"
+    },
+    {
+      "id": "agriculture-fixed-arched-two-bay-and-lowered-ramp-stock-trailer-01",
+      "version": "1.0.0",
+      "category": "modular",
+      "assetKind": "prop",
+      "theme": "agriculture",
+      "style": "warm-handcrafted-village",
+      "title": "Fixed Arched Two-Bay and Lowered-Ramp Stock Trailer",
+      "description": "One newly authored complete empty livestock-trailer-style static exterior. A high continuous thick arched roof-and-side shell with four genuine side apertures encloses a flat full floor and shaped closed front wall. A full rear doorway opens onto a fixed lowered broad ramp. A complete low longitudinal partition and two forward transverse bars organize two separate empty long bays. The whole twin-axle four-wheel underframe, converging draw members, real open tow eye and grounded parking foot are authored with the shell as one prop. This is not the old open cargo tub with a decorative lid, nor a scaled pet carrier with added wheels: the open full rear/ramp and long partitioned interior are new whole geometry. No animal or old model imported. One model zero scenes. Static game-art exterior only; no animal size fit, containment, ventilation performance, loading, ramp use, towing, roadworthiness, suspension, structural load, welfare, hygiene or safety claim; no rig, animation or interaction.",
+      "bounds": {
+        "x": 1.75999999,
+        "y": 4.170000076,
+        "z": 2.200000048,
+        "unit": "m"
+      },
+      "triangles": 1536,
+      "materials": 4,
+      "files": {
+        "glb": {
+          "path": "assets/agriculture/agriculture-fixed-arched-two-bay-and-lowered-ramp-stock-trailer-01/v1.0.0/model.glb",
+          "size": 81324,
+          "sha256": "5dd9df67d41fb0bab2f2bad62a4cdf9b731b1ae45dd8095fcbc0cf1da8a56531"
+        },
+        "blend": {
+          "path": "assets/agriculture/agriculture-fixed-arched-two-bay-and-lowered-ramp-stock-trailer-01/v1.0.0/source.blend",
+          "size": 698272,
+          "sha256": "97df7e35f8970fc88bc50a68a7d2725547bdd94be7f2e39ef6b0cf29cbdfc19d"
+        },
+        "generator": {
+          "path": "assets/agriculture/agriculture-fixed-arched-two-bay-and-lowered-ramp-stock-trailer-01/v1.0.0/generate.py",
+          "size": 32718,
+          "sha256": "4faa2d71671c69a9f1eec05898e5cb43c1fc7168efb90e7c92a218bef40444f8"
+        },
+        "render": {
+          "path": "assets/agriculture/agriculture-fixed-arched-two-bay-and-lowered-ramp-stock-trailer-01/v1.0.0/thumbnail.png",
+          "size": 518143,
+          "sha256": "1095e1cb87148a5d8bb0d4a677726007aae8e735542f8e551c289faf50928f90"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1325-volume02-20261025"
+    },
+    {
+      "id": "ceramics-fixed-rising-vault-and-rear-flue-cutaway-kiln-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "ceramics",
+      "style": "S01-clean-geometric",
+      "title": "Fixed Rising Vault and Rear Flue Cutaway Kiln",
+      "description": "One independently authored complete empty rising-vault kiln illustrative cutaway. A common broad finite masonry foundation carries a low front open fire chamber, a raised throat step and an entire ascending internal floor beneath a long continuous thick arched shell. The front-facing middle side of that shell is deliberately removed with thick finished cut edges to expose the uninterrupted rising chamber; complete end arch collars remain integral to the shell. A complete rear arched wall has a genuine low throat opening leading into a tall rear hollow rectangular flue with a side inlet and open top. The fire chamber and rising chamber have different floor heights and meet at a real open passage, not an old horizontal bread oven extended or an old rectangular shelf kiln resized. Whole connected shells and an integral raised floor step, no old geometry imported. Four opaque matte stone/refractory roles, metres Z up and horizontal bounds-centred ground datum. One whole architectural display prop zero scenes. Empty static artistic section only: no fire, fuel, ware, firing cycle, temperature, ventilation, chimney draft, emissions, thermal design, construction, installation, historical accuracy, load or safety performance. Rigging animation interaction not made.",
+      "bounds": {
+        "x": 4.3,
+        "y": 1.72,
+        "z": 2.25,
+        "unit": "m"
+      },
+      "triangles": 1080,
+      "materials": 4,
+      "files": {
+        "glb": {
+          "path": "assets/ceramics/ceramics-fixed-rising-vault-and-rear-flue-cutaway-kiln-01/v1.0.0/model.glb",
+          "size": 60604,
+          "sha256": "f79c295b0fbef1c962118aae9bd81d90afaef6153fb2974e1bfe7c3d5d0a2827"
+        },
+        "blend": {
+          "path": "assets/ceramics/ceramics-fixed-rising-vault-and-rear-flue-cutaway-kiln-01/v1.0.0/source.blend",
+          "size": 635536,
+          "sha256": "d58968e23b1129a234149f9282dbb71759ec54fad44cc0bed85dddd8270d7c6e"
+        },
+        "generator": {
+          "path": "assets/ceramics/ceramics-fixed-rising-vault-and-rear-flue-cutaway-kiln-01/v1.0.0/generate.py",
+          "size": 12246,
+          "sha256": "f6d14b53e7ce88b287d67e4792f4dc06aeb39b22b46327bf0800c766ce6c5132"
+        },
+        "render": {
+          "path": "assets/ceramics/ceramics-fixed-rising-vault-and-rear-flue-cutaway-kiln-01/v1.0.0/thumbnail.png",
+          "size": 482052,
+          "sha256": "75e6d8da5517751503f2ff4932a6250fb2e2102acb83d2a01d741c9d4ec97ed3"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1325-volume02-20261025"
+    },
+    {
+      "id": "forestry-fixed-crossed-leg-and-open-v-log-cradle-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "forestry",
+      "style": "source-preserved-low-poly",
+      "title": "Fixed Crossed Leg and Open V Log Cradle",
+      "description": "One newly authored complete fixed empty sawbuck-style log cradle. Two separated end stations each have two whole long crossing timber legs; the same four members continue well above their transverse pins to form two genuinely open V-shaped upper cradles. Two continuous low longitudinal ties join the end stations below the crossing levels, while independent short lower stop straps hold the fixed spread. Four complete grounded pads and whole side pivot caps finish the unified stand. There is deliberately no top beam, tabletop, work plank, split vise jaw or lead-screw mechanism. Unlike the old four splayed legs converging below a flat sawhorse beam, the upper load-outline is an open V at both ends and the long space between them stays empty; unlike the folding split-jaw bench its crossed legs continue into the cradle rather than ending under a flat clamp bed. Entire numeric geometry newly authored, no old legs extracted or extended. Three opaque constant PBR roles, metres Z up and whole ground-centred origin, one whole prop zero scenes. Empty static art only: no timber, saw, chain, folding movement, spread adjustment, log fit, sawing, work holding, load, strength, manufacture, stability or equipment safety capability. Rigging animation interaction not made.",
+      "bounds": {
+        "x": 0.906000018119812,
+        "y": 0.7900000214576721,
+        "z": 1.0199999809265137,
+        "unit": "m"
+      },
+      "triangles": 504,
+      "materials": 3,
+      "files": {
+        "glb": {
+          "path": "assets/forestry/forestry-fixed-crossed-leg-and-open-v-log-cradle-01/v1.0.0/model.glb",
+          "size": 55052,
+          "sha256": "2148e8d7d4b8bc95f5afa7582f4a5b125e8c3758b52e0c66337de0a1eac632ec"
+        },
+        "blend": {
+          "path": "assets/forestry/forestry-fixed-crossed-leg-and-open-v-log-cradle-01/v1.0.0/source.blend",
+          "size": 673824,
+          "sha256": "aabbbca8be67a3818c1eafb6e7bff0a6c4f018aa9aab12166958bfec7c7d55ff"
+        },
+        "generator": {
+          "path": "assets/forestry/forestry-fixed-crossed-leg-and-open-v-log-cradle-01/v1.0.0/generate.py",
+          "size": 15597,
+          "sha256": "2ad6793f5383ddf09538bc0d2615182e9a29d120b1edabd2e6f9f48e6b269381"
+        },
+        "render": {
+          "path": "assets/forestry/forestry-fixed-crossed-leg-and-open-v-log-cradle-01/v1.0.0/thumbnail.png",
+          "size": 513206,
+          "sha256": "03e7a7666b9ad9a82479147dd8abc2825c7e71e6de8d84066528f40ac8d647d0"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1325-volume02-20261025"
     }
   ]
 }
