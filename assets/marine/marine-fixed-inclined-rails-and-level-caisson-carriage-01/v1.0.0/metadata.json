@@ -1,0 +1,42 @@
+{
+  "id": "marine-fixed-inclined-rails-and-level-caisson-carriage-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "marine",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Inclined Rails and Level Caisson Carriage",
+  "description": "One complete newly authored fixed inclined-caisson boat-lift-style exterior. A full horizontal thick U-section vessel has a dry blind floor, thin high side walls and two entire closed end gates in separate open-head guide portals. Beneath it, two complete open wedge carriage frames connect the level vessel bearers to two transverse axles and four rail wheels at different heights on a single continuous inclined twin track. The rails have their own grounded supports and ties. A separate high-end anchored haul station carries a complete flanged drum, cross-shaft and two full fixed strands into the carriage end. The long level gated chamber over unequal-height open carriage frames, long rising guide infrastructure and end haul station are authored together; no old boat, dock, ramp, hopper or carriage mesh is reused. Unlike the floating dock the chamber is lifted on rail wheels rather than resting on broad hull wings, and unlike the mixing skip there is no hopper mouth feeding a stationary processing pan. Three opaque untextured PBR roles, metres Z up and full horizontal bounds centred, one prop zero scenes. Static dry artistic exterior only, no ship, water or host canals. No actual travel, gate opening, level control, cable reeving or winding, wheel contact tolerances, watertightness, lift capacity, buoyancy, docking, rail compatibility, structural load, manufacture, operation or engineering safety. Rigging animation and interaction not made or verified.",
+  "bounds": {
+    "x": 9.06,
+    "y": 2.64,
+    "z": 4.72,
+    "unit": "m"
+  },
+  "triangles": 1704,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/marine/marine-fixed-inclined-rails-and-level-caisson-carriage-01/v1.0.0/model.glb",
+      "size": 108872,
+      "sha256": "eae846fa91b1653499a19fd4ec583cc04296f036ff1e2b50ce03679a4e9f3e29"
+    },
+    "blend": {
+      "path": "assets/marine/marine-fixed-inclined-rails-and-level-caisson-carriage-01/v1.0.0/source.blend",
+      "size": 890824,
+      "sha256": "60c297cf409f5a146c43c1244d79cadffa7dcbb52e30a0874a8f9b52bbf012fb"
+    },
+    "generator": {
+      "path": "assets/marine/marine-fixed-inclined-rails-and-level-caisson-carriage-01/v1.0.0/generate.py",
+      "size": 13607,
+      "sha256": "073825c18a6276d1bf865d9a3cdadb3371ce2483faefd89e58348b5c750a111a"
+    },
+    "render": {
+      "path": "assets/marine/marine-fixed-inclined-rails-and-level-caisson-carriage-01/v1.0.0/thumbnail.png",
+      "size": 558727,
+      "sha256": "28f21a6748832bddd2b40f2919404ca6bd974605602545ea2ed1df95a655b19b"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

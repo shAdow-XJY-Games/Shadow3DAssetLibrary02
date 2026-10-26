@@ -1,0 +1,42 @@
+{
+  "id": "agriculture-fixed-inclined-collector-and-open-tray-cabinet-01",
+  "version": "1.0.0",
+  "category": "modular",
+  "assetKind": "prop",
+  "theme": "agriculture",
+  "style": "warm-handcrafted-village",
+  "title": "Fixed Inclined Collector and Open Tray Cabinet",
+  "description": "One newly authored whole static agricultural drying-cabinet-style appearance. A long low inclined opaque dark collector box rises into a tall rear cabinet with three complete empty recessed trays, an actual top vent and raised cap. One full door is fixed completely open to the right; one common ground stand carries both volumes. Unlike the old low planting cold frame with raised glazed sash, there is no ground planting cavity or glass pane; unlike the front-drop oven there is a separate long inclined collector and upright chimney relationship, not a relabelled oven. All visible geometry newly authored, no imported old mesh. One model zero scenes. Illustrative static exterior only: no heat, solar collection, airflow, drying, food suitability, manufacture, operation or safety claim. Rig animation interaction not made.",
+  "bounds": {
+    "x": 1.710000038,
+    "y": 2.164000034,
+    "z": 2.125,
+    "unit": "m"
+  },
+  "triangles": 484,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/agriculture/agriculture-fixed-inclined-collector-and-open-tray-cabinet-01/v1.0.0/model.glb",
+      "size": 40544,
+      "sha256": "d07ff789aaf269298022fd7d15916f2114aef7e8c2ce756d4e6ac87a8dabd2b1"
+    },
+    "blend": {
+      "path": "assets/agriculture/agriculture-fixed-inclined-collector-and-open-tray-cabinet-01/v1.0.0/source.blend",
+      "size": 659404,
+      "sha256": "1a2f7abddd0bf8c643920783f00e06488065e9683e9688db9f37844372c5af1a"
+    },
+    "generator": {
+      "path": "assets/agriculture/agriculture-fixed-inclined-collector-and-open-tray-cabinet-01/v1.0.0/generate.py",
+      "size": 31968,
+      "sha256": "27980db8c306c9ab01aea8bb357d626bc31294c3d4182ab20224dd9f4a84a9c3"
+    },
+    "render": {
+      "path": "assets/agriculture/agriculture-fixed-inclined-collector-and-open-tray-cabinet-01/v1.0.0/thumbnail.png",
+      "size": 566268,
+      "sha256": "88f933c3f412d144ef5970e5746053d6e0fa0a8ffb99a092222c80e9f4280895"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
