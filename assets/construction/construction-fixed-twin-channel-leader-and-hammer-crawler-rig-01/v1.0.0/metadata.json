@@ -1,0 +1,42 @@
+{
+  "id": "construction-fixed-twin-channel-leader-and-hammer-crawler-rig-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "construction",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Twin Channel Leader and Hammer Crawler Rig",
+  "description": "One wholly newly authored complete dedicated crawler piling-rig-style static exterior. Two full closed tracks and inset rollers support one low connected carrier and long deck, rear machinery case, low rear counterbody and empty forward side cab with real windows. The front holds two entire tall inward-facing C-channel leader posts: two independent cross-carriages physically seat one full long hammer enclosure between them, with a blunt lower end stopping above a genuinely open guide collar. A full open crown fork, transverse axle, grooved sheave and one complete fixed front strand complete the leader head, while two entire long rear braces join that leader to the deck. All visible geometry is newly drawn, not the old inclined triangular lattice-boom dragline with its bucket replaced, and not the two-stamp camshaft, bored guide beams and mortar placed on a vehicle. No old mesh imported or extracted. One prop zero scenes, four constant opaque untextured PBR roles, metres native Z up and centred whole horizontal envelope; both full track bottom facets define the display ground. Empty fixed art exterior only: no pile, engine or hammer internals, impact, pile-driving, lifting cycle, hydraulic system, travel, bearing or guide fit, soil behaviour, construction method, load, stability, manufacturing or safety claim. Rigging animation interaction not made or verified.",
+  "bounds": {
+    "x": 2.32,
+    "y": 3.085,
+    "z": 4.66,
+    "unit": "m"
+  },
+  "triangles": 2728,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/construction/construction-fixed-twin-channel-leader-and-hammer-crawler-rig-01/v1.0.0/model.glb",
+      "size": 136368,
+      "sha256": "9b8bae5510722e39c680dac7e57713d629b4b4f065c6f51e56b292ce61adcd28"
+    },
+    "blend": {
+      "path": "assets/construction/construction-fixed-twin-channel-leader-and-hammer-crawler-rig-01/v1.0.0/source.blend",
+      "size": 816040,
+      "sha256": "4ef9244ffa4cc5a246061c07f49bc92632249321fc01db10502ddcbdd4384be2"
+    },
+    "generator": {
+      "path": "assets/construction/construction-fixed-twin-channel-leader-and-hammer-crawler-rig-01/v1.0.0/generate.py",
+      "size": 29646,
+      "sha256": "2165d46987404093421f4f5c8da2639372c7d3f71e62194af70a58fad5f737d2"
+    },
+    "render": {
+      "path": "assets/construction/construction-fixed-twin-channel-leader-and-hammer-crawler-rig-01/v1.0.0/thumbnail.png",
+      "size": 533352,
+      "sha256": "2d5d9c85a9e1ad3c44d76a121b66e51db00329c3daee9bbadf6e8e1d3b44315a"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

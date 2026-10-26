@@ -1,0 +1,42 @@
+{
+  "id": "theatre-fixed-four-screw-platform-and-cutaway-stage-pit-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "theatre",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Four Screw Platform and Cutaway Stage Pit",
+  "description": "One newly authored complete empty stage-pit platform apparatus in a fixed intermediate-height cutaway. A shared thick grounded pit floor and rear/side retaining walls form one continuous material shell, with the front and near-right wall deliberately cut low to expose the interior. Complete fixed stage-edge boards remain over the uncut wall crowns. Four corner steel frames each enclose one entire continuous vertical shaft, a rooted full helical-ridge exterior and a genuine bored carrier sleeve; the four carriers connect by full shoulders to one common open underframe and broad blank intermediate platform. Whole low corner cases, two transverse shafts, a side return shaft and one blank motor-like case share the bottom support structure. No old lift, stage deck or railway turntable mesh imported. Unlike the old crossed-arm platform or centrally pivoted rail bridge, the new apparatus combines four vertical threaded/guide frames around an otherwise open central volume and one shared lowering-well architectural boundary. Four opaque matte concrete, dark frame, satin metal and timber PBR roles, metres Z up, whole horizontal-bounds-centred pit underside datum. One entire static architectural equipment prop zero scenes. The displayed positions and deliberate static material joins do not establish screw engagement, synchronous driving, power transmission, lifting, platform travel, load, human access, orchestra use, egress, structural or construction safety. No people, instruments, active machinery, rigging, animation or interaction.",
+  "bounds": {
+    "x": 4.5200000000000005,
+    "y": 2.66,
+    "z": 2.0549999999999997,
+    "unit": "m"
+  },
+  "triangles": 8588,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/theatre/theatre-fixed-four-screw-platform-and-cutaway-stage-pit-01/v1.0.0/model.glb",
+      "size": 579128,
+      "sha256": "696e0133809818c2baec0acd6625350139dac096b93cd0cf455b5857a2780d96"
+    },
+    "blend": {
+      "path": "assets/theatre/theatre-fixed-four-screw-platform-and-cutaway-stage-pit-01/v1.0.0/source.blend",
+      "size": 1221688,
+      "sha256": "17e57902e23c0195c90cbaa62fd4f95f0ec75174a7e0977f65f831f607aed03a"
+    },
+    "generator": {
+      "path": "assets/theatre/theatre-fixed-four-screw-platform-and-cutaway-stage-pit-01/v1.0.0/generate.py",
+      "size": 12673,
+      "sha256": "78cd83c77399df00c62899b4f88a91ea197b98125a2269a6bf726b46d4f96e57"
+    },
+    "render": {
+      "path": "assets/theatre/theatre-fixed-four-screw-platform-and-cutaway-stage-pit-01/v1.0.0/thumbnail.png",
+      "size": 489230,
+      "sha256": "1ba4d52a23499c2f9b4bf7026b9960dea23f9b3785818252d5106b0d5f2563e2"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

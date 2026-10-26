@@ -1,0 +1,42 @@
+{
+  "id": "architecture-fixed-interleaved-opposed-return-stair-bay-01",
+  "version": "1.0.0",
+  "category": "architecture",
+  "assetKind": "modular",
+  "theme": "architecture",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Interleaved Opposed Return Stair Bay",
+  "description": "One complete newly authored static interleaved-return stair bay. Four whole thin stepped flights occupy two side lanes at two vertical levels within the same four-column frame. An ochre route starts at the front-left, rises rearward to its own rear intermediate landing, then returns forward on the upper right. A blue route starts at the rear-right, rises forward to a separate front intermediate landing, then returns rearward on the upper left. The opposite-end mid-landings never form one common branching landing; same-lane upper and lower flights retain a real three-metre vertical offset and open air beneath their thin sloping undersides. Full upper terminal landings, ground entry bands and complete flight/outer landing rails belong to the same whole module. This is not two copies of the old grounded solid half-turn stair stacked, nor extra upper branches on a shared T landing. All step profiles, thin supports, fixed placements and coordinates newly authored; no old stair mesh imported. Three opaque PBR roles, metres Z-up and full horizontal-bounds-centred grounded entry bands. One architectural model zero scenes. Route colours are only visual guides, not wayfinding signage. No host floors or fire-separating enclosure, human occupancy, walkability, headroom certification, emergency-egress/fire design, building-code/accessibility compliance, load, installation, engineering or safety capability. Rigging, animation and interaction not made or verified.",
+  "bounds": {
+    "x": 2.56,
+    "y": 5.12,
+    "z": 6.955,
+    "unit": "m"
+  },
+  "triangles": 2328,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/architecture/architecture-fixed-interleaved-opposed-return-stair-bay-01/v1.0.0/model.glb",
+      "size": 134520,
+      "sha256": "1688ff099a15dfef946d62e491d6d396c9a171a6cf14340a590ee8b22090f686"
+    },
+    "blend": {
+      "path": "assets/architecture/architecture-fixed-interleaved-opposed-return-stair-bay-01/v1.0.0/source.blend",
+      "size": 966100,
+      "sha256": "bcb5644564d1af258e40889157904142cbad0704598d704984c5a7dbd5ce2170"
+    },
+    "generator": {
+      "path": "assets/architecture/architecture-fixed-interleaved-opposed-return-stair-bay-01/v1.0.0/generate.py",
+      "size": 12585,
+      "sha256": "32f0a2f5179826a43dbb379cab0c65e88c98860674392b6a07519d2a36d02251"
+    },
+    "render": {
+      "path": "assets/architecture/architecture-fixed-interleaved-opposed-return-stair-bay-01/v1.0.0/thumbnail.png",
+      "size": 568969,
+      "sha256": "464d48aba93de5fca45ff31dc99c9df20014ad2149bc656a6c0e3d68a955ca9c"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
