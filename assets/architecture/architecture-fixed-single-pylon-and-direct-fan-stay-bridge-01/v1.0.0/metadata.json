@@ -1,0 +1,42 @@
+{
+  "id": "architecture-fixed-single-pylon-and-direct-fan-stay-bridge-01",
+  "version": "1.0.0",
+  "category": "architecture",
+  "assetKind": "modular",
+  "theme": "architecture",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Single Pylon and Direct Fan Stay Bridge",
+  "description": "One newly authored complete fixed single-pylon cable-stayed bridge appearance. One continuous open-fork tall pylon rises from its own broad ground foot beside an off-centre point of one full level deck. Two complete longitudinal edge girders join the two terminal abutments. Two banks of independent straight full-length stays radiate from the single pylon head directly to separate finite deck-edge seats on both sides of the pylon, leaving the under-deck spans open. Complete low side guards belong to the deck. Unlike the earlier suspension footbridge, there is no sagging anchor-to-anchor main cable or separate vertical suspenders; unlike the tied-arch bridge, there are no bowed ribs, arch crown or vertical hangers. This is not a tower-count variant: the whole principal cable relationship changes to direct pylon-to-deck fans. All numeric geometry newly authored without importing old bridge meshes. Three opaque solid PBR roles, metres Z up, horizontally centred full bounds and three grounded support foundations. One architectural module zero scenes. Fixed stylized bridge artwork only, no water, road, vehicles or people. No cable tension, equilibrium, anchoring design, load path solution, construction method, vehicle or pedestrian clearance, navigation, load capacity, material performance or civil-engineering safety claim. Animation rigging interaction not made or verified.",
+  "bounds": {
+    "x": 7.1,
+    "y": 2.8,
+    "z": 4.05,
+    "unit": "m"
+  },
+  "triangles": 1084,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/architecture/architecture-fixed-single-pylon-and-direct-fan-stay-bridge-01/v1.0.0/model.glb",
+      "size": 88312,
+      "sha256": "7ffcdbeb3eab3acb17b6b2809278ae1d08c825dc3ce27abb552ec0f243eb5ec8"
+    },
+    "blend": {
+      "path": "assets/architecture/architecture-fixed-single-pylon-and-direct-fan-stay-bridge-01/v1.0.0/source.blend",
+      "size": 848104,
+      "sha256": "a813ede5a9f5ac693e5e10fca7fb722bf90e684327d2e44908ca76e9463cfec5"
+    },
+    "generator": {
+      "path": "assets/architecture/architecture-fixed-single-pylon-and-direct-fan-stay-bridge-01/v1.0.0/generate.py",
+      "size": 11480,
+      "sha256": "204485dda78f85aa85e161894f2ac5dfa867c0da41056abbadfd7d483218f17b"
+    },
+    "render": {
+      "path": "assets/architecture/architecture-fixed-single-pylon-and-direct-fan-stay-bridge-01/v1.0.0/thumbnail.png",
+      "size": 433664,
+      "sha256": "42d344acde600c189757ff9e239fdcdc14e284061cccad88e7b81c626ee14af2"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
