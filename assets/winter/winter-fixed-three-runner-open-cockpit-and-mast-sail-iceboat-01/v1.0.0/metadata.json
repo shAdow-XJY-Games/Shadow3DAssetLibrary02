@@ -1,0 +1,42 @@
+{
+  "id": "winter-fixed-three-runner-open-cockpit-and-mast-sail-iceboat-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "winter",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Three Runner Open Cockpit and Mast Sail Iceboat",
+  "description": "One wholly newly authored empty ice-sailing-craft-inspired static exterior. A long forward spine intersects one broad transverse rear runner plank, with two independent short blunt blades far outboard and a third blade at the far forward end. Three complete carriers form a spread three-point ground layout. A narrow whole chamfer-ended single cockpit has thick walls and a genuine open interior floor, one low seat and rear-leaning pad. One tall leaning mast, complete long lower boom and continuous thick bowed sail rise from a floor-rooted pedestal; three whole fixed stays connect the upper mast to the wide underframe. This is not the old tandem bobsled shortened or a snowmobile with its track removed: its entire long-spine / wide-plank / outboard-blade support organisation is newly authored. It is not the side-float canoe with an extra float or a windsurf board with runners; there is no boat pontoon, standing board, footstrap or wishbone. No old mesh imported, all visible coordinates new. Four opaque constant PBR roles, one prop zero scenes, metres Z up and complete horizontal-envelope-centred origin at three finite blade soles. Empty fixed art only; no real ice compatibility, sliding, steering, stability, load, occupant fit, aerodynamic or structural capability, tension, propulsion, rig movement, sporting standard, manufacture or safety declaration. No rigging animation or interaction made or verified.",
+  "bounds": {
+    "x": 3.16,
+    "y": 3.95,
+    "z": 3.721304,
+    "unit": "m"
+  },
+  "triangles": 612,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/winter/winter-fixed-three-runner-open-cockpit-and-mast-sail-iceboat-01/v1.0.0/model.glb",
+      "size": 48064,
+      "sha256": "a672804bc985008bb711418eaca4853f81d7ed61e7e75737e8693a7004b9c4b8"
+    },
+    "blend": {
+      "path": "assets/winter/winter-fixed-three-runner-open-cockpit-and-mast-sail-iceboat-01/v1.0.0/source.blend",
+      "size": 645856,
+      "sha256": "3142d05bcc9b1263c503582873f4744575b366df44782a2ddb6cd50939c90b0b"
+    },
+    "generator": {
+      "path": "assets/winter/winter-fixed-three-runner-open-cockpit-and-mast-sail-iceboat-01/v1.0.0/generate.py",
+      "size": 28495,
+      "sha256": "087969b3612c13c3ed160ffc6842d1649a781112dac7505c9819ac6f58125a62"
+    },
+    "render": {
+      "path": "assets/winter/winter-fixed-three-runner-open-cockpit-and-mast-sail-iceboat-01/v1.0.0/thumbnail.png",
+      "size": 513016,
+      "sha256": "55bf4f6df989fd0f0dd7c88517e4c8a0abb60ce2810051e33ee00c10fb4ef641"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

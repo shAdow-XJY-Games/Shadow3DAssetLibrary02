@@ -1,0 +1,42 @@
+{
+  "id": "salon-fixed-open-scales-and-round-nose-grooming-razor-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "salon",
+  "style": "source-preserved-low-poly",
+  "title": "Fixed Open Scales and Round Nose Grooming Razor",
+  "description": "One newly authored complete fixed-open folding grooming-razor-style exterior with intentionally blunt geometry. Two entire slightly curved thick handle scales enclose a genuine long empty gap, joined at the rear by a full spacer and at the front by one whole transverse pin with two separate retaining caps. One continuous broad round-nosed plate narrows into an integral short tang and curled rear finger-tail silhouette; it lies in the handle-layer gap at the pivot and extends outward at one fixed angle. All edges remain finite thickness with no sharpened edge or cutting geometry. Unlike the old axial T-head razor there is no transverse arched cap/guard pair; unlike the old utility cutter there is no sleeve, sliding thumb button or lengthwise extension. All geometry newly authored, no old blade or handle extracted. Three opaque constant PBR roles, metres Z up and full bounds-centred low ground datum, one complete model zero scenes. Fixed illustrative salon prop only: no skin, person, blade insertion/removal, shaving, cutting, fold travel, bearing fit, operating procedure, ergonomic suitability, hygiene, manufacture or safety capability. Rigging animation interaction not made.",
+  "bounds": {
+    "x": 0.25893527269363403,
+    "y": 0.08061746507883072,
+    "z": 0.017000000923871994,
+    "unit": "m"
+  },
+  "triangles": 392,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/salon/salon-fixed-open-scales-and-round-nose-grooming-razor-01/v1.0.0/model.glb",
+      "size": 38860,
+      "sha256": "467d5a67092042943b52626681ca3417590bdaea7eb0c6df079018d67da9c6a0"
+    },
+    "blend": {
+      "path": "assets/salon/salon-fixed-open-scales-and-round-nose-grooming-razor-01/v1.0.0/source.blend",
+      "size": 609536,
+      "sha256": "effc1162f780cffb676d130a53c41106508acd0bf762d01fc1d68924ddcba1df"
+    },
+    "generator": {
+      "path": "assets/salon/salon-fixed-open-scales-and-round-nose-grooming-razor-01/v1.0.0/generate.py",
+      "size": 16408,
+      "sha256": "d2a8fa6f43e953b9331d44f0ea47234d83b1541295cdd0771fd6c6c8bad2f3b8"
+    },
+    "render": {
+      "path": "assets/salon/salon-fixed-open-scales-and-round-nose-grooming-razor-01/v1.0.0/thumbnail.png",
+      "size": 415624,
+      "sha256": "21d273a250f95bb98571b44a513edd2c206c6902496fd8f65b0a4fc95de8846d"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
