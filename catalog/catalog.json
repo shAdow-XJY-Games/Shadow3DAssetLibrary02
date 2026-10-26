@@ -1804,6 +1804,11 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary02",
       "commit": "e6386e6c634db4752b243d8bbfaf2c0de90ddf69"
+    },
+    "original-qualified-batch-1373-volume02-20261025": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary02",
+      "commit": "b0b5e78c55b3d023eddf9937b2d6e1be3aed8bc1"
     }
   },
   "assets": [
@@ -60759,6 +60764,92 @@
       "status": "verified",
       "license": "All rights reserved",
       "sourceId": "original-qualified-batch-1371-volume02-20261025"
+    },
+    {
+      "id": "nature-whole-split-rejoin-channel-and-dry-island-terrain-01",
+      "version": "1.0.0",
+      "category": "modular",
+      "assetKind": "prop",
+      "theme": "nature",
+      "style": "warm-handcrafted-village",
+      "title": "Whole Split Rejoin Channel and Dry Island Terrain",
+      "description": "One newly authored complete static river-terrain appearance. One upstream and one downstream cut-edge water opening are joined by two unequal-curving channels around one elongated raised dry island. Both branches separate and reconnect rather than ending as coves; outer banks remain separate from the island above the flat water-appearance level. All sloping banks, island, water-coloured flat facets and deep substrate form one shared-vertex closed terrain with a finite basal sole. Opaque matte water appearance is integral solid-filled surface, not a fluid simulation, transparent sheet or an unfilled air layer over a separate floor. Newly authored two-route geometry, not old Y confluence with added arms, nor old cutoff lake with a renamed dry neck. One terrain model zero scenes. No measured geomorphology, sediment process, current direction, flow dynamics, traversal, real habitat or safety claim; rig animation and interaction not made.",
+      "bounds": {
+        "x": 3.700000048,
+        "y": 4.599999905,
+        "z": 0.484999985,
+        "unit": "m"
+      },
+      "triangles": 2992,
+      "materials": 4,
+      "files": {
+        "glb": {
+          "path": "assets/nature/nature-whole-split-rejoin-channel-and-dry-island-terrain-01/v1.0.0/model.glb",
+          "size": 181208,
+          "sha256": "db683bac85c6ee0d92cfabb7b1e3fdb28eb6606be3027a9a3cb7b6dd1d749d48"
+        },
+        "blend": {
+          "path": "assets/nature/nature-whole-split-rejoin-channel-and-dry-island-terrain-01/v1.0.0/source.blend",
+          "size": 677052,
+          "sha256": "efe0203e6a9c2d1f3b3ff61e2a74333972218d23459150382eb1a0495ccdf066"
+        },
+        "generator": {
+          "path": "assets/nature/nature-whole-split-rejoin-channel-and-dry-island-terrain-01/v1.0.0/generate.py",
+          "size": 29242,
+          "sha256": "8561eab078760158ffaef3679b6986ad907b1bad866833933199b2b3e27767cd"
+        },
+        "render": {
+          "path": "assets/nature/nature-whole-split-rejoin-channel-and-dry-island-terrain-01/v1.0.0/thumbnail.png",
+          "size": 503576,
+          "sha256": "05ecd20f1081584c9f4d2a87cc5c0c41815e65c68cf822e992c9b4cac8cc2101"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1373-volume02-20261025"
+    },
+    {
+      "id": "railway-fixed-rectangular-pit-and-transverse-running-transfer-bridge-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "railway",
+      "style": "S01-clean-geometric",
+      "title": "Fixed Rectangular Pit and Transverse Running Transfer Bridge",
+      "description": "One newly authored complete fixed railway-traverser-style exterior. A single thick rectangular pit shell has an integrated floor and four low retaining walls. Three complete parallel straight foot/web/head rails span the pit across the long upper railway direction. Two full low axles and six genuinely bored flanged wheels support a connected cross-tied underframe, one full empty long deck and two entire upper I-section track rails, all fixed at an offset position with clear empty pit regions before and behind. A short independent side service ledge carries a compact sloped blank control-box exterior and a fixed outer rail. The complete low carrying bridge is not a circular turntable given a square rim: there is no centre pedestal, radial rotation or circular running ring, and the separate straight floor rails carry the wheel groups. It is not the old three-axis high gantry: no tall posts, elevated tool carriage, vertical slide or gripper is present. All visible coordinates are new, no old pit, robot, wagon, track or wheel meshes imported or extracted. One complete static prop zero scenes, four opaque untextured constant PBR appearances, metres native Z up, grounded entire pit sole and horizontally centred bounds. The invented fixed display geometry does not establish track end alignment, gauge fit, continuous passage, lateral motion, wheel running, drive mechanism, vehicle carrying, access, railing protection, electrical controls, loads, installation, manufacture or railway safety. No wagon, personnel, rigging, animation or interaction made or verified.",
+      "bounds": {
+        "x": 6.8,
+        "y": 6.2,
+        "z": 1.365,
+        "unit": "m"
+      },
+      "triangles": 3264,
+      "materials": 4,
+      "files": {
+        "glb": {
+          "path": "assets/railway/railway-fixed-rectangular-pit-and-transverse-running-transfer-bridge-01/v1.0.0/model.glb",
+          "size": 146100,
+          "sha256": "1c96c4630ede3284ba7959e61bd22c2069da6adcdcfc6db807170a213397b9f1"
+        },
+        "blend": {
+          "path": "assets/railway/railway-fixed-rectangular-pit-and-transverse-running-transfer-bridge-01/v1.0.0/source.blend",
+          "size": 819740,
+          "sha256": "935e57de4ce686b6a3b20c0dadb18755fc1eb242cde3f9395b924d6360fcc88f"
+        },
+        "generator": {
+          "path": "assets/railway/railway-fixed-rectangular-pit-and-transverse-running-transfer-bridge-01/v1.0.0/generate.py",
+          "size": 27192,
+          "sha256": "2ae71963b49684f692929881f7a2f6e90ce11b2ac7f450019db630d8952789ab"
+        },
+        "render": {
+          "path": "assets/railway/railway-fixed-rectangular-pit-and-transverse-running-transfer-bridge-01/v1.0.0/thumbnail.png",
+          "size": 507588,
+          "sha256": "8fb8ff826f0f7ca5d7bed9e9bae06bb1c6096050492bde71886bc2cf019f77c7"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1373-volume02-20261025"
     }
   ]
 }
