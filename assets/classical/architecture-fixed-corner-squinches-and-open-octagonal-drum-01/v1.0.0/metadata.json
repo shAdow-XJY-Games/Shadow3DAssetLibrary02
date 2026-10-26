@@ -1,0 +1,42 @@
+{
+  "id": "architecture-fixed-corner-squinches-and-open-octagonal-drum-01",
+  "version": "1.0.0",
+  "category": "architecture",
+  "assetKind": "modular",
+  "theme": "classical",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Corner Squinches and Open Octagonal Drum",
+  "description": "One complete newly authored static square-to-octagonal architectural transition module. Four grounded whole L-section corner walls define a square lower footprint while leaving four side intervals open. At each inner corner, a thick triangular spandrel has a genuinely curved rising underside and diagonal arched front face spanning between the two perpendicular wall returns. These four separate corner squinches meet one continuous thick open octagonal upper drum, with no roof or hemispherical cap filling its centre. Unlike the old continuous spherical sail-vault shell, there is no central round roof flowing into spherical corner sails; unlike a freestanding full voussoir gateway, each new corner vault spans diagonally inside two perpendicular supports. All geometry and coordinates new, no old arch or pier meshes imported. Three opaque PBR roles, metre Z-up, full horizontal-bounds-centred four corner soles, one architectural module zero scenes. Fixed illustrative shape only, not a precise historical construction. No host building, dome, floors, structural thrust or load capacity, masonry design, assembly fit, accessibility, installation, building-code or safety capability. Rigging animation and interaction not made or verified.",
+  "bounds": {
+    "x": 4.44,
+    "y": 4.44,
+    "z": 2.45,
+    "unit": "m"
+  },
+  "triangles": 1504,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/classical/architecture-fixed-corner-squinches-and-open-octagonal-drum-01/v1.0.0/model.glb",
+      "size": 52912,
+      "sha256": "d77b3a9c7e0ce81090a87fa7c31eba01ceba7a21e3304d4ef6ff400a8383de53"
+    },
+    "blend": {
+      "path": "assets/classical/architecture-fixed-corner-squinches-and-open-octagonal-drum-01/v1.0.0/source.blend",
+      "size": 639756,
+      "sha256": "d8cf18d012c90692bc94280e1cd4364f8048a593d50b5c7fecb29c55bd55d90e"
+    },
+    "generator": {
+      "path": "assets/classical/architecture-fixed-corner-squinches-and-open-octagonal-drum-01/v1.0.0/generate.py",
+      "size": 12167,
+      "sha256": "5da044359dc47936c55351ad18c4df8294d64335a60053e4307d86980851eaed"
+    },
+    "render": {
+      "path": "assets/classical/architecture-fixed-corner-squinches-and-open-octagonal-drum-01/v1.0.0/thumbnail.png",
+      "size": 508139,
+      "sha256": "ed23e111e4d548b06c9cee5ac62abc140feccc1b88c5ef2304f37104e3e5b7c2"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
