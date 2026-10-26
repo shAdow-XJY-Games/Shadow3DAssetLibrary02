@@ -1979,6 +1979,11 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary02",
       "commit": "1fcbed611b6fec96beb312cff16bab45b64f8648"
+    },
+    "original-qualified-batch-1495-volume02-20261025": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary02",
+      "commit": "6b7314732484349902f5e0b7e05b2feb7ec9ab17"
     }
   },
   "assets": [
@@ -66223,6 +66228,49 @@
       "status": "verified",
       "license": "All rights reserved",
       "sourceId": "original-qualified-batch-1494-volume02-20261025"
+    },
+    {
+      "id": "carpentry-whole-raised-mitre-head-and-parked-support-bay-scene-01",
+      "version": "1.0.0",
+      "category": "scenes",
+      "assetKind": "scene",
+      "theme": "carpentry",
+      "style": "source-preserved-low-poly",
+      "title": "Whole Raised Mitre Head and Parked Support Bay",
+      "description": "One empty woodworking crosscut-equipment preparation bay, one scene zero new independent models. One whole fixed raised-head mitre-saw exterior rests on a complete original open worktable, retaining its entire split round table, wide base, four original support pads, pivot head, toothless disc and guard, grip and front handle. A complete deployed single-roller stand occupies a separate floor station to the left, and a complete canister vacuum with its original continuous hose, wand and floor nozzle occupies a separate station at the right. No workpiece bridges these units; the roller remains its original height, explicitly not matched to the saw platform, and the vacuum hose is not connected to the saw. The whole saw pad soles are supported by the actual table top after a small whole-unit rear/front offset, without scaling or trimming any old part. All original unit-scale GLB buffers, normals, hierarchy and opaque PBR remain unchanged. Only the finite floor is new scene-only geometry. Unlike the old hand-saw-on-sawhorses corner and the perpendicular jointer/planer surface workarea, this shows a complete raised circular-head station with separately parked support and cleanup equipment. No cutting, feed trajectory, extraction, drive, sharp edge, electrical operation, load, ergonomic suitability, installation or workshop safety performance. Rigging animation interaction not made.",
+      "bounds": {
+        "x": 4.0,
+        "y": 2.299999952316284,
+        "z": 1.468999981880188,
+        "unit": "m"
+      },
+      "triangles": 5992,
+      "materials": 13,
+      "files": {
+        "glb": {
+          "path": "assets/carpentry/carpentry-whole-raised-mitre-head-and-parked-support-bay-scene-01/v1.0.0/model.glb",
+          "size": 534412,
+          "sha256": "f91743be9b6178bdb58a4eae945bd3abc762ff02375637cb9468dee4f1d195ff"
+        },
+        "blend": {
+          "path": "assets/carpentry/carpentry-whole-raised-mitre-head-and-parked-support-bay-scene-01/v1.0.0/source.blend",
+          "size": 1822984,
+          "sha256": "8a03d47710a088be0ee04e0010cae15797c7e26ebc622e3982058035e93a8d04"
+        },
+        "generator": {
+          "path": "assets/carpentry/carpentry-whole-raised-mitre-head-and-parked-support-bay-scene-01/v1.0.0/generate.py",
+          "size": 144270,
+          "sha256": "bc7ede9edfb92ac56879cce193f68e5c0f8302eda53de8dba8135b585aec67f6"
+        },
+        "render": {
+          "path": "assets/carpentry/carpentry-whole-raised-mitre-head-and-parked-support-bay-scene-01/v1.0.0/thumbnail.png",
+          "size": 473494,
+          "sha256": "2d828d4ac2113823a7280678d6bd702ab39c9a3a8002308040a2e1c4f9c8ef59"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1495-volume02-20261025"
     }
   ]
 }
