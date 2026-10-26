@@ -1884,6 +1884,11 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary02",
       "commit": "b29f4b33862fb8dba4cba9622829f15e8f77e07b"
+    },
+    "original-qualified-batch-1420-volume02-20261025": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary02",
+      "commit": "f95e92f2430626d0dbdbc985c69f824b353ac7c0"
     }
   },
   "assets": [
@@ -62774,6 +62779,178 @@
       "status": "verified",
       "license": "All rights reserved",
       "sourceId": "original-qualified-batch-1416-volume02-20261025"
+    },
+    {
+      "id": "animal-static-flattened-abdomen-and-folded-club-stomatopod-01",
+      "version": "1.0.0",
+      "category": "modular",
+      "assetKind": "prop",
+      "theme": "animal",
+      "style": "warm-handcrafted-village",
+      "title": "Static Flattened Abdomen and Folded Club Stomatopod",
+      "description": "One complete newly authored stylised mantis-shrimp-like animal: broad low head and thorax continuous with a long flattened segmented-looking abdomen and broad scalloped tailfan, two high oval stalk eyes, two whole folded raptorial forelimbs ending in blunt enlarged clubs, short broad antennal scales and six slender grounded walking supports. Not a prawn with deleted antennae or a lobster with its pincers removed. All whole sections and appendage paths are newly authored. Static artistic exterior only, not exact species, scientific anatomy, biological performance, strike mechanics, swimming, rigging, animation or handling guidance.",
+      "bounds": {
+        "x": 1.24000001,
+        "y": 2.950000048,
+        "z": 0.717999995,
+        "unit": "m"
+      },
+      "triangles": 2092,
+      "materials": 4,
+      "files": {
+        "glb": {
+          "path": "assets/animal/animal-static-flattened-abdomen-and-folded-club-stomatopod-01/v1.0.0/model.glb",
+          "size": 120400,
+          "sha256": "fb64bb73e1da7e2ee494ec0820fa565669dfdbc1b24a83ebf3526d2f17182797"
+        },
+        "blend": {
+          "path": "assets/animal/animal-static-flattened-abdomen-and-folded-club-stomatopod-01/v1.0.0/source.blend",
+          "size": 680288,
+          "sha256": "27b3e65b245262281df89c50a6c906b2fe58c849a17a4d85a9a8410f3d03d483"
+        },
+        "generator": {
+          "path": "assets/animal/animal-static-flattened-abdomen-and-folded-club-stomatopod-01/v1.0.0/generate.py",
+          "size": 30460,
+          "sha256": "d44b7eeef8b01589b9f268ab8400cec09396a5e3fa2b41f67304fbc62404fd21"
+        },
+        "render": {
+          "path": "assets/animal/animal-static-flattened-abdomen-and-folded-club-stomatopod-01/v1.0.0/thumbnail.png",
+          "size": 486059,
+          "sha256": "b6ff76bd2aefa88bc423995ebac5db50dfe0b1154e8290eade566874818b85d3"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1420-volume02-20261025"
+    },
+    {
+      "id": "culture-fixed-continuous-half-twist-band-and-low-plinth-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "culture",
+      "style": "S01-clean-geometric",
+      "title": "Fixed Continuous Half Twist Band and Low Plinth",
+      "description": "One wholly newly authored complete fixed half-twisted ribbon sculpture on its own low plinth. A single continuous broad finite-thickness band follows a full upright circular centre path while its rectangular cross-section turns through half a turn over the circuit. The final section reconnects to opposite cross-section vertices of the first section, leaving a closed shared-vertex material volume without duplicate end caps, separated bow pieces or interwoven rails. Broad satin faces and the narrow cut-edge surface have distinct opaque materials; the entire middle opening remains real empty space. The lowest part of the band roots directly into one low capped plinth with a full flat ground sole. Unlike the gift parcel, this has no untwisted planar wrapping loops, paired bow loops or box; unlike the old two-rail braided portal, it has one wide twisting material band, no second winding rail, bridges, four arch ends or passage threshold. All vertices newly drawn, not an old gift bow extracted and stood up. One complete cultural-display sculpture zero scenes, four opaque untextured PBR roles, metres Z up and whole horizontal bounds centre. A generic Mobius-inspired artistic form only, not a mathematical theorem, exact topology teaching model, deformable ribbon, historical artwork replica, physical equilibrium, structural capacity, public installation or safe traversal claim. No person, text, transparency, animation, rigging or interaction.",
+      "bounds": {
+        "x": 1.6897204774439485,
+        "y": 0.44,
+        "z": 1.6777836453014647,
+        "unit": "m"
+      },
+      "triangles": 1048,
+      "materials": 4,
+      "files": {
+        "glb": {
+          "path": "assets/culture/culture-fixed-continuous-half-twist-band-and-low-plinth-01/v1.0.0/model.glb",
+          "size": 84768,
+          "sha256": "ddba2682c5578c573e80d931c9923917872a56c458be846bbf34ada5817fec2a"
+        },
+        "blend": {
+          "path": "assets/culture/culture-fixed-continuous-half-twist-band-and-low-plinth-01/v1.0.0/source.blend",
+          "size": 610628,
+          "sha256": "6403205b1d1eee809c6346b52c2e9ca9bb1be08faf343d6e0ba3da8bd20e6669"
+        },
+        "generator": {
+          "path": "assets/culture/culture-fixed-continuous-half-twist-band-and-low-plinth-01/v1.0.0/generate.py",
+          "size": 10460,
+          "sha256": "d90e932f8bf75e6a789d1e15acf6ecdc7c4571041f521b87479e8f2c4d38ac9c"
+        },
+        "render": {
+          "path": "assets/culture/culture-fixed-continuous-half-twist-band-and-low-plinth-01/v1.0.0/thumbnail.png",
+          "size": 434531,
+          "sha256": "bfb9a41f3f0e9c4657a100faea6887c6758ccaa235faa0b3a860e924409f89f8"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1420-volume02-20261025"
+    },
+    {
+      "id": "regional-fixed-round-niche-tower-and-centre-ladder-cutaway-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "regional",
+      "style": "S01-clean-geometric",
+      "title": "Fixed Round Niche Tower and Centre Ladder Cutaway",
+      "description": "One newly authored whole regional dovecote-inspired architectural cutaway. A continuous thick curved masonry wall encloses a circular floor and contains actual inward-facing blind nesting recesses within its thickness, with a separate ground-level doorway passing completely through the retained side. One complete conical roof shell rises to a real open narrow top throat. The front quarter of the wall and roof is deliberately removed and its finite section faces closed to expose the interior. A complete central timber axle stands in a full floor foot and upper wall-to-wall bearing beam; two full radial arms connect that axle to one whole inclined ladder with two stiles and complete rungs. All members remain in one fixed display pose. This whole internal radial-access arrangement and curved blind-cell wall are not a freestanding nesting box multiplied or a silo recoloured, and no old tower, roof, nest box or ladder mesh is imported. Unlike the deep ice-storage pit under a tapering vault, the whole accessible-looking floor here is at ground datum and the retained wall itself houses many blind recesses. Three opaque solid PBR roles, metres Z up, full horizontal envelope centred. One architectural module zero scenes. Empty stylised historical-inspired artwork only: no birds, eggs, species suitability, husbandry, ecological effect, hygiene, animal welfare, precise historical reconstruction, ladder rotation, human access, roof thrust, load, structure, manufacturing or engineering safety capability. Rigging animation and interaction not made or verified.",
+      "bounds": {
+        "x": 5.52,
+        "y": 5.51,
+        "z": 4.72,
+        "unit": "m"
+      },
+      "triangles": 3388,
+      "materials": 3,
+      "files": {
+        "glb": {
+          "path": "assets/regional/regional-fixed-round-niche-tower-and-centre-ladder-cutaway-01/v1.0.0/model.glb",
+          "size": 153372,
+          "sha256": "2d59d5c2f5b2989745d32db43966756476bfaa21a66e8635b040ca61bb227caa"
+        },
+        "blend": {
+          "path": "assets/regional/regional-fixed-round-niche-tower-and-centre-ladder-cutaway-01/v1.0.0/source.blend",
+          "size": 787720,
+          "sha256": "3f7091e6bb2e48330240105caa5e18ae97cfc8e1c79361bfa0ed7970c926745a"
+        },
+        "generator": {
+          "path": "assets/regional/regional-fixed-round-niche-tower-and-centre-ladder-cutaway-01/v1.0.0/generate.py",
+          "size": 13704,
+          "sha256": "1293ff494bffad15ca555fdbbccebaa748cd4b0b2690d65f5d6add4c72fcbe2e"
+        },
+        "render": {
+          "path": "assets/regional/regional-fixed-round-niche-tower-and-centre-ladder-cutaway-01/v1.0.0/thumbnail.png",
+          "size": 589936,
+          "sha256": "449edbdf9758f6f6121e4392b413a3b11b8232d4dde91149b51798933a4c2fcd"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1420-volume02-20261025"
+    },
+    {
+      "id": "technology-fixed-opposed-annular-vane-bowls-and-guide-ring-display-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "technology",
+      "style": "S01-clean-geometric",
+      "title": "Fixed Opposed Annular Vane Bowls and Guide Ring Display",
+      "description": "One wholly newly authored complete toroidal-coupling-inspired cutaway exhibit. Two independent deep half-toroidal bowl shells face each other across a fixed axial interval; each has real inner and outer curved walls, inner and outer lips, and its own complete curved meridional vanes. The near shell omits one upper-near sector with finite cut faces, while the opposite bowl remains whole. Two separate stepped hubs and exterior shafts seat in independent uprights on one common grounded bed. A smaller complete bored guide ring and short curved guide-like vanes occupy the middle, on an explicit narrow display stalk. This is not a single radial impeller in a spiral volute, not a long axial core inside a bypass cowl, and not another fan stage count: opposed deep annular cavities, their separate curved vane fields and the independent small central guide define the whole organization. All numeric geometry independently authored, no old pump, turbine, coupling or fan meshes imported. Four opaque solid PBR roles, metres native Z up and complete horizontal-envelope centre over the full bed sole. One static mechanism-art prop zero scenes. Deliberately separated fixed display parts, not a working torque converter: no contained liquid, sealed working chamber, fluid route, velocity or vane design, torque conversion, efficiency, stator/freewheel action, bearing or shaft fit, rotation, motion, vehicle compatibility, load, manufacture, operation or safety capability. Rigging animation interaction not made or verified.",
+      "bounds": {
+        "x": 2.14,
+        "y": 2.1,
+        "z": 2.44,
+        "unit": "m"
+      },
+      "triangles": 11092,
+      "materials": 4,
+      "files": {
+        "glb": {
+          "path": "assets/technology/technology-fixed-opposed-annular-vane-bowls-and-guide-ring-display-01/v1.0.0/model.glb",
+          "size": 640316,
+          "sha256": "ae3656523908725aea2a0965eaeeb741f5bb4d3808b7111eff87dadb339b7122"
+        },
+        "blend": {
+          "path": "assets/technology/technology-fixed-opposed-annular-vane-bowls-and-guide-ring-display-01/v1.0.0/source.blend",
+          "size": 1312008,
+          "sha256": "1566ca6cb52f405fd4ec26eb8c256186516dab0d2d5fa809e4bc1ce920cee570"
+        },
+        "generator": {
+          "path": "assets/technology/technology-fixed-opposed-annular-vane-bowls-and-guide-ring-display-01/v1.0.0/generate.py",
+          "size": 27619,
+          "sha256": "7195668a982a3e175d85d45e284e6ecbb269e1937e69f1940e40e41a314104ec"
+        },
+        "render": {
+          "path": "assets/technology/technology-fixed-opposed-annular-vane-bowls-and-guide-ring-display-01/v1.0.0/thumbnail.png",
+          "size": 570386,
+          "sha256": "f5073ed58050e8257d2e9315f7ab7cb88c609e8e628c0f4a96ba3fea2fa6fafd"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1420-volume02-20261025"
     }
   ]
 }
