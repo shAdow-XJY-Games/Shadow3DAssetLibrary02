@@ -1,0 +1,42 @@
+{
+  "id": "ceramics-fixed-rising-vault-and-rear-flue-cutaway-kiln-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "ceramics",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Rising Vault and Rear Flue Cutaway Kiln",
+  "description": "One independently authored complete empty rising-vault kiln illustrative cutaway. A common broad finite masonry foundation carries a low front open fire chamber, a raised throat step and an entire ascending internal floor beneath a long continuous thick arched shell. The front-facing middle side of that shell is deliberately removed with thick finished cut edges to expose the uninterrupted rising chamber; complete end arch collars remain integral to the shell. A complete rear arched wall has a genuine low throat opening leading into a tall rear hollow rectangular flue with a side inlet and open top. The fire chamber and rising chamber have different floor heights and meet at a real open passage, not an old horizontal bread oven extended or an old rectangular shelf kiln resized. Whole connected shells and an integral raised floor step, no old geometry imported. Four opaque matte stone/refractory roles, metres Z up and horizontal bounds-centred ground datum. One whole architectural display prop zero scenes. Empty static artistic section only: no fire, fuel, ware, firing cycle, temperature, ventilation, chimney draft, emissions, thermal design, construction, installation, historical accuracy, load or safety performance. Rigging animation interaction not made.",
+  "bounds": {
+    "x": 4.3,
+    "y": 1.72,
+    "z": 2.25,
+    "unit": "m"
+  },
+  "triangles": 1080,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/ceramics/ceramics-fixed-rising-vault-and-rear-flue-cutaway-kiln-01/v1.0.0/model.glb",
+      "size": 60604,
+      "sha256": "f79c295b0fbef1c962118aae9bd81d90afaef6153fb2974e1bfe7c3d5d0a2827"
+    },
+    "blend": {
+      "path": "assets/ceramics/ceramics-fixed-rising-vault-and-rear-flue-cutaway-kiln-01/v1.0.0/source.blend",
+      "size": 635536,
+      "sha256": "d58968e23b1129a234149f9282dbb71759ec54fad44cc0bed85dddd8270d7c6e"
+    },
+    "generator": {
+      "path": "assets/ceramics/ceramics-fixed-rising-vault-and-rear-flue-cutaway-kiln-01/v1.0.0/generate.py",
+      "size": 12246,
+      "sha256": "f6d14b53e7ce88b287d67e4792f4dc06aeb39b22b46327bf0800c766ce6c5132"
+    },
+    "render": {
+      "path": "assets/ceramics/ceramics-fixed-rising-vault-and-rear-flue-cutaway-kiln-01/v1.0.0/thumbnail.png",
+      "size": 482052,
+      "sha256": "75e6d8da5517751503f2ff4932a6250fb2e2102acb83d2a01d741c9d4ec97ed3"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
