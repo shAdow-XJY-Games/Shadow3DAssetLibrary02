@@ -1789,6 +1789,11 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary02",
       "commit": "c1ef78bd9c1a183111cd3828c7a0e69ac13016fa"
+    },
+    "original-qualified-batch-1368-volume02-20261025": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary02",
+      "commit": "7c4347a5b2ec009a343729b401f122a39f0b1e92"
     }
   },
   "assets": [
@@ -60486,6 +60491,135 @@
       "status": "verified",
       "license": "All rights reserved",
       "sourceId": "original-qualified-batch-1365-volume02-20261025"
+    },
+    {
+      "id": "architecture-fixed-twin-bow-ribs-and-low-tied-deck-bridge-01",
+      "version": "1.0.0",
+      "category": "architecture",
+      "assetKind": "modular",
+      "theme": "architecture",
+      "style": "S01-clean-geometric",
+      "title": "Fixed Twin Bow Ribs and Low Tied Deck Bridge",
+      "description": "One complete newly authored static tied-arch-inspired bridge module. Two whole thick bowed arch ribs rise above a continuous low deck and return directly into the same two longitudinal tie beams at both ends. Whole vertical suspenders meet the deck-edge beams beneath each rib. Three upper spreaders and two separate high diagonal braces connect the two bows, while lower independent open guard rails border the deck. Two complete terminal pier blocks define the ground soles; there are no tall suspension towers, outer cable anchors, sagging main cables, central arch pier, filled stone spandrels or upper water trough. This new low-deck/rigid-upper-bow/end-tie organization differs from the old externally anchored suspension footbridge and the stone arch carrying a channel above it. All points and whole meshes newly authored, no old bridge geometry imported or merely curved. One architectural module zero scenes, three opaque constant PBR roles, metres Z-up and full horizontal bounds-centred ground origin. Fixed stylized game appearance only. No actual tie tension or arch thrust solution, structural load, hanger connection engineering, traffic, pedestrian access, navigational clearance, host bank alignment, construction or safety capability. Rig animation and interaction not made or verified.",
+      "bounds": {
+        "x": 6.54,
+        "y": 2.2,
+        "z": 3.21,
+        "unit": "m"
+      },
+      "triangles": 1420,
+      "materials": 3,
+      "files": {
+        "glb": {
+          "path": "assets/architecture/architecture-fixed-twin-bow-ribs-and-low-tied-deck-bridge-01/v1.0.0/model.glb",
+          "size": 84100,
+          "sha256": "861cc11f9f9ad50b9bfaa44ca5ebf78151e0ddf0a077ce4d3f696cd866859620"
+        },
+        "blend": {
+          "path": "assets/architecture/architecture-fixed-twin-bow-ribs-and-low-tied-deck-bridge-01/v1.0.0/source.blend",
+          "size": 787708,
+          "sha256": "f730e8d738c60b131d50b744223022c7545396c8a5f6bf9a28ed043a05d68e63"
+        },
+        "generator": {
+          "path": "assets/architecture/architecture-fixed-twin-bow-ribs-and-low-tied-deck-bridge-01/v1.0.0/generate.py",
+          "size": 11454,
+          "sha256": "37eff9b4cfd095849b960ba8cccb3890b0d673716a01f70ca7f351506dd528e4"
+        },
+        "render": {
+          "path": "assets/architecture/architecture-fixed-twin-bow-ribs-and-low-tied-deck-bridge-01/v1.0.0/thumbnail.png",
+          "size": 455591,
+          "sha256": "4e0a21b2011f4b486754dd83d3291dc19decde138eb3a204482bd569b00550fc"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1368-volume02-20261025"
+    },
+    {
+      "id": "carpentry-fixed-orthogonal-fences-and-diagonal-jaw-corner-vise-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "carpentry",
+      "style": "source-preserved-low-poly",
+      "title": "Fixed Orthogonal Fences and Diagonal Jaw Corner Vise",
+      "description": "One newly authored complete fixed right-angle corner-vise-style exterior. One continuous L-shaped ground foundation carries two full perpendicular fixed high fences. A whole diagonal low rib connects the inside corner region to a separate thick axial guide boss with a real through bore. One independent full triangular moving-jaw appearance presents two perpendicular flat faces toward the two fixed fences, leaving two distinct open channels. A complete diagonally aligned spindle passes through the bored boss into the rear of that head, with a full transverse handbar and two end stops. The complete right-angle opposing-face organization is not the old clamp-on bench vise with one jaw merely rotated: there is no table-edge C clamp, parallel flat-jaw pair or rectangular longitudinal slide. Unlike the long F clamp there is no long bar with one sliding collar carrying a single opposed pad. All geometry newly authored together, only generic solid mesh helpers reused. Three opaque constant PBR roles, metres Z up and full horizontal-envelope centred ground datum. One complete model zero scenes. Empty fixed artistic tool appearance only: no timber, workpiece fit, moving adjustment, thread engagement, clamping force, right-angle precision, torque, installation, load, manufacture or safety capability. Broad spindle rings are fixed exterior profile, not a functioning helical thread. Rigging animation and interaction not made.",
+      "bounds": {
+        "x": 0.341773122549057,
+        "y": 0.341773122549057,
+        "z": 0.07400000095367432,
+        "unit": "m"
+      },
+      "triangles": 1692,
+      "materials": 3,
+      "files": {
+        "glb": {
+          "path": "assets/carpentry/carpentry-fixed-orthogonal-fences-and-diagonal-jaw-corner-vise-01/v1.0.0/model.glb",
+          "size": 148980,
+          "sha256": "e4cf44207d227edcf8cc98fec83785b7c96ab7f81041926bd82d765c031f5b33"
+        },
+        "blend": {
+          "path": "assets/carpentry/carpentry-fixed-orthogonal-fences-and-diagonal-jaw-corner-vise-01/v1.0.0/source.blend",
+          "size": 759840,
+          "sha256": "6cedd580050467f963043aba90c5b39c8275d04b3c52ea2189991a6d3f3d7c1b"
+        },
+        "generator": {
+          "path": "assets/carpentry/carpentry-fixed-orthogonal-fences-and-diagonal-jaw-corner-vise-01/v1.0.0/generate.py",
+          "size": 16424,
+          "sha256": "b19c9f30e2bb98fe7a1a424371ecd632eb596aecaff2ad3629edcdfcd58e326c"
+        },
+        "render": {
+          "path": "assets/carpentry/carpentry-fixed-orthogonal-fences-and-diagonal-jaw-corner-vise-01/v1.0.0/thumbnail.png",
+          "size": 489750,
+          "sha256": "a62e8907ea86f166340d1180f9b27d29efd7cb43c18a1cb3972c88afb91e7fa7"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1368-volume02-20261025"
+    },
+    {
+      "id": "transport-fixed-bent-bellows-and-twin-cabin-articulated-bus-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "transport",
+      "style": "S01-clean-geometric",
+      "title": "Fixed Bent Bellows and Twin Cabin Articulated Bus",
+      "description": "One wholly newly authored complete fixed articulated passenger-bus exterior and open-cabin display. Two separate full cabin floors, lower side walls, actual open window bays and complete roof caps carry their own fixed seat rows and underframes. The longer forward section rests on two axles; the shorter rear section and its own axle are baked at an eighteen-degree horizontal angle. One continuous thick four-sided pleated connector surrounds a real open passage between the two cabin ends; a separate fixed joining floor and low captured-pivot exterior join the independent chassis below. A right-front entry and two rooted treads, whole driver controls, six full flat-tread tyres and fixed front/rear marker faces complete one vehicle. Unlike the short single-cabin minibus, this has an entire bent enclosed passage and independently supported rear cabin, not only added wheels, stretched body or changed paint. Unlike the old low split-bin robot, this has two hollow roofed passenger sections and the surrounding pleated connection, no cargo tub or transplanted old clevis mesh. All numeric geometry is new. Four opaque PBR roles; window apertures intentionally unglazed. Metres Z up, whole XY-centred ground datum, one prop zero scenes. Proportions are stylised display dimensions, not road-vehicle design. No doors, people, powered drivetrain, driving, steering, articulation path, passage accessibility, passenger fit/capacity, crashworthiness, roadworthiness, loading, manufacturing or safety capability. Rigging animation and interaction not made.",
+      "bounds": {
+        "x": 2.6050418092379704,
+        "y": 6.951222829174393,
+        "z": 2.11,
+        "unit": "m"
+      },
+      "triangles": 3764,
+      "materials": 4,
+      "files": {
+        "glb": {
+          "path": "assets/transport/transport-fixed-bent-bellows-and-twin-cabin-articulated-bus-01/v1.0.0/model.glb",
+          "size": 246320,
+          "sha256": "fb2edc15057c3f9489b8d35d6806615dd557724b9608e7caa4d217f8bead9507"
+        },
+        "blend": {
+          "path": "assets/transport/transport-fixed-bent-bellows-and-twin-cabin-articulated-bus-01/v1.0.0/source.blend",
+          "size": 1308780,
+          "sha256": "fd58bc4453cfa00c2dbe72796831bc1ffa12fd24e82c0926aa7dfc9170e226c9"
+        },
+        "generator": {
+          "path": "assets/transport/transport-fixed-bent-bellows-and-twin-cabin-articulated-bus-01/v1.0.0/generate.py",
+          "size": 14736,
+          "sha256": "cf11bdbf27a7e7b4b068c11e81820e2447c6907a1640a9db568ecd89752ae3c1"
+        },
+        "render": {
+          "path": "assets/transport/transport-fixed-bent-bellows-and-twin-cabin-articulated-bus-01/v1.0.0/thumbnail.png",
+          "size": 448399,
+          "sha256": "19ae5edb320c5e80b708afd80af0a8c89f41d08196a2c8b9480c08ae9098832a"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1368-volume02-20261025"
     }
   ]
 }
