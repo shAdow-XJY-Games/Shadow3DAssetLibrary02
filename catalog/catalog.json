@@ -1764,6 +1764,11 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary02",
       "commit": "46950b8b779ef2f373a2276e198f9e6e11d35358"
+    },
+    "original-qualified-batch-1357-volume02-20261025": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary02",
+      "commit": "02680d403714428a23291a193142ba3678da5f4f"
     }
   },
   "assets": [
@@ -59902,6 +59907,221 @@
       "status": "verified",
       "license": "All rights reserved",
       "sourceId": "original-qualified-batch-1352-volume02-20261025"
+    },
+    {
+      "id": "agriculture-whole-orchard-tree-picker-and-basket-margin-scene-01",
+      "version": "1.0.0",
+      "category": "scenes",
+      "assetKind": "scene",
+      "theme": "agriculture",
+      "style": "source-preserved-faceted-natural-ecology",
+      "title": "Whole Orchard Tree Picker and Basket Margin",
+      "description": "One static orchard-edge collection-preparation display scene, zero new models. One entire qualified forked-trunk orchard tree stands at the left rear, while an entire qualified upright high side-cup fruit picker is parked separately to its right and one entire qualified empty coarse-band harvest basket occupies a distinct front-right station. All three originals preserve every oriented world triangle, full unit-scale dimensions and opaque per-face PBR. The picker does not touch the tree or reach into the crown, and there is a real open foreground strip; no fruit is added or retained. One finite scene-only earthy floor is the only new mesh. The unchanged tree root tips and low trunk are intentionally embedded 35mm into that ground, with selected actual finite material overlap; the complete picker pole sole and basket base rest on the top plane. This is not the old stone-trough/firewood-shelter workyard or the poultry apparatus court with renamed equipment: its whole tall tree edge, independent upright collection tool and low empty receiving position form a new visual relationship. Source hierarchy is baked and normals recomputed, not original GLB byte retention; whole translated coordinates are explicitly stored float32. No growth, fruit collection, basket capacity, tool-to-tree reach compatibility, pole stability, access, ecology, working procedure, loading or safety validation. Rig animation and interaction not made.",
+      "bounds": {
+        "x": 4.0,
+        "y": 3.5,
+        "z": 3.258682251,
+        "unit": "m"
+      },
+      "triangles": 3412,
+      "materials": 9,
+      "files": {
+        "glb": {
+          "path": "assets/agriculture/agriculture-whole-orchard-tree-picker-and-basket-margin-scene-01/v1.0.0/model.glb",
+          "size": 239532,
+          "sha256": "61535fe8f3daae874b206744736b57ddc9586ff35d54528ce4c05befa6cfd5be"
+        },
+        "blend": {
+          "path": "assets/agriculture/agriculture-whole-orchard-tree-picker-and-basket-margin-scene-01/v1.0.0/source.blend",
+          "size": 857200,
+          "sha256": "35d4e3873abb3cd792aa9fefaa16a9b2131b58bdabbcfb2a778a0eae4fe723e8"
+        },
+        "generator": {
+          "path": "assets/agriculture/agriculture-whole-orchard-tree-picker-and-basket-margin-scene-01/v1.0.0/generate.py",
+          "size": 112626,
+          "sha256": "3f73a53f92295b0dde41a631b1f28e7caa3724b6cbd0147fa472b5c7d3dcabe0"
+        },
+        "render": {
+          "path": "assets/agriculture/agriculture-whole-orchard-tree-picker-and-basket-margin-scene-01/v1.0.0/thumbnail.png",
+          "size": 502335,
+          "sha256": "6b90d749a9f90a672ed3ac05b36dd0e295e58514b38193dccc7a31fe9d1953f4"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1357-volume02-20261025"
+    },
+    {
+      "id": "classical-whole-inward-stepped-corbel-and-capstone-passage-01",
+      "version": "1.0.0",
+      "category": "architecture",
+      "assetKind": "modular",
+      "theme": "classical",
+      "style": "S01-clean-geometric",
+      "title": "Whole Inward Stepped Corbel and Capstone Passage",
+      "description": "One complete newly authored static inward-corbelled passage module. Two whole full-depth sidewall solids each rise vertically from a finite ground sole and then step inward through five genuine projecting horizontal shoulders; their exterior faces also recede in discrete courses. One independent thick flat crown stone bridges the final narrow upper opening. Both axial mouths remain open and the continuous inner passage has a stepped triangular upper profile rather than a semicircular soffit. Each sidewall is one closed concave mesh, not a stack of overlapping detached stone boxes. Unlike the complete radial voussoir gateway there is no curved arch ring or keystone; unlike the coffered barrel vault there is no continuous cylindrical roof shell or blind panel recess. All visible coordinates new, no old wall or roof meshes imported. Three opaque stone PBR roles, metres Z-up, centred complete horizontal envelope and two finite ground soles; one architectural module zero scenes. Fixed stylized appearance only, not a historical reconstruction or working masonry design. No cantilever stability, thrust, load capacity, installation fit, accessible clearance, navigation, building-code or safety claim. Rigging animation and interaction not made or verified.",
+      "bounds": {
+        "x": 3.36,
+        "y": 2.54,
+        "z": 3.13,
+        "unit": "m"
+      },
+      "triangles": 196,
+      "materials": 3,
+      "files": {
+        "glb": {
+          "path": "assets/classical/classical-whole-inward-stepped-corbel-and-capstone-passage-01/v1.0.0/model.glb",
+          "size": 12540,
+          "sha256": "c1c201601766443f70f5b1ed049d60457056de47aa2faa3535fcb469e265b694"
+        },
+        "blend": {
+          "path": "assets/classical/classical-whole-inward-stepped-corbel-and-capstone-passage-01/v1.0.0/source.blend",
+          "size": 541432,
+          "sha256": "effebd23cd6e879a33a7c24d1666b628722e3ba0c794be21b60ee4bf8a3d8299"
+        },
+        "generator": {
+          "path": "assets/classical/classical-whole-inward-stepped-corbel-and-capstone-passage-01/v1.0.0/generate.py",
+          "size": 10819,
+          "sha256": "234609fad5e74ffa652e6571216dd17246be65939550da58e846d949d6c9df02"
+        },
+        "render": {
+          "path": "assets/classical/classical-whole-inward-stepped-corbel-and-capstone-passage-01/v1.0.0/thumbnail.png",
+          "size": 504762,
+          "sha256": "07ebedaf8d4b30fde684649f108d546bc16dd766cc1f280043c1838454b24a51"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1357-volume02-20261025"
+    },
+    {
+      "id": "industrial-fixed-open-tapered-vessel-and-overhead-trunnion-bail-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "industrial",
+      "style": "S01-clean-geometric",
+      "title": "Fixed Open Tapered Vessel and Overhead Trunnion Bail",
+      "description": "One wholly newly authored complete foundry-ladle-style static exterior: one deep thick tapered upright vessel has a genuine empty chamber, complete flat closed bottom and an integrated front lip that projects outward and lowers slightly. Two opposed whole horizontal side trunnions connect the vessel to one high open overhead bail and a real open upper suspension eye. On one side a full blank reduction-case exterior and complete three-spoke open handwheel with blunt grip finish the fixed assembly. The full vessel bottom alone defines ground; no separate crane, rail wagon, frame or payload is counted. Unlike the existing side-tip wagon, there is no longitudinal half-round trough, two end A-bearers, wheels, axle chassis or underbody tub stops. Unlike the existing pear-drum mixer, there is no inclined spindle, rear U cradle, motor or wheel/foot frame. New whole pot, overhead bail and side control housing organisation, not old geometry extracted or a pot given extra handles. One prop zero scenes, four opaque constant PBR roles, metres native Z up and centred whole horizontal bounds. Empty static art only. No molten material, heat, refractory design, actual pouring, tilting, suspension operation, gears, braking, bearing fit, hook compatibility, rated load, manufacturing, installation, human fit or safety performance. Rigging animation interaction not made or verified.",
+      "bounds": {
+        "x": 2.79,
+        "y": 1.61,
+        "z": 2.865,
+        "unit": "m"
+      },
+      "triangles": 1852,
+      "materials": 4,
+      "files": {
+        "glb": {
+          "path": "assets/industrial/industrial-fixed-open-tapered-vessel-and-overhead-trunnion-bail-01/v1.0.0/model.glb",
+          "size": 99192,
+          "sha256": "135a59724a8ccc03d70df925c07cada1fce911e2a81c8fea27209e6e80cffaad"
+        },
+        "blend": {
+          "path": "assets/industrial/industrial-fixed-open-tapered-vessel-and-overhead-trunnion-bail-01/v1.0.0/source.blend",
+          "size": 676860,
+          "sha256": "085885823990ef661af665eb47e4d8de6b49a012d9dbad977a2f7941e08e071d"
+        },
+        "generator": {
+          "path": "assets/industrial/industrial-fixed-open-tapered-vessel-and-overhead-trunnion-bail-01/v1.0.0/generate.py",
+          "size": 26443,
+          "sha256": "3bd2f3d1ce2da4228496dd7f4b54c52cecccf3e2c6837bb1e7f46f6bc8b96c6b"
+        },
+        "render": {
+          "path": "assets/industrial/industrial-fixed-open-tapered-vessel-and-overhead-trunnion-bail-01/v1.0.0/thumbnail.png",
+          "size": 508137,
+          "sha256": "216860a23538a9b68ec685bb61fcb9b5debd34a592ec6d4f6b12214f35671e1c"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1357-volume02-20261025"
+    },
+    {
+      "id": "professional-fixed-single-beam-and-paired-bored-point-heads-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "professional",
+      "style": "source-preserved-low-poly",
+      "title": "Fixed Single Beam and Paired Bored Point Heads",
+      "description": "One newly authored complete fixed beam-divider-style drawing-tool exterior. One long chamfer-ended rectangular beam passes through two entire independently modeled thick slider heads. Each head contains its own real rectangular axial bore surrounding the beam with visible side clearance and a continuous forward neck carrying one complete short tapered blunt point. Two full stem-and-thumbcap profiles root into the top of the heads. The parallel points are fixed at one separated position along the same straight beam, not a shared central hinge or diverging compass legs. Unlike the old combination square there is no broad angled bearing stock, ninety-degree rule relation or scale marks; unlike the old drawing compass there are no pivot arms, top turning grip or chalk clamp. All geometry newly authored together without importing old head, ruler or pointer geometry. Three opaque constant PBR roles, metres Z up, full horizontally centred finite ground datum on the two head undersides. One whole model zero scenes. Blank fixed artistic display only: no calibrated distance, compass circle accuracy, measuring, marking, sliding, clamping, sharp point, handling, manufacture, human fit or safety capability. Rigging animation and interaction not made.",
+      "bounds": {
+        "x": 0.7200000286102295,
+        "y": 0.2199999988079071,
+        "z": 0.09099999815225601,
+        "unit": "m"
+      },
+      "triangles": 1388,
+      "materials": 3,
+      "files": {
+        "glb": {
+          "path": "assets/professional/professional-fixed-single-beam-and-paired-bored-point-heads-01/v1.0.0/model.glb",
+          "size": 122132,
+          "sha256": "b4e296ee7ce2e17e8964e08a268943f66789defd7b66b25553bceed5b7514cd0"
+        },
+        "blend": {
+          "path": "assets/professional/professional-fixed-single-beam-and-paired-bored-point-heads-01/v1.0.0/source.blend",
+          "size": 721088,
+          "sha256": "b74098da13a562e3dc85b32ee8338f53517381f369ba01cfa8a884536c702ac8"
+        },
+        "generator": {
+          "path": "assets/professional/professional-fixed-single-beam-and-paired-bored-point-heads-01/v1.0.0/generate.py",
+          "size": 15437,
+          "sha256": "072d929ea3afda4f9ca93be34e0aaf74c7328fc5c2ab7685538031044801215b"
+        },
+        "render": {
+          "path": "assets/professional/professional-fixed-single-beam-and-paired-bored-point-heads-01/v1.0.0/thumbnail.png",
+          "size": 458206,
+          "sha256": "fc6edf9ddf420a0dab18ea0ab757f9bc4d08548d89006aeb95b22e9bdd4a02af"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1357-volume02-20261025"
+    },
+    {
+      "id": "public-service-fixed-open-bay-and-parked-connector-charge-post-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "public-service",
+      "style": "S01-clean-geometric",
+      "title": "Fixed Open Bay and Parked Connector Charge Post",
+      "description": "One wholly newly authored complete fixed charging-post-style public-service exterior. A broad finite ground foot carries one continuous thick tapered-shoulder upright with a genuine tall through-open lower bay and integral solid upper control head. A complete heavy-looking cable leaves the left side, forms a deep uninterrupted hanging loop around the lower open bay and ends in one independent canted grip beneath a parked axial connector. That connector has a complete thick annular mouth, real blind inner cavity, small blunt recessed contact appearances and whole rear cap; a separate short side holster roots it to the upright. A blank opaque upper control plaque and small separate round blank indicator complete the one assembly. Unlike the old finned inverter this has no rear fin field or array of fixed blind sockets, and unlike the hooded telephone it has no keypad, recessed handset booth or double-ended receiver. The full through-bay, lower continuous cable route and independent axial connector/side park relation are newly authored together, not an imported cabinet with a renamed handset. Four opaque untextured PBR roles, metres Z up, full horizontal-bounds-centred ground sole, one prop zero scenes. No vehicle, battery, circuit, charging, voltage, power delivery, connector standard or insertion fit, cable tension, powered display, payment, weather protection, electrical safety, manufacture or installation performance made or verified. Fixed static visual appearance only; rigging animation interaction absent.",
+      "bounds": {
+        "x": 0.9813894806518337,
+        "y": 0.51,
+        "z": 1.7,
+        "unit": "m"
+      },
+      "triangles": 2248,
+      "materials": 4,
+      "files": {
+        "glb": {
+          "path": "assets/public-service/public-service-fixed-open-bay-and-parked-connector-charge-post-01/v1.0.0/model.glb",
+          "size": 162100,
+          "sha256": "c0889755e8b850e585a3360e85a9dd0b6a30e5d7b66381f70e95e49321faab88"
+        },
+        "blend": {
+          "path": "assets/public-service/public-service-fixed-open-bay-and-parked-connector-charge-post-01/v1.0.0/source.blend",
+          "size": 726396,
+          "sha256": "e99a041cc4354823c4bb9f1e4b4394728bc49195242c0dd83b77c7c5f5e6b364"
+        },
+        "generator": {
+          "path": "assets/public-service/public-service-fixed-open-bay-and-parked-connector-charge-post-01/v1.0.0/generate.py",
+          "size": 12127,
+          "sha256": "d85012c676da542e6b20be3187b52da31519759b8069740090c2e8ce38e5b601"
+        },
+        "render": {
+          "path": "assets/public-service/public-service-fixed-open-bay-and-parked-connector-charge-post-01/v1.0.0/thumbnail.png",
+          "size": 371249,
+          "sha256": "ecd67b639813717280d9b53d8716525dd597702abad73ead5df30b3e934f92d4"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1357-volume02-20261025"
     }
   ]
 }
