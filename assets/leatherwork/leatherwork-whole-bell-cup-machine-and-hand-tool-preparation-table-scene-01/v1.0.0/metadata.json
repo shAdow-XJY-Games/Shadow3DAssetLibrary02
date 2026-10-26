@@ -1,0 +1,42 @@
+{
+  "id": "leatherwork-whole-bell-cup-machine-and-hand-tool-preparation-table-scene-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "leatherwork",
+  "style": "source-preserved-low-poly",
+  "title": "Whole Bell Cup Machine and Hand Tool Preparation Table",
+  "description": "One static leatherworking equipment-preparation table, one scene zero new independent models. One whole open worktable supports the complete open bell-cup and feed-roller bench machine at left, rigidly turned ninety degrees so its original empty cup/approach region faces the front. A whole fixed-open radial-turret hand punch rests separately at right and an entire cutaway bobbin-grip sewing awl lies across the forward-right tabletop. All complete ground soles remain on the original finite flat top with visible empty strips between devices. This is a compact machine-and-hand-tool preparation surface, not the old pedestal horn-machine with a separate shoe-last floor stand and stretcher table, or cloth-pattern cutting table. Every original unit-scale mesh buffer, normal, internal hierarchy and PBR dictionary is preserved; only whole rigid placements and one finite floor are new. No leather, shoes, workpieces, extracted components or new standalone furniture. The small awl and turret details remain subordinate at whole-scene scale. Static artistic arrangement only: no skiving, stitching, punching, sharp edge, machine motion, electrical operation, workflow correctness, tool compatibility, human fit, rated loading or workplace safety claim. Rigging animation interaction not made.",
+  "bounds": {
+    "x": 2.0,
+    "y": 1.399999976158142,
+    "z": 1.3040000200271606,
+    "unit": "m"
+  },
+  "triangles": 7860,
+  "materials": 13,
+  "files": {
+    "glb": {
+      "path": "assets/leatherwork/leatherwork-whole-bell-cup-machine-and-hand-tool-preparation-table-scene-01/v1.0.0/model.glb",
+      "size": 701268,
+      "sha256": "d7ee04f03b8ea4a06f0e7f3b23852537295fa8ec834942149967a3e48ac204ba"
+    },
+    "blend": {
+      "path": "assets/leatherwork/leatherwork-whole-bell-cup-machine-and-hand-tool-preparation-table-scene-01/v1.0.0/source.blend",
+      "size": 1948032,
+      "sha256": "1f55412e909f4cd7b847511224e9812f54921cc50284d1cac3fb07dd467bb460"
+    },
+    "generator": {
+      "path": "assets/leatherwork/leatherwork-whole-bell-cup-machine-and-hand-tool-preparation-table-scene-01/v1.0.0/generate.py",
+      "size": 190228,
+      "sha256": "90959f6e45323c1d2db6320f36abb8dac60552878a585a0711ef7ba4cd45f713"
+    },
+    "render": {
+      "path": "assets/leatherwork/leatherwork-whole-bell-cup-machine-and-hand-tool-preparation-table-scene-01/v1.0.0/thumbnail.png",
+      "size": 493283,
+      "sha256": "b8378b5e4f28eee0222cb23c32a99d6d78777f52b13e89e873b27e3256484127"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
