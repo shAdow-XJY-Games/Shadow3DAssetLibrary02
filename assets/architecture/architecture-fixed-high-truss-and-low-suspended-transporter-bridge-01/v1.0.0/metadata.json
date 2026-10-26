@@ -1,0 +1,42 @@
+{
+  "id": "architecture-fixed-high-truss-and-low-suspended-transporter-bridge-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "architecture",
+  "style": "S01-clean-geometric",
+  "title": "Fixed High Truss and Low Suspended Transporter Bridge",
+  "description": "One newly authored whole fixed transporter-bridge-style exterior. Two complete high open portal towers on grounded end piers carry a permanently high, long twin-sided open truss and upper cross ties. One offset four-wheel overhead carriage rests on the two long lower chords; four entire long suspension rods connect it to a much shorter low gondola deck with two full side rails and open ends. The open air beneath the high fixed crossing remains distinct from the short hanging platform. Unlike the old vertical-lift bridge, no full-width crossing deck rises between guide towers, no top rope wheels or counterweights are supplied. Unlike the small orthogonal robot gantry, there is no transverse sliding bridge, downward tool guide or finger tool; only one fixed long travel direction and a low suspended crossing platform. No old visible meshes imported. Three opaque PBR materials, metres Z-up and complete horizontal-bounds-centred pier datum. One complete model zero scenes. Static architectural transport illustration only; no people, vehicles, water, terrain, drive or internal brake. No motion, path clearance, traffic access, engineering, cable tension, load, manufacture, navigation or safety capability is asserted. Rigging, animation and interaction are not made or verified.",
+  "bounds": {
+    "x": 8.0,
+    "y": 3.0,
+    "z": 5.27,
+    "unit": "m"
+  },
+  "triangles": 1944,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/architecture/architecture-fixed-high-truss-and-low-suspended-transporter-bridge-01/v1.0.0/model.glb",
+      "size": 126592,
+      "sha256": "872a87cc4c62129c30c27925cb45d1968a3a695ddb8bec915f988481e8696a26"
+    },
+    "blend": {
+      "path": "assets/architecture/architecture-fixed-high-truss-and-low-suspended-transporter-bridge-01/v1.0.0/source.blend",
+      "size": 945252,
+      "sha256": "fc03b6b9ec1b88f05cd6debe21a5b00dc90968b766f82ef701a9913d917a56b9"
+    },
+    "generator": {
+      "path": "assets/architecture/architecture-fixed-high-truss-and-low-suspended-transporter-bridge-01/v1.0.0/generate.py",
+      "size": 13514,
+      "sha256": "e70965fcf12c500133c029c2293fba9c2a184242284f76dc47488c265596b3d1"
+    },
+    "render": {
+      "path": "assets/architecture/architecture-fixed-high-truss-and-low-suspended-transporter-bridge-01/v1.0.0/thumbnail.png",
+      "size": 524066,
+      "sha256": "f4ccdfaccefb1cf5d1cf9fdc6db0367077e5f9b2df92ebbc4f91b518efc0aa6a"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
