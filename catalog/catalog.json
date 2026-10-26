@@ -1614,6 +1614,11 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary02",
       "commit": "5d1cb308b6458530a4442838c446bdd9fe9c7080"
+    },
+    "original-qualified-batch-1285-volume02-20261025": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary02",
+      "commit": "de8d7875aefca5d9355eb559106c1d9151cd5be8"
     }
   },
   "assets": [
@@ -56613,6 +56618,264 @@
       "status": "verified",
       "license": "All rights reserved",
       "sourceId": "original-qualified-batch-1279-volume02-20261025"
+    },
+    {
+      "id": "agriculture-fixed-foot-beam-pestle-and-grounded-mortar-frame-01",
+      "version": "1.0.0",
+      "category": "modular",
+      "assetKind": "prop",
+      "theme": "agriculture",
+      "style": "warm-handcrafted-village",
+      "title": "Fixed Foot Beam Pestle and Grounded Mortar Frame",
+      "description": "One newly authored whole static foot-beam mortar-frame exterior. Two long low ground sills and cross ties form one complete floor structure. A pair of short upright cheeks carry a transverse fixed axle under a long unequal inclined timber beam; its lowered broad rear end provides a visibly enlarged foot-paddle area. The forward high end carries one complete downward pestle ending inside, but above the floor of, a genuinely open thick-walled blind mortar fixed to the front cross-tie. The mortar remains on the base rather than hanging from the lever. An external rear limit stop and two diagonal cheek braces complete the fixed frame. All profiles, bowl wall and complete assembly newly drawn. Not a lowered water-sweep with its bucket retained, a hand mortar enlarged, or the cam-driven two-stamp mill with one stamp removed: no camshaft, flywheel or tall sliding-stem guide. One model zero scenes. Static historical-looking game-art exterior only, no rice processing, pounding motion, efficiency, pedal ergonomics, historical authenticity, manufacture, load or safety claim. Rig animation interaction not made.",
+      "bounds": {
+        "x": 0.839999974,
+        "y": 2.619999886,
+        "z": 1.190000057,
+        "unit": "m"
+      },
+      "triangles": 764,
+      "materials": 4,
+      "files": {
+        "glb": {
+          "path": "assets/agriculture/agriculture-fixed-foot-beam-pestle-and-grounded-mortar-frame-01/v1.0.0/model.glb",
+          "size": 49376,
+          "sha256": "72e1d8c0bcb0ecc1448cb3d3579e46bb43283b6a095c9f809b45a79afb91c423"
+        },
+        "blend": {
+          "path": "assets/agriculture/agriculture-fixed-foot-beam-pestle-and-grounded-mortar-frame-01/v1.0.0/source.blend",
+          "size": 613736,
+          "sha256": "2d73dbd644d433fa685d04761446a68295e0dd564a69e08a2fde7092ea819397"
+        },
+        "generator": {
+          "path": "assets/agriculture/agriculture-fixed-foot-beam-pestle-and-grounded-mortar-frame-01/v1.0.0/generate.py",
+          "size": 30934,
+          "sha256": "140576cf02bfebbee287ce361e4bbcc24b55dd6212699b96c5dc3ea79d965c13"
+        },
+        "render": {
+          "path": "assets/agriculture/agriculture-fixed-foot-beam-pestle-and-grounded-mortar-frame-01/v1.0.0/thumbnail.png",
+          "size": 499535,
+          "sha256": "f19e0a701be134a4302536e83b795748e340adbb2cd28f5d7fee04b2769bfabf"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1285-volume02-20261025"
+    },
+    {
+      "id": "animal-static-deep-breast-combed-head-sickle-tail-rooster-01",
+      "version": "1.0.0",
+      "category": "modular",
+      "assetKind": "prop",
+      "theme": "animal",
+      "style": "warm-handcrafted-village",
+      "title": "Static Deep Breast Combed Head and Sickle Tail Rooster",
+      "description": "One new whole stylised static rooster-like farm bird. A deep rounded forward breast and long back rise through a full upright narrowing neck to a small short-beaked head. A thick serrated single comb and two complete rounded hanging wattles frame the head. Two folded side wings, stout upper legs with longer narrow shanks and two real cleft ground feet support the animal. Three complete unequal thick sickle-tail feathers sweep high behind the body then curve down to the rear, not a radial peacock fan or one straight parrot tail. All body stations, limb profiles, comb, wattle and sweeping feather paths newly authored. Not an old bird with a coloured crest pasted on or a deleted peacock fan. One model zero scenes. Coarse fixed farm-bird artwork only, no exact breed, anatomy, feather microstructure, stance biomechanics, crowing, reproduction, care, animal use, safety, rig, animation or interaction claim.",
+      "bounds": {
+        "x": 0.810000002,
+        "y": 2.384615898,
+        "z": 2.289999962,
+        "unit": "m"
+      },
+      "triangles": 2108,
+      "materials": 4,
+      "files": {
+        "glb": {
+          "path": "assets/animal/animal-static-deep-breast-combed-head-sickle-tail-rooster-01/v1.0.0/model.glb",
+          "size": 121108,
+          "sha256": "6264eae5511419ffdba5de42f8107d0ac81a0f7b4c2b1cc72ba37e9e753adce2"
+        },
+        "blend": {
+          "path": "assets/animal/animal-static-deep-breast-combed-head-sickle-tail-rooster-01/v1.0.0/source.blend",
+          "size": 671168,
+          "sha256": "fa9b07167417ed7926f6cce3b264f1b3f74afaf431dae6abfe163176185452ed"
+        },
+        "generator": {
+          "path": "assets/animal/animal-static-deep-breast-combed-head-sickle-tail-rooster-01/v1.0.0/generate.py",
+          "size": 31795,
+          "sha256": "97d8f6ad002f4237db8954800088d1fa20279a95e6f15e5ae7e46478b3455121"
+        },
+        "render": {
+          "path": "assets/animal/animal-static-deep-breast-combed-head-sickle-tail-rooster-01/v1.0.0/thumbnail.png",
+          "size": 504546,
+          "sha256": "40f4c7bc2665e540ef324b222f4ca5f627aa1b5378f96c4f1b4cb09d7b8def49"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1285-volume02-20261025"
+    },
+    {
+      "id": "harbor-fixed-open-front-stepped-prism-and-lamp-apparatus-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "harbor",
+      "style": "S01-clean-geometric",
+      "title": "Fixed Open-Front Stepped Prism and Lamp Apparatus",
+      "description": "One newly authored complete static lighthouse-optic-style display apparatus, separate from any building. A whole grounded stepped pedestal and four rising struts support two complete open carrier rings with four slender posts. Three full circular rimmed lens-style panels have continuous rear faces and actual concentric stepped front relief; two continuous rear half-annular prism-style bands have real stepped faces, inner walls and exposed cut ends. The entire front is intentionally left open in a fixed cutaway arrangement to show an independently supported complete inert central lamp body and cap. This is not the old lighthouse lantern room extracted or enlarged: that earlier building contains only an ordinary solid small lamp, not this surrounding stepped-panel and prism-band assembly. Nor is it the film-history lantern with a box chamber, chimney, crossing slide and long forward lens barrel. All visible geometry newly authored, with no old lamp, enclosure or camera mesh imported. Four opaque constant untextured PBR materials; the pale lens-like surfaces do not transmit or refract. One complete prop zero scenes, metres Z up and horizontal-bounds-centred finite ground datum. Artistic static cutaway only: no historical/optical prescription accuracy, Fresnel performance, focusing, light output, emission, rotation, navigation, electrical power, fuel, heat, installation, structural rating or maritime safety capability. Rigging animation and interaction not made.",
+      "bounds": {
+        "x": 1.76,
+        "y": 1.64,
+        "z": 2.72,
+        "unit": "m"
+      },
+      "triangles": 6252,
+      "materials": 4,
+      "files": {
+        "glb": {
+          "path": "assets/harbor/harbor-fixed-open-front-stepped-prism-and-lamp-apparatus-01/v1.0.0/model.glb",
+          "size": 326548,
+          "sha256": "1ff1a98bb7a4b319b2f85822cea081a8ee038aeee17d94fe80df161d6b489be3"
+        },
+        "blend": {
+          "path": "assets/harbor/harbor-fixed-open-front-stepped-prism-and-lamp-apparatus-01/v1.0.0/source.blend",
+          "size": 966188,
+          "sha256": "aedabffdcadc6fce2221748b0b00a76395d67252425db578eff5e5973c18ced7"
+        },
+        "generator": {
+          "path": "assets/harbor/harbor-fixed-open-front-stepped-prism-and-lamp-apparatus-01/v1.0.0/generate.py",
+          "size": 27973,
+          "sha256": "e7a622af0392d3f3e5209ef406a7abc4ef7b56b64d1733eeae8731502b25e475"
+        },
+        "render": {
+          "path": "assets/harbor/harbor-fixed-open-front-stepped-prism-and-lamp-apparatus-01/v1.0.0/thumbnail.png",
+          "size": 589400,
+          "sha256": "aea8c91c78dfa88918048cab774dd8a876c348107bb59c1979cebab97710d2e2"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1285-volume02-20261025"
+    },
+    {
+      "id": "logistics-fixed-inward-groove-arch-and-split-table-banding-unit-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "logistics",
+      "style": "source-preserved-low-poly",
+      "title": "Fixed Inward Groove Arch and Split Table Banding Unit",
+      "description": "One newly authored complete fixed arch-strapping-table-style exterior. A full low rectangular cabinet on four broad feet supports two distinct empty tabletop halves separated by one real narrow transverse centre slot. One complete thin-depth tall U arch rises from both side roots, with continuous thick outer webs and front/rear inner lips defining a visible inward-facing groove along both uprights and the top span. A full side-mounted opaque annular supply-band roll sits between two entire bored retaining flanges on one continuous shaft and rooted mount. A small closed lower transition cover and blank front controls belong to the same cabinet. Unlike the old pallet stretch wrapper there is no floor turntable/tall side mast/vertical travelling roll, and unlike the baggage unit there is no deep tunnel, long belt or extended conveyor legs. The thin channel arch, table-slot relationship and side spool are newly authored together, not old parts assembled or resized. One whole model zero scenes; three opaque solid PBR roles. Empty static exterior only, no package or routed band, true multiple layers, feed circuit, tension, sealing, cutting, motor, movement, load, operating instruction or packaging/safety capability. Rigging animation interaction not made.",
+      "bounds": {
+        "x": 1.5549999475479126,
+        "y": 0.8600000143051147,
+        "z": 1.7000000476837158,
+        "unit": "m"
+      },
+      "triangles": 1752,
+      "materials": 3,
+      "files": {
+        "glb": {
+          "path": "assets/logistics/logistics-fixed-inward-groove-arch-and-split-table-banding-unit-01/v1.0.0/model.glb",
+          "size": 161284,
+          "sha256": "0b574bf2767848fa9bd1857c1a92ac38a00ece8232038dd00fa193840829fba6"
+        },
+        "blend": {
+          "path": "assets/logistics/logistics-fixed-inward-groove-arch-and-split-table-banding-unit-01/v1.0.0/source.blend",
+          "size": 823008,
+          "sha256": "b4c6da60f4563eb216dc3d9292019de6de90acfdf626721548985cc7b33a77f4"
+        },
+        "generator": {
+          "path": "assets/logistics/logistics-fixed-inward-groove-arch-and-split-table-banding-unit-01/v1.0.0/generate.py",
+          "size": 16587,
+          "sha256": "97861fb3969b1c65e28c8b7714d832d9a8307d683bdf2e03313f9c03267ffda8"
+        },
+        "render": {
+          "path": "assets/logistics/logistics-fixed-inward-groove-arch-and-split-table-banding-unit-01/v1.0.0/thumbnail.png",
+          "size": 480424,
+          "sha256": "0913f811afd63ab82bc5b0d52d454a820462920cc691ad3dea203cc0c62c31df"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1285-volume02-20261025"
+    },
+    {
+      "id": "photography-whole-rear-projector-and-open-centre-viewing-bay-scene-01",
+      "version": "1.0.0",
+      "category": "scenes",
+      "assetKind": "scene",
+      "theme": "photography",
+      "style": "source-preserved-low-poly",
+      "title": "Whole Rear Projector and Open Centre Viewing Bay",
+      "description": "One static slide-viewing preparation bay, one scene and zero new independent models. Five complete qualified originals at unchanged unit scale form four unique asset identities: an entire tripod roll screen stands at the front, a full tray projector stand occupies a separate rear operator position carrying the entire radial-slot carousel projector on both actual complete feet, and two full return-frame chairs sit to either side of the open longitudinal centre. The projector and both chairs turn as entire instances to face the screen. A single new scene-only floor carries all ground soles. Unlike the old four-desk classroom this has no teaching desk rows or lectern; unlike the elevated indoor performance stage it has no raised stage, stairs, instruments or front performer area. The complete rear loaded projector stand sits behind the separated viewing seats and the centre remains unoccupied toward the freestanding screen. Every original vertex/normal/index payload, full opaque PBR and internal hierarchy is retained under whole-instance rigid transforms only. No parts extracted, rescaled, recoloured or counted as new models. Static blank unlit equipment arrangement only: no projection, optics, sightline certification, seating suitability, access standard, electrical linkage, load, installation or safety capability. Rigging, animation and interaction not made.",
+      "bounds": {
+        "x": 2.5999999046325684,
+        "y": 3.4000000953674316,
+        "z": 2.0220000743865967,
+        "unit": "m"
+      },
+      "triangles": 4228,
+      "materials": 20,
+      "files": {
+        "glb": {
+          "path": "assets/photography/photography-whole-rear-projector-and-open-centre-viewing-bay-scene-01/v1.0.0/model.glb",
+          "size": 246480,
+          "sha256": "b292b504646b6d49d8efca2bbc3ccd4eb07848db9fa75ccbe98a9469ab069458"
+        },
+        "blend": {
+          "path": "assets/photography/photography-whole-rear-projector-and-open-centre-viewing-bay-scene-01/v1.0.0/source.blend",
+          "size": 1685244,
+          "sha256": "a56c32618545fc6473f0e4250b96dd2c877ef4865859922a6b08821096f1290c"
+        },
+        "generator": {
+          "path": "assets/photography/photography-whole-rear-projector-and-open-centre-viewing-bay-scene-01/v1.0.0/generate.py",
+          "size": 111334,
+          "sha256": "f063d7ac4e4149ce6c1fa355bd50ec6c37bc440307c8e0883ae2e6aebc450fc0"
+        },
+        "render": {
+          "path": "assets/photography/photography-whole-rear-projector-and-open-centre-viewing-bay-scene-01/v1.0.0/thumbnail.png",
+          "size": 505727,
+          "sha256": "930bb57635add05a100c69f663362ad096f0fe111fe37fe0d01dfe3afe4ed043"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1285-volume02-20261025"
+    },
+    {
+      "id": "village-static-trestle-cabin-and-four-lattice-sail-mill-01",
+      "version": "1.0.0",
+      "category": "architecture",
+      "assetKind": "prop",
+      "theme": "village",
+      "style": "S01-clean-geometric",
+      "title": "Static Trestle Cabin and Four Lattice Sail Mill",
+      "description": "One wholly newly authored complete fixed timber sail-mill exterior. Two crossed ground shoes and four diagonal braces surround a thick central fixed post supporting a whole raised wooden cabin, real open wall windows and rear entry, full floor and thick gabled cap. A full horizontal windshaft projects from the cabin into a distinct front hub with four long complete lattice sails, each with real empty rung apertures. Behind are one full small entry platform, six fixed treads with complete side stringers and a separate long tail beam ending on a ground foot. Unlike the old small tubular wind-turbine mast with three solid propeller blades or a tapered lighthouse with a lantern gallery, this is a raised post-and-trestle millhouse with an open-grid sail assembly and rear access/tail relation. Every numeric body, aperture and sail frame newly drawn; no old lighthouse, rotor, cabin or stairs mesh imported. Three opaque constant PBR materials, metres Z-up and full horizontal bounds-centred ground origin. One complete static building prop zero scenes. Stylized post-mill-inspired exterior only, no internal milling machinery, exact historic reconstruction, wind capture, rotation, grinding, transmission, human access, structural load, construction or equipment safety capability. Rigging animation interaction not made.",
+      "bounds": {
+        "x": 3.516018202173475,
+        "y": 3.4299999999999997,
+        "z": 4.148009101086737,
+        "unit": "m"
+      },
+      "triangles": 1056,
+      "materials": 3,
+      "files": {
+        "glb": {
+          "path": "assets/village/village-static-trestle-cabin-and-four-lattice-sail-mill-01/v1.0.0/model.glb",
+          "size": 84516,
+          "sha256": "a27eebe0c29d720150ea99b2d016ebb7ad7d34aaf05f56e452000b46f84ef340"
+        },
+        "blend": {
+          "path": "assets/village/village-static-trestle-cabin-and-four-lattice-sail-mill-01/v1.0.0/source.blend",
+          "size": 860368,
+          "sha256": "8f725983acd22cc32fe220ef3949e80f99e805ce9b43664ae51ee5a59ca9516f"
+        },
+        "generator": {
+          "path": "assets/village/village-static-trestle-cabin-and-four-lattice-sail-mill-01/v1.0.0/generate.py",
+          "size": 13176,
+          "sha256": "f669fc183bd378d608dd487cbaed9623c402ee8ad092dff931c1039958a38ca0"
+        },
+        "render": {
+          "path": "assets/village/village-static-trestle-cabin-and-four-lattice-sail-mill-01/v1.0.0/thumbnail.png",
+          "size": 472107,
+          "sha256": "76f0ceb9157bfe1073db217c7682e737bd34c6c576ab74f48bd69fb1902189d2"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1285-volume02-20261025"
     }
   ]
 }
