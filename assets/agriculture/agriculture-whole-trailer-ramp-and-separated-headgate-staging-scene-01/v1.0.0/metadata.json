@@ -1,0 +1,42 @@
+{
+  "id": "agriculture-whole-trailer-ramp-and-separated-headgate-staging-scene-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "agriculture",
+  "style": "source-preserved-faceted-natural-ecology",
+  "title": "Whole Trailer Ramp and Separated Headgate Staging",
+  "description": "One static empty livestock-equipment staging scene, zero new reusable models. One entire qualified high-arched tandem-wheel trailer with four real side apertures, two empty longitudinal bays and its complete lowered rear ramp stands on a single finite common ground. A separate entire qualified open longitudinal headgate frame is aligned beyond the ramp low end, retaining both portal ends, waist-shaped front gate, all side rails, kickboards and skids. A visible unoccupied ground interval separates the ramp and gate: they are not attached, inserted into one another or scaled to imply compatibility. Unlike the earlier side-by-side gate and milker bay, this shows a longitudinal ramp-to-ground-to-independent-frame sequence, with open side margins and no trolley, animal, person or filler objects. All complete original oriented triangles and constant opaque per-face PBR retained with float32 whole translation; hierarchy baked and normals recomputed explicitly. Static exterior display only: no animal fit, loading, towing, restraint, husbandry operation, accessibility, navigation, load or safety claim. No rig or interaction.",
+  "bounds": {
+    "x": 2.799999952,
+    "y": 8.0,
+    "z": 2.325000048,
+    "unit": "m"
+  },
+  "triangles": 2140,
+  "materials": 8,
+  "files": {
+    "glb": {
+      "path": "assets/agriculture/agriculture-whole-trailer-ramp-and-separated-headgate-staging-scene-01/v1.0.0/model.glb",
+      "size": 133372,
+      "sha256": "706043149caaffd298a06a264dd28cc11b31377a4f0994676c4d2abf68810929"
+    },
+    "blend": {
+      "path": "assets/agriculture/agriculture-whole-trailer-ramp-and-separated-headgate-staging-scene-01/v1.0.0/source.blend",
+      "size": 1008520,
+      "sha256": "7e6933937afea5cf11e49b3aa2f9c2f54c26160505d9c193e97eec631bee4ffa"
+    },
+    "generator": {
+      "path": "assets/agriculture/agriculture-whole-trailer-ramp-and-separated-headgate-staging-scene-01/v1.0.0/generate.py",
+      "size": 64512,
+      "sha256": "4c6f9dc6822007374748510e20f653a4f019c9f9b17cca8229a9c7d191796a5a"
+    },
+    "render": {
+      "path": "assets/agriculture/agriculture-whole-trailer-ramp-and-separated-headgate-staging-scene-01/v1.0.0/thumbnail.png",
+      "size": 519889,
+      "sha256": "b30f1cc7ecb264fb4d28dd7ef93a5d0f3f4307e6a935223069e2ca438b6f86e8"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
