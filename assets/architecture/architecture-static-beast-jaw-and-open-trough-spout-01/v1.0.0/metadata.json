@@ -1,0 +1,42 @@
+{
+  "id": "architecture-static-beast-jaw-and-open-trough-spout-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "architecture",
+  "style": "S01-clean-geometric",
+  "title": "Static Beast Jaw and Open Trough Spout",
+  "description": "One wholly new stylised carved-beast architectural spout module. A continuous thick U-section material body changes from a broad rear attachment root into an extended low animal jaw; its entire upper trough and front mouth are genuinely open. A short full upper snout bridge crosses only the forward portion, above the lower jaw, leaving a rear open channel into the mouth. Two raised brows with dark stone eyes, two swept ears and two short blunt fang forms belong to the carved head; a complete U-shaped rear collar leaves the channel entrance open rather than capping it. Not a recumbent lion or human statue with a pipe attached, nor the old watering can with a head substituted: no vessel reservoir, overhead carry grip, full animal body or imported sculpture. All visible geometry newly drawn. Three opaque constant PBR roles, metres Z-up, full horizontal-bounds-centred lower-sculpture datum; one uninstalled architecture module zero scenes. Dry decorative game-art only, no host wall or tested mounting, water, drainage capacity, weather resistance, structural cantilever strength, historic monument accuracy, manufacture or safe installation. Fixed overlaps are artistic carved joins, not engineering details. Rigging animation interaction not made.",
+  "bounds": {
+    "x": 0.78,
+    "y": 1.684,
+    "z": 0.76,
+    "unit": "m"
+  },
+  "triangles": 672,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/architecture/architecture-static-beast-jaw-and-open-trough-spout-01/v1.0.0/model.glb",
+      "size": 48348,
+      "sha256": "efef5e9423e5eb807aa178421358b32bcfa324ad02998be462dbb3868bec08b2"
+    },
+    "blend": {
+      "path": "assets/architecture/architecture-static-beast-jaw-and-open-trough-spout-01/v1.0.0/source.blend",
+      "size": 604096,
+      "sha256": "9f294de0e48656d400f9f729b3fa7f360af54e533e02798b2eac0f2656077e8a"
+    },
+    "generator": {
+      "path": "assets/architecture/architecture-static-beast-jaw-and-open-trough-spout-01/v1.0.0/generate.py",
+      "size": 12511,
+      "sha256": "f85da254b02ca893bc8d561126d0ff1010a28b26b6aebb61943debeab6a6cf82"
+    },
+    "render": {
+      "path": "assets/architecture/architecture-static-beast-jaw-and-open-trough-spout-01/v1.0.0/thumbnail.png",
+      "size": 374093,
+      "sha256": "b8b032fbdb07fdbf54f7bee091153efe3b30f8c78f90a7ccaff3f0f090d523d6"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

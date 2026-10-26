@@ -1,0 +1,42 @@
+{
+  "id": "public-service-fixed-side-door-and-stepped-seat-bath-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "public-service",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Side Door and Stepped Seat Bath",
+  "description": "One newly authored complete empty short seated-bath appearance in a fixed open-door pose. One shared-vertex thick shell includes the full lower footwell, a genuinely raised rear seat step, rear and side walls, and a low front doorway through the full wall. A whole matching thick door is fixed outward on two rooted vertical hinges, with an open grip attached to its outside. Four full short grounded feet carry the shell, while a rear rim carries the whole fixed tap and two blank controls. A continuous interior grab bar is rooted into the rear wall. This is not the older elongated rolled-lip clawfoot tub resized or the neck-notched pedestal bowl enlarged: the stepped seat-to-footwell cavity and full low side-entry portal form a new connected boundary. No old model or mesh imported. Four opaque PBR roles, metres Z up, horizontally bounds-centred ground datum, one whole prop zero scenes. Empty static visual art only: no person, water, door sweep, seal or watertightness, usable plumbing, drainage, bathing or medical advice, human fit, accessibility certification, ergonomic suitability, load, installation or safety performance. Rigging animation interaction not made.",
+  "bounds": {
+    "x": 0.9658316070298685,
+    "y": 1.7768395691658463,
+    "z": 1.1775,
+    "unit": "m"
+  },
+  "triangles": 736,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/public-service/public-service-fixed-side-door-and-stepped-seat-bath-01/v1.0.0/model.glb",
+      "size": 40432,
+      "sha256": "dc22491cb894a13bd6dcf6c24e1779109c39d5daf0e04a13cc3f0c5521b0671e"
+    },
+    "blend": {
+      "path": "assets/public-service/public-service-fixed-side-door-and-stepped-seat-bath-01/v1.0.0/source.blend",
+      "size": 663348,
+      "sha256": "70160863f4aaccdfb2b8bad46a2b0c57cb63c443d9b0e0df0ba3c57a3bc6b592"
+    },
+    "generator": {
+      "path": "assets/public-service/public-service-fixed-side-door-and-stepped-seat-bath-01/v1.0.0/generate.py",
+      "size": 12391,
+      "sha256": "0b51a92ed5b0b97877a66c66983c5677732d6a56f7c740ac07b077290de0faf3"
+    },
+    "render": {
+      "path": "assets/public-service/public-service-fixed-side-door-and-stepped-seat-bath-01/v1.0.0/thumbnail.png",
+      "size": 471707,
+      "sha256": "331c04ebeec39eca9661574ac6440704bfb21ece79b478e128b07b891655bdca"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

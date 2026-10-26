@@ -1,0 +1,42 @@
+{
+  "id": "animal-static-deep-triangular-bill-compact-puffin-01",
+  "version": "1.0.0",
+  "category": "modular",
+  "assetKind": "prop",
+  "theme": "animal",
+  "style": "warm-handcrafted-village",
+  "title": "Static Deep Triangular Bill and Compact Puffin",
+  "description": "One newly authored complete stylised puffin-like seabird in a fixed grounded pose. A compact deep-breasted body and very short thick neck continue into a comparatively broad rounded head with two full pale cheek volumes. The bill is a deep short side-flattened triangular solid, not a long toucan keel or a shallow broad penguin wedge. Two short fully folded side wings, a small low rear tail, two short legs and two broad scalloped web-shaped feet complete the whole. All body, high bill profile, cheek, wing and foot geometry newly drawn; no old penguin or toucan parts imported, recolored or rescaled. One static model zero scenes. Coarse exterior artwork only, no exact species, anatomical scale, feeding, swimming, flying, gait, feather mechanics, animal care, safety, rig, animation or interaction claim.",
+  "bounds": {
+    "x": 0.74000001,
+    "y": 1.460000038,
+    "z": 1.399999976,
+    "unit": "m"
+  },
+  "triangles": 1724,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/animal/animal-static-deep-triangular-bill-compact-puffin-01/v1.0.0/model.glb",
+      "size": 96552,
+      "sha256": "a388d9ea5b045284d3bbce2d7cf3760f8d1651a9733619608b738fc08b72c927"
+    },
+    "blend": {
+      "path": "assets/animal/animal-static-deep-triangular-bill-compact-puffin-01/v1.0.0/source.blend",
+      "size": 640768,
+      "sha256": "8d7dfbace676b816451fa88740549f04a6e18f21180514deb9c66536bdb3ab72"
+    },
+    "generator": {
+      "path": "assets/animal/animal-static-deep-triangular-bill-compact-puffin-01/v1.0.0/generate.py",
+      "size": 30552,
+      "sha256": "64fc78d69815cd9e653bf6f92f12e9b714581492dc1d6311a325b384cbbb2a2a"
+    },
+    "render": {
+      "path": "assets/animal/animal-static-deep-triangular-bill-compact-puffin-01/v1.0.0/thumbnail.png",
+      "size": 506900,
+      "sha256": "cf6d0377192c19334ab2810b5f29ad4fab7bdecff29ceba2111520ebb3b91542"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

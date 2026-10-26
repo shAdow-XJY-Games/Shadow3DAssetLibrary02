@@ -1,0 +1,42 @@
+{
+  "id": "professional-fixed-wheeled-open-c-arc-and-opposed-head-unit-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "professional",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Wheeled Open C Arc and Opposed Head Unit",
+  "description": "One newly authored complete wheeled C-arm-style static equipment exterior. A continuous low forked four-wheel base carries one shaped rear column and a fixed front carriage. A single thick 240-degree curved C member has actual curved inner and outer walls, closed end faces and a completely absent forward sector. Its upper end carries a full broad blank panel housing and its lower end a full rounded housing, with their opaque inward faces opposed across a genuinely open field. A short side arm carries a small blank opaque control-monitor exterior. No imported old housing, patient bed, service-ring mesh or extracted mechanical subsystem. The entire new organisation differs from a closed deep through-ring scanner and long independent bed, and from two trunnion posts carrying a complete service ring with inward jaws. One complete prop zero scenes, four constant opaque PBR materials, metres Z up, horizontally centred overall bounds and actual four-wheel sole datum. Empty static visual prop only. No patient, radiation, medical image, diagnostic or therapeutic capability, imaging geometry, electrical circuit, sensor operation, mobility, clinical fit, safety, load, manufacturing or engineering performance. Rigging, animation and interaction not made or verified.",
+  "bounds": {
+    "x": 1.42,
+    "y": 2.03,
+    "z": 2.23,
+    "unit": "m"
+  },
+  "triangles": 1860,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/professional/professional-fixed-wheeled-open-c-arc-and-opposed-head-unit-01/v1.0.0/model.glb",
+      "size": 94780,
+      "sha256": "d9c760276e7f36a91d9863f093830fab0bdb247b49241c55d3e62f9adf168946"
+    },
+    "blend": {
+      "path": "assets/professional/professional-fixed-wheeled-open-c-arc-and-opposed-head-unit-01/v1.0.0/source.blend",
+      "size": 733160,
+      "sha256": "0fa7eeb27713f573989e27727551135fdd6d60abaa701fdadbea250136a8eee4"
+    },
+    "generator": {
+      "path": "assets/professional/professional-fixed-wheeled-open-c-arc-and-opposed-head-unit-01/v1.0.0/generate.py",
+      "size": 27305,
+      "sha256": "c0943b5d03f02569d06c383eb4eb85a66eb68d7a9cb2c4150f09dd432d618289"
+    },
+    "render": {
+      "path": "assets/professional/professional-fixed-wheeled-open-c-arc-and-opposed-head-unit-01/v1.0.0/thumbnail.png",
+      "size": 552414,
+      "sha256": "556fce394640be9d89027446172fe6559da6af28a2c27d434f691f427efdc77d"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
