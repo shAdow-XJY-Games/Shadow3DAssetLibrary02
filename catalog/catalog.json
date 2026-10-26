@@ -1634,6 +1634,11 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary02",
       "commit": "243b3f0088f29227528318ebd63fa67811f7f1a5"
+    },
+    "original-qualified-batch-1294-volume02-20261025": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary02",
+      "commit": "249a465e2ae25106343a2c8d9b55af386c23235a"
     }
   },
   "assets": [
@@ -57235,6 +57240,49 @@
       "status": "verified",
       "license": "All rights reserved",
       "sourceId": "original-qualified-batch-1293-volume02-20261025"
+    },
+    {
+      "id": "office-fixed-twin-hook-rail-and-open-comb-binding-unit-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "office",
+      "style": "source-preserved-low-poly",
+      "title": "Fixed Twin Hook Rail and Open Comb Binding Unit",
+      "description": "One newly authored complete fixed desktop comb-binding-device appearance. A full low sheet bed on four feet enters a genuine wide shallow rear slot beneath the complete high machine case. A side pivot carries one entire raised long lever and end grip. On top two complete opposing hooked finger rails border a real narrow opening station; a single connected thick C-section comb has thirteen full curved fingers and one continuous common spine. Its genuine longitudinal finger gaps and C mouths remain open. The complete top comb-opening relation plus separate lower sheet-entry station is newly authored, not the old twin-hole palm punch widened or a knitting bed with its travelling carriage removed. No old geometry imported. Three opaque solid PBR roles, one model zero scenes, no paper or separately counted comb asset. Internal punches and linkages are not modeled. Fixed static appearance only: no punching, comb expansion, binding, feed, hinge travel, paper compatibility, capacity, hand clearance, force, operation or safety capability. Rigging animation interaction not made.",
+      "bounds": {
+        "x": 0.47200000286102295,
+        "y": 0.32499998807907104,
+        "z": 0.34929800033569336,
+        "unit": "m"
+      },
+      "triangles": 5356,
+      "materials": 3,
+      "files": {
+        "glb": {
+          "path": "assets/office/office-fixed-twin-hook-rail-and-open-comb-binding-unit-01/v1.0.0/model.glb",
+          "size": 459504,
+          "sha256": "e16ac877e5bd531627e01375fafbca39b08e5f5b8d6474ffb4dde2ea237232be"
+        },
+        "blend": {
+          "path": "assets/office/office-fixed-twin-hook-rail-and-open-comb-binding-unit-01/v1.0.0/source.blend",
+          "size": 1193728,
+          "sha256": "7f1852756bad5692954414cfb0d2cf1c83291e5beb0c91b4e2ec220f22d91404"
+        },
+        "generator": {
+          "path": "assets/office/office-fixed-twin-hook-rail-and-open-comb-binding-unit-01/v1.0.0/generate.py",
+          "size": 16559,
+          "sha256": "5fe1c62303f001ad428a2a07316ee1e9738102c5b2106f71b0204ab637996319"
+        },
+        "render": {
+          "path": "assets/office/office-fixed-twin-hook-rail-and-open-comb-binding-unit-01/v1.0.0/thumbnail.png",
+          "size": 494494,
+          "sha256": "9a2367f02866cf349a7ac509242f07502115d1ba7ecb7e0cd1cac03f72d7eb15"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1294-volume02-20261025"
     }
   ]
 }
