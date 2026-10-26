@@ -1989,6 +1989,11 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary02",
       "commit": "d8ca980f040c41f285017098a7e6edd7e468425e"
+    },
+    "original-qualified-batch-1500-volume02-20261025": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary02",
+      "commit": "0b5780aeedf6080e5611d066afc72aa1576633cb"
     }
   },
   "assets": [
@@ -66448,6 +66453,49 @@
       "status": "verified",
       "license": "All rights reserved",
       "sourceId": "original-qualified-batch-1499-volume02-20261025"
+    },
+    {
+      "id": "postal-whole-empty-platform-scale-and-handtruck-staging-bay-scene-01",
+      "version": "1.0.0",
+      "category": "scenes",
+      "assetKind": "scene",
+      "theme": "postal",
+      "style": "source-preserved-low-poly",
+      "title": "Whole Empty Platform Scale and Handtruck Staging Bay",
+      "description": "One empty postal floor-scale and handling-equipment preparation bay, one scene zero new independent models. The whole original low-platform mechanical beam-scale exterior stands at front-left with its entire ground frame, broad empty platform, rear column, unequal-arm beam, bored poise and link appearances preserved. One complete upright two-wheel parcel handtruck is parked separately at front-right with its original grounded toe plate, bent frame, grip and wheels unchanged. Behind the right station stands one full empty six-cell sorting cabinet with all shelves, backs, dividers, legs and feet. Their distinct floor stations leave the scale platform front and handtruck toe clear of any load, and the cabinet face remains separated from the parked truck. No parcels or material are transferred. This is an empty low-platform handling/staging bay rather than the existing letter-tray/satchel sorting table room or tabletop electronic-scale desk with pickup locker. Every complete original GLB buffer, normal, PBR dictionary and internal node transform is preserved at unit scale. Only a finite low scene floor is new. Old scale metadata family is retained in its original provenance and no old component is relabelled as a new model. No weighing, calibration, load, transport, sorting service, door motion, ergonomic fit, accessibility, installation or public-safety capability. Rigging animation interaction not made.",
+      "bounds": {
+        "x": 3.0,
+        "y": 2.4000000953674316,
+        "z": 1.3299999237060547,
+        "unit": "m"
+      },
+      "triangles": 2236,
+      "materials": 12,
+      "files": {
+        "glb": {
+          "path": "assets/postal/postal-whole-empty-platform-scale-and-handtruck-staging-bay-scene-01/v1.0.0/model.glb",
+          "size": 198532,
+          "sha256": "65ca07a1e41f42ba763f73fc6002648122d766c958e717411c43fc639b200aa5"
+        },
+        "blend": {
+          "path": "assets/postal/postal-whole-empty-platform-scale-and-handtruck-staging-bay-scene-01/v1.0.0/source.blend",
+          "size": 1224584,
+          "sha256": "b8a3a61a13b38b34a8c4369c599c8d2439831e9b67dbfe182b40b92775fa4181"
+        },
+        "generator": {
+          "path": "assets/postal/postal-whole-empty-platform-scale-and-handtruck-staging-bay-scene-01/v1.0.0/generate.py",
+          "size": 83422,
+          "sha256": "c00b50ab2a59bbd00bc06b4a1afb66ecda75d708b5ea27f078ddc09844489254"
+        },
+        "render": {
+          "path": "assets/postal/postal-whole-empty-platform-scale-and-handtruck-staging-bay-scene-01/v1.0.0/thumbnail.png",
+          "size": 507443,
+          "sha256": "96abaf8baabcf9f8730ef63e1783417cf1b5b537f6c3fd70aac0c4502f296d72"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1500-volume02-20261025"
     }
   ]
 }
