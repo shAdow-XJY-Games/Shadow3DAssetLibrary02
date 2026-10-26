@@ -1,0 +1,42 @@
+{
+  "id": "professional-fixed-horizontal-twin-comb-and-loop-grip-trimmer-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "professional",
+  "style": "source-preserved-low-poly",
+  "title": "Fixed Horizontal Twin Comb and Loop Grip Trimmer",
+  "description": "One newly authored complete fixed twin-comb hedge-trimmer-style exterior. A low long axial housing connects an open rear holding frame to a short front gear-case exterior. Ahead of the body, two entire thin horizontal double-sided comb plates extend along one continuous central guide; their thick blunt tines alternate along both long edges and their real notch spaces remain open. The plates are held in one fixed separated pose, rooted at the nose, not an animated cutting mechanism. A whole broad front wrap grip and separate finite shield flank the low housing. Unlike the old portable chain saw there is no vertical side-offset rounded guide plate or continuous closed chain band; unlike the old reciprocating saw there is no single upright narrow strip through a tall work-contact shoe. All body, handles, shield, guide and full comb plates are newly authored together, without old tool meshes. Three opaque constant PBR roles, metres Z up and complete centred ground datum on a rear heel and front resting pad. One whole prop zero scenes. No sharp edge, plants, motor, battery internals, power cable, blade travel, cutting or trimming ability, protective performance, hand fit, manufacturing or operating safety. Rigging animation interaction not made.",
+  "bounds": {
+    "x": 0.20999999344348907,
+    "y": 0.9679999947547913,
+    "z": 0.22100000083446503,
+    "unit": "m"
+  },
+  "triangles": 1452,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/professional/professional-fixed-horizontal-twin-comb-and-loop-grip-trimmer-01/v1.0.0/model.glb",
+      "size": 129364,
+      "sha256": "ece5de9f576365946cb58e37000a46afb9980930a1b615eb0124dba6a3e1285e"
+    },
+    "blend": {
+      "path": "assets/professional/professional-fixed-horizontal-twin-comb-and-loop-grip-trimmer-01/v1.0.0/source.blend",
+      "size": 742368,
+      "sha256": "da4b10c8a53541cc0dcb0b6c87ee8ec07ee783d47dcdf93b117e8239fb99f4d8"
+    },
+    "generator": {
+      "path": "assets/professional/professional-fixed-horizontal-twin-comb-and-loop-grip-trimmer-01/v1.0.0/generate.py",
+      "size": 17876,
+      "sha256": "cf5a2ddc5aa6775b425c244bf177e94c93ae5287b839e01e7cbe5a040bcd2406"
+    },
+    "render": {
+      "path": "assets/professional/professional-fixed-horizontal-twin-comb-and-loop-grip-trimmer-01/v1.0.0/thumbnail.png",
+      "size": 521720,
+      "sha256": "2fbb256120f77c27142e43551e44bde601736a2bafd0f3b35deed78a42e678d1"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
