@@ -1649,6 +1649,11 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary02",
       "commit": "8f10abb9e34caaf4343d46c4371747775d33ba85"
+    },
+    "original-qualified-batch-1303-volume02-20261025": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary02",
+      "commit": "8916b1c2cb44bc7ee631a40541188988c6e57273"
     }
   },
   "assets": [
@@ -57551,6 +57556,135 @@
       "status": "verified",
       "license": "All rights reserved",
       "sourceId": "original-qualified-batch-1300-volume02-20261025"
+    },
+    {
+      "id": "education-fixed-wide-displacer-and-offset-power-chamber-display-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "industrial",
+      "style": "source-preserved-low-poly",
+      "title": "Fixed Wide Displacer And Offset Power Chamber Display",
+      "description": "One complete newly authored gamma-layout-inspired dry mechanical teaching cutaway. A broad base carries a wide upright chamber with a large short internal body, a smaller offset upright piston chamber and a separate short connection pipe. An open rear frame supports one horizontal shaft with two differently phased crank arms and independent descending rods; a complete open-spoke flywheel sits outside the frame. Both chamber walls have deliberate front cutaway sectors, finite thick section faces and visible internal clearances. All geometry is newly drawn; no old beam engine or crosshead meshes are imported. One static model, zero scenes, four opaque PBR materials. Simplified appearance only: no heat source, flame, fuel, gases, pressure, thermodynamic cycle, sealing, correct kinematic solution, motion, power, engineering fit or operation/safety capability is asserted.",
+      "bounds": {
+        "x": 0.800000011920929,
+        "y": 0.38999998569488525,
+        "z": 0.8149999976158142,
+        "unit": "m"
+      },
+      "triangles": 2736,
+      "materials": 4,
+      "files": {
+        "glb": {
+          "path": "assets/industrial/education-fixed-wide-displacer-and-offset-power-chamber-display-01/v1.0.0/model.glb",
+          "size": 254052,
+          "sha256": "a4b61736b76fb933950846d271edde88a9dc7e9ac99f605707b2b97f59679d1e"
+        },
+        "blend": {
+          "path": "assets/industrial/education-fixed-wide-displacer-and-offset-power-chamber-display-01/v1.0.0/source.blend",
+          "size": 1017536,
+          "sha256": "7289cf453ee01acf5e67a574ddca68d9033f6a849b9a2d962fa7186c42388fac"
+        },
+        "generator": {
+          "path": "assets/industrial/education-fixed-wide-displacer-and-offset-power-chamber-display-01/v1.0.0/generate.py",
+          "size": 18292,
+          "sha256": "759d0394bf516b23c7a486759a0a881b1ffcd76be690ecf048683e5aafd9cc25"
+        },
+        "render": {
+          "path": "assets/industrial/education-fixed-wide-displacer-and-offset-power-chamber-display-01/v1.0.0/thumbnail.png",
+          "size": 537357,
+          "sha256": "32c976debc5f6b9b9d8d9103cf932de615b4291ea087005d302287f099ebf7af"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1303-volume02-20261025"
+    },
+    {
+      "id": "professional-fixed-forked-stock-and-slotted-bevel-rule-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "professional",
+      "style": "source-preserved-low-poly",
+      "title": "Fixed Forked Stock and Slotted Bevel Rule",
+      "description": "One newly authored complete fixed sliding-bevel-style exterior. One long thick stock contains two continuous cheeks joined by a full rear bridge, leaving a genuine long side-open blade recess. A separate entire blunt long blade has a true closed longitudinal through-slot and is held in a fixed oblique open pose on one complete transverse pivot. A thick washer and whole two-wing retaining cap join the pivot above the stock. The fixed shaft intentionally occupies a short part of the blade slot, not an empty assembled bore. This end-pivoted slotted blade inside a forked hand stock is newly authored, not the old 90/45 combination-square stock with its straight transverse sliding rule turned, and not the old two-ended sighting rule above a circular astrolabe. All geometry original, three opaque solid PBR roles, one model zero scenes. No calibrated ticks, blade sharpness, angle reading, sliding or rotation travel, locking force, hand fit, operation or safety capability. Rigging animation interaction not made.",
+      "bounds": {
+        "x": 0.2288748174905777,
+        "y": 0.30827629566192627,
+        "z": 0.04899999871850014,
+        "unit": "m"
+      },
+      "triangles": 572,
+      "materials": 3,
+      "files": {
+        "glb": {
+          "path": "assets/professional/professional-fixed-forked-stock-and-slotted-bevel-rule-01/v1.0.0/model.glb",
+          "size": 52484,
+          "sha256": "5a9a0a103713eb356496ba5661b078d01c5422afcbfbbf82e1c6862afb456188"
+        },
+        "blend": {
+          "path": "assets/professional/professional-fixed-forked-stock-and-slotted-bevel-rule-01/v1.0.0/source.blend",
+          "size": 620288,
+          "sha256": "1b06875bd99da9d08a4627875c51d29ec0494f5e424173fe4dbbbd6e7e3c98b4"
+        },
+        "generator": {
+          "path": "assets/professional/professional-fixed-forked-stock-and-slotted-bevel-rule-01/v1.0.0/generate.py",
+          "size": 15436,
+          "sha256": "0b9da2abdba7ba3eb39d30628eb9a887a3df51ba4628ba6358fbd523e1c49544"
+        },
+        "render": {
+          "path": "assets/professional/professional-fixed-forked-stock-and-slotted-bevel-rule-01/v1.0.0/thumbnail.png",
+          "size": 460823,
+          "sha256": "4273802759608da4fec4267db51c4bdeb08ed29729acfd82f206e0c8748b5caa"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1303-volume02-20261025"
+    },
+    {
+      "id": "steam-workshop-fixed-cutaway-housing-and-bored-ball-valve-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "steam-workshop",
+      "style": "S01-clean-geometric",
+      "title": "Fixed Cutaway Housing and Bored Ball Valve",
+      "description": "One complete newly authored fixed cutaway ball-valve-inspired display. Two opposite full open annular connectors and raised seats flank an entire spherical closure with a real straight through-bore. A thick continuous three-quarter shell remains around the ball; its deliberately absent upper-side quadrant and finite cut walls expose the spherical body rather than hiding it behind a solid casing. The ball has a complete upright stem, whole upper neck collar and full lateral lever with thick grip. Two low finite connector supports attach the whole assembly to one grounded display bed. Not the old bulbous inline exterior with its internals absent, nor a thin wafer with a flat tilted disc: the new whole relation is a deep bored sphere inside a sectioned body and two annular end seats. All numeric geometry new, no old visible mesh imported. Three opaque constant PBR roles, metres Z-up and full horizontal-bounds-centred ground origin; one whole static model zero scenes. Fixed simplified teaching-art appearance only, not a manufactured cross-section or exact valve design. No validated seat contact, seal, pressure, fluid continuity, flow, lever movement, rotation, torque, working thread, installation compatibility, actuation, engineering or safety capability. Rigging animation interaction not made.",
+      "bounds": {
+        "x": 1.04,
+        "y": 1.3,
+        "z": 1.12,
+        "unit": "m"
+      },
+      "triangles": 3088,
+      "materials": 3,
+      "files": {
+        "glb": {
+          "path": "assets/steam-workshop/steam-workshop-fixed-cutaway-housing-and-bored-ball-valve-01/v1.0.0/model.glb",
+          "size": 150820,
+          "sha256": "1b2a115d5e62230480ce94c0726d7371268edcadb01b1c685d0fe047ba941744"
+        },
+        "blend": {
+          "path": "assets/steam-workshop/steam-workshop-fixed-cutaway-housing-and-bored-ball-valve-01/v1.0.0/source.blend",
+          "size": 748252,
+          "sha256": "d628267d05e4b06b035f6e84bafcb97c0a0ec30cfaab030948cd0aee2de51605"
+        },
+        "generator": {
+          "path": "assets/steam-workshop/steam-workshop-fixed-cutaway-housing-and-bored-ball-valve-01/v1.0.0/generate.py",
+          "size": 11985,
+          "sha256": "866dac2cddb9e440135203b5026309928ae0b2c304d22caa5d4180ef0a5da6ee"
+        },
+        "render": {
+          "path": "assets/steam-workshop/steam-workshop-fixed-cutaway-housing-and-bored-ball-valve-01/v1.0.0/thumbnail.png",
+          "size": 460063,
+          "sha256": "7e56e89053b7e4c06477d8b45daf0f988e20728000a75d3abd235befa099fb32"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1303-volume02-20261025"
     }
   ]
 }
