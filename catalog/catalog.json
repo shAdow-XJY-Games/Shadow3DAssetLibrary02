@@ -1734,6 +1734,11 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary02",
       "commit": "ea95bf350e449040a35838fb5cc89851682c42be"
+    },
+    "original-qualified-batch-1338-volume02-20261025": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary02",
+      "commit": "6a4347851e6248f48a419a6358d33c38d6383088"
     }
   },
   "assets": [
@@ -59141,6 +59146,135 @@
       "status": "verified",
       "license": "All rights reserved",
       "sourceId": "original-qualified-batch-1335-volume02-20261025"
+    },
+    {
+      "id": "architecture-fixed-interleaved-opposed-return-stair-bay-01",
+      "version": "1.0.0",
+      "category": "architecture",
+      "assetKind": "modular",
+      "theme": "architecture",
+      "style": "S01-clean-geometric",
+      "title": "Fixed Interleaved Opposed Return Stair Bay",
+      "description": "One complete newly authored static interleaved-return stair bay. Four whole thin stepped flights occupy two side lanes at two vertical levels within the same four-column frame. An ochre route starts at the front-left, rises rearward to its own rear intermediate landing, then returns forward on the upper right. A blue route starts at the rear-right, rises forward to a separate front intermediate landing, then returns rearward on the upper left. The opposite-end mid-landings never form one common branching landing; same-lane upper and lower flights retain a real three-metre vertical offset and open air beneath their thin sloping undersides. Full upper terminal landings, ground entry bands and complete flight/outer landing rails belong to the same whole module. This is not two copies of the old grounded solid half-turn stair stacked, nor extra upper branches on a shared T landing. All step profiles, thin supports, fixed placements and coordinates newly authored; no old stair mesh imported. Three opaque PBR roles, metres Z-up and full horizontal-bounds-centred grounded entry bands. One architectural model zero scenes. Route colours are only visual guides, not wayfinding signage. No host floors or fire-separating enclosure, human occupancy, walkability, headroom certification, emergency-egress/fire design, building-code/accessibility compliance, load, installation, engineering or safety capability. Rigging, animation and interaction not made or verified.",
+      "bounds": {
+        "x": 2.56,
+        "y": 5.12,
+        "z": 6.955,
+        "unit": "m"
+      },
+      "triangles": 2328,
+      "materials": 3,
+      "files": {
+        "glb": {
+          "path": "assets/architecture/architecture-fixed-interleaved-opposed-return-stair-bay-01/v1.0.0/model.glb",
+          "size": 134520,
+          "sha256": "1688ff099a15dfef946d62e491d6d396c9a171a6cf14340a590ee8b22090f686"
+        },
+        "blend": {
+          "path": "assets/architecture/architecture-fixed-interleaved-opposed-return-stair-bay-01/v1.0.0/source.blend",
+          "size": 966100,
+          "sha256": "bcb5644564d1af258e40889157904142cbad0704598d704984c5a7dbd5ce2170"
+        },
+        "generator": {
+          "path": "assets/architecture/architecture-fixed-interleaved-opposed-return-stair-bay-01/v1.0.0/generate.py",
+          "size": 12585,
+          "sha256": "32f0a2f5179826a43dbb379cab0c65e88c98860674392b6a07519d2a36d02251"
+        },
+        "render": {
+          "path": "assets/architecture/architecture-fixed-interleaved-opposed-return-stair-bay-01/v1.0.0/thumbnail.png",
+          "size": 568969,
+          "sha256": "464d48aba93de5fca45ff31dc99c9df20014ad2149bc656a6c0e3d68a955ca9c"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1338-volume02-20261025"
+    },
+    {
+      "id": "construction-fixed-twin-channel-leader-and-hammer-crawler-rig-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "construction",
+      "style": "S01-clean-geometric",
+      "title": "Fixed Twin Channel Leader and Hammer Crawler Rig",
+      "description": "One wholly newly authored complete dedicated crawler piling-rig-style static exterior. Two full closed tracks and inset rollers support one low connected carrier and long deck, rear machinery case, low rear counterbody and empty forward side cab with real windows. The front holds two entire tall inward-facing C-channel leader posts: two independent cross-carriages physically seat one full long hammer enclosure between them, with a blunt lower end stopping above a genuinely open guide collar. A full open crown fork, transverse axle, grooved sheave and one complete fixed front strand complete the leader head, while two entire long rear braces join that leader to the deck. All visible geometry is newly drawn, not the old inclined triangular lattice-boom dragline with its bucket replaced, and not the two-stamp camshaft, bored guide beams and mortar placed on a vehicle. No old mesh imported or extracted. One prop zero scenes, four constant opaque untextured PBR roles, metres native Z up and centred whole horizontal envelope; both full track bottom facets define the display ground. Empty fixed art exterior only: no pile, engine or hammer internals, impact, pile-driving, lifting cycle, hydraulic system, travel, bearing or guide fit, soil behaviour, construction method, load, stability, manufacturing or safety claim. Rigging animation interaction not made or verified.",
+      "bounds": {
+        "x": 2.32,
+        "y": 3.085,
+        "z": 4.66,
+        "unit": "m"
+      },
+      "triangles": 2728,
+      "materials": 4,
+      "files": {
+        "glb": {
+          "path": "assets/construction/construction-fixed-twin-channel-leader-and-hammer-crawler-rig-01/v1.0.0/model.glb",
+          "size": 136368,
+          "sha256": "9b8bae5510722e39c680dac7e57713d629b4b4f065c6f51e56b292ce61adcd28"
+        },
+        "blend": {
+          "path": "assets/construction/construction-fixed-twin-channel-leader-and-hammer-crawler-rig-01/v1.0.0/source.blend",
+          "size": 816040,
+          "sha256": "4ef9244ffa4cc5a246061c07f49bc92632249321fc01db10502ddcbdd4384be2"
+        },
+        "generator": {
+          "path": "assets/construction/construction-fixed-twin-channel-leader-and-hammer-crawler-rig-01/v1.0.0/generate.py",
+          "size": 29646,
+          "sha256": "2165d46987404093421f4f5c8da2639372c7d3f71e62194af70a58fad5f737d2"
+        },
+        "render": {
+          "path": "assets/construction/construction-fixed-twin-channel-leader-and-hammer-crawler-rig-01/v1.0.0/thumbnail.png",
+          "size": 533352,
+          "sha256": "2d5d9c85a9e1ad3c44d76a121b66e51db00329c3daee9bbadf6e8e1d3b44315a"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1338-volume02-20261025"
+    },
+    {
+      "id": "theatre-fixed-four-screw-platform-and-cutaway-stage-pit-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "theatre",
+      "style": "S01-clean-geometric",
+      "title": "Fixed Four Screw Platform and Cutaway Stage Pit",
+      "description": "One newly authored complete empty stage-pit platform apparatus in a fixed intermediate-height cutaway. A shared thick grounded pit floor and rear/side retaining walls form one continuous material shell, with the front and near-right wall deliberately cut low to expose the interior. Complete fixed stage-edge boards remain over the uncut wall crowns. Four corner steel frames each enclose one entire continuous vertical shaft, a rooted full helical-ridge exterior and a genuine bored carrier sleeve; the four carriers connect by full shoulders to one common open underframe and broad blank intermediate platform. Whole low corner cases, two transverse shafts, a side return shaft and one blank motor-like case share the bottom support structure. No old lift, stage deck or railway turntable mesh imported. Unlike the old crossed-arm platform or centrally pivoted rail bridge, the new apparatus combines four vertical threaded/guide frames around an otherwise open central volume and one shared lowering-well architectural boundary. Four opaque matte concrete, dark frame, satin metal and timber PBR roles, metres Z up, whole horizontal-bounds-centred pit underside datum. One entire static architectural equipment prop zero scenes. The displayed positions and deliberate static material joins do not establish screw engagement, synchronous driving, power transmission, lifting, platform travel, load, human access, orchestra use, egress, structural or construction safety. No people, instruments, active machinery, rigging, animation or interaction.",
+      "bounds": {
+        "x": 4.5200000000000005,
+        "y": 2.66,
+        "z": 2.0549999999999997,
+        "unit": "m"
+      },
+      "triangles": 8588,
+      "materials": 4,
+      "files": {
+        "glb": {
+          "path": "assets/theatre/theatre-fixed-four-screw-platform-and-cutaway-stage-pit-01/v1.0.0/model.glb",
+          "size": 579128,
+          "sha256": "696e0133809818c2baec0acd6625350139dac096b93cd0cf455b5857a2780d96"
+        },
+        "blend": {
+          "path": "assets/theatre/theatre-fixed-four-screw-platform-and-cutaway-stage-pit-01/v1.0.0/source.blend",
+          "size": 1221688,
+          "sha256": "17e57902e23c0195c90cbaa62fd4f95f0ec75174a7e0977f65f831f607aed03a"
+        },
+        "generator": {
+          "path": "assets/theatre/theatre-fixed-four-screw-platform-and-cutaway-stage-pit-01/v1.0.0/generate.py",
+          "size": 12673,
+          "sha256": "78cd83c77399df00c62899b4f88a91ea197b98125a2269a6bf726b46d4f96e57"
+        },
+        "render": {
+          "path": "assets/theatre/theatre-fixed-four-screw-platform-and-cutaway-stage-pit-01/v1.0.0/thumbnail.png",
+          "size": 489230,
+          "sha256": "1ba4d52a23499c2f9b4bf7026b9960dea23f9b3785818252d5106b0d5f2563e2"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1338-volume02-20261025"
     }
   ]
 }
