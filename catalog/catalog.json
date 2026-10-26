@@ -1624,6 +1624,11 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary02",
       "commit": "8c7048cbbd5e32c815cb109155b3ba6d75a293ca"
+    },
+    "original-qualified-batch-1291-volume02-20261025": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary02",
+      "commit": "6d9b7353e7c34a04c11fc05ae9be33382c1147be"
     }
   },
   "assets": [
@@ -56924,6 +56929,221 @@
       "status": "verified",
       "license": "All rights reserved",
       "sourceId": "original-qualified-batch-1286-volume02-20261025"
+    },
+    {
+      "id": "aviation-fixed-cutaway-bypass-cowl-and-core-turbofan-display-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "aviation",
+      "style": "S01-clean-geometric",
+      "title": "Fixed Cutaway Bypass Cowl and Core Turbofan Display",
+      "description": "One newly authored complete static turbofan-style engine display on its own whole ground carrier. A full thick flared front intake annulus surrounds a blunt spinner and eighteen individually whole curved finite-thickness fan blades. Behind it, one much smaller complete stepped core extends into a long thin tail cone, while a separate long tapered thick cowl has a deliberate upper-near cutaway with real inner wall and full cut edges. This leaves a genuine annular gap around the core, crossed only by three fixed rear support struts; full case bands and an independent complete contracting rear nozzle finish the visible core/cowl organisation. Two whole lower crescent saddles and four complete legs root the assembly to a connected ground frame. Unlike the earlier short mine fan with a central motor and front grille, the new assembly has a complete long smaller coaxial core, surrounding bypass space and separate rear outlet/tail relation; unlike the radial-cylinder engine it has no external finned cylinders, heads, pushrod tubes or annular exhaust collector. All geometry new, not a fan housing elongated, repeated stage count or an imported engine mesh. Four opaque constant PBR appearances, metres Z up and horizontal-bounds-centred ground datum. One complete prop zero scenes, no aircraft. Static illustrative cutaway only; solid core internals and no functional compressor, combustion or turbine system. No blade aerodynamic specification, fuel, airflow, thermodynamics, rotation, power, thrust, performance, aircraft fit, manufacture, flight or equipment safety capability. Rigging animation and interaction not made.",
+      "bounds": {
+        "x": 1.99,
+        "y": 3.77,
+        "z": 2.345,
+        "unit": "m"
+      },
+      "triangles": 6288,
+      "materials": 4,
+      "files": {
+        "glb": {
+          "path": "assets/aviation/aviation-fixed-cutaway-bypass-cowl-and-core-turbofan-display-01/v1.0.0/model.glb",
+          "size": 338968,
+          "sha256": "2da740544b0a8dd640e7e6caae6d11053f11461d37d7e93af746edf1156de3a2"
+        },
+        "blend": {
+          "path": "assets/aviation/aviation-fixed-cutaway-bypass-cowl-and-core-turbofan-display-01/v1.0.0/source.blend",
+          "size": 1040972,
+          "sha256": "e5193958c612baf3887f5ab27312f48784d3c2c25dd49242983c42d3bd3b1d65"
+        },
+        "generator": {
+          "path": "assets/aviation/aviation-fixed-cutaway-bypass-cowl-and-core-turbofan-display-01/v1.0.0/generate.py",
+          "size": 28976,
+          "sha256": "7e35048fa1972e0bd875a40277906e0447c60cf293d3234564783df5d6c040ee"
+        },
+        "render": {
+          "path": "assets/aviation/aviation-fixed-cutaway-bypass-cowl-and-core-turbofan-display-01/v1.0.0/thumbnail.png",
+          "size": 551725,
+          "sha256": "5ff9a7858572e6b2cc41b9b604d91fd04ecd7dcb2e226d140bf95d4a053f37ef"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1291-volume02-20261025"
+    },
+    {
+      "id": "carpentry-fixed-rear-pivot-head-and-split-round-table-mitre-saw-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "carpentry",
+      "style": "source-preserved-low-poly",
+      "title": "Fixed Rear Pivot Head and Split Round Table Mitre Saw",
+      "description": "One newly authored complete fixed raised-head mitre-saw-style exterior. A low wide grounded base with lateral support wings carries a circular central platform whose two entire top halves leave a real narrow recessed straight slot. Two full rear fence halves flank that slot. A compact rear upright and true bored paired ears carry one full transverse pin; a short upward-forward head arm connects that pin to the complete transverse motor case, blunt toothless disk, open-bottom upper hood and full raised handle loop. A fixed front adjustment-handle appearance belongs to the circular platform while the high grip belongs to the raised head. Unlike the old radial saw there is no high column, long overhead guide or wraparound sliding carriage, and unlike the hand circular saw there is no movable shoe/grip-only tool: the low platform, rear support/pivot and entire raised head form one newly authored apparatus. All geometry new, no old saw component imported. Three opaque solid PBR roles, one model zero scenes. The platform slot has a finite lower floor, not a through-cut claimed through the entire base. Empty static exterior only, no teeth/sharpened edge, workpiece, cutting, blade or table rotation, travel, angle setting/scale, guard movement, electrical, operation or safety capability. Rigging animation interaction not made.",
+      "bounds": {
+        "x": 0.7639999985694885,
+        "y": 0.6460000276565552,
+        "z": 0.5289999842643738,
+        "unit": "m"
+      },
+      "triangles": 2296,
+      "materials": 3,
+      "files": {
+        "glb": {
+          "path": "assets/carpentry/carpentry-fixed-rear-pivot-head-and-split-round-table-mitre-saw-01/v1.0.0/model.glb",
+          "size": 211840,
+          "sha256": "33df26e6e1eb64898fbf82d01719091af494f92fc196ec8fc9667d902a0bd207"
+        },
+        "blend": {
+          "path": "assets/carpentry/carpentry-fixed-rear-pivot-head-and-split-round-table-mitre-saw-01/v1.0.0/source.blend",
+          "size": 916864,
+          "sha256": "433a68ee8f410b4e3311db37d5cbfb0fdc958ae02de36d90879aa9e760afcd77"
+        },
+        "generator": {
+          "path": "assets/carpentry/carpentry-fixed-rear-pivot-head-and-split-round-table-mitre-saw-01/v1.0.0/generate.py",
+          "size": 17679,
+          "sha256": "beba24d1853793d08f4217f53782c39c5b64b220497644bda7ac1618b96e845f"
+        },
+        "render": {
+          "path": "assets/carpentry/carpentry-fixed-rear-pivot-head-and-split-round-table-mitre-saw-01/v1.0.0/thumbnail.png",
+          "size": 484051,
+          "sha256": "64c1b55a3d210ea41da76a9e642d480260d4ca8fbbce8bd0f220352e13cf5822"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1291-volume02-20261025"
+    },
+    {
+      "id": "entertainment-fixed-cutout-figure-and-three-rod-shadow-puppet-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "entertainment",
+      "style": "S01-clean-geometric",
+      "title": "Fixed Cutout Figure and Three Rod Shadow Puppet",
+      "description": "One newly authored complete fixed shadow-puppet-style display. A single continuous thin but thick-walled profile character has a side-facing crowned head, nose, torso, two legs and real pierced eye and costume openings. Two separate two-segment flat arms overlap at actual rooted transverse joint pins. One complete central holding rod and two full independent hand rods run to a common plain display foot, permanently fixing the portrayed pose. The pierced silhouette, flat arm layers and below-held rods are newly authored; no volumetric wooden marionette, suspension cords, cross-control or book facade imported. Four opaque constant PBR appearances; metres Z up, complete horizontal bounds centred, display sole at zero, one model zero scenes. Generic fictional theatrical art, no identified historical costume or cultural reconstruction. No shadow-projection test, puppeteering, movable linkage, rig, animation, interaction, load or child-safety capability claimed.",
+      "bounds": {
+        "x": 0.47,
+        "y": 0.2,
+        "z": 0.795,
+        "unit": "m"
+      },
+      "triangles": 1140,
+      "materials": 4,
+      "files": {
+        "glb": {
+          "path": "assets/entertainment/entertainment-fixed-cutout-figure-and-three-rod-shadow-puppet-01/v1.0.0/model.glb",
+          "size": 51600,
+          "sha256": "a0d56cacea74e90be4783fbaee1b84d5faed459980211624b60c48f95b0f121d"
+        },
+        "blend": {
+          "path": "assets/entertainment/entertainment-fixed-cutout-figure-and-three-rod-shadow-puppet-01/v1.0.0/source.blend",
+          "size": 685084,
+          "sha256": "71757b54f065523ba51f59c9b8d8761e37682a7a0a1a79e621164ae8b325f5be"
+        },
+        "generator": {
+          "path": "assets/entertainment/entertainment-fixed-cutout-figure-and-three-rod-shadow-puppet-01/v1.0.0/generate.py",
+          "size": 12497,
+          "sha256": "90c048a910a4c1915652346841545095f7629602c6c081b3ead62a0f39f5c80a"
+        },
+        "render": {
+          "path": "assets/entertainment/entertainment-fixed-cutout-figure-and-three-rod-shadow-puppet-01/v1.0.0/thumbnail.png",
+          "size": 330779,
+          "sha256": "fc97fc723d63d66aa370e924da94f3e51127cce50c7bd24e861b2b11ed0d507b"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1291-volume02-20261025"
+    },
+    {
+      "id": "professional-fixed-hand-drum-and-forward-cable-auger-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "professional",
+      "style": "source-preserved-low-poly",
+      "title": "Fixed Hand Drum and Forward Cable Auger",
+      "description": "One newly authored complete static hand-drum drain-auger-style exterior. A full rounded deep horizontal drum body narrows continuously into a forward neck, with an independent complete lower pistol grip rooted in that neck. A true thick blind recessed outlet collar surrounds the short emerging capped flexible cable exterior; the assembly is not described as an unoccupied through bore. At the rear a full short coaxial spindle supports one entire offset crank and a separate projecting shaped crank grip. The large closed drum silhouette, forward narrowed outlet and lower grip are one handheld whole, not the old standing double-flange cable reel with an exposed winding or the open C-frame geared hand drill with a chuck. All numeric geometry newly authored; no old parts imported. Three opaque constant PBR roles, one model zero scenes. Drum interior and hidden mechanism are not modeled. Empty fixed static appearance only: no rotation, feed, drainage, cleaning, spring, pressure, cable compatibility, hand fit, electrical, operation or safety capability. Rigging animation interaction not made.",
+      "bounds": {
+        "x": 0.23800000548362732,
+        "y": 0.5874407887458801,
+        "z": 0.3370000123977661,
+        "unit": "m"
+      },
+      "triangles": 1488,
+      "materials": 3,
+      "files": {
+        "glb": {
+          "path": "assets/professional/professional-fixed-hand-drum-and-forward-cable-auger-01/v1.0.0/model.glb",
+          "size": 131528,
+          "sha256": "0cb465c6e700c2796f33387e654f20ce429ea46e0713aac63dc6a8f3d39d6544"
+        },
+        "blend": {
+          "path": "assets/professional/professional-fixed-hand-drum-and-forward-cable-auger-01/v1.0.0/source.blend",
+          "size": 736992,
+          "sha256": "0179ce0901f97dfcc592dc6eef28fcd4638dae90d13eb4ff672ac00d5f80c1a7"
+        },
+        "generator": {
+          "path": "assets/professional/professional-fixed-hand-drum-and-forward-cable-auger-01/v1.0.0/generate.py",
+          "size": 15505,
+          "sha256": "769be00e6dc16a1bd02486ace1d39293e955b7cc929f18f3f3a86a819b6a9c6e"
+        },
+        "render": {
+          "path": "assets/professional/professional-fixed-hand-drum-and-forward-cable-auger-01/v1.0.0/thumbnail.png",
+          "size": 473442,
+          "sha256": "1b7ce50d4487817ac65f347b6e528d0e9f794598e8fee059ba357266844eb864"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1291-volume02-20261025"
+    },
+    {
+      "id": "transport-static-open-window-cabin-and-bent-carrier-hanger-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "transport",
+      "style": "S01-clean-geometric",
+      "title": "Static Open Window Cabin and Bent Carrier Hanger",
+      "description": "One wholly newly authored complete aerial-cabin-style static exterior. A single chamfered hollow lower pan has a true empty interior, integral floor and shaped skirt. Eight complete narrow pillars leave open unglazed window bays below a full closed faceted roof; two fixed internal low benches remain inside the pan. A whole thick offset bent suspension-hanger appearance roots into the roof and into a complete overhead double-cheek carrier, with two independently axled wheels whose circumferential grooves are real geometry and whose outer retainers are proud. This ground-resting display has no cable, station or external guide. Unlike the old elevated cage within a tall fixed guide tower and forward trough, the cabin carries its own upper bent hanger and travelling-carriage-style exterior; unlike a Ferris-wheel open tub, it has a full roof/window enclosure and no surrounding observation wheel. Every shell, post, hanger and wheel profile newly drawn, no extracted old cabin or wheel. Three opaque constant PBR roles, metres Z-up and complete horizontal bounds-centred ground origin. One whole static transport prop zero scenes. Unglazed windows are intentional open cutaway appearances, not transparent panes. No actual suspension, travel, cable fit, rotation, boarding, human fit, restraint, payload, manufacture, structural or passenger safety capability; rigging animation interaction not made.",
+      "bounds": {
+        "x": 1.5,
+        "y": 1.4649999999999999,
+        "z": 3.025,
+        "unit": "m"
+      },
+      "triangles": 1704,
+      "materials": 3,
+      "files": {
+        "glb": {
+          "path": "assets/transport/transport-static-open-window-cabin-and-bent-carrier-hanger-01/v1.0.0/model.glb",
+          "size": 94792,
+          "sha256": "77179a769f68d3b2d78bacc4442c0559ed42fcb763f7805ec34cb04d55eb3fe3"
+        },
+        "blend": {
+          "path": "assets/transport/transport-static-open-window-cabin-and-bent-carrier-hanger-01/v1.0.0/source.blend",
+          "size": 719828,
+          "sha256": "2c3322f21261550faf72e4eaf85f94e7e28221443c54fdbd987d8024a4b6180a"
+        },
+        "generator": {
+          "path": "assets/transport/transport-static-open-window-cabin-and-bent-carrier-hanger-01/v1.0.0/generate.py",
+          "size": 12291,
+          "sha256": "1eea2d52377c5c89c12d89d7caf8e62b3adc48bb0f2261d586a8d82dd1508ff9"
+        },
+        "render": {
+          "path": "assets/transport/transport-static-open-window-cabin-and-bent-carrier-hanger-01/v1.0.0/thumbnail.png",
+          "size": 443151,
+          "sha256": "12d7439db1cd9ee66015ab9557e94dc786f38fb84f479fc4161a819ff7849b95"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1291-volume02-20261025"
     }
   ]
 }
