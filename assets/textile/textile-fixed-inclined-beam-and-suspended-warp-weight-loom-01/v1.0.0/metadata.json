@@ -1,0 +1,42 @@
+{
+  "id": "textile-fixed-inclined-beam-and-suspended-warp-weight-loom-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "textile",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Inclined Beam and Suspended Warp Weight Loom",
+  "description": "One newly authored complete warp-weighted upright textile loom in a single fixed display pose. Two long finite feet carry inclined full standards and independent rear braces, with a complete upper transverse winding beam and a short folded woven-cloth appearance. Twelve continuous thick warp strands descend from that cloth edge; alternate paths pass in front of a distinct low shed bar, and six complete thick perforated clay-looking weights terminate the paired hanging strands. Each weight has a genuine open upper hole and continuous whole material rim, not a painted circle. Short side brackets hold a separate projecting heddle rod and individual closed elongated heddle loops around the alternate strand lanes. Unlike the old bounded flat loom, there is no lower beam fixing the warp ends: the open lower field and independently hanging weights define the full silhouette and support relation. Unlike the fore-aft treadle loom there are no rear warp drum, floor treadles, twin castle shafts or reed-beater assembly. All coordinates authored for this one complete inclined weighted apparatus, no old frame or cloth meshes copied. Four opaque solid PBR materials, metres Z up, horizontal bounds-centred ground origin. One static cultural-craft prop zero scenes. Generic illustrative construction, no historical reconstruction, working weave, tension equilibrium, weight suspension safety, shed movement, cloth simulation, ergonomics, manufacture or safe use; rigging animation interaction not made.",
+  "bounds": {
+    "x": 1.68,
+    "y": 0.95,
+    "z": 1.9713888490354794,
+    "unit": "m"
+  },
+  "triangles": 2812,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/textile/textile-fixed-inclined-beam-and-suspended-warp-weight-loom-01/v1.0.0/model.glb",
+      "size": 167368,
+      "sha256": "4b333de480d519ddaf2a9a20d2315713839a80ddfda9ea58a4a07c4a577a9829"
+    },
+    "blend": {
+      "path": "assets/textile/textile-fixed-inclined-beam-and-suspended-warp-weight-loom-01/v1.0.0/source.blend",
+      "size": 904840,
+      "sha256": "056d3cf9c25d1d14d8936710759162f97026c074ea5957e98d5452715dbf94d1"
+    },
+    "generator": {
+      "path": "assets/textile/textile-fixed-inclined-beam-and-suspended-warp-weight-loom-01/v1.0.0/generate.py",
+      "size": 12787,
+      "sha256": "b76fc57894f96f7b6fcf23ef409c8c169df5cd25afb309fd24c86dd2c3c9f669"
+    },
+    "render": {
+      "path": "assets/textile/textile-fixed-inclined-beam-and-suspended-warp-weight-loom-01/v1.0.0/thumbnail.png",
+      "size": 484755,
+      "sha256": "64bc6bad177f018ff1269de8ec981c6795ac27e0444656f7a4cab7cf40a4a070"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
