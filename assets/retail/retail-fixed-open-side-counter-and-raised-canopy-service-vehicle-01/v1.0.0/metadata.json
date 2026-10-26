@@ -1,0 +1,42 @@
+{
+  "id": "retail-fixed-open-side-counter-and-raised-canopy-service-vehicle-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "retail",
+  "style": "source-preserved-low-poly",
+  "title": "Fixed Open Side Counter and Raised Canopy Service Vehicle",
+  "description": "One wholly newly authored complete fixed mobile service-vehicle exterior. A full long chassis on four complete flat-tread wheels carries a closed sloped cab with opaque inset-looking panes and a separate genuine deep service chamber. The chamber has a whole floor, back, end bulkheads and roof, but its customer-side wall contains one broad real service opening above a continuous lower sill. A complete proud service counter, one entire fixed-raised sloping canopy with two full rooted braces, and an independently supported interior back worktop belong to the vehicle. The broad side service bay, raised cover/counter and empty internal work surface organize the entire body, unlike the old delivery van rear hinged cargo doorway or the freestanding concave-L canopy stall. All visible coordinates are newly authored; no old cab, chassis, wheel, counter or canopy mesh imported. Three opaque constant untextured PBR roles, metres native Z up and full horizontal envelope centred over actual tyre ground facets. One model zero scenes. Cab is a solid exterior, service chamber genuinely empty; no personnel, appliances, food, fuel, fire, plumbing, signs or logos. Empty static artistic appearance only: no driving, steering, hatch motion, engine, food preparation or serving performance, hygiene, human entry/fit, weather resistance, capacity, load, vehicle construction, installation or safety capability. Rigging animation interaction not made.",
+  "bounds": {
+    "x": 4.800000190734863,
+    "y": 2.4049999713897705,
+    "z": 2.580199956893921,
+    "unit": "m"
+  },
+  "triangles": 1904,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/retail/retail-fixed-open-side-counter-and-raised-canopy-service-vehicle-01/v1.0.0/model.glb",
+      "size": 188828,
+      "sha256": "045cdf6df5a7fcfb1c1102263f11a9f13a2cc4c03eb107074c8bf3569142bcd3"
+    },
+    "blend": {
+      "path": "assets/retail/retail-fixed-open-side-counter-and-raised-canopy-service-vehicle-01/v1.0.0/source.blend",
+      "size": 943520,
+      "sha256": "8e9ae6b224cd5dc4bafcfeb063f3793f0e5380c680d49657d373a2251e3a039f"
+    },
+    "generator": {
+      "path": "assets/retail/retail-fixed-open-side-counter-and-raised-canopy-service-vehicle-01/v1.0.0/generate.py",
+      "size": 18192,
+      "sha256": "2efd4c2f5b2b99188e22609d77a96c3c7632e768ce5fdc79043bc586f2697fe5"
+    },
+    "render": {
+      "path": "assets/retail/retail-fixed-open-side-counter-and-raised-canopy-service-vehicle-01/v1.0.0/thumbnail.png",
+      "size": 504299,
+      "sha256": "e5e0c942004e285c48ff00b8dccb83f215390cb00354cc7e277b55c7eafde46b"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
