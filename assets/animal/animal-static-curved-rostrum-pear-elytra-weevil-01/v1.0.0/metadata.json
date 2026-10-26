@@ -1,0 +1,42 @@
+{
+  "id": "animal-static-curved-rostrum-pear-elytra-weevil-01",
+  "version": "1.0.0",
+  "category": "modular",
+  "assetKind": "prop",
+  "theme": "animal",
+  "style": "warm-handcrafted-village",
+  "title": "Static Curved Rostrum and Pear Elytra Weevil",
+  "description": "One newly authored whole stylised weevil-like insect. A high pear-shaped rear body and two thick domed wing covers with a real centre seam narrow forward through a short thorax and small head into one long downcurving stout rostrum continuous with the body. Two complete elbowed club-tip antennae root on the sides of the rostrum rather than on the forehead; six whole angular walking legs have finite grounded toes and small lateral eyes complete the animal. All body stations, curved muzzle, shell sections and limb paths are new, not a rod nose attached to the old low beetle or an ant with its waist filled. One static whole model, zero scenes. Coarse exterior art only, no exact species, scale, internal anatomy, feeding, pest status, gait, flight, biological function, rig, animation or interaction claim.",
+  "bounds": {
+    "x": 1.531284213,
+    "y": 2.339999914,
+    "z": 0.959999979,
+    "unit": "m"
+  },
+  "triangles": 2004,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/animal/animal-static-curved-rostrum-pear-elytra-weevil-01/v1.0.0/model.glb",
+      "size": 114336,
+      "sha256": "90e7853b091400b324c1062faa8593a0d691bba1a84dec4b534ef77b3c8279db"
+    },
+    "blend": {
+      "path": "assets/animal/animal-static-curved-rostrum-pear-elytra-weevil-01/v1.0.0/source.blend",
+      "size": 651356,
+      "sha256": "d25fed13b4effa95c4720851831d21238481d6a917e7603795dfb61b94dbbe94"
+    },
+    "generator": {
+      "path": "assets/animal/animal-static-curved-rostrum-pear-elytra-weevil-01/v1.0.0/generate.py",
+      "size": 30083,
+      "sha256": "fd18a432ece5993e5cc9f47a6d3ff6f79bb3887195848e2d0b038f23b7edb8ff"
+    },
+    "render": {
+      "path": "assets/animal/animal-static-curved-rostrum-pear-elytra-weevil-01/v1.0.0/thumbnail.png",
+      "size": 491473,
+      "sha256": "fc6d0d0a610e52fe86f7e0b5ccfde23d584f42769122e67ed6fd58697c66d6ef"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
