@@ -1,0 +1,42 @@
+{
+  "id": "agriculture-fixed-front-roller-open-shoe-sod-cutting-frame-01",
+  "version": "1.0.0",
+  "category": "modular",
+  "assetKind": "prop",
+  "theme": "agriculture",
+  "style": "warm-handcrafted-village",
+  "title": "Fixed Front Roller and Open Shoe Sod Cutting Frame",
+  "description": "One newly authored whole hand-guided sod-cutting-frame-style static exterior. A single broad front roller on a transverse axle supports two side rails leading to a low whole U-section open shoe with a broad horizontal bottom and two vertical side cheeks. Two complete tall backward-bent handles root in the cheeks and join a full transverse upper grip; a broad transverse step bar spans the lower handle roots. The open shoe is not a shallow snow scoop, and there is no rotary reel, engine, hopper or side transport wheels. All geometry newly drawn, no old tool mesh imported. One model zero scenes. Blunt static art only; no cutting, depth setting, soil work, operation, fit, load or safety claim; animation and interaction not made.",
+  "bounds": {
+    "x": 0.699999988,
+    "y": 1.478999972,
+    "z": 1.034000039,
+    "unit": "m"
+  },
+  "triangles": 508,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/agriculture/agriculture-fixed-front-roller-open-shoe-sod-cutting-frame-01/v1.0.0/model.glb",
+      "size": 31708,
+      "sha256": "2388681cea10eb9eb0566bdd5fd0fa6d28988f8e6d031b1dfdba91cf698c901e"
+    },
+    "blend": {
+      "path": "assets/agriculture/agriculture-fixed-front-roller-open-shoe-sod-cutting-frame-01/v1.0.0/source.blend",
+      "size": 577768,
+      "sha256": "abf172c8fd9465af5f0f39c3627a992edca8215e0ce464423252c5bf4b94dae1"
+    },
+    "generator": {
+      "path": "assets/agriculture/agriculture-fixed-front-roller-open-shoe-sod-cutting-frame-01/v1.0.0/generate.py",
+      "size": 29223,
+      "sha256": "c6889aaa5a992c8e1a95543d1ea3a8df3daffcc633d18d38e5afdebd5b938dc6"
+    },
+    "render": {
+      "path": "assets/agriculture/agriculture-fixed-front-roller-open-shoe-sod-cutting-frame-01/v1.0.0/thumbnail.png",
+      "size": 494969,
+      "sha256": "284d6475705cb1bc61f749f1ec18b6af2b713b0b15080121ba7ff3d31cb57f2d"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
