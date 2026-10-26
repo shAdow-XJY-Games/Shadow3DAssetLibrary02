@@ -1,0 +1,42 @@
+{
+  "id": "education-fixed-wide-displacer-and-offset-power-chamber-display-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "industrial",
+  "style": "source-preserved-low-poly",
+  "title": "Fixed Wide Displacer And Offset Power Chamber Display",
+  "description": "One complete newly authored gamma-layout-inspired dry mechanical teaching cutaway. A broad base carries a wide upright chamber with a large short internal body, a smaller offset upright piston chamber and a separate short connection pipe. An open rear frame supports one horizontal shaft with two differently phased crank arms and independent descending rods; a complete open-spoke flywheel sits outside the frame. Both chamber walls have deliberate front cutaway sectors, finite thick section faces and visible internal clearances. All geometry is newly drawn; no old beam engine or crosshead meshes are imported. One static model, zero scenes, four opaque PBR materials. Simplified appearance only: no heat source, flame, fuel, gases, pressure, thermodynamic cycle, sealing, correct kinematic solution, motion, power, engineering fit or operation/safety capability is asserted.",
+  "bounds": {
+    "x": 0.800000011920929,
+    "y": 0.38999998569488525,
+    "z": 0.8149999976158142,
+    "unit": "m"
+  },
+  "triangles": 2736,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/industrial/education-fixed-wide-displacer-and-offset-power-chamber-display-01/v1.0.0/model.glb",
+      "size": 254052,
+      "sha256": "a4b61736b76fb933950846d271edde88a9dc7e9ac99f605707b2b97f59679d1e"
+    },
+    "blend": {
+      "path": "assets/industrial/education-fixed-wide-displacer-and-offset-power-chamber-display-01/v1.0.0/source.blend",
+      "size": 1017536,
+      "sha256": "7289cf453ee01acf5e67a574ddca68d9033f6a849b9a2d962fa7186c42388fac"
+    },
+    "generator": {
+      "path": "assets/industrial/education-fixed-wide-displacer-and-offset-power-chamber-display-01/v1.0.0/generate.py",
+      "size": 18292,
+      "sha256": "759d0394bf516b23c7a486759a0a881b1ffcd76be690ecf048683e5aafd9cc25"
+    },
+    "render": {
+      "path": "assets/industrial/education-fixed-wide-displacer-and-offset-power-chamber-display-01/v1.0.0/thumbnail.png",
+      "size": 537357,
+      "sha256": "32c976debc5f6b9b9d8d9103cf932de615b4291ea087005d302287f099ebf7af"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
