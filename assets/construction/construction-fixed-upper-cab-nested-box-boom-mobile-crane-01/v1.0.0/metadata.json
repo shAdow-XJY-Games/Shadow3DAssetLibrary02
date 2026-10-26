@@ -1,0 +1,42 @@
+{
+  "id": "construction-fixed-upper-cab-nested-box-boom-mobile-crane-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "construction",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Upper Cab and Nested Box Boom Mobile Crane",
+  "description": "One wholly newly authored compact mobile-crane-style static vehicle. A low chamfer-ended two-axle carrier and four large whole annular tyres carry four deployed full outrigger beams with posts and broad grounded pads. A separate centre pedestal supports one complete upper deck, its sole side-offset cab, rear counterweight and central cross-pivot cheeks. Three genuinely hollow thick rectangular box sleeves extend in one fixed inclined pose; small independently whole lower seats join their nested walls while leaving their remaining real aperture space. A complete lower cylinder-and-rod exterior, tip carrier, two full hanging line exteriors, independent hook block and continuous blunt open J hook complete the empty machine. The carrier has no separate front road cab or rear fire-equipment body and the boom is not the old open rung ladder replaced on an unchanged truck. It is also not a workshop crane scaled onto wheels: the sole upper cab/counterweight/slew platform, nested box sleeves and line-suspended block are authored as one new whole vehicle. No old geometry imported or extracted. Four opaque constant PBR roles, metres Z up and centred complete horizontal bounds with full tyre and pad sole datum. One whole prop zero scenes. Single empty static exterior only: no hydraulic or geared internals, engineered cable reeving, telescoping travel, slew, lifting, rolling, steering, operator fit, load, balance, terrain ability, manufacturing, operation or machinery/vehicle safety performance. Rigging animation and interaction not made.",
+  "bounds": {
+    "x": 3.78,
+    "y": 5.65355,
+    "z": 4.721726,
+    "unit": "m"
+  },
+  "triangles": 2600,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/construction/construction-fixed-upper-cab-nested-box-boom-mobile-crane-01/v1.0.0/model.glb",
+      "size": 141016,
+      "sha256": "ced6e94ab25260326f2dbf3e3c8abaede4e1943171d98b4fc9bc5fdc5573424d"
+    },
+    "blend": {
+      "path": "assets/construction/construction-fixed-upper-cab-nested-box-boom-mobile-crane-01/v1.0.0/source.blend",
+      "size": 879804,
+      "sha256": "82edd9fab198db8bdfdb4bcd3d3061fc0d4166156f42d4c068c04646e0d2c79f"
+    },
+    "generator": {
+      "path": "assets/construction/construction-fixed-upper-cab-nested-box-boom-mobile-crane-01/v1.0.0/generate.py",
+      "size": 31995,
+      "sha256": "957980cbe1d95f0b7bc8fec17af92d93252252d1ece4b783fc9c8f1a3ccff2cb"
+    },
+    "render": {
+      "path": "assets/construction/construction-fixed-upper-cab-nested-box-boom-mobile-crane-01/v1.0.0/thumbnail.png",
+      "size": 552354,
+      "sha256": "cbd45e99ca44731df5abe0811c98e1cab917cdf8f6d10005b37ee548dcb0f77e"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

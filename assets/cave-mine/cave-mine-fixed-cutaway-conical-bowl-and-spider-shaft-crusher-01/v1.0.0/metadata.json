@@ -1,0 +1,42 @@
+{
+  "id": "cave-mine-fixed-cutaway-conical-bowl-and-spider-shaft-crusher-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "cave-mine",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Cutaway Conical Bowl and Spider Shaft Crusher",
+  "description": "One wholly newly authored cone-crusher-style static display on its own connected ground carrier. Four short legs carry a broad lower stepped body; a thick upper conical bowl has one deliberate near-side sector cut away, exposing a separate complete broad-shouldered cone mantle on a full vertical shaft. A complete upper feed ring and three raised full spider arms connect to an independent annular centre hub. The visible annular space widens upward between the smaller mantle and outer casing. A separate side horizontal shaft, thick bearing-cover exterior, proud hub and whole grooved open-spoke pulley complete the machine silhouette. This is not the old opposing corrugated V jaws made round or the twin horizontal roll crusher with another roller: the entire central vertical mantle/surrounding conical chamber/overhead spider relationship is newly authored. No old mesh or machine component imported. One prop zero scenes, four constant opaque PBR appearances, metres/native Z up and actual whole-ground-sole datum with centred horizontal bounds. Empty static cutaway only: lower drive internals are solid exteriors; no eccentric cycle, working bearing fit, crushing contact, feed or discharge flow, gears, belts, ore, product size, throughput, motion, manufacture, operation, load or machinery safety performance. Rigging animation and interaction not made.",
+  "bounds": {
+    "x": 2.77,
+    "y": 2.46,
+    "z": 2.52,
+    "unit": "m"
+  },
+  "triangles": 4556,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/cave-mine/cave-mine-fixed-cutaway-conical-bowl-and-spider-shaft-crusher-01/v1.0.0/model.glb",
+      "size": 231724,
+      "sha256": "c16f45749147615b982470116a9a242eb2dffe35c439efcb5aca33648a7e0a82"
+    },
+    "blend": {
+      "path": "assets/cave-mine/cave-mine-fixed-cutaway-conical-bowl-and-spider-shaft-crusher-01/v1.0.0/source.blend",
+      "size": 873732,
+      "sha256": "5ecd84003b435e6716a5fdb633c17aa594da50d6074aaa9d3b98b9f33d6c3ca2"
+    },
+    "generator": {
+      "path": "assets/cave-mine/cave-mine-fixed-cutaway-conical-bowl-and-spider-shaft-crusher-01/v1.0.0/generate.py",
+      "size": 28233,
+      "sha256": "f338095db621a467439223ad96ca93c0b0cb4578a34ba7ed34655ccd9bd00ee8"
+    },
+    "render": {
+      "path": "assets/cave-mine/cave-mine-fixed-cutaway-conical-bowl-and-spider-shaft-crusher-01/v1.0.0/thumbnail.png",
+      "size": 596048,
+      "sha256": "67315ce88409c419bb5848ef4ef7d9a0ca2569ff3b024ef61f33fa011539b978"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
