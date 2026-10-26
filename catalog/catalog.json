@@ -1974,6 +1974,11 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary02",
       "commit": "51e6394f494210d8147c2ae463cfddfffbfaeb4d"
+    },
+    "original-qualified-batch-1494-volume02-20261025": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary02",
+      "commit": "1fcbed611b6fec96beb312cff16bab45b64f8648"
     }
   },
   "assets": [
@@ -66003,6 +66008,221 @@
       "status": "verified",
       "license": "All rights reserved",
       "sourceId": "original-qualified-batch-1489-volume02-20261025"
+    },
+    {
+      "id": "industrial-fixed-circular-basin-diameter-bridge-and-low-rake-apparatus-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "industrial",
+      "style": "S01-clean-geometric",
+      "title": "Fixed Circular Basin Diameter Bridge and Low Rake Apparatus",
+      "description": "One wholly newly authored complete dry circular settling-basin-inspired apparatus. One continuous material shell has a full basin floor, tall inner wall and curb, and a genuinely recessed full perimeter gutter. Two opposite edge shoes support one full-diameter fused deck and edge-beam bridge with open rail silhouettes. Its blank central cover retains an independent long vertical shaft; a full open-ended feedwell hangs below the bridge around that shaft. A low hub and two complete opposite long radial rake arms carry blunt diagonal paddles entirely above the dry basin floor. This whole suspended bridge/feedwell/shaft/low-rake relationship differs from the old shallow annular herb mill with an upright stone wheel in a carrier fork and sweep handle, and from the tall waisted cooling shell over a shallow basin on inclined columns. All geometry authored anew, no old bowl or machine meshes imported, no count/colour/size-only variant and no scene assembly. One model zero scenes; four opaque constant untextured PBR appearances, metre-style native Z up and full horizontal envelope centred on the basin ground sole. A simplified dry artistic apparatus exterior, not an engineering drawing or construction specification. No water, sediment, wastewater, biological material, pump, feed or drainage circuit, rotation, scraping, separation, treatment performance, throughput, pressure, torque, alignment, manufactured fit, human access, railing compliance, loading, structural rating, installation or equipment safety capability is made or verified. Rigging animation and interaction not made.",
+      "bounds": {
+        "x": 4.94,
+        "y": 4.84,
+        "z": 2.024,
+        "unit": "m"
+      },
+      "triangles": 2168,
+      "materials": 4,
+      "files": {
+        "glb": {
+          "path": "assets/industrial/industrial-fixed-circular-basin-diameter-bridge-and-low-rake-apparatus-01/v1.0.0/model.glb",
+          "size": 107584,
+          "sha256": "5c879b2af6bb3aad49d56d8f11469d4b6723c48236ba9e4554cf015d2aaad6d9"
+        },
+        "blend": {
+          "path": "assets/industrial/industrial-fixed-circular-basin-diameter-bridge-and-low-rake-apparatus-01/v1.0.0/source.blend",
+          "size": 731004,
+          "sha256": "ccb56f202ca93d30c0c2342c3fd899c8e0fb409f2cd0c126771d3f1bc13ec9dd"
+        },
+        "generator": {
+          "path": "assets/industrial/industrial-fixed-circular-basin-diameter-bridge-and-low-rake-apparatus-01/v1.0.0/generate.py",
+          "size": 28023,
+          "sha256": "02ca7b546bbc9045d169034410ccddc6f65cc4c7655a5e0da271fe4a2391f570"
+        },
+        "render": {
+          "path": "assets/industrial/industrial-fixed-circular-basin-diameter-bridge-and-low-rake-apparatus-01/v1.0.0/thumbnail.png",
+          "size": 565598,
+          "sha256": "24b246821e063fd4e2468c4a350423611ce6e93723d2f6209eb67c4c09eb5cc5"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1494-volume02-20261025"
+    },
+    {
+      "id": "professional-whole-empty-reclined-unit-and-side-preparation-table-scene-01",
+      "version": "1.0.0",
+      "category": "scenes",
+      "assetKind": "scene",
+      "theme": "professional",
+      "style": "source-preserved-low-poly",
+      "title": "Whole Empty Reclined Unit and Side Preparation Table",
+      "description": "One empty dental-equipment preparation display bay, one scene zero new independent models. The complete original reclined chair and physically connected dental-unit exterior stand at a separate left floor station, retaining every pedestal, pad, rinse bowl, instrument hose, delivery tray, mast, linked light arm and opaque lamp head. A whole independent open worktable stands to the right beyond the entire chair-unit envelope and carries one complete empty open-yoke articulator and one complete small open-ended U-channel tray. Neither small tool is installed in the chair apparatus; there are no casts, teeth, patients or simulated treatment. The articulator full pad soles and the tray complete lower rim rest at the original finite tabletop height, with their mutual interval visible. All original unit-scale raw buffers, normals, PBR dictionaries and internal hierarchy remain unchanged under whole translations; only the bounded low scene floor is new. Unlike the mobility-aid display and the opposed-stool optical table, this scene separates a full reclining equipment station from an independent small-tool preparation table. The tiny tray remains original physical size and is not claimed individually detailed at the whole-scene thumbnail. No medical suitability, diagnosis, procedure, anatomical accuracy, hygiene, sterilization, instrument fit, electricity, plumbing, motion, load, accessibility, installation or safety capability. Rigging animation interaction not made.",
+      "bounds": {
+        "x": 3.9000000953674316,
+        "y": 2.5999999046325684,
+        "z": 1.9259999990463257,
+        "unit": "m"
+      },
+      "triangles": 6688,
+      "materials": 13,
+      "files": {
+        "glb": {
+          "path": "assets/professional/professional-whole-empty-reclined-unit-and-side-preparation-table-scene-01/v1.0.0/model.glb",
+          "size": 615756,
+          "sha256": "ee234176627efa7c709b09a19e5ac8bb8aa499841fb59bf6f7116e6e881ce887"
+        },
+        "blend": {
+          "path": "assets/professional/professional-whole-empty-reclined-unit-and-side-preparation-table-scene-01/v1.0.0/source.blend",
+          "size": 1906144,
+          "sha256": "1b0e90786aca18ce56f1bd0afd353de13ccee9baad1f72db59df197e197e3464"
+        },
+        "generator": {
+          "path": "assets/professional/professional-whole-empty-reclined-unit-and-side-preparation-table-scene-01/v1.0.0/generate.py",
+          "size": 172966,
+          "sha256": "304969aaa2b648defb439a0ca60539227053d4dcad0be50cf451b403f591051d"
+        },
+        "render": {
+          "path": "assets/professional/professional-whole-empty-reclined-unit-and-side-preparation-table-scene-01/v1.0.0/thumbnail.png",
+          "size": 476680,
+          "sha256": "4166b815cc181ce0044c768f05e4052d62615dba42c5924ec21c595223bc38b5"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1494-volume02-20261025"
+    },
+    {
+      "id": "technology-fixed-oval-toothed-cup-and-separated-ring-display-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "technology",
+      "style": "S01-clean-geometric",
+      "title": "Fixed Oval Toothed Cup And Separated Ring Display",
+      "description": "One newly authored complete fixed oval-cup and separated-ring mechanism-style display. A deep thin-wall cup changes continuously from a circular annular rear to an oval mouth with integral blunt outer teeth; its real deep cavity and rear shaft bore are not a solid oval cylinder. A separate complete internally toothed circular annulus stands ahead on two full roots. A smaller complete bored elliptical insert is independently supported further forward, leaving explicit axial separation between all three principal pieces. Whole front and rear shafts, bored bearings, pedestals and one shared ground bed make a single supported exhibit. Unlike the old planetary layout there is no sun/planet set or rear multi-pin carrier; unlike the conical clutch the main cavity is non-axisymmetric with a toothed rim, not a mating pair of cones and a shift fork. No old gear or bearing mesh imported. Three opaque PBR appearances, metres Z-up and full horizontal bounds-centred ground origin. One complete model zero scenes. Fixed illustrative separated shapes only, not a working strain-wave reducer or engineering design. No elastic deformation, tooth conjugacy, meshing, motion solution, speed ratio, torque, running fit, bearing performance, lubrication, manufacturing, assembly instructions or safety capability. No rigging animation interaction made.",
+      "bounds": {
+        "x": 2.0,
+        "y": 2.76,
+        "z": 1.8599999999999999,
+        "unit": "m"
+      },
+      "triangles": 6652,
+      "materials": 3,
+      "files": {
+        "glb": {
+          "path": "assets/technology/technology-fixed-oval-toothed-cup-and-separated-ring-display-01/v1.0.0/model.glb",
+          "size": 326272,
+          "sha256": "b6717f8bb29001434b553e5c3e4bfab358b937dda76b9e7ae2a94fc009859c23"
+        },
+        "blend": {
+          "path": "assets/technology/technology-fixed-oval-toothed-cup-and-separated-ring-display-01/v1.0.0/source.blend",
+          "size": 931496,
+          "sha256": "6d269ab850ca7f2383a26ec2eba05e20359419bca1ccbbfcec48737909f1418a"
+        },
+        "generator": {
+          "path": "assets/technology/technology-fixed-oval-toothed-cup-and-separated-ring-display-01/v1.0.0/generate.py",
+          "size": 11926,
+          "sha256": "6b4599cb7235d9a989de5e5fa08411bbb197e72e20539bf7cb21f8f3b23cf9c2"
+        },
+        "render": {
+          "path": "assets/technology/technology-fixed-oval-toothed-cup-and-separated-ring-display-01/v1.0.0/thumbnail.png",
+          "size": 465433,
+          "sha256": "d89defa61d7c155158fb02abf4870e5b424305f87c795df4350856b7b3326c75"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1494-volume02-20261025"
+    },
+    {
+      "id": "education-fixed-shared-reservoir-and-cross-linked-open-cups-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "education",
+      "style": "S01-clean-geometric",
+      "title": "Fixed Shared Reservoir and Cross Linked Open Cups",
+      "description": "One newly authored complete static cross-linked vessel apparatus appearance. Two whole rear posts and finite brackets support one continuous open upper reservoir with two true through floor apertures and complete downward mouths. Two separate open thick rings lie below those mouths and above two full deep empty lower cups on independent short pedestals. Each ring has one continuous bent rigid rod crossing to the opposite lower cup at a different depth, leaving the crossing genuinely separated. The common plinth, grounded frame, real upper passages, ring bores, lower cup cavities and two crossed complete connection paths define the one whole apparatus. Unlike the old sector-disc machine there are no axle discs, belt, collecting canister lids or spark terminals; unlike the water-clock there is no float, index rod, guide or scale and no single cutaway receiver. All visible coordinates newly authored, generic mesh/export helpers only; no old asset meshes or parts imported. One model zero scenes. Four opaque constant untextured PBR roles, metres native Z up and whole horizontal bounds-centred ground datum. Kelvin-dropper-inspired dry artistic exterior only, not a working experiment: no liquid, droplets, charge, electricity, voltage, insulation, induction, cross-connection circuit validity, flow, measurement, physics demonstration, teaching result, manufacture, loading or safety claim. No rigging animation or interaction.",
+      "bounds": {
+        "x": 1.32,
+        "y": 0.96,
+        "z": 1.48,
+        "unit": "m"
+      },
+      "triangles": 2304,
+      "materials": 4,
+      "files": {
+        "glb": {
+          "path": "assets/education/education-fixed-shared-reservoir-and-cross-linked-open-cups-01/v1.0.0/model.glb",
+          "size": 105280,
+          "sha256": "93345626b3ce8054d4636a69d05c9496c75581d102c599c2f3481144d97221c4"
+        },
+        "blend": {
+          "path": "assets/education/education-fixed-shared-reservoir-and-cross-linked-open-cups-01/v1.0.0/source.blend",
+          "size": 731000,
+          "sha256": "83035bcb361675cc1cfcda233054ec42916cf268db42f9671e7bd1ffecf465fe"
+        },
+        "generator": {
+          "path": "assets/education/education-fixed-shared-reservoir-and-cross-linked-open-cups-01/v1.0.0/generate.py",
+          "size": 25942,
+          "sha256": "83350fa9313628c342015034d166dbfade0adc8b806d9be21e4ebfdfeef547e3"
+        },
+        "render": {
+          "path": "assets/education/education-fixed-shared-reservoir-and-cross-linked-open-cups-01/v1.0.0/thumbnail.png",
+          "size": 569273,
+          "sha256": "d35e6bf4edf122423301291e368aae18d6b0dcb2094cf0c1d23c4858f67022ee"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1494-volume02-20261025"
+    },
+    {
+      "id": "ceramics-whole-empty-kickwheel-chest-and-reclaim-bay-scene-01",
+      "version": "1.0.0",
+      "category": "scenes",
+      "assetKind": "scene",
+      "theme": "ceramics",
+      "style": "source-preserved-low-poly",
+      "title": "Whole Empty Kick Wheel Chest and Reclaim Bay",
+      "description": "One static traditional pottery-equipment preparation bay, one scene and zero new independent models. Three complete qualified originals preserve all original raw geometry buffers, normals, internal hierarchy, opaque PBR and unit scale. The entire open-frame kick-wheel station occupies the front-left, keeping its integral rear seat, high disk, vertical shaft and exposed lower flywheel intact and empty. A complete twin-track clay chest stands separately at front-right in its original partly retracted fixed-cover pose. The entire unequal-depth stepped-weir basin stands along the rear with both original side mouths, partition saddle and complete leg frame untouched. An open intervening floor band separates these three independent equipment positions; no hose, clay, water, pottery, tools or person joins them. Unlike the old tabletop turntable with blank and trimming kit, no vessel or tool is mounted on this wheel; unlike the shelf-and-jar storage exhibit, there is no shelf, jar or finished pottery display. This is a complete empty preparation grouping, not a functioning reclaim or throwing process and not three newly counted models. Only whole translations and a finite scene-only floor are new. No spinning, kicking, sliding travel, drainage, material suitability, storage preservation, ergonomic operation, human access, loading, installation or workshop safety capability. Rigging animation interaction not made.",
+      "bounds": {
+        "x": 3.700000047683716,
+        "y": 3.5,
+        "z": 1.159999966621399,
+        "unit": "m"
+      },
+      "triangles": 2048,
+      "materials": 10,
+      "files": {
+        "glb": {
+          "path": "assets/ceramics/ceramics-whole-empty-kickwheel-chest-and-reclaim-bay-scene-01/v1.0.0/model.glb",
+          "size": 127272,
+          "sha256": "1a9dc51e2a2dddd3295106f2014481ef9884070513f9a01076cc12cfc40c1fdb"
+        },
+        "blend": {
+          "path": "assets/ceramics/ceramics-whole-empty-kickwheel-chest-and-reclaim-bay-scene-01/v1.0.0/source.blend",
+          "size": 1024464,
+          "sha256": "398897581cc7eb9e5cee47bcb28bea49c21f7f292a6a745ab599fcafcf6518bb"
+        },
+        "generator": {
+          "path": "assets/ceramics/ceramics-whole-empty-kickwheel-chest-and-reclaim-bay-scene-01/v1.0.0/generate.py",
+          "size": 68718,
+          "sha256": "9d2295abbc3f77c138f2cd81a1bfd9675dd018315d3dfe9adfb50238ad3dcb2d"
+        },
+        "render": {
+          "path": "assets/ceramics/ceramics-whole-empty-kickwheel-chest-and-reclaim-bay-scene-01/v1.0.0/thumbnail.png",
+          "size": 517577,
+          "sha256": "dd8c4b7422619e1a0379eeec306bff93235d0bd3f74932bab97f7dc70d91fd3a"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1494-volume02-20261025"
     }
   ]
 }
