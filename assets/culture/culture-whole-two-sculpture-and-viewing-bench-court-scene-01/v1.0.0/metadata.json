@@ -1,0 +1,42 @@
+{
+  "id": "culture-whole-two-sculpture-and-viewing-bench-court-scene-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "culture",
+  "style": "source-preserved-low-poly",
+  "title": "Whole Two Sculpture and Viewing Bench Court",
+  "description": "One static small cultural sculpture-viewing court, one scene and zero new independent models. Three complete qualified originals retain every original geometry buffer, local normal, node hierarchy, opaque PBR and unit scale. The entire continuous half-twist band with its integral low plinth stands at rear left; the complete seated draped reader with book, seat and own plinth stands at rear right. One entire three-place slotted-shell bench stands in front facing the two sculptures, leaving an open central viewing band and two side approaches. Only the simple common floor is new scene geometry. Unlike the enclosed fossil exhibition with central skeleton island, rear slabs and rope barrier, this is an open two-sculpture court without display cases or a barrier; unlike the L-colonnade rest corner there are no repeated columns or turning architectural arcade. This is a real new whole-object viewing combination, not three new models or a claim that its general floor plan is unprecedented. No additional figure, readable text, mathematics demonstration, anatomical accuracy, historical artwork attribution, seating comfort, access certification, public installation, loading or structural safety capability. Rigging, animation and interaction not made.",
+  "bounds": {
+    "x": 4.400000095367432,
+    "y": 3.5999999046325684,
+    "z": 1.8799999952316284,
+    "unit": "m"
+  },
+  "triangles": 3280,
+  "materials": 12,
+  "files": {
+    "glb": {
+      "path": "assets/culture/culture-whole-two-sculpture-and-viewing-bench-court-scene-01/v1.0.0/model.glb",
+      "size": 249088,
+      "sha256": "fe1fb03e692da256188d0afd1b94f0572b4467ea04a5f5237827e034cdc7a78f"
+    },
+    "blend": {
+      "path": "assets/culture/culture-whole-two-sculpture-and-viewing-bench-court-scene-01/v1.0.0/source.blend",
+      "size": 1214580,
+      "sha256": "65df1b31acbc09f05b4164f01995b92ca5111e499378fee6803cec8b47555613"
+    },
+    "generator": {
+      "path": "assets/culture/culture-whole-two-sculpture-and-viewing-bench-court-scene-01/v1.0.0/generate.py",
+      "size": 141923,
+      "sha256": "439add7ff19bf5b28efcd97ba190288d41aa5c1358048cfbff42382348997b5a"
+    },
+    "render": {
+      "path": "assets/culture/culture-whole-two-sculpture-and-viewing-bench-court-scene-01/v1.0.0/thumbnail.png",
+      "size": 508945,
+      "sha256": "c93b5424900766781068fbe8357ab56a0dc1b3ff19ccea0a26de0f70e0fdd2c0"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
