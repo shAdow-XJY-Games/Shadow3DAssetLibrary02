@@ -1,0 +1,42 @@
+{
+  "id": "waterworks-fixed-rounded-overflow-crest-and-low-basin-01",
+  "version": "1.0.0",
+  "category": "architecture",
+  "assetKind": "modular",
+  "theme": "waterworks",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Rounded Overflow Crest and Low Basin",
+  "description": "One newly authored complete fixed dry overflow-crest and low-basin architectural module. A thick high upstream retaining end rises into a rounded crest and one continuous steep curved downstream apron; it then meets a long genuinely recessed low basin and a finite raised end sill. Two entire side guide walls follow all elevations and are welded into the same closed solid as the mass and basin floor. No separate gate leaf, axle, lifting frame, water, pipe, people or terrain is included. Unlike the old radial gate this is a whole immobile overflow body rather than a thin curved leaf above a flat channel; unlike the two-well ceramics basin it has a high crest descending over a long continuous curved apron into one lower basin, without elevated legs or side outlet collars. All geometry newly authored, no old channel scaled or imported. One editable closed mesh with two opaque matte stone-like PBR roles, metres Z up and full horizontal envelope centred on its grounded sole. One module zero scenes. Fixed stylized waterworks exterior only: the sampled artistic curve is not an engineered spillway profile. No hydraulic flow, discharge, energy dissipation, flood control, water retention, erosion, stability, load, manufacture, installation, public access or civil/safety capability. Rigging, animation and interaction not made or verified.",
+  "bounds": {
+    "x": 3.4,
+    "y": 5.4,
+    "z": 2.95,
+    "unit": "m"
+  },
+  "triangles": 508,
+  "materials": 2,
+  "files": {
+    "glb": {
+      "path": "assets/waterworks/waterworks-fixed-rounded-overflow-crest-and-low-basin-01/v1.0.0/model.glb",
+      "size": 21664,
+      "sha256": "4d7383bfcf6e1f7e799c327a9d4a315d16e66dfae03f57ca28d2524b0d5d28a3"
+    },
+    "blend": {
+      "path": "assets/waterworks/waterworks-fixed-rounded-overflow-crest-and-low-basin-01/v1.0.0/source.blend",
+      "size": 525856,
+      "sha256": "e4203f5fde5b5337a6ef16a4e5e3a316107ca2a8baa41a39b34917644f9882a7"
+    },
+    "generator": {
+      "path": "assets/waterworks/waterworks-fixed-rounded-overflow-crest-and-low-basin-01/v1.0.0/generate.py",
+      "size": 10833,
+      "sha256": "ddb7dece8b85baed99eb38f5e22bd49643291664314ea55383d6a4f12cdc0936"
+    },
+    "render": {
+      "path": "assets/waterworks/waterworks-fixed-rounded-overflow-crest-and-low-basin-01/v1.0.0/thumbnail.png",
+      "size": 432749,
+      "sha256": "c40bab53417fdfd53971effc70cc1dedc8ab062a0bb939f498a87049f6af4b4c"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

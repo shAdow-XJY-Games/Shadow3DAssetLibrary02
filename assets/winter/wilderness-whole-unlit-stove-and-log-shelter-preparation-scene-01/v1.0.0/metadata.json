@@ -1,0 +1,42 @@
+{
+  "id": "wilderness-whole-unlit-stove-and-log-shelter-preparation-scene-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "camping",
+  "style": "source-preserved-faceted-natural-ecology",
+  "title": "Whole Unlit Stove and Log Shelter Preparation",
+  "description": "One static wilderness living-equipment preparation scene, one scene and zero new independent models. One complete qualified empty camp stove stands independently on a finite ground pad, with its whole hollow firebox, swung-open front door, open flue, four legs and both carry loops intact. A separate complete original roofed log shelter forms the rear-left storage edge, retaining all roof boards, posts, raised bed and six original logs. No log is removed or placed inside the stove. The foreground of the open stove and the shelter front remain separate visible empty bands. Unlike the old raised canister stove, windscreen and kettle cooking tabletop, this pairs a grounded empty firebox/flue exterior with whole roofed storage; unlike the long splitting-machine, barrow and log-shelter forestry court there is no powered work bed or transfer cart. Both original GLBs retain every oriented triangle and full constant opaque per-face PBR at unit scale under translation only, with hierarchy explicitly baked and faceted normals recomputed. Only the shared pale floor is new scene architecture. No fire, smoke, heat, food, fluid, people or new reusable models. Static artistic equipment grouping only, not instructions or approval for stove placement, fuel storage, fire clearance, ventilation, emissions, heating, weather protection, loads, human access, operation or safety. Rigging animation and interaction not made.",
+  "bounds": {
+    "x": 3.400000095,
+    "y": 2.799999952,
+    "z": 1.770877123,
+    "unit": "m"
+  },
+  "triangles": 3004,
+  "materials": 8,
+  "files": {
+    "glb": {
+      "path": "assets/winter/wilderness-whole-unlit-stove-and-log-shelter-preparation-scene-01/v1.0.0/model.glb",
+      "size": 151744,
+      "sha256": "edac735992ac3e8c4e76d8dd258c52d0b9fc6efbb1c2067cdb67a2b74ccf66f3"
+    },
+    "blend": {
+      "path": "assets/winter/wilderness-whole-unlit-stove-and-log-shelter-preparation-scene-01/v1.0.0/source.blend",
+      "size": 838472,
+      "sha256": "eda6a56a1f37538836688fbb7d7183376ef4b559b9e345d7d641b1e9c8c248e9"
+    },
+    "generator": {
+      "path": "assets/winter/wilderness-whole-unlit-stove-and-log-shelter-preparation-scene-01/v1.0.0/generate.py",
+      "size": 75032,
+      "sha256": "fdfe978bf9bfb8715e62d61a590b860964aa0c2d54ce753df5dde553588bacd8"
+    },
+    "render": {
+      "path": "assets/winter/wilderness-whole-unlit-stove-and-log-shelter-preparation-scene-01/v1.0.0/thumbnail.png",
+      "size": 521548,
+      "sha256": "2431a0d1ad1e189d2957a5eac44548e4b5a6ba70f7590fa86064dd57245eb003"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

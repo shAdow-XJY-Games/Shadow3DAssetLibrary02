@@ -1,0 +1,42 @@
+{
+  "id": "library-whole-v-cradle-and-empty-cart-preparation-bay-scene-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "library",
+  "style": "source-preserved-low-poly",
+  "title": "Whole V Cradle and Empty Cart Preparation Bay",
+  "description": "One static library book-observation equipment preparation bay, one scene and zero new independent models. Three entire qualified originals retain raw geometry buffers, normals, complete PBR, internal hierarchy and unit scale. The complete V-cradle dual-head scanner appearance, including its original blank open book, rests with its entire broad base on the full level top of an unchanged raised twin-column crank desk. One entire empty inclined-shelf sorting book cart stands separately to the right-front, with an open separation from the desk and an unobstructed foreground floor. Only a common finite scene floor is new. The original narrower open worktable was rejected before scene creation because its depth did not support this full base; neither the tool nor furniture is rescaled, cropped or modified. Unlike the old return/sorting service corner, this has no public return counter, bookcase or added book kits; unlike the museum collection store there are no transport crate, picture rack or mineral specimen. This is a real equipment combination, not a claimed new functional workflow or unique generic floorplan. Static empty art only: the sole book is part of the original scanner model, cart shelves remain empty. No scanning, digitisation, optics, preservation, borrowing system, ergonomic height, desk adjustment, load, installation, access or safety capability. Rigging animation and interaction not made.",
+  "bounds": {
+    "x": 3.5999999046325684,
+    "y": 2.5999999046325684,
+    "z": 2.2799999713897705,
+    "unit": "m"
+  },
+  "triangles": 2940,
+  "materials": 12,
+  "files": {
+    "glb": {
+      "path": "assets/library/library-whole-v-cradle-and-empty-cart-preparation-bay-scene-01/v1.0.0/model.glb",
+      "size": 214772,
+      "sha256": "55fd9f18e5a877deeb1dddc92a143eefb1cb06d26b2763e0249e81a57ee0dd87"
+    },
+    "blend": {
+      "path": "assets/library/library-whole-v-cradle-and-empty-cart-preparation-bay-scene-01/v1.0.0/source.blend",
+      "size": 1395992,
+      "sha256": "d64fc9f9020347c3942da8f5ffa15d4ba8f780fb858fbc29a6cb05cf0a095ca5"
+    },
+    "generator": {
+      "path": "assets/library/library-whole-v-cradle-and-empty-cart-preparation-bay-scene-01/v1.0.0/generate.py",
+      "size": 77348,
+      "sha256": "a4e5405e316ec0ced29937cd9385435ef3dc1e8aa55dc259920ffd6fbb49f2b0"
+    },
+    "render": {
+      "path": "assets/library/library-whole-v-cradle-and-empty-cart-preparation-bay-scene-01/v1.0.0/thumbnail.png",
+      "size": 517898,
+      "sha256": "af7a8588706eeccde459767705230a8baf90a9aeed2e44646986eacd6db8a6ee"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
