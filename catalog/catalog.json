@@ -1939,6 +1939,11 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary02",
       "commit": "cd4e18b765004476aa6b509105d6ce73b6c77ff4"
+    },
+    "original-qualified-batch-1480-volume02-20261025": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary02",
+      "commit": "bfa5535c456f6f7070a792c842336ac6de8f59df"
     }
   },
   "assets": [
@@ -65495,6 +65500,92 @@
       "status": "verified",
       "license": "All rights reserved",
       "sourceId": "original-qualified-batch-1478-volume02-20261025"
+    },
+    {
+      "id": "art-whole-floor-roll-press-and-empty-preparation-bench-scene-01",
+      "version": "1.0.0",
+      "category": "scenes",
+      "assetKind": "scene",
+      "theme": "art",
+      "style": "source-preserved-low-poly",
+      "title": "Whole Floor Roll Press and Empty Preparation Bench",
+      "description": "One static printmaking-equipment preparation bay, one scene and zero new independent models. Four complete qualified originals retain their raw geometry buffers, normals, full opaque PBR dictionaries, hierarchy and unit scale. A whole floor-standing twin-roll long-traverse-bed press occupies the rear-left, its entire blank bed, star wheel and both shoes intact. A separate complete open worktable stands forward-right and supports the entire grinding-slab and muller set on the left and the whole horizontal double-fork brayer on the right, separated by visible tabletop. No tool or slab is extracted from its original asset, no plate or sheet is fed through the press, and no material connects the stations. Unlike the raised screen-frame, drying-rack and basin-cart bay, this groups a floor-standing roller press with a small-tool bench; unlike the two-table platen-printing/book-sewing corner it has no sewing station or bookcase. Only whole translations and one finite scene-only floor are authored. Small tool details remain subordinate at whole-scene scale. No ink, pigment, paper, chemical preparation, print transfer, machine operation, roller pressure, bed travel, equipment compatibility, ergonomic compliance, load rating or workplace safety capability. Rigging animation interaction not made.",
+      "bounds": {
+        "x": 3.299999952316284,
+        "y": 2.4000000953674316,
+        "z": 1.438999891281128,
+        "unit": "m"
+      },
+      "triangles": 4408,
+      "materials": 12,
+      "files": {
+        "glb": {
+          "path": "assets/art/art-whole-floor-roll-press-and-empty-preparation-bench-scene-01/v1.0.0/model.glb",
+          "size": 262260,
+          "sha256": "6e3bcf07b2e81398950e407ba8133cbbc7775bd4674db87c514b793926646075"
+        },
+        "blend": {
+          "path": "assets/art/art-whole-floor-roll-press-and-empty-preparation-bench-scene-01/v1.0.0/source.blend",
+          "size": 1495336,
+          "sha256": "f8089c95d61628581ad7eef3b70a0eb6ba4169e9cda1fe0339f6ad74717f2aac"
+        },
+        "generator": {
+          "path": "assets/art/art-whole-floor-roll-press-and-empty-preparation-bench-scene-01/v1.0.0/generate.py",
+          "size": 105403,
+          "sha256": "796415a9de91e417c8c59dbd068073c5dfdc556bd93596dc836629f04dc056a0"
+        },
+        "render": {
+          "path": "assets/art/art-whole-floor-roll-press-and-empty-preparation-bench-scene-01/v1.0.0/thumbnail.png",
+          "size": 515515,
+          "sha256": "1e9ac2a14dbf12af477320c276ce9552a1070b44816a7521cafad563ce4a6ab6"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1480-volume02-20261025"
+    },
+    {
+      "id": "architecture-fixed-overpass-and-four-curved-connector-ramps-01",
+      "version": "1.0.0",
+      "category": "architecture",
+      "assetKind": "modular",
+      "theme": "architecture",
+      "style": "S01-clean-geometric",
+      "title": "Fixed Overpass And Four Curved Connector Ramps",
+      "description": "One newly authored static grade-separated road junction miniature module. A complete elevated straight bridge crosses one complete perpendicular lower road with an open underpass. Four continuous thick quarter-curve graded branch decks occupy the four quadrants, each joining an upper-road side mouth to a lower-road side mouth; not two unconnected roads merely stacked. Complete curb strips leave the eight branch mouths open. Two bridge piers and four independent ramp piers connect the decks to one whole grounded plinth. New geometry throughout, not rescaled existing roads or imported culvert pieces. Three opaque PBR roles, metres Z-up, centred bounds and grounded datum. One complete static model zero scenes. No vehicle, lane markings, traffic circulation rules, road-network compatibility, verified driving surface, accessibility, turning radius, gradient suitability, clearance, loading, drainage, construction or engineering safety capability. No animation or interaction made.",
+      "bounds": {
+        "x": 8.4,
+        "y": 8.4,
+        "z": 1.59,
+        "unit": "m"
+      },
+      "triangles": 2220,
+      "materials": 3,
+      "files": {
+        "glb": {
+          "path": "assets/architecture/architecture-fixed-overpass-and-four-curved-connector-ramps-01/v1.0.0/model.glb",
+          "size": 161736,
+          "sha256": "87415e60c55fe05fe3263d5eb8487ddc4122e2ffdb5450077b2794b30e1db207"
+        },
+        "blend": {
+          "path": "assets/architecture/architecture-fixed-overpass-and-four-curved-connector-ramps-01/v1.0.0/source.blend",
+          "size": 789328,
+          "sha256": "95d1c34d8d18cfeae49a3599ab45a3cd86db5feb74cc4d2ba5e2fd26eca924c0"
+        },
+        "generator": {
+          "path": "assets/architecture/architecture-fixed-overpass-and-four-curved-connector-ramps-01/v1.0.0/generate.py",
+          "size": 11263,
+          "sha256": "6d2369e3ce54e9da2404eb6f005e85943b768f6edbe77536160d128ad1df9053"
+        },
+        "render": {
+          "path": "assets/architecture/architecture-fixed-overpass-and-four-curved-connector-ramps-01/v1.0.0/thumbnail.png",
+          "size": 419174,
+          "sha256": "7f6d3459307b1b3f0e53a2b765b7ae0fe22e7a1db386f78b9893f1bd0ad9fbee"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1480-volume02-20261025"
     }
   ]
 }
