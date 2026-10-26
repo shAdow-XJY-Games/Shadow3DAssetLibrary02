@@ -1714,6 +1714,11 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary02",
       "commit": "4ca7330c42095de703fe1629abf976328d5a4c45"
+    },
+    "original-qualified-batch-1328-volume02-20261025": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary02",
+      "commit": "4d26a158f47f8782ea28aed02a48ffa4c7557940"
     }
   },
   "assets": [
@@ -58691,6 +58696,135 @@
       "status": "verified",
       "license": "All rights reserved",
       "sourceId": "original-qualified-batch-1325-volume02-20261025"
+    },
+    {
+      "id": "salon-fixed-open-scales-and-round-nose-grooming-razor-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "salon",
+      "style": "source-preserved-low-poly",
+      "title": "Fixed Open Scales and Round Nose Grooming Razor",
+      "description": "One newly authored complete fixed-open folding grooming-razor-style exterior with intentionally blunt geometry. Two entire slightly curved thick handle scales enclose a genuine long empty gap, joined at the rear by a full spacer and at the front by one whole transverse pin with two separate retaining caps. One continuous broad round-nosed plate narrows into an integral short tang and curled rear finger-tail silhouette; it lies in the handle-layer gap at the pivot and extends outward at one fixed angle. All edges remain finite thickness with no sharpened edge or cutting geometry. Unlike the old axial T-head razor there is no transverse arched cap/guard pair; unlike the old utility cutter there is no sleeve, sliding thumb button or lengthwise extension. All geometry newly authored, no old blade or handle extracted. Three opaque constant PBR roles, metres Z up and full bounds-centred low ground datum, one complete model zero scenes. Fixed illustrative salon prop only: no skin, person, blade insertion/removal, shaving, cutting, fold travel, bearing fit, operating procedure, ergonomic suitability, hygiene, manufacture or safety capability. Rigging animation interaction not made.",
+      "bounds": {
+        "x": 0.25893527269363403,
+        "y": 0.08061746507883072,
+        "z": 0.017000000923871994,
+        "unit": "m"
+      },
+      "triangles": 392,
+      "materials": 3,
+      "files": {
+        "glb": {
+          "path": "assets/salon/salon-fixed-open-scales-and-round-nose-grooming-razor-01/v1.0.0/model.glb",
+          "size": 38860,
+          "sha256": "467d5a67092042943b52626681ca3417590bdaea7eb0c6df079018d67da9c6a0"
+        },
+        "blend": {
+          "path": "assets/salon/salon-fixed-open-scales-and-round-nose-grooming-razor-01/v1.0.0/source.blend",
+          "size": 609536,
+          "sha256": "effc1162f780cffb676d130a53c41106508acd0bf762d01fc1d68924ddcba1df"
+        },
+        "generator": {
+          "path": "assets/salon/salon-fixed-open-scales-and-round-nose-grooming-razor-01/v1.0.0/generate.py",
+          "size": 16408,
+          "sha256": "d2a8fa6f43e953b9331d44f0ea47234d83b1541295cdd0771fd6c6c8bad2f3b8"
+        },
+        "render": {
+          "path": "assets/salon/salon-fixed-open-scales-and-round-nose-grooming-razor-01/v1.0.0/thumbnail.png",
+          "size": 415624,
+          "sha256": "21d273a250f95bb98571b44a513edd2c206c6902496fd8f65b0a4fc95de8846d"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1328-volume02-20261025"
+    },
+    {
+      "id": "technology-fixed-open-case-notched-disc-and-blank-dial-display-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "technology",
+      "style": "S01-clean-geometric",
+      "title": "Fixed Open Case Notched Disc and Blank Dial Display",
+      "description": "One whole newly authored combination-lock-inspired static exhibition exterior, not a functioning lock. A continuous thick open-front case has an actual side bolt port and two complete broad grounded feet. A real bored rear collar and full transverse fixed axis join three separate whole thick annular discs with genuine differently oriented perimeter indentations, and a stepped blank exterior dial. A separate upper rear-supported pin carries one entire bent lever and transverse bar deliberately clear above the discs. A whole blunt horizontal bolt lies in a separate complete bored low guide and exits the side port, without an operating connection to the upper lever. This is not the old door lever lock with its spindle cam and two side tongues, nor a U-shackle padlock enlarged or decorated: the entire coaxial disc inspection group and separate upper spanning lever are new whole organisation. All visible coordinates newly authored; no old model imported. Four opaque PBR roles. One static prop zero scenes, metres Z up and complete horizontal bounds centred. Blank fixed art only: no valid combination, matching gates, functional security mechanism, tolerances, movement, access control, installation, locking resistance, manipulation, unlocking, manufactured fit or safety performance. No operating instructions. Rigging animation interaction not made or verified.",
+      "bounds": {
+        "x": 0.61075,
+        "y": 0.34825,
+        "z": 0.49,
+        "unit": "m"
+      },
+      "triangles": 2624,
+      "materials": 4,
+      "files": {
+        "glb": {
+          "path": "assets/technology/technology-fixed-open-case-notched-disc-and-blank-dial-display-01/v1.0.0/model.glb",
+          "size": 119476,
+          "sha256": "badc7329daf6160a4881eef1ccf6f0923adf28a50b74a45f2691b1f3c967653d"
+        },
+        "blend": {
+          "path": "assets/technology/technology-fixed-open-case-notched-disc-and-blank-dial-display-01/v1.0.0/source.blend",
+          "size": 744124,
+          "sha256": "776ef6cb7034632892f4e014fb0d60fb8f69e3773880eabc8482eaafe76cd0d2"
+        },
+        "generator": {
+          "path": "assets/technology/technology-fixed-open-case-notched-disc-and-blank-dial-display-01/v1.0.0/generate.py",
+          "size": 28048,
+          "sha256": "3744f3a6138b9223b705b2e634b852ba3c4ad5d6d704c57a524cee317ff5cd88"
+        },
+        "render": {
+          "path": "assets/technology/technology-fixed-open-case-notched-disc-and-blank-dial-display-01/v1.0.0/thumbnail.png",
+          "size": 558744,
+          "sha256": "24f4e5e057cb9213627543cd99a883fe4c456700aa727f83d83104e43bf81de9"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1328-volume02-20261025"
+    },
+    {
+      "id": "winter-fixed-three-runner-open-cockpit-and-mast-sail-iceboat-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "winter",
+      "style": "S01-clean-geometric",
+      "title": "Fixed Three Runner Open Cockpit and Mast Sail Iceboat",
+      "description": "One wholly newly authored empty ice-sailing-craft-inspired static exterior. A long forward spine intersects one broad transverse rear runner plank, with two independent short blunt blades far outboard and a third blade at the far forward end. Three complete carriers form a spread three-point ground layout. A narrow whole chamfer-ended single cockpit has thick walls and a genuine open interior floor, one low seat and rear-leaning pad. One tall leaning mast, complete long lower boom and continuous thick bowed sail rise from a floor-rooted pedestal; three whole fixed stays connect the upper mast to the wide underframe. This is not the old tandem bobsled shortened or a snowmobile with its track removed: its entire long-spine / wide-plank / outboard-blade support organisation is newly authored. It is not the side-float canoe with an extra float or a windsurf board with runners; there is no boat pontoon, standing board, footstrap or wishbone. No old mesh imported, all visible coordinates new. Four opaque constant PBR roles, one prop zero scenes, metres Z up and complete horizontal-envelope-centred origin at three finite blade soles. Empty fixed art only; no real ice compatibility, sliding, steering, stability, load, occupant fit, aerodynamic or structural capability, tension, propulsion, rig movement, sporting standard, manufacture or safety declaration. No rigging animation or interaction made or verified.",
+      "bounds": {
+        "x": 3.16,
+        "y": 3.95,
+        "z": 3.721304,
+        "unit": "m"
+      },
+      "triangles": 612,
+      "materials": 4,
+      "files": {
+        "glb": {
+          "path": "assets/winter/winter-fixed-three-runner-open-cockpit-and-mast-sail-iceboat-01/v1.0.0/model.glb",
+          "size": 48064,
+          "sha256": "a672804bc985008bb711418eaca4853f81d7ed61e7e75737e8693a7004b9c4b8"
+        },
+        "blend": {
+          "path": "assets/winter/winter-fixed-three-runner-open-cockpit-and-mast-sail-iceboat-01/v1.0.0/source.blend",
+          "size": 645856,
+          "sha256": "3142d05bcc9b1263c503582873f4744575b366df44782a2ddb6cd50939c90b0b"
+        },
+        "generator": {
+          "path": "assets/winter/winter-fixed-three-runner-open-cockpit-and-mast-sail-iceboat-01/v1.0.0/generate.py",
+          "size": 28495,
+          "sha256": "087969b3612c13c3ed160ffc6842d1649a781112dac7505c9819ac6f58125a62"
+        },
+        "render": {
+          "path": "assets/winter/winter-fixed-three-runner-open-cockpit-and-mast-sail-iceboat-01/v1.0.0/thumbnail.png",
+          "size": 513016,
+          "sha256": "55bf4f6df989fd0f0dd7c88517e4c8a0abb60ce2810051e33ee00c10fb4ef641"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1328-volume02-20261025"
     }
   ]
 }
