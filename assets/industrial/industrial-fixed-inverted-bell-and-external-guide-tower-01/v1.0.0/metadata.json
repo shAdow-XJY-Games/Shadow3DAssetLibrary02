@@ -1,0 +1,42 @@
+{
+  "id": "industrial-fixed-inverted-bell-and-external-guide-tower-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "industrial",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Inverted Bell and External Guide Tower",
+  "description": "One wholly newly authored complete gas-holder-inspired dry industrial exterior. A wide low circular open pool and broad grounded foundation surround a separate thick inverted cylindrical bell with a shallow closed domed crown and genuine open lower mouth. The bell skirt is fixed into an explicit integral internal display ledge. Six entire high outside standards, two full open-centre hexagonal rings and complete face diagonals form an independent tall guide-tower appearance around and above the bell. Short complete radial brackets deliberately fix the bell to the standards; the circumferential gap between bell and pool remains open. Unlike the old roofed grain cylinder over a narrowing hopper and four legs, or the open waisted cooling shell on inclined lower posts, this whole assembly has nested but separate low pool and inverted bell within a tall skeletal exterior guide cage. All numeric geometry newly authored; no old vessel, tower, roof or framework mesh imported. Four opaque constant PBR roles, metres Z up, full horizontal envelope centred with one complete finite foundation sole; one static prop zero scenes. This is a dry fixed display, not an engineered gas installation: no water, gas, pressure, sealing, telescoping movement, storage capacity, guide fit, loading, access, gas production, distribution, manufacture, installation or safety capability. Rigging animation interaction not made or verified.",
+  "bounds": {
+    "x": 5.7,
+    "y": 5.7,
+    "z": 4.16,
+    "unit": "m"
+  },
+  "triangles": 2232,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/industrial/industrial-fixed-inverted-bell-and-external-guide-tower-01/v1.0.0/model.glb",
+      "size": 128732,
+      "sha256": "a777e561cea2fae85b7dc047424a04f68640ae8099348255f6b0b5aa31ee6894"
+    },
+    "blend": {
+      "path": "assets/industrial/industrial-fixed-inverted-bell-and-external-guide-tower-01/v1.0.0/source.blend",
+      "size": 749828,
+      "sha256": "868e2b318ebd5f2d234b7108e0b6c325f393bdbd4481939c32c013ee15edd0a6"
+    },
+    "generator": {
+      "path": "assets/industrial/industrial-fixed-inverted-bell-and-external-guide-tower-01/v1.0.0/generate.py",
+      "size": 26270,
+      "sha256": "6eccce6b819b595f2da3d741e3e8f8c58ae69bf491f53bb0cb72ecc79b719181"
+    },
+    "render": {
+      "path": "assets/industrial/industrial-fixed-inverted-bell-and-external-guide-tower-01/v1.0.0/thumbnail.png",
+      "size": 562609,
+      "sha256": "53657ec658e69b5b703f56b9751316d213fee8f5743c468266b61566131d25cf"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

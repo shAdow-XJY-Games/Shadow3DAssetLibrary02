@@ -1,0 +1,42 @@
+{
+  "id": "agriculture-fixed-open-comb-and-overcavity-grip-berry-scoop-01",
+  "version": "1.0.0",
+  "category": "modular",
+  "assetKind": "prop",
+  "theme": "agriculture",
+  "style": "warm-handcrafted-village",
+  "title": "Fixed Open Comb and Over-Cavity Grip Berry Scoop",
+  "description": "One newly authored complete empty hand-held berry-comb scoop appearance. A whole deep open collecting floor/back and two high rising cheeks receive a single connected front comb plate with nine blunt elongated teeth and true deep slots. A longitudinal over-cavity arch grip joins a narrow front cross seat and the high rear wall. Not a long-pole crown cup, hooded long-handled dustpan, or picking bin with more containers. All geometry newly drawn, no imported old meshes. One static model zero scenes; no berries, harvesting action, cutting, food suitability, ergonomics, load, plant compatibility or use safety claim.",
+  "bounds": {
+    "x": 0.340000004,
+    "y": 0.564999998,
+    "z": 0.294999987,
+    "unit": "m"
+  },
+  "triangles": 300,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/animal/agriculture-fixed-open-comb-and-overcavity-grip-berry-scoop-01/v1.0.0/model.glb",
+      "size": 19760,
+      "sha256": "c83798c3ce488173ecfc1e336b127e6ed2a581f1f52cc4f48270b1703242b29b"
+    },
+    "blend": {
+      "path": "assets/animal/agriculture-fixed-open-comb-and-overcavity-grip-berry-scoop-01/v1.0.0/source.blend",
+      "size": 559120,
+      "sha256": "b2a5fe4986c3735122e89eed71d3b087ee90f959e3a9d70c49b5b3243d96f99e"
+    },
+    "generator": {
+      "path": "assets/animal/agriculture-fixed-open-comb-and-overcavity-grip-berry-scoop-01/v1.0.0/generate.py",
+      "size": 29712,
+      "sha256": "0be72f0ba67b7ef8609d673818b7bb7dab47dc351f8163eebd9b0bffba3fb04d"
+    },
+    "render": {
+      "path": "assets/animal/agriculture-fixed-open-comb-and-overcavity-grip-berry-scoop-01/v1.0.0/thumbnail.png",
+      "size": 541312,
+      "sha256": "25242b866279d9e8e4d76d105d72cb4a55511313aa11345fd9cf61d769adca1b"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
