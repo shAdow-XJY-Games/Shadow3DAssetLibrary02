@@ -1,0 +1,42 @@
+{
+  "id": "waterworks-whole-twin-mitre-and-three-level-long-lock-scene-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "waterworks",
+  "style": "source-preserved-low-poly",
+  "title": "Whole Twin Mitre and Three Level Long Lock Scene",
+  "description": "One static canal-lock exterior scene and zero new independent models. Two complete qualified balanced twin mitre gate modules retain every original mesh, raw GLB buffer, material dictionary and internal node hierarchy at original unit scale, with only separate longitudinal translation wrappers. New scene-only geometry joins their short mouths into a long narrow chamber between continuous outer banks, with a grounded slab and three separate opaque water-appearance volumes at distinct fixed levels. The upstream approach, enclosed middle chamber and downstream approach are visibly divided by the two intact angled gate pairs; original balance beams and pivot fittings remain intact above the banks. This is not a second gate counted as a new model: the scene relation is a long intervening chamber and two external approaches on a connected bank-and-bed layout, unlike the old single dry sluice/wheel race equipment scene. Water appearance deliberately stops short of reinforcing rails and leaves small wall clearances; it is not a sealed fluid simulation. No gates are cut, pivoted, scaled, recoloured, or extracted from their original mouth modules. No hydraulic operation, filling, flow, navigation, boat clearance, gate compatibility, watertightness, walkway access, load, engineering, installation or safety capability. Rigging, animation and interaction not made or verified.",
+  "bounds": {
+    "x": 6.199999809265137,
+    "y": 11.399999618530273,
+    "z": 2.0399999618530273,
+    "unit": "m"
+  },
+  "triangles": 1620,
+  "materials": 9,
+  "files": {
+    "glb": {
+      "path": "assets/waterworks/waterworks-whole-twin-mitre-and-three-level-long-lock-scene-01/v1.0.0/model.glb",
+      "size": 126896,
+      "sha256": "15ea16bc4371b9f4273d311baa8045a08f9f1c8ef98ee6f92787fa76286f07ac"
+    },
+    "blend": {
+      "path": "assets/waterworks/waterworks-whole-twin-mitre-and-three-level-long-lock-scene-01/v1.0.0/source.blend",
+      "size": 1128864,
+      "sha256": "8cac7f8877ab39e0e7c0310c289c1c9a64daf8d57f9acfb5726d2b2b08acda52"
+    },
+    "generator": {
+      "path": "assets/waterworks/waterworks-whole-twin-mitre-and-three-level-long-lock-scene-01/v1.0.0/generate.py",
+      "size": 58055,
+      "sha256": "2d183dd445bd130f1b017b5ea38cbd3cbe18881479f8a36c3e39ca511dfbc5fc"
+    },
+    "render": {
+      "path": "assets/waterworks/waterworks-whole-twin-mitre-and-three-level-long-lock-scene-01/v1.0.0/thumbnail.png",
+      "size": 507922,
+      "sha256": "b55b5287e38063d79d848fd41e79a8d8ad813a3b492ed23553e0b5504828da02"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "regional-fixed-deep-shafts-and-sloping-gallery-cutaway-01",
+  "version": "1.0.0",
+  "category": "architecture",
+  "assetKind": "modular",
+  "theme": "regional",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Deep Shafts and Sloping Gallery Cutaway",
+  "description": "One newly authored complete dry subterranean-gallery architectural half-section. A continuous solid earth-and-lining appearance contains a low through-gallery falling gently toward its open end and two separate deep vertical access shafts that genuinely join that gallery. The outer grade slopes independently in height through the same section; the two shafts therefore reach different depths. The entire front half is deliberately removed as a fixed explanatory section, exposing the real shaft-to-gallery intersections, full gallery floor, rear wall and retained roof intervals. A single shared-vertex closed material boundary forms the whole terrain/void section with no overlapping block faces. Unlike the old shallow stone road culvert, the main relation is deep surface access into one continuous lower passage rather than a transverse channel under a road cap. Unlike the mine access bay, this actually contains below-grade shaft depths and their connecting gallery, without machinery, rails or a surface assembly of separate old props. All coordinates newly authored. Three opaque solid PBR roles, metres Z up, full horizontal bounds centred and lowest base Z0. One architectural module zero scenes. Abstract dry waterwork-inspired artistic cutaway, not a reconstruction of a named site or a civil-engineering design. The half-section does not claim a fully enclosed tunnel; its missing front half is intentional. No water, groundwater collection, hydraulic grade, flow, excavation, ventilation, accessible route, soil stability, load, construction, historical precision or engineering safety capability. Rigging animation and interaction not made or verified.",
+  "bounds": {
+    "x": 8.0,
+    "y": 1.5,
+    "z": 3.6,
+    "unit": "m"
+  },
+  "triangles": 164,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/regional/regional-fixed-deep-shafts-and-sloping-gallery-cutaway-01/v1.0.0/model.glb",
+      "size": 8012,
+      "sha256": "6ab0ff8941235d4eeb4b29d1d154ed102f478a75c8ba5c4f2e383a16dd9c81c9"
+    },
+    "blend": {
+      "path": "assets/regional/regional-fixed-deep-shafts-and-sloping-gallery-cutaway-01/v1.0.0/source.blend",
+      "size": 530464,
+      "sha256": "ba492ee559de89898b1df9dff4c843e31434a3203a334fa27249c1f0ea1449eb"
+    },
+    "generator": {
+      "path": "assets/regional/regional-fixed-deep-shafts-and-sloping-gallery-cutaway-01/v1.0.0/generate.py",
+      "size": 11573,
+      "sha256": "21192d0a2fd856ab2e9555c6ad55c052d29e8b562b71eefd8985e675e89ba22c"
+    },
+    "render": {
+      "path": "assets/regional/regional-fixed-deep-shafts-and-sloping-gallery-cutaway-01/v1.0.0/thumbnail.png",
+      "size": 519500,
+      "sha256": "4ee2c7f0408c21adf4be8638b92bdb9c0ad121e0f8a6ca8d1f64312ef12dcf28"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
