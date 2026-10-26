@@ -1,0 +1,42 @@
+{
+  "id": "spacebase-fixed-segmented-reflector-and-layered-kite-shield-observatory-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "spacebase",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Segmented Reflector and Layered Kite Shield Observatory",
+  "description": "One wholly newly authored complete deployed orbital-observatory-style exterior. A closed chamfered central instrument bus carries a tall rear spine and complete shallow concave backplate, nineteen separate thick opaque hexagonal face elements with real small gaps, and three entire forward struts converging on one complete secondary-style pod. Three whole broad kite-shaped shield shells sit below this instrument, each a single finite-thickness shallow folded surface with its own complete outline and real interlayer gaps away from the central bus. The bus joins every layer and bears a small whole rear equipment cover. Unlike the old ground-rocker telescope, there is no square mirror box, long tubular diagonal-rod span, front cage, side eyepiece or ground altitude bearings; unlike the twin-wing solar array there is no mast/spar pair supporting two ladder-frame panel wings or painted cell grid. The whole elevated primary/forward pod and broad under-shield/common-bus relationship is newly designed, not old mirrors pasted onto solar panels, a number change or imported mesh collection. One model zero scenes, four opaque constant untextured PBR appearances, metre-style native Z-up coordinates and complete horizontal envelope centred over the bus lower display datum. All dimensions simplified artistic; no named real mission or technical replica. The display datum does not imply actual ground stability or space flight. No optical prescription, reflection/collection/sensing, alignment, light path, thermal control, energy or electrical generation, electronics, deployment, orbit, navigation, propulsion, gravity, balance, load, manufacture, working instrument, spacecraft or equipment safety capability is made or verified. Rigging animation and interaction not made.",
+  "bounds": {
+    "x": 3.5776,
+    "y": 5.096,
+    "z": 3.6,
+    "unit": "m"
+  },
+  "triangles": 1628,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/spacebase/spacebase-fixed-segmented-reflector-and-layered-kite-shield-observatory-01/v1.0.0/model.glb",
+      "size": 114564,
+      "sha256": "af0dd4b4c0fd10364a59787a8ac7a54017944499b75b4fda654fae715816efe7"
+    },
+    "blend": {
+      "path": "assets/spacebase/spacebase-fixed-segmented-reflector-and-layered-kite-shield-observatory-01/v1.0.0/source.blend",
+      "size": 759968,
+      "sha256": "ab37de92ef9727c8aad85886705cc8bb0e0b2685e9203e034a47a895d63d7b07"
+    },
+    "generator": {
+      "path": "assets/spacebase/spacebase-fixed-segmented-reflector-and-layered-kite-shield-observatory-01/v1.0.0/generate.py",
+      "size": 27599,
+      "sha256": "ab84b97bd5be8cf8bbd8ba888ebe8543d3e1bbabaf5b6b0072dd3f14f8285450"
+    },
+    "render": {
+      "path": "assets/spacebase/spacebase-fixed-segmented-reflector-and-layered-kite-shield-observatory-01/v1.0.0/thumbnail.png",
+      "size": 578576,
+      "sha256": "058055df407d0b3280a44a02fa3a95fce28fab675988f0bcc199978090a08530"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

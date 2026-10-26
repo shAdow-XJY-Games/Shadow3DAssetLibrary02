@@ -1,0 +1,42 @@
+{
+  "id": "photography-whole-empty-jib-and-camera-pedestal-preparation-bay-scene-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "photography",
+  "style": "source-preserved-low-poly",
+  "title": "Whole Empty Jib and Camera Pedestal Preparation Bay",
+  "description": "One static camera-support equipment preparation bay, one scene and zero new independent models. Three whole qualified originals retain complete mesh buffers, opaque PBR, normals, internal hierarchies and unit scale: a complete empty parallel-arm camera jib independently occupies the rear position, while a whole three-arm caster/column pedestal in front carries the entire twin-magazine turret cine camera on its finite upper plate. Only whole translations place these objects; camera body sole rests on the plate without altered parts or a newly modeled adapter. The jib carrier remains empty. Unlike the portrait sweep scene, there is no subject backdrop or lighting setup; unlike the double-table film inspection corner, this groups full floor-standing support equipment rather than rewind and slate work surfaces. One new finite common slab is scene-only. The fixed geometric display is not verified equipment compatibility, mounted retention or safe loading. No people, camera imaging, optics, motion, balance, hydraulics, rolling, installation, load rating, operational procedure or safety capability. Rigging animation interaction not made.",
+  "bounds": {
+    "x": 4.199999809265137,
+    "y": 3.4000000953674316,
+    "z": 2.2899999618530273,
+    "unit": "m"
+  },
+  "triangles": 7152,
+  "materials": 11,
+  "files": {
+    "glb": {
+      "path": "assets/photography/photography-whole-empty-jib-and-camera-pedestal-preparation-bay-scene-01/v1.0.0/model.glb",
+      "size": 368684,
+      "sha256": "b9153e8120449aaaa361fcf4ab905edcae95ca7748fcd8222cdfd704356910a9"
+    },
+    "blend": {
+      "path": "assets/photography/photography-whole-empty-jib-and-camera-pedestal-preparation-bay-scene-01/v1.0.0/source.blend",
+      "size": 1773436,
+      "sha256": "743966331b860740f0fb6e3a9e751f58ec340b36937005941f1201b3c5c53817"
+    },
+    "generator": {
+      "path": "assets/photography/photography-whole-empty-jib-and-camera-pedestal-preparation-bay-scene-01/v1.0.0/generate.py",
+      "size": 121565,
+      "sha256": "9d85265bbc2219a00ff403ec4ea8c24a4bc39f4b1dfab0b423c2c2e06b657040"
+    },
+    "render": {
+      "path": "assets/photography/photography-whole-empty-jib-and-camera-pedestal-preparation-bay-scene-01/v1.0.0/thumbnail.png",
+      "size": 509535,
+      "sha256": "e2600af1de7e631d8d9843a7bded58cd185040ea71d7442c8aee8bcc953ddde2"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
