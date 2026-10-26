@@ -1849,6 +1849,11 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary02",
       "commit": "c6615cacd4379acaad00df1572646c1a66be0961"
+    },
+    "original-qualified-batch-1402-volume02-20261025": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary02",
+      "commit": "ae63f082ab5559e4ce542957bfdefb4b33c5dd9a"
     }
   },
   "assets": [
@@ -62008,6 +62013,135 @@
       "status": "verified",
       "license": "All rights reserved",
       "sourceId": "original-qualified-batch-1399-volume02-20261025"
+    },
+    {
+      "id": "architecture-static-three-separated-struts-and-cable-prism-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "architecture",
+      "style": "S01-clean-geometric",
+      "title": "Static Three Separated Struts and Cable Prism",
+      "description": "One newly authored complete static cable-prism structural sculpture. Three whole thick inclined struts connect independently rotated upper and lower triangular endpoint sets without contacting each other. Three continuous lower cables, three continuous upper cables and three separate opposing side cables join all six endpoint nodes into one open spatial framework. Three small grounded pads root the lower nodes; six complete capped node collars visually receive the buried cable and strut ends. There is no centre post, rigid upper ring, roof, platform, net face or hidden supporting column. Unlike the old mast-rope pyramid, the rigid members do not converge at a common crown and the cable network has no woven triangular net panels. Unlike the offset-rafter roof, there are no touching cyclic rafters or grounded perimeter posts carrying a rigid bearing ring. All coordinates independently authored. Three opaque PBR roles, metres Z up and full horizontal-bounds centre. One whole architectural display prop zero scenes. Fixed tensegrity-inspired artistic arrangement only: no solved equilibrium, prestress, cable tension, self-supporting ability, force balance, load capacity, material strength, assembly instructions, installation, human use or engineering safety claim. Rigid endpoints are fixed illustrative overlaps; animation, rigging and physical simulation are not made or verified.",
+      "bounds": {
+        "x": 2.0327241335952166,
+        "y": 2.027340350387684,
+        "z": 2.595,
+        "unit": "m"
+      },
+      "triangles": 1128,
+      "materials": 3,
+      "files": {
+        "glb": {
+          "path": "assets/architecture/architecture-static-three-separated-struts-and-cable-prism-01/v1.0.0/model.glb",
+          "size": 63708,
+          "sha256": "c2cb6764534e9287432b2fae81727eb7c6586c64017557b3e5ae23bb25892d94"
+        },
+        "blend": {
+          "path": "assets/architecture/architecture-static-three-separated-struts-and-cable-prism-01/v1.0.0/source.blend",
+          "size": 674920,
+          "sha256": "05b94f54e3b2a1e76d5d3cbc410ae032e874d593eab6063355e355c596c6521b"
+        },
+        "generator": {
+          "path": "assets/architecture/architecture-static-three-separated-struts-and-cable-prism-01/v1.0.0/generate.py",
+          "size": 10937,
+          "sha256": "1e624b35f063283204b41a34cb4a839ddbc11b32a673e5606177111c1b291de5"
+        },
+        "render": {
+          "path": "assets/architecture/architecture-static-three-separated-struts-and-cable-prism-01/v1.0.0/thumbnail.png",
+          "size": 398444,
+          "sha256": "4c1b8b8a03f4915be9d2e3e14e6e86e1de0bcc03e7dae24a0f7adc3a09e63488"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1402-volume02-20261025"
+    },
+    {
+      "id": "office-fixed-folded-hollow-shell-and-raised-wire-handle-clip-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "office",
+      "style": "source-preserved-low-poly",
+      "title": "Fixed Folded Hollow Shell and Raised Wire Handle Clip",
+      "description": "One newly authored complete empty folded-shell binder-clip exterior. One continuous thick folded triangular shell wraps a true axial hollow and leaves a finite front mouth. Two complete rolled edge sleeves terminate the open shell, each carrying a complete raised bent wire handle with retained roots. No old jaw or handle is imported. Unlike the old staple remover there are no crossed fork jaws or four claw tips; unlike the nail clipper there are no opposed bowed cutting plates or top lever on a retaining post. Three opaque PBR roles, metres Z up, centred ground datum, one model zero scenes. Fixed static stationery display only: no elastic action, clamping force, paper fit, operation or safety capability. Rigging animation interaction not made.",
+      "bounds": {
+        "x": 0.09373590350151062,
+        "y": 0.03973868489265442,
+        "z": 0.07080163061618805,
+        "unit": "m"
+      },
+      "triangles": 788,
+      "materials": 3,
+      "files": {
+        "glb": {
+          "path": "assets/office/office-fixed-folded-hollow-shell-and-raised-wire-handle-clip-01/v1.0.0/model.glb",
+          "size": 70868,
+          "sha256": "2cacdd4b2661660f98dc456a77d85cdcc6dfd4dff6337bcc22b833d8d664daa0"
+        },
+        "blend": {
+          "path": "assets/office/office-fixed-folded-hollow-shell-and-raised-wire-handle-clip-01/v1.0.0/source.blend",
+          "size": 644480,
+          "sha256": "2a0295c2df3e70c7d976cb01cb2f501b047ea4b26a0ba816be91da7990b727d4"
+        },
+        "generator": {
+          "path": "assets/office/office-fixed-folded-hollow-shell-and-raised-wire-handle-clip-01/v1.0.0/generate.py",
+          "size": 14697,
+          "sha256": "deb5fe485cc392eb948fc23b129daea0054ff9a104c80f7583745ed788c49e8d"
+        },
+        "render": {
+          "path": "assets/office/office-fixed-folded-hollow-shell-and-raised-wire-handle-clip-01/v1.0.0/thumbnail.png",
+          "size": 482201,
+          "sha256": "8bdad38c2502f1ce16619e22cf30196ec583af5a111c2da62f55c83a854c33d6"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1402-volume02-20261025"
+    },
+    {
+      "id": "office-fixed-split-nib-and-posted-cap-fountain-pen-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "office",
+      "style": "source-preserved-low-poly",
+      "title": "Fixed Split Nib and Posted Cap Fountain Pen",
+      "description": "One wholly newly authored complete fountain-pen-style exterior with its cap fixed over the rear end and its blunt nib exposed. A continuous turned-looking barrel narrows into one separate complete grip section. One thick curved tapered nib plate has a true central open slit widening into an expanded vent opening, with two finite blunt tip branches; a complete dark feed-shaped support remains behind the nib. One deep thick closed-bottom cap surrounds the rear barrel, with a proud metal-look mouth band and one continuous exterior pocket clip. The whole pen is displayed upright on the finite closed cap end, no separate stand. Unlike the old utility knife it has no long body slider or sliding flat extension through a front collar; unlike a drawing-machine blunt cylindrical pen stem it includes the complete nib/grip/barrel/posted cap/clip organization. All vertices newly authored, no old blade or pen component imported or extracted. Three opaque PBR roles, metres Z up and centred ground datum, one complete model zero scenes. Static stationery exterior only: no writing, ink reservoir or flow, nib flex, sharp edge, cap motion, pocket/hand fit, manufacture, operating instructions or safety capability. Rigging animation interaction not made.",
+      "bounds": {
+        "x": 0.02539999969303608,
+        "y": 0.03049926646053791,
+        "z": 0.2029999941587448,
+        "unit": "m"
+      },
+      "triangles": 1856,
+      "materials": 3,
+      "files": {
+        "glb": {
+          "path": "assets/office/office-fixed-split-nib-and-posted-cap-fountain-pen-01/v1.0.0/model.glb",
+          "size": 161764,
+          "sha256": "68cd158ccd6af96bb032a99e7e6772c680f5a873fc51173391f85c39731900b3"
+        },
+        "blend": {
+          "path": "assets/office/office-fixed-split-nib-and-posted-cap-fountain-pen-01/v1.0.0/source.blend",
+          "size": 773504,
+          "sha256": "7591acd4a139a046f78c17b0a86311056a35ccdc36bcf192f9ca7a1349523d8d"
+        },
+        "generator": {
+          "path": "assets/office/office-fixed-split-nib-and-posted-cap-fountain-pen-01/v1.0.0/generate.py",
+          "size": 16432,
+          "sha256": "c1b968324add1dbed3c015bc9e54e5b5672a24b7eaa11d713fd8a2135c64da2e"
+        },
+        "render": {
+          "path": "assets/office/office-fixed-split-nib-and-posted-cap-fountain-pen-01/v1.0.0/thumbnail.png",
+          "size": 431385,
+          "sha256": "e082b659e6f8d6ed258c9f7de97833f4d818c444df96de2d11509175a9db3330"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1402-volume02-20261025"
     }
   ]
 }
