@@ -1,0 +1,42 @@
+{
+  "id": "art-fixed-rosette-spindle-and-low-pivot-rocking-lathe-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "art",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Rosette Spindle and Low Pivot Rocking Lathe",
+  "description": "One wholly newly authored complete fixed ornamental-turning-inspired tabletop apparatus. A full low bed and four finite feet carry two fixed lower bearing pedestals supporting one complete elevated rocking head frame on a long low hinge. The upper horizontal spindle is parallel to that lower pivot rather than crossing it: two complete tall head cheeks and bored bearing collars join both levels. A true thick eight-lobed rosette plate is rooted on the rear spindle and visibly meets a separate fixed side stop stem carried on its own pedestal. The front spindle ends in one whole blank circular faceplate. An independent front transverse slide, raised toolpost and short blunt tool appearance remain visibly separated from the faceplate. A complete rear crank with offset grip and front slide handwheel finish the apparatus. No old lathe or dividing-head geometry imported. Unlike the fixed-head long-bed lathe there are no tailstock, longitudinal saddle, stepped chuck jaws or long feed rod. Unlike the tilting index head, the lower pivot runs parallel to the spindle and the rosette-to-side-stop relation belongs to the whole rocking head, not a perforated indexing disk on a transverse tilt axis. Four opaque constant PBR roles, metres Z up, full horizontal bounds centred, one model zero scenes. Generic static art-workshop display, not an identified historical machine replica or engineering design. No rotation, rocking travel, cam law, sustained contact, spring return, engraving, cutting, material removal, dimensional accuracy, adjustment, workholding, bearing fit, manufacture, load or machine safety made or verified. No rigging animation interaction.",
+  "bounds": {
+    "x": 1.02,
+    "y": 1.085,
+    "z": 0.896,
+    "unit": "m"
+  },
+  "triangles": 2452,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/art/art-fixed-rosette-spindle-and-low-pivot-rocking-lathe-01/v1.0.0/model.glb",
+      "size": 129680,
+      "sha256": "17c14de185cded1cd898f5a681a274f2e873e68b0e6e8fdae7ed1b9fd8008923"
+    },
+    "blend": {
+      "path": "assets/art/art-fixed-rosette-spindle-and-low-pivot-rocking-lathe-01/v1.0.0/source.blend",
+      "size": 857864,
+      "sha256": "3bc331ff223f44bff1adf97958ea0566a461885bab3f4ac1c4bc03b164cb1f52"
+    },
+    "generator": {
+      "path": "assets/art/art-fixed-rosette-spindle-and-low-pivot-rocking-lathe-01/v1.0.0/generate.py",
+      "size": 12670,
+      "sha256": "e32d7f829ae8caf7c39b008fbdfe9a45f248bc0df7f2108a8466403bf35cb933"
+    },
+    "render": {
+      "path": "assets/art/art-fixed-rosette-spindle-and-low-pivot-rocking-lathe-01/v1.0.0/thumbnail.png",
+      "size": 435126,
+      "sha256": "5f48dec793b9398090959f508144b92df72c26c46d768cf1abeef2c93b140214"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

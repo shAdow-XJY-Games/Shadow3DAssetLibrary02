@@ -1,0 +1,42 @@
+{
+  "id": "spacebase-static-thick-ring-radial-cabins-and-axis-hub-station-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "spacebase",
+  "style": "S01-clean-geometric",
+  "title": "Static Thick Ring Radial Cabins and Axis Hub Station",
+  "description": "One wholly newly authored fictional wheel-station exterior on a plain fixed display carrier. A single complete thick closed toroidal body has a bevelled volumetric tube section and integral shallow recessed opaque front panel bays. Four whole radial cabin-like connector exteriors join it to one long central axial capsule, whose stepped forward end contains a real blind circular port and a proud full annular rim. The first actual image was rejected for wheel-like overall identity. This first real revision deepens the ring body and lengthens the aft capsule. One entire aft cross-carrier now supports two complete widely separated opaque panel wings with shared-boundary connected border/grid frames. Every panel and frame is newly authored, not imported old solar arrays. The aft capsule end remains capped and tapered. Two complete low display uprights and one continuous finite-soled foot support the entire illustrative object. Unlike the old T-shaped three-mouth ground corridor, this is a full closed ring surrounding a central axial body with radial external links, not old passage segments bent or assembled; unlike an armillary, it has one volumetric outer body and long capsule rather than crossed thin bands and a central globe. Every numeric mesh newly authored, no old habitat, ring, corridor or instrument component imported. Four opaque untextured PBR roles, metres native Z up and horizontal whole-envelope-centred ground datum, one prop zero scenes. Simplified exterior sculpture only: no internal rooms, continuous walkable passages, habitable scale, atmosphere, airlocks, compatible docking, orbital operation, rotation, artificial gravity, power, propulsion, access, spacecraft engineering, installation or safety capability. Panel appearances are opaque, not transparent glazing. Rigging animation interaction not made or verified.",
+  "bounds": {
+    "x": 9.3,
+    "y": 3.84,
+    "z": 6.64,
+    "unit": "m"
+  },
+  "triangles": 3120,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/spacebase/spacebase-static-thick-ring-radial-cabins-and-axis-hub-station-01/v1.0.0/model.glb",
+      "size": 146104,
+      "sha256": "72488ae4353534234cf81476acd7c241b0dbdaab631f5bb05c2192e1c344d973"
+    },
+    "blend": {
+      "path": "assets/spacebase/spacebase-static-thick-ring-radial-cabins-and-axis-hub-station-01/v1.0.0/source.blend",
+      "size": 760460,
+      "sha256": "64af796429c72005f0b5f92274d7b6b29583c56fe40908fde87f9f6cef1b43ef"
+    },
+    "generator": {
+      "path": "assets/spacebase/spacebase-static-thick-ring-radial-cabins-and-axis-hub-station-01/v1.0.0/generate.py",
+      "size": 28186,
+      "sha256": "b26ab2a0b93c58dcd19b7f2cc877ff2e849a0b0e8819dd93aff096b761dd1d18"
+    },
+    "render": {
+      "path": "assets/spacebase/spacebase-static-thick-ring-radial-cabins-and-axis-hub-station-01/v1.0.0/thumbnail.png",
+      "size": 577308,
+      "sha256": "c21caa5d9a0a736dd23f4702175ce6c2cddd1de9dadb6584a7b0bf1b354e81bc"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

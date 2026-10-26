@@ -1,0 +1,42 @@
+{
+  "id": "regional-whole-two-building-and-rising-step-lane-scene-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "regional",
+  "style": "source-preserved-low-poly",
+  "title": "Whole Two Building And Rising Step Lane",
+  "description": "One complete static mountain-step-lane settlement scene, one scene and zero new standalone models. Two entire qualified buildings remain at original unit scale with all their raw GLB positions, normals, indexed triangles, internal hierarchy and PBR preserved: one whole porch cottage on a lower western terrace and one complete open-loading gambrel half-loft storehouse on an elevated eastern terrace. Only whole translations are applied. A new continuous finite sloping earth body, two connected terrace/approach pads and one whole nine-tread stone flight organize a low foreground approach, an uphill central lane and an upper turning landing in front of the storehouse. The lower cottage retains its original porch and fixed door, while the upper building retains its complete front loading opening and rear loft. Unlike the old four-cottage level straight residential street, building bases occupy two different supported elevations and the route rises between their nonoverlapping whole envelopes. Unlike the flat baffled ruin path, no retained breached wall forces the dogleg; the turn is a terrace connection after a real height change. This is not resized architecture or a same-plane rearrangement. Four newly authored meshes are scene-only landscape and route support, not additional assets. No old component removed, recoloured, reshaped or individually counted. Metres Z up, finite ground underside and centred scene envelope. Fixed unoccupied artistic landscape only, not a named historical village or civil plan. No door animation, enterable cottage interior, navigation mesh, route accessibility, human/vehicle clearance, slope or stair compliance, soil stability, load capacity, drainage, construction or engineering safety claim. Rigging animation and interaction not made or verified.",
+  "bounds": {
+    "x": 11.600000381469727,
+    "y": 10.600000381469727,
+    "z": 6.650000095367432,
+    "unit": "m"
+  },
+  "triangles": 3976,
+  "materials": 15,
+  "files": {
+    "glb": {
+      "path": "assets/regional/regional-whole-two-building-and-rising-step-lane-scene-01/v1.0.0/model.glb",
+      "size": 315148,
+      "sha256": "9a0ce1c1bd175c4db8fee4c69fc1729ee18f6d373289097d4b1d4d3e36aeeccb"
+    },
+    "blend": {
+      "path": "assets/regional/regional-whole-two-building-and-rising-step-lane-scene-01/v1.0.0/source.blend",
+      "size": 1365800,
+      "sha256": "6f23f6e71809988f36f5aa09ee5c942f3bf099b4c9c26a47c9561e2a2d91d7af"
+    },
+    "generator": {
+      "path": "assets/regional/regional-whole-two-building-and-rising-step-lane-scene-01/v1.0.0/generate.py",
+      "size": 87409,
+      "sha256": "2c403a4d9408812744b50a0626ef54f246f32e3fef607fd08e533a9eded01dd7"
+    },
+    "render": {
+      "path": "assets/regional/regional-whole-two-building-and-rising-step-lane-scene-01/v1.0.0/thumbnail.png",
+      "size": 547587,
+      "sha256": "17ed3187ba3e1ed7045ade669ba79dbd26cce6c1fc9cdac14ae39dad64b7d70e"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
