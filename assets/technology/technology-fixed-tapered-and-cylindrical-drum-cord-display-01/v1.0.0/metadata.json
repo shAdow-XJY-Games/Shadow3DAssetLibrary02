@@ -1,0 +1,42 @@
+{
+  "id": "technology-fixed-tapered-and-cylindrical-drum-cord-display-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "technology",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Tapered and Cylindrical Drum Cord Display",
+  "description": "One complete newly authored static paired-drum exhibit. A grounded base and open rear standard support two parallel vertical shafts with lower and upper bored bearings. One full tapered winding drum faces a separate full cylindrical barrel. One continuous thick cord winds three turns along the taper, crosses the clear space and winds two turns down the separate barrel; these are not independent decorative rings. Both drums, the entire cord and all supports are newly drawn as one prop, not an old winch with its barrel swapped. Three opaque PBR roles. No constant-force regulation, clock timing, chain mechanism, winding, rotation, contact-force, torque, load or engineering safety claim. Static visual only, no rigging animation interaction.",
+  "bounds": {
+    "x": 1.82,
+    "y": 0.86,
+    "z": 1.2,
+    "unit": "m"
+  },
+  "triangles": 4476,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/technology/technology-fixed-tapered-and-cylindrical-drum-cord-display-01/v1.0.0/model.glb",
+      "size": 290196,
+      "sha256": "d5b82483f9ff4157da8f796b3bb315a6a5583fb34593ba61da7909a9a207ddf1"
+    },
+    "blend": {
+      "path": "assets/technology/technology-fixed-tapered-and-cylindrical-drum-cord-display-01/v1.0.0/source.blend",
+      "size": 837120,
+      "sha256": "bf07e4ffb8358b2162faa2a25016394259bc57f0870af1f4cd9e8e2cd64d6466"
+    },
+    "generator": {
+      "path": "assets/technology/technology-fixed-tapered-and-cylindrical-drum-cord-display-01/v1.0.0/generate.py",
+      "size": 11279,
+      "sha256": "1f412d97d2a4a63391c8e3ec0caa8e7cfb88e6fb9ed62c8f4066a3098fb5b8a5"
+    },
+    "render": {
+      "path": "assets/technology/technology-fixed-tapered-and-cylindrical-drum-cord-display-01/v1.0.0/thumbnail.png",
+      "size": 512341,
+      "sha256": "23ccbc626eea53b74d41614224103faa05b982a501d8be4f76aff786c7f19725"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "carpentry-fixed-split-sole-and-cross-drum-hand-planer-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "carpentry",
+  "style": "source-preserved-low-poly",
+  "title": "Fixed Split Sole and Cross Drum Hand Planer",
+  "description": "One newly authored complete static portable electric-planer-style exterior. Separate whole front and rear flat shoes leave a true transverse opening around one fixed blunt cylindrical barrel above the sole datum. A continuous bridge case and closed side drive-cover exterior connect the shoes around that cavity. A full front stem and broad blank knob, complete rear open grip with fixed trigger, genuine open side-port wall and short closed rear entry complete one handheld tool. All whole numeric geometry new, not a wooden hand plane recoloured or the belt sander with one roller removed: there is no diagonal iron/frog or continuous sanding belt. Three opaque constant PBR roles, metres and centred ground origin; one prop zero scenes. No sharp cutting knives, motor, electrical circuit, rotating barrel, feed, shaving, collection airflow, depth adjustment, handling, manufacture or safety performance claim. Rigging animation interaction not made.",
+  "bounds": {
+    "x": 0.2029999941587448,
+    "y": 0.41499999165534973,
+    "z": 0.22499999403953552,
+    "unit": "m"
+  },
+  "triangles": 1080,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/carpentry/carpentry-fixed-split-sole-and-cross-drum-hand-planer-01/v1.0.0/model.glb",
+      "size": 100536,
+      "sha256": "51bb66a5b5e2c3e966409fa7c86f929579c93d7bd775ddb26f87d5859110144e"
+    },
+    "blend": {
+      "path": "assets/carpentry/carpentry-fixed-split-sole-and-cross-drum-hand-planer-01/v1.0.0/source.blend",
+      "size": 714816,
+      "sha256": "556a7aaf2cd3157285fc1ebe409cda3f45e6b0760a96df2d22c9d509c9c39c4a"
+    },
+    "generator": {
+      "path": "assets/carpentry/carpentry-fixed-split-sole-and-cross-drum-hand-planer-01/v1.0.0/generate.py",
+      "size": 16155,
+      "sha256": "109a3b78eab9d3361c213c5763eeff138d9e36d047c61f7a6c477710992e9d4d"
+    },
+    "render": {
+      "path": "assets/carpentry/carpentry-fixed-split-sole-and-cross-drum-hand-planer-01/v1.0.0/thumbnail.png",
+      "size": 500997,
+      "sha256": "48d392a82f9f415a00f1f646d57be99656c2ddfe53a89643f37d0bfe331a6443"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

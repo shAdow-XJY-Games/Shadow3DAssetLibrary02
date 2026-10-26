@@ -1,0 +1,42 @@
+{
+  "id": "agriculture-whole-empty-headgate-and-parked-milker-bay-scene-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "agriculture",
+  "style": "source-preserved-faceted-natural-ecology",
+  "title": "Whole Empty Headgate and Parked Milker Bay",
+  "description": "One static agricultural equipment-preparation display scene, zero new reusable models. The entire previously qualified empty longitudinal headgate handling frame occupies the left side of one finite common floor, with its front waist-shaped gate, rear portal, full side rails, kickboards and skids intact. The entire previously qualified portable canister/pump/cup-cluster trolley is parked separately to its right, at original unit scale, with a visible unoccupied side interval and its cup group facing forward. Both frame ends and the space between the whole units remain visually open; no animal, person, inserted tool, added pipe or operational linkage joins them. Unlike the existing raised separator/floor churn processing corner, this juxtaposes an empty long passage module and a separate mobile equipment station at one floor level, not a raised work counter and two vessels. All complete original oriented triangles and per-face constant opaque PBR retained; only whole translations and explicit float32 storage. Original hierarchy and normals are explicitly baked/recomputed, not claimed binary-identical GLB. One scene zero models. Static parked display only, not validated husbandry workflow or fit: no animal use, restraint, milking, hygiene, plumbing, vacuum, clearances for people/animals, navigation, capacity, stability or safety claim. No rig, motion or interaction.",
+  "bounds": {
+    "x": 3.5,
+    "y": 3.299999952,
+    "z": 1.814838648,
+    "unit": "m"
+  },
+  "triangles": 4256,
+  "materials": 8,
+  "files": {
+    "glb": {
+      "path": "assets/agriculture/agriculture-whole-empty-headgate-and-parked-milker-bay-scene-01/v1.0.0/model.glb",
+      "size": 276780,
+      "sha256": "6cab4044519d733c400410deb9227cff0b9938ea5ef1483c7ec0f1033e17f922"
+    },
+    "blend": {
+      "path": "assets/agriculture/agriculture-whole-empty-headgate-and-parked-milker-bay-scene-01/v1.0.0/source.blend",
+      "size": 1128096,
+      "sha256": "8bfa79d58c39257ebb003707ed3f3b1f4a1929967ea9576707cd2b5f73919d20"
+    },
+    "generator": {
+      "path": "assets/agriculture/agriculture-whole-empty-headgate-and-parked-milker-bay-scene-01/v1.0.0/generate.py",
+      "size": 98809,
+      "sha256": "72b849de1cf9fd00c5ec119501a2603ed14829e075e7b05cf6f6ad0f78530d0a"
+    },
+    "render": {
+      "path": "assets/agriculture/agriculture-whole-empty-headgate-and-parked-milker-bay-scene-01/v1.0.0/thumbnail.png",
+      "size": 526032,
+      "sha256": "f43a15e409ef353598374ad743bd1cad110ea5c47c14b2d2b0e38e294372a65f"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
