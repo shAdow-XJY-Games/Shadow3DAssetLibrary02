@@ -1,0 +1,42 @@
+{
+  "id": "industrial-fixed-cutaway-channel-and-unequal-upright-chamber-pump-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "industrial",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Cutaway Channel and Unequal Upright Chamber Pump",
+  "description": "One wholly newly authored complete hydraulic-ram-pump-inspired dry static display. A single continuous thick low horizontal shell retains a true through channel, a deliberate longitudinal front inspection cut and two independent upper openings. One short open-top chamber on the left contains a complete annular seat and separate fixed raised blunt disk/stem, held by two external guide posts and a small cross bridge. A separate much taller complete hollow closed-domed vessel rises over the right opening; both belong to the same common manifold on two whole broad feet. Whole open annular inlet and terminal connectors complete the single apparatus. No old visible meshes imported. Unlike the old one-seat spring-poppet valve, there is no tall exposed coil or adjusting bonnet above a single right-angle chamber; unlike the opposed drum pump there is no symmetric horizontal drum pair, central drive body or upper/lower bridging loops. New asymmetric short-open-valve and tall-domed-vessel organization over one common channel, not a colored old pump or an added loose tank counted separately. Four opaque constant PBR appearances, metre-style native Z-up and whole horizontal envelope centred over the foot soles; one model zero scenes. Dimensions and cross-section are simplified illustrative artwork, not an engineering design or construction instructions. No fluid, air charge, pressure, valve actuation, sealing, fit, pump cycle, flow continuity, hydraulic operation, performance, capacity, manufacture, installation, load, balance or equipment safety is made or verified. Rigging animation and interaction not made.",
+  "bounds": {
+    "x": 2.64,
+    "y": 0.84,
+    "z": 2.19,
+    "unit": "m"
+  },
+  "triangles": 3140,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/industrial/industrial-fixed-cutaway-channel-and-unequal-upright-chamber-pump-01/v1.0.0/model.glb",
+      "size": 138448,
+      "sha256": "7f2e923a3b6a88de2dca43092bf0f81ff8ee3b9b9f69a2969e1a980b4d4b1901"
+    },
+    "blend": {
+      "path": "assets/industrial/industrial-fixed-cutaway-channel-and-unequal-upright-chamber-pump-01/v1.0.0/source.blend",
+      "size": 751836,
+      "sha256": "76dc22504de82b2e081519659c66acf31b5dc0a2d43772eb2969c7637609d1a6"
+    },
+    "generator": {
+      "path": "assets/industrial/industrial-fixed-cutaway-channel-and-unequal-upright-chamber-pump-01/v1.0.0/generate.py",
+      "size": 28497,
+      "sha256": "3ab5ae0f3427b85916937dc95a9a2ddfcbb4373884af00300c3f33af654c0bc5"
+    },
+    "render": {
+      "path": "assets/industrial/industrial-fixed-cutaway-channel-and-unequal-upright-chamber-pump-01/v1.0.0/thumbnail.png",
+      "size": 535487,
+      "sha256": "9fc17e0ca4b8280b5d5024f648b835992961ce306007cac98a6bfa5fdb324676"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

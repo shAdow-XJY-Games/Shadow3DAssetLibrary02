@@ -1,0 +1,42 @@
+{
+  "id": "agriculture-whole-open-tailgate-round-chamber-and-pickup-baler-01",
+  "version": "1.0.0",
+  "category": "modular",
+  "assetKind": "prop",
+  "theme": "agriculture",
+  "style": "warm-handcrafted-village",
+  "title": "Whole Open Tailgate Round Chamber and Pickup Baler",
+  "description": "One independently authored whole empty towable round-baler-inspired apparatus in a fixed display pose. A full low twin-wheel frame and converging draw beams support a thick front semicylindrical chamber, complete side cheeks and a full rear curved shell raised about an upper cross pin. Its real empty curved inside and lower rollers are exposed rather than a black disc or enclosed bale. A separate low horizontal pickup drum with complete support cheeks and blunt comb teeth sits under a whole shallow front visor. This is not the old rectangular long-hand-lever press reshaped or a combine with its cab deleted: all visible geometry is newly authored for this complete low front pickup/large round rear chamber/raised curved tailgate relationship. One model zero scenes, four opaque matte PBR materials. No crop or bale. Static visual exterior only: no gathering, feed path, compaction, bale formation, power, towing, articulation, hydraulic motion, manufacture, load, human fit or agricultural safety capability. Rigging animation interaction not made.",
+  "bounds": {
+    "x": 1.940000057,
+    "y": 3.199403524,
+    "z": 2.047899008,
+    "unit": "m"
+  },
+  "triangles": 1456,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/agriculture/agriculture-whole-open-tailgate-round-chamber-and-pickup-baler-01/v1.0.0/model.glb",
+      "size": 84368,
+      "sha256": "24f683fa8ded26a8143c108954bae29bce3c9cf66e921b740356d98c3b61be78"
+    },
+    "blend": {
+      "path": "assets/agriculture/agriculture-whole-open-tailgate-round-chamber-and-pickup-baler-01/v1.0.0/source.blend",
+      "size": 718760,
+      "sha256": "1c136660f2398d9a31cd584fb461b620cf531f7eb330bf57aa413e9f7595ef56"
+    },
+    "generator": {
+      "path": "assets/agriculture/agriculture-whole-open-tailgate-round-chamber-and-pickup-baler-01/v1.0.0/generate.py",
+      "size": 31915,
+      "sha256": "3cf594034b88bb89ace19566c92280d9722a310fdc6f9d230ba4386823bc2075"
+    },
+    "render": {
+      "path": "assets/agriculture/agriculture-whole-open-tailgate-round-chamber-and-pickup-baler-01/v1.0.0/thumbnail.png",
+      "size": 534243,
+      "sha256": "195fe8c95d92565202a1a941972318c1555fa64644207086a091d92e36ae9cad"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
