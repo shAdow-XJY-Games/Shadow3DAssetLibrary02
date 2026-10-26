@@ -1759,6 +1759,11 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary02",
       "commit": "fe70c58359f06775f3c9e7c3741600461b36018c"
+    },
+    "original-qualified-batch-1352-volume02-20261025": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary02",
+      "commit": "46950b8b779ef2f373a2276e198f9e6e11d35358"
     }
   },
   "assets": [
@@ -59768,6 +59773,135 @@
       "status": "verified",
       "license": "All rights reserved",
       "sourceId": "original-qualified-batch-1349-volume02-20261025"
+    },
+    {
+      "id": "animal-static-broad-mouth-curled-lobe-and-pointed-wing-manta-01",
+      "version": "1.0.0",
+      "category": "modular",
+      "assetKind": "prop",
+      "theme": "animal",
+      "style": "warm-handcrafted-village",
+      "title": "Static Broad Mouth Curled Lobe and Pointed-Wing Manta",
+      "description": "One newly authored whole stylised manta-like exterior. A broad flattened head with a real forward blind mouth cavity flows continuously into thick central trunk, two long pointed triangular pectoral wings with raised swept tips, and a fine short tail. Two complete thick forward-curled cephalic lobes have genuinely open grooves at the mouth corners; two small lateral eyes sit on the broad front body. This is not the old closed pointed-snout rounded-disc ray widened or recoloured: the entire new sectioned skin, open mouth returns, broad front and curled lobes are drawn together, with no old coordinate arrays or meshes imported. One model zero scenes. Fixed artistic belly datum only, not a ground-standing animal, exact species or anatomy, feeding, gills, swimming, biomechanics, ecology, animal handling or safety representation. Rig, animation and interaction not made.",
+      "bounds": {
+        "x": 3.75999999,
+        "y": 2.650000095,
+        "z": 0.425000012,
+        "unit": "m"
+      },
+      "triangles": 1280,
+      "materials": 4,
+      "files": {
+        "glb": {
+          "path": "assets/animal/animal-static-broad-mouth-curled-lobe-and-pointed-wing-manta-01/v1.0.0/model.glb",
+          "size": 71136,
+          "sha256": "c4ae93a4b06db68738221a5c4dec99993c297775db1259fd8bbe2cdc2364973b"
+        },
+        "blend": {
+          "path": "assets/animal/animal-static-broad-mouth-curled-lobe-and-pointed-wing-manta-01/v1.0.0/source.blend",
+          "size": 586556,
+          "sha256": "9ca29983a18b9c33ce9b98af8f362bef2fe577a2712f365106c557a1e62eae6f"
+        },
+        "generator": {
+          "path": "assets/animal/animal-static-broad-mouth-curled-lobe-and-pointed-wing-manta-01/v1.0.0/generate.py",
+          "size": 29940,
+          "sha256": "d84b8cc8c76908015c83b25a67e4d80665f905959420cef17d7685f0f7da66f4"
+        },
+        "render": {
+          "path": "assets/animal/animal-static-broad-mouth-curled-lobe-and-pointed-wing-manta-01/v1.0.0/thumbnail.png",
+          "size": 463448,
+          "sha256": "0595d47a322953fa7b4e11b35f4882df043018c67e058e11997cc5f32cd528e3"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1352-volume02-20261025"
+    },
+    {
+      "id": "architecture-fixed-interleaved-finger-plates-and-open-deck-joint-01",
+      "version": "1.0.0",
+      "category": "architecture",
+      "assetKind": "modular",
+      "theme": "architecture",
+      "style": "S01-clean-geometric",
+      "title": "Fixed Interleaved Finger Plates and Open Deck Joint",
+      "description": "One newly authored complete static bridge-deck finger-joint display module. Two whole independently grounded concrete-style deck-end blocks leave a real central transverse gap. Each end carries one integral thick root plate with long chamfer-tipped fingers; the two horizontal plates interleave at the same height while retaining visible lateral and end clearances. Eight proud blank hex caps sit on the supported root strips. One continuous open-ended U-section catch trough sits beneath the gap with its side lips entering the two end blocks. This new opposing coplanar over-gap organization differs from a right-angle flared dovetail board and a hooked scarf beam locked by a transverse key: there are no sockets, mechanical lock or trapped key, and no reused timber geometry. All numeric geometry new; one architectural module zero scenes, three opaque constant PBR roles, metres Z-up and bounds-centred finite ground soles. The two deck ends and trough are included as part of the module, not a whole bridge or road scene. Fixed empty illustrative appearance only. No expansion travel, finger engagement tolerance, waterproofing, drainage performance, vehicle wheel passage, loading, fatigue, bridge or road design, installation or safety capability. No physical joint, rig animation or interaction made or verified.",
+      "bounds": {
+        "x": 2.5,
+        "y": 2.28,
+        "z": 0.432,
+        "unit": "m"
+      },
+      "triangles": 484,
+      "materials": 3,
+      "files": {
+        "glb": {
+          "path": "assets/architecture/architecture-fixed-interleaved-finger-plates-and-open-deck-joint-01/v1.0.0/model.glb",
+          "size": 29172,
+          "sha256": "6cf4b0824d5906519d47cc9ddb820eb1de1a009a095a47f2bed8ec48023de831"
+        },
+        "blend": {
+          "path": "assets/architecture/architecture-fixed-interleaved-finger-plates-and-open-deck-joint-01/v1.0.0/source.blend",
+          "size": 603184,
+          "sha256": "7ea7ca180b95eb885fe37d49139c146f4fd98e3cc4fa072dd4b302889d082acd"
+        },
+        "generator": {
+          "path": "assets/architecture/architecture-fixed-interleaved-finger-plates-and-open-deck-joint-01/v1.0.0/generate.py",
+          "size": 11389,
+          "sha256": "9856aa991d033d0ebc57e94d13cbd1d5d8d03cbc205610acc1e73b55aa90eac1"
+        },
+        "render": {
+          "path": "assets/architecture/architecture-fixed-interleaved-finger-plates-and-open-deck-joint-01/v1.0.0/thumbnail.png",
+          "size": 366603,
+          "sha256": "95d34ac145162f8afeedae8ffa983440899b0fa257345095e60c2cf141e17833"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1352-volume02-20261025"
+    },
+    {
+      "id": "professional-fixed-slotted-heel-and-continuous-loop-strap-wrench-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "professional",
+      "style": "source-preserved-low-poly",
+      "title": "Fixed Slotted Heel and Continuous Loop Strap Wrench",
+      "description": "One newly authored complete fixed hand strap-wrench-style exterior. A continuous long grounded handle and broad bent-heel head form one closed connected body, with a genuine longitudinal rectangular guide tunnel through one side of the head. One entire finite-thickness broad strap starts inside the opposite heel anchor, sweeps around a large empty oval, returns through the real guide tunnel and ends in a short offset free tail. The band is one capped continuous solid, not disconnected ribbon patches or a closed rigid ring pasted onto a handle. A complete narrow inset grip pad finishes the handle. Unlike the old chain pipe vise there is no ground mounting plate, paired V saddles, alternating chain links or vertical screw; unlike the two-hook ratchet tie there is no low buckle drum, raised lever, toothed disks, end hooks or shallow wound coil. All geometry newly authored, only generic union and mesh primitives reused. Three opaque constant PBR roles, metre Z-up and full horizontal-envelope centred ground datum. One whole prop zero scenes. Empty simplified static appearance only: no pipe, flexibility, threading instruction, self-tightening, friction, adjustment, gripping, torque, manufacture, human fit, operation or safety capability. Rigging animation and interaction not made.",
+      "bounds": {
+        "x": 0.164000004529953,
+        "y": 0.5170000195503235,
+        "z": 0.032999999821186066,
+        "unit": "m"
+      },
+      "triangles": 760,
+      "materials": 3,
+      "files": {
+        "glb": {
+          "path": "assets/professional/professional-fixed-slotted-heel-and-continuous-loop-strap-wrench-01/v1.0.0/model.glb",
+          "size": 66700,
+          "sha256": "59ea30373ee125e0f89c2a68ad5a21dd44e92ccc786b0829ccb815eb8e054c56"
+        },
+        "blend": {
+          "path": "assets/professional/professional-fixed-slotted-heel-and-continuous-loop-strap-wrench-01/v1.0.0/source.blend",
+          "size": 631936,
+          "sha256": "174ba733659830a158ea44b720079c4e2a355316406e776b27c3a17c3324deab"
+        },
+        "generator": {
+          "path": "assets/professional/professional-fixed-slotted-heel-and-continuous-loop-strap-wrench-01/v1.0.0/generate.py",
+          "size": 15959,
+          "sha256": "169533af96b84c9edd68d6779cdb5c65d5e6c7be8327ee48ddfde24f22fd0858"
+        },
+        "render": {
+          "path": "assets/professional/professional-fixed-slotted-heel-and-continuous-loop-strap-wrench-01/v1.0.0/thumbnail.png",
+          "size": 459823,
+          "sha256": "eb4a29940029b800123c79026e1138af5772f4ea780f0f663df8502ac28dc945"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1352-volume02-20261025"
     }
   ]
 }
