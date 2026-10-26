@@ -1,0 +1,42 @@
+{
+  "id": "steam-workshop-fixed-cutaway-seat-and-spring-poppet-valve-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "steam-workshop",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Cutaway Seat and Spring Poppet Valve",
+  "description": "One complete newly authored static spring-poppet-valve-inspired cutaway display. A continuous thick lower chamber has a real front cutaway, axial lower opening and hollow lateral outlet branch. Its complete bored lower flange, separate annular seat and integral raised disk with long upright stem remain distinct. Two whole bonnet posts and a crosshead expose one continuous five-turn helical spring surrounding that stem between two annular spring seats, with a full top adjusting-stem and hex cap. Two finite side feet meet a common display plinth. The new axial disk-seat/open-spring organization and right-angle chamber differ from the old hollow straight handwheel body and the quarter-cut sphere with a straight through-bore; no old visible meshes or pipe parts imported. Three opaque PBR roles, metres Z-up and horizontal complete-bounds-centred plinth origin; one model zero scenes. The disk is fixed visibly lifted from its seat and the front shell deliberately cut open. Dry illustrative apparatus only, not a working relief or check valve. No pressure, flow, sealing, spring force, adjustment, actuation, relief performance, operational setpoint, manufacture, engineering or safety capability supplied. Rigging animation and interaction not made or verified.",
+  "bounds": {
+    "x": 1.26,
+    "y": 0.78,
+    "z": 2.055,
+    "unit": "m"
+  },
+  "triangles": 3836,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/steam-workshop/steam-workshop-fixed-cutaway-seat-and-spring-poppet-valve-01/v1.0.0/model.glb",
+      "size": 230844,
+      "sha256": "9d2c1befc871ebd23fed851d3fdc59cd09e69c25035ed3f1d4d8a0e7e301e8e7"
+    },
+    "blend": {
+      "path": "assets/steam-workshop/steam-workshop-fixed-cutaway-seat-and-spring-poppet-valve-01/v1.0.0/source.blend",
+      "size": 788648,
+      "sha256": "1cca5dcf94a96df0d08a42105da6a1c3bc80ff16aa97aa55c8a3e92a4d873daf"
+    },
+    "generator": {
+      "path": "assets/steam-workshop/steam-workshop-fixed-cutaway-seat-and-spring-poppet-valve-01/v1.0.0/generate.py",
+      "size": 12806,
+      "sha256": "c303a753dc74dbfbcaac838efea5ae43cc22b802a9d19de8aed82aa2f9d6fced"
+    },
+    "render": {
+      "path": "assets/steam-workshop/steam-workshop-fixed-cutaway-seat-and-spring-poppet-valve-01/v1.0.0/thumbnail.png",
+      "size": 423381,
+      "sha256": "7867ccdf9862b8a982b7d2986fa2ac2bb82efe7b89b095e7bee991efcf7329b2"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

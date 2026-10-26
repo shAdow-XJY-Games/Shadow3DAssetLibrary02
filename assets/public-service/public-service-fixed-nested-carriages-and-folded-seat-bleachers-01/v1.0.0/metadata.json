@@ -1,0 +1,42 @@
+{
+  "id": "public-service-fixed-nested-carriages-and-folded-seat-bleachers-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "public-service",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Nested Carriages and Folded Seat Bleachers",
+  "description": "One newly authored complete static partly nested bleacher-frame appearance. Three whole unequal-width wheel-supported undercarriages overlap beneath three progressively higher full cantilevered foot decks. Each complete pair of long base rails has its own four wheels, full front and rear cross ties, two posts and two deck bearers. Two pairs of complete open guide sleeves and connecting shoulders tie successive whole carriages together at the rear; they are not three loose benches grouped into a scene. Every full-width seat has its own transverse hinge axis and two rooted risers: the lowest entire seat board is fixed folded upward while the upper two are horizontal. A full high rear guard belongs to the largest rear carriage. All outlines and supports independently authored, no old mesh imported. Unlike the older fixed bleachers with common grounded runners, nine upright posts and diagonal braces, this whole assembly visibly uses nested different-width rolling chassis, rear guide captures and separate pivoted seat-to-deck relations. Four opaque untextured material roles, metres Z up, horizontal bounds-centred ground datum and twelve finite wheel soles. One fixed prop zero scenes, empty and unoccupied. The shown positions are static illustrative art only, not validated retracting or folding kinematics, sliding fits, rolling action, locking, pinch clearances, public access, egress, spectator capacity, load, stability, manufacture, installation or safety certification. Rigging animation interaction not made.",
+  "bounds": {
+    "x": 2.75,
+    "y": 2.2199999999999998,
+    "z": 1.7925,
+    "unit": "m"
+  },
+  "triangles": 2536,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/public-service/public-service-fixed-nested-carriages-and-folded-seat-bleachers-01/v1.0.0/model.glb",
+      "size": 170152,
+      "sha256": "efe8632b2d5724b7d0762be8d2cb01dd6eb37326548f1623b676d5a7ea2b744b"
+    },
+    "blend": {
+      "path": "assets/public-service/public-service-fixed-nested-carriages-and-folded-seat-bleachers-01/v1.0.0/source.blend",
+      "size": 1149972,
+      "sha256": "84a644a31ed45e21ecf1096daaecf18147675c3fd38b1d3434a32884762a763c"
+    },
+    "generator": {
+      "path": "assets/public-service/public-service-fixed-nested-carriages-and-folded-seat-bleachers-01/v1.0.0/generate.py",
+      "size": 13230,
+      "sha256": "2ae9ebb49283e2f5fcf2c0a8b8d4bc0853d0987e9b0e7464d6092de3f4e912fd"
+    },
+    "render": {
+      "path": "assets/public-service/public-service-fixed-nested-carriages-and-folded-seat-bleachers-01/v1.0.0/thumbnail.png",
+      "size": 503072,
+      "sha256": "3c6a98ccb912b01d176ab78848a1c3c6cc3b7359efd9a51c36a5c14f5c2077ba"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

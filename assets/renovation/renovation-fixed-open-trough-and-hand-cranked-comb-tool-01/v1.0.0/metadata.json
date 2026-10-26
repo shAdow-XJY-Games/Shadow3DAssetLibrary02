@@ -1,0 +1,42 @@
+{
+  "id": "renovation-fixed-open-trough-and-hand-cranked-comb-tool-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "renovation",
+  "style": "source-preserved-low-poly",
+  "title": "Fixed Open Trough and Hand Cranked Comb Tool",
+  "description": "One newly authored whole static hand-cranked broad-mouth wall-coating-tool-style exterior. A continuous thick shallow trough shell has a complete floor, two tall sides, rear wall and low front retaining lip, leaving its broad front and top genuinely open. One whole transverse shaft and hub support eight complete blunt comb plates inside the cavity; every comb has a continuous root and physically separate thick short tines. A full raised cross-carry handle meets both upper side walls, while one exterior offset crank and separate short hand grip root on the transverse shaft. All numerical geometry newly authored, not the old closed winnower drum reduced and stripped of its legs, or a gravity-cup spray gun with a different reservoir. There is no upper cup, axial spray nozzle, trigger, long discharge chute or ground timber frame. One prop zero scenes; three opaque constant untextured PBR roles, metres Z up and entire horizontal bounds-centred floor datum. Empty fixed illustrative tool only: no plaster, liquid, rotating drum, spring deflection, pressure bar function, spraying performance, material recipe, hand fit, manufacture, safe handling or operation capability. No rigging, animation or interaction.",
+  "bounds": {
+    "x": 0.3449999988079071,
+    "y": 0.25,
+    "z": 0.31299999356269836,
+    "unit": "m"
+  },
+  "triangles": 2128,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/renovation/renovation-fixed-open-trough-and-hand-cranked-comb-tool-01/v1.0.0/model.glb",
+      "size": 190944,
+      "sha256": "8030243f8c35b2a2399ef07aa4e7ba777831fbc672318088da7106515d8c4329"
+    },
+    "blend": {
+      "path": "assets/renovation/renovation-fixed-open-trough-and-hand-cranked-comb-tool-01/v1.0.0/source.blend",
+      "size": 846304,
+      "sha256": "2296c1e607c8da80c4c20284d3c0c8cd5fd2fc20f1b4468ef28aeccfb4c68d5c"
+    },
+    "generator": {
+      "path": "assets/renovation/renovation-fixed-open-trough-and-hand-cranked-comb-tool-01/v1.0.0/generate.py",
+      "size": 15881,
+      "sha256": "4cfa5d1223f0d5557b00409f94fb281725bc1dcd736de379e997b977ae07dd21"
+    },
+    "render": {
+      "path": "assets/renovation/renovation-fixed-open-trough-and-hand-cranked-comb-tool-01/v1.0.0/thumbnail.png",
+      "size": 530992,
+      "sha256": "0b1746d76e1beffe67b6b8ba64ede82c0b80e69dd8ce9f885a9529f186af086c"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
