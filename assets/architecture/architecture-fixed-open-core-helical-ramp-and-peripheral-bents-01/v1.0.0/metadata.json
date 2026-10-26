@@ -1,0 +1,42 @@
+{
+  "id": "architecture-fixed-open-core-helical-ramp-and-peripheral-bents-01",
+  "version": "1.0.0",
+  "category": "architecture",
+  "assetKind": "modular",
+  "theme": "architecture",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Open Core Helical Ramp and Peripheral Bents",
+  "description": "One complete newly authored static architectural full-turn helical ramp module. One continuously sloping thin annular slab includes its full lower and upper tangential terminal platforms, separated vertically at the same azimuth. The whole central eye remains open and the rising underside is exposed between independent peripheral columns and radial underside headers; there is no central mast, ground-filled wedge mass, separate climbing ladder or U-section slide trough. Two continuous open top rails and individual posts follow the complete ramp and its level ends. The new whole peripheral support and two-level circulation organization is not an old winding stone stair with its treads removed, nor an enlarged mast-supported playground slide. No old visible geometry imported. Three opaque PBR roles, metres Z up, whole horizontal envelope centred over finite ground feet. One architectural module zero scenes. Fixed game-art appearance only. No host floors or building, actual walkability, accessible slope, headroom certification, ramp or rail performance, structural calculation, load rating, building-code or safety capability. Rig animation and interaction not made or verified.",
+  "bounds": {
+    "x": 4.8100000000000005,
+    "y": 4.8,
+    "z": 4.51,
+    "unit": "m"
+  },
+  "triangles": 2148,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/architecture/architecture-fixed-open-core-helical-ramp-and-peripheral-bents-01/v1.0.0/model.glb",
+      "size": 158204,
+      "sha256": "45a5a29da4c29f57e6fc1944111709ee487fe2b861e89530d149f68559252fe0"
+    },
+    "blend": {
+      "path": "assets/architecture/architecture-fixed-open-core-helical-ramp-and-peripheral-bents-01/v1.0.0/source.blend",
+      "size": 840880,
+      "sha256": "91222e4686dc4c5c473275369f5bf1c91c459d78c865394e1d98ea086493715b"
+    },
+    "generator": {
+      "path": "assets/architecture/architecture-fixed-open-core-helical-ramp-and-peripheral-bents-01/v1.0.0/generate.py",
+      "size": 12450,
+      "sha256": "7d6da669d7e27998a8071dc9df9a132a4ee3555e9f97d8f56755edf471eaf6bc"
+    },
+    "render": {
+      "path": "assets/architecture/architecture-fixed-open-core-helical-ramp-and-peripheral-bents-01/v1.0.0/thumbnail.png",
+      "size": 465975,
+      "sha256": "841252a631cd754d9378da7cb5192e0e747380ad272f353ba51ec9c70b33e34e"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

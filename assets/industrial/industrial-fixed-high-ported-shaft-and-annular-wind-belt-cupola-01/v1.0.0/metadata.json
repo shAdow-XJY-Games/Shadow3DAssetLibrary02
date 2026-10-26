@@ -1,0 +1,42 @@
+{
+  "id": "industrial-fixed-high-ported-shaft-and-annular-wind-belt-cupola-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "industrial",
+  "style": "S01-clean-geometric",
+  "title": "Fixed High Ported Shaft and Annular Wind Belt Cupola",
+  "description": "One wholly newly authored complete raised cupola-style shaft-furnace static exterior. Four full long columns on finite broad feet carry a closed bottom and one continuous thick tall cylindrical shaft, with a genuine open upper mouth, broad high side charging-style opening and a distinct smaller low side port all entering the same empty chamber. A whole high open sill and separate lower open spout complete those two openings. The lower casing is encircled by one complete solid annular wind-belt exterior attached by four full radial branch exteriors, plus a short thick open side sleeve that terminates blindly at that solid belt. This is not the old closed rectangular firebox/solid stepped boiler with a blind short chimney, nor the long rising-vault kiln with its independent rear rectangular flue. No old barrel, silo, kiln or pipe mesh imported, scaled or renamed. One prop zero scenes; four constant opaque PBR roles, metres native Z up, centred whole horizontal envelope and four full ground soles. Empty illustrative exterior only: no furnace design, refractory layers, fuel, flame, metal, heat, combustion, smelting, internal tuyeres, connected air circuit, pressure, exhaust draft, material loading/discharge process, operation, emission control, manufacture, installation, structural capacity or safety performance. Rigging animation interaction not made or verified.",
+  "bounds": {
+    "x": 2.465,
+    "y": 2.225,
+    "z": 4.45,
+    "unit": "m"
+  },
+  "triangles": 3552,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/industrial/industrial-fixed-high-ported-shaft-and-annular-wind-belt-cupola-01/v1.0.0/model.glb",
+      "size": 176300,
+      "sha256": "0afa1e46d6ea42cb73ba1052c2df11f3428f868da3b19205d9078199549cac7c"
+    },
+    "blend": {
+      "path": "assets/industrial/industrial-fixed-high-ported-shaft-and-annular-wind-belt-cupola-01/v1.0.0/source.blend",
+      "size": 804640,
+      "sha256": "d33adfb1a88f7b60852bbfa64e7ecdd5512a358bbd95529f08bef94ed9292073"
+    },
+    "generator": {
+      "path": "assets/industrial/industrial-fixed-high-ported-shaft-and-annular-wind-belt-cupola-01/v1.0.0/generate.py",
+      "size": 27637,
+      "sha256": "17c6d9b04a56af84ed2338f3cb3767a541f57deb2f9d8f6472c52b254c6b553f"
+    },
+    "render": {
+      "path": "assets/industrial/industrial-fixed-high-ported-shaft-and-annular-wind-belt-cupola-01/v1.0.0/thumbnail.png",
+      "size": 502723,
+      "sha256": "18127c769097a019da2cac860adbbb6305161a7a904231c806de255e7e315d91"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
