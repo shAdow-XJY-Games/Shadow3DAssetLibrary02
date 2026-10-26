@@ -1,0 +1,42 @@
+{
+  "id": "architecture-static-three-separated-struts-and-cable-prism-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "architecture",
+  "style": "S01-clean-geometric",
+  "title": "Static Three Separated Struts and Cable Prism",
+  "description": "One newly authored complete static cable-prism structural sculpture. Three whole thick inclined struts connect independently rotated upper and lower triangular endpoint sets without contacting each other. Three continuous lower cables, three continuous upper cables and three separate opposing side cables join all six endpoint nodes into one open spatial framework. Three small grounded pads root the lower nodes; six complete capped node collars visually receive the buried cable and strut ends. There is no centre post, rigid upper ring, roof, platform, net face or hidden supporting column. Unlike the old mast-rope pyramid, the rigid members do not converge at a common crown and the cable network has no woven triangular net panels. Unlike the offset-rafter roof, there are no touching cyclic rafters or grounded perimeter posts carrying a rigid bearing ring. All coordinates independently authored. Three opaque PBR roles, metres Z up and full horizontal-bounds centre. One whole architectural display prop zero scenes. Fixed tensegrity-inspired artistic arrangement only: no solved equilibrium, prestress, cable tension, self-supporting ability, force balance, load capacity, material strength, assembly instructions, installation, human use or engineering safety claim. Rigid endpoints are fixed illustrative overlaps; animation, rigging and physical simulation are not made or verified.",
+  "bounds": {
+    "x": 2.0327241335952166,
+    "y": 2.027340350387684,
+    "z": 2.595,
+    "unit": "m"
+  },
+  "triangles": 1128,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/architecture/architecture-static-three-separated-struts-and-cable-prism-01/v1.0.0/model.glb",
+      "size": 63708,
+      "sha256": "c2cb6764534e9287432b2fae81727eb7c6586c64017557b3e5ae23bb25892d94"
+    },
+    "blend": {
+      "path": "assets/architecture/architecture-static-three-separated-struts-and-cable-prism-01/v1.0.0/source.blend",
+      "size": 674920,
+      "sha256": "05b94f54e3b2a1e76d5d3cbc410ae032e874d593eab6063355e355c596c6521b"
+    },
+    "generator": {
+      "path": "assets/architecture/architecture-static-three-separated-struts-and-cable-prism-01/v1.0.0/generate.py",
+      "size": 10937,
+      "sha256": "1e624b35f063283204b41a34cb4a839ddbc11b32a673e5606177111c1b291de5"
+    },
+    "render": {
+      "path": "assets/architecture/architecture-static-three-separated-struts-and-cable-prism-01/v1.0.0/thumbnail.png",
+      "size": 398444,
+      "sha256": "4c1b8b8a03f4915be9d2e3e14e6e86e1de0bcc03e7dae24a0f7adc3a09e63488"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
