@@ -1,0 +1,42 @@
+{
+  "id": "technology-fixed-opposed-annular-vane-bowls-and-guide-ring-display-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "technology",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Opposed Annular Vane Bowls and Guide Ring Display",
+  "description": "One wholly newly authored complete toroidal-coupling-inspired cutaway exhibit. Two independent deep half-toroidal bowl shells face each other across a fixed axial interval; each has real inner and outer curved walls, inner and outer lips, and its own complete curved meridional vanes. The near shell omits one upper-near sector with finite cut faces, while the opposite bowl remains whole. Two separate stepped hubs and exterior shafts seat in independent uprights on one common grounded bed. A smaller complete bored guide ring and short curved guide-like vanes occupy the middle, on an explicit narrow display stalk. This is not a single radial impeller in a spiral volute, not a long axial core inside a bypass cowl, and not another fan stage count: opposed deep annular cavities, their separate curved vane fields and the independent small central guide define the whole organization. All numeric geometry independently authored, no old pump, turbine, coupling or fan meshes imported. Four opaque solid PBR roles, metres native Z up and complete horizontal-envelope centre over the full bed sole. One static mechanism-art prop zero scenes. Deliberately separated fixed display parts, not a working torque converter: no contained liquid, sealed working chamber, fluid route, velocity or vane design, torque conversion, efficiency, stator/freewheel action, bearing or shaft fit, rotation, motion, vehicle compatibility, load, manufacture, operation or safety capability. Rigging animation interaction not made or verified.",
+  "bounds": {
+    "x": 2.14,
+    "y": 2.1,
+    "z": 2.44,
+    "unit": "m"
+  },
+  "triangles": 11092,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/technology/technology-fixed-opposed-annular-vane-bowls-and-guide-ring-display-01/v1.0.0/model.glb",
+      "size": 640316,
+      "sha256": "ae3656523908725aea2a0965eaeeb741f5bb4d3808b7111eff87dadb339b7122"
+    },
+    "blend": {
+      "path": "assets/technology/technology-fixed-opposed-annular-vane-bowls-and-guide-ring-display-01/v1.0.0/source.blend",
+      "size": 1312008,
+      "sha256": "1566ca6cb52f405fd4ec26eb8c256186516dab0d2d5fa809e4bc1ce920cee570"
+    },
+    "generator": {
+      "path": "assets/technology/technology-fixed-opposed-annular-vane-bowls-and-guide-ring-display-01/v1.0.0/generate.py",
+      "size": 27619,
+      "sha256": "7195668a982a3e175d85d45e284e6ecbb269e1937e69f1940e40e41a314104ec"
+    },
+    "render": {
+      "path": "assets/technology/technology-fixed-opposed-annular-vane-bowls-and-guide-ring-display-01/v1.0.0/thumbnail.png",
+      "size": 570386,
+      "sha256": "f5073ed58050e8257d2e9315f7ab7cb88c609e8e628c0f4a96ba3fea2fa6fafd"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

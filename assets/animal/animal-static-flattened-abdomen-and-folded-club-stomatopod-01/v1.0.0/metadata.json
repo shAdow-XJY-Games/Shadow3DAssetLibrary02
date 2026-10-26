@@ -1,0 +1,42 @@
+{
+  "id": "animal-static-flattened-abdomen-and-folded-club-stomatopod-01",
+  "version": "1.0.0",
+  "category": "modular",
+  "assetKind": "prop",
+  "theme": "animal",
+  "style": "warm-handcrafted-village",
+  "title": "Static Flattened Abdomen and Folded Club Stomatopod",
+  "description": "One complete newly authored stylised mantis-shrimp-like animal: broad low head and thorax continuous with a long flattened segmented-looking abdomen and broad scalloped tailfan, two high oval stalk eyes, two whole folded raptorial forelimbs ending in blunt enlarged clubs, short broad antennal scales and six slender grounded walking supports. Not a prawn with deleted antennae or a lobster with its pincers removed. All whole sections and appendage paths are newly authored. Static artistic exterior only, not exact species, scientific anatomy, biological performance, strike mechanics, swimming, rigging, animation or handling guidance.",
+  "bounds": {
+    "x": 1.24000001,
+    "y": 2.950000048,
+    "z": 0.717999995,
+    "unit": "m"
+  },
+  "triangles": 2092,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/animal/animal-static-flattened-abdomen-and-folded-club-stomatopod-01/v1.0.0/model.glb",
+      "size": 120400,
+      "sha256": "fb64bb73e1da7e2ee494ec0820fa565669dfdbc1b24a83ebf3526d2f17182797"
+    },
+    "blend": {
+      "path": "assets/animal/animal-static-flattened-abdomen-and-folded-club-stomatopod-01/v1.0.0/source.blend",
+      "size": 680288,
+      "sha256": "27b3e65b245262281df89c50a6c906b2fe58c849a17a4d85a9a8410f3d03d483"
+    },
+    "generator": {
+      "path": "assets/animal/animal-static-flattened-abdomen-and-folded-club-stomatopod-01/v1.0.0/generate.py",
+      "size": 30460,
+      "sha256": "d44b7eeef8b01589b9f268ab8400cec09396a5e3fa2b41f67304fbc62404fd21"
+    },
+    "render": {
+      "path": "assets/animal/animal-static-flattened-abdomen-and-folded-club-stomatopod-01/v1.0.0/thumbnail.png",
+      "size": 486059,
+      "sha256": "b6ff76bd2aefa88bc423995ebac5db50dfe0b1154e8290eade566874818b85d3"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
