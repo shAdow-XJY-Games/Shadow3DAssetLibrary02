@@ -1,0 +1,42 @@
+{
+  "id": "professional-whole-empty-reclined-unit-and-side-preparation-table-scene-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "professional",
+  "style": "source-preserved-low-poly",
+  "title": "Whole Empty Reclined Unit and Side Preparation Table",
+  "description": "One empty dental-equipment preparation display bay, one scene zero new independent models. The complete original reclined chair and physically connected dental-unit exterior stand at a separate left floor station, retaining every pedestal, pad, rinse bowl, instrument hose, delivery tray, mast, linked light arm and opaque lamp head. A whole independent open worktable stands to the right beyond the entire chair-unit envelope and carries one complete empty open-yoke articulator and one complete small open-ended U-channel tray. Neither small tool is installed in the chair apparatus; there are no casts, teeth, patients or simulated treatment. The articulator full pad soles and the tray complete lower rim rest at the original finite tabletop height, with their mutual interval visible. All original unit-scale raw buffers, normals, PBR dictionaries and internal hierarchy remain unchanged under whole translations; only the bounded low scene floor is new. Unlike the mobility-aid display and the opposed-stool optical table, this scene separates a full reclining equipment station from an independent small-tool preparation table. The tiny tray remains original physical size and is not claimed individually detailed at the whole-scene thumbnail. No medical suitability, diagnosis, procedure, anatomical accuracy, hygiene, sterilization, instrument fit, electricity, plumbing, motion, load, accessibility, installation or safety capability. Rigging animation interaction not made.",
+  "bounds": {
+    "x": 3.9000000953674316,
+    "y": 2.5999999046325684,
+    "z": 1.9259999990463257,
+    "unit": "m"
+  },
+  "triangles": 6688,
+  "materials": 13,
+  "files": {
+    "glb": {
+      "path": "assets/professional/professional-whole-empty-reclined-unit-and-side-preparation-table-scene-01/v1.0.0/model.glb",
+      "size": 615756,
+      "sha256": "ee234176627efa7c709b09a19e5ac8bb8aa499841fb59bf6f7116e6e881ce887"
+    },
+    "blend": {
+      "path": "assets/professional/professional-whole-empty-reclined-unit-and-side-preparation-table-scene-01/v1.0.0/source.blend",
+      "size": 1906144,
+      "sha256": "1b0e90786aca18ce56f1bd0afd353de13ccee9baad1f72db59df197e197e3464"
+    },
+    "generator": {
+      "path": "assets/professional/professional-whole-empty-reclined-unit-and-side-preparation-table-scene-01/v1.0.0/generate.py",
+      "size": 172966,
+      "sha256": "304969aaa2b648defb439a0ca60539227053d4dcad0be50cf451b403f591051d"
+    },
+    "render": {
+      "path": "assets/professional/professional-whole-empty-reclined-unit-and-side-preparation-table-scene-01/v1.0.0/thumbnail.png",
+      "size": 476680,
+      "sha256": "4166b815cc181ce0044c768f05e4052d62615dba42c5924ec21c595223bc38b5"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

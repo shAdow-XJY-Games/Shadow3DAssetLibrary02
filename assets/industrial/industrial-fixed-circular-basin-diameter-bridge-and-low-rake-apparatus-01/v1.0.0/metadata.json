@@ -1,0 +1,42 @@
+{
+  "id": "industrial-fixed-circular-basin-diameter-bridge-and-low-rake-apparatus-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "industrial",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Circular Basin Diameter Bridge and Low Rake Apparatus",
+  "description": "One wholly newly authored complete dry circular settling-basin-inspired apparatus. One continuous material shell has a full basin floor, tall inner wall and curb, and a genuinely recessed full perimeter gutter. Two opposite edge shoes support one full-diameter fused deck and edge-beam bridge with open rail silhouettes. Its blank central cover retains an independent long vertical shaft; a full open-ended feedwell hangs below the bridge around that shaft. A low hub and two complete opposite long radial rake arms carry blunt diagonal paddles entirely above the dry basin floor. This whole suspended bridge/feedwell/shaft/low-rake relationship differs from the old shallow annular herb mill with an upright stone wheel in a carrier fork and sweep handle, and from the tall waisted cooling shell over a shallow basin on inclined columns. All geometry authored anew, no old bowl or machine meshes imported, no count/colour/size-only variant and no scene assembly. One model zero scenes; four opaque constant untextured PBR appearances, metre-style native Z up and full horizontal envelope centred on the basin ground sole. A simplified dry artistic apparatus exterior, not an engineering drawing or construction specification. No water, sediment, wastewater, biological material, pump, feed or drainage circuit, rotation, scraping, separation, treatment performance, throughput, pressure, torque, alignment, manufactured fit, human access, railing compliance, loading, structural rating, installation or equipment safety capability is made or verified. Rigging animation and interaction not made.",
+  "bounds": {
+    "x": 4.94,
+    "y": 4.84,
+    "z": 2.024,
+    "unit": "m"
+  },
+  "triangles": 2168,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/industrial/industrial-fixed-circular-basin-diameter-bridge-and-low-rake-apparatus-01/v1.0.0/model.glb",
+      "size": 107584,
+      "sha256": "5c879b2af6bb3aad49d56d8f11469d4b6723c48236ba9e4554cf015d2aaad6d9"
+    },
+    "blend": {
+      "path": "assets/industrial/industrial-fixed-circular-basin-diameter-bridge-and-low-rake-apparatus-01/v1.0.0/source.blend",
+      "size": 731004,
+      "sha256": "ccb56f202ca93d30c0c2342c3fd899c8e0fb409f2cd0c126771d3f1bc13ec9dd"
+    },
+    "generator": {
+      "path": "assets/industrial/industrial-fixed-circular-basin-diameter-bridge-and-low-rake-apparatus-01/v1.0.0/generate.py",
+      "size": 28023,
+      "sha256": "02ca7b546bbc9045d169034410ccddc6f65cc4c7655a5e0da271fe4a2391f570"
+    },
+    "render": {
+      "path": "assets/industrial/industrial-fixed-circular-basin-diameter-bridge-and-low-rake-apparatus-01/v1.0.0/thumbnail.png",
+      "size": 565598,
+      "sha256": "24b246821e063fd4e2468c4a350423611ce6e93723d2f6209eb67c4c09eb5cc5"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

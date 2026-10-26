@@ -1,0 +1,42 @@
+{
+  "id": "education-fixed-shared-reservoir-and-cross-linked-open-cups-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "education",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Shared Reservoir and Cross Linked Open Cups",
+  "description": "One newly authored complete static cross-linked vessel apparatus appearance. Two whole rear posts and finite brackets support one continuous open upper reservoir with two true through floor apertures and complete downward mouths. Two separate open thick rings lie below those mouths and above two full deep empty lower cups on independent short pedestals. Each ring has one continuous bent rigid rod crossing to the opposite lower cup at a different depth, leaving the crossing genuinely separated. The common plinth, grounded frame, real upper passages, ring bores, lower cup cavities and two crossed complete connection paths define the one whole apparatus. Unlike the old sector-disc machine there are no axle discs, belt, collecting canister lids or spark terminals; unlike the water-clock there is no float, index rod, guide or scale and no single cutaway receiver. All visible coordinates newly authored, generic mesh/export helpers only; no old asset meshes or parts imported. One model zero scenes. Four opaque constant untextured PBR roles, metres native Z up and whole horizontal bounds-centred ground datum. Kelvin-dropper-inspired dry artistic exterior only, not a working experiment: no liquid, droplets, charge, electricity, voltage, insulation, induction, cross-connection circuit validity, flow, measurement, physics demonstration, teaching result, manufacture, loading or safety claim. No rigging animation or interaction.",
+  "bounds": {
+    "x": 1.32,
+    "y": 0.96,
+    "z": 1.48,
+    "unit": "m"
+  },
+  "triangles": 2304,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/education/education-fixed-shared-reservoir-and-cross-linked-open-cups-01/v1.0.0/model.glb",
+      "size": 105280,
+      "sha256": "93345626b3ce8054d4636a69d05c9496c75581d102c599c2f3481144d97221c4"
+    },
+    "blend": {
+      "path": "assets/education/education-fixed-shared-reservoir-and-cross-linked-open-cups-01/v1.0.0/source.blend",
+      "size": 731000,
+      "sha256": "83035bcb361675cc1cfcda233054ec42916cf268db42f9671e7bd1ffecf465fe"
+    },
+    "generator": {
+      "path": "assets/education/education-fixed-shared-reservoir-and-cross-linked-open-cups-01/v1.0.0/generate.py",
+      "size": 25942,
+      "sha256": "83350fa9313628c342015034d166dbfade0adc8b806d9be21e4ebfdfeef547e3"
+    },
+    "render": {
+      "path": "assets/education/education-fixed-shared-reservoir-and-cross-linked-open-cups-01/v1.0.0/thumbnail.png",
+      "size": 569273,
+      "sha256": "d35e6bf4edf122423301291e368aae18d6b0dcb2094cf0c1d23c4858f67022ee"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

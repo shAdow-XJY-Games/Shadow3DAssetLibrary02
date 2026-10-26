@@ -1,0 +1,42 @@
+{
+  "id": "ceramics-whole-empty-kickwheel-chest-and-reclaim-bay-scene-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "ceramics",
+  "style": "source-preserved-low-poly",
+  "title": "Whole Empty Kick Wheel Chest and Reclaim Bay",
+  "description": "One static traditional pottery-equipment preparation bay, one scene and zero new independent models. Three complete qualified originals preserve all original raw geometry buffers, normals, internal hierarchy, opaque PBR and unit scale. The entire open-frame kick-wheel station occupies the front-left, keeping its integral rear seat, high disk, vertical shaft and exposed lower flywheel intact and empty. A complete twin-track clay chest stands separately at front-right in its original partly retracted fixed-cover pose. The entire unequal-depth stepped-weir basin stands along the rear with both original side mouths, partition saddle and complete leg frame untouched. An open intervening floor band separates these three independent equipment positions; no hose, clay, water, pottery, tools or person joins them. Unlike the old tabletop turntable with blank and trimming kit, no vessel or tool is mounted on this wheel; unlike the shelf-and-jar storage exhibit, there is no shelf, jar or finished pottery display. This is a complete empty preparation grouping, not a functioning reclaim or throwing process and not three newly counted models. Only whole translations and a finite scene-only floor are new. No spinning, kicking, sliding travel, drainage, material suitability, storage preservation, ergonomic operation, human access, loading, installation or workshop safety capability. Rigging animation interaction not made.",
+  "bounds": {
+    "x": 3.700000047683716,
+    "y": 3.5,
+    "z": 1.159999966621399,
+    "unit": "m"
+  },
+  "triangles": 2048,
+  "materials": 10,
+  "files": {
+    "glb": {
+      "path": "assets/ceramics/ceramics-whole-empty-kickwheel-chest-and-reclaim-bay-scene-01/v1.0.0/model.glb",
+      "size": 127272,
+      "sha256": "1a9dc51e2a2dddd3295106f2014481ef9884070513f9a01076cc12cfc40c1fdb"
+    },
+    "blend": {
+      "path": "assets/ceramics/ceramics-whole-empty-kickwheel-chest-and-reclaim-bay-scene-01/v1.0.0/source.blend",
+      "size": 1024464,
+      "sha256": "398897581cc7eb9e5cee47bcb28bea49c21f7f292a6a745ab599fcafcf6518bb"
+    },
+    "generator": {
+      "path": "assets/ceramics/ceramics-whole-empty-kickwheel-chest-and-reclaim-bay-scene-01/v1.0.0/generate.py",
+      "size": 68718,
+      "sha256": "9d2295abbc3f77c138f2cd81a1bfd9675dd018315d3dfe9adfb50238ad3dcb2d"
+    },
+    "render": {
+      "path": "assets/ceramics/ceramics-whole-empty-kickwheel-chest-and-reclaim-bay-scene-01/v1.0.0/thumbnail.png",
+      "size": 517577,
+      "sha256": "dd8c4b7422619e1a0379eeec306bff93235d0bd3f74932bab97f7dc70d91fd3a"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
