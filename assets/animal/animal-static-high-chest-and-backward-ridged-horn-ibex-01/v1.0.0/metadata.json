@@ -1,0 +1,42 @@
+{
+  "id": "animal-static-high-chest-and-backward-ridged-horn-ibex-01",
+  "version": "1.0.0",
+  "category": "modular",
+  "assetKind": "prop",
+  "theme": "animal",
+  "style": "warm-handcrafted-village",
+  "title": "Static High Chest and Backward Ridged Horn Ibex",
+  "description": "One newly authored complete static ibex-like mountain-goat exterior. A single continuous narrow muzzle, ascending short neck and high chest flows into a smooth tucked abdomen and compact rump; four whole bent long legs carry broad flat hoof silhouettes. Two entirely new thick tapering horns rise high from the forehead and sweep backward in long open arcs, with shallow integral transverse ridges rather than tight side coils or branching tines. Small outward ears, a short rooted chin tuft, eyes and a short raised tail complete the animal. All visible numerical arrays newly drawn; not the old fleece ram stripped of wool or antlered deer with changed tines. One complete model zero scenes. Static stylised appearance only, no exact species/anatomy, climbing ability, ecology, horn function, rig, animation, interaction or handling/safety claim.",
+  "bounds": {
+    "x": 0.74000001,
+    "y": 2.220000029,
+    "z": 2.511741161,
+    "unit": "m"
+  },
+  "triangles": 2548,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/animal/animal-static-high-chest-and-backward-ridged-horn-ibex-01/v1.0.0/model.glb",
+      "size": 147340,
+      "sha256": "c0d7e42602c43dad80de9228a3e782ebfa78c70ac80586e1228d1262e78c50af"
+    },
+    "blend": {
+      "path": "assets/animal/animal-static-high-chest-and-backward-ridged-horn-ibex-01/v1.0.0/source.blend",
+      "size": 671408,
+      "sha256": "790da026fb86b28dfbd84f1c226bc67e662f903ffc09bbd5ee60d83516047251"
+    },
+    "generator": {
+      "path": "assets/animal/animal-static-high-chest-and-backward-ridged-horn-ibex-01/v1.0.0/generate.py",
+      "size": 30636,
+      "sha256": "99c0b9cca423f8e926c1d40e933a099577cf808bfd440dd2141786b403e935e8"
+    },
+    "render": {
+      "path": "assets/animal/animal-static-high-chest-and-backward-ridged-horn-ibex-01/v1.0.0/thumbnail.png",
+      "size": 482210,
+      "sha256": "b91d73c474a07e7b193964862bbd3f635944e0e4dc386e9bffb23808051fe3a8"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
