@@ -1,0 +1,42 @@
+{
+  "id": "architecture-fixed-twin-bow-ribs-and-low-tied-deck-bridge-01",
+  "version": "1.0.0",
+  "category": "architecture",
+  "assetKind": "modular",
+  "theme": "architecture",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Twin Bow Ribs and Low Tied Deck Bridge",
+  "description": "One complete newly authored static tied-arch-inspired bridge module. Two whole thick bowed arch ribs rise above a continuous low deck and return directly into the same two longitudinal tie beams at both ends. Whole vertical suspenders meet the deck-edge beams beneath each rib. Three upper spreaders and two separate high diagonal braces connect the two bows, while lower independent open guard rails border the deck. Two complete terminal pier blocks define the ground soles; there are no tall suspension towers, outer cable anchors, sagging main cables, central arch pier, filled stone spandrels or upper water trough. This new low-deck/rigid-upper-bow/end-tie organization differs from the old externally anchored suspension footbridge and the stone arch carrying a channel above it. All points and whole meshes newly authored, no old bridge geometry imported or merely curved. One architectural module zero scenes, three opaque constant PBR roles, metres Z-up and full horizontal bounds-centred ground origin. Fixed stylized game appearance only. No actual tie tension or arch thrust solution, structural load, hanger connection engineering, traffic, pedestrian access, navigational clearance, host bank alignment, construction or safety capability. Rig animation and interaction not made or verified.",
+  "bounds": {
+    "x": 6.54,
+    "y": 2.2,
+    "z": 3.21,
+    "unit": "m"
+  },
+  "triangles": 1420,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/architecture/architecture-fixed-twin-bow-ribs-and-low-tied-deck-bridge-01/v1.0.0/model.glb",
+      "size": 84100,
+      "sha256": "861cc11f9f9ad50b9bfaa44ca5ebf78151e0ddf0a077ce4d3f696cd866859620"
+    },
+    "blend": {
+      "path": "assets/architecture/architecture-fixed-twin-bow-ribs-and-low-tied-deck-bridge-01/v1.0.0/source.blend",
+      "size": 787708,
+      "sha256": "f730e8d738c60b131d50b744223022c7545396c8a5f6bf9a28ed043a05d68e63"
+    },
+    "generator": {
+      "path": "assets/architecture/architecture-fixed-twin-bow-ribs-and-low-tied-deck-bridge-01/v1.0.0/generate.py",
+      "size": 11454,
+      "sha256": "37eff9b4cfd095849b960ba8cccb3890b0d673716a01f70ca7f351506dd528e4"
+    },
+    "render": {
+      "path": "assets/architecture/architecture-fixed-twin-bow-ribs-and-low-tied-deck-bridge-01/v1.0.0/thumbnail.png",
+      "size": 455591,
+      "sha256": "4e0a21b2011f4b486754dd83d3291dc19decde138eb3a204482bd569b00550fc"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

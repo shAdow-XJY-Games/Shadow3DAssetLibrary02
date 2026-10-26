@@ -1,0 +1,42 @@
+{
+  "id": "transport-fixed-bent-bellows-and-twin-cabin-articulated-bus-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "transport",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Bent Bellows and Twin Cabin Articulated Bus",
+  "description": "One wholly newly authored complete fixed articulated passenger-bus exterior and open-cabin display. Two separate full cabin floors, lower side walls, actual open window bays and complete roof caps carry their own fixed seat rows and underframes. The longer forward section rests on two axles; the shorter rear section and its own axle are baked at an eighteen-degree horizontal angle. One continuous thick four-sided pleated connector surrounds a real open passage between the two cabin ends; a separate fixed joining floor and low captured-pivot exterior join the independent chassis below. A right-front entry and two rooted treads, whole driver controls, six full flat-tread tyres and fixed front/rear marker faces complete one vehicle. Unlike the short single-cabin minibus, this has an entire bent enclosed passage and independently supported rear cabin, not only added wheels, stretched body or changed paint. Unlike the old low split-bin robot, this has two hollow roofed passenger sections and the surrounding pleated connection, no cargo tub or transplanted old clevis mesh. All numeric geometry is new. Four opaque PBR roles; window apertures intentionally unglazed. Metres Z up, whole XY-centred ground datum, one prop zero scenes. Proportions are stylised display dimensions, not road-vehicle design. No doors, people, powered drivetrain, driving, steering, articulation path, passage accessibility, passenger fit/capacity, crashworthiness, roadworthiness, loading, manufacturing or safety capability. Rigging animation and interaction not made.",
+  "bounds": {
+    "x": 2.6050418092379704,
+    "y": 6.951222829174393,
+    "z": 2.11,
+    "unit": "m"
+  },
+  "triangles": 3764,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/transport/transport-fixed-bent-bellows-and-twin-cabin-articulated-bus-01/v1.0.0/model.glb",
+      "size": 246320,
+      "sha256": "fb2edc15057c3f9489b8d35d6806615dd557724b9608e7caa4d217f8bead9507"
+    },
+    "blend": {
+      "path": "assets/transport/transport-fixed-bent-bellows-and-twin-cabin-articulated-bus-01/v1.0.0/source.blend",
+      "size": 1308780,
+      "sha256": "fd58bc4453cfa00c2dbe72796831bc1ffa12fd24e82c0926aa7dfc9170e226c9"
+    },
+    "generator": {
+      "path": "assets/transport/transport-fixed-bent-bellows-and-twin-cabin-articulated-bus-01/v1.0.0/generate.py",
+      "size": 14736,
+      "sha256": "cf11bdbf27a7e7b4b068c11e81820e2447c6907a1640a9db568ecd89752ae3c1"
+    },
+    "render": {
+      "path": "assets/transport/transport-fixed-bent-bellows-and-twin-cabin-articulated-bus-01/v1.0.0/thumbnail.png",
+      "size": 448399,
+      "sha256": "19ae5edb320c5e80b708afd80af0a8c89f41d08196a2c8b9480c08ae9098832a"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
