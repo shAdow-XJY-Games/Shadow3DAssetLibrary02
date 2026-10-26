@@ -1644,6 +1644,11 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary02",
       "commit": "ccf711851b20a0d9109b6b78f6599a44fc977e42"
+    },
+    "original-qualified-batch-1300-volume02-20261025": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary02",
+      "commit": "8f10abb9e34caaf4343d46c4371747775d33ba85"
     }
   },
   "assets": [
@@ -57331,6 +57336,221 @@
       "status": "verified",
       "license": "All rights reserved",
       "sourceId": "original-qualified-batch-1295-volume02-20261025"
+    },
+    {
+      "id": "cave-mine-fixed-cutaway-conical-bowl-and-spider-shaft-crusher-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "cave-mine",
+      "style": "S01-clean-geometric",
+      "title": "Fixed Cutaway Conical Bowl and Spider Shaft Crusher",
+      "description": "One wholly newly authored cone-crusher-style static display on its own connected ground carrier. Four short legs carry a broad lower stepped body; a thick upper conical bowl has one deliberate near-side sector cut away, exposing a separate complete broad-shouldered cone mantle on a full vertical shaft. A complete upper feed ring and three raised full spider arms connect to an independent annular centre hub. The visible annular space widens upward between the smaller mantle and outer casing. A separate side horizontal shaft, thick bearing-cover exterior, proud hub and whole grooved open-spoke pulley complete the machine silhouette. This is not the old opposing corrugated V jaws made round or the twin horizontal roll crusher with another roller: the entire central vertical mantle/surrounding conical chamber/overhead spider relationship is newly authored. No old mesh or machine component imported. One prop zero scenes, four constant opaque PBR appearances, metres/native Z up and actual whole-ground-sole datum with centred horizontal bounds. Empty static cutaway only: lower drive internals are solid exteriors; no eccentric cycle, working bearing fit, crushing contact, feed or discharge flow, gears, belts, ore, product size, throughput, motion, manufacture, operation, load or machinery safety performance. Rigging animation and interaction not made.",
+      "bounds": {
+        "x": 2.77,
+        "y": 2.46,
+        "z": 2.52,
+        "unit": "m"
+      },
+      "triangles": 4556,
+      "materials": 4,
+      "files": {
+        "glb": {
+          "path": "assets/cave-mine/cave-mine-fixed-cutaway-conical-bowl-and-spider-shaft-crusher-01/v1.0.0/model.glb",
+          "size": 231724,
+          "sha256": "c16f45749147615b982470116a9a242eb2dffe35c439efcb5aca33648a7e0a82"
+        },
+        "blend": {
+          "path": "assets/cave-mine/cave-mine-fixed-cutaway-conical-bowl-and-spider-shaft-crusher-01/v1.0.0/source.blend",
+          "size": 873732,
+          "sha256": "5ecd84003b435e6716a5fdb633c17aa594da50d6074aaa9d3b98b9f33d6c3ca2"
+        },
+        "generator": {
+          "path": "assets/cave-mine/cave-mine-fixed-cutaway-conical-bowl-and-spider-shaft-crusher-01/v1.0.0/generate.py",
+          "size": 28233,
+          "sha256": "f338095db621a467439223ad96ca93c0b0cb4578a34ba7ed34655ccd9bd00ee8"
+        },
+        "render": {
+          "path": "assets/cave-mine/cave-mine-fixed-cutaway-conical-bowl-and-spider-shaft-crusher-01/v1.0.0/thumbnail.png",
+          "size": 596048,
+          "sha256": "67315ce88409c419bb5848ef4ef7d9a0ca2569ff3b024ef61f33fa011539b978"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1300-volume02-20261025"
+    },
+    {
+      "id": "construction-fixed-upper-cab-nested-box-boom-mobile-crane-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "construction",
+      "style": "S01-clean-geometric",
+      "title": "Fixed Upper Cab and Nested Box Boom Mobile Crane",
+      "description": "One wholly newly authored compact mobile-crane-style static vehicle. A low chamfer-ended two-axle carrier and four large whole annular tyres carry four deployed full outrigger beams with posts and broad grounded pads. A separate centre pedestal supports one complete upper deck, its sole side-offset cab, rear counterweight and central cross-pivot cheeks. Three genuinely hollow thick rectangular box sleeves extend in one fixed inclined pose; small independently whole lower seats join their nested walls while leaving their remaining real aperture space. A complete lower cylinder-and-rod exterior, tip carrier, two full hanging line exteriors, independent hook block and continuous blunt open J hook complete the empty machine. The carrier has no separate front road cab or rear fire-equipment body and the boom is not the old open rung ladder replaced on an unchanged truck. It is also not a workshop crane scaled onto wheels: the sole upper cab/counterweight/slew platform, nested box sleeves and line-suspended block are authored as one new whole vehicle. No old geometry imported or extracted. Four opaque constant PBR roles, metres Z up and centred complete horizontal bounds with full tyre and pad sole datum. One whole prop zero scenes. Single empty static exterior only: no hydraulic or geared internals, engineered cable reeving, telescoping travel, slew, lifting, rolling, steering, operator fit, load, balance, terrain ability, manufacturing, operation or machinery/vehicle safety performance. Rigging animation and interaction not made.",
+      "bounds": {
+        "x": 3.78,
+        "y": 5.65355,
+        "z": 4.721726,
+        "unit": "m"
+      },
+      "triangles": 2600,
+      "materials": 4,
+      "files": {
+        "glb": {
+          "path": "assets/construction/construction-fixed-upper-cab-nested-box-boom-mobile-crane-01/v1.0.0/model.glb",
+          "size": 141016,
+          "sha256": "ced6e94ab25260326f2dbf3e3c8abaede4e1943171d98b4fc9bc5fdc5573424d"
+        },
+        "blend": {
+          "path": "assets/construction/construction-fixed-upper-cab-nested-box-boom-mobile-crane-01/v1.0.0/source.blend",
+          "size": 879804,
+          "sha256": "82edd9fab198db8bdfdb4bcd3d3061fc0d4166156f42d4c068c04646e0d2c79f"
+        },
+        "generator": {
+          "path": "assets/construction/construction-fixed-upper-cab-nested-box-boom-mobile-crane-01/v1.0.0/generate.py",
+          "size": 31995,
+          "sha256": "957980cbe1d95f0b7bc8fec17af92d93252252d1ece4b783fc9c8f1a3ccff2cb"
+        },
+        "render": {
+          "path": "assets/construction/construction-fixed-upper-cab-nested-box-boom-mobile-crane-01/v1.0.0/thumbnail.png",
+          "size": 552354,
+          "sha256": "cbd45e99ca44731df5abe0811c98e1cab917cdf8f6d10005b37ee548dcb0f77e"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1300-volume02-20261025"
+    },
+    {
+      "id": "kitchen-fixed-twin-guide-and-fork-lever-grid-divider-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "kitchen",
+      "style": "source-preserved-low-poly",
+      "title": "Fixed Twin Guide and Fork Lever Grid Divider",
+      "description": "One newly authored complete fixed tabletop horizontal-grid-divider appearance. A low four-foot frame supports two complete horizontal guide rods and a separate upright solid pushing plate on a full captured cross carriage. Ahead, one continuous thick square frame integrates a genuinely through-open orthogonal blunt lattice. A high forked lever on a full transverse front pivot connects to the pushing carriage through two entire diagonal links with complete pins; a broad cross grip joins the raised lever ends. The empty interval from push plate to grid is real. This complete tabletop twin-rod, front square grid and high fork-link organization is newly authored, not the old wheeled horizontal hydraulic wedge bed with a new end attachment or the hand-held radial fruit wedger widened. All new numeric geometry; no old component reuse. Three opaque solid PBR roles, one model zero scenes. No food or sharp edges. Static appearance only: no slicing, pushing travel, grid/pusher operational fit, lever transmission, food hygiene, hand clearance, force, manufacture or safety capability. Rigging animation interaction not made.",
+      "bounds": {
+        "x": 0.2759999930858612,
+        "y": 0.3720000088214874,
+        "z": 0.4480000138282776,
+        "unit": "m"
+      },
+      "triangles": 3244,
+      "materials": 3,
+      "files": {
+        "glb": {
+          "path": "assets/kitchen/kitchen-fixed-twin-guide-and-fork-lever-grid-divider-01/v1.0.0/model.glb",
+          "size": 290092,
+          "sha256": "1e1e56bbc21506b2a97b451473b085f1c225d2aae8eb211a9496349c2adc5c21"
+        },
+        "blend": {
+          "path": "assets/kitchen/kitchen-fixed-twin-guide-and-fork-lever-grid-divider-01/v1.0.0/source.blend",
+          "size": 1008928,
+          "sha256": "ccadec131568bab661e9e6f6bbb9522972de9b3d0feb7d1d0328a256f19b7cac"
+        },
+        "generator": {
+          "path": "assets/kitchen/kitchen-fixed-twin-guide-and-fork-lever-grid-divider-01/v1.0.0/generate.py",
+          "size": 16351,
+          "sha256": "985f012b23d39b051ebb582ece510a4e57012cbc7cef3c5d245d940e127674e5"
+        },
+        "render": {
+          "path": "assets/kitchen/kitchen-fixed-twin-guide-and-fork-lever-grid-divider-01/v1.0.0/thumbnail.png",
+          "size": 511527,
+          "sha256": "3388b7d054ed9544fe61265e649b1ee6accaa0d412afcb2265f8983e07a86289"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1300-volume02-20261025"
+    },
+    {
+      "id": "nature-whole-sword-leaf-upright-and-reflexed-iris-01",
+      "version": "1.0.0",
+      "category": "modular",
+      "assetKind": "prop",
+      "theme": "nature",
+      "style": "warm-handcrafted-village",
+      "title": "Static Sword Leaf Upright and Reflexed Iris",
+      "description": "One newly authored complete stylised above-ground iris-like flowering plant. A small basal crown supports a fan of long flattened sword leaves and one narrow gently bent stalk. The upright flower has three thick broad inward-arching upper petals alternating with three broad outward-then-downward reflexed falls, each a continuous curved finite-thickness volume; the falls carry a small integral yellow face region near their roots. This alternating high enclosing and low drooping organisation differs from a front-facing orchid lower lip and the central trumpet of a daffodil, not merely a different petal count or color. All leaf and petal sections, paths and crown placement are newly drawn. One static whole plant zero scenes. Roots, exact species, reproductive microanatomy, growth, pollination, cultivation, ecological function, wind, animation and interaction are not made or validated.",
+      "bounds": {
+        "x": 0.893157721,
+        "y": 0.79488337,
+        "z": 1.656809688,
+        "unit": "m"
+      },
+      "triangles": 1608,
+      "materials": 4,
+      "files": {
+        "glb": {
+          "path": "assets/nature/nature-whole-sword-leaf-upright-and-reflexed-iris-01/v1.0.0/model.glb",
+          "size": 95776,
+          "sha256": "1df00bb0394931a7fc066fb148580a122aa19bed452b2696c8c5667aa8b431d7"
+        },
+        "blend": {
+          "path": "assets/nature/nature-whole-sword-leaf-upright-and-reflexed-iris-01/v1.0.0/source.blend",
+          "size": 631800,
+          "sha256": "719b0dd39fe406eb71847f5f0acec48ebc34939fe936e8040bed4b69a0a2a1b8"
+        },
+        "generator": {
+          "path": "assets/nature/nature-whole-sword-leaf-upright-and-reflexed-iris-01/v1.0.0/generate.py",
+          "size": 29928,
+          "sha256": "c6ebbebe168f8d5106606411dd841faa7da0b3f9f644f21730d29bb33052cf2c"
+        },
+        "render": {
+          "path": "assets/nature/nature-whole-sword-leaf-upright-and-reflexed-iris-01/v1.0.0/thumbnail.png",
+          "size": 505976,
+          "sha256": "eddce49c9c0f318858058f9a8464649ce62c95647c472224f533e9d17c5c2b31"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1300-volume02-20261025"
+    },
+    {
+      "id": "photography-fixed-cutaway-tank-and-paired-spiral-reel-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "photography",
+      "style": "S01-clean-geometric",
+      "title": "Fixed Cutaway Tank and Paired Spiral Reel",
+      "description": "One newly authored complete dry film-developing-tank-style cutaway set, counted as one prop. A thick cylindrical tank wall has one deliberate fixed front quarter cutaway over a complete closed floor. Inside, a real through-bored central tube and three bottom spokes support two separate complete continuous flat spiral guide ribbons at different heights; three whole upright separators connect corresponding spiral stations. The spiral intervals are empty, with no film or liquid. A complete matching profiled lid lies inverted separately on its integral flat crown so its open stepped inner locating recess is visible. No old suspended perforated basket, audio reel deck, winding mass or dye-vat parts imported. New internal paired continuous spiral organization and cutaway tank, not a plain bucket given a different label. Four opaque constant PBR roles, metres Z up, complete set horizontal bounds centred and two whole ground soles. Fixed illustrative exterior/cutaway only: no chemical process, photographic development, light seal, capacity, fluid retention, loading, rotation, manufacture, compatibility or safety capability verified. Rigging animation and interaction not made.",
+      "bounds": {
+        "x": 0.395,
+        "y": 0.186,
+        "z": 0.15,
+        "unit": "m"
+      },
+      "triangles": 3808,
+      "materials": 4,
+      "files": {
+        "glb": {
+          "path": "assets/photography/photography-fixed-cutaway-tank-and-paired-spiral-reel-01/v1.0.0/model.glb",
+          "size": 170588,
+          "sha256": "69e3177c9cbce6b8d40c63e950cd73b549d6f899e1b5480e9da208bb5811ac80"
+        },
+        "blend": {
+          "path": "assets/photography/photography-fixed-cutaway-tank-and-paired-spiral-reel-01/v1.0.0/source.blend",
+          "size": 801392,
+          "sha256": "f4ead30f08594dc5fc3c6c934dee6fa442810b3aaccda255062fc2add2547da2"
+        },
+        "generator": {
+          "path": "assets/photography/photography-fixed-cutaway-tank-and-paired-spiral-reel-01/v1.0.0/generate.py",
+          "size": 11145,
+          "sha256": "7be38a255b25325bc064d9cb5e74bbd4f83c4cc0c1b3b9a43e8ef85386f6e356"
+        },
+        "render": {
+          "path": "assets/photography/photography-fixed-cutaway-tank-and-paired-spiral-reel-01/v1.0.0/thumbnail.png",
+          "size": 417222,
+          "sha256": "960aaf84705368d7374558cfa36de331532c19e043dc1d3e912971b234319675"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1300-volume02-20261025"
     }
   ]
 }
