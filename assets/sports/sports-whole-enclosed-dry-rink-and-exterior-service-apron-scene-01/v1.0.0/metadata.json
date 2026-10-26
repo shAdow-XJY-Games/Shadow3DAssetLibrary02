@@ -1,0 +1,42 @@
+{
+  "id": "sports-whole-enclosed-dry-rink-and-exterior-service-apron-scene-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "sports",
+  "style": "source-preserved-low-poly",
+  "title": "Whole Enclosed Dry Rink and Exterior Service Apron",
+  "description": "One complete static enclosed dry ice-rink-like service-boundary scene, one scene and zero new independent models. A new scene-only rounded rectangular pale pad and a continuous low open-front perimeter wall distinguish an interior empty skating-shaped area from an exterior service apron. The entire previously qualified fixed partly closed roll shutter stands in the front wall opening; the complete qualified front-tank and rear-conditioner ice-machine appearance parks separately to the right outside the boundary. Both original units retain every mesh, full buffer, normal, opaque PBR and internal hierarchy at unchanged unit scale, under translation only. The machine is not underneath the low fixed curtain and no traversable doorway or vehicle fit is claimed. Unlike the old open football goal/trolley floor and four-station utility bay, this is an enclosed interior pad with an exterior service edge, not a substitution of machines at those original positions. Only the common slab, raised pale pad and continuous perimeter boards are new scene architecture; none is counted as a new standalone model. No people, snow, liquids, ice physics, markings, venue regulation, vehicle operation, refrigeration, shutter motion, sightline or human access, loads, installation or safety capability. Rigging, animation and interaction not made.",
+  "bounds": {
+    "x": 11.0,
+    "y": 11.0,
+    "z": 3.197499990463257,
+    "unit": "m"
+  },
+  "triangles": 6096,
+  "materials": 12,
+  "files": {
+    "glb": {
+      "path": "assets/sports/sports-whole-enclosed-dry-rink-and-exterior-service-apron-scene-01/v1.0.0/model.glb",
+      "size": 359992,
+      "sha256": "d00666a7dc8089d0d621da1ab392e9f8784fa32df59feee4564f905fbc6b3e34"
+    },
+    "blend": {
+      "path": "assets/sports/sports-whole-enclosed-dry-rink-and-exterior-service-apron-scene-01/v1.0.0/source.blend",
+      "size": 1605232,
+      "sha256": "2a79bc852f7dd787eda9f1efab9aca1e16307c4479a4354f59b0d09feba38634"
+    },
+    "generator": {
+      "path": "assets/sports/sports-whole-enclosed-dry-rink-and-exterior-service-apron-scene-01/v1.0.0/generate.py",
+      "size": 116681,
+      "sha256": "84ae94ef813bad4cbec81b67525bff488d57daa545f6c2f47d0593f9bf8aa086"
+    },
+    "render": {
+      "path": "assets/sports/sports-whole-enclosed-dry-rink-and-exterior-service-apron-scene-01/v1.0.0/thumbnail.png",
+      "size": 496188,
+      "sha256": "941b991b9fc96621b412810ee6e0085de6fc1c6e982fc2a3ebbb2afa9e7b4e44"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

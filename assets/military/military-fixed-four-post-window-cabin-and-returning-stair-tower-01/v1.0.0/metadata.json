@@ -1,0 +1,42 @@
+{
+  "id": "military-fixed-four-post-window-cabin-and-returning-stair-tower-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "military",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Four Post Window Cabin and Returning Stair Tower",
+  "description": "One independently authored complete fixed nonweapon camp observation tower visual model. Four complete ground posts and three diagonal braces carry a thick high floor and one continuous cabin wall shell with actual broad side and rear window voids and a front entry. A whole pitched thick roof caps the cabin. Outside the braced central tower, two independent opposite-running stair flights meet a full intermediate turning landing and reach a full upper entry landing beside the cabin front doorway. Complete stair stringers, rails, and landing supports remain part of this single whole structure. This is not the old elevated open lifeguard seat or the solid tapered lighthouse shaft and lantern gallery. All geometry newly authored, no old meshes imported. Three opaque PBR roles, metres Z up, bounds-centred ground origin. Fixed artistic architectural appearance only: no weapon, occupant, observation coverage, climbability, accessibility, load, stability, wind, military protection, building compliance or safety claim. Rigging animation and interaction not made or verified.",
+  "bounds": {
+    "x": 4.45,
+    "y": 3.91,
+    "z": 6.06,
+    "unit": "m"
+  },
+  "triangles": 1644,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/military/military-fixed-four-post-window-cabin-and-returning-stair-tower-01/v1.0.0/model.glb",
+      "size": 105140,
+      "sha256": "5d35223a64bd7af452f04d4bea50d2ec537692703c3b94c11937e0305a083b09"
+    },
+    "blend": {
+      "path": "assets/military/military-fixed-four-post-window-cabin-and-returning-stair-tower-01/v1.0.0/source.blend",
+      "size": 910580,
+      "sha256": "841743419b9f0dbfbd8f279577666827cd421aefc19d9cce304656e4df9cfbdd"
+    },
+    "generator": {
+      "path": "assets/military/military-fixed-four-post-window-cabin-and-returning-stair-tower-01/v1.0.0/generate.py",
+      "size": 12145,
+      "sha256": "1fe5b92eaf9ebd31328d9fee8bab88c5cfb3a101c7d735c884cfbcaf4a6c6e3c"
+    },
+    "render": {
+      "path": "assets/military/military-fixed-four-post-window-cabin-and-returning-stair-tower-01/v1.0.0/thumbnail.png",
+      "size": 537531,
+      "sha256": "a21c88e65210c41295980f0df60fdf62ad7c725530d4c3b41645c553105095c0"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

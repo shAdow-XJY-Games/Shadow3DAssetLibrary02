@@ -1,0 +1,42 @@
+{
+  "id": "public-service-fixed-twin-shaft-cabin-loop-cutaway-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "public-service",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Twin Shaft Cabin Loop Cutaway",
+  "description": "One complete independently authored compact static architectural cutaway display of a twin-shaft circulating-cabin lift appearance. A shared broad footing carries a full three-pier front frame, two separate open vertical cabin lanes and an entire rear mechanical support frame. Two full level-front thresholds and crossheaders define four genuine open landing mouths. Four whole empty front-open cabins have thick continuous floor, side, rear and roof shells; each has its own rear hanging attachment and pin to the fixed continuous closed return-band appearance behind the cabins. One complete tall closed racetrack band passes around separate upper and lower full return wheels on actual whole axles and bearing pedestals. Upper and lower return spaces stay deliberately open so the route can be seen; no cabin is placed through a turn, and no turning motion is claimed. Unlike the single caged tower with an integral projecting access trough, the building frame has two separate adjacent lanes, repeated level mouths and shared upper/lower returns. Unlike the enclosed narrow grain bucket elevator, there are no transfer ducts, casing inspection window or belt-mounted outward scoops: full upright empty cabins hang by distinct rear fixtures behind architectural landing openings. All geometry newly authored together, no old cabin, chain lift or building mesh imported. Four opaque constant PBR roles, metres Z up, full horizontal bounds centred, one entire modular facility zero scenes. Unoccupied static cutaway art only: no actual cabin circulation, pendulum clearance, guidance, drive, synchronization, stopping, entry or exit, boarding, evacuation, human access, code compliance, load, installation or safety capability. The displayed fixed seats do not validate moving suspension or travel. No people, doors, signs, rigging, animation or interaction.",
+  "bounds": {
+    "x": 1.9799999999999998,
+    "y": 1.2599999999999998,
+    "z": 3.9,
+    "unit": "m"
+  },
+  "triangles": 2700,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/public-service/public-service-fixed-twin-shaft-cabin-loop-cutaway-01/v1.0.0/model.glb",
+      "size": 148296,
+      "sha256": "26559010c9e05fa25f9ba72e270caf5f361985abe8a89dacaf48837a7bf82851"
+    },
+    "blend": {
+      "path": "assets/public-service/public-service-fixed-twin-shaft-cabin-loop-cutaway-01/v1.0.0/source.blend",
+      "size": 945488,
+      "sha256": "afe65716a5b09878355709c750f00fccb2b7d2662e5862c5ff95791c5517e33b"
+    },
+    "generator": {
+      "path": "assets/public-service/public-service-fixed-twin-shaft-cabin-loop-cutaway-01/v1.0.0/generate.py",
+      "size": 13200,
+      "sha256": "a4afc0e4bf74ed746d58a0fadb7333f0e67ba036816408f1f4e6c24d0f912bb1"
+    },
+    "render": {
+      "path": "assets/public-service/public-service-fixed-twin-shaft-cabin-loop-cutaway-01/v1.0.0/thumbnail.png",
+      "size": 480009,
+      "sha256": "ae0b0646150335a7bd062c7988ddac611def7c8a0693e1ef79b8f26fc4496676"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

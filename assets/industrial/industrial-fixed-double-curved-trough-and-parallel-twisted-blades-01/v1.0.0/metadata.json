@@ -1,0 +1,42 @@
+{
+  "id": "industrial-fixed-double-curved-trough-and-parallel-twisted-blades-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "industrial",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Double Curved Trough and Parallel Twisted Blades",
+  "description": "One wholly newly authored complete empty twin-shaft trough-kneader-style static exterior. A single thick open long trough has complete end walls, an uninterrupted top rim and two real curved floor bays meeting at a low central saddle. Two independent full horizontal shafts run along those bays; each carries one broad finite-thickness continuous blade with a single longitudinal partial twist, rather than a cylindrical drum or wire cage. Both shafts enter one shared closed outboard drive-box exterior carried on a full pedestal; two grounded skids, four complete trough legs, two fixed outer collars, a raised side cover and one blank dial complete the whole machine. Unlike the oval-raceway paper beater it has no long partition or connected circulation loop and no single transverse bar drum; unlike the countertop mixer it has no separate circular bowl, overhead motor head or vertical hook. No old meshes or subassemblies are imported or resized. One model zero scenes, four opaque constant untextured PBR appearances, native metre game coordinates/Z up, complete horizontal envelope centred and both whole skid soles grounded. Empty schematic artistic exterior only: no dough, chemicals, drive or gear internals, real shaft seals or bore fit, rotation or swept-envelope verification, kneading/mixing result, fluid path, food contact, hygiene, heat, capacity, manufacture, operation or safety capability is made or verified. Fixed embedded joins are visual assembly details. Rigging animation interaction not made.",
+  "bounds": {
+    "x": 3.63,
+    "y": 1.68,
+    "z": 1.68,
+    "unit": "m"
+  },
+  "triangles": 1448,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/industrial/industrial-fixed-double-curved-trough-and-parallel-twisted-blades-01/v1.0.0/model.glb",
+      "size": 93528,
+      "sha256": "ca1e6773f80988f2d28bdda21add233c3173b03bb1495f135f834f8e314528e8"
+    },
+    "blend": {
+      "path": "assets/industrial/industrial-fixed-double-curved-trough-and-parallel-twisted-blades-01/v1.0.0/source.blend",
+      "size": 681152,
+      "sha256": "bc6ee6373b8978bb8a1590f4baafe2486148d5f98e0c1346602c763444ad68da"
+    },
+    "generator": {
+      "path": "assets/industrial/industrial-fixed-double-curved-trough-and-parallel-twisted-blades-01/v1.0.0/generate.py",
+      "size": 28382,
+      "sha256": "258b01d35f6956b3d75f60c74029f2d7f379405fac2d6df91e4f7d963f44eb05"
+    },
+    "render": {
+      "path": "assets/industrial/industrial-fixed-double-curved-trough-and-parallel-twisted-blades-01/v1.0.0/thumbnail.png",
+      "size": 537933,
+      "sha256": "23583459b6cc33b7996dc769d3ec67108dccb0e4b2c4b4b4331a359d27c53658"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

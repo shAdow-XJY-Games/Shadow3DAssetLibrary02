@@ -1,0 +1,42 @@
+{
+  "id": "laboratory-fixed-tall-column-and-conical-observation-console-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "laboratory",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Tall Column and Conical Observation Console",
+  "description": "One wholly newly authored complete tall-column observation-instrument exterior. One broad floor plinth supports a deep chamfered lower cabinet and a central conical-shoulder chamber. A long integral stepped column rises directly from that chamber, while a thick slanted front port contains an actual short blind circular recess. Two connected deep sloping control wings extend from the same cabinet and carry thick blank opaque inset panels and short fixed knobs. One small capped side boss and a whole stem-handle belong to the upper column, with no specimen or exposed working stage. Unlike the old C-arm microscope there is no arched limb, naked slide stage or eye tube suspended over an object; unlike the round-screen comparator there is no huge upright display, crossed slide-table stack or side illuminator. The complete new cabinet/chamber/column/wing organization is authored together, not old instrument parts enlarged, rotated or combined into a scene. One prop zero scenes, four opaque constant untextured PBR appearances; native metres Z up and horizontally centred over the whole plinth sole. Static stylized scientific-instrument art only: no electron beam, vacuum enclosure, imaging, magnification, optical transmission, radiation, specimen handling, diagnostic or medical capability, electronics, dimensions for manufacture, installation, operational precision or safety. Chamber and column are solid art bodies; the front recess is short and blind, not an actual vacuum or optical passage. Rigging animation interaction not made or verified.",
+  "bounds": {
+    "x": 2.2,
+    "y": 1.362,
+    "z": 3.29,
+    "unit": "m"
+  },
+  "triangles": 2388,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/laboratory/laboratory-fixed-tall-column-and-conical-observation-console-01/v1.0.0/model.glb",
+      "size": 128476,
+      "sha256": "32dc3c8a1bc105f49ca8958215db500dc13ff02e10e456c819e98007551913c2"
+    },
+    "blend": {
+      "path": "assets/laboratory/laboratory-fixed-tall-column-and-conical-observation-console-01/v1.0.0/source.blend",
+      "size": 737364,
+      "sha256": "287875a878cafbff1385bc4dacc96f7a43b21695d9c3f636c336c834e75faa04"
+    },
+    "generator": {
+      "path": "assets/laboratory/laboratory-fixed-tall-column-and-conical-observation-console-01/v1.0.0/generate.py",
+      "size": 27980,
+      "sha256": "890da886a1dfd43883e64d1d87bf89e3a1b6a2c4995665dc303415b98523bd37"
+    },
+    "render": {
+      "path": "assets/laboratory/laboratory-fixed-tall-column-and-conical-observation-console-01/v1.0.0/thumbnail.png",
+      "size": 488545,
+      "sha256": "1e8ec0ce8eb633805ab311494dfaed95a22172cd158e2e618e140d64cf90cacc"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "laundry-whole-roll-ironer-and-empty-folding-table-preparation-bay-scene-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "laundry",
+  "style": "source-preserved-low-poly",
+  "title": "Whole Roll Ironer and Empty Folding Table Preparation Bay",
+  "description": "One empty static laundry finishing equipment bay, one scene and zero new independent models. A whole single-roll curved-shoe pedestal ironer stands at the rear left, exposing its complete front feed board and fixed pedal. A complete four-panel folding table stands separately at the right with all original through hand slots and fixed connector webs retained and its top empty. A whole suspended fabric hamper cart waits independently forward of the ironer, leaving a visible gap before its feed board and a central open floor strip toward the table. This is a normal roll-ironing, empty surface and collection equipment preparation layout, not the old closed washer with cart or folding board supporting a clip basket beside an iron-on-board kit. All three originals remain whole and unit-scale with original local buffers, normals, PBR and internal hierarchy unchanged. Only rigid whole translations and one finite scene floor are new. No garments, transfers, heating, ironing, folding, movement, operating sequence, machine compatibility, human fit, load or workplace safety is asserted. Rigging animation interaction not made.",
+  "bounds": {
+    "x": 3.200000047683716,
+    "y": 2.5999999046325684,
+    "z": 1.1693530082702637,
+    "unit": "m"
+  },
+  "triangles": 2988,
+  "materials": 14,
+  "files": {
+    "glb": {
+      "path": "assets/logistics/laundry-whole-roll-ironer-and-empty-folding-table-preparation-bay-scene-01/v1.0.0/model.glb",
+      "size": 229824,
+      "sha256": "54ee25b74d2512c0eb7f1df20c2eac4761960fb7750252614d39e8846e8f42c3"
+    },
+    "blend": {
+      "path": "assets/logistics/laundry-whole-roll-ironer-and-empty-folding-table-preparation-bay-scene-01/v1.0.0/source.blend",
+      "size": 1428236,
+      "sha256": "7dae068ba62b45854a5ffacb604f0e826a0ebe71ac01b93806591733173fb040"
+    },
+    "generator": {
+      "path": "assets/logistics/laundry-whole-roll-ironer-and-empty-folding-table-preparation-bay-scene-01/v1.0.0/generate.py",
+      "size": 97057,
+      "sha256": "11753a5176d3cd732e599514c8ed142d0618c370d4ec77e45f5eb2d51df3eee2"
+    },
+    "render": {
+      "path": "assets/logistics/laundry-whole-roll-ironer-and-empty-folding-table-preparation-bay-scene-01/v1.0.0/thumbnail.png",
+      "size": 494694,
+      "sha256": "1f71f18148d3a475f155806395f0c0e89e9c1962ac12396fc856af494af9a791"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

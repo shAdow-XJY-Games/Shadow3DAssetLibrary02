@@ -1,0 +1,42 @@
+{
+  "id": "regional-fixed-terraced-mass-and-three-approach-shrine-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "regional",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Terraced Mass and Three Approach Shrine",
+  "description": "One newly authored complete stepped-platform-shrine architectural exterior. A single continuous thick grounded masonry body retreats through three broad raised terraces. Three whole lower approach flights converge at one full front landing; from there one continuous upper stair climbs through the terrace fronts to a complete small upper shrine chamber. That chamber has an actual front doorway, thick side and back walls, an internal floor and a full roof, not a dark doorway decal. All tier bodies, landing and stair runs are one shared-vertex closed material boundary without interior overlapping cell faces. This is not a repeated collection of old plinths or an isolated bifurcated stair with changed step count: the three approaches converge and then enter one higher temple-like whole atop a terraced grounded mass. Unlike the old sunken stepwell, routes rise above the surrounding ground toward a separate upper chamber rather than descending within a retaining enclosure to a well. No old stair, architecture or model mesh imported. Three opaque PBR roles, metres Z up and whole horizontal envelope centred. One complete architectural module zero scenes. Fictional regional ancient-inspired static art only, not a named sacred site, historic reconstruction, religious activity or construction plan. No accessible route, stair standard, handrail safety, host fit, material strength, foundation, load, manufacture or engineering safety capability. Rigging animation interaction not made or verified.",
+  "bounds": {
+    "x": 8.8,
+    "y": 8.3,
+    "z": 4.9,
+    "unit": "m"
+  },
+  "triangles": 6600,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/regional/regional-fixed-terraced-mass-and-three-approach-shrine-01/v1.0.0/model.glb",
+      "size": 148908,
+      "sha256": "5c9fa0e975c2a8aae10196be425b0be563b6c8c648491e6b476a51fad50330a4"
+    },
+    "blend": {
+      "path": "assets/regional/regional-fixed-terraced-mass-and-three-approach-shrine-01/v1.0.0/source.blend",
+      "size": 957820,
+      "sha256": "a7b1c86822c634a1fdf131ed8276d7771a2252efd7db04c2e05624d02c474298"
+    },
+    "generator": {
+      "path": "assets/regional/regional-fixed-terraced-mass-and-three-approach-shrine-01/v1.0.0/generate.py",
+      "size": 12189,
+      "sha256": "334f5d38417e7f0859bd1f4211a4e9577cea2d1235de60d231b50af7c605fb29"
+    },
+    "render": {
+      "path": "assets/regional/regional-fixed-terraced-mass-and-three-approach-shrine-01/v1.0.0/thumbnail.png",
+      "size": 558566,
+      "sha256": "82b8c730a4b60b8e43622d78d41a74e61bc03f003be785162c71eb9db6c4a448"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

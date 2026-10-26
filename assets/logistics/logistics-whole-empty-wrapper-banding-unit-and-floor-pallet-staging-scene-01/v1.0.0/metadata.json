@@ -1,0 +1,42 @@
+{
+  "id": "logistics-whole-empty-wrapper-banding-unit-and-floor-pallet-staging-scene-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "logistics",
+  "style": "source-preserved-low-poly",
+  "title": "Whole Empty Wrapper Banding Unit and Floor Pallet Staging",
+  "description": "One empty static packing-equipment preparation bay, one scene and zero new independent models. The complete original circular-platform and film-carriage wrapper occupies the rear-left station; its round deck stays empty. A whole original inward-grooved arch and split-table banding unit stands independently at the right, with the original side supply roll, empty arch and tabletop centre gap retained. One complete original wood pallet rests independently on all its original bottom runners on the common floor, in front of the wrapper with a visible gap and no fork or conveyor inserted. The two whole machines and the waiting empty pallet form a normal preparation layout with open foreground space and separation between station envelopes. It is not the existing fork-engaged loading display or the high rack with a parked jack. The initial idea of placing this unchanged pallet on the wrapper was withdrawn before scene source: its extreme bottom corner radius exceeds the existing deck radius, so no complete footprint containment or device compatibility is asserted and no original object is resized. Three complete unit-scale models retain every local buffer, normal, internal hierarchy and PBR dictionary. Only whole translations and one finite scene-only floor are authored; no machine component, pallet runner, film roll or arch segment is removed or counted anew. Empty fixed art only: no film or strap routing, material movement, packing sequence, wrapper rotation, clamping, equipment fit, loading procedure, human access compliance, rated load, installation or machine safety. Rigging animation interaction not made.",
+  "bounds": {
+    "x": 4.699999809265137,
+    "y": 3.5,
+    "z": 2.072000026702881,
+    "unit": "m"
+  },
+  "triangles": 4236,
+  "materials": 10,
+  "files": {
+    "glb": {
+      "path": "assets/logistics/logistics-whole-empty-wrapper-banding-unit-and-floor-pallet-staging-scene-01/v1.0.0/model.glb",
+      "size": 381300,
+      "sha256": "c7eff04f188f58e587ca4e4e73f2a6dd08c99fabf768f2694ad5e6a1f3c7ad6f"
+    },
+    "blend": {
+      "path": "assets/logistics/logistics-whole-empty-wrapper-banding-unit-and-floor-pallet-staging-scene-01/v1.0.0/source.blend",
+      "size": 1382032,
+      "sha256": "acb267b4a6db4239b4bd76877bc35ca56a2217ce126dc1bff97aa6f94e22785c"
+    },
+    "generator": {
+      "path": "assets/logistics/logistics-whole-empty-wrapper-banding-unit-and-floor-pallet-staging-scene-01/v1.0.0/generate.py",
+      "size": 100727,
+      "sha256": "0de2c2e0ef1dca80a6d5b3d45d15a8ec3d55429a388124bd4b3564a8f6146858"
+    },
+    "render": {
+      "path": "assets/logistics/logistics-whole-empty-wrapper-banding-unit-and-floor-pallet-staging-scene-01/v1.0.0/thumbnail.png",
+      "size": 470278,
+      "sha256": "4fc04d2b7389a05e8011c92881754c1cf4a4d70720369a0f502076f4522c4d60"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

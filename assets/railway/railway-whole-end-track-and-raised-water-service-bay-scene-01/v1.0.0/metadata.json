@@ -1,0 +1,42 @@
+{
+  "id": "railway-whole-end-track-and-raised-water-service-bay-scene-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "railway",
+  "style": "source-preserved-low-poly",
+  "title": "Whole End Track And Raised Water Service Bay",
+  "description": "One static railway end-track water-service bay scene, one scene and zero new standalone models. Four complete unit-scale original instances retain every raw GLB mesh, node hierarchy, triangle, normal and PBR: two entire straight tracks join end-to-end, one whole low buffer stands just beyond the terminal rail ends, and one entire qualified high reservoir with counterweighted raised spout stands beyond the buffer. Its long lateral mouth projects back above the empty terminal-track zone while the reservoir feet and hanging weight remain outside the track envelope. A new finite low ballast-look ground body and one continuous L-shaped slightly raised side-approach/operating pad establish a separate approach along the right flank and a cross-strip in front of the tank trestle, rather than putting another bench beside a through platform. The empty end-track apparatus-overhead relation differs from the old trolley-on-track maintenance stop and the parallel ramped passenger platform. No train, tender, water, working controls or added equipment; every reused whole model remains unchanged, with only complete translations. The low buffer is presented beyond the existing end and is not fitted or certified to the rail. The low pedestrian-looking pad has an unchanged finite edge, not an accessibility ramp. All new geometry is scene-only, not independently counted models. Static artistic composition only; no vehicle gauge fit, human clearance, navigation, track connection, loading/refilling, flow, pressure, motion, counterbalance, ground bearing, civil engineering or railway safety claim. Rigging animation and interaction not made or verified.",
+  "bounds": {
+    "x": 6.400000095367432,
+    "y": 10.600000381469727,
+    "z": 5.150000095367432,
+    "unit": "m"
+  },
+  "triangles": 4108,
+  "materials": 14,
+  "files": {
+    "glb": {
+      "path": "assets/railway/railway-whole-end-track-and-raised-water-service-bay-scene-01/v1.0.0/model.glb",
+      "size": 270464,
+      "sha256": "68f8ac08c1886ec8f0adf240777f0bbe08d5a12f36436b9ed8a306639f454a1e"
+    },
+    "blend": {
+      "path": "assets/railway/railway-whole-end-track-and-raised-water-service-bay-scene-01/v1.0.0/source.blend",
+      "size": 1430432,
+      "sha256": "f0b231a807cdca265c71a496c4cac15f52e3b68c0be53579912c8a13cf81435e"
+    },
+    "generator": {
+      "path": "assets/railway/railway-whole-end-track-and-raised-water-service-bay-scene-01/v1.0.0/generate.py",
+      "size": 82141,
+      "sha256": "41764e0a6ddd4de1c47a967ebe54777a966d4021a24a2edc3159ec0cd9d9c176"
+    },
+    "render": {
+      "path": "assets/railway/railway-whole-end-track-and-raised-water-service-bay-scene-01/v1.0.0/thumbnail.png",
+      "size": 535671,
+      "sha256": "cbbcf2e1eedb3edf0eae5dba42dbd72aede7f66f1a664d9ae3ce0e804bccb7d5"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

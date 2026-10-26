@@ -1,0 +1,42 @@
+{
+  "id": "animal-static-four-spread-fin-and-unequal-tail-flying-fish-01",
+  "version": "1.0.0",
+  "category": "modular",
+  "assetKind": "prop",
+  "theme": "animal",
+  "style": "warm-handcrafted-village",
+  "title": "Static Four Spread Fin and Unequal Tail Flying Fish",
+  "description": "One wholly newly authored stylised flying-fish-like static exterior: long narrow fusiform head and trunk, two broad swept winglike pectoral fins plus a distinct smaller rear pair of extended pelvic fins, small aft dorsal fin and vertically forked tail with a distinctly longer lower lobe. Small lateral eyes and a finite lower trunk display patch complete the whole fish. Not an old ordinary fish with scaled fins or a ray disc with a different tail; every axial section and complete fin outline is new. One model zero scenes. Opaque illustrative surfaces, no biological fin-ray texture or translucency; no species accuracy, gliding, flight, swimming, buoyancy, ecological behaviour, physical resting balance, rig or animation claim.",
+  "bounds": {
+    "x": 2.559999943,
+    "y": 2.769999981,
+    "z": 0.689999998,
+    "unit": "m"
+  },
+  "triangles": 680,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/animal/animal-static-four-spread-fin-and-unequal-tail-flying-fish-01/v1.0.0/model.glb",
+      "size": 43840,
+      "sha256": "4702c719771fc28df124587fda0d8ab5c8e617489fdc0bca3d7b562261008b89"
+    },
+    "blend": {
+      "path": "assets/animal/animal-static-four-spread-fin-and-unequal-tail-flying-fish-01/v1.0.0/source.blend",
+      "size": 586460,
+      "sha256": "d8dba8e42200ef8f0e8278d8b64a5c41f52af24850e2b9a7132705bc521d1235"
+    },
+    "generator": {
+      "path": "assets/animal/animal-static-four-spread-fin-and-unequal-tail-flying-fish-01/v1.0.0/generate.py",
+      "size": 29265,
+      "sha256": "010bef9209794a46bdc9eb9bdf21e4be0f331cf792f8eba93bab2fbe941377c4"
+    },
+    "render": {
+      "path": "assets/animal/animal-static-four-spread-fin-and-unequal-tail-flying-fish-01/v1.0.0/thumbnail.png",
+      "size": 471815,
+      "sha256": "e98ae8058b9995bbadc76feafa64d5a18cf47a10320289231a775ff9af3d1a99"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "animal-static-upright-triangular-wing-and-three-filament-mayfly-01",
+  "version": "1.0.0",
+  "category": "modular",
+  "assetKind": "prop",
+  "theme": "animal",
+  "style": "warm-handcrafted-village",
+  "title": "Static Upright Triangular Wing and Three Filament Mayfly",
+  "description": "One complete newly authored stylised mayfly-like insect: small head and short raised thorax continue into a long slender upward-curved abdomen. Tall upright triangular forewings and much smaller upright hindwings meet the real thorax; three whole fine gradually tapering caudal filaments extend from the abdominal tip. Six slender angled walking limbs have finite soles and two short fine antennae complete the silhouette. Not a dragonfly with rotated old wings or a cicada with added tail sticks; every whole body section, wing outline and limb path is new. One static model zero scenes. Opaque illustrative wing volume only, not exact species, biological venation or translucency, flight, gait, lifespan, aquatic lifecycle, ecological performance or handling guidance; rig and animation not made.",
+  "bounds": {
+    "x": 0.80516398,
+    "y": 2.612081766,
+    "z": 1.179999948,
+    "unit": "m"
+  },
+  "triangles": 1600,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/animal/animal-static-upright-triangular-wing-and-three-filament-mayfly-01/v1.0.0/model.glb",
+      "size": 99048,
+      "sha256": "9a695ff20f4b8aab72a96db09477d59126569ed70a6045c0195a65435ffc3fd7"
+    },
+    "blend": {
+      "path": "assets/animal/animal-static-upright-triangular-wing-and-three-filament-mayfly-01/v1.0.0/source.blend",
+      "size": 663796,
+      "sha256": "1cf24b178f40be410e12a051aab2836ef481adaddeb835c996a297fe64c76a4f"
+    },
+    "generator": {
+      "path": "assets/animal/animal-static-upright-triangular-wing-and-three-filament-mayfly-01/v1.0.0/generate.py",
+      "size": 30342,
+      "sha256": "02bbe28eb9e0a020080227c9296251aaf686931b73a29d8bb09d1525594082b5"
+    },
+    "render": {
+      "path": "assets/animal/animal-static-upright-triangular-wing-and-three-filament-mayfly-01/v1.0.0/thumbnail.png",
+      "size": 470560,
+      "sha256": "e877baf8a2fde403cbae427397d01c85cbabba164014a241962c746560b25a80"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

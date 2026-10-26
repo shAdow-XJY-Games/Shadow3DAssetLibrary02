@@ -1,0 +1,42 @@
+{
+  "id": "railway-fixed-raised-reservoir-and-counterweighted-spout-tower-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "railway",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Raised Reservoir and Counterweighted Spout Tower",
+  "description": "One newly authored complete static railway water-service tower appearance. A high braced four-post trestle supports a whole broad empty flat-bottom cylindrical reservoir with real central bottom outlet and three full exterior bands. Its whole downward feed tube bends forward into a separate fixed raised long open spout, carried by independent lateral trunnions and two complete support cheeks. A full side upright and pulley support one continuous cord from the spout yoke to a separate suspended counterweight within the trestle. The distinctive complete relation is elevated reservoir, lower returning feed, side outboard hinged-spout appearance and independent upper counterweight route, not a grain silo with a changed cone or a scaled ground fire monitor. No old visible geometry imported; one full apparatus, not a scene or separately counted tank and spout. All inner and outer pipe walls and both spout mouths genuinely modeled, dry and empty. Three opaque PBR roles, metres Z up, bounds-centred ground origin. Fixed illustrative railway infrastructure only; no stored water, pipe seal, flow, pressure, rotation, counterbalance solution, refilling, railway compatibility, historical accuracy, load, installation or operator safety capability. Rigging animation and interaction not made or verified.",
+  "bounds": {
+    "x": 3.03,
+    "y": 5.9597679682335105,
+    "z": 5.03,
+    "unit": "m"
+  },
+  "triangles": 2784,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/railway/railway-fixed-raised-reservoir-and-counterweighted-spout-tower-01/v1.0.0/model.glb",
+      "size": 155304,
+      "sha256": "c73828c9db7825a0b23e6274a4fa3520a5ecf84e44b2f5871e32698d090a6782"
+    },
+    "blend": {
+      "path": "assets/railway/railway-fixed-raised-reservoir-and-counterweighted-spout-tower-01/v1.0.0/source.blend",
+      "size": 801108,
+      "sha256": "274b369d0792d3f32752e7ca3124ee9956818c5afdfd88d6a9c19e955caf75cf"
+    },
+    "generator": {
+      "path": "assets/railway/railway-fixed-raised-reservoir-and-counterweighted-spout-tower-01/v1.0.0/generate.py",
+      "size": 12853,
+      "sha256": "3fe214727c011712a5ab75ba3eda340c74a2bf51ba3e1311bf98ab1f7ae64281"
+    },
+    "render": {
+      "path": "assets/railway/railway-fixed-raised-reservoir-and-counterweighted-spout-tower-01/v1.0.0/thumbnail.png",
+      "size": 528715,
+      "sha256": "7ae1716764c0714b33fdcfc52436a9cd2c0bd380551c482ed4ee26e89c0aab44"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

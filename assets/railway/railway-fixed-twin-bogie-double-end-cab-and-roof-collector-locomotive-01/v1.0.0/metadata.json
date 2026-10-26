@@ -1,0 +1,42 @@
+{
+  "id": "railway-fixed-twin-bogie-double-end-cab-and-roof-collector-locomotive-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "railway",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Twin Bogie Double End Cab and Roof Collector Locomotive",
+  "description": "One wholly newly authored complete double-ended rail-locomotive-style static exterior. Two independent complete low H-shaped wheelset frames each carry two transverse axles and whole profiled flanged wheels. Separate stepped body seats connect these frames beneath one long bridge underframe and a continuous body floor. One central chamfer-shoulder equipment body is joined to two opposing sloped cab exteriors with proud opaque divided windscreens and full side-window inserts. Complete blunt end beams and closed coupling-style bosses belong to both ends. A roof base supports a complete fixed raised two-sided diamond frame: lower bearings and full transverse axis, four whole links per side, two retained outer bend pins, top axis and one complete shallow collector bow. It is not the old short three-bore toy locomotive with extra wheels or a longer boiler, nor the old standalone spring-bolster bogie copied under a wagon. No old mesh or subassembly is imported. All visible coordinates and the long-body/two-frame/paired-cab/roof-frame relationship are new and authored together as one prop, zero scenes. Four opaque constant untextured PBR appearances, native metre game coordinates and Z up; whole horizontal envelope centred above real flange ground facets. Static stylized exterior only: cab and equipment volumes are solid artwork, side panels and glazing opaque, no passengers, driver, engine or electrical interior, rails or wires. No motor, propulsion, current collection, insulation, articulation, steering, suspension, rolling, rail gauge, track or coupling compatibility, human fit, load, manufacturing, installation, railway operation or safety validation. Rigging animation interaction not made or verified.",
+  "bounds": {
+    "x": 1.88,
+    "y": 7.98,
+    "z": 3.72,
+    "unit": "m"
+  },
+  "triangles": 5384,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/railway/railway-fixed-twin-bogie-double-end-cab-and-roof-collector-locomotive-01/v1.0.0/model.glb",
+      "size": 256204,
+      "sha256": "a7df491b754b464c62335d93139cea6edba0084f96bbe2673e5ddb53e6ba2f2c"
+    },
+    "blend": {
+      "path": "assets/railway/railway-fixed-twin-bogie-double-end-cab-and-roof-collector-locomotive-01/v1.0.0/source.blend",
+      "size": 1109768,
+      "sha256": "4b02a6771cbd2f5baaca04be7c0ce0d12be031ba9d665b171071ba822241c847"
+    },
+    "generator": {
+      "path": "assets/railway/railway-fixed-twin-bogie-double-end-cab-and-roof-collector-locomotive-01/v1.0.0/generate.py",
+      "size": 31300,
+      "sha256": "3bfdf9a2c2c0187288d31f1030b1b69e41909ff3a9e50c28e3429e4b8bdc3dcd"
+    },
+    "render": {
+      "path": "assets/railway/railway-fixed-twin-bogie-double-end-cab-and-roof-collector-locomotive-01/v1.0.0/thumbnail.png",
+      "size": 559633,
+      "sha256": "3323d29642e5f97a982a44400ec7f8073132f7f245f9aa494959b3ac23ebd7fa"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

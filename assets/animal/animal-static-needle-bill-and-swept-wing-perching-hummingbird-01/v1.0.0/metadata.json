@@ -1,0 +1,42 @@
+{
+  "id": "animal-static-needle-bill-and-swept-wing-perching-hummingbird-01",
+  "version": "1.0.0",
+  "category": "modular",
+  "assetKind": "prop",
+  "theme": "animal",
+  "style": "warm-handcrafted-village",
+  "title": "Static Needle Bill and Swept Wing Perching Hummingbird",
+  "description": "One complete newly authored stylised hummingbird-like perched animal: compact forward-inclined body and small rounded head, a long fine straight tapered bill, long narrow swept folded wings and a short genuinely forked tail. Two tiny bent legs and curved toe masses meet a complete low transverse twig support with finite base. This is not an old trunk-clinging wedge-billed bird with recolouring or a small ground kiwi; all body sections, bill, wing and support contours are newly authored. One whole static model zero scenes, twig not separately counted. Artistic exterior only, not exact species or life size, scientific anatomy, flight, feeding, grip or physical balance, ecological suitability, animation or rigging.",
+  "bounds": {
+    "x": 0.699999988,
+    "y": 1.590000033,
+    "z": 0.975000024,
+    "unit": "m"
+  },
+  "triangles": 1172,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/animal/animal-static-needle-bill-and-swept-wing-perching-hummingbird-01/v1.0.0/model.glb",
+      "size": 70976,
+      "sha256": "66081495acfa50fe2d30bc2bbeb033d7c90894e3d81d664ece8ea707afc44724"
+    },
+    "blend": {
+      "path": "assets/animal/animal-static-needle-bill-and-swept-wing-perching-hummingbird-01/v1.0.0/source.blend",
+      "size": 622600,
+      "sha256": "070270fee30c92bc9cdf2dd8d479d222c4814714c74f5af84ea41bb300e9b5a9"
+    },
+    "generator": {
+      "path": "assets/animal/animal-static-needle-bill-and-swept-wing-perching-hummingbird-01/v1.0.0/generate.py",
+      "size": 30745,
+      "sha256": "e21089d63fab8b2061c37e3db7d489dfc7ee6a801203e24d4b841242f79c1da1"
+    },
+    "render": {
+      "path": "assets/animal/animal-static-needle-bill-and-swept-wing-perching-hummingbird-01/v1.0.0/thumbnail.png",
+      "size": 462345,
+      "sha256": "f8d3bede2692cf90b2807461fd60cb97fbc1c755eab881fc36f8f7191eefc8d2"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

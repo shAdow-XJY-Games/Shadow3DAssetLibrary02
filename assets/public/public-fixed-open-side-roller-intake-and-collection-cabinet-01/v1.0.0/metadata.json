@@ -1,0 +1,42 @@
+{
+  "id": "public-fixed-open-side-roller-intake-and-collection-cabinet-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "public",
+  "style": "source-preserved-low-poly",
+  "title": "Fixed Open Side Roller Intake and Collection Cabinet",
+  "description": "One newly authored complete empty bottle-return-intake-style cabinet in a fixed open-side inspection presentation. A tall continuous base, left wall, rear wall and front portal form one housing around a true deep front rectangular intake mouth. Two entire parallel longitudinal cradle rollers and their separate transverse bearing seats occupy the lower intake channel; the rear portion of its roof and right wall is intentionally omitted for inspection visibility. Behind them a full open U-section downward-sloping chute ends above a complete deep empty collection bin in the lower cabinet, with its front handle slightly projecting. The right service side is intentionally open so the distinct upper channel, rear descent and lower receiver can be seen; this is not a sealed operating appliance. A whole blank front display and a small blank status panel have no text or readings. Unlike the old top-slot paper shredder there is a front-to-rear roller intake and separate descending outlet rather than a narrow vertical top feed; unlike the washer there is no circular blind drum or hinged circular door; unlike the inverted-bottle cabinet there are no bottle, taps or cup recess. All geometry is new, not extracted old machine parts, and the visible internals are an appearance only, not a validated working mechanism. Three opaque constant PBR roles, one model zero scenes. No bottle, recognition sensor, crushing mechanism, payments, sorting, flow, roller action, actual collection, recycling performance, usable reach, anchoring, electrical, hygiene, guarding or safety claim. Rigging animation interaction not made.",
+  "bounds": {
+    "x": 0.7200000286102295,
+    "y": 0.8579999804496765,
+    "z": 1.5,
+    "unit": "m"
+  },
+  "triangles": 1288,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/public/public-fixed-open-side-roller-intake-and-collection-cabinet-01/v1.0.0/model.glb",
+      "size": 120220,
+      "sha256": "5e06256182d37ad96c2a747e37836e66f6aabcd38a65bdc6ab08f5ce370dbb1c"
+    },
+    "blend": {
+      "path": "assets/public/public-fixed-open-side-roller-intake-and-collection-cabinet-01/v1.0.0/source.blend",
+      "size": 756928,
+      "sha256": "19789125070adc870ed30208412ef25b34512c6e5631f58d2001408dfd1eb97c"
+    },
+    "generator": {
+      "path": "assets/public/public-fixed-open-side-roller-intake-and-collection-cabinet-01/v1.0.0/generate.py",
+      "size": 17410,
+      "sha256": "c9eff52a65dca61bcae767d5e6f7ec35d700cdde1335aa107b1b3db24e686984"
+    },
+    "render": {
+      "path": "assets/public/public-fixed-open-side-roller-intake-and-collection-cabinet-01/v1.0.0/thumbnail.png",
+      "size": 508721,
+      "sha256": "8bee16f543be4172994331d335781f1cafa601077edf7e06fb6c1c978001eedc"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "professional-whole-solder-station-and-twin-probe-meter-preparation-scene-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "professional",
+  "style": "source-preserved-low-poly",
+  "title": "Whole Solder Station and Twin Probe Meter Preparation Bench",
+  "description": "One static electronic-repair equipment preparation bench, one scene and zero new independent models. A complete original open worktable supports the entire corded-iron solder station on its left and the whole recessed blank-dial meter with both original probe leads on its right. The soldering iron remains in its original inclined coil rest and the meter probes stay in their original parked arrangement; neither is detached or connected to another object. A complete original ring-footrest stool stands independently in front, separated from the full table envelope. The empty central tabletop gap and forward floor retain visible separation. This is a normal equipment preparation workstation, not the existing computer-and-printer demonstration or raised two-level mechanical metrology station; no printer, computer, workpiece or raised metrology plinth is supplied. All four whole old models preserve original local buffers, normals, hierarchy, unit scale and complete PBR. Only whole translations and one finite scene-only floor are new. The existing pink stool is not recoloured or certified as operator seating. Static visual only: no electronics repair, circuit connection, soldering heat, electrical test, instrument reading, seated ergonomics, installation, load or safety is claimed. Rigging animation interaction not made.",
+  "bounds": {
+    "x": 1.600000023841858,
+    "y": 2.0,
+    "z": 1.1819279193878174,
+    "unit": "m"
+  },
+  "triangles": 6320,
+  "materials": 14,
+  "files": {
+    "glb": {
+      "path": "assets/logistics/professional-whole-solder-station-and-twin-probe-meter-preparation-scene-01/v1.0.0/model.glb",
+      "size": 528424,
+      "sha256": "96b6b0239cc5e6c3bfc20cb9e5ce4b9a6816449e78dd0edfb46bdd7908b0d8d5"
+    },
+    "blend": {
+      "path": "assets/logistics/professional-whole-solder-station-and-twin-probe-meter-preparation-scene-01/v1.0.0/source.blend",
+      "size": 1723712,
+      "sha256": "ff56c7cf4d3607205145c447e98db10f5e251584dfade2fc2346e272f0b282bc"
+    },
+    "generator": {
+      "path": "assets/logistics/professional-whole-solder-station-and-twin-probe-meter-preparation-scene-01/v1.0.0/generate.py",
+      "size": 182937,
+      "sha256": "205908f103eb2b68b5e443f2ea160e3a10ea0f83e143b61126762a00668bb105"
+    },
+    "render": {
+      "path": "assets/logistics/professional-whole-solder-station-and-twin-probe-meter-preparation-scene-01/v1.0.0/thumbnail.png",
+      "size": 514977,
+      "sha256": "caee8a9cae9cbe8029096c41afeb9ed88e1a4c0e0be61a26f6cec1b9879aa85d"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

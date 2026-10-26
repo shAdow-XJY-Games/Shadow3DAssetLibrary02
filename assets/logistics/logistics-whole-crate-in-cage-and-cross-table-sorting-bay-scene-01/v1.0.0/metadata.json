@@ -1,0 +1,42 @@
+{
+  "id": "logistics-whole-crate-in-cage-and-cross-table-sorting-bay-scene-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "logistics",
+  "style": "source-preserved-low-poly",
+  "title": "Whole Crate In Cage and Cross Table Sorting Bay",
+  "description": "One complete static reusable-container receiving and sorting preparation bay, one scene and zero new independent models. One unchanged complete open-front delivery cage stands at the left with an entire empty ventilated produce crate supported on its actual interior cargo deck, fully between the original side frames. Its original lower locator tongues remain the lowest contact features; the outer raised landing pads are not falsely called flush deck contacts. To the right, a complete original open worktable is turned ninety degrees so its long axis runs alongside the cage depth. An entire original low-front picking bin is supported at the far end of that table, with its original low mouth facing the visibly empty near tabletop strip. The crate/cage low receiving position and the elevated bin/table position are separated by a real lateral gap, with broad empty foreground floor. This differs from the old empty cage to roller to suspended scan sequence, and from the old bin on a wide transverse table beside a floor open-lid tote: here the receiving container is actually inside a whole wheeled cage, and the sorting container occupies a separate longitudinal tabletop with an empty near strip. No roller, scan head, loose load or transfer bridge is included. Four complete unit-scale original models retain every original geometry buffer, local normal, hierarchy and whole PBR dictionary. Only exact whole-instance translation/quarter-turn and one finite floor are new. No part is extracted, resized, recoloured or counted anew. Empty static staging only: no actual collection, sorting procedure, food hygiene, logistics simulation, load rating, human access compliance, carrying, wheel movement, equipment fit or workplace safety capability. Rigging animation interaction not made.",
+  "bounds": {
+    "x": 2.5,
+    "y": 2.4000000953674316,
+    "z": 1.6100000143051147,
+    "unit": "m"
+  },
+  "triangles": 3246,
+  "materials": 11,
+  "files": {
+    "glb": {
+      "path": "assets/logistics/logistics-whole-crate-in-cage-and-cross-table-sorting-bay-scene-01/v1.0.0/model.glb",
+      "size": 229156,
+      "sha256": "3e47aea5486a30145ba3f68ee0e826b66f3c0cfc3dd9f80e321f8fc3b5bd9994"
+    },
+    "blend": {
+      "path": "assets/logistics/logistics-whole-crate-in-cage-and-cross-table-sorting-bay-scene-01/v1.0.0/source.blend",
+      "size": 1345724,
+      "sha256": "5c4f7939cf30ac3835008c908255db76fd0ecb5237bbf759ebab84a36871510a"
+    },
+    "generator": {
+      "path": "assets/logistics/logistics-whole-crate-in-cage-and-cross-table-sorting-bay-scene-01/v1.0.0/generate.py",
+      "size": 104642,
+      "sha256": "6ba039b75f268474a3528e1a39fa780ac7ee3aa45d99aa705ba9a5219edbd397"
+    },
+    "render": {
+      "path": "assets/logistics/logistics-whole-crate-in-cage-and-cross-table-sorting-bay-scene-01/v1.0.0/thumbnail.png",
+      "size": 512992,
+      "sha256": "f8df66a7f47287aeb2acf29bc44b8ced3592344c8ae89d2eda0f8839b5858226"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

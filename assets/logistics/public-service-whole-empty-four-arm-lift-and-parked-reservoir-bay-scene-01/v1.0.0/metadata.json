@@ -1,0 +1,42 @@
+{
+  "id": "public-service-whole-empty-four-arm-lift-and-parked-reservoir-bay-scene-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "public-service",
+  "style": "source-preserved-low-poly",
+  "title": "Whole Empty Four Arm Lift and Parked Reservoir Bay",
+  "description": "One static empty vehicle-maintenance equipment preparation bay, one scene and zero new independent models. The complete original twin-column four-arm lift stands on the left of a common finite floor, with its entire high crosshead, guide carriages, four open telescopic sleeves, inner arms and blunt round pads unchanged. The complete original wheeled reservoir with raised deep funnel stands independently in a side parking strip on the right, outside the full lift envelope, with a visible gap. The central and forward space between the lift columns stays empty; no vehicle or imitation supported load is supplied. This is an ordinary empty lift-and-collection-equipment preparation layout, not the existing tyre-changing/balancing machines with low jack or the clamped bicycle and wheel-service bench. Both originals retain full local buffers, normals, hierarchy, unit scale and PBR, without altering any arm pose or funnel height. Only whole translations and one closed scene-only floor are new. No lifting, drainage, fluid routing, arm sweep, equipment compatibility, drive path, installation, anchoring, human clearance, rated load or safety is claimed. Rigging animation interaction not made.",
+  "bounds": {
+    "x": 6.0,
+    "y": 3.200000047683716,
+    "z": 3.4800000190734863,
+    "unit": "m"
+  },
+  "triangles": 7036,
+  "materials": 9,
+  "files": {
+    "glb": {
+      "path": "assets/logistics/public-service-whole-empty-four-arm-lift-and-parked-reservoir-bay-scene-01/v1.0.0/model.glb",
+      "size": 528032,
+      "sha256": "075e6f67a88a688f75b37f8adea3474ff6a7560109ca12297ed78d7ec611ca95"
+    },
+    "blend": {
+      "path": "assets/logistics/public-service-whole-empty-four-arm-lift-and-parked-reservoir-bay-scene-01/v1.0.0/source.blend",
+      "size": 1717544,
+      "sha256": "45e9178fc941388dc8528c35654f044d9c1c3a56c6e9006383c965da71cfdbc0"
+    },
+    "generator": {
+      "path": "assets/logistics/public-service-whole-empty-four-arm-lift-and-parked-reservoir-bay-scene-01/v1.0.0/generate.py",
+      "size": 134446,
+      "sha256": "9acd4897f3e599c8d1c7fa252c04868a588bcaa96cec7b823c14d0bf90279f8d"
+    },
+    "render": {
+      "path": "assets/logistics/public-service-whole-empty-four-arm-lift-and-parked-reservoir-bay-scene-01/v1.0.0/thumbnail.png",
+      "size": 506384,
+      "sha256": "d8b06bb666a17dcc80d2c997d80012e6ee3c18f1d3f940ad7d0f7a1fe42876b3"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

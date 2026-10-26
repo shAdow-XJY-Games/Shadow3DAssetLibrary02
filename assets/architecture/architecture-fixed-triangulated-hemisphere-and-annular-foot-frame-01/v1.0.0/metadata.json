@@ -1,0 +1,42 @@
+{
+  "id": "architecture-fixed-triangulated-hemisphere-and-annular-foot-frame-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "architecture",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Triangulated Hemisphere and Annular Foot Frame",
+  "description": "One newly authored complete open hemispherical triangular-frame architectural display. Short straight thick struts form a continuous spatial triangular network derived from subdivided polyhedral directions and a clipped equator, with independent solid six-sided joint hubs at each meeting point. Every rod end seats inside its hub. A complete lower annular sill and eight finite foot pads carry the full open dome; the interior and every triangle remain genuinely empty, with no filled glass, hidden hemisphere or opaque shelter fabric. Unlike the complete observatory shell and cylindrical-wall radial-rafter yurt, the new whole structure has neither solid roof shell nor separate radial rafters and wall lattice: one triangulated hemispherical graph spans from its basal ring across the crown. No old geometry imported. One static architectural module, zero scenes, three opaque PBR materials, metres Z-up and ground-centred bounds. Geodesic-inspired artistic framing only, not a certified geometric frequency or engineering design. No construction, weather protection, load, stability, installation, climbability, occupant, accessibility or safety capability. Rigging animation and interaction not made or verified.",
+  "bounds": {
+    "x": 5.3,
+    "y": 5.3,
+    "z": 2.8449999999999998,
+    "unit": "m"
+  },
+  "triangles": 3144,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/architecture/architecture-fixed-triangulated-hemisphere-and-annular-foot-frame-01/v1.0.0/model.glb",
+      "size": 209220,
+      "sha256": "3f2f26cd37a06d84ce0ccf74cd5690a04e25df8838e89ee082672c59cec10f8d"
+    },
+    "blend": {
+      "path": "assets/architecture/architecture-fixed-triangulated-hemisphere-and-annular-foot-frame-01/v1.0.0/source.blend",
+      "size": 1194936,
+      "sha256": "92cbfd6d5d17a03adcf03d6ea65cde246fd8d7a5b7b2edf0636962dd098ec133"
+    },
+    "generator": {
+      "path": "assets/architecture/architecture-fixed-triangulated-hemisphere-and-annular-foot-frame-01/v1.0.0/generate.py",
+      "size": 11845,
+      "sha256": "fc1b5930a76743f80509ea82f5725487b2abf7c1270892479c5ee87a37aeaece"
+    },
+    "render": {
+      "path": "assets/architecture/architecture-fixed-triangulated-hemisphere-and-annular-foot-frame-01/v1.0.0/thumbnail.png",
+      "size": 452856,
+      "sha256": "aad66a8e70007a965a29a399e76444cc9f2db5ff4e86a7bb7c03c72f7eed0aee"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

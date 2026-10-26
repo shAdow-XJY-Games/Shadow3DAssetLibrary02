@@ -1,0 +1,42 @@
+{
+  "id": "transport-whole-haul-truck-on-bridge-and-ticket-service-entry-scene-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "transport",
+  "style": "source-preserved-low-poly",
+  "title": "Whole Haul Truck on Bridge and Ticket Service Entry",
+  "description": "One static vehicle reception and weighbridge-inspired display, one scene and zero new independent models. The complete existing rigid haul truck remains in its original raised-body pose and unit scale, with all four original tyre soles on one broad continuous scene-only bridge deck. Four low supporting pads connect that deck to the common finite ground slab; real open underside gaps remain between the pads. Two whole sloped scene-only approaches sit at opposite ends, with honest 40mm static separations from the deck, not a promised drivable surface. A complete existing ticket booth stands independently at the side with its genuine service window facing the truck side. Its original TICKETS lettering and striped roof remain unchanged: it is reused as a ticket-service booth, not relabelled as a calibrated weighing console. Broad front and rear empty strips and a separate booth-side area define the entrance composition. Unlike the old grader yard, all vehicle wheels bear on a central raised continuous deck rather than on side ground banks spanning a recessed trench; unlike the old carnival entrance, there is no pennant arch or pedestrian branch sign, and a whole vehicle-support bridge is the central station. Both whole old models retain every original local buffer, normal, PBR dictionary and internal hierarchy; only exact unit rigid placement and scene-only support geometry are new. No vehicle part, booth sign or body pose is altered or extracted. No load cells, weight display, weighing accuracy, driving, tipping, traffic procedure, tyre grip, axle rating, road compatibility, accessible passage, operating clearance, structural or workplace safety are made or verified. The raised empty truck body is a fixed art pose, not an instruction for real vehicle weighing. Rigging animation interaction not made.",
+  "bounds": {
+    "x": 8.800000190734863,
+    "y": 10.199999809265137,
+    "z": 3.6076536178588867,
+    "unit": "m"
+  },
+  "triangles": 3250,
+  "materials": 11,
+  "files": {
+    "glb": {
+      "path": "assets/transport/transport-whole-haul-truck-on-bridge-and-ticket-service-entry-scene-01/v1.0.0/model.glb",
+      "size": 173092,
+      "sha256": "96b2f23ff0e041cdf23153095327d1a63755d1da952ae0a4ffb1be96dcac0a50"
+    },
+    "blend": {
+      "path": "assets/transport/transport-whole-haul-truck-on-bridge-and-ticket-service-entry-scene-01/v1.0.0/source.blend",
+      "size": 1282548,
+      "sha256": "7cbec2b19acc2352370ec1ba386cbfdca985b154185e4ed800fc1c5265b19148"
+    },
+    "generator": {
+      "path": "assets/transport/transport-whole-haul-truck-on-bridge-and-ticket-service-entry-scene-01/v1.0.0/generate.py",
+      "size": 78900,
+      "sha256": "f542a8642ed007444ec63e8ea7533857fab882ab360139415e5b209f6dd3b176"
+    },
+    "render": {
+      "path": "assets/transport/transport-whole-haul-truck-on-bridge-and-ticket-service-entry-scene-01/v1.0.0/thumbnail.png",
+      "size": 519763,
+      "sha256": "f8a81f0ad5e287dd38c5a1f23328c77ee81d66b0e4f5bc0061c7cc33308ef5a5"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
