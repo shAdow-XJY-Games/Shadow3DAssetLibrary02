@@ -1,0 +1,42 @@
+{
+  "id": "agriculture-whole-treadle-thresher-and-raised-winnower-preparation-bay-scene-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "agriculture",
+  "style": "warm-handcrafted-village",
+  "title": "Whole Treadle Thresher and Raised Winnower Preparation Bay",
+  "description": "One new whole empty post-harvest machine-preparation bay scene. The complete accepted treadle wire-loop drum thresher remains unchanged on the left at low floor level, with its full front pedal, exposed loop drum and side flywheel visible. The complete accepted timber drum-cased winnower remains unchanged on a shallow raised right pad, with its open upper hopper, side crank and entire outward discharge trough retained. A single broad shared floor, genuinely separated central approach and low rear three-post boundary organize the two different apparatus without linking them as a processing train. All source meshes and PBR values are preserved at original scale through embedded hash-pinned whole generators. Zero new standalone models, one new scene. Not the old winnower/seed-riddle cleaning workbay: no tall screening frame or collection pan, and the left hero is the full newly completed treadle loop-drum machine. No crop, grain, sacks, person, loose tool or active process. Fixed illustrative preparation layout only; no threshing, separation, material transfer, operation, ergonomics, safe clearance, food suitability, platform load, engineering or safety validation. Rigging, animation, physics and runtime interaction not made.",
+  "bounds": {
+    "x": 3.450000048,
+    "y": 2.099999905,
+    "z": 1.182000041,
+    "unit": "m"
+  },
+  "triangles": 3364,
+  "materials": 11,
+  "files": {
+    "glb": {
+      "path": "assets/agriculture/agriculture-whole-treadle-thresher-and-raised-winnower-preparation-bay-scene-01/v1.0.0/model.glb",
+      "size": 211148,
+      "sha256": "66a90ad7961fcae3e3361d83ce2c0d0de31587933f6f9361ec95d03dfa65c0ce"
+    },
+    "blend": {
+      "path": "assets/agriculture/agriculture-whole-treadle-thresher-and-raised-winnower-preparation-bay-scene-01/v1.0.0/source.blend",
+      "size": 1142888,
+      "sha256": "c47a5b0c2a960cf5533ef01d2a68a8d5c8072cff79bb9d5d4f6b8fe5a2ebcfb5"
+    },
+    "generator": {
+      "path": "assets/agriculture/agriculture-whole-treadle-thresher-and-raised-winnower-preparation-bay-scene-01/v1.0.0/generate.py",
+      "size": 60421,
+      "sha256": "4985c2dde4d0fe3157dc5a2b606c3c15f722664d368a01ab575b1fc2298e82d6"
+    },
+    "render": {
+      "path": "assets/agriculture/agriculture-whole-treadle-thresher-and-raised-winnower-preparation-bay-scene-01/v1.0.0/thumbnail.png",
+      "size": 519719,
+      "sha256": "ff3526e099f6625c573518e689abb86cffe5ab9a5d95f3fe1bbf7ef0e1f50521"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
