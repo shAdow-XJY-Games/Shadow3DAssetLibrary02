@@ -2339,6 +2339,11 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary02",
       "commit": "5cc95d296544cec995553ec4bc16f89bd9ef2cab"
+    },
+    "original-qualified-batch-1771-volume02-20261025": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary02",
+      "commit": "6e1bc299df527d1a52d5f56b77f845807d6142b8"
     }
   },
   "assets": [
@@ -78451,6 +78456,49 @@
       "status": "verified",
       "license": "All rights reserved",
       "sourceId": "original-qualified-batch-1770-volume02-20261025"
+    },
+    {
+      "id": "industrial-fixed-hand-crank-spindle-and-traversing-eye-coil-winder-01",
+      "version": "1.0.0",
+      "category": "modular",
+      "assetKind": "prop",
+      "theme": "industrial",
+      "style": "warm-handcrafted-village",
+      "title": "Fixed Hand Crank Spindle and Traversing Eye Coil Winder",
+      "description": "One newly authored whole fixed benchtop coil-winding-machine-style display. A complete horizontal spindle spans distinct tall drive and narrow tailstock housings on one broad chamfered ground base. A full central dark bobbin core, two whole side flanges and one continuous twenty-turn copper-coloured exterior winding remain between both supports. One full open four-spoke drive handwheel with proud crank grip sits outside the right housing. In front, two complete parallel traverse-guide rods carry one whole short carriage and upright eye support with a genuine open through eye; its guide is intentionally empty and no loose feed wire is supplied. A whole left adjustment screw and cross handle, proud bearing collars and blank counter-cover appearance complete the fixed machine exterior. All coordinates newly authored, no induction-coil barrel, textile winder core, lathe, handwheel or guide component imported. Unlike the old historical induction-coil display, there are no tall electrical terminals, spark gap or interrupter. Unlike the inclined yarn-ball winder, this has a horizontal double-supported bobbin, front traverse carriage and a separate large handwheel rather than a cantilevered inclined cone and C clamp. One complete model zero scenes. Stylized coarse winding pitch, not a winding specification. No loose wire, powered circuit, conductor continuity, coil function, electromagnetic behavior, turns measurement, synchronized traverse, gear ratio, crank travel, thread fit, tensioning, electrical insulation, manufacture, load, engineering or machine-safety claim. Rigging, animation and interaction not made.",
+      "bounds": {
+        "x": 1.49000001,
+        "y": 0.735000014,
+        "z": 0.680000007,
+        "unit": "m"
+      },
+      "triangles": 4796,
+      "materials": 4,
+      "files": {
+        "glb": {
+          "path": "assets/industrial/industrial-fixed-hand-crank-spindle-and-traversing-eye-coil-winder-01/v1.0.0/model.glb",
+          "size": 258400,
+          "sha256": "409314370d4ac3efd3813f46b9fed2fa971f3105f95c4b24f9a53cbe2b073c1d"
+        },
+        "blend": {
+          "path": "assets/industrial/industrial-fixed-hand-crank-spindle-and-traversing-eye-coil-winder-01/v1.0.0/source.blend",
+          "size": 832240,
+          "sha256": "c0272f71004916b80b99c2272a59940b463ff76868bc905177cb0cbf77ca84cb"
+        },
+        "generator": {
+          "path": "assets/industrial/industrial-fixed-hand-crank-spindle-and-traversing-eye-coil-winder-01/v1.0.0/generate.py",
+          "size": 34583,
+          "sha256": "019ded1ffc6434cae3c2968b03bb8fb0d11d70938647442a2eb3259caacf4561"
+        },
+        "render": {
+          "path": "assets/industrial/industrial-fixed-hand-crank-spindle-and-traversing-eye-coil-winder-01/v1.0.0/thumbnail.png",
+          "size": 534845,
+          "sha256": "c049a74bcbd20ad3f365d5eb9e7849f960ee5ad576539478ad38c1024ffaffca"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1771-volume02-20261025"
     }
   ]
 }
