@@ -1,0 +1,42 @@
+{
+  "id": "restaurant-fixed-open-hemisphere-and-side-trunnion-kettle-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "restaurant",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Open Hemisphere and Side Trunnion Kettle",
+  "description": "One newly authored complete static tilting-kettle-inspired food preparation appliance. A broad deep rounded bowl has a full thick closed bottom, true empty interior, thick rolled-looking rim and short upper wall; it is visibly suspended above the floor by two horizontal side trunnions in separate grounded end posts. Low fore-aft feet and a rear crossbar complete the support frame. A whole raised shallow-domed circular lid stands at the rear on two full hinge brackets and a transverse hinge pin, with a small attached front grab handle. A fixed side control case carries an open three-spoke handwheel and blunt grip. Unlike the existing tall tapered foundry vessel there is no overhead suspension bail or lifting eye and the vessel bottom does not rest on the floor; unlike the dye vat there is no long rectangular double-shell or perforated inner basket. All model coordinates newly authored, not a pot with old handles pasted on. Three opaque constant untextured PBR roles, metres Z up, horizontally centred ground origin; one original model and zero scenes. Empty static appliance exterior only. No food, liquid, heating, steam jacket, plumbing, tilting movement, lid motion, control gearing, pressure containment, hygiene, production capacity, manufacture, load or equipment safety capability. Rigging animation interaction not made.",
+  "bounds": {
+    "x": 2.055000066757202,
+    "y": 1.350000023841858,
+    "z": 2.380000114440918,
+    "unit": "m"
+  },
+  "triangles": 3392,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/restaurant/restaurant-fixed-open-hemisphere-and-side-trunnion-kettle-01/v1.0.0/model.glb",
+      "size": 302764,
+      "sha256": "8bb3666505e657e2ad567c2463bcfbf3f8f6698fa1f615e6e1a4ac65f1670486"
+    },
+    "blend": {
+      "path": "assets/restaurant/restaurant-fixed-open-hemisphere-and-side-trunnion-kettle-01/v1.0.0/source.blend",
+      "size": 1025504,
+      "sha256": "78fecb78c43f8189467947e903dc72e2ed91d41a0c41166a802a7b167e8c3ab6"
+    },
+    "generator": {
+      "path": "assets/restaurant/restaurant-fixed-open-hemisphere-and-side-trunnion-kettle-01/v1.0.0/generate.py",
+      "size": 17742,
+      "sha256": "96af8c6c43fb7b27cbf01232cf6ab716b06d0ee9fe14c07372062cce8206e13b"
+    },
+    "render": {
+      "path": "assets/restaurant/restaurant-fixed-open-hemisphere-and-side-trunnion-kettle-01/v1.0.0/thumbnail.png",
+      "size": 506319,
+      "sha256": "fe221e8967d2219b702213da1ccaaa64dfe728e760ed7e27eb48e0eedefadfb6"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "industrial-fixed-low-magnetic-base-and-annular-core-drill-01",
+  "version": "1.0.0",
+  "category": "modular",
+  "assetKind": "prop",
+  "theme": "industrial",
+  "style": "warm-handcrafted-village",
+  "title": "Fixed Low Magnetic Base and Annular Core Drill",
+  "description": "One newly authored complete fixed portable magnetic-base core-drill appearance. A broad chamfered low rectangular sole carries a short rigid rear column and forward offset carriage. An upright motor housing and compact lower gearbox hold a genuinely open hollow annular cutter with coarse blunt rim notches; the cutter hangs forward of the base rather than above a separate adjustable table. Three radial side feed levers, a full thick upper carry handle and plain front switch complete the compact machine. Not a bench drill press resized: no long round pillar, intermediate worktable, large overhead belt cover or twist drill; not a pistol-grip battery drill. All meshes newly authored. One static model zero scenes. No actual magnetic holding, electrics, rotation, cutting, motor transmission, workpiece contact, guarding, ergonomics, manufacture, mounting compatibility, engineering or safety capability. No rigging, animation or interaction made or verified.",
+  "bounds": {
+    "x": 0.209999993,
+    "y": 0.388000011,
+    "z": 0.600000024,
+    "unit": "m"
+  },
+  "triangles": 984,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/industrial/industrial-fixed-low-magnetic-base-and-annular-core-drill-01/v1.0.0/model.glb",
+      "size": 58888,
+      "sha256": "1a8f12383dd7bea3f7a41d0644fb759fa70f2d61ad599c470f564e41269ac947"
+    },
+    "blend": {
+      "path": "assets/industrial/industrial-fixed-low-magnetic-base-and-annular-core-drill-01/v1.0.0/source.blend",
+      "size": 633116,
+      "sha256": "b4691b0266ee091f8a5b72c61ca08196821c1385c5f1abe0539d785f43c88de7"
+    },
+    "generator": {
+      "path": "assets/industrial/industrial-fixed-low-magnetic-base-and-annular-core-drill-01/v1.0.0/generate.py",
+      "size": 31152,
+      "sha256": "4b4bc4175f2dd55c6a073e6aad7d89637589701261597ec6b9b85f134c82d8ae"
+    },
+    "render": {
+      "path": "assets/industrial/industrial-fixed-low-magnetic-base-and-annular-core-drill-01/v1.0.0/thumbnail.png",
+      "size": 505867,
+      "sha256": "658424075f87535c0610d4513bfff65a686f3e5594958e1178f37ddb2af15dd7"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

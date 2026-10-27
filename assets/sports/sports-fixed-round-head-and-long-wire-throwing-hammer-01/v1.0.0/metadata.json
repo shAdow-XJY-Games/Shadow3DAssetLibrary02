@@ -1,0 +1,43 @@
+{
+  "id": "sports-fixed-round-head-and-long-wire-throwing-hammer-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "sports",
+  "style": "source-preserved-low-poly",
+  "title": "Round Head And Long Wire Throwing Hammer",
+  "description": "One original complete static throwing-hammer sports appearance laid out at rest: a compact near-spherical faceted head, small seated connector, long continuous finite wire with a shallow lowered bend, and a genuine open triangular hand frame with a transverse grip. The new round head and distant handle are drawn as one coherent complete implement; no old kettlebell, oval ball, toy ball, chain or hardware mesh imported or resized. One whole prop, zero scenes, four opaque constant PBR roles. Illustrative fixed empty game asset only: no athlete, motion, throw, animation, joint simulation, mass, tension, regulation dimensions, grip fit, trajectory, impact, manufacture or safety claim. Not usable equipment design or instructions.",
+  "bounds": {
+    "x": 0.23999999463558197,
+    "y": 1.7100000381469727,
+    "z": 0.20000000298023224,
+    "unit": "m"
+  },
+  "triangles": 540,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/sports/sports-fixed-round-head-and-long-wire-throwing-hammer-01/v1.0.0/model.glb",
+      "size": 49796,
+      "sha256": "4cf484dc7f0a9fb23c364d11c1207153b0679aee5f8a23788f0a1ff549d49864"
+    },
+    "blend": {
+      "path": "assets/sports/sports-fixed-round-head-and-long-wire-throwing-hammer-01/v1.0.0/source.blend",
+      "size": 624668,
+      "sha256": "f34f808ccf09a0a5ff58607923a83537f7369d33bc174f1e6aaae8659a575768"
+    },
+    "generator": {
+      "path": "assets/sports/sports-fixed-round-head-and-long-wire-throwing-hammer-01/v1.0.0/generate.py",
+      "size": 17180,
+      "sha256": "cfca8d4a111e2a107cab9ec642eeb2b81d7164b0457f5fa60f0577b35f7327b7"
+    },
+    "render": {
+      "path": "assets/sports/sports-fixed-round-head-and-long-wire-throwing-hammer-01/v1.0.0/thumbnail.png",
+      "size": 402199,
+      "sha256": "687710112aa27527e0d14473527f7a5ca6df3ecdc6ba8fac69c0dc75551a6359"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved",
+  "sourceId": "sports-current-dot-originals-20261027"
+}

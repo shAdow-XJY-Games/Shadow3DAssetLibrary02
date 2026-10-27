@@ -1,0 +1,42 @@
+{
+  "id": "architecture-fixed-elliptical-cable-net-and-open-centre-roof-01",
+  "version": "1.0.0",
+  "category": "architecture",
+  "assetKind": "modular",
+  "theme": "architecture",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Elliptical Cable Net and Open Centre Roof",
+  "description": "One complete newly authored static elliptical cable-net roof skeleton. A continuous thick outer elliptical ring is carried by eight whole slightly inclined perimeter columns on circular feet. Twenty complete visibly sagging radial cable appearances link it to a separate lower elliptical inner ring around a genuine open centre. Two uninterrupted closed circumferential cable loops cross the radial members; there is no cladding or central pier. The whole curved radial-annular network, different-height elliptical boundaries and directly grounded outside ring are authored together. Unlike the three-separated-strut cable prism this has no rotated triangular endpoint sets or floating rigid struts; unlike the triangulated hemisphere or two-layer pyramid grid roof it has neither triangular shell cells nor upper-lower chord pyramids. Four opaque constant untextured PBR roles, metre-style Z up and centred full horizontal bounds over foot soles, one architectural model zero scenes. Artistic fixed cable-roof-inspired exterior only: geometric intersections are illustrative and no connectors, solved equilibrium, prestress, tension, stress, load capacity, drainage, weather cover, fabrication, erection, installation, human access, code or structural safety capability is made or verified. No actual roof membrane, rigging, animation, motion or physical simulation.",
+  "bounds": {
+    "x": 9.20225,
+    "y": 7.33925,
+    "z": 3.98,
+    "unit": "m"
+  },
+  "triangles": 8256,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/architecture/architecture-fixed-elliptical-cable-net-and-open-centre-roof-01/v1.0.0/model.glb",
+      "size": 544392,
+      "sha256": "97f209a28e0d61271f26d4fde14533a9640b77db2e62d263956ec0eaf7efcd8f"
+    },
+    "blend": {
+      "path": "assets/architecture/architecture-fixed-elliptical-cable-net-and-open-centre-roof-01/v1.0.0/source.blend",
+      "size": 1171308,
+      "sha256": "4f2d5164dbcb766e6743bac92a1d2453298299e84b38f0b9e6930f8ba1e5f829"
+    },
+    "generator": {
+      "path": "assets/architecture/architecture-fixed-elliptical-cable-net-and-open-centre-roof-01/v1.0.0/generate.py",
+      "size": 12181,
+      "sha256": "4f32a278ab2569fcf84fe55a0a75916aa12d1c281e1c6cb1e7e702892b085b5d"
+    },
+    "render": {
+      "path": "assets/architecture/architecture-fixed-elliptical-cable-net-and-open-centre-roof-01/v1.0.0/thumbnail.png",
+      "size": 470018,
+      "sha256": "3423bd31a54e785237d24cbe8d61799c57e231595bd8605cc98a737db39b56c9"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
