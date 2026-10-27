@@ -1,0 +1,43 @@
+{
+  "id": "sports-fixed-pentagonal-base-and-open-flared-cup-batting-tee-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "sports",
+  "style": "source-preserved-low-poly",
+  "title": "Pentagonal Base And Open Flared Cup Batting Tee",
+  "description": "One newly authored whole fixed batting-tee-inspired decorative display. A broad thick pentagonal base supports a complete short rooted socket, two slender coaxial mast sections, a full transition collar and one open flared ball-rest cup with an actual finite inner wall and closed bottom. The cup is genuinely empty, not a black disc, and the entire long mast and ground base remain present. Six closed complete components, three opaque constant PBR roles, metres Z up and horizontal bounds-centred ground datum. New numeric geometry, no bat, ski shaft, flower vase, stand or other old mesh extracted or resized. One original model and zero scenes. Broad baseball-practice equipment appearance only, no ball or user. The fixed overlapping mast sections merely suggest an adjustable exterior; no telescoping motion, ball compatibility, swing path, training performance, strength, loading, tipping resistance, dimensions for manufacture, real equipment or safety capability made or verified. No rigging, animation or interaction.",
+  "bounds": {
+    "x": 0.4399999976158142,
+    "y": 0.47999998927116394,
+    "z": 1.0,
+    "unit": "m"
+  },
+  "triangles": 792,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/sports/sports-fixed-pentagonal-base-and-open-flared-cup-batting-tee-01/v1.0.0/model.glb",
+      "size": 71404,
+      "sha256": "8cfb7766b85cf14c402ec6eaaf0c9778db01f3ce1168ab6c9f9a608878759e67"
+    },
+    "blend": {
+      "path": "assets/sports/sports-fixed-pentagonal-base-and-open-flared-cup-batting-tee-01/v1.0.0/source.blend",
+      "size": 634428,
+      "sha256": "4062c77e7cc7ff5984175eba4ac17fc8b7f411d65ceaf8932feaf5c02982d8c7"
+    },
+    "generator": {
+      "path": "assets/sports/sports-fixed-pentagonal-base-and-open-flared-cup-batting-tee-01/v1.0.0/generate.py",
+      "size": 17360,
+      "sha256": "1f29e396be639f1406aae53c7eb47e2f8ed3386cfe55a174030b02cb03e36bbb"
+    },
+    "render": {
+      "path": "assets/sports/sports-fixed-pentagonal-base-and-open-flared-cup-batting-tee-01/v1.0.0/thumbnail.png",
+      "size": 413298,
+      "sha256": "cf8dac6a3aefcee568e755a2e394ecea8fbc0e3846509347dbf06155a471412c"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved",
+  "sourceId": "sports-current-dot-originals-20261027"
+}
