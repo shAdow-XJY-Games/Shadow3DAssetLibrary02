@@ -2014,6 +2014,11 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary02",
       "commit": "609a314f8917a197559d24c2dea89767de6ab6df"
+    },
+    "original-qualified-batch-1584-volume02-20261025": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary02",
+      "commit": "c75d7e83390a72cbc76e4ed9f362326f34e3232f"
     }
   },
   "assets": [
@@ -69784,6 +69789,350 @@
       "status": "verified",
       "license": "All rights reserved",
       "sourceId": "original-qualified-batch-1576-volume02-20261025"
+    },
+    {
+      "id": "office-fixed-wide-platen-and-perforated-fanfold-printer-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "office",
+      "style": "S01-clean-geometric",
+      "title": "Fixed Wide Platen and Perforated Fanfold Printer",
+      "description": "One newly authored complete static wide desktop impact-printer-style prop. A broad low case on four feet has a genuinely open top printing bay with a whole horizontal platen, a full transverse guide rail and a fixed offset carriage block. One continuous thick blank paper sheet passes above the platen, rises behind the case and folds repeatedly onto an attached rear receiving tray. Both paper margins contain real through openings along the complete finite sheet rather than painted dots. The two raised end cheeks, offset side platen knob, sloped front control deck and three blank buttons complete the whole appliance. This is not the existing compact single-curled receipt printer, tall copier or round-key mechanical typewriter: there is no keyboard, open typebar fan, receipt roll or large cabinet. Every model coordinate is newly authored; no earlier printer source geometry or mesh is imported. Four opaque constant untextured PBR roles, metres Z up, horizontal-bounds-centred ground origin; one original model and zero scenes. Fixed illustrative exterior only: no printing, ink, character output, tractor pin engagement, continuous feeding, sheet flexibility, carriage travel, internal drive, electrical circuit, manufacture, load or equipment safety capability. Rigging animation and interaction not made.",
+      "bounds": {
+        "x": 0.8050000071525574,
+        "y": 0.9319999814033508,
+        "z": 0.3786642551422119,
+        "unit": "m"
+      },
+      "triangles": 2324,
+      "materials": 4,
+      "files": {
+        "glb": {
+          "path": "assets/office/office-fixed-wide-platen-and-perforated-fanfold-printer-01/v1.0.0/model.glb",
+          "size": 211516,
+          "sha256": "71be5be3d6e1fd1263c191dcf14cbc8b870385d574a38e5978f1eae04d479f81"
+        },
+        "blend": {
+          "path": "assets/office/office-fixed-wide-platen-and-perforated-fanfold-printer-01/v1.0.0/source.blend",
+          "size": 924352,
+          "sha256": "49e6907eec9138a8e39b5fd9e06db4fa09d612b3764f0a22825bee512b7d2db7"
+        },
+        "generator": {
+          "path": "assets/office/office-fixed-wide-platen-and-perforated-fanfold-printer-01/v1.0.0/generate.py",
+          "size": 19385,
+          "sha256": "b046c6706059e28433e78052e131104d0373b9e1f5ce468037aefa23e27e6bce"
+        },
+        "render": {
+          "path": "assets/office/office-fixed-wide-platen-and-perforated-fanfold-printer-01/v1.0.0/thumbnail.png",
+          "size": 504280,
+          "sha256": "128f6a5ed07cc083a0930a122a019cf1b507aaf84982c77289e866955b6ce9d9"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1584-volume02-20261025"
+    },
+    {
+      "id": "architecture-fixed-folded-retaining-wall-and-rear-tiebacks-01",
+      "version": "1.0.0",
+      "category": "architecture",
+      "assetKind": "modular",
+      "theme": "architecture",
+      "style": "S01-clean-geometric",
+      "title": "Fixed Folded Retaining Wall and Rear Tiebacks",
+      "description": "One complete newly authored static folded retaining-wall cutaway display. A single continuous full-height zigzag metal-look curtain has complete finite thickness through every fold and capped upper/lower boundaries. Two entire rear walers meet its raised corrugations; two whole descending rods run from the upper waler through collars into independent broad rear anchor blocks. A low common slab exposes the normally concealed rear-side relationship rather than filling it with soil. Unlike the stone-filled wire gabion there is no containment cage or rock fill; unlike the opposed-wall timber flying shore there are no facing bearing plates, cross-span compression beam or central cheek joint. The folded curtain, rear longitudinal wales and one-sided anchoring relation are newly authored together, not transformed prior components. Four opaque constant PBR roles, metre-style Z up, bounds-centred ground sole origin, one architectural model zero scenes. Fixed illustrative layout only: not an interlocking sheet-pile system, geotechnical design or certified tension assembly. No soil pressure, water sealing, pullout resistance, anchoring capacity, load, stress, excavation, installation, structural stability, manufacturing, host fit, building-code or safety capability claimed. No actual retained soil, rigging, animation or interaction.",
+      "bounds": {
+        "x": 5.4,
+        "y": 3.45,
+        "z": 3.12,
+        "unit": "m"
+      },
+      "triangles": 480,
+      "materials": 4,
+      "files": {
+        "glb": {
+          "path": "assets/architecture/architecture-fixed-folded-retaining-wall-and-rear-tiebacks-01/v1.0.0/model.glb",
+          "size": 30328,
+          "sha256": "51cccc2379f66190197daac62e31afab6585cf90c2c150b0031b8a1e491f3998"
+        },
+        "blend": {
+          "path": "assets/architecture/architecture-fixed-folded-retaining-wall-and-rear-tiebacks-01/v1.0.0/source.blend",
+          "size": 621708,
+          "sha256": "3e988c22c1b72123631df5e014fee5585c69abf8f3611ad398c9d38887d6c696"
+        },
+        "generator": {
+          "path": "assets/architecture/architecture-fixed-folded-retaining-wall-and-rear-tiebacks-01/v1.0.0/generate.py",
+          "size": 11504,
+          "sha256": "32cd0b0e4c2e218bbee0d08930ae30a95cb882beb967f5809f27ee10150e2847"
+        },
+        "render": {
+          "path": "assets/architecture/architecture-fixed-folded-retaining-wall-and-rear-tiebacks-01/v1.0.0/thumbnail.png",
+          "size": 454863,
+          "sha256": "55096982a6b0934876c467e0acc387d6f287a6a737fc3ada8fc3c17b7037018c"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1584-volume02-20261025"
+    },
+    {
+      "id": "music-fixed-cutaway-box-drum-and-internal-snare-bank-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "music",
+      "style": "S01-clean-geometric",
+      "title": "Fixed Cutaway Box Drum and Internal Snare Bank",
+      "description": "One newly authored complete static cutaway box-drum educational display. A full thin blank striking front plate, full top and bottom, one complete left wall and a rear panel with a genuine round sound port enclose the chamber. The right side is deliberately opened as a thick-edged instructional cutaway, exposing eight entire helical snare strands carried by a front-rooted internal crossbar and meeting the inner striking plate. Four small solid ground feet and plain front fasteners complete the display. The cutaway is intentional, not missing faces in a claimed playable instrument. All visible numeric geometry is newly authored; no old loudspeaker cone/cabinet, kalimba body/tine, old stand or imported mesh is reused. One model zero scenes, four opaque constant PBR appearances, metres and Z up. Static stylized art only: no sound generation, tuning, authentic regional construction, snare vibration, playing or sitting load, physical safety, manufacture, rig, animation or interaction claimed.",
+      "bounds": {
+        "x": 0.3199999928474426,
+        "y": 0.3370000123977661,
+        "z": 0.5199999809265137,
+        "unit": "m"
+      },
+      "triangles": 11212,
+      "materials": 4,
+      "files": {
+        "glb": {
+          "path": "assets/music/music-fixed-cutaway-box-drum-and-internal-snare-bank-01/v1.0.0/model.glb",
+          "size": 959908,
+          "sha256": "ed2a1b1db64baba874ffbcafb5e1582ad11cf4d39817dfa9053cec308637f221"
+        },
+        "blend": {
+          "path": "assets/music/music-fixed-cutaway-box-drum-and-internal-snare-bank-01/v1.0.0/source.blend",
+          "size": 1924512,
+          "sha256": "7634736a61f18056a4a2ffc8083bbddfafd5e74ebe93b49308aa096745d0ccae"
+        },
+        "generator": {
+          "path": "assets/music/music-fixed-cutaway-box-drum-and-internal-snare-bank-01/v1.0.0/generate.py",
+          "size": 17402,
+          "sha256": "0d3f05d12bdf138c4e268e8ff05bfb191eead1d9fa738079b9ccd4fcc67fb94c"
+        },
+        "render": {
+          "path": "assets/music/music-fixed-cutaway-box-drum-and-internal-snare-bank-01/v1.0.0/thumbnail.png",
+          "size": 559082,
+          "sha256": "d90256f5e315379dd38f1790960894de86f1a6ee331fb50f4e8408412043ce9f"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1584-volume02-20261025"
+    },
+    {
+      "id": "sports-fixed-horseshoe-net-and-open-sector-throwing-cage-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "sports",
+      "style": "source-preserved-low-poly",
+      "title": "Horseshoe Net And Open Sector Throwing Cage",
+      "description": "One original whole fixed horseshoe throwing-cage appearance. Eight open finite-cord net panels curve around the rear and sides while leaving a broad unobstructed forward sector. Nine grounded tall uprights, outward feet and buried diagonal braces form a coherent support assembly; amber top collars mark the anchored rail joints. Original numeric angular cage construction with real open grid windows, not a flat court-fence module or a centered chain basket. One complete model, zero scenes, four opaque constant PBR roles. Static illustrative empty prop only: no implement, athlete, logo, moving joints, collision simulation, regulation dimensions, net tension, impact containment, load, manufacture or safety claim.",
+      "bounds": {
+        "x": 5.701206684112549,
+        "y": 6.206791877746582,
+        "z": 3.799999952316284,
+        "unit": "m"
+      },
+      "triangles": 4576,
+      "materials": 4,
+      "files": {
+        "glb": {
+          "path": "assets/sports/sports-fixed-horseshoe-net-and-open-sector-throwing-cage-01/v1.0.0/model.glb",
+          "size": 424008,
+          "sha256": "d0729111a4738c1089f17789b294ca8a7b242b7c57dbe85ff88942b445f4fdb6"
+        },
+        "blend": {
+          "path": "assets/sports/sports-fixed-horseshoe-net-and-open-sector-throwing-cage-01/v1.0.0/source.blend",
+          "size": 1297788,
+          "sha256": "6de0c750f8b505d7856c9053178b98a587f6e2b452f0176644cd77818136ff40"
+        },
+        "generator": {
+          "path": "assets/sports/sports-fixed-horseshoe-net-and-open-sector-throwing-cage-01/v1.0.0/generate.py",
+          "size": 17537,
+          "sha256": "ec97fec55b7a84318fcd4fc236193164694e683a506e823cd33560d30293a4e8"
+        },
+        "render": {
+          "path": "assets/sports/sports-fixed-horseshoe-net-and-open-sector-throwing-cage-01/v1.0.0/thumbnail.png",
+          "size": 590044,
+          "sha256": "91e8292a608681bfd9fdab1d476cd02466749e0f8edec3e691fb1b6de929fa2f"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1584-volume02-20261025"
+    },
+    {
+      "id": "education-static-paired-perforated-valves-and-split-raphe-diatom-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "education",
+      "style": "S01-clean-geometric",
+      "title": "Static Paired Perforated Valves and Split Raphe Diatom",
+      "description": "One wholly newly authored enlarged pennate-diatom-inspired static teaching exterior. Two complete elongated bilaterally symmetric oval valve plates have finite wall thickness, sixty-four actual octagonal pores each and paired long axial slit openings interrupted by a central nodule. A full continuous girdle wall and shallow integral seam ridge join both valves into one connected case. Every pore and slit passes through its individual valve, not a painted dot or black surface decal. A small flattened lower central datum places the complete model on the ground. All coordinates are newly drawn; no old animal, phage, shell, sieve or other model is imported or split into parts. One opaque untextured prop, zero scenes, three matte ivory and ochre PBR roles; metres are arbitrary enlarged art units. This is a deliberately stylized generic exterior, not an exact species, specimen, microscopic-scale reconstruction, accurate pore count, optical silica, living contents, biological relationship, motility, growth, filtration, fluid simulation or scientific model. No rig, animation, interaction or mechanism made or verified.",
+      "bounds": {
+        "x": 2.61632,
+        "y": 1.18552,
+        "z": 0.4,
+        "unit": "m"
+      },
+      "triangles": 8416,
+      "materials": 3,
+      "files": {
+        "glb": {
+          "path": "assets/education/education-static-paired-perforated-valves-and-split-raphe-diatom-01/v1.0.0/model.glb",
+          "size": 567920,
+          "sha256": "43d5879cfb7b2cbc98ff98140335fdb47935975ab003461912d97f8655ed3dea"
+        },
+        "blend": {
+          "path": "assets/education/education-static-paired-perforated-valves-and-split-raphe-diatom-01/v1.0.0/source.blend",
+          "size": 948424,
+          "sha256": "dc40e18d4e18add2ae523bfbd8de9734b89642ad3296d07bbfd6043f8cedd668"
+        },
+        "generator": {
+          "path": "assets/education/education-static-paired-perforated-valves-and-split-raphe-diatom-01/v1.0.0/generate.py",
+          "size": 21772,
+          "sha256": "e5eb76cd0ac9c9963dadc1ecde4165c56602ee088a40e0f4d51b434c5641955d"
+        },
+        "render": {
+          "path": "assets/education/education-static-paired-perforated-valves-and-split-raphe-diatom-01/v1.0.0/thumbnail.png",
+          "size": 493373,
+          "sha256": "d81306aac02dfd91ba98be8ee13eb5eaf35da81ec646933fa474a5ec05cfca29"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1584-volume02-20261025"
+    },
+    {
+      "id": "agriculture-whole-open-tractor-and-chevron-roller-preparation-bay-scene-01",
+      "version": "1.0.0",
+      "category": "scenes",
+      "assetKind": "scene",
+      "theme": "agriculture",
+      "style": "warm-handcrafted-village",
+      "title": "Whole Open Tractor and Chevron Roller Preparation Bay",
+      "description": "One new whole open agricultural preparation bay scene using the existing complete open-seat tractor and accepted chevron-rib roller crimper at unchanged scale and material parameters. They are parked separately side-by-side on one newly authored hardstand, with deliberately unconnected rear linkage and implement hitch, a broad central open staging gap and unobstructed front approach. A low rear boundary, side curb and two thin contrasting ground guides organize the area without enclosing the machinery. All source component geometry is embedded in this self-contained generator with original hashes; there are zero new stand-alone models and one new scene. The tractor and crimper are reused assets, not new asset counts. Fixed static appearance only; no coupling compatibility, vehicle movement, crop processing, public access, working clearance, engineering or safety claim. No people, rigging, animation, physics or runtime interaction made or verified.",
+      "bounds": {
+        "x": 7.599999905,
+        "y": 5.5,
+        "z": 2.299999952,
+        "unit": "m"
+      },
+      "triangles": 4228,
+      "materials": 11,
+      "files": {
+        "glb": {
+          "path": "assets/agriculture/agriculture-whole-open-tractor-and-chevron-roller-preparation-bay-scene-01/v1.0.0/model.glb",
+          "size": 243920,
+          "sha256": "021543c41d19023c2f7372b252ac945c2fda2986388867c2e1290f3fb97093b1"
+        },
+        "blend": {
+          "path": "assets/agriculture/agriculture-whole-open-tractor-and-chevron-roller-preparation-bay-scene-01/v1.0.0/source.blend",
+          "size": 1111972,
+          "sha256": "a0b609e26e94a60e70f4f3f1be947adc727497ccfee9b83e46cd7c3d3a8b1e0f"
+        },
+        "generator": {
+          "path": "assets/agriculture/agriculture-whole-open-tractor-and-chevron-roller-preparation-bay-scene-01/v1.0.0/generate.py",
+          "size": 59930,
+          "sha256": "b8272be0c2a508a9a559595e18c76c6836b8f0f54afd167064b5582d848289c7"
+        },
+        "render": {
+          "path": "assets/agriculture/agriculture-whole-open-tractor-and-chevron-roller-preparation-bay-scene-01/v1.0.0/thumbnail.png",
+          "size": 515909,
+          "sha256": "8b90fbeeb099257ad712a4fb189a1675b483fa3d692832022a020611850c5cac"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1584-volume02-20261025"
+    },
+    {
+      "id": "music-fixed-twin-head-waisted-shell-and-longitudinal-lacing-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "music",
+      "style": "S01-clean-geometric",
+      "title": "Fixed Twin-Head Waisted Shell and Longitudinal Lacing",
+      "description": "One newly authored complete static double-headed pressure-drum-inspired display. A single continuous hollow hourglass shell narrows through a true central waist and expands to two opposed mouths, each closed by its own complete finite-thickness drumhead. Two full end hoops retain twelve whole closed longitudinal cord loops, whose paired runs bridge the waist and return into both hoops. It rests horizontally on finite bottom facets of the two polygonal end hoops. This is not a recoloured single-head goblet, an old cylindrical drum rescaled, or two solid cones: all visible numeric geometry and the double-ended chamber/lacing relationship are newly authored. One model zero scenes, four opaque constant PBR appearances, metres and native Z up. Static stylized visual only; no actual pressure response, cord tension, pitch control, speech imitation, membrane vibration, regional or historical reconstruction, manufacture, handling or stability certification. No rig, animation or interaction.",
+      "bounds": {
+        "x": 0.4259999990463257,
+        "y": 0.31133198738098145,
+        "z": 0.31133198738098145,
+        "unit": "m"
+      },
+      "triangles": 3840,
+      "materials": 4,
+      "files": {
+        "glb": {
+          "path": "assets/music/music-fixed-twin-head-waisted-shell-and-longitudinal-lacing-01/v1.0.0/model.glb",
+          "size": 336636,
+          "sha256": "26c584804051973d054f970877aa48846b0f1a4ce0a8df552335a4d7c2c7f6e0"
+        },
+        "blend": {
+          "path": "assets/music/music-fixed-twin-head-waisted-shell-and-longitudinal-lacing-01/v1.0.0/source.blend",
+          "size": 1065920,
+          "sha256": "9113528a571dc96da6582f506a542b3e05ed54cbc1c2f56893df933fd64391b7"
+        },
+        "generator": {
+          "path": "assets/music/music-fixed-twin-head-waisted-shell-and-longitudinal-lacing-01/v1.0.0/generate.py",
+          "size": 16517,
+          "sha256": "85c1d99e83098cf9e4ff05bb35f826ac6a70ee015f4fedf4936041547f7860c9"
+        },
+        "render": {
+          "path": "assets/music/music-fixed-twin-head-waisted-shell-and-longitudinal-lacing-01/v1.0.0/thumbnail.png",
+          "size": 575425,
+          "sha256": "d9b106e66d194375a89e8488f7df225e182b7ecf9ef6c6777ad3ac67a7470cee"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1584-volume02-20261025"
+    },
+    {
+      "id": "sports-fixed-wide-fluke-and-twin-open-foot-pocket-monofin-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "sports",
+      "style": "source-preserved-low-poly",
+      "title": "Wide Fluke And Twin Open Foot Pocket Monofin",
+      "description": "One original complete fixed monofin-inspired swimming appearance: two real open foot pockets sit together at the rear of one broad swept fluke blade with a deeply notched leading silhouette. The blade is a single finite-thickness wide surface under both pockets, not two copied individual diving fins, and each new short foot shell has a closed interior floor and a true top mouth with finite walls. Original numeric fluke perimeter, twin-pocket rings and lip materials; no old footwear, skate, surfboard or fin vertices imported. One whole prop, zero scenes, four opaque constant PBR roles. Static empty illustrative appearance only, no wearer, logo, rig, motion, flexibility, thrust, buoyancy, sizing, wearability, manufacture, swimming performance or safety claim.",
+      "bounds": {
+        "x": 1.3200000524520874,
+        "y": 1.0,
+        "z": 0.15399999916553497,
+        "unit": "m"
+      },
+      "triangles": 632,
+      "materials": 4,
+      "files": {
+        "glb": {
+          "path": "assets/sports/sports-fixed-wide-fluke-and-twin-open-foot-pocket-monofin-01/v1.0.0/model.glb",
+          "size": 58496,
+          "sha256": "586d4c03c277862dfe70a68b4c19d6ad1efa90c042b679d06f80dc92c81d7e4c"
+        },
+        "blend": {
+          "path": "assets/sports/sports-fixed-wide-fluke-and-twin-open-foot-pocket-monofin-01/v1.0.0/source.blend",
+          "size": 625628,
+          "sha256": "d20cd156ec46dc1e4b06827cf79a2030ccfc980f47b0804f2e0e34eb5a84c570"
+        },
+        "generator": {
+          "path": "assets/sports/sports-fixed-wide-fluke-and-twin-open-foot-pocket-monofin-01/v1.0.0/generate.py",
+          "size": 17739,
+          "sha256": "839a7b5035402a180316151f5cae1f0fcab6b1c13cd0622e84bbced67b479870"
+        },
+        "render": {
+          "path": "assets/sports/sports-fixed-wide-fluke-and-twin-open-foot-pocket-monofin-01/v1.0.0/thumbnail.png",
+          "size": 435144,
+          "sha256": "d82240557266bc527a4ab81e2cff434f92d4d8b998362bc3e7e0023a27cc4d12"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1584-volume02-20261025"
     }
   ]
 }
