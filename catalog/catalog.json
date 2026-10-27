@@ -2264,6 +2264,11 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary02",
       "commit": "11ab4f23e7fa816d62356309d76e4094cc434825"
+    },
+    "original-qualified-batch-1734-volume02-20261025": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary02",
+      "commit": "cc966fb8dd293631b915eb7ac5d7f04f818d0ba8"
     }
   },
   "assets": [
@@ -76742,6 +76747,92 @@
       "status": "verified",
       "license": "All rights reserved",
       "sourceId": "original-qualified-batch-1732-volume02-20261025"
+    },
+    {
+      "id": "sports-fixed-long-centre-shaft-and-opposed-end-face-croquet-mallet-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "sports",
+      "style": "low-poly",
+      "title": "Long Centre Shaft And Opposed End Face Croquet Mallet",
+      "description": "One newly authored complete static croquet-mallet-inspired visual prop. A long chamfered rectangular head has two complete dark opposed end plates and a broad continuous ground sole. A full long central tapered shaft enters the head at its midpoint and supports a whole octagonal upper grip. Five closed complete components and four opaque constant untextured PBR roles; metres, Z up, horizontal bounds-centred ground datum. Numeric geometry is new, not a cropped workshop-rack mallet, percussion striker, offset golf putter or old shaft transplant. One independent model and zero scenes. Simple sport-equipment appearance only: no ball, wicket, text, branding, numbered marks, weights or copied product. The two plates have genuine finite opposed seats on the whole head; shaft and grip retain finite interior connections. Fixed upright display only, not real balance, regulation dimensions, playable equipment, impact response, shaft stiffness, striking performance, user fit, manufacture or safety certification. No rigging, animation or interaction.",
+      "bounds": {
+        "x": 0.3140000104904175,
+        "y": 0.06599999964237213,
+        "z": 0.9319999814033508,
+        "unit": "m"
+      },
+      "triangles": 276,
+      "materials": 4,
+      "files": {
+        "glb": {
+          "path": "assets/sports/sports-fixed-long-centre-shaft-and-opposed-end-face-croquet-mallet-01/v1.0.0/model.glb",
+          "size": 27424,
+          "sha256": "bc030b461ec28b5634ae9843e19a31f85755d50ebd30ae48ae1cac4de2853e85"
+        },
+        "blend": {
+          "path": "assets/sports/sports-fixed-long-centre-shaft-and-opposed-end-face-croquet-mallet-01/v1.0.0/source.blend",
+          "size": 595100,
+          "sha256": "56e22f70b5109fe61ce838c841ff7d1639331e7f226b6d7897831dab967b2f57"
+        },
+        "generator": {
+          "path": "assets/sports/sports-fixed-long-centre-shaft-and-opposed-end-face-croquet-mallet-01/v1.0.0/generate.py",
+          "size": 17297,
+          "sha256": "1ef1b306f5eabd89a5ddb45a3f9bc9c315ea5eab6ce233b61cce094f0fc99cfa"
+        },
+        "render": {
+          "path": "assets/sports/sports-fixed-long-centre-shaft-and-opposed-end-face-croquet-mallet-01/v1.0.0/thumbnail.png",
+          "size": 405431,
+          "sha256": "8f676586e1b32751a4194867cb629a098ce365caa0a140d4a24bc469cebdcc2e"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1734-volume02-20261025"
+    },
+    {
+      "id": "music-fixed-three-bend-tapered-tube-and-open-bell-serpent-display-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "music",
+      "style": "S01-clean-geometric",
+      "title": "Fixed Three Bend Tapered Tube and Open Bell Serpent Display",
+      "description": "One newly authored complete serpent-inspired static wind-instrument display. A single progressively widening finite-wall tube follows three broad alternating bends before turning upward into its open wide bell. Six genuinely open polygonal front ports enter its continuous inner cavity, and a whole hollow socketed small cup mouthpiece joins the narrow upper end. Two complete discreet rear posts connect the original full instrument body to a low grounded display plinth. All centre paths, section profiles, port placement and support coordinates are new; no old capped straight J tube, twin-joint bassoon boot, saxophone, horn loop or pipe mesh reused. Five closed editable bodies and four constant opaque PBR roles, metres native Z up, one model zero scenes. Generic keyless serpentine category inspiration only, not a decorated museum copy or historically exact instrument. No tone-hole fingering correctness, calibrated taper, continuous usable airflow, sound, intonation, lip response, playability, strength, hand fit, manufacture or safety claim. No keys, reed, player, rig, animation or interaction. Display supports are part of this one prop, not separate counted assets.",
+      "bounds": {
+        "x": 0.5400000214576721,
+        "y": 0.20000000298023224,
+        "z": 0.9538494944572449,
+        "unit": "m"
+      },
+      "triangles": 32492,
+      "materials": 4,
+      "files": {
+        "glb": {
+          "path": "assets/music/music-fixed-three-bend-tapered-tube-and-open-bell-serpent-display-01/v1.0.0/model.glb",
+          "size": 2735388,
+          "sha256": "0ea5911f7e7d495349205fd94be77dac71e7b6c582e66a5c11c744960d615d9a"
+        },
+        "blend": {
+          "path": "assets/music/music-fixed-three-bend-tapered-tube-and-open-bell-serpent-display-01/v1.0.0/source.blend",
+          "size": 4218528,
+          "sha256": "9eb3af43da5ca8fe970b2085abb23f6700fedfac68a199a08b07f1d24302bc46"
+        },
+        "generator": {
+          "path": "assets/music/music-fixed-three-bend-tapered-tube-and-open-bell-serpent-display-01/v1.0.0/generate.py",
+          "size": 13779,
+          "sha256": "1262c88e6bde783c4c4c178c334ad498011d648d757d7834f46a172817cb5197"
+        },
+        "render": {
+          "path": "assets/music/music-fixed-three-bend-tapered-tube-and-open-bell-serpent-display-01/v1.0.0/thumbnail.png",
+          "size": 459008,
+          "sha256": "76ba652bb1677283faf859624cd74c40a06be440651959d52fef9f00f82c3a2d"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1734-volume02-20261025"
     }
   ]
 }
