@@ -2304,6 +2304,11 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary02",
       "commit": "c3569752b073a39024db00c1c8f74597a0772655"
+    },
+    "original-qualified-batch-1759-volume02-20261025": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary02",
+      "commit": "735372cd4cf4407b3ecc48aa35d8df72e166bf89"
     }
   },
   "assets": [
@@ -77685,6 +77690,264 @@
       "status": "verified",
       "license": "All rights reserved",
       "sourceId": "original-qualified-batch-1753-volume02-20261025"
+    },
+    {
+      "id": "waterworks-fixed-opposed-level-caissons-and-central-rotor-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "waterworks",
+      "style": "S01-clean-geometric",
+      "title": "Fixed Opposed Level Caissons and Central Rotor",
+      "description": "One wholly newly authored complete fixed rotary-boat-lift-inspired display. Two complete long horizontal dry caisson shells sit at unequal heights on opposite sides of one common horizontal rotor axis. Each has an integral thick floor and two full tall sidewalls, two entire closed end-gate leaves and a short complete journal at each end. Two broad continuous profiled double-ended rotor arms connect both opposed chamber stations directly to the central axle; each arm is one whole solid, not a rim with radial spokes. Two complete grounded tapered outer piers, a whole common ground plinth and a closed side drive-case exterior complete one apparatus. The empty chambers remain level in this single fixed angled arrangement. Unlike the older inclined caisson carriage, there are no sloping rails, unequal-height wheel underframes or remote haul station. Unlike the observation wheel, there are no complete circular rims, perimeter suspension links or repeated small passenger tubs; unlike the twin-arm amusement ride, neither arm ends in a counterweight opposite one common seated tray. The new whole organization is a central opposed rotor with long gated chambers at both of its terminal axes. Every profile, chamber, arm, journal and coordinate authored anew, no older caisson, ride, wheel, gate or pier mesh imported or extracted. Four opaque constant untextured PBR appearances, metres native Z up, complete horizontal bounds-centred ground sole, one whole model zero scenes. Generic static civil-machinery artwork, not a replica of a named landmark or an engineering model. Broad rotating-lift category inspiration only. No water, boat, adjoining canal, actual rotation, gate action, gear train, level control, seal, water retention, motion envelope, balance, navigation, payload, dimensions compliance, manufacture, structural or equipment safety capability made or verified. No rigging, animation or interaction.",
+      "bounds": {
+        "x": 5.1,
+        "y": 6.04,
+        "z": 4.493952902052574,
+        "unit": "m"
+      },
+      "triangles": 672,
+      "materials": 4,
+      "files": {
+        "glb": {
+          "path": "assets/waterworks/waterworks-fixed-opposed-level-caissons-and-central-rotor-01/v1.0.0/model.glb",
+          "size": 40760,
+          "sha256": "9b8b87cc6e06bf1d31715ed01cd411e9bfddf1cc97f40bfd79f4483e0e03c7ad"
+        },
+        "blend": {
+          "path": "assets/waterworks/waterworks-fixed-opposed-level-caissons-and-central-rotor-01/v1.0.0/source.blend",
+          "size": 655256,
+          "sha256": "32f6d44a8a76974bb53673a62b3f4e70fa2fb88ca9ea5a0dd2030dfa5e33c237"
+        },
+        "generator": {
+          "path": "assets/waterworks/waterworks-fixed-opposed-level-caissons-and-central-rotor-01/v1.0.0/generate.py",
+          "size": 12896,
+          "sha256": "4fd111a60e54c144f230ba151bc9015f38821208b940257add0d6c534c120e00"
+        },
+        "render": {
+          "path": "assets/waterworks/waterworks-fixed-opposed-level-caissons-and-central-rotor-01/v1.0.0/thumbnail.png",
+          "size": 485945,
+          "sha256": "fe7204156a4c70f6829458870c2b0b0272478f92db89055cb8da3c4037c9282f"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1759-volume02-20261025"
+    },
+    {
+      "id": "animal-whole-eight-dorsal-valves-and-broad-oval-girdle-chiton-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "animal",
+      "style": "S01-clean-geometric",
+      "title": "Whole Eight Dorsal Valves and Broad Oval Girdle Chiton",
+      "description": "One wholly newly authored static chiton-like mollusc exterior at approximately nine-centimetre display length. Eight complete dorsal shell valves, including narrower anterior and posterior end valves and six intermediate arched saddles, sit embedded within one broad continuous oval girdle. A whole broad muscular foot occupies the underside, with a reduced eyeless head beneath the anterior girdle. No cephalic eyes, jointed side legs, antennae, crustacean tailfan or carved fossil slab is present. All valve outlines, cross-sections, body/girdle profiles and ventral forms are new; no old isopod domain geometry, removed limbs or changed segment-count shell is reused. One complete animal prop, zero scenes, four muted opaque solid PBR roles. Valves are closed solid stylizations and the finite sole is a resting datum. This is not a measured species, microscopic shell eyes, spines, scales, gill fringe, radula, complete internal anatomy, adhesion, locomotion, rolling defence, feeding, edibility identification, physical-stability simulation, rig or animation claim.",
+      "bounds": {
+        "x": 0.05,
+        "y": 0.088,
+        "z": 0.0145,
+        "unit": "m"
+      },
+      "triangles": 3216,
+      "materials": 4,
+      "files": {
+        "glb": {
+          "path": "assets/animal/animal-whole-eight-dorsal-valves-and-broad-oval-girdle-chiton-01/v1.0.0/model.glb",
+          "size": 188260,
+          "sha256": "753f23cce22979c60865f9b21c17c4b2669af8f42127667786c904700b4e2208"
+        },
+        "blend": {
+          "path": "assets/animal/animal-whole-eight-dorsal-valves-and-broad-oval-girdle-chiton-01/v1.0.0/source.blend",
+          "size": 745880,
+          "sha256": "c966f9827937d7984bd9488517e1f18f78cc07e670732728af340c02fca2e496"
+        },
+        "generator": {
+          "path": "assets/animal/animal-whole-eight-dorsal-valves-and-broad-oval-girdle-chiton-01/v1.0.0/generate.py",
+          "size": 22672,
+          "sha256": "fc25c73ff68c41adeff139a91509c4880dee78e6d537ea59088cdbdaf825e8d8"
+        },
+        "render": {
+          "path": "assets/animal/animal-whole-eight-dorsal-valves-and-broad-oval-girdle-chiton-01/v1.0.0/thumbnail.png",
+          "size": 475275,
+          "sha256": "e61cac0d41d626aa5c17738a9163f537175be213ebfb34c3aac1505f32abffbb"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1759-volume02-20261025"
+    },
+    {
+      "id": "industrial-whole-raised-slip-roller-and-standing-bead-former-preparation-corner-scene-01",
+      "version": "1.0.0",
+      "category": "scenes",
+      "assetKind": "scene",
+      "theme": "industrial",
+      "style": "warm-handcrafted-village",
+      "title": "Whole Raised Slip Roller and Standing Bead Former Preparation Corner",
+      "description": "One new whole empty sheet-forming preparation corner scene, zero new standalone models. The complete accepted three-full-width-roll side-crank slip roller stands unchanged on a whole four-legged raised bench at the left, retaining all three long rolls, both end cheeks, four local adjusters, crank and upper release-lever exterior. The complete accepted long-throat paired-bead-roll former stands unchanged on its own complete pedestal and full ground base to the right, with its original opposed small rolls, deep horizontal throat and side handwheel intact. A single broad chamfered shared floor, low rear/left curbs and empty front/central approach separate the raised tabletop machine from the independently standing former. Both complete originals are hash-pinned and preserved at original scale, topology, four opaque PBR parameter sets and fixed pose; translation only. The new whole bench and floor/curbs are scene architecture, not extra counted model deliveries. Unlike the old three-station triangular-roll former, tube bender and sheet-brake workcorner, this has two new whole machine originals at nearly matching tool height, a complete supporting bench and one separate standing pedestal. No stock, sheet, operator, loose tools or process link. No bending, beading, mechanical compatibility, load-bearing, ergonomic reach, working clearance, flow, machine installation, navigation, engineering or safety claim. Rigging, animation, physics and runtime interaction not made.",
+      "bounds": {
+        "x": 4.5,
+        "y": 2.349999905,
+        "z": 1.771999955,
+        "unit": "m"
+      },
+      "triangles": 3400,
+      "materials": 11,
+      "files": {
+        "glb": {
+          "path": "assets/industrial/industrial-whole-raised-slip-roller-and-standing-bead-former-preparation-corner-scene-01/v1.0.0/model.glb",
+          "size": 200100,
+          "sha256": "c98081f203607e12243a2424756484178711a724a404a2313b2a98c1fc1d2d24"
+        },
+        "blend": {
+          "path": "assets/industrial/industrial-whole-raised-slip-roller-and-standing-bead-former-preparation-corner-scene-01/v1.0.0/source.blend",
+          "size": 1115052,
+          "sha256": "26e991d765894b0feac3f493f01fc43882c8d2fa5497596a391791565e42cf46"
+        },
+        "generator": {
+          "path": "assets/industrial/industrial-whole-raised-slip-roller-and-standing-bead-former-preparation-corner-scene-01/v1.0.0/generate.py",
+          "size": 62117,
+          "sha256": "baf03edaa51a6b14c14c6f41da71d34ada4d0a23ce2f5778a39e78b278f85dbe"
+        },
+        "render": {
+          "path": "assets/industrial/industrial-whole-raised-slip-roller-and-standing-bead-former-preparation-corner-scene-01/v1.0.0/thumbnail.png",
+          "size": 514779,
+          "sha256": "5f802a8612f32fbd1c057badf677323df7fbd5d22851d6d6a2bd8524ada96f1a"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1759-volume02-20261025"
+    },
+    {
+      "id": "agriculture-fixed-side-finger-bar-and-opposed-knife-sections-mower-01",
+      "version": "1.0.0",
+      "category": "modular",
+      "assetKind": "prop",
+      "theme": "agriculture",
+      "style": "warm-handcrafted-village",
+      "title": "Fixed Side Finger Bar and Opposed Knife Sections Mower",
+      "description": "One newly authored whole parked side finger-bar mower-style implement. One complete long horizontal bar reaches laterally from a low inner drive-head exterior to a full outer shoe and raised crop-divider fin. Eighteen complete narrow blunt guard fingers and seventeen complete broader blunt triangular knife-section appearances alternate along the front of the whole bar, with a full continuous rear knife strip and six small hold-down clips; none are extracted from another model. A full inner shoe, an independent rear parking foot, low cross hitch beam and complete raised triangular attachment-style frame support the whole machine in this fixed display pose. A full enclosed shaped drive case, proud round head cover, short shielded input exterior and fixed diagonal lifting link complete the left head region. All visible geometry newly authored; no flail rotor, reel mower, combine header, sickle blade or hitch frame imported. Structurally distinct from the existing rotating-reel mower and the cutaway cylindrical Y-flail mower: this is a single long side-reaching comb with alternating flat guard and knife-section silhouettes and no rotor or wheels. One model zero scenes. All tips deliberately thick and blunt, fixed without operating clearances. No tractor, crop, actual gearing, functional cutting edge, reciprocation, motion sweep, blade/shear fit, drive transmission, hitch compatibility, crop flow, load, hydraulic or spring performance, manufacture, engineering or machine-safety claim. Rigging, animation and interaction not made.",
+      "bounds": {
+        "x": 3.710000038,
+        "y": 0.910000026,
+        "z": 1.269999981,
+        "unit": "m"
+      },
+      "triangles": 1424,
+      "materials": 4,
+      "files": {
+        "glb": {
+          "path": "assets/agriculture/agriculture-fixed-side-finger-bar-and-opposed-knife-sections-mower-01/v1.0.0/model.glb",
+          "size": 108380,
+          "sha256": "59bf765d3fe94fd787d94edda9ee68abffd9bb9d8c3d72a081fe042d85fdb248"
+        },
+        "blend": {
+          "path": "assets/agriculture/agriculture-fixed-side-finger-bar-and-opposed-knife-sections-mower-01/v1.0.0/source.blend",
+          "size": 881836,
+          "sha256": "49f092e2b5facf2d34d86ed420f6c2a15562a472a95b39573bb153ca25c0197c"
+        },
+        "generator": {
+          "path": "assets/agriculture/agriculture-fixed-side-finger-bar-and-opposed-knife-sections-mower-01/v1.0.0/generate.py",
+          "size": 33359,
+          "sha256": "2b78b1f1d9ceb286e5d6ac6b8ced143d70d45f48892b2fc625c63182b2243472"
+        },
+        "render": {
+          "path": "assets/agriculture/agriculture-fixed-side-finger-bar-and-opposed-knife-sections-mower-01/v1.0.0/thumbnail.png",
+          "size": 493458,
+          "sha256": "c11cdcb5cb51af7dc61a900cf1017412afaaf616fe5506a96fefe05a9ff0cdad"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1759-volume02-20261025"
+    },
+    {
+      "id": "art-fixed-padded-board-and-three-sided-windscreen-gilding-cushion-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "art",
+      "style": "S01-clean-geometric",
+      "title": "Fixed Padded Board and Three Sided Windscreen Gilding Cushion",
+      "description": "One newly authored complete bench-resting gilding-cushion-inspired exterior. A whole low rounded rectangular wooden-look board carries one broad thick padded leather-look face with a continuous rounded shoulder and empty flat centre. One whole finite-thickness folded windscreen rises around the rear and both side edges; its sloping side tops lead down toward a genuinely open front. The complete shield has a single connected U-shaped plan, not three disconnected floating panels; its rooted lower band enters the board. Three closed editable whole components, four opaque constant PBR roles, metre units native Z up and finite backing-board ground datum. All board contours, cushion profiles, shield outline and proportions are newly authored, not the prior round seamed pin cushion, perforated curved impression tray, painting palette or extracted seat cushion. One model zero scenes. Plain stationary artistic display only: no leaf, blade, transfer brush, underside hand strap, leather fibres, parchment translucency, folding mechanism, magnetic fixing or internal padding reconstructed. The board is explicitly bench-resting rather than a wearable hand-held replica. No draft protection, gilding instruction, working-tool performance, material identity, cushioning, strength, manufacture, historical authenticity or safety capability claimed. No rig, animation or interaction.",
+      "bounds": {
+        "x": 0.25999999046325684,
+        "y": 0.19200000166893005,
+        "z": 0.12999999523162842,
+        "unit": "m"
+      },
+      "triangles": 428,
+      "materials": 4,
+      "files": {
+        "glb": {
+          "path": "assets/art/art-fixed-padded-board-and-three-sided-windscreen-gilding-cushion-01/v1.0.0/model.glb",
+          "size": 39504,
+          "sha256": "52b5097f62c83e3d0a91c9f927a8c0eaf7ababc0f283867347d13ecb15c9dc32"
+        },
+        "blend": {
+          "path": "assets/art/art-fixed-padded-board-and-three-sided-windscreen-gilding-cushion-01/v1.0.0/source.blend",
+          "size": 617936,
+          "sha256": "d4d49eb6d329067b5038a7d1623b5e8e613a8b7d7002214c43107da3dbe5ac61"
+        },
+        "generator": {
+          "path": "assets/art/art-fixed-padded-board-and-three-sided-windscreen-gilding-cushion-01/v1.0.0/generate.py",
+          "size": 12040,
+          "sha256": "b27aed859893e462ba5b5f2f3f3ce1f300fc42fe5c67f3016e2c8478781f1054"
+        },
+        "render": {
+          "path": "assets/art/art-fixed-padded-board-and-three-sided-windscreen-gilding-cushion-01/v1.0.0/thumbnail.png",
+          "size": 531112,
+          "sha256": "4df3522f9f6df5a2f7552c23895579d9fdb50506cf610aed184d6468f0263880"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1759-volume02-20261025"
+    },
+    {
+      "id": "coral-reef-fixed-open-tube-and-side-mouthpiece-snorkel-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "coral-reef",
+      "style": "low-poly",
+      "title": "Open Tube And Side Mouthpiece Snorkel",
+      "description": "One newly authored complete static simple-snorkel-inspired prop in a side-resting display pose. A full long finite-wall tube has a genuinely open upper end, one continuous rounded lower bend and an open short side socket. A separate whole flattened oval mouthpiece surrounds that socket with a real central passage and two complete blunt rooted bite-tab shapes. One whole annular keeper collar and a complete small open rectangular retention loop remain attached to the long tube. Six whole closed meshes and four constant opaque untextured PBR roles; metre units native Z up and horizontal bounds-centred ground datum. Mouthpiece lower wall and keeper collar have finite flat polygonal resting facets. All numeric paths, sections and profiles newly authored; no old diving-mask part, musical crook, medical breathing circuit or copied commercial snorkel imported. One independent model zero scenes. Generic category appearance only, no person, mask, valves, cap, membrane, fluids, branding, text, labels or real soft-material simulation. Static hidden socket overlaps are visual seats, not fitted manufacture clearances. No actual breathing, airway suitability, gas or liquid circuit, purging, pressure, seal, bite fit, flexibility, diving operation, material suitability, certification, manufacture, human use or safety capability made or verified. No rigging, animation or interaction.",
+      "bounds": {
+        "x": 0.13767334818840027,
+        "y": 0.46844276785850525,
+        "z": 0.03334669768810272,
+        "unit": "m"
+      },
+      "triangles": 1656,
+      "materials": 4,
+      "files": {
+        "glb": {
+          "path": "assets/coral-reef/coral-reef-fixed-open-tube-and-side-mouthpiece-snorkel-01/v1.0.0/model.glb",
+          "size": 146204,
+          "sha256": "c139136f7229d75ea890e758ab286c348e1f9e052416b8a42270295c5e9baa08"
+        },
+        "blend": {
+          "path": "assets/coral-reef/coral-reef-fixed-open-tube-and-side-mouthpiece-snorkel-01/v1.0.0/source.blend",
+          "size": 754412,
+          "sha256": "9205d095eec017710016c14a6966bb19cc5ea4729501e1d8a074156c58604cea"
+        },
+        "generator": {
+          "path": "assets/coral-reef/coral-reef-fixed-open-tube-and-side-mouthpiece-snorkel-01/v1.0.0/generate.py",
+          "size": 19655,
+          "sha256": "a58aab44b1340dd723712a6be73a135b237e08144e902549c6c6a0cf8e29a5c0"
+        },
+        "render": {
+          "path": "assets/coral-reef/coral-reef-fixed-open-tube-and-side-mouthpiece-snorkel-01/v1.0.0/thumbnail.png",
+          "size": 398076,
+          "sha256": "0c6e28be56c0d6188feb2f09c3a19d29f3f788c31b1765588f0222ee0576467c"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1759-volume02-20261025"
     }
   ]
 }
