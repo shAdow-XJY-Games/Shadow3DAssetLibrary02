@@ -1,0 +1,42 @@
+{
+  "id": "music-fixed-arched-frame-and-three-crossbar-disc-sistrum-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "music",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Arched Frame and Three Crossbar Disc Sistrum",
+  "description": "One newly authored complete sistrum-inspired handled percussion appearance. A full wooden grip with finite flat foot carries a broad root shoulder and one continuous bronze-look overhead arch strap. Three complete horizontal crossbars pass through both arch sides and end in finite stop caps. Nine separate whole shallow-dished metal-look discs have real centre openings and a slight intentional fixed seat on those bars. Broad empty intervals remain between the three rows and inside the arch crown. All geometry newly authored; no tambourine hoop/window components or U-return rod/tine chamber reused. One whole model zero scenes, four opaque PBR roles, metre scale and source Z up. Broad arc-rattle category inspiration only, no religious figures, sacred inscriptions, branded shape, museum-object reconstruction or historical authenticity claim. Static fixed display only: no shaking, sliding, sound, tuning, balance, hand fit, manufacture or safety capability. No rig, animation or interaction.",
+  "bounds": {
+    "x": 0.18000000715255737,
+    "y": 0.04776886850595474,
+    "z": 0.37950000166893005,
+    "unit": "m"
+  },
+  "triangles": 5584,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/music/music-fixed-arched-frame-and-three-crossbar-disc-sistrum-01/v1.0.0/model.glb",
+      "size": 480516,
+      "sha256": "eaff484ba0568585698c52ee281e4b27d6296b28ae476a48d13284182a4c5ff5"
+    },
+    "blend": {
+      "path": "assets/music/music-fixed-arched-frame-and-three-crossbar-disc-sistrum-01/v1.0.0/source.blend",
+      "size": 1251840,
+      "sha256": "bf954dbf9161899f10b85f2357b4ab02e6effc1190cb49f8a834029cbb4e6511"
+    },
+    "generator": {
+      "path": "assets/music/music-fixed-arched-frame-and-three-crossbar-disc-sistrum-01/v1.0.0/generate.py",
+      "size": 12440,
+      "sha256": "4b7de6894d56b1daf81d2edbc62fd31b9c68947d9b073c20c1dc89a6cd41173b"
+    },
+    "render": {
+      "path": "assets/music/music-fixed-arched-frame-and-three-crossbar-disc-sistrum-01/v1.0.0/thumbnail.png",
+      "size": 486620,
+      "sha256": "f045e05a2813da01e9899f4b56f68da081f81eafc82e1452288e0d67c44d80c3"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "harbor-whole-hollow-cone-and-twin-bolting-flanges-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "harbor",
+  "style": "S01-clean-geometric",
+  "title": "Whole Hollow Cone and Twin Bolting Flanges",
+  "description": "One wholly newly authored complete hollow conical marine-fender-inspired prop. A broad continuous annular lower bolting flange rises into a thick narrowing conical wall and a separate-height smaller annular upper flange, all joined in one shared-vertex closed material boundary. The axial bore passes through both complete mouths with no internal cap or floor. Eight bounded curved rectangular mounting apertures pierce each flange through its full local thickness; every opening has finite inner walls and real surrounding rim material. The complete lower flange sole is the artistic upright display datum, not a claim of quay installation. Unlike the old laminated dock bumper there are no parallel rubber strips, cross rods, side brackets or backplate: the whole load-interface appearance is a single hollow taper with two pierced annular ends. All numeric geometry new, not an extracted pipe, wheel, old cone or resized bumper. Two opaque constant PBR roles, metre-style Z up and horizontally centred annular sole, one whole prop zero scenes. Fixed stylized exterior only, no contact panel, chain, mounting bolts, ship, pier or operating system. Invented profiles and slots are not real marine equipment specifications. No elasticity, compression, energy absorption, impact resistance, vessel guidance, hydraulic flow, flange or bolt fit, fastening, load, stability, wear, manufacture, installation, engineering or port safety capability made or verified. No rigging, animation or interaction.",
+  "bounds": {
+    "x": 2.0,
+    "y": 2.0,
+    "z": 1.04,
+    "unit": "m"
+  },
+  "triangles": 2624,
+  "materials": 2,
+  "files": {
+    "glb": {
+      "path": "assets/harbor/harbor-whole-hollow-cone-and-twin-bolting-flanges-01/v1.0.0/model.glb",
+      "size": 91420,
+      "sha256": "834dfc48bffd6e3f794663246c665c34f1e89f9e84d17d47af25a220e8d56c09"
+    },
+    "blend": {
+      "path": "assets/harbor/harbor-whole-hollow-cone-and-twin-bolting-flanges-01/v1.0.0/source.blend",
+      "size": 639676,
+      "sha256": "09a258b132d005a21bd3f10633bc263ffb74434cdd2e0c713aabc5747d95d213"
+    },
+    "generator": {
+      "path": "assets/harbor/harbor-whole-hollow-cone-and-twin-bolting-flanges-01/v1.0.0/generate.py",
+      "size": 11065,
+      "sha256": "e3d2631fc762b46973c838636b33fad6ec1568a288213dbb629106e40ade8dc7"
+    },
+    "render": {
+      "path": "assets/harbor/harbor-whole-hollow-cone-and-twin-bolting-flanges-01/v1.0.0/thumbnail.png",
+      "size": 406456,
+      "sha256": "02a21e835c4573dbce1cb042e1643195948a8136448f3db7bc19b3b1c6df8942"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
