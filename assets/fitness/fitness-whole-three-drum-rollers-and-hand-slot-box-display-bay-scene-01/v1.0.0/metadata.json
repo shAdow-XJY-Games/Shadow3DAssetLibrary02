@@ -1,0 +1,43 @@
+{
+  "id": "fitness-whole-three-drum-rollers-and-hand-slot-box-display-bay-scene-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "fitness",
+  "style": "source-preserved-low-poly",
+  "title": "Whole Three Drum Rollers And Hand Slot Box Display Bay",
+  "description": "One complete static fitness-equipment display-bay scene, zero new independent models and one scene. The whole accepted empty three-drum cycling-roller frame stands along the left side of a finite common platform, and the entire accepted tapered hand-slot plyometric-style box stands separately at the right rear. The new layout leaves an open front strip and a genuine lateral gap; all original full geometry, normals, indices, PBR material dictionaries and hierarchy remain unchanged at unit scale under whole-instance translations only. No source components are extracted, shortened, recoloured or counted again. Original finite roller feet and box lower rim seat on the same platform top. Embedded complete source bytes provide provenance, not instructions executed to rebuild an altered version. This juxtaposition is an equipment display, not a combined exercise setup, workout sequence, bicycle loading platform or verified functional pairing. No athlete, bicycle, jumping, rolling, balance, exercise advice, human clearance, grip fit, capacity, load, manufacture, stability, safety capability, rigging, animation or interaction is claimed.",
+  "bounds": {
+    "x": 2.319999933242798,
+    "y": 2.1600000858306885,
+    "z": 0.5350000262260437,
+    "unit": "m"
+  },
+  "triangles": 2428,
+  "materials": 8,
+  "files": {
+    "glb": {
+      "path": "assets/fitness/fitness-whole-three-drum-rollers-and-hand-slot-box-display-bay-scene-01/v1.0.0/model.glb",
+      "size": 227800,
+      "sha256": "7bd32bb4a657d144b6f33a1dea031b3e7d8ab2af35d49c79a936aeb98edb4474"
+    },
+    "blend": {
+      "path": "assets/fitness/fitness-whole-three-drum-rollers-and-hand-slot-box-display-bay-scene-01/v1.0.0/source.blend",
+      "size": 1056380,
+      "sha256": "9ebf4c72f79d7c2e4184b06010c96a73ae6ff56c8d021a4f3d255f52ce2b5fec"
+    },
+    "generator": {
+      "path": "assets/fitness/fitness-whole-three-drum-rollers-and-hand-slot-box-display-bay-scene-01/v1.0.0/generate.py",
+      "size": 77188,
+      "sha256": "cb6e7be3625792f2eae0ce22fc28fd02d28069813af97beaf59be3ac10aa6a79"
+    },
+    "render": {
+      "path": "assets/fitness/fitness-whole-three-drum-rollers-and-hand-slot-box-display-bay-scene-01/v1.0.0/thumbnail.png",
+      "size": 458275,
+      "sha256": "8eac6e99dd810d27869cdbe5ebf02aae1c348ea696ee8014d34df47a5d80f739"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved",
+  "sourceId": "sports-current-dot-originals-20261027"
+}

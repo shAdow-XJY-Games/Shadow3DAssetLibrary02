@@ -1,0 +1,42 @@
+{
+  "id": "public-service-fixed-open-rear-and-four-foot-walking-frame-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "public-service",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Open Rear and Four Foot Walking Frame",
+  "description": "One newly authored complete static nonwheeled walking-frame exterior. Two complete rounded upper U-shaped side frames each continue down to separate front and rear legs, with a whole long grip sleeve on each upper horizontal segment. Each side has one complete low crossbar, and two full front-only crossmembers link the pair of side frames while leaving the entire rear entry side open. Four complete closed flared ground ferrules enclose the four leg ends. All whole numeric geometry is newly authored, not a rollator with wheels removed, not cropped crutches and not an extracted chair frame; no seat, bag, wheel, brake or forearm cuff. Three constant opaque PBR roles, metre units Z up and whole bounds-centred ground datum, one original model zero scenes. Static empty public-service game-art appearance only: no person, actual support or walking function, medical or rehabilitation suitability, disability or hand fit, load, stability, folding, adjustment, certification, manufacture or safe mobility-device use claim. No rigging animation or interaction.",
+  "bounds": {
+    "x": 0.6380000114440918,
+    "y": 0.5180000066757202,
+    "z": 0.8259999752044678,
+    "unit": "m"
+  },
+  "triangles": 2064,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/public-service/public-service-fixed-open-rear-and-four-foot-walking-frame-01/v1.0.0/model.glb",
+      "size": 182764,
+      "sha256": "8976b7311aeb987814d7c203fe836167bb84d2046a960f711c4bb0e7edbe2a6a"
+    },
+    "blend": {
+      "path": "assets/public-service/public-service-fixed-open-rear-and-four-foot-walking-frame-01/v1.0.0/source.blend",
+      "size": 820320,
+      "sha256": "15ab23ed2eb8c23ae1ea6a86b6d75e982ede9060fbe44f766ef7398ab55441ee"
+    },
+    "generator": {
+      "path": "assets/public-service/public-service-fixed-open-rear-and-four-foot-walking-frame-01/v1.0.0/generate.py",
+      "size": 15909,
+      "sha256": "f6c67d6e6284617f5f3461884d925c6884c162cbd43b0eaca96c1d0756cc2e40"
+    },
+    "render": {
+      "path": "assets/public-service/public-service-fixed-open-rear-and-four-foot-walking-frame-01/v1.0.0/thumbnail.png",
+      "size": 487222,
+      "sha256": "945658041a50dcc11b3d0ef035fe35f8bf036fe7721afb313bfccc8a47d61b95"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
