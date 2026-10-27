@@ -1,0 +1,42 @@
+{
+  "id": "music-whole-capped-crook-and-slide-bell-inspection-bay-scene-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "music",
+  "style": "source-preserved-low-poly",
+  "title": "Whole Capped Crook and Slide Bell Inspection Bay",
+  "description": "One static whole-wind-instrument inspection display, one scene and zero new independent models. The entire qualified upright capped-crook instrument stands at the rear-left, retaining its seven open front ports, complete hollow slotted wind cap, lower return and open upturned mouth. The whole qualified twin-slide and flared-bell instrument lies separately to the right and slightly forward on its complete original three-seat carrier; every inner and outer tube, return bow, bell, mouthpiece, brace, collar and support remains intact. Both complete original buffers, POSITION and NORMAL arrays, material dictionaries, face assignments and internal hierarchy stay exact at unit metre scale under translations only. One low finite plain platform is the sole new scene-only geometry, with actual finite contact beneath both original ground soles and a clear lateral interval. This is a static comparison of two different complete wind-body organizations, not a new instrument or the existing three-drum/percussion worktable arrangement. No tubes are combined into a circuit, resized, shortened, recoloured, extracted or counted anew. Small holes and mouthpieces remain subordinate at whole-scene scale. No sound, acoustics, tuning, slide travel, playability, cultural reconstruction, shared working process, instrument compatibility, ergonomic access, load, manufacture, stability or safety capability. No rig, animation or interaction.",
+  "bounds": {
+    "x": 2.0,
+    "y": 0.7599999904632568,
+    "z": 0.7114689946174622,
+    "unit": "m"
+  },
+  "triangles": 24952,
+  "materials": 9,
+  "files": {
+    "glb": {
+      "path": "assets/music/music-whole-capped-crook-and-slide-bell-inspection-bay-scene-01/v1.0.0/model.glb",
+      "size": 2114108,
+      "sha256": "2a46e511260949a4486ca9b0f891c43c458faab08ce6420310601cd64dad9af3"
+    },
+    "blend": {
+      "path": "assets/music/music-whole-capped-crook-and-slide-bell-inspection-bay-scene-01/v1.0.0/source.blend",
+      "size": 3547264,
+      "sha256": "001b8e95148cf572d0f8b35a6e0fa647b5dce12c38fdbe515fdcff8d435b6dba"
+    },
+    "generator": {
+      "path": "assets/music/music-whole-capped-crook-and-slide-bell-inspection-bay-scene-01/v1.0.0/generate.py",
+      "size": 489888,
+      "sha256": "7c436d0ebe62313b19f9c7be558f0350bfdc9fecc07a0110b328dc1ad1730563"
+    },
+    "render": {
+      "path": "assets/music/music-whole-capped-crook-and-slide-bell-inspection-bay-scene-01/v1.0.0/thumbnail.png",
+      "size": 472235,
+      "sha256": "a367e825a2a68f43c6eaf71441a92f20f0c5c46c2fed183172d5ca84e56f3b73"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

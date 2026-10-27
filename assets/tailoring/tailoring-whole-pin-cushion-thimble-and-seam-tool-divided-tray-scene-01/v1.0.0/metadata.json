@@ -1,0 +1,42 @@
+{
+  "id": "tailoring-whole-pin-cushion-thimble-and-seam-tool-divided-tray-scene-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "tailoring",
+  "style": "source-preserved-low-poly",
+  "title": "Whole Pin Cushion Thimble and Seam Tool Divided Tray",
+  "description": "One complete static tailoring hand-tool organizer display, one new scene zero new independent models. The entire qualified eight-gore cushion and all five pins occupy the rear-left bay. The complete qualified hollow blind-dimple thimble occupies the rear-right bay in its original side-resting pose. The entire qualified unequal-fork seam tool lies across the long front bay, including its full grip, shaft, both fork tips and guard bead. One continuous three-bay tray provides an integral floor, four full perimeter rims and a T-shaped divider; this scene-only organizer is not separately counted. All three original GLB buffers, positions, normals, complete PBR and internal hierarchy are unchanged at unit scale, using only whole translations and one exact quarter-turn of the seam tool. No clipping, extracting, scaling, recolouring or repeated model counts. Unlike the earlier undivided two-instrument medical tray, these are three distinct whole sewing props placed inside physically separated rear compartments and a long front channel. Static game-art exhibit only, no cloth workpiece, person, actual sewing workflow, puncture protection, needle/hand fit, cutting action, load, hygiene, manufacture or safety capability. Rigging animation and interaction not made.",
+  "bounds": {
+    "x": 0.3199999928474426,
+    "y": 0.2800000011920929,
+    "z": 0.08160000294446945,
+    "unit": "m"
+  },
+  "triangles": 4808,
+  "materials": 11,
+  "files": {
+    "glb": {
+      "path": "assets/tailoring/tailoring-whole-pin-cushion-thimble-and-seam-tool-divided-tray-scene-01/v1.0.0/model.glb",
+      "size": 339916,
+      "sha256": "f270deb11617a3db861ce7212f90acb3ad70c3c715289b5d23ee7eb8546f9a84"
+    },
+    "blend": {
+      "path": "assets/tailoring/tailoring-whole-pin-cushion-thimble-and-seam-tool-divided-tray-scene-01/v1.0.0/source.blend",
+      "size": 1299456,
+      "sha256": "ed44a1295c34c59255c1a28a84c68d4038794e89af2409c92f2de4c58d5f104c"
+    },
+    "generator": {
+      "path": "assets/tailoring/tailoring-whole-pin-cushion-thimble-and-seam-tool-divided-tray-scene-01/v1.0.0/generate.py",
+      "size": 131849,
+      "sha256": "1bc0b3c293cad3d7a765fbee22e60dde4b80c975bcd26174106f17f8ace30042"
+    },
+    "render": {
+      "path": "assets/tailoring/tailoring-whole-pin-cushion-thimble-and-seam-tool-divided-tray-scene-01/v1.0.0/thumbnail.png",
+      "size": 480391,
+      "sha256": "38c068dc26fd0cfb10005089700ee734e76ba3049b15c004c425cf5720b5862b"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
