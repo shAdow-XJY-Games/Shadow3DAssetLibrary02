@@ -1,0 +1,42 @@
+{
+  "id": "architecture-fixed-sagging-ribbon-deck-and-terminal-anchor-abutments-01",
+  "version": "1.0.0",
+  "category": "architecture",
+  "assetKind": "modular",
+  "theme": "architecture",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Sagging Ribbon Deck and Terminal Anchor Abutments",
+  "description": "One wholly newly authored complete fixed stress-ribbon-inspired bridge display. A single long thin continuous deck descends gently from both terminal abutments into one broad shallow central sag. Two complete dark edge-tendon appearances follow that same deck profile at its lower lateral edges, with no overhead cable route, tower or separate suspender system. Both entire broad tapered terminal anchorage-block exteriors root the full deck ends at ground-based supports. Two full slender following side guards and fourteen whole short upright posts belong to the same complete span. The entire lower central span remains open. Unlike the older suspension footbridge, the deck itself follows the sagging principal-member profile instead of staying level below high tower-top cables and vertical hangers. Unlike a tied arch or fan-stay bridge, there are no upper bows, arch suspenders, high pylon or radiating stays. All deck, tendon, guard and abutment coordinates are newly authored together; no prior bridge, cable, plank or anchor mesh imported or extracted. This is a whole new low-profile deck/edge-tendon/terminal-anchor organization, not an old bridge with its towers deleted. Four opaque constant untextured PBR roles, metres native Z up and complete horizontal bounds-centred ground origin, one architectural model zero scenes. Broad structural-category-inspired artwork only; the chosen shallow parabolic elevation and deliberately embedded fixed roots are not a solved tension system or real tendon detailing. No internal prestressing, cable equilibrium, force, anchorage design, deflection, vibration, traffic, pedestrians, handrail protection, accessibility, traversability, approach alignment, navigation, load, installation, construction method, manufacture or civil safety capability made or verified. No terrain, water, person, rigging, animation or interaction.",
+  "bounds": {
+    "x": 9.1,
+    "y": 2.44,
+    "z": 2.585098972201378,
+    "unit": "m"
+  },
+  "triangles": 4404,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/architecture/architecture-fixed-sagging-ribbon-deck-and-terminal-anchor-abutments-01/v1.0.0/model.glb",
+      "size": 233348,
+      "sha256": "3c1dc53b0ad6a4f8c62b974b67ee0cc068e3ac23f05427872d708c472f9ce358"
+    },
+    "blend": {
+      "path": "assets/architecture/architecture-fixed-sagging-ribbon-deck-and-terminal-anchor-abutments-01/v1.0.0/source.blend",
+      "size": 875328,
+      "sha256": "c53a647910da51da098cd64430b130611875b8e2be37706f37d59527b8209888"
+    },
+    "generator": {
+      "path": "assets/architecture/architecture-fixed-sagging-ribbon-deck-and-terminal-anchor-abutments-01/v1.0.0/generate.py",
+      "size": 12051,
+      "sha256": "7259561fbdb1744701cbf56b75569ad68e890492a6a8ed4661607beab3fcb682"
+    },
+    "render": {
+      "path": "assets/architecture/architecture-fixed-sagging-ribbon-deck-and-terminal-anchor-abutments-01/v1.0.0/thumbnail.png",
+      "size": 368786,
+      "sha256": "3db417805ae02fd5764e6b9bd268356ae5ac1ab02e7b11f3512355a384d07dea"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
