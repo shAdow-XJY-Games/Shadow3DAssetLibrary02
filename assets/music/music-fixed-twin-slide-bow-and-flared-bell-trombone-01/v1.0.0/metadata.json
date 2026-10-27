@@ -1,0 +1,42 @@
+{
+  "id": "music-fixed-twin-slide-bow-and-flared-bell-trombone-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "music",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Twin Slide Bow and Flared Bell Trombone",
+  "description": "One newly authored complete trombone-inspired instrument appearance with its own subordinate three-seat resting carrier. Two long parallel hollow outer slide legs join through one continuous hollow U return bow, surrounding the ends of two thinner visible nickel inner-slide tubes in a fixed partly extended pose. A separate whole rear return branch curves back and expands along a long shoulder into a genuine open flared bell; a whole open cup-and-throat mouthpiece terminates the opposite lead tube. Complete inner and outer slide braces, one bell branch crossbrace and two finite sleeve collars visually connect the instrument. One newly authored grounded carrier supports three tube seats without becoming an additional model. Every numeric route and component shape is new, not old trumpet piston or horn rotary housings removed and rescaled. One model zero scenes, four opaque PBR roles, metres and native Z up. Static stylized exterior category only, not a branded or historical instrument reconstruction, complete acoustic circuit, working slide or tuning system, bore or pitch accuracy, playability, manufacture, handling or safety certification. No valves, rig, animation, sound or interaction.",
+  "bounds": {
+    "x": 1.1675000190734863,
+    "y": 0.38999998569488525,
+    "z": 0.3449999988079071,
+    "unit": "m"
+  },
+  "triangles": 8240,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/music/music-fixed-twin-slide-bow-and-flared-bell-trombone-01/v1.0.0/model.glb",
+      "size": 703976,
+      "sha256": "0fad16bca4fc9fab201ebb61cbd5d5c298aab40b2f5f5e5bd22ac41cfb767df2"
+    },
+    "blend": {
+      "path": "assets/music/music-fixed-twin-slide-bow-and-flared-bell-trombone-01/v1.0.0/source.blend",
+      "size": 1530560,
+      "sha256": "82130ece9ec25ee699754da7ba8cb258c9f385be06872643c7922f759826907e"
+    },
+    "generator": {
+      "path": "assets/music/music-fixed-twin-slide-bow-and-flared-bell-trombone-01/v1.0.0/generate.py",
+      "size": 14558,
+      "sha256": "2ca601e66edfbac1080ceb57e32ed4469c81fb050da27f2e53486601e05d9540"
+    },
+    "render": {
+      "path": "assets/music/music-fixed-twin-slide-bow-and-flared-bell-trombone-01/v1.0.0/thumbnail.png",
+      "size": 506512,
+      "sha256": "7cf9f24d678c47cbbe4dbfa305b8428665306da74c13192f4fd2a798bffb86e4"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "architecture-fixed-linked-vertical-fins-and-offset-tie-bar-bay-01",
+  "version": "1.0.0",
+  "category": "architecture",
+  "assetKind": "modular",
+  "theme": "architecture",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Linked Vertical Fins and Offset Tie Bar Bay",
+  "description": "One complete newly authored static linked-fin architectural bay. A whole welded continuous rectangular casing stands on two broad deep feet and retains six complete tall finite-thickness elliptical-section vanes at one fixed oblique angle. Each vane has its own entire vertical axle entering both crossrails. Below the vanes, six full offset crank arms end in complete proud pins on one continuous rear common tie bar, making the parallel-axis coupling appearance visible through the lower gap. Unlike the three-leaf zigzag louver folding screen this is one rigid casing with separate vertical vane axes and an exposed common link, not hinged whole panels containing many horizontal slats. The full frame, six rounded fins, shafts and lower coupling geometry are newly authored together; no old screen, revolving-door wing, shelf or window mesh imported. Four opaque constant untextured PBR roles, metre-style Z up and centred full horizontal bounds over full ground feet, one complete architectural prop zero scenes. Static sunshade-inspired appearance only: gaps remain, and the illustrated rod intersections are not working bearings or calibrated linkage joints. No synchronized movement, travel range, solar control, privacy, ventilation performance, weather sealing, host-wall fit, load, stability, manufacture, installation or safety capability made or verified. No rigging, animation or interaction.",
+  "bounds": {
+    "x": 5.3999999999999995,
+    "y": 1.1,
+    "z": 3.4,
+    "unit": "m"
+  },
+  "triangles": 1508,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/architecture/architecture-fixed-linked-vertical-fins-and-offset-tie-bar-bay-01/v1.0.0/model.glb",
+      "size": 75512,
+      "sha256": "b6e005941226e40f0da7fb25891b359c9d1ca241b3d94e362b63c2e2866b3ef7"
+    },
+    "blend": {
+      "path": "assets/architecture/architecture-fixed-linked-vertical-fins-and-offset-tie-bar-bay-01/v1.0.0/source.blend",
+      "size": 751368,
+      "sha256": "8b724de8e9cc385fc8590699351d3f781086f174b86a458735e7835bc4c98e10"
+    },
+    "generator": {
+      "path": "assets/architecture/architecture-fixed-linked-vertical-fins-and-offset-tie-bar-bay-01/v1.0.0/generate.py",
+      "size": 11442,
+      "sha256": "128826223a64e46b587f5bdea42a32fb62dbb11f533aa348fe845419a1a3f961"
+    },
+    "render": {
+      "path": "assets/architecture/architecture-fixed-linked-vertical-fins-and-offset-tie-bar-bay-01/v1.0.0/thumbnail.png",
+      "size": 450629,
+      "sha256": "6feecf42b4ecbd0a317a7d9a561eecfeceb5e06023cd2346fa694b9aeb9b7154"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "education-whole-ribbed-pod-and-layered-bud-inspection-tray-scene-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "education",
+  "style": "source-preserved-low-poly",
+  "title": "Whole Ribbed Pod and Layered Bud Inspection Tray",
+  "description": "One static tabletop inspection arrangement, one scene and zero new independent models. The complete accepted cacao pod rests on the left of a whole original shallow formed-metal baking tray; the complete accepted artichoke bud stands on its own finite stalk end on the right. Both whole natural-scale props sit directly on the original 3 mm inner tray floor with clearance from the rim and each other. The entire tray rests on one low scene-only rectangular display slab. All three original units retain their complete meshes, every oriented triangle and normal buffer, full material dictionaries, internal hierarchy and metre scale; only whole-instance translations and the scene-only slab are new. No fruit, leaf, bract, stalk or tray part is extracted, resized, recoloured or counted again. The clear front tray strip and interval between the two objects support a simple visual comparison of differently shaped specimens. This is not a recipe, baking operation, food handling demonstration, botanical relationship, exact anatomy, biological process, laboratory apparatus, load or stability certification. No text labels, rig, animation or interaction are made or claimed.",
+  "bounds": {
+    "x": 0.7400000095367432,
+    "y": 0.41999998688697815,
+    "z": 0.1787872314453125,
+    "unit": "m"
+  },
+  "triangles": 9256,
+  "materials": 18,
+  "files": {
+    "glb": {
+      "path": "assets/education/education-whole-ribbed-pod-and-layered-bud-inspection-tray-scene-01/v1.0.0/model.glb",
+      "size": 661392,
+      "sha256": "f141e0d37599d9d515f2d1d6cd182f80e940eafd6253e7bf777972596c535b6d"
+    },
+    "blend": {
+      "path": "assets/education/education-whole-ribbed-pod-and-layered-bud-inspection-tray-scene-01/v1.0.0/source.blend",
+      "size": 251588,
+      "sha256": "079656404d75c0ee18c3acdaae92c3b4a101e7c92b7256f14ca6df326b9f7356"
+    },
+    "generator": {
+      "path": "assets/education/education-whole-ribbed-pod-and-layered-bud-inspection-tray-scene-01/v1.0.0/generate.py",
+      "size": 298520,
+      "sha256": "996c0b75543d958883e10abdc01dd50d4667e54d640b0636cba4ee5cbb7c0690"
+    },
+    "render": {
+      "path": "assets/education/education-whole-ribbed-pod-and-layered-bud-inspection-tray-scene-01/v1.0.0/thumbnail.png",
+      "size": 481213,
+      "sha256": "1f909cb016fce6a412af11bfdc243c8052c1f2b4f122d3274ef101607ea75e1e"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
