@@ -1,0 +1,42 @@
+{
+  "id": "medical-whole-cuff-dial-and-binaural-instrument-tray-scene-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "medical",
+  "style": "source-preserved-low-poly",
+  "title": "Whole Cuff Dial and Binaural Instrument Tray",
+  "description": "One complete static medical-instrument display tray, one new scene zero new independent models. The entire qualified open cuff, blank gauge, bulb and both hoses sit on the left. The complete qualified binaural stethoscope lies separately on the right, retaining both bent ear tubes, soft tips, Y branches, long chest tube and whole chestpiece. Both whole original models rest on one continuous four-rimmed shallow tray with clear lateral separation and full footprint margins. The tray is scene-only environment and not separately counted. Exact original GLB buffers, positions, normals, material dictionaries, face assignments and internal hierarchy are preserved under whole unit-scale translations only; no crop, extraction, scale, recolour or model re-count. Unlike room-scale dental furniture or a salon tool tray, this is a complete two-instrument exhibit with cuff and binaural hose silhouettes. Static decorative game-art display only, no patient, person, sound or pressure measurement, values, diagnosis, treatment, clinical workflow, bodily fit, hygiene, sterility, loading, manufacture or safe medical-device use. No rigging animation or interaction.",
+  "bounds": {
+    "x": 0.7200000286102295,
+    "y": 0.47999998927116394,
+    "z": 0.08799999952316284,
+    "unit": "m"
+  },
+  "triangles": 4508,
+  "materials": 9,
+  "files": {
+    "glb": {
+      "path": "assets/medical/medical-whole-cuff-dial-and-binaural-instrument-tray-scene-01/v1.0.0/model.glb",
+      "size": 397308,
+      "sha256": "13acca9ced2e72dc8daf1f8ff478b8c54637e599f4f0572d14c203d03e1c0db0"
+    },
+    "blend": {
+      "path": "assets/medical/medical-whole-cuff-dial-and-binaural-instrument-tray-scene-01/v1.0.0/source.blend",
+      "size": 1280976,
+      "sha256": "40692a6ad83dc4b0bab39a01e82201ecec2e1204f623f9e35abb531308cd9fe4"
+    },
+    "generator": {
+      "path": "assets/medical/medical-whole-cuff-dial-and-binaural-instrument-tray-scene-01/v1.0.0/generate.py",
+      "size": 126651,
+      "sha256": "65a9d01354d545535c0134f256a07c613571129a6b23f499d9b0aed544d1f78d"
+    },
+    "render": {
+      "path": "assets/medical/medical-whole-cuff-dial-and-binaural-instrument-tray-scene-01/v1.0.0/thumbnail.png",
+      "size": 466096,
+      "sha256": "2417dbdf15f9a79c4c47ce4339eff6ee5622324c08070e09ffd487bf079e515c"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
