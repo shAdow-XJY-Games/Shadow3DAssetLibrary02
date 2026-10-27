@@ -1,0 +1,43 @@
+{
+  "id": "sports-whole-luge-fin-and-curved-basket-exhibit-bay-scene-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "sports",
+  "style": "source-preserved-low-poly",
+  "title": "Luge Fin And Curved Basket Exhibit Bay",
+  "description": "One original static sports-equipment exhibit bay, zero new models and one scene. The entire previously accepted contoured-pan luge, wide-fluke twin-pocket monofin and curved catching basket are preserved at original unit scale with every original closed part and opaque PBR value, translated only. Three distinct finite height-varied plinths organize the full equipment forms; a finite floor, rear wall and three blank physical label tabs make an open-front viewing bay with clear foreground aisle. No old object is split, recoloured, resized or counted again as a new prop. All three full original generators and exact whole GLB hashes are embedded and checked before composition. Empty illustrative exhibit only: no wearer, routes/accessibility certification, operating sport, equipment compatibility, plinth load, stability, manufacture or safety capability.",
+  "bounds": {
+    "x": 4.199999809265137,
+    "y": 3.4499999284744263,
+    "z": 1.350000023841858,
+    "unit": "m"
+  },
+  "triangles": 4652,
+  "materials": 15,
+  "files": {
+    "glb": {
+      "path": "assets/sports/sports-whole-luge-fin-and-curved-basket-exhibit-bay-scene-01/v1.0.0/model.glb",
+      "size": 428952,
+      "sha256": "41db556681e41dd2a642866df03b983aaa0a9c71aae646f0333e1ea70c38d706"
+    },
+    "blend": {
+      "path": "assets/sports/sports-whole-luge-fin-and-curved-basket-exhibit-bay-scene-01/v1.0.0/source.blend",
+      "size": 1518892,
+      "sha256": "875ae000b352f6f61f58b0a9bdb846a6b2be182b0e9c85a41e6d928f3c9f579c"
+    },
+    "generator": {
+      "path": "assets/sports/sports-whole-luge-fin-and-curved-basket-exhibit-bay-scene-01/v1.0.0/generate.py",
+      "size": 45839,
+      "sha256": "4dd5a76977cc32da4865bc7a8b81a64aa57aa68c05d04058b6c9c474938a28dc"
+    },
+    "render": {
+      "path": "assets/sports/sports-whole-luge-fin-and-curved-basket-exhibit-bay-scene-01/v1.0.0/thumbnail.png",
+      "size": 490832,
+      "sha256": "8c72a38e45a215d5df0bc15cf9a6b53fcbce35713f0e7c9ad8138bef466c5435"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved",
+  "sourceId": "sports-current-dot-originals-20261027"
+}
