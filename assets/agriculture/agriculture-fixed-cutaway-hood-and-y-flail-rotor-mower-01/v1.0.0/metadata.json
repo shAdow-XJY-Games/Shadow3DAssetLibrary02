@@ -1,0 +1,42 @@
+{
+  "id": "agriculture-fixed-cutaway-hood-and-y-flail-rotor-mower-01",
+  "version": "1.0.0",
+  "category": "modular",
+  "assetKind": "prop",
+  "theme": "agriculture",
+  "style": "warm-handcrafted-village",
+  "title": "Fixed Cutaway Hood and Y Flail Rotor Mower",
+  "description": "One newly authored whole fixed tractor-mounted flail-mower-style implement in a deliberate rear-cutaway display. Two complete curved end cheeks and broad ground skids carry one long transverse rotor with twelve complete coarse blunt Y-shaped flail forms. A thick upper/front cylindrical hood has a deliberately open rear sector to expose the rotor rather than pretending to be an operating guard. A full separate grounded rear roller, two support arms, raised triangular attachment-style frame with three genuinely open eyes, upper gearbox-shaped case, exposed lateral shaft, forward input stub and closed outer side-drive cover complete the whole implement. No tractor, crop, detachable spare parts, engine, fuel tank or push handle. All geometry coordinates newly authored; no old mower or tiller geometry imported. Not the helical-strip push reel mower or walk-behind hooked-tine tiller resized. One model zero scenes. Static cutaway art only: no blade sharpness, hinged flail swing, mowing, rotation, transmission, input coupling fit, guard effectiveness, load, engineering, manufacture or safety capability made or verified. Rigging, animation and interaction not made.",
+  "bounds": {
+    "x": 2.305000067,
+    "y": 1.590000033,
+    "z": 1.475000024,
+    "unit": "m"
+  },
+  "triangles": 1980,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/agriculture/agriculture-fixed-cutaway-hood-and-y-flail-rotor-mower-01/v1.0.0/model.glb",
+      "size": 108196,
+      "sha256": "251f23318a57ca69fc99f1e2bcf4d76c8ce0bf1ad29b3b963baf62dd0c741ec6"
+    },
+    "blend": {
+      "path": "assets/agriculture/agriculture-fixed-cutaway-hood-and-y-flail-rotor-mower-01/v1.0.0/source.blend",
+      "size": 762164,
+      "sha256": "fbc181454971cbc57abec3f72120b919fbd401cf79af9ada3e91cffb25ba0e36"
+    },
+    "generator": {
+      "path": "assets/agriculture/agriculture-fixed-cutaway-hood-and-y-flail-rotor-mower-01/v1.0.0/generate.py",
+      "size": 32976,
+      "sha256": "4fa35def86e80c2e057f7e0af60d974aee2ff67b2fda53dcd9da6f4ff70b276e"
+    },
+    "render": {
+      "path": "assets/agriculture/agriculture-fixed-cutaway-hood-and-y-flail-rotor-mower-01/v1.0.0/thumbnail.png",
+      "size": 535005,
+      "sha256": "0ba4362f242fa0afe82ea30c2783cead98ef9b0dd8f243e29276e34e6802b50c"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

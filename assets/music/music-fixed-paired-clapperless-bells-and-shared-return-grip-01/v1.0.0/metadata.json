@@ -1,0 +1,42 @@
+{
+  "id": "music-fixed-paired-clapperless-bells-and-shared-return-grip-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "music",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Paired Clapperless Bells and Shared Return Grip",
+  "description": "One newly authored complete static clapperless double-bell percussion appearance. Two unequal whole oval tapered iron-look shells have real open annular mouths, complete narrow blind backs and empty cavities without clappers. One continuous rounded return grip spans behind both chambers and seats into both backs, making a single joined handheld-instrument form. Each chamber lies on a full finite lower facet; no stand is added. Both complete chamber shapes and the joining grip are generated from new numerical geometry, not copied or resized cowbell/handbell instances, and count together as one whole model zero scenes. Four opaque PBR roles, metre scale and native Z up. Broad double-bell category inspiration only, not a specific regional or sacred object, branded product or historical replica. No beater, ringing simulation, tuning, sound, vibration, joint flexibility, hand fit, stability, manufacture or safety capability. No rig, animation or interaction.",
+  "bounds": {
+    "x": 0.20131558179855347,
+    "y": 0.3310000002384186,
+    "z": 0.06741824746131897,
+    "unit": "m"
+  },
+  "triangles": 1508,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/music/music-fixed-paired-clapperless-bells-and-shared-return-grip-01/v1.0.0/model.glb",
+      "size": 132500,
+      "sha256": "5ee5d7a2aa4164be0f011f1d6e50cc50a2747633e7ef9a7bc73b9e9c1f4a7060"
+    },
+    "blend": {
+      "path": "assets/music/music-fixed-paired-clapperless-bells-and-shared-return-grip-01/v1.0.0/source.blend",
+      "size": 738944,
+      "sha256": "b1460713da3480bf2bf0a9521ba11893baa0889b382949b0cfa019253db19945"
+    },
+    "generator": {
+      "path": "assets/music/music-fixed-paired-clapperless-bells-and-shared-return-grip-01/v1.0.0/generate.py",
+      "size": 12433,
+      "sha256": "190779061931ecd59796e34b5a20cc527c2b90335bd021d6bae54687494a78d2"
+    },
+    "render": {
+      "path": "assets/music/music-fixed-paired-clapperless-bells-and-shared-return-grip-01/v1.0.0/thumbnail.png",
+      "size": 477589,
+      "sha256": "afed6acf53298013af3a1fce70358b5cf3eb091a3adc1bacb85771694067c862"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

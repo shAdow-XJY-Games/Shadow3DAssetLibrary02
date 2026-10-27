@@ -1,0 +1,43 @@
+{
+  "id": "sports-whole-rebounder-and-lacrosse-side-bench-preparation-bay-scene-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "sports",
+  "style": "source-preserved-low-poly",
+  "title": "Rebounder And Lacrosse Side Bench Preparation Bay",
+  "description": "One static sports-equipment preparation bay, zero new models and one scene. Two complete accepted original models retain their entire geometry, metre scale and opaque PBR values: a tilted mesh rebounder stands at the left on its original four pads, while a whole lacrosse-inspired stick lies along the separate right-hand braced bench. Two small finite bench-top supports seat the original shaft without altering it. One new finite floor and complete subordinate braced bench leave an open front approach and a positive interval between the whole props. Embedded complete original source and whole-GLB hashes are checked before translation-only composition. No extracted fragments, scaled replacements, changed original materials or repeated model count. Empty illustrative static layout only, no training sequence, interaction, ball return, stick use, loading, fit, regulation, manufacture or safety claim.",
+  "bounds": {
+    "x": 2.6999999284744263,
+    "y": 2.340000033378601,
+    "z": 1.4081782102584839,
+    "unit": "m"
+  },
+  "triangles": 4268,
+  "materials": 11,
+  "files": {
+    "glb": {
+      "path": "assets/sports/sports-whole-rebounder-and-lacrosse-side-bench-preparation-bay-scene-01/v1.0.0/model.glb",
+      "size": 440596,
+      "sha256": "4335136ef25c8fa00802f558dad9041673ec669c408aed697e6f1e9dcb31919a"
+    },
+    "blend": {
+      "path": "assets/sports/sports-whole-rebounder-and-lacrosse-side-bench-preparation-bay-scene-01/v1.0.0/source.blend",
+      "size": 1670076,
+      "sha256": "69bd104d65fc317b3609fa5fcfcb617106d40e75efbdfe294e4af8d768ff6c34"
+    },
+    "generator": {
+      "path": "assets/sports/sports-whole-rebounder-and-lacrosse-side-bench-preparation-bay-scene-01/v1.0.0/generate.py",
+      "size": 37291,
+      "sha256": "32b5a724337261d7b917e117ae280b63def2af981507a543bb09b341d78a95b3"
+    },
+    "render": {
+      "path": "assets/sports/sports-whole-rebounder-and-lacrosse-side-bench-preparation-bay-scene-01/v1.0.0/thumbnail.png",
+      "size": 522996,
+      "sha256": "a30a65d9816619f59a06c24b234a324b52e029785945a6bf2439cc189f301f17"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved",
+  "sourceId": "sports-current-dot-originals-20261027"
+}
