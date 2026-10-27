@@ -2329,6 +2329,11 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary02",
       "commit": "e1683e36ecbdab107508c1b3cb596868a6ba5ef6"
+    },
+    "original-qualified-batch-1768-volume02-20261025": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary02",
+      "commit": "17388a2aa5fa29b654b44978366a5302f5a03022"
     }
   },
   "assets": [
@@ -78269,6 +78274,92 @@
       "status": "verified",
       "license": "All rights reserved",
       "sourceId": "original-qualified-batch-1766-volume02-20261025"
+    },
+    {
+      "id": "music-fixed-bound-drone-and-two-five-port-reed-pipes-display-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "music",
+      "style": "S01-clean-geometric",
+      "title": "Fixed Bound Drone and Two Five Port Reed Pipes Display",
+      "description": "One newly authored complete launeddas-inspired three-reed-pipe display. One full long unperforated drone and one shorter five-port chanter are joined by two complete finite binding bands; a third shorter five-port chanter remains laterally separate on the same whole low two-rail display carrier. All three whole cane-looking tubes have continuous open bores, open terminal mouths and narrowed short sockets. Each socket has a genuine upper window and one complete fixed lifted tongue exterior rooted at its rear edge. The ten main finger apertures are real quadrangular openings through full finite wall thickness, not painted discs. All numeric tube surfaces, hole locations, sockets, tongue shapes, bindings and carrier are new. The bound pair plus independent five-port pipe organization differs from seven stopped panpipes, a central bag with five attached pipes and a cluster over a socketed windchest; it is not a pipe-count alteration of those models. Nine whole closed editable meshes, four constant opaque PBR roles, metres native Z up and finite complete display-carrier ground sole. One whole instrument-display prop zero scenes; the carrier is not a separate counted asset. Broad Sardinian instrument inspiration only, deliberately horizontal inspection display rather than playing pose or historically exact cuntzertu. No sound, tuning, calibrated fingering, actual vibrating reeds, wax, continuous playable air path, breath technique, bodily contact, articulation, pipe tying performance, stability, material identity, manufacture or safety capability. No rig, animation or interaction.",
+      "bounds": {
+        "x": 0.15000000596046448,
+        "y": 0.675000011920929,
+        "z": 0.04450000077486038,
+        "unit": "m"
+      },
+      "triangles": 5460,
+      "materials": 4,
+      "files": {
+        "glb": {
+          "path": "assets/music/music-fixed-bound-drone-and-two-five-port-reed-pipes-display-01/v1.0.0/model.glb",
+          "size": 465856,
+          "sha256": "7d46fad3b30dcbc4a0cdfa36311df37c02ed7ebbd8902b916b021711779215aa"
+        },
+        "blend": {
+          "path": "assets/music/music-fixed-bound-drone-and-two-five-port-reed-pipes-display-01/v1.0.0/source.blend",
+          "size": 1209728,
+          "sha256": "75e60bf90c5c0b7e53561fe80d7dcbbd45e42a11548226fe382f879c0c08df36"
+        },
+        "generator": {
+          "path": "assets/music/music-fixed-bound-drone-and-two-five-port-reed-pipes-display-01/v1.0.0/generate.py",
+          "size": 14171,
+          "sha256": "789b430d5ea2fa43eaf2f8c6acf8de1250496f2afb18286a92259aaa45646942"
+        },
+        "render": {
+          "path": "assets/music/music-fixed-bound-drone-and-two-five-port-reed-pipes-display-01/v1.0.0/thumbnail.png",
+          "size": 507594,
+          "sha256": "aa03232e634c829cab37ba6f2f36fafd6c47c9d38f4afd21eeda886d1fd2849d"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1768-volume02-20261025"
+    },
+    {
+      "id": "architecture-fixed-sagging-ribbon-deck-and-terminal-anchor-abutments-01",
+      "version": "1.0.0",
+      "category": "architecture",
+      "assetKind": "modular",
+      "theme": "architecture",
+      "style": "S01-clean-geometric",
+      "title": "Fixed Sagging Ribbon Deck and Terminal Anchor Abutments",
+      "description": "One wholly newly authored complete fixed stress-ribbon-inspired bridge display. A single long thin continuous deck descends gently from both terminal abutments into one broad shallow central sag. Two complete dark edge-tendon appearances follow that same deck profile at its lower lateral edges, with no overhead cable route, tower or separate suspender system. Both entire broad tapered terminal anchorage-block exteriors root the full deck ends at ground-based supports. Two full slender following side guards and fourteen whole short upright posts belong to the same complete span. The entire lower central span remains open. Unlike the older suspension footbridge, the deck itself follows the sagging principal-member profile instead of staying level below high tower-top cables and vertical hangers. Unlike a tied arch or fan-stay bridge, there are no upper bows, arch suspenders, high pylon or radiating stays. All deck, tendon, guard and abutment coordinates are newly authored together; no prior bridge, cable, plank or anchor mesh imported or extracted. This is a whole new low-profile deck/edge-tendon/terminal-anchor organization, not an old bridge with its towers deleted. Four opaque constant untextured PBR roles, metres native Z up and complete horizontal bounds-centred ground origin, one architectural model zero scenes. Broad structural-category-inspired artwork only; the chosen shallow parabolic elevation and deliberately embedded fixed roots are not a solved tension system or real tendon detailing. No internal prestressing, cable equilibrium, force, anchorage design, deflection, vibration, traffic, pedestrians, handrail protection, accessibility, traversability, approach alignment, navigation, load, installation, construction method, manufacture or civil safety capability made or verified. No terrain, water, person, rigging, animation or interaction.",
+      "bounds": {
+        "x": 9.1,
+        "y": 2.44,
+        "z": 2.585098972201378,
+        "unit": "m"
+      },
+      "triangles": 4404,
+      "materials": 4,
+      "files": {
+        "glb": {
+          "path": "assets/architecture/architecture-fixed-sagging-ribbon-deck-and-terminal-anchor-abutments-01/v1.0.0/model.glb",
+          "size": 233348,
+          "sha256": "3c1dc53b0ad6a4f8c62b974b67ee0cc068e3ac23f05427872d708c472f9ce358"
+        },
+        "blend": {
+          "path": "assets/architecture/architecture-fixed-sagging-ribbon-deck-and-terminal-anchor-abutments-01/v1.0.0/source.blend",
+          "size": 875328,
+          "sha256": "c53a647910da51da098cd64430b130611875b8e2be37706f37d59527b8209888"
+        },
+        "generator": {
+          "path": "assets/architecture/architecture-fixed-sagging-ribbon-deck-and-terminal-anchor-abutments-01/v1.0.0/generate.py",
+          "size": 12051,
+          "sha256": "7259561fbdb1744701cbf56b75569ad68e890492a6a8ed4661607beab3fcb682"
+        },
+        "render": {
+          "path": "assets/architecture/architecture-fixed-sagging-ribbon-deck-and-terminal-anchor-abutments-01/v1.0.0/thumbnail.png",
+          "size": 368786,
+          "sha256": "3db417805ae02fd5764e6b9bd268356ae5ac1ab02e7b11f3512355a384d07dea"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1768-volume02-20261025"
     }
   ]
 }
