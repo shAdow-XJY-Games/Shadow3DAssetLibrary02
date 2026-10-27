@@ -1,0 +1,43 @@
+{
+  "id": "coral-reef-whole-twin-frame-mask-and-open-tube-equipment-tray-scene-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "coral-reef",
+  "style": "source-preserved-low-poly",
+  "title": "Whole Twin Frame Mask And Open Tube Equipment Tray",
+  "description": "One static mask-and-snorkel equipment-tray exhibit, zero new models and one scene. A whole qualified twin-frame diving-mask exterior rests at the left, including both opaque illustrative lens inserts, complete flared skirt, nose pocket, both buckles and full rear band. The entire qualified long open snorkel with lower bend, hollow mouthpiece, two blunt tabs and whole keeper rests separately at the right. All original raw GLB buffers, oriented triangles, normals, PBR dictionaries and internal hierarchy are preserved at unit scale under whole-object translations only. Complete original source bytes are embedded for unexecuted provenance. One newly authored continuous shallow three-rim tray provides a finite floor and open front, with separate actual finite support patches below each complete unit and a real lateral gap. The tray is scene-only environment, not a separately counted model. No original part is removed, enlarged, recoloured or used to support the other. This is an empty static equipment comparison/display, not a fitted kit, breathing circuit, clinical setup or demonstrated diving workflow. Opaque lens inserts remain non-transmitting. No wearer, water, optical fidelity, face fit, bite fit, air or fluid flow, sealing, underwater suitability, assembly compatibility, actual use, manufacture, loading, equilibrium, physical stability or safety capability. No rigging, animation or interaction.",
+  "bounds": {
+    "x": 0.8199999928474426,
+    "y": 0.6399999856948853,
+    "z": 0.17800000309944153,
+    "unit": "m"
+  },
+  "triangles": 2440,
+  "materials": 8,
+  "files": {
+    "glb": {
+      "path": "assets/coral-reef/coral-reef-whole-twin-frame-mask-and-open-tube-equipment-tray-scene-01/v1.0.0/model.glb",
+      "size": 195496,
+      "sha256": "e28fe27c2fe4f3d2de5bb8ac41f0556ad8faef3c977c0efcb8de874f4e02f01a"
+    },
+    "blend": {
+      "path": "assets/coral-reef/coral-reef-whole-twin-frame-mask-and-open-tube-equipment-tray-scene-01/v1.0.0/source.blend",
+      "size": 983860,
+      "sha256": "fd11fbf94ebd461026ee73945156c32d8ba8fd89ca42eb25c3d00ff300142d85"
+    },
+    "generator": {
+      "path": "assets/coral-reef/coral-reef-whole-twin-frame-mask-and-open-tube-equipment-tray-scene-01/v1.0.0/generate.py",
+      "size": 89719,
+      "sha256": "42a01333a021322cb86c1ed19a150d4f0e7efb9884e2185726763704d74bcc67"
+    },
+    "render": {
+      "path": "assets/coral-reef/coral-reef-whole-twin-frame-mask-and-open-tube-equipment-tray-scene-01/v1.0.0/thumbnail.png",
+      "size": 433716,
+      "sha256": "b02126489cc5a530abb1bf257549ebd497af171f5b89bffd42549b33167a7a1c"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved",
+  "sourceId": "sports-current-dot-originals-20261027"
+}
