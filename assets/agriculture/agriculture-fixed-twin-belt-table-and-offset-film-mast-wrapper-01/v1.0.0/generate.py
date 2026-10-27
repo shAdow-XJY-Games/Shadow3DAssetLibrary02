@@ -118,7 +118,7 @@ for side in[-1,1]:
  bobbin='WholeVerticalSideBaleBobbin'+str(side);cylinder_z(bobbin,(side*.92,0),1.25,1.53,.075,1,'Whole fixed vertical side guide bobbin, not an active bale contact proof',24);LINKS.append((bobbin,arm,[(side*.916,0,1.265)]))
 # Complete offset dispenser mast on a chassis outrigger, not the floor pallet-wrapper mast.
 outrigger='WholeRearMastOutrigger';box(outrigger,(.46,.69,.37),(1.24,.86,.53),0,'Whole chassis-to-mast lateral outrigger');LINKS.append((outrigger,'WholeChassisSideBeam1',[(.52,.76,.44)]))
-mast='WholeOffsetFilmDispenserMast';box(mast,(1.10,.69,.46),(1.23,.84,2.10),0,'Whole offset vertical dispenser mast exterior, no lifting mechanism');LINKS.append((mast,outrigger,[(1.16,.76,.50)]))
+mast='WholeOffsetFilmDispenserMast';box(mast,(1.10,.70,.46),(1.23,.84,2.10),0,'Whole offset vertical dispenser mast exterior, no lifting mechanism');LINKS.append((mast,outrigger,[(1.16,.76,.50)]))
 for tag,z0,z1 in[('Lower',1.17,1.26),('Upper',1.97,2.06)]:
  bracket='WholeDispenserBracket'+tag;box(bracket,(.83,.39,z0),(1.22,.82,z1),0,'Whole horizontal bracket joining mast to roll and guide spindles');LINKS.append((bracket,mast,[(1.16,.75,(z0+z1)/2)]))
 spindle='WholeFilmRollSpindle';rod(spindle,(1.02,.61,1.20),(1.02,.61,2.03),.031,2,'Whole fixed film-roll spindle exterior',16)
@@ -142,7 +142,7 @@ def measure_basic_geometry(vertices,triangles=None):
  assert all(abs(max(p[i]for p in allv)+min(p[i]for p in allv))<=4e-7 for i in[0,1])
  return dict(review_scope='basic whole mesh count, finite bounds, ground support and centre only; no wrapping-domain proof',mesh_count=len(vertices),static_empty_bale_wrapper_visual_only=True)
 FOCUS=(0,0,1.02);ORTHO=4.15;WIRE_THICKNESS=.0016
-CAMERAS={'thumbnail':(-4.5,-6,4.0),'qa-front':(0,-5,3),'qa-side':(5,0,3),'qa-top':(0,0,5),'qa-back':(0,5,3),'qa-wireframe':(-4.5,-6,4.0),'gray-front3q':(-4.5,-6,4.0),'gray-back3q':(4.5,6,4.0),'silhouette-128-front':(0,-5,3),'silhouette-128-side':(5,0,3)};CAMERA_SCALES={}
+CAMERAS={'thumbnail':(4.5,-6,4.9),'qa-front':(0,-5,3),'qa-side':(5,0,3),'qa-top':(0,0,5),'qa-back':(0,5,3),'qa-wireframe':(-4.5,-6,4.0),'gray-front3q':(-4.5,-6,4.0),'gray-back3q':(4.5,6,4.0),'silhouette-128-front':(0,-5,3),'silhouette-128-side':(5,0,3)};CAMERA_SCALES={}
 # BLENDER PHASE
 
 
