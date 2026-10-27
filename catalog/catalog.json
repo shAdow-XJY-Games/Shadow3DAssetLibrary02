@@ -1999,6 +1999,11 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary02",
       "commit": "fe3cd11fd3fb4d0fb06f1d93e7628f60a55434ad"
+    },
+    "original-qualified-batch-1505-volume02-20261027": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary02",
+      "commit": "b2e95b6b676a16483fb133d48a751d84f2bf0dcd"
     }
   },
   "assets": [
@@ -12677,7 +12682,7 @@
       "description": "One static lighthouse shore scene, preserving the entire unlit lantern lighthouse and one original pier tile with its real plank and bevel seams, on one closed stepped shore base. One scene, zero new independent models. Opaque water-colour ground is not a fluid. No navigation, maritime, mooring, structural, seamless access or safety claims.",
       "bounds": {
         "x": 8.800000190734863,
-        "y": 5.0,
+        "y": 5,
         "z": 9.59000015258789,
         "unit": "m"
       },
@@ -12719,7 +12724,7 @@
       "title": "Dry Shore Lookout and Rinse Station",
       "description": "One static beach observation and rinse-station layout, one scene and zero new standalone models. Complete published elevated observation seat faces the shallow sea datum; whole fixed shower stands in the rear-right dry rinse zone; whole original lifebuoy lies face-up on the dry shore using exact X minus 90 degree rigid rotation. All original triangle positions under declared transforms and per-face opaque PBR are retained. Three new scene-only closed support volumes form dry bank, sloping shore and opaque water datum; not a fused shell. Distinct from dock-based wetland or fishing piers: no dock tile, fishing kit or relabeled access pier. No person, labels, textures, working water, rescue capability, swimming designation, accessibility, drainage, structural loading or safety certification. Original custom corner normals and interactive hierarchy are not claimed preserved. Preview floor excluded.",
       "bounds": {
-        "x": 5.0,
+        "x": 5,
         "y": 4.8,
         "z": 2.759999923706055,
         "unit": "m"
@@ -12807,7 +12812,7 @@
       "bounds": {
         "x": 3.700000047683716,
         "y": 2.799999952316284,
-        "z": 2.0,
+        "z": 2,
         "unit": "m"
       },
       "triangles": 6348,
@@ -12978,7 +12983,7 @@
       "description": "One static wetland shallow-sidepool scene, one scene and zero new independent models. A complete original low sloped bank-access earth module faces one connected shallow opaque sidepool. A whole qualified irregular hollow fallen log stands on the dry right margin at an exact rigid minus90-degree Z rotation, with its side opening directed toward the sidepool and its two true end mouths unchanged. A complete original reed-sedge clump sits on the separate dry rear shoulder clear of both original pieces. All three whole source models retain every triangle and original per-face opaque PBR without scaling, trimming, recolouring, recapping, adding leaves or changing hollows; only unit rigid placement and collision-safe names differ. New scene-only bed, low dry margin with real pool cutout, and a bed-filled shallow water volume define the sidepool. No bridge, dock, viewing platform, walking-route, fishing gear, people or texture. This is not the old log crossing or twin mangrove observation scene: the log lies along one margin and faces open water rather than spanning it. The rejected undercut-bank candidate is NOT used. Static stylised habitat association only, no water flow, species/ecology, habitat suitability, erosion, physics, navigation, safety or structural-load claim. Normals are recomputed flat, not original custom NORMAL-byte preservation.",
       "bounds": {
         "x": 4.800000191,
-        "y": 4.0,
+        "y": 4,
         "z": 1.25999999,
         "unit": "m"
       },
@@ -13321,8 +13326,8 @@
       "title": "Continuous Three-Way Junction Module",
       "description": "One original static spacebase three-way junction module. A single continuous thick closed material shell encloses a connected T-shaped empty interior with three genuine open mouths, a full raised floor, side walls, shared central ceiling and three integral raised roof-end rims. The two opposed side arms meet one forward stem in a real common chamber, not overlapping old straight corridors with hidden internal walls. All material-cell interior faces are removed and every boundary shares indexed vertices; one closed connected editable mesh and four constant opaque PBR roles. Newly authored plan and topology, zero imported geometry and one modular asset, not three corridor assets or a length/color variant. Source Z up, metres, horizontal-bounds-centred origin on the complete ground sole. No doors, pressure chamber, furniture, people, cables or textures. Static visual-only empty junction: no pressure seal, atmosphere, airlock cycle, installation compatibility with previous modules, navigation, accessibility, manufacturing, structural load, spaceflight or safety performance claim.",
       "bounds": {
-        "x": 7.0,
-        "y": 5.0,
+        "x": 7,
+        "y": 5,
         "z": 3.25,
         "unit": "m"
       },
@@ -13537,7 +13542,7 @@
       "description": "One newly authored complete empty static textile warping-frame prop. Two full grounded timber stands carry separate genuinely pierced bearing blocks and a continuous horizontal sixteen-sided axle. Two crossed end frames are connected by four full longitudinal winding rails, making a broad open four-wing winding cage rather than a planar weaving loom, a circular spinning wheel or an inclined-peg spool rack. A fixed offset crank and complete grip belong to the same supported assembly. The full real through holes exactly surround the matching fixed axle, while the cage clears the stand uprights. No old mesh is copied or recoloured. Seventeen editable closed solid components and three constant opaque untextured PBR materials, metres, native Z up and actual horizontal bounds-centred ground datum. No thread, cloth, spool, drive belt, treadle, label, texture or scene. Static illustrative form only: no operational rotation, motion clearance, weaving, yarn tension, calibrated yarn length, manufacture, loading, stability, compatibility or safety claim. One complete prop and zero scenes.",
       "bounds": {
         "x": 1.9500000000000002,
-        "y": 1.0,
+        "y": 1,
         "z": 1.4465165042944954,
         "unit": "m"
       },
@@ -13666,7 +13671,7 @@
       "description": "One static spacebase service-apron scene using three complete qualified original models at unit scale and unchanged orientation. A full continuous three-way floor-wall-ceiling junction occupies the rear, with all three end mouths left empty; a complete twin-wing solar array occupies a separated front-left service pad and one complete fixed dual-link sampling rover is parked on the front-right ground. Every original mesh, triangle, internal node, normal buffer and per-face opaque PBR assignment remains intact. A single low scene-only ground with a straight contrasting central approach band is the only new geometry. The central front approach and separate left/right equipment zones define an outdoor service forecourt rather than a reused warehouse or a quantity variant of solar panels. One scene, zero new independent models, three complete instances of three already qualified models. No cables connect the array or vehicle; no airlock doors, astronauts, payload or operational route simulation. Static arrangement only: no generation, charging, pressure containment, flight, navigation/accessibility, docking compatibility, rover operation, structure, installation or safety claim.",
       "bounds": {
         "x": 10.399999618530273,
-        "y": 10.0,
+        "y": 10,
         "z": 3.369999885559082,
         "unit": "m"
       },
@@ -14526,7 +14531,7 @@
       "description": "One static low-roof mineral-face bay scene, one scene and zero new independent models. One whole original continuous-vein rock wall forms the rear face; two complete fixed screw roof props stand on tiny scene-only plinths beneath a broad flat scene-only roof, and one complete blunt double-point pick lies on the front floor apron. All original meshes, fixed poses, unit scale, source GLB payloads and opaque PBR remain unchanged under translation only. Four scene-only closed solids add the floor, roof and two plinths. This is an open-sided cutaway, not the previous open screening siding or tall shaft/headframe/rail bay. The original irregular wall top is retained, reaching the roof underside only at its highest station; no entire wall-top contact is claimed. No ore extraction, real roof support, structural load, human clearance, navigation, working machinery, ventilation or underground safety is demonstrated.",
       "bounds": {
         "x": 3.200000047683716,
-        "y": 3.0,
+        "y": 3,
         "z": 2.180000066757202,
         "unit": "m"
       },
@@ -14869,7 +14874,7 @@
       "title": "Open Entry and Parked Excavator Bay",
       "description": "One static construction entrance and parked-machine bay. Two complete original road barricades define a wide central gap at the front edge; the complete compact tracked excavator remains parked behind the left boundary with its original fixed arm and open bucket pose. The whole low caged work light sits separately behind the right boundary. A single scene-only paved pad and contrasting central entry band organize the forecourt. Four complete instances of three old models remain at unit scale and unchanged pose, preserving every mesh, directed triangle, original node transform, normal buffer and per-face PBR. This original construction enclosure-entrance scene is distinct from the earlier scaffold/barrow worksite and mixer preparation bay. One scene, zero new models. The barricades do not close a secure perimeter; no people, traffic, active lighting, excavation, hydraulics, access compliance, construction procedure or operational safety is claimed.",
       "bounds": {
-        "x": 6.0,
+        "x": 6,
         "y": 6.400000095367432,
         "z": 2.125,
         "unit": "m"
@@ -14912,8 +14917,8 @@
       "title": "Separated Scaffold Corner Layout",
       "description": "One static scaffold-corner layout scene using the complete continuous concave-L corner and two whole independently guarded straight modules at original unit scale, one rotated exactly ninety degrees. Their original nominal ten-millimetre deck gaps and every obstructing end guard remain. They are separated display units, not a connected accessible walkway. A single low scene-only ground supports all original complete finite feet; the open inner corner and front approach remain empty. All original meshes, full directed triangles, internal transforms, normal buffers and per-face opaque PBR materials remain intact. This is the original scaffold scene program, distinct from the older single scaffold with wheelbarrow and the mixer preparation bay. One scene, zero new independent models; two unique reused models and three complete instances. No climbing, passage, installation compatibility, load, stability, fall protection, construction use or safety claim.",
       "bounds": {
-        "x": 4.0,
-        "y": 4.0,
+        "x": 4,
+        "y": 4,
         "z": 1.9500000476837158,
         "unit": "m"
       },
@@ -15085,7 +15090,7 @@
       "description": "One newly authored continuous L-return village foundation module. Its entire upper wall seat stays level at1.4m while the underside rises through three distinct complete footing levels0/0.4/0.8m along the long arm and turns into the highest perpendicular return. This is a stepped underside for a rising-site visual interface, not walking stairs: there are no ascending top treads. A single connected closed solid joins all transitions and the corner, with two opaque PBR face materials distinguishing the continuous upper seat from stone sides. The original flat square foundation tile has neither this rising underside nor the integral right-angle return. Native metres, ground datum at the lowest footing and XYbounds centre. One model, zero scenes. No terrain, wall, automatic terrain fit, structural engineering, drainage, soil interaction, construction, load or safety guarantee. Only the lowest footing contacts the preview plane; the higher footings intentionally remain raised because the intended slope host is not included.",
       "bounds": {
         "x": 2.4,
-        "y": 3.0,
+        "y": 3,
         "z": 1.4,
         "unit": "m"
       },
@@ -21449,7 +21454,7 @@
       "description": "One complete original fixed pipe-organ appearance: whole grounded console and rear windchest, nine independent footed thick-walled pipes with real front mouths and open tops, one pale-and-dark manual, fixed stop knobs and low pedal bed. Entirely new numeric geometry, not an upright piano case, accordion bellows or marimba pipe row reused. Static stylized instrument, one model zero scenes; no airflow, acoustic tuning, playable keyboard, pedal action, sound, engineering or safety claim.",
       "bounds": {
         "x": 1.5199999809265137,
-        "y": 1.0,
+        "y": 1,
         "z": 2.569999933242798,
         "unit": "m"
       },
@@ -21879,7 +21884,7 @@
       "description": "One new complete fixed slotted-indexing layout display. A single thick four-arm wheel contains four genuine open-ended parallel-sided radial slots and continuous concave inter-arm locking bays. A separate offset rear driver disc carries one whole fixed projecting peg into the right-hand slot. Its interrupted annular locking shoulder is on the opposite side, clear in this frozen pin-entry pose. Two complete parallel shafts, four bored bearing pedestals and one grounded bed support the apparatus. All numeric geometry newly authored: not old spur gears with fewer teeth, a planetary carrier rearrangement or a vertical cam/tappet stamp machine. The wheel centre is solid and fixed into its hub rather than claimed an open through-bore. Three opaque constant PBR roles, closed editable components, metres, Z up and whole horizontal ground-centred datum. One static prop, zero scenes. Peg clearances and lock-sector placement show this pose only; no completed indexing trajectory, dwell law, Geneva kinematic accuracy, continuous engagement, drive, rotation, transmission ratio, torque, manufacture, loading or machinery safety claim.",
       "bounds": {
         "x": 1.9,
-        "y": 1.0,
+        "y": 1,
         "z": 1.31,
         "unit": "m"
       },
@@ -22180,7 +22185,7 @@
       "description": "One original complete fixed library rail-ladder module appearance. A single open inclined flight with seven full horizontal treads and two continuous side rails has two lower transverse-travel wheels, two complete upper open hanger cheeks and exposed rail rollers. One full horizontal guide track with integral end stops and three rear anchor brackets is included as part of the assembly, not a separate asset. Unlike the four-foot folding A-frame, this has no rear ground branch or folding limiter; unlike the pocket door, its exposed upper rollers and lower wheels support an inclined open ladder rather than a leaf enclosed in a wall cassette. All geometry newly authored. Three opaque PBR roles. One modular asset, zero scenes, books, host wall or bookcase. Fixed visual pose only: no actual sliding, climbing suitability, human fit, attachment compatibility, balance, brake, load, installation or safety claim.",
       "bounds": {
         "x": 1.840000033378601,
-        "y": 1.0,
+        "y": 1,
         "z": 2.509999990463257,
         "unit": "m"
       },
@@ -22654,7 +22659,7 @@
       "bounds": {
         "x": 1.4,
         "y": 2.38,
-        "z": 1.0,
+        "z": 1,
         "unit": "m"
       },
       "triangles": 2112,
@@ -26135,7 +26140,7 @@
       "title": "Fixed Raised Corner Rope Boxing Ring",
       "description": "One newly authored complete static boxing-ring display: a whole raised square platform and canvas deck, four full-height integrated corner posts, three continuous rounded-square solid rope loops, four tall diagonal inner corner pads and twelve fixed corner ties. A single complete three-tread side access stair reaches the deck edge. The centre remains genuinely open. This is a complete connected equipment model, not a scene of duplicated museum stanchions or court fence modules: the old fence has rigid parallel rails and vertical infill, while the museum barrier has two freestanding circular bases and one sagging rope. All new geometry is independently built for a raised enclosed ring with continuous ninety-degree corner paths and supported inner pads. Three opaque untextured PBR roles, metre scale, Z up, full ground-centred origin. One whole model, zero new scenes, no people, gloves, signs, logos or floor beyond the equipment. No claimed rope elasticity, tension adjustment, training suitability, sports regulation dimensions, fall protection, actual access, load capacity, manufacture, structural stability or safety certification. Static visual illustration only.",
       "bounds": {
-        "x": 4.0,
+        "x": 4,
         "y": 4.85,
         "z": 2.02,
         "unit": "m"
@@ -26350,7 +26355,7 @@
       "title": "Fixed Cantilever Board and Fulcrum Stand",
       "description": "One newly authored complete fixed low diving-board-style display. A single long thin rounded-nose cantilever board rests on a full transverse faceted roller and is retained at its rear heel by a whole lower crossseat, two side cheeks and top clamp plate. A paired ground-shoe stand has four uprights, side diagonals and complete crossheads; two rear stringers carry three genuine separate treads and short two-sided access handrails. The long unsupported forward overhang and full open space beneath it distinguish the complete assembly from the old short inclined pool starting platform with sculpted side cheeks and front U-grip, and from the old curved gymnastics springboard with four complete coil springs on a low full base. None of those old geometries is imported, length-scaled or combined; all constituent solids are newly authored as one whole equipment appearance. Three opaque untextured PBR roles, metres and Z up, complete horizontal ground-centred origin. One model, zero scenes, no swimmer, water, pool rim or surrounding floor. Entire pose is static illustrative art: no flexibility, spring action, adjustable fulcrum, loading, real access, sporting dimensions, swimming-pool suitability, manufacture, stability or safety certification.",
       "bounds": {
-        "x": 1.0,
+        "x": 1,
         "y": 3.78,
         "z": 1.35,
         "unit": "m"
@@ -35681,7 +35686,7 @@
       "title": "Whole Armour Storage and Inspection Alcove",
       "description": "One static armour storage and inspection alcove scene, zero new independent models. Four complete qualified original objects are reused at unit scale with original mesh topology and face PBR: empty cuirass on a lower rear shelf, raised-visor empty helmet on a separate upper shelf, convex shield in a low right parking channel, and splayed gauntlet on the low front inspection bench. A scene-only back wall and short left return enclose the asymmetric vertical storage zone; the left front approach and middle strip remain open. No extra duplicate armour, wearer, weapon or rearranged equipment cabinet. Whole models remain uncut; geometry is translated only. Opaque constant PBR, metres, centred floor. Fixed artistic storage layout only, not an armour fitting or repair procedure, protective performance, physical load test, accessibility, egress, animation or safety claim.",
       "bounds": {
-        "x": 3.0,
+        "x": 3,
         "y": 2.2,
         "z": 1.75,
         "unit": "m"
@@ -38950,7 +38955,7 @@
       "description": "One static outdoor horse feeding-and-watering court scene built from three complete qualified originals at unit scale: the full arched-neck horse stands behind a separate empty V-rack hay manger, while a complete low stone water trough occupies the left-side bay. A continuous scene-only ground plinth joins the unequal feeding and watering positions with a visible empty center-left approach. All original oriented world-space triangles, face material assignment and constant opaque PBR retained; only whole translations and explicit final float32 coordinate storage. Source node hierarchy and normals are baked/recomputed explicitly, not claimed byte-identical GLB. No old parts cut, rescaled, recolored or multiplied. One scene, zero new reusable models. No animated eating, edible hay, water supply, husbandry/species-fit, navigation, accessibility, stability or safety guarantee; static game-art display only.",
       "bounds": {
         "x": 5.599999905,
-        "y": 5.0,
+        "y": 5,
         "z": 2.674999952,
         "unit": "m"
       },
@@ -43207,7 +43212,7 @@
       "description": "One newly authored complete static bovine animal appearance. A long deep broad barrel and haunches stand on four whole finite-soled legs; a lower thick neck with integral hanging dewlap continues into a broad blunt descending muzzle. Two lateral ears, two short outward-upturned horns, two seated eyes, a small complete underside udder with four short blunt teats, and a thin hanging tail ending in a widened tuft form the full silhouette. No high horse mane or arched crest, no sheep fleece or spiral horns, no old animal meshes recolored or rescaled. Faceted stylized exterior only, not exact breed or veterinary anatomy. One model zero scenes. No rig, animation, behavior, milking, biological simulation, use or safety claim.",
       "bounds": {
         "x": 1.059999943,
-        "y": 3.0,
+        "y": 3,
         "z": 2.273008823,
         "unit": "m"
       },
@@ -44453,9 +44458,9 @@
       "title": "Whole Fencing Equipment and Locker Preparation",
       "description": "One static fencing-equipment preparation workcorner, four complete qualified original models and zero new independent models. A complete open worktable carries a whole blunt cup-guard fencing implement across its front strip and an entire domed-grid fencing mask on its rear strip; a full open changing locker occupies a separate floor station at the right. All original mesh buffers, normals, node hierarchy and complete opaque PBR dictionaries remain unchanged at unit scale. Only the entire fencing implement turns rigidly ninety degrees; all complete objects translate without changing pose. Its complete original guard sole and the mask full bib sole contact the true tabletop. The table and locker complete feet contact one scene-only floor. The open front approach and separate side-locker clearance define a compact preparation area, unlike the old bench and drinking-station changing corner or a mat rack and slant-board area. No original component is extracted, recoloured, resized or counted anew. One scene zero new models, no person, clothing, competitive piste, markings or operating mechanism. Original fixed art only: no equipment fit or compatibility, sporting technique, electrical scoring, sharpness, impact protection, ergonomics, stability, capacity, accessibility, manufacture, installation or safety claim. Rigging animation and interaction not made.",
       "bounds": {
-        "x": 3.0,
+        "x": 3,
         "y": 2.0999999046325684,
-        "z": 2.0,
+        "z": 2,
         "unit": "m"
       },
       "triangles": 12412,
@@ -45743,8 +45748,8 @@
       "title": "Whole Cactus Rosette and Tortoise Clearing",
       "description": "One static dry-garden wildlife display scene built from three complete qualified original models at unit scale: a tall longitudinally ribbed upright-arm cactus occupies the rear-left planted zone, a complete thick keeled serrate rosette occupies the separate right side, and one full domed tortoise stands in the open lower foreground. The tall rear silhouette and low side planting frame the entire visible tortoise without placing it inside plants or changing its limbs. One closed finite sandy floor is scene-only; a clear front strip remains. All original oriented world triangles and per-face opaque PBR are retained, only whole translations and float32 storage; original hierarchy/normals are baked/recomputed and no GLB-byte identity is claimed. Zero new reusable models, one scene. This is neither the old well/palm/canopy/bench oasis nor the mudbrick/packframe/cargo court with more plants. Static artistic arrangement only, not a claim of exact species co-occurrence, habitat, animal care, food, climate suitability, shade performance, locomotion, navigation, simulation or safety.",
       "bounds": {
-        "x": 4.0,
-        "y": 4.0,
+        "x": 4,
+        "y": 4,
         "z": 2.724999905,
         "unit": "m"
       },
@@ -46087,7 +46092,7 @@
       "title": "Fixed Nested Windowed Passenger Boarding Bridge",
       "description": "One newly authored complete fixed passenger-boarding-bridge exterior. A broad grounded rear foot and full support column carry a thick open-ended faceted rotunda with actual side windows. Two different-sized complete windowed through-corridors form a fixed nested span, leading to a wider front open cabin and one thick dark docking-hood appearance. A full front crosshead, two vertical columns, low trolley beam, single complete axle and two whole grounded tires support the front end. All visible geometry is new: no old grounded corridor placed on posts, no old lift car or boarding stair imported, and no partial old model counted as a new object. The floors, roofs, interior and side apertures are true finite material geometry, with deliberate fixed internal root overlaps and no coincident exterior floor skins. Four opaque constant PBR roles, metres, native Z up, horizontal-bounds-centred ground origin. One complete static prop, zero scenes. No terminal or aircraft, window glazing, passenger, luggage, telescoping, rotation, lift travel, docking fit, weather seal, accessibility, human use, load capacity, stability, engineering, fabrication, installation, operating procedure or safety performance. Rigging, animation and interaction are not made.",
       "bounds": {
-        "x": 2.0,
+        "x": 2,
         "y": 6.9,
         "z": 3.24,
         "unit": "m"
@@ -47377,7 +47382,7 @@
       "title": "Whole Trier and Divider Sample Intake Corner",
       "description": "One static agricultural sample-intake preparation corner scene, zero new models. Three entire qualified originals retain unit scale, every oriented world triangle and opaque per-face constant PBR: the fixed six alternating opposed-chute divider with both complete receiver pans at right, the complete open slotted-sleeve grain trier in the left-front tool position, and the complete gathered sack in the separate rear-left intake position. One finite scene-only floor under all whole original bases and a clear front strip establish separate intake/tool/division stations without interpenetration, extracting a receiver or filling the sack. Unlike the older grain-silo service yard or winnower/riddle cleaning workbay, these are complete sampling-preparation objects, not duplicates or a replacement grain-cleaning machine. The dock sack retains its original small sewn markings and is not relabelled as newly authored grain packaging; contents are unspecified. Only whole translations and IEEE754 float32 storage are applied; original hierarchy and normals are baked/recomputed and not claimed byte-identical. Static illustrative arrangement only: no real sampling accuracy, grain flow, tool operation, food contact, workflow ergonomics, navigation, load or safety validation.",
       "bounds": {
-        "x": 3.0,
+        "x": 3,
         "y": 2.400000095,
         "z": 1.335000038,
         "unit": "m"
@@ -49572,7 +49577,7 @@
       "bounds": {
         "x": 1.1156183659602448,
         "y": 1.1156183659602448,
-        "z": 1.0,
+        "z": 1,
         "unit": "m"
       },
       "triangles": 1352,
@@ -50860,7 +50865,7 @@
       "title": "Static Long Boom And Twin Skid Helicopter",
       "description": "One newly authored complete low-poly helicopter-style exterior. A deep short rounded cabin with integral opaque canopy facets narrows behind into a separately rooted long rising tapered tail boom. A raised mast and full central hub carry two continuous broad opposite main-rotor blades in a horizontal plane, while a separate lateral tail shaft carries a complete smaller two-ended rotor in a vertical plane beside the tall tail fin. Two whole long upturned-nose landing skids connect through four splayed struts to the cabin underside. A small whole tailplane crosses the tail boom. This is not a canard airplane with wings rotated, nor the old four guarded-rotor inspection drone with a different rotor count: the cabin, long boom, orthogonal rotor relationships and landing structure are authored together from new numerical shapes. One static model zero scenes, four opaque constant PBR roles, metres Z up, horizontal bounds centred and both complete flat skid soles at ground. Opaque canopy coloring is integral to the closed cabin surface, not glazing or a modelled cockpit interior. No real aircraft, rotor mechanism, swashplate, engine, controls, occupant, rig, animation or interaction. No flight, thrust, aerodynamics, stability, ground or rotor clearance certification, load, manufacture, operational instructions or aviation safety claim. All blades and linkages are fixed artistic shapes only.",
       "bounds": {
-        "x": 3.0,
+        "x": 3,
         "y": 3.189789295196533,
         "z": 1.659999966621399,
         "unit": "m"
@@ -52666,7 +52671,7 @@
       "title": "Complete Horn Machine and Shoe Last Workcorner",
       "description": "One complete static shoe-repair preparation workcorner, one scene and zero new independent models. The entire qualified long-horn patching machine stands at the left on its own two shoes and pedestal, keeping the upper head, round horn, wheel, treadle and front space intact. A complete open worktable at the right rear supports one full split-forefoot-and-heel stretcher, laid across its finite tabletop. A whole shoe-last anvil tripod stands separately at the forward right with a real open floor interval from the table and the machine. This is a separated raised preparation surface and independent floor repair-head position beside a pedestal machine, not the old flat-bed sewing workstation/chair plus ironing-board and spool rack arrangement. All four original GLB binary buffers, complete mesh geometry, local normals, PBR roles, face assignments and internal hierarchy are byte-preserved at unit scale. Only whole-instance exact quarter turns/translations and one finite scene-only floor are new. No shoes, people, extracted components, new standalone furniture or counted duplicate models. No sewing, shoe fit, stretching, striking, tool transfer, correct occupational workflow, human reach, load, installation or safety certification. Rigging animation interaction not made.",
       "bounds": {
-        "x": 3.0,
+        "x": 3,
         "y": 2.4000000953674316,
         "z": 1.5519999265670776,
         "unit": "m"
@@ -53483,7 +53488,7 @@
       "title": "Fixed Cutaway Inner Bell and Standpipe Cup",
       "description": "One independently authored whole dry cutaway cup exhibit. A single continuous thick material body joins a flared bowl and its empty floor field to a hollow pedestal stem and integral upright central open standpipe. A separate inverted hollow inner bell surrounds that standpipe with visible radial and top gaps and stands on three small rooted supports above the bowl floor. Both complete material shells deliberately omit the same front ninety-degree sector, with finite fully closed cut faces, exposing the nested arrangement. Three whole low outer feet keep the stem outlet above the ground; there is no blocking display plinth. Unlike the stacked brewer or float-water-clock reservoir, this is one bowl with a nested raised bell around its own through-bottom tube. All geometry newly authored; no old vessel extracted. Three opaque constant PBR roles, metres Z-up and whole horizontal bounds-centred ground origin, one model zero scenes. Fixed dry educational shape only: the cutaway is intentionally not sealed or functional. No fluid, siphoning, flow rate, pressure, capacity, drinking suitability, manufacture, engineering or use safety claim; no rigging animation or interaction.",
       "bounds": {
-        "x": 1.0,
+        "x": 1,
         "y": 0.853553390593,
         "z": 1.08,
         "unit": "m"
@@ -53698,7 +53703,7 @@
       "title": "Complete Opposed Document Finishing and Waste Bay",
       "description": "One static document-finishing preparation bay, one scene zero new independent models. Two complete unchanged worktables stand as separate facing stations across an open central aisle: the left table supports the entire twin blind-pocket paper-folder cutaway, facing inward, and the right supports the whole fixed raised-arm paper cutter facing the opposite way. A complete pullout-bin shredder stands independently at the back of the central approach, its original extended bin facing forward, with clear floor intervals from both tables. The two tables are whole repeated instances, not two new assets. All original raw GLB buffers, complete meshes, local normals, face PBR assignments and internal hierarchy are unchanged at unit scale; only exact quarter-turn parent placement and one finite floor are new. Unlike the old side-by-side copier and one pickup table, there are two opposed raised processing-tool stations and one separate lower waste endpoint, not an L-shaped printing-and-sewing/bookcase corner relabelled. No paper, users, disassembled parts, connected feed, cutting, folding, shredding, ergonomic access, load or operation/safety performance claim. Rigging animation interaction not made.",
       "bounds": {
-        "x": 3.0,
+        "x": 3,
         "y": 2.5999999046325684,
         "z": 1.6270502805709839,
         "unit": "m"
@@ -54430,7 +54435,7 @@
       "description": "One entirely newly authored complete fixed vertical-lift-bridge-style exterior. Two full grounded piers and low approach ledges carry two whole four-leg open towers with top ties and fixed side braces. One complete horizontal thick deck with both windowed side trusses is visibly raised between them, with end guide shoes and whole truss diagonals. Four complete continuous opaque rope paths pass from that level span over four recessed-groove top wheels on complete axles and bearers to four distinct fixed hanging weight exteriors inside the tower clearances. Unlike the old raised gate leaf, the span has no root pivot; unlike the old suspension footbridge, there is no anchor-to-anchor sagging primary cable or short deck hangers. All visible geometry newly authored, no old bridge meshes or scene instances imported. One prop zero scenes, four opaque constant untextured PBR roles, metre scale, native Z up and centred complete horizontal bounds with whole pier soles at ground datum. No water, terrain, vehicles, people or actual lifting, balance, rope tension, traffic passage, bearing fit, loads, installation, engineering or safety performance. Rigging, animation and interaction not made or verified.",
       "bounds": {
         "x": 8.1,
-        "y": 3.0,
+        "y": 3,
         "z": 4.4,
         "unit": "m"
       },
@@ -55332,7 +55337,7 @@
       "title": "Fixed Open Ended Well and Twin Wing Floating Dock",
       "description": "One wholly newly authored complete dry-display floating-dock-style exterior. One continuous thick U-section body joins a full low central dock floor to two high longitudinal wing walls. The central ship space remains open across both full ends; six complete empty low keel blocks stand on the floor. Both wide upper wing surfaces carry rooted outer rails, and two complete inner ladders with real behind-rung space join the lower floor to the upper level through finite standoffs. Two small opaque closed equipment housings belong to the side tops. Unlike a twin-pontoon walkway, the occupied floor lies below the full side wings rather than above transverse floats; unlike a dredger, the full floor runs beneath an open-ended empty berth with no bow well, bucket ladder, machinery or aft closure. All coordinates and shapes new, no old meshes extracted. Three solid PBR roles, metres Z up and centred complete horizontal bounds, one prop zero scenes. Static artistic exterior only: the solid side wings do not model ballast interiors. No water, ship, flooding, flotation, buoyancy, stability, docking, pumping, structural capacity, walkway access, manufacture or maritime safety capability. Rigging animation and interaction not made.",
       "bounds": {
-        "x": 4.0,
+        "x": 4,
         "y": 7.4,
         "z": 2.5359999999999996,
         "unit": "m"
@@ -56493,7 +56498,7 @@
       "title": "Whole Horizontal Machine and Log Shelter Staging",
       "description": "One static forestry equipment-staging scene, zero new independent models. The entire qualified horizontal pushplate/blunt-wedge frame spans the foreground at original unit scale, including both wheels, parking shoe, side case, empty bed and forward draw members. A whole original roofed six-log storage shelter stands separately along the rear right edge, with its original four posts, sloping roof, raised log bed and all six logs intact. One complete empty wheelbarrow occupies the rear left receiving side, with its original thick open tub, wheel, handles and feet. An open transverse ground interval separates the front machine from the rear storage edge; the barrow is outside both envelopes. This is neither the old trough-and-shelter farm yard with stepping stones, nor a raised tabletop planer opposite a long ground jointer. No log is moved into the machine and no workpiece or operational connection is added. All three complete original GLB buffer payloads, local normals, internal hierarchy and full per-face PBR remain unchanged through translation-only whole wrappers. Only one finite floor is new scene-only geometry. One scene zero new models, no copied partial old scene, scaled tools or recolouring. Static artistic equipment arrangement only, not a splitting/storage workflow, human access, loading, towing, machine operation, wood processing, structural or safety claim. Rigging animation interaction not made.",
       "bounds": {
-        "x": 4.0,
+        "x": 4,
         "y": 3.5999999046325684,
         "z": 1.7058770656585693,
         "unit": "m"
@@ -58686,8 +58691,8 @@
       "title": "Fixed High Truss and Low Suspended Transporter Bridge",
       "description": "One newly authored whole fixed transporter-bridge-style exterior. Two complete high open portal towers on grounded end piers carry a permanently high, long twin-sided open truss and upper cross ties. One offset four-wheel overhead carriage rests on the two long lower chords; four entire long suspension rods connect it to a much shorter low gondola deck with two full side rails and open ends. The open air beneath the high fixed crossing remains distinct from the short hanging platform. Unlike the old vertical-lift bridge, no full-width crossing deck rises between guide towers, no top rope wheels or counterweights are supplied. Unlike the small orthogonal robot gantry, there is no transverse sliding bridge, downward tool guide or finger tool; only one fixed long travel direction and a low suspended crossing platform. No old visible meshes imported. Three opaque PBR materials, metres Z-up and complete horizontal-bounds-centred pier datum. One complete model zero scenes. Static architectural transport illustration only; no people, vehicles, water, terrain, drive or internal brake. No motion, path clearance, traffic access, engineering, cable tension, load, manufacture, navigation or safety capability is asserted. Rigging, animation and interaction are not made or verified.",
       "bounds": {
-        "x": 8.0,
-        "y": 3.0,
+        "x": 8,
+        "y": 3,
         "z": 5.27,
         "unit": "m"
       },
@@ -59117,7 +59122,7 @@
       "description": "One static empty livestock-equipment staging scene, zero new reusable models. One entire qualified high-arched tandem-wheel trailer with four real side apertures, two empty longitudinal bays and its complete lowered rear ramp stands on a single finite common ground. A separate entire qualified open longitudinal headgate frame is aligned beyond the ramp low end, retaining both portal ends, waist-shaped front gate, all side rails, kickboards and skids. A visible unoccupied ground interval separates the ramp and gate: they are not attached, inserted into one another or scaled to imply compatibility. Unlike the earlier side-by-side gate and milker bay, this shows a longitudinal ramp-to-ground-to-independent-frame sequence, with open side margins and no trolley, animal, person or filler objects. All complete original oriented triangles and constant opaque per-face PBR retained with float32 whole translation; hierarchy baked and normals recomputed explicitly. Static exterior display only: no animal fit, loading, towing, restraint, husbandry operation, accessibility, navigation, load or safety claim. No rig or interaction.",
       "bounds": {
         "x": 2.799999952,
-        "y": 8.0,
+        "y": 8,
         "z": 2.325000048,
         "unit": "m"
       },
@@ -59374,7 +59379,7 @@
       "title": "Whole Parked Snowmobile and Open Tent Preparation Bay",
       "description": "One static snow-camp equipment preparation display scene, zero new reusable models. An entire qualified twin-front-ski single-rear-track snowmobile is parked to the right of an entire qualified cross-pole domed tent, both at original unit scale on one finite pale scene floor. The tent retains its full double-curved thick shell, floor, raised threshold, real front entry and two complete crossed pole paths. The vehicle retains every front ski, arm, roller, single continuous track, saddle, running board, hood and handle component. A visible side interval separates the vehicle from the tent; the offset parking position leaves an independent open entrance forecourt and vehicle-front strip. No skier, vehicle occupant, furniture, fire or extra snowbank is added. Unlike the old campsite social island with chairs, table and fire, this is a separated shelter/parked ski-track vehicle relation; unlike the old winter sled corner or ski/boot bench, it includes a whole enclosed shelter and entire powered-vehicle-shaped original. No snow physics, traction, driving, camping readiness, weather resistance, entry fit, navigation, load or safety claim. Original oriented triangles and constant opaque per-face PBR preserved with float32 whole translation; hierarchy baked and normals recomputed. No rig, motion or interaction.",
       "bounds": {
-        "x": 5.0,
+        "x": 5,
         "y": 4.400000095,
         "z": 1.437000036,
         "unit": "m"
@@ -59675,7 +59680,7 @@
       "title": "Fixed Elevated Ported Pan and Inclined Skip Mixing Station",
       "description": "One wholly newly authored complete stationary pan-mixing-station-style exterior. A shared pair of full grounded skids support a raised four-leg pan frame and two long inclined skip rails. The fixed horizontal shallow circular pan has a thick blind floor, genuinely open top and one low front wall aperture under a continuous upper wall band; a complete empty open chute leaves that aperture. A full bridge supports a blank drive housing and separate upright shaft with three radial arms and low broad paddles, all fixed clear of the floor. The side rail assembly has a high cross-shaft and whole grooved sheave, two braces, a fixed lower cross-carriage and an entire raised empty skip with tall back, floor and sloping cheeks, plus one complete connecting strand. Not a tilted pear drum on its side trunnion U cradle, not a high roofed grain cylinder with hopper neck, and no old meshes or visible coordinates imported. One prop zero scenes, four opaque constant untextured PBR roles, metres native Z up, centred complete horizontal envelope and two whole ground skid soles. Empty static illustrative exterior only: no aggregate, cement, internal drive, rotation, mixing result, pouring, rope motion, operating lift path, controls, material flow, rated capacity, load, guarding, manufacturing, construction process or safety performance. Rigging animation interaction not made or verified.",
       "bounds": {
-        "x": 4.0,
+        "x": 4,
         "y": 2.33,
         "z": 2.7,
         "unit": "m"
@@ -60148,7 +60153,7 @@
       "title": "Whole Orchard Tree Picker and Basket Margin",
       "description": "One static orchard-edge collection-preparation display scene, zero new models. One entire qualified forked-trunk orchard tree stands at the left rear, while an entire qualified upright high side-cup fruit picker is parked separately to its right and one entire qualified empty coarse-band harvest basket occupies a distinct front-right station. All three originals preserve every oriented world triangle, full unit-scale dimensions and opaque per-face PBR. The picker does not touch the tree or reach into the crown, and there is a real open foreground strip; no fruit is added or retained. One finite scene-only earthy floor is the only new mesh. The unchanged tree root tips and low trunk are intentionally embedded 35mm into that ground, with selected actual finite material overlap; the complete picker pole sole and basket base rest on the top plane. This is not the old stone-trough/firewood-shelter workyard or the poultry apparatus court with renamed equipment: its whole tall tree edge, independent upright collection tool and low empty receiving position form a new visual relationship. Source hierarchy is baked and normals recomputed, not original GLB byte retention; whole translated coordinates are explicitly stored float32. No growth, fruit collection, basket capacity, tool-to-tree reach compatibility, pole stability, access, ecology, working procedure, loading or safety validation. Rig animation and interaction not made.",
       "bounds": {
-        "x": 4.0,
+        "x": 4,
         "y": 3.5,
         "z": 3.258682251,
         "unit": "m"
@@ -61567,7 +61572,7 @@
       "title": "Whole Hay Rake and Open Baler Preparation Bay",
       "description": "One static agricultural hay-equipment preparation display scene, zero new reusable models. One complete qualified high-wheel curved-tine hay rake stands on the left, with its whole wide wheels, swept blunt teeth, long forward draw beam, parking prop and rear seat untouched. One complete qualified open-side long-lever baling press stands separately to the right and slightly rearward, retaining its entire empty chamber, outswung gate, raised platen and long inclined lever. All oriented triangles, per-face opaque PBR and unit dimensions of both originals are retained; only rigid translations and explicit float32 coordinate storage are applied, with old hierarchy baked and normals recomputed. One finite earthy scene-only floor is the only new mesh. Full original finite soles seat on the floor; separate whole envelopes leave a central strip and a broad front strip clear without changing or operating either machine. This is a low wide gathering-implement station beside a tall open chamber station, not the old narrow headgate and portable dairy cart arrangement. No crop, bale, animal or operator is added. No hay processing, compression, towing, usable workflow, ergonomics, clearance certification, loading, navigation, rig or animation claim.",
       "bounds": {
-        "x": 6.0,
+        "x": 6,
         "y": 4.199999809,
         "z": 2.180000067,
         "unit": "m"
@@ -62083,7 +62088,7 @@
       "title": "Fixed Deep Shafts and Sloping Gallery Cutaway",
       "description": "One newly authored complete dry subterranean-gallery architectural half-section. A continuous solid earth-and-lining appearance contains a low through-gallery falling gently toward its open end and two separate deep vertical access shafts that genuinely join that gallery. The outer grade slopes independently in height through the same section; the two shafts therefore reach different depths. The entire front half is deliberately removed as a fixed explanatory section, exposing the real shaft-to-gallery intersections, full gallery floor, rear wall and retained roof intervals. A single shared-vertex closed material boundary forms the whole terrain/void section with no overlapping block faces. Unlike the old shallow stone road culvert, the main relation is deep surface access into one continuous lower passage rather than a transverse channel under a road cap. Unlike the mine access bay, this actually contains below-grade shaft depths and their connecting gallery, without machinery, rails or a surface assembly of separate old props. All coordinates newly authored. Three opaque solid PBR roles, metres Z up, full horizontal bounds centred and lowest base Z0. One architectural module zero scenes. Abstract dry waterwork-inspired artistic cutaway, not a reconstruction of a named site or a civil-engineering design. The half-section does not claim a fully enclosed tunnel; its missing front half is intentional. No water, groundwater collection, hydraulic grade, flow, excavation, ventilation, accessible route, soil stability, load, construction, historical precision or engineering safety capability. Rigging animation and interaction not made or verified.",
       "bounds": {
-        "x": 8.0,
+        "x": 8,
         "y": 1.5,
         "z": 3.6,
         "unit": "m"
@@ -63675,7 +63680,7 @@
       "description": "One static electronic-repair equipment preparation bench, one scene and zero new independent models. A complete original open worktable supports the entire corded-iron solder station on its left and the whole recessed blank-dial meter with both original probe leads on its right. The soldering iron remains in its original inclined coil rest and the meter probes stay in their original parked arrangement; neither is detached or connected to another object. A complete original ring-footrest stool stands independently in front, separated from the full table envelope. The empty central tabletop gap and forward floor retain visible separation. This is a normal equipment preparation workstation, not the existing computer-and-printer demonstration or raised two-level mechanical metrology station; no printer, computer, workpiece or raised metrology plinth is supplied. All four whole old models preserve original local buffers, normals, hierarchy, unit scale and complete PBR. Only whole translations and one finite scene-only floor are new. The existing pink stool is not recoloured or certified as operator seating. Static visual only: no electronics repair, circuit connection, soldering heat, electrical test, instrument reading, seated ergonomics, installation, load or safety is claimed. Rigging animation interaction not made.",
       "bounds": {
         "x": 1.600000023841858,
-        "y": 2.0,
+        "y": 2,
         "z": 1.1819279193878174,
         "unit": "m"
       },
@@ -63846,7 +63851,7 @@
       "title": "Whole Empty Four Arm Lift and Parked Reservoir Bay",
       "description": "One static empty vehicle-maintenance equipment preparation bay, one scene and zero new independent models. The complete original twin-column four-arm lift stands on the left of a common finite floor, with its entire high crosshead, guide carriages, four open telescopic sleeves, inner arms and blunt round pads unchanged. The complete original wheeled reservoir with raised deep funnel stands independently in a side parking strip on the right, outside the full lift envelope, with a visible gap. The central and forward space between the lift columns stays empty; no vehicle or imitation supported load is supplied. This is an ordinary empty lift-and-collection-equipment preparation layout, not the existing tyre-changing/balancing machines with low jack or the clamped bicycle and wheel-service bench. Both originals retain full local buffers, normals, hierarchy, unit scale and PBR, without altering any arm pose or funnel height. Only whole translations and one closed scene-only floor are new. No lifting, drainage, fluid routing, arm sweep, equipment compatibility, drive path, installation, anchoring, human clearance, rated load or safety is claimed. Rigging animation interaction not made.",
       "bounds": {
-        "x": 6.0,
+        "x": 6,
         "y": 3.200000047683716,
         "z": 3.4800000190734863,
         "unit": "m"
@@ -64104,8 +64109,8 @@
       "title": "Whole Enclosed Dry Rink and Exterior Service Apron",
       "description": "One complete static enclosed dry ice-rink-like service-boundary scene, one scene and zero new independent models. A new scene-only rounded rectangular pale pad and a continuous low open-front perimeter wall distinguish an interior empty skating-shaped area from an exterior service apron. The entire previously qualified fixed partly closed roll shutter stands in the front wall opening; the complete qualified front-tank and rear-conditioner ice-machine appearance parks separately to the right outside the boundary. Both original units retain every mesh, full buffer, normal, opaque PBR and internal hierarchy at unchanged unit scale, under translation only. The machine is not underneath the low fixed curtain and no traversable doorway or vehicle fit is claimed. Unlike the old open football goal/trolley floor and four-station utility bay, this is an enclosed interior pad with an exterior service edge, not a substitution of machines at those original positions. Only the common slab, raised pale pad and continuous perimeter boards are new scene architecture; none is counted as a new standalone model. No people, snow, liquids, ice physics, markings, venue regulation, vehicle operation, refrigeration, shutter motion, sightline or human access, loads, installation or safety capability. Rigging, animation and interaction not made.",
       "bounds": {
-        "x": 11.0,
-        "y": 11.0,
+        "x": 11,
+        "y": 11,
         "z": 3.197499990463257,
         "unit": "m"
       },
@@ -64706,7 +64711,7 @@
       "title": "Whole Paired Raised Cabins And Overstreet Link",
       "description": "One static architectural connection scene, one scene and zero new independent models. Two entire original raised window-cabin towers retain their full returning stairs, platforms, braced posts, roofs and original PBR at unit scale. One whole instance is turned exactly180 degrees; no mesh is cut or rail removed. A newly authored elevated deck connects the two genuinely unrailed outer landing edges at their shared level, with two complete guard sides, underside girders and four grounded supports. A distinct lower pale lane passes beneath the middle of that span, leaving visible above/below circulation layers rather than a single-plane rearrangement. Both entire old tower stair envelopes remain outside the central lane. Unlike the old watch/rest court there are no gabion threshold or resting cot; unlike the slatted shade court, the upper link is a distinct occupied-looking floor between whole elevated cabins, not just overhead roof shading. Empty fixed artistic layout only. No people, load path validation, structural or building-code design, route navigation, human access, egress, surveillance, defensive or safety performance. No rigging animation or interaction made.",
       "bounds": {
-        "x": 13.0,
+        "x": 13,
         "y": 7.599999904632568,
         "z": 6.179999828338623,
         "unit": "m"
@@ -65093,7 +65098,7 @@
       "title": "Whole Bell Cup Machine and Hand Tool Preparation Table",
       "description": "One static leatherworking equipment-preparation table, one scene zero new independent models. One whole open worktable supports the complete open bell-cup and feed-roller bench machine at left, rigidly turned ninety degrees so its original empty cup/approach region faces the front. A whole fixed-open radial-turret hand punch rests separately at right and an entire cutaway bobbin-grip sewing awl lies across the forward-right tabletop. All complete ground soles remain on the original finite flat top with visible empty strips between devices. This is a compact machine-and-hand-tool preparation surface, not the old pedestal horn-machine with a separate shoe-last floor stand and stretcher table, or cloth-pattern cutting table. Every original unit-scale mesh buffer, normal, internal hierarchy and PBR dictionary is preserved; only whole rigid placements and one finite floor are new. No leather, shoes, workpieces, extracted components or new standalone furniture. The small awl and turret details remain subordinate at whole-scene scale. Static artistic arrangement only: no skiving, stitching, punching, sharp edge, machine motion, electrical operation, workflow correctness, tool compatibility, human fit, rated loading or workplace safety claim. Rigging animation interaction not made.",
       "bounds": {
-        "x": 2.0,
+        "x": 2,
         "y": 1.399999976158142,
         "z": 1.3040000200271606,
         "unit": "m"
@@ -65266,7 +65271,7 @@
       "description": "One newly authored whole static round-table cord-and-weight exhibit. Three complete radial feet support a central pedestal and one thick blank circular table. Three independent pairs of edge bearing cheeks hold complete tangent-axis grooved wheels. Three whole continuous cords join one genuinely empty central ring, diverge across open air above the tabletop, wrap over their respective perimeter wheel and descend to three whole shouldered hanging weights. All construction newly authored; no old incline, ceiling fixture, table or pulley mesh imported. Not the single slotted inclined board with a sliding block, nor two ceiling lift bridles routed to a wall cleat. One model, zero scenes. Four opaque constant PBR materials, metres and centred ground datum. Fixed illustrative appearance only: no real equilibrium, mass, force, tension, angle calibration, rope motion, working adjustment, experiment, teaching result, load, manufacture or safety claim. No graduations, numbers or equations. Rigging, animation and interaction not made.",
       "bounds": {
         "x": 0.980666,
-        "y": 1.0,
+        "y": 1,
         "z": 0.984,
         "unit": "m"
       },
@@ -66125,7 +66130,7 @@
       "title": "Fixed Oval Toothed Cup And Separated Ring Display",
       "description": "One newly authored complete fixed oval-cup and separated-ring mechanism-style display. A deep thin-wall cup changes continuously from a circular annular rear to an oval mouth with integral blunt outer teeth; its real deep cavity and rear shaft bore are not a solid oval cylinder. A separate complete internally toothed circular annulus stands ahead on two full roots. A smaller complete bored elliptical insert is independently supported further forward, leaving explicit axial separation between all three principal pieces. Whole front and rear shafts, bored bearings, pedestals and one shared ground bed make a single supported exhibit. Unlike the old planetary layout there is no sun/planet set or rear multi-pin carrier; unlike the conical clutch the main cavity is non-axisymmetric with a toothed rim, not a mating pair of cones and a shift fork. No old gear or bearing mesh imported. Three opaque PBR appearances, metres Z-up and full horizontal bounds-centred ground origin. One complete model zero scenes. Fixed illustrative separated shapes only, not a working strain-wave reducer or engineering design. No elastic deformation, tooth conjugacy, meshing, motion solution, speed ratio, torque, running fit, bearing performance, lubrication, manufacturing, assembly instructions or safety capability. No rigging animation interaction made.",
       "bounds": {
-        "x": 2.0,
+        "x": 2,
         "y": 2.76,
         "z": 1.8599999999999999,
         "unit": "m"
@@ -66254,7 +66259,7 @@
       "title": "Whole Raised Mitre Head and Parked Support Bay",
       "description": "One empty woodworking crosscut-equipment preparation bay, one scene zero new independent models. One whole fixed raised-head mitre-saw exterior rests on a complete original open worktable, retaining its entire split round table, wide base, four original support pads, pivot head, toothless disc and guard, grip and front handle. A complete deployed single-roller stand occupies a separate floor station to the left, and a complete canister vacuum with its original continuous hose, wand and floor nozzle occupies a separate station at the right. No workpiece bridges these units; the roller remains its original height, explicitly not matched to the saw platform, and the vacuum hose is not connected to the saw. The whole saw pad soles are supported by the actual table top after a small whole-unit rear/front offset, without scaling or trimming any old part. All original unit-scale GLB buffers, normals, hierarchy and opaque PBR remain unchanged. Only the finite floor is new scene-only geometry. Unlike the old hand-saw-on-sawhorses corner and the perpendicular jointer/planer surface workarea, this shows a complete raised circular-head station with separately parked support and cleanup equipment. No cutting, feed trajectory, extraction, drive, sharp edge, electrical operation, load, ergonomic suitability, installation or workshop safety performance. Rigging animation interaction not made.",
       "bounds": {
-        "x": 4.0,
+        "x": 4,
         "y": 2.299999952316284,
         "z": 1.468999981880188,
         "unit": "m"
@@ -66341,7 +66346,7 @@
       "description": "One static empty outdoor cultural venue preparation court. One entire flared ribbed performance shell with its curved stage stands behind one complete partly nested wheeled bleacher assembly, turned as a whole toward the shell. All original geometry, unit scale, PBR and fixed folded-seat positions remain unchanged. The two entire originals stand independently on a common finite floor, with a clear gap in front of the stage and open side strips. Only the common closed floor is new scene geometry. This is one scene and zero new independent models. Unlike the old indoor instrument performance hall with repeated benches, walls and stage cap, this is an empty outdoor shell court with one intact nested carriage assembly; unlike the performer side-stage preparation layout, it contains no instrument, wing divider, cart or festoon. This real venue-equipment combination does not claim a novel universal floorplan. The bleacher remains partly nested, not declared deployed or ready for occupancy. No audience, performer, acoustics, installation, folding motion, loading, access or safety capability. Rigging, animation and interaction not made.",
       "bounds": {
         "x": 7.800000190734863,
-        "y": 8.0,
+        "y": 8,
         "z": 3.9474220275878906,
         "unit": "m"
       },
@@ -66426,7 +66431,7 @@
       "title": "Whole Loaded Toboggan and Tent Supply Station",
       "description": "One static snow-camp supply-staging scene, one scene and zero new independent models. A complete original rolltop backpack rests on the actual middle reinforcing batten of a complete original curled-deck toboggan, beside one entire qualified open domed tent. The full sled nose, both side cords and all three battens remain intact; the whole pack retains its pockets, buckles, shoulder loops and carry handle. The pack is neither fitted to the tent nor attached to the sled. The tent retains every shell, floor, threshold and crossed pole. All three originals remain at unchanged unit scale with all oriented triangles and constant opaque per-face PBR; only whole translations are applied, original hierarchy explicitly baked and normals recomputed. A common pale floor is scene-only. Unlike the parked powered snowmobile and separate tent or skis/boots around a bench, this groups an actually supported pack on a small sliding carrier beside an independent shelter entry, leaving the curled nose and entrance foreground visible. Static illustrative arrangement only, no transport, tie-down, snow interaction, loading capacity, pack restraint, camping readiness, weather protection, human fit, access compliance or safety capability. Rigging animation and interaction not made.",
       "bounds": {
-        "x": 5.0,
+        "x": 5,
         "y": 4.400000095,
         "z": 1.437000036,
         "unit": "m"
@@ -66469,7 +66474,7 @@
       "title": "Whole Empty Platform Scale and Handtruck Staging Bay",
       "description": "One empty postal floor-scale and handling-equipment preparation bay, one scene zero new independent models. The whole original low-platform mechanical beam-scale exterior stands at front-left with its entire ground frame, broad empty platform, rear column, unequal-arm beam, bored poise and link appearances preserved. One complete upright two-wheel parcel handtruck is parked separately at front-right with its original grounded toe plate, bent frame, grip and wheels unchanged. Behind the right station stands one full empty six-cell sorting cabinet with all shelves, backs, dividers, legs and feet. Their distinct floor stations leave the scale platform front and handtruck toe clear of any load, and the cabinet face remains separated from the parked truck. No parcels or material are transferred. This is an empty low-platform handling/staging bay rather than the existing letter-tray/satchel sorting table room or tabletop electronic-scale desk with pickup locker. Every complete original GLB buffer, normal, PBR dictionary and internal node transform is preserved at unit scale. Only a finite low scene floor is new. Old scale metadata family is retained in its original provenance and no old component is relabelled as a new model. No weighing, calibration, load, transport, sorting service, door motion, ergonomic fit, accessibility, installation or public-safety capability. Rigging animation interaction not made.",
       "bounds": {
-        "x": 3.0,
+        "x": 3,
         "y": 2.4000000953674316,
         "z": 1.3299999237060547,
         "unit": "m"
@@ -66630,6 +66635,92 @@
       "status": "verified",
       "license": "All rights reserved",
       "sourceId": "original-qualified-batch-1503-volume02-20261025"
+    },
+    {
+      "id": "retail-whole-side-service-vehicle-and-picnic-forecourt-scene-01",
+      "version": "1.0.0",
+      "category": "scenes",
+      "assetKind": "scene",
+      "theme": "retail",
+      "style": "source-preserved-low-poly",
+      "title": "Whole Side Service Vehicle and Picnic Forecourt",
+      "description": "One static mobile-retail forecourt scene, one scene zero new reusable models. The entire original four-wheel side-service vehicle stands along the rear edge, retaining its closed cab, complete service chamber, fixed raised canopy, counter and inner worktop. A whole original integrated slatted picnic table with both attached benches stands separately toward the front-left; an entire original three-aperture waste collection frame with all liners and category shapes stands independently at the right. A clear strip separates the service counter frontage from the seating table, with no food, people or items bridging the stations. All three original models retain unit scale, complete source geometry, oriented buffers, local normals, internal node transforms and full opaque PBR. Only one low finite floor is new. This is a parked vehicle service frontage with separate seating and collection stations, not the two orthogonal market stalls/crossroads or the old protected camp stove and cookware bench. No driving, serving, cooking, hygiene, waste classification performance, public access, seating capacity, load, installation or safety capability. Rigging animation interaction not made.",
+      "bounds": {
+        "x": 7.199999809265137,
+        "y": 6.199999809265137,
+        "z": 2.6201999187469482,
+        "unit": "m"
+      },
+      "triangles": 3716,
+      "materials": 11,
+      "files": {
+        "glb": {
+          "path": "assets/retail/retail-whole-side-service-vehicle-and-picnic-forecourt-scene-01/v1.0.0/model.glb",
+          "size": 330016,
+          "sha256": "58238e32513bf6890661dfe3318f6b330edb628b65fb8c77c0ab42df172daf6f"
+        },
+        "blend": {
+          "path": "assets/retail/retail-whole-side-service-vehicle-and-picnic-forecourt-scene-01/v1.0.0/source.blend",
+          "size": 1438244,
+          "sha256": "2fe4b3e0773d46cb549a64802259adbfc4e9c093bd25356ab9b6f624dd6e7a51"
+        },
+        "generator": {
+          "path": "assets/retail/retail-whole-side-service-vehicle-and-picnic-forecourt-scene-01/v1.0.0/generate.py",
+          "size": 98254,
+          "sha256": "2a7bbfa5e9c9f9167127b63e4d4313ce076bc47ae1d720036480e21290767aa3"
+        },
+        "render": {
+          "path": "assets/retail/retail-whole-side-service-vehicle-and-picnic-forecourt-scene-01/v1.0.0/thumbnail.png",
+          "size": 497072,
+          "sha256": "d46451d3355dcf41495e9a750dfa732aa37e2068adc42e0b438a63143a314ba9"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1505-volume02-20261027"
+    },
+    {
+      "id": "education-fixed-cutaway-funnel-neck-and-orthogonal-plate-tube-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "education",
+      "style": "S01-clean-geometric",
+      "title": "Fixed Cutaway Funnel Neck and Orthogonal Plate Tube",
+      "description": "One wholly newly authored complete horizontal cathode-tube-style cutaway display on a single broad base with two whole concave saddles. A continuous long narrow neck widens through one thick open half-funnel to a complete broad circular opaque face and annular collar. The entire near-side shell half is intentionally absent with finite thick cut edges; this is real open geometry, not transparency or an inset painted on a solid body. A complete rear cap roots two fixed internal carrier rods, three separate whole hollow coaxial sleeves and two orthogonal pairs of whole blunt plates with their short integral-looking supports. No old source meshes imported. Unlike the old upright half-bulb with four radial rotor vanes, the enclosure is a long horizontal narrow-to-wide funnel and its interior is organized coaxially before two offset perpendicular plate pairs. Unlike the tall column observation console, there is no solid vertical stepped stack, observation cabinet or wing control desks. Dimensions and internals are deliberately simplified nontechnical artistic arrangement, not construction instructions or a faithful tube design. One complete static educational prop, zero scenes, four opaque constant untextured PBR roles, native metre-style Z up, centred horizontal envelope and base sole origin. No electron beam, radiation, vacuum, electrical circuit, voltage, electric field, display image, light emission, optical function, measurement, operating specifications, manufacture, assembly procedure, pressure, fit, load or equipment safety is made or verified. Rigging animation and interaction not made.",
+      "bounds": {
+        "x": 3.4,
+        "y": 2.14,
+        "z": 2.26,
+        "unit": "m"
+      },
+      "triangles": 2420,
+      "materials": 4,
+      "files": {
+        "glb": {
+          "path": "assets/education/education-fixed-cutaway-funnel-neck-and-orthogonal-plate-tube-01/v1.0.0/model.glb",
+          "size": 125160,
+          "sha256": "79ffc0b652055008051fa8864761619c26b1bcdd703764b529e8713f4e65a774"
+        },
+        "blend": {
+          "path": "assets/education/education-fixed-cutaway-funnel-neck-and-orthogonal-plate-tube-01/v1.0.0/source.blend",
+          "size": 749728,
+          "sha256": "b66f751dccc257ce28a1ef4553b968b7cc950f824d0a362283ed69dd3e6fede8"
+        },
+        "generator": {
+          "path": "assets/education/education-fixed-cutaway-funnel-neck-and-orthogonal-plate-tube-01/v1.0.0/generate.py",
+          "size": 28405,
+          "sha256": "5b2cef25f786b22659abd2476c7394e662c55c7e9f6459695b40105d9131a779"
+        },
+        "render": {
+          "path": "assets/education/education-fixed-cutaway-funnel-neck-and-orthogonal-plate-tube-01/v1.0.0/thumbnail.png",
+          "size": 570462,
+          "sha256": "d161cd5bfbbf31c9882fb21c82b871f257dbbb8b2d5dd2f9705c40ecd92a24e6"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1505-volume02-20261027"
     }
   ]
 }
