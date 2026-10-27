@@ -1,0 +1,43 @@
+{
+  "id": "sports-fixed-round-crown-and-single-pedestal-gymnastics-mushroom-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "sports",
+  "style": "low-poly",
+  "title": "Round Crown And Single Pedestal Gymnastics Mushroom",
+  "description": "One newly authored complete static gymnastics-mushroom-inspired visual prop. A broad low round crowned padded head has a continuous rounded shoulder, finite lower skirt and full underside, carried centrally on one short tapered circular pedestal above a complete wide low beveled circular foot. All three complete closed bodies are newly drawn from different radial profiles. The whole head is circular in plan with a radial crown and no handles, not an old long two-pommel horse with its handles deleted, not the offset directional vaulting-table head, and not a half-dome placed directly on a pierced balance platform. No prior mesh geometry is imported or extracted. Three opaque constant PBR roles, metre units Z up, whole horizontal bounds-centred ground origin. One original model zero scenes, unoccupied fixed display pose only. No gymnast, pommel, mat, text, logo or adjustable mechanism. Category-inspired appearance and game-space proportions only; no exact branded product, official dimensions, training instruction, exercise benefit, user fit, padding response, load, real-world stability, manufacture, installation, use suitability or safety certification. No rigging, animation or interaction.",
+  "bounds": {
+    "x": 0.8399999737739563,
+    "y": 0.8399999737739563,
+    "z": 0.6060000061988831,
+    "unit": "m"
+  },
+  "triangles": 1568,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/sports/sports-fixed-round-crown-and-single-pedestal-gymnastics-mushroom-01/v1.0.0/model.glb",
+      "size": 134648,
+      "sha256": "67fe442df92dabf7509614576fcc9363b60af41ad9155594a391dcd2f6e24d1d"
+    },
+    "blend": {
+      "path": "assets/sports/sports-fixed-round-crown-and-single-pedestal-gymnastics-mushroom-01/v1.0.0/source.blend",
+      "size": 707228,
+      "sha256": "5a65885ea804a3d372b49f680eb6017e800ad5f39420b25c1a36dd066977d522"
+    },
+    "generator": {
+      "path": "assets/sports/sports-fixed-round-crown-and-single-pedestal-gymnastics-mushroom-01/v1.0.0/generate.py",
+      "size": 17973,
+      "sha256": "1854137c98133424ece63699818bfcf833d6b3752bbd1474b70fe830f83f23c4"
+    },
+    "render": {
+      "path": "assets/sports/sports-fixed-round-crown-and-single-pedestal-gymnastics-mushroom-01/v1.0.0/thumbnail.png",
+      "size": 528081,
+      "sha256": "bbd96427df1369f8268d21cd0c476406153086bbfd70271c166195e89ca24847"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved",
+  "sourceId": "sports-current-dot-originals-20261027"
+}
