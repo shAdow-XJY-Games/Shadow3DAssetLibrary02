@@ -2384,6 +2384,11 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary02",
       "commit": "f93cc68ed85919b1e87de9b22f64287a4fbbc4e0"
+    },
+    "original-qualified-batch-1795-volume02-20261025": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary02",
+      "commit": "15638b3a71d7ccc3c0544cddef47db5912003cc1"
     }
   },
   "assets": [
@@ -79528,6 +79533,49 @@
       "status": "verified",
       "license": "All rights reserved",
       "sourceId": "original-qualified-batch-1794-volume02-20261025"
+    },
+    {
+      "id": "kitchen-whole-perforated-colander-and-balloon-whisk-preparation-bay-scene-01",
+      "version": "1.0.0",
+      "category": "scenes",
+      "assetKind": "scene",
+      "theme": "kitchen",
+      "style": "source-preserved-low-poly",
+      "title": "Whole Perforated Colander and Balloon Whisk Preparation Bay",
+      "description": "One complete static empty kitchen preparation display, one new scene zero new independent models. One entire qualified twin-loop perforated colander stands at the left of a continuous counter-height-display slab, while one whole qualified balloon-wire whisk lies separately at the right. Both original whole props remain in their accepted resting poses, supported by the same flat upper datum and separated across X. A low continuous rear backsplash and short left return frame the open front and right working area. Exact original GLB buffers, vertex positions, normals, material dictionaries, face assignments and internal hierarchies remain untouched under unit-scale whole translations only. No model cropping, wire or bowl-part extraction, recolour, scaling or repeat model count. This open straining-and-whisk tool arrangement differs from a rolling-pin/ribbon-blender board or a dough-mixer/sheeter bay. Only the connected slab and low backsplash boundary are new scene environment. Empty static game art only: no food, water, real washing or mixing workflow, food-contact suitability, drainage, loading, stability, ergonomics, architectural construction, manufacture or safety capability. Rigging animation and interaction are not made.",
+      "bounds": {
+        "x": 1.0,
+        "y": 0.6399999856948853,
+        "z": 0.2199999988079071,
+        "unit": "m"
+      },
+      "triangles": 9080,
+      "materials": 8,
+      "files": {
+        "glb": {
+          "path": "assets/kitchen/kitchen-whole-perforated-colander-and-balloon-whisk-preparation-bay-scene-01/v1.0.0/model.glb",
+          "size": 776332,
+          "sha256": "0c44af22c941e8881ca541b5fd845cbd1a5ba13960d4d2e6757e710b0233a9a1"
+        },
+        "blend": {
+          "path": "assets/kitchen/kitchen-whole-perforated-colander-and-balloon-whisk-preparation-bay-scene-01/v1.0.0/source.blend",
+          "size": 1736944,
+          "sha256": "b341b439a03c555afdeffb348edc3497a33e82f7e8aa1546546b0ffa56425d4e"
+        },
+        "generator": {
+          "path": "assets/kitchen/kitchen-whole-perforated-colander-and-balloon-whisk-preparation-bay-scene-01/v1.0.0/generate.py",
+          "size": 242606,
+          "sha256": "5c2f4605aa337cf667ea645874c3dcb66397ae8b9a93676babc64dda277e75e4"
+        },
+        "render": {
+          "path": "assets/kitchen/kitchen-whole-perforated-colander-and-balloon-whisk-preparation-bay-scene-01/v1.0.0/thumbnail.png",
+          "size": 494043,
+          "sha256": "0def5bcd38348dfc8f997b53af052835bc1611f0d12e60cb8a4973562ee0a9fb"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1795-volume02-20261025"
     }
   ]
 }
