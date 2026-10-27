@@ -1,0 +1,42 @@
+{
+  "id": "industrial-whole-empty-h-press-and-bearing-preparation-bay-scene-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "industrial",
+  "style": "source-preserved-low-poly",
+  "title": "Whole Empty H Press and Bearing Preparation Bay",
+  "description": "One static press-maintenance equipment preparation bay, one scene zero new reusable models. The whole original floor-standing pierced H-frame press occupies the left station with both long feet, five-port uprights, pinned open bed rails, fixed blunt ram, side pump and complete hose intact. Its work interval remains entirely empty. A separate complete worktable at right supports the entire fixed raised-cap bearing housing and one complete three-hook spindle puller, each on its own original bottom patches and with a visible tabletop gap. The cap stays on its original studs; the puller remains empty and is not fitted around the housing or installed under the press. Every original unit-scale geometry buffer, local normal, internal hierarchy and full opaque PBR dictionary is preserved. Only a finite low floor and whole translations are new. This ordinary maintenance preparation workspace differs in complete equipment and independent floor/bench arrangement from the twin raised forming tools and front brake station, or the knee mill with a separately raised index head. No workpiece, pressing, extraction, shaft fit, disassembly sequence, machinery compatibility, force, load, rated access, manufacturing or workplace-safety capability. Small tabletop details are subordinate at scene scale. Rigging animation interaction not made.",
+  "bounds": {
+    "x": 3.5999999046325684,
+    "y": 2.299999952316284,
+    "z": 1.8199999332427979,
+    "unit": "m"
+  },
+  "triangles": 7240,
+  "materials": 13,
+  "files": {
+    "glb": {
+      "path": "assets/industrial/industrial-whole-empty-h-press-and-bearing-preparation-bay-scene-01/v1.0.0/model.glb",
+      "size": 655168,
+      "sha256": "6eabe46987ed86b6beb5027cbceb77f7a8a29bc716b5a112804d3a0e98f5af25"
+    },
+    "blend": {
+      "path": "assets/industrial/industrial-whole-empty-h-press-and-bearing-preparation-bay-scene-01/v1.0.0/source.blend",
+      "size": 1920928,
+      "sha256": "8ddfd835ba9b50f3c1dbc1e182ccb409881eb9f4ce430db1cbb331b8c5975d17"
+    },
+    "generator": {
+      "path": "assets/industrial/industrial-whole-empty-h-press-and-bearing-preparation-bay-scene-01/v1.0.0/generate.py",
+      "size": 176909,
+      "sha256": "e0a2ce769d52d4e32130d6a22ef7dca3b5a09d7c05e6d6f189c9841a332a94e5"
+    },
+    "render": {
+      "path": "assets/industrial/industrial-whole-empty-h-press-and-bearing-preparation-bay-scene-01/v1.0.0/thumbnail.png",
+      "size": 491727,
+      "sha256": "91e156f860ed6c27bef7c0e6f82e467be79a102dfa660f406f7fc54d77ba2bf2"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

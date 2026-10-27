@@ -1,0 +1,42 @@
+{
+  "id": "industrial-whole-ground-wheel-machines-and-raised-bench-preparation-bay-scene-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "industrial",
+  "style": "source-preserved-low-poly",
+  "title": "Whole Ground Wheel Machines and Raised Bench Preparation Bay",
+  "description": "One static empty grinding-equipment preparation bay, one scene zero new independent models. The complete original opposed-periphery wheel machine stands on the left floor station with its broad ground foot, two independent wheel housings and through-rest blade unchanged. The complete original long-bed overhead-wheel surface machine stands separately on the right rear floor station. A whole original open worktable stands forward on the right and supports the entire original compact twin-wheel bench grinder on its actual full planar base. A central gap and an open front approach to the larger left machine remain empty. Every original mesh, oriented vertex/index and normal buffer, internal hierarchy and complete PBR dictionary is preserved at unit scale under translation-only whole-instance wrappers. No old component is extracted, resized, recoloured or counted again. Only whole placements and one finite low scene-only floor are new. This differs from the prior two raised sanders and parked collector, and from the two table-mounted formers behind a central brake: two independent full floor-standing peripheral-wheel machines are staged beside one raised compact instrument station. No workpiece, abrasive contact, drive or power connection, coolant, dust system, actual grinding, precision, guarding effectiveness, operator access certification, process flow, machine compatibility, load or machinery safety claim. Rigging animation interaction not made and outside scope.",
+  "bounds": {
+    "x": 5.400000095367432,
+    "y": 3.9000000953674316,
+    "z": 1.7379999160766602,
+    "unit": "m"
+  },
+  "triangles": 10968,
+  "materials": 14,
+  "files": {
+    "glb": {
+      "path": "assets/industrial/industrial-whole-ground-wheel-machines-and-raised-bench-preparation-bay-scene-01/v1.0.0/model.glb",
+      "size": 735456,
+      "sha256": "95942b5028e0519cf56173f03d6959151f87cc1f27930ca7c667f43f493b1a95"
+    },
+    "blend": {
+      "path": "assets/industrial/industrial-whole-ground-wheel-machines-and-raised-bench-preparation-bay-scene-01/v1.0.0/source.blend",
+      "size": 263602,
+      "sha256": "16c7caaf1ded7d9c56fcd5a9fe396f191e4d1176f1f2f1b5e0fca5e6bd013880"
+    },
+    "generator": {
+      "path": "assets/industrial/industrial-whole-ground-wheel-machines-and-raised-bench-preparation-bay-scene-01/v1.0.0/generate.py",
+      "size": 199524,
+      "sha256": "8be00bf5fb02b16c83c290bcf8b8bd2c912715a20be70c5d0de5bd1f6e0448c0"
+    },
+    "render": {
+      "path": "assets/industrial/industrial-whole-ground-wheel-machines-and-raised-bench-preparation-bay-scene-01/v1.0.0/thumbnail.png",
+      "size": 486815,
+      "sha256": "668babaa4055b5309c74ed09cfacb8f7aaa9348c114c98e9d59326b86517c104"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

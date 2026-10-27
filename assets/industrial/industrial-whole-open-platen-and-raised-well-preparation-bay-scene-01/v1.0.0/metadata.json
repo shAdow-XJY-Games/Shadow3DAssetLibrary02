@@ -1,0 +1,42 @@
+{
+  "id": "industrial-whole-open-platen-and-raised-well-preparation-bay-scene-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "industrial",
+  "style": "source-preserved-low-poly",
+  "title": "Whole Open Platen and Raised Well Preparation Bay",
+  "description": "One static industrial forming-equipment preparation bay, one scene zero new independent models. The entire qualified long open-platen and coaxial hopper-barrel machine stands at the left floor station, retaining all four feet, full tie rods, separated empty tooling blocks, barrel, open hopper and blank control housing. The entire qualified perforated-well and retracted-hood former stands separately at right on a simple broad low scene-only plinth, retaining all four pads, genuine pierced plate, raised empty clamp ring, side lever and rear-retracted hood. The original former is too deep for the ordinary worktable; no old furniture or equipment is scaled, trimmed or substituted. Every original raw buffer, local normal, whole hierarchy and full opaque PBR dictionary remains unchanged at unit scale. The former and plinth have a visible lateral gap from the long machine, and both front faces open toward the empty shared foreground. Only two whole translations plus one finite floor and plain supporting plinth are new scene geometry. Unlike the old three-station metal-forming workcorner with two small table-mounted roll/bend devices and a separate brake, this shows an entire long clamp/feed machine and a large deep-well overhead-hood appliance. Unlike the H-press and bearing/puller preparation bay there is no small-tool tabletop or press opening populated with parts. No plastic, mould insert, material transfer, pressure, heating, vacuum, injection, clamping, controls, movement, operating instructions, ergonomic fit, installation, load or machinery safety capability. Rigging animation interaction not made.",
+  "bounds": {
+    "x": 7.400000095367432,
+    "y": 3.299999952316284,
+    "z": 2.3899998664855957,
+    "unit": "m"
+  },
+  "triangles": 3664,
+  "materials": 10,
+  "files": {
+    "glb": {
+      "path": "assets/industrial/industrial-whole-open-platen-and-raised-well-preparation-bay-scene-01/v1.0.0/model.glb",
+      "size": 192580,
+      "sha256": "330f6549d5f1d4fd77b19481d22fc2f3ac0c1f6f0804036c94a94a49f2810a75"
+    },
+    "blend": {
+      "path": "assets/industrial/industrial-whole-open-platen-and-raised-well-preparation-bay-scene-01/v1.0.0/source.blend",
+      "size": 1284860,
+      "sha256": "c104fa94d3df2f12401da668897caff7e86db864930162ab136bd4eff794f1e2"
+    },
+    "generator": {
+      "path": "assets/industrial/industrial-whole-open-platen-and-raised-well-preparation-bay-scene-01/v1.0.0/generate.py",
+      "size": 93879,
+      "sha256": "cbe7ec6132a6272038ddd40c996f6338a7f8a4afac62964a88ae1c7f9668d847"
+    },
+    "render": {
+      "path": "assets/industrial/industrial-whole-open-platen-and-raised-well-preparation-bay-scene-01/v1.0.0/thumbnail.png",
+      "size": 498406,
+      "sha256": "715622c71710928b7cb01b5ea6bb9790eff531db32bf58352de9534da4890bd9"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

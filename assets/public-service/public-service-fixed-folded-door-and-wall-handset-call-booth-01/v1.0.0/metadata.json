@@ -1,0 +1,42 @@
+{
+  "id": "public-service-fixed-folded-door-and-wall-handset-call-booth-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "public-service",
+  "style": "S01-clean-geometric",
+  "title": "Folded Door and Wall Handset Call Booth",
+  "description": "One newly authored complete fixed public call-booth exterior and open interior. A continuous four-corner framed shell has real open side windows and one solid rear mounting wall above an integral ground floor. A low flat roof closes the top. Two entire thick windowed entrance leaves form one fixed inward-folded pair around a continuous common hinge and left jamb, leaving the remaining front opening empty. A newly drawn wall-mounted phone body has real blind coin and return recesses, a blank keypad and one whole vertically bridged bulb-ended handset on a short bracket; one continuous curved cord returns to that same body. This is not the old table telephone placed into a service-window kiosk: no desktop base, rotary finger wheel, front counter, hipped striped roof or rear staff door is imported. Every visible surface is newly authored. Four opaque untextured PBR roles, metre Z-up ground-centred envelope; one model zero scenes. Side and door windows are deliberately unglazed real openings, no transparent glass promise. Static artistic depiction only: no calling, signal, circuit, payment, sound, door travel, privacy, weatherproofing, human fit, accessible passage, occupancy, manufacture, installation or safety capability. Rigging animation and interaction not made.",
+  "bounds": {
+    "x": 1.19,
+    "y": 1.19,
+    "z": 2.3600000000000003,
+    "unit": "m"
+  },
+  "triangles": 1796,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/public-service/public-service-fixed-folded-door-and-wall-handset-call-booth-01/v1.0.0/model.glb",
+      "size": 89624,
+      "sha256": "fc8240725a5d5197d7526e741c7b2e570e9f11c03788c5df4f075690df10b47a"
+    },
+    "blend": {
+      "path": "assets/public-service/public-service-fixed-folded-door-and-wall-handset-call-booth-01/v1.0.0/source.blend",
+      "size": 752804,
+      "sha256": "02a0d35f16568afb77aa510a8237dc27305aec295d9509165c625a4f353fb86b"
+    },
+    "generator": {
+      "path": "assets/public-service/public-service-fixed-folded-door-and-wall-handset-call-booth-01/v1.0.0/generate.py",
+      "size": 13072,
+      "sha256": "1e63e364febf0fe7ce8f954519421c0cb845f0c6231620483679af184d44dff1"
+    },
+    "render": {
+      "path": "assets/public-service/public-service-fixed-folded-door-and-wall-handset-call-booth-01/v1.0.0/thumbnail.png",
+      "size": 480372,
+      "sha256": "085fead945373c65c2836878d94b5b513fcd1c15630918f79003c75f4056dc5e"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

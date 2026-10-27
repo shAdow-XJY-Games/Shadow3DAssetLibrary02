@@ -1,0 +1,42 @@
+{
+  "id": "wetland-whole-otter-dry-margin-and-split-channel-scene-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "wetland",
+  "style": "source-preserved-faceted-natural-ecology",
+  "title": "Whole Otter Dry Margin and Split Channel",
+  "description": "One static wetland wildlife scene, one scene and zero new reusable models. One entire original low webbed-paw otter stands on a new scene-only broad level dry margin adjoining one entire original split-and-rejoined river terrain. Both whole unequal river branches and enclosed dry island remain visible, with original sloping banks unmodified. All four original animal soles contact the level margin; the animal is not warped onto the irregular old island. Complete input meshes, oriented triangles and constant opaque PBR retained with unit scale and translations only, world hierarchy baked and normals regenerated rather than original NORMAL bytes. New scene-only basal slab and level dry-bank extension are intentional block stylization with a 1mm side separation, not a seamless traversable bank or new independent terrain model. No swimming, fluid dynamics, species accuracy, habitat suitability, traversal or safety claim. Rig animation and interaction not made.",
+  "bounds": {
+    "x": 6.400000095,
+    "y": 5.0,
+    "z": 1.335000038,
+    "unit": "m"
+  },
+  "triangles": 4928,
+  "materials": 10,
+  "files": {
+    "glb": {
+      "path": "assets/wetland/wetland-whole-otter-dry-margin-and-split-channel-scene-01/v1.0.0/model.glb",
+      "size": 317780,
+      "sha256": "f2ce010ee86557986b995e8c2986ffd617b2b5d4fddfb685d383f02be39938d8"
+    },
+    "blend": {
+      "path": "assets/wetland/wetland-whole-otter-dry-margin-and-split-channel-scene-01/v1.0.0/source.blend",
+      "size": 998232,
+      "sha256": "1d28a5b8aa166553aabc53d0f119ef553557eb93a83fd496379a3378250e1ca4"
+    },
+    "generator": {
+      "path": "assets/wetland/wetland-whole-otter-dry-margin-and-split-channel-scene-01/v1.0.0/generate.py",
+      "size": 127339,
+      "sha256": "385c36157cb44e5fc00c5fd22f1e856131e2b4c2993c7a0ad54d2765c297e785"
+    },
+    "render": {
+      "path": "assets/wetland/wetland-whole-otter-dry-margin-and-split-channel-scene-01/v1.0.0/thumbnail.png",
+      "size": 518531,
+      "sha256": "a0cdf3430484c471d80b65563f308ec68baf42741911be346c800033aed12d9a"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

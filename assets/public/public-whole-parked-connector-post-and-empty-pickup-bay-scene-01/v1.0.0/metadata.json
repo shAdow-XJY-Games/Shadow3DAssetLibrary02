@@ -1,0 +1,42 @@
+{
+  "id": "public-whole-parked-connector-post-and-empty-pickup-bay-scene-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "public",
+  "style": "source-preserved-low-poly",
+  "title": "Whole Parked Connector Post and Empty Pickup Bay",
+  "description": "One static public equipment and parked-vehicle bay, one scene zero new models. A complete original open-bed pickup remains empty and separate on the main finite parking floor. The complete through-bay charging-post-style exterior stands on a low side island, with its entire hanging cable and connector retained in the original holster. Whole original buffers, normals, hierarchy and PBR remain unchanged at unit scale. No cable connects to the vehicle; no electric drivetrain or compatibility is asserted. Scene-only floor and side island establish a parked vehicle area and separate equipment strip with visible gap. Unlike the old haul-truck bridge/ticket entry this has no elevated weighing bridge, ramps or booth; unlike the airport ground-service corner it contains no tanker, boarding stair, towbar or chocks. This is not a relabelled finished scene. Static visual arrangement only; no charging, electrical function, vehicle fit, access certification, driving, load or safety performance; rigging animation interaction absent.",
+  "bounds": {
+    "x": 5.199999809265137,
+    "y": 6.0,
+    "z": 2.1499998569488525,
+    "unit": "m"
+  },
+  "triangles": 6512,
+  "materials": 11,
+  "files": {
+    "glb": {
+      "path": "assets/public/public-whole-parked-connector-post-and-empty-pickup-bay-scene-01/v1.0.0/model.glb",
+      "size": 426036,
+      "sha256": "b1c51346d8f523c4172ecbc2e0f9a6a8aa3f6e93c957cc429a5182cf18223c59"
+    },
+    "blend": {
+      "path": "assets/public/public-whole-parked-connector-post-and-empty-pickup-bay-scene-01/v1.0.0/source.blend",
+      "size": 1816420,
+      "sha256": "6fb6f50fe5dc61ba3299c22a741d36e66179491dfa94f408c750d1f84cfdd302"
+    },
+    "generator": {
+      "path": "assets/public/public-whole-parked-connector-post-and-empty-pickup-bay-scene-01/v1.0.0/generate.py",
+      "size": 135012,
+      "sha256": "da5fab855be42bce950540084a3f9066f7fe1eb42f43f0d42e2d2525dd4400a8"
+    },
+    "render": {
+      "path": "assets/public/public-whole-parked-connector-post-and-empty-pickup-bay-scene-01/v1.0.0/thumbnail.png",
+      "size": 501912,
+      "sha256": "eb73a14ebc66c743f26a54b8cc907bd7a48122e874292d8a2a55299449e19551"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

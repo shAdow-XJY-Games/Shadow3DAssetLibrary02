@@ -1,0 +1,42 @@
+{
+  "id": "navigation-whole-helm-binnacle-and-order-display-bay-scene-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "navigation",
+  "style": "source-preserved-low-poly",
+  "title": "Whole Helm Binnacle and Order Display Bay",
+  "description": "One static maritime instrument display bay, one scene and zero new models. Three complete qualified originals preserve every raw mesh buffer, normal, opaque material and internal hierarchy at original metre scale. A complete open wheel and cast helm pedestal stands front-left, the complete open-hood gimbal binnacle occupies an independent forward-left station behind it, and the entire double-faced curved-lever order telegraph stands to the right. All three original ground soles rest on a simple finite common floor with real open separation. No models are dismantled, no control parts removed and no interconnecting lines or ship hull added. Unlike the old map-stand and flat-compass planning pad or raised field-survey terrace with flags, this is an empty display of three separate full-height marine instruments with an open approach in front and between the stations. No navigation, steering, signalling, calibration, ship installation, visibility alignment, occupancy or safety capability is modeled or claimed. This is not a claim of an unprecedented generic floor layout. Rigging, animation and interaction are not made.",
+  "bounds": {
+    "x": 3.799999952316284,
+    "y": 3.299999952316284,
+    "z": 1.6649999618530273,
+    "unit": "m"
+  },
+  "triangles": 12124,
+  "materials": 13,
+  "files": {
+    "glb": {
+      "path": "assets/navigation/navigation-whole-helm-binnacle-and-order-display-bay-scene-01/v1.0.0/model.glb",
+      "size": 666800,
+      "sha256": "722df5fbdf634848aa9cbc94d52b096c3712df7710ee5917fc9bfe3a56810339"
+    },
+    "blend": {
+      "path": "assets/navigation/navigation-whole-helm-binnacle-and-order-display-bay-scene-01/v1.0.0/source.blend",
+      "size": 2243548,
+      "sha256": "c5f2dd104834f5d92e6113739d4eaf76a5ffbf92485a23bc11d517bfa8944759"
+    },
+    "generator": {
+      "path": "assets/navigation/navigation-whole-helm-binnacle-and-order-display-bay-scene-01/v1.0.0/generate.py",
+      "size": 254625,
+      "sha256": "1e25a17a5a016f386db7ab186c2ada8bbe52eb23cf1d0cd2125df1ee6030c096"
+    },
+    "render": {
+      "path": "assets/navigation/navigation-whole-helm-binnacle-and-order-display-bay-scene-01/v1.0.0/thumbnail.png",
+      "size": 507175,
+      "sha256": "bc5e988f31804a3a975999136ffc9eb7d68b8fdbcb578a86a7e35efaa2f06b88"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

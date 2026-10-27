@@ -1,0 +1,42 @@
+{
+  "id": "public-fixed-wide-head-and-trunnion-pedestal-viewer-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "public",
+  "style": "source-preserved-low-poly",
+  "title": "Fixed Wide Head and Trunnion Pedestal Viewer",
+  "description": "One newly authored complete fixed public-viewing-instrument exterior. A single broad closed shouldered head casing contains the back walls of two genuinely deep front circular blind recesses and two smaller rear eyecups. The single connected wide head is not a pair of imported handheld binocular bodies or a telescope tube. A continuous transverse axle carries the head inside one whole open U-shaped fork, leaving real side and under-head gaps. The fork is seated on a thick vertical pedestal with one complete broad circular grounded foot; a whole rear arched grasp frame has two embedded roots and a visible hand opening behind the casing. All coordinates authored for this entire mounted object. Unlike the old handheld binoculars there is no open central bridge between separate prism barrels; unlike the three-foot single-tube telescope there is no long tube, tripod or mounting collar. Three opaque constant PBR roles, metre units Z up, whole horizontal bounds-centred ground datum; one model zero scenes. Empty fixed visual instrument only: no transparent optics, magnification, focus, view generation, turning mechanism, coin/payment system, electrical supply, person fit, handling, installation, load or public-use safety capability. Rigging animation interaction not made.",
+  "bounds": {
+    "x": 0.8619999885559082,
+    "y": 0.6739888787269592,
+    "z": 1.8049999475479126,
+    "unit": "m"
+  },
+  "triangles": 2468,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/public/public-fixed-wide-head-and-trunnion-pedestal-viewer-01/v1.0.0/model.glb",
+      "size": 215968,
+      "sha256": "1e9f74592e4d1ba91afad31429cde4f2ae94cb5e6def1dbf93054c63eeaba045"
+    },
+    "blend": {
+      "path": "assets/public/public-fixed-wide-head-and-trunnion-pedestal-viewer-01/v1.0.0/source.blend",
+      "size": 860864,
+      "sha256": "610c67a2bcac548fb19d36d091647ee6b352b679d65dd83c3bbbdad4d57a2214"
+    },
+    "generator": {
+      "path": "assets/public/public-fixed-wide-head-and-trunnion-pedestal-viewer-01/v1.0.0/generate.py",
+      "size": 16201,
+      "sha256": "31b71a30df830a99b0c8daa9d2578378a6afcfe8f9bca1cb5e941a7d8ea5aa17"
+    },
+    "render": {
+      "path": "assets/public/public-fixed-wide-head-and-trunnion-pedestal-viewer-01/v1.0.0/thumbnail.png",
+      "size": 464123,
+      "sha256": "81a22bdd62c14121641074ae0122165e1985333389d08f23da7f0c030828f1ac"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

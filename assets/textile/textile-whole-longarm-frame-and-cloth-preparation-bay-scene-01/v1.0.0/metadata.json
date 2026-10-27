@@ -1,0 +1,42 @@
+{
+  "id": "textile-whole-longarm-frame-and-cloth-preparation-bay-scene-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "textile",
+  "style": "source-preserved-low-poly",
+  "title": "Whole Longarm Frame and Cloth Preparation Bay",
+  "description": "One static textile preparation bay, one scene and zero new independent models. Three complete qualified originals preserve all original raw buffers, normals, opaque PBR, internal hierarchy and unit scale. One full longarm quilting assembly occupies the left station with its whole four-leg chassis, two-stage carriage, complete head and two original cloth rolls plus their one continuous blank sheet unchanged. A separate complete open worktable on the right supports the whole three-wrap cloth bolt and its independent flat core, including the original short grounded tail and all exposed layer gaps. The loose bolt does not feed into, attach to or replace the machine cloth. Only a common low floor is new scene geometry. Unlike the old single cutting tabletop with shears, ruler and pin cushion, this juxtaposes a full freestanding roll-held machine field and a separate plain cloth-staging surface; unlike the knitting and yarn corner it has no two tabletop devices or floor yarn swift. This is a real whole-object workspace combination, not a claim of unprecedented universal floorplan. No sewing, cutting, winding, thread or material compatibility, workflow, motion, human suitability, navigation, loads, installation or safety capability. Rigging animation and interaction not made.",
+  "bounds": {
+    "x": 4.599999904632568,
+    "y": 3.4000000953674316,
+    "z": 1.7999999523162842,
+    "unit": "m"
+  },
+  "triangles": 3732,
+  "materials": 10,
+  "files": {
+    "glb": {
+      "path": "assets/textile/textile-whole-longarm-frame-and-cloth-preparation-bay-scene-01/v1.0.0/model.glb",
+      "size": 231120,
+      "sha256": "1f0b7a1be3504e2b980bdd3ad0a969047271bb33af475f1aa8d29a3a833215b2"
+    },
+    "blend": {
+      "path": "assets/textile/textile-whole-longarm-frame-and-cloth-preparation-bay-scene-01/v1.0.0/source.blend",
+      "size": 1451748,
+      "sha256": "19572e39f44997d5eeea088fd9d392f2d0e412d0ba86af3cdd1dc33bdd6698d6"
+    },
+    "generator": {
+      "path": "assets/textile/textile-whole-longarm-frame-and-cloth-preparation-bay-scene-01/v1.0.0/generate.py",
+      "size": 91862,
+      "sha256": "e2575cf4cd56f455c81cf2672205eed2205a39ed72e6df27e9b56be907f6a5d8"
+    },
+    "render": {
+      "path": "assets/textile/textile-whole-longarm-frame-and-cloth-preparation-bay-scene-01/v1.0.0/thumbnail.png",
+      "size": 507458,
+      "sha256": "0097b432926cfd750b2e76ab261ee3f03a29450b05caca9485fa904e7b7cff00"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

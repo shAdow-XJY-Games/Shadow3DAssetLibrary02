@@ -1,0 +1,42 @@
+{
+  "id": "construction-fixed-inclined-drum-and-rear-feed-chute-transit-mixer-01",
+  "version": "1.0.0",
+  "category": "vehicles",
+  "assetKind": "prop",
+  "theme": "construction",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Inclined Drum and Rear Feed Chute Transit Mixer",
+  "description": "One wholly newly authored complete inclined-drum transport-vehicle static exterior. A full open ladder chassis on three complete axles and six whole road wheels carries a forward raked cab with opaque divided glazing and an independent inclined thick pear-shaped drum. The drum has a closed front, real hollow interior and narrowed open rear mouth. A separate front raised axial pedestal and a rear full running-band/two-roller support establish a longitudinal drum mounting unlike the old portable mixer U-cradle, transverse trunnions, control handwheel and two-wheel frame. Behind the drum, a complete high two-post frame supports an actual through feed hopper above the mouth and a separate long continuous thick U-section trough curving downward and to one side below it. This whole arrangement is not the old Z-fold pump truck with its delivery pipe removed: no deployed outriggers, boom, pump casing or receiving bin exists. Every visible coordinate is newly authored; no prior truck, mixer, shell or wheel mesh imported. One complete static prop zero scenes; four constant opaque untextured PBR materials, native metre-style Z up, all tyre facets on the ground datum and horizontal bounds centred. Empty stylized art only; no concrete, mixing paddles, motor interior, drum rotation, roller contact performance, material flow, feeding, pouring, loading, transport, steering, human fit, chassis strength, engineering compatibility, manufacture, operation or safety validation. Rigging animation and interaction not made or verified.",
+  "bounds": {
+    "x": 2.29,
+    "y": 7.87,
+    "z": 3.38,
+    "unit": "m"
+  },
+  "triangles": 3820,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/construction/construction-fixed-inclined-drum-and-rear-feed-chute-transit-mixer-01/v1.0.0/model.glb",
+      "size": 193252,
+      "sha256": "9a8886e6b0414a476bd4740731c756290f5edac5bd3fa8556b66481349bf197c"
+    },
+    "blend": {
+      "path": "assets/construction/construction-fixed-inclined-drum-and-rear-feed-chute-transit-mixer-01/v1.0.0/source.blend",
+      "size": 951452,
+      "sha256": "885f125f58624e76fad8f1be11efff244c7fded1cf974d9004f59a799a98bf99"
+    },
+    "generator": {
+      "path": "assets/construction/construction-fixed-inclined-drum-and-rear-feed-chute-transit-mixer-01/v1.0.0/generate.py",
+      "size": 32678,
+      "sha256": "c38578a786dd5cb98b3848955b0bf0ca8857992820f0fb3f6793bb195d8376f5"
+    },
+    "render": {
+      "path": "assets/construction/construction-fixed-inclined-drum-and-rear-feed-chute-transit-mixer-01/v1.0.0/thumbnail.png",
+      "size": 588094,
+      "sha256": "74dec2b748c2b20e67977a52d1d8f675da1a65cff8414644ef59f76a3a488163"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

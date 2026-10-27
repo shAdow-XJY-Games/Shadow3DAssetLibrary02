@@ -1,0 +1,42 @@
+{
+  "id": "carpentry-whole-belt-drum-and-parked-collector-preparation-bay-scene-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "carpentry",
+  "style": "source-preserved-low-poly",
+  "title": "Whole Belt Drum and Parked Collector Preparation Bay",
+  "description": "One static woodworking sanding-equipment preparation bay, one scene zero new reusable models. Two complete original open worktables stand at separated rear left and rear right floor stations. The left supports the entire original long closed-belt and side-disc bench machine, rigidly quarter-turned with its entire original broad base on the actual flat tabletop; its small side disc table overhang remains part of the unchanged machine. The right supports one complete original through-table upright-drum bench machine on all original feet. A whole original mobile dust collector is parked independently toward the foreground, preserving every caster, motor, bare inlet, opaque bag and pleated upper filter. No hose is supplied or connected and no stock or tool bridges the stations. The original collector casters retain line-like visual tangencies, not invented positive-area pads or a stability claim. Every old buffer, local normal, complete hierarchy and PBR dictionary remains unchanged at unit scale. Only whole rigid placements and one finite low scene floor are new; the two table copies are not new models. This is a two-raised-sander and independently parked collector preparation environment rather than the old floor jointer with raised thickness planer, or the mitre saw table with roller and canister vacuum. No sanding action, abrasive performance, dust capture, airflow, electrical operation, hose fit, material processing, rated loading, human access or machinery safety capability. Rigging animation interaction not made.",
+  "bounds": {
+    "x": 3.5999999046325684,
+    "y": 2.9000000953674316,
+    "z": 1.4329999685287476,
+    "unit": "m"
+  },
+  "triangles": 19148,
+  "materials": 16,
+  "files": {
+    "glb": {
+      "path": "assets/carpentry/carpentry-whole-belt-drum-and-parked-collector-preparation-bay-scene-01/v1.0.0/model.glb",
+      "size": 1200168,
+      "sha256": "21ebf9e57f05fab4c27977980d2b81c90ee4f69ef87a383c69df3ac1d3e0454f"
+    },
+    "blend": {
+      "path": "assets/carpentry/carpentry-whole-belt-drum-and-parked-collector-preparation-bay-scene-01/v1.0.0/source.blend",
+      "size": 3674496,
+      "sha256": "3c4d8c3d2daded9eaaae65c0a5cc363138e467301fa1f328bceda6007dc78481"
+    },
+    "generator": {
+      "path": "assets/carpentry/carpentry-whole-belt-drum-and-parked-collector-preparation-bay-scene-01/v1.0.0/generate.py",
+      "size": 305800,
+      "sha256": "0cd5afe3f8c884246d38490964c12ffc7c100d1e4c45c8b2f9b962bca723f193"
+    },
+    "render": {
+      "path": "assets/carpentry/carpentry-whole-belt-drum-and-parked-collector-preparation-bay-scene-01/v1.0.0/thumbnail.png",
+      "size": 486216,
+      "sha256": "5c9be412f5268466eb1ebbe547e3c233022dbcfbdd59c6b744509d0994e378fb"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

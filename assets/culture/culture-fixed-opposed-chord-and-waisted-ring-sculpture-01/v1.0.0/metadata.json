@@ -1,0 +1,42 @@
+{
+  "id": "culture-fixed-opposed-chord-and-waisted-ring-sculpture-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "culture",
+  "style": "S01-clean-geometric",
+  "title": "Opposed Chord and Waisted Ring Sculpture",
+  "description": "One newly authored complete open waisted sculpture. A broad low annular ground foot and a narrower elevated annular crown bound two opposed families of continuous straight thick rods. Every rod runs from a lower circumference point to an angularly displaced upper point; their crossing circumferential courses form a genuinely open narrow middle and wider open ends. Both rod families are rooted inside the same two rings and intentionally intersect at visual welded crossings, rather than forming stacked triangular floors around three corner posts. No continuous curved tower wall, basin, colonnade, antennas, internal fill or separate pedestal is imported. All coordinates newly authored. Four opaque constant untextured PBR roles; metres, Z up, centred horizontal bounds. One complete cultural sculpture, zero scenes. Static artistic depiction only; no exact mathematical surface, topology proof, physical balance, structural loads, weld specification, fabrication, anchoring, public installation or safety performance. Rigging, animation and interaction not made.",
+  "bounds": {
+    "x": 2.04,
+    "y": 2.04,
+    "z": 2.48,
+    "unit": "m"
+  },
+  "triangles": 2176,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/culture/culture-fixed-opposed-chord-and-waisted-ring-sculpture-01/v1.0.0/model.glb",
+      "size": 127016,
+      "sha256": "d8e8870e1cc27c9d15797d56169d3f866744f7a65d1ebd61067b0bddbe742112"
+    },
+    "blend": {
+      "path": "assets/culture/culture-fixed-opposed-chord-and-waisted-ring-sculpture-01/v1.0.0/source.blend",
+      "size": 815228,
+      "sha256": "fa53e5d6c57f447dc240fe88be8f464796d94c72acf6009059476ac0832d14c0"
+    },
+    "generator": {
+      "path": "assets/culture/culture-fixed-opposed-chord-and-waisted-ring-sculpture-01/v1.0.0/generate.py",
+      "size": 9797,
+      "sha256": "a7234d3cf08d599832b0a23507ac45629c78ea1220fe34ef79a80ea33a0411b3"
+    },
+    "render": {
+      "path": "assets/culture/culture-fixed-opposed-chord-and-waisted-ring-sculpture-01/v1.0.0/thumbnail.png",
+      "size": 530940,
+      "sha256": "71b60b65af8e321d85206a8dc385af66b9abf4906508417ff8f3cbd040affa00"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

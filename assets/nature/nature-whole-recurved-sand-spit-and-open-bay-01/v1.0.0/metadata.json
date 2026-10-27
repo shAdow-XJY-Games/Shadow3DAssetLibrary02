@@ -1,0 +1,42 @@
+{
+  "id": "nature-whole-recurved-sand-spit-and-open-bay-01",
+  "version": "1.0.0",
+  "category": "modular",
+  "assetKind": "prop",
+  "theme": "nature",
+  "style": "warm-handcrafted-village",
+  "title": "Whole Recurved Sand Spit and Open Bay",
+  "description": "One newly authored whole stylised coastal landform: a broad raised mainland margin continues into a low narrow sand ridge that sweeps outward, curves back and ends in a free tapered hook. The sheltered inner bay remains openly connected to the surrounding flat sea-appearance surface through a broad unobstructed mouth. One continuous closed shared-vertex solid includes mainland, beach slopes, hook and all opaque water-coloured facets with one finite underside; no floating water plane or imported terrain mesh. This is not an enclosed horseshoe lake with a dry neck, or a standalone two-horn dune. Four constant matte PBR colours. One terrain model zero scenes. Static appearance only, no exact location, sediment processes, water flow/depth, tides, fluid simulation, navigation, collision, walkability or safety claim.",
+  "bounds": {
+    "x": 6.541191578,
+    "y": 5.299996376,
+    "z": 0.779999971,
+    "unit": "m"
+  },
+  "triangles": 2992,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/nature/nature-whole-recurved-sand-spit-and-open-bay-01/v1.0.0/model.glb",
+      "size": 113944,
+      "sha256": "00bd4bc9cf8850ea01e50ee07e535309cd0be35d29bcd27ecf3f45c243fdc911"
+    },
+    "blend": {
+      "path": "assets/nature/nature-whole-recurved-sand-spit-and-open-bay-01/v1.0.0/source.blend",
+      "size": 677036,
+      "sha256": "f2a6079660795bdf65fae53760b14afbb96b32eb87091217e1514107913f6888"
+    },
+    "generator": {
+      "path": "assets/nature/nature-whole-recurved-sand-spit-and-open-bay-01/v1.0.0/generate.py",
+      "size": 29043,
+      "sha256": "01588dd66dcd16d2ecc9db8861220dbd740f05db8429dc89e3c29f2c882124ad"
+    },
+    "render": {
+      "path": "assets/nature/nature-whole-recurved-sand-spit-and-open-bay-01/v1.0.0/thumbnail.png",
+      "size": 506475,
+      "sha256": "244275d45fa599ede32e28960dd20afb4d9dd6b0a269bfa314fe4e4f8506e82a"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

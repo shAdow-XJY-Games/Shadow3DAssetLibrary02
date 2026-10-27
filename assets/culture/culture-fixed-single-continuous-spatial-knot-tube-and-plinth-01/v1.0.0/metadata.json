@@ -1,0 +1,42 @@
+{
+  "id": "culture-fixed-single-continuous-spatial-knot-tube-and-plinth-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "culture",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Single Continuous Spatial Knot Tube and Plinth",
+  "description": "One wholly newly authored complete closed-tube sculpture on its own full low plinth. A single thick circular-section tube follows a three-lobed spatially interwoven closed path; the whole tube passes alternately in front of and behind its other portions, retaining genuine separated crossing passages and empty loop centres. Periodic shared vertices close one continuous tube without extra end caps or separate interlinked rings. A short complete fixed stem joins its lowest arc to a capped round plinth and bevelled ground foot. Unlike the old double-diamond ornament, there are no two independent cord annuli, hanging loop or tassel; unlike the half-twist band, this has no simple circular centre path or half-turn rectangular ribbon cross section. The new entire centre path is spatially self-knotted rather than adding lobes, rings or changing the old band colour. All coordinates newly authored, no old geometry imported. One model zero scenes, four opaque untextured PBR roles, metres Z up and whole horizontal bounds centred. A generic trefoil-inspired static artistic form only: no exact knot topology, theorem, rope-tying instructions, flexible simulation, physical equilibrium, structural capacity, public installation or safe touching/climbing claim. No text, person, transparency, binding, animation or interaction made or verified.",
+  "bounds": {
+    "x": 2.033872,
+    "y": 1.34,
+    "z": 2.450006,
+    "unit": "m"
+  },
+  "triangles": 4048,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/culture/culture-fixed-single-continuous-spatial-knot-tube-and-plinth-01/v1.0.0/model.glb",
+      "size": 303156,
+      "sha256": "738931cc3ad7adb3830fc19ce1a88c999070b5e6d974b635c69633d86d3d59f8"
+    },
+    "blend": {
+      "path": "assets/culture/culture-fixed-single-continuous-spatial-knot-tube-and-plinth-01/v1.0.0/source.blend",
+      "size": 754704,
+      "sha256": "8a6ea0e6bdc8dc857e2000f7ff2242df83053e77bba5427c964704b93fb68ebf"
+    },
+    "generator": {
+      "path": "assets/culture/culture-fixed-single-continuous-spatial-knot-tube-and-plinth-01/v1.0.0/generate.py",
+      "size": 25583,
+      "sha256": "2d7644c3d721f4fe1fb6255ea97ffd6113aaabf162b86c6405317d088a854d4b"
+    },
+    "render": {
+      "path": "assets/culture/culture-fixed-single-continuous-spatial-knot-tube-and-plinth-01/v1.0.0/thumbnail.png",
+      "size": 565482,
+      "sha256": "e767aee081a2533c28f2126bc1ec2c3cbb6a486e18474d0f92a9d90eeae1ecc5"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

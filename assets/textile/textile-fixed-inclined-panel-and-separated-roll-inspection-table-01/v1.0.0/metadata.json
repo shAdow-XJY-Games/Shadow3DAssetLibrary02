@@ -1,0 +1,42 @@
+{
+  "id": "textile-fixed-inclined-panel-and-separated-roll-inspection-table-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "textile",
+  "style": "source-preserved-low-poly",
+  "title": "Fixed Inclined Panel and Separated Roll Inspection Table",
+  "description": "One newly authored complete empty inclined textile-inspection-table appearance. Two complete deep side cheek frames and four ground pads support one broad thick sloping blank panel. A lower forward full-width roll and a separate upper rear full-width roll have continuous axles in four independent end seats; their different heights define the inclined viewing field rather than a squeezing nip. A third thin upper guide spans two rooted short posts above the rear roll. A continuous low rear cross cabinet joins both side frames and carries one side blank control housing. The large open space under the sloping panel remains visible. Unlike the full quilting frame there is no horizontal roll-held cloth, crossed carriage, sewing head or travelling rail. Unlike the pedestal ironer there is no single cylinder surrounded by a curved shoe, foot pedal or front feed shelf. All geometry authored for this whole machine, no imported old roller or tabletop meshes. Three opaque constant PBR materials, metres Z up, centred ground origin; one model zero scenes. Empty static art only: no cloth, backlighting, optical inspection, feeding, winding, tension, motor, movement, controls, ergonomic fit, load, manufacture or operating safety. Rigging animation interaction not made.",
+  "bounds": {
+    "x": 1.715000033378601,
+    "y": 1.1699999570846558,
+    "z": 1.5410000085830688,
+    "unit": "m"
+  },
+  "triangles": 736,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/textile/textile-fixed-inclined-panel-and-separated-roll-inspection-table-01/v1.0.0/model.glb",
+      "size": 76912,
+      "sha256": "3c9ffb2ce96efaa7328f68465c485fc237c8688df9eacd9c6efeb868dfb8c79b"
+    },
+    "blend": {
+      "path": "assets/textile/textile-fixed-inclined-panel-and-separated-roll-inspection-table-01/v1.0.0/source.blend",
+      "size": 718624,
+      "sha256": "a67b4e023ac6275419e24d8b4e08444f69cef1b583cb8bf6c72035d734c29235"
+    },
+    "generator": {
+      "path": "assets/textile/textile-fixed-inclined-panel-and-separated-roll-inspection-table-01/v1.0.0/generate.py",
+      "size": 16171,
+      "sha256": "b3faa440dc605cb139c4d59bc88795444d615bc68e14b919c975dd9b0b9e3756"
+    },
+    "render": {
+      "path": "assets/textile/textile-fixed-inclined-panel-and-separated-roll-inspection-table-01/v1.0.0/thumbnail.png",
+      "size": 514284,
+      "sha256": "42ae57acd3912e651f2073ddbb5e82ffa991f53ce96a4bcb41dfd14918761fba"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

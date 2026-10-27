@@ -1,0 +1,42 @@
+{
+  "id": "ceramics-whole-tabletop-mould-and-empty-mesh-rack-bay-scene-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "ceramics",
+  "style": "source-preserved-low-poly",
+  "title": "Whole Tabletop Mould and Empty Mesh Rack Bay",
+  "description": "One static ceramic-craft preparation bay, one scene and zero new independent models. Three complete qualified originals preserve every original buffer, material, local normal, internal hierarchy and unit scale. A whole open worktable bears the entire separated two-half vessel-negative mould set, face up in its original fixed spacing with all locator pins and blind cups retained. Beside it stands one complete empty cantilever mesh artwork rack, independently grounded with all six original open trays, rear axles, ears and stop bearers intact. Nothing is placed on or attached to the rack. Only the common low floor is new scene architecture. This is an empty mould-preparation tabletop and adjacent empty storage apparatus, not the old turntable clay-blank trimming station or shelf-mounted jar and clay-chest display. A real whole-object work-area combination, without claiming a novel generic floorplan. No clay, liquid, casting, drying suitability, material compatibility, workflow operation, tray movement, human access, load capacity, installation or safety capability. Rigging, animation and interaction not made.",
+  "bounds": {
+    "x": 3.200000047683716,
+    "y": 2.299999952316284,
+    "z": 1.459999918937683,
+    "unit": "m"
+  },
+  "triangles": 13012,
+  "materials": 9,
+  "files": {
+    "glb": {
+      "path": "assets/ceramics/ceramics-whole-tabletop-mould-and-empty-mesh-rack-bay-scene-01/v1.0.0/model.glb",
+      "size": 481920,
+      "sha256": "6a222aa43c32f289ab42f089e504074c941a05d588d212cc5f6bbabce750bc0b"
+    },
+    "blend": {
+      "path": "assets/ceramics/ceramics-whole-tabletop-mould-and-empty-mesh-rack-bay-scene-01/v1.0.0/source.blend",
+      "size": 2064152,
+      "sha256": "e37fca96af01ba01febeddfa41118551b536ec1ac18ec33b07f20b98a59f29f4"
+    },
+    "generator": {
+      "path": "assets/ceramics/ceramics-whole-tabletop-mould-and-empty-mesh-rack-bay-scene-01/v1.0.0/generate.py",
+      "size": 110284,
+      "sha256": "dda0d0beea21ddcd7d3047a7aa2746ee8bff64201cafd323f0350bb0861d99c2"
+    },
+    "render": {
+      "path": "assets/ceramics/ceramics-whole-tabletop-mould-and-empty-mesh-rack-bay-scene-01/v1.0.0/thumbnail.png",
+      "size": 528694,
+      "sha256": "ba080a7dbfc78cf997fa9f8390035ab8e61ac1ff1693b94469dc321c6a2b3778"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

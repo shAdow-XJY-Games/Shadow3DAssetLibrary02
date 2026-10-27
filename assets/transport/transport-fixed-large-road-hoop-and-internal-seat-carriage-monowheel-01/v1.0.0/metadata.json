@@ -1,0 +1,42 @@
+{
+  "id": "transport-fixed-large-road-hoop-and-internal-seat-carriage-monowheel-01",
+  "version": "1.0.0",
+  "category": "vehicles",
+  "assetKind": "prop",
+  "theme": "transport",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Large Road Hoop and Internal Seat Carriage Monowheel",
+  "description": "One wholly newly authored complete empty monowheel-style static vehicle exterior. One large annular road tyre rests directly on its lower tread facet and surrounds a full inward track ring with paired side lips. Three independent rollers on complete transverse axles lie against the inside track, retaining two complete lower U-shaped carriage members and a whole internal platform. A full low closed drive-case exterior, continuous seat/back, separate low crank axis with two whole pedals and a complete forward grip stem/crossbar all sit inside the broad open hoop; the upper central volume remains empty. No central wheel hub, radial spokes, top-mounted fork or saddle post exists. Unlike the old direct-hub unicycle, the entire seat carriage is inside a large road hoop and the low foot axis is independent of its support rollers. Unlike the old hubless pet running wheel, there is no floor-standing outside cradle or broad empty animal track: the inner carriage is carried within a separate outward tyre that itself touches ground. The difference is the complete inner-carriage/road-hoop relationship, not changing roller count or putting a seat in a reused wheel. Every visible coordinate is new and no old mesh or assembly imported. One static prop zero scenes; four constant opaque untextured PBR roles, native metre-style Z up and complete horizontal bounds centred. Fixed stylized exhibition pose only, not a stable physical rest simulation. No rider, engine internals, fuel, power, real rolling contact, balancing, rotation, traction, steering, pedal drive, human accommodation, road suitability, load, manufacture, installation, operation or safety capability. Rigging animation interaction not made or verified.",
+  "bounds": {
+    "x": 0.94,
+    "y": 3.153234,
+    "z": 3.153234,
+    "unit": "m"
+  },
+  "triangles": 2732,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/transport/transport-fixed-large-road-hoop-and-internal-seat-carriage-monowheel-01/v1.0.0/model.glb",
+      "size": 135804,
+      "sha256": "caaf159ae80b7fe9ce14b6a86744711c488a995167cc0c67a969837f8d4ae8e3"
+    },
+    "blend": {
+      "path": "assets/transport/transport-fixed-large-road-hoop-and-internal-seat-carriage-monowheel-01/v1.0.0/source.blend",
+      "size": 781344,
+      "sha256": "195ad27c9d36c9d4427bfa199785a1f8d76fe50733b76fa4d6c1ecee1517ad6b"
+    },
+    "generator": {
+      "path": "assets/transport/transport-fixed-large-road-hoop-and-internal-seat-carriage-monowheel-01/v1.0.0/generate.py",
+      "size": 29597,
+      "sha256": "f3a4c1d9201d9bef8808460d76307a3fe05974b062639f00794cac0a06432420"
+    },
+    "render": {
+      "path": "assets/transport/transport-fixed-large-road-hoop-and-internal-seat-carriage-monowheel-01/v1.0.0/thumbnail.png",
+      "size": 560271,
+      "sha256": "5fe46085f6bc74f1235e214f367e68b2f87058bdc5daef518329ef90d8ea54fa"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

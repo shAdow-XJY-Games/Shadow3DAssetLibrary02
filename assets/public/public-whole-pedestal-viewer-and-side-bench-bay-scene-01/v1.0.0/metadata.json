@@ -1,0 +1,42 @@
+{
+  "id": "public-whole-pedestal-viewer-and-side-bench-bay-scene-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "public",
+  "style": "source-preserved-low-poly",
+  "title": "Whole Pedestal Viewer and Side Bench Bay",
+  "description": "One static public viewing-equipment and waiting-bench bay, one scene zero new models. The entire qualified wide-head pedestal viewer stands toward the low rear boundary, retaining both large blind front mouths, both rear eyecups, full rear grasp frame, complete trunnion fork and circular ground foot. One complete original slatted bench stands separately at the right, turned toward the open centre. All original geometry buffers, normals, material dictionaries, hierarchy and unit scale remain unchanged; only rigid quarter turns and translations are used. A new finite plain floor and low continuous rear boundary are scene-only geometry, not separately counted models. The viewer has open rear-side standing space and is separate from the bench, which neither touches it nor the low boundary. Unlike the old raised masonry lookout this has no steps or raised landing; unlike the dry-shore lookout/rinse scene it has no elevated seat, shower, water datum or rescue equipment. No finished old scene is imported or relabelled. Static art layout only, no people, optics, view generation, movement, real user approach, ergonomic fit, barrier protection, public accessibility, load, installation or safety performance. Rigging animation interaction not made.",
+  "bounds": {
+    "x": 3.4000000953674316,
+    "y": 2.5999999046325684,
+    "z": 1.8849999904632568,
+    "unit": "m"
+  },
+  "triangles": 3372,
+  "materials": 8,
+  "files": {
+    "glb": {
+      "path": "assets/public/public-whole-pedestal-viewer-and-side-bench-bay-scene-01/v1.0.0/model.glb",
+      "size": 289524,
+      "sha256": "68d3a42b851b3a939a293994de680d81409b5ca598fedeeab1789c9d84dc5c20"
+    },
+    "blend": {
+      "path": "assets/public/public-whole-pedestal-viewer-and-side-bench-bay-scene-01/v1.0.0/source.blend",
+      "size": 1100328,
+      "sha256": "fb841b5a088a5c485b1a4dd6dc1fbdd8628d759e4c94b216086197c3e92aa3be"
+    },
+    "generator": {
+      "path": "assets/public/public-whole-pedestal-viewer-and-side-bench-bay-scene-01/v1.0.0/generate.py",
+      "size": 79700,
+      "sha256": "92b6361bbdc55b851242ee3b275af96b1036e9219055c9860f074d88e8ca9986"
+    },
+    "render": {
+      "path": "assets/public/public-whole-pedestal-viewer-and-side-bench-bay-scene-01/v1.0.0/thumbnail.png",
+      "size": 501880,
+      "sha256": "39f0f2aae5e01138da3ce781e72dd7ab3db59091fedd07a96d8527c914d23fb5"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

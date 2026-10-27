@@ -1,0 +1,42 @@
+{
+  "id": "spacebase-fixed-open-longitudinal-bay-and-paired-door-winged-craft-01",
+  "version": "1.0.0",
+  "category": "vehicles",
+  "assetKind": "prop",
+  "theme": "spacebase",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Open Longitudinal Bay and Paired Door Winged Craft",
+  "description": "One wholly newly authored complete fictional winged orbital-craft-style exterior, parked empty with two full curved long roof doors fixed outward. One continuous thick long U-section mid-body has a true open longitudinal bay with floor and sidewalls; it joins a new blunt cockpit forebody with integral opaque upper face windows and a separate faceted aft body. Two independent full curved roof leaves and long side hinge barrels expose the bay rather than covering a painted inset. Broad swept delta wings, one central high swept fin, three short complete rear open decorative bells and three complete wheel/axle/strut sets belong to the same new whole airframe. No old airplane, rocket or lander visible meshes copied or appended. The earlier canard aircraft is a closed compact body with front canard, rear wing, twin tip fins and a rear propeller; the earlier lander is an octagonal stage/upper cabin with four braced footpads and one underbody bell. This new open-bay continuous airframe and paired curved roof-leaf organization is not a renamed old plane, an engine-count variant or a spacecraft cab on another chassis. One model zero scenes, four opaque constant untextured PBR roles, native metre-style Z up, complete wheel soles at ground and horizontal envelope centred. Simplified fictional game-art only, not a real craft design. No payload, internal machinery, cockpit controls, mission/national markings or thermal tile system. No flight, propulsion, orbital capability, fuel or combustion system, cargo rating, bay-door operation, pressure sealing, aerodynamic/thermal analysis, gear actuation, manufacture, human occupancy or safety capability is made or verified. Rigging animation and interaction not made.",
+  "bounds": {
+    "x": 4.6,
+    "y": 5.21,
+    "z": 2.29,
+    "unit": "m"
+  },
+  "triangles": 1768,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/spacebase/spacebase-fixed-open-longitudinal-bay-and-paired-door-winged-craft-01/v1.0.0/model.glb",
+      "size": 99512,
+      "sha256": "d468858844c8470210e07a7783cc69806f69ed2036d2bfd08a5ee84d6040a682"
+    },
+    "blend": {
+      "path": "assets/spacebase/spacebase-fixed-open-longitudinal-bay-and-paired-door-winged-craft-01/v1.0.0/source.blend",
+      "size": 724860,
+      "sha256": "532f12834a86e93890ceff2cf3422ecf95e3a5e576499fdaeaff4e36e6171fae"
+    },
+    "generator": {
+      "path": "assets/spacebase/spacebase-fixed-open-longitudinal-bay-and-paired-door-winged-craft-01/v1.0.0/generate.py",
+      "size": 29292,
+      "sha256": "4059191836580ef0d9d0376999c2654b0c2a1b1daacc2c7fab2d81af2471e151"
+    },
+    "render": {
+      "path": "assets/spacebase/spacebase-fixed-open-longitudinal-bay-and-paired-door-winged-craft-01/v1.0.0/thumbnail.png",
+      "size": 529103,
+      "sha256": "5399313150737a4473af5779638acff0eeca4f167f102d2a56189335d0f7ab5b"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

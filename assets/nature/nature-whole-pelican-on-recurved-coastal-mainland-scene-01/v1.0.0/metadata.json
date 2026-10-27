@@ -1,0 +1,42 @@
+{
+  "id": "nature-whole-pelican-on-recurved-coastal-mainland-scene-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "nature",
+  "style": "source-preserved-faceted-natural-ecology",
+  "title": "Whole Pelican on Recurved Coastal Mainland",
+  "description": "One static coastal wildlife scene, one scene zero new reusable models. One entire original pelican stands with both complete webbed soles on the original flat mainland plateau of one entire original recurved sand-spit and open-bay terrain. The bird is properly yawed as one whole instance, with its long bill and pouch directed toward the open bay; the hooked sand ridge and sea-connected opening remain visible. No extra side-bank pad, reshaped feet, reduced original scale, cut terrain, changed colours or removed original geometry. All original meshes, oriented triangles and constant opaque PBR retained at unit scale; one whole yaw and translations only, world hierarchy baked and normals regenerated rather than original NORMAL bytes. The tail may extend beyond the cropped terrain boundary while the two soles remain fully supported. Static illustrative scene only, no species habitat suitability, feeding, flight, fluid dynamics, navigation or physical safety claim. Rigging, animation and interaction not made.",
+  "bounds": {
+    "x": 6.985595703,
+    "y": 5.299996376,
+    "z": 2.220000029,
+    "unit": "m"
+  },
+  "triangles": 4420,
+  "materials": 8,
+  "files": {
+    "glb": {
+      "path": "assets/nature/nature-whole-pelican-on-recurved-coastal-mainland-scene-01/v1.0.0/model.glb",
+      "size": 221008,
+      "sha256": "5f773b94a18e825cc6ab7be753b6598aae43f426693c99ed05fa0d56a6a758e3"
+    },
+    "blend": {
+      "path": "assets/nature/nature-whole-pelican-on-recurved-coastal-mainland-scene-01/v1.0.0/source.blend",
+      "size": 908928,
+      "sha256": "ec525a9f6c75e333dccf95dafb27e5656677c644c190646aedd359c02a781716"
+    },
+    "generator": {
+      "path": "assets/nature/nature-whole-pelican-on-recurved-coastal-mainland-scene-01/v1.0.0/generate.py",
+      "size": 106365,
+      "sha256": "912c656294e3c62b85d776a0d7aa70b8e76d3f129725b6335a9e9b387f0d2d88"
+    },
+    "render": {
+      "path": "assets/nature/nature-whole-pelican-on-recurved-coastal-mainland-scene-01/v1.0.0/thumbnail.png",
+      "size": 509854,
+      "sha256": "6e63e5c4e305205f4e681480afd599b9e74bb489e90142cf1b0c7715b15ec2bd"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

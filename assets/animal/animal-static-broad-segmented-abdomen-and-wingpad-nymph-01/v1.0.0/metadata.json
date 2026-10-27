@@ -1,0 +1,42 @@
+{
+  "id": "animal-static-broad-segmented-abdomen-and-wingpad-nymph-01",
+  "version": "1.0.0",
+  "category": "modular",
+  "assetKind": "prop",
+  "theme": "animal",
+  "style": "warm-handcrafted-village",
+  "title": "Static Broad Segmented Abdomen and Wingpad Nymph",
+  "description": "One newly authored complete stylised aquatic dragonfly-nymph-inspired animal. A broad squat head narrows through a short neck into a compact thorax and a much wider thick abdomen with shallow integral segment shoulders and short rear tip. Six whole angular tapering legs meet finite small soles. Two pairs of short thick swept wing pads lie along the thorax and front abdomen rather than long adult wings or paired beetle shell covers. Large side eyes, two short straight antennae, and a broad folded-under labial-mask appearance complete the front. New whole body/limb/wingpad profiles, not an adult dragonfly with wings deleted, a shortened old abdomen or a recoloured beetle. One model zero scenes. Static illustrative exterior only, not species anatomy, scale accuracy, predation mechanism, aquatic motion, ecological suitability, handling, rigging, animation or safety capability.",
+  "bounds": {
+    "x": 1.465595126,
+    "y": 2.574117184,
+    "z": 0.600000024,
+    "unit": "m"
+  },
+  "triangles": 1776,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/animal/animal-static-broad-segmented-abdomen-and-wingpad-nymph-01/v1.0.0/model.glb",
+      "size": 105084,
+      "sha256": "908d34a7e1311cea1ec8fc34399f990aaf1b6f0b26729c212a923c47fe823c50"
+    },
+    "blend": {
+      "path": "assets/animal/animal-static-broad-segmented-abdomen-and-wingpad-nymph-01/v1.0.0/source.blend",
+      "size": 659036,
+      "sha256": "2501d6f74fdf120c5b9983ef9a72169dbd397cb86cbcb91ade0058c0d8a8ff58"
+    },
+    "generator": {
+      "path": "assets/animal/animal-static-broad-segmented-abdomen-and-wingpad-nymph-01/v1.0.0/generate.py",
+      "size": 29682,
+      "sha256": "3879f841e1f439c2031afb3aa5c50521b56a33c2294031ab6131304706ed4b9b"
+    },
+    "render": {
+      "path": "assets/animal/animal-static-broad-segmented-abdomen-and-wingpad-nymph-01/v1.0.0/thumbnail.png",
+      "size": 495548,
+      "sha256": "5766284126ec808400861a55d754cd3a0c0eb29421baaf7f073b8de684f8bf2d"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

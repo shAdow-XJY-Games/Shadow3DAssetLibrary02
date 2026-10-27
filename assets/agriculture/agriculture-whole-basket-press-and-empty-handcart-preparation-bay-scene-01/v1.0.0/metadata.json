@@ -1,0 +1,42 @@
+{
+  "id": "agriculture-whole-basket-press-and-empty-handcart-preparation-bay-scene-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "agriculture",
+  "style": "source-preserved-low-poly",
+  "title": "Whole Basket Press and Empty Handcart Preparation Bay",
+  "description": "One static regional fruit-press equipment preparation bay, one scene and zero new models. Three whole qualified originals retain every geometry buffer, normal, opaque PBR dictionary and internal hierarchy at unit metre scale: the complete upright stave-basket screw press at rear-left, an entire empty open-slatted handcart parked independently to the right, and a complete empty handled harvest basket standing separately in the foreground. The handcart retains its two large wheels, axle, two long handles and standing prop; the press retains its full bored crossbeam, screw, platen, basket, tray and open spout. No basket is placed across cart plank gaps, no produce fills either vessel, and no hose or process link joins objects. Every original rests on its own actual finite bottom contact on a single low scene-only floor. Unlike the orchard tree/picker/basket margin, this is a full floor-machine and parked handcart equipment grouping, without a tree or picker. Unlike the honey-tank and tabletop jar staging scene, this has neither support table nor tabletop container: the parked cart and separate empty basket occupy distinct ground positions beside the whole screw-frame machine. A novel floorplan is not claimed as an invention. No pressing, loading, food processing, collection, motion, load-bearing, compatibility or workplace safety capability; rigging animation interaction not made.",
+  "bounds": {
+    "x": 4.199999809265137,
+    "y": 3.200000047683716,
+    "z": 1.434999942779541,
+    "unit": "m"
+  },
+  "triangles": 5636,
+  "materials": 9,
+  "files": {
+    "glb": {
+      "path": "assets/agriculture/agriculture-whole-basket-press-and-empty-handcart-preparation-bay-scene-01/v1.0.0/model.glb",
+      "size": 383072,
+      "sha256": "24c8b2517fa61c7335bbaefb26393499d818ef71ee4302467180af58f4651cd8"
+    },
+    "blend": {
+      "path": "assets/agriculture/agriculture-whole-basket-press-and-empty-handcart-preparation-bay-scene-01/v1.0.0/source.blend",
+      "size": 1434500,
+      "sha256": "4f59151978a9f57d16c802df470076d7a91a98d7e257723c2f10bc2198e20e4f"
+    },
+    "generator": {
+      "path": "assets/agriculture/agriculture-whole-basket-press-and-empty-handcart-preparation-bay-scene-01/v1.0.0/generate.py",
+      "size": 158361,
+      "sha256": "e4c621544a6a9c8278b604cdc6520edc4dded4a6858f4cfb82d86afbf2e998cc"
+    },
+    "render": {
+      "path": "assets/agriculture/agriculture-whole-basket-press-and-empty-handcart-preparation-bay-scene-01/v1.0.0/thumbnail.png",
+      "size": 513396,
+      "sha256": "d530123600f1f7c8092fc6e5f698527c0830f8ece99b489d7be273d7312e053c"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

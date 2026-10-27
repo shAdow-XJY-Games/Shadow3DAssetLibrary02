@@ -1,0 +1,42 @@
+{
+  "id": "professional-whole-linecaster-and-empty-proof-press-bay-scene-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "professional",
+  "style": "source-preserved-low-poly",
+  "title": "Whole Linecaster and Empty Proof Press Bay",
+  "description": "One static publishing-machine preparation display bay, one scene and zero new models. Two whole qualified originals retain every geometry buffer, normal, opaque PBR dictionary and original internal hierarchy at unit metre scale. The complete tall sloping-magazine and keyboard linecaster stands at rear-left, preserving its open return frame, full side casting housing and drive wheel. A complete low long-bed traversing-cylinder proof press stands independently at front-right, with its entire empty bed, fixed grooved carriage, cylinder, outboard handwheel and all four shoes unchanged. Both full machines have separated finite ground contacts on one common low scene floor; an empty lateral interval and foreground remain. No type, molten material, ink, paper or mechanical link connects the stations. Unlike the two-table platen-printing and book-sewing corner, these are two independent complete floor machines without sewing frame or bookcase. Unlike the intaglio press and small-tool table bay, there is no grinding slab, brayer or tool-support table; the complete tall magazine/keyboard station and lower single-cylinder bed form this actual equipment grouping. A new generic floor plan is not claimed as an invention. No casting, heating, typesetting, printing, driven motion, workflow compatibility, operating instructions, load or workplace safety capability; rigging animation interaction not made.",
+  "bounds": {
+    "x": 4.199999809265137,
+    "y": 3.200000047683716,
+    "z": 2.2899999618530273,
+    "unit": "m"
+  },
+  "triangles": 6596,
+  "materials": 8,
+  "files": {
+    "glb": {
+      "path": "assets/professional/professional-whole-linecaster-and-empty-proof-press-bay-scene-01/v1.0.0/model.glb",
+      "size": 413836,
+      "sha256": "d0150fe8896a2df34874011f3d151c1129c5b0c6025ec003803dbc7dc5cad9f3"
+    },
+    "blend": {
+      "path": "assets/professional/professional-whole-linecaster-and-empty-proof-press-bay-scene-01/v1.0.0/source.blend",
+      "size": 1774772,
+      "sha256": "c8d6281fa92a1b29813fadedc5a99f1e5f70a855f03f81a390b63474b236fa19"
+    },
+    "generator": {
+      "path": "assets/professional/professional-whole-linecaster-and-empty-proof-press-bay-scene-01/v1.0.0/generate.py",
+      "size": 107821,
+      "sha256": "8736dc201389e23f45998b3605e70b5dfe0e79325bdda280d7c3bd6b265f9e6a"
+    },
+    "render": {
+      "path": "assets/professional/professional-whole-linecaster-and-empty-proof-press-bay-scene-01/v1.0.0/thumbnail.png",
+      "size": 525262,
+      "sha256": "17e06deaaa5f96b5d89e01eb5580edf3e98be57b51cd070c12c074c642b47789"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "wilderness-whole-shore-cylinder-and-grab-sampling-pier-scene-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "camping",
+  "style": "source-preserved-faceted-natural-ecology",
+  "title": "Whole Shore Cylinder and Grab Sampling Pier",
+  "description": "One static wilderness shore sampling-equipment staging scene, one scene and zero new independent models. One entire original two-metre wooden pier projects from a new finite raised shore edge above one opaque water-coloured base. All original deck planks, gaps, stringers, four pilings and collars remain. On the dry shore one complete qualified double-open-end sampling-cylinder appearance stands on its own original foot at left, while one complete opposed-concave-jaw sediment-grab appearance rests separately on both original basal bands at right. Both devices remain empty, open and unconnected; nothing hangs over or enters the water. Unlike the old two-pier fishing rack, tabletop baitbox and chair scene, this leaves a single whole pier empty and stages two complete tall collection-device exteriors independently on the shore, without a worktable, net, chair or bait tools. The tall cylinder is not raised onto an unsuitable small tabletop. All three original GLBs retain every oriented triangle and full constant opaque per-face PBR at original unit scale under whole translations only; hierarchy explicitly baked and faceted normals recomputed. Only the water-coloured datum and shore block are scene architecture. The narrow visible shore/deck joint is not claimed seamless or traversable. Static artistic illustration only, no water collection, scientific sampling, operation, closure motion, deployment, lifting, fluid simulation, buoyancy, safe access, loading, facility construction or safety capability. Rigging animation and interaction not made.",
+  "bounds": {
+    "x": 4.199999809,
+    "y": 4.800000191,
+    "z": 2.793712139,
+    "unit": "m"
+  },
+  "triangles": 2872,
+  "materials": 13,
+  "files": {
+    "glb": {
+      "path": "assets/camping/wilderness-whole-shore-cylinder-and-grab-sampling-pier-scene-01/v1.0.0/model.glb",
+      "size": 166676,
+      "sha256": "f0c12ec9ae5dac318dab5c8fbd5197895213dffed9c9032dc6f9ca1bc64b91dd"
+    },
+    "blend": {
+      "path": "assets/camping/wilderness-whole-shore-cylinder-and-grab-sampling-pier-scene-01/v1.0.0/source.blend",
+      "size": 1042364,
+      "sha256": "75faaf6b428044e38e4f95ebbeb3ea5ba3ecffa5fe55d15a430d1f87f96168aa"
+    },
+    "generator": {
+      "path": "assets/camping/wilderness-whole-shore-cylinder-and-grab-sampling-pier-scene-01/v1.0.0/generate.py",
+      "size": 75426,
+      "sha256": "5923fb1d5fb04651d99e4eef968bf31a70d9053fd2310c84690a3fc144a11f5e"
+    },
+    "render": {
+      "path": "assets/camping/wilderness-whole-shore-cylinder-and-grab-sampling-pier-scene-01/v1.0.0/thumbnail.png",
+      "size": 525876,
+      "sha256": "d00fe3c782dc42805ba97eeafb8dc58a7e1dc9e98167294bb77b6329b6a7fe0c"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

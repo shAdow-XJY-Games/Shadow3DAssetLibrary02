@@ -1,0 +1,42 @@
+{
+  "id": "ceramics-fixed-pivoted-profile-arm-and-blind-mould-station-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "ceramics",
+  "style": "S01-clean-geometric",
+  "title": "Pivoted Profile Arm and Blind Mould Station",
+  "description": "One newly authored complete static pottery profile-arm station: a broad single ground base carries a short front spindle pedestal and a separate rear twin-ear pivot tower. A continuous fore-and-aft beam passes through the horizontal pivot, with a fixed rear counterweight exterior and a full blunt curved profile plate on its front clamp. The plate is held above the open mouth of one complete thick shallow blind mould on a supported round turntable. The mould has a real continuous inner cavity and closed floor. There is no kick flywheel, seat or long open wooden frame; no vertical pressing plunger, upper die, twin-cup carrier or toggle linkage. All geometry is newly authored as one supported machine exterior, not a collection of imported props. Four opaque untextured PBR roles, metre Z-up, ground-centred. One model zero scenes. Static art only: no shaping, cutting, rotation, drive, physical counterbalance, mould compatibility, fabrication, operator fit or safety capability. Rigging animation and interaction not made.",
+  "bounds": {
+    "x": 1.1,
+    "y": 1.7449999999999999,
+    "z": 1.2173895580119334,
+    "unit": "m"
+  },
+  "triangles": 2004,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/ceramics/ceramics-fixed-pivoted-profile-arm-and-blind-mould-station-01/v1.0.0/model.glb",
+      "size": 103336,
+      "sha256": "de5ecaa14f0f72c759343dd6771bdb460e74037ada2b5b52a955d996a724f200"
+    },
+    "blend": {
+      "path": "assets/ceramics/ceramics-fixed-pivoted-profile-arm-and-blind-mould-station-01/v1.0.0/source.blend",
+      "size": 722492,
+      "sha256": "6452e5b8ea4fa838c3708f30d8c0f299f77e88e6dd6a934022757801e80cf4ae"
+    },
+    "generator": {
+      "path": "assets/ceramics/ceramics-fixed-pivoted-profile-arm-and-blind-mould-station-01/v1.0.0/generate.py",
+      "size": 10828,
+      "sha256": "fe2e2b11a47efa4ee2e4d2019e0116b88f33b425be0e9d547e3e04beb24def64"
+    },
+    "render": {
+      "path": "assets/ceramics/ceramics-fixed-pivoted-profile-arm-and-blind-mould-station-01/v1.0.0/thumbnail.png",
+      "size": 417273,
+      "sha256": "cc601b733243da036fa08e158f115d54d3c79735a4941cc24a019a0c041bf8a4"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

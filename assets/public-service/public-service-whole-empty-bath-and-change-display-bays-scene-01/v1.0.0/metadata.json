@@ -1,0 +1,42 @@
+{
+  "id": "public-service-whole-empty-bath-and-change-display-bays-scene-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "public-service",
+  "style": "source-preserved-low-poly",
+  "title": "Whole Empty Bath and Change Display Bays",
+  "description": "One static public-facility display scene, one scene and zero new independent models. Three entire qualified originals retain every original mesh, buffer, local normal, internal node, opaque PBR and unit scale. A full short side-door stepped-seat bath stands in the left empty bay with its complete fixed open door and rear tap unchanged. A whole open changing locker and a complete three-place station bench occupy the separate right bay, with the bench facing the locker and all original door and seat poses retained. One continuous scene-only floor, low rear wall and short central partition establish two open-front cutaway bays; no new independent wall module is counted. Unlike the old toilet/changing-fixture/grab-rail alcove and the open bench/locker/drinking-station corner, the bathing display is separated from the dry storage-and-seating display by a real thick partial wall. No person, water, clothes, plumbing, electrical connection, equipment operation, clinical use, accessibility or suitable clearances for a person, changing or bathing safety, hygiene, capacity, structural or installation capability is made or verified. Rigging, animation and interaction not made.",
+  "bounds": {
+    "x": 5.0,
+    "y": 4.0,
+    "z": 1.9799998998641968,
+    "unit": "m"
+  },
+  "triangles": 2332,
+  "materials": 14,
+  "files": {
+    "glb": {
+      "path": "assets/public-service/public-service-whole-empty-bath-and-change-display-bays-scene-01/v1.0.0/model.glb",
+      "size": 141920,
+      "sha256": "455f5da311afd00dd83231cf2dd1845dac04f5b1f55b3a58689add012a7f1e8d"
+    },
+    "blend": {
+      "path": "assets/public-service/public-service-whole-empty-bath-and-change-display-bays-scene-01/v1.0.0/source.blend",
+      "size": 1292548,
+      "sha256": "372070ebfc47e2cbabc639614640513c73ba001e781b879a5544a61730f45588"
+    },
+    "generator": {
+      "path": "assets/public-service/public-service-whole-empty-bath-and-change-display-bays-scene-01/v1.0.0/generate.py",
+      "size": 85191,
+      "sha256": "455e0764cc94554da2fde1cea1359f33a2578db89c26c711a14fe49c67ccc16d"
+    },
+    "render": {
+      "path": "assets/public-service/public-service-whole-empty-bath-and-change-display-bays-scene-01/v1.0.0/thumbnail.png",
+      "size": 523892,
+      "sha256": "58c80341968bf223d1a7e7f9ff7f58194d7774b26a98e2929a625f6aa8bb4ee2"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

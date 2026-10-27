@@ -1,0 +1,42 @@
+{
+  "id": "industrial-fixed-opposed-periphery-wheels-and-through-rest-blade-machine-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "industrial",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Opposed Periphery Wheels and Through Rest Blade Machine",
+  "description": "One wholly newly authored complete empty centerless-grinder-inspired static machine exterior. A broad low grounded cabinet carries two separate side-by-side wheel stations on one wide guide bed: a full larger thick wheel on its own bearing head and closed rear motor, and a smaller thick wheel on an independent guided carriage with its own spindle and motor. The two axes are parallel and distinct, unlike the old coaxial twin-end bench grinder. Both full wheel peripheries face a real narrow central gap; an independent long blunt rest blade and rooted foot extend through that gap along the axes. Each wheel has an entire annular rear plate and a thick curved guard open toward the other wheel, leaving the thick faces and central organization visible. A complete proud front handwheel with hub, three spokes and grip roots in the right slide. There is no overhead wheel column, long sliding workpiece table, platen, headstock/tailstock or workpiece. The new whole two-station/opposed-periphery/through-blade organization is not a bench grinder rescaled or the old surface grinder rotated. All visible coordinates independently authored, no imported old mesh. One static model zero scenes; four constant opaque untextured PBR roles, metre Z up and whole horizontal bounds centred at the full ground sole. Simplified illustrative exterior only, no abrasive material or performance, contact setup, grinding, rolling, rotation, regulation, feed, machining precision, power, adjustment, guarding effectiveness, manufacturing, operator fit, installation or safety capability. Rigging animation and interaction not made or verified.",
+  "bounds": {
+    "x": 2.04,
+    "y": 1.8,
+    "z": 1.678,
+    "unit": "m"
+  },
+  "triangles": 3620,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/industrial/industrial-fixed-opposed-periphery-wheels-and-through-rest-blade-machine-01/v1.0.0/model.glb",
+      "size": 190300,
+      "sha256": "44e0dc1e2375409cb60b1ffc37aa40a526f7bdb506b3f702e98ff11f2b351214"
+    },
+    "blend": {
+      "path": "assets/industrial/industrial-fixed-opposed-periphery-wheels-and-through-rest-blade-machine-01/v1.0.0/source.blend",
+      "size": 874228,
+      "sha256": "e1a0a85b00d2154148d05ab041157ede56647f5dbd841b4d4a20ec195c6b2129"
+    },
+    "generator": {
+      "path": "assets/industrial/industrial-fixed-opposed-periphery-wheels-and-through-rest-blade-machine-01/v1.0.0/generate.py",
+      "size": 30449,
+      "sha256": "7b852f5743021cb09205726a1b8bd8cb808df7bf46edb033b2a0bb618f8a585c"
+    },
+    "render": {
+      "path": "assets/industrial/industrial-fixed-opposed-periphery-wheels-and-through-rest-blade-machine-01/v1.0.0/thumbnail.png",
+      "size": 538254,
+      "sha256": "2646c7f8771efd5b31994f445779656167bc08e56433585eef819ea54e987407"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

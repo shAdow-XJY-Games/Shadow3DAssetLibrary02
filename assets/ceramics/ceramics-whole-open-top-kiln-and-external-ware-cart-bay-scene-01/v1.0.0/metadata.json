@@ -1,0 +1,42 @@
+{
+  "id": "ceramics-whole-open-top-kiln-and-external-ware-cart-bay-scene-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "ceramics",
+  "style": "source-preserved-low-poly",
+  "title": "Whole Open Top Kiln and External Ware Cart Bay",
+  "description": "One static ceramics preparation bay, one scene zero new independent models. Three complete qualified original objects retain every raw geometry buffer, normal, opaque PBR, internal hierarchy, original fixed pose and unit scale. An entire octagonal top-loading kiln stands at the left with its raised thick lid, deep empty chamber, stays and side controller untouched. A separate whole two-basin tool trolley stands outside the kiln on the right. Its finite upper basin floor carries the complete open ceramic jar and inverted lid combination, at original size and original mutual placement. The entire jar and lid lie inside the real shallow basin walls; nothing is inserted into the kiln or connected to it. Compared with the old front-loading kiln containing an amphora on its shelf, the vessel is externally staged on a complete wheeled carrier. Compared with the corner-shelf/clay-chest display, this pairs empty raised-lid equipment and a discrete loaded carrier rather than a fixed shelf display. Only the common low floor is new geometry. No loading path, firing, heat, rolling, storage quality, vessel or equipment compatibility, ceramic process, human access, load, installation or safety performance. Rigging animation interaction not made.",
+  "bounds": {
+    "x": 3.4000000953674316,
+    "y": 2.5999999046325684,
+    "z": 1.9408173561096191,
+    "unit": "m"
+  },
+  "triangles": 7556,
+  "materials": 12,
+  "files": {
+    "glb": {
+      "path": "assets/ceramics/ceramics-whole-open-top-kiln-and-external-ware-cart-bay-scene-01/v1.0.0/model.glb",
+      "size": 379400,
+      "sha256": "ada26ebc9d92e69a6aa332db9cfa27cd2df89851b7a5bfb57aa22ef8c1034aae"
+    },
+    "blend": {
+      "path": "assets/ceramics/ceramics-whole-open-top-kiln-and-external-ware-cart-bay-scene-01/v1.0.0/source.blend",
+      "size": 1648112,
+      "sha256": "2495d854509c0198510554f9299e3a0f373d9a6031a32a884fc98e5853feb9dc"
+    },
+    "generator": {
+      "path": "assets/ceramics/ceramics-whole-open-top-kiln-and-external-ware-cart-bay-scene-01/v1.0.0/generate.py",
+      "size": 142641,
+      "sha256": "bc5a22d986704d24c3c0013a624037a5f9881124c75fce6e9cb851e1a280f013"
+    },
+    "render": {
+      "path": "assets/ceramics/ceramics-whole-open-top-kiln-and-external-ware-cart-bay-scene-01/v1.0.0/thumbnail.png",
+      "size": 515808,
+      "sha256": "50752c145019a2469bd5cc11b914db1e01ee1e3c7c5d65df3bfb2eaf08dec431"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

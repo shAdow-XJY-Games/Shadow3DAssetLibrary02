@@ -1,0 +1,42 @@
+{
+  "id": "bakery-whole-twin-wing-and-countertop-mixing-preparation-bay-scene-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "bakery",
+  "style": "source-preserved-low-poly",
+  "title": "Whole Twin-Wing and Countertop Mixing Preparation Bay",
+  "description": "One static bakery equipment-preparation bay, one scene zero new models. A complete original twin-wing dough sheeter stands independently across the rear floor station, retaining both entire return belts, roll head, braces and grounded legs. A complete original open worktable at the front-right station supports a whole countertop mixer with its original empty bowl and hook. The independent stations have visible empty space between them and clear belt ends; no dough, connected feed path, material transfer or operation is shown. All three qualified original assets retain full geometry buffers, original normals, internal hierarchy and opaque PBR at unit scale. Only whole translations and one finite plain scene floor are new. Unlike the old single kneading tabletop with dough and rolling pin, this is a separate long floor machine and tabletop mixer grouping; unlike the hearth/cooling bay it has no oven, heat station, cooling rack or tray transfer. No food processing, hygiene, electrical, feeding, load, human access or safety performance. Rigging animation interaction not made.",
+  "bounds": {
+    "x": 3.4000000953674316,
+    "y": 3.0,
+    "z": 1.565999984741211,
+    "unit": "m"
+  },
+  "triangles": 4448,
+  "materials": 12,
+  "files": {
+    "glb": {
+      "path": "assets/bakery/bakery-whole-twin-wing-and-countertop-mixing-preparation-bay-scene-01/v1.0.0/model.glb",
+      "size": 264380,
+      "sha256": "bdc9b9ad04059bf14b750bb73687b2682e0e92666b81bc8c36c53f03063d9927"
+    },
+    "blend": {
+      "path": "assets/bakery/bakery-whole-twin-wing-and-countertop-mixing-preparation-bay-scene-01/v1.0.0/source.blend",
+      "size": 1457712,
+      "sha256": "a210c12680258c470a4ff9ad9240daeac0f7627124c456db6aee1aa45da5b4fb"
+    },
+    "generator": {
+      "path": "assets/bakery/bakery-whole-twin-wing-and-countertop-mixing-preparation-bay-scene-01/v1.0.0/generate.py",
+      "size": 119583,
+      "sha256": "a1e115a51317b652be168c28af6902b028a59888687201791db33fa88f1fbb74"
+    },
+    "render": {
+      "path": "assets/bakery/bakery-whole-twin-wing-and-countertop-mixing-preparation-bay-scene-01/v1.0.0/thumbnail.png",
+      "size": 483367,
+      "sha256": "5c25d64337e4faeecb087fa5ae1b43727b4ed0739fc25b57cb18580db27f667c"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "museum-whole-cutaway-bell-and-pedestal-helmet-exhibit-bay-scene-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "museum",
+  "style": "source-preserved-low-poly",
+  "title": "Whole Cutaway Bell and Pedestal Helmet Exhibit Bay",
+  "description": "One static maritime-equipment exhibit bay, one scene and zero new models. Three whole qualified originals retain every geometry buffer, normal, opaque PBR dictionary and original internal hierarchy at unit metre scale. The entire deliberately front-cutaway open-bottom diving-bell display stands independently at rear-left on all original small integral display feet, preserving its whole roof, ring, two seats, straps, inlet and lifting-eye appearance without suspending it. A complete existing museum plinth stands at front-right with its blank caption plaque and full cap. The entire separate three-window helmet display rests on that real flat cap through its original full neck-flange sole, retaining its enclosing shell, opaque window inserts, reveal frames, protection bars and capped connector. No breathing tube joins objects, no helmet is put inside the bell, and no person, liquid or lifting cable is added. The bell cutaway and smaller raised helmet form two adjacent viewing stations with open foreground. Unlike the older equipment mat of backframe, propulsion device and fin, this is a whole cutaway chamber beside a genuinely pedestal-supported enclosing-shell exhibit. Unlike the fossil island with barriers and two benches, there is no central skeleton island or barrier band; only the two full chamber and helmet display positions. This does not claim invention of a floorplan or exact historical pairing. No breathing, pressure, diving, gas, sealing, lifting, fit, load, accessibility, installation or safety capability; rigging animation interaction not made.",
+  "bounds": {
+    "x": 4.199999809265137,
+    "y": 3.200000047683716,
+    "z": 2.5,
+    "unit": "m"
+  },
+  "triangles": 3656,
+  "materials": 11,
+  "files": {
+    "glb": {
+      "path": "assets/museum/museum-whole-cutaway-bell-and-pedestal-helmet-exhibit-bay-scene-01/v1.0.0/model.glb",
+      "size": 203588,
+      "sha256": "7fe5d4e17a70fdda14718882ed684e9ba3058e070b11b27dfc78e7fc544580b6"
+    },
+    "blend": {
+      "path": "assets/museum/museum-whole-cutaway-bell-and-pedestal-helmet-exhibit-bay-scene-01/v1.0.0/source.blend",
+      "size": 1215156,
+      "sha256": "7e95550c7892a3c7cc47f2b8bf86a1b9b378daddfb4d24f7a543fc8e7c9b54bc"
+    },
+    "generator": {
+      "path": "assets/museum/museum-whole-cutaway-bell-and-pedestal-helmet-exhibit-bay-scene-01/v1.0.0/generate.py",
+      "size": 101203,
+      "sha256": "dc4c8a7612323defabb8b448cb9bc7faf227a7b26a3ef62d668c98d99fb3cc33"
+    },
+    "render": {
+      "path": "assets/museum/museum-whole-cutaway-bell-and-pedestal-helmet-exhibit-bay-scene-01/v1.0.0/thumbnail.png",
+      "size": 515509,
+      "sha256": "f655d459aa1503637e74437ad919de634efdcb4d59fb9fcd112e487a3d1841ef"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

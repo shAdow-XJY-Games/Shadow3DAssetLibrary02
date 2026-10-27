@@ -1,0 +1,42 @@
+{
+  "id": "laboratory-whole-empty-sash-hood-and-inclined-apparatus-bay-scene-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "laboratory",
+  "style": "source-preserved-low-poly",
+  "title": "Whole Empty Sash Hood and Inclined Apparatus Bay",
+  "description": "One static laboratory equipment-preparation bay, one scene zero new reusable models. The entire original half-raised opaque-sash laboratory hood stands on one simple scene-only broad plinth at the left, retaining its genuine empty chamber, original work deck, rear baffle slots, guide channels, fixed sash and open roof collar. A complete original open worktable stands independently at the right and supports the entire inclined-flask and empty-bath apparatus on its original base. The apparatus remains outside the hood, with no inserted flask, exhaust duct, hose or functional connection between stations. Its two vessel shapes retain their original solid opaque exterior silhouettes; only the bath and jacket top are declared open. The whole hood base lies on the finite plinth top and the complete apparatus base lies on the actual flat table top. Every original unit-scale buffer, local normal, internal hierarchy and complete opaque PBR dictionary is retained; only three whole translations, a finite scene floor and a plain scene-only plinth are new. This stages an empty enclosed work chamber and a separate oblique-flask apparatus station rather than the original twin open centrifuge/pipette tables or offset sink with tall cabinet. No chemicals, fluid, samples, people, experimental procedure, containment, ventilation, evaporation, heating, vacuum, apparatus compatibility, load, access or laboratory safety capability. Rigging animation interaction not made.",
+  "bounds": {
+    "x": 3.5999999046325684,
+    "y": 2.5,
+    "z": 2.194999933242798,
+    "unit": "m"
+  },
+  "triangles": 4936,
+  "materials": 11,
+  "files": {
+    "glb": {
+      "path": "assets/laboratory/laboratory-whole-empty-sash-hood-and-inclined-apparatus-bay-scene-01/v1.0.0/model.glb",
+      "size": 437688,
+      "sha256": "222b2bdd5d7694684b3e3e7a218a5f89427b805d85bbbd802a7cd9fa4eca3f98"
+    },
+    "blend": {
+      "path": "assets/laboratory/laboratory-whole-empty-sash-hood-and-inclined-apparatus-bay-scene-01/v1.0.0/source.blend",
+      "size": 1537696,
+      "sha256": "2a4a5dc21241b9835daa9a3c0476ae430f3aa7b17aad48c653de7069e2aebc7c"
+    },
+    "generator": {
+      "path": "assets/laboratory/laboratory-whole-empty-sash-hood-and-inclined-apparatus-bay-scene-01/v1.0.0/generate.py",
+      "size": 139927,
+      "sha256": "fbf3d5ee88152bb92db4ac31f2d2c41faabb5d2313c199256cf84c76a6d79b77"
+    },
+    "render": {
+      "path": "assets/laboratory/laboratory-whole-empty-sash-hood-and-inclined-apparatus-bay-scene-01/v1.0.0/thumbnail.png",
+      "size": 505921,
+      "sha256": "d462c291735443be5b055230395e152642c6dfbe242ccbb74dc2009c07720530"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

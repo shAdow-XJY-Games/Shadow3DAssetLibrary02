@@ -1,0 +1,42 @@
+{
+  "id": "railway-fixed-lever-bank-and-open-crossed-lockbed-display-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "railway",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Lever Bank and Open Crossed Lockbed Display",
+  "description": "One wholly newly authored complete signal-room lever-frame-style static explanatory display. A single low open perimeter bed on four whole feet carries a common transverse front shaft and a row of whole tall hand levers with complete lower tails, blank grips and independent curved quadrant frames. Each lever tail joins its own full rear-reaching rod and long longitudinal strip. The strips pass through two complete four-window guide bridges and contain true open side notches. Two complete orthogonal bars have integral downward dogs fixed within selected notch regions, while other crossings remain vertically separated; independent raised seats join those bars to the same bed. This shared lever-to-crossed-lockbed organization is not multiple old switchstand levers arranged in a row: the old stand has one vertical target shaft and short lateral terminal eye, no common low cross-lock bed. It is not the old coaxial disc/dial and upper spanning-bar exhibit reshaped: here long notched strips and orthogonal bars occupy an open planar bed behind the hand levers. All visible geometry newly authored, no old lever, lock, rail or mechanism meshes imported. One complete static prop zero scenes, four opaque constant untextured PBR materials, metres-style native Z up and full foot-sole centred datum. Blank simplified illustration only, no track or signal connections, correct interlocking logic, valid routes, normal/reverse states, synchronized movements, lever travel, mechanical transmission, real lock engagement, installation, human fit, operating instructions, structural load, manufacture, compliance or railway safety capability. Rigging animation and interaction not made or verified.",
+  "bounds": {
+    "x": 3.04,
+    "y": 2.74,
+    "z": 1.973279,
+    "unit": "m"
+  },
+  "triangles": 3232,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/railway/railway-fixed-lever-bank-and-open-crossed-lockbed-display-01/v1.0.0/model.glb",
+      "size": 151200,
+      "sha256": "02f1995a51874d411bfed7f25955a979e72ef50fbec1c8413c7982983147c4c2"
+    },
+    "blend": {
+      "path": "assets/railway/railway-fixed-lever-bank-and-open-crossed-lockbed-display-01/v1.0.0/source.blend",
+      "size": 936560,
+      "sha256": "b55952cf707d78d8d58156d510e949e843f31ed2dc1ec81c2e72fbacacdec6f3"
+    },
+    "generator": {
+      "path": "assets/railway/railway-fixed-lever-bank-and-open-crossed-lockbed-display-01/v1.0.0/generate.py",
+      "size": 30000,
+      "sha256": "80ac0913c488ce8ebc2b248922871ad9c12b315db66193fbeb84bd923662d45c"
+    },
+    "render": {
+      "path": "assets/railway/railway-fixed-lever-bank-and-open-crossed-lockbed-display-01/v1.0.0/thumbnail.png",
+      "size": 540977,
+      "sha256": "55467cda113d0df2e57827e28a4c04e168f5abfc0743c4162dcacbc8f8c4d00c"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

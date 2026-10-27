@@ -1,0 +1,42 @@
+{
+  "id": "baggage-whole-empty-reclaim-ring-and-waiting-hall-scene-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "baggage",
+  "style": "source-preserved-low-poly",
+  "title": "Whole Empty Reclaim Ring and Waiting Hall",
+  "description": "One static empty baggage-reclaim waiting hall, one scene and zero new independent models. Three complete qualified originals preserve all original geometry, local normals, node hierarchy, opaque PBR and unit scale: the closed-plan inclined-slat reclaim ring stands independently toward the rear, an entire empty arched-platform luggage trolley stands outside its front-right perimeter, and a complete three-place station bench stands outside its front-left perimeter facing inward. A common finite floor is the only new scene geometry. Unlike the old quarter-turn conveyor/end-guide corner with a loaded trolley, this retains a complete closed ring and its open central well with separate empty peripheral waiting and trolley stations. Unlike the acceptance counter scene there is no counter, scale or luggage-handling arrangement. No new independent model, bags, conveyor movement, passenger process, access certification, operational compatibility or installation safety claim. Rigging, animation and interaction not made.",
+  "bounds": {
+    "x": 7.800000190734863,
+    "y": 6.0,
+    "z": 1.809999942779541,
+    "unit": "m"
+  },
+  "triangles": 8844,
+  "materials": 13,
+  "files": {
+    "glb": {
+      "path": "assets/baggage/baggage-whole-empty-reclaim-ring-and-waiting-hall-scene-01/v1.0.0/model.glb",
+      "size": 357496,
+      "sha256": "020eaadc23b4a2c80515bf32081cdda4e67a69df9668ad3c71cae8994a64c016"
+    },
+    "blend": {
+      "path": "assets/baggage/baggage-whole-empty-reclaim-ring-and-waiting-hall-scene-01/v1.0.0/source.blend",
+      "size": 1969740,
+      "sha256": "4bacad932f15a8633ff0b0e7c4b6001c194d03d4cc9d016ad56b831f5bca0d32"
+    },
+    "generator": {
+      "path": "assets/baggage/baggage-whole-empty-reclaim-ring-and-waiting-hall-scene-01/v1.0.0/generate.py",
+      "size": 125820,
+      "sha256": "4d43e58a75a6fa1e0accd800b4ce8f21bde4db4e56b2da45b8e5ab8cf3c869a7"
+    },
+    "render": {
+      "path": "assets/baggage/baggage-whole-empty-reclaim-ring-and-waiting-hall-scene-01/v1.0.0/thumbnail.png",
+      "size": 487566,
+      "sha256": "db4b19bf9d14dd4c932cd90a74a05e477309b44a5ae95873a2f1735831ef5398"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

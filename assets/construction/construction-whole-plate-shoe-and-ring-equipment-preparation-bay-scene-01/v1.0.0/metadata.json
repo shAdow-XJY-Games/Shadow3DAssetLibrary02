@@ -1,0 +1,42 @@
+{
+  "id": "construction-whole-plate-shoe-and-ring-equipment-preparation-bay-scene-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "construction",
+  "style": "source-preserved-low-poly",
+  "title": "Whole Plate Shoe and Ring Equipment Preparation Bay",
+  "description": "One static construction walk-behind equipment preparation bay, one scene zero new independent models. Three entire qualified originals stand separately at unit scale on one finite plain floor: a broad upturned-plate compactor with its open rear handle at left, a narrow-shoe bellows-leg rammer in the middle, and a complete open-ring four-leaf trowel with its long handle at right. All original buffers, PBR materials, internal hierarchy and geometry remain unchanged. Whole machine ground datums align with the floor top; gaps separate the full equipment envelopes and an empty foreground remains visible. This is not the existing masonry mixing bay of mixer, barrow and tool cabinet, nor the road-vehicle trench yard of grader, paver and roller. No workpiece, material, hose, engine operation, vibration, compaction, finishing, handling, support capacity or safety performance is made or claimed. Rigging animation interaction not made.",
+  "bounds": {
+    "x": 3.4000000953674316,
+    "y": 2.700000047683716,
+    "z": 1.1050000190734863,
+    "unit": "m"
+  },
+  "triangles": 5768,
+  "materials": 12,
+  "files": {
+    "glb": {
+      "path": "assets/construction/construction-whole-plate-shoe-and-ring-equipment-preparation-bay-scene-01/v1.0.0/model.glb",
+      "size": 506828,
+      "sha256": "8755add93fc3bdeadd62bd8c59a6d3a9b5b929fc4cb293e49bd0827ca161f0c6"
+    },
+    "blend": {
+      "path": "assets/construction/construction-whole-plate-shoe-and-ring-equipment-preparation-bay-scene-01/v1.0.0/source.blend",
+      "size": 1652548,
+      "sha256": "5841d6b353c3279cd15e4e7d2c686cca927c185742285d36954b19536e2e8891"
+    },
+    "generator": {
+      "path": "assets/construction/construction-whole-plate-shoe-and-ring-equipment-preparation-bay-scene-01/v1.0.0/generate.py",
+      "size": 150632,
+      "sha256": "33faef37075211bc893ed74d01a3a14f8d91c5cff544bdbd113b7e0884243440"
+    },
+    "render": {
+      "path": "assets/construction/construction-whole-plate-shoe-and-ring-equipment-preparation-bay-scene-01/v1.0.0/thumbnail.png",
+      "size": 465265,
+      "sha256": "2675c86266954529262f9d1a0c8fc91c4867e43ef2e73b60ea5ed2a53cd901f9"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

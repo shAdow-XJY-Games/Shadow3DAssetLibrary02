@@ -1,0 +1,42 @@
+{
+  "id": "interior-fixed-open-ring-channel-and-slotted-pedestal-appliance-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "interior",
+  "style": "source-preserved-low-poly",
+  "title": "Fixed Open Ring Channel and Slotted Pedestal Appliance",
+  "description": "One newly authored complete fixed ring-appliance exterior. A thick circular head encloses a genuine completely open central window; its material cross-section returns around a continuous annular blind channel with an actual narrow inner-front circumferential mouth, not a dark painted ring. The head seats into a full top shoulder above a tall cylindrical intake sleeve whose sixteen real vertical openings expose an independently recessed opaque core. Continuous upper and lower sleeve bands link the solid ribs to a broad circular grounded sole; one small blank button belongs to the front shoulder. Unlike the old short axial fan, there is no central motor pod, blades, radial grille or skid-mounted duct. Unlike the wall unit, there is no long shallow box, wall plate or horizontal outlet vane: the whole relationship is an empty central loop, annular channel and independent perforated cylindrical pedestal. All numeric geometry newly authored as one whole static appliance, no old mesh imported or count/color variant. Three opaque constant PBR roles, metres Z up and full horizontal-bounds-centred ground datum, one model zero scenes. Exterior appearance only; no working air circuit, blower, airflow, air cleaning, heating, cooling, electrical supply, oscillation, human fit, installation, manufacturing or equipment safety capability. Rigging animation interaction not made.",
+  "bounds": {
+    "x": 0.699999988079071,
+    "y": 0.3199999928474426,
+    "z": 1.1299999952316284,
+    "unit": "m"
+  },
+  "triangles": 3728,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/interior/interior-fixed-open-ring-channel-and-slotted-pedestal-appliance-01/v1.0.0/model.glb",
+      "size": 318204,
+      "sha256": "c19c0b49d048ec239fb1d8098dfe3173d8463fcde56e2300d2ff8b1ea5857ea4"
+    },
+    "blend": {
+      "path": "assets/interior/interior-fixed-open-ring-channel-and-slotted-pedestal-appliance-01/v1.0.0/source.blend",
+      "size": 978464,
+      "sha256": "11dcf33ce89fd1c6ad25dbff77e55d8c38b02a9ecf544ff36bbdea1d09641d08"
+    },
+    "generator": {
+      "path": "assets/interior/interior-fixed-open-ring-channel-and-slotted-pedestal-appliance-01/v1.0.0/generate.py",
+      "size": 16498,
+      "sha256": "55ea180cb359917bb7766e1a4d5ca5015df0d1989e65bdacdebcb226059cd35c"
+    },
+    "render": {
+      "path": "assets/interior/interior-fixed-open-ring-channel-and-slotted-pedestal-appliance-01/v1.0.0/thumbnail.png",
+      "size": 488713,
+      "sha256": "50b08f02ac70fb5605f9503b870826e2950d7cac9403106a1444889ea79eb9d0"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

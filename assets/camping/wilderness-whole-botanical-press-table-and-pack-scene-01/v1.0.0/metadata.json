@@ -1,0 +1,42 @@
+{
+  "id": "wilderness-whole-botanical-press-table-and-pack-scene-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "camping",
+  "style": "source-preserved-faceted-field-equipment",
+  "title": "Whole Botanical Press Table and Trail Pack",
+  "description": "One static wilderness botanical-equipment preparation scene, one scene zero new reusable models. One whole qualified empty lattice-board twin-strap plant press rests on two original tabletop planks of one complete picnic table with its attached benches; a complete trail backpack is separately placed beyond the table end on the same low scene-only ground. All source meshes, oriented triangles and constant opaque PBR retained at unit scale, including old tabletop gaps and all table legs and benches. Only whole-instance yaw and translations and shared horizontal centering are applied. Press wrap soles are fully seated on actual original plank tops. Original bevelled and slanted table legs retain their existing extremal-point ground contacts, not claimed to have planar soles. The empty tabletop strip and separate pack position remain visible; no specimens, labels or contents are added. Static illustrative arrangement only, no specimen collection, drying, pressure, preservation, archival quality, ergonomics, load or human safety claim. Rigging, animation and interaction not made. Original hierarchy baked and normals regenerated, not byte-identical original NORMAL buffers.",
+  "bounds": {
+    "x": 3.0,
+    "y": 2.099999905,
+    "z": 1.046441078,
+    "unit": "m"
+  },
+  "triangles": 3492,
+  "materials": 8,
+  "files": {
+    "glb": {
+      "path": "assets/camping/wilderness-whole-botanical-press-table-and-pack-scene-01/v1.0.0/model.glb",
+      "size": 176520,
+      "sha256": "77c9b8f16123169d6019d78dc189b29631df2655e1deb0bafe6abe72643f3a00"
+    },
+    "blend": {
+      "path": "assets/camping/wilderness-whole-botanical-press-table-and-pack-scene-01/v1.0.0/source.blend",
+      "size": 874208,
+      "sha256": "b2e722926db57d127d47576553648c64092ea960aedc235660b4a6a0e44714a8"
+    },
+    "generator": {
+      "path": "assets/camping/wilderness-whole-botanical-press-table-and-pack-scene-01/v1.0.0/generate.py",
+      "size": 77160,
+      "sha256": "5c4ef08bfe4e2823bd71bd4f88ebea427e54fa2157c0f5335c0f89a4b4219cf2"
+    },
+    "render": {
+      "path": "assets/camping/wilderness-whole-botanical-press-table-and-pack-scene-01/v1.0.0/thumbnail.png",
+      "size": 526163,
+      "sha256": "ad281caee22a180d9c3fe71c720218f0c820929c8d956ef80f6f260c07e973da"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

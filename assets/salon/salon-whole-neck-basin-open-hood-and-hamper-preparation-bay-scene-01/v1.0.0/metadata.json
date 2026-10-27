@@ -1,0 +1,42 @@
+{
+  "id": "salon-whole-neck-basin-open-hood-and-hamper-preparation-bay-scene-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "salon",
+  "style": "source-preserved-low-poly",
+  "title": "Whole Neck Basin Open Hood and Hamper Preparation Bay",
+  "description": "One static salon wash-and-dry equipment-preparation bay, one scene zero new models. The complete original neck-recess pedestal basin stands at the rear-left floor station, retaining its deep empty bowl and tap exterior. The whole open-hood dryer stands independently rear-right on its original five-branch caster base, with no chair or head placed beneath the hood. The entire empty folded-fabric hamper cart is parked forward-right beyond both complete equipment envelopes, leaving a visible empty central/front area. All original buffers, normals, material dictionaries, hierarchy and original units remain unchanged; only whole translations and a finite floor are new. Unlike the facing-chair/mirror salon scene this groups washing/drying floor equipment and empty textile collection with no styling chair, mirror or tool tabletop. Unlike the public basin/hand-bay station this retains the complete tall open hood and mobile fabric receptacle, not a hand-appliance cubicle. No person, towels, hair, water, pipe or electrical connections, treatment, heating, airflow, sanitation, usability, neck/head fit, load, access or safety capability. Rigging animation interaction not made.",
+  "bounds": {
+    "x": 2.799999952316284,
+    "y": 3.0,
+    "z": 1.7165964841842651,
+    "unit": "m"
+  },
+  "triangles": 5408,
+  "materials": 13,
+  "files": {
+    "glb": {
+      "path": "assets/salon/salon-whole-neck-basin-open-hood-and-hamper-preparation-bay-scene-01/v1.0.0/model.glb",
+      "size": 451300,
+      "sha256": "496ee536b76f9ce3aa26821cdedf09e0ed48f803fb37338a4c814062d3b2c1e6"
+    },
+    "blend": {
+      "path": "assets/salon/salon-whole-neck-basin-open-hood-and-hamper-preparation-bay-scene-01/v1.0.0/source.blend",
+      "size": 1675200,
+      "sha256": "b4ccb3958511602c7506f6767291bf13eddd156cf975fbe8c88c0184c905c725"
+    },
+    "generator": {
+      "path": "assets/salon/salon-whole-neck-basin-open-hood-and-hamper-preparation-bay-scene-01/v1.0.0/generate.py",
+      "size": 139687,
+      "sha256": "e87c8721d57a67129d36bbcb65bcbbb2841c2abfaa4381ac4532c6ac40594235"
+    },
+    "render": {
+      "path": "assets/salon/salon-whole-neck-basin-open-hood-and-hamper-preparation-bay-scene-01/v1.0.0/thumbnail.png",
+      "size": 482587,
+      "sha256": "981a71024aa07e96147187b292bc97ac5dd548f2716b307d53c48b066950833d"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

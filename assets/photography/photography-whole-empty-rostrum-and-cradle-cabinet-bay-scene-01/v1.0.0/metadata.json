@@ -1,0 +1,42 @@
+{
+  "id": "photography-whole-empty-rostrum-and-cradle-cabinet-bay-scene-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "photography",
+  "style": "source-preserved-low-poly",
+  "title": "Whole Empty Rostrum and Cradle Cabinet Bay",
+  "description": "One static animation-photography equipment preparation bay, one scene and zero new independent models. Two complete qualified originals retain every original geometry buffer, normal, PBR material, internal node and unit scale: the entire four-post multiplane rostrum stands at the rear-left on both full runners, and the entire open-front stepped-cradle cabinet stands independently at the front-right on its complete plinth. The original rostrum retains its top camera, three full carrier frames and single blank lowest board; no upper glass, artwork or camera is added. All original cabinet cradle positions and tall bay remain empty. A common finite floor joins the separated equipment stations, with open foreground and visible gap. Unlike the complete rewind and cine-camera tabletop workcorner, this is a tall integrated carrier/camera apparatus beside independent equipment storage; unlike the still-life camera/light arrangement, it has no subject table, subject or external light rig. This is a real equipment-area combination, not a newly counted rostrum or cabinet, and not a claim of unprecedented generic floorplan. No animation effect, relative plane motion, imaging, optical alignment, lens fit, storage protection, human access, load, installation, ergonomics or safety capability. Rigging animation and interaction not made.",
+  "bounds": {
+    "x": 3.4000000953674316,
+    "y": 2.5999999046325684,
+    "z": 2.5429999828338623,
+    "unit": "m"
+  },
+  "triangles": 2108,
+  "materials": 9,
+  "files": {
+    "glb": {
+      "path": "assets/photography/photography-whole-empty-rostrum-and-cradle-cabinet-bay-scene-01/v1.0.0/model.glb",
+      "size": 127300,
+      "sha256": "48dac51fe253d63290e0f53912bd769cac9728bdb8b008e61b8aafd5d2ccd802"
+    },
+    "blend": {
+      "path": "assets/photography/photography-whole-empty-rostrum-and-cradle-cabinet-bay-scene-01/v1.0.0/source.blend",
+      "size": 1143580,
+      "sha256": "45f2b19ecc5d32eb39a24bd7e35d8b2eb4b8034aff949a7772b7185d1625c7ac"
+    },
+    "generator": {
+      "path": "assets/photography/photography-whole-empty-rostrum-and-cradle-cabinet-bay-scene-01/v1.0.0/generate.py",
+      "size": 60460,
+      "sha256": "df1b8326597bd65df771dec6181fd6c82206275d69417c17fda4fcb7cb649b7c"
+    },
+    "render": {
+      "path": "assets/photography/photography-whole-empty-rostrum-and-cradle-cabinet-bay-scene-01/v1.0.0/thumbnail.png",
+      "size": 536932,
+      "sha256": "1810054d965f4c0a595e4ea9bf310a7f8a78d5a0b4a61a543def689ef874b3b8"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

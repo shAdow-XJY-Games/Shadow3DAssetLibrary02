@@ -1,0 +1,42 @@
+{
+  "id": "harbor-fixed-continuous-four-tapered-limb-block-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "harbor",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Continuous Four Tapered Limb Block",
+  "description": "One newly authored complete fixed four-limb shore-block-inspired exterior. Four thick tapered limbs extend in four spatial tetrahedral directions from one continuous shared core, with three lower limbs terminating in real finite horizontal soles and one upper limb rising freely. Core surfaces and every limb root share vertices; no overlapping detached cylinders, separate post, cable, bolt, display plinth or repeated block field is included. The open spaces between the three splayed grounded limbs and the central raised underside are genuine exterior space, not dark painted recesses. Unlike the old twin-horn mooring post the body has no common flat mounting foot under one upright, and unlike the separated-strut cable prism all four limbs meet in one solid integral core without cables or endpoint nodes. All coordinates and faces new, no old component imported or count variant of an existing scene. One closed editable mesh and one opaque matte stone-like PBR material, metres Z up and horizontal complete-envelope centre over lowest soles. One model zero scenes. Fixed stylized coastal-material prop only, not an engineered tetrapod design: no wave dissipation, interlock, stability, mass, lifting provision, reinforcement, casting, maritime installation, load or construction/safety capability. No water, rig, animation or interaction.",
+  "bounds": {
+    "x": 1.479277422,
+    "y": 1.674568214,
+    "z": 1.4300000000000002,
+    "unit": "m"
+  },
+  "triangles": 432,
+  "materials": 1,
+  "files": {
+    "glb": {
+      "path": "assets/harbor/harbor-fixed-continuous-four-tapered-limb-block-01/v1.0.0/model.glb",
+      "size": 27488,
+      "sha256": "12dabcfe0dbda6986eb9d11716bf879f746c5b996df5c1b982ecd90d9b076d4b"
+    },
+    "blend": {
+      "path": "assets/harbor/harbor-fixed-continuous-four-tapered-limb-block-01/v1.0.0/source.blend",
+      "size": 498568,
+      "sha256": "8967215143aac1d86e345aab10f89f780f8dcf21dd88eecf8f2b588ad9528241"
+    },
+    "generator": {
+      "path": "assets/harbor/harbor-fixed-continuous-four-tapered-limb-block-01/v1.0.0/generate.py",
+      "size": 11430,
+      "sha256": "72f6b87b34893af22e2fbb7aaac25cea3c84d2d0169d43cefe21b00f1c7e3887"
+    },
+    "render": {
+      "path": "assets/harbor/harbor-fixed-continuous-four-tapered-limb-block-01/v1.0.0/thumbnail.png",
+      "size": 375932,
+      "sha256": "d4d687ec67d72a263b7f26cc7d520bfc8167e94ca8df0cd7fdaa414e7b02a795"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

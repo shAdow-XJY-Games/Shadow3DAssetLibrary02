@@ -1,0 +1,42 @@
+{
+  "id": "music-whole-bar-frame-kettle-drum-and-score-preparation-bay-scene-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "music",
+  "style": "source-preserved-low-poly",
+  "title": "Whole Bar Frame Kettle Drum and Score Preparation Bay",
+  "description": "One static pitched-percussion equipment preparation bay, one scene and zero new models. Three complete original instruments and furniture retain every raw geometry buffer, normal, opaque material and internal hierarchy at unit metre scale. The entire two-row graded wooden-bar frame with its complete open pipe bank occupies the rear-left; a complete deep copper kettle drum on its original three splayed legs stands independently at right; the whole empty perforated score stand waits in front-left. All original soles rest on a finite common floor and the full instrument envelopes remain separated. No pedal, mallet, pages, stool, musician or playable connection is added. This is a compact empty percussion-equipment group, not the old inward-facing piano/bench, guitar and compact drum ensemble room with enclosing walls, nor a raised music-box bench beside cloth wind drum and hanging bells. It is a real work-area grouping without a claim of an unprecedented floor plan. No sound, tuning, pitch accuracy, playing posture, acoustic response, movement, stability, loading or public-safety capability. Rigging, animation and interaction are not made.",
+  "bounds": {
+    "x": 4.199999809265137,
+    "y": 3.200000047683716,
+    "z": 1.4905105829238892,
+    "unit": "m"
+  },
+  "triangles": 8368,
+  "materials": 13,
+  "files": {
+    "glb": {
+      "path": "assets/music/music-whole-bar-frame-kettle-drum-and-score-preparation-bay-scene-01/v1.0.0/model.glb",
+      "size": 646876,
+      "sha256": "da52d4f1220975c7c334c4fb86b7485943c1cb298b873784b3f931f7de70e897"
+    },
+    "blend": {
+      "path": "assets/music/music-whole-bar-frame-kettle-drum-and-score-preparation-bay-scene-01/v1.0.0/source.blend",
+      "size": 2107972,
+      "sha256": "84c1dfbf8915b879bcd48b8fe5126ab5f26d643cffcb4ad13fc16b2397bc6941"
+    },
+    "generator": {
+      "path": "assets/music/music-whole-bar-frame-kettle-drum-and-score-preparation-bay-scene-01/v1.0.0/generate.py",
+      "size": 150945,
+      "sha256": "c2da4c3ea4c0ea54183efb257675a06080fe5ade7f8f9a580b210ce7ff84b653"
+    },
+    "render": {
+      "path": "assets/music/music-whole-bar-frame-kettle-drum-and-score-preparation-bay-scene-01/v1.0.0/thumbnail.png",
+      "size": 519941,
+      "sha256": "553588a7df4a6eeee538822c655e428e8b83f902c049043a3a58e4c4369b6f10"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "textile-whole-inclined-inspection-and-cloth-preparation-bay-scene-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "textile",
+  "style": "source-preserved-low-poly",
+  "title": "Whole Inclined Inspection and Cloth Preparation Bay",
+  "description": "One static textile equipment-preparation bay, one scene zero new models. The entire inclined inspection table stands independently at left, keeping its empty sloped panel, separated high and low rolls, cheeks, guide and underframe. Beside it a complete original open worktable supports the whole three-wrap cloth-bolt and core set at its original unit scale. No cloth is pulled out or fed across the inspection panel and no object is extracted from a complete input. All old geometry buffers, normals, internal hierarchy and PBR remain unchanged; only whole translations and a finite plain scene floor are new. Unlike the long-arm quilting scene there is no carriage/needle or stretched cloth working bed; unlike the single cutting-preparation table there is a distinct full floor-supported inspection machine and no scissors, pattern ruler or cushion. This is an empty equipment and separate stock-preparation grouping, not an operated process. No inspection illumination, textile quality test, material matching, feeding, tension, winding, ergonomics, access, loading or safety performance. Rigging animation interaction not made.",
+  "bounds": {
+    "x": 4.199999809265137,
+    "y": 2.799999952316284,
+    "z": 1.6009999513626099,
+    "unit": "m"
+  },
+  "triangles": 1492,
+  "materials": 10,
+  "files": {
+    "glb": {
+      "path": "assets/textile/textile-whole-inclined-inspection-and-cloth-preparation-bay-scene-01/v1.0.0/model.glb",
+      "size": 139548,
+      "sha256": "b3732e758cf0a87d6af44db6d2cc20bcbd832442209f4f8916e645f302b68056"
+    },
+    "blend": {
+      "path": "assets/textile/textile-whole-inclined-inspection-and-cloth-preparation-bay-scene-01/v1.0.0/source.blend",
+      "size": 1046624,
+      "sha256": "e1272dd0c9a48264bdefc8bfeeb622aba5169f82662bb6db69a31220a46eb8cd"
+    },
+    "generator": {
+      "path": "assets/textile/textile-whole-inclined-inspection-and-cloth-preparation-bay-scene-01/v1.0.0/generate.py",
+      "size": 74337,
+      "sha256": "ab8391812f77ba99468733e36d92bd49c149892d220e67c17c95842faeb03488"
+    },
+    "render": {
+      "path": "assets/textile/textile-whole-inclined-inspection-and-cloth-preparation-bay-scene-01/v1.0.0/thumbnail.png",
+      "size": 478268,
+      "sha256": "28d2afd7af86311d0a024d77cabf25aa2898c786465c899161ccb1309e34e587"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

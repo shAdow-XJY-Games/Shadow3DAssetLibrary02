@@ -1,0 +1,42 @@
+{
+  "id": "public-whole-empty-foot-bay-and-waiting-bench-scene-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "public",
+  "style": "source-preserved-low-poly",
+  "title": "Whole Empty Foot Bay and Waiting Bench",
+  "description": "One static public entrance shoe-equipment and waiting bay, one scene zero new independent models. Three complete qualified originals retain all raw geometry, local normals, full PBR, hierarchy and unit scale. A whole front-open foot-bay brush-roll appliance stands independently at left rear, with its complete mat and dispenser unchanged and no shoe inserted. A whole three-slat backed bench stands at right rear facing the foreground. One complete empty open-stave umbrella bin is separately parked at the forward right, clear of the bench feet. The open foreground and visible lateral floor gap separate the appliance station from the waiting and empty-container positions. Only whole translations and one finite scene-only support floor are new. Unlike the old arrival vignette with storage bench, peg rack and cubby tower, this is a floor appliance with separate waiting furniture; unlike the shoe-repair machine, stretcher and last workcorner it has no repair tabletop or material. Not an assertion that this generic floorplan is novel. No shoes, umbrellas, people, cleaning or dispensing function, electrical operation, accessibility, ergonomic fit, loading, installation or public-use safety capability. Original bench feet retain their sloped-bottom visual tangencies; no new stability or contact-area claim. Rigging animation interaction not made.",
+  "bounds": {
+    "x": 3.4000000953674316,
+    "y": 2.299999952316284,
+    "z": 1.1135894060134888,
+    "unit": "m"
+  },
+  "triangles": 4272,
+  "materials": 11,
+  "files": {
+    "glb": {
+      "path": "assets/public/public-whole-empty-foot-bay-and-waiting-bench-scene-01/v1.0.0/model.glb",
+      "size": 336396,
+      "sha256": "3eac15468900cfbf2e000062a02593207f696a75bbbc45cce29bab1f9f6b2b5d"
+    },
+    "blend": {
+      "path": "assets/public/public-whole-empty-foot-bay-and-waiting-bench-scene-01/v1.0.0/source.blend",
+      "size": 1293156,
+      "sha256": "4573b36c8c6b8cfb4525ad68502ecc6bfa4f612a6a2a425c1a85e8c377240649"
+    },
+    "generator": {
+      "path": "assets/public/public-whole-empty-foot-bay-and-waiting-bench-scene-01/v1.0.0/generate.py",
+      "size": 101921,
+      "sha256": "ecf335724bc023ef6bdce45a67a223eee82f572dfccde1f067414efb83038353"
+    },
+    "render": {
+      "path": "assets/public/public-whole-empty-foot-bay-and-waiting-bench-scene-01/v1.0.0/thumbnail.png",
+      "size": 485360,
+      "sha256": "58a82a1198c436a39211286ab0b386b1bae019ae5859c12c67be598bf349e832"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "public-service-whole-call-post-and-rest-court-scene-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "public-service",
+  "style": "source-preserved-low-poly",
+  "title": "Whole Call Post and Rest Court",
+  "description": "One static public call, post and rest court, one scene and zero new independent models. Three complete qualified originals retain every raw geometry buffer, original normal, material and internal hierarchy at original unit scale. The full fixed inward-folded call booth stands at rear left with its whole floor, roof, windowed door pair and wall telephone untouched. A separate complete arched street letterbox occupies the rear-right station, and a whole three-place slotted-shell bench stands at front right turned as one object toward the inner court. Every original ground sole rests on one simple finite common floor. The enclosure entrance, mail-slot face and bench remain separate with an open shared middle; no connecting cable, mail, person, street curb or shelter is added. Unlike the old letterbox and parcel-loaded sorting-cubby corner, this includes an intact person-sized call enclosure and independent rest seat; unlike the passenger waiting station, it contains no waiting shelter, boarding ramp, information pole or road-tile field. This is a real public-service visual grouping, not a claim of unprecedented generic floor layout. No calling, mail collection, transaction, occupancy, accessible route, comfort, door travel, installation, load or public-safety capability. Rigging animation and interaction not made.",
+  "bounds": {
+    "x": 3.799999952316284,
+    "y": 3.299999952316284,
+    "z": 2.419999837875366,
+    "unit": "m"
+  },
+  "triangles": 2504,
+  "materials": 13,
+  "files": {
+    "glb": {
+      "path": "assets/public-service/public-service-whole-call-post-and-rest-court-scene-01/v1.0.0/model.glb",
+      "size": 139248,
+      "sha256": "6d24c9816137fd0095b096df4a3f7d2dfc48f860ab04ddad1c3a79b71e20cb6a"
+    },
+    "blend": {
+      "path": "assets/public-service/public-service-whole-call-post-and-rest-court-scene-01/v1.0.0/source.blend",
+      "size": 1151892,
+      "sha256": "bc509d8f7afebc5987b2bc56754f9da55ed4b8ddf8a8566021ab6ebca4ab2ffb"
+    },
+    "generator": {
+      "path": "assets/public-service/public-service-whole-call-post-and-rest-court-scene-01/v1.0.0/generate.py",
+      "size": 91631,
+      "sha256": "e9368a9557c1ab171edea7aa6a269337567344f2d76331dc7a8663b02d22b8c3"
+    },
+    "render": {
+      "path": "assets/public-service/public-service-whole-call-post-and-rest-court-scene-01/v1.0.0/thumbnail.png",
+      "size": 530482,
+      "sha256": "f1ef6d2836afc9783f758a543c5921c892d986f570cf249341dd3adfbba05d3b"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

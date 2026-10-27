@@ -1,0 +1,42 @@
+{
+  "id": "winter-fixed-paired-longitudinal-helical-drums-and-bridge-cab-vehicle-01",
+  "version": "1.0.0",
+  "category": "vehicles",
+  "assetKind": "prop",
+  "theme": "winter",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Paired Longitudinal Helical Drums and Bridge Cab Vehicle",
+  "description": "One wholly newly authored screw-drum vehicle inspired static exterior. Two complete long closed taper-ended drums flank a narrow raised bridge body. Each drum carries one whole continuous thick helical outer flight of opposite handedness and independent complete front/rear stub axles. One connected twin-rail frame with full end crossmembers and four downward end towers joins those longitudinal axles to the full central body, leaving a real open underside between the drums. A short solid faceted forward cab, thick opaque glazing-style panes, a proud roof and separate low tapered rear hood complete the vehicle silhouette. Small lowest flight facets are deliberately flattened for this fixed display stance; they are not a real screw profile or a physical balance simulation. Unlike the old snowmobile there are no front skis, transverse track rollers, central track loop or straddle saddle; unlike the old pedalboat there is no paddle axis, twin seats or floating pontoon bridge. The entire long drum/end-tower/central cab-body architecture is newly drawn, not old vehicle wheels changed to coils, copied floats or more helix turns. One model zero scenes, four opaque constant untextured PBR roles, metres Z up and whole horizontal bounds centred. No occupants, terrain, drivetrain, fuel, engine internals, rotary motion, buoyancy, traction, steering, ground interaction, amphibious or snow performance, real clearances, manufacturing, road suitability, human fit, load or safety capability. Rigging animation interaction not made or verified.",
+  "bounds": {
+    "x": 3.219814,
+    "y": 3.96,
+    "z": 2.16,
+    "unit": "m"
+  },
+  "triangles": 3956,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/winter/winter-fixed-paired-longitudinal-helical-drums-and-bridge-cab-vehicle-01/v1.0.0/model.glb",
+      "size": 238072,
+      "sha256": "6e2cdd93e91d41c63fa993ae51079c18c929822816bb5f489234bca9ed5510fd"
+    },
+    "blend": {
+      "path": "assets/winter/winter-fixed-paired-longitudinal-helical-drums-and-bridge-cab-vehicle-01/v1.0.0/source.blend",
+      "size": 827188,
+      "sha256": "86188229ed704e3fb320fc2503fe94fd621443abfe210a82e7267906e90f8bee"
+    },
+    "generator": {
+      "path": "assets/winter/winter-fixed-paired-longitudinal-helical-drums-and-bridge-cab-vehicle-01/v1.0.0/generate.py",
+      "size": 29387,
+      "sha256": "5c09da6819d3dd41f8aa71a059f90ec980a55a5b86441a3ba4c48a19dc94ce27"
+    },
+    "render": {
+      "path": "assets/winter/winter-fixed-paired-longitudinal-helical-drums-and-bridge-cab-vehicle-01/v1.0.0/thumbnail.png",
+      "size": 532956,
+      "sha256": "115bc5aa34b8298b99920d26ee1989dec97b43bf7d771b2d7861ae722fc2a42f"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

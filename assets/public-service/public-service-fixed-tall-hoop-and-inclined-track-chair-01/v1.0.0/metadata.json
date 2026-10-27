@@ -1,0 +1,42 @@
+{
+  "id": "public-service-fixed-tall-hoop-and-inclined-track-chair-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "public-service",
+  "style": "S01-clean-geometric",
+  "title": "Tall Hoop and Inclined Track Chair",
+  "description": "One newly authored complete empty inclined-track chair appearance in a fixed parked pose. A continuous tall back-and-carry hoop supports a whole thin bent seat/back sling and connects to two long rear inclined closed-loop tracks. Each entire track retains its true open centre, full bearing rail, three rooted rollers and transverse axle exteriors. Separate fixed seat side rails join two low front forked wheels and a full single forward foot platform; short upper track mounts and rear stays connect the bearing rails to the chair frame. No large rear drive wheels or outboard hand rims, individual wheelchair arm pads or paired foot plates are used. Unlike a tracked excavator chassis carrying a seat, there is no horizontal crawler deck, pedestal, engine, cabin or boom; the inclined bearing assembly belongs to the tall chair frame itself. All geometry newly authored, no old seat or tracks imported. Four opaque PBR roles. One model zero scenes. Empty static art only: no rolling, stair travel, traction, braking, carrying, folding, transfer, evacuation or rescue function, occupant dimensions, disability or medical suitability, load, manufacture or human safety capability. Rigging animation interaction not made.",
+  "bounds": {
+    "x": 0.64,
+    "y": 1.3590501288621553,
+    "z": 1.592856176678691,
+    "unit": "m"
+  },
+  "triangles": 2356,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/public-service/public-service-fixed-tall-hoop-and-inclined-track-chair-01/v1.0.0/model.glb",
+      "size": 134972,
+      "sha256": "bbd81a05c474f9f813aa2375eb0c78f5e297fdb3c8f4b5fb56c122013a223574"
+    },
+    "blend": {
+      "path": "assets/public-service/public-service-fixed-tall-hoop-and-inclined-track-chair-01/v1.0.0/source.blend",
+      "size": 857400,
+      "sha256": "527a06053ed250820587d755e0085abb87662a62b87ba1ee4fff6e840a3f21aa"
+    },
+    "generator": {
+      "path": "assets/public-service/public-service-fixed-tall-hoop-and-inclined-track-chair-01/v1.0.0/generate.py",
+      "size": 13305,
+      "sha256": "96ff6b68207487582ed2da41b0f405a5c1d82ed1295d0c168488c9815624dde0"
+    },
+    "render": {
+      "path": "assets/public-service/public-service-fixed-tall-hoop-and-inclined-track-chair-01/v1.0.0/thumbnail.png",
+      "size": 413425,
+      "sha256": "462b7c43ecbefbb0e81d2c8e4eca91b710ac40816aa0700d41622a78788efd30"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "library-whole-recessed-reader-and-drawer-preparation-bay-scene-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "library",
+  "style": "source-preserved-low-poly",
+  "title": "Whole Recessed Reader and Drawer Preparation Bay",
+  "description": "One static archival reading-equipment preparation bay, one scene zero new models. One complete original twin-reel microfilm reader with its deep blank screen recess and original fixed film span rests on the actual full top of a whole raised twin-column desk. A separate complete three-drawer cabinet stands on the common floor to the right, leaving an open interval and empty front area. No chair is added to the fixed raised desk and no ergonomic height or use is asserted. Every original mesh, raw geometry buffer, normal, PBR and internal hierarchy remains unchanged under unit-scale whole translations. Only the finite floor is new. Unlike the V-cradle scanning/cart preparation bay this shows the entire recessed-screen reel reader with a stationary enclosed drawer station rather than an open scanner and transfer cart; unlike the twin-table reading commons it has no opposed seats, book kits or shared reading tables. No displayed image, readable record, archive contents, scanning, optics, film transport, actual reading, drawer travel, loading, ergonomic fit, accessibility, installation or safety capability. Rigging animation interaction not made.",
+  "bounds": {
+    "x": 3.5999999046325684,
+    "y": 2.5,
+    "z": 2.0586366653442383,
+    "unit": "m"
+  },
+  "triangles": 6080,
+  "materials": 11,
+  "files": {
+    "glb": {
+      "path": "assets/library/library-whole-recessed-reader-and-drawer-preparation-bay-scene-01/v1.0.0/model.glb",
+      "size": 521204,
+      "sha256": "f5af14e45089aeea45b71ade2ba5c395afba2225c649b44f2c82208f0702e75c"
+    },
+    "blend": {
+      "path": "assets/library/library-whole-recessed-reader-and-drawer-preparation-bay-scene-01/v1.0.0/source.blend",
+      "size": 1879100,
+      "sha256": "f043c484c32d950293408c223fa147b2a8e69825cd568f98c2a4235f872c63eb"
+    },
+    "generator": {
+      "path": "assets/library/library-whole-recessed-reader-and-drawer-preparation-bay-scene-01/v1.0.0/generate.py",
+      "size": 122115,
+      "sha256": "11cd30afe8efa5c3353424740b6ac707a89d570a62276029ee0daf91957e34aa"
+    },
+    "render": {
+      "path": "assets/library/library-whole-recessed-reader-and-drawer-preparation-bay-scene-01/v1.0.0/thumbnail.png",
+      "size": 487272,
+      "sha256": "8948b510aa4143db2424dc7075e6398770c01a92f0dc5b5a3f1698e71e05ebe4"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
