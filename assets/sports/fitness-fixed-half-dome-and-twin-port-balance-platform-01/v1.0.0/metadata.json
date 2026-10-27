@@ -1,0 +1,43 @@
+{
+  "id": "fitness-fixed-half-dome-and-twin-port-balance-platform-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "fitness",
+  "style": "source-preserved-low-poly",
+  "title": "Half Dome And Twin Port Balance Platform",
+  "description": "One newly authored complete static half-dome balance-platform appearance: a broad low faceted elastomer dome rises from a rigid oval platform with two genuine elongated side carry apertures, a continuous shallow retaining collar and one small attached valve cap. The base is one connected closed shell through both port walls, with a full finite underside. Original profiles and whole numeric geometry; no trampoline, wheel or old sports component extracted. One whole model and zero scenes, four opaque constant PBR roles, metres and Z up. Empty static illustrative appearance only: no exercise demonstration, medical or balance benefit, inflation, pressure, elasticity, grip, user fit, instability simulation, loading, manufacture or safety claim.",
+  "bounds": {
+    "x": 0.8199999928474426,
+    "y": 0.6639999747276306,
+    "z": 0.27300000190734863,
+    "unit": "m"
+  },
+  "triangles": 2672,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/sports/fitness-fixed-half-dome-and-twin-port-balance-platform-01/v1.0.0/model.glb",
+      "size": 228264,
+      "sha256": "0f2fd5333f2ef6aec633bb165a0a747a70c51131d5043297a3a24bcdc5cb11a2"
+    },
+    "blend": {
+      "path": "assets/sports/fitness-fixed-half-dome-and-twin-port-balance-platform-01/v1.0.0/source.blend",
+      "size": 858748,
+      "sha256": "51c31954f183195e3b3a6059f1e6769b8ea45eea6dede937d2b5b009cf9e8ae2"
+    },
+    "generator": {
+      "path": "assets/sports/fitness-fixed-half-dome-and-twin-port-balance-platform-01/v1.0.0/generate.py",
+      "size": 19912,
+      "sha256": "e90ce4ff162c3659c3a10bc560cedfadc7aa0b8a91a62c96b9a37184ecd80f7f"
+    },
+    "render": {
+      "path": "assets/sports/fitness-fixed-half-dome-and-twin-port-balance-platform-01/v1.0.0/thumbnail.png",
+      "size": 458701,
+      "sha256": "e0f6e30dc4a5257f1cb51f35d45f74abff68e65169c3400354dc987b217af892"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved",
+  "sourceId": "sports-current-dot-originals-20261027"
+}
