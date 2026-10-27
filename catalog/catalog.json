@@ -2379,6 +2379,11 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary02",
       "commit": "eaaadb5530c1872329672cea9300323315ef3a8c"
+    },
+    "original-qualified-batch-1794-volume02-20261025": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary02",
+      "commit": "f93cc68ed85919b1e87de9b22f64287a4fbbc4e0"
     }
   },
   "assets": [
@@ -79394,6 +79399,135 @@
       "status": "verified",
       "license": "All rights reserved",
       "sourceId": "original-qualified-batch-1791-volume02-20261025"
+    },
+    {
+      "id": "agriculture-fixed-three-upright-fluted-rolls-and-top-crank-cane-mill-01",
+      "version": "1.0.0",
+      "category": "modular",
+      "assetKind": "prop",
+      "theme": "agriculture",
+      "style": "warm-handcrafted-village",
+      "title": "Fixed Three Upright Fluted Rolls and Top Crank Cane Mill",
+      "description": "One newly authored whole fixed three-upright-roll cane-mill-inspired illustration. Two full long skids and four complete uprights support lower and upper bearing-platform exteriors. Three separate complete vertically fluted cylindrical rollers stand in a triangular plan between those platforms on full independent upright shafts. Three entire toothed gear-shaped exteriors sit above the upper platform with deliberate small separations, while a complete horizontal top crank and upright end grip attach to the rear shaft. A full empty collector tray below the rolls has raised side/rear rims, split front rims and an open short U spout. Two whole low transverse braces complete the stand. All visible geometry newly authored, no old roller, crusher, gear, tray, screw or support imported. Unlike the old mine twin-roll crusher, there is no upper hopper or horizontal nip over a lower funnel: the three upright shafts, exposed upper tooth rings, top crank and collector-on-stand organization are newly drawn together. Unlike the oil expeller, no screw or cylindrical chamber is present. One whole model zero scenes. A fictional compact fixed adaptation of a general vertical three-roll arrangement, not a replica of a museum artefact or a claim that its historical example was hand powered. Empty static art only: no cane, juice, crop, live extraction, feeding, actual gear meshing or ratio, force, rotation, fluid path, food contact, hygiene, manufacture, historical reconstruction, engineering or safety claim. Rigging animation and interaction not made.",
+      "bounds": {
+        "x": 0.894999981,
+        "y": 0.850000024,
+        "z": 1.289999962,
+        "unit": "m"
+      },
+      "triangles": 2972,
+      "materials": 4,
+      "files": {
+        "glb": {
+          "path": "assets/agriculture/agriculture-fixed-three-upright-fluted-rolls-and-top-crank-cane-mill-01/v1.0.0/model.glb",
+          "size": 149524,
+          "sha256": "72b21be032fc3c774cf48db3029d3d3a27731cda63181c8e44b502646d8ace0c"
+        },
+        "blend": {
+          "path": "assets/agriculture/agriculture-fixed-three-upright-fluted-rolls-and-top-crank-cane-mill-01/v1.0.0/source.blend",
+          "size": 817928,
+          "sha256": "34051a7cafa04fe7dcd7527e9e34c3ffe194cbbf0b8649ec3ec53ad98010f0e4"
+        },
+        "generator": {
+          "path": "assets/agriculture/agriculture-fixed-three-upright-fluted-rolls-and-top-crank-cane-mill-01/v1.0.0/generate.py",
+          "size": 32733,
+          "sha256": "d2053327149cf43a12e634a04ed7860b402bff7a7200b99eebe88cbeaad73863"
+        },
+        "render": {
+          "path": "assets/agriculture/agriculture-fixed-three-upright-fluted-rolls-and-top-crank-cane-mill-01/v1.0.0/thumbnail.png",
+          "size": 565894,
+          "sha256": "d9d3419983ecffb364278dd0ccd4e7e77919e9e6b24144fa5be0a4a71137a9f4"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1794-volume02-20261025"
+    },
+    {
+      "id": "art-fixed-convex-pad-and-waisted-stock-inking-ball-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "art",
+      "style": "S01-clean-geometric",
+      "title": "Fixed Convex Pad and Waisted Stock Inking Ball",
+      "description": "One newly authored complete static printers inking-ball-inspired hand tool. A whole broad convex leather-look pad rises from a small finite resting patch into rounded shoulders. One continuous wooden-look stock contains a genuine lower cup concavity partly occupied by the upper pad and extends through a long waisted grip to an integral rounded pommel. A complete thick retaining rim encircles the pad-stock overlap and ten whole blunt fastener exteriors root directly in that rim. The distinct pad, cup-backed stock and surrounding fastening organization is authored together, not a broad flat-foot muller extracted from its grinding slab, a shallow baren with its twisted hand band replaced, or a desk-stamp platen. Every radial profile, proportion and fastening station is new; no old mesh imported or resized. Thirteen whole closed editable meshes, four opaque constant PBR roles, metres native Z up and horizontal whole-bounds-centred ground origin. One complete model zero scenes; the fasteners are subordinate components, not individual assets. Generic category-inspired exterior only, not a measured museum reconstruction. Pad is a closed simplified exterior solid; animal skin, stuffing, fibre, internal nail shanks, ink and elastic deformation are not simulated. Small fixed overlaps are visual attachments, not working fits. No inking action, printed result, surface transfer, softness, material authenticity, hand fit, balance, fastening strength, manufacture or safety capability made or verified. No rigging, animation or interaction.",
+      "bounds": {
+        "x": 0.15600000321865082,
+        "y": 0.16099999845027924,
+        "z": 0.19900000095367432,
+        "unit": "m"
+      },
+      "triangles": 3880,
+      "materials": 4,
+      "files": {
+        "glb": {
+          "path": "assets/art/art-fixed-convex-pad-and-waisted-stock-inking-ball-01/v1.0.0/model.glb",
+          "size": 336768,
+          "sha256": "0f2cfc92659c5afb8bfc02434c8f38bf98793b06e219b07f69ef86a9cbba8ce2"
+        },
+        "blend": {
+          "path": "assets/art/art-fixed-convex-pad-and-waisted-stock-inking-ball-01/v1.0.0/source.blend",
+          "size": 1051584,
+          "sha256": "6373f585cbbd877bf08feb54c090d04f34932701115be20669589ac1fc2462a7"
+        },
+        "generator": {
+          "path": "assets/art/art-fixed-convex-pad-and-waisted-stock-inking-ball-01/v1.0.0/generate.py",
+          "size": 12470,
+          "sha256": "47d3b26b79534f68c463e0ad39f80897bb96b60eee44e1e7b7e1f7e53760b2f9"
+        },
+        "render": {
+          "path": "assets/art/art-fixed-convex-pad-and-waisted-stock-inking-ball-01/v1.0.0/thumbnail.png",
+          "size": 489719,
+          "sha256": "b0f6afc0471e5caa0a6fba9a294c7ec9e46503172bc688a7d150a2e5e8c5b68b"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1794-volume02-20261025"
+    },
+    {
+      "id": "kitchen-fixed-paired-grips-and-butterfly-key-can-opener-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "kitchen",
+      "style": "S01-clean-geometric",
+      "title": "Fixed Paired Grips and Butterfly Key Can Opener",
+      "description": "One newly authored complete static paired-handle can-opener exterior. Two whole unequal metal carrier arms meet at a retained central hinge and continue inside two complete splayed padded grips. A small complete scalloped feed wheel and a separate full blunt beveled annular cutting-wheel exterior sit at the front in offset planes, each on a retained axle. The feed axle rises into one entire two-lobed butterfly turning key. A whole bent front rim-guide strap accompanies the small wheel pair. All numerical geometry newly authored, not a wheel-cutter fork with an extra grip, a cropped nutcracker, or a reused gear. Three opaque constant PBR roles, metres Z up and whole bounds-centred ground datum. One original model zero scenes. Static empty kitchen prop only: no can, sharp edge, proven wheel engagement, cutting, turning, leverage, grip fit, food contact, hygiene, mechanical performance, manufacture or safety capability. Rigging animation and interaction are not made.",
+      "bounds": {
+        "x": 0.09531502425670624,
+        "y": 0.2329999953508377,
+        "z": 0.06199999898672104,
+        "unit": "m"
+      },
+      "triangles": 2540,
+      "materials": 3,
+      "files": {
+        "glb": {
+          "path": "assets/kitchen/kitchen-fixed-paired-grips-and-butterfly-key-can-opener-01/v1.0.0/model.glb",
+          "size": 222368,
+          "sha256": "ecf4fa81fba67ec69d2d83f1978888e0ea3b3728653ce51fec554980cfff204a"
+        },
+        "blend": {
+          "path": "assets/kitchen/kitchen-fixed-paired-grips-and-butterfly-key-can-opener-01/v1.0.0/source.blend",
+          "size": 868928,
+          "sha256": "1b30edd68e5628f746a3c25061519fc9a5d0c0613d34ae4bff49820a88968003"
+        },
+        "generator": {
+          "path": "assets/kitchen/kitchen-fixed-paired-grips-and-butterfly-key-can-opener-01/v1.0.0/generate.py",
+          "size": 17557,
+          "sha256": "72fad1134a879adf7fc41db71750662c697485b69e9a9fca94ba1c109a23f7cd"
+        },
+        "render": {
+          "path": "assets/kitchen/kitchen-fixed-paired-grips-and-butterfly-key-can-opener-01/v1.0.0/thumbnail.png",
+          "size": 486001,
+          "sha256": "7e0456c467702f39ccc44fdb4797a992cbbaf9126b87e1beb0681f6f95fcbd29"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1794-volume02-20261025"
     }
   ]
 }
