@@ -1,0 +1,43 @@
+{
+  "id": "fitness-whole-low-squat-and-five-coil-expander-preparation-bay-scene-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "fitness",
+  "style": "source-preserved-low-poly",
+  "title": "Low Squat And Five Coil Expander Preparation Bay",
+  "description": "One static fitness-equipment preparation bay, zero new models and one scene. Two complete accepted originals retain all geometry, metre scale and opaque PBR: the whole low footplate and upright calf-pad station stands on the left floor using its four original ground pads, and the whole five-coil expander rests flat on a separate right low braced bench by its original grip soles. The finite shared floor keeps a clear front access strip and separated full source bounds. Complete embedded original source and whole-GLB hashes are checked before translation-only composition; no extraction, scaling, recolouring or repeated model count. Empty illustrative layout only, no exercise sequence, physical use, belt or spring force, training advice, therapeutic benefit, body fit, loading, manufacture or safety claim.",
+  "bounds": {
+    "x": 1.4599999785423279,
+    "y": 1.5,
+    "z": 0.6880000233650208,
+    "unit": "m"
+  },
+  "triangles": 11444,
+  "materials": 11,
+  "files": {
+    "glb": {
+      "path": "assets/fitness/fitness-whole-low-squat-and-five-coil-expander-preparation-bay-scene-01/v1.0.0/model.glb",
+      "size": 995992,
+      "sha256": "01450f7585c64c762b69952d3a04f3353e1161b76356ae51837fd1714c0c7e31"
+    },
+    "blend": {
+      "path": "assets/fitness/fitness-whole-low-squat-and-five-coil-expander-preparation-bay-scene-01/v1.0.0/source.blend",
+      "size": 2200956,
+      "sha256": "f7e80827a188c642d32e7cd6deed56666d2cf3b3058965eb39213a6617c249e2"
+    },
+    "generator": {
+      "path": "assets/fitness/fitness-whole-low-squat-and-five-coil-expander-preparation-bay-scene-01/v1.0.0/generate.py",
+      "size": 36641,
+      "sha256": "83eea892ae9ba1653bc17c5fb39ca344872bc07e0dfff6640df56d666e784886"
+    },
+    "render": {
+      "path": "assets/fitness/fitness-whole-low-squat-and-five-coil-expander-preparation-bay-scene-01/v1.0.0/thumbnail.png",
+      "size": 490089,
+      "sha256": "d7accc615d4dc187fe965d22bfa55c0943760c9e8661a3724fa8b862247d5c0d"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved",
+  "sourceId": "sports-current-dot-originals-20261027"
+}
