@@ -1,0 +1,42 @@
+{
+  "id": "harbor-fixed-open-treadwheel-and-high-braced-jib-hoist-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "harbor",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Open Treadwheel and High Braced Jib Hoist",
+  "description": "One wholly newly authored complete static treadwheel-hoist-inspired display. A broad deep open annular tread drum has six whole rear radial spokes and a complete horizontal axle carried by two grounded A-shaped timber cradles. A separate full-height rear mast supports one whole high jib and complete diagonal jib brace, two high pulleys on full axles, an external double-shoulder winding drum and one continuous routed cord terminating in a complete empty open eye. The drum interior remains real empty space and the near side has no disc cap; all thick rear spokes and supports remain present. Unlike the small low treadle-wheel and suspended tool stand, this has a wide walk-in-scale drum, high load-cord route and long jib, with no footboard, belt, flexible handpiece or tool. Unlike the ratchet winch, it is not a compact bare spool between cheek plates and has no crank, pawl or sawtooth wheel. All complete numeric drum, support, mast, jib, cord and fitting geometry authored together; no mesh imported or extracted. Four opaque untextured constant PBR materials, native metres Z up and horizontal bounds-centred ground origin; one complete prop zero scenes. Broad historic equipment category only, not any surviving crane building or manufacturer replica. Deliberate small fixed overlaps establish static visual roots rather than a solved mechanism. No working hoist, power transmission, rope winding, tangency, rotation, travel, loading, human use, stability, dimensions for fabrication, installation or equipment safety capability made or verified. No cargo, person, building, rigging, animation or interaction.",
+  "bounds": {
+    "x": 4.371,
+    "y": 2.55,
+    "z": 3.33798342047117,
+    "unit": "m"
+  },
+  "triangles": 2188,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/harbor/harbor-fixed-open-treadwheel-and-high-braced-jib-hoist-01/v1.0.0/model.glb",
+      "size": 121968,
+      "sha256": "93eebdf37738b771b15d8bacbfdeb99f7eca2cd3702633c13ad760a792eb21ed"
+    },
+    "blend": {
+      "path": "assets/harbor/harbor-fixed-open-treadwheel-and-high-braced-jib-hoist-01/v1.0.0/source.blend",
+      "size": 801968,
+      "sha256": "62e4dd03000d3ca2354a7db83c0cbe9549136f6ad488770a6e1913555cbd5ffd"
+    },
+    "generator": {
+      "path": "assets/harbor/harbor-fixed-open-treadwheel-and-high-braced-jib-hoist-01/v1.0.0/generate.py",
+      "size": 15038,
+      "sha256": "3e970fe40d01caeec08e380e8f608c8f01548aa23265cfad4565dacade6fa3da"
+    },
+    "render": {
+      "path": "assets/harbor/harbor-fixed-open-treadwheel-and-high-braced-jib-hoist-01/v1.0.0/thumbnail.png",
+      "size": 464307,
+      "sha256": "416602a451e4d2adc6a362c99cd4aa66c28268af4e32a00aeb98e7f3506c68d1"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

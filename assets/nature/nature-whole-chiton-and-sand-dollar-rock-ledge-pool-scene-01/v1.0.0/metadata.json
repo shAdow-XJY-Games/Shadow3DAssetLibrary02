@@ -1,0 +1,42 @@
+{
+  "id": "nature-whole-chiton-and-sand-dollar-rock-ledge-pool-scene-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "nature",
+  "style": "source-preserved-low-poly",
+  "title": "Whole Chiton and Sand Dollar Rock Ledge Pool Scene",
+  "description": "One original static coastal-form teaching vignette, one scene and zero new independent models. The complete accepted eight-valve chiton rests on a broad higher dry ledge at the left; the whole accepted five-lunule sand-dollar test lies separately on the lower front-right shelf. Both retain their exact original geometry, normals, materials, hierarchy and metre sizes, with only whole-instance translations. A new scene-only irregular low rock island has two continuous shelf levels, a genuinely recessed rear-right pool pocket and one closed opaque still-water volume seated on its flat basin floor. The clear front band and separation between the whole specimens keep all of their existing forms legible. No valve, foot, test petal, lunule, old terrain or held barnacle component is extracted, recoloured, scaled or counted again. This is a composed display of coastal forms, not a claim that these particular organisms naturally coexist at these positions or relative ages, a living sand dollar, an actual tidal ecosystem, water dynamics, wetting, transparency, adhesion, navigation, physical stability, handling or animal safety. The low rock and pool geometry belong only to this scene; no new reusable terrain, rock or water asset is counted. No labels, texture, rig, animation or interaction.",
+  "bounds": {
+    "x": 0.36000001430511475,
+    "y": 0.25999999046325684,
+    "z": 0.06450000405311584,
+    "unit": "m"
+  },
+  "triangles": 9028,
+  "materials": 8,
+  "files": {
+    "glb": {
+      "path": "assets/nature/nature-whole-chiton-and-sand-dollar-rock-ledge-pool-scene-01/v1.0.0/model.glb",
+      "size": 542372,
+      "sha256": "c055fd8ced77707747a5d6956292064be8ff585f7ffa1488b6d4cf35a8c5c653"
+    },
+    "blend": {
+      "path": "assets/nature/nature-whole-chiton-and-sand-dollar-rock-ledge-pool-scene-01/v1.0.0/source.blend",
+      "size": 291136,
+      "sha256": "a753190f0b473000ec077c16a811a22b55daed0a21a27798eeb4a7a131d06a36"
+    },
+    "generator": {
+      "path": "assets/nature/nature-whole-chiton-and-sand-dollar-rock-ledge-pool-scene-01/v1.0.0/generate.py",
+      "size": 269556,
+      "sha256": "3b6dbee309228afc4f6bc7b297b71041c9a0f8ee2844798c8da5699ca09e9b3c"
+    },
+    "render": {
+      "path": "assets/nature/nature-whole-chiton-and-sand-dollar-rock-ledge-pool-scene-01/v1.0.0/thumbnail.png",
+      "size": 465603,
+      "sha256": "7d04ffdb4e58303da155352c85c436b2c58b00ecee507857c753102a0689e135"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

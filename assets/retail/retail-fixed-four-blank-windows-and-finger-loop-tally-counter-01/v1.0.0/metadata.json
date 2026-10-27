@@ -1,0 +1,42 @@
+{
+  "id": "retail-fixed-four-blank-windows-and-finger-loop-tally-counter-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "retail",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Four Blank Windows and Finger Loop Tally Counter",
+  "description": "One newly authored complete static handheld tally-counter exterior. A whole rounded flat-bottom housing has one genuine shallow front recess, four complete opaque blank readout pads and three full dividing bridges. One complete top plunger stem and broad cap, a full side reset-knob exterior and a complete rear oval finger loop on two whole mounts remain attached to that housing. All numerical geometry new, not a cropped meter with probes removed or a compact mirror with extra buttons. Three opaque constant PBR roles, metres Z up and whole bounds-centred ground datum. One original model zero scenes; the four blank readout pads are parts, not separate assets. Empty illustrative game art only: no digits, indicated count, real counter mechanism, actuation, reset, finger fit, loading, durability, manufacture or safety capability. No rigging animation or interaction.",
+  "bounds": {
+    "x": 0.09099999815225601,
+    "y": 0.04650000110268593,
+    "z": 0.10100000351667404,
+    "unit": "m"
+  },
+  "triangles": 1132,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/retail/retail-fixed-four-blank-windows-and-finger-loop-tally-counter-01/v1.0.0/model.glb",
+      "size": 101440,
+      "sha256": "bea623d8b5b1943d8fc3d248ac011f2db3329dcb4b8e27ec44fb8871fd23c408"
+    },
+    "blend": {
+      "path": "assets/retail/retail-fixed-four-blank-windows-and-finger-loop-tally-counter-01/v1.0.0/source.blend",
+      "size": 697120,
+      "sha256": "233b9ffd92bfe22989ab6dc35ffca3b7116ece16c15dc5d38f4bba1474f862c8"
+    },
+    "generator": {
+      "path": "assets/retail/retail-fixed-four-blank-windows-and-finger-loop-tally-counter-01/v1.0.0/generate.py",
+      "size": 16668,
+      "sha256": "4c965d1d6d0a07257e1d136bb98342866db5099fc8a9c184e4c9656b850430ae"
+    },
+    "render": {
+      "path": "assets/retail/retail-fixed-four-blank-windows-and-finger-loop-tally-counter-01/v1.0.0/thumbnail.png",
+      "size": 507903,
+      "sha256": "2a3a1ca3019acc650290c5ea5606a051a89524c70a2751574910db8fc77d22d1"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
