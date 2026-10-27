@@ -1,0 +1,42 @@
+{
+  "id": "art-fixed-curved-serrated-blade-and-palm-grip-rocker-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "art",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Curved Serrated Blade and Palm Grip Rocker",
+  "description": "One newly authored complete static mezzotint-rocker-inspired hand tool. A single broad finite steel-look plate has a curved front edge with thirty-six actual finite-thickness serrations and a continuous bevel strip following every tooth and valley. Both shoulders narrow into one rising root and tang seated in a complete short rounded wooden-look palm grip; one whole thick annular alloy-look ferrule surrounds that root. Full blade back and a finite grip facet rest at the same ground datum. All numerical outlines, serrations, shoulder/root transitions and grip proportions are new, not an old U-flute gouge, bent hive scraper or long pen handle reused. Four opaque PBR roles, metre scale, native Z up, one whole model zero scenes. Broad printmaking-tool appearance only; coarse visual serrations are not a real working tooth specification. No sharpened edge, cutting, plate preparation, ink retention, printing performance, historical maker, manufacture, ergonomics, strength or safety capability. Fixed intentional assembly overlaps; no animation, rig or interaction.",
+  "bounds": {
+    "x": 0.07800000160932541,
+    "y": 0.19789648056030273,
+    "z": 0.027760455384850502,
+    "unit": "m"
+  },
+  "triangles": 1166,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/art/art-fixed-curved-serrated-blade-and-palm-grip-rocker-01/v1.0.0/model.glb",
+      "size": 101740,
+      "sha256": "7e5daa83dfb3befb7a160e5bd876a436f8d75e17b868818dce9016b99c0b385b"
+    },
+    "blend": {
+      "path": "assets/art/art-fixed-curved-serrated-blade-and-palm-grip-rocker-01/v1.0.0/source.blend",
+      "size": 700600,
+      "sha256": "cdc4b8f7b255e6ddfb2f703185d5f2a19f0b716aa15ae0c971ac56128577f3a5"
+    },
+    "generator": {
+      "path": "assets/art/art-fixed-curved-serrated-blade-and-palm-grip-rocker-01/v1.0.0/generate.py",
+      "size": 14074,
+      "sha256": "14c49857441525a59017284270746d3f6f771e0da13d4d9ffc3bf64a1ea0f866"
+    },
+    "render": {
+      "path": "assets/art/art-fixed-curved-serrated-blade-and-palm-grip-rocker-01/v1.0.0/thumbnail.png",
+      "size": 469290,
+      "sha256": "c6932e13b79146f7b46c2d9a37f91bef6e66c946bba8d10c9258926c1749c25a"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
