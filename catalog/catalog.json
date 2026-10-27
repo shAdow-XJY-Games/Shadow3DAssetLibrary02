@@ -2179,6 +2179,11 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary02",
       "commit": "bc8b2c1963ef381bed0d307596040c6e5ed5c822"
+    },
+    "original-qualified-batch-1698-volume02-20261025": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary02",
+      "commit": "f43f2554f1ef499d434e1a8ed1e82fbe76f47da0"
     }
   },
   "assets": [
@@ -75023,6 +75028,178 @@
       "status": "verified",
       "license": "All rights reserved",
       "sourceId": "original-qualified-batch-1694-volume02-20261025"
+    },
+    {
+      "id": "salon-whole-oval-pin-brush-and-curved-pad-tool-tray-scene-01",
+      "version": "1.0.0",
+      "category": "scenes",
+      "assetKind": "scene",
+      "theme": "salon",
+      "style": "source-preserved-low-poly",
+      "title": "Whole Oval Pin Brush and Curved Pad Tool Tray",
+      "description": "One complete static salon hand-tool display-tray scene, one new scene zero new independent models. The entire qualified oval pin-pad paddle brush lies on the left with its full grip and all forty-three complete pins retained. The whole qualified ring-gripped curved-pad eyelash-curler stands separately on its existing display ring datum at the right rear. Both whole models rest on one low continuous finite rimmed tray, with clear lateral separation and full footprint margins. The tray is simple scene environment only, not a separately counted model. Both complete original GLB buffers, POSITION/NORMAL arrays, material dictionaries, face assignments and internal hierarchy remain exact under whole unit-scale translations only; no cropping, extraction, scaling, recolouring or re-counting. Unlike the older room-scale chair/mirror preparation station or wash/hood bay, this is a compact tabletop hand-tool exhibit with a continuous raised tray edge. Static empty display only: upright curler is an artistic display pose, not a balance claim. No person, hair, eyelash, cosmetic contents, bodily use, grooming procedure, professional workflow, sterility, hygiene, ergonomics, load, handling, manufacture or safety capability. No rigging animation or interaction.",
+      "bounds": {
+        "x": 0.41999998688697815,
+        "y": 0.36000001430511475,
+        "z": 0.11150000244379044,
+        "unit": "m"
+      },
+      "triangles": 8492,
+      "materials": 8,
+      "files": {
+        "glb": {
+          "path": "assets/salon/salon-whole-oval-pin-brush-and-curved-pad-tool-tray-scene-01/v1.0.0/model.glb",
+          "size": 726568,
+          "sha256": "103667af4402d5040ce60821ef7e75e835f245cf58b726d88dbd05be2cac2561"
+        },
+        "blend": {
+          "path": "assets/salon/salon-whole-oval-pin-brush-and-curved-pad-tool-tray-scene-01/v1.0.0/source.blend",
+          "size": 1671088,
+          "sha256": "1e91ecf7b281b6ef9cb66cda8547371039f57690cca4b4452eb24a2b722218df"
+        },
+        "generator": {
+          "path": "assets/salon/salon-whole-oval-pin-brush-and-curved-pad-tool-tray-scene-01/v1.0.0/generate.py",
+          "size": 162671,
+          "sha256": "6571f28f826a1b1c8f15004d0273be27c3a6aaf37f52a6235375a6009594fdfe"
+        },
+        "render": {
+          "path": "assets/salon/salon-whole-oval-pin-brush-and-curved-pad-tool-tray-scene-01/v1.0.0/thumbnail.png",
+          "size": 481068,
+          "sha256": "410f73251f23f307cd7c9c8d55e469827fe12bb86e6dbe9a0bc5d63a0e6a6874"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1698-volume02-20261025"
+    },
+    {
+      "id": "music-fixed-perforated-ovoid-slat-and-coiled-cord-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "music",
+      "style": "S01-clean-geometric",
+      "title": "Fixed Perforated Ovoid Slat and Coiled Cord",
+      "description": "One newly authored plain complete static bullroarer-inspired visual unit. A long ovoid wooden-look slat is a single closed bevelled solid with a genuine end bore. One complete narrow flax-look cord has a fixed end seated inside the bore, passes through a compact knot-like eye tie, and extends beyond the slat into a continuous open ground coil. Broad flat slat underside and finite cord facets share the ground datum. All outlines, eye, tie and winding coordinates are original numerical construction; no castanet shells, whistle body, yo-yo or recovered cord meshes reused. Four opaque PBR roles, metres, native Z up, one whole model and zero scenes. Plain generic appearance only, not a replica of a named culture, sacred object or museum object; no copied motifs. Fixed small assembly overlaps. No cord dynamics, whirling, sound, playability, strength, manufacturing, authenticity or safety capability; no rig or animation.",
+      "bounds": {
+        "x": 0.112725168466568,
+        "y": 0.4693325459957123,
+        "z": 0.012631590478122234,
+        "unit": "m"
+      },
+      "triangles": 8660,
+      "materials": 4,
+      "files": {
+        "glb": {
+          "path": "assets/music/music-fixed-perforated-ovoid-slat-and-coiled-cord-01/v1.0.0/model.glb",
+          "size": 731412,
+          "sha256": "f7bb51b0058eb0b905361bf0086c0f321ae6617cd9d7834031df6aee074bdc8b"
+        },
+        "blend": {
+          "path": "assets/music/music-fixed-perforated-ovoid-slat-and-coiled-cord-01/v1.0.0/source.blend",
+          "size": 1539920,
+          "sha256": "6b0eb7ebbf10af86f4091f6fcdec3e657eb8d05c739f10fb3756b8e5354f8d08"
+        },
+        "generator": {
+          "path": "assets/music/music-fixed-perforated-ovoid-slat-and-coiled-cord-01/v1.0.0/generate.py",
+          "size": 13311,
+          "sha256": "fe767364030a548c4f4790eaa4c8404c38eaf65e275b39b91ee3cc74a6568bcc"
+        },
+        "render": {
+          "path": "assets/music/music-fixed-perforated-ovoid-slat-and-coiled-cord-01/v1.0.0/thumbnail.png",
+          "size": 451031,
+          "sha256": "14877e90441c28a0ed4c6349bcdb562c969a2eea58ae3812c96f6d0baf5cde76"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1698-volume02-20261025"
+    },
+    {
+      "id": "agriculture-fixed-treadle-and-wire-loop-drum-thresher-01",
+      "version": "1.0.0",
+      "category": "modular",
+      "assetKind": "prop",
+      "theme": "agriculture",
+      "style": "warm-handcrafted-village",
+      "title": "Fixed Treadle and Wire Loop Drum Thresher",
+      "description": "One newly authored whole parked treadle wire-loop drum thresher-style display. Two long grounded skids carry four splayed side-frame legs, bearing blocks and one broad transverse drum. Twenty entire thick wire-loop forms are individually present in four rows around the drum, with both ends rooted into it; these are not painted marks or a toothed disc. A complete right open flywheel, four spokes, hub and crankpin connect by one full fixed rod to the front treadle crosspin. A broad empty pedal board, supported pivot and low cross ties complete the base. A low under-drum sheet and upright rear sheet form the partial body, leaving the loop drum exposed. No crop, grain, operator, hopper, fan, sieve, motor or extra scene platform. All visible geometry newly authored; no winnower, corn sheller, grindstone or mower mesh imported. Not a closed fan housing or single narrow stone wheel re-themed. One whole model zero scenes. Blunt static art only: no threshing, separation, crop feed, drum rotation, pedal travel, working transmission, continuous linkage clearance, throughput, human fit, guarding, load, engineering, manufacture or safety capability made or verified. Rigging, animation and interaction not made.",
+      "bounds": {
+        "x": 1.304999948,
+        "y": 1.269999981,
+        "z": 1.079110503,
+        "unit": "m"
+      },
+      "triangles": 2840,
+      "materials": 4,
+      "files": {
+        "glb": {
+          "path": "assets/agriculture/agriculture-fixed-treadle-and-wire-loop-drum-thresher-01/v1.0.0/model.glb",
+          "size": 163860,
+          "sha256": "aa19a9c056a1da85dfa2adcede25276f8647746e89f70b086a6d48958f9a6352"
+        },
+        "blend": {
+          "path": "assets/agriculture/agriculture-fixed-treadle-and-wire-loop-drum-thresher-01/v1.0.0/source.blend",
+          "size": 849564,
+          "sha256": "e2a1976c7782b8e3f697bc2430925d0d597ec1d9d5abd3551e84120ef6a28454"
+        },
+        "generator": {
+          "path": "assets/agriculture/agriculture-fixed-treadle-and-wire-loop-drum-thresher-01/v1.0.0/generate.py",
+          "size": 33135,
+          "sha256": "2448a1e6b3f66b6c2c412670b45a16b123b1c292469c4e153e5437e9d4f1656b"
+        },
+        "render": {
+          "path": "assets/agriculture/agriculture-fixed-treadle-and-wire-loop-drum-thresher-01/v1.0.0/thumbnail.png",
+          "size": 556440,
+          "sha256": "165d6b06e3efbfb20e2d23bbe72824697cfca0039176fcf7c2e2f241091b18b4"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1698-volume02-20261025"
+    },
+    {
+      "id": "architecture-fixed-six-lapped-rising-beams-and-open-crown-frame-01",
+      "version": "1.0.0",
+      "category": "architecture",
+      "assetKind": "modular",
+      "theme": "architecture",
+      "style": "S01-clean-geometric",
+      "title": "Fixed Six Lapped Rising Beams and Open Crown Frame",
+      "description": "One wholly new complete static open reciprocal-frame-inspired architectural crown. Six full long beams rise diagonally inward in a clockwise plan from six separate peripheral piers, passing over the next beam near each inner end and leaving a genuine central six-sided open oculus. Each whole beam is authored as one closed variable-depth solid: a full outer horizontal pier seat, one later broad upward-facing horizontal crossing seat and a further flat underside meeting the adjacent beam seat. Six exact finite opposed crossing patches form the cyclic connection pattern; six full piers and six whole square ground pads complete the object. Unlike the diamond lamella barrel, there are no repeated rhombic short-member cells, two long straight eaves or two open arch-end ribs; unlike the two-layer grid there are no stacked chord planes and pyramid cells; unlike the cable-net ring there are no radial tensile spokes or suspended edge ring. All beam profiles and plan coordinates, opposed seat organization, columns and bases authored together from numeric vertices, with no old roof, frame or truss mesh reused. Four opaque constant untextured PBR roles, metres Z up, centred full horizontal bounds at grounded soles, one complete architectural model zero scenes. Deliberately open unclad illustrative frame only, not a roof weather covering or a building. Finite source and exported seat geometry is checked, but no reciprocal-force solution, friction, fastening, assembly sequence, historic accuracy, self-support capacity, load bearing, buckling, fabrication, building-code, installation or structural safety performance made or verified. No rigging, motion or interaction.",
+      "bounds": {
+        "x": 7.023999999999999,
+        "y": 6.21563438099013,
+        "z": 4.677317647058821,
+        "unit": "m"
+      },
+      "triangles": 456,
+      "materials": 4,
+      "files": {
+        "glb": {
+          "path": "assets/architecture/architecture-fixed-six-lapped-rising-beams-and-open-crown-frame-01/v1.0.0/model.glb",
+          "size": 36716,
+          "sha256": "f568ba2e9a1dce6aa8dcc9cd19010a33b4def750cf650e3177aefc7df6498a94"
+        },
+        "blend": {
+          "path": "assets/architecture/architecture-fixed-six-lapped-rising-beams-and-open-crown-frame-01/v1.0.0/source.blend",
+          "size": 648228,
+          "sha256": "67fed3cbc0a3d209b85ce4772f6d66b66d08cbc0639c084926bbe808b5646d26"
+        },
+        "generator": {
+          "path": "assets/architecture/architecture-fixed-six-lapped-rising-beams-and-open-crown-frame-01/v1.0.0/generate.py",
+          "size": 12186,
+          "sha256": "4392627ac5bb846d9ba8b7201f04ceaec4d09bb1fe2e7fe86853ca3290a066e2"
+        },
+        "render": {
+          "path": "assets/architecture/architecture-fixed-six-lapped-rising-beams-and-open-crown-frame-01/v1.0.0/thumbnail.png",
+          "size": 487167,
+          "sha256": "7fbcbbbf14c9c83eb5a176a2124adcdb93f1a3e5ece14b8cb9aab54f7fdd241b"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1698-volume02-20261025"
     }
   ]
 }
