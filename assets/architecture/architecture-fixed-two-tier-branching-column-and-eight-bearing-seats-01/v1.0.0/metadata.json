@@ -1,0 +1,42 @@
+{
+  "id": "architecture-fixed-two-tier-branching-column-and-eight-bearing-seats-01",
+  "version": "1.0.0",
+  "category": "architecture",
+  "assetKind": "modular",
+  "theme": "architecture",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Two Tier Branching Column and Eight Bearing Seats",
+  "description": "One complete newly authored static branching architectural column. A whole square ground plinth and full base collar carry a tapered central trunk. Four complete rising primary branches spread diagonally from a broad trunk-head collar to four separated secondary fork nodes; every node divides into two entire upper branches ending in eight independent full horizontal rectangular bearing-seat plates at one level. This is one complete column from sole to finished upper seats, with no roof or building included. Unlike the fluted stone column there is no continuous fluted shaft, echinus or single abacus; unlike the inverted-roof canopy Y supports this has a two-tier spatial branching hierarchy with four fork nodes and eight distributed terminal seats, no roof wings or valley. All branches, junction appearances and ground/terminal parts newly authored together; no old column, Y post, tree or roof mesh imported. Four opaque constant untextured PBR roles, metre-style Z up and centred full horizontal bounds over the whole plinth sole, one architectural model zero scenes. Static artistic branching-support appearance only; collar intersections are illustrative rather than engineered joints. No roof host compatibility, welding or bolting design, load distribution, stress, stability, bearing capacity, installation, manufacture, building-code or safety capability made or verified. No rigging, animation, interaction or functional growth.",
+  "bounds": {
+    "x": 3.670368072873202,
+    "y": 3.6703680728732024,
+    "z": 3.81,
+    "unit": "m"
+  },
+  "triangles": 1228,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/architecture/architecture-fixed-two-tier-branching-column-and-eight-bearing-seats-01/v1.0.0/model.glb",
+      "size": 77376,
+      "sha256": "1d288b51d51ff79f2ad5b791b9efc939c3c3ffe181c376c8f434ea09cfd79f12"
+    },
+    "blend": {
+      "path": "assets/architecture/architecture-fixed-two-tier-branching-column-and-eight-bearing-seats-01/v1.0.0/source.blend",
+      "size": 736276,
+      "sha256": "e7460d808e51473e78dce6c460f179fca58b64c555ab9b9a98b159e3e9059bbe"
+    },
+    "generator": {
+      "path": "assets/architecture/architecture-fixed-two-tier-branching-column-and-eight-bearing-seats-01/v1.0.0/generate.py",
+      "size": 11962,
+      "sha256": "a691607aabaad8ed4c10883e8b20444812e3ee693c8e54523aaa48b074b59d97"
+    },
+    "render": {
+      "path": "assets/architecture/architecture-fixed-two-tier-branching-column-and-eight-bearing-seats-01/v1.0.0/thumbnail.png",
+      "size": 392560,
+      "sha256": "802c72d37c1e08ff886112b04393ceee1c01cde203c21438cf03f2dd0d5fb0b4"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

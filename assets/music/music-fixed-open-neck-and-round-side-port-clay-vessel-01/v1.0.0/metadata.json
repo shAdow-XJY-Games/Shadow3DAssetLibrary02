@@ -1,0 +1,42 @@
+{
+  "id": "music-fixed-open-neck-and-round-side-port-clay-vessel-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "music",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Open Neck and Round Side Port Clay Vessel",
+  "description": "One newly authored complete static clay-vessel-drum-inspired appearance. A continuous finite-thickness terracotta chamber expands from its own flat basal footprint to a broad low belly and contracts through a long shoulder to a narrow open glazed neck. One true sixteen-sided round side port passes through the same wall into the same hollow interior; both apertures are actual geometry, not black discs. Interior and port walls are continuous with the outer ceramic skin through both rims. A dark low foot band and teal upper-neck glaze are material regions on that same closed connected shell, not floating ornaments. All numeric geometry is newly authored as a whole: no kettle spout, handle or lid, no six-fingerhole flute, and no beaded gourd net. One model zero scenes, four opaque PBR regions, metres and native Z up. Static stylized category inspiration only; no copied branded shape, labels, regional or historical reconstruction, actual acoustic response, playability, fabrication, leak-tightness, handling or safety capability. No rig, animation or interaction.",
+  "bounds": {
+    "x": 0.2839994430541992,
+    "y": 0.2831999957561493,
+    "z": 0.3799999952316284,
+    "unit": "m"
+  },
+  "triangles": 2720,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/music/music-fixed-open-neck-and-round-side-port-clay-vessel-01/v1.0.0/model.glb",
+      "size": 232180,
+      "sha256": "6d99e7b9dea6bd6964378ddecf94e936aa0d52e8cd114dcb7f51840efeb64919"
+    },
+    "blend": {
+      "path": "assets/music/music-fixed-open-neck-and-round-side-port-clay-vessel-01/v1.0.0/source.blend",
+      "size": 865264,
+      "sha256": "54beed0f3cf2eba93f34867ce96e88ac922dd2a178d0f545c62f10ffbcba3e85"
+    },
+    "generator": {
+      "path": "assets/music/music-fixed-open-neck-and-round-side-port-clay-vessel-01/v1.0.0/generate.py",
+      "size": 12384,
+      "sha256": "2e5fc08c0a200a75c1edf4f60f6b3ff7fdd86cc3815cf1a412d5de92af0e8d87"
+    },
+    "render": {
+      "path": "assets/music/music-fixed-open-neck-and-round-side-port-clay-vessel-01/v1.0.0/thumbnail.png",
+      "size": 496676,
+      "sha256": "e85d2e709428122d6e68649e2feb74f7d23df925ea9cfe999ed72efc9d383c15"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "sports-fixed-cambered-rear-wheels-and-long-fork-racing-chair-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "sports",
+  "style": "source-preserved-low-poly",
+  "title": "Cambered Rear Wheels And Long Fork Racing Chair",
+  "description": "One newly authored complete fixed racing-chair appearance with two large outward-bottom cambered rear disc wheels, smaller separated push rings on fixed mounts, narrow open bucket, forward knee support and a long low central boom leading to a single small front wheel in a full fixed fork. New frame, bucket, wheel profiles and fork coordinates; no existing manual wheelchair or hand-crank tricycle geometry is imported, resized or dismantled. This silhouette has no paired front casters, arm pads, push handles, separated footplates, crankset or drive chain. One static empty sports prop, zero scenes, four opaque constant PBR roles. Illustrative fixed appearance only: no rider, disability fit, posture, medical/rehabilitation suitability, accessibility standard, rolling/steering/braking, speed, sporting regulation, load, stability, manufacture or safety capability.",
+  "bounds": {
+    "x": 1.084892988204956,
+    "y": 2.1700000762939453,
+    "z": 0.7849457859992981,
+    "unit": "m"
+  },
+  "triangles": 3092,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/sports/sports-fixed-cambered-rear-wheels-and-long-fork-racing-chair-01/v1.0.0/model.glb",
+      "size": 288572,
+      "sha256": "d51590b79b5c8da6fc18191c699cb3c822fb3a1fde2ec14d676d630b03fab625"
+    },
+    "blend": {
+      "path": "assets/sports/sports-fixed-cambered-rear-wheels-and-long-fork-racing-chair-01/v1.0.0/source.blend",
+      "size": 1061020,
+      "sha256": "e2a34872d3bf489814ff71f82f0253763912c9260e6e74f41c9d563e4a0b78ef"
+    },
+    "generator": {
+      "path": "assets/sports/sports-fixed-cambered-rear-wheels-and-long-fork-racing-chair-01/v1.0.0/generate.py",
+      "size": 20541,
+      "sha256": "a90876445f8e075767912761e9e02b5fc04a3d3702cf1b61754e29de377ed808"
+    },
+    "render": {
+      "path": "assets/sports/sports-fixed-cambered-rear-wheels-and-long-fork-racing-chair-01/v1.0.0/thumbnail.png",
+      "size": 527485,
+      "sha256": "9f652f63f3bed67348a90cffdc919d0333d0daa05eb4060fec29dfd6f63e7e8c"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved",
+  "sourceId": "sports-current-dot-originals-20261027"
+}

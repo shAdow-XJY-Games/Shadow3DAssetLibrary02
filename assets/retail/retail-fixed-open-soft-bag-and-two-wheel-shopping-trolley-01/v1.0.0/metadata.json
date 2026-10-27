@@ -1,0 +1,42 @@
+{
+  "id": "retail-fixed-open-soft-bag-and-two-wheel-shopping-trolley-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "retail",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Open Soft Bag and Two Wheel Shopping Trolley",
+  "description": "One newly authored complete empty static personal shopping trolley. A tall softly faceted rounded rectangular bag has a finite thick wall, closed bottom, genuinely open mouth and one complete raised rear flap. Its full upright tubular frame rises above the flap to a rounded hand grip, carries the bag on a short support tray and attaches behind with two small rooted mounts. Two complete broad wheels flank a full transverse axle and an integral bent forward parking foot reaches the ground. The body has gently varying lower belly and upper sections, unlike a flat paper bag with two loop handles, a large four-wheel lattice retail cart or a bare parcel handtruck with a projecting loading toe. No old source geometry or imported mesh is reused. Three constant opaque PBR materials, metres Z up, horizontal bounds-centred ground origin. One original model, zero scenes. Fixed empty artistic exhibit: no textiles simulation, bag contents, brands, person, wheel rotation, folding motion, load capacity, ergonomic fit, stability, manufacture or safety capability; rigging, animation and interaction not made.",
+  "bounds": {
+    "x": 0.5299999713897705,
+    "y": 0.44992125034332275,
+    "z": 1.097000002861023,
+    "unit": "m"
+  },
+  "triangles": 2204,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/retail/retail-fixed-open-soft-bag-and-two-wheel-shopping-trolley-01/v1.0.0/model.glb",
+      "size": 196616,
+      "sha256": "f242ec8ad89a84dfe69fd351c16d8c981ab5696fd04a1561cc63e46bd1ed7ad0"
+    },
+    "blend": {
+      "path": "assets/retail/retail-fixed-open-soft-bag-and-two-wheel-shopping-trolley-01/v1.0.0/source.blend",
+      "size": 850112,
+      "sha256": "f83ca6a53ba96cca64fe8001463bf730580f86737f93703c51c0ac1c2920af2f"
+    },
+    "generator": {
+      "path": "assets/retail/retail-fixed-open-soft-bag-and-two-wheel-shopping-trolley-01/v1.0.0/generate.py",
+      "size": 17680,
+      "sha256": "765dd065df3550a31df7a1a45c67228afef8480118ed2855b7d87d2ee38a2238"
+    },
+    "render": {
+      "path": "assets/retail/retail-fixed-open-soft-bag-and-two-wheel-shopping-trolley-01/v1.0.0/thumbnail.png",
+      "size": 495701,
+      "sha256": "1788b7afd5a2d502099d01a30cc56c693b086a9904d120b571e004d6114d912d"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

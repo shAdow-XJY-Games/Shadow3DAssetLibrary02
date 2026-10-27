@@ -1,0 +1,42 @@
+{
+  "id": "retail-whole-angled-helix-vending-and-open-freezer-bay-scene-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "retail",
+  "style": "source-preserved-low-poly",
+  "title": "Whole Angled Helix Vending and Open Freezer Bay",
+  "description": "One empty static retail self-service equipment bay: one new scene and zero new independent models. A complete qualified two-level open-front helical-carrier vending cabinet stands toward the left rear with its retrieval well facing the open foreground. A complete qualified open-lid chest freezer stands along the right side turned at a right angle, with its original front facing left toward the central standing area and its raised whole lid outside that area. A clear metre-wide lateral separation and an open front approach distinguish this compact L-shaped appliance bay from the two parallel gondola aisles and checkout/cart store. Both whole original GLB payloads, local POSITION/NORMAL arrays, PBR dictionaries, hierarchy and all internal relationships are retained under exact unit-scale whole-quarter-turn/translation only. One finite scene-only floor supports the original feet directly; no extracted part, duplicate model count, recolouring, scale edit, signs or stock. Empty static artistic layout only: no actual dispensing, payment, refrigeration, food storage, electricity, pedestrian/accessibility compliance, tested operating workflow, rated clearance, stability or workplace safety capability. Rigging animation interaction not made.",
+  "bounds": {
+    "x": 3.5999999046325684,
+    "y": 3.0,
+    "z": 1.899999976158142,
+    "unit": "m"
+  },
+  "triangles": 7360,
+  "materials": 12,
+  "files": {
+    "glb": {
+      "path": "assets/retail/retail-whole-angled-helix-vending-and-open-freezer-bay-scene-01/v1.0.0/model.glb",
+      "size": 651184,
+      "sha256": "f85e13f46bd048f03be9b4688c98d74e9786b8898fdc5a364fdc3d0de6cadac3"
+    },
+    "blend": {
+      "path": "assets/retail/retail-whole-angled-helix-vending-and-open-freezer-bay-scene-01/v1.0.0/source.blend",
+      "size": 1773408,
+      "sha256": "75c5f238bbf36a7aee18df985cfb2993f34200256e8159f8685f6d48c472582d"
+    },
+    "generator": {
+      "path": "assets/retail/retail-whole-angled-helix-vending-and-open-freezer-bay-scene-01/v1.0.0/generate.py",
+      "size": 168590,
+      "sha256": "a41adb8ce7186285ae9588ad78091ac895772c6f0c4036d4c2eba215d76f25b3"
+    },
+    "render": {
+      "path": "assets/retail/retail-whole-angled-helix-vending-and-open-freezer-bay-scene-01/v1.0.0/thumbnail.png",
+      "size": 502249,
+      "sha256": "d217439beadf2ca344e2f5da8a7931aa9db6a74e087f71b917990e872e4e6796"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "architecture-fixed-diamond-lamella-barrel-and-open-end-ribs-01",
+  "version": "1.0.0",
+  "category": "architecture",
+  "assetKind": "modular",
+  "theme": "architecture",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Diamond Lamella Barrel and Open End Ribs",
+  "description": "One complete newly authored static diamond-lamella barrel roof frame. Two entire longitudinal eave bearers on six full grounded columns support one cylindrically arched field of short straight rectangular-section members. Alternating nodes connect only along two diagonal families to form true open rhombic roof cells; two full finite-thickness curved end ribs finish the large empty arch mouths. The crown curves in one direction while the long axis remains straight. Unlike the triangulated hemisphere this is an open-ended cylindrical barrel over two straight support rows, not a closed radial dome over an annular foot. Unlike the two-layer pyramid grid this has only one curved diamond layer and no upper/lower offset chords or tetrahedral cells; unlike the single hangar portal its open frame extends through the full depth. Every member and whole end rib newly authored with no imported truss or roof mesh. Four opaque constant untextured PBR roles, metre-style Z up and centred full horizontal bounds at ground feet, one architectural model zero scenes. Static illustrative unclad lamella-style frame only; visible member meetings are not detailed lap joints or fabricated connectors. No roof weather cover, solved forces, buckling resistance, load bearing, fastening, installation, building-code, historic construction or structural safety capability made or verified. No animation, rigging or interaction.",
+  "bounds": {
+    "x": 5.6,
+    "y": 7.0,
+    "z": 4.800000000000001,
+    "unit": "m"
+  },
+  "triangles": 1456,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/architecture/architecture-fixed-diamond-lamella-barrel-and-open-end-ribs-01/v1.0.0/model.glb",
+      "size": 117172,
+      "sha256": "dacbd3f9f594c4fbb03bbe61d25cb9afd516681377e2229b527f9e412536cfc1"
+    },
+    "blend": {
+      "path": "assets/architecture/architecture-fixed-diamond-lamella-barrel-and-open-end-ribs-01/v1.0.0/source.blend",
+      "size": 989660,
+      "sha256": "3985e7dbba6ddf6cd8b27289fcc95011e682886c5c9c1616f7c8cd64164156a8"
+    },
+    "generator": {
+      "path": "assets/architecture/architecture-fixed-diamond-lamella-barrel-and-open-end-ribs-01/v1.0.0/generate.py",
+      "size": 11861,
+      "sha256": "ac287fb0b8db196d320530fc40eb086335e4baa29cffac7e4f3336d55e135c10"
+    },
+    "render": {
+      "path": "assets/architecture/architecture-fixed-diamond-lamella-barrel-and-open-end-ribs-01/v1.0.0/thumbnail.png",
+      "size": 540815,
+      "sha256": "577a002d85f1d941de242f233ac421e4c6c1b9ba7bcdb8b2114289b69063d993"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
