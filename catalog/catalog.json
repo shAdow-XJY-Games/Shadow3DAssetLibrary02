@@ -2309,6 +2309,11 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary02",
       "commit": "735372cd4cf4407b3ecc48aa35d8df72e166bf89"
+    },
+    "original-qualified-batch-1762-volume02-20261025": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary02",
+      "commit": "e61a5c25fefaab842c3ccf033cd0a62e18f8bdf4"
     }
   },
   "assets": [
@@ -77948,6 +77953,135 @@
       "status": "verified",
       "license": "All rights reserved",
       "sourceId": "original-qualified-batch-1759-volume02-20261025"
+    },
+    {
+      "id": "culture-fixed-scalloped-head-and-captive-ring-chocolate-stirrer-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "culture",
+      "style": "S01-clean-geometric",
+      "title": "Fixed Scalloped Head and Captive Ring Chocolate Stirrer",
+      "description": "One newly authored complete molinillo-inspired static wooden-look chocolate-stirrer exterior. One entire continuous body joins a broad eight-scalloped end head, narrow neck, integral retaining shoulders and a long slender turned grip with two shallow dark recessed bands. Three independent whole annular rings surround the short neck above the carved head; each true through-bore retains visible upper air around the narrow shaft and sits in a deliberate fixed overlap on its complete shoulder. Four closed editable whole meshes and four opaque constant PBR roles, metres native Z up, whole horizontal bounds centred with a finite lower head sole as the upright display datum. All numeric profiles, eight head grooves, shoulders and ring sections are new, not a cabasa beaded cylinder with recoloured loops, a twin cage geared hand beater, honey dipper or extracted cooking accessory. One model zero scenes. Broad Mexican craft-tool category inspiration only; no particular artisan work, inscriptions, ornamental carving or historical replica. Rings are fixed in this static pose, not free-spinning or mechanically captive under motion; no actual wood species, internal grain, chocolate, beverage, food contact, mixing/frothing result, preparation instructions, grip fit, rotation, sound, balance, manufacturing or safety capability claimed. No rig, animation or interaction.",
+      "bounds": {
+        "x": 0.057170141488313675,
+        "y": 0.057170141488313675,
+        "z": 0.3370000123977661,
+        "unit": "m"
+      },
+      "triangles": 6784,
+      "materials": 4,
+      "files": {
+        "glb": {
+          "path": "assets/culture/culture-fixed-scalloped-head-and-captive-ring-chocolate-stirrer-01/v1.0.0/model.glb",
+          "size": 575156,
+          "sha256": "1c695e1b0fe949b70c7177915d508859f2cf2d692241a21a4e65813b4eaf5f02"
+        },
+        "blend": {
+          "path": "assets/culture/culture-fixed-scalloped-head-and-captive-ring-chocolate-stirrer-01/v1.0.0/source.blend",
+          "size": 1334528,
+          "sha256": "265004ae443ff1c11714379c1093ba81c7ba78b7c0b11e76b090986447a7552f"
+        },
+        "generator": {
+          "path": "assets/culture/culture-fixed-scalloped-head-and-captive-ring-chocolate-stirrer-01/v1.0.0/generate.py",
+          "size": 11817,
+          "sha256": "e731294837a5be2d328ccc01443801c51a4bdfc2e1152bfcf2b1f89a3ab77e5e"
+        },
+        "render": {
+          "path": "assets/culture/culture-fixed-scalloped-head-and-captive-ring-chocolate-stirrer-01/v1.0.0/thumbnail.png",
+          "size": 456628,
+          "sha256": "17d0a00c1dd38f853cd9378d8e52d6ea01f364ce04de8498f55efc18639656f4"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1762-volume02-20261025"
+    },
+    {
+      "id": "sports-fixed-round-crown-and-single-pedestal-gymnastics-mushroom-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "sports",
+      "style": "low-poly",
+      "title": "Round Crown And Single Pedestal Gymnastics Mushroom",
+      "description": "One newly authored complete static gymnastics-mushroom-inspired visual prop. A broad low round crowned padded head has a continuous rounded shoulder, finite lower skirt and full underside, carried centrally on one short tapered circular pedestal above a complete wide low beveled circular foot. All three complete closed bodies are newly drawn from different radial profiles. The whole head is circular in plan with a radial crown and no handles, not an old long two-pommel horse with its handles deleted, not the offset directional vaulting-table head, and not a half-dome placed directly on a pierced balance platform. No prior mesh geometry is imported or extracted. Three opaque constant PBR roles, metre units Z up, whole horizontal bounds-centred ground origin. One original model zero scenes, unoccupied fixed display pose only. No gymnast, pommel, mat, text, logo or adjustable mechanism. Category-inspired appearance and game-space proportions only; no exact branded product, official dimensions, training instruction, exercise benefit, user fit, padding response, load, real-world stability, manufacture, installation, use suitability or safety certification. No rigging, animation or interaction.",
+      "bounds": {
+        "x": 0.8399999737739563,
+        "y": 0.8399999737739563,
+        "z": 0.6060000061988831,
+        "unit": "m"
+      },
+      "triangles": 1568,
+      "materials": 3,
+      "files": {
+        "glb": {
+          "path": "assets/sports/sports-fixed-round-crown-and-single-pedestal-gymnastics-mushroom-01/v1.0.0/model.glb",
+          "size": 134648,
+          "sha256": "67fe442df92dabf7509614576fcc9363b60af41ad9155594a391dcd2f6e24d1d"
+        },
+        "blend": {
+          "path": "assets/sports/sports-fixed-round-crown-and-single-pedestal-gymnastics-mushroom-01/v1.0.0/source.blend",
+          "size": 707228,
+          "sha256": "5a65885ea804a3d372b49f680eb6017e800ad5f39420b25c1a36dd066977d522"
+        },
+        "generator": {
+          "path": "assets/sports/sports-fixed-round-crown-and-single-pedestal-gymnastics-mushroom-01/v1.0.0/generate.py",
+          "size": 17973,
+          "sha256": "1854137c98133424ece63699818bfcf833d6b3752bbd1474b70fe830f83f23c4"
+        },
+        "render": {
+          "path": "assets/sports/sports-fixed-round-crown-and-single-pedestal-gymnastics-mushroom-01/v1.0.0/thumbnail.png",
+          "size": 528081,
+          "sha256": "bbd96427df1369f8268d21cd0c476406153086bbfd70271c166195e89ca24847"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1762-volume02-20261025"
+    },
+    {
+      "id": "architecture-fixed-closed-corrugated-enclosure-and-two-level-cross-struts-01",
+      "version": "1.0.0",
+      "category": "architecture",
+      "assetKind": "modular",
+      "theme": "architecture",
+      "style": "S01-clean-geometric",
+      "title": "Fixed Closed Corrugated Enclosure and Two-Level Cross Struts",
+      "description": "One wholly newly authored complete dry internally-braced-cofferdam-inspired architectural display. One continuous thick corrugated rectangular perimeter closes around all four corners with a genuine open top and a full separate flat ground floor. Two complete rectangular inner waler frames run around the enclosure at separated heights, each with an actual large central opening. Three whole transverse struts at each level join the opposite long waler sides; four whole upper diagonal corner knees connect adjacent frame sides. Every wall fold, corner, waler and strut is newly authored together. The full interior remains open between the brace rows, with no soil, water or installed worksite. Unlike the prior one-sided retaining curtain with rear tie rods and separate anchors, this whole closed perimeter carries inward encircling frames and full cross-span bracing on both levels. Unlike the timber flying shore, there are no isolated wall-bearing plates, central raker/cheek joint or absent host walls. The entire finite-thickness corrugated curtain is one closed editable body, not repeated independent sheet assets or an asserted interlocking system. All numeric geometry new, no old wall, shore, tieback, basin or brace mesh imported or extracted. Four constant opaque untextured PBR appearances, metres native Z up, whole bounds-centred finite ground sole, one architectural model zero scenes. Empty static illustrative geometry only, not a construction detail or designed temporary work. No soil pressure, excavation sequence, water seal, dewatering, sheet interlock, weld, bolt, strut compression, buckling, anchoring, load, stability, access, installation, fabrication, structural or civil safety capability made or verified. No rigging, animation or interaction.",
+      "bounds": {
+        "x": 6.2,
+        "y": 4.4,
+        "z": 2.94,
+        "unit": "m"
+      },
+      "triangles": 1076,
+      "materials": 4,
+      "files": {
+        "glb": {
+          "path": "assets/architecture/architecture-fixed-closed-corrugated-enclosure-and-two-level-cross-struts-01/v1.0.0/model.glb",
+          "size": 53828,
+          "sha256": "2dc688fecb2e83f62de3301868d0bc0063d95b7c05c8b663eabd25d29634e35a"
+        },
+        "blend": {
+          "path": "assets/architecture/architecture-fixed-closed-corrugated-enclosure-and-two-level-cross-struts-01/v1.0.0/source.blend",
+          "size": 663080,
+          "sha256": "a8cfa1209746a10a351a6b1938d15559f6d4b905dc3ecf22a2ffb5208391f082"
+        },
+        "generator": {
+          "path": "assets/architecture/architecture-fixed-closed-corrugated-enclosure-and-two-level-cross-struts-01/v1.0.0/generate.py",
+          "size": 13345,
+          "sha256": "de312f16fa233a196edae2d7553905e3cc78c685b94ed9c120ab2f0c53ad9aff"
+        },
+        "render": {
+          "path": "assets/architecture/architecture-fixed-closed-corrugated-enclosure-and-two-level-cross-struts-01/v1.0.0/thumbnail.png",
+          "size": 581456,
+          "sha256": "1aa91937dcfeda049c11d5de7439cd6aa1f27287cec2de48db1e951b2b541eac"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1762-volume02-20261025"
     }
   ]
 }
