@@ -2294,6 +2294,11 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary02",
       "commit": "13845cfdc4988a294ecbdbdb6dd3b17f1196ee47"
+    },
+    "original-qualified-batch-1751-volume02-20261025": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary02",
+      "commit": "6f06c522559f18c120c442a6cb8da228c8dc6c3b"
     }
   },
   "assets": [
@@ -77546,6 +77551,49 @@
       "status": "verified",
       "license": "All rights reserved",
       "sourceId": "original-qualified-batch-1750-volume02-20261025"
+    },
+    {
+      "id": "sports-whole-curling-stone-and-inclined-brush-display-bay-scene-01",
+      "version": "1.0.0",
+      "category": "scenes",
+      "assetKind": "scene",
+      "theme": "sports",
+      "style": "source-preserved-low-poly",
+      "title": "Whole Curling Stone And Inclined Brush Display Bay",
+      "description": "One complete static curling-equipment display-bay scene, zero new independent models and one scene. The whole qualified faceted curling stone and its bridge grip stand at the left front of a finite common platform. The entire qualified low oval-pad brush with fork joint, long inclined shaft and full upper grip stands separately at the right. Both complete original GLB buffers, oriented triangles, normals, PBR material dictionaries and internal hierarchy remain unchanged at unit scale under whole-instance translations only. All complete original source bytes are embedded as unexecuted provenance. Original full stone sole and full pad underside have finite contact areas on the platform top; genuine lateral separation and an open front strip remain. The small stone retains its original relative display scale; no part is extracted, enlarged, recoloured or recounted as a new model. New platform is scene-only environment. This is a whole-equipment exhibit, not an ice rink, playing situation, verified sweeping workflow or combined physical assembly. No people, ice, actual granite, sporting dimensions, mass, sliding, curl trajectory, friction, sweeping result, balance, load, competition approval, human-use suitability, manufacture or safety capability made or verified. No rigging, animation or interaction.",
+      "bounds": {
+        "x": 1.440000057220459,
+        "y": 1.2400000095367432,
+        "z": 1.318747639656067,
+        "unit": "m"
+      },
+      "triangles": 988,
+      "materials": 7,
+      "files": {
+        "glb": {
+          "path": "assets/sports/sports-whole-curling-stone-and-inclined-brush-display-bay-scene-01/v1.0.0/model.glb",
+          "size": 84188,
+          "sha256": "386e9e90b847f717f74445cdd68494db3e75ba0806ad90f352e484adf575bcf7"
+        },
+        "blend": {
+          "path": "assets/sports/sports-whole-curling-stone-and-inclined-brush-display-bay-scene-01/v1.0.0/source.blend",
+          "size": 774692,
+          "sha256": "dd105690f70a06e0497e75d4bc68fd7d1f59dc0e88264890d42974c02f1c21ad"
+        },
+        "generator": {
+          "path": "assets/sports/sports-whole-curling-stone-and-inclined-brush-display-bay-scene-01/v1.0.0/generate.py",
+          "size": 68254,
+          "sha256": "0f9af997fdfbf7a8039b0e7aef8c4b689a3c98b3a805ba37d0b6d444c963eb4f"
+        },
+        "render": {
+          "path": "assets/sports/sports-whole-curling-stone-and-inclined-brush-display-bay-scene-01/v1.0.0/thumbnail.png",
+          "size": 425417,
+          "sha256": "8b9011184696175701beeb674fee616cc8606ddac2fabcd50de95eb0772fd8dc"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1751-volume02-20261025"
     }
   ]
 }
