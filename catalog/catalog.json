@@ -2049,6 +2049,11 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary02",
       "commit": "7dce6ac3f71d51b3c008cd58ee83c35c6e12924f"
+    },
+    "original-qualified-batch-1604-volume02-20261025": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary02",
+      "commit": "ca3f57aa8a25c88500f3f92bdf88c2d146d792ff"
     }
   },
   "assets": [
@@ -70937,6 +70942,92 @@
       "status": "verified",
       "license": "All rights reserved",
       "sourceId": "original-qualified-batch-1602-volume02-20261025"
+    },
+    {
+      "id": "sports-fixed-thick-ring-face-and-three-leg-target-butt-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "sports",
+      "style": "source-preserved-low-poly",
+      "title": "Thick Ring Face And Three Leg Target Butt",
+      "description": "One newly authored complete fixed circular target-butt appearance: a thick bevel-edged inclined round body has continuous connected concentric face regions in opaque materials, carried by a broad front pair and a separate rear leg, lower receiver ledge, rear cross tie, two depth braces and an upper transverse pin. New whole inclined mass-and-tripod geometry, not a dartboard cabinet, resized painting canvas or imported stand. Ring colours are adjacent face assignments on one closed surface, not overlay decals. One complete static sports prop and zero scenes. No arrows, projectiles, numbering, scoring, shooting action, impact response, regulation size, working adjustment, stability, material stopping performance, manufacture or safety capability is supplied.",
+      "bounds": {
+        "x": 1.1399999856948853,
+        "y": 1.0169999599456787,
+        "z": 1.690000057220459,
+        "unit": "m"
+      },
+      "triangles": 944,
+      "materials": 5,
+      "files": {
+        "glb": {
+          "path": "assets/sports/sports-fixed-thick-ring-face-and-three-leg-target-butt-01/v1.0.0/model.glb",
+          "size": 89456,
+          "sha256": "81f8d70dc7117bd3cc0d1b0e64403bd170dd236b2d17ecb0cda6fad1407d72e6"
+        },
+        "blend": {
+          "path": "assets/sports/sports-fixed-thick-ring-face-and-three-leg-target-butt-01/v1.0.0/source.blend",
+          "size": 711968,
+          "sha256": "cddb5c6fd542f62d8f3e86238317ed3c57bd6c61e8720a97f37eb406bea1667c"
+        },
+        "generator": {
+          "path": "assets/sports/sports-fixed-thick-ring-face-and-three-leg-target-butt-01/v1.0.0/generate.py",
+          "size": 18293,
+          "sha256": "8db13b164db7c07d8fff62a203c92f9029f2369373f4d3edc121b1d5dce0a985"
+        },
+        "render": {
+          "path": "assets/sports/sports-fixed-thick-ring-face-and-three-leg-target-butt-01/v1.0.0/thumbnail.png",
+          "size": 513453,
+          "sha256": "1cb95717dab30ede1764d4a942c001a9f4c8b01162abbfec4ef618ab3a1a6c55"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1604-volume02-20261025"
+    },
+    {
+      "id": "retail-fixed-open-front-helix-shelves-and-retrieval-well-vending-unit-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "retail",
+      "style": "S01-clean-geometric",
+      "title": "Fixed Open Front Helix Shelves and Retrieval Well Vending Unit",
+      "description": "One newly authored complete empty static open-front vending-unit cutaway. The full upright grounded cabinet has thick sidewalls, closed back and roof, a blank top header and a narrow fixed control strip. Two complete divided shelves each carry two long horizontal three-turn helical wire carriers with complete rear roots, short hubs and radial links. The front display is genuinely open without glass or product images, so the spiral paths, shelf floors and empty bays are visible. The lower cabinet has a real broad recessed retrieval well with finite floor, sides, back and low front lip; it is not a dark painted rectangle. All coordinates newly authored, no old cabinet, conveyor, token receiver or spherical dispenser geometry imported. Unlike the narrow token-slot/scoop exterior or globe/funnel/crank dispenser, this is a whole two-level spiral-shelf cabinet with a separate lower receiving recess. Four opaque untextured constant PBR materials, metres Z up and horizontal bounds-centred ground origin. One model zero scenes, not four coils or two shelves counted as separate assets. Empty static exhibit only: no food, brands, prices, payment data, currency, glass transparency, motors, dispensing movement, refrigeration, electronics, stock capacity, operating instructions, access compliance, tamper resistance, manufacture, stability or safety capability. No rig animation or interaction.",
+      "bounds": {
+        "x": 0.9800000190734863,
+        "y": 0.7170000076293945,
+        "z": 1.840000033378601,
+        "unit": "m"
+      },
+      "triangles": 6964,
+      "materials": 4,
+      "files": {
+        "glb": {
+          "path": "assets/retail/retail-fixed-open-front-helix-shelves-and-retrieval-well-vending-unit-01/v1.0.0/model.glb",
+          "size": 600620,
+          "sha256": "0158f24860a4f19893388ca639db92ee646a336550160766a2e6222080089368"
+        },
+        "blend": {
+          "path": "assets/retail/retail-fixed-open-front-helix-shelves-and-retrieval-well-vending-unit-01/v1.0.0/source.blend",
+          "size": 1434624,
+          "sha256": "d927b0d0aaa91c65b5e2ae377fdff0beb19521bb14771ee7e021a49b64f640b8"
+        },
+        "generator": {
+          "path": "assets/retail/retail-fixed-open-front-helix-shelves-and-retrieval-well-vending-unit-01/v1.0.0/generate.py",
+          "size": 19722,
+          "sha256": "cfb8bb1188e06c335190092ab3fb950125b3dafaf3acc79af47081378df0ad77"
+        },
+        "render": {
+          "path": "assets/retail/retail-fixed-open-front-helix-shelves-and-retrieval-well-vending-unit-01/v1.0.0/thumbnail.png",
+          "size": 533107,
+          "sha256": "44d5e620139c20ce877b604a6d3890bf98653f31581998dbdf0904082e17c48e"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1604-volume02-20261025"
     }
   ]
 }
