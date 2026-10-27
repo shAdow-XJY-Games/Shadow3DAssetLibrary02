@@ -2219,6 +2219,11 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary02",
       "commit": "711daac8a2521c277d65fbde34770aa7268a8576"
+    },
+    "original-qualified-batch-1714-volume02-20261025": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary02",
+      "commit": "443d336362cd681d1529b8a62b9dd43f058705c1"
     }
   },
   "assets": [
@@ -75880,6 +75885,49 @@
       "status": "verified",
       "license": "All rights reserved",
       "sourceId": "original-qualified-batch-1713-volume02-20261025"
+    },
+    {
+      "id": "industrial-fixed-four-port-head-and-close-plate-pack-heat-exchanger-01",
+      "version": "1.0.0",
+      "category": "modular",
+      "assetKind": "prop",
+      "theme": "industrial",
+      "style": "warm-handcrafted-village",
+      "title": "Fixed Four Port Head and Close Plate Pack Heat Exchanger",
+      "description": "One newly authored whole fixed gasketed plate-and-frame heat-exchanger-style exterior. A complete tall front head contains four real through bores aligned with four full open cylindrical necks and annular flanges. Fourteen entire thin rectangular plate exteriors and thirteen inset dark separator layers form a close pack between the fixed front head and full rear pressure plate. A whole upper carrying bar and lower guide run back to one complete rear support column. Six full long tie rods with twelve proud hexagonal nut exteriors, two broad front mounting feet and one rear mounting foot complete the assembly. All visible geometry newly authored; no filter-press or other machine mesh imported. Not the existing open six-recess-plate filter press with one central inlet, side rails, plunger and low collector: this is a close upright plate pack with four head ports, top/bottom central guides, rear support column and multiple tie rods, without a collector or actuation shaft. One model zero scenes. Static empty exterior only. The four nozzle/head bores open into blind display recesses ending at the unmodeled internal plate stack; continuous channels, internal corrugation patterns and fluid passages are not made. Separator layers are stylized whole exterior solids, not working gaskets. No heat transfer, flow circuit, pressure boundary, leak seal, fluid separation, thermal capacity, adjustment, load, installation, manufacture, engineering or machinery safety capability made or verified. Rigging, animation and interaction not made.",
+      "bounds": {
+        "x": 0.899999976,
+        "y": 1.914999962,
+        "z": 1.620000005,
+        "unit": "m"
+      },
+      "triangles": 3840,
+      "materials": 4,
+      "files": {
+        "glb": {
+          "path": "assets/industrial/industrial-fixed-four-port-head-and-close-plate-pack-heat-exchanger-01/v1.0.0/model.glb",
+          "size": 189560,
+          "sha256": "2304a6f9842d19d7922f9ad241974d2fa395e4b9aae26d576b68747401ea59ba"
+        },
+        "blend": {
+          "path": "assets/industrial/industrial-fixed-four-port-head-and-close-plate-pack-heat-exchanger-01/v1.0.0/source.blend",
+          "size": 960092,
+          "sha256": "7a4b50670608d5e2cec4f31e858c6d4ae80e0fba8da4f756c5ec30d340a37700"
+        },
+        "generator": {
+          "path": "assets/industrial/industrial-fixed-four-port-head-and-close-plate-pack-heat-exchanger-01/v1.0.0/generate.py",
+          "size": 33262,
+          "sha256": "0d43c68ae720682789854852a5d83f09824b4557c0b4a4d16053e8daa4a36857"
+        },
+        "render": {
+          "path": "assets/industrial/industrial-fixed-four-port-head-and-close-plate-pack-heat-exchanger-01/v1.0.0/thumbnail.png",
+          "size": 554162,
+          "sha256": "c48974ed00f0dc7602b29e24ef3db28fc2775b7ab1d6c3338b1914ed294b7672"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1714-volume02-20261025"
     }
   ]
 }
