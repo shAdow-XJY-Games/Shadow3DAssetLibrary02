@@ -1,0 +1,42 @@
+{
+  "id": "culture-whole-baren-canting-and-tatting-inspection-tray-scene-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "culture",
+  "style": "source-preserved-low-poly",
+  "title": "Whole Baren Canting and Tatting Inspection Tray",
+  "description": "One static whole-handcraft-tool inspection-tray scene, zero new independent models. Four complete qualified originals retain every mesh buffer, normal, full PBR material and internal node hierarchy at unchanged unit metre scale: the full open-front notched postal tray with both pierced side grips, rear blank plaque and both complete runners; the whole wrapped round baren with twisted hand band; the whole empty copper canting-inspired cup and narrow bent outlet with full wooden grip; and the whole opposed-leaf tatting shuttle with its central post and thread winding. Each complete tool rests separately on a measured finite region of the original tray floor, behind its front finger recess and clear of side walls, rear plaque and one another. Only a neutral low viewing slab is scene-specific. No original geometry, colour or internal proportions changed, cropped or enlarged. This is a static collection comparison, not a shared craft workflow, postal operation, carrying arrangement or functional compatibility claim. No added paper, wax, heat, cloth, lace output, person, label, grip, load, stability, manufacture or safety capability. No rig, animation or interaction.",
+  "bounds": {
+    "x": 0.46000000834465027,
+    "y": 0.5799999833106995,
+    "z": 0.14999999105930328,
+    "unit": "m"
+  },
+  "triangles": 7556,
+  "materials": 16,
+  "files": {
+    "glb": {
+      "path": "assets/culture/culture-whole-baren-canting-and-tatting-inspection-tray-scene-01/v1.0.0/model.glb",
+      "size": 655020,
+      "sha256": "27af736a9f03eace00aacacb8fbd402a4dae0da9a04b033bd4038a9f2cda66db"
+    },
+    "blend": {
+      "path": "assets/culture/culture-whole-baren-canting-and-tatting-inspection-tray-scene-01/v1.0.0/source.blend",
+      "size": 1814460,
+      "sha256": "299513c13b64cd6cd50a287bc9c296231d3289199ec11b28cb5b4b25215a38e7"
+    },
+    "generator": {
+      "path": "assets/culture/culture-whole-baren-canting-and-tatting-inspection-tray-scene-01/v1.0.0/generate.py",
+      "size": 200879,
+      "sha256": "1899a3f559b9a3e83f46869339639d7ed58e54df6772c89388b1776ea49d32fa"
+    },
+    "render": {
+      "path": "assets/culture/culture-whole-baren-canting-and-tatting-inspection-tray-scene-01/v1.0.0/thumbnail.png",
+      "size": 550061,
+      "sha256": "22e2cab15a4cd4b0b93194cdc1fa638e670c9c779359566e5f0d1d04ace9ada4"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

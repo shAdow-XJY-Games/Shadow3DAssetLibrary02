@@ -1,0 +1,42 @@
+{
+  "id": "agriculture-whole-round-baler-and-twin-belt-wrapper-staging-court-scene-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "agriculture",
+  "style": "warm-handcrafted-village",
+  "title": "Whole Round Baler and Twin Belt Wrapper Staging Court",
+  "description": "One new whole open bale-equipment staging court scene using the existing complete open-tailgate round baler and accepted twin-belt-table bale wrapper at unchanged scale and material parameters. They occupy separate side-by-side parked positions on one newly authored hardstand, with a broad open shared front approach, a central empty aisle and two short rear boundary sections leaving a deliberate central rear opening. A low left curb and three thin contrasting ground guides organize the court without connecting the machines or blocking their front draw members. Both machines remain entirely empty and unhitched: no bale, crop or loose film sheet added. All component geometry is embedded in this self-contained generator with original source hashes. There are zero new stand-alone models and one new scene; the baler and wrapper remain reused assets, not new counts. Fixed visual staging only, no bale transfer, loading device, coupling compatibility, vehicle movement, active wrapping or baling, actual working clearance, engineering or safety claim. Rigging, animation, physics and runtime interaction not made.",
+  "bounds": {
+    "x": 6.650000095,
+    "y": 5.300000191,
+    "z": 2.220000029,
+    "unit": "m"
+  },
+  "triangles": 4264,
+  "materials": 11,
+  "files": {
+    "glb": {
+      "path": "assets/agriculture/agriculture-whole-round-baler-and-twin-belt-wrapper-staging-court-scene-01/v1.0.0/model.glb",
+      "size": 243160,
+      "sha256": "ac0742b80d983118b05503b9bdf0c75ba8195c6812c860607ec735bcd778b594"
+    },
+    "blend": {
+      "path": "assets/agriculture/agriculture-whole-round-baler-and-twin-belt-wrapper-staging-court-scene-01/v1.0.0/source.blend",
+      "size": 1239744,
+      "sha256": "a7aed2c51b713d1b81e4bf18e7a9d74ee0927704ac0a61f620dbbda208e24f65"
+    },
+    "generator": {
+      "path": "assets/agriculture/agriculture-whole-round-baler-and-twin-belt-wrapper-staging-court-scene-01/v1.0.0/generate.py",
+      "size": 62425,
+      "sha256": "b2051302b3c63d1603fdb445b353a09106cbecc00d7aba61a79b54e04f79d1ce"
+    },
+    "render": {
+      "path": "assets/agriculture/agriculture-whole-round-baler-and-twin-belt-wrapper-staging-court-scene-01/v1.0.0/thumbnail.png",
+      "size": 527154,
+      "sha256": "1833e9a0f096f71a1c37fa0b4fd784c6f67e240b561552d8116f9fa68d404f2a"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

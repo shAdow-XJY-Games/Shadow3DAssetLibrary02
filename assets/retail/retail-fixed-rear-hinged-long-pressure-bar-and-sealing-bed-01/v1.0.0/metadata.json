@@ -1,0 +1,42 @@
+{
+  "id": "retail-fixed-rear-hinged-long-pressure-bar-and-sealing-bed-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "retail",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Rear Hinged Long Pressure Bar and Sealing Bed",
+  "description": "One newly authored complete empty static tabletop bag-sealer-inspired exterior. A narrow long grounded case carries one continuous raised bed strip. At one end a complete transverse pin in two rooted cheeks holds a broad thick pressure bar fixed raised thirty-four degrees, with a whole underside pressure-pad appearance and a full dark end grip. The opposing bed and upper pad are long blunt flat members, not a cutting blade or printed line. A blank front dial and two underside runners complete the exterior. Unlike a broad sheet-bed paper cutter with side blade and fences, this is a narrow in-line pressure-bar assembly; unlike a tall cup sealer, it has no overhead enclosure, round cup holder, tray rails or film rolls. All numeric geometry newly authored with no imported mesh components. Three constant opaque PBR roles, metres Z up and whole horizontal bounds-centred ground origin. One original model zero scenes. Fixed empty artistic appearance only: no bag or film, heat, current, sealing, pressure rating, powered mechanism, closure motion, timer behavior, food-contact suitability, operation instructions, hand clearance, manufacture or safety capability. Rigging animation interaction not made.",
+  "bounds": {
+    "x": 0.46000000834465027,
+    "y": 0.14000000059604645,
+    "z": 0.33825963735580444,
+    "unit": "m"
+  },
+  "triangles": 528,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/retail/retail-fixed-rear-hinged-long-pressure-bar-and-sealing-bed-01/v1.0.0/model.glb",
+      "size": 53888,
+      "sha256": "eadd01facf30e5a9f95f234f34ddb5d2123c9d24a6f349da72c88440d4d9f0b0"
+    },
+    "blend": {
+      "path": "assets/retail/retail-fixed-rear-hinged-long-pressure-bar-and-sealing-bed-01/v1.0.0/source.blend",
+      "size": 652992,
+      "sha256": "68b090b1e1229c379d7d9f7b09be553057920006425d02db24e5191e35ef0073"
+    },
+    "generator": {
+      "path": "assets/retail/retail-fixed-rear-hinged-long-pressure-bar-and-sealing-bed-01/v1.0.0/generate.py",
+      "size": 16571,
+      "sha256": "65797fc65041e97230f220039b15a03e3e44dfdc61b008502ac530804257c8ab"
+    },
+    "render": {
+      "path": "assets/retail/retail-fixed-rear-hinged-long-pressure-bar-and-sealing-bed-01/v1.0.0/thumbnail.png",
+      "size": 500128,
+      "sha256": "cf143d19345e67441e8352097a214d62cb334d0e6864ace109b0ae702c06e374"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

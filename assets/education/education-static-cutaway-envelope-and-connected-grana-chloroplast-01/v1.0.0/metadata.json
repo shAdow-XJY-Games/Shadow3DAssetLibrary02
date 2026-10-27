@@ -1,0 +1,42 @@
+{
+  "id": "education-static-cutaway-envelope-and-connected-grana-chloroplast-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "education",
+  "style": "S01-clean-geometric",
+  "title": "Static Cutaway Envelope and Connected Grana Chloroplast",
+  "description": "One wholly newly authored enlarged schematic chloroplast cutaway. A complete oblong low-front, high-rear outer envelope and a distinct nested inner envelope reveal a pale stroma-region datum. Five unequal-position whole six-tier corrugated grana represent stacks of flattened thylakoids, joined by four complete broad thin stroma-lamella bands. All interior forms are attached within this one teaching object, not floating disks. New nested ellipsoidal shell domains, connected stacked contours and membrane-sheet layout are authored from scratch; no fruit cutaway, aril, rotifer or old organelle geometry is repainted or reused. One complete opaque teaching prop, zero scenes, four green PBR roles, greatly enlarged to roughly twenty-two centimetres and not life size. Envelope thickness, grana count, six-tier contours, solid stroma floor and solid lamella bands are schematic. No exact species, microscopic dimensions, membrane bilayers, aqueous compartments, thylakoid lumen, proteins, DNA, biochemical reaction, light transport, living function or physical-stability claim. No rig, animation or interaction made or verified.",
+  "bounds": {
+    "x": 0.224,
+    "y": 0.108,
+    "z": 0.056,
+    "unit": "m"
+  },
+  "triangles": 8096,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/education/education-static-cutaway-envelope-and-connected-grana-chloroplast-01/v1.0.0/model.glb",
+      "size": 466732,
+      "sha256": "4c039141e536d8bc4cfcb8a28c9ad0ef6e23df00fd5048e4b671b4651b3179e7"
+    },
+    "blend": {
+      "path": "assets/education/education-static-cutaway-envelope-and-connected-grana-chloroplast-01/v1.0.0/source.blend",
+      "size": 1009792,
+      "sha256": "2511a8ca69826bf03a851d6dbd7b4a77056fa6ff6502ddc168380475136fdfde"
+    },
+    "generator": {
+      "path": "assets/education/education-static-cutaway-envelope-and-connected-grana-chloroplast-01/v1.0.0/generate.py",
+      "size": 22326,
+      "sha256": "ab860e7fbcc00d6ef0f377459d9b75c3a7ab7e1e2d807c9b1d8c1abf2edceba3"
+    },
+    "render": {
+      "path": "assets/education/education-static-cutaway-envelope-and-connected-grana-chloroplast-01/v1.0.0/thumbnail.png",
+      "size": 511765,
+      "sha256": "1c968d5a1e7c8a51cbb5856878ef2ac257530c7a762d6ca820033b06eab7837d"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
