@@ -2394,6 +2394,11 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary02",
       "commit": "2dd29e187320eb9533dca2b7e7a8cb7d4f239fd3"
+    },
+    "original-qualified-batch-1800-volume02-20261025": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary02",
+      "commit": "e2bbcbe8068d19deac5f50e125e1ab89571e15f9"
     }
   },
   "assets": [
@@ -70725,49 +70730,6 @@
       "sourceId": "original-qualified-batch-1589-volume02-20261025"
     },
     {
-      "id": "art-fixed-open-bed-slotted-rail-and-locked-composing-knee-01",
-      "version": "1.0.0",
-      "category": "props",
-      "assetKind": "prop",
-      "theme": "art",
-      "style": "S01-clean-geometric",
-      "title": "Fixed Open Bed Slotted Rail and Locked Composing Knee",
-      "description": "One newly authored complete empty fixed composing-stick-inspired hand tool. A single continuous thin grounded bed carries a fixed end lip and a long back rail with ten genuine enclosed through slots. One complete transverse knee crosses the open shallow bed and joins an upper and rear sleeve around that rail. A full vertical lock pin, round pivot boss and chamfered flat locking lever establish the single fixed position. The wide front and opposite end remain genuinely open. This is not the old two-wall mitre box with new colours or a resized corner vise: the shallow one-sided type bed, pierced back rail and wrapping cross-bed knee are wholly newly authored numeric geometry. One model zero scenes, four opaque constant PBR roles, metres and native Z up. Empty fixed visual appearance only: no actual type, text, calibrations, sliding adjustment, precision, locking force, printing performance, historical reconstruction, manufacture or safety capability. No rig, animation or interaction.",
-      "bounds": {
-        "x": 0.3400000035762787,
-        "y": 0.06599999964237213,
-        "z": 0.03799999877810478,
-        "unit": "m"
-      },
-      "triangles": 824,
-      "materials": 4,
-      "files": {
-        "glb": {
-          "path": "assets/art/art-fixed-open-bed-slotted-rail-and-locked-composing-knee-01/v1.0.0/model.glb",
-          "size": 73628,
-          "sha256": "e84df0d1aa217a8b68df906c844f3040a9dedf4d6d94d29d6a953c346f271de2"
-        },
-        "blend": {
-          "path": "assets/art/art-fixed-open-bed-slotted-rail-and-locked-composing-knee-01/v1.0.0/source.blend",
-          "size": 671680,
-          "sha256": "3e5d7b110db1257c00de4534c794b48e6f9f2419f8138e7847522a2cf2249057"
-        },
-        "generator": {
-          "path": "assets/art/art-fixed-open-bed-slotted-rail-and-locked-composing-knee-01/v1.0.0/generate.py",
-          "size": 12702,
-          "sha256": "383140545d73300a9283ab73e7075917ca40808897c329546a89061870997007"
-        },
-        "render": {
-          "path": "assets/art/art-fixed-open-bed-slotted-rail-and-locked-composing-knee-01/v1.0.0/thumbnail.png",
-          "size": 439891,
-          "sha256": "049c4f1f6e6accd981d19e1d5934e8e71a62fe89ddefb59cfd5059ccc25dc681"
-        }
-      },
-      "status": "verified",
-      "license": "All rights reserved",
-      "sourceId": "original-qualified-batch-1591-volume02-20261025"
-    },
-    {
       "id": "pharmacy-fixed-flat-counting-deck-and-covered-pour-channel-01",
       "version": "1.0.0",
       "category": "props",
@@ -79624,6 +79586,221 @@
       "status": "verified",
       "license": "All rights reserved",
       "sourceId": "original-qualified-batch-1796-volume02-20261025"
+    },
+    {
+      "id": "harbor-fixed-open-treadwheel-and-high-braced-jib-hoist-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "harbor",
+      "style": "S01-clean-geometric",
+      "title": "Fixed Open Treadwheel and High Braced Jib Hoist",
+      "description": "One wholly newly authored complete static treadwheel-hoist-inspired display. A broad deep open annular tread drum has six whole rear radial spokes and a complete horizontal axle carried by two grounded A-shaped timber cradles. A separate full-height rear mast supports one whole high jib and complete diagonal jib brace, two high pulleys on full axles, an external double-shoulder winding drum and one continuous routed cord terminating in a complete empty open eye. The drum interior remains real empty space and the near side has no disc cap; all thick rear spokes and supports remain present. Unlike the small low treadle-wheel and suspended tool stand, this has a wide walk-in-scale drum, high load-cord route and long jib, with no footboard, belt, flexible handpiece or tool. Unlike the ratchet winch, it is not a compact bare spool between cheek plates and has no crank, pawl or sawtooth wheel. All complete numeric drum, support, mast, jib, cord and fitting geometry authored together; no mesh imported or extracted. Four opaque untextured constant PBR materials, native metres Z up and horizontal bounds-centred ground origin; one complete prop zero scenes. Broad historic equipment category only, not any surviving crane building or manufacturer replica. Deliberate small fixed overlaps establish static visual roots rather than a solved mechanism. No working hoist, power transmission, rope winding, tangency, rotation, travel, loading, human use, stability, dimensions for fabrication, installation or equipment safety capability made or verified. No cargo, person, building, rigging, animation or interaction.",
+      "bounds": {
+        "x": 4.371,
+        "y": 2.55,
+        "z": 3.33798342047117,
+        "unit": "m"
+      },
+      "triangles": 2188,
+      "materials": 4,
+      "files": {
+        "glb": {
+          "path": "assets/harbor/harbor-fixed-open-treadwheel-and-high-braced-jib-hoist-01/v1.0.0/model.glb",
+          "size": 121968,
+          "sha256": "93eebdf37738b771b15d8bacbfdeb99f7eca2cd3702633c13ad760a792eb21ed"
+        },
+        "blend": {
+          "path": "assets/harbor/harbor-fixed-open-treadwheel-and-high-braced-jib-hoist-01/v1.0.0/source.blend",
+          "size": 801968,
+          "sha256": "62e4dd03000d3ca2354a7db83c0cbe9549136f6ad488770a6e1913555cbd5ffd"
+        },
+        "generator": {
+          "path": "assets/harbor/harbor-fixed-open-treadwheel-and-high-braced-jib-hoist-01/v1.0.0/generate.py",
+          "size": 15038,
+          "sha256": "3e970fe40d01caeec08e380e8f608c8f01548aa23265cfad4565dacade6fa3da"
+        },
+        "render": {
+          "path": "assets/harbor/harbor-fixed-open-treadwheel-and-high-braced-jib-hoist-01/v1.0.0/thumbnail.png",
+          "size": 464307,
+          "sha256": "416602a451e4d2adc6a362c99cd4aa66c28268af4e32a00aeb98e7f3506c68d1"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1800-volume02-20261025"
+    },
+    {
+      "id": "architecture-fixed-four-transverse-rollers-and-open-sided-bearing-shoe-01",
+      "version": "1.0.0",
+      "category": "architecture",
+      "assetKind": "modular",
+      "theme": "architecture",
+      "style": "S01-clean-geometric",
+      "title": "Fixed Four Transverse Rollers and Open Sided Bearing Shoe",
+      "description": "One wholly newly authored complete dry roller-bearing-inspired architectural support unit. Four whole full-width transverse barrel-ended steel-coloured rollers sit between one full flat lower track and a separate broad upper bearing shoe. Each roller has a complete through-axle exterior with two integral broad shoulder collars, and two whole narrow cage cheeks contain four bounded square axle apertures apiece. The collars overlap the outer cheek margins in the fixed display while their inner faces are offset from the cheek surfaces; the long open intervals above and below the cheeks leave the roller bodies visible. One whole grounded plate and the separate upper shoe each contain four real bounded mounting apertures. Unlike the recovered spherical support, there is no circular concave dish, single convex sliding shoe or narrow central neck; this is a linear pack of independent full cylinders between wide parallel seats. Unlike an annular ball-bearing display, there are no concentric inner/outer races or circumferential row of balls. All numeric plates, cylinders, shoulder axles and cage boundaries independently authored together; no earlier bearing, conveyor, fairlead, plate or roller mesh imported or extracted. Four opaque constant untextured PBR roles, metres native Z up and complete horizontal bounds-centred ground sole, one architectural model zero scenes. Generic fixed support artwork only, not an engineered expansion bearing or a manufacturer model. Small deliberate fixed contact overlaps establish visual roots, not a solved fit, lubricant layer or operating mechanism. No rolling travel, rotation, articulation, thermal expansion accommodation, load transfer, pressure, friction, seismic isolation, fastening, fatigue, fabrication, installation or structural safety capability made or verified. No host structure, rigging, animation or interaction.",
+      "bounds": {
+        "x": 3.6,
+        "y": 2.7,
+        "z": 1.0,
+        "unit": "m"
+      },
+      "triangles": 3612,
+      "materials": 4,
+      "files": {
+        "glb": {
+          "path": "assets/architecture/architecture-fixed-four-transverse-rollers-and-open-sided-bearing-shoe-01/v1.0.0/model.glb",
+          "size": 147160,
+          "sha256": "5326cf1233df208ebd7718c10faeb8b4aef49bebae8e215ae3de64fc691dbd82"
+        },
+        "blend": {
+          "path": "assets/architecture/architecture-fixed-four-transverse-rollers-and-open-sided-bearing-shoe-01/v1.0.0/source.blend",
+          "size": 795056,
+          "sha256": "1d5bd628bde9fceb417bf78452a5333f5c08e3c75c2fa68c8193d4e776b19de5"
+        },
+        "generator": {
+          "path": "assets/architecture/architecture-fixed-four-transverse-rollers-and-open-sided-bearing-shoe-01/v1.0.0/generate.py",
+          "size": 12892,
+          "sha256": "1226f752eb5a85ebe2f1964148badbf96f880ba76bdc3d357107d587b61141ca"
+        },
+        "render": {
+          "path": "assets/architecture/architecture-fixed-four-transverse-rollers-and-open-sided-bearing-shoe-01/v1.0.0/thumbnail.png",
+          "size": 334862,
+          "sha256": "f54959ae7fb18a374649a13c43609ddfc1bcd277472784c7cfbdfecfddbbbe24"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1800-volume02-20261025"
+    },
+    {
+      "id": "retail-fixed-four-blank-windows-and-finger-loop-tally-counter-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "retail",
+      "style": "S01-clean-geometric",
+      "title": "Fixed Four Blank Windows and Finger Loop Tally Counter",
+      "description": "One newly authored complete static handheld tally-counter exterior. A whole rounded flat-bottom housing has one genuine shallow front recess, four complete opaque blank readout pads and three full dividing bridges. One complete top plunger stem and broad cap, a full side reset-knob exterior and a complete rear oval finger loop on two whole mounts remain attached to that housing. All numerical geometry new, not a cropped meter with probes removed or a compact mirror with extra buttons. Three opaque constant PBR roles, metres Z up and whole bounds-centred ground datum. One original model zero scenes; the four blank readout pads are parts, not separate assets. Empty illustrative game art only: no digits, indicated count, real counter mechanism, actuation, reset, finger fit, loading, durability, manufacture or safety capability. No rigging animation or interaction.",
+      "bounds": {
+        "x": 0.09099999815225601,
+        "y": 0.04650000110268593,
+        "z": 0.10100000351667404,
+        "unit": "m"
+      },
+      "triangles": 1132,
+      "materials": 3,
+      "files": {
+        "glb": {
+          "path": "assets/retail/retail-fixed-four-blank-windows-and-finger-loop-tally-counter-01/v1.0.0/model.glb",
+          "size": 101440,
+          "sha256": "bea623d8b5b1943d8fc3d248ac011f2db3329dcb4b8e27ec44fb8871fd23c408"
+        },
+        "blend": {
+          "path": "assets/retail/retail-fixed-four-blank-windows-and-finger-loop-tally-counter-01/v1.0.0/source.blend",
+          "size": 697120,
+          "sha256": "233b9ffd92bfe22989ab6dc35ffca3b7116ece16c15dc5d38f4bba1474f862c8"
+        },
+        "generator": {
+          "path": "assets/retail/retail-fixed-four-blank-windows-and-finger-loop-tally-counter-01/v1.0.0/generate.py",
+          "size": 16668,
+          "sha256": "4c965d1d6d0a07257e1d136bb98342866db5099fc8a9c184e4c9656b850430ae"
+        },
+        "render": {
+          "path": "assets/retail/retail-fixed-four-blank-windows-and-finger-loop-tally-counter-01/v1.0.0/thumbnail.png",
+          "size": 507903,
+          "sha256": "2a3a1ca3019acc650290c5ea5606a051a89524c70a2751574910db8fc77d22d1"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1800-volume02-20261025"
+    },
+    {
+      "id": "industrial-fixed-open-reservoir-and-long-lever-test-pump-01",
+      "version": "1.0.0",
+      "category": "modular",
+      "assetKind": "prop",
+      "theme": "industrial",
+      "style": "warm-handcrafted-village",
+      "title": "Fixed Open Reservoir and Long Lever Test Pump",
+      "description": "One newly authored whole fixed manual test-pump-inspired tool exterior. One complete chamfered open rectangular reservoir has a genuine deep empty cavity, continuous rim and finite closed floor on the ground. Two full cross bridges carry one compact pump-body exterior and a pair of rear pivot ears. A whole long inclined hand lever with thick end grip meets the fixed pivot and short plunger appearance above a complete upright cylinder. A whole blank round gauge, two separate blank valve knobs, proud pivot retainers and one continuous returning hose-shaped solid with complete end coupling belong to the same whole tool. The hose is an exterior only, no hidden fluid lumen claimed. All geometry newly authored, no manifold gauge, grease-gun lever, reservoir, hose or village pump imported. Unlike the old twin-gauge manifold, this has a whole open liquid-container-shaped body and mechanical lever/piston arrangement; unlike the grease gun, it has neither closed cartridge barrel nor rigid bent dispensing spout. One complete model zero scenes. Fixed fictional visual only: no liquid, pressure, readable scale, measurement, pumping, test procedure, valve action, hose/coupling compatibility, force, hand fit, manufacture, engineering or safety claim. Rigging animation and interaction not made.",
+      "bounds": {
+        "x": 1.044589162,
+        "y": 0.621499538,
+        "z": 0.729479969,
+        "unit": "m"
+      },
+      "triangles": 1932,
+      "materials": 4,
+      "files": {
+        "glb": {
+          "path": "assets/industrial/industrial-fixed-open-reservoir-and-long-lever-test-pump-01/v1.0.0/model.glb",
+          "size": 106252,
+          "sha256": "5331a658587dbae483fad52e7663c79517678b165a1ed9ac8dc5901398b9b173"
+        },
+        "blend": {
+          "path": "assets/industrial/industrial-fixed-open-reservoir-and-long-lever-test-pump-01/v1.0.0/source.blend",
+          "size": 693520,
+          "sha256": "f121acf7d3f04ed0b0f19011507c635dad6f02ae850f978c2e3bcbcd16ebea3c"
+        },
+        "generator": {
+          "path": "assets/industrial/industrial-fixed-open-reservoir-and-long-lever-test-pump-01/v1.0.0/generate.py",
+          "size": 33044,
+          "sha256": "13936290c50a1aaea946e5cba882db4b4a7a7835593441b3eb1bcf6a4556e4ac"
+        },
+        "render": {
+          "path": "assets/industrial/industrial-fixed-open-reservoir-and-long-lever-test-pump-01/v1.0.0/thumbnail.png",
+          "size": 518121,
+          "sha256": "ef31112b006fe2efd55de7410e99978774c3bef2cbe69b628b00410920df23e8"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1800-volume02-20261025"
+    },
+    {
+      "id": "nature-whole-chiton-and-sand-dollar-rock-ledge-pool-scene-01",
+      "version": "1.0.0",
+      "category": "scenes",
+      "assetKind": "scene",
+      "theme": "nature",
+      "style": "source-preserved-low-poly",
+      "title": "Whole Chiton and Sand Dollar Rock Ledge Pool Scene",
+      "description": "One original static coastal-form teaching vignette, one scene and zero new independent models. The complete accepted eight-valve chiton rests on a broad higher dry ledge at the left; the whole accepted five-lunule sand-dollar test lies separately on the lower front-right shelf. Both retain their exact original geometry, normals, materials, hierarchy and metre sizes, with only whole-instance translations. A new scene-only irregular low rock island has two continuous shelf levels, a genuinely recessed rear-right pool pocket and one closed opaque still-water volume seated on its flat basin floor. The clear front band and separation between the whole specimens keep all of their existing forms legible. No valve, foot, test petal, lunule, old terrain or held barnacle component is extracted, recoloured, scaled or counted again. This is a composed display of coastal forms, not a claim that these particular organisms naturally coexist at these positions or relative ages, a living sand dollar, an actual tidal ecosystem, water dynamics, wetting, transparency, adhesion, navigation, physical stability, handling or animal safety. The low rock and pool geometry belong only to this scene; no new reusable terrain, rock or water asset is counted. No labels, texture, rig, animation or interaction.",
+      "bounds": {
+        "x": 0.36000001430511475,
+        "y": 0.25999999046325684,
+        "z": 0.06450000405311584,
+        "unit": "m"
+      },
+      "triangles": 9028,
+      "materials": 8,
+      "files": {
+        "glb": {
+          "path": "assets/nature/nature-whole-chiton-and-sand-dollar-rock-ledge-pool-scene-01/v1.0.0/model.glb",
+          "size": 542372,
+          "sha256": "c055fd8ced77707747a5d6956292064be8ff585f7ffa1488b6d4cf35a8c5c653"
+        },
+        "blend": {
+          "path": "assets/nature/nature-whole-chiton-and-sand-dollar-rock-ledge-pool-scene-01/v1.0.0/source.blend",
+          "size": 291136,
+          "sha256": "a753190f0b473000ec077c16a811a22b55daed0a21a27798eeb4a7a131d06a36"
+        },
+        "generator": {
+          "path": "assets/nature/nature-whole-chiton-and-sand-dollar-rock-ledge-pool-scene-01/v1.0.0/generate.py",
+          "size": 269556,
+          "sha256": "3b6dbee309228afc4f6bc7b297b71041c9a0f8ee2844798c8da5699ca09e9b3c"
+        },
+        "render": {
+          "path": "assets/nature/nature-whole-chiton-and-sand-dollar-rock-ledge-pool-scene-01/v1.0.0/thumbnail.png",
+          "size": 465603,
+          "sha256": "7d04ffdb4e58303da155352c85c436b2c58b00ecee507857c753102a0689e135"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1800-volume02-20261025"
     }
   ]
 }
