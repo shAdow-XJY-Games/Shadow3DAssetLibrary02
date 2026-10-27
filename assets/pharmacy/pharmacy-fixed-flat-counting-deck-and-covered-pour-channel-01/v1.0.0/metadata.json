@@ -1,0 +1,42 @@
+{
+  "id": "pharmacy-fixed-flat-counting-deck-and-covered-pour-channel-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "pharmacy",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Flat Counting Deck and Raised Pour Channel Cover",
+  "description": "One newly authored complete empty counting-tray-inspired counter prop. A wide flat shallow work deck has three low continuous rims and opens sideways into a separate deep narrow V-bottom collection channel. The complete thick channel extends beyond the deck into a tapered open-ended pouring mouth. One full long opaque cover stands fixed raised on two rooted cylindrical hinge sections along the outer channel wall, leaving its entire empty interior visible. A small blank lift tab belongs to the cover. Two thin underside runners ground the whole tray. Unlike a deep open-front letter tray or a curved open-backed impression trough, this has unequal broad flat and narrow depressed zones, a tapering channel mouth, and a long raised cover. All coordinates newly authored; no imported model meshes, letters, pills, dosage marks, branding or textures. Three constant opaque PBR materials, metres Z up, centred horizontal ground origin. One original prop, zero scenes. Static empty artistic appearance only: no clinical use, dispensing, counting accuracy, medication advice, dosage, hygiene, sterilization, material suitability, seal, hinge movement, manufacture or safety capability. No rig animation or interaction.",
+  "bounds": {
+    "x": 0.30399999022483826,
+    "y": 0.29100000858306885,
+    "z": 0.11500000208616257,
+    "unit": "m"
+  },
+  "triangles": 344,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/pharmacy/pharmacy-fixed-flat-counting-deck-and-covered-pour-channel-01/v1.0.0/model.glb",
+      "size": 35920,
+      "sha256": "ceffe477e3ca2353161e1c4820f7f04426b2e58f5ea41e9ada36e7e681cb918d"
+    },
+    "blend": {
+      "path": "assets/pharmacy/pharmacy-fixed-flat-counting-deck-and-covered-pour-channel-01/v1.0.0/source.blend",
+      "size": 613568,
+      "sha256": "6b7d99613a94a627570b703bccee9d30bec3c717898990768a67957f932a8673"
+    },
+    "generator": {
+      "path": "assets/pharmacy/pharmacy-fixed-flat-counting-deck-and-covered-pour-channel-01/v1.0.0/generate.py",
+      "size": 19029,
+      "sha256": "d41939192caf01e132576a1df1032a6367788daa07a4e14c952aaa93ec4a3460"
+    },
+    "render": {
+      "path": "assets/pharmacy/pharmacy-fixed-flat-counting-deck-and-covered-pour-channel-01/v1.0.0/thumbnail.png",
+      "size": 481980,
+      "sha256": "e26e7274d47d5b12986ee2b2b304a3ca338a4e469ae3510bb4174a1922b6d1d3"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
