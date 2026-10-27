@@ -2084,6 +2084,11 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary02",
       "commit": "c36746b8ba843253730bd53a9bbb530372035684"
+    },
+    "original-qualified-batch-1630-volume02-20261025": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary02",
+      "commit": "9a950c139de26c98765d5f6e6f42732bd98d8b03"
     }
   },
   "assets": [
@@ -72047,6 +72052,135 @@
       "status": "verified",
       "license": "All rights reserved",
       "sourceId": "original-qualified-batch-1627-volume02-20261025"
+    },
+    {
+      "id": "architecture-fixed-linked-vertical-fins-and-offset-tie-bar-bay-01",
+      "version": "1.0.0",
+      "category": "architecture",
+      "assetKind": "modular",
+      "theme": "architecture",
+      "style": "S01-clean-geometric",
+      "title": "Fixed Linked Vertical Fins and Offset Tie Bar Bay",
+      "description": "One complete newly authored static linked-fin architectural bay. A whole welded continuous rectangular casing stands on two broad deep feet and retains six complete tall finite-thickness elliptical-section vanes at one fixed oblique angle. Each vane has its own entire vertical axle entering both crossrails. Below the vanes, six full offset crank arms end in complete proud pins on one continuous rear common tie bar, making the parallel-axis coupling appearance visible through the lower gap. Unlike the three-leaf zigzag louver folding screen this is one rigid casing with separate vertical vane axes and an exposed common link, not hinged whole panels containing many horizontal slats. The full frame, six rounded fins, shafts and lower coupling geometry are newly authored together; no old screen, revolving-door wing, shelf or window mesh imported. Four opaque constant untextured PBR roles, metre-style Z up and centred full horizontal bounds over full ground feet, one complete architectural prop zero scenes. Static sunshade-inspired appearance only: gaps remain, and the illustrated rod intersections are not working bearings or calibrated linkage joints. No synchronized movement, travel range, solar control, privacy, ventilation performance, weather sealing, host-wall fit, load, stability, manufacture, installation or safety capability made or verified. No rigging, animation or interaction.",
+      "bounds": {
+        "x": 5.3999999999999995,
+        "y": 1.1,
+        "z": 3.4,
+        "unit": "m"
+      },
+      "triangles": 1508,
+      "materials": 4,
+      "files": {
+        "glb": {
+          "path": "assets/architecture/architecture-fixed-linked-vertical-fins-and-offset-tie-bar-bay-01/v1.0.0/model.glb",
+          "size": 75512,
+          "sha256": "b6e005941226e40f0da7fb25891b359c9d1ca241b3d94e362b63c2e2866b3ef7"
+        },
+        "blend": {
+          "path": "assets/architecture/architecture-fixed-linked-vertical-fins-and-offset-tie-bar-bay-01/v1.0.0/source.blend",
+          "size": 751368,
+          "sha256": "8b724de8e9cc385fc8590699351d3f781086f174b86a458735e7835bc4c98e10"
+        },
+        "generator": {
+          "path": "assets/architecture/architecture-fixed-linked-vertical-fins-and-offset-tie-bar-bay-01/v1.0.0/generate.py",
+          "size": 11442,
+          "sha256": "128826223a64e46b587f5bdea42a32fb62dbb11f533aa348fe845419a1a3f961"
+        },
+        "render": {
+          "path": "assets/architecture/architecture-fixed-linked-vertical-fins-and-offset-tie-bar-bay-01/v1.0.0/thumbnail.png",
+          "size": 450629,
+          "sha256": "6feecf42b4ecbd0a317a7d9a561eecfeceb5e06023cd2346fa694b9aeb9b7154"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1630-volume02-20261025"
+    },
+    {
+      "id": "education-whole-ribbed-pod-and-layered-bud-inspection-tray-scene-01",
+      "version": "1.0.0",
+      "category": "scenes",
+      "assetKind": "scene",
+      "theme": "education",
+      "style": "source-preserved-low-poly",
+      "title": "Whole Ribbed Pod and Layered Bud Inspection Tray",
+      "description": "One static tabletop inspection arrangement, one scene and zero new independent models. The complete accepted cacao pod rests on the left of a whole original shallow formed-metal baking tray; the complete accepted artichoke bud stands on its own finite stalk end on the right. Both whole natural-scale props sit directly on the original 3 mm inner tray floor with clearance from the rim and each other. The entire tray rests on one low scene-only rectangular display slab. All three original units retain their complete meshes, every oriented triangle and normal buffer, full material dictionaries, internal hierarchy and metre scale; only whole-instance translations and the scene-only slab are new. No fruit, leaf, bract, stalk or tray part is extracted, resized, recoloured or counted again. The clear front tray strip and interval between the two objects support a simple visual comparison of differently shaped specimens. This is not a recipe, baking operation, food handling demonstration, botanical relationship, exact anatomy, biological process, laboratory apparatus, load or stability certification. No text labels, rig, animation or interaction are made or claimed.",
+      "bounds": {
+        "x": 0.7400000095367432,
+        "y": 0.41999998688697815,
+        "z": 0.1787872314453125,
+        "unit": "m"
+      },
+      "triangles": 9256,
+      "materials": 18,
+      "files": {
+        "glb": {
+          "path": "assets/education/education-whole-ribbed-pod-and-layered-bud-inspection-tray-scene-01/v1.0.0/model.glb",
+          "size": 661392,
+          "sha256": "f141e0d37599d9d515f2d1d6cd182f80e940eafd6253e7bf777972596c535b6d"
+        },
+        "blend": {
+          "path": "assets/education/education-whole-ribbed-pod-and-layered-bud-inspection-tray-scene-01/v1.0.0/source.blend",
+          "size": 251588,
+          "sha256": "079656404d75c0ee18c3acdaae92c3b4a101e7c92b7256f14ca6df326b9f7356"
+        },
+        "generator": {
+          "path": "assets/education/education-whole-ribbed-pod-and-layered-bud-inspection-tray-scene-01/v1.0.0/generate.py",
+          "size": 298520,
+          "sha256": "996c0b75543d958883e10abdc01dd50d4667e54d640b0636cba4ee5cbb7c0690"
+        },
+        "render": {
+          "path": "assets/education/education-whole-ribbed-pod-and-layered-bud-inspection-tray-scene-01/v1.0.0/thumbnail.png",
+          "size": 481213,
+          "sha256": "1f909cb016fce6a412af11bfdc243c8052c1f2b4f122d3274ef101607ea75e1e"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1630-volume02-20261025"
+    },
+    {
+      "id": "music-fixed-twin-slide-bow-and-flared-bell-trombone-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "music",
+      "style": "S01-clean-geometric",
+      "title": "Fixed Twin Slide Bow and Flared Bell Trombone",
+      "description": "One newly authored complete trombone-inspired instrument appearance with its own subordinate three-seat resting carrier. Two long parallel hollow outer slide legs join through one continuous hollow U return bow, surrounding the ends of two thinner visible nickel inner-slide tubes in a fixed partly extended pose. A separate whole rear return branch curves back and expands along a long shoulder into a genuine open flared bell; a whole open cup-and-throat mouthpiece terminates the opposite lead tube. Complete inner and outer slide braces, one bell branch crossbrace and two finite sleeve collars visually connect the instrument. One newly authored grounded carrier supports three tube seats without becoming an additional model. Every numeric route and component shape is new, not old trumpet piston or horn rotary housings removed and rescaled. One model zero scenes, four opaque PBR roles, metres and native Z up. Static stylized exterior category only, not a branded or historical instrument reconstruction, complete acoustic circuit, working slide or tuning system, bore or pitch accuracy, playability, manufacture, handling or safety certification. No valves, rig, animation, sound or interaction.",
+      "bounds": {
+        "x": 1.1675000190734863,
+        "y": 0.38999998569488525,
+        "z": 0.3449999988079071,
+        "unit": "m"
+      },
+      "triangles": 8240,
+      "materials": 4,
+      "files": {
+        "glb": {
+          "path": "assets/music/music-fixed-twin-slide-bow-and-flared-bell-trombone-01/v1.0.0/model.glb",
+          "size": 703976,
+          "sha256": "0fad16bca4fc9fab201ebb61cbd5d5c298aab40b2f5f5e5bd22ac41cfb767df2"
+        },
+        "blend": {
+          "path": "assets/music/music-fixed-twin-slide-bow-and-flared-bell-trombone-01/v1.0.0/source.blend",
+          "size": 1530560,
+          "sha256": "82130ece9ec25ee699754da7ba8cb258c9f385be06872643c7922f759826907e"
+        },
+        "generator": {
+          "path": "assets/music/music-fixed-twin-slide-bow-and-flared-bell-trombone-01/v1.0.0/generate.py",
+          "size": 14558,
+          "sha256": "2ca601e66edfbac1080ceb57e32ed4469c81fb050da27f2e53486601e05d9540"
+        },
+        "render": {
+          "path": "assets/music/music-fixed-twin-slide-bow-and-flared-bell-trombone-01/v1.0.0/thumbnail.png",
+          "size": 506512,
+          "sha256": "7cf9f24d678c47cbbe4dbfa305b8428665306da74c13192f4fd2a798bffb86e4"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1630-volume02-20261025"
     }
   ]
 }
