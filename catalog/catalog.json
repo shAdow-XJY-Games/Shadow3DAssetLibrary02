@@ -2254,6 +2254,11 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary02",
       "commit": "3b823741a3dda3b4717b5353d63f876eb61f1f80"
+    },
+    "original-qualified-batch-1731-volume02-20261025": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary02",
+      "commit": "eedc0b43809b47571b107e589d2d8b3b4d0dd10e"
     }
   },
   "assets": [
@@ -76560,6 +76565,135 @@
       "status": "verified",
       "license": "All rights reserved",
       "sourceId": "original-qualified-batch-1728-volume02-20261025"
+    },
+    {
+      "id": "nature-static-radiating-rays-and-open-spore-sac-earthstar-fungus-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "nature",
+      "style": "S01-clean-geometric",
+      "title": "Radiating Rays and Open Spore Sac Earthstar Fungus",
+      "description": "One wholly newly authored mature earthstar-like fungal fruiting body at approximately nine-centimetre natural display scale. A single continuous thick outer layer splits into seven uneven pointed rays with gently reflexed broad faces and real clefts. One whole rounded central spore sac is seated into this ray layer; its raised apical pore is genuinely open into a bounded hollow interior, with a connected inner wall and closed basal web rather than a dark painted cap. All shared ray topology, sac profile and opening geometry are new, not a shortened funnel mushroom, a recoloured star-anise fruit, separate petals or a ray-count variation. One complete nature prop, zero scenes, four subdued opaque solid PBR roles. The finite flattened central underside is a placement datum. This is a stylized visible fruiting body, not the complete underground mycelium, measured Geastrum species, individual spores, microscopic peristome fibres, exact ray count, moisture response, growth, spore dispersal or physical-stability simulation. No edibility, poisonous-species identification, harvesting, medical, live-function, rig or animation claim.",
+      "bounds": {
+        "x": 0.086016,
+        "y": 0.08736,
+        "z": 0.0354,
+        "unit": "m"
+      },
+      "triangles": 4128,
+      "materials": 4,
+      "files": {
+        "glb": {
+          "path": "assets/nature/nature-static-radiating-rays-and-open-spore-sac-earthstar-fungus-01/v1.0.0/model.glb",
+          "size": 218116,
+          "sha256": "728bfa77b08aac51429cb9bb9f0cab3eca81b0ce6564d386396a1b850da63ca8"
+        },
+        "blend": {
+          "path": "assets/nature/nature-static-radiating-rays-and-open-spore-sac-earthstar-fungus-01/v1.0.0/source.blend",
+          "size": 748704,
+          "sha256": "8e3eaf8dbafe4535b6745ce7c28bf78d5730f7ca541a1039b1e8941b1fbee7b4"
+        },
+        "generator": {
+          "path": "assets/nature/nature-static-radiating-rays-and-open-spore-sac-earthstar-fungus-01/v1.0.0/generate.py",
+          "size": 22579,
+          "sha256": "e82e54d5ca34d82316652762c32afe1cc5042f9da1bf9f44cf3057b6a71bc4c9"
+        },
+        "render": {
+          "path": "assets/nature/nature-static-radiating-rays-and-open-spore-sac-earthstar-fungus-01/v1.0.0/thumbnail.png",
+          "size": 486969,
+          "sha256": "c9ad7be0a29def2dbaa7037f46100035088397a6c61d96e6973675b552fbc53e"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1731-volume02-20261025"
+    },
+    {
+      "id": "art-fixed-rounded-hook-stone-and-tapered-grip-burnisher-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "art",
+      "style": "S01-clean-geometric",
+      "title": "Fixed Rounded Hook Stone and Tapered Grip Burnisher",
+      "description": "One newly authored complete fixed agate-burnisher-inspired hand tool. A short thick continuously curved opaque stone-look head swells from its narrow buried root and turns into a broad rounded blunt end; its elliptical sections stay finite and have no sharpened blade, hollow flute or engraved marks. A long whole tapered wooden-look grip and one full annular warm-metal collar join the stone in a single fixed assembly. The original grip has a complete flat underside facet at the resting datum; the curved head is raised slightly above that plane. All numerical paths, sections and coordinates are new, not a crescent sickle blade, an old hollow U gouge, brush, stylus or other extracted mesh. Three closed editable bodies, four constant opaque PBR roles, metre scale and native Z up, one model zero scenes. Generic category appearance only; no actual agate mineral identification, natural banding, translucency, copied museum or branded tool, gold leaf, workpiece, polishing/burnishing result, process, tool fit, fabrication, load, handling or safety claim. Intentional hidden root overlaps are static visual assembly, not insertion tolerances. No rig or animation.",
+      "bounds": {
+        "x": 0.05515369400382042,
+        "y": 0.2419661581516266,
+        "z": 0.02577756717801094,
+        "unit": "m"
+      },
+      "triangles": 808,
+      "materials": 4,
+      "files": {
+        "glb": {
+          "path": "assets/art/art-fixed-rounded-hook-stone-and-tapered-grip-burnisher-01/v1.0.0/model.glb",
+          "size": 71744,
+          "sha256": "6a58c35862d6db05f864892e7d2faef15cedb67ad73793ae50ffc611d9bce545"
+        },
+        "blend": {
+          "path": "assets/art/art-fixed-rounded-hook-stone-and-tapered-grip-burnisher-01/v1.0.0/source.blend",
+          "size": 660496,
+          "sha256": "222913a1b9580cb74c424b35863e48fc1ac503d982dae3cc1d739c5218c70feb"
+        },
+        "generator": {
+          "path": "assets/art/art-fixed-rounded-hook-stone-and-tapered-grip-burnisher-01/v1.0.0/generate.py",
+          "size": 11693,
+          "sha256": "c25b1ef9a6197edaefb618633ae790c49417942f98739397df911fe997ca333f"
+        },
+        "render": {
+          "path": "assets/art/art-fixed-rounded-hook-stone-and-tapered-grip-burnisher-01/v1.0.0/thumbnail.png",
+          "size": 468886,
+          "sha256": "9d307c80a5404b4367d465d7c38cac7647c8f7b638ddb1da91a8e987f9be045a"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1731-volume02-20261025"
+    },
+    {
+      "id": "medical-whole-cuff-dial-and-binaural-instrument-tray-scene-01",
+      "version": "1.0.0",
+      "category": "scenes",
+      "assetKind": "scene",
+      "theme": "medical",
+      "style": "source-preserved-low-poly",
+      "title": "Whole Cuff Dial and Binaural Instrument Tray",
+      "description": "One complete static medical-instrument display tray, one new scene zero new independent models. The entire qualified open cuff, blank gauge, bulb and both hoses sit on the left. The complete qualified binaural stethoscope lies separately on the right, retaining both bent ear tubes, soft tips, Y branches, long chest tube and whole chestpiece. Both whole original models rest on one continuous four-rimmed shallow tray with clear lateral separation and full footprint margins. The tray is scene-only environment and not separately counted. Exact original GLB buffers, positions, normals, material dictionaries, face assignments and internal hierarchy are preserved under whole unit-scale translations only; no crop, extraction, scale, recolour or model re-count. Unlike room-scale dental furniture or a salon tool tray, this is a complete two-instrument exhibit with cuff and binaural hose silhouettes. Static decorative game-art display only, no patient, person, sound or pressure measurement, values, diagnosis, treatment, clinical workflow, bodily fit, hygiene, sterility, loading, manufacture or safe medical-device use. No rigging animation or interaction.",
+      "bounds": {
+        "x": 0.7200000286102295,
+        "y": 0.47999998927116394,
+        "z": 0.08799999952316284,
+        "unit": "m"
+      },
+      "triangles": 4508,
+      "materials": 9,
+      "files": {
+        "glb": {
+          "path": "assets/medical/medical-whole-cuff-dial-and-binaural-instrument-tray-scene-01/v1.0.0/model.glb",
+          "size": 397308,
+          "sha256": "13acca9ced2e72dc8daf1f8ff478b8c54637e599f4f0572d14c203d03e1c0db0"
+        },
+        "blend": {
+          "path": "assets/medical/medical-whole-cuff-dial-and-binaural-instrument-tray-scene-01/v1.0.0/source.blend",
+          "size": 1280976,
+          "sha256": "40692a6ad83dc4b0bab39a01e82201ecec2e1204f623f9e35abb531308cd9fe4"
+        },
+        "generator": {
+          "path": "assets/medical/medical-whole-cuff-dial-and-binaural-instrument-tray-scene-01/v1.0.0/generate.py",
+          "size": 126651,
+          "sha256": "65a9d01354d545535c0134f256a07c613571129a6b23f499d9b0aed544d1f78d"
+        },
+        "render": {
+          "path": "assets/medical/medical-whole-cuff-dial-and-binaural-instrument-tray-scene-01/v1.0.0/thumbnail.png",
+          "size": 466096,
+          "sha256": "2417dbdf15f9a79c4c47ce4339eff6ee5622324c08070e09ffd487bf079e515c"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1731-volume02-20261025"
     }
   ]
 }
