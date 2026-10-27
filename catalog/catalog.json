@@ -2414,6 +2414,11 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary02",
       "commit": "ea9ea22e5b7358fa8b9e76254e7b7d9a2c4443b5"
+    },
+    "original-qualified-batch-1807-volume02-20261025": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary02",
+      "commit": "97bf5603b17745527e0b7b1e3149443f71fbfbf6"
     }
   },
   "assets": [
@@ -80031,6 +80036,92 @@
       "status": "verified",
       "license": "All rights reserved",
       "sourceId": "original-qualified-batch-1805-volume02-20261025"
+    },
+    {
+      "id": "janitorial-fixed-waisted-reservoir-and-curved-trigger-spray-bottle-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "janitorial",
+      "style": "S01-clean-geometric",
+      "title": "Fixed Waisted Reservoir and Curved Trigger Spray Bottle",
+      "description": "One newly authored complete static trigger-spray-bottle exterior. A whole flat-bottom rounded-rectangular reservoir exterior has broad low shoulders, an inward waist and a narrow upper neck. A complete neck-seated collar supports one whole horizontal trigger-head housing with a forward annular nozzle cap and recessed blunt central insert. One full curved finger trigger descends ahead of the bottle shoulder with a real visible gap, attached by one retained transverse pivot. All numerical geometry new, not a cafe press-pad pump with its spout bent or a paint gun with its upper cup moved. Three opaque constant PBR roles, metres Z up and whole bounds-centred ground datum. One original model zero scenes. Opaque exterior only: no liquid, contents, intake tube, spring, proven internal passage, trigger motion, atomisation, dosage, chemical use, compatibility, food-contact suitability, manufacture or safety capability. Rigging animation and interaction are not made.",
+      "bounds": {
+        "x": 0.10400000214576721,
+        "y": 0.11400000005960464,
+        "z": 0.23399999737739563,
+        "unit": "m"
+      },
+      "triangles": 1392,
+      "materials": 3,
+      "files": {
+        "glb": {
+          "path": "assets/janitorial/janitorial-fixed-waisted-reservoir-and-curved-trigger-spray-bottle-01/v1.0.0/model.glb",
+          "size": 122844,
+          "sha256": "f1c0a3a58291a505124375b1fbdc6f1531ce728cb1303aebe1b4134c6a671bb4"
+        },
+        "blend": {
+          "path": "assets/janitorial/janitorial-fixed-waisted-reservoir-and-curved-trigger-spray-bottle-01/v1.0.0/source.blend",
+          "size": 721536,
+          "sha256": "72aa5ca25b87bd6a8e02caa5469b4791ed14e5acd515b5fd675293f8e4577d78"
+        },
+        "generator": {
+          "path": "assets/janitorial/janitorial-fixed-waisted-reservoir-and-curved-trigger-spray-bottle-01/v1.0.0/generate.py",
+          "size": 16575,
+          "sha256": "f7d60715c60ffe9d265b559564956262aa3f44d5adc63295fe75db7d74582b16"
+        },
+        "render": {
+          "path": "assets/janitorial/janitorial-fixed-waisted-reservoir-and-curved-trigger-spray-bottle-01/v1.0.0/thumbnail.png",
+          "size": 469449,
+          "sha256": "e8cb481ffa10eb93b93b9124f4e11887bf19dfeb50f17f5f9e8f44c1f8babb24"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1807-volume02-20261025"
+    },
+    {
+      "id": "office-fixed-convex-sole-and-clamped-blank-sheet-rocking-blotter-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "office",
+      "style": "S01-clean-geometric",
+      "title": "Fixed Convex Sole and Clamped Blank Sheet Rocking Blotter",
+      "description": "One newly authored complete empty-ink rocking-blotter-inspired desk tool. A whole thick rectangular wooden-look rocker has a continuously changing convex underside and a flat upper deck. One complete finite-thickness blank ivory sheet follows the entire curved lower surface, turns up both short ends and folds inward beneath a separate whole chamfered upper clamp plate. A full central turned knob includes its own integral short stock rooted through the plate into the wood. The sheet has one coherent closed body, not painted decoration, detached patches or a copied paper texture. Its narrow central lower facet is the finite ground sole while both ends rise above ground. Four whole closed editable meshes, four opaque constant PBR roles, metres native Z up and whole horizontal-bounds-centred ground datum. Every curve, folded profile and proportion is original numeric geometry; no earlier pad, blade, stamp or handle imported. Unlike the flat round baren with a raised twisted band, this is a longitudinal convex sole with end-folded sheet and separate clamp plate; unlike the serrated rocker blade it has no cutting edge, tang or end grip, and unlike the plunger stamp it has no guide frame, open foot or raised platen. One complete model zero scenes. Plain category-inspired art only, no ornament, inscription, brand or measured historical reconstruction. Sheet thickness and small fixed overlaps are visual simplifications, not a detachable fitted assembly. No ink, absorption, blotting result, pressure, actual rocking, rolling range, paper deformation, screw threads, clamping force, hand fit, stability, material performance, manufacture or safety capability made or verified. No rigging, animation or interaction.",
+      "bounds": {
+        "x": 0.1860000044107437,
+        "y": 0.0860000029206276,
+        "z": 0.07900000363588333,
+        "unit": "m"
+      },
+      "triangles": 1084,
+      "materials": 4,
+      "files": {
+        "glb": {
+          "path": "assets/office/office-fixed-convex-sole-and-clamped-blank-sheet-rocking-blotter-01/v1.0.0/model.glb",
+          "size": 94736,
+          "sha256": "8e73aa68adf5157fcbd2125f881bf47f22258e0b74bf0b3f843167100b2a18e0"
+        },
+        "blend": {
+          "path": "assets/office/office-fixed-convex-sole-and-clamped-blank-sheet-rocking-blotter-01/v1.0.0/source.blend",
+          "size": 696096,
+          "sha256": "ef4592493ea48d81c2a480f5a05928a3e1aca4223be1d985540256b9511b9aa3"
+        },
+        "generator": {
+          "path": "assets/office/office-fixed-convex-sole-and-clamped-blank-sheet-rocking-blotter-01/v1.0.0/generate.py",
+          "size": 13591,
+          "sha256": "ddc18a01974d8f4b730e17e73cc101f153efba453432df4f388ecdd2f8b31e8d"
+        },
+        "render": {
+          "path": "assets/office/office-fixed-convex-sole-and-clamped-blank-sheet-rocking-blotter-01/v1.0.0/thumbnail.png",
+          "size": 473791,
+          "sha256": "48962b08c8c70effe31eb1f415c2e550ca2b5f42946364942e5993068734abd3"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1807-volume02-20261025"
     }
   ]
 }
