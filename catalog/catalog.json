@@ -2374,6 +2374,11 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary02",
       "commit": "1400b72aff4620375f075055c4c1fd793c022158"
+    },
+    "original-qualified-batch-1791-volume02-20261025": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary02",
+      "commit": "eaaadb5530c1872329672cea9300323315ef3a8c"
     }
   },
   "assets": [
@@ -79346,6 +79351,49 @@
       "status": "verified",
       "license": "All rights reserved",
       "sourceId": "original-qualified-batch-1790-volume02-20261025"
+    },
+    {
+      "id": "fitness-fixed-open-waist-belt-and-front-chain-loop-dip-belt-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "fitness",
+      "style": "source-preserved-low-poly",
+      "title": "Open Waist Belt And Front Chain Loop Dip Belt",
+      "description": "One newly authored complete fixed dip-belt-inspired empty exterior in a laid-open display. A single continuous thick curved waist band rises at its broad rear section and narrows at both open front ends; a complete inset rear pad follows the inner curve. Two whole D-shaped end fittings join the band to fifteen entire alternating-plane oval chain links along one broad forward U loop. Every link and fitting has a genuine open centre and a closed polygonal tube wall. All numeric belt, pad, fittings and link geometry is newly authored as a complete structure, not a climbing harness with leg loops removed, a reused hanging chain, or the neck-strap curl-support plate. Small intentional positive-volume link-to-link and fitting seats freeze the empty chain into one rooted visual assembly, not a freely articulated mechanism. Finite flat lower band facets define the whole ground datum. Nineteen closed whole component meshes, three opaque constant untextured PBR roles, metres native Z up, full horizontal bounds-centred ground origin. One original model zero scenes. Generic static game prop only; no person, weight plates, exercise instruction or benefit, body fit, attachment advice, textile flexibility, chain dynamics, actual loading, rated strength, physical equilibrium, manufacturing specification, certification or safety capability. No rigging, animation or interaction.",
+      "bounds": {
+        "x": 0.4339999854564667,
+        "y": 0.5771226286888123,
+        "z": 0.12200000137090683,
+        "unit": "m"
+      },
+      "triangles": 4936,
+      "materials": 3,
+      "files": {
+        "glb": {
+          "path": "assets/fitness/fitness-fixed-open-waist-belt-and-front-chain-loop-dip-belt-01/v1.0.0/model.glb",
+          "size": 430148,
+          "sha256": "658ac44e66239be63d8661b89bd2ad52e960faf281f50d4217c1edf1f3d995cb"
+        },
+        "blend": {
+          "path": "assets/fitness/fitness-fixed-open-waist-belt-and-front-chain-loop-dip-belt-01/v1.0.0/source.blend",
+          "size": 1159708,
+          "sha256": "1452880225b7b582425f8b125ff458184209ff8a91b7cb817011a4d34995c3e8"
+        },
+        "generator": {
+          "path": "assets/fitness/fitness-fixed-open-waist-belt-and-front-chain-loop-dip-belt-01/v1.0.0/generate.py",
+          "size": 20265,
+          "sha256": "d4ac65f8892f28180c247b61e62a40bff97023d63b55688850e59d5d8aaba881"
+        },
+        "render": {
+          "path": "assets/fitness/fitness-fixed-open-waist-belt-and-front-chain-loop-dip-belt-01/v1.0.0/thumbnail.png",
+          "size": 499899,
+          "sha256": "87c3dd9ede7e204d8ae127edf173800cb2b7e90a89a03ccdf46ac6caedaa7dad"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1791-volume02-20261025"
     }
   ]
 }
