@@ -1,0 +1,42 @@
+{
+  "id": "agriculture-fixed-treadle-and-wire-loop-drum-thresher-01",
+  "version": "1.0.0",
+  "category": "modular",
+  "assetKind": "prop",
+  "theme": "agriculture",
+  "style": "warm-handcrafted-village",
+  "title": "Fixed Treadle and Wire Loop Drum Thresher",
+  "description": "One newly authored whole parked treadle wire-loop drum thresher-style display. Two long grounded skids carry four splayed side-frame legs, bearing blocks and one broad transverse drum. Twenty entire thick wire-loop forms are individually present in four rows around the drum, with both ends rooted into it; these are not painted marks or a toothed disc. A complete right open flywheel, four spokes, hub and crankpin connect by one full fixed rod to the front treadle crosspin. A broad empty pedal board, supported pivot and low cross ties complete the base. A low under-drum sheet and upright rear sheet form the partial body, leaving the loop drum exposed. No crop, grain, operator, hopper, fan, sieve, motor or extra scene platform. All visible geometry newly authored; no winnower, corn sheller, grindstone or mower mesh imported. Not a closed fan housing or single narrow stone wheel re-themed. One whole model zero scenes. Blunt static art only: no threshing, separation, crop feed, drum rotation, pedal travel, working transmission, continuous linkage clearance, throughput, human fit, guarding, load, engineering, manufacture or safety capability made or verified. Rigging, animation and interaction not made.",
+  "bounds": {
+    "x": 1.304999948,
+    "y": 1.269999981,
+    "z": 1.079110503,
+    "unit": "m"
+  },
+  "triangles": 2840,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/agriculture/agriculture-fixed-treadle-and-wire-loop-drum-thresher-01/v1.0.0/model.glb",
+      "size": 163860,
+      "sha256": "aa19a9c056a1da85dfa2adcede25276f8647746e89f70b086a6d48958f9a6352"
+    },
+    "blend": {
+      "path": "assets/agriculture/agriculture-fixed-treadle-and-wire-loop-drum-thresher-01/v1.0.0/source.blend",
+      "size": 849564,
+      "sha256": "e2a1976c7782b8e3f697bc2430925d0d597ec1d9d5abd3551e84120ef6a28454"
+    },
+    "generator": {
+      "path": "assets/agriculture/agriculture-fixed-treadle-and-wire-loop-drum-thresher-01/v1.0.0/generate.py",
+      "size": 33135,
+      "sha256": "2448a1e6b3f66b6c2c412670b45a16b123b1c292469c4e153e5437e9d4f1656b"
+    },
+    "render": {
+      "path": "assets/agriculture/agriculture-fixed-treadle-and-wire-loop-drum-thresher-01/v1.0.0/thumbnail.png",
+      "size": 556440,
+      "sha256": "165d6b06e3efbfb20e2d23bbe72824697cfca0039176fcf7c2e2f241091b18b4"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "music-fixed-perforated-ovoid-slat-and-coiled-cord-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "music",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Perforated Ovoid Slat and Coiled Cord",
+  "description": "One newly authored plain complete static bullroarer-inspired visual unit. A long ovoid wooden-look slat is a single closed bevelled solid with a genuine end bore. One complete narrow flax-look cord has a fixed end seated inside the bore, passes through a compact knot-like eye tie, and extends beyond the slat into a continuous open ground coil. Broad flat slat underside and finite cord facets share the ground datum. All outlines, eye, tie and winding coordinates are original numerical construction; no castanet shells, whistle body, yo-yo or recovered cord meshes reused. Four opaque PBR roles, metres, native Z up, one whole model and zero scenes. Plain generic appearance only, not a replica of a named culture, sacred object or museum object; no copied motifs. Fixed small assembly overlaps. No cord dynamics, whirling, sound, playability, strength, manufacturing, authenticity or safety capability; no rig or animation.",
+  "bounds": {
+    "x": 0.112725168466568,
+    "y": 0.4693325459957123,
+    "z": 0.012631590478122234,
+    "unit": "m"
+  },
+  "triangles": 8660,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/music/music-fixed-perforated-ovoid-slat-and-coiled-cord-01/v1.0.0/model.glb",
+      "size": 731412,
+      "sha256": "f7bb51b0058eb0b905361bf0086c0f321ae6617cd9d7834031df6aee074bdc8b"
+    },
+    "blend": {
+      "path": "assets/music/music-fixed-perforated-ovoid-slat-and-coiled-cord-01/v1.0.0/source.blend",
+      "size": 1539920,
+      "sha256": "6b0eb7ebbf10af86f4091f6fcdec3e657eb8d05c739f10fb3756b8e5354f8d08"
+    },
+    "generator": {
+      "path": "assets/music/music-fixed-perforated-ovoid-slat-and-coiled-cord-01/v1.0.0/generate.py",
+      "size": 13311,
+      "sha256": "fe767364030a548c4f4790eaa4c8404c38eaf65e275b39b91ee3cc74a6568bcc"
+    },
+    "render": {
+      "path": "assets/music/music-fixed-perforated-ovoid-slat-and-coiled-cord-01/v1.0.0/thumbnail.png",
+      "size": 451031,
+      "sha256": "14877e90441c28a0ed4c6349bcdb562c969a2eea58ae3812c96f6d0baf5cde76"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

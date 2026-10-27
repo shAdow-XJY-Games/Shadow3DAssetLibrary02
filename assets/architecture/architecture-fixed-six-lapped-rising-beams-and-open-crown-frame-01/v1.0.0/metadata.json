@@ -1,0 +1,42 @@
+{
+  "id": "architecture-fixed-six-lapped-rising-beams-and-open-crown-frame-01",
+  "version": "1.0.0",
+  "category": "architecture",
+  "assetKind": "modular",
+  "theme": "architecture",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Six Lapped Rising Beams and Open Crown Frame",
+  "description": "One wholly new complete static open reciprocal-frame-inspired architectural crown. Six full long beams rise diagonally inward in a clockwise plan from six separate peripheral piers, passing over the next beam near each inner end and leaving a genuine central six-sided open oculus. Each whole beam is authored as one closed variable-depth solid: a full outer horizontal pier seat, one later broad upward-facing horizontal crossing seat and a further flat underside meeting the adjacent beam seat. Six exact finite opposed crossing patches form the cyclic connection pattern; six full piers and six whole square ground pads complete the object. Unlike the diamond lamella barrel, there are no repeated rhombic short-member cells, two long straight eaves or two open arch-end ribs; unlike the two-layer grid there are no stacked chord planes and pyramid cells; unlike the cable-net ring there are no radial tensile spokes or suspended edge ring. All beam profiles and plan coordinates, opposed seat organization, columns and bases authored together from numeric vertices, with no old roof, frame or truss mesh reused. Four opaque constant untextured PBR roles, metres Z up, centred full horizontal bounds at grounded soles, one complete architectural model zero scenes. Deliberately open unclad illustrative frame only, not a roof weather covering or a building. Finite source and exported seat geometry is checked, but no reciprocal-force solution, friction, fastening, assembly sequence, historic accuracy, self-support capacity, load bearing, buckling, fabrication, building-code, installation or structural safety performance made or verified. No rigging, motion or interaction.",
+  "bounds": {
+    "x": 7.023999999999999,
+    "y": 6.21563438099013,
+    "z": 4.677317647058821,
+    "unit": "m"
+  },
+  "triangles": 456,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/architecture/architecture-fixed-six-lapped-rising-beams-and-open-crown-frame-01/v1.0.0/model.glb",
+      "size": 36716,
+      "sha256": "f568ba2e9a1dce6aa8dcc9cd19010a33b4def750cf650e3177aefc7df6498a94"
+    },
+    "blend": {
+      "path": "assets/architecture/architecture-fixed-six-lapped-rising-beams-and-open-crown-frame-01/v1.0.0/source.blend",
+      "size": 648228,
+      "sha256": "67fed3cbc0a3d209b85ce4772f6d66b66d08cbc0639c084926bbe808b5646d26"
+    },
+    "generator": {
+      "path": "assets/architecture/architecture-fixed-six-lapped-rising-beams-and-open-crown-frame-01/v1.0.0/generate.py",
+      "size": 12186,
+      "sha256": "4392627ac5bb846d9ba8b7201f04ceaec4d09bb1fe2e7fe86853ca3290a066e2"
+    },
+    "render": {
+      "path": "assets/architecture/architecture-fixed-six-lapped-rising-beams-and-open-crown-frame-01/v1.0.0/thumbnail.png",
+      "size": 487167,
+      "sha256": "7fbcbbbf14c9c83eb5a176a2124adcdb93f1a3e5ece14b8cb9aab54f7fdd241b"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
