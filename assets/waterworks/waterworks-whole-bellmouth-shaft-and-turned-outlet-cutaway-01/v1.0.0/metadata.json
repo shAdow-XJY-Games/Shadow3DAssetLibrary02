@@ -1,0 +1,42 @@
+{
+  "id": "waterworks-whole-bellmouth-shaft-and-turned-outlet-cutaway-01",
+  "version": "1.0.0",
+  "category": "architecture",
+  "assetKind": "modular",
+  "theme": "waterworks",
+  "style": "S01-clean-geometric",
+  "title": "Whole Bellmouth Shaft and Turned Outlet Cutaway",
+  "description": "One wholly newly authored complete dry half-section of a bellmouth-shaft-spillway-inspired architectural module. A single continuous finite-thickness material shell joins one broad horizontal flared crest, a narrowing inlet, one deep vertical shaft, a full quarter-turn lower bend and a long horizontal outlet. The front half of the complete route is deliberately removed as one fixed longitudinal cutaway, leaving the rear semicircular shell, true pale inner lining and two continuous warm wall-section faces exposed from inlet to outlet. Both terminal half-annular lips remain open; there is no hidden blind bowl bottom or outlet cap. A complete ground base, one full rear display spine and a whole lower outlet sill support the same original section without a surrounding dam, reservoir or terrain. Unlike the spiral-bowl machine, there is no blind bowl, inner helical ledge, high tangential trough, drive pedestal or spring mount. Unlike the prior rounded-overflow crest module, there is no open descending outside apron and lower stilling basin: the whole continuous route instead turns from a deep shaft into an enclosed-style outlet represented in half-section. All numeric profiles, thickness, bend and support geometry newly authored, no feeder, pipe, funnel, channel, tower or old spillway mesh imported or extracted. Four opaque constant untextured PBR roles, metres native Z up and whole horizontal bounds-centred ground sole, one architectural model zero scenes. The front half absence is intentional explanatory sectioning, not a claim of a complete enclosed conduit. Generic static civil-geometry art only, not a real spillway design or a named dam reconstruction. No water, hydraulic profile, capacity, pressure, vortex suppression, aeration, cavitation, flood control, seal, continuous usable flow, terrain interaction, structural load, fabrication, installation, maintenance access or civil safety capability made or verified. No rigging, animation or interaction.",
+  "bounds": {
+    "x": 5.4399999999999995,
+    "y": 1.9700000000000002,
+    "z": 4.3,
+    "unit": "m"
+  },
+  "triangles": 3860,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/waterworks/waterworks-whole-bellmouth-shaft-and-turned-outlet-cutaway-01/v1.0.0/model.glb",
+      "size": 186868,
+      "sha256": "bfb5432354e65e9dbb8232417b308f1a83264fa6e0a0012907c3f99c8d0acc12"
+    },
+    "blend": {
+      "path": "assets/waterworks/waterworks-whole-bellmouth-shaft-and-turned-outlet-cutaway-01/v1.0.0/source.blend",
+      "size": 767140,
+      "sha256": "758be1334cce3e69f7db72cf523b88fbb791b9944b2cc66434315fc061d59dc0"
+    },
+    "generator": {
+      "path": "assets/waterworks/waterworks-whole-bellmouth-shaft-and-turned-outlet-cutaway-01/v1.0.0/generate.py",
+      "size": 12853,
+      "sha256": "7ad6b3d4caa0b37d5578bdbb862b9ee713f508bffe2d7b87a9a1e3c398ebd2f2"
+    },
+    "render": {
+      "path": "assets/waterworks/waterworks-whole-bellmouth-shaft-and-turned-outlet-cutaway-01/v1.0.0/thumbnail.png",
+      "size": 411054,
+      "sha256": "05a67f8904177a03b0a878f750ce8eced579f8a9c0f0b0f716a9b219c0d995a7"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

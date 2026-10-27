@@ -1,0 +1,42 @@
+{
+  "id": "hotel-whole-empty-webbing-rack-and-open-travel-case-bay-scene-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "hotel",
+  "style": "source-preserved-low-poly",
+  "title": "Whole Empty Webbing Rack and Open Travel Case Bay",
+  "description": "One complete static hotel packing-corner display, one new scene zero new independent models. One entire qualified empty crossed-frame webbing rack stands at the right, while one complete qualified deep hard travel case with its fixed upright recessed cover stands separately at the left. Both whole props rest directly on the same new floor, separated across X with a clear front area; the case is not placed on the rack and no fit or load relationship is claimed. A continuous rear wall and short left return form a low cutaway packing-bay boundary. Exact original GLB buffers, positions, normals, material dictionaries, face assignments and internal hierarchies remain untouched under unit-scale whole translations only. No crop, part extraction, recolour, scale or re-count of either old model. This independent floor-standing rack-and-open-trunk arrangement is distinct from an airport acceptance counter with scale and loaded trolley. Only the connected floor and low walls are scene environment. Static decorative game art only: no person, actual packing workflow, luggage fit, hinge or rack folding, carrying, capacity, accessibility, load, stability, architectural construction, manufacture or safety compliance. Rigging animation and interaction not made.",
+  "bounds": {
+    "x": 2.4000000953674316,
+    "y": 1.600000023841858,
+    "z": 1.2259999513626099,
+    "unit": "m"
+  },
+  "triangles": 2452,
+  "materials": 9,
+  "files": {
+    "glb": {
+      "path": "assets/hotel/hotel-whole-empty-webbing-rack-and-open-travel-case-bay-scene-01/v1.0.0/model.glb",
+      "size": 218588,
+      "sha256": "b57a3fda4cc148ece7c9d5103f471ee49471ab4949b1fb277a2629dc1f9e7326"
+    },
+    "blend": {
+      "path": "assets/hotel/hotel-whole-empty-webbing-rack-and-open-travel-case-bay-scene-01/v1.0.0/source.blend",
+      "size": 1069324,
+      "sha256": "f1c0cb3ba60f7f1e8497918d897e08e1c8fd62ce908fca22714ff1b2389d0ac5"
+    },
+    "generator": {
+      "path": "assets/hotel/hotel-whole-empty-webbing-rack-and-open-travel-case-bay-scene-01/v1.0.0/generate.py",
+      "size": 84172,
+      "sha256": "3e17418e05f0dd153635c8515e8a0239906c42a5b167074ec066d331d1e18ae2"
+    },
+    "render": {
+      "path": "assets/hotel/hotel-whole-empty-webbing-rack-and-open-travel-case-bay-scene-01/v1.0.0/thumbnail.png",
+      "size": 523011,
+      "sha256": "af719e3fe36762d67ebf6e2850b72b9991871457445cfb2eaf7d7dc6f714a9db"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
