@@ -2154,6 +2154,11 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary02",
       "commit": "2e1a5983030187735485b718ba1e369da231d734"
+    },
+    "original-qualified-batch-1686-volume02-20261025": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary02",
+      "commit": "fbff69de091c3519a9e17cbda1ad54ffb73f397d"
     }
   },
   "assets": [
@@ -74439,6 +74444,221 @@
       "status": "verified",
       "license": "All rights reserved",
       "sourceId": "original-qualified-batch-1681-volume02-20261025"
+    },
+    {
+      "id": "fitness-fixed-three-spaced-drums-and-low-rail-cycling-rollers-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "fitness",
+      "style": "source-preserved-low-poly",
+      "title": "Three Spaced Drums And Low Rail Cycling Rollers",
+      "description": "One newly authored whole static empty cycling-roller apparatus: two closely spaced rear drums and one separate front drum sit across a complete low twin-rail frame. Each subtly waisted full drum contains a continuous transverse axle rooted into two full bearing seats; proud caps finish all six shaft ends. A complete closed side belt embraces two separate end pulleys. Two buried cross members and four finite rubber ground pads complete the frame. All geometry newly drawn; not a scaled logistics roller conveyor, a bicycle fragment, or a modified elliptical. Four opaque PBR roles, metre units, Z up, one whole model and zero scenes. Static empty exterior only; no bicycle, motion, belt tension, resistance, balancing guidance, equipment compatibility, exercise benefit, user fit, load capacity, manufacture or safety certification.",
+      "bounds": {
+        "x": 0.7670000195503235,
+        "y": 1.600000023841858,
+        "z": 0.20100000500679016,
+        "unit": "m"
+      },
+      "triangles": 2172,
+      "materials": 4,
+      "files": {
+        "glb": {
+          "path": "assets/fitness/fitness-fixed-three-spaced-drums-and-low-rail-cycling-rollers-01/v1.0.0/model.glb",
+          "size": 202788,
+          "sha256": "1e019cc7b7e02691c66241cdc0267414a52c7eedb714f9c3b0249e0eb1023b7c"
+        },
+        "blend": {
+          "path": "assets/fitness/fitness-fixed-three-spaced-drums-and-low-rail-cycling-rollers-01/v1.0.0/source.blend",
+          "size": 920348,
+          "sha256": "e19cbee9b7e0a2d1383e7b269d07baf5432f5084ac52fa6a05f846f6421f0205"
+        },
+        "generator": {
+          "path": "assets/fitness/fitness-fixed-three-spaced-drums-and-low-rail-cycling-rollers-01/v1.0.0/generate.py",
+          "size": 18211,
+          "sha256": "c228f277aeac90f0f5d1c62cc4dbe59e703357806a78ff78a6148f98c0923c0b"
+        },
+        "render": {
+          "path": "assets/fitness/fitness-fixed-three-spaced-drums-and-low-rail-cycling-rollers-01/v1.0.0/thumbnail.png",
+          "size": 482495,
+          "sha256": "8d4c6b0187f9fe812f027ab24893ab7864e3d8f300c7ffa0b3ae8978935663e2"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1686-volume02-20261025"
+    },
+    {
+      "id": "fitness-fixed-low-footplate-and-upright-calf-pad-squat-station-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "fitness",
+      "style": "source-preserved-low-poly",
+      "title": "Low Footplate And Upright Calf Pad Squat Station",
+      "description": "One newly authored whole static compact squat-station-inspired prop: a low broad footplate sits on a full H-shaped ground frame, a short rear upright carries one complete vertical calf pad, and a separate low front post carries two whole foot rollers on one continuous axle. Four finite ground pads, rooted post sleeves and two illustrative fixed setting knobs finish the empty assembly. No tall diagonal hip support, tilted long body board, seat, weights or moving linkage, and no old exercise machine geometry imported. Four opaque constant PBR roles, metre units, Z up, one complete model and zero scenes. New numeric whole components; static exterior appearance only, no person, working adjustment, body fit, exercise or therapy benefit, training guidance, restraint, load capacity, manufacture or safety certification.",
+      "bounds": {
+        "x": 0.593999981880188,
+        "y": 1.0800000429153442,
+        "z": 0.6480000019073486,
+        "unit": "m"
+      },
+      "triangles": 912,
+      "materials": 4,
+      "files": {
+        "glb": {
+          "path": "assets/fitness/fitness-fixed-low-footplate-and-upright-calf-pad-squat-station-01/v1.0.0/model.glb",
+          "size": 89416,
+          "sha256": "3c9ff1ffe009266f9c2e6ac0db2420b6d0c765cf96ca76ad739a3a1f88b23bc1"
+        },
+        "blend": {
+          "path": "assets/fitness/fitness-fixed-low-footplate-and-upright-calf-pad-squat-station-01/v1.0.0/source.blend",
+          "size": 727484,
+          "sha256": "761a93cfc5f7ef1ac0c9f6380d55ab3e5c17b7d93f2f12e6ce2e3d095ddee805"
+        },
+        "generator": {
+          "path": "assets/fitness/fitness-fixed-low-footplate-and-upright-calf-pad-squat-station-01/v1.0.0/generate.py",
+          "size": 18036,
+          "sha256": "a918e828a03fb29bc12432a64d71db0ac576d8e349480192d227da89a30155cc"
+        },
+        "render": {
+          "path": "assets/fitness/fitness-fixed-low-footplate-and-upright-calf-pad-squat-station-01/v1.0.0/thumbnail.png",
+          "size": 495920,
+          "sha256": "05dece588902a5589a39cc7962ad2618586fa25a46ca3a0250a69bb5a9414066"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1686-volume02-20261025"
+    },
+    {
+      "id": "education-whole-biconcave-cell-and-grana-cutaway-comparison-scene-01",
+      "version": "1.0.0",
+      "category": "scenes",
+      "assetKind": "scene",
+      "theme": "education",
+      "style": "source-preserved-low-poly",
+      "title": "Whole Biconcave Cell and Grana Cutaway Comparison Scene",
+      "description": "One static teaching comparison arrangement, one scene and zero new independent models. The whole accepted chloroplast cutaway occupies the broad rear-left area of a low scene-only slab; the complete accepted biconcave erythrocyte sits separately toward the front-right. Both preserve their original enlarged illustrative metre dimensions, all meshes, oriented geometry and normal buffers, full constant PBR material dictionaries and complete internal hierarchy. Only whole-instance translations and one finite scene-only display slab are new. The free front strip and space between the two whole objects make their different exterior/cutaway representations readable without overlap. No cell, membrane, granum, lamella or rim is extracted, recoloured, resized or counted again. The two models use different illustrative enlargement factors; their displayed relative sizes are NOT a comparison of real biological dimensions. This is a general classroom juxtaposition of an animal-cell exterior and a plant-organelle diagram, not an erythrocyte containing chloroplasts, a single biological system, complete organelle anatomy, medical diagnosis, physiological process, working apparatus, load or stability certification. No labels, rig, animation or interaction made or claimed.",
+      "bounds": {
+        "x": 0.4300000071525574,
+        "y": 0.25,
+        "z": 0.07000000029802322,
+        "unit": "m"
+      },
+      "triangles": 9772,
+      "materials": 6,
+      "files": {
+        "glb": {
+          "path": "assets/education/education-whole-biconcave-cell-and-grana-cutaway-comparison-scene-01/v1.0.0/model.glb",
+          "size": 562120,
+          "sha256": "d7023101f768a7b591262a32bd0df2c9c1883c65162e4e3c9acd366228eb4767"
+        },
+        "blend": {
+          "path": "assets/education/education-whole-biconcave-cell-and-grana-cutaway-comparison-scene-01/v1.0.0/source.blend",
+          "size": 257676,
+          "sha256": "31cab90f6cdf390937de3c87af4a01d96ce77b5e25e3a283cbc02f232a1554ac"
+        },
+        "generator": {
+          "path": "assets/education/education-whole-biconcave-cell-and-grana-cutaway-comparison-scene-01/v1.0.0/generate.py",
+          "size": 212352,
+          "sha256": "9cfe2e66eb8581f82735a8352d706c85fb21cabb23b3796c79e47f9f018d3617"
+        },
+        "render": {
+          "path": "assets/education/education-whole-biconcave-cell-and-grana-cutaway-comparison-scene-01/v1.0.0/thumbnail.png",
+          "size": 480660,
+          "sha256": "96b1defe4180ea2d49b7fa4e63fdb157e058489a12e30b626a0dcabc2eef8941"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1686-volume02-20261025"
+    },
+    {
+      "id": "music-fixed-capped-wind-tube-and-upturned-open-crook-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "music",
+      "style": "S01-clean-geometric",
+      "title": "Fixed Capped Wind Tube and Upturned Open Crook",
+      "description": "One newly authored whole crumhorn-inspired fixed wind-instrument appearance. A single continuous finite-wall J-shaped wooden-look tube has seven true polygonal front finger ports, a rounded lower return with a short finite bottom resting facet, and one open upturned mouth. Its entire hollow socketed wind cap narrows to a real small oval top slot; the cap seats around the upper body and two whole annular alloy-look bands finish the cap root and crook end. Every body coordinate and port layout is newly authored, not a bent old blockflute, reused bassoon boot or separate horn assembly. One model zero scenes, four opaque PBR roles, metres and native Z up. Broad capped-reed/J-shaped category inspiration only, not an exact historical or branded instrument; hidden reed not modeled. No sound, pitch, working airflow, fingering accuracy, tuning, breath pressure, flexible bending, manufacture, playability, handling, equilibrium or safety capability. No rig, animation or interaction.",
+      "bounds": {
+        "x": 0.27921584248542786,
+        "y": 0.0415109321475029,
+        "z": 0.6664689779281616,
+        "unit": "m"
+      },
+      "triangles": 16700,
+      "materials": 4,
+      "files": {
+        "glb": {
+          "path": "assets/music/music-fixed-capped-wind-tube-and-upturned-open-crook-01/v1.0.0/model.glb",
+          "size": 1407996,
+          "sha256": "dd0758e2e61853a6a47a39f12de598ec9e366eb289d0678e1b8ab62c1df38b80"
+        },
+        "blend": {
+          "path": "assets/music/music-fixed-capped-wind-tube-and-upturned-open-crook-01/v1.0.0/source.blend",
+          "size": 2445120,
+          "sha256": "0606c3edbc2f0ffae9ba3a3eeba893969b2a6b12f8aa62866beb23f1291b5252"
+        },
+        "generator": {
+          "path": "assets/music/music-fixed-capped-wind-tube-and-upturned-open-crook-01/v1.0.0/generate.py",
+          "size": 13598,
+          "sha256": "97849dae48057e1c7461b05479fa6035b07d80fe13d7802528631721016310dd"
+        },
+        "render": {
+          "path": "assets/music/music-fixed-capped-wind-tube-and-upturned-open-crook-01/v1.0.0/thumbnail.png",
+          "size": 435039,
+          "sha256": "e8af713fe467916727e994f4702a67d0e055e14377e9267ee85729e8def3dbc5"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1686-volume02-20261025"
+    },
+    {
+      "id": "laundry-fixed-slotted-round-grille-and-lower-collector-fabric-shaver-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "laundry",
+      "style": "S01-clean-geometric",
+      "title": "Fixed Slotted Round Grille and Lower Collector Fabric Shaver",
+      "description": "One newly authored complete static handheld fabric-shaver-style exterior. A full tapered pod housing broadens behind a forward round head shroud. One complete finite circular grille has sixteen genuine curved through-slots arranged in two radial rows, connected by a solid centre, continuous rings and radial webs. The grille sits in the full annular shroud with a recessed cavity behind the slots; the housing front closes the cavity farther behind, not at the grille surface. A complete opaque lower collector-cap appearance and a blank raised lower-front control complete the tool. Every numeric mesh newly authored, no imported comb head, perforated grater face or old appliance. Three constant opaque PBR roles, metres Z up, whole horizontally centred bounds and flat collector-heel display datum. One original model zero scenes. Static blunt exterior only: collector is solid closed exterior, no working removable bin, internal cutter, motor, battery, circuit, fabric, lint, suction, cutting, cleaning, performance, hand fit, garment suitability, manufacture or safety capability. No rigging animation or interaction.",
+      "bounds": {
+        "x": 0.08799999952316284,
+        "y": 0.07000000029802322,
+        "z": 0.1469999998807907,
+        "unit": "m"
+      },
+      "triangles": 1996,
+      "materials": 3,
+      "files": {
+        "glb": {
+          "path": "assets/laundry/laundry-fixed-slotted-round-grille-and-lower-collector-fabric-shaver-01/v1.0.0/model.glb",
+          "size": 171912,
+          "sha256": "6a0ae79e39cd4c19892c0c824a7551284116c03dee3cc9f6d8593a82fd928ddd"
+        },
+        "blend": {
+          "path": "assets/laundry/laundry-fixed-slotted-round-grille-and-lower-collector-fabric-shaver-01/v1.0.0/source.blend",
+          "size": 779776,
+          "sha256": "ef0a068e6ec7e137fb1ad9b399029cd3b0615d7cedf0b454790f299db0dd06f7"
+        },
+        "generator": {
+          "path": "assets/laundry/laundry-fixed-slotted-round-grille-and-lower-collector-fabric-shaver-01/v1.0.0/generate.py",
+          "size": 16858,
+          "sha256": "810abafd5f4db42b1ae30cf169d5ace09b6881c6866c7d71eaf3c891aa5fb314"
+        },
+        "render": {
+          "path": "assets/laundry/laundry-fixed-slotted-round-grille-and-lower-collector-fabric-shaver-01/v1.0.0/thumbnail.png",
+          "size": 514696,
+          "sha256": "9f82c56a61e75f9173cd24df58d2f30190c91f7ec48e53a9535cd80d77b6625a"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1686-volume02-20261025"
     }
   ]
 }
