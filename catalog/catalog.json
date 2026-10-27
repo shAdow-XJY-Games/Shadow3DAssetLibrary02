@@ -2399,6 +2399,11 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary02",
       "commit": "e2bbcbe8068d19deac5f50e125e1ab89571e15f9"
+    },
+    "original-qualified-batch-1803-volume02-20261025": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary02",
+      "commit": "39c35e0752154a24a0a7e9ccc429d6619e4772ea"
     }
   },
   "assets": [
@@ -79801,6 +79806,135 @@
       "status": "verified",
       "license": "All rights reserved",
       "sourceId": "original-qualified-batch-1800-volume02-20261025"
+    },
+    {
+      "id": "agriculture-fixed-four-paddle-shaft-and-slotted-board-flax-scutcher-01",
+      "version": "1.0.0",
+      "category": "modular",
+      "assetKind": "prop",
+      "theme": "agriculture",
+      "style": "warm-handcrafted-village",
+      "title": "Fixed Four Paddle Shaft and Slotted Board Flax Scutcher",
+      "description": "One newly authored whole fixed hand-cranked four-paddle flax-scutcher-inspired machine. Two full longitudinal ground skids and complete crossbearers carry two full upright bearing posts, bearing blocks and one horizontal through shaft. Four entire broad blunt wooden paddles radiate from a whole long hub; their full axial widths and separated static positions are visible. A complete tall side board with a true open U notch is rooted to the right skid beside the paddle assembly, with two full diagonal braces. One whole front offset crank, full crankpin, wooden grip and proud shaft collars complete this one machine. No old raised flax-brake jaw, chaff-cutter trough, wheel rim, swept cutting blade or farm frame imported. Unlike the old hinged long-jaw flax brake, this has a radial four-paddle shaft; unlike the chaff cutter it has neither a feed trough nor flywheel rim or narrow swept cutter pair. Greve Museum text supports a hand-cranked four-wooden-blade scutching type; this compact frame and side-board arrangement is a fictional original adaptation, not a reconstruction of a particular museum specimen. One model zero scenes. Static blunt game-art only: no fibre, scutching action, full swept travel clearance, guarding, feed procedure, crop processing, historic dimensional accuracy, force, ergonomic, engineering, fabrication or safety claim. No rigging animation or interaction made.",
+      "bounds": {
+        "x": 0.939156473,
+        "y": 1.220000029,
+        "z": 1.269156456,
+        "unit": "m"
+      },
+      "triangles": 668,
+      "materials": 4,
+      "files": {
+        "glb": {
+          "path": "assets/agriculture/agriculture-fixed-four-paddle-shaft-and-slotted-board-flax-scutcher-01/v1.0.0/model.glb",
+          "size": 47080,
+          "sha256": "c36852598c17adde1396ece9436342412bd68ee0f473a288b488657ef31f712b"
+        },
+        "blend": {
+          "path": "assets/agriculture/agriculture-fixed-four-paddle-shaft-and-slotted-board-flax-scutcher-01/v1.0.0/source.blend",
+          "size": 652212,
+          "sha256": "5b573db425e6c1c85fe03dff82a953b473dee951709f2283c1451ebfedaa8d32"
+        },
+        "generator": {
+          "path": "assets/agriculture/agriculture-fixed-four-paddle-shaft-and-slotted-board-flax-scutcher-01/v1.0.0/generate.py",
+          "size": 31627,
+          "sha256": "3860d10418629558d843a395f2d3492b8014ecd0fd536405fffd14781454172d"
+        },
+        "render": {
+          "path": "assets/agriculture/agriculture-fixed-four-paddle-shaft-and-slotted-board-flax-scutcher-01/v1.0.0/thumbnail.png",
+          "size": 541718,
+          "sha256": "c5200c35cadbf94480775589ab315e164cbc0522c9772d4aabe9e2dd518c6191"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1803-volume02-20261025"
+    },
+    {
+      "id": "sports-fixed-open-cap-and-twin-perforated-ear-covers-water-polo-cap-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "sports",
+      "style": "source-preserved-low-poly",
+      "title": "Open Cap And Twin Perforated Ear Covers Water Polo Cap",
+      "description": "One newly authored complete fixed water-polo-cap-inspired empty display: a thin continuous blue domed cap shell with a completely open underside and two bounded side apertures, two whole curved pale ear-cover shells each with seven genuine bounded perforations, and two complete narrow forward-laid chin ties. Each ear cover follows the cap curvature and has real thickness, a closed outer rim and fourteen total actual open bores; the fabric-like dome is not a thick helmet, face cage or chin cup. All five complete component meshes and numeric geometry are newly authored, not removed helmet parts or copied pads. Intentional small positive-volume rim and tie seats keep the fixed empty assembly rooted to the finite flat lower shell hem and tie facets. Five closed whole meshes, three opaque constant untextured PBR roles, metres native Z up and full horizontal bounds-centred grounded origin. One original static model zero scenes. No person, wearer, fit, softness simulation, protection, safe use, impact resistance, breathing or hearing capability, regulation, certification, manufacturing specification, animation or interaction. Simplified faceted static game prop only.",
+      "bounds": {
+        "x": 0.1887698620557785,
+        "y": 0.29189884662628174,
+        "z": 0.11999999731779099,
+        "unit": "m"
+      },
+      "triangles": 3608,
+      "materials": 3,
+      "files": {
+        "glb": {
+          "path": "assets/sports/sports-fixed-open-cap-and-twin-perforated-ear-covers-water-polo-cap-01/v1.0.0/model.glb",
+          "size": 307792,
+          "sha256": "3cfcbe8ab426b80494d55cf009d4f81b6b5bbb4c3bd30fd198354283fcec1c24"
+        },
+        "blend": {
+          "path": "assets/sports/sports-fixed-open-cap-and-twin-perforated-ear-covers-water-polo-cap-01/v1.0.0/source.blend",
+          "size": 945116,
+          "sha256": "6b23a1cbb2d7d01cc4004c720d6b187c62c24b0dafbdb0e24d65582ff5a17db6"
+        },
+        "generator": {
+          "path": "assets/sports/sports-fixed-open-cap-and-twin-perforated-ear-covers-water-polo-cap-01/v1.0.0/generate.py",
+          "size": 27552,
+          "sha256": "def876f0a0577b26f7b2460efe4266d90dee07327c17db7eb18b48804e669f48"
+        },
+        "render": {
+          "path": "assets/sports/sports-fixed-open-cap-and-twin-perforated-ear-covers-water-polo-cap-01/v1.0.0/thumbnail.png",
+          "size": 482149,
+          "sha256": "af2f8de1930172c35ea403a7b4f11f554ab149c2833653cef1fe2389560d6b57"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1803-volume02-20261025"
+    },
+    {
+      "id": "sports-fixed-twin-lobed-waist-and-rounded-edge-pull-buoy-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "sports",
+      "style": "source-preserved-low-poly",
+      "title": "Twin Lobed Waist And Rounded Edge Pull Buoy",
+      "description": "One newly authored whole pull-buoy-inspired static exterior. A broad continuous figure-eight plan has two smoothly rounded lobes and a deep concave waist on both sides; a full thick transverse body joins both lobes without a rod, seam, shell cavity or separate assembled ends. Seven complete inset-to-full-width rings create rounded-looking faceted edge transitions around the entire solid body, while broad whole planar upper and lower faces retain the full two-lobed contour. Two opaque matte solid material regions divide the continuous thickness into pale and muted-blue roles; the color boundary is not a separate plate or texture. All coordinates and contour construction newly authored, not a scaled peanut pod, shortened dumbbell, body part or changed ball. One connected closed whole mesh, one original model zero scenes, metres Z up and bounds-centred finite lower-face ground datum. Generic unoccupied game prop only, not a functional float. No buoyancy, swimming instruction, training benefit, body fit, foam properties, water safety, flotation certification, physical performance, manufacturing specification, animation or interaction claim.",
+      "bounds": {
+        "x": 0.0854872614145279,
+        "y": 0.23477649688720703,
+        "z": 0.09000000357627869,
+        "unit": "m"
+      },
+      "triangles": 892,
+      "materials": 2,
+      "files": {
+        "glb": {
+          "path": "assets/sports/sports-fixed-twin-lobed-waist-and-rounded-edge-pull-buoy-01/v1.0.0/model.glb",
+          "size": 77032,
+          "sha256": "f2915f75d39eab118e74ab2f181d3107448c714c918cba9d106dcc314d4b7322"
+        },
+        "blend": {
+          "path": "assets/sports/sports-fixed-twin-lobed-waist-and-rounded-edge-pull-buoy-01/v1.0.0/source.blend",
+          "size": 598956,
+          "sha256": "cb6a31de34b9b38f03f8905b911dd64f3425eaf1a53d590d5a303a2d5b05851e"
+        },
+        "generator": {
+          "path": "assets/sports/sports-fixed-twin-lobed-waist-and-rounded-edge-pull-buoy-01/v1.0.0/generate.py",
+          "size": 17817,
+          "sha256": "93d049bbe99409bb440d358a7f8db146fbdee10eed4d7a0697be0d91ae417971"
+        },
+        "render": {
+          "path": "assets/sports/sports-fixed-twin-lobed-waist-and-rounded-edge-pull-buoy-01/v1.0.0/thumbnail.png",
+          "size": 494315,
+          "sha256": "b2299b6a8c70d9e7c56574b58609e7ededdf264b3ba34632e9871a9472e6bc1d"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1803-volume02-20261025"
     }
   ]
 }
