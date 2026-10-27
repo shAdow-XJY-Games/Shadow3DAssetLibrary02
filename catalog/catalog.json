@@ -2199,6 +2199,11 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary02",
       "commit": "1e73d07a2b58e54753d0631d2d85c586dedb9a76"
+    },
+    "original-qualified-batch-1707-volume02-20261025": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary02",
+      "commit": "6a91ba2e46af28d5e9464a9ebad43b313c4e1ae0"
     }
   },
   "assets": [
@@ -75516,6 +75521,92 @@
       "status": "verified",
       "license": "All rights reserved",
       "sourceId": "original-qualified-batch-1705-volume02-20261025"
+    },
+    {
+      "id": "kitchen-fixed-opposed-scalloped-jaws-and-long-grip-nutcracker-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "kitchen",
+      "style": "S01-clean-geometric",
+      "title": "Fixed Opposed Scalloped Jaws and Long Grip Nutcracker",
+      "description": "One newly authored complete static end-pivot nutcracker exterior. Two whole non-crossed arms each join a rounded end hinge to a pair of concave scalloped jaw seats and a full long handle. Small blunt integral ridges define the opposed seats; one larger seat and one smaller seat are formed in each whole arm silhouette, not painted openings. Complete subtly stepped hinge ends share one retained axial pin, while the full jaw regions remain at one common height. Two complete dark grip sleeves cover the long handles. All whole numeric geometry is newly authored, with no garlic-press cup, crossed plier arm, turret, old jaw or detached part imported. Three opaque PBR roles, metres Z up and whole ground datum. One original model zero scenes. Static illustrative exterior only: no nut, food contact, crushing force, mechanical motion, hand fit, loading, durability, manufacture or safety capability. Rigging animation and interaction not made.",
+      "bounds": {
+        "x": 0.11774033308029175,
+        "y": 0.26752761006355286,
+        "z": 0.023000000044703484,
+        "unit": "m"
+      },
+      "triangles": 828,
+      "materials": 3,
+      "files": {
+        "glb": {
+          "path": "assets/kitchen/kitchen-fixed-opposed-scalloped-jaws-and-long-grip-nutcracker-01/v1.0.0/model.glb",
+          "size": 74116,
+          "sha256": "6273570a97b1bc3ee29b4f2c679cdf99198f44be00db181cfa5853a5b6bf7ab9"
+        },
+        "blend": {
+          "path": "assets/kitchen/kitchen-fixed-opposed-scalloped-jaws-and-long-grip-nutcracker-01/v1.0.0/source.blend",
+          "size": 648960,
+          "sha256": "bc52a6a653f448e127a8233c6b10846c8a334cc0b2a5d1d43f8830945a4cc1c6"
+        },
+        "generator": {
+          "path": "assets/kitchen/kitchen-fixed-opposed-scalloped-jaws-and-long-grip-nutcracker-01/v1.0.0/generate.py",
+          "size": 16153,
+          "sha256": "ff7ee9005c58fca378a2123f1d209cf16ef71774c69738db57f813dc8a6d4c24"
+        },
+        "render": {
+          "path": "assets/kitchen/kitchen-fixed-opposed-scalloped-jaws-and-long-grip-nutcracker-01/v1.0.0/thumbnail.png",
+          "size": 474439,
+          "sha256": "efaf688c7429dee13becdf05db56f028add91513fd699d750b33d4394afab99d"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1707-volume02-20261025"
+    },
+    {
+      "id": "fitness-fixed-tapered-four-wall-and-opposed-hand-slot-plyo-box-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "fitness",
+      "style": "source-preserved-low-poly",
+      "title": "Tapered Four Wall And Opposed Hand Slot Plyo Box",
+      "description": "One newly authored whole fixed plyometric-box-inspired decorative display. A continuous thick tapered shell has one complete broad upper deck, four inward-rising sidewalls, an entirely open lower cavity and two true opposed horizontal hand apertures. The side aperture margins, inner surfaces, deck thickness and finite continuous lower rim are welded into one closed material boundary, not separate overlapping panels or a solid block with painted slots. Three opaque constant PBR roles, metres, Z up, horizontal-centre ground origin. New numeric geometry, not a reused kitchen step stool, cargo crate, table or gym fragment. One empty full model, zero scenes. Static appearance only: no person, jumping, exercise instruction, ergonomic fit, carrying, loading, strength, stability, construction details, dimensions for manufacture, sport regulation or safety claim.",
+      "bounds": {
+        "x": 0.6399999856948853,
+        "y": 0.5600000023841858,
+        "z": 0.5,
+        "unit": "m"
+      },
+      "triangles": 244,
+      "materials": 3,
+      "files": {
+        "glb": {
+          "path": "assets/fitness/fitness-fixed-tapered-four-wall-and-opposed-hand-slot-plyo-box-01/v1.0.0/model.glb",
+          "size": 23184,
+          "sha256": "96dfd50b607b0f7cb3eb33d22e375a3b0f42412042ba35929ec74e0dc577985e"
+        },
+        "blend": {
+          "path": "assets/fitness/fitness-fixed-tapered-four-wall-and-opposed-hand-slot-plyo-box-01/v1.0.0/source.blend",
+          "size": 549564,
+          "sha256": "50431fd4ffc034542823ed91b0946e7e527ff0bed63cde70c94db56efd4825f2"
+        },
+        "generator": {
+          "path": "assets/fitness/fitness-fixed-tapered-four-wall-and-opposed-hand-slot-plyo-box-01/v1.0.0/generate.py",
+          "size": 17463,
+          "sha256": "5459cb9e94659dcb07c83fab668054204d7a508664ea64481027b3ced20efa9e"
+        },
+        "render": {
+          "path": "assets/fitness/fitness-fixed-tapered-four-wall-and-opposed-hand-slot-plyo-box-01/v1.0.0/thumbnail.png",
+          "size": 492552,
+          "sha256": "c9ea166459e8f6ec1acb14d49a43b71674a20a0ec14c6b232b873f5758383249"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1707-volume02-20261025"
     }
   ]
 }
