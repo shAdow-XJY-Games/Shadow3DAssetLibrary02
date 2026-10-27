@@ -1,0 +1,42 @@
+{
+  "id": "architecture-fixed-waisted-crossed-lattice-tower-and-annular-crown-01",
+  "version": "1.0.0",
+  "category": "architecture",
+  "assetKind": "modular",
+  "theme": "architecture",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Waisted Crossed Lattice Tower and Annular Crown",
+  "description": "One complete newly authored static waisted lattice tower. Two opposing families of twelve entire straight closed members connect a broad annular ground foot to one complete annular crown, each family using an opposite angular offset between its lower and upper endpoint rings. Their whole ruled arrangement narrows to an open middle waist and widens again upward, with three complete intermediate circular tie bands following the true member radius. The entire centre remains unfilled; there is no solid skin, basin floor, central mast, antenna, climbing route, tank or roof. Unlike the three-chord communications tower this has a circular crossed-generator envelope with a waist rather than three tapered planar braced sides and top panels. Unlike the cooling tower it has no continuous curved shell or lower colonnade over a basin: all full-height perimeter regions are open between whole straight members. All geometry newly authored together; no tower, shell, dome or old rod layout imported. Four opaque constant untextured PBR roles, metre-style Z up and centred full horizontal bounds over one annular sole, one complete architectural-frame model zero scenes. Static artistic lattice-column appearance only, not a replica, fabricated joint design or engineering model. No solved equilibrium, stress, buckling, vibration, load bearing, wind resistance, accessible platform, installation, host compatibility, building-code or safety capability made or verified. Member intersections are illustrative; no animation, rigging or simulation.",
+  "bounds": {
+    "x": 4.92,
+    "y": 4.92,
+    "z": 5.98,
+    "unit": "m"
+  },
+  "triangles": 2880,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/architecture/architecture-fixed-waisted-crossed-lattice-tower-and-annular-crown-01/v1.0.0/model.glb",
+      "size": 135496,
+      "sha256": "b7399570ca687cb5eb9bf32e25ca9c467c5d690f0f5e91b9ff7d14351afd9ef8"
+    },
+    "blend": {
+      "path": "assets/architecture/architecture-fixed-waisted-crossed-lattice-tower-and-annular-crown-01/v1.0.0/source.blend",
+      "size": 829980,
+      "sha256": "8c359de2002cdfac5413ec02cc6e1f5f0c8ee23bfc4460c32ccaa740137d3c51"
+    },
+    "generator": {
+      "path": "assets/architecture/architecture-fixed-waisted-crossed-lattice-tower-and-annular-crown-01/v1.0.0/generate.py",
+      "size": 11471,
+      "sha256": "4cb1d52a48ba8212f414987f3d9875f967b94e5db5f48249bca89e2b661b0562"
+    },
+    "render": {
+      "path": "assets/architecture/architecture-fixed-waisted-crossed-lattice-tower-and-annular-crown-01/v1.0.0/thumbnail.png",
+      "size": 516991,
+      "sha256": "881902551cf659dc5c15aa394ff332cbdd5d2b14818a25ccab2880dd9a304845"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
