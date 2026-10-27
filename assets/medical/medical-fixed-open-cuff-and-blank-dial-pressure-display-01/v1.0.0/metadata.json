@@ -1,0 +1,42 @@
+{
+  "id": "medical-fixed-open-cuff-and-blank-dial-pressure-display-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "medical",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Open Cuff and Blank Dial Pressure Display",
+  "description": "One newly authored complete static cuff-and-dial instrument exterior for decorative game art. One thick continuous oval cuff band has a genuine clear axial through opening and finite full-width walls. Two distinct complete curved dark hoses emerge from the cuff front and terminate separately in one round gauge exterior and one whole ovoid hand-bulb exterior with a short collar and blank side knob. The gauge has a full closed case, a shallow recessed opaque blank face and a finite fixed pointer silhouette without numbers, ticks, ranges or calibration. All whole geometry is newly authored; no stethoscope ear tubes, chestpiece, bag-mask cup, pump part or other old component is imported. Four constant opaque PBR roles, metres Z up, one original model zero scenes. Hoses, bulb, collar and gauge are closed exterior solids with no internal fluid or air passage, valve, pressure mechanism or flexible simulation. No patient, bodily use, measurement, diagnostic or treatment information, clinical workflow, inflation, medical-device compatibility, hygiene, manufacture or safety capability. No rigging animation or interaction.",
+  "bounds": {
+    "x": 0.25999999046325684,
+    "y": 0.2150000035762787,
+    "z": 0.07000000029802322,
+    "unit": "m"
+  },
+  "triangles": 2444,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/medical/medical-fixed-open-cuff-and-blank-dial-pressure-display-01/v1.0.0/model.glb",
+      "size": 212860,
+      "sha256": "a12f3fa2ad6631149c08348a014ec6c77049b6b429f3dd350ffddea68a29e36a"
+    },
+    "blend": {
+      "path": "assets/medical/medical-fixed-open-cuff-and-blank-dial-pressure-display-01/v1.0.0/source.blend",
+      "size": 871936,
+      "sha256": "104fa46240a36fd24f14610a3ca49fc1eb9ab245386adcd4fd9a63c7dd8c9d16"
+    },
+    "generator": {
+      "path": "assets/medical/medical-fixed-open-cuff-and-blank-dial-pressure-display-01/v1.0.0/generate.py",
+      "size": 16658,
+      "sha256": "950e000b0d45887f53bdbe4847448c0ef306524dfb3ffad527fb736c3849669b"
+    },
+    "render": {
+      "path": "assets/medical/medical-fixed-open-cuff-and-blank-dial-pressure-display-01/v1.0.0/thumbnail.png",
+      "size": 460790,
+      "sha256": "95485d068698159e8f02e722438b4d92fe642238540c7494374a2fbeb6ea51f7"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
