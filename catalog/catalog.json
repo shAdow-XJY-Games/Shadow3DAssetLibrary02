@@ -2184,6 +2184,11 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary02",
       "commit": "f43f2554f1ef499d434e1a8ed1e82fbe76f47da0"
+    },
+    "original-qualified-batch-1700-volume02-20261025": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary02",
+      "commit": "2435658759440e071703528ff42d18cf14f2ea80"
     }
   },
   "assets": [
@@ -75200,6 +75205,92 @@
       "status": "verified",
       "license": "All rights reserved",
       "sourceId": "original-qualified-batch-1698-volume02-20261025"
+    },
+    {
+      "id": "salon-fixed-open-round-well-and-raised-inset-compact-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "salon",
+      "style": "S01-clean-geometric",
+      "title": "Fixed Open Round Well and Raised Inset Compact",
+      "description": "One newly authored complete static open round cosmetic-compact exterior. A whole shallow round base has a real open upper well with a continuous thick wall and solid floor. A complete matching round lid is fixed raised behind it about a full rear transverse pin, with two rooted base ears and one whole central lid collar. A pale opaque metallic-PBR inset is seated inside the entire raised lid rim. Both shells and the whole hinge assembly remain present, not a detached mirror disc, isolated lid or scaled standing mirror. Every numeric mesh newly authored. Three constant opaque PBR roles, metres Z up and whole horizontally centred ground datum under the base. One original model zero scenes. Empty static art only: no powder, cosmetics, person, glass, accurate mirror image, planar reflection capture, hinge travel, latch, sealing, spill resistance, storage certification, body use, hygiene, manufacture or safety capability. No rigging animation or interaction.",
+      "bounds": {
+        "x": 0.09799999743700027,
+        "y": 0.12132898718118668,
+        "z": 0.11273007839918137,
+        "unit": "m"
+      },
+      "triangles": 2020,
+      "materials": 3,
+      "files": {
+        "glb": {
+          "path": "assets/salon/salon-fixed-open-round-well-and-raised-inset-compact-01/v1.0.0/model.glb",
+          "size": 175616,
+          "sha256": "5f64e659f182af7d586aa390138d7665669ce14be64e321c48b9d528ef01d3e1"
+        },
+        "blend": {
+          "path": "assets/salon/salon-fixed-open-round-well-and-raised-inset-compact-01/v1.0.0/source.blend",
+          "size": 791872,
+          "sha256": "feb4b53916f38e409faa84f717ea1d55978525928e28251366170ccab66980e9"
+        },
+        "generator": {
+          "path": "assets/salon/salon-fixed-open-round-well-and-raised-inset-compact-01/v1.0.0/generate.py",
+          "size": 16026,
+          "sha256": "c1181aeed32d111a2c97e232ab3110c46c0cbb0bc739388b0c167202db1f0c10"
+        },
+        "render": {
+          "path": "assets/salon/salon-fixed-open-round-well-and-raised-inset-compact-01/v1.0.0/thumbnail.png",
+          "size": 506368,
+          "sha256": "c93fe7c332fa5986497fc7147f1fe5d757ee3b02793d40c95739a32140e0c744"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1700-volume02-20261025"
+    },
+    {
+      "id": "sports-fixed-tapered-shaft-and-four-spoke-basket-ski-pole-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "sports",
+      "style": "source-preserved-low-poly",
+      "title": "Tapered Shaft And Four Spoke Basket Ski Pole",
+      "description": "One newly authored whole fixed ski-pole-inspired decorative display: a long gently tapered circular shaft rises from a finite blunt tip through a wide annular four-spoke basket to a complete swollen palm grip, end cap and rooted oval wrist loop. The basket has four genuine open quadrants around its full central hub; the whole strap is a closed thick loop, not a painted mark. One complete pole, not a paired kit, old tool shaft or extracted fragment. Four opaque constant PBR roles, metres, Z up, centre-of-envelope ground origin. Static upright illustration with a finite tip datum only; no claim that a real pole balances upright without support. No skier, action, manufacturer branding, dimensions for manufacture, shaft flex, strap-release mechanism, snow penetration, load capacity, operating instructions, safety certification or practical sport function.",
+      "bounds": {
+        "x": 0.15000000596046448,
+        "y": 0.12999999523162842,
+        "z": 1.2109999656677246,
+        "unit": "m"
+      },
+      "triangles": 1288,
+      "materials": 4,
+      "files": {
+        "glb": {
+          "path": "assets/sports/sports-fixed-tapered-shaft-and-four-spoke-basket-ski-pole-01/v1.0.0/model.glb",
+          "size": 117388,
+          "sha256": "7ef45c7c8654cbb4a2dc8e1e060e7176b9bdfff79506721e2c105f3aaeea4d4e"
+        },
+        "blend": {
+          "path": "assets/sports/sports-fixed-tapered-shaft-and-four-spoke-basket-ski-pole-01/v1.0.0/source.blend",
+          "size": 741372,
+          "sha256": "d727c9da32cee791e3631832c36c47d86a26051f45cd18e370c2cf94a547f2f7"
+        },
+        "generator": {
+          "path": "assets/sports/sports-fixed-tapered-shaft-and-four-spoke-basket-ski-pole-01/v1.0.0/generate.py",
+          "size": 17964,
+          "sha256": "6f5ed8cab7dce6312c0d125a6f84fa300c4c68ee2de6a8d6044ee9049ae24d75"
+        },
+        "render": {
+          "path": "assets/sports/sports-fixed-tapered-shaft-and-four-spoke-basket-ski-pole-01/v1.0.0/thumbnail.png",
+          "size": 390342,
+          "sha256": "1fcb03f35c38616adcf3e25045497e241c398c051d5e6d8e77a9f2b528a404e2"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1700-volume02-20261025"
     }
   ]
 }
