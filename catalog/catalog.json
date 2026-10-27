@@ -2299,6 +2299,11 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary02",
       "commit": "6f06c522559f18c120c442a6cb8da228c8dc6c3b"
+    },
+    "original-qualified-batch-1753-volume02-20261025": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary02",
+      "commit": "c3569752b073a39024db00c1c8f74597a0772655"
     }
   },
   "assets": [
@@ -77594,6 +77599,92 @@
       "status": "verified",
       "license": "All rights reserved",
       "sourceId": "original-qualified-batch-1751-volume02-20261025"
+    },
+    {
+      "id": "bakery-fixed-blunt-studded-roller-and-offset-fork-grip-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "bakery",
+      "style": "S01-clean-geometric",
+      "title": "Fixed Blunt Studded Roller and Offset Fork Grip",
+      "description": "One newly authored complete fixed pastry-docker-style hand-tool exterior. A full broad cylindrical roller has six rows of twelve complete short blunt radial studs, each seated into the roller body with a finite capped outer tip. A whole transverse axle spans both ends inside one continuous U-shaped supporting fork. A separate whole down-bent neck joins the fork crossbar into a long contoured handle, whose lower facet and the downward stud tips share the ground datum. Roller, all studs, fork, axle, neck and grip form one whole original model, not seventy-two stud assets. All numerical geometry newly authored; no paint sleeve, engraving roulette, rolling pin or imported tooth reused. The long studded barrel and two-sided fork differ from the tiny integral diamond-grooved roulette on a single bent neck and the smooth paint sleeve on an offset one-sided shank. Three constant opaque PBR roles, metres Z up and horizontal bounds-centred ground origin. Empty static bakery art only: blunt finite stud tips, no food, perforating/docking performance, rotation, bearing clearance, applied force, hygiene, food-contact suitability, hand fit, load, manufacture or safety capability. Rigging animation and interaction not made.",
+      "bounds": {
+        "x": 0.16599999368190765,
+        "y": 0.32499998807907104,
+        "z": 0.07999999821186066,
+        "unit": "m"
+      },
+      "triangles": 4172,
+      "materials": 3,
+      "files": {
+        "glb": {
+          "path": "assets/bakery/bakery-fixed-blunt-studded-roller-and-offset-fork-grip-01/v1.0.0/model.glb",
+          "size": 355492,
+          "sha256": "fda6f2af85b2ea10e2e33e5ea08dc8a8d9001c62af9d82f80958d9582b6995f8"
+        },
+        "blend": {
+          "path": "assets/bakery/bakery-fixed-blunt-studded-roller-and-offset-fork-grip-01/v1.0.0/source.blend",
+          "size": 1028192,
+          "sha256": "3b14333e97651543164718d2222e20cbdaf446d80a4d06c1e72dfec5f03cd195"
+        },
+        "generator": {
+          "path": "assets/bakery/bakery-fixed-blunt-studded-roller-and-offset-fork-grip-01/v1.0.0/generate.py",
+          "size": 16685,
+          "sha256": "d46d8d46dfac61a192ba83b815f3b30fe85d1d5769b91d8d795f2da884c7dde3"
+        },
+        "render": {
+          "path": "assets/bakery/bakery-fixed-blunt-studded-roller-and-offset-fork-grip-01/v1.0.0/thumbnail.png",
+          "size": 527368,
+          "sha256": "ef1bd90ee0108289442cea4fc17e7dcd819b311cc6f9a0dee9ffc781b112b201"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1753-volume02-20261025"
+    },
+    {
+      "id": "bakery-fixed-open-scalloped-wall-and-rolled-rim-ring-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "bakery",
+      "style": "S01-clean-geometric",
+      "title": "Fixed Open Scalloped Wall and Rolled Rim Ring",
+      "description": "One newly authored complete empty scalloped pastry-ring exterior. One continuous finite metal-looking wall follows a twelve-lobed wavy plan around a genuinely open centre from its lower edge to its upper mouth. A complete outward rounded rolled-rim profile returns into the inner wall around the same entire scalloped outline. The lower edge is blunt and has a real annular thickness, not a sharp zero-width cutting surface. Both ends are fully open with no floor, die, insert, handle or top disk. One closed editable shell, one constant opaque satin PBR material, metres Z up and bounds-centred lower-rim ground datum. All numerical geometry newly authored, not a mooncake mould with its floor removed, not a scaled thimble, cup or extracted rolled collar. Unlike the old thick square wooden blind-cavity mould with raised floral die and long handle, this is a standalone thin through-open ring with a full rolled lip. One original whole model zero scenes. Static bakery art only: no dough, biscuit, cutting or stamping operation, food-contact suitability, hygiene, finger fit, edge sharpness, strength, manufacturing or safety capability. Rigging animation and interaction not made.",
+      "bounds": {
+        "x": 0.09080000221729279,
+        "y": 0.09080000221729279,
+        "z": 0.02500000037252903,
+        "unit": "m"
+      },
+      "triangles": 1728,
+      "materials": 1,
+      "files": {
+        "glb": {
+          "path": "assets/bakery/bakery-fixed-open-scalloped-wall-and-rolled-rim-ring-01/v1.0.0/model.glb",
+          "size": 146420,
+          "sha256": "ffe68e64be1bf34a4bae4a6e4317a2274c95103b55637b955fa6006354602340"
+        },
+        "blend": {
+          "path": "assets/bakery/bakery-fixed-open-scalloped-wall-and-rolled-rim-ring-01/v1.0.0/source.blend",
+          "size": 684608,
+          "sha256": "47c16116b1c1990cea6827cb1c0fe3e05eb37041d6f0acf5b6bc44edd40857d6"
+        },
+        "generator": {
+          "path": "assets/bakery/bakery-fixed-open-scalloped-wall-and-rolled-rim-ring-01/v1.0.0/generate.py",
+          "size": 15532,
+          "sha256": "f1bbd0301f012132085f41ee2861878bc4d2962c8866ee4d5886b4a3eedee110"
+        },
+        "render": {
+          "path": "assets/bakery/bakery-fixed-open-scalloped-wall-and-rolled-rim-ring-01/v1.0.0/thumbnail.png",
+          "size": 528305,
+          "sha256": "71466ff668d0beabf74e298e346e3a9c6fcdd2b68893a62e9c914f0ffaec81bf"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1753-volume02-20261025"
     }
   ]
 }
