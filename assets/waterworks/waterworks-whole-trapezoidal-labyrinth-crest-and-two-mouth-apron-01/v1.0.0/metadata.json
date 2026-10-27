@@ -1,0 +1,42 @@
+{
+  "id": "waterworks-whole-trapezoidal-labyrinth-crest-and-two-mouth-apron-01",
+  "version": "1.0.0",
+  "category": "architecture",
+  "assetKind": "modular",
+  "theme": "waterworks",
+  "style": "S01-clean-geometric",
+  "title": "Whole Trapezoidal Labyrinth Crest and Two Mouth Apron",
+  "description": "One wholly newly authored complete static dry labyrinth-weir-inspired architectural module. A single continuous full flat apron joins two whole tall straight side banks while both opposite channel mouths remain open. One separate complete finite-thickness crest wall traverses the entire width in an uninterrupted alternating trapezoidal plan, with broad short crest returns joined by oblique full-height walls. The complete labyrinth wall is one closed material solid, rooted along every segment into the apron and embedded at both ends into the bank interiors. Four alternating deep open approach bays are geometrically present on opposite sides of that continuous level crest, not independent box compartments or disconnected baffles. The whole floor stays at one elevation and there is no low passage through the crest wall. Unlike the old rounded-overflow module there is no high retained mass, curved descending apron or downstream end sill; unlike the hairpin stepped-pool channel there are no descending terraces, long centre divider, rear U-turn or full-height bypass slots. This whole transverse plan-folded barrier and two-ended flat channel organization is new, not a count, material or scale variant. All outlines, wall thickness and bank/apron geometry authored anew; no old channel, canopy, retaining wall or basin mesh imported or extracted. Two complete closed editable meshes, three opaque constant matte PBR roles, metres Z up, entire horizontal envelope centred on the finite full apron ground sole, one architectural module zero scenes. Empty stylized civil-geometry art only, not a tested hydraulic profile or construction detail. No water, flow, overflow threshold, discharge, flood mitigation, energy dissipation, water retention, erosion, structural load, seal, manufactured fit, installation, navigation, pedestrian access or civil/safety performance made or verified. No rigging, animation or interaction.",
+  "bounds": {
+    "x": 6.44,
+    "y": 4.3,
+    "z": 1.68,
+    "unit": "m"
+  },
+  "triangles": 120,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/waterworks/waterworks-whole-trapezoidal-labyrinth-crest-and-two-mouth-apron-01/v1.0.0/model.glb",
+      "size": 8600,
+      "sha256": "71f3f0c6f85fde003a511fc9bab346edc4836024e9950133f7cfdde052199465"
+    },
+    "blend": {
+      "path": "assets/waterworks/waterworks-whole-trapezoidal-labyrinth-crest-and-two-mouth-apron-01/v1.0.0/source.blend",
+      "size": 532708,
+      "sha256": "16d8203a229d256842c58c2513a288c3470fe5b3c6d0334bd5cc69901ea7e6c8"
+    },
+    "generator": {
+      "path": "assets/waterworks/waterworks-whole-trapezoidal-labyrinth-crest-and-two-mouth-apron-01/v1.0.0/generate.py",
+      "size": 12310,
+      "sha256": "326fda1fb253f8e9aeb3fac7f3a66810fc4bb91324b77edfdc875439e7b96d9f"
+    },
+    "render": {
+      "path": "assets/waterworks/waterworks-whole-trapezoidal-labyrinth-crest-and-two-mouth-apron-01/v1.0.0/thumbnail.png",
+      "size": 439439,
+      "sha256": "558d435c21d57a2b086f750ec289c751343d4ad22d789275166c9ff9ecdd1305"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

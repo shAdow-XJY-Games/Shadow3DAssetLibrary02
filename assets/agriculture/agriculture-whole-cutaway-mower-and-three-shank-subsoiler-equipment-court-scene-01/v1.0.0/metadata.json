@@ -1,0 +1,42 @@
+{
+  "id": "agriculture-whole-cutaway-mower-and-three-shank-subsoiler-equipment-court-scene-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "agriculture",
+  "style": "warm-handcrafted-village",
+  "title": "Whole Cutaway Mower and Three Shank Subsoiler Equipment Court",
+  "description": "One new whole empty farm-implement equipment court scene. The complete accepted cutaway-hood Y-flail mower stands unchanged on a shallow left staging pad, retaining its exposed whole rotor, two broad skids, rear roller and entire attachment-style frame. The complete accepted three-deep-shank winged-point subsoiler stands unchanged at lower floor level on the right, retaining all three deep shanks and broad points, both gauge wheels and whole raised open-eye attachment frame. A broad chamfered shared court floor, generous empty front approach and two low rear/left boundary curbs organize the separated implements; nothing joins them into a working attachment or process train. Both complete originals are embedded hash-pinned at unchanged scale, topology and PBR values; only rigid placement is applied, with the whole mower rotated half a turn to expose its original rear cutaway to the common view. Zero new standalone models, one new scene. Not the existing tractor/crimper bay, hay-rake/baler yard or thresher/winnower workbay: this contrasts a low exposed horizontal flail mechanism with three tall separated shanks in an empty equipment staging court. No tractor, crop, soil, trench, loose tools, person or operating task. No cutting, subsoiling, drive, hitch compatibility, continuous motion, ergonomic approach, safe clearance, support-pad capacity, engineering or safety validation. Rigging, animation, physics and runtime interaction not made.",
+  "bounds": {
+    "x": 6.650000095,
+    "y": 3.150000095,
+    "z": 1.84800005,
+    "unit": "m"
+  },
+  "triangles": 3808,
+  "materials": 11,
+  "files": {
+    "glb": {
+      "path": "assets/agriculture/agriculture-whole-cutaway-mower-and-three-shank-subsoiler-equipment-court-scene-01/v1.0.0/model.glb",
+      "size": 218956,
+      "sha256": "1cc709428514e524aa759fb243a7f6a664a6a1e9fe15ca85666dbc507b0625c0"
+    },
+    "blend": {
+      "path": "assets/agriculture/agriculture-whole-cutaway-mower-and-three-shank-subsoiler-equipment-court-scene-01/v1.0.0/source.blend",
+      "size": 1197520,
+      "sha256": "718a066ac0259a9b54323fd385d0985c9b1672a03456e37f8dc536b16a9b32f2"
+    },
+    "generator": {
+      "path": "assets/agriculture/agriculture-whole-cutaway-mower-and-three-shank-subsoiler-equipment-court-scene-01/v1.0.0/generate.py",
+      "size": 62396,
+      "sha256": "f2394fc1d53133ecdb00b95bd5e94248ec1ab39d8e9c95dd0ade131f82d1c658"
+    },
+    "render": {
+      "path": "assets/agriculture/agriculture-whole-cutaway-mower-and-three-shank-subsoiler-equipment-court-scene-01/v1.0.0/thumbnail.png",
+      "size": 514701,
+      "sha256": "4bd83c43a0d182f401b6b83d1fd84acd366f02fac01b3fc9e95f3700bb8550cb"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

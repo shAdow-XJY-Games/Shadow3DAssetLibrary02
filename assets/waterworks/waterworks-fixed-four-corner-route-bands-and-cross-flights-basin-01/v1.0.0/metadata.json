@@ -1,0 +1,42 @@
+{
+  "id": "waterworks-fixed-four-corner-route-bands-and-cross-flights-basin-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "waterworks",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Four Corner Route Bands and Cross Flights Basin",
+  "description": "One wholly newly authored complete dry rectangular chain-and-flight-basin-inspired apparatus. A single continuous thick shell joins a full flat floor and four complete tall sidewalls around a genuinely open top. Two complete closed rounded-rectangular route bands run through four distinct upper/lower corner stations, with eight whole wheels on four full transverse axles. The lower axles root into the full basin sidewalls; four complete upper pedestals lift the upper return above the rim. Six entire broad transverse flights span both route bands in two separated horizontal rows, while a single closed outboard drive-case exterior belongs to one upper pedestal. No articulated chain links are modeled: the paired dark bands are continuous fixed route illustrations. Unlike the older circular basin with diameter bridge, central feedwell, vertical shaft and radial rake, the whole path is rectangular with distributed sidewall axle supports and full transverse flights. Unlike the forewell dredger with a two-drum oblique capsule route and empty scoops on an inclined ladder, this has four corner levels around a horizontal dry basin, no buckets, inclined ladder, hull, cabin or vessel. All numeric shell, routes, wheels, supports and whole flights authored anew together; no old basin, scoop, conveyor, bucket-lift or machine mesh imported or extracted. Four opaque constant untextured PBR materials, metres Z up, complete horizontal envelope centred over the finite basin ground sole, one whole model zero scenes. Empty static illustrative exterior only; bottom flights remain above the floor, and fixed wheel/band overlaps are not meshing or fit specifications. No water, sediment, wastewater, biology, material transport, scraping, treatment, continuous motion, chain articulation, sprocket engagement, drive mechanism, torque, throughput, hydraulic circuit, load, access, fabrication, maintenance, structural or machinery safety capability made or verified. No animation, rigging or interaction.",
+  "bounds": {
+    "x": 6.0,
+    "y": 3.55,
+    "z": 2.235,
+    "unit": "m"
+  },
+  "triangles": 1760,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/waterworks/waterworks-fixed-four-corner-route-bands-and-cross-flights-basin-01/v1.0.0/model.glb",
+      "size": 84020,
+      "sha256": "1a8dd07b76c20e3058302a002ebf4e9716c404d388a5b78637997048171efbdf"
+    },
+    "blend": {
+      "path": "assets/waterworks/waterworks-fixed-four-corner-route-bands-and-cross-flights-basin-01/v1.0.0/source.blend",
+      "size": 755676,
+      "sha256": "059c688fc1529d12503c4ce60d15a5461beee8d50f431e759e40ba5ed8859310"
+    },
+    "generator": {
+      "path": "assets/waterworks/waterworks-fixed-four-corner-route-bands-and-cross-flights-basin-01/v1.0.0/generate.py",
+      "size": 13361,
+      "sha256": "c7786532722f317f309cefd24b311fb55a08249e05ee238cf05602957ef02237"
+    },
+    "render": {
+      "path": "assets/waterworks/waterworks-fixed-four-corner-route-bands-and-cross-flights-basin-01/v1.0.0/thumbnail.png",
+      "size": 480465,
+      "sha256": "fae9b1d403f3524202d4f0d41916894e1f1b2ebae3d2e5d75ed0b6591e90fe2e"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
