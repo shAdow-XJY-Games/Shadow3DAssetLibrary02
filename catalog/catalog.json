@@ -2079,6 +2079,11 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary02",
       "commit": "4e640cd49beb10509a391b3ffe7dd2a1c96cc551"
+    },
+    "original-qualified-batch-1627-volume02-20261025": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary02",
+      "commit": "c36746b8ba843253730bd53a9bbb530372035684"
     }
   },
   "assets": [
@@ -71913,6 +71918,135 @@
       "status": "verified",
       "license": "All rights reserved",
       "sourceId": "original-qualified-batch-1624-volume02-20261025"
+    },
+    {
+      "id": "agriculture-fixed-twin-belt-table-and-offset-film-mast-wrapper-01",
+      "version": "1.0.0",
+      "category": "modular",
+      "assetKind": "prop",
+      "theme": "agriculture",
+      "style": "warm-handcrafted-village",
+      "title": "Fixed Twin Belt Table and Offset Film Mast Wrapper",
+      "description": "One newly authored whole empty towable bale-wrapper-style apparatus in a fixed parked display. A complete twin-wheel open chassis, converging draw beams, empty tow eye and front parking sole carry a raised central turntable-style hub and full rectangular support frame. Two whole closed broad belt loops extend around two complete end drums and form the empty table cradle. Paired side bobbin rollers rise from two full support arms. A separate offset corner mast carries a complete upper and lower dispenser bracket, one opaque film-roll-shaped body with central through hole, spindle and two slender guide rollers. The rear chassis has a closed plain control housing. No bale, loose film sheet, tractor or loading device included; this generic externally loaded display has no self-loading arm. Not the old floor-mounted round pallet wrapper or chamber/pickup baler; all mesh coordinates newly authored. One model zero scenes, opaque PBR only. No rotation, wrapping, belt drive, film feed, film tension, tipping, clamping, hydraulic mechanism, lift, coupling compatibility, load, machine operation, engineering, manufacture or safety capability made or verified. Rigging, animation and interaction not made.",
+      "bounds": {
+        "x": 2.355000019,
+        "y": 3.174999952,
+        "z": 2.099999905,
+        "unit": "m"
+      },
+      "triangles": 2724,
+      "materials": 4,
+      "files": {
+        "glb": {
+          "path": "assets/agriculture/agriculture-fixed-twin-belt-table-and-offset-film-mast-wrapper-01/v1.0.0/model.glb",
+          "size": 143624,
+          "sha256": "3671eca3bc8239dd775dfa5e05086a9482eed135570d77a78a6145ae48ab3724"
+        },
+        "blend": {
+          "path": "assets/agriculture/agriculture-fixed-twin-belt-table-and-offset-film-mast-wrapper-01/v1.0.0/source.blend",
+          "size": 820264,
+          "sha256": "52fc302501fc463b36a6972761e11277565248dc07bf2bbdbd4975ffa46f6a71"
+        },
+        "generator": {
+          "path": "assets/agriculture/agriculture-fixed-twin-belt-table-and-offset-film-mast-wrapper-01/v1.0.0/generate.py",
+          "size": 35249,
+          "sha256": "a6ddff7a9316696c1371ebb5ec8aa9e95e852f1b0c5135c66a33b440073db752"
+        },
+        "render": {
+          "path": "assets/agriculture/agriculture-fixed-twin-belt-table-and-offset-film-mast-wrapper-01/v1.0.0/thumbnail.png",
+          "size": 567191,
+          "sha256": "41ac28b8b767dd69070a54b77bf36c0e31bbac9676b17d582bd17dbeb3ec7827"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1627-volume02-20261025"
+    },
+    {
+      "id": "kitchen-fixed-upright-plunger-and-open-cup-fruit-pitter-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "kitchen",
+      "style": "S01-clean-geometric",
+      "title": "Fixed Upright Plunger and Open Cup Fruit Pitter",
+      "description": "One newly authored complete empty static tabletop fruit-pitter appearance. A short grounded rounded base carries a whole rear C-shaped upright ending in a real bored top guide. One full raised vertical round-ended plunger is aligned over a small thick open funnel-like fruit seat with a single genuine through throat, not a printed hole. A complete palm knob and visible finite helical return-spring appearance crown the shaft. The fruit seat projects on its own rear support arm over an empty shallow removable-looking catch dish seated on the base. The free interval below the raised plunger, central cup throat and open space down into the dish remain real. Newly authored geometry throughout; not a resized long-handled perforated garlic press, a horizontal lattice divider or a radial multi-jaw hand punch. Three constant opaque untextured PBR roles, metres Z up and horizontally centred ground origin. One model zero scenes. Fixed empty artistic display only: no actual fruit, kernels, pitting, pressing travel, spring response, edible preparation, hand clearance, ergonomic fit, stability, food-contact suitability, manufacture or safety capability. No rigging animation or interaction.",
+      "bounds": {
+        "x": 0.1899999976158142,
+        "y": 0.26499998569488525,
+        "z": 0.4050000011920929,
+        "unit": "m"
+      },
+      "triangles": 2348,
+      "materials": 3,
+      "files": {
+        "glb": {
+          "path": "assets/kitchen/kitchen-fixed-upright-plunger-and-open-cup-fruit-pitter-01/v1.0.0/model.glb",
+          "size": 204232,
+          "sha256": "35ae9782ca38d1caa8206931d4f6c86ce9b2719199ffc10e6c2db2bd20f5127d"
+        },
+        "blend": {
+          "path": "assets/kitchen/kitchen-fixed-upright-plunger-and-open-cup-fruit-pitter-01/v1.0.0/source.blend",
+          "size": 838016,
+          "sha256": "9c4c9271bae54b3f180480baf3a1524a086daac9686aaba3e74ce8cd13830f1e"
+        },
+        "generator": {
+          "path": "assets/kitchen/kitchen-fixed-upright-plunger-and-open-cup-fruit-pitter-01/v1.0.0/generate.py",
+          "size": 17667,
+          "sha256": "2c92316ed7004eb35e6ac602a9fd0cad5bbf56bc6ceac211ac04474eeb071ae2"
+        },
+        "render": {
+          "path": "assets/kitchen/kitchen-fixed-upright-plunger-and-open-cup-fruit-pitter-01/v1.0.0/thumbnail.png",
+          "size": 504951,
+          "sha256": "4eb40f89e2fbbc3c9f2436d8bc3cb091b583d9fac3d900bf0e511cda11dacb66"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1627-volume02-20261025"
+    },
+    {
+      "id": "fitness-fixed-half-dome-and-twin-port-balance-platform-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "fitness",
+      "style": "source-preserved-low-poly",
+      "title": "Half Dome And Twin Port Balance Platform",
+      "description": "One newly authored complete static half-dome balance-platform appearance: a broad low faceted elastomer dome rises from a rigid oval platform with two genuine elongated side carry apertures, a continuous shallow retaining collar and one small attached valve cap. The base is one connected closed shell through both port walls, with a full finite underside. Original profiles and whole numeric geometry; no trampoline, wheel or old sports component extracted. One whole model and zero scenes, four opaque constant PBR roles, metres and Z up. Empty static illustrative appearance only: no exercise demonstration, medical or balance benefit, inflation, pressure, elasticity, grip, user fit, instability simulation, loading, manufacture or safety claim.",
+      "bounds": {
+        "x": 0.8199999928474426,
+        "y": 0.6639999747276306,
+        "z": 0.27300000190734863,
+        "unit": "m"
+      },
+      "triangles": 2672,
+      "materials": 4,
+      "files": {
+        "glb": {
+          "path": "assets/sports/fitness-fixed-half-dome-and-twin-port-balance-platform-01/v1.0.0/model.glb",
+          "size": 228264,
+          "sha256": "0f2fd5333f2ef6aec633bb165a0a747a70c51131d5043297a3a24bcdc5cb11a2"
+        },
+        "blend": {
+          "path": "assets/sports/fitness-fixed-half-dome-and-twin-port-balance-platform-01/v1.0.0/source.blend",
+          "size": 858748,
+          "sha256": "51c31954f183195e3b3a6059f1e6769b8ea45eea6dede937d2b5b009cf9e8ae2"
+        },
+        "generator": {
+          "path": "assets/sports/fitness-fixed-half-dome-and-twin-port-balance-platform-01/v1.0.0/generate.py",
+          "size": 19912,
+          "sha256": "e90ce4ff162c3659c3a10bc560cedfadc7aa0b8a91a62c96b9a37184ecd80f7f"
+        },
+        "render": {
+          "path": "assets/sports/fitness-fixed-half-dome-and-twin-port-balance-platform-01/v1.0.0/thumbnail.png",
+          "size": 458701,
+          "sha256": "e0f6e30dc4a5257f1cb51f35d45f74abff68e65169c3400354dc987b217af892"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1627-volume02-20261025"
     }
   ]
 }
