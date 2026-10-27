@@ -2089,6 +2089,11 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary02",
       "commit": "9a950c139de26c98765d5f6e6f42732bd98d8b03"
+    },
+    "original-qualified-batch-1632-volume02-20261025": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary02",
+      "commit": "d88a9df877e59a2c7d8aa7de47df955b5cce5956"
     }
   },
   "assets": [
@@ -72181,6 +72186,92 @@
       "status": "verified",
       "license": "All rights reserved",
       "sourceId": "original-qualified-batch-1630-volume02-20261025"
+    },
+    {
+      "id": "culture-whole-paper-mould-and-copper-stamp-demonstration-table-scene-01",
+      "version": "1.0.0",
+      "category": "scenes",
+      "assetKind": "scene",
+      "theme": "culture",
+      "style": "source-preserved-low-poly",
+      "title": "Whole Paper Mould and Copper Stamp Demonstration Table",
+      "description": "One static craft-tool demonstration-table scene, zero new independent models. Three entire qualified original assets retain every mesh buffer, normal, full PBR material and internal node hierarchy at unchanged unit metre scale: the complete picnic table with both slatted benches and all eight grounded legs; the whole paper mould with its matching removed deckle; and the complete face-up copper scroll-strip stamp including its rear grid and iron grip. The whole paired paper tool occupies the left tabletop with a separate clear gap to the copper stamp on the right. The stamp rests by its original finite grip crown on the middle flat tabletop plank; finite mould/deckle bottom patches overlap real tabletop plank faces. The scene-only low slab supports the complete table feet. No bench, plank, wire, rim, scroll strip, grip or tool support is extracted, enlarged or recoloured. This is a new whole-equipment display contrasting two distinct craft tools, not a claim that paper forming and textile wax stamping are the same operation. No pulp, wax, heat, cloth, finished print, people, actual demonstration, workflow access, educational result, load, stability, manufacture or safety capability. No rig, animation or interaction.",
+      "bounds": {
+        "x": 2.200000047683716,
+        "y": 2.0,
+        "z": 0.9649999737739563,
+        "unit": "m"
+      },
+      "triangles": 5036,
+      "materials": 11,
+      "files": {
+        "glb": {
+          "path": "assets/culture/culture-whole-paper-mould-and-copper-stamp-demonstration-table-scene-01/v1.0.0/model.glb",
+          "size": 475888,
+          "sha256": "76f5adca0167144b1ec4047a4b2c571f6ff7d22bf9107b150432ba1e55c29455"
+        },
+        "blend": {
+          "path": "assets/culture/culture-whole-paper-mould-and-copper-stamp-demonstration-table-scene-01/v1.0.0/source.blend",
+          "size": 1674812,
+          "sha256": "61eb4fda7004b590898d66f32c1dd7d719abf006d835c1a0adfd4a69dd03bb90"
+        },
+        "generator": {
+          "path": "assets/culture/culture-whole-paper-mould-and-copper-stamp-demonstration-table-scene-01/v1.0.0/generate.py",
+          "size": 121459,
+          "sha256": "008c5e2f31c3b25cfbd76b7f5420da95f7d876b882eb512b58d40f52ac389db1"
+        },
+        "render": {
+          "path": "assets/culture/culture-whole-paper-mould-and-copper-stamp-demonstration-table-scene-01/v1.0.0/thumbnail.png",
+          "size": 543799,
+          "sha256": "c4e307c7a122cb888dd8de5a18ebf53cdb1812974f400f263f842e5f8e0fd7f8"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1632-volume02-20261025"
+    },
+    {
+      "id": "office-whole-fanfold-print-and-open-roll-finishing-bench-scene-01",
+      "version": "1.0.0",
+      "category": "scenes",
+      "assetKind": "scene",
+      "theme": "office",
+      "style": "source-preserved-low-poly",
+      "title": "Whole Fanfold Print and Open Roll Finishing Bench",
+      "description": "One static office print-and-finish preparation bench scene, one new scene zero new independent models. The complete qualified wide-platen fanfold printer stands on the left of a broad finite four-legged workbench; its entire original perforated blank paper path and rear folded stack remain intact. The complete qualified open-top through-roller laminator stands on the right, slightly forward, showing its whole raised roof and both roller pairs. Both appliances face the open front and remain separated laterally with no linked feed or exchanged paper. The bench and finite floor are simple scene-only support geometry, not separately counted assets. Both original entire GLB buffers, POSITION/NORMAL arrays, PBR dictionaries, meshes and internal hierarchy are retained under whole unit-scale translations only. Neither reused model is extracted, scaled, recoloured or counted as new. Unlike the previous opposed folder/cutter tables and independent shredder in an aisle, this is a single shared wide bench carrying fanfold-print and open-roll stations side by side. The original printer paper is static blank illustrative geometry, not live output or stock. No printing, lamination, heating, feed continuity, powered operation, paper transfer, load rating, ergonomic access, electrical or workplace safety claim. Rigging animation interaction not made.",
+      "bounds": {
+        "x": 3.200000047683716,
+        "y": 2.0,
+        "z": 1.2379517555236816,
+        "unit": "m"
+      },
+      "triangles": 3832,
+      "materials": 11,
+      "files": {
+        "glb": {
+          "path": "assets/office/office-whole-fanfold-print-and-open-roll-finishing-bench-scene-01/v1.0.0/model.glb",
+          "size": 359704,
+          "sha256": "5f37a003cd6a138894f65cca17987cc274ec683f334f9cde7b7553edf807f6ed"
+        },
+        "blend": {
+          "path": "assets/office/office-whole-fanfold-print-and-open-roll-finishing-bench-scene-01/v1.0.0/source.blend",
+          "size": 1383344,
+          "sha256": "cbdb9ce62bb610b6da589aa42a98a7d21f1252116675729bed1d1e3de73bfdc4"
+        },
+        "generator": {
+          "path": "assets/office/office-whole-fanfold-print-and-open-roll-finishing-bench-scene-01/v1.0.0/generate.py",
+          "size": 88878,
+          "sha256": "60e0a3bee311b39e5227e81adc4b4f3b5bf7e5d58d64b83bde9125d11e86aa14"
+        },
+        "render": {
+          "path": "assets/office/office-whole-fanfold-print-and-open-roll-finishing-bench-scene-01/v1.0.0/thumbnail.png",
+          "size": 480909,
+          "sha256": "3f5cf91e08cb3d6dc275ca67fb0211a093da4b0585110355a1d3fed572ef2ece"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1632-volume02-20261025"
     }
   ]
 }
