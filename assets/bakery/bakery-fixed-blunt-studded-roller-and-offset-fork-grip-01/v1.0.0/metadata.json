@@ -1,0 +1,42 @@
+{
+  "id": "bakery-fixed-blunt-studded-roller-and-offset-fork-grip-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "bakery",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Blunt Studded Roller and Offset Fork Grip",
+  "description": "One newly authored complete fixed pastry-docker-style hand-tool exterior. A full broad cylindrical roller has six rows of twelve complete short blunt radial studs, each seated into the roller body with a finite capped outer tip. A whole transverse axle spans both ends inside one continuous U-shaped supporting fork. A separate whole down-bent neck joins the fork crossbar into a long contoured handle, whose lower facet and the downward stud tips share the ground datum. Roller, all studs, fork, axle, neck and grip form one whole original model, not seventy-two stud assets. All numerical geometry newly authored; no paint sleeve, engraving roulette, rolling pin or imported tooth reused. The long studded barrel and two-sided fork differ from the tiny integral diamond-grooved roulette on a single bent neck and the smooth paint sleeve on an offset one-sided shank. Three constant opaque PBR roles, metres Z up and horizontal bounds-centred ground origin. Empty static bakery art only: blunt finite stud tips, no food, perforating/docking performance, rotation, bearing clearance, applied force, hygiene, food-contact suitability, hand fit, load, manufacture or safety capability. Rigging animation and interaction not made.",
+  "bounds": {
+    "x": 0.16599999368190765,
+    "y": 0.32499998807907104,
+    "z": 0.07999999821186066,
+    "unit": "m"
+  },
+  "triangles": 4172,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/bakery/bakery-fixed-blunt-studded-roller-and-offset-fork-grip-01/v1.0.0/model.glb",
+      "size": 355492,
+      "sha256": "fda6f2af85b2ea10e2e33e5ea08dc8a8d9001c62af9d82f80958d9582b6995f8"
+    },
+    "blend": {
+      "path": "assets/bakery/bakery-fixed-blunt-studded-roller-and-offset-fork-grip-01/v1.0.0/source.blend",
+      "size": 1028192,
+      "sha256": "3b14333e97651543164718d2222e20cbdaf446d80a4d06c1e72dfec5f03cd195"
+    },
+    "generator": {
+      "path": "assets/bakery/bakery-fixed-blunt-studded-roller-and-offset-fork-grip-01/v1.0.0/generate.py",
+      "size": 16685,
+      "sha256": "d46d8d46dfac61a192ba83b815f3b30fe85d1d5769b91d8d795f2da884c7dde3"
+    },
+    "render": {
+      "path": "assets/bakery/bakery-fixed-blunt-studded-roller-and-offset-fork-grip-01/v1.0.0/thumbnail.png",
+      "size": 527368,
+      "sha256": "ef1bd90ee0108289442cea4fc17e7dcd819b311cc6f9a0dee9ffc781b112b201"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
