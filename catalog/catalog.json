@@ -2059,6 +2059,11 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary02",
       "commit": "c0a7809157333cdfbe1e723fb15d828c87a91c2d"
+    },
+    "original-qualified-batch-1614-volume02-20261025": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary02",
+      "commit": "d237a00e0c5a3935655e677c9657ff8be783cd87"
     }
   },
   "assets": [
@@ -71205,6 +71210,264 @@
       "status": "verified",
       "license": "All rights reserved",
       "sourceId": "original-qualified-batch-1608-volume02-20261025"
+    },
+    {
+      "id": "architecture-fixed-two-tier-branching-column-and-eight-bearing-seats-01",
+      "version": "1.0.0",
+      "category": "architecture",
+      "assetKind": "modular",
+      "theme": "architecture",
+      "style": "S01-clean-geometric",
+      "title": "Fixed Two Tier Branching Column and Eight Bearing Seats",
+      "description": "One complete newly authored static branching architectural column. A whole square ground plinth and full base collar carry a tapered central trunk. Four complete rising primary branches spread diagonally from a broad trunk-head collar to four separated secondary fork nodes; every node divides into two entire upper branches ending in eight independent full horizontal rectangular bearing-seat plates at one level. This is one complete column from sole to finished upper seats, with no roof or building included. Unlike the fluted stone column there is no continuous fluted shaft, echinus or single abacus; unlike the inverted-roof canopy Y supports this has a two-tier spatial branching hierarchy with four fork nodes and eight distributed terminal seats, no roof wings or valley. All branches, junction appearances and ground/terminal parts newly authored together; no old column, Y post, tree or roof mesh imported. Four opaque constant untextured PBR roles, metre-style Z up and centred full horizontal bounds over the whole plinth sole, one architectural model zero scenes. Static artistic branching-support appearance only; collar intersections are illustrative rather than engineered joints. No roof host compatibility, welding or bolting design, load distribution, stress, stability, bearing capacity, installation, manufacture, building-code or safety capability made or verified. No rigging, animation, interaction or functional growth.",
+      "bounds": {
+        "x": 3.670368072873202,
+        "y": 3.6703680728732024,
+        "z": 3.81,
+        "unit": "m"
+      },
+      "triangles": 1228,
+      "materials": 4,
+      "files": {
+        "glb": {
+          "path": "assets/architecture/architecture-fixed-two-tier-branching-column-and-eight-bearing-seats-01/v1.0.0/model.glb",
+          "size": 77376,
+          "sha256": "1d288b51d51ff79f2ad5b791b9efc939c3c3ffe181c376c8f434ea09cfd79f12"
+        },
+        "blend": {
+          "path": "assets/architecture/architecture-fixed-two-tier-branching-column-and-eight-bearing-seats-01/v1.0.0/source.blend",
+          "size": 736276,
+          "sha256": "e7460d808e51473e78dce6c460f179fca58b64c555ab9b9a98b159e3e9059bbe"
+        },
+        "generator": {
+          "path": "assets/architecture/architecture-fixed-two-tier-branching-column-and-eight-bearing-seats-01/v1.0.0/generate.py",
+          "size": 11962,
+          "sha256": "a691607aabaad8ed4c10883e8b20444812e3ee693c8e54523aaa48b074b59d97"
+        },
+        "render": {
+          "path": "assets/architecture/architecture-fixed-two-tier-branching-column-and-eight-bearing-seats-01/v1.0.0/thumbnail.png",
+          "size": 392560,
+          "sha256": "802c72d37c1e08ff886112b04393ceee1c01cde203c21438cf03f2dd0d5fb0b4"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1614-volume02-20261025"
+    },
+    {
+      "id": "sports-fixed-cambered-rear-wheels-and-long-fork-racing-chair-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "sports",
+      "style": "source-preserved-low-poly",
+      "title": "Cambered Rear Wheels And Long Fork Racing Chair",
+      "description": "One newly authored complete fixed racing-chair appearance with two large outward-bottom cambered rear disc wheels, smaller separated push rings on fixed mounts, narrow open bucket, forward knee support and a long low central boom leading to a single small front wheel in a full fixed fork. New frame, bucket, wheel profiles and fork coordinates; no existing manual wheelchair or hand-crank tricycle geometry is imported, resized or dismantled. This silhouette has no paired front casters, arm pads, push handles, separated footplates, crankset or drive chain. One static empty sports prop, zero scenes, four opaque constant PBR roles. Illustrative fixed appearance only: no rider, disability fit, posture, medical/rehabilitation suitability, accessibility standard, rolling/steering/braking, speed, sporting regulation, load, stability, manufacture or safety capability.",
+      "bounds": {
+        "x": 1.084892988204956,
+        "y": 2.1700000762939453,
+        "z": 0.7849457859992981,
+        "unit": "m"
+      },
+      "triangles": 3092,
+      "materials": 4,
+      "files": {
+        "glb": {
+          "path": "assets/sports/sports-fixed-cambered-rear-wheels-and-long-fork-racing-chair-01/v1.0.0/model.glb",
+          "size": 288572,
+          "sha256": "d51590b79b5c8da6fc18191c699cb3c822fb3a1fde2ec14d676d630b03fab625"
+        },
+        "blend": {
+          "path": "assets/sports/sports-fixed-cambered-rear-wheels-and-long-fork-racing-chair-01/v1.0.0/source.blend",
+          "size": 1061020,
+          "sha256": "e2a34872d3bf489814ff71f82f0253763912c9260e6e74f41c9d563e4a0b78ef"
+        },
+        "generator": {
+          "path": "assets/sports/sports-fixed-cambered-rear-wheels-and-long-fork-racing-chair-01/v1.0.0/generate.py",
+          "size": 20541,
+          "sha256": "a90876445f8e075767912761e9e02b5fc04a3d3702cf1b61754e29de377ed808"
+        },
+        "render": {
+          "path": "assets/sports/sports-fixed-cambered-rear-wheels-and-long-fork-racing-chair-01/v1.0.0/thumbnail.png",
+          "size": 527485,
+          "sha256": "9f652f63f3bed67348a90cffdc919d0333d0daa05eb4060fec29dfd6f63e7e8c"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1614-volume02-20261025"
+    },
+    {
+      "id": "retail-fixed-open-soft-bag-and-two-wheel-shopping-trolley-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "retail",
+      "style": "S01-clean-geometric",
+      "title": "Fixed Open Soft Bag and Two Wheel Shopping Trolley",
+      "description": "One newly authored complete empty static personal shopping trolley. A tall softly faceted rounded rectangular bag has a finite thick wall, closed bottom, genuinely open mouth and one complete raised rear flap. Its full upright tubular frame rises above the flap to a rounded hand grip, carries the bag on a short support tray and attaches behind with two small rooted mounts. Two complete broad wheels flank a full transverse axle and an integral bent forward parking foot reaches the ground. The body has gently varying lower belly and upper sections, unlike a flat paper bag with two loop handles, a large four-wheel lattice retail cart or a bare parcel handtruck with a projecting loading toe. No old source geometry or imported mesh is reused. Three constant opaque PBR materials, metres Z up, horizontal bounds-centred ground origin. One original model, zero scenes. Fixed empty artistic exhibit: no textiles simulation, bag contents, brands, person, wheel rotation, folding motion, load capacity, ergonomic fit, stability, manufacture or safety capability; rigging, animation and interaction not made.",
+      "bounds": {
+        "x": 0.5299999713897705,
+        "y": 0.44992125034332275,
+        "z": 1.097000002861023,
+        "unit": "m"
+      },
+      "triangles": 2204,
+      "materials": 3,
+      "files": {
+        "glb": {
+          "path": "assets/retail/retail-fixed-open-soft-bag-and-two-wheel-shopping-trolley-01/v1.0.0/model.glb",
+          "size": 196616,
+          "sha256": "f242ec8ad89a84dfe69fd351c16d8c981ab5696fd04a1561cc63e46bd1ed7ad0"
+        },
+        "blend": {
+          "path": "assets/retail/retail-fixed-open-soft-bag-and-two-wheel-shopping-trolley-01/v1.0.0/source.blend",
+          "size": 850112,
+          "sha256": "f83ca6a53ba96cca64fe8001463bf730580f86737f93703c51c0ac1c2920af2f"
+        },
+        "generator": {
+          "path": "assets/retail/retail-fixed-open-soft-bag-and-two-wheel-shopping-trolley-01/v1.0.0/generate.py",
+          "size": 17680,
+          "sha256": "765dd065df3550a31df7a1a45c67228afef8480118ed2855b7d87d2ee38a2238"
+        },
+        "render": {
+          "path": "assets/retail/retail-fixed-open-soft-bag-and-two-wheel-shopping-trolley-01/v1.0.0/thumbnail.png",
+          "size": 495701,
+          "sha256": "1788b7afd5a2d502099d01a30cc56c693b086a9904d120b571e004d6114d912d"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1614-volume02-20261025"
+    },
+    {
+      "id": "architecture-fixed-diamond-lamella-barrel-and-open-end-ribs-01",
+      "version": "1.0.0",
+      "category": "architecture",
+      "assetKind": "modular",
+      "theme": "architecture",
+      "style": "S01-clean-geometric",
+      "title": "Fixed Diamond Lamella Barrel and Open End Ribs",
+      "description": "One complete newly authored static diamond-lamella barrel roof frame. Two entire longitudinal eave bearers on six full grounded columns support one cylindrically arched field of short straight rectangular-section members. Alternating nodes connect only along two diagonal families to form true open rhombic roof cells; two full finite-thickness curved end ribs finish the large empty arch mouths. The crown curves in one direction while the long axis remains straight. Unlike the triangulated hemisphere this is an open-ended cylindrical barrel over two straight support rows, not a closed radial dome over an annular foot. Unlike the two-layer pyramid grid this has only one curved diamond layer and no upper/lower offset chords or tetrahedral cells; unlike the single hangar portal its open frame extends through the full depth. Every member and whole end rib newly authored with no imported truss or roof mesh. Four opaque constant untextured PBR roles, metre-style Z up and centred full horizontal bounds at ground feet, one architectural model zero scenes. Static illustrative unclad lamella-style frame only; visible member meetings are not detailed lap joints or fabricated connectors. No roof weather cover, solved forces, buckling resistance, load bearing, fastening, installation, building-code, historic construction or structural safety capability made or verified. No animation, rigging or interaction.",
+      "bounds": {
+        "x": 5.6,
+        "y": 7.0,
+        "z": 4.800000000000001,
+        "unit": "m"
+      },
+      "triangles": 1456,
+      "materials": 4,
+      "files": {
+        "glb": {
+          "path": "assets/architecture/architecture-fixed-diamond-lamella-barrel-and-open-end-ribs-01/v1.0.0/model.glb",
+          "size": 117172,
+          "sha256": "dacbd3f9f594c4fbb03bbe61d25cb9afd516681377e2229b527f9e412536cfc1"
+        },
+        "blend": {
+          "path": "assets/architecture/architecture-fixed-diamond-lamella-barrel-and-open-end-ribs-01/v1.0.0/source.blend",
+          "size": 989660,
+          "sha256": "3985e7dbba6ddf6cd8b27289fcc95011e682886c5c9c1616f7c8cd64164156a8"
+        },
+        "generator": {
+          "path": "assets/architecture/architecture-fixed-diamond-lamella-barrel-and-open-end-ribs-01/v1.0.0/generate.py",
+          "size": 11861,
+          "sha256": "ac287fb0b8db196d320530fc40eb086335e4baa29cffac7e4f3336d55e135c10"
+        },
+        "render": {
+          "path": "assets/architecture/architecture-fixed-diamond-lamella-barrel-and-open-end-ribs-01/v1.0.0/thumbnail.png",
+          "size": 540815,
+          "sha256": "577a002d85f1d941de242f233ac421e4c6c1b9ba7bcdb8b2114289b69063d993"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1614-volume02-20261025"
+    },
+    {
+      "id": "music-fixed-open-neck-and-round-side-port-clay-vessel-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "music",
+      "style": "S01-clean-geometric",
+      "title": "Fixed Open Neck and Round Side Port Clay Vessel",
+      "description": "One newly authored complete static clay-vessel-drum-inspired appearance. A continuous finite-thickness terracotta chamber expands from its own flat basal footprint to a broad low belly and contracts through a long shoulder to a narrow open glazed neck. One true sixteen-sided round side port passes through the same wall into the same hollow interior; both apertures are actual geometry, not black discs. Interior and port walls are continuous with the outer ceramic skin through both rims. A dark low foot band and teal upper-neck glaze are material regions on that same closed connected shell, not floating ornaments. All numeric geometry is newly authored as a whole: no kettle spout, handle or lid, no six-fingerhole flute, and no beaded gourd net. One model zero scenes, four opaque PBR regions, metres and native Z up. Static stylized category inspiration only; no copied branded shape, labels, regional or historical reconstruction, actual acoustic response, playability, fabrication, leak-tightness, handling or safety capability. No rig, animation or interaction.",
+      "bounds": {
+        "x": 0.2839994430541992,
+        "y": 0.2831999957561493,
+        "z": 0.3799999952316284,
+        "unit": "m"
+      },
+      "triangles": 2720,
+      "materials": 4,
+      "files": {
+        "glb": {
+          "path": "assets/music/music-fixed-open-neck-and-round-side-port-clay-vessel-01/v1.0.0/model.glb",
+          "size": 232180,
+          "sha256": "6d99e7b9dea6bd6964378ddecf94e936aa0d52e8cd114dcb7f51840efeb64919"
+        },
+        "blend": {
+          "path": "assets/music/music-fixed-open-neck-and-round-side-port-clay-vessel-01/v1.0.0/source.blend",
+          "size": 865264,
+          "sha256": "54beed0f3cf2eba93f34867ce96e88ac922dd2a178d0f545c62f10ffbcba3e85"
+        },
+        "generator": {
+          "path": "assets/music/music-fixed-open-neck-and-round-side-port-clay-vessel-01/v1.0.0/generate.py",
+          "size": 12384,
+          "sha256": "2e5fc08c0a200a75c1edf4f60f6b3ff7fdd86cc3815cf1a412d5de92af0e8d87"
+        },
+        "render": {
+          "path": "assets/music/music-fixed-open-neck-and-round-side-port-clay-vessel-01/v1.0.0/thumbnail.png",
+          "size": 496676,
+          "sha256": "e85d2e709428122d6e68649e2feb74f7d23df925ea9cfe999ed72efc9d383c15"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1614-volume02-20261025"
+    },
+    {
+      "id": "retail-whole-angled-helix-vending-and-open-freezer-bay-scene-01",
+      "version": "1.0.0",
+      "category": "scenes",
+      "assetKind": "scene",
+      "theme": "retail",
+      "style": "source-preserved-low-poly",
+      "title": "Whole Angled Helix Vending and Open Freezer Bay",
+      "description": "One empty static retail self-service equipment bay: one new scene and zero new independent models. A complete qualified two-level open-front helical-carrier vending cabinet stands toward the left rear with its retrieval well facing the open foreground. A complete qualified open-lid chest freezer stands along the right side turned at a right angle, with its original front facing left toward the central standing area and its raised whole lid outside that area. A clear metre-wide lateral separation and an open front approach distinguish this compact L-shaped appliance bay from the two parallel gondola aisles and checkout/cart store. Both whole original GLB payloads, local POSITION/NORMAL arrays, PBR dictionaries, hierarchy and all internal relationships are retained under exact unit-scale whole-quarter-turn/translation only. One finite scene-only floor supports the original feet directly; no extracted part, duplicate model count, recolouring, scale edit, signs or stock. Empty static artistic layout only: no actual dispensing, payment, refrigeration, food storage, electricity, pedestrian/accessibility compliance, tested operating workflow, rated clearance, stability or workplace safety capability. Rigging animation interaction not made.",
+      "bounds": {
+        "x": 3.5999999046325684,
+        "y": 3.0,
+        "z": 1.899999976158142,
+        "unit": "m"
+      },
+      "triangles": 7360,
+      "materials": 12,
+      "files": {
+        "glb": {
+          "path": "assets/retail/retail-whole-angled-helix-vending-and-open-freezer-bay-scene-01/v1.0.0/model.glb",
+          "size": 651184,
+          "sha256": "f85e13f46bd048f03be9b4688c98d74e9786b8898fdc5a364fdc3d0de6cadac3"
+        },
+        "blend": {
+          "path": "assets/retail/retail-whole-angled-helix-vending-and-open-freezer-bay-scene-01/v1.0.0/source.blend",
+          "size": 1773408,
+          "sha256": "75c5f238bbf36a7aee18df985cfb2993f34200256e8159f8685f6d48c472582d"
+        },
+        "generator": {
+          "path": "assets/retail/retail-whole-angled-helix-vending-and-open-freezer-bay-scene-01/v1.0.0/generate.py",
+          "size": 168590,
+          "sha256": "a41adb8ce7186285ae9588ad78091ac895772c6f0c4036d4c2eba215d76f25b3"
+        },
+        "render": {
+          "path": "assets/retail/retail-whole-angled-helix-vending-and-open-freezer-bay-scene-01/v1.0.0/thumbnail.png",
+          "size": 502249,
+          "sha256": "d217439beadf2ca344e2f5da8a7931aa9db6a74e087f71b917990e872e4e6796"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1614-volume02-20261025"
     }
   ]
 }
