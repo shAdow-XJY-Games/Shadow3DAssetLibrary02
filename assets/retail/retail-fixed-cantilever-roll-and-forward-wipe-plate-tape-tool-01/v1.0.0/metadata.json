@@ -1,0 +1,42 @@
+{
+  "id": "retail-fixed-cantilever-roll-and-forward-wipe-plate-tape-tool-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "retail",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Cantilever Roll and Forward Wipe Plate Tape Tool",
+  "description": "One newly authored complete static handheld packing-tape-tool exterior. One angular side plate carries a complete wide exposed annular tape-roll appearance on a cantilever hub and a full downward sloping palm grip behind the roll plane. A broad front pressure roller sits on its entire transverse axle between the side plate and a complete forward fork. A finite upright blunt wipe-guard plate projects above the nose, while one short broad opaque tape span runs from the lower roll exterior to the upper rear of the pressure roller. The large roll core is occupied by the hub and outer retainer, not an open assembled bore. Unlike the old slotted-head label applicator, there is no trigger, narrow output slot or small perched label roll; unlike the desk tape stand, there is no ground base, twin roll cradle or front cutter neck. Every numeric mesh is newly authored, no imported components. Three constant opaque solid PBR roles, metres Z up and whole horizontal bounds-centred origin at the grip sole. One original model zero scenes. Fixed artistic exterior only: no adhesive, real windings, unwinding, complete operating tape path, cutting edge, working application, grip fit, stability, manufacture or safe-use capability. No rigging animation or interaction.",
+  "bounds": {
+    "x": 0.11999999731779099,
+    "y": 0.2750000059604645,
+    "z": 0.27300000190734863,
+    "unit": "m"
+  },
+  "triangles": 1096,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/retail/retail-fixed-cantilever-roll-and-forward-wipe-plate-tape-tool-01/v1.0.0/model.glb",
+      "size": 99968,
+      "sha256": "afcee8739055bdbc3316b84d8c6652b078e5d131d93f6e6c550993ed42d06345"
+    },
+    "blend": {
+      "path": "assets/retail/retail-fixed-cantilever-roll-and-forward-wipe-plate-tape-tool-01/v1.0.0/source.blend",
+      "size": 702496,
+      "sha256": "a72142c1165e243ccfe8c616ae9c3a55f123b0b17993bf4c40d29dfc80dc9a18"
+    },
+    "generator": {
+      "path": "assets/retail/retail-fixed-cantilever-roll-and-forward-wipe-plate-tape-tool-01/v1.0.0/generate.py",
+      "size": 16994,
+      "sha256": "ad1701a9ad201258c3eb50a02cedc0da063faee4c01e2cb5246f6a11d06129a9"
+    },
+    "render": {
+      "path": "assets/retail/retail-fixed-cantilever-roll-and-forward-wipe-plate-tape-tool-01/v1.0.0/thumbnail.png",
+      "size": 527286,
+      "sha256": "887c5a639e5902714befa6abf6dc08bb1ec66f7b1e02eacf9627902fba84bf54"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
