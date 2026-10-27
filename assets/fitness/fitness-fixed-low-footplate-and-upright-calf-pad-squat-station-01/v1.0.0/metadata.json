@@ -1,0 +1,43 @@
+{
+  "id": "fitness-fixed-low-footplate-and-upright-calf-pad-squat-station-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "fitness",
+  "style": "source-preserved-low-poly",
+  "title": "Low Footplate And Upright Calf Pad Squat Station",
+  "description": "One newly authored whole static compact squat-station-inspired prop: a low broad footplate sits on a full H-shaped ground frame, a short rear upright carries one complete vertical calf pad, and a separate low front post carries two whole foot rollers on one continuous axle. Four finite ground pads, rooted post sleeves and two illustrative fixed setting knobs finish the empty assembly. No tall diagonal hip support, tilted long body board, seat, weights or moving linkage, and no old exercise machine geometry imported. Four opaque constant PBR roles, metre units, Z up, one complete model and zero scenes. New numeric whole components; static exterior appearance only, no person, working adjustment, body fit, exercise or therapy benefit, training guidance, restraint, load capacity, manufacture or safety certification.",
+  "bounds": {
+    "x": 0.593999981880188,
+    "y": 1.0800000429153442,
+    "z": 0.6480000019073486,
+    "unit": "m"
+  },
+  "triangles": 912,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/fitness/fitness-fixed-low-footplate-and-upright-calf-pad-squat-station-01/v1.0.0/model.glb",
+      "size": 89416,
+      "sha256": "3c9ff1ffe009266f9c2e6ac0db2420b6d0c765cf96ca76ad739a3a1f88b23bc1"
+    },
+    "blend": {
+      "path": "assets/fitness/fitness-fixed-low-footplate-and-upright-calf-pad-squat-station-01/v1.0.0/source.blend",
+      "size": 727484,
+      "sha256": "761a93cfc5f7ef1ac0c9f6380d55ab3e5c17b7d93f2f12e6ce2e3d095ddee805"
+    },
+    "generator": {
+      "path": "assets/fitness/fitness-fixed-low-footplate-and-upright-calf-pad-squat-station-01/v1.0.0/generate.py",
+      "size": 18036,
+      "sha256": "a918e828a03fb29bc12432a64d71db0ac576d8e349480192d227da89a30155cc"
+    },
+    "render": {
+      "path": "assets/fitness/fitness-fixed-low-footplate-and-upright-calf-pad-squat-station-01/v1.0.0/thumbnail.png",
+      "size": 495920,
+      "sha256": "05dece588902a5589a39cc7962ad2618586fa25a46ca3a0250a69bb5a9414066"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved",
+  "sourceId": "sports-current-dot-originals-20261027"
+}

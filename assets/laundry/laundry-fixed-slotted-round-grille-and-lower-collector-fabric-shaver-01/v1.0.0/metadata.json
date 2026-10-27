@@ -1,0 +1,42 @@
+{
+  "id": "laundry-fixed-slotted-round-grille-and-lower-collector-fabric-shaver-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "laundry",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Slotted Round Grille and Lower Collector Fabric Shaver",
+  "description": "One newly authored complete static handheld fabric-shaver-style exterior. A full tapered pod housing broadens behind a forward round head shroud. One complete finite circular grille has sixteen genuine curved through-slots arranged in two radial rows, connected by a solid centre, continuous rings and radial webs. The grille sits in the full annular shroud with a recessed cavity behind the slots; the housing front closes the cavity farther behind, not at the grille surface. A complete opaque lower collector-cap appearance and a blank raised lower-front control complete the tool. Every numeric mesh newly authored, no imported comb head, perforated grater face or old appliance. Three constant opaque PBR roles, metres Z up, whole horizontally centred bounds and flat collector-heel display datum. One original model zero scenes. Static blunt exterior only: collector is solid closed exterior, no working removable bin, internal cutter, motor, battery, circuit, fabric, lint, suction, cutting, cleaning, performance, hand fit, garment suitability, manufacture or safety capability. No rigging animation or interaction.",
+  "bounds": {
+    "x": 0.08799999952316284,
+    "y": 0.07000000029802322,
+    "z": 0.1469999998807907,
+    "unit": "m"
+  },
+  "triangles": 1996,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/laundry/laundry-fixed-slotted-round-grille-and-lower-collector-fabric-shaver-01/v1.0.0/model.glb",
+      "size": 171912,
+      "sha256": "6a0ae79e39cd4c19892c0c824a7551284116c03dee3cc9f6d8593a82fd928ddd"
+    },
+    "blend": {
+      "path": "assets/laundry/laundry-fixed-slotted-round-grille-and-lower-collector-fabric-shaver-01/v1.0.0/source.blend",
+      "size": 779776,
+      "sha256": "ef0a068e6ec7e137fb1ad9b399029cd3b0615d7cedf0b454790f299db0dd06f7"
+    },
+    "generator": {
+      "path": "assets/laundry/laundry-fixed-slotted-round-grille-and-lower-collector-fabric-shaver-01/v1.0.0/generate.py",
+      "size": 16858,
+      "sha256": "810abafd5f4db42b1ae30cf169d5ace09b6881c6866c7d71eaf3c891aa5fb314"
+    },
+    "render": {
+      "path": "assets/laundry/laundry-fixed-slotted-round-grille-and-lower-collector-fabric-shaver-01/v1.0.0/thumbnail.png",
+      "size": 514696,
+      "sha256": "9f82c56a61e75f9173cd24df58d2f30190c91f7ec48e53a9535cd80d77b6625a"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

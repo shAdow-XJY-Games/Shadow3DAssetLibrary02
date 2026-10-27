@@ -1,0 +1,42 @@
+{
+  "id": "music-fixed-capped-wind-tube-and-upturned-open-crook-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "music",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Capped Wind Tube and Upturned Open Crook",
+  "description": "One newly authored whole crumhorn-inspired fixed wind-instrument appearance. A single continuous finite-wall J-shaped wooden-look tube has seven true polygonal front finger ports, a rounded lower return with a short finite bottom resting facet, and one open upturned mouth. Its entire hollow socketed wind cap narrows to a real small oval top slot; the cap seats around the upper body and two whole annular alloy-look bands finish the cap root and crook end. Every body coordinate and port layout is newly authored, not a bent old blockflute, reused bassoon boot or separate horn assembly. One model zero scenes, four opaque PBR roles, metres and native Z up. Broad capped-reed/J-shaped category inspiration only, not an exact historical or branded instrument; hidden reed not modeled. No sound, pitch, working airflow, fingering accuracy, tuning, breath pressure, flexible bending, manufacture, playability, handling, equilibrium or safety capability. No rig, animation or interaction.",
+  "bounds": {
+    "x": 0.27921584248542786,
+    "y": 0.0415109321475029,
+    "z": 0.6664689779281616,
+    "unit": "m"
+  },
+  "triangles": 16700,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/music/music-fixed-capped-wind-tube-and-upturned-open-crook-01/v1.0.0/model.glb",
+      "size": 1407996,
+      "sha256": "dd0758e2e61853a6a47a39f12de598ec9e366eb289d0678e1b8ab62c1df38b80"
+    },
+    "blend": {
+      "path": "assets/music/music-fixed-capped-wind-tube-and-upturned-open-crook-01/v1.0.0/source.blend",
+      "size": 2445120,
+      "sha256": "0606c3edbc2f0ffae9ba3a3eeba893969b2a6b12f8aa62866beb23f1291b5252"
+    },
+    "generator": {
+      "path": "assets/music/music-fixed-capped-wind-tube-and-upturned-open-crook-01/v1.0.0/generate.py",
+      "size": 13598,
+      "sha256": "97849dae48057e1c7461b05479fa6035b07d80fe13d7802528631721016310dd"
+    },
+    "render": {
+      "path": "assets/music/music-fixed-capped-wind-tube-and-upturned-open-crook-01/v1.0.0/thumbnail.png",
+      "size": 435039,
+      "sha256": "e8af713fe467916727e994f4702a67d0e055e14377e9267ee85729e8def3dbc5"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

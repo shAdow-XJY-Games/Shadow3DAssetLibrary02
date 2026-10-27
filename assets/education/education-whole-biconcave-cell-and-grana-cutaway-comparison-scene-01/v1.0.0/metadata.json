@@ -1,0 +1,42 @@
+{
+  "id": "education-whole-biconcave-cell-and-grana-cutaway-comparison-scene-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "education",
+  "style": "source-preserved-low-poly",
+  "title": "Whole Biconcave Cell and Grana Cutaway Comparison Scene",
+  "description": "One static teaching comparison arrangement, one scene and zero new independent models. The whole accepted chloroplast cutaway occupies the broad rear-left area of a low scene-only slab; the complete accepted biconcave erythrocyte sits separately toward the front-right. Both preserve their original enlarged illustrative metre dimensions, all meshes, oriented geometry and normal buffers, full constant PBR material dictionaries and complete internal hierarchy. Only whole-instance translations and one finite scene-only display slab are new. The free front strip and space between the two whole objects make their different exterior/cutaway representations readable without overlap. No cell, membrane, granum, lamella or rim is extracted, recoloured, resized or counted again. The two models use different illustrative enlargement factors; their displayed relative sizes are NOT a comparison of real biological dimensions. This is a general classroom juxtaposition of an animal-cell exterior and a plant-organelle diagram, not an erythrocyte containing chloroplasts, a single biological system, complete organelle anatomy, medical diagnosis, physiological process, working apparatus, load or stability certification. No labels, rig, animation or interaction made or claimed.",
+  "bounds": {
+    "x": 0.4300000071525574,
+    "y": 0.25,
+    "z": 0.07000000029802322,
+    "unit": "m"
+  },
+  "triangles": 9772,
+  "materials": 6,
+  "files": {
+    "glb": {
+      "path": "assets/education/education-whole-biconcave-cell-and-grana-cutaway-comparison-scene-01/v1.0.0/model.glb",
+      "size": 562120,
+      "sha256": "d7023101f768a7b591262a32bd0df2c9c1883c65162e4e3c9acd366228eb4767"
+    },
+    "blend": {
+      "path": "assets/education/education-whole-biconcave-cell-and-grana-cutaway-comparison-scene-01/v1.0.0/source.blend",
+      "size": 257676,
+      "sha256": "31cab90f6cdf390937de3c87af4a01d96ce77b5e25e3a283cbc02f232a1554ac"
+    },
+    "generator": {
+      "path": "assets/education/education-whole-biconcave-cell-and-grana-cutaway-comparison-scene-01/v1.0.0/generate.py",
+      "size": 212352,
+      "sha256": "9cfe2e66eb8581f82735a8352d706c85fb21cabb23b3796c79e47f9f018d3617"
+    },
+    "render": {
+      "path": "assets/education/education-whole-biconcave-cell-and-grana-cutaway-comparison-scene-01/v1.0.0/thumbnail.png",
+      "size": 480660,
+      "sha256": "96b1defe4180ea2d49b7fa4e63fdb157e058489a12e30b626a0dcabc2eef8941"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
