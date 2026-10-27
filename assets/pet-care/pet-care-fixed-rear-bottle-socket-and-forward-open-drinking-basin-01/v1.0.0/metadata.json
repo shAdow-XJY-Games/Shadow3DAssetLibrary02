@@ -1,0 +1,42 @@
+{
+  "id": "pet-care-fixed-rear-bottle-socket-and-forward-open-drinking-basin-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "pet-care",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Rear Bottle Socket and Forward Open Drinking Basin",
+  "description": "One newly authored complete empty static pet-waterer exterior. A long grounded rounded base places one full narrow-neck inverted bottle exterior at the rear in a thick rooted socket, while a separate broad genuinely open oval drinking basin projects forward. The bottle has softened rectangular faceted shoulders and a closed upper base; its lower neck is visibly narrowed and seated in the collar. The forward well has a real finite bottom, tapered inner walls and continuous rounded rim, not painted water, and the common base joins both zones. This is not the old central hollow bell reservoir above an annular poultry tray or a long-nozzle pump bottle scaled up: the rear elevated bottle neck and frontal unobstructed basin form an asymmetric fore-and-aft body, with no carry crown or dispenser nozzle. All new numeric geometry, no imported components. Three opaque untextured PBR roles, metres Z up and whole horizontal bounds-centred ground origin. One model zero scenes. Empty fixed artistic exterior only: no liquid or food, internal reservoir plumbing, valve, hydrostatic flow, automatic filling, leakage rating, potable supply, animal access/suitability, health or hygiene, stability, manufacture or safety capability. The opaque bottle is a solid exterior representation, not a fluid vessel simulation. Rigging animation and interaction not made.",
+  "bounds": {
+    "x": 0.3059999942779541,
+    "y": 0.5410000085830688,
+    "z": 0.37700000405311584,
+    "unit": "m"
+  },
+  "triangles": 1408,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/pet-care/pet-care-fixed-rear-bottle-socket-and-forward-open-drinking-basin-01/v1.0.0/model.glb",
+      "size": 123256,
+      "sha256": "1f6205c1b1294782fceb09e707e2eeee9e9352b76aab168d666a07d6b4de487c"
+    },
+    "blend": {
+      "path": "assets/pet-care/pet-care-fixed-rear-bottle-socket-and-forward-open-drinking-basin-01/v1.0.0/source.blend",
+      "size": 718624,
+      "sha256": "7bb3dc3d45e9c77ccc87c7abf66cdb46c4667e8bd104f9f9bde7cf6cdf2a1baf"
+    },
+    "generator": {
+      "path": "assets/pet-care/pet-care-fixed-rear-bottle-socket-and-forward-open-drinking-basin-01/v1.0.0/generate.py",
+      "size": 17236,
+      "sha256": "8b68562269bd32165d73ba0a7e9e434f62273ac1e55d580c8ccde488c7bbaed7"
+    },
+    "render": {
+      "path": "assets/pet-care/pet-care-fixed-rear-bottle-socket-and-forward-open-drinking-basin-01/v1.0.0/thumbnail.png",
+      "size": 493166,
+      "sha256": "661c7b50729c297ff664424db00b84a85420c244c819584b636fa8fb98571440"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

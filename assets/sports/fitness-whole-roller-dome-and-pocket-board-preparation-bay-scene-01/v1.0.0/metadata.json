@@ -1,0 +1,43 @@
+{
+  "id": "fitness-whole-roller-dome-and-pocket-board-preparation-bay-scene-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "fitness",
+  "style": "source-preserved-low-poly",
+  "title": "Roller Dome And Pocket Board Preparation Bay",
+  "description": "One original static fitness-equipment preparation bay, zero new models and one scene. Three entire previously accepted original props retain their original unit scale, all geometry and opaque PBR values: the wide exercise roller stands at front right, the twin-port half-dome platform lies at front left, and the whole blind-pocket hangboard is laid on the rear preparation table. One new finite floor and one complete subordinate four-leg table with rear and side braces create an open central access interval, not a training demonstration or a collection of extracted product parts. All three full original generators and complete GLB hashes are embedded and verified before translation-only composition. No old model is split, resized, recoloured or counted again. Static empty illustrative arrangement only: no exercise sequence, medical or fitness benefit, user access certification, equipment use, fit, table loading, manufacture or safety capability.",
+  "bounds": {
+    "x": 2.5,
+    "y": 2.050000011920929,
+    "z": 0.84579998254776,
+    "unit": "m"
+  },
+  "triangles": 6056,
+  "materials": 15,
+  "files": {
+    "glb": {
+      "path": "assets/sports/fitness-whole-roller-dome-and-pocket-board-preparation-bay-scene-01/v1.0.0/model.glb",
+      "size": 534112,
+      "sha256": "e3e5eb47e76040d4a8fe9b77ead4da801e318d1fc8e64a92ffdd941b03c17674"
+    },
+    "blend": {
+      "path": "assets/sports/fitness-whole-roller-dome-and-pocket-board-preparation-bay-scene-01/v1.0.0/source.blend",
+      "size": 1614940,
+      "sha256": "0d8d7a22d50c5210755503e477d88d7c40bd50bf486f86eee96056593aa66ef7"
+    },
+    "generator": {
+      "path": "assets/sports/fitness-whole-roller-dome-and-pocket-board-preparation-bay-scene-01/v1.0.0/generate.py",
+      "size": 48102,
+      "sha256": "25e7b93be0640641c4b2e2311f73e5e69652b4b8e90d370e74337a8275c560af"
+    },
+    "render": {
+      "path": "assets/sports/fitness-whole-roller-dome-and-pocket-board-preparation-bay-scene-01/v1.0.0/thumbnail.png",
+      "size": 475220,
+      "sha256": "9f0edd29515af92894e921989884ff43acace7f1a0d93f710a422b29d96bb986"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved",
+  "sourceId": "sports-current-dot-originals-20261027"
+}
