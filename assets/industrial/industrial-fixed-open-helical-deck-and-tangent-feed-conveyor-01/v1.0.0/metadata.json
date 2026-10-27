@@ -1,0 +1,42 @@
+{
+  "id": "industrial-fixed-open-helical-deck-and-tangent-feed-conveyor-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "industrial",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Open Helical Deck and Tangent Feed Conveyor",
+  "description": "One newly authored complete static helical-conveyor-style equipment prop. One unbroken thick flat deck rises two and a quarter turns around a genuinely open cylindrical centre, continuing into a low straight tangential inlet and a high straight tangential outlet. Separate full continuous low inner and outer edge bands follow the same complete path; shallow individual cross strips sit on the deck. Four grounded outer columns carry finite radial underside brackets at each encountered tier, with additional full legs beneath the two straight terminal runs. The dark open helical passage is not a screw filling a trough, a radial roller quarter-turn, a stair, a bowl feeder or a central-mast slide; no roller, chute, ladder or old machine geometry is reused. Three opaque constant PBR roles, metres native Z up, horizontal-bounds-centred grounded origin; one original model and zero scenes. Empty fixed illustrative mechanical exterior only: no actual endless belt return, drive, material transport, speed, cooling, food treatment, containment, service access, installation, load, manufacture or machine safety claim. Rigging animation and interaction not made.",
+  "bounds": {
+    "x": 2.9730000495910645,
+    "y": 2.9730000495910645,
+    "z": 2.9049999713897705,
+    "unit": "m"
+  },
+  "triangles": 4248,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/industrial/industrial-fixed-open-helical-deck-and-tangent-feed-conveyor-01/v1.0.0/model.glb",
+      "size": 400752,
+      "sha256": "8ae9ebfc154e33f5e321d4c588935e182b60b5a2b0641ece24f6858a4972c7d5"
+    },
+    "blend": {
+      "path": "assets/industrial/industrial-fixed-open-helical-deck-and-tangent-feed-conveyor-01/v1.0.0/source.blend",
+      "size": 1290720,
+      "sha256": "fedb81ab9441047f93f885b5f9b6fad10ce597697a7bcef4e6e9b995ad31d2ef"
+    },
+    "generator": {
+      "path": "assets/industrial/industrial-fixed-open-helical-deck-and-tangent-feed-conveyor-01/v1.0.0/generate.py",
+      "size": 17652,
+      "sha256": "b03da3a2e09abe6f147a21c57c87360b6446593b66ff8679976b5161110835a5"
+    },
+    "render": {
+      "path": "assets/industrial/industrial-fixed-open-helical-deck-and-tangent-feed-conveyor-01/v1.0.0/thumbnail.png",
+      "size": 612366,
+      "sha256": "768595839006023a580507ce6d66a24bdac22292a72237d9c69247de854fa37b"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

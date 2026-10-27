@@ -1,0 +1,42 @@
+{
+  "id": "architecture-fixed-offset-two-layer-pyramid-grid-roof-01",
+  "version": "1.0.0",
+  "category": "architecture",
+  "assetKind": "modular",
+  "theme": "architecture",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Offset Two Layer Pyramid Grid Roof",
+  "description": "One complete newly authored static double-layer space-grid roof frame. A flat upper square chord network and a smaller parallel lower chord network are offset by half a cell in each plan direction. Every lower joint connects through four complete diagonals to the corners of the upper square above it, giving nine genuinely open downward-pyramid cells and a visible finite roof-frame depth. Solid joint hubs carry whole member ends; four full-height cylindrical columns meet lower corner nodes and stand on four finite square footings. Unlike the old single-layer hemispherical geodesic-style network and the shallow planar hangar truss, this is a flat two-plane offset spatial graph with internal pyramidal webs, not a change of rod count or colour in either old model. All rods, nodes and supports newly authored; no mesh imported or extracted. Four opaque PBR roles, metre-style Z up, horizontal bounds-centred ground origin, one architectural module zero scenes. Open frame only: no roof cladding, wall, glazing, equipment, weather protection or certified connection detail. No structural analysis, load, stiffness, span, stability, manufacture, installation, host interchangeability, building-code or safety capability claimed. No rigging, animation or interaction.",
+  "bounds": {
+    "x": 4.990000000000001,
+    "y": 4.990000000000001,
+    "z": 3.7950000000000004,
+    "unit": "m"
+  },
+  "triangles": 2744,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/architecture/architecture-fixed-offset-two-layer-pyramid-grid-roof-01/v1.0.0/model.glb",
+      "size": 193452,
+      "sha256": "6a6a1defe1f45a0c6f88f9a57a49e2fdd7f610056f34f0e405133494302c1da8"
+    },
+    "blend": {
+      "path": "assets/architecture/architecture-fixed-offset-two-layer-pyramid-grid-roof-01/v1.0.0/source.blend",
+      "size": 1175112,
+      "sha256": "45a8c6b7c5d1ee37fa117497113c1ff2d46b54d8497543af3c752de4d3da8b7a"
+    },
+    "generator": {
+      "path": "assets/architecture/architecture-fixed-offset-two-layer-pyramid-grid-roof-01/v1.0.0/generate.py",
+      "size": 11358,
+      "sha256": "b50ab3a112680bda8e0181f5e90e665927b5b1d0ec475d94ca716262ac4876c6"
+    },
+    "render": {
+      "path": "assets/architecture/architecture-fixed-offset-two-layer-pyramid-grid-roof-01/v1.0.0/thumbnail.png",
+      "size": 466776,
+      "sha256": "ea3fb74317ce8c60ecd93a96795feb8ea574d83e22138a6508ff338c83ebb8f8"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

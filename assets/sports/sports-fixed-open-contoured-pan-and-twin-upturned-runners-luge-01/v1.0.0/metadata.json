@@ -1,0 +1,43 @@
+{
+  "id": "sports-fixed-open-contoured-pan-and-twin-upturned-runners-luge-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "sports",
+  "style": "source-preserved-low-poly",
+  "title": "Open Contoured Pan And Twin Upturned Runners Luge",
+  "description": "One original whole static low open-pan luge-inspired sports prop. A genuinely thick shallow contoured single-seat pan is supported above two continuous long runners with visibly high forward horns. Two transverse bridge members carry the pan and two bent side grips; four finite mount heads reinforce its readable assembly. The open thin low seating pan and two continuous runners differ from a wooden slat sled and from a cowled tandem bobsled with four separate short blades. Geometry coordinates newly authored, no old asset mesh imported. Four opaque constant PBR roles, metre units Z up, horizontal-bounds-centred grounded origin. Empty static artistic equipment only; no moving joints, rigging, animation or interaction. No athlete fit, regulation dimensions, sliding, steering, braking, dynamic load, fabrication or safety capability claim.",
+  "bounds": {
+    "x": 0.6620000004768372,
+    "y": 1.9199999570846558,
+    "z": 0.4350000023841858,
+    "unit": "m"
+  },
+  "triangles": 644,
+  "materials": 4,
+  "files": {
+    "generator": {
+      "path": "assets/sports/sports-fixed-open-contoured-pan-and-twin-upturned-runners-luge-01/v1.0.0/generate.py",
+      "size": 17357,
+      "sha256": "667aba8a486f4161fa3900ad3266ac95e5fb5f9a7d4b7b8751d65696be747eab"
+    },
+    "glb": {
+      "path": "assets/sports/sports-fixed-open-contoured-pan-and-twin-upturned-runners-luge-01/v1.0.0/model.glb",
+      "size": 62672,
+      "sha256": "197cd5e49653c0e7daa323005b44dc02a926b356e907c72e6a124f7a40acb286"
+    },
+    "blend": {
+      "path": "assets/sports/sports-fixed-open-contoured-pan-and-twin-upturned-runners-luge-01/v1.0.0/source.blend",
+      "size": 664540,
+      "sha256": "4db38c886bf37de767c12927e3ef4516f75a7a6f8d165f50f5f6541166080b6f"
+    },
+    "render": {
+      "path": "assets/sports/sports-fixed-open-contoured-pan-and-twin-upturned-runners-luge-01/v1.0.0/thumbnail.png",
+      "size": 479348,
+      "sha256": "cd7e2b1113bd9875c31a9ce4e30097c428c12146e27aab11e9b9744f658a4eed"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved",
+  "sourceId": "sports-current-dot-originals-20261027"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "agriculture-fixed-chevron-rib-drum-and-open-yoke-roller-crimper-01",
+  "version": "1.0.0",
+  "category": "modular",
+  "assetKind": "prop",
+  "theme": "agriculture",
+  "style": "warm-handcrafted-village",
+  "title": "Fixed Chevron Rib Drum and Open Yoke Roller Crimper",
+  "description": "One newly authored whole fixed parked roller-crimper appearance: a broad closed transverse steel drum carries six complete thick chevron-shaped ribs that reverse their circumferential slope at the centre. Separate full end hubs join an open raised yoke with two bearing cheeks, a front crossbeam and converging upper hitch bars with a pierced terminal lug. No hopper, meter, tine, concave discs, blades cutout or push handle; the broad drum and continuous circumferentially swept chevron ribs are the principal identity. All shape coordinates newly authored, not an old open reel with material changes. One static model zero scenes. No actual rotation, crop termination, tow compatibility, force, stability, load, manufacture, agronomy or safety capability; rigging, animation and interaction not made or verified.",
+  "bounds": {
+    "x": 3.390000105,
+    "y": 1.946835995,
+    "z": 2.180000067,
+    "unit": "m"
+  },
+  "triangles": 1900,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/agriculture/agriculture-fixed-chevron-rib-drum-and-open-yoke-roller-crimper-01/v1.0.0/model.glb",
+      "size": 106440,
+      "sha256": "f2f2de39ffa403f4a18d7a80788affe632306fe2074c5b2f414674477a65b86e"
+    },
+    "blend": {
+      "path": "assets/agriculture/agriculture-fixed-chevron-rib-drum-and-open-yoke-roller-crimper-01/v1.0.0/source.blend",
+      "size": 672556,
+      "sha256": "88efb0f8a6616af33e4c0e6139f56ce35fc744219940df73d5f2a4e6f00029c9"
+    },
+    "generator": {
+      "path": "assets/agriculture/agriculture-fixed-chevron-rib-drum-and-open-yoke-roller-crimper-01/v1.0.0/generate.py",
+      "size": 30132,
+      "sha256": "418f7cb0937e8265453c67441b26b5e7648dab884199c1c264387c9ba5a8c0fe"
+    },
+    "render": {
+      "path": "assets/agriculture/agriculture-fixed-chevron-rib-drum-and-open-yoke-roller-crimper-01/v1.0.0/thumbnail.png",
+      "size": 543533,
+      "sha256": "bfe60427acb4d5a2bc61bf45b6ea6d9dc6df48a909b502f11b080179d70de0f4"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

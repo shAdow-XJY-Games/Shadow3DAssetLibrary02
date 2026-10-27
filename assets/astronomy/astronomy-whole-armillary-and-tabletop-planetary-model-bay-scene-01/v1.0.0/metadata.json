@@ -1,0 +1,42 @@
+{
+  "id": "astronomy-whole-armillary-and-tabletop-planetary-model-bay-scene-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "astronomy",
+  "style": "source-preserved-low-poly",
+  "title": "Whole Armillary and Tabletop Planetary Model Bay",
+  "description": "One static celestial-model preparation and display bay, one scene and zero new models. Three complete qualified originals retain every raw geometry buffer, original normal, opaque PBR dictionary and internal hierarchy at unit metre scale. The whole open-ring armillary display stands independently on its full circular pedestal at left; its complete horizon, upright meridian, tilted rings, spindle and central sphere remain fixed and unmodified. A complete open worktable stands separately at right and supports the entire nested-shaft radial planetary-model display through its full broad base sole. That complete instrument retains its open three-column lower case, separated toothed disk appearances, nested sleeves, radial carriers, spheres and side crank. Neither instrument is resized to match the other and no wire, shaft or optic links them. The common low floor carries the complete armillary and table ground soles, while an empty foreground and separate interval remain. Unlike the rooftop telescope, observing chair and chart-console arrangement this contains no optical observation station or parapet; unlike the three-height electrostatic exhibit this is an original whole table supporting one tabletop model beside a ground-standing open-ring model, with no constructed stepped plinths. It is a real whole-equipment thematic grouping, not a claim to invent a floorplan. No calibrated coordinates, planet identities, orbital scales, astronomical accuracy, motion, transmission, instruction, instrument compatibility, load, accessibility, installation or safety capability; rigging animation interaction not made.",
+  "bounds": {
+    "x": 3.5999999046325684,
+    "y": 2.5999999046325684,
+    "z": 1.5529999732971191,
+    "unit": "m"
+  },
+  "triangles": 11192,
+  "materials": 11,
+  "files": {
+    "glb": {
+      "path": "assets/astronomy/astronomy-whole-armillary-and-tabletop-planetary-model-bay-scene-01/v1.0.0/model.glb",
+      "size": 731184,
+      "sha256": "a7631c7a8749fead64f1897065652824f731aa1bcd76aee9a703125020cecc26"
+    },
+    "blend": {
+      "path": "assets/astronomy/astronomy-whole-armillary-and-tabletop-planetary-model-bay-scene-01/v1.0.0/source.blend",
+      "size": 2123736,
+      "sha256": "fb21e31eb75c6105ebc30378239a46c125596cc8d8b352e672f30ed8d3db3529"
+    },
+    "generator": {
+      "path": "assets/astronomy/astronomy-whole-armillary-and-tabletop-planetary-model-bay-scene-01/v1.0.0/generate.py",
+      "size": 233513,
+      "sha256": "96c4f1ed6ce11f9220293509686daa9fc23296d658a05045c4554d1d4f5b3913"
+    },
+    "render": {
+      "path": "assets/astronomy/astronomy-whole-armillary-and-tabletop-planetary-model-bay-scene-01/v1.0.0/thumbnail.png",
+      "size": 505313,
+      "sha256": "9404fe5559c58b144c073f1ed339a15b72b477fc91c83541b9c2f47e357b67b6"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

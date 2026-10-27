@@ -1,0 +1,42 @@
+{
+  "id": "architecture-fixed-three-sawtooth-roof-and-open-factory-bay-01",
+  "version": "1.0.0",
+  "category": "architecture",
+  "assetKind": "modular",
+  "theme": "architecture",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Three Sawtooth Roof and Open Factory Bay",
+  "description": "One complete newly authored static sawtooth-roof factory bay. Three deep asymmetric sloping roof plates rise along the same axis to three separate full-height vertical clerestory strips. Thin finite opaque blue panes sit between actual sill, head and mullion members; exposed triangular end trusses have real open webs and stand on eight full-height columns over individual footings and a low floor. The open-sided volume and repeated slope-to-vertical cross section differ from the existing raised central monitor roof and from a single high curved hammerbeam portal: this is neither a recolored roof nor additional copies of a prior module. Every visible mesh is newly authored with complete closed thickness; no old model imported. Four opaque constant PBR roles, metre-style Z up, bounds-centred floor sole origin, one architectural model zero scenes. Static illustrative architecture only: blue panes are opaque visual infill, not simulated glazing. No daylight, heat, ventilation, drainage, weather sealing, span, strength, stability, structural load, attachment, dimensional interchangeability, installation, historical fidelity, building-code or safety guarantee. No enclosing walls, machinery, rigging, animation or interaction.",
+  "bounds": {
+    "x": 7.9,
+    "y": 4.9,
+    "z": 4.62,
+    "unit": "m"
+  },
+  "triangles": 900,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/architecture/architecture-fixed-three-sawtooth-roof-and-open-factory-bay-01/v1.0.0/model.glb",
+      "size": 86672,
+      "sha256": "53bd4da98567aa37b44ca87aaf0893f8e7e06e9a740d6fb8513d2db0aa8ca821"
+    },
+    "blend": {
+      "path": "assets/architecture/architecture-fixed-three-sawtooth-roof-and-open-factory-bay-01/v1.0.0/source.blend",
+      "size": 936456,
+      "sha256": "da39dd831e31726f44dd687df063beed1b30fcc14d1fb50afb244295b0c612cf"
+    },
+    "generator": {
+      "path": "assets/architecture/architecture-fixed-three-sawtooth-roof-and-open-factory-bay-01/v1.0.0/generate.py",
+      "size": 12027,
+      "sha256": "f4529e2bf42a3d6e837881374f833a8d7019a38e79ffe8cd94a1e00cb97ad7f5"
+    },
+    "render": {
+      "path": "assets/architecture/architecture-fixed-three-sawtooth-roof-and-open-factory-bay-01/v1.0.0/thumbnail.png",
+      "size": 544621,
+      "sha256": "3428dbf518ed0e3e000b67b8922ca0e67f8dab7232ca3ee10cfab65296fa9a7d"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "public-whole-side-entry-photo-booth-and-waiting-bench-bay-scene-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "public",
+  "style": "source-preserved-low-poly",
+  "title": "Whole Side Entry Photo Booth and Waiting Bench Bay",
+  "description": "One static public portrait-booth waiting bay, one scene zero new models. The complete qualified opposed-seat/camera-wall enclosure stands at the rear-left with its original side entrance, fixed gathered curtain, inside bench, roof and external delivery recess unchanged. A complete original slatted bench is independently grounded at the right edge and turned toward the open central area, leaving the entire booth entry front empty rather than filling it with seating. Both full original GLB buffers, normals, hierarchy, opaque PBR and physical scale remain unchanged under whole translations and one exact quarter turn. Only the finite common floor is new. Unlike the telephone/post/rest court this has one lateral-entry portrait cabin and a separate side waiting strip, no postal box or folding telephone door; unlike the civic service hall it has no counter row, rope pocket or noticeboard. This is an empty static equipment-and-waiting arrangement, not an operating photo service. No portrait, person, photography, payment, printing, privacy, seat fit, circulation capacity, accessibility, installation, load or public safety performance. Rigging animation interaction not made.",
+  "bounds": {
+    "x": 4.199999809265137,
+    "y": 2.799999952316284,
+    "z": 2.134999990463257,
+    "unit": "m"
+  },
+  "triangles": 1836,
+  "materials": 8,
+  "files": {
+    "glb": {
+      "path": "assets/public/public-whole-side-entry-photo-booth-and-waiting-bench-bay-scene-01/v1.0.0/model.glb",
+      "size": 160332,
+      "sha256": "346e5adb43c7a7e62d8f5db16229b4e5e3f5d06451b663037a1ffb1e2b636f0a"
+    },
+    "blend": {
+      "path": "assets/public/public-whole-side-entry-photo-booth-and-waiting-bench-bay-scene-01/v1.0.0/source.blend",
+      "size": 933000,
+      "sha256": "c78c620684056f037c029a7a55911ef32ea9d41be0220a0c280c52bcbebcd0c3"
+    },
+    "generator": {
+      "path": "assets/public/public-whole-side-entry-photo-booth-and-waiting-bench-bay-scene-01/v1.0.0/generate.py",
+      "size": 55719,
+      "sha256": "8392c72be8328d911a1ad411be65fe152abcbe1517b7cbed0758de8a2dda0de6"
+    },
+    "render": {
+      "path": "assets/public/public-whole-side-entry-photo-booth-and-waiting-bench-bay-scene-01/v1.0.0/thumbnail.png",
+      "size": 517003,
+      "sha256": "72b39b76d61c427d2a7ec3da40dceaf8631f0215619801e3a7c9f3631a4038bf"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

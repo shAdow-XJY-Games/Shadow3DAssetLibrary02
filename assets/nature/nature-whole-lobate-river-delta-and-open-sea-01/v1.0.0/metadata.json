@@ -1,0 +1,42 @@
+{
+  "id": "nature-whole-lobate-river-delta-and-open-sea-01",
+  "version": "1.0.0",
+  "category": "modular",
+  "assetKind": "prop",
+  "theme": "nature",
+  "style": "warm-handcrafted-village",
+  "title": "Whole Lobate River Delta and Open Sea",
+  "description": "One newly authored complete stylised river-mouth terrain. A broad raised rear mainland is cut by one incoming channel which divides across a much lower outward-spreading lobate delta fan. The channel network opens through separate mouths into one broad surrounding sea-appearance surface, with low land tongues between the mouths. This whole mainland, fan, branching channels, shoreline and sea is one continuous closed shared-vertex solid with a finite underside; no separate water plane, old Y module copied into an array, or hook-shaped sand spit recoloured. Four constant opaque matte PBR roles. One terrain model zero scenes. Static illustrative appearance only, not a real place or scale, sediment process, hydrology, tidal/flow simulation, channel connectivity to other modules, habitat, navigation, walkability or engineering safety claim.",
+  "bounds": {
+    "x": 7.489983559,
+    "y": 6.480000019,
+    "z": 0.699999988,
+    "unit": "m"
+  },
+  "triangles": 6000,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/nature/nature-whole-lobate-river-delta-and-open-sea-01/v1.0.0/model.glb",
+      "size": 193316,
+      "sha256": "1ef8fbae05de6fcf580e1562cf4e518a302d3c6e1bc9070c008368810468ab28"
+    },
+    "blend": {
+      "path": "assets/nature/nature-whole-lobate-river-delta-and-open-sea-01/v1.0.0/source.blend",
+      "size": 837196,
+      "sha256": "08a49c391a241dc4a52ba78334bf9f63282e93bc09a7c7e6dafe0bab586cc9df"
+    },
+    "generator": {
+      "path": "assets/nature/nature-whole-lobate-river-delta-and-open-sea-01/v1.0.0/generate.py",
+      "size": 29151,
+      "sha256": "fb93ddb4edaa14e62f79a6de6c93dcb2568be3cc4de319e0fdee1f102ea43704"
+    },
+    "render": {
+      "path": "assets/nature/nature-whole-lobate-river-delta-and-open-sea-01/v1.0.0/thumbnail.png",
+      "size": 522856,
+      "sha256": "50f7530b26b07d7c5ed9fff45e95ae11e85142755212aac7fb02c5c01a723a20"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

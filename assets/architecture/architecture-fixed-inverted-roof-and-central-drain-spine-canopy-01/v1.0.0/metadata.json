@@ -1,0 +1,42 @@
+{
+  "id": "architecture-fixed-inverted-roof-and-central-drain-spine-canopy-01",
+  "version": "1.0.0",
+  "category": "architecture",
+  "assetKind": "modular",
+  "theme": "architecture",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Inverted Roof and Central Drain Spine Canopy",
+  "description": "One complete newly authored fixed inverted-roof canopy. Two full finite roof wings fall inward toward one full-length open U-profile valley trough, instead of meeting at a raised ridge. Three single-piece Y-shaped supports stand beneath the centre line on full grounded feet; their branches meet the wings while the entire outer perimeter remains unposted. A separate hollow rear downpipe is a visible static architectural detail. This straight inward-folding topology and central branching support arrangement differ from the old four-corner anticlastic saddle canopy, raised monitor strip, hip roof and new three-sawtooth factory bay. All ten complete closed meshes are newly authored; no old canopy, post or roof mesh imported or transformed. Four opaque constant PBR roles, metre-style Z up, horizontal bounds-centred ground origin, one architecture model zero scenes. Static artistic assembly only. The valley has no bottom pipe penetration and the downpipe does not certify a hydraulically connected drainage system. No real rainwater collection, flow, weather protection, span, strength, uplift, stability, installation, construction detail, building-code, host fit or safety guarantee. No seating, people, enclosed building, rigging, animation or interaction.",
+  "bounds": {
+    "x": 5.6,
+    "y": 5.6,
+    "z": 3.76,
+    "unit": "m"
+  },
+  "triangles": 376,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/architecture/architecture-fixed-inverted-roof-and-central-drain-spine-canopy-01/v1.0.0/model.glb",
+      "size": 23984,
+      "sha256": "0a3d04ae3e4707eb88b645be4cc0556a291ef54ed3c702f07614143b7611b7a0"
+    },
+    "blend": {
+      "path": "assets/architecture/architecture-fixed-inverted-roof-and-central-drain-spine-canopy-01/v1.0.0/source.blend",
+      "size": 606792,
+      "sha256": "9d075354cac9d73d3a3aeb961edad2ccc7b15299a958a50ca4f034368eed651e"
+    },
+    "generator": {
+      "path": "assets/architecture/architecture-fixed-inverted-roof-and-central-drain-spine-canopy-01/v1.0.0/generate.py",
+      "size": 11155,
+      "sha256": "907556780970a375704b1d1635e84d3af3408636fede4a80381f4ded6f2cf59e"
+    },
+    "render": {
+      "path": "assets/architecture/architecture-fixed-inverted-roof-and-central-drain-spine-canopy-01/v1.0.0/thumbnail.png",
+      "size": 467944,
+      "sha256": "7ae439419635b561a1034f8fcbb5d432d574865ee8ecab49838d59eb80f15fee"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

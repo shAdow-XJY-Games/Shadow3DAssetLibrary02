@@ -1,0 +1,42 @@
+{
+  "id": "music-fixed-open-bottom-shell-and-internal-friction-rod-drum-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "music",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Open-Bottom Shell and Internal Friction-Rod Drum",
+  "description": "One newly authored complete static friction-drum-inspired display. One full cylindrical thick shell has a genuine open bottom and one complete thick opposite drumhead. A slender wooden friction rod attaches centrally to the hidden underside of that head and projects freely into the cavity, visible through the open mouth. Two full annular retaining bands and six exterior tension rods complete the drum. A dedicated grounded carrier holds it in a fixed tilted display pose so the hollow mouth and internal rod are readable. All visible numeric meshes are newly authored, with no copied goblet drum, pellet rattle, drum-kit part or old stand geometry. One model zero scenes, four opaque constant PBR appearances, metres and Z up. Static stylized artwork only: no sound, membrane vibration, tuning, playable action, cultural or historical reconstruction, structural stability, manufacturing or safe handling claim. No rig, animation or interaction.",
+  "bounds": {
+    "x": 0.44999998807907104,
+    "y": 0.5134749412536621,
+    "z": 0.6618320345878601,
+    "unit": "m"
+  },
+  "triangles": 2308,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/music/music-fixed-open-bottom-shell-and-internal-friction-rod-drum-01/v1.0.0/model.glb",
+      "size": 212672,
+      "sha256": "5860b98d0195981cc2f3be453699718d2ce90fafce64fbd53052356d417078b9"
+    },
+    "blend": {
+      "path": "assets/music/music-fixed-open-bottom-shell-and-internal-friction-rod-drum-01/v1.0.0/source.blend",
+      "size": 922560,
+      "sha256": "a081eb42e22dff29197e88fa27af7b16b078e06870866e104ee96cc8653fa3e7"
+    },
+    "generator": {
+      "path": "assets/music/music-fixed-open-bottom-shell-and-internal-friction-rod-drum-01/v1.0.0/generate.py",
+      "size": 16022,
+      "sha256": "a9973a04141da907fd2297b319b43479898596419b58fa4bed55dc29d44d5f12"
+    },
+    "render": {
+      "path": "assets/music/music-fixed-open-bottom-shell-and-internal-friction-rod-drum-01/v1.0.0/thumbnail.png",
+      "size": 567910,
+      "sha256": "3c41a02877dc26a08a2d0accad760afdc7b69357cf6e7a373d947581e0b9404f"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

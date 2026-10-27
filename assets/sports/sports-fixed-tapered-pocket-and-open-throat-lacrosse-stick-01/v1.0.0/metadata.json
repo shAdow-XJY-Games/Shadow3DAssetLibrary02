@@ -1,0 +1,43 @@
+{
+  "id": "sports-fixed-tapered-pocket-and-open-throat-lacrosse-stick-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "sports",
+  "style": "source-preserved-low-poly",
+  "title": "Tapered Pocket And Open Throat Lacrosse Stick",
+  "description": "One original whole static lacrosse-inspired stick appearance with a tapered scoop frame, visibly concave finite-string pocket and long thin handle. Newly authored broad forward scoop and narrow throat enclose actual open pocket windows; string cords sag into a shallow local pocket rather than a flat tennis lattice or deep gathered landing-net bag. One complete sports prop, zero scenes, four opaque constant PBR material roles. Stylized empty fixed visual only, no player, ball, logo, marks or sport affiliation. No rigging, animation, interaction, ball handling, regulation dimensions, string tension, strength, user fit, manufacture or safety claim.",
+  "bounds": {
+    "x": 0.41999998688697815,
+    "y": 1.9307993650436401,
+    "z": 0.11298477649688721,
+    "unit": "m"
+  },
+  "triangles": 1636,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/sports/sports-fixed-tapered-pocket-and-open-throat-lacrosse-stick-01/v1.0.0/model.glb",
+      "size": 153904,
+      "sha256": "686372260813ae9802ee5db092478050d63e4ead2b8470d1c714def2939f6579"
+    },
+    "blend": {
+      "path": "assets/sports/sports-fixed-tapered-pocket-and-open-throat-lacrosse-stick-01/v1.0.0/source.blend",
+      "size": 817980,
+      "sha256": "b6d127568b9a89b9943c8e10525ac426d3e03f6f69d71169e1dfe54be7b36150"
+    },
+    "generator": {
+      "path": "assets/sports/sports-fixed-tapered-pocket-and-open-throat-lacrosse-stick-01/v1.0.0/generate.py",
+      "size": 17829,
+      "sha256": "8e7c2fc92350bfc7da579de41190532c1b67b279f6d99b43b25ce8932b32c6c8"
+    },
+    "render": {
+      "path": "assets/sports/sports-fixed-tapered-pocket-and-open-throat-lacrosse-stick-01/v1.0.0/thumbnail.png",
+      "size": 473824,
+      "sha256": "b9a8cc7f612d9444bb561c22da917078ece5a38df98e0180b12ba5cbfa5b352e"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved",
+  "sourceId": "sports-current-dot-originals-20261027"
+}

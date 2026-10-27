@@ -1,0 +1,42 @@
+{
+  "id": "agriculture-fixed-inclined-tube-open-hopper-and-wheeled-auger-01",
+  "version": "1.0.0",
+  "category": "modular",
+  "assetKind": "prop",
+  "theme": "agriculture",
+  "style": "warm-handcrafted-village",
+  "title": "Fixed Inclined Tube Open Hopper and Wheeled Auger",
+  "description": "One newly authored whole fixed inclined grain-transfer auger exterior. A long genuinely hollow rising tube bends into a short downturned upper discharge, while a broad low empty flared hopper sits at its lower end. Two grounded wheels on a full axle carry an open diagonal undercarriage with two annular tube saddles; a separate low hopper support sole and compact drive housing complete the whole parked machine. Unlike an upright twin-trunk bucket elevator or hand soil auger this is a complete inclined portable transfer assembly with a continuous tube bore and open input receptacle. New geometry throughout, no imported wheel or machine. One static model zero scenes. Interior screw drive, exact material flow, grain transport, rotation, capacity, attachment compatibility, engineering, loading, operation and safety not made or verified; rigging, animation and interaction not made.",
+  "bounds": {
+    "x": 1.970000029,
+    "y": 5.887829781,
+    "z": 2.870194912,
+    "unit": "m"
+  },
+  "triangles": 2424,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/agriculture/agriculture-fixed-inclined-tube-open-hopper-and-wheeled-auger-01/v1.0.0/model.glb",
+      "size": 120688,
+      "sha256": "b8f23a146ea43078fd90d35823b681405744c992a576bff2f42f06eee6d85487"
+    },
+    "blend": {
+      "path": "assets/agriculture/agriculture-fixed-inclined-tube-open-hopper-and-wheeled-auger-01/v1.0.0/source.blend",
+      "size": 680748,
+      "sha256": "df841bdf928659cfbced462433cd0dc2f6b3fbe5d72a98d6e5cb889bbe84c0e4"
+    },
+    "generator": {
+      "path": "assets/agriculture/agriculture-fixed-inclined-tube-open-hopper-and-wheeled-auger-01/v1.0.0/generate.py",
+      "size": 31664,
+      "sha256": "6751ead82b9b529218c11b16b9a8bcdbdb113b277731fe9ffaab587b9db2888b"
+    },
+    "render": {
+      "path": "assets/agriculture/agriculture-fixed-inclined-tube-open-hopper-and-wheeled-auger-01/v1.0.0/thumbnail.png",
+      "size": 508649,
+      "sha256": "83a37b00e566feafa3a222a29e4742f979f5cfdc2beb34b90f288c92826d199f"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

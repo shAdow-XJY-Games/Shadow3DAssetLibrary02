@@ -1,0 +1,42 @@
+{
+  "id": "education-whole-head-tail-and-twisted-ladder-viewing-bay-scene-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "education",
+  "style": "source-preserved-low-poly",
+  "title": "Whole Head Tail and Twisted Ladder Viewing Bay",
+  "description": "One static educational-looking viewing bay, one scene zero new independent models. The complete enlarged faceted-head axial-sheath radial-fibre display stands on the left floor station. The complete original twisted ladder and its own circular plinth stand at the right rear. A whole original low open worktable at the right front supports the complete original observation microscope on its full finite base. All four units retain their original metre scale, every oriented triangle, normal buffer, material dictionary and internal hierarchy; only whole-instance translations and one finite low scene-only slab are new. The open front-left viewing area and the gap between the three independent stations remain empty. No part is extracted, resized, recoloured or counted again. This is a visual arrangement of stylized exhibits, not an assertion of DNA molecular identity, biological relationship, anatomy or scale accuracy. No added specimen, labels, optical beam, magnification, laboratory process, connected apparatus, biological activity, structural capacity or human access certification. Rigging animation interaction not made and outside scope.",
+  "bounds": {
+    "x": 4.0,
+    "y": 2.9000000953674316,
+    "z": 2.462338447570801,
+    "unit": "m"
+  },
+  "triangles": 7872,
+  "materials": 18,
+  "files": {
+    "glb": {
+      "path": "assets/education/education-whole-head-tail-and-twisted-ladder-viewing-bay-scene-01/v1.0.0/model.glb",
+      "size": 632140,
+      "sha256": "bf33fc6f2cce1d97692345b64733997b40e8da6dd259769c251e8e1f887c3e59"
+    },
+    "blend": {
+      "path": "assets/education/education-whole-head-tail-and-twisted-ladder-viewing-bay-scene-01/v1.0.0/source.blend",
+      "size": 251924,
+      "sha256": "650fc7cb8e6e162822225e98d98f2c3e41f5615e65b84cd5696a94543872996c"
+    },
+    "generator": {
+      "path": "assets/education/education-whole-head-tail-and-twisted-ladder-viewing-bay-scene-01/v1.0.0/generate.py",
+      "size": 233534,
+      "sha256": "0ed93d1ea2d197422f9d3cbc403c05894b80e51268b1d0ba04c7df8a03aafd97"
+    },
+    "render": {
+      "path": "assets/education/education-whole-head-tail-and-twisted-ladder-viewing-bay-scene-01/v1.0.0/thumbnail.png",
+      "size": 494559,
+      "sha256": "5e250b3660040e728db673edb0c0d02a8cbf9b86039a53e8b94e1cc7b440f1ad"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
