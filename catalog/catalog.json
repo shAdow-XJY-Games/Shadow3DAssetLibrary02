@@ -2124,6 +2124,11 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary02",
       "commit": "a36e860c237e7843eb1252d4ec4aea01a7410110"
+    },
+    "original-qualified-batch-1662-volume02-20261025": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary02",
+      "commit": "fa60c18b6fe090b2cd1147378e721e6a29eb0119"
     }
   },
   "assets": [
@@ -73377,6 +73382,221 @@
       "status": "verified",
       "license": "All rights reserved",
       "sourceId": "original-qualified-batch-1657-volume02-20261025"
+    },
+    {
+      "id": "music-fixed-paired-clapperless-bells-and-shared-return-grip-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "music",
+      "style": "S01-clean-geometric",
+      "title": "Fixed Paired Clapperless Bells and Shared Return Grip",
+      "description": "One newly authored complete static clapperless double-bell percussion appearance. Two unequal whole oval tapered iron-look shells have real open annular mouths, complete narrow blind backs and empty cavities without clappers. One continuous rounded return grip spans behind both chambers and seats into both backs, making a single joined handheld-instrument form. Each chamber lies on a full finite lower facet; no stand is added. Both complete chamber shapes and the joining grip are generated from new numerical geometry, not copied or resized cowbell/handbell instances, and count together as one whole model zero scenes. Four opaque PBR roles, metre scale and native Z up. Broad double-bell category inspiration only, not a specific regional or sacred object, branded product or historical replica. No beater, ringing simulation, tuning, sound, vibration, joint flexibility, hand fit, stability, manufacture or safety capability. No rig, animation or interaction.",
+      "bounds": {
+        "x": 0.20131558179855347,
+        "y": 0.3310000002384186,
+        "z": 0.06741824746131897,
+        "unit": "m"
+      },
+      "triangles": 1508,
+      "materials": 4,
+      "files": {
+        "glb": {
+          "path": "assets/music/music-fixed-paired-clapperless-bells-and-shared-return-grip-01/v1.0.0/model.glb",
+          "size": 132500,
+          "sha256": "5ee5d7a2aa4164be0f011f1d6e50cc50a2747633e7ef9a7bc73b9e9c1f4a7060"
+        },
+        "blend": {
+          "path": "assets/music/music-fixed-paired-clapperless-bells-and-shared-return-grip-01/v1.0.0/source.blend",
+          "size": 738944,
+          "sha256": "b1460713da3480bf2bf0a9521ba11893baa0889b382949b0cfa019253db19945"
+        },
+        "generator": {
+          "path": "assets/music/music-fixed-paired-clapperless-bells-and-shared-return-grip-01/v1.0.0/generate.py",
+          "size": 12433,
+          "sha256": "190779061931ecd59796e34b5a20cc527c2b90335bd021d6bae54687494a78d2"
+        },
+        "render": {
+          "path": "assets/music/music-fixed-paired-clapperless-bells-and-shared-return-grip-01/v1.0.0/thumbnail.png",
+          "size": 477589,
+          "sha256": "afed6acf53298013af3a1fce70358b5cf3eb091a3adc1bacb85771694067c862"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1662-volume02-20261025"
+    },
+    {
+      "id": "sports-fixed-long-low-deck-and-inline-end-wheel-roller-ski-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "sports",
+      "style": "source-preserved-low-poly",
+      "title": "Long Low Deck And Inline End Wheel Roller Ski",
+      "description": "One newly authored complete static roller-ski-inspired prop: a long narrow low spine ends in two integral open wheel forks around two inline small tread wheels; a short toe housing with genuine empty recess and raised fixed lever, two low sole-guide ribs and a rear heel datum sit on the spine. Two complete curved mudguard appearances are rooted at the end forks, with independent full axles and hubs. All geometry is newly authored, not a scooter minus its handle, a skateboard narrowed or an old boot extracted. No old model vertices or meshes are imported. Four opaque constant PBR roles, metre units, Z up, one whole model and zero scenes. A single static ski apparatus rather than a pair-count variation; no boot, pole, rider, brand or marking. Empty illustrative exterior only, no rolling, braking, binding compatibility/release, fit, ratchet mechanism, performance, user guidance, manufacture or safety capability.",
+      "bounds": {
+        "x": 0.09200000017881393,
+        "y": 0.915770411491394,
+        "z": 0.1509999930858612,
+        "unit": "m"
+      },
+      "triangles": 1456,
+      "materials": 4,
+      "files": {
+        "glb": {
+          "path": "assets/sports/sports-fixed-long-low-deck-and-inline-end-wheel-roller-ski-01/v1.0.0/model.glb",
+          "size": 135280,
+          "sha256": "5ebf420645d8fe134e83348c2002e71c04852c1e547604c382fac12003e6849f"
+        },
+        "blend": {
+          "path": "assets/sports/sports-fixed-long-low-deck-and-inline-end-wheel-roller-ski-01/v1.0.0/source.blend",
+          "size": 788412,
+          "sha256": "1648d69144f9a95b668f29fac7e223dccc758dac20b29ebad2c020a6a3e136d8"
+        },
+        "generator": {
+          "path": "assets/sports/sports-fixed-long-low-deck-and-inline-end-wheel-roller-ski-01/v1.0.0/generate.py",
+          "size": 18520,
+          "sha256": "ec9a54a3f82271ec6c45b0d478dfa04820554dd50d3a60e8483aa26b203ea80a"
+        },
+        "render": {
+          "path": "assets/sports/sports-fixed-long-low-deck-and-inline-end-wheel-roller-ski-01/v1.0.0/thumbnail.png",
+          "size": 451183,
+          "sha256": "92f987cc8e2bd2ad6ec689110bad7a175fa980c5f3a5d538d93e6fc8429ab9bd"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1662-volume02-20261025"
+    },
+    {
+      "id": "waterworks-fixed-inclined-bar-rack-and-raised-comb-carriage-01",
+      "version": "1.0.0",
+      "category": "architecture",
+      "assetKind": "modular",
+      "theme": "waterworks",
+      "style": "S01-clean-geometric",
+      "title": "Fixed Inclined Bar Rack and Raised Comb Carriage",
+      "description": "One wholly newly authored complete fixed inclined bar-screen infrastructure appearance. One continuous thick U-shaped channel has a full ground sole and genuinely open ends. Seventeen complete steel-look bars incline upward between full lower and upper crossrails, leaving sixteen actual empty longitudinal gaps. Separate outboard guide rails carry two complete shoes and a raised one-piece comb with sixteen finite teeth positioned in the bar gaps; all teeth join one continuous full crosshead, with finite side clearance in this authored pose. Two rear posts, lower guide shoes, a complete top shaft, two full drums with flange pairs and two retained cables complete the static support and hoist appearance. Unlike the earlier vertical half-open solid sluice plate in C grooves with a threaded spindle and handwheel, this is a visibly open inclined bar bank and a separate crosswise rake carriage. All numeric channel, frame, bars, comb and hoist faces authored together, no gate, drain, grate, hoist or machine mesh imported or extracted. Four opaque constant PBR roles, metres Z up, whole horizontal bounds centred over its own channel sole, one modular model zero scenes. One fixed dry waterworks-inspired artwork, no water or debris. No filtering, screening, cleaning, hydraulic flow, gate sealing, rake travel, cable winding, bearing or running fit, drive, load, stability, manufacture, installation, maintenance, potable-water suitability or civil-engineering safety capability made or verified. No rigging, animation or interaction.",
+      "bounds": {
+        "x": 3.3,
+        "y": 4.2,
+        "z": 2.9338506278193406,
+        "unit": "m"
+      },
+      "triangles": 1636,
+      "materials": 4,
+      "files": {
+        "glb": {
+          "path": "assets/waterworks/waterworks-fixed-inclined-bar-rack-and-raised-comb-carriage-01/v1.0.0/model.glb",
+          "size": 92196,
+          "sha256": "9231149cd233ca379bbbfcb2bac2eac7975a8329918ad9f761b30ff3136b6337"
+        },
+        "blend": {
+          "path": "assets/waterworks/waterworks-fixed-inclined-bar-rack-and-raised-comb-carriage-01/v1.0.0/source.blend",
+          "size": 804668,
+          "sha256": "566a9b1994c1b42c15d7dbdd33a590c48b893a65b087fa1423cc81f98a969dd7"
+        },
+        "generator": {
+          "path": "assets/waterworks/waterworks-fixed-inclined-bar-rack-and-raised-comb-carriage-01/v1.0.0/generate.py",
+          "size": 13426,
+          "sha256": "f1ad6775cac173fcc5773cab99a7c0ae02f47719789c2b8b358cde91234b4f24"
+        },
+        "render": {
+          "path": "assets/waterworks/waterworks-fixed-inclined-bar-rack-and-raised-comb-carriage-01/v1.0.0/thumbnail.png",
+          "size": 460326,
+          "sha256": "be396112eddea782d4d5c82a3fad6bff564f9249cb9724eb7d86b08490b305c5"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1662-volume02-20261025"
+    },
+    {
+      "id": "agriculture-fixed-cutaway-hood-and-y-flail-rotor-mower-01",
+      "version": "1.0.0",
+      "category": "modular",
+      "assetKind": "prop",
+      "theme": "agriculture",
+      "style": "warm-handcrafted-village",
+      "title": "Fixed Cutaway Hood and Y Flail Rotor Mower",
+      "description": "One newly authored whole fixed tractor-mounted flail-mower-style implement in a deliberate rear-cutaway display. Two complete curved end cheeks and broad ground skids carry one long transverse rotor with twelve complete coarse blunt Y-shaped flail forms. A thick upper/front cylindrical hood has a deliberately open rear sector to expose the rotor rather than pretending to be an operating guard. A full separate grounded rear roller, two support arms, raised triangular attachment-style frame with three genuinely open eyes, upper gearbox-shaped case, exposed lateral shaft, forward input stub and closed outer side-drive cover complete the whole implement. No tractor, crop, detachable spare parts, engine, fuel tank or push handle. All geometry coordinates newly authored; no old mower or tiller geometry imported. Not the helical-strip push reel mower or walk-behind hooked-tine tiller resized. One model zero scenes. Static cutaway art only: no blade sharpness, hinged flail swing, mowing, rotation, transmission, input coupling fit, guard effectiveness, load, engineering, manufacture or safety capability made or verified. Rigging, animation and interaction not made.",
+      "bounds": {
+        "x": 2.305000067,
+        "y": 1.590000033,
+        "z": 1.475000024,
+        "unit": "m"
+      },
+      "triangles": 1980,
+      "materials": 4,
+      "files": {
+        "glb": {
+          "path": "assets/agriculture/agriculture-fixed-cutaway-hood-and-y-flail-rotor-mower-01/v1.0.0/model.glb",
+          "size": 108196,
+          "sha256": "251f23318a57ca69fc99f1e2bcf4d76c8ce0bf1ad29b3b963baf62dd0c741ec6"
+        },
+        "blend": {
+          "path": "assets/agriculture/agriculture-fixed-cutaway-hood-and-y-flail-rotor-mower-01/v1.0.0/source.blend",
+          "size": 762164,
+          "sha256": "fbc181454971cbc57abec3f72120b919fbd401cf79af9ada3e91cffb25ba0e36"
+        },
+        "generator": {
+          "path": "assets/agriculture/agriculture-fixed-cutaway-hood-and-y-flail-rotor-mower-01/v1.0.0/generate.py",
+          "size": 32976,
+          "sha256": "4fa35def86e80c2e057f7e0af60d974aee2ff67b2fda53dcd9da6f4ff70b276e"
+        },
+        "render": {
+          "path": "assets/agriculture/agriculture-fixed-cutaway-hood-and-y-flail-rotor-mower-01/v1.0.0/thumbnail.png",
+          "size": 535005,
+          "sha256": "0ba4362f242fa0afe82ea30c2783cead98ef9b0dd8f243e29276e34e6802b50c"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1662-volume02-20261025"
+    },
+    {
+      "id": "sports-whole-rebounder-and-lacrosse-side-bench-preparation-bay-scene-01",
+      "version": "1.0.0",
+      "category": "scenes",
+      "assetKind": "scene",
+      "theme": "sports",
+      "style": "source-preserved-low-poly",
+      "title": "Rebounder And Lacrosse Side Bench Preparation Bay",
+      "description": "One static sports-equipment preparation bay, zero new models and one scene. Two complete accepted original models retain their entire geometry, metre scale and opaque PBR values: a tilted mesh rebounder stands at the left on its original four pads, while a whole lacrosse-inspired stick lies along the separate right-hand braced bench. Two small finite bench-top supports seat the original shaft without altering it. One new finite floor and complete subordinate braced bench leave an open front approach and a positive interval between the whole props. Embedded complete original source and whole-GLB hashes are checked before translation-only composition. No extracted fragments, scaled replacements, changed original materials or repeated model count. Empty illustrative static layout only, no training sequence, interaction, ball return, stick use, loading, fit, regulation, manufacture or safety claim.",
+      "bounds": {
+        "x": 2.6999999284744263,
+        "y": 2.340000033378601,
+        "z": 1.4081782102584839,
+        "unit": "m"
+      },
+      "triangles": 4268,
+      "materials": 11,
+      "files": {
+        "glb": {
+          "path": "assets/sports/sports-whole-rebounder-and-lacrosse-side-bench-preparation-bay-scene-01/v1.0.0/model.glb",
+          "size": 440596,
+          "sha256": "4335136ef25c8fa00802f558dad9041673ec669c408aed697e6f1e9dcb31919a"
+        },
+        "blend": {
+          "path": "assets/sports/sports-whole-rebounder-and-lacrosse-side-bench-preparation-bay-scene-01/v1.0.0/source.blend",
+          "size": 1670076,
+          "sha256": "69bd104d65fc317b3609fa5fcfcb617106d40e75efbdfe294e4af8d768ff6c34"
+        },
+        "generator": {
+          "path": "assets/sports/sports-whole-rebounder-and-lacrosse-side-bench-preparation-bay-scene-01/v1.0.0/generate.py",
+          "size": 37291,
+          "sha256": "32b5a724337261d7b917e117ae280b63def2af981507a543bb09b341d78a95b3"
+        },
+        "render": {
+          "path": "assets/sports/sports-whole-rebounder-and-lacrosse-side-bench-preparation-bay-scene-01/v1.0.0/thumbnail.png",
+          "size": 522996,
+          "sha256": "a30a65d9816619f59a06c24b234a324b52e029785945a6bf2439cc189f301f17"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1662-volume02-20261025"
     }
   ]
 }
