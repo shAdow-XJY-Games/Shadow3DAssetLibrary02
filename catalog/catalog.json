@@ -2224,6 +2224,11 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary02",
       "commit": "443d336362cd681d1529b8a62b9dd43f058705c1"
+    },
+    "original-qualified-batch-1717-volume02-20261025": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary02",
+      "commit": "62dc88a963c5f876b686f3f991f1227ff268d30f"
     }
   },
   "assets": [
@@ -75928,6 +75933,135 @@
       "status": "verified",
       "license": "All rights reserved",
       "sourceId": "original-qualified-batch-1714-volume02-20261025"
+    },
+    {
+      "id": "sports-fixed-pentagonal-base-and-open-flared-cup-batting-tee-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "sports",
+      "style": "source-preserved-low-poly",
+      "title": "Pentagonal Base And Open Flared Cup Batting Tee",
+      "description": "One newly authored whole fixed batting-tee-inspired decorative display. A broad thick pentagonal base supports a complete short rooted socket, two slender coaxial mast sections, a full transition collar and one open flared ball-rest cup with an actual finite inner wall and closed bottom. The cup is genuinely empty, not a black disc, and the entire long mast and ground base remain present. Six closed complete components, three opaque constant PBR roles, metres Z up and horizontal bounds-centred ground datum. New numeric geometry, no bat, ski shaft, flower vase, stand or other old mesh extracted or resized. One original model and zero scenes. Broad baseball-practice equipment appearance only, no ball or user. The fixed overlapping mast sections merely suggest an adjustable exterior; no telescoping motion, ball compatibility, swing path, training performance, strength, loading, tipping resistance, dimensions for manufacture, real equipment or safety capability made or verified. No rigging, animation or interaction.",
+      "bounds": {
+        "x": 0.4399999976158142,
+        "y": 0.47999998927116394,
+        "z": 1.0,
+        "unit": "m"
+      },
+      "triangles": 792,
+      "materials": 3,
+      "files": {
+        "glb": {
+          "path": "assets/sports/sports-fixed-pentagonal-base-and-open-flared-cup-batting-tee-01/v1.0.0/model.glb",
+          "size": 71404,
+          "sha256": "8cfb7766b85cf14c402ec6eaaf0c9778db01f3ce1168ab6c9f9a608878759e67"
+        },
+        "blend": {
+          "path": "assets/sports/sports-fixed-pentagonal-base-and-open-flared-cup-batting-tee-01/v1.0.0/source.blend",
+          "size": 634428,
+          "sha256": "4062c77e7cc7ff5984175eba4ac17fc8b7f411d65ceaf8932feaf5c02982d8c7"
+        },
+        "generator": {
+          "path": "assets/sports/sports-fixed-pentagonal-base-and-open-flared-cup-batting-tee-01/v1.0.0/generate.py",
+          "size": 17360,
+          "sha256": "1f29e396be639f1406aae53c7eb47e2f8ed3386cfe55a174030b02cb03e36bbb"
+        },
+        "render": {
+          "path": "assets/sports/sports-fixed-pentagonal-base-and-open-flared-cup-batting-tee-01/v1.0.0/thumbnail.png",
+          "size": 413298,
+          "sha256": "cf8dac6a3aefcee568e755a2e394ecea8fbc0e3846509347dbf06155a471412c"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1717-volume02-20261025"
+    },
+    {
+      "id": "tailoring-fixed-open-unequal-fork-and-guarded-tip-seam-tool-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "tailoring",
+      "style": "S01-clean-geometric",
+      "title": "Fixed Open Unequal Fork and Guarded Tip Seam Tool",
+      "description": "One newly authored complete static seam-ripper-style hand-tool exterior. A whole rounded-ended elongated grip narrows into a short neck, embedding the complete straight stem of one integral metal-look fork. That single closed shaft-and-fork shell branches into a longer gently hooked tip and a shorter tip across a real open U-shaped notch. A whole rounded contrasting guard bead encloses the end of the shorter branch. Both branch ends and every edge have finite thickness; no sharpened bevel or cutting-performance claim. All numeric geometry newly authored with no shears half, nib, cap, old grip or detached piece imported. Three constant opaque PBR roles, metres Z up and whole ground datum, one original model zero scenes. Static illustrative tailoring-tool exterior only: no thread, fabric, seam removal, cutting, actual guard protection, force, hand fit, material suitability, manufacture or safety capability. Rigging animation interaction not made.",
+      "bounds": {
+        "x": 0.02800000086426735,
+        "y": 0.18199999630451202,
+        "z": 0.02800000086426735,
+        "unit": "m"
+      },
+      "triangles": 948,
+      "materials": 3,
+      "files": {
+        "glb": {
+          "path": "assets/tailoring/tailoring-fixed-open-unequal-fork-and-guarded-tip-seam-tool-01/v1.0.0/model.glb",
+          "size": 82520,
+          "sha256": "08daa3c97ad3b7f2025f9d3b5e2a6dd05e21e8cde28f471f98f51bb6c875fb7e"
+        },
+        "blend": {
+          "path": "assets/tailoring/tailoring-fixed-open-unequal-fork-and-guarded-tip-seam-tool-01/v1.0.0/source.blend",
+          "size": 652992,
+          "sha256": "50850998297f3e91fc93d336d313f6d5d4ebf0fc72c0fc44c5beb5a6517b2e15"
+        },
+        "generator": {
+          "path": "assets/tailoring/tailoring-fixed-open-unequal-fork-and-guarded-tip-seam-tool-01/v1.0.0/generate.py",
+          "size": 15531,
+          "sha256": "5cb75404ce7cd657454f488760de364558ccfb7c48db517577a2f30a52a3bba0"
+        },
+        "render": {
+          "path": "assets/tailoring/tailoring-fixed-open-unequal-fork-and-guarded-tip-seam-tool-01/v1.0.0/thumbnail.png",
+          "size": 454450,
+          "sha256": "47e6a20feda90e4cbb7719096a30c82ed5624fef3d3157768d7edc9c0d6e4fcc"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1717-volume02-20261025"
+    },
+    {
+      "id": "agriculture-fixed-cutaway-flat-die-and-twin-roller-pellet-mill-01",
+      "version": "1.0.0",
+      "category": "modular",
+      "assetKind": "prop",
+      "theme": "agriculture",
+      "style": "warm-handcrafted-village",
+      "title": "Fixed Cutaway Flat Die and Twin Roller Pellet Mill",
+      "description": "One newly authored whole fixed flat-die pellet-mill-style cutaway display. Two long ground runners carry a full lower case, four radial die-support ribs, an annular carrier and one entire horizontal annular die with thirty-two genuine through holes in two rows. A full vertical shaft and central head support a complete horizontal axle with two separate broad grooved cylindrical rollers above the flat die. The front chamber and feed collar are intentionally cut away, retaining one whole rear half-wall and flared rear feed-collar shell to expose the die and rollers; this is not an enclosed operating chamber. A complete outboard gearbox-shaped case, supported horizontal motor exterior, end cap, blank terminal box and empty front trough finish the whole machine. Every visible coordinate newly authored; no kitchen food-mill, airlock rotor or mixer mesh imported. Not a hand-cranked bowl with a sweep plate, opposed crushing rolls or concentric pocket rotor: the key structure is a pierced horizontal die beneath two radial roller bodies. One model zero scenes. Empty static illustrative art only. Hole number and broad dimensions are stylized, not a usable die grade. Lower case is a closed display solid; cutter, internal gear train, seals, electrical wiring and continuous material path are not made. No pellet production, food/feed suitability, die pressure, roller traction/contact, motion, thermal behavior, flow, throughput, drive power, mounting, engineering, manufacture or machinery safety capability made or verified. Rigging, animation and interaction not made.",
+      "bounds": {
+        "x": 1.690000057,
+        "y": 1.292999983,
+        "z": 1.269999981,
+        "unit": "m"
+      },
+      "triangles": 3852,
+      "materials": 4,
+      "files": {
+        "glb": {
+          "path": "assets/agriculture/agriculture-fixed-cutaway-flat-die-and-twin-roller-pellet-mill-01/v1.0.0/model.glb",
+          "size": 176444,
+          "sha256": "b5530f2b84f04bb87100c2f2d5b73f176ee93497917af63e1504319d8e03e51f"
+        },
+        "blend": {
+          "path": "assets/agriculture/agriculture-fixed-cutaway-flat-die-and-twin-roller-pellet-mill-01/v1.0.0/source.blend",
+          "size": 783612,
+          "sha256": "4ca18e55858c76c33face8e7f02f47e2a37022bf72e986573961eabb27a7d5ee"
+        },
+        "generator": {
+          "path": "assets/agriculture/agriculture-fixed-cutaway-flat-die-and-twin-roller-pellet-mill-01/v1.0.0/generate.py",
+          "size": 35347,
+          "sha256": "24b6f1c6d67f97e44426d101e7e1c6b6cf4606374c21a48926859003a57f84a2"
+        },
+        "render": {
+          "path": "assets/agriculture/agriculture-fixed-cutaway-flat-die-and-twin-roller-pellet-mill-01/v1.0.0/thumbnail.png",
+          "size": 540097,
+          "sha256": "c3f51c5da0c487bcbe355392f31080543e7f955443fb3024a0e1003f43657cfc"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1717-volume02-20261025"
     }
   ]
 }
