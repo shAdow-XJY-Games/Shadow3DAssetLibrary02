@@ -1,0 +1,42 @@
+{
+  "id": "retail-whole-raised-sealer-and-cantilever-tape-packing-bench-scene-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "retail",
+  "style": "source-preserved-low-poly",
+  "title": "Whole Raised Sealer and Cantilever Tape Packing Bench",
+  "description": "One static retail packing-equipment preparation bench scene, one new scene zero new independent models. The entire qualified rear-hinged pressure-bar sealer stands on the left with its full bar raised. The complete qualified wide cantilever-roll packing tape hand tool stands separately on its full grip sole at the forward right. Both whole objects sit directly on one compact finite four-legged bench, with clear separation and no implied linked material path. A low finite floor and complete simple bench are scene environment only, not separately counted models. Every original full GLB buffer, POSITION/NORMAL array, PBR dictionary, per-face assignment, mesh and internal hierarchy is preserved under whole unit-scale translations only. No model is cropped, extracted, scaled or recoloured. Unlike the office printer and laminator workbench, this is a compact manual packing-tools station with a raised long pressure bar and exposed tape roll, not fanfold or roll-processing equipment. Empty static artistic exhibit: no parcels, bags, adhesive or packaging output, working heating or sealing, tape unwinding, powered functions, electrical connection, ergonomics, grip stability, bench load, manufacture or workplace safety capability. No rigging animation or interaction.",
+  "bounds": {
+    "x": 1.399999976158142,
+    "y": 1.0,
+    "z": 1.1382596492767334,
+    "unit": "m"
+  },
+  "triangles": 1696,
+  "materials": 10,
+  "files": {
+    "glb": {
+      "path": "assets/retail/retail-whole-raised-sealer-and-cantilever-tape-packing-bench-scene-01/v1.0.0/model.glb",
+      "size": 163076,
+      "sha256": "3b1714f8b166b2d1c7058cc297cf8acb870378ac2e7011d35bc542cc6d18561c"
+    },
+    "blend": {
+      "path": "assets/retail/retail-whole-raised-sealer-and-cantilever-tape-packing-bench-scene-01/v1.0.0/source.blend",
+      "size": 1003344,
+      "sha256": "8e1ce4074df8dfcf3c483b442b95035cc9ab9380c2f65525461acd86f1e745d4"
+    },
+    "generator": {
+      "path": "assets/retail/retail-whole-raised-sealer-and-cantilever-tape-packing-bench-scene-01/v1.0.0/generate.py",
+      "size": 58265,
+      "sha256": "ad049005867b6bdcc9658f8c9a05f84c88660faea3598b94326e54cbfe64f7c9"
+    },
+    "render": {
+      "path": "assets/retail/retail-whole-raised-sealer-and-cantilever-tape-packing-bench-scene-01/v1.0.0/thumbnail.png",
+      "size": 502787,
+      "sha256": "b0e72ce5ec3eb751052b457faca177a587ee543e4cd58c7ce02ffc528dad6587"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

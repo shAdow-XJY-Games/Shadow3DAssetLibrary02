@@ -1,0 +1,43 @@
+{
+  "id": "sports-whole-snowshoe-bench-and-inline-ski-equipment-bay-scene-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "sports",
+  "style": "source-preserved-low-poly",
+  "title": "Snowshoe Bench And Inline Ski Equipment Bay",
+  "description": "One static outdoor sports-equipment preparation bay, zero new models and one scene. Three complete accepted original models retain all geometry, metre scale and opaque PBR values: a whole open-binding snowshoe sits on a low left braced bench by its four original traction soles, a whole single inline roller ski stands in the separate right floor lane on its two unchanged wheel facets, and a complete blunt ice tool stands at the rear on its finite ferrule. One new finite floor and complete subordinate low bench leave a clear front approach and separate whole bounds. Corrected qualified snowshoe and roller-ski sources are used, not their rejected prior versions. Complete embedded original source and whole-GLB hashes are checked before translation-only composition. No extraction, scaling, recolouring, fragment substitution or repeated model count. Empty illustrative static layout only; no training sequence, equipment use, physical stability, loading, fit, regulation, manufacture or safety claim.",
+  "bounds": {
+    "x": 1.399999976158142,
+    "y": 1.6500000357627869,
+    "z": 0.6520000100135803,
+    "unit": "m"
+  },
+  "triangles": 4688,
+  "materials": 15,
+  "files": {
+    "glb": {
+      "path": "assets/sports/sports-whole-snowshoe-bench-and-inline-ski-equipment-bay-scene-01/v1.0.0/model.glb",
+      "size": 447228,
+      "sha256": "f9efbb3b796b071a14e4a76883bfec309a241493b31116141368fdc97737a587"
+    },
+    "blend": {
+      "path": "assets/sports/sports-whole-snowshoe-bench-and-inline-ski-equipment-bay-scene-01/v1.0.0/source.blend",
+      "size": 1649852,
+      "sha256": "7ac1fbba8addf7183fddae6ea6b620d697cc19b547b43ef9a823494753939044"
+    },
+    "generator": {
+      "path": "assets/sports/sports-whole-snowshoe-bench-and-inline-ski-equipment-bay-scene-01/v1.0.0/generate.py",
+      "size": 47933,
+      "sha256": "cccf5dc42452c0491bf9eedc89eaecd8002ae87f03f663bc19d65a734da2724a"
+    },
+    "render": {
+      "path": "assets/sports/sports-whole-snowshoe-bench-and-inline-ski-equipment-bay-scene-01/v1.0.0/thumbnail.png",
+      "size": 477174,
+      "sha256": "6f34bd47a97a0e0126e5f384d4a97f19ca33b2adec99cf2753876230d364ad6f"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved",
+  "sourceId": "sports-current-dot-originals-20261027"
+}

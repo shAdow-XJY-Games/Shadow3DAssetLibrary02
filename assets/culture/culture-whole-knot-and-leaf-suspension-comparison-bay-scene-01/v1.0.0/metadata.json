@@ -1,0 +1,42 @@
+{
+  "id": "culture-whole-knot-and-leaf-suspension-comparison-bay-scene-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "culture",
+  "style": "source-preserved-low-poly",
+  "title": "Whole Knot and Leaf Suspension Comparison Bay",
+  "description": "One static whole-sculpture comparison bay, one scene and zero new independent models. Two complete qualified originals retain every original mesh buffer, normal, full PBR assignment and internal node hierarchy at unchanged unit metre scale. The complete continuous spatial-knot tube with its short support, entire round plinth and bevelled ground foot stands to the left and slightly back. The entire six-leaf three-level suspension sculpture, including all five rods, every link and its own rounded cantilever and full elliptical foot, stands separately to the right and slightly forward. Each complete original foot has measured finite contact with one simple new scene-only floor; whole bounds remain more than half a metre apart. No original geometry, material, internal proportion or scale is cropped or changed. This is a new whole-object comparison of closed interwoven tube and open branching suspension, not a claim of an unprecedented floor plan. The earlier sculpture court used different complete band/reader/bench objects. No new sculpture is counted, no display case or seating is added, and no dynamic balance, topology theorem, swinging, structural load, public installation, access, manufacture or safety capability is represented. No rig, animation or interaction.",
+  "bounds": {
+    "x": 4.400000095367432,
+    "y": 2.0999999046325684,
+    "z": 2.5000059604644775,
+    "unit": "m"
+  },
+  "triangles": 6084,
+  "materials": 9,
+  "files": {
+    "glb": {
+      "path": "assets/culture/culture-whole-knot-and-leaf-suspension-comparison-bay-scene-01/v1.0.0/model.glb",
+      "size": 494540,
+      "sha256": "805dbda7bdcfaea266c9617ad6bae70208c5e7f32eb098ea663306219863d577"
+    },
+    "blend": {
+      "path": "assets/culture/culture-whole-knot-and-leaf-suspension-comparison-bay-scene-01/v1.0.0/source.blend",
+      "size": 1485572,
+      "sha256": "a313dcd1a444125dc81b59adafc8cb7d410b566be371c41118f4b6c2e5e57956"
+    },
+    "generator": {
+      "path": "assets/culture/culture-whole-knot-and-leaf-suspension-comparison-bay-scene-01/v1.0.0/generate.py",
+      "size": 202508,
+      "sha256": "c5a284efd404d0b491c410f694d542532890c730bdf247319b3aceac13563d75"
+    },
+    "render": {
+      "path": "assets/culture/culture-whole-knot-and-leaf-suspension-comparison-bay-scene-01/v1.0.0/thumbnail.png",
+      "size": 522793,
+      "sha256": "6cec2fb9b9f36a226f10f780f72f1c819f9e77ed27be873d257261939f5e7a73"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
