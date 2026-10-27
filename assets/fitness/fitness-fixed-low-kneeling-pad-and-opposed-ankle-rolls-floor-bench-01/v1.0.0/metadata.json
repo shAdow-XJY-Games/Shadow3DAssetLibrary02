@@ -1,0 +1,43 @@
+{
+  "id": "fitness-fixed-low-kneeling-pad-and-opposed-ankle-rolls-floor-bench-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "fitness",
+  "style": "source-preserved-low-poly",
+  "title": "Low Kneeling Pad And Opposed Ankle Rolls Floor Bench",
+  "description": "One newly authored whole empty fixed floor-curl-bench-inspired visual prop. A long low chamfered horizontal kneeling pad and complete underplate sit on two full longitudinal rails and two transverse ground feet with four finite soles. A short rear central post carries two separated transverse axles at different heights and four complete bevel-shouldered ankle rollers, leaving two genuine open intervals between the upper and lower roller pairs. A full vertical heel backplate is rooted behind the rollers by an independent short horizontal support. One complete small setting knob is fixed in place. All numeric geometry is newly authored: not an old tall inclined split-hip extension bench lowered, not the low footplate and upright calf-pad squat station, and not an old padded press bench with parts removed. Four opaque constant PBR roles, metres Z up, full bounds-centred ground origin. One model, zero scenes; unoccupied static appearance only. No person, weights, moving adjustment, restraint simulation, exercise or therapy instruction or benefit, body fit, padding response, actual loads, equilibrium, physical stability, material specifications, manufacture, operation or safety certification. No rigging, animation or interaction.",
+  "bounds": {
+    "x": 0.7200000286102295,
+    "y": 1.4199999570846558,
+    "z": 0.675000011920929,
+    "unit": "m"
+  },
+  "triangles": 1196,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/fitness/fitness-fixed-low-kneeling-pad-and-opposed-ankle-rolls-floor-bench-01/v1.0.0/model.glb",
+      "size": 115076,
+      "sha256": "ca86df4a503c1b593fbe0fe16dfe7f313ac30e673fbd1383c4252767108aa830"
+    },
+    "blend": {
+      "path": "assets/fitness/fitness-fixed-low-kneeling-pad-and-opposed-ankle-rolls-floor-bench-01/v1.0.0/source.blend",
+      "size": 773404,
+      "sha256": "f53997df1d350f05d04f80df05c2ca5bd0c86b806287bb216a1ccda51a294e2c"
+    },
+    "generator": {
+      "path": "assets/fitness/fitness-fixed-low-kneeling-pad-and-opposed-ankle-rolls-floor-bench-01/v1.0.0/generate.py",
+      "size": 19231,
+      "sha256": "3bb3bfe18190b7bb76c7a59925320ccd48a539cbb9a13e3a0a0c7e8b41030523"
+    },
+    "render": {
+      "path": "assets/fitness/fitness-fixed-low-kneeling-pad-and-opposed-ankle-rolls-floor-bench-01/v1.0.0/thumbnail.png",
+      "size": 503558,
+      "sha256": "f3ea1f819879139b856c4b5d845145e7416687f8a84609cb041fc15b1373e64a"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved",
+  "sourceId": "sports-current-dot-originals-20261027"
+}
