@@ -1,0 +1,43 @@
+{
+  "id": "sports-whole-open-hopper-machine-and-cradle-trolley-side-court-scene-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "sports",
+  "style": "source-preserved-low-poly",
+  "title": "Whole Open Hopper Machine And Cradle Trolley Side Court",
+  "description": "One complete static side-court equipment preparation scene, zero new independent models and one scene. The whole accepted open-hopper twin-wheel machine stands at the left forward position while the entire empty two-tier V-cradle ball trolley stands separately to the right rear on one finite common hardstand. All original mesh payloads, indices, normals, full opaque PBR dictionaries and internal hierarchies remain unchanged at unit scale under whole-instance translations only. The new compact floor, lateral interval and clear front strip form an equipment display, not a full tennis court, goal approach, playable sports layout or replacement court-line module. No source generator is executed for reuse; complete source bytes are embedded as provenance, and original whole GLB bytes are hash-verified before raw-buffer composition. No roller, wheel, rail, hopper or other fragment is extracted, resized, recoloured or counted again. Both units are empty. This juxtaposition does not establish trolley-to-machine ball compatibility, feed workflow or human access. No balls, persons, dynamic feed, throwing, rolling, training advice, performance, loading, stability, manufacture, installation, safety capability, rigging, animation or interaction made or verified.",
+  "bounds": {
+    "x": 2.9000000953674316,
+    "y": 1.559999942779541,
+    "z": 1.1999999284744263,
+    "unit": "m"
+  },
+  "triangles": 4408,
+  "materials": 10,
+  "files": {
+    "glb": {
+      "path": "assets/sports/sports-whole-open-hopper-machine-and-cradle-trolley-side-court-scene-01/v1.0.0/model.glb",
+      "size": 226232,
+      "sha256": "a1b082a1a3ecf274f8ccae05551febaa27b9bfdaece70ff307f3bb7862541426"
+    },
+    "blend": {
+      "path": "assets/sports/sports-whole-open-hopper-machine-and-cradle-trolley-side-court-scene-01/v1.0.0/source.blend",
+      "size": 1313848,
+      "sha256": "3bf32ae4dbfb9adc89d9ec80224f4f00af7ce1788276823b6e9dca70aceddc42"
+    },
+    "generator": {
+      "path": "assets/sports/sports-whole-open-hopper-machine-and-cradle-trolley-side-court-scene-01/v1.0.0/generate.py",
+      "size": 85601,
+      "sha256": "390f05778ea5d7da24f5ffc8f17ca85977feed0e897c94ce0467e357ff21d955"
+    },
+    "render": {
+      "path": "assets/sports/sports-whole-open-hopper-machine-and-cradle-trolley-side-court-scene-01/v1.0.0/thumbnail.png",
+      "size": 512386,
+      "sha256": "622b800c77804ac5f2465513b2258bedd7fbbbee3ad062605cd7460e6a647be6"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved",
+  "sourceId": "sports-current-dot-originals-20261027"
+}

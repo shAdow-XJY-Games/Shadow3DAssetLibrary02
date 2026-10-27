@@ -1,0 +1,42 @@
+{
+  "id": "bakery-whole-bored-pin-and-ribbon-blender-preparation-board-scene-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "bakery",
+  "style": "source-preserved-low-poly",
+  "title": "Whole Bored Pin and Ribbon Blender Preparation Board",
+  "description": "One complete static bakery hand-tool preparation-board scene, one new scene zero new independent models. The entire qualified bored-barrel rolling pin lies horizontally across the rear of a low three-rimmed board, retaining its full hollow barrel, complete shaft and both separate dark grips. The whole qualified curved five-ribbon pastry blender stands on its existing lower ribbon datum at the front left, leaving a clear empty working area to its right. Both complete objects fit within the board inner footprint with a positive gap along Y. A single continuous scene-only board has two side rims and a rear rim with an open unraised front edge; it is not a separately counted model. Both complete original GLB buffers, POSITION/NORMAL arrays, material dictionaries, face assignments and internal hierarchy remain exact under whole unit-scale translations only; no cropping, extraction, scaling, recolouring or re-counting. Unlike the previous room-scale mixer/dough worktable, this is a compact open-front manual-tool board display. Static empty display only: no dough, mixing, rolling action, kneading, food contact, sanitation, tool performance, ergonomics, loading, manufacture or safety capability. No rigging animation or interaction.",
+  "bounds": {
+    "x": 0.7200000286102295,
+    "y": 0.4000000059604645,
+    "z": 0.19700001180171967,
+    "unit": "m"
+  },
+  "triangles": 1704,
+  "materials": 8,
+  "files": {
+    "glb": {
+      "path": "assets/bakery/bakery-whole-bored-pin-and-ribbon-blender-preparation-board-scene-01/v1.0.0/model.glb",
+      "size": 123292,
+      "sha256": "3ce7679a338295726d9ab1a283841b079ac9c79e5ce5d1e609f792e22b2dacf9"
+    },
+    "blend": {
+      "path": "assets/bakery/bakery-whole-bored-pin-and-ribbon-blender-preparation-board-scene-01/v1.0.0/source.blend",
+      "size": 889804,
+      "sha256": "a754b981c2d1148adeca3219e896c61bcb5cf256cf09944aafa66e459c424b16"
+    },
+    "generator": {
+      "path": "assets/bakery/bakery-whole-bored-pin-and-ribbon-blender-preparation-board-scene-01/v1.0.0/generate.py",
+      "size": 63348,
+      "sha256": "67b2b8b27e3f19cc8dbd123be0d94847dc484244790ddcc6ec74b8cdaefb664a"
+    },
+    "render": {
+      "path": "assets/bakery/bakery-whole-bored-pin-and-ribbon-blender-preparation-board-scene-01/v1.0.0/thumbnail.png",
+      "size": 485410,
+      "sha256": "e448d8b7e38eaf0657069974f4acd2e86f039c6e387c73d389cae4fdf304fcb8"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "music-fixed-cutaway-pin-tube-and-settled-grain-rainstick-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "music",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Cutaway Pin Tube and Settled Grain Rainstick",
+  "description": "One newly authored complete static cutaway rainstick-inspired explanatory prop. A single thick wooden-look tube retains both closed ends, full inner floor and ceiling, and a deliberately open front middle window with finite cut edges. Fourteen complete staggered blunt internal pins remain rooted in the back half wall and project inward. Eight complete coarse grain-like pieces rest separately on the original inner floor with small explicit fixed seats. The whole flat bottom closure is the ground sole. Every profile, pin and grain coordinate is new; no old cactus, slotted two-tube shaker frame, maraca, waterphone or existing mesh fragment reused. Four opaque PBR roles, metre scale, native Z up, one model zero scenes. The front opening is an intentional newly authored explanatory cutaway, not a usable sealed instrument; removed front-side material and pins are not represented. No named cultural replica, copied decoration, sound, particle motion, grain containment, tuning, acoustic performance, playable mechanism, botanical accuracy, fabrication or safety capability. No rig or animation.",
+  "bounds": {
+    "x": 0.14000000059604645,
+    "y": 0.14000000059604645,
+    "z": 0.5400000214576721,
+    "unit": "m"
+  },
+  "triangles": 2580,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/music/music-fixed-cutaway-pin-tube-and-settled-grain-rainstick-01/v1.0.0/model.glb",
+      "size": 236284,
+      "sha256": "7aa06adee363c4412acd3e194e7ace27cb51606b78808b3d5d55c176aece2b6a"
+    },
+    "blend": {
+      "path": "assets/music/music-fixed-cutaway-pin-tube-and-settled-grain-rainstick-01/v1.0.0/source.blend",
+      "size": 953104,
+      "sha256": "7578f6767ffa01fd75c116e1879a334b31cd2cf5e0acb8ea77077fecac660e48"
+    },
+    "generator": {
+      "path": "assets/music/music-fixed-cutaway-pin-tube-and-settled-grain-rainstick-01/v1.0.0/generate.py",
+      "size": 12557,
+      "sha256": "058ac6658fe369400d4f996e2a08291b811562246594f3263a2d86a2221530b7"
+    },
+    "render": {
+      "path": "assets/music/music-fixed-cutaway-pin-tube-and-settled-grain-rainstick-01/v1.0.0/thumbnail.png",
+      "size": 505887,
+      "sha256": "9d6f05e9adaf6930b6e0e0f86e751fc87dd11b52b3d2bbd2f53e4c5eef2ac055"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
