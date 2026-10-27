@@ -1,0 +1,43 @@
+{
+  "id": "sports-fixed-twin-lobed-waist-and-rounded-edge-pull-buoy-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "sports",
+  "style": "source-preserved-low-poly",
+  "title": "Twin Lobed Waist And Rounded Edge Pull Buoy",
+  "description": "One newly authored whole pull-buoy-inspired static exterior. A broad continuous figure-eight plan has two smoothly rounded lobes and a deep concave waist on both sides; a full thick transverse body joins both lobes without a rod, seam, shell cavity or separate assembled ends. Seven complete inset-to-full-width rings create rounded-looking faceted edge transitions around the entire solid body, while broad whole planar upper and lower faces retain the full two-lobed contour. Two opaque matte solid material regions divide the continuous thickness into pale and muted-blue roles; the color boundary is not a separate plate or texture. All coordinates and contour construction newly authored, not a scaled peanut pod, shortened dumbbell, body part or changed ball. One connected closed whole mesh, one original model zero scenes, metres Z up and bounds-centred finite lower-face ground datum. Generic unoccupied game prop only, not a functional float. No buoyancy, swimming instruction, training benefit, body fit, foam properties, water safety, flotation certification, physical performance, manufacturing specification, animation or interaction claim.",
+  "bounds": {
+    "x": 0.0854872614145279,
+    "y": 0.23477649688720703,
+    "z": 0.09000000357627869,
+    "unit": "m"
+  },
+  "triangles": 892,
+  "materials": 2,
+  "files": {
+    "glb": {
+      "path": "assets/sports/sports-fixed-twin-lobed-waist-and-rounded-edge-pull-buoy-01/v1.0.0/model.glb",
+      "size": 77032,
+      "sha256": "f2915f75d39eab118e74ab2f181d3107448c714c918cba9d106dcc314d4b7322"
+    },
+    "blend": {
+      "path": "assets/sports/sports-fixed-twin-lobed-waist-and-rounded-edge-pull-buoy-01/v1.0.0/source.blend",
+      "size": 598956,
+      "sha256": "cb6a31de34b9b38f03f8905b911dd64f3425eaf1a53d590d5a303a2d5b05851e"
+    },
+    "generator": {
+      "path": "assets/sports/sports-fixed-twin-lobed-waist-and-rounded-edge-pull-buoy-01/v1.0.0/generate.py",
+      "size": 17817,
+      "sha256": "93d049bbe99409bb440d358a7f8db146fbdee10eed4d7a0697be0d91ae417971"
+    },
+    "render": {
+      "path": "assets/sports/sports-fixed-twin-lobed-waist-and-rounded-edge-pull-buoy-01/v1.0.0/thumbnail.png",
+      "size": 494315,
+      "sha256": "b2299b6a8c70d9e7c56574b58609e7ededdf264b3ba34632e9871a9472e6bc1d"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved",
+  "sourceId": "sports-current-dot-originals-20261027"
+}
