@@ -1,0 +1,42 @@
+{
+  "id": "hotel-fixed-crossed-frames-and-webbing-luggage-rack-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "hotel",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Crossed Frames and Webbing Luggage Rack",
+  "description": "One newly authored complete empty luggage-rack exterior with two whole rounded transverse U frames in genuinely offset crossed side planes, two complete transverse side pins at the exact crossing height, five separate complete broad thick webbing straps and four closed ground caps. Each whole strap spans both top rails and curves fully over each rail into a short inward underside return; gaps are real open space, not painted stripes. All numeric geometry newly authored, not a camping chair with its back cut off, a cropped ironing-board base, or a wheeled luggage cart. No seat canvas, back, arms, solid board, suitcase, wheel or load. Three constant opaque PBR roles, metre units Z up and whole bounds-centred ground origin. One original model zero scenes; repeated straps and feet are not separate assets. Static hotel game art only; no actual folding, fabric simulation, luggage fit, load capacity, stability, mobility, manufacture or safety performance. Rigging animation and interaction not made.",
+  "bounds": {
+    "x": 0.7039999961853027,
+    "y": 0.6039999723434448,
+    "z": 0.5360000133514404,
+    "unit": "m"
+  },
+  "triangles": 2092,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/hotel/hotel-fixed-crossed-frames-and-webbing-luggage-rack-01/v1.0.0/model.glb",
+      "size": 185656,
+      "sha256": "c44066c65cb72df32bffefb191a2256a5bb0259550c0c2665fa153945455f4d1"
+    },
+    "blend": {
+      "path": "assets/hotel/hotel-fixed-crossed-frames-and-webbing-luggage-rack-01/v1.0.0/source.blend",
+      "size": 828160,
+      "sha256": "f4c442ca73e2f0dc6ae387d740031e0939db085b7634fb1e9b20c5d3f6ccdfd3"
+    },
+    "generator": {
+      "path": "assets/hotel/hotel-fixed-crossed-frames-and-webbing-luggage-rack-01/v1.0.0/generate.py",
+      "size": 16050,
+      "sha256": "16f147269a18894ca50a3453e46fce9439fe544b1a1ea8018b27e2e3bdeab4dd"
+    },
+    "render": {
+      "path": "assets/hotel/hotel-fixed-crossed-frames-and-webbing-luggage-rack-01/v1.0.0/thumbnail.png",
+      "size": 524006,
+      "sha256": "8a56898e7a45a3ac055430eafc6913bc489ee8d766ce0e0b3ff055d17eadbd36"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
