@@ -1,0 +1,42 @@
+{
+  "id": "industrial-fixed-cutaway-pocket-rotor-and-square-throat-airlock-feeder-01",
+  "version": "1.0.0",
+  "category": "modular",
+  "assetKind": "prop",
+  "theme": "industrial",
+  "style": "warm-handcrafted-village",
+  "title": "Fixed Cutaway Pocket Rotor and Square Throat Airlock Feeder",
+  "description": "One newly authored whole rotary-airlock-feeder-style static cutaway display. Two complete side arcs of a thick cylindrical body and a full rear end plate surround a concentric shaft-mounted hub and eight complete broad blunt radial pocket vanes. Genuine opposed square through throats and proud rectangular flange frames open above and below the circular chamber. The front end is deliberately cut away to a full rim and central bearing crossbridge, exposing the fixed rotor instead of pretending to be a sealed cover. Two long finite mounting feet with body roots, front and rear bearing exteriors, short rear gearbox, full motor-shaped body, end cap and blank terminal box complete the whole assembly. All visible coordinates newly authored. Not the existing offset slotted rotor with unequal sliding vanes or the twin-gear peanut chamber: this has concentric pocket blades and real opposed square feed/discharge openings, with an outboard drive exterior. No powder, vessel, loose rotor or separate stand. One model zero scenes. Static cutaway art only; no rotor movement, material delivery, air seal, pressure boundary, explosion protection, running clearance, drive, electrical operation, engineering, manufacture or machinery safety capability made or verified. Rigging, animation and interaction not made.",
+  "bounds": {
+    "x": 0.829999983,
+    "y": 1.065000057,
+    "z": 1.004999995,
+    "unit": "m"
+  },
+  "triangles": 2128,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/industrial/industrial-fixed-cutaway-pocket-rotor-and-square-throat-airlock-feeder-01/v1.0.0/model.glb",
+      "size": 113140,
+      "sha256": "9b001a5c461eb892e5872390361c2ebb5f4555f9dc77ae0ce3c511b58fd523d7"
+    },
+    "blend": {
+      "path": "assets/industrial/industrial-fixed-cutaway-pocket-rotor-and-square-throat-airlock-feeder-01/v1.0.0/source.blend",
+      "size": 737784,
+      "sha256": "587a6415a24d092f51661ab1dda50be47b373903e9b4cf5c9e94d7dd5d76b990"
+    },
+    "generator": {
+      "path": "assets/industrial/industrial-fixed-cutaway-pocket-rotor-and-square-throat-airlock-feeder-01/v1.0.0/generate.py",
+      "size": 33343,
+      "sha256": "2d2c5392a79d604af11a622c8642b1c37897bc4cd84dfb160eef29277044a630"
+    },
+    "render": {
+      "path": "assets/industrial/industrial-fixed-cutaway-pocket-rotor-and-square-throat-airlock-feeder-01/v1.0.0/thumbnail.png",
+      "size": 562782,
+      "sha256": "d3b341b6a23b2ee349e732518407a1bd56526f4f5eef6a556fbbd8d693705288"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
