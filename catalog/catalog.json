@@ -2194,6 +2194,11 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary02",
       "commit": "af3d9ed2b9c24864276a8ce34998ddb2b9955170"
+    },
+    "original-qualified-batch-1705-volume02-20261025": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary02",
+      "commit": "1e73d07a2b58e54753d0631d2d85c586dedb9a76"
     }
   },
   "assets": [
@@ -75425,6 +75430,92 @@
       "status": "verified",
       "license": "All rights reserved",
       "sourceId": "original-qualified-batch-1703-volume02-20261025"
+    },
+    {
+      "id": "agriculture-whole-treadle-thresher-and-raised-winnower-preparation-bay-scene-01",
+      "version": "1.0.0",
+      "category": "scenes",
+      "assetKind": "scene",
+      "theme": "agriculture",
+      "style": "warm-handcrafted-village",
+      "title": "Whole Treadle Thresher and Raised Winnower Preparation Bay",
+      "description": "One new whole empty post-harvest machine-preparation bay scene. The complete accepted treadle wire-loop drum thresher remains unchanged on the left at low floor level, with its full front pedal, exposed loop drum and side flywheel visible. The complete accepted timber drum-cased winnower remains unchanged on a shallow raised right pad, with its open upper hopper, side crank and entire outward discharge trough retained. A single broad shared floor, genuinely separated central approach and low rear three-post boundary organize the two different apparatus without linking them as a processing train. All source meshes and PBR values are preserved at original scale through embedded hash-pinned whole generators. Zero new standalone models, one new scene. Not the old winnower/seed-riddle cleaning workbay: no tall screening frame or collection pan, and the left hero is the full newly completed treadle loop-drum machine. No crop, grain, sacks, person, loose tool or active process. Fixed illustrative preparation layout only; no threshing, separation, material transfer, operation, ergonomics, safe clearance, food suitability, platform load, engineering or safety validation. Rigging, animation, physics and runtime interaction not made.",
+      "bounds": {
+        "x": 3.450000048,
+        "y": 2.099999905,
+        "z": 1.182000041,
+        "unit": "m"
+      },
+      "triangles": 3364,
+      "materials": 11,
+      "files": {
+        "glb": {
+          "path": "assets/agriculture/agriculture-whole-treadle-thresher-and-raised-winnower-preparation-bay-scene-01/v1.0.0/model.glb",
+          "size": 211148,
+          "sha256": "66a90ad7961fcae3e3361d83ce2c0d0de31587933f6f9361ec95d03dfa65c0ce"
+        },
+        "blend": {
+          "path": "assets/agriculture/agriculture-whole-treadle-thresher-and-raised-winnower-preparation-bay-scene-01/v1.0.0/source.blend",
+          "size": 1142888,
+          "sha256": "c47a5b0c2a960cf5533ef01d2a68a8d5c8072cff79bb9d5d4f6b8fe5a2ebcfb5"
+        },
+        "generator": {
+          "path": "assets/agriculture/agriculture-whole-treadle-thresher-and-raised-winnower-preparation-bay-scene-01/v1.0.0/generate.py",
+          "size": 60421,
+          "sha256": "4985c2dde4d0fe3157dc5a2b606c3c15f722664d368a01ab575b1fc2298e82d6"
+        },
+        "render": {
+          "path": "assets/agriculture/agriculture-whole-treadle-thresher-and-raised-winnower-preparation-bay-scene-01/v1.0.0/thumbnail.png",
+          "size": 519719,
+          "sha256": "ff3526e099f6625c573518e689abb86cffe5ab9a5d95f3fe1bbf7ef0e1f50521"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1705-volume02-20261025"
+    },
+    {
+      "id": "nature-static-intergrown-lenticular-plates-and-sandy-matrix-desert-rose-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "nature",
+      "style": "S01-clean-geometric",
+      "title": "Intergrown Lenticular Plates and Sandy Matrix Desert Rose",
+      "description": "One wholly newly authored opaque desert-rose gypsum aggregate at approximately six-centimetre specimen scale. Nine broad biconvex lenticular plates taper to thin gently irregular edges and intergrow in different orientations through one compact sandy mineral matrix. Every entire plate is a closed solid with a verified interior attachment witness to the whole matrix. The matrix has a finite flat underside datum for placement, without a separate museum plinth. All lens profiles, face fields, intergrowth orientations, matrix outline and coordinates are new; no pointed prism, old crystal assembly, recolour or scaled specimen reused. One complete mineral prop, zero scenes, three solid rough sand and ochre PBR roles. Stylized visible morphology only: not measured crystallographic axes, chemical identification, translucency, individual embedded sand grains, a locality-specific specimen, geological process or physical-fracture simulation. No rig, animation or interaction made or verified.",
+      "bounds": {
+        "x": 0.062065,
+        "y": 0.059708,
+        "z": 0.045187,
+        "unit": "m"
+      },
+      "triangles": 5504,
+      "materials": 3,
+      "files": {
+        "glb": {
+          "path": "assets/nature/nature-static-intergrown-lenticular-plates-and-sandy-matrix-desert-rose-01/v1.0.0/model.glb",
+          "size": 444320,
+          "sha256": "43773b4a82fadf1479b7222c1aec61074fc36744bd6ccbf1f9dd97c2bfaf17b8"
+        },
+        "blend": {
+          "path": "assets/nature/nature-static-intergrown-lenticular-plates-and-sandy-matrix-desert-rose-01/v1.0.0/source.blend",
+          "size": 841260,
+          "sha256": "b577111048364072cc3c81cdae6e09620c353851382d751496aee13ba2cdf5cb"
+        },
+        "generator": {
+          "path": "assets/nature/nature-static-intergrown-lenticular-plates-and-sandy-matrix-desert-rose-01/v1.0.0/generate.py",
+          "size": 22081,
+          "sha256": "9f296057dc32d15a3fa7dedba86e6f4ff00f700aeb6882fd6daeb943bd06b424"
+        },
+        "render": {
+          "path": "assets/nature/nature-static-intergrown-lenticular-plates-and-sandy-matrix-desert-rose-01/v1.0.0/thumbnail.png",
+          "size": 533919,
+          "sha256": "d982e9117d036c49a761337d19755a0006ac34d5dac2872cdc4183952bd1f911"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1705-volume02-20261025"
     }
   ]
 }
