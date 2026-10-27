@@ -2229,6 +2229,11 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary02",
       "commit": "62dc88a963c5f876b686f3f991f1227ff268d30f"
+    },
+    "original-qualified-batch-1718-volume02-20261025": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary02",
+      "commit": "f4421fcdf55e6179451111799c79d64c6bcdcfa7"
     }
   },
   "assets": [
@@ -76062,6 +76067,49 @@
       "status": "verified",
       "license": "All rights reserved",
       "sourceId": "original-qualified-batch-1717-volume02-20261025"
+    },
+    {
+      "id": "education-static-folded-carapace-and-biramous-antennae-water-flea-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "education",
+      "style": "S01-clean-geometric",
+      "title": "Folded Carapace and Biramous Antennae Water Flea",
+      "description": "One wholly newly authored enlarged opaque water-flea teaching exterior. A laterally compressed rounded carapace with tapered posterior spine encloses the trunk, while a small exposed rounded head carries one dark compound-eye form, a short downturned rostral contour, two short antennules and two large biramous swimming antennae. Each large antenna has a whole basal shaft, two distinct rami and simplified long terminal setae; five pairs of short leaf-like trunk appendages sit beneath the ventral margin. All carapace sections, head, spine, appendage paths and poses are new, not a shortened water bear, tapered rotifer, recoloured insect or changed limb-count variant. One complete prop, zero scenes, four opaque solid PBR roles. The approximately sixteen-centimetre lateral-display sculpture is greatly enlarged, not life size; its flattened near-side resting datum, solid closed carapace, thickened fine appendages and static spread pose are display conventions. This is not a measured Daphnia species, transparency, complete internal anatomy, brood chamber, eggs, filtering apparatus, individual eye facets, exact seta count, locomotion, live feeding, ecology or diagnostic model. No rig, animation or physical-stability simulation made or verified.",
+      "bounds": {
+        "x": 0.151776,
+        "y": 0.131177,
+        "z": 0.034748,
+        "unit": "m"
+      },
+      "triangles": 2836,
+      "materials": 4,
+      "files": {
+        "glb": {
+          "path": "assets/education/education-static-folded-carapace-and-biramous-antennae-water-flea-01/v1.0.0/model.glb",
+          "size": 204144,
+          "sha256": "4f356a93ce70db64b62c321a1070a3d5998d7b16da9930154c75b435c86619a5"
+        },
+        "blend": {
+          "path": "assets/education/education-static-folded-carapace-and-biramous-antennae-water-flea-01/v1.0.0/source.blend",
+          "size": 846960,
+          "sha256": "3b591ecbd1c4228a1cade16c66aec8852e73028f19f3f7d2905d3f274153704b"
+        },
+        "generator": {
+          "path": "assets/education/education-static-folded-carapace-and-biramous-antennae-water-flea-01/v1.0.0/generate.py",
+          "size": 26185,
+          "sha256": "e137ac209b919b336ff329b61c2103037df5e90ce836323e25eb5827db3ee16d"
+        },
+        "render": {
+          "path": "assets/education/education-static-folded-carapace-and-biramous-antennae-water-flea-01/v1.0.0/thumbnail.png",
+          "size": 485231,
+          "sha256": "16f2b8f12fbda85d3340b146e78d5b91d3a640d91ea189b77ad8891c8ed93399"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1718-volume02-20261025"
     }
   ]
 }
