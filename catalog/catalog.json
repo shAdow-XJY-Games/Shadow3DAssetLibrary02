@@ -2039,6 +2039,11 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary02",
       "commit": "579b5faf399e43527bf8f9981d53d35868e19376"
+    },
+    "original-qualified-batch-1597-volume02-20261025": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary02",
+      "commit": "7958689a067a8e6863a1d156c54eec7d693657a6"
     }
   },
   "assets": [
@@ -70626,6 +70631,92 @@
       "status": "verified",
       "license": "All rights reserved",
       "sourceId": "original-qualified-batch-1595-volume02-20261025"
+    },
+    {
+      "id": "agriculture-fixed-oval-tank-and-spread-lattice-boom-sprayer-01",
+      "version": "1.0.0",
+      "category": "modular",
+      "assetKind": "prop",
+      "theme": "agriculture",
+      "style": "warm-handcrafted-village",
+      "title": "Fixed Oval Tank and Spread Lattice Boom Sprayer",
+      "description": "One newly authored whole fixed towable field-sprayer exterior. A broad longitudinal oval tank with closed domed end profiles and a top filler cap sits in two cross saddles above a full two-wheel chassis. A long triangular drawbar terminates in a genuinely open hitch eye, with a separate finite parking foot beneath. A rear upright lift-style frame carries two spread shallow triangular lattice boom wings, a long low distribution line and repeated short nozzle bodies; a front compact pump-shaped housing and one continuous exterior hose complete the assembly. Unlike a wearable backpack sprayer or hand paint gun this is a full wheeled trailed tank and wide boom rig, with no imported old machinery. One static model zero scenes. Tank interior, liquid, fluid circuit, pressure, actual pump transmission, spraying, crop or chemical use, dosage, boom folding, towing compatibility, stability, capacity, manufacture, ergonomics, engineering and safety are not made or verified. Rigging, animation and interaction not made.",
+      "bounds": {
+        "x": 7.242829323,
+        "y": 4.010000229,
+        "z": 2.220000029,
+        "unit": "m"
+      },
+      "triangles": 2996,
+      "materials": 4,
+      "files": {
+        "glb": {
+          "path": "assets/agriculture/agriculture-fixed-oval-tank-and-spread-lattice-boom-sprayer-01/v1.0.0/model.glb",
+          "size": 180048,
+          "sha256": "9ac683f047105bd716c0ebd4c8e71a545f8edab153d971371b2eb7c2dff877ff"
+        },
+        "blend": {
+          "path": "assets/agriculture/agriculture-fixed-oval-tank-and-spread-lattice-boom-sprayer-01/v1.0.0/source.blend",
+          "size": 972616,
+          "sha256": "a618d9c14784f28fd8927e719ffa213e127c6ed4670ec7a8c5333dfd7eed4278"
+        },
+        "generator": {
+          "path": "assets/agriculture/agriculture-fixed-oval-tank-and-spread-lattice-boom-sprayer-01/v1.0.0/generate.py",
+          "size": 35294,
+          "sha256": "a002b406f53acefcee2ca37d1d681f33b787cc79540850ccf12bf3d236e68c5c"
+        },
+        "render": {
+          "path": "assets/agriculture/agriculture-fixed-oval-tank-and-spread-lattice-boom-sprayer-01/v1.0.0/thumbnail.png",
+          "size": 534879,
+          "sha256": "dae7899f0de926e076d73816ec48701523f997a48cfa8c3182892398eb62036d"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1597-volume02-20261025"
+    },
+    {
+      "id": "sports-whole-open-sector-cage-and-separated-hammer-preparation-bay-scene-01",
+      "version": "1.0.0",
+      "category": "scenes",
+      "assetKind": "scene",
+      "theme": "sports",
+      "style": "source-preserved-low-poly",
+      "title": "Open Sector Cage And Separated Hammer Preparation Bay",
+      "description": "One original static sports preparation bay scene. The complete accepted horseshoe throwing cage and complete accepted laid-wire throwing hammer are preserved with every original mesh, triangle, dimension and opaque PBR material, translated only. The empty cage opens onto a clear forward apron; the entire rested implement is separately displayed on an outside side preparation table rather than occupying the entry. New finite ground slab, table supports and modest approach strips organize the space. Both complete source generators and exact GLB hashes are embedded and verified before composition; nothing is extracted, rescaled, recoloured, deformed or counted as a new independent prop. Zero new models and one scene. Static illustrative unoccupied preparation layout only, no throwing action, user route certification, regulation dimensions, equipment compatibility, impact containment, loading, manufacture or safety claim.",
+      "bounds": {
+        "x": 8.0,
+        "y": 7.599999904632568,
+        "z": 3.9200000762939453,
+        "unit": "m"
+      },
+      "triangles": 5236,
+      "materials": 11,
+      "files": {
+        "glb": {
+          "path": "assets/sports/sports-whole-open-sector-cage-and-separated-hammer-preparation-bay-scene-01/v1.0.0/model.glb",
+          "size": 491944,
+          "sha256": "f0b0f89cf8a660dbc4d028428e6274c28decff3dae441e2aaaf9204840eda380"
+        },
+        "blend": {
+          "path": "assets/sports/sports-whole-open-sector-cage-and-separated-hammer-preparation-bay-scene-01/v1.0.0/source.blend",
+          "size": 1604444,
+          "sha256": "b7fef60d60258daf29a0ad978a8fe37f09a68157e1064eaad8615173e693c5fa"
+        },
+        "generator": {
+          "path": "assets/sports/sports-whole-open-sector-cage-and-separated-hammer-preparation-bay-scene-01/v1.0.0/generate.py",
+          "size": 36160,
+          "sha256": "bbfd56d77624eb899e498e76f74b87959b062f256dfee7c951a4a848cf0d568f"
+        },
+        "render": {
+          "path": "assets/sports/sports-whole-open-sector-cage-and-separated-hammer-preparation-bay-scene-01/v1.0.0/thumbnail.png",
+          "size": 531884,
+          "sha256": "14a222790620abc7938071e9bfd1b086979dea77ad91510402b5b673a62ff2b4"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1597-volume02-20261025"
     }
   ]
 }
