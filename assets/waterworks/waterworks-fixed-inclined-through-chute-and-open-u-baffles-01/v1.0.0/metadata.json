@@ -1,0 +1,42 @@
+{
+  "id": "waterworks-fixed-inclined-through-chute-and-open-u-baffles-01",
+  "version": "1.0.0",
+  "category": "architecture",
+  "assetKind": "modular",
+  "theme": "waterworks",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Inclined Through Chute and Open U Baffles",
+  "description": "One wholly newly authored complete dry baffled-chute architectural module. A single closed-material through-channel has one continuous inclined floor and two full side walls, with genuinely open lower and upper ends. Nine whole finite-thickness U-shaped baffle plates lean toward the high end, each with an open central top notch and an integral low bottom sill; all three edges seat within the full channel floor and side walls. Three whole tapered full-width piers hold the uninterrupted inclined channel above one full ground slab. There are no separate stepped pools, U-return, long divider or alternating side slots, unlike the earlier hairpin pool module. These are whole notched transverse plates anchored directly to a sloping channel, not the plain tall inclined settler pack over three hoppers within an open-front tank; no hoppers, collection trough, stand legs or internal support rails. All numeric shell, baffle, pier and base coordinates authored together from scratch; no old channel, tank, fishway, ladder or plate mesh imported or extracted. Four opaque constant untextured PBR roles, metres native Z up and whole horizontal bounds-centred ground sole, one architectural model zero scenes. Empty generic Denil-type-inspired dry art only, not an engineering or ecological design. No water, fish, target species, flow velocity, current reversal, hydraulic capacity, fish passage, habitat suitability, sediment transport, erosion, load, access, construction, installation, operation or civil safety capability made or verified. No rigging, animation or interaction.",
+  "bounds": {
+    "x": 6.9,
+    "y": 2.64,
+    "z": 3.1020000000000003,
+    "unit": "m"
+  },
+  "triangles": 328,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/waterworks/waterworks-fixed-inclined-through-chute-and-open-u-baffles-01/v1.0.0/model.glb",
+      "size": 23632,
+      "sha256": "29874ef98fe26a6b3518f8d9d4ccaeb5a71e2067c482aac6c7d0baeb75beba57"
+    },
+    "blend": {
+      "path": "assets/waterworks/waterworks-fixed-inclined-through-chute-and-open-u-baffles-01/v1.0.0/source.blend",
+      "size": 622772,
+      "sha256": "013848aa4dfe2e6f2dda5d519023a79f11993ad486856835b4a9a9b2c2c26b32"
+    },
+    "generator": {
+      "path": "assets/waterworks/waterworks-fixed-inclined-through-chute-and-open-u-baffles-01/v1.0.0/generate.py",
+      "size": 11905,
+      "sha256": "2f72db7f8dffa1a1afe46598ccca7b77a8937008b3c7e72a1448b4bba43d5d60"
+    },
+    "render": {
+      "path": "assets/waterworks/waterworks-fixed-inclined-through-chute-and-open-u-baffles-01/v1.0.0/thumbnail.png",
+      "size": 459048,
+      "sha256": "45c233f82d77e2dd7851b19be40c97d9adf071e5fc7845630315ef0abc19973d"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
