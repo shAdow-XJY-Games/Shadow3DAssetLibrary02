@@ -1,0 +1,43 @@
+{
+  "id": "fitness-fixed-tapered-four-wall-and-opposed-hand-slot-plyo-box-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "fitness",
+  "style": "source-preserved-low-poly",
+  "title": "Tapered Four Wall And Opposed Hand Slot Plyo Box",
+  "description": "One newly authored whole fixed plyometric-box-inspired decorative display. A continuous thick tapered shell has one complete broad upper deck, four inward-rising sidewalls, an entirely open lower cavity and two true opposed horizontal hand apertures. The side aperture margins, inner surfaces, deck thickness and finite continuous lower rim are welded into one closed material boundary, not separate overlapping panels or a solid block with painted slots. Three opaque constant PBR roles, metres, Z up, horizontal-centre ground origin. New numeric geometry, not a reused kitchen step stool, cargo crate, table or gym fragment. One empty full model, zero scenes. Static appearance only: no person, jumping, exercise instruction, ergonomic fit, carrying, loading, strength, stability, construction details, dimensions for manufacture, sport regulation or safety claim.",
+  "bounds": {
+    "x": 0.6399999856948853,
+    "y": 0.5600000023841858,
+    "z": 0.5,
+    "unit": "m"
+  },
+  "triangles": 244,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/fitness/fitness-fixed-tapered-four-wall-and-opposed-hand-slot-plyo-box-01/v1.0.0/model.glb",
+      "size": 23184,
+      "sha256": "96dfd50b607b0f7cb3eb33d22e375a3b0f42412042ba35929ec74e0dc577985e"
+    },
+    "blend": {
+      "path": "assets/fitness/fitness-fixed-tapered-four-wall-and-opposed-hand-slot-plyo-box-01/v1.0.0/source.blend",
+      "size": 549564,
+      "sha256": "50431fd4ffc034542823ed91b0946e7e527ff0bed63cde70c94db56efd4825f2"
+    },
+    "generator": {
+      "path": "assets/fitness/fitness-fixed-tapered-four-wall-and-opposed-hand-slot-plyo-box-01/v1.0.0/generate.py",
+      "size": 17463,
+      "sha256": "5459cb9e94659dcb07c83fab668054204d7a508664ea64481027b3ced20efa9e"
+    },
+    "render": {
+      "path": "assets/fitness/fitness-fixed-tapered-four-wall-and-opposed-hand-slot-plyo-box-01/v1.0.0/thumbnail.png",
+      "size": 492552,
+      "sha256": "c9ea166459e8f6ec1acb14d49a43b71674a20a0ec14c6b232b873f5758383249"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved",
+  "sourceId": "sports-current-dot-originals-20261027"
+}
