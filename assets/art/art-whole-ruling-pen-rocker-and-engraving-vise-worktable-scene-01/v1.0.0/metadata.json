@@ -1,0 +1,42 @@
+{
+  "id": "art-whole-ruling-pen-rocker-and-engraving-vise-worktable-scene-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "art",
+  "style": "source-preserved-low-poly",
+  "title": "Whole Ruling Pen Rocker and Engraving Vise Worktable",
+  "description": "One static whole-tool comparison worktable scene, zero new independent models. Four complete qualified originals retain every geometry buffer, local normal, full opaque PBR material, internal node hierarchy and original unit metre scale: the complete open worktable with its full top, four legs and all aprons and braces; the whole hemisphere-seat engraving vise with both opposed jaws and side adjustment; the complete curved-serrated rocker with palm grip and ferrule; and the whole opposed-nib ruling pen with transverse thumb screw. All three tools rest separately on measured finite regions of the actual original tabletop, clear of one another and its outer bevel. The pen alone is rigidly rotated ninety degrees as a whole; all other placements are translations only. Only a neutral thin floor slab is scene-specific. No original model or details resized, clipped, recoloured or partially extracted. This is an illustrative preparation/comparison arrangement, not a claim of a shared working process, clamping, cutting, engraving, printing or ruling performance. No workpiece, paper, ink, sharpness specification, load, ergonomics, stability, manufacturing, person or safety capability. Fixed static scene with no animation or rig.",
+  "bounds": {
+    "x": 1.399999976158142,
+    "y": 0.800000011920929,
+    "z": 1.1929999589920044,
+    "unit": "m"
+  },
+  "triangles": 4026,
+  "materials": 15,
+  "files": {
+    "glb": {
+      "path": "assets/art/art-whole-ruling-pen-rocker-and-engraving-vise-worktable-scene-01/v1.0.0/model.glb",
+      "size": 304148,
+      "sha256": "1d25a98f2b66598739c72eeb89a14d863ca3c02ef650b801b4646e18e5309e05"
+    },
+    "blend": {
+      "path": "assets/art/art-whole-ruling-pen-rocker-and-engraving-vise-worktable-scene-01/v1.0.0/source.blend",
+      "size": 1408212,
+      "sha256": "0e5cb5b7936a1f6963a36fd2c189b960be802327e573a2e3f47b8e129d379838"
+    },
+    "generator": {
+      "path": "assets/art/art-whole-ruling-pen-rocker-and-engraving-vise-worktable-scene-01/v1.0.0/generate.py",
+      "size": 121030,
+      "sha256": "46c2041de1302c8c3675dd114acf7fe3d5baa74888aa49986358904554bc86a5"
+    },
+    "render": {
+      "path": "assets/art/art-whole-ruling-pen-rocker-and-engraving-vise-worktable-scene-01/v1.0.0/thumbnail.png",
+      "size": 538331,
+      "sha256": "0185e5767d46232fa8b4653ca914389fb0c3037a240679a3c0ec06e630b5166c"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

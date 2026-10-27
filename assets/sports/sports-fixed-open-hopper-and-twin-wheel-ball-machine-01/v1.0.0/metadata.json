@@ -1,0 +1,43 @@
+{
+  "id": "sports-fixed-open-hopper-and-twin-wheel-ball-machine-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "sports",
+  "style": "source-preserved-low-poly",
+  "title": "Open Hopper And Twin Wheel Ball Machine",
+  "description": "One newly authored whole static ball-machine-inspired decorative exterior: an empty flared rectangular hopper with a genuine open bottom throat sits on a welded open-front carrier, above two full stacked transverse rollers with a clear front interval. Complete rear transport wheels, two front ground feet, full axle caps and rooted tall carry bow remain part of the same whole machine. New numeric geometry, not an extracted sports trolley or cycling roller, no contained balls. Four opaque constant PBR roles, metres, Z up and ground-centred envelope. A simplified empty display only: no powered internals, rotation, ball-feed path, throwing or projectile capability, practical dimensions, mechanism, instructions, load, stability, regulation, manufacture or safety claims.",
+  "bounds": {
+    "x": 0.6800000071525574,
+    "y": 0.6000000238418579,
+    "z": 0.8999999761581421,
+    "unit": "m"
+  },
+  "triangles": 1120,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/sports/sports-fixed-open-hopper-and-twin-wheel-ball-machine-01/v1.0.0/model.glb",
+      "size": 107488,
+      "sha256": "96958b59d37f11d0c732ad04e426e054f3b0be870bf3f93f6b1d5e344f604450"
+    },
+    "blend": {
+      "path": "assets/sports/sports-fixed-open-hopper-and-twin-wheel-ball-machine-01/v1.0.0/source.blend",
+      "size": 750780,
+      "sha256": "f02bd6e5c312f83f56473669dc471ceb1d93d46346cc027cc938cb0901949c7b"
+    },
+    "generator": {
+      "path": "assets/sports/sports-fixed-open-hopper-and-twin-wheel-ball-machine-01/v1.0.0/generate.py",
+      "size": 18254,
+      "sha256": "3104a84ce61946d0e57f3de81c5a1e2cba976c5f4608980801d5f196d2d97ed3"
+    },
+    "render": {
+      "path": "assets/sports/sports-fixed-open-hopper-and-twin-wheel-ball-machine-01/v1.0.0/thumbnail.png",
+      "size": 536381,
+      "sha256": "16f154d3831b5d966dd67278b2e915c751ba91fd45650ab8b329dc4d8d93b08c"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved",
+  "sourceId": "sports-current-dot-originals-20261027"
+}
