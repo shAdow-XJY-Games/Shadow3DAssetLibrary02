@@ -1,0 +1,43 @@
+{
+  "id": "sports-fixed-horseshoe-net-and-open-sector-throwing-cage-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "sports",
+  "style": "source-preserved-low-poly",
+  "title": "Horseshoe Net And Open Sector Throwing Cage",
+  "description": "One original whole fixed horseshoe throwing-cage appearance. Eight open finite-cord net panels curve around the rear and sides while leaving a broad unobstructed forward sector. Nine grounded tall uprights, outward feet and buried diagonal braces form a coherent support assembly; amber top collars mark the anchored rail joints. Original numeric angular cage construction with real open grid windows, not a flat court-fence module or a centered chain basket. One complete model, zero scenes, four opaque constant PBR roles. Static illustrative empty prop only: no implement, athlete, logo, moving joints, collision simulation, regulation dimensions, net tension, impact containment, load, manufacture or safety claim.",
+  "bounds": {
+    "x": 5.701206684112549,
+    "y": 6.206791877746582,
+    "z": 3.799999952316284,
+    "unit": "m"
+  },
+  "triangles": 4576,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/sports/sports-fixed-horseshoe-net-and-open-sector-throwing-cage-01/v1.0.0/model.glb",
+      "size": 424008,
+      "sha256": "d0729111a4738c1089f17789b294ca8a7b242b7c57dbe85ff88942b445f4fdb6"
+    },
+    "blend": {
+      "path": "assets/sports/sports-fixed-horseshoe-net-and-open-sector-throwing-cage-01/v1.0.0/source.blend",
+      "size": 1297788,
+      "sha256": "6de0c750f8b505d7856c9053178b98a587f6e2b452f0176644cd77818136ff40"
+    },
+    "generator": {
+      "path": "assets/sports/sports-fixed-horseshoe-net-and-open-sector-throwing-cage-01/v1.0.0/generate.py",
+      "size": 17537,
+      "sha256": "ec97fec55b7a84318fcd4fc236193164694e683a506e823cd33560d30293a4e8"
+    },
+    "render": {
+      "path": "assets/sports/sports-fixed-horseshoe-net-and-open-sector-throwing-cage-01/v1.0.0/thumbnail.png",
+      "size": 590044,
+      "sha256": "91e8292a608681bfd9fdab1d476cd02466749e0f8edec3e691fb1b6de929fa2f"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved",
+  "sourceId": "sports-current-dot-originals-20261027"
+}

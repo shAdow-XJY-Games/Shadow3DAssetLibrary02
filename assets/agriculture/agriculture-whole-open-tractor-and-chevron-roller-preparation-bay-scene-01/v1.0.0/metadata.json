@@ -1,0 +1,42 @@
+{
+  "id": "agriculture-whole-open-tractor-and-chevron-roller-preparation-bay-scene-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "agriculture",
+  "style": "warm-handcrafted-village",
+  "title": "Whole Open Tractor and Chevron Roller Preparation Bay",
+  "description": "One new whole open agricultural preparation bay scene using the existing complete open-seat tractor and accepted chevron-rib roller crimper at unchanged scale and material parameters. They are parked separately side-by-side on one newly authored hardstand, with deliberately unconnected rear linkage and implement hitch, a broad central open staging gap and unobstructed front approach. A low rear boundary, side curb and two thin contrasting ground guides organize the area without enclosing the machinery. All source component geometry is embedded in this self-contained generator with original hashes; there are zero new stand-alone models and one new scene. The tractor and crimper are reused assets, not new asset counts. Fixed static appearance only; no coupling compatibility, vehicle movement, crop processing, public access, working clearance, engineering or safety claim. No people, rigging, animation, physics or runtime interaction made or verified.",
+  "bounds": {
+    "x": 7.599999905,
+    "y": 5.5,
+    "z": 2.299999952,
+    "unit": "m"
+  },
+  "triangles": 4228,
+  "materials": 11,
+  "files": {
+    "glb": {
+      "path": "assets/agriculture/agriculture-whole-open-tractor-and-chevron-roller-preparation-bay-scene-01/v1.0.0/model.glb",
+      "size": 243920,
+      "sha256": "021543c41d19023c2f7372b252ac945c2fda2986388867c2e1290f3fb97093b1"
+    },
+    "blend": {
+      "path": "assets/agriculture/agriculture-whole-open-tractor-and-chevron-roller-preparation-bay-scene-01/v1.0.0/source.blend",
+      "size": 1111972,
+      "sha256": "a0b609e26e94a60e70f4f3f1be947adc727497ccfee9b83e46cd7c3d3a8b1e0f"
+    },
+    "generator": {
+      "path": "assets/agriculture/agriculture-whole-open-tractor-and-chevron-roller-preparation-bay-scene-01/v1.0.0/generate.py",
+      "size": 59930,
+      "sha256": "b8272be0c2a508a9a559595e18c76c6836b8f0f54afd167064b5582d848289c7"
+    },
+    "render": {
+      "path": "assets/agriculture/agriculture-whole-open-tractor-and-chevron-roller-preparation-bay-scene-01/v1.0.0/thumbnail.png",
+      "size": 515909,
+      "sha256": "8b90fbeeb099257ad712a4fb189a1675b483fa3d692832022a020611850c5cac"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "music-fixed-twin-head-waisted-shell-and-longitudinal-lacing-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "music",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Twin-Head Waisted Shell and Longitudinal Lacing",
+  "description": "One newly authored complete static double-headed pressure-drum-inspired display. A single continuous hollow hourglass shell narrows through a true central waist and expands to two opposed mouths, each closed by its own complete finite-thickness drumhead. Two full end hoops retain twelve whole closed longitudinal cord loops, whose paired runs bridge the waist and return into both hoops. It rests horizontally on finite bottom facets of the two polygonal end hoops. This is not a recoloured single-head goblet, an old cylindrical drum rescaled, or two solid cones: all visible numeric geometry and the double-ended chamber/lacing relationship are newly authored. One model zero scenes, four opaque constant PBR appearances, metres and native Z up. Static stylized visual only; no actual pressure response, cord tension, pitch control, speech imitation, membrane vibration, regional or historical reconstruction, manufacture, handling or stability certification. No rig, animation or interaction.",
+  "bounds": {
+    "x": 0.4259999990463257,
+    "y": 0.31133198738098145,
+    "z": 0.31133198738098145,
+    "unit": "m"
+  },
+  "triangles": 3840,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/music/music-fixed-twin-head-waisted-shell-and-longitudinal-lacing-01/v1.0.0/model.glb",
+      "size": 336636,
+      "sha256": "26c584804051973d054f970877aa48846b0f1a4ce0a8df552335a4d7c2c7f6e0"
+    },
+    "blend": {
+      "path": "assets/music/music-fixed-twin-head-waisted-shell-and-longitudinal-lacing-01/v1.0.0/source.blend",
+      "size": 1065920,
+      "sha256": "9113528a571dc96da6582f506a542b3e05ed54cbc1c2f56893df933fd64391b7"
+    },
+    "generator": {
+      "path": "assets/music/music-fixed-twin-head-waisted-shell-and-longitudinal-lacing-01/v1.0.0/generate.py",
+      "size": 16517,
+      "sha256": "85c1d99e83098cf9e4ff05bb35f826ac6a70ee015f4fedf4936041547f7860c9"
+    },
+    "render": {
+      "path": "assets/music/music-fixed-twin-head-waisted-shell-and-longitudinal-lacing-01/v1.0.0/thumbnail.png",
+      "size": 575425,
+      "sha256": "d9b106e66d194375a89e8488f7df225e182b7ecf9ef6c6777ad3ac67a7470cee"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "architecture-fixed-folded-retaining-wall-and-rear-tiebacks-01",
+  "version": "1.0.0",
+  "category": "architecture",
+  "assetKind": "modular",
+  "theme": "architecture",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Folded Retaining Wall and Rear Tiebacks",
+  "description": "One complete newly authored static folded retaining-wall cutaway display. A single continuous full-height zigzag metal-look curtain has complete finite thickness through every fold and capped upper/lower boundaries. Two entire rear walers meet its raised corrugations; two whole descending rods run from the upper waler through collars into independent broad rear anchor blocks. A low common slab exposes the normally concealed rear-side relationship rather than filling it with soil. Unlike the stone-filled wire gabion there is no containment cage or rock fill; unlike the opposed-wall timber flying shore there are no facing bearing plates, cross-span compression beam or central cheek joint. The folded curtain, rear longitudinal wales and one-sided anchoring relation are newly authored together, not transformed prior components. Four opaque constant PBR roles, metre-style Z up, bounds-centred ground sole origin, one architectural model zero scenes. Fixed illustrative layout only: not an interlocking sheet-pile system, geotechnical design or certified tension assembly. No soil pressure, water sealing, pullout resistance, anchoring capacity, load, stress, excavation, installation, structural stability, manufacturing, host fit, building-code or safety capability claimed. No actual retained soil, rigging, animation or interaction.",
+  "bounds": {
+    "x": 5.4,
+    "y": 3.45,
+    "z": 3.12,
+    "unit": "m"
+  },
+  "triangles": 480,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/architecture/architecture-fixed-folded-retaining-wall-and-rear-tiebacks-01/v1.0.0/model.glb",
+      "size": 30328,
+      "sha256": "51cccc2379f66190197daac62e31afab6585cf90c2c150b0031b8a1e491f3998"
+    },
+    "blend": {
+      "path": "assets/architecture/architecture-fixed-folded-retaining-wall-and-rear-tiebacks-01/v1.0.0/source.blend",
+      "size": 621708,
+      "sha256": "3e988c22c1b72123631df5e014fee5585c69abf8f3611ad398c9d38887d6c696"
+    },
+    "generator": {
+      "path": "assets/architecture/architecture-fixed-folded-retaining-wall-and-rear-tiebacks-01/v1.0.0/generate.py",
+      "size": 11504,
+      "sha256": "32cd0b0e4c2e218bbee0d08930ae30a95cb882beb967f5809f27ee10150e2847"
+    },
+    "render": {
+      "path": "assets/architecture/architecture-fixed-folded-retaining-wall-and-rear-tiebacks-01/v1.0.0/thumbnail.png",
+      "size": 454863,
+      "sha256": "55096982a6b0934876c467e0acc387d6f287a6a737fc3ada8fc3c17b7037018c"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "office-fixed-wide-platen-and-perforated-fanfold-printer-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "office",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Wide Platen and Perforated Fanfold Printer",
+  "description": "One newly authored complete static wide desktop impact-printer-style prop. A broad low case on four feet has a genuinely open top printing bay with a whole horizontal platen, a full transverse guide rail and a fixed offset carriage block. One continuous thick blank paper sheet passes above the platen, rises behind the case and folds repeatedly onto an attached rear receiving tray. Both paper margins contain real through openings along the complete finite sheet rather than painted dots. The two raised end cheeks, offset side platen knob, sloped front control deck and three blank buttons complete the whole appliance. This is not the existing compact single-curled receipt printer, tall copier or round-key mechanical typewriter: there is no keyboard, open typebar fan, receipt roll or large cabinet. Every model coordinate is newly authored; no earlier printer source geometry or mesh is imported. Four opaque constant untextured PBR roles, metres Z up, horizontal-bounds-centred ground origin; one original model and zero scenes. Fixed illustrative exterior only: no printing, ink, character output, tractor pin engagement, continuous feeding, sheet flexibility, carriage travel, internal drive, electrical circuit, manufacture, load or equipment safety capability. Rigging animation and interaction not made.",
+  "bounds": {
+    "x": 0.8050000071525574,
+    "y": 0.9319999814033508,
+    "z": 0.3786642551422119,
+    "unit": "m"
+  },
+  "triangles": 2324,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/office/office-fixed-wide-platen-and-perforated-fanfold-printer-01/v1.0.0/model.glb",
+      "size": 211516,
+      "sha256": "71be5be3d6e1fd1263c191dcf14cbc8b870385d574a38e5978f1eae04d479f81"
+    },
+    "blend": {
+      "path": "assets/office/office-fixed-wide-platen-and-perforated-fanfold-printer-01/v1.0.0/source.blend",
+      "size": 924352,
+      "sha256": "49e6907eec9138a8e39b5fd9e06db4fa09d612b3764f0a22825bee512b7d2db7"
+    },
+    "generator": {
+      "path": "assets/office/office-fixed-wide-platen-and-perforated-fanfold-printer-01/v1.0.0/generate.py",
+      "size": 19385,
+      "sha256": "b046c6706059e28433e78052e131104d0373b9e1f5ce468037aefa23e27e6bce"
+    },
+    "render": {
+      "path": "assets/office/office-fixed-wide-platen-and-perforated-fanfold-printer-01/v1.0.0/thumbnail.png",
+      "size": 504280,
+      "sha256": "128f6a5ed07cc083a0930a122a019cf1b507aaf84982c77289e866955b6ce9d9"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

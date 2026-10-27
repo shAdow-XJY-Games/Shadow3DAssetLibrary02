@@ -1,0 +1,42 @@
+{
+  "id": "music-fixed-cutaway-box-drum-and-internal-snare-bank-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "music",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Cutaway Box Drum and Internal Snare Bank",
+  "description": "One newly authored complete static cutaway box-drum educational display. A full thin blank striking front plate, full top and bottom, one complete left wall and a rear panel with a genuine round sound port enclose the chamber. The right side is deliberately opened as a thick-edged instructional cutaway, exposing eight entire helical snare strands carried by a front-rooted internal crossbar and meeting the inner striking plate. Four small solid ground feet and plain front fasteners complete the display. The cutaway is intentional, not missing faces in a claimed playable instrument. All visible numeric geometry is newly authored; no old loudspeaker cone/cabinet, kalimba body/tine, old stand or imported mesh is reused. One model zero scenes, four opaque constant PBR appearances, metres and Z up. Static stylized art only: no sound generation, tuning, authentic regional construction, snare vibration, playing or sitting load, physical safety, manufacture, rig, animation or interaction claimed.",
+  "bounds": {
+    "x": 0.3199999928474426,
+    "y": 0.3370000123977661,
+    "z": 0.5199999809265137,
+    "unit": "m"
+  },
+  "triangles": 11212,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/music/music-fixed-cutaway-box-drum-and-internal-snare-bank-01/v1.0.0/model.glb",
+      "size": 959908,
+      "sha256": "ed2a1b1db64baba874ffbcafb5e1582ad11cf4d39817dfa9053cec308637f221"
+    },
+    "blend": {
+      "path": "assets/music/music-fixed-cutaway-box-drum-and-internal-snare-bank-01/v1.0.0/source.blend",
+      "size": 1924512,
+      "sha256": "7634736a61f18056a4a2ffc8083bbddfafd5e74ebe93b49308aa096745d0ccae"
+    },
+    "generator": {
+      "path": "assets/music/music-fixed-cutaway-box-drum-and-internal-snare-bank-01/v1.0.0/generate.py",
+      "size": 17402,
+      "sha256": "0d3f05d12bdf138c4e268e8ff05bfb191eead1d9fa738079b9ccd4fcc67fb94c"
+    },
+    "render": {
+      "path": "assets/music/music-fixed-cutaway-box-drum-and-internal-snare-bank-01/v1.0.0/thumbnail.png",
+      "size": 559082,
+      "sha256": "d90256f5e315379dd38f1790960894de86f1a6ee331fb50f4e8408412043ce9f"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
