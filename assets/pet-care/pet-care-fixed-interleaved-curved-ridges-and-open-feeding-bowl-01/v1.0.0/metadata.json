@@ -1,0 +1,42 @@
+{
+  "id": "pet-care-fixed-interleaved-curved-ridges-and-open-feeding-bowl-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "pet-care",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Interleaved Curved Ridges and Open Feeding Bowl",
+  "description": "One newly authored complete empty static pet-feeding-bowl exterior. A low circular sole carries a thick flared open bowl with an integral blind floor and continuous rounded-profile rim. Three complete low curved ridges rise from the floor at separate radii; their open ends alternate between opposite sides, forming nested connected open passages rather than isolated wells. The ridge tops have broad chamfer shoulders and the central area is empty. This is not the existing three sealed radial-well serving dish and not an elevated machine bowl with a continuous rising spiral ledge, motor mount or tangential outlet. Newly authored fixed-height offset open arc geometry, no imported meshes or components. Three opaque solid PBR roles, native metres Z up, centred ground origin. One original model zero scenes. Static empty artwork only, no contents, feeding rate, digestive or medical benefit, animal suitability, mouth or paw clearance, food-contact rating, hygiene, strength, stability, manufacture or safety capability. No rigging, animation or interaction.",
+  "bounds": {
+    "x": 0.33399999141693115,
+    "y": 0.33399999141693115,
+    "z": 0.05700000002980232,
+    "unit": "m"
+  },
+  "triangles": 2768,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/pet-care/pet-care-fixed-interleaved-curved-ridges-and-open-feeding-bowl-01/v1.0.0/model.glb",
+      "size": 236952,
+      "sha256": "ed687b15b4d3c97b4a3b7e682415f0d129ef55b5bebef783364458d05704f840"
+    },
+    "blend": {
+      "path": "assets/pet-care/pet-care-fixed-interleaved-curved-ridges-and-open-feeding-bowl-01/v1.0.0/source.blend",
+      "size": 866240,
+      "sha256": "d59cf42fab77bd2c7011f6726a7d37ea2b97563d88af6da6ac863965e2e4977c"
+    },
+    "generator": {
+      "path": "assets/pet-care/pet-care-fixed-interleaved-curved-ridges-and-open-feeding-bowl-01/v1.0.0/generate.py",
+      "size": 16174,
+      "sha256": "45bbeed2091238c3a1950eccbf07966e9efd1ef19141a7ae525ca1c7f3d56dd8"
+    },
+    "render": {
+      "path": "assets/pet-care/pet-care-fixed-interleaved-curved-ridges-and-open-feeding-bowl-01/v1.0.0/thumbnail.png",
+      "size": 543811,
+      "sha256": "332e65879adf52d6f83e2320f686eb1bc56e95128433a3dd6fa971e70a4e423d"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

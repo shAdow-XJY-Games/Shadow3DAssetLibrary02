@@ -1,0 +1,42 @@
+{
+  "id": "architecture-fixed-nested-barrel-shells-and-six-rail-lanes-01",
+  "version": "1.0.0",
+  "category": "architecture",
+  "assetKind": "modular",
+  "theme": "architecture",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Nested Barrel Shells and Six Rail Lanes",
+  "description": "One wholly newly authored complete partly nested barrel-roof enclosure appearance. Three complete finite-thickness open-ended semicylindrical shells have different radii, genuine radial clearance and staggered front and rear mouths. Each whole shell includes its own thicker integral end beads, two continuous low side sills, four full axle shoes, four complete wheels and their full transverse axles. Six independent straight rail lanes meet three common grounded cross ties and remain visibly exposed beyond the shell ends. The twelve wheel profiles have finite flat bottom facets at the rail tops in this one fixed pose. The whole assembly has no floor, end door or contents; both axial mouths and the underlying centre remain genuinely open. Unlike the elevated windowed boarding bridge with rear rotunda, rectangular through-corridor floors and common front trolley, these separate curved covers each have their own four-wheel carriage and a distinct pair of ground-level lanes. All coordinates newly authored together, no old vault, train, corridor, wheel or housing imported or extracted. Four opaque constant untextured PBR roles, metres Z up, full horizontal bounds centred over the cross-tie ground soles, one complete architecture model zero scenes. Static retractable-enclosure-inspired artwork only, opaque not glazed. Nested positions do not establish travel, running or sliding fit, wheel guidance, locking, drive, weather sealing, access, pool coverage, occupancy, climate control, load, stability, manufacture, installation or building safety capability. No people, pool, water, rigging, animation or interaction.",
+  "bounds": {
+    "x": 5.2,
+    "y": 5.800000000000001,
+    "z": 2.98,
+    "unit": "m"
+  },
+  "triangles": 3624,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/architecture/architecture-fixed-nested-barrel-shells-and-six-rail-lanes-01/v1.0.0/model.glb",
+      "size": 188092,
+      "sha256": "db25dc15aa55b6d05adfa8e30355af924127889b2f1a0db7e27e957cc6f97672"
+    },
+    "blend": {
+      "path": "assets/architecture/architecture-fixed-nested-barrel-shells-and-six-rail-lanes-01/v1.0.0/source.blend",
+      "size": 986196,
+      "sha256": "4f1bf8cd9c0f3feacaf691d81c65c80b86892cfc4c6183a79b4f74d8692f8c30"
+    },
+    "generator": {
+      "path": "assets/architecture/architecture-fixed-nested-barrel-shells-and-six-rail-lanes-01/v1.0.0/generate.py",
+      "size": 12129,
+      "sha256": "359b6dd5eec53c17ab17569caeeb6f9bfc37ea8b650a9184d57745412cb23036"
+    },
+    "render": {
+      "path": "assets/architecture/architecture-fixed-nested-barrel-shells-and-six-rail-lanes-01/v1.0.0/thumbnail.png",
+      "size": 440350,
+      "sha256": "faab8f26785f82cf0216e84d12e6bb082944a5000d76db08801f60d55d7157cd"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

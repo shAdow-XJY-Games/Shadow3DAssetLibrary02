@@ -1,0 +1,43 @@
+{
+  "id": "fitness-fixed-twin-lever-and-low-cylinder-stepper-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "fitness",
+  "style": "source-preserved-low-poly",
+  "title": "Twin Lever And Low Cylinder Stepper",
+  "description": "One newly authored whole compact static two-pedal stepper appearance. A continuous low welded H chassis on four finite pads carries two front hinge bearings, complete independent lever arms, chamfered long footplates with short raised heel stops and transverse tread ribs. Two complete low inclined cylinder-and-rod assemblies connect rear chassis brackets to the middle of their respective levers in this fixed offset pose. A small rooted front blank meter completes the whole equipment. New numeric profiles and complete construction, not an elliptical with handles removed or an upright cycle with its seat removed. Four opaque constant PBR roles, metre scale and Z up; one whole model, zero scenes. Empty static illustrative geometry only: no simulated motion, hydraulic function, reciprocal coupling, exercise guidance or benefit, resistance, step travel, stability, load capacity, user fit, manufacturing or safety certification.",
+  "bounds": {
+    "x": 0.49399998784065247,
+    "y": 0.6320000290870667,
+    "z": 0.33115383982658386,
+    "unit": "m"
+  },
+  "triangles": 1372,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/fitness/fitness-fixed-twin-lever-and-low-cylinder-stepper-01/v1.0.0/model.glb",
+      "size": 143888,
+      "sha256": "259d74a223156bb26a6cf1722f0f04368d98c01cf97280ae94c4299c46bee729"
+    },
+    "blend": {
+      "path": "assets/fitness/fitness-fixed-twin-lever-and-low-cylinder-stepper-01/v1.0.0/source.blend",
+      "size": 882492,
+      "sha256": "a93f92b19454b2a70c7bc1430a9e7493405904e15c70bb4f836f6d0f8f270ad1"
+    },
+    "generator": {
+      "path": "assets/fitness/fitness-fixed-twin-lever-and-low-cylinder-stepper-01/v1.0.0/generate.py",
+      "size": 18764,
+      "sha256": "b2a88394dfc19d658e876a26f74abbb43bcb91186d7fdf3a2256b915c8c0c396"
+    },
+    "render": {
+      "path": "assets/fitness/fitness-fixed-twin-lever-and-low-cylinder-stepper-01/v1.0.0/thumbnail.png",
+      "size": 491590,
+      "sha256": "0e69535206e569e29e741f4d6bcea888ade7a1764e8879afba825cc0f7e38a5c"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved",
+  "sourceId": "sports-current-dot-originals-20261027"
+}
