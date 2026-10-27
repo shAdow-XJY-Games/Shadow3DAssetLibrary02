@@ -1,0 +1,42 @@
+{
+  "id": "architecture-fixed-suspended-spherical-mass-and-four-radial-cylinder-frame-01",
+  "version": "1.0.0",
+  "category": "architecture",
+  "assetKind": "modular",
+  "theme": "architecture",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Suspended Spherical Mass and Four Radial Cylinder Frame",
+  "description": "One wholly new complete static suspended-mass-damper-inspired architectural display frame. One full grounded octagonal annular base supports four whole tall corner posts and a single welded closed-material square header with a genuinely open centre. Four entire inclined suspension cords run from its four header corners into the upper shoulders of one complete closed faceted spherical mass. Four separate complete radial cylinder-case exteriors, exposed inner rods and full upright outer anchors connect the lower mass region to the grounded ring in the four cardinal directions. All parts are complete authored solids; there is true empty space beneath the mass and inside the header and ground ring. Unlike the spring-mass drum instrument, there is no helical spring, rear two-post portal, long stylus arm, blank recording cylinder or handwheel. Unlike the own open six-beam crown, this has a square four-post suspended centre and independent radial lower cylinder geometry rather than cyclic lapped roof beams. No old sensor, pendulum, sphere assembly, frame or cylinder mesh imported; all coordinates and entire solids authored together. Four opaque constant untextured PBR roles, metres Z up, whole horizontal bounds centred on the actual grounded annular sole, one model zero scenes. Generic illustrative damper-like display only, not a copy or model of a named building installation. No selected mass value, tuning, oscillation, damping coefficient, hydraulic interior, piston stroke, bearing clearance, suspension capacity, force analysis, vibration or seismic performance, structural load, fabrication, assembly, engineering approval or building-safety claim. No mechanism operation, rigging, animation or interaction.",
+  "bounds": {
+    "x": 6.1,
+    "y": 6.1,
+    "z": 5.4,
+    "unit": "m"
+  },
+  "triangles": 1760,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/architecture/architecture-fixed-suspended-spherical-mass-and-four-radial-cylinder-frame-01/v1.0.0/model.glb",
+      "size": 108352,
+      "sha256": "8390271927f0f31a34572932e6060484d8d6f5ceec52cdf9c367fd0bc2c90927"
+    },
+    "blend": {
+      "path": "assets/architecture/architecture-fixed-suspended-spherical-mass-and-four-radial-cylinder-frame-01/v1.0.0/source.blend",
+      "size": 741768,
+      "sha256": "07f20383d861d564a3a9ef89716c37c3068477ccf7b9ee501bcfb4212f5655db"
+    },
+    "generator": {
+      "path": "assets/architecture/architecture-fixed-suspended-spherical-mass-and-four-radial-cylinder-frame-01/v1.0.0/generate.py",
+      "size": 12727,
+      "sha256": "77661741ecbfcbc620a0d961eb92e8318d453dcf752d213d733e619e9bcd64c2"
+    },
+    "render": {
+      "path": "assets/architecture/architecture-fixed-suspended-spherical-mass-and-four-radial-cylinder-frame-01/v1.0.0/thumbnail.png",
+      "size": 522101,
+      "sha256": "48ec28bd238b7ecfa033fa3b80b6e8832d4fc71267a4012bf441b6960d67223e"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
