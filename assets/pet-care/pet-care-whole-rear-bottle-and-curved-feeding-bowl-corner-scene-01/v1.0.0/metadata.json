@@ -1,0 +1,42 @@
+{
+  "id": "pet-care-whole-rear-bottle-and-curved-feeding-bowl-corner-scene-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "pet-care",
+  "style": "source-preserved-low-poly",
+  "title": "Whole Rear Bottle and Curved Feeding Bowl Corner",
+  "description": "One complete empty static pet-care feeding-corner exhibit scene, one new scene zero new independent models. The full qualified rear-bottle and forward-basin waterer stands on the left, and the entire qualified interleaved-curved-ridge feeding bowl stands separately at the forward right on the same low finite floor. Two short backdrop panels form a rear-left corner while the front and right stay open. Both whole original GLB buffers, POSITION/NORMAL data, PBR dictionaries, per-face assignments and internal hierarchy are preserved under whole unit-scale translations only. No component is cropped, extracted, rescaled, recoloured or newly counted. Unlike the older grooming-wash, carrier and climbing-frame display, this is a low water-and-feeding equipment corner with separate clear open basins. Floor and backdrop panels are scene environment, not separately counted models. No animals, contents, liquid, food, working supply or plumbing, feeding-rate or health benefit, animal/species suitability, hygiene, welfare, load, stability, safety zoning, actual facility planning, manufacture or safety capability. The original opaque bottle remains a solid exterior. Rigging animation and interaction not made.",
+  "bounds": {
+    "x": 0.8999999761581421,
+    "y": 0.8600000143051147,
+    "z": 0.4020000100135803,
+    "unit": "m"
+  },
+  "triangles": 4212,
+  "materials": 9,
+  "files": {
+    "glb": {
+      "path": "assets/pet-care/pet-care-whole-rear-bottle-and-curved-feeding-bowl-corner-scene-01/v1.0.0/model.glb",
+      "size": 365636,
+      "sha256": "763e683fbb2c01f283243864d3a856ed0619482973b37f43e4c2cd97665bdf43"
+    },
+    "blend": {
+      "path": "assets/pet-care/pet-care-whole-rear-bottle-and-curved-feeding-bowl-corner-scene-01/v1.0.0/source.blend",
+      "size": 1205504,
+      "sha256": "0aae3ca834a73cb4f6880b7c1adc7aab9d26eeeedff0d81877b88d55e02e9a25"
+    },
+    "generator": {
+      "path": "assets/pet-care/pet-care-whole-rear-bottle-and-curved-feeding-bowl-corner-scene-01/v1.0.0/generate.py",
+      "size": 113015,
+      "sha256": "7c56e401dcff5488d636c84e7d64be14190ceeb6ac922c071522a5eb499db30a"
+    },
+    "render": {
+      "path": "assets/pet-care/pet-care-whole-rear-bottle-and-curved-feeding-bowl-corner-scene-01/v1.0.0/thumbnail.png",
+      "size": 529328,
+      "sha256": "19c9057472552049b7adb0b406e0dbf7652b0cc9e7904cbda0adb2f7173d1ea4"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
