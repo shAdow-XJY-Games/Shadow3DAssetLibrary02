@@ -2169,6 +2169,11 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary02",
       "commit": "ca677caf494df3f9f6c1e452dca81f5f96327552"
+    },
+    "original-qualified-batch-1691-volume02-20261025": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary02",
+      "commit": "1a8e1ffde32d6d8c151e055217f10ba6aca3a83a"
     }
   },
   "assets": [
@@ -74798,6 +74803,92 @@
       "status": "verified",
       "license": "All rights reserved",
       "sourceId": "original-qualified-batch-1689-volume02-20261025"
+    },
+    {
+      "id": "waterworks-fixed-inclined-plate-pack-and-three-hopper-cutaway-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "waterworks",
+      "style": "S01-clean-geometric",
+      "title": "Fixed Inclined Plate Pack and Three Hopper Cutaway",
+      "description": "One wholly newly authored complete dry inclined-plate-settler-inspired cutaway apparatus. One continuous thick rectangular floor contains three genuine rectangular through openings and joins full retained back and side walls; the front wall is deliberately omitted, with complete finite exposed ends marked in a warm material role, so this is honestly an open-front cutaway rather than a sealed tank. Three complete hollow rectangular hoppers taper from those floor openings into real open lower necks. Nine full plain finite-thickness plates stand at one inclined angle with genuine parallel air gaps on two complete internal support rails. One full elevated open rear collection trough and four whole rooted stand legs with separate finite ground pads complete the assembly. Unlike the circular basin with diameter bridge, central feedwell and low radial rakes, there is no circular bowl or suspended rotating-looking centre apparatus. Unlike the horizontal plate filter press, there are no through-bored recessed square filter faces, pressure head, plunger or compression rails; these are broad plain inclined plates over three lower hoppers inside a rectangular cutaway body. All numeric vessel boundaries, plates, hoppers, supports and trough authored together, no old vessel, press plate, rack or frame mesh imported or extracted. Four opaque constant PBR roles, metres Z up, whole horizontal bounds centred over four ground soles, one complete model zero scenes. Empty fixed illustrative waterworks cutaway only, with no fluid, sediment or biological contents. No filtering medium, separation, settling, treatment, water quality, flow distribution, hydraulic connectivity, collection efficiency, cleanability, maintenance access, pressure, structural load, manufacture, installation, operation or equipment safety capability made or verified. No rigging, animation or interaction.",
+      "bounds": {
+        "x": 3.56,
+        "y": 2.44,
+        "z": 3.22,
+        "unit": "m"
+      },
+      "triangles": 776,
+      "materials": 4,
+      "files": {
+        "glb": {
+          "path": "assets/waterworks/waterworks-fixed-inclined-plate-pack-and-three-hopper-cutaway-01/v1.0.0/model.glb",
+          "size": 44952,
+          "sha256": "21641a2fdee6a32d43825f82d73a5b13ac6929bb367ea1826c648cf6decedbc1"
+        },
+        "blend": {
+          "path": "assets/waterworks/waterworks-fixed-inclined-plate-pack-and-three-hopper-cutaway-01/v1.0.0/source.blend",
+          "size": 693160,
+          "sha256": "fad78945c91d5cafc4ac8172d397aba38a78a079afb8092ac14b6d01b55e80d1"
+        },
+        "generator": {
+          "path": "assets/waterworks/waterworks-fixed-inclined-plate-pack-and-three-hopper-cutaway-01/v1.0.0/generate.py",
+          "size": 13147,
+          "sha256": "6d0b2731d2f824bf89ace0db6aacf646ccd740bb92856a8a05167421596759e4"
+        },
+        "render": {
+          "path": "assets/waterworks/waterworks-fixed-inclined-plate-pack-and-three-hopper-cutaway-01/v1.0.0/thumbnail.png",
+          "size": 563262,
+          "sha256": "4c3aa66db269ca1ca448fe9bae3397e48d7ebbae2027bd65c9c9d4c70fdfc664"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1691-volume02-20261025"
+    },
+    {
+      "id": "art-fixed-curved-serrated-blade-and-palm-grip-rocker-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "art",
+      "style": "S01-clean-geometric",
+      "title": "Fixed Curved Serrated Blade and Palm Grip Rocker",
+      "description": "One newly authored complete static mezzotint-rocker-inspired hand tool. A single broad finite steel-look plate has a curved front edge with thirty-six actual finite-thickness serrations and a continuous bevel strip following every tooth and valley. Both shoulders narrow into one rising root and tang seated in a complete short rounded wooden-look palm grip; one whole thick annular alloy-look ferrule surrounds that root. Full blade back and a finite grip facet rest at the same ground datum. All numerical outlines, serrations, shoulder/root transitions and grip proportions are new, not an old U-flute gouge, bent hive scraper or long pen handle reused. Four opaque PBR roles, metre scale, native Z up, one whole model zero scenes. Broad printmaking-tool appearance only; coarse visual serrations are not a real working tooth specification. No sharpened edge, cutting, plate preparation, ink retention, printing performance, historical maker, manufacture, ergonomics, strength or safety capability. Fixed intentional assembly overlaps; no animation, rig or interaction.",
+      "bounds": {
+        "x": 0.07800000160932541,
+        "y": 0.19789648056030273,
+        "z": 0.027760455384850502,
+        "unit": "m"
+      },
+      "triangles": 1166,
+      "materials": 4,
+      "files": {
+        "glb": {
+          "path": "assets/art/art-fixed-curved-serrated-blade-and-palm-grip-rocker-01/v1.0.0/model.glb",
+          "size": 101740,
+          "sha256": "7e5daa83dfb3befb7a160e5bd876a436f8d75e17b868818dce9016b99c0b385b"
+        },
+        "blend": {
+          "path": "assets/art/art-fixed-curved-serrated-blade-and-palm-grip-rocker-01/v1.0.0/source.blend",
+          "size": 700600,
+          "sha256": "cdc4b8f7b255e6ddfb2f703185d5f2a19f0b716aa15ae0c971ac56128577f3a5"
+        },
+        "generator": {
+          "path": "assets/art/art-fixed-curved-serrated-blade-and-palm-grip-rocker-01/v1.0.0/generate.py",
+          "size": 14074,
+          "sha256": "14c49857441525a59017284270746d3f6f771e0da13d4d9ffc3bf64a1ea0f866"
+        },
+        "render": {
+          "path": "assets/art/art-fixed-curved-serrated-blade-and-palm-grip-rocker-01/v1.0.0/thumbnail.png",
+          "size": 469290,
+          "sha256": "c6932e13b79146f7b46c2d9a37f91bef6e66c946bba8d10c9258926c1749c25a"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1691-volume02-20261025"
     }
   ]
 }
