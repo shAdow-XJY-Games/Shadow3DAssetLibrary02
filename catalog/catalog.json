@@ -2174,6 +2174,11 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary02",
       "commit": "1a8e1ffde32d6d8c151e055217f10ba6aca3a83a"
+    },
+    "original-qualified-batch-1694-volume02-20261025": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary02",
+      "commit": "bc8b2c1963ef381bed0d307596040c6e5ed5c822"
     }
   },
   "assets": [
@@ -74889,6 +74894,135 @@
       "status": "verified",
       "license": "All rights reserved",
       "sourceId": "original-qualified-batch-1691-volume02-20261025"
+    },
+    {
+      "id": "industrial-fixed-cutaway-pocket-rotor-and-square-throat-airlock-feeder-01",
+      "version": "1.0.0",
+      "category": "modular",
+      "assetKind": "prop",
+      "theme": "industrial",
+      "style": "warm-handcrafted-village",
+      "title": "Fixed Cutaway Pocket Rotor and Square Throat Airlock Feeder",
+      "description": "One newly authored whole rotary-airlock-feeder-style static cutaway display. Two complete side arcs of a thick cylindrical body and a full rear end plate surround a concentric shaft-mounted hub and eight complete broad blunt radial pocket vanes. Genuine opposed square through throats and proud rectangular flange frames open above and below the circular chamber. The front end is deliberately cut away to a full rim and central bearing crossbridge, exposing the fixed rotor instead of pretending to be a sealed cover. Two long finite mounting feet with body roots, front and rear bearing exteriors, short rear gearbox, full motor-shaped body, end cap and blank terminal box complete the whole assembly. All visible coordinates newly authored. Not the existing offset slotted rotor with unequal sliding vanes or the twin-gear peanut chamber: this has concentric pocket blades and real opposed square feed/discharge openings, with an outboard drive exterior. No powder, vessel, loose rotor or separate stand. One model zero scenes. Static cutaway art only; no rotor movement, material delivery, air seal, pressure boundary, explosion protection, running clearance, drive, electrical operation, engineering, manufacture or machinery safety capability made or verified. Rigging, animation and interaction not made.",
+      "bounds": {
+        "x": 0.829999983,
+        "y": 1.065000057,
+        "z": 1.004999995,
+        "unit": "m"
+      },
+      "triangles": 2128,
+      "materials": 4,
+      "files": {
+        "glb": {
+          "path": "assets/industrial/industrial-fixed-cutaway-pocket-rotor-and-square-throat-airlock-feeder-01/v1.0.0/model.glb",
+          "size": 113140,
+          "sha256": "9b001a5c461eb892e5872390361c2ebb5f4555f9dc77ae0ce3c511b58fd523d7"
+        },
+        "blend": {
+          "path": "assets/industrial/industrial-fixed-cutaway-pocket-rotor-and-square-throat-airlock-feeder-01/v1.0.0/source.blend",
+          "size": 737784,
+          "sha256": "587a6415a24d092f51661ab1dda50be47b373903e9b4cf5c9e94d7dd5d76b990"
+        },
+        "generator": {
+          "path": "assets/industrial/industrial-fixed-cutaway-pocket-rotor-and-square-throat-airlock-feeder-01/v1.0.0/generate.py",
+          "size": 33343,
+          "sha256": "2d2c5392a79d604af11a622c8642b1c37897bc4cd84dfb160eef29277044a630"
+        },
+        "render": {
+          "path": "assets/industrial/industrial-fixed-cutaway-pocket-rotor-and-square-throat-airlock-feeder-01/v1.0.0/thumbnail.png",
+          "size": 562782,
+          "sha256": "d3b341b6a23b2ee349e732518407a1bd56526f4f5eef6a556fbbd8d693705288"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1694-volume02-20261025"
+    },
+    {
+      "id": "nature-whole-forked-notched-thallus-and-circular-gemma-cups-liverwort-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "nature",
+      "style": "S01-clean-geometric",
+      "title": "Whole Forked Notched Thallus and Circular Gemma Cups Liverwort",
+      "description": "One wholly newly authored static vegetative liverwort form at approximately six-centimetre natural patch scale. A single continuous thin thallus branches into two broad rounded lobes with distinct notched growing tips, subtle central thickening and softer margins. Three whole shallow circular cups with real open interiors and scalloped rims are attached along the upper midregions; each holds two complete flattened gemma forms seated into its floor. All thallus boundary, branching height field, cup profiles and gemma coordinates are new, not flattened old leaves, a repaired held plant, a pore-count variant of the epidermis patch or a recoloured bowl. One complete opaque nature prop, zero scenes, four subdued green and lower-surface PBR roles. This is a simplified above-ground vegetative form, not an entire colony, measured Marchantia species, microscopic air-pore or rhizoid/ventral-scale reconstruction, reproductive stalk, sexual stage, live growth, propagation or physical-stability simulation. No rig, animation or interaction made or verified.",
+      "bounds": {
+        "x": 0.058,
+        "y": 0.066,
+        "z": 0.004885,
+        "unit": "m"
+      },
+      "triangles": 5344,
+      "materials": 4,
+      "files": {
+        "glb": {
+          "path": "assets/nature/nature-whole-forked-notched-thallus-and-circular-gemma-cups-liverwort-01/v1.0.0/model.glb",
+          "size": 293520,
+          "sha256": "228c506a73a77bc8a22be965afa9c3a188bfcce32b4a151300e601573aaa59c5"
+        },
+        "blend": {
+          "path": "assets/nature/nature-whole-forked-notched-thallus-and-circular-gemma-cups-liverwort-01/v1.0.0/source.blend",
+          "size": 855396,
+          "sha256": "1bd7770eb418a30f660bd3b31e18d4d1cff6407ae95fb5233f40c8302361b8c4"
+        },
+        "generator": {
+          "path": "assets/nature/nature-whole-forked-notched-thallus-and-circular-gemma-cups-liverwort-01/v1.0.0/generate.py",
+          "size": 63284,
+          "sha256": "c59a923d31ed7876b286d2ce1d032baf943b4ce116451dcc5312f2432d2af1e4"
+        },
+        "render": {
+          "path": "assets/nature/nature-whole-forked-notched-thallus-and-circular-gemma-cups-liverwort-01/v1.0.0/thumbnail.png",
+          "size": 473059,
+          "sha256": "34476ef3ddc3dee6c2dc91b5cc1fe9c341b6cd234cecb20d129beaaa46561505"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1694-volume02-20261025"
+    },
+    {
+      "id": "sports-fixed-unequal-double-eye-and-solid-neck-descender-display-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "sports",
+      "style": "source-preserved-low-poly",
+      "title": "Unequal Double Eye And Solid Neck Descender Display",
+      "description": "One newly authored whole fixed unequal-double-eye descender-inspired decorative display, resting flat. A continuous thick orange body encloses a large circular eye and a smaller circular eye, joined by one broad solid narrowed neck. Both apertures are true through-holes with finite inner walls, not black inserts; the outer lobes, bridge and cap are one connected welded closed mesh. New numeric geometry with two unequal loops, not an old gate frame, hand-window channel, clamp, rope or extracted part. Three opaque constant PBR surface roles, metres, Z up, centred ground origin. One complete model and zero scenes. Stylized static exterior only: not actual climbing equipment, a construction plan, a functional descender, a rope setup, life-safety advice, certified gear, a load-bearing design or a depiction of safe operation. No ratings, attachment instructions, human fit, manufacturer branding, moving parts, animation or performance claims.",
+      "bounds": {
+        "x": 0.09399999678134918,
+        "y": 0.16099999845027924,
+        "z": 0.009999999776482582,
+        "unit": "m"
+      },
+      "triangles": 712,
+      "materials": 3,
+      "files": {
+        "glb": {
+          "path": "assets/sports/sports-fixed-unequal-double-eye-and-solid-neck-descender-display-01/v1.0.0/model.glb",
+          "size": 62428,
+          "sha256": "30847b85b8141136873a2905ef5c5e5bdee168afc590471fbcbc5dd22c9868d9"
+        },
+        "blend": {
+          "path": "assets/sports/sports-fixed-unequal-double-eye-and-solid-neck-descender-display-01/v1.0.0/source.blend",
+          "size": 601980,
+          "sha256": "d152140e897184ee869838ca58e1c621efb0098e139208be807a02480abdf6fc"
+        },
+        "generator": {
+          "path": "assets/sports/sports-fixed-unequal-double-eye-and-solid-neck-descender-display-01/v1.0.0/generate.py",
+          "size": 18592,
+          "sha256": "f96375f1cf673a4ca9eea7c675c757ae383699ec6cf280fc8a926bf274b8a0b2"
+        },
+        "render": {
+          "path": "assets/sports/sports-fixed-unequal-double-eye-and-solid-neck-descender-display-01/v1.0.0/thumbnail.png",
+          "size": 505497,
+          "sha256": "9039d4f176b1264215346a180c3a53cefb09bcfe47739068577083e492c4f3c0"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1694-volume02-20261025"
     }
   ]
 }
