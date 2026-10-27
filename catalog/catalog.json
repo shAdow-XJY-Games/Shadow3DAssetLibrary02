@@ -2389,6 +2389,11 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary02",
       "commit": "15638b3a71d7ccc3c0544cddef47db5912003cc1"
+    },
+    "original-qualified-batch-1796-volume02-20261025": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary02",
+      "commit": "2dd29e187320eb9533dca2b7e7a8cb7d4f239fd3"
     }
   },
   "assets": [
@@ -79576,6 +79581,49 @@
       "status": "verified",
       "license": "All rights reserved",
       "sourceId": "original-qualified-batch-1795-volume02-20261025"
+    },
+    {
+      "id": "textile-fixed-through-window-central-tongue-and-forked-tail-netting-needle-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "textile",
+      "style": "S01-clean-geometric",
+      "title": "Fixed Through Window Central Tongue and Forked Tail Netting Needle",
+      "description": "One newly authored complete empty netting-needle-inspired static hand tool. A single thin flat wooden-look body joins two full side rails around one genuinely through-cut long window, a complete internal tapered blunt tongue rooted in the lower bridge, one closed rounded-looking blunt head and an integral open forked tail. The tongue stops below the window crown with a genuine connecting gap, so the two side galleries form one continuous through opening. All material boundaries use shared indexed vertices in one closed connected solid; no hidden backing floor, separate inserted tongue or overlapping frame strips. Every longitudinal station, outline width, tongue taper and tail-notch boundary is new. Unlike the boat shuttle, this has no deep hull, bottom, end bearings or horizontal bobbin; unlike the tatting shuttle, no opposed curved leaves, centre post or winding; unlike the lucet, no outward horns over a small separate eye or long lower grip. One whole editable mesh, two constant opaque PBR roles, metre units native Z up and whole horizontal-bounds-centred origin on its full flat underside. One independent model zero scenes; empty generic category appearance only, not a replica of a museum object or regional craft pattern. No yarn, net, knot sequence, sharp point, thread loading, flexibility, tension, hand fit, actual net making or mending, catching ability, material authenticity, manufacture or safety capability made or verified. No rigging, animation or interaction.",
+      "bounds": {
+        "x": 0.03999999910593033,
+        "y": 0.22599999606609344,
+        "z": 0.004000000189989805,
+        "unit": "m"
+      },
+      "triangles": 312,
+      "materials": 2,
+      "files": {
+        "glb": {
+          "path": "assets/textile/textile-fixed-through-window-central-tongue-and-forked-tail-netting-needle-01/v1.0.0/model.glb",
+          "size": 28192,
+          "sha256": "61e1afdb9d4a0b2365c18c20f9a0f88cbc27e8b268f9a9eafc30809b3274a383"
+        },
+        "blend": {
+          "path": "assets/textile/textile-fixed-through-window-central-tongue-and-forked-tail-netting-needle-01/v1.0.0/source.blend",
+          "size": 549200,
+          "sha256": "1fe87f48c7045d776d1276aadac9f4542d94742ddaf8b4424004e2b317576a27"
+        },
+        "generator": {
+          "path": "assets/textile/textile-fixed-through-window-central-tongue-and-forked-tail-netting-needle-01/v1.0.0/generate.py",
+          "size": 11717,
+          "sha256": "fa3d4043cc5d75673c41f446718c855f8afc31445ffb6e6849f5f047c4c0d359"
+        },
+        "render": {
+          "path": "assets/textile/textile-fixed-through-window-central-tongue-and-forked-tail-netting-needle-01/v1.0.0/thumbnail.png",
+          "size": 472079,
+          "sha256": "f39e4fa61a69e4dcc797fd5585378ee82bebbb370c2f5441e8adaae5b83a1caf"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1796-volume02-20261025"
     }
   ]
 }
