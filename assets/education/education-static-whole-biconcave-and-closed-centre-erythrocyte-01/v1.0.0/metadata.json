@@ -1,0 +1,42 @@
+{
+  "id": "education-static-whole-biconcave-and-closed-centre-erythrocyte-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "education",
+  "style": "S01-clean-geometric",
+  "title": "Static Whole Biconcave and Closed Centre Erythrocyte",
+  "description": "One wholly newly authored enlarged schematic erythrocyte exterior. A single connected closed mesh forms a soft rolled disk with upper and lower central depressions and a thin but solid material-filled centre. The broad annular shoulders remain thicker than the middle; a narrow lower annular datum makes the static display rest without adding a stand. No central tunnel, nucleus, detached parts or exposed internals are supplied. The full radial section and topology are newly drawn, not a red recolour, flattened old urchin, plugged sand-dollar holes or edited coin. One complete opaque teaching prop, zero scenes, one constant matte red PBR role and a roughly fifty-three-millimetre illustrative diameter, greatly enlarged rather than life size. This is a low-poly geometric aid to the term biconcave, not a measured cell, disease morphology, membrane bilayer, cytoskeleton, cytoplasm, haemoglobin, deformability or flow simulation. No diagnostic, medical, physiological performance or physical-stability claim. No rig, animation or interaction made or verified.",
+  "bounds": {
+    "x": 0.0534,
+    "y": 0.0534,
+    "z": 0.0105,
+    "unit": "m"
+  },
+  "triangles": 1664,
+  "materials": 1,
+  "files": {
+    "glb": {
+      "path": "assets/education/education-static-whole-biconcave-and-closed-centre-erythrocyte-01/v1.0.0/model.glb",
+      "size": 92344,
+      "sha256": "9ce81866d57169d608d143f682471e91612941b4545153d2ba6e47e641377ef3"
+    },
+    "blend": {
+      "path": "assets/education/education-static-whole-biconcave-and-closed-centre-erythrocyte-01/v1.0.0/source.blend",
+      "size": 540880,
+      "sha256": "44f815b91a6832974beb5a4b2f0c62449d4317565e672b6e53d6599604ae3f94"
+    },
+    "generator": {
+      "path": "assets/education/education-static-whole-biconcave-and-closed-centre-erythrocyte-01/v1.0.0/generate.py",
+      "size": 19304,
+      "sha256": "b2c5ff9149f9c39c34d579437bfd640a18cff107318add0339b80db9fcc43ab5"
+    },
+    "render": {
+      "path": "assets/education/education-static-whole-biconcave-and-closed-centre-erythrocyte-01/v1.0.0/thumbnail.png",
+      "size": 490509,
+      "sha256": "e6a306e055ec905f0210b4f3489ec83dcb2deddae5444f83cbfd38397e692093"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
