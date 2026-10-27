@@ -1,0 +1,42 @@
+{
+  "id": "animal-whole-eight-dorsal-valves-and-broad-oval-girdle-chiton-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "animal",
+  "style": "S01-clean-geometric",
+  "title": "Whole Eight Dorsal Valves and Broad Oval Girdle Chiton",
+  "description": "One wholly newly authored static chiton-like mollusc exterior at approximately nine-centimetre display length. Eight complete dorsal shell valves, including narrower anterior and posterior end valves and six intermediate arched saddles, sit embedded within one broad continuous oval girdle. A whole broad muscular foot occupies the underside, with a reduced eyeless head beneath the anterior girdle. No cephalic eyes, jointed side legs, antennae, crustacean tailfan or carved fossil slab is present. All valve outlines, cross-sections, body/girdle profiles and ventral forms are new; no old isopod domain geometry, removed limbs or changed segment-count shell is reused. One complete animal prop, zero scenes, four muted opaque solid PBR roles. Valves are closed solid stylizations and the finite sole is a resting datum. This is not a measured species, microscopic shell eyes, spines, scales, gill fringe, radula, complete internal anatomy, adhesion, locomotion, rolling defence, feeding, edibility identification, physical-stability simulation, rig or animation claim.",
+  "bounds": {
+    "x": 0.05,
+    "y": 0.088,
+    "z": 0.0145,
+    "unit": "m"
+  },
+  "triangles": 3216,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/animal/animal-whole-eight-dorsal-valves-and-broad-oval-girdle-chiton-01/v1.0.0/model.glb",
+      "size": 188260,
+      "sha256": "753f23cce22979c60865f9b21c17c4b2669af8f42127667786c904700b4e2208"
+    },
+    "blend": {
+      "path": "assets/animal/animal-whole-eight-dorsal-valves-and-broad-oval-girdle-chiton-01/v1.0.0/source.blend",
+      "size": 745880,
+      "sha256": "c966f9827937d7984bd9488517e1f18f78cc07e670732728af340c02fca2e496"
+    },
+    "generator": {
+      "path": "assets/animal/animal-whole-eight-dorsal-valves-and-broad-oval-girdle-chiton-01/v1.0.0/generate.py",
+      "size": 22672,
+      "sha256": "fc25c73ff68c41adeff139a91509c4880dee78e6d537ea59088cdbdaf825e8d8"
+    },
+    "render": {
+      "path": "assets/animal/animal-whole-eight-dorsal-valves-and-broad-oval-girdle-chiton-01/v1.0.0/thumbnail.png",
+      "size": 475275,
+      "sha256": "e61cac0d41d626aa5c17738a9163f537175be213ebfb34c3aac1505f32abffbb"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
