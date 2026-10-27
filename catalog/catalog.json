@@ -2324,6 +2324,11 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary02",
       "commit": "620f6c059e208c1846b7f4fd74db5465b1a85bcf"
+    },
+    "original-qualified-batch-1766-volume02-20261025": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary02",
+      "commit": "e1683e36ecbdab107508c1b3cb596868a6ba5ef6"
     }
   },
   "assets": [
@@ -78178,6 +78183,92 @@
       "status": "verified",
       "license": "All rights reserved",
       "sourceId": "original-qualified-batch-1764-volume02-20261025"
+    },
+    {
+      "id": "entryway-fixed-inclined-heel-fork-and-crossfoot-boot-jack-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "entryway",
+      "style": "S01-clean-geometric",
+      "title": "Fixed Inclined Heel Fork and Crossfoot Boot Jack",
+      "description": "One newly authored complete inclined boot-jack exterior. A single thick tapered sole board rises from its low rear tail toward an integral open U-shaped heel fork, with a real through-open front notch rather than a drawn groove. A whole finite dark liner follows the entire inner fork edge while leaving the notch open. Two full crosswise underfeet have flat grounded soles and sloped upper faces seated into the board underside. One whole rounded rectangular rear standing pad sits on the inclined board, separate from the fork. All numerical geometry newly authored, not a shoe stretcher, shoehorn, cut shoe last, ribbed storage tray or scaled hand tool. Three constant opaque PBR roles, metres Z up and whole bounds-centred ground origin. One original complete model zero scenes. Empty static entryway art only: no boot or person, heel extraction, fit, applied force, nonslip rating, ergonomics, strength, manufacture or safety performance. Rigging animation and interaction not made.",
+      "bounds": {
+        "x": 0.20000000298023224,
+        "y": 0.38999998569488525,
+        "z": 0.09539999812841415,
+        "unit": "m"
+      },
+      "triangles": 304,
+      "materials": 3,
+      "files": {
+        "glb": {
+          "path": "assets/entryway/entryway-fixed-inclined-heel-fork-and-crossfoot-boot-jack-01/v1.0.0/model.glb",
+          "size": 29828,
+          "sha256": "bd0132fddbb7d0684a70558befdbba4284c4e37bc322c19601e10d9b38c56f52"
+        },
+        "blend": {
+          "path": "assets/entryway/entryway-fixed-inclined-heel-fork-and-crossfoot-boot-jack-01/v1.0.0/source.blend",
+          "size": 590272,
+          "sha256": "5c7ad1522b8c2b346e82f0917aaae9b60c8331e45d971b7380a2e97c63b0d690"
+        },
+        "generator": {
+          "path": "assets/entryway/entryway-fixed-inclined-heel-fork-and-crossfoot-boot-jack-01/v1.0.0/generate.py",
+          "size": 16010,
+          "sha256": "ad7422409f54143ecac5ad0ed2bd34b4fc5b1f96e587baef108084a9069a8926"
+        },
+        "render": {
+          "path": "assets/entryway/entryway-fixed-inclined-heel-fork-and-crossfoot-boot-jack-01/v1.0.0/thumbnail.png",
+          "size": 479968,
+          "sha256": "86ceb2abef7a5f4c6868ba135c83ea0e7e845e6e7a2b28424012dbc62a229d63"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1766-volume02-20261025"
+    },
+    {
+      "id": "art-whole-screened-cushion-and-hook-burnisher-preparation-bay-scene-01",
+      "version": "1.0.0",
+      "category": "scenes",
+      "assetKind": "scene",
+      "theme": "art",
+      "style": "source-preserved-low-poly",
+      "title": "Whole Screened Cushion and Hook Burnisher Preparation Bay",
+      "description": "One static whole-craft-tool preparation-bay scene, one scene and zero new independent models. The entire qualified gilding cushion sits on the broad higher rear-left seat, preserving its full low wooden backing, continuous padded face and three-sided finite open-front windscreen. The whole qualified rounded-hook stone-look burnisher rests separately along the lower front-right ledge, including its entire long tapered grip, annular collar and full curved head. One exact whole quarter-turn rotates only the burnisher; the cushion is translated only. Both complete original binary buffers, positions, normals, material dictionaries, face assignments and internal hierarchy remain unchanged at unit metre scale. One continuous two-level low stepped base is the sole new scene-specific environment: the broad rear seat and lower front strip establish separate vertical levels and measured finite contacts, rather than three items sharing one worktable or the old postal-tray tool assortment. Both objects remain whole and separated, with no extracted tools, resized pad, copied ornament or changed material. No gold leaf, artwork, workpiece, user or performed process is supplied. The scene is a static category-level exhibit, not a claim of demonstrated gilding, tool-to-surface contact, material compatibility, draft protection, polishing output, ergonomic access, weight bearing, stability, installation, manufacture or safety capability. No rig, animation or interaction.",
+      "bounds": {
+        "x": 0.4399999976158142,
+        "y": 0.36000001430511475,
+        "z": 0.1850000023841858,
+        "unit": "m"
+      },
+      "triangles": 1288,
+      "materials": 9,
+      "files": {
+        "glb": {
+          "path": "assets/art/art-whole-screened-cushion-and-hook-burnisher-preparation-bay-scene-01/v1.0.0/model.glb",
+          "size": 116648,
+          "sha256": "61dbd12e08ff78d5fe9cf2ef5f3903e77e5ad1bf3fc093b4f049557f9c66a41f"
+        },
+        "blend": {
+          "path": "assets/art/art-whole-screened-cushion-and-hook-burnisher-preparation-bay-scene-01/v1.0.0/source.blend",
+          "size": 854496,
+          "sha256": "733a773c78cfa33e05bf4dd521f5f59dc7832ece9f520352eccb07f346545d90"
+        },
+        "generator": {
+          "path": "assets/art/art-whole-screened-cushion-and-hook-burnisher-preparation-bay-scene-01/v1.0.0/generate.py",
+          "size": 54348,
+          "sha256": "2097ce825cd02938579db532896f4187035322f11dd09b23829c425151bcf1b5"
+        },
+        "render": {
+          "path": "assets/art/art-whole-screened-cushion-and-hook-burnisher-preparation-bay-scene-01/v1.0.0/thumbnail.png",
+          "size": 518450,
+          "sha256": "de9b35763c39fe0afa751209d380dafa165fc36038098bb9ecf7e3db6466036e"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1766-volume02-20261025"
     }
   ]
 }
