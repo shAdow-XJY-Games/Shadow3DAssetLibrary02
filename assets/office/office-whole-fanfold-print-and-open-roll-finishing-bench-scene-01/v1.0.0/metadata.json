@@ -1,0 +1,42 @@
+{
+  "id": "office-whole-fanfold-print-and-open-roll-finishing-bench-scene-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "office",
+  "style": "source-preserved-low-poly",
+  "title": "Whole Fanfold Print and Open Roll Finishing Bench",
+  "description": "One static office print-and-finish preparation bench scene, one new scene zero new independent models. The complete qualified wide-platen fanfold printer stands on the left of a broad finite four-legged workbench; its entire original perforated blank paper path and rear folded stack remain intact. The complete qualified open-top through-roller laminator stands on the right, slightly forward, showing its whole raised roof and both roller pairs. Both appliances face the open front and remain separated laterally with no linked feed or exchanged paper. The bench and finite floor are simple scene-only support geometry, not separately counted assets. Both original entire GLB buffers, POSITION/NORMAL arrays, PBR dictionaries, meshes and internal hierarchy are retained under whole unit-scale translations only. Neither reused model is extracted, scaled, recoloured or counted as new. Unlike the previous opposed folder/cutter tables and independent shredder in an aisle, this is a single shared wide bench carrying fanfold-print and open-roll stations side by side. The original printer paper is static blank illustrative geometry, not live output or stock. No printing, lamination, heating, feed continuity, powered operation, paper transfer, load rating, ergonomic access, electrical or workplace safety claim. Rigging animation interaction not made.",
+  "bounds": {
+    "x": 3.200000047683716,
+    "y": 2.0,
+    "z": 1.2379517555236816,
+    "unit": "m"
+  },
+  "triangles": 3832,
+  "materials": 11,
+  "files": {
+    "glb": {
+      "path": "assets/office/office-whole-fanfold-print-and-open-roll-finishing-bench-scene-01/v1.0.0/model.glb",
+      "size": 359704,
+      "sha256": "5f37a003cd6a138894f65cca17987cc274ec683f334f9cde7b7553edf807f6ed"
+    },
+    "blend": {
+      "path": "assets/office/office-whole-fanfold-print-and-open-roll-finishing-bench-scene-01/v1.0.0/source.blend",
+      "size": 1383344,
+      "sha256": "cbdb9ce62bb610b6da589aa42a98a7d21f1252116675729bed1d1e3de73bfdc4"
+    },
+    "generator": {
+      "path": "assets/office/office-whole-fanfold-print-and-open-roll-finishing-bench-scene-01/v1.0.0/generate.py",
+      "size": 88878,
+      "sha256": "60e0a3bee311b39e5227e81adc4b4f3b5bf7e5d58d64b83bde9125d11e86aa14"
+    },
+    "render": {
+      "path": "assets/office/office-whole-fanfold-print-and-open-roll-finishing-bench-scene-01/v1.0.0/thumbnail.png",
+      "size": 480909,
+      "sha256": "3f5cf91e08cb3d6dc275ca67fb0211a093da4b0585110355a1d3fed572ef2ece"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

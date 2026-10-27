@@ -1,0 +1,42 @@
+{
+  "id": "culture-whole-paper-mould-and-copper-stamp-demonstration-table-scene-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "culture",
+  "style": "source-preserved-low-poly",
+  "title": "Whole Paper Mould and Copper Stamp Demonstration Table",
+  "description": "One static craft-tool demonstration-table scene, zero new independent models. Three entire qualified original assets retain every mesh buffer, normal, full PBR material and internal node hierarchy at unchanged unit metre scale: the complete picnic table with both slatted benches and all eight grounded legs; the whole paper mould with its matching removed deckle; and the complete face-up copper scroll-strip stamp including its rear grid and iron grip. The whole paired paper tool occupies the left tabletop with a separate clear gap to the copper stamp on the right. The stamp rests by its original finite grip crown on the middle flat tabletop plank; finite mould/deckle bottom patches overlap real tabletop plank faces. The scene-only low slab supports the complete table feet. No bench, plank, wire, rim, scroll strip, grip or tool support is extracted, enlarged or recoloured. This is a new whole-equipment display contrasting two distinct craft tools, not a claim that paper forming and textile wax stamping are the same operation. No pulp, wax, heat, cloth, finished print, people, actual demonstration, workflow access, educational result, load, stability, manufacture or safety capability. No rig, animation or interaction.",
+  "bounds": {
+    "x": 2.200000047683716,
+    "y": 2.0,
+    "z": 0.9649999737739563,
+    "unit": "m"
+  },
+  "triangles": 5036,
+  "materials": 11,
+  "files": {
+    "glb": {
+      "path": "assets/culture/culture-whole-paper-mould-and-copper-stamp-demonstration-table-scene-01/v1.0.0/model.glb",
+      "size": 475888,
+      "sha256": "76f5adca0167144b1ec4047a4b2c571f6ff7d22bf9107b150432ba1e55c29455"
+    },
+    "blend": {
+      "path": "assets/culture/culture-whole-paper-mould-and-copper-stamp-demonstration-table-scene-01/v1.0.0/source.blend",
+      "size": 1674812,
+      "sha256": "61eb4fda7004b590898d66f32c1dd7d719abf006d835c1a0adfd4a69dd03bb90"
+    },
+    "generator": {
+      "path": "assets/culture/culture-whole-paper-mould-and-copper-stamp-demonstration-table-scene-01/v1.0.0/generate.py",
+      "size": 121459,
+      "sha256": "008c5e2f31c3b25cfbd76b7f5420da95f7d876b882eb512b58d40f52ac389db1"
+    },
+    "render": {
+      "path": "assets/culture/culture-whole-paper-mould-and-copper-stamp-demonstration-table-scene-01/v1.0.0/thumbnail.png",
+      "size": 543799,
+      "sha256": "c4e307c7a122cb888dd8de5a18ebf53cdb1812974f400f263f842e5f8e0fd7f8"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
