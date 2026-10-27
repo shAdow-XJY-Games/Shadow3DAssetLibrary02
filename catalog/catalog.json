@@ -2159,6 +2159,11 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary02",
       "commit": "fbff69de091c3519a9e17cbda1ad54ffb73f397d"
+    },
+    "original-qualified-batch-1687-volume02-20261025": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary02",
+      "commit": "61677c3f3b9d4283f9c4575bf42e660c5a3cb8fb"
     }
   },
   "assets": [
@@ -74659,6 +74664,49 @@
       "status": "verified",
       "license": "All rights reserved",
       "sourceId": "original-qualified-batch-1686-volume02-20261025"
+    },
+    {
+      "id": "industrial-whole-bench-lathe-and-empty-steady-rest-preparation-corner-scene-01",
+      "version": "1.0.0",
+      "category": "scenes",
+      "assetKind": "scene",
+      "theme": "industrial",
+      "style": "warm-handcrafted-village",
+      "title": "Whole Bench Lathe and Empty Steady Rest Preparation Corner",
+      "description": "One new whole open metalworking preparation-corner scene. The existing complete open-bed three-jaw bench lathe remains unchanged on a newly authored full four-leg workbench with lower stretchers. The independently complete split-ring three-pad steady rest remains unchanged on a separate lower inspection pedestal to the right, not mounted in the lathe and not presented as compatible with its bed or work envelope. A single shared floor, low rear boundary with a deliberate service opening and broad empty front approach organize the two different-height work surfaces without hiding or cutting either original. Every component source is embedded and hash-pinned; original scale, meshes and PBR parameters are preserved. Zero new stand-alone models, one new scene. No stock, person, loose tools, chips, cables or active process. Fixed illustrative layout only: no assembly fit, workpiece support, machining, operation, human ergonomics, rated worktop load, safe clearance, engineering or safety validation. Rigging, animation, physics and runtime interaction not made.",
+      "bounds": {
+        "x": 3.589999914,
+        "y": 2.329999924,
+        "z": 1.45599997,
+        "unit": "m"
+      },
+      "triangles": 4076,
+      "materials": 11,
+      "files": {
+        "glb": {
+          "path": "assets/industrial/industrial-whole-bench-lathe-and-empty-steady-rest-preparation-corner-scene-01/v1.0.0/model.glb",
+          "size": 249412,
+          "sha256": "d8834589ef85e4f27d025b6cdf8efedefc7255ccb2abf837fb16ffe508d2504f"
+        },
+        "blend": {
+          "path": "assets/industrial/industrial-whole-bench-lathe-and-empty-steady-rest-preparation-corner-scene-01/v1.0.0/source.blend",
+          "size": 1285136,
+          "sha256": "689511fa0b21c69fa287c507975e51bd031927f713315709788669e45c16d8cb"
+        },
+        "generator": {
+          "path": "assets/industrial/industrial-whole-bench-lathe-and-empty-steady-rest-preparation-corner-scene-01/v1.0.0/generate.py",
+          "size": 60636,
+          "sha256": "07c57af59a1e61b55693f35a682ba66c4bd71d031990cc86e52a7810ea56d8bf"
+        },
+        "render": {
+          "path": "assets/industrial/industrial-whole-bench-lathe-and-empty-steady-rest-preparation-corner-scene-01/v1.0.0/thumbnail.png",
+          "size": 512146,
+          "sha256": "f36b323d5864e7c5cc9be73e3f9da5406508169528775e01e1dc075ae3ea7063"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1687-volume02-20261025"
     }
   ]
 }
