@@ -2284,6 +2284,11 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary02",
       "commit": "a3c171bdbb2bded55fd63457facc38bcefe5df55"
+    },
+    "original-qualified-batch-1747-volume02-20261025": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary02",
+      "commit": "cc84d3b42a05777496cacfb6c00237b6035d1c46"
     }
   },
   "assets": [
@@ -77192,6 +77197,221 @@
       "status": "verified",
       "license": "All rights reserved",
       "sourceId": "original-qualified-batch-1742-volume02-20261025"
+    },
+    {
+      "id": "retail-fixed-curved-heel-channel-and-through-slot-shoehorn-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "retail",
+      "style": "S01-clean-geometric",
+      "title": "Fixed Curved Heel Channel and Through Slot Shoehorn",
+      "description": "One newly authored complete static shoehorn-style dressing prop. One uninterrupted thin body widens into a shallow transversely concave heel channel, narrows through a long curved neck and finishes in a short raised handle end with one real bounded through slot. The complete upper and lower surfaces, blunt finite perimeter and all four slot walls belong to one continuous closed editable mesh. The widened front remains an open channel, not a deep closed bowl or perforated shovel pan. Its warm constant opaque plastic-looking PBR material is untextured. All original numerical geometry newly authored, no old scoop handle, shoe block, cutter bed or imported part used. Metres Z up, horizontal bounds-centred ground datum, one whole model zero scenes. Unlike a split shoe stretcher there are no forefoot blocks, heel block or screw; unlike the prior pet-care slotted scoop there is no multi-slot shovel pan or raised return-loop handle. Empty static retail-dressing art only: no shoe, heel, foot, human fit, sizing, flex, aid to movement, use performance, strength, manufacture or safety capability. Rigging animation and interaction not made.",
+      "bounds": {
+        "x": 0.05999999865889549,
+        "y": 0.33000001311302185,
+        "z": 0.042479999363422394,
+        "unit": "m"
+      },
+      "triangles": 264,
+      "materials": 1,
+      "files": {
+        "glb": {
+          "path": "assets/retail/retail-fixed-curved-heel-channel-and-through-slot-shoehorn-01/v1.0.0/model.glb",
+          "size": 23408,
+          "sha256": "910abfaf85d67d66eb6ab38a69e0767a6a1abb6148aceab76ab55912fdfbe494"
+        },
+        "blend": {
+          "path": "assets/retail/retail-fixed-curved-heel-channel-and-through-slot-shoehorn-01/v1.0.0/source.blend",
+          "size": 520640,
+          "sha256": "66502e11f513564d7fc50a4930709596cf554b045f049cfe57d47bfb08ba5092"
+        },
+        "generator": {
+          "path": "assets/retail/retail-fixed-curved-heel-channel-and-through-slot-shoehorn-01/v1.0.0/generate.py",
+          "size": 16078,
+          "sha256": "49ee7eabfde02793bda5e50486942234ce5a44cb4174589cb7e408d0a8c9a112"
+        },
+        "render": {
+          "path": "assets/retail/retail-fixed-curved-heel-channel-and-through-slot-shoehorn-01/v1.0.0/thumbnail.png",
+          "size": 469987,
+          "sha256": "6130d3a777eaa07ee4bc61f170daac0daf77217df64a07808605bc11aac6ad41"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1747-volume02-20261025"
+    },
+    {
+      "id": "music-whole-capped-crook-and-slide-bell-inspection-bay-scene-01",
+      "version": "1.0.0",
+      "category": "scenes",
+      "assetKind": "scene",
+      "theme": "music",
+      "style": "source-preserved-low-poly",
+      "title": "Whole Capped Crook and Slide Bell Inspection Bay",
+      "description": "One static whole-wind-instrument inspection display, one scene and zero new independent models. The entire qualified upright capped-crook instrument stands at the rear-left, retaining its seven open front ports, complete hollow slotted wind cap, lower return and open upturned mouth. The whole qualified twin-slide and flared-bell instrument lies separately to the right and slightly forward on its complete original three-seat carrier; every inner and outer tube, return bow, bell, mouthpiece, brace, collar and support remains intact. Both complete original buffers, POSITION and NORMAL arrays, material dictionaries, face assignments and internal hierarchy stay exact at unit metre scale under translations only. One low finite plain platform is the sole new scene-only geometry, with actual finite contact beneath both original ground soles and a clear lateral interval. This is a static comparison of two different complete wind-body organizations, not a new instrument or the existing three-drum/percussion worktable arrangement. No tubes are combined into a circuit, resized, shortened, recoloured, extracted or counted anew. Small holes and mouthpieces remain subordinate at whole-scene scale. No sound, acoustics, tuning, slide travel, playability, cultural reconstruction, shared working process, instrument compatibility, ergonomic access, load, manufacture, stability or safety capability. No rig, animation or interaction.",
+      "bounds": {
+        "x": 2.0,
+        "y": 0.7599999904632568,
+        "z": 0.7114689946174622,
+        "unit": "m"
+      },
+      "triangles": 24952,
+      "materials": 9,
+      "files": {
+        "glb": {
+          "path": "assets/music/music-whole-capped-crook-and-slide-bell-inspection-bay-scene-01/v1.0.0/model.glb",
+          "size": 2114108,
+          "sha256": "2a46e511260949a4486ca9b0f891c43c458faab08ce6420310601cd64dad9af3"
+        },
+        "blend": {
+          "path": "assets/music/music-whole-capped-crook-and-slide-bell-inspection-bay-scene-01/v1.0.0/source.blend",
+          "size": 3547264,
+          "sha256": "001b8e95148cf572d0f8b35a6e0fa647b5dce12c38fdbe515fdcff8d435b6dba"
+        },
+        "generator": {
+          "path": "assets/music/music-whole-capped-crook-and-slide-bell-inspection-bay-scene-01/v1.0.0/generate.py",
+          "size": 489888,
+          "sha256": "7c436d0ebe62313b19f9c7be558f0350bfdc9fecc07a0110b328dc1ad1730563"
+        },
+        "render": {
+          "path": "assets/music/music-whole-capped-crook-and-slide-bell-inspection-bay-scene-01/v1.0.0/thumbnail.png",
+          "size": 472235,
+          "sha256": "a367e825a2a68f43c6eaf71441a92f20f0c5c46c2fed183172d5ca84e56f3b73"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1747-volume02-20261025"
+    },
+    {
+      "id": "industrial-fixed-deep-c-frame-and-opposed-round-dies-planishing-hammer-01",
+      "version": "1.0.0",
+      "category": "modular",
+      "assetKind": "prop",
+      "theme": "industrial",
+      "style": "warm-handcrafted-village",
+      "title": "Fixed Deep C Frame and Opposed Round Dies Planishing Hammer",
+      "description": "One newly authored whole fixed floor-standing pneumatic-planishing-hammer-style exterior. A single connected thick deep C frame has a broad empty throat, opposed small round upper striking face and low crowned lower anvil, and a complete adjustable lower support shaft with collar and fixed locking lever. The upper head body sits through the forward top arm, with a whole slender stem and complete small retaining-coil appearance around its lower nose. A central stand, diagonal rear brace, low fore-aft tie and two full transverse ground feet support the whole frame. One complete low pedal housing with inset raised tread is connected by one full curved dark exterior hose to the head rear fitting; no compressor or compressed air is included. Every visible coordinate newly authored; no old cam-helve hammer, arbor press, C cutter or tool subassembly imported. Unlike the existing long pivoted timber helve and rear cam, this has no swinging arm or independent broad anvil bed. Unlike the rack-pinion arbor press, it has no rack, pinion lever, platen or worktable: the deep open C reaches two small aligned round dies and a compact head. One whole model zero scenes. All components are fixed and blunt. Empty display only: no sheet, workpiece, process, pneumatic internals, pressure, continuous air path, striking travel, vibration, tooling compatibility, thread fit, spring performance, load, engineering, manufacture or machine-safety capability made or verified. Rigging, animation and interaction not made.",
+      "bounds": {
+        "x": 0.720000029,
+        "y": 1.274112225,
+        "z": 2.141232491,
+        "unit": "m"
+      },
+      "triangles": 2516,
+      "materials": 4,
+      "files": {
+        "glb": {
+          "path": "assets/industrial/industrial-fixed-deep-c-frame-and-opposed-round-dies-planishing-hammer-01/v1.0.0/model.glb",
+          "size": 142936,
+          "sha256": "3881371d617c586aca504a8d3cb522a26e82e2166bcd513ecdd6c6307fbf31eb"
+        },
+        "blend": {
+          "path": "assets/industrial/industrial-fixed-deep-c-frame-and-opposed-round-dies-planishing-hammer-01/v1.0.0/source.blend",
+          "size": 721416,
+          "sha256": "2e8a0bb2cedc2f4adc030b6737f9d616cc842f7af014528d388f2218506e30fd"
+        },
+        "generator": {
+          "path": "assets/industrial/industrial-fixed-deep-c-frame-and-opposed-round-dies-planishing-hammer-01/v1.0.0/generate.py",
+          "size": 34924,
+          "sha256": "25fbf3afee49137606e9c256688086e8b83c20004da1c48a62f0443969bd7896"
+        },
+        "render": {
+          "path": "assets/industrial/industrial-fixed-deep-c-frame-and-opposed-round-dies-planishing-hammer-01/v1.0.0/thumbnail.png",
+          "size": 492429,
+          "sha256": "f38450965e7a15fd90620bb6c5a9835505c6681c72c15782a8adb99ee2fba06a"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1747-volume02-20261025"
+    },
+    {
+      "id": "tailoring-whole-pin-cushion-thimble-and-seam-tool-divided-tray-scene-01",
+      "version": "1.0.0",
+      "category": "scenes",
+      "assetKind": "scene",
+      "theme": "tailoring",
+      "style": "source-preserved-low-poly",
+      "title": "Whole Pin Cushion Thimble and Seam Tool Divided Tray",
+      "description": "One complete static tailoring hand-tool organizer display, one new scene zero new independent models. The entire qualified eight-gore cushion and all five pins occupy the rear-left bay. The complete qualified hollow blind-dimple thimble occupies the rear-right bay in its original side-resting pose. The entire qualified unequal-fork seam tool lies across the long front bay, including its full grip, shaft, both fork tips and guard bead. One continuous three-bay tray provides an integral floor, four full perimeter rims and a T-shaped divider; this scene-only organizer is not separately counted. All three original GLB buffers, positions, normals, complete PBR and internal hierarchy are unchanged at unit scale, using only whole translations and one exact quarter-turn of the seam tool. No clipping, extracting, scaling, recolouring or repeated model counts. Unlike the earlier undivided two-instrument medical tray, these are three distinct whole sewing props placed inside physically separated rear compartments and a long front channel. Static game-art exhibit only, no cloth workpiece, person, actual sewing workflow, puncture protection, needle/hand fit, cutting action, load, hygiene, manufacture or safety capability. Rigging animation and interaction not made.",
+      "bounds": {
+        "x": 0.3199999928474426,
+        "y": 0.2800000011920929,
+        "z": 0.08160000294446945,
+        "unit": "m"
+      },
+      "triangles": 4808,
+      "materials": 11,
+      "files": {
+        "glb": {
+          "path": "assets/tailoring/tailoring-whole-pin-cushion-thimble-and-seam-tool-divided-tray-scene-01/v1.0.0/model.glb",
+          "size": 339916,
+          "sha256": "f270deb11617a3db861ce7212f90acb3ad70c3c715289b5d23ee7eb8546f9a84"
+        },
+        "blend": {
+          "path": "assets/tailoring/tailoring-whole-pin-cushion-thimble-and-seam-tool-divided-tray-scene-01/v1.0.0/source.blend",
+          "size": 1299456,
+          "sha256": "ed44a1295c34c59255c1a28a84c68d4038794e89af2409c92f2de4c58d5f104c"
+        },
+        "generator": {
+          "path": "assets/tailoring/tailoring-whole-pin-cushion-thimble-and-seam-tool-divided-tray-scene-01/v1.0.0/generate.py",
+          "size": 131849,
+          "sha256": "1bc0b3c293cad3d7a765fbee22e60dde4b80c975bcd26174106f17f8ace30042"
+        },
+        "render": {
+          "path": "assets/tailoring/tailoring-whole-pin-cushion-thimble-and-seam-tool-divided-tray-scene-01/v1.0.0/thumbnail.png",
+          "size": 480391,
+          "sha256": "38c068dc26fd0cfb10005089700ee734e76ba3049b15c004c425cf5720b5862b"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1747-volume02-20261025"
+    },
+    {
+      "id": "culture-fixed-domed-drum-and-chain-weight-handwheel-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "culture",
+      "style": "S01-clean-geometric",
+      "title": "Fixed Domed Drum and Chain Weight Handwheel",
+      "description": "One newly authored complete static uninscribed prayer-wheel-inspired exterior. A whole long turned wooden-look handle carries a single axial spindle and broad lower collar beneath one full cylindrical case with an integrated domed-lid exterior and plain narrow rim bands. Six separate complete closed oval links form one short alternating-plane side tether ending in one full neck-and-rounded-weight body. All link holes are genuine open space; small intentional overlaps root neighboring links in this fixed pose. Every numeric profile, loop path, placement and weight shape is new, not a cabasa cylinder with bead loops removed, a shallow pellet rattle case, a spinning top or an extracted chain accessory. The complete handle butt is the finite ground datum; ten closed editable components and four opaque PBR roles, metres native Z up, one model zero scenes. Broad category inspiration acknowledges Tibetan Buddhist prayer wheels, but this plain decorative exterior omits sacred inscriptions, icons, scrolls and internal drum cavity, and does not reproduce a particular museum object, regional ornament, historical form, material identity or ritual authenticity. The cylinder is an opaque closed display solid, not an accessible vessel. No prayer efficacy, ceremonial instruction, spinning, bearing clearance, chain articulation, dynamic suspension, balance, manufacture, hand fit, strength or safety capability made or verified. No rig, animation or interaction.",
+      "bounds": {
+        "x": 0.1907999962568283,
+        "y": 0.10199999809265137,
+        "z": 0.3440000116825104,
+        "unit": "m"
+      },
+      "triangles": 6048,
+      "materials": 4,
+      "files": {
+        "glb": {
+          "path": "assets/culture/culture-fixed-domed-drum-and-chain-weight-handwheel-01/v1.0.0/model.glb",
+          "size": 517376,
+          "sha256": "8f2b250bcb8ff09f1699ec3766aa63a1d4965559e104a3d3f3b6495fd2727817"
+        },
+        "blend": {
+          "path": "assets/culture/culture-fixed-domed-drum-and-chain-weight-handwheel-01/v1.0.0/source.blend",
+          "size": 1280304,
+          "sha256": "06a769d8d7f96e9f1b18a0c7376fac347e531c1213b20e1e5dcacd4a4c1f14ea"
+        },
+        "generator": {
+          "path": "assets/culture/culture-fixed-domed-drum-and-chain-weight-handwheel-01/v1.0.0/generate.py",
+          "size": 13225,
+          "sha256": "da3edfcfeeeff1606797485dbbe659828f81ba385f872fde7566289775fe1e15"
+        },
+        "render": {
+          "path": "assets/culture/culture-fixed-domed-drum-and-chain-weight-handwheel-01/v1.0.0/thumbnail.png",
+          "size": 466661,
+          "sha256": "0c8125015803cccd42d375e5ae8e796ab78d34a1178b13efa22cd7262d0c1371"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1747-volume02-20261025"
     }
   ]
 }
