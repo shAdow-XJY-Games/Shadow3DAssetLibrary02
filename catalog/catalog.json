@@ -2259,6 +2259,11 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary02",
       "commit": "eedc0b43809b47571b107e589d2d8b3b4d0dd10e"
+    },
+    "original-qualified-batch-1732-volume02-20261025": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary02",
+      "commit": "11ab4f23e7fa816d62356309d76e4094cc434825"
     }
   },
   "assets": [
@@ -76694,6 +76699,49 @@
       "status": "verified",
       "license": "All rights reserved",
       "sourceId": "original-qualified-batch-1731-volume02-20261025"
+    },
+    {
+      "id": "office-fixed-rounded-writing-board-and-wide-hinged-clip-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "office",
+      "style": "S01-clean-geometric",
+      "title": "Fixed Rounded Writing Board and Wide Hinged Clip",
+      "description": "One newly authored complete empty static clipboard-style stationery exterior. One broad thin chamfer-cornered writing board carries a complete rear mounting plate, two upright hinge ears and a retained full transverse pin. A whole broad bent metal pressure plate runs from a full front lip resting on the board through the pin axis to a raised short rear press tab. One whole dark pad caps the rear tab and two complete blank rivet heads seat into the mounting plate. The board and clip are one original whole model, not a scene or separately counted parts. All numeric geometry newly authored, not an enlarged binder clip, removed cutter bed or attached old prop. Three opaque constant PBR roles, metres Z up, bounds-centred ground datum. The wide continuous plate and front pressure lip differ from the prior triangular hollow binder shell and wire handles; no long side cutting arm or sheet fence. Empty fixed game-art appearance only: no paper, printed writing, marks, logo, spring simulation, actual clamp pressure, clip travel, paper fit, writing performance, load, manufacture or safety capability. Rigging animation and interaction not made.",
+      "bounds": {
+        "x": 0.23999999463558197,
+        "y": 0.3400000035762787,
+        "z": 0.039000000804662704,
+        "unit": "m"
+      },
+      "triangles": 632,
+      "materials": 3,
+      "files": {
+        "glb": {
+          "path": "assets/office/office-fixed-rounded-writing-board-and-wide-hinged-clip-01/v1.0.0/model.glb",
+          "size": 59736,
+          "sha256": "28b893bf03a80b315b625afafd7c7e8f83da3d263500d413370fc93ac7ae9887"
+        },
+        "blend": {
+          "path": "assets/office/office-fixed-rounded-writing-board-and-wide-hinged-clip-01/v1.0.0/source.blend",
+          "size": 645824,
+          "sha256": "f817c988ef06fad1e7f6c2ebee47ddb3694e29ba4ccf5ca0ef604470201d4adb"
+        },
+        "generator": {
+          "path": "assets/office/office-fixed-rounded-writing-board-and-wide-hinged-clip-01/v1.0.0/generate.py",
+          "size": 16120,
+          "sha256": "a374695c76c38e700e05b71b1ba1e5d127fc2e40f61cc8b6f7dd4ed1b0a7b370"
+        },
+        "render": {
+          "path": "assets/office/office-fixed-rounded-writing-board-and-wide-hinged-clip-01/v1.0.0/thumbnail.png",
+          "size": 439328,
+          "sha256": "2d8050785260fa870f66ca801c3424ce30be15d1e28ce4b6e21b7156a4243f2c"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1732-volume02-20261025"
     }
   ]
 }
