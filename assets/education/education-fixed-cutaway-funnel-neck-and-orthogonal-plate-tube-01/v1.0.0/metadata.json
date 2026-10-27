@@ -1,0 +1,42 @@
+{
+  "id": "education-fixed-cutaway-funnel-neck-and-orthogonal-plate-tube-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "education",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Cutaway Funnel Neck and Orthogonal Plate Tube",
+  "description": "One wholly newly authored complete horizontal cathode-tube-style cutaway display on a single broad base with two whole concave saddles. A continuous long narrow neck widens through one thick open half-funnel to a complete broad circular opaque face and annular collar. The entire near-side shell half is intentionally absent with finite thick cut edges; this is real open geometry, not transparency or an inset painted on a solid body. A complete rear cap roots two fixed internal carrier rods, three separate whole hollow coaxial sleeves and two orthogonal pairs of whole blunt plates with their short integral-looking supports. No old source meshes imported. Unlike the old upright half-bulb with four radial rotor vanes, the enclosure is a long horizontal narrow-to-wide funnel and its interior is organized coaxially before two offset perpendicular plate pairs. Unlike the tall column observation console, there is no solid vertical stepped stack, observation cabinet or wing control desks. Dimensions and internals are deliberately simplified nontechnical artistic arrangement, not construction instructions or a faithful tube design. One complete static educational prop, zero scenes, four opaque constant untextured PBR roles, native metre-style Z up, centred horizontal envelope and base sole origin. No electron beam, radiation, vacuum, electrical circuit, voltage, electric field, display image, light emission, optical function, measurement, operating specifications, manufacture, assembly procedure, pressure, fit, load or equipment safety is made or verified. Rigging animation and interaction not made.",
+  "bounds": {
+    "x": 3.4,
+    "y": 2.14,
+    "z": 2.26,
+    "unit": "m"
+  },
+  "triangles": 2420,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/education/education-fixed-cutaway-funnel-neck-and-orthogonal-plate-tube-01/v1.0.0/model.glb",
+      "size": 125160,
+      "sha256": "79ffc0b652055008051fa8864761619c26b1bcdd703764b529e8713f4e65a774"
+    },
+    "blend": {
+      "path": "assets/education/education-fixed-cutaway-funnel-neck-and-orthogonal-plate-tube-01/v1.0.0/source.blend",
+      "size": 749728,
+      "sha256": "b66f751dccc257ce28a1ef4553b968b7cc950f824d0a362283ed69dd3e6fede8"
+    },
+    "generator": {
+      "path": "assets/education/education-fixed-cutaway-funnel-neck-and-orthogonal-plate-tube-01/v1.0.0/generate.py",
+      "size": 28405,
+      "sha256": "5b2cef25f786b22659abd2476c7394e662c55c7e9f6459695b40105d9131a779"
+    },
+    "render": {
+      "path": "assets/education/education-fixed-cutaway-funnel-neck-and-orthogonal-plate-tube-01/v1.0.0/thumbnail.png",
+      "size": 570462,
+      "sha256": "d161cd5bfbbf31c9882fb21c82b871f257dbbb8b2d5dd2f9705c40ecd92a24e6"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "retail-whole-side-service-vehicle-and-picnic-forecourt-scene-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "retail",
+  "style": "source-preserved-low-poly",
+  "title": "Whole Side Service Vehicle and Picnic Forecourt",
+  "description": "One static mobile-retail forecourt scene, one scene zero new reusable models. The entire original four-wheel side-service vehicle stands along the rear edge, retaining its closed cab, complete service chamber, fixed raised canopy, counter and inner worktop. A whole original integrated slatted picnic table with both attached benches stands separately toward the front-left; an entire original three-aperture waste collection frame with all liners and category shapes stands independently at the right. A clear strip separates the service counter frontage from the seating table, with no food, people or items bridging the stations. All three original models retain unit scale, complete source geometry, oriented buffers, local normals, internal node transforms and full opaque PBR. Only one low finite floor is new. This is a parked vehicle service frontage with separate seating and collection stations, not the two orthogonal market stalls/crossroads or the old protected camp stove and cookware bench. No driving, serving, cooking, hygiene, waste classification performance, public access, seating capacity, load, installation or safety capability. Rigging animation interaction not made.",
+  "bounds": {
+    "x": 7.199999809265137,
+    "y": 6.199999809265137,
+    "z": 2.6201999187469482,
+    "unit": "m"
+  },
+  "triangles": 3716,
+  "materials": 11,
+  "files": {
+    "glb": {
+      "path": "assets/retail/retail-whole-side-service-vehicle-and-picnic-forecourt-scene-01/v1.0.0/model.glb",
+      "size": 330016,
+      "sha256": "58238e32513bf6890661dfe3318f6b330edb628b65fb8c77c0ab42df172daf6f"
+    },
+    "blend": {
+      "path": "assets/retail/retail-whole-side-service-vehicle-and-picnic-forecourt-scene-01/v1.0.0/source.blend",
+      "size": 1438244,
+      "sha256": "2fe4b3e0773d46cb549a64802259adbfc4e9c093bd25356ab9b6f624dd6e7a51"
+    },
+    "generator": {
+      "path": "assets/retail/retail-whole-side-service-vehicle-and-picnic-forecourt-scene-01/v1.0.0/generate.py",
+      "size": 98254,
+      "sha256": "2a7bbfa5e9c9f9167127b63e4d4313ce076bc47ae1d720036480e21290767aa3"
+    },
+    "render": {
+      "path": "assets/retail/retail-whole-side-service-vehicle-and-picnic-forecourt-scene-01/v1.0.0/thumbnail.png",
+      "size": 497072,
+      "sha256": "d46451d3355dcf41495e9a750dfa732aa37e2068adc42e0b438a63143a314ba9"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
