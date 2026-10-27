@@ -2119,6 +2119,11 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary02",
       "commit": "2cb635ef1d1a68f85d65e49252999e216b373bbd"
+    },
+    "original-qualified-batch-1657-volume02-20261025": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary02",
+      "commit": "a36e860c237e7843eb1252d4ec4aea01a7410110"
     }
   },
   "assets": [
@@ -73200,6 +73205,178 @@
       "status": "verified",
       "license": "All rights reserved",
       "sourceId": "original-qualified-batch-1653-volume02-20261025"
+    },
+    {
+      "id": "education-static-cutaway-envelope-and-connected-grana-chloroplast-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "education",
+      "style": "S01-clean-geometric",
+      "title": "Static Cutaway Envelope and Connected Grana Chloroplast",
+      "description": "One wholly newly authored enlarged schematic chloroplast cutaway. A complete oblong low-front, high-rear outer envelope and a distinct nested inner envelope reveal a pale stroma-region datum. Five unequal-position whole six-tier corrugated grana represent stacks of flattened thylakoids, joined by four complete broad thin stroma-lamella bands. All interior forms are attached within this one teaching object, not floating disks. New nested ellipsoidal shell domains, connected stacked contours and membrane-sheet layout are authored from scratch; no fruit cutaway, aril, rotifer or old organelle geometry is repainted or reused. One complete opaque teaching prop, zero scenes, four green PBR roles, greatly enlarged to roughly twenty-two centimetres and not life size. Envelope thickness, grana count, six-tier contours, solid stroma floor and solid lamella bands are schematic. No exact species, microscopic dimensions, membrane bilayers, aqueous compartments, thylakoid lumen, proteins, DNA, biochemical reaction, light transport, living function or physical-stability claim. No rig, animation or interaction made or verified.",
+      "bounds": {
+        "x": 0.224,
+        "y": 0.108,
+        "z": 0.056,
+        "unit": "m"
+      },
+      "triangles": 8096,
+      "materials": 4,
+      "files": {
+        "glb": {
+          "path": "assets/education/education-static-cutaway-envelope-and-connected-grana-chloroplast-01/v1.0.0/model.glb",
+          "size": 466732,
+          "sha256": "4c039141e536d8bc4cfcb8a28c9ad0ef6e23df00fd5048e4b671b4651b3179e7"
+        },
+        "blend": {
+          "path": "assets/education/education-static-cutaway-envelope-and-connected-grana-chloroplast-01/v1.0.0/source.blend",
+          "size": 1009792,
+          "sha256": "2511a8ca69826bf03a851d6dbd7b4a77056fa6ff6502ddc168380475136fdfde"
+        },
+        "generator": {
+          "path": "assets/education/education-static-cutaway-envelope-and-connected-grana-chloroplast-01/v1.0.0/generate.py",
+          "size": 22326,
+          "sha256": "ab860e7fbcc00d6ef0f377459d9b75c3a7ab7e1e2d807c9b1d8c1abf2edceba3"
+        },
+        "render": {
+          "path": "assets/education/education-static-cutaway-envelope-and-connected-grana-chloroplast-01/v1.0.0/thumbnail.png",
+          "size": 511765,
+          "sha256": "1c968d5a1e7c8a51cbb5856878ef2ac257530c7a762d6ca820033b06eab7837d"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1657-volume02-20261025"
+    },
+    {
+      "id": "retail-fixed-rear-hinged-long-pressure-bar-and-sealing-bed-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "retail",
+      "style": "S01-clean-geometric",
+      "title": "Fixed Rear Hinged Long Pressure Bar and Sealing Bed",
+      "description": "One newly authored complete empty static tabletop bag-sealer-inspired exterior. A narrow long grounded case carries one continuous raised bed strip. At one end a complete transverse pin in two rooted cheeks holds a broad thick pressure bar fixed raised thirty-four degrees, with a whole underside pressure-pad appearance and a full dark end grip. The opposing bed and upper pad are long blunt flat members, not a cutting blade or printed line. A blank front dial and two underside runners complete the exterior. Unlike a broad sheet-bed paper cutter with side blade and fences, this is a narrow in-line pressure-bar assembly; unlike a tall cup sealer, it has no overhead enclosure, round cup holder, tray rails or film rolls. All numeric geometry newly authored with no imported mesh components. Three constant opaque PBR roles, metres Z up and whole horizontal bounds-centred ground origin. One original model zero scenes. Fixed empty artistic appearance only: no bag or film, heat, current, sealing, pressure rating, powered mechanism, closure motion, timer behavior, food-contact suitability, operation instructions, hand clearance, manufacture or safety capability. Rigging animation interaction not made.",
+      "bounds": {
+        "x": 0.46000000834465027,
+        "y": 0.14000000059604645,
+        "z": 0.33825963735580444,
+        "unit": "m"
+      },
+      "triangles": 528,
+      "materials": 3,
+      "files": {
+        "glb": {
+          "path": "assets/retail/retail-fixed-rear-hinged-long-pressure-bar-and-sealing-bed-01/v1.0.0/model.glb",
+          "size": 53888,
+          "sha256": "eadd01facf30e5a9f95f234f34ddb5d2123c9d24a6f349da72c88440d4d9f0b0"
+        },
+        "blend": {
+          "path": "assets/retail/retail-fixed-rear-hinged-long-pressure-bar-and-sealing-bed-01/v1.0.0/source.blend",
+          "size": 652992,
+          "sha256": "68b090b1e1229c379d7d9f7b09be553057920006425d02db24e5191e35ef0073"
+        },
+        "generator": {
+          "path": "assets/retail/retail-fixed-rear-hinged-long-pressure-bar-and-sealing-bed-01/v1.0.0/generate.py",
+          "size": 16571,
+          "sha256": "65797fc65041e97230f220039b15a03e3e44dfdc61b008502ac530804257c8ab"
+        },
+        "render": {
+          "path": "assets/retail/retail-fixed-rear-hinged-long-pressure-bar-and-sealing-bed-01/v1.0.0/thumbnail.png",
+          "size": 500128,
+          "sha256": "cf143d19345e67441e8352097a214d62cb334d0e6864ace109b0ae702c06e374"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1657-volume02-20261025"
+    },
+    {
+      "id": "agriculture-whole-round-baler-and-twin-belt-wrapper-staging-court-scene-01",
+      "version": "1.0.0",
+      "category": "scenes",
+      "assetKind": "scene",
+      "theme": "agriculture",
+      "style": "warm-handcrafted-village",
+      "title": "Whole Round Baler and Twin Belt Wrapper Staging Court",
+      "description": "One new whole open bale-equipment staging court scene using the existing complete open-tailgate round baler and accepted twin-belt-table bale wrapper at unchanged scale and material parameters. They occupy separate side-by-side parked positions on one newly authored hardstand, with a broad open shared front approach, a central empty aisle and two short rear boundary sections leaving a deliberate central rear opening. A low left curb and three thin contrasting ground guides organize the court without connecting the machines or blocking their front draw members. Both machines remain entirely empty and unhitched: no bale, crop or loose film sheet added. All component geometry is embedded in this self-contained generator with original source hashes. There are zero new stand-alone models and one new scene; the baler and wrapper remain reused assets, not new counts. Fixed visual staging only, no bale transfer, loading device, coupling compatibility, vehicle movement, active wrapping or baling, actual working clearance, engineering or safety claim. Rigging, animation, physics and runtime interaction not made.",
+      "bounds": {
+        "x": 6.650000095,
+        "y": 5.300000191,
+        "z": 2.220000029,
+        "unit": "m"
+      },
+      "triangles": 4264,
+      "materials": 11,
+      "files": {
+        "glb": {
+          "path": "assets/agriculture/agriculture-whole-round-baler-and-twin-belt-wrapper-staging-court-scene-01/v1.0.0/model.glb",
+          "size": 243160,
+          "sha256": "ac0742b80d983118b05503b9bdf0c75ba8195c6812c860607ec735bcd778b594"
+        },
+        "blend": {
+          "path": "assets/agriculture/agriculture-whole-round-baler-and-twin-belt-wrapper-staging-court-scene-01/v1.0.0/source.blend",
+          "size": 1239744,
+          "sha256": "a7aed2c51b713d1b81e4bf18e7a9d74ee0927704ac0a61f620dbbda208e24f65"
+        },
+        "generator": {
+          "path": "assets/agriculture/agriculture-whole-round-baler-and-twin-belt-wrapper-staging-court-scene-01/v1.0.0/generate.py",
+          "size": 62425,
+          "sha256": "b2051302b3c63d1603fdb445b353a09106cbecc00d7aba61a79b54e04f79d1ce"
+        },
+        "render": {
+          "path": "assets/agriculture/agriculture-whole-round-baler-and-twin-belt-wrapper-staging-court-scene-01/v1.0.0/thumbnail.png",
+          "size": 527154,
+          "sha256": "1833e9a0f096f71a1c37fa0b4fd784c6f67e240b561552d8116f9fa68d404f2a"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1657-volume02-20261025"
+    },
+    {
+      "id": "culture-whole-baren-canting-and-tatting-inspection-tray-scene-01",
+      "version": "1.0.0",
+      "category": "scenes",
+      "assetKind": "scene",
+      "theme": "culture",
+      "style": "source-preserved-low-poly",
+      "title": "Whole Baren Canting and Tatting Inspection Tray",
+      "description": "One static whole-handcraft-tool inspection-tray scene, zero new independent models. Four complete qualified originals retain every mesh buffer, normal, full PBR material and internal node hierarchy at unchanged unit metre scale: the full open-front notched postal tray with both pierced side grips, rear blank plaque and both complete runners; the whole wrapped round baren with twisted hand band; the whole empty copper canting-inspired cup and narrow bent outlet with full wooden grip; and the whole opposed-leaf tatting shuttle with its central post and thread winding. Each complete tool rests separately on a measured finite region of the original tray floor, behind its front finger recess and clear of side walls, rear plaque and one another. Only a neutral low viewing slab is scene-specific. No original geometry, colour or internal proportions changed, cropped or enlarged. This is a static collection comparison, not a shared craft workflow, postal operation, carrying arrangement or functional compatibility claim. No added paper, wax, heat, cloth, lace output, person, label, grip, load, stability, manufacture or safety capability. No rig, animation or interaction.",
+      "bounds": {
+        "x": 0.46000000834465027,
+        "y": 0.5799999833106995,
+        "z": 0.14999999105930328,
+        "unit": "m"
+      },
+      "triangles": 7556,
+      "materials": 16,
+      "files": {
+        "glb": {
+          "path": "assets/culture/culture-whole-baren-canting-and-tatting-inspection-tray-scene-01/v1.0.0/model.glb",
+          "size": 655020,
+          "sha256": "27af736a9f03eace00aacacb8fbd402a4dae0da9a04b033bd4038a9f2cda66db"
+        },
+        "blend": {
+          "path": "assets/culture/culture-whole-baren-canting-and-tatting-inspection-tray-scene-01/v1.0.0/source.blend",
+          "size": 1814460,
+          "sha256": "299513c13b64cd6cd50a287bc9c296231d3289199ec11b28cb5b4b25215a38e7"
+        },
+        "generator": {
+          "path": "assets/culture/culture-whole-baren-canting-and-tatting-inspection-tray-scene-01/v1.0.0/generate.py",
+          "size": 200879,
+          "sha256": "1899a3f559b9a3e83f46869339639d7ed58e54df6772c89388b1776ea49d32fa"
+        },
+        "render": {
+          "path": "assets/culture/culture-whole-baren-canting-and-tatting-inspection-tray-scene-01/v1.0.0/thumbnail.png",
+          "size": 550061,
+          "sha256": "22e2cab15a4cd4b0b93194cdc1fa638e670c9c779359566e5f0d1d04ace9ada4"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1657-volume02-20261025"
     }
   ]
 }
