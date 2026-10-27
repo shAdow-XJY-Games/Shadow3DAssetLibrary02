@@ -2019,6 +2019,11 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary02",
       "commit": "c75d7e83390a72cbc76e4ed9f362326f34e3232f"
+    },
+    "original-qualified-batch-1589-volume02-20261025": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary02",
+      "commit": "ef389bca8de27ea5e43f56b180cd14b7703cfac7"
     }
   },
   "assets": [
@@ -70133,6 +70138,221 @@
       "status": "verified",
       "license": "All rights reserved",
       "sourceId": "original-qualified-batch-1584-volume02-20261025"
+    },
+    {
+      "id": "industrial-fixed-low-magnetic-base-and-annular-core-drill-01",
+      "version": "1.0.0",
+      "category": "modular",
+      "assetKind": "prop",
+      "theme": "industrial",
+      "style": "warm-handcrafted-village",
+      "title": "Fixed Low Magnetic Base and Annular Core Drill",
+      "description": "One newly authored complete fixed portable magnetic-base core-drill appearance. A broad chamfered low rectangular sole carries a short rigid rear column and forward offset carriage. An upright motor housing and compact lower gearbox hold a genuinely open hollow annular cutter with coarse blunt rim notches; the cutter hangs forward of the base rather than above a separate adjustable table. Three radial side feed levers, a full thick upper carry handle and plain front switch complete the compact machine. Not a bench drill press resized: no long round pillar, intermediate worktable, large overhead belt cover or twist drill; not a pistol-grip battery drill. All meshes newly authored. One static model zero scenes. No actual magnetic holding, electrics, rotation, cutting, motor transmission, workpiece contact, guarding, ergonomics, manufacture, mounting compatibility, engineering or safety capability. No rigging, animation or interaction made or verified.",
+      "bounds": {
+        "x": 0.209999993,
+        "y": 0.388000011,
+        "z": 0.600000024,
+        "unit": "m"
+      },
+      "triangles": 984,
+      "materials": 4,
+      "files": {
+        "glb": {
+          "path": "assets/industrial/industrial-fixed-low-magnetic-base-and-annular-core-drill-01/v1.0.0/model.glb",
+          "size": 58888,
+          "sha256": "1a8f12383dd7bea3f7a41d0644fb759fa70f2d61ad599c470f564e41269ac947"
+        },
+        "blend": {
+          "path": "assets/industrial/industrial-fixed-low-magnetic-base-and-annular-core-drill-01/v1.0.0/source.blend",
+          "size": 633116,
+          "sha256": "b4691b0266ee091f8a5b72c61ca08196821c1385c5f1abe0539d785f43c88de7"
+        },
+        "generator": {
+          "path": "assets/industrial/industrial-fixed-low-magnetic-base-and-annular-core-drill-01/v1.0.0/generate.py",
+          "size": 31152,
+          "sha256": "4b4bc4175f2dd55c6a073e6aad7d89637589701261597ec6b9b85f134c82d8ae"
+        },
+        "render": {
+          "path": "assets/industrial/industrial-fixed-low-magnetic-base-and-annular-core-drill-01/v1.0.0/thumbnail.png",
+          "size": 505867,
+          "sha256": "658424075f87535c0610d4513bfff65a686f3e5594958e1178f37ddb2af15dd7"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1589-volume02-20261025"
+    },
+    {
+      "id": "restaurant-fixed-open-hemisphere-and-side-trunnion-kettle-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "restaurant",
+      "style": "S01-clean-geometric",
+      "title": "Fixed Open Hemisphere and Side Trunnion Kettle",
+      "description": "One newly authored complete static tilting-kettle-inspired food preparation appliance. A broad deep rounded bowl has a full thick closed bottom, true empty interior, thick rolled-looking rim and short upper wall; it is visibly suspended above the floor by two horizontal side trunnions in separate grounded end posts. Low fore-aft feet and a rear crossbar complete the support frame. A whole raised shallow-domed circular lid stands at the rear on two full hinge brackets and a transverse hinge pin, with a small attached front grab handle. A fixed side control case carries an open three-spoke handwheel and blunt grip. Unlike the existing tall tapered foundry vessel there is no overhead suspension bail or lifting eye and the vessel bottom does not rest on the floor; unlike the dye vat there is no long rectangular double-shell or perforated inner basket. All model coordinates newly authored, not a pot with old handles pasted on. Three opaque constant untextured PBR roles, metres Z up, horizontally centred ground origin; one original model and zero scenes. Empty static appliance exterior only. No food, liquid, heating, steam jacket, plumbing, tilting movement, lid motion, control gearing, pressure containment, hygiene, production capacity, manufacture, load or equipment safety capability. Rigging animation interaction not made.",
+      "bounds": {
+        "x": 2.055000066757202,
+        "y": 1.350000023841858,
+        "z": 2.380000114440918,
+        "unit": "m"
+      },
+      "triangles": 3392,
+      "materials": 3,
+      "files": {
+        "glb": {
+          "path": "assets/restaurant/restaurant-fixed-open-hemisphere-and-side-trunnion-kettle-01/v1.0.0/model.glb",
+          "size": 302764,
+          "sha256": "8bb3666505e657e2ad567c2463bcfbf3f8f6698fa1f615e6e1a4ac65f1670486"
+        },
+        "blend": {
+          "path": "assets/restaurant/restaurant-fixed-open-hemisphere-and-side-trunnion-kettle-01/v1.0.0/source.blend",
+          "size": 1025504,
+          "sha256": "78fecb78c43f8189467947e903dc72e2ed91d41a0c41166a802a7b167e8c3ab6"
+        },
+        "generator": {
+          "path": "assets/restaurant/restaurant-fixed-open-hemisphere-and-side-trunnion-kettle-01/v1.0.0/generate.py",
+          "size": 17742,
+          "sha256": "96af8c6c43fb7b27cbf01232cf6ab716b06d0ee9fe14c07372062cce8206e13b"
+        },
+        "render": {
+          "path": "assets/restaurant/restaurant-fixed-open-hemisphere-and-side-trunnion-kettle-01/v1.0.0/thumbnail.png",
+          "size": 506319,
+          "sha256": "fe221e8967d2219b702213da1ccaaa64dfe728e760ed7e27eb48e0eedefadfb6"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1589-volume02-20261025"
+    },
+    {
+      "id": "architecture-fixed-elliptical-cable-net-and-open-centre-roof-01",
+      "version": "1.0.0",
+      "category": "architecture",
+      "assetKind": "modular",
+      "theme": "architecture",
+      "style": "S01-clean-geometric",
+      "title": "Fixed Elliptical Cable Net and Open Centre Roof",
+      "description": "One complete newly authored static elliptical cable-net roof skeleton. A continuous thick outer elliptical ring is carried by eight whole slightly inclined perimeter columns on circular feet. Twenty complete visibly sagging radial cable appearances link it to a separate lower elliptical inner ring around a genuine open centre. Two uninterrupted closed circumferential cable loops cross the radial members; there is no cladding or central pier. The whole curved radial-annular network, different-height elliptical boundaries and directly grounded outside ring are authored together. Unlike the three-separated-strut cable prism this has no rotated triangular endpoint sets or floating rigid struts; unlike the triangulated hemisphere or two-layer pyramid grid roof it has neither triangular shell cells nor upper-lower chord pyramids. Four opaque constant untextured PBR roles, metre-style Z up and centred full horizontal bounds over foot soles, one architectural model zero scenes. Artistic fixed cable-roof-inspired exterior only: geometric intersections are illustrative and no connectors, solved equilibrium, prestress, tension, stress, load capacity, drainage, weather cover, fabrication, erection, installation, human access, code or structural safety capability is made or verified. No actual roof membrane, rigging, animation, motion or physical simulation.",
+      "bounds": {
+        "x": 9.20225,
+        "y": 7.33925,
+        "z": 3.98,
+        "unit": "m"
+      },
+      "triangles": 8256,
+      "materials": 4,
+      "files": {
+        "glb": {
+          "path": "assets/architecture/architecture-fixed-elliptical-cable-net-and-open-centre-roof-01/v1.0.0/model.glb",
+          "size": 544392,
+          "sha256": "97f209a28e0d61271f26d4fde14533a9640b77db2e62d263956ec0eaf7efcd8f"
+        },
+        "blend": {
+          "path": "assets/architecture/architecture-fixed-elliptical-cable-net-and-open-centre-roof-01/v1.0.0/source.blend",
+          "size": 1171308,
+          "sha256": "4f2d5164dbcb766e6743bac92a1d2453298299e84b38f0b9e6930f8ba1e5f829"
+        },
+        "generator": {
+          "path": "assets/architecture/architecture-fixed-elliptical-cable-net-and-open-centre-roof-01/v1.0.0/generate.py",
+          "size": 12181,
+          "sha256": "4f32a278ab2569fcf84fe55a0a75916aa12d1c281e1c6cb1e7e702892b085b5d"
+        },
+        "render": {
+          "path": "assets/architecture/architecture-fixed-elliptical-cable-net-and-open-centre-roof-01/v1.0.0/thumbnail.png",
+          "size": 470018,
+          "sha256": "3423bd31a54e785237d24cbe8d61799c57e231595bd8605cc98a737db39b56c9"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1589-volume02-20261025"
+    },
+    {
+      "id": "sports-fixed-round-head-and-long-wire-throwing-hammer-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "sports",
+      "style": "source-preserved-low-poly",
+      "title": "Round Head And Long Wire Throwing Hammer",
+      "description": "One original complete static throwing-hammer sports appearance laid out at rest: a compact near-spherical faceted head, small seated connector, long continuous finite wire with a shallow lowered bend, and a genuine open triangular hand frame with a transverse grip. The new round head and distant handle are drawn as one coherent complete implement; no old kettlebell, oval ball, toy ball, chain or hardware mesh imported or resized. One whole prop, zero scenes, four opaque constant PBR roles. Illustrative fixed empty game asset only: no athlete, motion, throw, animation, joint simulation, mass, tension, regulation dimensions, grip fit, trajectory, impact, manufacture or safety claim. Not usable equipment design or instructions.",
+      "bounds": {
+        "x": 0.23999999463558197,
+        "y": 1.7100000381469727,
+        "z": 0.20000000298023224,
+        "unit": "m"
+      },
+      "triangles": 540,
+      "materials": 4,
+      "files": {
+        "glb": {
+          "path": "assets/sports/sports-fixed-round-head-and-long-wire-throwing-hammer-01/v1.0.0/model.glb",
+          "size": 49796,
+          "sha256": "4cf484dc7f0a9fb23c364d11c1207153b0679aee5f8a23788f0a1ff549d49864"
+        },
+        "blend": {
+          "path": "assets/sports/sports-fixed-round-head-and-long-wire-throwing-hammer-01/v1.0.0/source.blend",
+          "size": 624668,
+          "sha256": "f34f808ccf09a0a5ff58607923a83537f7369d33bc174f1e6aaae8659a575768"
+        },
+        "generator": {
+          "path": "assets/sports/sports-fixed-round-head-and-long-wire-throwing-hammer-01/v1.0.0/generate.py",
+          "size": 17180,
+          "sha256": "cfca8d4a111e2a107cab9ec642eeb2b81d7164b0457f5fa60f0577b35f7327b7"
+        },
+        "render": {
+          "path": "assets/sports/sports-fixed-round-head-and-long-wire-throwing-hammer-01/v1.0.0/thumbnail.png",
+          "size": 402199,
+          "sha256": "687710112aa27527e0d14473527f7a5ca6df3ecdc6ba8fac69c0dc75551a6359"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1589-volume02-20261025"
+    },
+    {
+      "id": "education-static-paired-ciliated-crown-and-tapered-foot-rotifer-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "education",
+      "style": "S01-clean-geometric",
+      "title": "Static Paired Ciliated Crown and Tapered Foot Rotifer",
+      "description": "One wholly newly authored enlarged rotifer-inspired static teaching exterior. A complete expanded oval trunk continuously narrows through a neck into a broad head carrying two distinct shallow crown lobes. Each crown has a whole integrated ring of fine upright fringe tufts rather than a wheel or separate floating needles. Below, a long tapered foot has shallow continuous folds and two short complete blunt terminal toes with finite flattened display tips. All model coordinates are newly drawn, with no old animal, phage, water-bear or industrial geometry imported. One opaque untextured prop, zero scenes, four matte jade, mint and ivory PBR roles; metres are arbitrary enlarged art units. This is a generic deliberately simplified exterior, not an exact genus or species, real specimen, microscopic-size reconstruction, exact cilia or toe count, optical tissue simulation, internal-organ anatomy, feeding, adhesion, movement, reproduction or scientific model. The upright displayed pose and finite tips do not certify physical stability. No rig, animation, interaction or mechanism made or verified.",
+      "bounds": {
+        "x": 0.719522,
+        "y": 0.47,
+        "z": 2.0182,
+        "unit": "m"
+      },
+      "triangles": 3584,
+      "materials": 4,
+      "files": {
+        "glb": {
+          "path": "assets/education/education-static-paired-ciliated-crown-and-tapered-foot-rotifer-01/v1.0.0/model.glb",
+          "size": 249324,
+          "sha256": "6466bd2cb30cf7709bb03f0b009017eee52e753ad01859098b1892e6f177629f"
+        },
+        "blend": {
+          "path": "assets/education/education-static-paired-ciliated-crown-and-tapered-foot-rotifer-01/v1.0.0/source.blend",
+          "size": 734704,
+          "sha256": "4ef32b6b353bd09e6c0c6973470e9cfb4c1f9c614c20b8061b293f58ec068dc1"
+        },
+        "generator": {
+          "path": "assets/education/education-static-paired-ciliated-crown-and-tapered-foot-rotifer-01/v1.0.0/generate.py",
+          "size": 22015,
+          "sha256": "0f26cb8a96cf1d7348299c32571193a96b7ba1cbe0921436c7e21bbace1dd4ce"
+        },
+        "render": {
+          "path": "assets/education/education-static-paired-ciliated-crown-and-tapered-foot-rotifer-01/v1.0.0/thumbnail.png",
+          "size": 469318,
+          "sha256": "be4439f1f98597d776e26cd00b65449304ee976cb5cc9ff427d5469c7cb9d2b6"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1589-volume02-20261025"
     }
   ]
 }
