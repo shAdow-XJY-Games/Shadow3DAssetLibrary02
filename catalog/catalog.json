@@ -2054,6 +2054,11 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary02",
       "commit": "ca3f57aa8a25c88500f3f92bdf88c2d146d792ff"
+    },
+    "original-qualified-batch-1608-volume02-20261025": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary02",
+      "commit": "c0a7809157333cdfbe1e723fb15d828c87a91c2d"
     }
   },
   "assets": [
@@ -71028,6 +71033,178 @@
       "status": "verified",
       "license": "All rights reserved",
       "sourceId": "original-qualified-batch-1604-volume02-20261025"
+    },
+    {
+      "id": "industrial-fixed-v-open-table-and-raised-corner-notch-press-01",
+      "version": "1.0.0",
+      "category": "modular",
+      "assetKind": "prop",
+      "theme": "industrial",
+      "style": "warm-handcrafted-village",
+      "title": "Fixed V Open Table and Raised Corner Notch Press",
+      "description": "One newly authored whole fixed compact manual corner-notcher-style exterior. A broad chamfered low sole supports a short rear spine and overhanging head above an empty horizontal worktable with a genuinely open V-shaped bite in its front edge. Two thick lower angled edge strips follow that opening. A separate complete raised V-shaped blunt upper jaw hangs from a short central ram between two upright side guides; its paired angled edges are visually distinct from a single wide sloping shear plate. Two short fixed table guide bars, full rear pivot cheeks and transverse pin, and one long raised hand lever with a dark terminal grip complete the compact whole tool. Not the existing broad floor-operated full-width plate shear, a paper trimmer or a sheet brake. All meshes newly authored; no old machine or blade imported. One static model zero scenes, no stock or workpiece. No sharpened cutting edge, shearing action, lever/ram kinematic closure, drive force, adjustment travel, guide accuracy, 90-degree cutting tolerance, capacity, mounting, manufacture, ergonomics, engineering or safety capability made or verified. Rigging, animation and interaction not made.",
+      "bounds": {
+        "x": 0.800000012,
+        "y": 0.90842694,
+        "z": 1.112741828,
+        "unit": "m"
+      },
+      "triangles": 452,
+      "materials": 4,
+      "files": {
+        "glb": {
+          "path": "assets/industrial/industrial-fixed-v-open-table-and-raised-corner-notch-press-01/v1.0.0/model.glb",
+          "size": 36400,
+          "sha256": "a0f05d9523291f90cd393de36510ea4fc17bfe6ac91ed739beb7c9530ce5289f"
+        },
+        "blend": {
+          "path": "assets/industrial/industrial-fixed-v-open-table-and-raised-corner-notch-press-01/v1.0.0/source.blend",
+          "size": 631972,
+          "sha256": "8da8e8bd198035e4b31722f0508e83d5e70911a0a3867546745ab9f8b3b479e4"
+        },
+        "generator": {
+          "path": "assets/industrial/industrial-fixed-v-open-table-and-raised-corner-notch-press-01/v1.0.0/generate.py",
+          "size": 31947,
+          "sha256": "3928859cd157507ae3109e18e17b4fa7f18c7a6bc7ce16cc4cb923ff60134f51"
+        },
+        "render": {
+          "path": "assets/industrial/industrial-fixed-v-open-table-and-raised-corner-notch-press-01/v1.0.0/thumbnail.png",
+          "size": 555763,
+          "sha256": "8e95dcc8621fa2462fc30d0f57ff6f413296f414965aab05488e0d5c4ef16600"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1608-volume02-20261025"
+    },
+    {
+      "id": "agriculture-fixed-front-disc-and-long-handle-stump-grinder-01",
+      "version": "1.0.0",
+      "category": "modular",
+      "assetKind": "prop",
+      "theme": "agriculture",
+      "style": "warm-handcrafted-village",
+      "title": "Fixed Front Disc and Long Handle Stump Grinder",
+      "description": "One newly authored whole fixed walk-behind stump-grinder-style exterior. Two full grounded wheels on a transverse axle carry a narrow low chassis, a faceted engine housing and separate top tank-shaped case, with two long rising handle arms joined by a complete cross grip. A forward narrow vertical disc carries twelve coarse blunt radial wear-block forms; a genuine partial thick upper arc cover leaves the lower disc profile visible. A long side drive-cover exterior links the front cutter-bearing region toward the engine, while a fixed low parking stem and full flat foot hold this empty display pose with the disc above ground. Unlike a broad transverse curved-tine soil tiller or a side-feed high-chute chipper, the defining front assembly is one narrow disc and a long offset drive enclosure. Every mesh newly authored, no old machine or wheel imported. One static model zero scenes. No stump, workpiece or operating demonstration. No sharpened teeth, cutting, grinding, rotation, engine internals, fuel system, belts, torque transfer, chip containment, guard effectiveness, human fit, stability, capacity, manufacture, engineering or safety capability made or verified. Rigging, animation and interaction not made.",
+      "bounds": {
+        "x": 0.970000029,
+        "y": 2.430999994,
+        "z": 1.276000023,
+        "unit": "m"
+      },
+      "triangles": 1764,
+      "materials": 4,
+      "files": {
+        "glb": {
+          "path": "assets/agriculture/agriculture-fixed-front-disc-and-long-handle-stump-grinder-01/v1.0.0/model.glb",
+          "size": 106976,
+          "sha256": "432f5adca2ff815e15af65154106e5738454df8de0dbccb648e2d2f0aeb1cb20"
+        },
+        "blend": {
+          "path": "assets/agriculture/agriculture-fixed-front-disc-and-long-handle-stump-grinder-01/v1.0.0/source.blend",
+          "size": 776476,
+          "sha256": "fae3c89e33dfb415886a8afca5cd2aa1123eefb81dc8555c7b10789718ae9186"
+        },
+        "generator": {
+          "path": "assets/agriculture/agriculture-fixed-front-disc-and-long-handle-stump-grinder-01/v1.0.0/generate.py",
+          "size": 33866,
+          "sha256": "7aeaa93536957ba3b42744751dc87ae3f98231ca07d0836e91b6ea24ca139de8"
+        },
+        "render": {
+          "path": "assets/agriculture/agriculture-fixed-front-disc-and-long-handle-stump-grinder-01/v1.0.0/thumbnail.png",
+          "size": 541457,
+          "sha256": "d693fc2f8ea3f667679343ab807d5a6e8279556cdaa1534a960d1ea72acb08dd"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1608-volume02-20261025"
+    },
+    {
+      "id": "culture-fixed-three-open-wings-and-sliding-card-story-stage-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "culture",
+      "style": "S01-clean-geometric",
+      "title": "Fixed Three Open Wings and Sliding Card Story Stage",
+      "description": "One newly authored complete fixed tabletop paper-storytelling-stage appearance. One continuous shallow wooden case has a real front display aperture, full rear panel and genuine right-side card insertion channel. A whole unmarked ivory card rests on the lower channel and extends partly out at the right. Two full thick side doors splay outward on complete rooted hinge appearances; a third complete upper flap is raised on its horizontal hinge. Two finite feet support the whole case. There are no curtains, floor-standing concealment screen or puppet operator bay; it is not a reduced old puppet booth or a three-panel photographic flag. All numerical geometry newly authored together; the complete blank card is a subordinate part, not an additional model. One static model zero scenes, four opaque PBR roles, metres and native Z up. Kamishibai-style structural inspiration only, no story artwork or text, regional or historical reconstruction, sliding or folding motion, hinge mechanics, paper fit, performance, educational efficacy, manufacturing or safety capability. No rig, animation or interaction.",
+      "bounds": {
+        "x": 0.9532772898674011,
+        "y": 0.17838096618652344,
+        "z": 0.48701342940330505,
+        "unit": "m"
+      },
+      "triangles": 796,
+      "materials": 4,
+      "files": {
+        "glb": {
+          "path": "assets/culture/culture-fixed-three-open-wings-and-sliding-card-story-stage-01/v1.0.0/model.glb",
+          "size": 82232,
+          "sha256": "38675d8a3c26cbba80644b184275d35d078ec34cd6291d6289f566be0079fb9d"
+        },
+        "blend": {
+          "path": "assets/culture/culture-fixed-three-open-wings-and-sliding-card-story-stage-01/v1.0.0/source.blend",
+          "size": 739104,
+          "sha256": "6c957b6b67b2ccd67c64c04e3aa1d0760c13665bb045a62ce8e03bdcb39d9e13"
+        },
+        "generator": {
+          "path": "assets/culture/culture-fixed-three-open-wings-and-sliding-card-story-stage-01/v1.0.0/generate.py",
+          "size": 13540,
+          "sha256": "fbf20826059717dd8d5b08c54eaf75bd36c8ac640c41a5284fc6c9e936974bf7"
+        },
+        "render": {
+          "path": "assets/culture/culture-fixed-three-open-wings-and-sliding-card-story-stage-01/v1.0.0/thumbnail.png",
+          "size": 495511,
+          "sha256": "2056318ab14fbb9cedd83edeca58bf44577e329c49f5fb7542acbf702989e054"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1608-volume02-20261025"
+    },
+    {
+      "id": "food-static-whole-overlapping-bract-artichoke-bud-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "food",
+      "style": "S01-clean-geometric",
+      "title": "Static Whole Overlapping-Bract Artichoke Bud",
+      "description": "One wholly newly authored unopened globe-artichoke-like bud with a short continuous cut stalk and rounded enclosed receptacle. Thirty-seven complete thick broad curved bracts overlap into a compact globose head, their outer faces gently cupped and upper ends narrowing inward. There are no projecting open woody shield scales, separated cone spindle, old leaf cutouts or imported plant geometry. Each whole bract is a finite closed solid rooted into the newly drawn receptacle, not a texture card. One opaque untextured natural-scale prop, zero scenes, with four constant matte green PBR roles. This is a stylized unopened exterior, not a specific cultivar or exact botanical specimen. No interior florets, seeds, heart cross-section, edible-product, preparation, nutritional, medical, growth, structural or physical-stability claim. Upright static presentation on a finite cut-stalk datum is not a balance certification. No rig, animation or interaction made or verified.",
+      "bounds": {
+        "x": 0.144973,
+        "y": 0.144787,
+        "z": 0.157787,
+        "unit": "m"
+      },
+      "triangles": 7488,
+      "materials": 4,
+      "files": {
+        "glb": {
+          "path": "assets/food/food-static-whole-overlapping-bract-artichoke-bud-01/v1.0.0/model.glb",
+          "size": 550716,
+          "sha256": "bc493396fb8f705cd914c2e63e6ed7b610950253968236405c1e49888c2f1eed"
+        },
+        "blend": {
+          "path": "assets/food/food-static-whole-overlapping-bract-artichoke-bud-01/v1.0.0/source.blend",
+          "size": 1115120,
+          "sha256": "7100c8bf453b89eac8ae63bab6b01b7f040a047d223067e1a1bd93db98decb14"
+        },
+        "generator": {
+          "path": "assets/food/food-static-whole-overlapping-bract-artichoke-bud-01/v1.0.0/generate.py",
+          "size": 21107,
+          "sha256": "a9684939aa6759fb5a0f3c835530f9a58e250a06fda2f136203cde8f1387b37d"
+        },
+        "render": {
+          "path": "assets/food/food-static-whole-overlapping-bract-artichoke-bud-01/v1.0.0/thumbnail.png",
+          "size": 526060,
+          "sha256": "72b1c45f138bb939a6d95ef281de3f051aa71a98ac72ea8a67d3bbcf8923e3e4"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1608-volume02-20261025"
     }
   ]
 }
