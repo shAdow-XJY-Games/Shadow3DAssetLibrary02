@@ -1,0 +1,42 @@
+{
+  "id": "agriculture-fixed-oval-tank-and-spread-lattice-boom-sprayer-01",
+  "version": "1.0.0",
+  "category": "modular",
+  "assetKind": "prop",
+  "theme": "agriculture",
+  "style": "warm-handcrafted-village",
+  "title": "Fixed Oval Tank and Spread Lattice Boom Sprayer",
+  "description": "One newly authored whole fixed towable field-sprayer exterior. A broad longitudinal oval tank with closed domed end profiles and a top filler cap sits in two cross saddles above a full two-wheel chassis. A long triangular drawbar terminates in a genuinely open hitch eye, with a separate finite parking foot beneath. A rear upright lift-style frame carries two spread shallow triangular lattice boom wings, a long low distribution line and repeated short nozzle bodies; a front compact pump-shaped housing and one continuous exterior hose complete the assembly. Unlike a wearable backpack sprayer or hand paint gun this is a full wheeled trailed tank and wide boom rig, with no imported old machinery. One static model zero scenes. Tank interior, liquid, fluid circuit, pressure, actual pump transmission, spraying, crop or chemical use, dosage, boom folding, towing compatibility, stability, capacity, manufacture, ergonomics, engineering and safety are not made or verified. Rigging, animation and interaction not made.",
+  "bounds": {
+    "x": 7.242829323,
+    "y": 4.010000229,
+    "z": 2.220000029,
+    "unit": "m"
+  },
+  "triangles": 2996,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/agriculture/agriculture-fixed-oval-tank-and-spread-lattice-boom-sprayer-01/v1.0.0/model.glb",
+      "size": 180048,
+      "sha256": "9ac683f047105bd716c0ebd4c8e71a545f8edab153d971371b2eb7c2dff877ff"
+    },
+    "blend": {
+      "path": "assets/agriculture/agriculture-fixed-oval-tank-and-spread-lattice-boom-sprayer-01/v1.0.0/source.blend",
+      "size": 972616,
+      "sha256": "a618d9c14784f28fd8927e719ffa213e127c6ed4670ec7a8c5333dfd7eed4278"
+    },
+    "generator": {
+      "path": "assets/agriculture/agriculture-fixed-oval-tank-and-spread-lattice-boom-sprayer-01/v1.0.0/generate.py",
+      "size": 35294,
+      "sha256": "a002b406f53acefcee2ca37d1d681f33b787cc79540850ccf12bf3d236e68c5c"
+    },
+    "render": {
+      "path": "assets/agriculture/agriculture-fixed-oval-tank-and-spread-lattice-boom-sprayer-01/v1.0.0/thumbnail.png",
+      "size": 534879,
+      "sha256": "dae7899f0de926e076d73816ec48701523f997a48cfa8c3182892398eb62036d"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

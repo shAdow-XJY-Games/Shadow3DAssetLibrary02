@@ -1,0 +1,43 @@
+{
+  "id": "sports-whole-open-sector-cage-and-separated-hammer-preparation-bay-scene-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "sports",
+  "style": "source-preserved-low-poly",
+  "title": "Open Sector Cage And Separated Hammer Preparation Bay",
+  "description": "One original static sports preparation bay scene. The complete accepted horseshoe throwing cage and complete accepted laid-wire throwing hammer are preserved with every original mesh, triangle, dimension and opaque PBR material, translated only. The empty cage opens onto a clear forward apron; the entire rested implement is separately displayed on an outside side preparation table rather than occupying the entry. New finite ground slab, table supports and modest approach strips organize the space. Both complete source generators and exact GLB hashes are embedded and verified before composition; nothing is extracted, rescaled, recoloured, deformed or counted as a new independent prop. Zero new models and one scene. Static illustrative unoccupied preparation layout only, no throwing action, user route certification, regulation dimensions, equipment compatibility, impact containment, loading, manufacture or safety claim.",
+  "bounds": {
+    "x": 8.0,
+    "y": 7.599999904632568,
+    "z": 3.9200000762939453,
+    "unit": "m"
+  },
+  "triangles": 5236,
+  "materials": 11,
+  "files": {
+    "glb": {
+      "path": "assets/sports/sports-whole-open-sector-cage-and-separated-hammer-preparation-bay-scene-01/v1.0.0/model.glb",
+      "size": 491944,
+      "sha256": "f0b0f89cf8a660dbc4d028428e6274c28decff3dae441e2aaaf9204840eda380"
+    },
+    "blend": {
+      "path": "assets/sports/sports-whole-open-sector-cage-and-separated-hammer-preparation-bay-scene-01/v1.0.0/source.blend",
+      "size": 1604444,
+      "sha256": "b7fef60d60258daf29a0ad978a8fe37f09a68157e1064eaad8615173e693c5fa"
+    },
+    "generator": {
+      "path": "assets/sports/sports-whole-open-sector-cage-and-separated-hammer-preparation-bay-scene-01/v1.0.0/generate.py",
+      "size": 36160,
+      "sha256": "bbfd56d77624eb899e498e76f74b87959b062f256dfee7c951a4a848cf0d568f"
+    },
+    "render": {
+      "path": "assets/sports/sports-whole-open-sector-cage-and-separated-hammer-preparation-bay-scene-01/v1.0.0/thumbnail.png",
+      "size": 531884,
+      "sha256": "14a222790620abc7938071e9bfd1b086979dea77ad91510402b5b673a62ff2b4"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved",
+  "sourceId": "sports-current-dot-originals-20261027"
+}
