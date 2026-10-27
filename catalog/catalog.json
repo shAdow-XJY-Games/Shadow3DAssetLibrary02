@@ -2204,6 +2204,11 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary02",
       "commit": "6a91ba2e46af28d5e9464a9ebad43b313c4e1ae0"
+    },
+    "original-qualified-batch-1708-volume02-20261025": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary02",
+      "commit": "f132ed68253dd71e82862309c89397703333fec3"
     }
   },
   "assets": [
@@ -75607,6 +75612,49 @@
       "status": "verified",
       "license": "All rights reserved",
       "sourceId": "original-qualified-batch-1707-volume02-20261025"
+    },
+    {
+      "id": "waterworks-fixed-common-spindle-discs-and-open-half-round-vessel-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "waterworks",
+      "style": "S01-clean-geometric",
+      "title": "Fixed Common Spindle Discs and Open Half Round Vessel",
+      "description": "One wholly new complete static dry disc-contactor-inspired apparatus. A complete finite-thickness half-round open vessel shell runs along one horizontal axis and has two full slightly proud semicircular end walls. Nine whole plain circular radial discs share one full straight spindle on two true annular end bearings, while a complete outboard closed drive-case exterior and full rooted mounting bracket finish the end. The lower portions of all discs lie inside the open semicircular vessel with real floor clearance; the full upper arcs are exposed above its lip, with genuine gaps between successive plates. Two low complete cross bearers and four finite whole ground pads support the assembly. Unlike the oval paper beater, this has no central raceway divider, return-around loop, single short bar-textured drum or large outboard spoke wheel; one common longitudinal spindle carries separate full flat radial discs across the whole straight vessel. Unlike the opposed concave-disc harrow, there are no oblique gang pairs, dish-shaped ground discs, trailer wheels or drawbar. Unlike the own inclined rectangular plate cutaway, these radial circular plates are all joined to an end-supported common spindle inside a half-round vessel rather than independently resting on two bottom rails above hopper openings. All vessel, walls, spindle, discs, bearings and support coordinates newly authored together, no old basin, gang disc, beater drum or frame mesh reused. Four opaque constant untextured PBR roles, metres Z up, whole horizontal bounds centred at four grounded soles, one whole model zero scenes. Empty static illustrative apparatus only, with no liquid, biomass, living material or treatment media. No biological activity, aeration, filtering, water quality, treatment efficiency, hydraulic or process connectivity, bearing fit, drive operation, rotation, machinery clearance specification, load, manufacture, cleaning, installation or equipment safety capability made or verified. No animation, rigging or interaction.",
+      "bounds": {
+        "x": 5.699999999999999,
+        "y": 2.48,
+        "z": 2.4,
+        "unit": "m"
+      },
+      "triangles": 2660,
+      "materials": 4,
+      "files": {
+        "glb": {
+          "path": "assets/waterworks/waterworks-fixed-common-spindle-discs-and-open-half-round-vessel-01/v1.0.0/model.glb",
+          "size": 115500,
+          "sha256": "7ae1519b1de17021c45936ead96314610057a2ef23c151479ffdf8319ea4aca9"
+        },
+        "blend": {
+          "path": "assets/waterworks/waterworks-fixed-common-spindle-discs-and-open-half-round-vessel-01/v1.0.0/source.blend",
+          "size": 790116,
+          "sha256": "5c638ada827ec8785dca8529f77e385b1e4017df80a9b609c2ea1aff6870156b"
+        },
+        "generator": {
+          "path": "assets/waterworks/waterworks-fixed-common-spindle-discs-and-open-half-round-vessel-01/v1.0.0/generate.py",
+          "size": 13172,
+          "sha256": "4acfabab6a0fcd1ea770851ef6b83f366f081a12a2c4448d7f510e8baf3de85a"
+        },
+        "render": {
+          "path": "assets/waterworks/waterworks-fixed-common-spindle-discs-and-open-half-round-vessel-01/v1.0.0/thumbnail.png",
+          "size": 437110,
+          "sha256": "cf6753de6b9fbd06699430f099547894333609a84e3509b594831e7ed118dfca"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1708-volume02-20261025"
     }
   ]
 }
