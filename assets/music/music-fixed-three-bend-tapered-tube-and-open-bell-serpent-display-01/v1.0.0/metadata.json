@@ -1,0 +1,42 @@
+{
+  "id": "music-fixed-three-bend-tapered-tube-and-open-bell-serpent-display-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "music",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Three Bend Tapered Tube and Open Bell Serpent Display",
+  "description": "One newly authored complete serpent-inspired static wind-instrument display. A single progressively widening finite-wall tube follows three broad alternating bends before turning upward into its open wide bell. Six genuinely open polygonal front ports enter its continuous inner cavity, and a whole hollow socketed small cup mouthpiece joins the narrow upper end. Two complete discreet rear posts connect the original full instrument body to a low grounded display plinth. All centre paths, section profiles, port placement and support coordinates are new; no old capped straight J tube, twin-joint bassoon boot, saxophone, horn loop or pipe mesh reused. Five closed editable bodies and four constant opaque PBR roles, metres native Z up, one model zero scenes. Generic keyless serpentine category inspiration only, not a decorated museum copy or historically exact instrument. No tone-hole fingering correctness, calibrated taper, continuous usable airflow, sound, intonation, lip response, playability, strength, hand fit, manufacture or safety claim. No keys, reed, player, rig, animation or interaction. Display supports are part of this one prop, not separate counted assets.",
+  "bounds": {
+    "x": 0.5400000214576721,
+    "y": 0.20000000298023224,
+    "z": 0.9538494944572449,
+    "unit": "m"
+  },
+  "triangles": 32492,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/music/music-fixed-three-bend-tapered-tube-and-open-bell-serpent-display-01/v1.0.0/model.glb",
+      "size": 2735388,
+      "sha256": "0ea5911f7e7d495349205fd94be77dac71e7b6c582e66a5c11c744960d615d9a"
+    },
+    "blend": {
+      "path": "assets/music/music-fixed-three-bend-tapered-tube-and-open-bell-serpent-display-01/v1.0.0/source.blend",
+      "size": 4218528,
+      "sha256": "9eb3af43da5ca8fe970b2085abb23f6700fedfac68a199a08b07f1d24302bc46"
+    },
+    "generator": {
+      "path": "assets/music/music-fixed-three-bend-tapered-tube-and-open-bell-serpent-display-01/v1.0.0/generate.py",
+      "size": 13779,
+      "sha256": "1262c88e6bde783c4c4c178c334ad498011d648d757d7834f46a172817cb5197"
+    },
+    "render": {
+      "path": "assets/music/music-fixed-three-bend-tapered-tube-and-open-bell-serpent-display-01/v1.0.0/thumbnail.png",
+      "size": 459008,
+      "sha256": "76ba652bb1677283faf859624cd74c40a06be440651959d52fef9f00f82c3a2d"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

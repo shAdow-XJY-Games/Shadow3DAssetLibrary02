@@ -1,0 +1,43 @@
+{
+  "id": "sports-fixed-long-centre-shaft-and-opposed-end-face-croquet-mallet-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "sports",
+  "style": "low-poly",
+  "title": "Long Centre Shaft And Opposed End Face Croquet Mallet",
+  "description": "One newly authored complete static croquet-mallet-inspired visual prop. A long chamfered rectangular head has two complete dark opposed end plates and a broad continuous ground sole. A full long central tapered shaft enters the head at its midpoint and supports a whole octagonal upper grip. Five closed complete components and four opaque constant untextured PBR roles; metres, Z up, horizontal bounds-centred ground datum. Numeric geometry is new, not a cropped workshop-rack mallet, percussion striker, offset golf putter or old shaft transplant. One independent model and zero scenes. Simple sport-equipment appearance only: no ball, wicket, text, branding, numbered marks, weights or copied product. The two plates have genuine finite opposed seats on the whole head; shaft and grip retain finite interior connections. Fixed upright display only, not real balance, regulation dimensions, playable equipment, impact response, shaft stiffness, striking performance, user fit, manufacture or safety certification. No rigging, animation or interaction.",
+  "bounds": {
+    "x": 0.3140000104904175,
+    "y": 0.06599999964237213,
+    "z": 0.9319999814033508,
+    "unit": "m"
+  },
+  "triangles": 276,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/sports/sports-fixed-long-centre-shaft-and-opposed-end-face-croquet-mallet-01/v1.0.0/model.glb",
+      "size": 27424,
+      "sha256": "bc030b461ec28b5634ae9843e19a31f85755d50ebd30ae48ae1cac4de2853e85"
+    },
+    "blend": {
+      "path": "assets/sports/sports-fixed-long-centre-shaft-and-opposed-end-face-croquet-mallet-01/v1.0.0/source.blend",
+      "size": 595100,
+      "sha256": "56e22f70b5109fe61ce838c841ff7d1639331e7f226b6d7897831dab967b2f57"
+    },
+    "generator": {
+      "path": "assets/sports/sports-fixed-long-centre-shaft-and-opposed-end-face-croquet-mallet-01/v1.0.0/generate.py",
+      "size": 17297,
+      "sha256": "1ef1b306f5eabd89a5ddb45a3f9bc9c315ea5eab6ce233b61cce094f0fc99cfa"
+    },
+    "render": {
+      "path": "assets/sports/sports-fixed-long-centre-shaft-and-opposed-end-face-croquet-mallet-01/v1.0.0/thumbnail.png",
+      "size": 405431,
+      "sha256": "8f676586e1b32751a4194867cb629a098ce365caa0a140d4a24bc469cebdcc2e"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved",
+  "sourceId": "sports-current-dot-originals-20261027"
+}
