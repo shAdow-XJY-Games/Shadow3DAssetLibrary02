@@ -1,0 +1,42 @@
+{
+  "id": "waterworks-fixed-hairpin-stepped-pools-and-side-slots-01",
+  "version": "1.0.0",
+  "category": "architecture",
+  "assetKind": "modular",
+  "theme": "waterworks",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Hairpin Stepped Pools and Side Slots",
+  "description": "One complete newly authored static hairpin stepped-pool channel. A single connected grounded finite-thickness body contains a high left entrance, three descending left-flight floor terraces, one broad rear turning pool, and three descending right-return terraces ending at a low front exit beside the entrance. A full central divider ends before the rear pool, leaving the real U-turn open. Four complete cross-baffles in the two parallel flights have true full-height side slots alternating between outside bank and centre divider. The surrounding banks step with the floors and have complete upper coping surfaces. Unlike the old right-angle drop drain this is a returned dual-flight channel with an internal long divider and rear turning chamber, not a perpendicular two-mouth elbow or added covers. Unlike the two-well reclaim basin it has two open front channel mouths, a full folded route, stepped return and alternating full-height baffle gaps rather than a local weir saddle and small side outlets. All visible coordinates newly authored as one closed body, no older mesh imported. Four opaque constant untextured PBR roles, metre-style Z up and bounds-centred ground sole, one civil-architecture model zero scenes. Empty dry fishway-inspired artistic display only; no water, fauna, calculated flow, water depth, fish passage, ecological suitability, hydraulic efficiency, erosion resistance, structural load, installation, pedestrian access, engineering or safety capability made or verified. No rigging, animation or interaction.",
+  "bounds": {
+    "x": 4.4,
+    "y": 7.0,
+    "z": 2.92,
+    "unit": "m"
+  },
+  "triangles": 2224,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/waterworks/waterworks-fixed-hairpin-stepped-pools-and-side-slots-01/v1.0.0/model.glb",
+      "size": 58008,
+      "sha256": "d8b27c96b8bb5dbb5a8a9cb746087f188101fe4aec76afdc4118097b067ff38c"
+    },
+    "blend": {
+      "path": "assets/waterworks/waterworks-fixed-hairpin-stepped-pools-and-side-slots-01/v1.0.0/source.blend",
+      "size": 664888,
+      "sha256": "392a54ef843ae414e697531117456b45bc9d1f68cffdf314a047a689404722cd"
+    },
+    "generator": {
+      "path": "assets/waterworks/waterworks-fixed-hairpin-stepped-pools-and-side-slots-01/v1.0.0/generate.py",
+      "size": 12513,
+      "sha256": "fa2a8c17dabfc178a7b54a0db554f5ad7cda3847e9bbf5f6e5b8485ead593a43"
+    },
+    "render": {
+      "path": "assets/waterworks/waterworks-fixed-hairpin-stepped-pools-and-side-slots-01/v1.0.0/thumbnail.png",
+      "size": 471870,
+      "sha256": "7e021f5f17fc0574c2bcce2105baa93a596ff345479d3c91dc2f8bf1b8c75b43"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

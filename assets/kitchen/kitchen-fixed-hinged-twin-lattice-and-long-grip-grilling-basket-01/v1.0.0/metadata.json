@@ -1,0 +1,42 @@
+{
+  "id": "kitchen-fixed-hinged-twin-lattice-and-long-grip-grilling-basket-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "kitchen",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Hinged Twin Lattice and Long Grip Grilling Basket",
+  "description": "One newly authored complete empty static grilling-basket-inspired hand tool. A broad low rectangular lower basket and its whole opposing upper basket each have a real connected open lattice floor, low continuous edge rim and open side cells. The upper half is fixed raised about the shared rear transverse hinge, not a second loose basket. Each half carries a complete long paired-rod handle ending in a blank chamfered brown grip. The lower lattice underside is grounded and the raised half remains attached through the single hinge pin and collars. All numeric geometry is newly authored; no fryer insert, racket head, landing net or old mesh is imported or extracted. This is a complete shallow hinged enclosure with two attached handles rather than a deep single basket suspended inside an electrical well, or an oval flat sporting lattice on one handle. Three constant opaque untextured PBR materials, metres Z up and horizontal bounds-centred ground origin. One model and zero scenes, not two models or separate grips counted as assets. Empty static art only: no fish, food, fire, coals, heat source, cooking, clamping, latching, hinge movement, food contact, temperature resistance, ergonomics, manufacture, strength or safety capability. No rig animation or interaction.",
+  "bounds": {
+    "x": 0.2199999988079071,
+    "y": 0.7286702990531921,
+    "z": 0.6181572079658508,
+    "unit": "m"
+  },
+  "triangles": 9236,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/kitchen/kitchen-fixed-hinged-twin-lattice-and-long-grip-grilling-basket-01/v1.0.0/model.glb",
+      "size": 784700,
+      "sha256": "3d22ac8c5d51dd0db1814dab11e24990122b648c04a944e3cdb058ace725e353"
+    },
+    "blend": {
+      "path": "assets/kitchen/kitchen-fixed-hinged-twin-lattice-and-long-grip-grilling-basket-01/v1.0.0/source.blend",
+      "size": 1618880,
+      "sha256": "9000b8edeecfd4ad0f581695296652244a31a06553b18ba9c54a5ef6898f9629"
+    },
+    "generator": {
+      "path": "assets/kitchen/kitchen-fixed-hinged-twin-lattice-and-long-grip-grilling-basket-01/v1.0.0/generate.py",
+      "size": 18950,
+      "sha256": "9ff338aa62e7da82a0ec2a0a3b4138a29d668d12a7515ef9b4ce0853611ef49f"
+    },
+    "render": {
+      "path": "assets/kitchen/kitchen-fixed-hinged-twin-lattice-and-long-grip-grilling-basket-01/v1.0.0/thumbnail.png",
+      "size": 500294,
+      "sha256": "b3eca9d98badb9e35f6c14202d3e96d2793906fbd6b0333687fba162c85fe9bf"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

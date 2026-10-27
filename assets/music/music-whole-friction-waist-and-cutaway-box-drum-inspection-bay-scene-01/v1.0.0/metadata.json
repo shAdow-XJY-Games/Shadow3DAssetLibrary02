@@ -1,0 +1,42 @@
+{
+  "id": "music-whole-friction-waist-and-cutaway-box-drum-inspection-bay-scene-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "music",
+  "style": "source-preserved-low-poly",
+  "title": "Whole Friction Waist and Cutaway Box Drum Inspection Bay",
+  "description": "One static small percussion-inspection preparation bay, one scene and zero new independent models. Four complete qualified original assets retain every raw mesh buffer, normal, full PBR material and internal node hierarchy at unit metre scale. A whole open worktable supports the entire tilted open-bottom friction-rod drum on its own four-brace carrier at left and the whole horizontally resting twin-head waisted longitudinal-lacing drum separately at right. The complete cutaway box drum stands on all its original feet beside the table, rigidly quarter-turned so its deliberate side opening and internal snare bank face the foreground. A low scene-only slab carries the original table and box-drum soles, leaving an empty front strip and visible separation. No membrane, shell, cord, rod, foot, tabletop or instrument support is extracted or resized. This is a whole-equipment arrangement contrasting three distinct static drum structures, not a new instrument or the old bar-resonator and kettle-drum preparation bay. No actual sound, tuning, playability, moving parts, instruction, cultural reconstruction, work access, load, stability, installation or safety capability. No rig, animation or interaction.",
+  "bounds": {
+    "x": 2.4000000953674316,
+    "y": 1.5,
+    "z": 1.621832013130188,
+    "unit": "m"
+  },
+  "triangles": 17900,
+  "materials": 15,
+  "files": {
+    "glb": {
+      "path": "assets/music/music-whole-friction-waist-and-cutaway-box-drum-inspection-bay-scene-01/v1.0.0/model.glb",
+      "size": 1558696,
+      "sha256": "1faadddb772436c55f3eedf2b12240072f4ab35b1dfc8ed69dee427900a80f8b"
+    },
+    "blend": {
+      "path": "assets/music/music-whole-friction-waist-and-cutaway-box-drum-inspection-bay-scene-01/v1.0.0/source.blend",
+      "size": 3194096,
+      "sha256": "816108c37dba4a50fbdbaa627a14f4c2b086048035b185f1e9feac67a0a21e9d"
+    },
+    "generator": {
+      "path": "assets/music/music-whole-friction-waist-and-cutaway-box-drum-inspection-bay-scene-01/v1.0.0/generate.py",
+      "size": 376385,
+      "sha256": "1dc92f924b47a4beb0aa47d71cd117b5038c3ef6068d2ae5eb553e87b902f98c"
+    },
+    "render": {
+      "path": "assets/music/music-whole-friction-waist-and-cutaway-box-drum-inspection-bay-scene-01/v1.0.0/thumbnail.png",
+      "size": 532301,
+      "sha256": "d4af4afaedc310ddbb5221a59da72a2c62732dd5525f87d529fd1f15e685c4c7"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
