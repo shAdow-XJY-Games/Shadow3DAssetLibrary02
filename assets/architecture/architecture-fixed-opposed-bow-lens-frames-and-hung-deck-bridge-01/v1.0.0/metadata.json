@@ -1,0 +1,42 @@
+{
+  "id": "architecture-fixed-opposed-bow-lens-frames-and-hung-deck-bridge-01",
+  "version": "1.0.0",
+  "category": "architecture",
+  "assetKind": "modular",
+  "theme": "architecture",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Opposed Bow Lens Frames and Hung Deck Bridge",
+  "description": "One wholly newly authored complete dry lenticular-truss-inspired bridge module. Two full finite lens-shaped side frames each combine an upward-bowed upper chord and downward-bowed lower chord into joined common end noses; the curved lower chord is not the straight deck edge or a low horizontal tie. Seven full vertical web members and eight alternating diagonals fill each lens with a real open lattice. A complete straight low deck and two edge beams hang below the two curved lower chords on fourteen whole short rods. Two terminal abutments carry four complete separate outboard bearing posts at the lens ends, leaving the central deck clear between those posts. Three full upper cross-spreaders and two lateral diagonals link the opposing frames. Unlike the earlier tied-arch bridge, both principal chords curve in opposite directions, the lower chord stays independently above the straight deck, and there is a braced web between both curved chords rather than only long vertical hangers from an upper bow to a straight tie beam. Unlike the sagging-ribbon bridge, the deck remains level and is not the principal sagging tension member; there are no towers, main overhead cables or outer cable anchors. All frame contours, deck, web members, hangers and supports newly authored together; no earlier arch, cable, truss or deck mesh imported, bent or extracted. Four opaque constant untextured PBR roles, metres native Z up and full horizontal bounds-centred terminal soles, one architectural model zero scenes. Generic fixed architectural art only, not a named historic bridge reconstruction or an engineering design. No force equilibrium, pin-joint design, buckling resistance, tension, arch thrust, fatigue, dynamic response, load, traffic, pedestrian access, navigation clearance, construction, installation or civil safety capability made or verified. No rigging, animation or interaction.",
+  "bounds": {
+    "x": 7.760000000000001,
+    "y": 2.84,
+    "z": 3.2,
+    "unit": "m"
+  },
+  "triangles": 2700,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/architecture/architecture-fixed-opposed-bow-lens-frames-and-hung-deck-bridge-01/v1.0.0/model.glb",
+      "size": 143804,
+      "sha256": "7dafb8893bc83e09dd10e105fa602d97e7452fd15a5bfba05048b06b7cd74aec"
+    },
+    "blend": {
+      "path": "assets/architecture/architecture-fixed-opposed-bow-lens-frames-and-hung-deck-bridge-01/v1.0.0/source.blend",
+      "size": 964060,
+      "sha256": "45e58a45be90a52a23d3add5acca2efbcdccbab6d5a73cabe543501b5fd606e0"
+    },
+    "generator": {
+      "path": "assets/architecture/architecture-fixed-opposed-bow-lens-frames-and-hung-deck-bridge-01/v1.0.0/generate.py",
+      "size": 14088,
+      "sha256": "d10d5c05355b886502f95c020d73820439cf0796b9972f86ce49abcef73fa9ca"
+    },
+    "render": {
+      "path": "assets/architecture/architecture-fixed-opposed-bow-lens-frames-and-hung-deck-bridge-01/v1.0.0/thumbnail.png",
+      "size": 427016,
+      "sha256": "b47ea32f22e5748511a37126da1b2aa50b3bec77187a1bdd800269264a630ca8"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
