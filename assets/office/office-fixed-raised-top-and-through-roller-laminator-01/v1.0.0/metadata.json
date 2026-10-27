@@ -1,0 +1,42 @@
+{
+  "id": "office-fixed-raised-top-and-through-roller-laminator-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "office",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Raised Top and Through Roller Laminator",
+  "description": "One newly authored complete empty static desktop laminator-style inspection display. A broad low four-foot base carries two thick shaped side housings, two complete opposed horizontal roller pairs and a whole fixed raised rear-hinged roof shell. The front feed bed and short rear exit bed line up across the two real narrow roller gaps, giving one straight front-to-rear empty passage instead of blind angled folding pockets. Each long roller has its own full transverse axle rooted in the side housings. The thick arched roof cover is one complete piece raised clear of the roll area on a whole rear hinge axis. A blank small control panel and selector sit on the right housing; no paper or lamination pouch obscures the empty channel. All numeric geometry newly authored, not a reshaped fanfold printer or paper folder with added copies. Three constant opaque PBR roles, metres Z up and horizontal bounds-centred ground origin. One original model zero scenes. Fixed open inspection appearance only: no heating, lamination, sealing, powered feed, roller motion or nip pressure, sheet routing validation, electrically live components, guarding, hand clearance, manufacture or safety capability. Rigging animation and interaction not made.",
+  "bounds": {
+    "x": 0.5680000185966492,
+    "y": 0.5299999713897705,
+    "z": 0.40795183181762695,
+    "unit": "m"
+  },
+  "triangles": 1436,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/office/office-fixed-raised-top-and-through-roller-laminator-01/v1.0.0/model.glb",
+      "size": 138540,
+      "sha256": "df129f22007459eb7aca7f65f1cc7b42317ca7eedc235e4dcf151f26345495d5"
+    },
+    "blend": {
+      "path": "assets/office/office-fixed-raised-top-and-through-roller-laminator-01/v1.0.0/source.blend",
+      "size": 811136,
+      "sha256": "da15424f4d476e23b069c942efa00ed853b324e87eb4a8c41d33afefdc395329"
+    },
+    "generator": {
+      "path": "assets/office/office-fixed-raised-top-and-through-roller-laminator-01/v1.0.0/generate.py",
+      "size": 17324,
+      "sha256": "0fd7d11bf6700681f7481d3f59ad0ea0ca5cf99ba61d6978aab3e4a2ca99efbb"
+    },
+    "render": {
+      "path": "assets/office/office-fixed-raised-top-and-through-roller-laminator-01/v1.0.0/thumbnail.png",
+      "size": 547025,
+      "sha256": "6e81430da285dd2b423561a6c67fda81c07bf6c4568972bcf9911789b987b552"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
