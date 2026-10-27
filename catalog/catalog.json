@@ -2024,6 +2024,11 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary02",
       "commit": "ef389bca8de27ea5e43f56b180cd14b7703cfac7"
+    },
+    "original-qualified-batch-1591-volume02-20261025": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary02",
+      "commit": "2be5205b3d677b1de1fd451a893cb10a7f4b070e"
     }
   },
   "assets": [
@@ -70353,6 +70358,92 @@
       "status": "verified",
       "license": "All rights reserved",
       "sourceId": "original-qualified-batch-1589-volume02-20261025"
+    },
+    {
+      "id": "art-fixed-open-bed-slotted-rail-and-locked-composing-knee-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "art",
+      "style": "S01-clean-geometric",
+      "title": "Fixed Open Bed Slotted Rail and Locked Composing Knee",
+      "description": "One newly authored complete empty fixed composing-stick-inspired hand tool. A single continuous thin grounded bed carries a fixed end lip and a long back rail with ten genuine enclosed through slots. One complete transverse knee crosses the open shallow bed and joins an upper and rear sleeve around that rail. A full vertical lock pin, round pivot boss and chamfered flat locking lever establish the single fixed position. The wide front and opposite end remain genuinely open. This is not the old two-wall mitre box with new colours or a resized corner vise: the shallow one-sided type bed, pierced back rail and wrapping cross-bed knee are wholly newly authored numeric geometry. One model zero scenes, four opaque constant PBR roles, metres and native Z up. Empty fixed visual appearance only: no actual type, text, calibrations, sliding adjustment, precision, locking force, printing performance, historical reconstruction, manufacture or safety capability. No rig, animation or interaction.",
+      "bounds": {
+        "x": 0.3400000035762787,
+        "y": 0.06599999964237213,
+        "z": 0.03799999877810478,
+        "unit": "m"
+      },
+      "triangles": 824,
+      "materials": 4,
+      "files": {
+        "glb": {
+          "path": "assets/art/art-fixed-open-bed-slotted-rail-and-locked-composing-knee-01/v1.0.0/model.glb",
+          "size": 73628,
+          "sha256": "e84df0d1aa217a8b68df906c844f3040a9dedf4d6d94d29d6a953c346f271de2"
+        },
+        "blend": {
+          "path": "assets/art/art-fixed-open-bed-slotted-rail-and-locked-composing-knee-01/v1.0.0/source.blend",
+          "size": 671680,
+          "sha256": "3e5d7b110db1257c00de4534c794b48e6f9f2419f8138e7847522a2cf2249057"
+        },
+        "generator": {
+          "path": "assets/art/art-fixed-open-bed-slotted-rail-and-locked-composing-knee-01/v1.0.0/generate.py",
+          "size": 12702,
+          "sha256": "383140545d73300a9283ab73e7075917ca40808897c329546a89061870997007"
+        },
+        "render": {
+          "path": "assets/art/art-fixed-open-bed-slotted-rail-and-locked-composing-knee-01/v1.0.0/thumbnail.png",
+          "size": 439891,
+          "sha256": "049c4f1f6e6accd981d19e1d5934e8e71a62fe89ddefb59cfd5059ccc25dc681"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1591-volume02-20261025"
+    },
+    {
+      "id": "pharmacy-fixed-flat-counting-deck-and-covered-pour-channel-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "pharmacy",
+      "style": "S01-clean-geometric",
+      "title": "Fixed Flat Counting Deck and Raised Pour Channel Cover",
+      "description": "One newly authored complete empty counting-tray-inspired counter prop. A wide flat shallow work deck has three low continuous rims and opens sideways into a separate deep narrow V-bottom collection channel. The complete thick channel extends beyond the deck into a tapered open-ended pouring mouth. One full long opaque cover stands fixed raised on two rooted cylindrical hinge sections along the outer channel wall, leaving its entire empty interior visible. A small blank lift tab belongs to the cover. Two thin underside runners ground the whole tray. Unlike a deep open-front letter tray or a curved open-backed impression trough, this has unequal broad flat and narrow depressed zones, a tapering channel mouth, and a long raised cover. All coordinates newly authored; no imported model meshes, letters, pills, dosage marks, branding or textures. Three constant opaque PBR materials, metres Z up, centred horizontal ground origin. One original prop, zero scenes. Static empty artistic appearance only: no clinical use, dispensing, counting accuracy, medication advice, dosage, hygiene, sterilization, material suitability, seal, hinge movement, manufacture or safety capability. No rig animation or interaction.",
+      "bounds": {
+        "x": 0.30399999022483826,
+        "y": 0.29100000858306885,
+        "z": 0.11500000208616257,
+        "unit": "m"
+      },
+      "triangles": 344,
+      "materials": 3,
+      "files": {
+        "glb": {
+          "path": "assets/pharmacy/pharmacy-fixed-flat-counting-deck-and-covered-pour-channel-01/v1.0.0/model.glb",
+          "size": 35920,
+          "sha256": "ceffe477e3ca2353161e1c4820f7f04426b2e58f5ea41e9ada36e7e681cb918d"
+        },
+        "blend": {
+          "path": "assets/pharmacy/pharmacy-fixed-flat-counting-deck-and-covered-pour-channel-01/v1.0.0/source.blend",
+          "size": 613568,
+          "sha256": "6b7d99613a94a627570b703bccee9d30bec3c717898990768a67957f932a8673"
+        },
+        "generator": {
+          "path": "assets/pharmacy/pharmacy-fixed-flat-counting-deck-and-covered-pour-channel-01/v1.0.0/generate.py",
+          "size": 19029,
+          "sha256": "d41939192caf01e132576a1df1032a6367788daa07a4e14c952aaa93ec4a3460"
+        },
+        "render": {
+          "path": "assets/pharmacy/pharmacy-fixed-flat-counting-deck-and-covered-pour-channel-01/v1.0.0/thumbnail.png",
+          "size": 481980,
+          "sha256": "e26e7274d47d5b12986ee2b2b304a3ca338a4e469ae3510bb4174a1922b6d1d3"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1591-volume02-20261025"
     }
   ]
 }
