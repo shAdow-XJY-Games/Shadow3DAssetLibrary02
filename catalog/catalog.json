@@ -2094,6 +2094,11 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary02",
       "commit": "d88a9df877e59a2c7d8aa7de47df955b5cce5956"
+    },
+    "original-qualified-batch-1637-volume02-20261025": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary02",
+      "commit": "86729eade63a484d6444855e180a84c3c323fbb8"
     }
   },
   "assets": [
@@ -72272,6 +72277,221 @@
       "status": "verified",
       "license": "All rights reserved",
       "sourceId": "original-qualified-batch-1632-volume02-20261025"
+    },
+    {
+      "id": "sports-fixed-tilted-mesh-and-rear-u-stand-rebounder-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "sports",
+      "style": "source-preserved-low-poly",
+      "title": "Tilted Mesh And Rear U Stand Rebounder",
+      "description": "One newly authored complete static portable tilted mesh rebounder appearance. A continuous rounded tubular perimeter surrounds a true open crossed-cord net with its own continuous edge cord and short visible perimeter tension ties. Two front feet and one complete rear U support with two rear pads ground the frame; paired side stays and whole pivot collars root the support. Every frame contour, net span, support and tie is newly authored for this whole object, not an old solid passing board with transparency, an extracted cage panel or a rescaled tennis net. Four opaque constant PBR roles, metre units, Z up; one whole prop and zero scenes. Empty static illustrative equipment only: no tension, elasticity, impact, trajectory, ball-return performance, adjustability, user fit, sports regulation, loading, manufacture or safety claim.",
+      "bounds": {
+        "x": 1.1360000371932983,
+        "y": 1.1699999570846558,
+        "z": 1.3481782674789429,
+        "unit": "m"
+      },
+      "triangles": 2500,
+      "materials": 4,
+      "files": {
+        "glb": {
+          "path": "assets/sports/sports-fixed-tilted-mesh-and-rear-u-stand-rebounder-01/v1.0.0/model.glb",
+          "size": 264056,
+          "sha256": "3b297fa6cfa5c0f2e7e5b36c24f6467aec5ed80390f446c9eafbdd7a1181f180"
+        },
+        "blend": {
+          "path": "assets/sports/sports-fixed-tilted-mesh-and-rear-u-stand-rebounder-01/v1.0.0/source.blend",
+          "size": 1164060,
+          "sha256": "6b94a34c5fecdbe6cd593b28026b47c81996dc4bf071a384036ae4d17ae151b9"
+        },
+        "generator": {
+          "path": "assets/sports/sports-fixed-tilted-mesh-and-rear-u-stand-rebounder-01/v1.0.0/generate.py",
+          "size": 18932,
+          "sha256": "a12febb3e32a47a3295616e3dc783407dec8080e3f9438bd3ede6038ac37f480"
+        },
+        "render": {
+          "path": "assets/sports/sports-fixed-tilted-mesh-and-rear-u-stand-rebounder-01/v1.0.0/thumbnail.png",
+          "size": 580575,
+          "sha256": "3ca3858de211df125852e359b64d767697e868feae9611f44e029e4411f7c584"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1637-volume02-20261025"
+    },
+    {
+      "id": "architecture-whole-castellated-web-and-continuous-flange-beam-01",
+      "version": "1.0.0",
+      "category": "architecture",
+      "assetKind": "modular",
+      "theme": "architecture",
+      "style": "S01-clean-geometric",
+      "title": "Whole Castellated Web and Continuous Flange Beam",
+      "description": "One newly authored complete castellated I-section architectural beam. Two broad uninterrupted full-length flanges are welded continuously into one deep central web, whose five complete hexagonal through apertures have real finite reveals and retained solid end posts. The whole long lower flange is the ground datum; the entire section and both complete I-shaped end faces are supplied, not a cropped render or separated beam fragments. All web, reveal and flange triangles share one closed connected material boundary without overlapping internal plate faces. Unlike the solid uninterrupted web of the earlier workshop jib beam, this independent whole member has actual bounded through-web cavities and full-depth intermediate posts; no column, trolley, hook or old beam mesh is imported or extracted. Three opaque constant untextured PBR roles, metres Z up, full horizontal envelope centred at the lower flange sole. One original architectural module zero scenes. Fixed castellated-beam-inspired art only: invented proportions and openings are not a fabricated section specification or construction detail. No welding procedure, service routing, joint fit, structural analysis, deflection, stability, span rating, load capacity, fire performance, manufacture, installation or building safety capability made or verified. No rigging, animation or interaction.",
+      "bounds": {
+        "x": 6.4,
+        "y": 0.72,
+        "z": 1.2,
+        "unit": "m"
+      },
+      "triangles": 672,
+      "materials": 3,
+      "files": {
+        "glb": {
+          "path": "assets/architecture/architecture-whole-castellated-web-and-continuous-flange-beam-01/v1.0.0/model.glb",
+          "size": 24632,
+          "sha256": "624c764f764868065b973be13a307c488c5f0c4b8b3598e02aabddf2167134f6"
+        },
+        "blend": {
+          "path": "assets/architecture/architecture-whole-castellated-web-and-continuous-flange-beam-01/v1.0.0/source.blend",
+          "size": 557764,
+          "sha256": "86176c9f930db639a4d145c3d2c2fc66d3c3f467cf7d990b501d5fd164f44a7e"
+        },
+        "generator": {
+          "path": "assets/architecture/architecture-whole-castellated-web-and-continuous-flange-beam-01/v1.0.0/generate.py",
+          "size": 11994,
+          "sha256": "124554ce1d875bb34f370953bda844bf1b29f29e78447bf09e11421530441e45"
+        },
+        "render": {
+          "path": "assets/architecture/architecture-whole-castellated-web-and-continuous-flange-beam-01/v1.0.0/thumbnail.png",
+          "size": 335326,
+          "sha256": "d30e4a8b56c07629486f695da1c3aa67a8689755d67bab031d3cf91a3bd45123"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1637-volume02-20261025"
+    },
+    {
+      "id": "pet-care-fixed-rear-bottle-socket-and-forward-open-drinking-basin-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "pet-care",
+      "style": "S01-clean-geometric",
+      "title": "Fixed Rear Bottle Socket and Forward Open Drinking Basin",
+      "description": "One newly authored complete empty static pet-waterer exterior. A long grounded rounded base places one full narrow-neck inverted bottle exterior at the rear in a thick rooted socket, while a separate broad genuinely open oval drinking basin projects forward. The bottle has softened rectangular faceted shoulders and a closed upper base; its lower neck is visibly narrowed and seated in the collar. The forward well has a real finite bottom, tapered inner walls and continuous rounded rim, not painted water, and the common base joins both zones. This is not the old central hollow bell reservoir above an annular poultry tray or a long-nozzle pump bottle scaled up: the rear elevated bottle neck and frontal unobstructed basin form an asymmetric fore-and-aft body, with no carry crown or dispenser nozzle. All new numeric geometry, no imported components. Three opaque untextured PBR roles, metres Z up and whole horizontal bounds-centred ground origin. One model zero scenes. Empty fixed artistic exterior only: no liquid or food, internal reservoir plumbing, valve, hydrostatic flow, automatic filling, leakage rating, potable supply, animal access/suitability, health or hygiene, stability, manufacture or safety capability. The opaque bottle is a solid exterior representation, not a fluid vessel simulation. Rigging animation and interaction not made.",
+      "bounds": {
+        "x": 0.3059999942779541,
+        "y": 0.5410000085830688,
+        "z": 0.37700000405311584,
+        "unit": "m"
+      },
+      "triangles": 1408,
+      "materials": 3,
+      "files": {
+        "glb": {
+          "path": "assets/pet-care/pet-care-fixed-rear-bottle-socket-and-forward-open-drinking-basin-01/v1.0.0/model.glb",
+          "size": 123256,
+          "sha256": "1f6205c1b1294782fceb09e707e2eeee9e9352b76aab168d666a07d6b4de487c"
+        },
+        "blend": {
+          "path": "assets/pet-care/pet-care-fixed-rear-bottle-socket-and-forward-open-drinking-basin-01/v1.0.0/source.blend",
+          "size": 718624,
+          "sha256": "7bb3dc3d45e9c77ccc87c7abf66cdb46c4667e8bd104f9f9bde7cf6cdf2a1baf"
+        },
+        "generator": {
+          "path": "assets/pet-care/pet-care-fixed-rear-bottle-socket-and-forward-open-drinking-basin-01/v1.0.0/generate.py",
+          "size": 17236,
+          "sha256": "8b68562269bd32165d73ba0a7e9e434f62273ac1e55d580c8ccde488c7bbaed7"
+        },
+        "render": {
+          "path": "assets/pet-care/pet-care-fixed-rear-bottle-socket-and-forward-open-drinking-basin-01/v1.0.0/thumbnail.png",
+          "size": 493166,
+          "sha256": "661c7b50729c297ff664424db00b84a85420c244c819584b636fa8fb98571440"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1637-volume02-20261025"
+    },
+    {
+      "id": "fitness-whole-roller-dome-and-pocket-board-preparation-bay-scene-01",
+      "version": "1.0.0",
+      "category": "scenes",
+      "assetKind": "scene",
+      "theme": "fitness",
+      "style": "source-preserved-low-poly",
+      "title": "Roller Dome And Pocket Board Preparation Bay",
+      "description": "One original static fitness-equipment preparation bay, zero new models and one scene. Three entire previously accepted original props retain their original unit scale, all geometry and opaque PBR values: the wide exercise roller stands at front right, the twin-port half-dome platform lies at front left, and the whole blind-pocket hangboard is laid on the rear preparation table. One new finite floor and one complete subordinate four-leg table with rear and side braces create an open central access interval, not a training demonstration or a collection of extracted product parts. All three full original generators and complete GLB hashes are embedded and verified before translation-only composition. No old model is split, resized, recoloured or counted again. Static empty illustrative arrangement only: no exercise sequence, medical or fitness benefit, user access certification, equipment use, fit, table loading, manufacture or safety capability.",
+      "bounds": {
+        "x": 2.5,
+        "y": 2.050000011920929,
+        "z": 0.84579998254776,
+        "unit": "m"
+      },
+      "triangles": 6056,
+      "materials": 15,
+      "files": {
+        "glb": {
+          "path": "assets/sports/fitness-whole-roller-dome-and-pocket-board-preparation-bay-scene-01/v1.0.0/model.glb",
+          "size": 534112,
+          "sha256": "e3e5eb47e76040d4a8fe9b77ead4da801e318d1fc8e64a92ffdd941b03c17674"
+        },
+        "blend": {
+          "path": "assets/sports/fitness-whole-roller-dome-and-pocket-board-preparation-bay-scene-01/v1.0.0/source.blend",
+          "size": 1614940,
+          "sha256": "0d8d7a22d50c5210755503e477d88d7c40bd50bf486f86eee96056593aa66ef7"
+        },
+        "generator": {
+          "path": "assets/sports/fitness-whole-roller-dome-and-pocket-board-preparation-bay-scene-01/v1.0.0/generate.py",
+          "size": 48102,
+          "sha256": "25e7b93be0640641c4b2e2311f73e5e69652b4b8e90d370e74337a8275c560af"
+        },
+        "render": {
+          "path": "assets/sports/fitness-whole-roller-dome-and-pocket-board-preparation-bay-scene-01/v1.0.0/thumbnail.png",
+          "size": 475220,
+          "sha256": "9f0edd29515af92894e921989884ff43acace7f1a0d93f710a422b29d96bb986"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1637-volume02-20261025"
+    },
+    {
+      "id": "nature-static-eight-boat-follicle-and-seeded-star-anise-fruit-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "nature",
+      "style": "S01-clean-geometric",
+      "title": "Static Eight Boat Follicle and Seeded Star Anise Fruit",
+      "description": "One wholly newly authored low-poly dry star-anise-like aggregate fruit at approximately natural scale. Eight unequal swollen boat-shaped woody follicles radiate from a low continuous central axis. Every follicle has finite closed shell thickness, a real lengthwise upper opening, an enclosed floor and one complete compressed ovoid seed seated inside. The outer silhouette, longitudinal cavities and seed placements are newly drawn, not a lotus seedhead with extra holes, rearranged pea valves, extracted old fruit pieces or a recoloured flower. One whole static botanical prop, zero scenes, three opaque solid PBR roles. This is a stylized exterior study, not exact species identification or a way to distinguish edible and poisonous Illicium species; no culinary, nutritional, medicinal, growth or physical-stability claims. No rig, animation or interaction made or verified.",
+      "bounds": {
+        "x": 0.037504,
+        "y": 0.037504,
+        "z": 0.00844,
+        "unit": "m"
+      },
+      "triangles": 3520,
+      "materials": 3,
+      "files": {
+        "glb": {
+          "path": "assets/nature/nature-static-eight-boat-follicle-and-seeded-star-anise-fruit-01/v1.0.0/model.glb",
+          "size": 251288,
+          "sha256": "9c4f38928b4e119da886875c8105a16103c524c11c760bfeacedbaea7c6fe58f"
+        },
+        "blend": {
+          "path": "assets/nature/nature-static-eight-boat-follicle-and-seeded-star-anise-fruit-01/v1.0.0/source.blend",
+          "size": 769568,
+          "sha256": "0d578b41024b95fdd9124a9a15604b50adf1a422125c96bb92610beabd9a378f"
+        },
+        "generator": {
+          "path": "assets/nature/nature-static-eight-boat-follicle-and-seeded-star-anise-fruit-01/v1.0.0/generate.py",
+          "size": 21834,
+          "sha256": "c59859d08d4930625e939fcc572962c347c643a6cb3cf5c9d7728004bc63352c"
+        },
+        "render": {
+          "path": "assets/nature/nature-static-eight-boat-follicle-and-seeded-star-anise-fruit-01/v1.0.0/thumbnail.png",
+          "size": 553329,
+          "sha256": "afe48e3421fbe62ae277a927258228ae7675be07bc0ce3fc96a0b3e2bd14a1f4"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1637-volume02-20261025"
     }
   ]
 }
