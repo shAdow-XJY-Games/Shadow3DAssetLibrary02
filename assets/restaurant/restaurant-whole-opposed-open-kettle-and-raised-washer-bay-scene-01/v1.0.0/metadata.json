@@ -1,0 +1,42 @@
+{
+  "id": "restaurant-whole-opposed-open-kettle-and-raised-washer-bay-scene-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "restaurant",
+  "style": "source-preserved-low-poly",
+  "title": "Whole Opposed Open Kettle and Raised Washer Bay",
+  "description": "One empty static restaurant equipment service bay, one new scene and zero new independent models. A complete qualified open-hemisphere trunnion kettle stands on the left with its fixed raised circular lid outside the central area; the complete original raised-hood washer stands on the right, offset toward the rear. The whole appliances face each other across a genuine empty metre-wide central strip rather than sharing a countertop or a linear sink/drying line. Their feet remain directly grounded on the one finite scene-only floor and their original sizes, open interiors, controls, frame pieces and internal relationships are intact. Both entire GLB payloads, local POSITION/NORMAL arrays, PBR material dictionaries and hierarchies are preserved under whole unit-scale exact quarter turns and translations only. Neither model is extracted, recoloured, resized or counted anew. Unlike the prior sink/washer/drying three-station row and roaster/fryer pair on worktables, this is an opposed floor-standing open-kettle and raised-washer arrangement with an unobstructed front approach. Static equipment arrangement only: no food, dishes, liquid, heating, washing, plumbing connection, equipment operation, workflow efficacy, rated support, hygiene, accessibility, thermal clearance or workplace safety claim. Rigging animation interaction not made.",
+  "bounds": {
+    "x": 4.199999809265137,
+    "y": 3.299999952316284,
+    "z": 2.440000057220459,
+    "unit": "m"
+  },
+  "triangles": 6952,
+  "materials": 8,
+  "files": {
+    "glb": {
+      "path": "assets/restaurant/restaurant-whole-opposed-open-kettle-and-raised-washer-bay-scene-01/v1.0.0/model.glb",
+      "size": 626372,
+      "sha256": "d44e2b9b01efabe448eb1670bf23877eb18ed6bbf3135dcd1f70e06e4a3868c4"
+    },
+    "blend": {
+      "path": "assets/restaurant/restaurant-whole-opposed-open-kettle-and-raised-washer-bay-scene-01/v1.0.0/source.blend",
+      "size": 1696176,
+      "sha256": "55c32644352be19bdde24ece011e165218188550740bbbbb86cdbcb3e50097a1"
+    },
+    "generator": {
+      "path": "assets/restaurant/restaurant-whole-opposed-open-kettle-and-raised-washer-bay-scene-01/v1.0.0/generate.py",
+      "size": 141951,
+      "sha256": "fadc2f517eb3756f905f3a47737ce282209f2d716c3ecd6f0c5ad8fcf41f8bc8"
+    },
+    "render": {
+      "path": "assets/restaurant/restaurant-whole-opposed-open-kettle-and-raised-washer-bay-scene-01/v1.0.0/thumbnail.png",
+      "size": 482313,
+      "sha256": "cf09e8dcd4d58f06908ab5e7c84fe62ac78fb8c25ac8ba53baf07bc7cebb810c"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
