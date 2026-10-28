@@ -1,0 +1,42 @@
+{
+  "id": "music-fixed-triangular-chamber-and-edge-hitch-string-psaltery-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "music",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Triangular Chamber and Edge Hitch String Psaltery",
+  "description": "One newly authored complete static bowed-psaltery-inspired instrument. One full low triangular hollow chamber includes its entire flat bottom, thick perimeter walls, thin upper soundboard and genuine round sound hole. Fourteen whole parallel unequal-length strings begin at a single base pin row, rise across one whole short base bridge, and end separately on tall hitch posts distributed along both converging perimeter edges. The successive exposed string endpoints form the characteristic stepped edge field; no central bank of bridges or cross-string buttons is present. Each complete pin and continuous string is original closed geometry. Unlike the paired transverse courses across two internal dulcimer bridges, the full-length arched zither with individual middle bridges, or a rectangular chord-bar instrument, this support relation terminates the strings at the sloping edge posts rather than carrying them across the entire body between two opposed end banks. Every visible numeric coordinate and complete shell topology is newly authored; no prior instrument mesh imported, cropped, resized or recoloured. Forty-four whole closed component meshes, four opaque constant PBR roles, metres native Z up and whole horizontal-bounds-centred flat ground datum. One complete model zero scenes; strings and pins are not separately counted. Plain generic category art, not a measured instrument or historical replica. Symmetric sparse string layout and thick wires are deliberately uncalibrated visual simplifications, not a chromatic keyboard or tuned scale. Strings cross above parts of the actual sound hole, leaving real visible spaces; the chamber is not a solid box or black decal. No bow, player, string windings, note markings, sound, tuning, vibration, tension, bow access performance, acoustics, playability, physical strength, manufacture or safety capability made or verified. No rigging, animation or interaction.",
+  "bounds": {
+    "x": 0.3199999928474426,
+    "y": 0.6000000238418579,
+    "z": 0.07900000363588333,
+    "unit": "m"
+  },
+  "triangles": 2772,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/music/music-fixed-triangular-chamber-and-edge-hitch-string-psaltery-01/v1.0.0/model.glb",
+      "size": 268236,
+      "sha256": "deeec02abf3078aae5d4e2a002cda924f2600f81b25d75a843c828628a9d30ae"
+    },
+    "blend": {
+      "path": "assets/music/music-fixed-triangular-chamber-and-edge-hitch-string-psaltery-01/v1.0.0/source.blend",
+      "size": 1073328,
+      "sha256": "84625038dd1bc7f1a956b234b86cf4af6189dfe8d3a2b3795c29fce0da3adab8"
+    },
+    "generator": {
+      "path": "assets/music/music-fixed-triangular-chamber-and-edge-hitch-string-psaltery-01/v1.0.0/generate.py",
+      "size": 13890,
+      "sha256": "faee4dd94e7b3247a6dddbe7da5fe2c879b3a8c2f8a821d884f9a5b230b1fa81"
+    },
+    "render": {
+      "path": "assets/music/music-fixed-triangular-chamber-and-edge-hitch-string-psaltery-01/v1.0.0/thumbnail.png",
+      "size": 558280,
+      "sha256": "2fd5cb5865a5daceaba4855814c20d291c64f4e1dec56f8ad3ef48c9d87b3526"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

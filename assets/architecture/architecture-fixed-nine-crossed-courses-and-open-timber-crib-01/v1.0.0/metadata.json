@@ -1,0 +1,42 @@
+{
+  "id": "architecture-fixed-nine-crossed-courses-and-open-timber-crib-01",
+  "version": "1.0.0",
+  "category": "architecture",
+  "assetKind": "modular",
+  "theme": "architecture",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Nine Crossed Courses and Open Timber Crib",
+  "description": "One wholly newly authored complete static open timber crib-frame module. Nine alternately perpendicular horizontal courses consist of five pairs of full long front and rear timbers and four rows of three full transverse timbers. Each nonterminal timber has a continuous full-length lower web and actual shallow top rectangular bearing notches; all upper-course crossing timbers seat in these bounded notches on finite opposed horizontal faces, without a hidden shared ground slab or overlapping box substitutes. The two full lowest longitudinal soles ground the complete frame. Both large vertical grid cells stay completely empty and open from top to bottom. Full horizontal spacing between like-direction courses gives visible continuous air slots, while the terminal top pair has complete uncropped unnotched tops. Twenty-two independently editable whole closed wood meshes, forty-eight selected finite opposed bearing patches and four opaque untextured constant PBR wood surface roles. Native Z up, metre-style artistic coordinates and horizontal full-bounds-centred ground datum; one whole architectural model zero scenes. Unlike the small three-axis quarter-web wooden lock, all members lie horizontally in nine spaced courses with two large open cells, no vertical core or central three-quarter puzzle cuts. Unlike the continuous folded retaining curtain and rear tiebacks, there is no sheet wall, anchoring cable, rear block or common slab. All numeric bar geometry newly authored, not clipped, repeated from, resized, combined or recoloured old component geometry. Broad timber-crib category only, not an installed or functioning retaining structure: no soil, rock fill, nails, reinforcements, slope, plantings or host ground included. Exact visual seats are not verified mechanical joints or build instructions. No retaining ability, soil pressure, drainage, erosion control, assembly path, locking action, load, strength, stability, settlement, foundation, fabrication, timber treatment, durability, installation or civil safety capability. No rigging, animation or interaction.",
+  "bounds": {
+    "x": 5.4,
+    "y": 2.5,
+    "z": 1.96,
+    "unit": "m"
+  },
+  "triangles": 1736,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/architecture/architecture-fixed-nine-crossed-courses-and-open-timber-crib-01/v1.0.0/model.glb",
+      "size": 92784,
+      "sha256": "03b27e3f39411fdaddf957965c97df9e09049f5b6cd7e24e46dfacb72e327629"
+    },
+    "blend": {
+      "path": "assets/architecture/architecture-fixed-nine-crossed-courses-and-open-timber-crib-01/v1.0.0/source.blend",
+      "size": 735892,
+      "sha256": "9208c3d992892d86e86da75534cc3817a26c0e3131758b90c743cdd4d0570141"
+    },
+    "generator": {
+      "path": "assets/architecture/architecture-fixed-nine-crossed-courses-and-open-timber-crib-01/v1.0.0/generate.py",
+      "size": 12424,
+      "sha256": "320bf9118fc473097e262839c44e9125e994cea1390e7b60806231d967a102d1"
+    },
+    "render": {
+      "path": "assets/architecture/architecture-fixed-nine-crossed-courses-and-open-timber-crib-01/v1.0.0/thumbnail.png",
+      "size": 487878,
+      "sha256": "c3ec67bf3992e9d17f0f2c585364318642858c1419867815de50377b38576f69"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

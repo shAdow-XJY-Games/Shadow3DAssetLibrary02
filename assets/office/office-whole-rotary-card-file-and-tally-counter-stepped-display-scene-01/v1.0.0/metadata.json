@@ -1,0 +1,42 @@
+{
+  "id": "office-whole-rotary-card-file-and-tally-counter-stepped-display-scene-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "office",
+  "style": "source-preserved-low-poly",
+  "title": "Whole Rotary Card File and Tally Counter Stepped Display",
+  "description": "One complete static two-level office reception display, one new scene zero new independent models. One entire qualified open rotary index-card file rests on the raised rear-left quadrant of a continuous stepped plinth. One whole qualified four-blank-window tally counter stands separately on the low front-right surface, its readout facing the open front. Both complete source props retain all original geometry, normals, PBR material dictionaries, face assignments and internal hierarchies under unit-scale whole translations only. No crop, card or counter-part extraction, recolour, scale or repeat model count. Unlike the flat kitchen tool bay or a powered print-finishing bench, this is an open diagonal high/low arrangement of a ring-card file and a hand counter with no backsplash or enclosing wall. Only the continuous two-level plinth is new scene environment. Static blank administrative display only: no personal information, visitor records, verified reception workflow, counting or card retrieval, movement, load, stability, ergonomic fit, manufacture or safety capability. Rigging animation and interaction not made.",
+  "bounds": {
+    "x": 0.6800000071525574,
+    "y": 0.46000000834465027,
+    "z": 0.3418257534503937,
+    "unit": "m"
+  },
+  "triangles": 4796,
+  "materials": 8,
+  "files": {
+    "glb": {
+      "path": "assets/office/office-whole-rotary-card-file-and-tally-counter-stepped-display-scene-01/v1.0.0/model.glb",
+      "size": 432588,
+      "sha256": "58073649966a1778e7614d15da4ec4c0a484a1299bbe67310f1f8e8db2567eb1"
+    },
+    "blend": {
+      "path": "assets/office/office-whole-rotary-card-file-and-tally-counter-stepped-display-scene-01/v1.0.0/source.blend",
+      "size": 1365328,
+      "sha256": "da036807b5d19b071f574a44b296837cefb0828499b62d2c977d4cde96bec58b"
+    },
+    "generator": {
+      "path": "assets/office/office-whole-rotary-card-file-and-tally-counter-stepped-display-scene-01/v1.0.0/generate.py",
+      "size": 106142,
+      "sha256": "75b5e04504fa3b5e04a75b8427591f92a8cbd6671ce498f97bb7b1c787cd18aa"
+    },
+    "render": {
+      "path": "assets/office/office-whole-rotary-card-file-and-tally-counter-stepped-display-scene-01/v1.0.0/thumbnail.png",
+      "size": 497664,
+      "sha256": "2daba04727492d04d6024ff3061aa951e42e100387af60e42e1ec5a5c047b1b1"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

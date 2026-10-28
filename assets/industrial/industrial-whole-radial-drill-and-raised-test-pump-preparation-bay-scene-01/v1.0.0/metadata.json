@@ -1,0 +1,42 @@
+{
+  "id": "industrial-whole-radial-drill-and-raised-test-pump-preparation-bay-scene-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "industrial",
+  "style": "warm-handcrafted-village",
+  "title": "Whole Radial Drill and Raised Test Pump Preparation Bay",
+  "description": "One new whole empty workshop equipment preparation bay, zero new models and one scene. The entire accepted long radial-arm drill stands on the left lower floor, retaining its full long ground base, tall column, radial arm, complete head and motors, exposed quill, full cube table with genuine T channels and all controls. The entire accepted open-reservoir long-lever test pump rests separately on a broad raised four-legged preparation table at the rear right; its full reservoir, complete lever, pump body, gauge, valves and entire returning hose with corrected terminal coupling remain intact. A broad chamfered common floor, full four-leg table with two side rails and low rear boundary establish a two-height empty preparation composition. Both accepted whole source geometries, topology and opaque PBR parameters retain original metre scale; only whole rigid translation is new. Whole sources embedded and hash-pinned; scene normals recalculated, no raw GLB-byte or hierarchy identity claim. No old machine part crop, rescale, component deletion, material repaint or accessory extraction. No workpiece, plumbing, hose-to-drill connection, liquid, loose tool or operator. Unlike the whole bench-lathe/empty-steady-rest corner and slip-roller/bead-former corner, the full column-and-radial-arm machine remains floor-mounted and the small complete reservoir-and-lever original is staged on its own four-foot table. Preparation arrangement only: no drilling, pressure testing, machining workflow, compatibility, access, ergonomics, table loading, stability, manufacture, engineering or safety capability made or verified. Rigging animation physics interaction not made.",
+  "bounds": {
+    "x": 4.599999905,
+    "y": 2.690000057,
+    "z": 2.324500084,
+    "unit": "m"
+  },
+  "triangles": 3988,
+  "materials": 11,
+  "files": {
+    "glb": {
+      "path": "assets/industrial/industrial-whole-radial-drill-and-raised-test-pump-preparation-bay-scene-01/v1.0.0/model.glb",
+      "size": 229652,
+      "sha256": "73e3ecafc4fb930ac24f3acef50195b05c8b045ce20d29a22f22deb33fe3a70a"
+    },
+    "blend": {
+      "path": "assets/industrial/industrial-whole-radial-drill-and-raised-test-pump-preparation-bay-scene-01/v1.0.0/source.blend",
+      "size": 1144968,
+      "sha256": "fd325f38c8f926bf2052fa9964399f16c53b23b1ec79fe993ec8c342a8a2765f"
+    },
+    "generator": {
+      "path": "assets/industrial/industrial-whole-radial-drill-and-raised-test-pump-preparation-bay-scene-01/v1.0.0/generate.py",
+      "size": 63644,
+      "sha256": "b4c5218f0a638d5680eb11116b6c6e879e673cf82c41b93c5529628f2189dac6"
+    },
+    "render": {
+      "path": "assets/industrial/industrial-whole-radial-drill-and-raised-test-pump-preparation-bay-scene-01/v1.0.0/thumbnail.png",
+      "size": 510718,
+      "sha256": "3248904dd072ae66883a933a71fba20ee23bc7272d7a60d762d52f47cb0914d2"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

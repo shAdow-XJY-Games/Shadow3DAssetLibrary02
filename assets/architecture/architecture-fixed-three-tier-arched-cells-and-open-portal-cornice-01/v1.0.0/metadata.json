@@ -1,0 +1,42 @@
+{
+  "id": "architecture-fixed-three-tier-arched-cells-and-open-portal-cornice-01",
+  "version": "1.0.0",
+  "category": "architecture",
+  "assetKind": "modular",
+  "theme": "architecture",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Three Tier Arched Cells and Open Portal Cornice",
+  "description": "One wholly newly authored complete static cellular-cornice-inspired portal module. Two full grounded side piers and one whole spanning lintel leave a broad real open central portal. A complete upper rear carrier joins thirteen entire thick niche-hood solids in three staggered tiers that project progressively farther forward. Each independently authored hood has a genuine curved front arch and continuously rising concave soffit, complete side and back thickness faces, and a full unbroken top; there is no lower niche floor or dark painted recess. The central, side and upper fields are offset instead of stacking a uniform grid. A whole broad crown caps the full array. All complete hood and support geometry newly authored together, no tile, squinch, vault or wall mesh imported, extracted or stretched. Unlike four diagonal squinches carrying an open octagonal drum, this is one frontal tiered cornice with deep projecting cells and a whole rectangular portal. Unlike shallow blind coffers cut into a single continuous semicylindrical roof, the major relationship is three successively overhanging staggered rows of complete curved hood solids rooted in a full rear carrier. Generic muqarnas-like cellular ornament category only; not a reconstruction of any historical object, named building, religious fixture, traditional geometric grammar or museum tile. Four opaque constant untextured PBR surface roles, metre-style native Z up and full horizontal bounds-centred grounded plinth. One architectural module zero scenes; repeated hood components are not separate assets. Small static seat overlaps and separated tier margins are visual simplifications, not assembly or engineering details. No historical authenticity, masonry stability, thrust, bearing, ornament attachment, weathering, fabrication, host fit, usable doorway, navigation, accessible route, building-code, structural load or construction safety capability made or verified. No rigging animation or interaction.",
+  "bounds": {
+    "x": 6.6,
+    "y": 2.4,
+    "z": 4.23,
+    "unit": "m"
+  },
+  "triangles": 4752,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/architecture/architecture-fixed-three-tier-arched-cells-and-open-portal-cornice-01/v1.0.0/model.glb",
+      "size": 213968,
+      "sha256": "26a2db1ddd15065cf3a2ae3ecb92c1e19e8c8ade59a4ce89576581d645d8a0b5"
+    },
+    "blend": {
+      "path": "assets/architecture/architecture-fixed-three-tier-arched-cells-and-open-portal-cornice-01/v1.0.0/source.blend",
+      "size": 884848,
+      "sha256": "f8690b069ce4e499484b1279e92b6c652a3f1ee19c4baea46e72c220ef807b0f"
+    },
+    "generator": {
+      "path": "assets/architecture/architecture-fixed-three-tier-arched-cells-and-open-portal-cornice-01/v1.0.0/generate.py",
+      "size": 12878,
+      "sha256": "71eaab8164aa2a926a932e813383738501a869fb637a1ca9dfec8ad3b8db90c4"
+    },
+    "render": {
+      "path": "assets/architecture/architecture-fixed-three-tier-arched-cells-and-open-portal-cornice-01/v1.0.0/thumbnail.png",
+      "size": 477835,
+      "sha256": "d8ebb2cb835c42c420bc18ada81c0a05fd4fced68104f37d82055989470f45e1"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

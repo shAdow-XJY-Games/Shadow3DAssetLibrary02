@@ -1,0 +1,42 @@
+{
+  "id": "waterworks-fixed-curved-slat-drum-and-wide-rectangular-inlet-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "waterworks",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Curved Slat Drum and Wide Rectangular Inlet",
+  "description": "One wholly newly authored complete dry cross-flow-inspired runner-and-inlet display. Sixteen whole broad axial slats have finite curved radial cross sections and join two intact solid drum end plates around one full horizontal shaft. The inner drum volume is genuinely empty around that slender shaft, not filled with radial pocket vanes or a central barrel. Two whole raised bearing-pedestal exteriors support the shaft on a common grounded bed. One full wide tapering rectangular inlet retains both true mouths, all four thick walls and the continuous internal passage; two independent full-height side standards support it above the upper drum quadrant with a visible static clearance. No casing is implied: the entire exposed runner-and-inlet illustration is intentionally a complete inspection display, not a cropped operational machine. Unlike the split-bucket impulse wheel, there is no radial row of double cups on one thin runner disk or round jet nozzle. Unlike the square-throat airlock cutaway, there are no broad hub-to-tip radial partition paddles, opposing chamber throats, gearbox or motor. All complete numeric slats, end plates, shaft, inlet and supports authored together; no old rotor, fan or nozzle mesh imported or extracted. Four opaque constant untextured PBR roles, native metres Z up and full horizontal bounds-centred grounded origin; one complete model zero scenes. Broad hydropower category only, independent artistic proportions and vane curves, no named machine or engineering drawing copied. Small deliberate visual overlaps establish fixed roots, not operating bearing fits. No water, shaft rotation, continuous swept clearance, nozzle flow, actual two-pass route, pressure, hydraulic efficiency, generation, power transmission, loading, manufacture, installation or equipment safety capability made or verified. No animation, rigging or interaction.",
+  "bounds": {
+    "x": 3.3,
+    "y": 3.05,
+    "z": 2.7148338669583025,
+    "unit": "m"
+  },
+  "triangles": 1468,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/waterworks/waterworks-fixed-curved-slat-drum-and-wide-rectangular-inlet-01/v1.0.0/model.glb",
+      "size": 83304,
+      "sha256": "c192c68b10a639e3e6cab9b73829e5c182eab8ab6f6bc5883d37f1c85cde9865"
+    },
+    "blend": {
+      "path": "assets/waterworks/waterworks-fixed-curved-slat-drum-and-wide-rectangular-inlet-01/v1.0.0/source.blend",
+      "size": 735300,
+      "sha256": "77e3061e86ab70a45379fe3b096eba49179fe98dc6a1efb66a01f8e4ea2807db"
+    },
+    "generator": {
+      "path": "assets/waterworks/waterworks-fixed-curved-slat-drum-and-wide-rectangular-inlet-01/v1.0.0/generate.py",
+      "size": 12881,
+      "sha256": "7f7e041d0f26baa58be520c6978b1d2424d256916b06bd35e59f03f7fdfcb49d"
+    },
+    "render": {
+      "path": "assets/waterworks/waterworks-fixed-curved-slat-drum-and-wide-rectangular-inlet-01/v1.0.0/thumbnail.png",
+      "size": 469582,
+      "sha256": "920903d81c342d6cf79336a3fba4909256b4ee194d27bf953fef4c6d762173aa"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

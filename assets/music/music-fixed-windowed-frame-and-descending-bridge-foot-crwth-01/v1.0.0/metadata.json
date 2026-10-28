@@ -1,0 +1,42 @@
+{
+  "id": "music-fixed-windowed-frame-and-descending-bridge-foot-crwth-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "music",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Windowed Frame and Descending Bridge Foot Crwth",
+  "description": "One newly authored complete crwth-inspired static frame instrument lying on its whole flat back. One connected lower back, hollow chamber sides, outer upper frame and central neck create two large true upper windows. A whole thin soundboard closes the lower chamber except for two actual circular apertures. The central fretless fingerboard crosses the upper window region and extends over the chamber. A single complete asymmetric bridge has a short left foot seated on the top board and a long right foot passing with positive clearance through the right aperture to the inner back. Four whole strings cross the fingerboard nut and two whole lateral strings run alongside it; all six terminate in one lower anchor and their separate upper pegs. This whole support and cavity organization is new, not the bowl-back lyre with extra strings or a reshaped violin: there are no separate curved lyre arms, bowl shell, projecting violin neck, scroll, pegbox or f holes. Every numeric frame, aperture, bridge and fitting shape is independently authored, not imported or extracted. Eighteen closed editable whole component meshes, four opaque constant PBR roles, metres native Z up and whole horizontal-bounds-centred ground origin. One model zero scenes; subordinate strings and pegs are never extra assets. Generic uninscribed cultural instrument-category artwork, not an authentic measured historical specimen, regional tuning or reproduction. The whole central neck is solid; the historical hidden fingerboard cavity is deliberately not reconstructed. No bow, player, tuning markings, string windings, sound, pitch, tension, acoustic transmission, playing technique, operation, structural balance, manufacture or safety capability is made or verified. No rigging animation or interaction.",
+  "bounds": {
+    "x": 0.2800000011920929,
+    "y": 0.6100000143051147,
+    "z": 0.10199999809265137,
+    "unit": "m"
+  },
+  "triangles": 1828,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/music/music-fixed-windowed-frame-and-descending-bridge-foot-crwth-01/v1.0.0/model.glb",
+      "size": 167564,
+      "sha256": "cac058c3cd67fad6882971e5a591bca7759b8a073807b9a1bc16e3634ccfae15"
+    },
+    "blend": {
+      "path": "assets/music/music-fixed-windowed-frame-and-descending-bridge-foot-crwth-01/v1.0.0/source.blend",
+      "size": 845280,
+      "sha256": "c24d3ab6a7fc0bd98a732a65af8a1dea6c2bd3b1a1af162a24512fa2ee39d97a"
+    },
+    "generator": {
+      "path": "assets/music/music-fixed-windowed-frame-and-descending-bridge-foot-crwth-01/v1.0.0/generate.py",
+      "size": 15760,
+      "sha256": "5a96bf3a15be7d1a52d5b195febd7e3bce340c3e107879b4de8d1bc48a56d4c9"
+    },
+    "render": {
+      "path": "assets/music/music-fixed-windowed-frame-and-descending-bridge-foot-crwth-01/v1.0.0/thumbnail.png",
+      "size": 551085,
+      "sha256": "779dd22c81548676fecd74009eeb9e540690aacea70f4e5b756b370dbd5117ae"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

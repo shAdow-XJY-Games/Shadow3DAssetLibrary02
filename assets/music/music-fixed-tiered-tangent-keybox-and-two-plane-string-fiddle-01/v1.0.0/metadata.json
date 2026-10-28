@@ -1,0 +1,42 @@
+{
+  "id": "music-fixed-tiered-tangent-keybox-and-two-plane-string-fiddle-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "music",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Tiered Tangent Keybox and Two Plane String Fiddle",
+  "description": "One newly authored complete keyed-fiddle-inspired fixed instrument. A full waisted flat-back chamber has separate inset ribs and one complete top board with two genuine bounded sound slots. One long projecting neck carries two entire slotted guide rails and twelve whole keys, each with an integral side button, transverse stem and upright tangent; the two staggered levels have actual open guide apertures and are held in one resting display position. A whole stepped bridge and separate high and low nuts carry four upper melody strings and six lower resonance strings to independent complete peg banks on a wide head. The twin string planes stay separate along the long neck and bridge, with small clear space between the unpressed visual tangents and the upper strings. This complete keyed-neck and stepped-string support organization is original, not the old hurdy-gurdy with its wheel removed: there is no wheel slot, axle, crank or end handle, and the fully hollow waisted body, projecting two-tier slotted neck and lower string plane are new throughout. Unlike the carved violin there is no fingerboard, volute, side-peg box or paired f holes. No prior visible mesh or numerical instrument part imported or extracted. All whole keys, strings and pegs are subordinate components of one model, zero scenes. Four constant opaque PBR roles, metres native Z up and whole horizontal-bounds-centred flat back datum. Generic unbranded nyckelharpa-category art only, not a measured museum instrument, authentic chromatic layout, tuning, model or reconstruction. Deliberate fixed small seating overlaps establish visual support rather than solved sliding clearances. No bow, player, note markings, sounding sympathetic response, key action, pitch, tension, playing, friction, acoustics, ergonomics, structural load, manufacture or safety capability is made or verified. No rigging animation or interaction.",
+  "bounds": {
+    "x": 0.33799999952316284,
+    "y": 0.8899999856948853,
+    "z": 0.18199999630451202,
+    "unit": "m"
+  },
+  "triangles": 4688,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/music/music-fixed-tiered-tangent-keybox-and-two-plane-string-fiddle-01/v1.0.0/model.glb",
+      "size": 425164,
+      "sha256": "b9d6368e37bd05866cf20744adb9c05969663af7da5886abea31b88ebcf93842"
+    },
+    "blend": {
+      "path": "assets/music/music-fixed-tiered-tangent-keybox-and-two-plane-string-fiddle-01/v1.0.0/source.blend",
+      "size": 1283200,
+      "sha256": "c797a09331ef2b4f48b0c03970b8135660a430f244251b4bda6a9d580e75d2f2"
+    },
+    "generator": {
+      "path": "assets/music/music-fixed-tiered-tangent-keybox-and-two-plane-string-fiddle-01/v1.0.0/generate.py",
+      "size": 17155,
+      "sha256": "f7af22b4111b1fce51471fd65106498c9f6baa0cd24a6d500becaf24c95575f1"
+    },
+    "render": {
+      "path": "assets/music/music-fixed-tiered-tangent-keybox-and-two-plane-string-fiddle-01/v1.0.0/thumbnail.png",
+      "size": 598923,
+      "sha256": "07a4c8117df3e9c1e4fcb4465e1a114db4a88ab1afa15051e8c43deca4367a95"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

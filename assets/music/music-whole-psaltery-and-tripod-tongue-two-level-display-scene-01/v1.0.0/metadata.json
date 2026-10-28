@@ -1,0 +1,42 @@
+{
+  "id": "music-whole-psaltery-and-tripod-tongue-two-level-display-scene-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "music",
+  "style": "source-preserved-low-poly",
+  "title": "Whole Psaltery and Tripod Tongue Two Level Display",
+  "description": "One static whole-instrument comparison display, one scene and zero new independent models. The complete qualified triangular psaltery sits at the front-left on one long low inspection terrace, retaining its entire hollow chamber, soundhole, single base bridge, all strings and both sloping-edge hitch rows. The entire qualified single-tongue tripod soundbody stands independently on the lower right-rear ground deck, retaining its full inclined open-underside body, two-spindle clamp, whole free wooden tongue, all three legs and all three feet. Every original GLB buffer, POSITION and NORMAL array, material dictionary, face assignment and internal hierarchy remains unchanged at original metre scale under whole translations only. One continuous finite scene-only slab with an integral raised rectangular terrace supports the two different complete sole types; there are no tool channels, retaining rims, surrounding walls or unrelated furniture. Actual full triangular instrument bottom and all three original foot soles have full measured contact on their corresponding finite top surfaces, with a broad lateral interval and an empty foreground. Unlike the old two wind bodies on a single thin platform or three drums grouped around a worktable, this pairs a low string chamber and an independently standing cantilever-tongue instrument body with different support heights. This is a specific complete-equipment grouping, not a claim of an unprecedented generic floor plan. No original model is cropped, extracted, stretched, recoloured or counted again. No bows, dax block, players, cables, amplification, sound, tuning, actual comparison experiment, playing procedure, acoustic result, human access compliance, balance, load, installation or safety capability. Rigging, animation and interaction not made.",
+  "bounds": {
+    "x": 1.399999976158142,
+    "y": 1.100000023841858,
+    "z": 0.64000004529953,
+    "unit": "m"
+  },
+  "triangles": 3228,
+  "materials": 9,
+  "files": {
+    "glb": {
+      "path": "assets/music/music-whole-psaltery-and-tripod-tongue-two-level-display-scene-01/v1.0.0/model.glb",
+      "size": 317280,
+      "sha256": "ddce626838f6e92d96490c2be1a726a2c0daa10491f17a02463168aa256b9b44"
+    },
+    "blend": {
+      "path": "assets/music/music-whole-psaltery-and-tripod-tongue-two-level-display-scene-01/v1.0.0/source.blend",
+      "size": 1302256,
+      "sha256": "7e58f9a9e3a987669ffcb84312671de589d712b72b5f1e98a3ee1a688f06ceec"
+    },
+    "generator": {
+      "path": "assets/music/music-whole-psaltery-and-tripod-tongue-two-level-display-scene-01/v1.0.0/generate.py",
+      "size": 86649,
+      "sha256": "c41dcb0a2eee74552bcd8d6ac2766251bb419e805865519c31be336935508d2d"
+    },
+    "render": {
+      "path": "assets/music/music-whole-psaltery-and-tripod-tongue-two-level-display-scene-01/v1.0.0/thumbnail.png",
+      "size": 489675,
+      "sha256": "89b4386d9640aa83732a1c20178155e2d9478ce4f687fc9bb3f36fc74d6580e2"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

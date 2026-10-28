@@ -1,0 +1,42 @@
+{
+  "id": "waterworks-fixed-converging-throat-flume-and-twin-open-side-wells-01",
+  "version": "1.0.0",
+  "category": "architecture",
+  "assetKind": "modular",
+  "theme": "waterworks",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Converging Throat Flume and Twin Open Side Wells",
+  "description": "One wholly newly authored complete dry constricted-flume-inspired waterworks module. A single continuous closed material shell joins a broad level-floor converging inlet, a short parallel-sided throat with a descending floor, and a diverging outlet whose full floor rises again to a lower level than the inlet. Both complete axial mouths and the entire open top remain present, with continuous tall side walls and a finite grounded sole. Two genuine rectangular through-ports occupy the same full side wall at separated longitudinal stations. Each port meets one whole short hollow four-wall rectangular connection and one complete tall open-topped side well with a full floor, all four walls and a real inward-facing wall port. The separate wells are empty complete chambers, not solid boxes or dark top decals. All five whole material meshes authored together with shared indexed boundary grids, no old chute, dam, basin, well or pipe imported or extracted. Unlike the equal-width monotonically sloping U-baffle chute, the main route changes width and reverses its floor slope, with no baffles, piers or overlaid ground slab. Unlike a high rounded overflow body descending into a low basin with end sill, this retains two open axial mouths, a narrow finite throat and genuine lateral communicating chambers. Four opaque constant untextured PBR surface roles, metre-style native Z up and full horizontal bounds-centred three ground soles. One whole architectural model zero scenes. Broad measurement-flume and side-well category only; artistic proportions deliberately do not use standard Parshall dimensions, calibration tables or any named installation. Small fixed duct/wall overlaps and slightly wider duct bores create static rooted visual interfaces, not a fitted fabricated system. No water, float, gauge scale, actual flow, discharge measurement, calibration, water-level equivalence, flow regime, sediment handling, sealing, hydraulic design, loading, manufacture, access, installation or civil safety capability made or verified. No rigging animation or interaction.",
+  "bounds": {
+    "x": 4.38,
+    "y": 6.5,
+    "z": 1.6,
+    "unit": "m"
+  },
+  "triangles": 868,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/waterworks/waterworks-fixed-converging-throat-flume-and-twin-open-side-wells-01/v1.0.0/model.glb",
+      "size": 29424,
+      "sha256": "604c88da1b522acd29c4b1a2c0a758d70d07d055eb51683d898b077f4b73d929"
+    },
+    "blend": {
+      "path": "assets/waterworks/waterworks-fixed-converging-throat-flume-and-twin-open-side-wells-01/v1.0.0/source.blend",
+      "size": 610044,
+      "sha256": "9c53de73bb7d154337483459a1c223083da075e3d6b9abc4ec027a5279926e02"
+    },
+    "generator": {
+      "path": "assets/waterworks/waterworks-fixed-converging-throat-flume-and-twin-open-side-wells-01/v1.0.0/generate.py",
+      "size": 13590,
+      "sha256": "c85cc0b77c81d14f45d0352ea21ca5f39b07ca98469e527972b9be135f01fd51"
+    },
+    "render": {
+      "path": "assets/waterworks/waterworks-fixed-converging-throat-flume-and-twin-open-side-wells-01/v1.0.0/thumbnail.png",
+      "size": 398661,
+      "sha256": "3794c0450ca74f4f00603e8c7a58f666b742bbaec1a41a802f0a7d6b26b7ed19"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
