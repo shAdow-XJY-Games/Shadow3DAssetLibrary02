@@ -1,0 +1,42 @@
+{
+  "id": "architecture-whole-twin-cell-deck-and-ported-diaphragm-girder-01",
+  "version": "1.0.0",
+  "category": "architecture",
+  "assetKind": "prop",
+  "theme": "architecture",
+  "style": "S01-clean-geometric",
+  "title": "Whole Twin Cell Deck and Ported Diaphragm Girder",
+  "description": "One wholly newly authored complete integral twin-cell box-girder display segment. A continuous broad deck extends into two full cantilever wings above two inclined outside webs, one continuous centre web and a complete flat-bottom soffit. Two entire transverse end diaphragms are integral with this same closed material shell, each containing two genuine full rectangular access ports. The four finite port tunnels connect into two separate full longitudinal internal cells; there is no solid hidden seal behind either end. All deck, web, diaphragm, port reveal, inner-cell and soffit boundaries are explicitly supplied by one continuous indexed material shell, not detached boxes or a cutaway shell. Unlike an open castellated I web with lateral hexagonal openings, the new topology has two enclosed longitudinal cells and ported transverse end walls beneath overhanging deck wings. Unlike the small stone-lined water channel beneath a soil-road tile, it is an exposed whole double-cell girder form with integral sloped webs, centre partition and thick ported end diaphragms; no soil banks, surface road terrain or separate stone lining. All numerical surfaces and PBR role boundaries authored together from new coordinates, with no old bridge, beam, culvert, tile or wall mesh imported, trimmed or transformed. One editable complete closed material mesh with three opaque constant untextured PBR roles, metre-style native Z up and horizontal bounds-centred bottom datum; one whole static display model, zero scenes. A complete authored segment, not a complete bridge or approved construction product. Model dimensions are artistic only and are not standardized spans, connection interfaces or load data. No adjoining spans, bridge bearings, tendons, reinforcement, traffic deck surfacing, drainage, utility passages, manufacture, lifting, installation, inspection access safety, structural stiffness, strength, stability or civil-engineering performance modeled or certified. The bottom is the mounting datum of this standalone display; no bridge support situation or real load path is asserted. No animation, rigging or interaction.",
+  "bounds": {
+    "x": 5.3985,
+    "y": 6.4,
+    "z": 2.22,
+    "unit": "m"
+  },
+  "triangles": 516,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/architecture/architecture-whole-twin-cell-deck-and-ported-diaphragm-girder-01/v1.0.0/model.glb",
+      "size": 17776,
+      "sha256": "cf036643a48ea4b1b99f8888a26b239abcfe2dab7c0c2ee0aaa804f16022525b"
+    },
+    "blend": {
+      "path": "assets/architecture/architecture-whole-twin-cell-deck-and-ported-diaphragm-girder-01/v1.0.0/source.blend",
+      "size": 549420,
+      "sha256": "00fafccd75962060b86d6baaf221b18e3a0d84ff7b3b51cce3036be9217322c9"
+    },
+    "generator": {
+      "path": "assets/architecture/architecture-whole-twin-cell-deck-and-ported-diaphragm-girder-01/v1.0.0/generate.py",
+      "size": 11838,
+      "sha256": "5e5019c8691ca32c94e95a8a47f8bd67b5c5f133255489df99025b68163e700f"
+    },
+    "render": {
+      "path": "assets/architecture/architecture-whole-twin-cell-deck-and-ported-diaphragm-girder-01/v1.0.0/thumbnail.png",
+      "size": 384499,
+      "sha256": "9a5ddbc697b0e5d6596151f498ea6dbe089acea0630e212d756dca212d68e0a4"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

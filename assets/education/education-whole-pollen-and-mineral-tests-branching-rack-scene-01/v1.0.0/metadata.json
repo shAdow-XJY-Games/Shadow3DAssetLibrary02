@@ -1,0 +1,42 @@
+{
+  "id": "education-whole-pollen-and-mineral-tests-branching-rack-scene-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "education",
+  "style": "source-preserved-low-poly",
+  "title": "Whole Pollen and Mineral Tests Branching Rack Scene",
+  "description": "One newly authored static magnified-morphology teaching arrangement, one scene and zero new independent models. Three whole accepted originals occupy separate finite pads on a new branching three-level rack: whole bisaccate pine pollen at the low front-left station, the complete nested radiolarian skeleton at the middle front-right station, and the whole lobulate foraminifer exterior at the high rear station. A triangular grounded scene-only foot, broad lower branching arms, three rooted risers and three distinct horizontal pads create the support system and clear reading lanes. This is not the previous two-object cell/organelle flat-slab layout with examples exchanged. Every reused object preserves its entire binary mesh payload, normals, indices, all material dictionaries and internal hierarchy at original unit scale; only whole translations are added. No chamber, saccus, pore, beam or spine is extracted, recoloured or counted as a new model. These are different enlarged illustrative scales and unlike biological objects; their displayed sizes do not imply real relative dimensions, a shared organism, mineral chemistry, taxonomic relationship or an actual microscopic sample. Whole foraminifer and radiolarian representations are exterior skeletons; pollen is an opaque exterior grain, not an internal air chamber model. No labels, textures, working instrument, physical load/stability, diagnostic, climate, biological function, rig, animation or interaction claim.",
+  "bounds": {
+    "x": 0.4000000059604645,
+    "y": 0.3799999952316284,
+    "z": 0.16421741247177124,
+    "unit": "m"
+  },
+  "triangles": 23884,
+  "materials": 11,
+  "files": {
+    "glb": {
+      "path": "assets/education/education-whole-pollen-and-mineral-tests-branching-rack-scene-01/v1.0.0/model.glb",
+      "size": 1657776,
+      "sha256": "edb9f4efd0a53c18da58bbcb3b672b76b96d380a22a4f213533e0885f93b3c73"
+    },
+    "blend": {
+      "path": "assets/education/education-whole-pollen-and-mineral-tests-branching-rack-scene-01/v1.0.0/source.blend",
+      "size": 667617,
+      "sha256": "4594bc31bd48f0c14c71f6d00eaba4fca04a3f566b1bdcbf47a130fb0059c497"
+    },
+    "generator": {
+      "path": "assets/education/education-whole-pollen-and-mineral-tests-branching-rack-scene-01/v1.0.0/generate.py",
+      "size": 678373,
+      "sha256": "345943362a652db62977631fc906f8b4fad56975dc3b6f9978cd758e1708a0bb"
+    },
+    "render": {
+      "path": "assets/education/education-whole-pollen-and-mineral-tests-branching-rack-scene-01/v1.0.0/thumbnail.png",
+      "size": 543814,
+      "sha256": "d8067c35559f8f4c960ddeb08e47f4c959c6f5a322eb76d54ce66b7fe6eb016c"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
