@@ -2479,6 +2479,11 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary02",
       "commit": "66035e392db81cd2d2df6e803148ad91651e4bd6"
+    },
+    "original-qualified-batch-1871-volume02-20261025": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary02",
+      "commit": "e2d67e1ef136ef4321a5589b05a0b1615282f343"
     }
   },
   "assets": [
@@ -82848,6 +82853,92 @@
       "status": "verified",
       "license": "All rights reserved",
       "sourceId": "original-qualified-batch-1869-volume02-20261025"
+    },
+    {
+      "id": "education-whole-double-envelope-and-continuous-cristae-mitochondrion-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "education",
+      "style": "S01-clean-geometric",
+      "title": "Whole Double Envelope and Continuous Cristae Mitochondrion",
+      "description": "One wholly newly authored enlarged mitochondrial cutaway: a complete bean-like outer envelope surrounds a distinct inner boundary membrane which folds continuously inward into seven alternating broad cristae. All crista faces and their rounded returns belong to one connected inner-membrane mesh, with actual open cut-section channels communicating toward the intermembrane groove; they are not floating plates, separate stacks or repainted chloroplast grana. The upper roof is intentionally removed to show the architecture, and a low opaque basal section supports this teaching representation. One whole education model, zero scenes, four restrained opaque membrane and cut-surface material roles. Broad cut-open junctions, wall thickness, count and scale are schematic: no exact species or tissue, measured nanoscale anatomy, narrow native junction aperture, membrane bilayer, matrix-fluid volume, DNA, ribosome, ATP synthase, respiration, dynamics, molecular interaction or physical-stability claim. Nothing from old chloroplast domain geometry is reused. No textures, transparency, labels, rig, animation or biological simulation.",
+      "bounds": {
+        "x": 0.224,
+        "y": 0.09,
+        "z": 0.049,
+        "unit": "m"
+      },
+      "triangles": 9216,
+      "materials": 4,
+      "files": {
+        "glb": {
+          "path": "assets/education/education-whole-double-envelope-and-continuous-cristae-mitochondrion-01/v1.0.0/model.glb",
+          "size": 523396,
+          "sha256": "5e305aceb327ba0e7143006fc88eeb8af1d150fae4b89f2f83c1b988f2a513e5"
+        },
+        "blend": {
+          "path": "assets/education/education-whole-double-envelope-and-continuous-cristae-mitochondrion-01/v1.0.0/source.blend",
+          "size": 1023660,
+          "sha256": "d29dab9f290c26411658cd725def499d68e1d4640bf6da2f1a2a6461c5ebdf8d"
+        },
+        "generator": {
+          "path": "assets/education/education-whole-double-envelope-and-continuous-cristae-mitochondrion-01/v1.0.0/generate.py",
+          "size": 23003,
+          "sha256": "bb54f772c0755446ed17e350692c2fd145acbb5ad5ff315f3a2e53a7a71f406f"
+        },
+        "render": {
+          "path": "assets/education/education-whole-double-envelope-and-continuous-cristae-mitochondrion-01/v1.0.0/thumbnail.png",
+          "size": 533192,
+          "sha256": "797bfae890e794b77c26b1430e8b3eeb4fd1e25c99cb98910e5956af1a9942e2"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1871-volume02-20261025"
+    },
+    {
+      "id": "sports-fixed-open-u-and-integral-toe-heel-calk-pitching-horseshoe-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "sports",
+      "style": "source-preserved-low-poly",
+      "title": "Open U And Integral Toe Heel Calk Pitching Horseshoe",
+      "description": "One independently authored complete pitching-horseshoe-inspired static prop: one thick open U material body with two extended gently flared heel arms, a continuous rounded toe, integral raised heel shoulders and a broad raised toe calk. The central void is truly open out through the wide front gap; finite bevels, continuous inner and outer walls and a full flat underside are actual geometry. One connected closed genus-zero whole mesh with three constant opaque PBR face roles, metre-style native Z up and centred ground. No nail holes, letters, fasteners, pole, throwing scene, motion or detached calk pieces. Not a horseshoe-shaped router sole extracted from its tool, and not a bent boomerang wing recoloured or shortened: no prior geometry is imported. Broad sports-equipment category only with invented proportions and plain surfaces, not a branded or competition replica. One original model zero scenes. Static unoccupied visual prop only; no actual throwing, official size or mass, scoring, balance, grip, impact, material strength, manufacturing or safety capability. No textures, animation, rigging or interaction.",
+      "bounds": {
+        "x": 0.1899999976158142,
+        "y": 0.18299999833106995,
+        "z": 0.017000000923871994,
+        "unit": "m"
+      },
+      "triangles": 1100,
+      "materials": 3,
+      "files": {
+        "glb": {
+          "path": "assets/sports/sports-fixed-open-u-and-integral-toe-heel-calk-pitching-horseshoe-01/v1.0.0/model.glb",
+          "size": 95064,
+          "sha256": "68b5aa5c8c8cedad4fa99dbc9819e1bedb5b16bf024cb4dca7d5ef8639528cae"
+        },
+        "blend": {
+          "path": "assets/sports/sports-fixed-open-u-and-integral-toe-heel-calk-pitching-horseshoe-01/v1.0.0/source.blend",
+          "size": 645436,
+          "sha256": "17962bd0a4d212164c88145d93aab49eae0a4ffd05132f77104665e26532c1ba"
+        },
+        "generator": {
+          "path": "assets/sports/sports-fixed-open-u-and-integral-toe-heel-calk-pitching-horseshoe-01/v1.0.0/generate.py",
+          "size": 12419,
+          "sha256": "71dadbdb4ffe2550d4f6b11e5ca6f3fbb7fcab4381d421007fcb3aafe0a2ac60"
+        },
+        "render": {
+          "path": "assets/sports/sports-fixed-open-u-and-integral-toe-heel-calk-pitching-horseshoe-01/v1.0.0/thumbnail.png",
+          "size": 403518,
+          "sha256": "8bf76435903fbb0cabfd5af7c07c00547a51a8ab251bb373cb3878e5d18b3d16"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1871-volume02-20261025"
     }
   ]
 }
