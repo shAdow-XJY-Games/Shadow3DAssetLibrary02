@@ -1,0 +1,42 @@
+{
+  "id": "bakery-fixed-broad-blunt-blade-and-crosswise-palm-grip-bench-scraper-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "bakery",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Broad Blunt Blade and Crosswise Palm Grip Bench Scraper",
+  "description": "One newly authored complete static bakery bench-scraper exterior. One whole broad nearly rectangular finite plate has a continuous straight blunt lower edge, full front/back surfaces and clipped upper corners. Its entire upper edge enters a separate full crosswise rounded palm grip with complete capped ends; there is no long axial handle, return hook, cutting arm, feed bed or serving slot. The plate and grip form one whole bench-tool silhouette, not the narrow hooked hive scraper widened, a mandoline deck detached or an old blade cropped. All numerical geometry new, two opaque PBR roles, metres Z up and whole bounds-centred lower-edge display datum. One original model zero scenes. Fixed blunt artistic geometry only: no dough, food contact, cutting/scraping, portion measure, grip fit, heat tolerance, cleaning, hygiene, load, manufacture or safety capability; lower edge is only a display datum, not a stable working stance. Rigging animation interaction not made.",
+  "bounds": {
+    "x": 0.16599999368190765,
+    "y": 0.026000000536441803,
+    "z": 0.11999999731779099,
+    "unit": "m"
+  },
+  "triangles": 272,
+  "materials": 2,
+  "files": {
+    "glb": {
+      "path": "assets/bakery/bakery-fixed-broad-blunt-blade-and-crosswise-palm-grip-bench-scraper-01/v1.0.0/model.glb",
+      "size": 24880,
+      "sha256": "cc95cb99cefe04f915f5de439b41b93c52780fb1e437f83387f90e1d528d4792"
+    },
+    "blend": {
+      "path": "assets/bakery/bakery-fixed-broad-blunt-blade-and-crosswise-palm-grip-bench-scraper-01/v1.0.0/source.blend",
+      "size": 549408,
+      "sha256": "8c1ae35892a82d74ea1fb7388ef67b613ddc6266bebc8fbcae319004ea20fd26"
+    },
+    "generator": {
+      "path": "assets/bakery/bakery-fixed-broad-blunt-blade-and-crosswise-palm-grip-bench-scraper-01/v1.0.0/generate.py",
+      "size": 15190,
+      "sha256": "ade7575719b8a2b7b40431fa2b503a5fe0a8cbb978ca53532d1916bd047400ac"
+    },
+    "render": {
+      "path": "assets/bakery/bakery-fixed-broad-blunt-blade-and-crosswise-palm-grip-bench-scraper-01/v1.0.0/thumbnail.png",
+      "size": 476449,
+      "sha256": "a9f1c2e1c30cf4c2afc23a3fc1f6898cde585d517e688c7ce3cc1c4958cdf573"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

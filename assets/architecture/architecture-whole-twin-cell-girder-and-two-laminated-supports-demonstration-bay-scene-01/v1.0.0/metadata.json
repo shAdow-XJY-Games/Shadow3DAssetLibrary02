@@ -1,0 +1,42 @@
+{
+  "id": "architecture-whole-twin-cell-girder-and-two-laminated-supports-demonstration-bay-scene-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "architecture",
+  "style": "source-preserved-low-poly",
+  "title": "Whole Twin Cell Girder and Two Laminated Supports Demonstration Bay",
+  "description": "One static architectural component demonstration bay, one scene and zero new reusable models. The entire original twin-cell box-girder segment sits over two complete original quarter-open laminated central-core bearing inspection displays. Both support instances remain at unit scale; the far complete instance is turned180degrees so its entire authored inspection window faces the other end. The full original top and bottom plates, all eleven layer sectors, continuous core and full cover sector are retained in each support, and the entire girder retains its deck wings, inclined side webs, centre web, two full transverse end diaphragms and four genuine access ports. One new whole low scene-only foundation supports both complete lower plate soles. All original geometry, source per-face material roles and complete source mesh inventories are retained; only whole rigid placement and the scene-only foundation are new. Both original qualified GLBs and complete generators are embedded with exact source hashes for self-contained reproduction. Actual finite opposed seats are measured between the foundation and each lower plate, and between each upper plate and the complete underside of the girder; no AABB-only fit is claimed. This is a deliberately static inspection-artwork arrangement, not a complete bridge, standardized assembly or an installed intact bearing. The original front-quarter inspection removals remain visible by design; no source component has been cropped or removed for this scene. No seismic isolation, elastic or material behaviour, load transfer rating, real bearing-to-girder compatibility, reinforcement, anchorage, manufacture, lifting, installation, traffic, access or structural safety performance certified. Original internal limitations remain. Zero new independent props, no rigging, animation or interaction.",
+  "bounds": {
+    "x": 6.4,
+    "y": 9.2,
+    "z": 4.320000028610229,
+    "unit": "m"
+  },
+  "triangles": 8544,
+  "materials": 8,
+  "files": {
+    "glb": {
+      "path": "assets/architecture/architecture-whole-twin-cell-girder-and-two-laminated-supports-demonstration-bay-scene-01/v1.0.0/model.glb",
+      "size": 177952,
+      "sha256": "98fd53b32240fc8d116c34fde48a94aba7c9c189c851dfac8d02bd16628959b1"
+    },
+    "blend": {
+      "path": "assets/architecture/architecture-whole-twin-cell-girder-and-two-laminated-supports-demonstration-bay-scene-01/v1.0.0/source.blend",
+      "size": 1120004,
+      "sha256": "c87a990f4835d0ce79ca48bceee08a68f2274ad9b8e0a713a57d99abf0a51a85"
+    },
+    "generator": {
+      "path": "assets/architecture/architecture-whole-twin-cell-girder-and-two-laminated-supports-demonstration-bay-scene-01/v1.0.0/generate.py",
+      "size": 280705,
+      "sha256": "71a65c3adeea97b343d85575492165ee972ea3eb8267c1b47c8ddd27374f0e76"
+    },
+    "render": {
+      "path": "assets/architecture/architecture-whole-twin-cell-girder-and-two-laminated-supports-demonstration-bay-scene-01/v1.0.0/thumbnail.png",
+      "size": 428349,
+      "sha256": "187fedfdf657206d58764ea3c7779bd86ed6612a88e322fac09fef171f04504b"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
