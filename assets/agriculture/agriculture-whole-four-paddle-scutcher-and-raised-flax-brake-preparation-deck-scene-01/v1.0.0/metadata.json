@@ -1,0 +1,42 @@
+{
+  "id": "agriculture-whole-four-paddle-scutcher-and-raised-flax-brake-preparation-deck-scene-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "agriculture",
+  "style": "warm-handcrafted-village",
+  "title": "Whole Four Paddle Scutcher and Raised Flax Brake Preparation Deck",
+  "description": "One new whole empty flax-fibre equipment preparation deck, zero new models and one scene. The complete accepted four-paddle scutcher remains unchanged on the lower front-left floor, retaining all four full-width wooden paddles, through shaft, crank, bearing frame, two skids and whole U-notched side board. The complete accepted raised-jaw flax brake stands separately on a broad raised rear-right deck, turned by an exact quarter turn so its entire long hand lever points outward to the right. Both skids, four legs, all stationary lower jaws and the entire raised upper frame remain intact. A broad empty foreground, full lower side step and low rear boundary make a staggered two-height preparation layout. Unlike the old carding/spinning workcorner, this contains neither a carder on a worktable nor a treadle spinning wheel: two different whole farm fibre-preparation machine originals retain independent complete supports. All original source geometry, topology and opaque PBR parameters remain at original metre scale; only whole rigid placement is new. Whole sources embedded and hash-pinned; scene normals recalculated, no raw GLB-byte or hierarchy identity claim. No fibre, crop, person, loose tools or processing connection. No scutching, breaking, fibre flow, operating sequence, mechanism travel, machine compatibility, access, ergonomics, platform load, engineering or safety claim. Rigging animation physics interaction not made.",
+  "bounds": {
+    "x": 3.869999886,
+    "y": 2.390000105,
+    "z": 1.67058301,
+    "unit": "m"
+  },
+  "triangles": 1072,
+  "materials": 10,
+  "files": {
+    "glb": {
+      "path": "assets/agriculture/agriculture-whole-four-paddle-scutcher-and-raised-flax-brake-preparation-deck-scene-01/v1.0.0/model.glb",
+      "size": 88432,
+      "sha256": "19b8c2528db3f2d7ec466f7079d62d044b9d9bf33f7d5508c67fdbd0e4178780"
+    },
+    "blend": {
+      "path": "assets/agriculture/agriculture-whole-four-paddle-scutcher-and-raised-flax-brake-preparation-deck-scene-01/v1.0.0/source.blend",
+      "size": 940536,
+      "sha256": "dec6e20b037850abfb414a63ba6923ed77e23c3c6e8bd84c0c1b8ec60e79d710"
+    },
+    "generator": {
+      "path": "assets/agriculture/agriculture-whole-four-paddle-scutcher-and-raised-flax-brake-preparation-deck-scene-01/v1.0.0/generate.py",
+      "size": 60859,
+      "sha256": "e5e89ccd9ed50ff84160df794a100eea336e777bae0dd5e2e10b15c6c424bcd1"
+    },
+    "render": {
+      "path": "assets/agriculture/agriculture-whole-four-paddle-scutcher-and-raised-flax-brake-preparation-deck-scene-01/v1.0.0/thumbnail.png",
+      "size": 518551,
+      "sha256": "c1d72c02ec52c9653c86729aff601b22ca3414fbc9194e0b440fb1e41b87ac9e"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

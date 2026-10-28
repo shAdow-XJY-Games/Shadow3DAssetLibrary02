@@ -1,0 +1,42 @@
+{
+  "id": "waterworks-fixed-inclined-barrier-slab-and-four-pierced-buttresses-01",
+  "version": "1.0.0",
+  "category": "architecture",
+  "assetKind": "modular",
+  "theme": "waterworks",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Inclined Barrier Slab and Four Pierced Buttresses",
+  "description": "One wholly newly authored complete dry slab-and-buttress-inspired architectural display. One uninterrupted thick inclined upstream barrier plate spans four separate full triangular downstream buttress walls; each wall contains one genuine bounded arched through-portal with complete thickness returns. A continuous whole crest cap joins the barrier and all four pier crowns, and a full broad grounded foundation supports every pier and the lower slab edge. The downstream inter-pier bays remain open rather than a filled gravity mass, while the four aligned through-portals form real transverse openings through the support walls. Unlike the folded retaining curtain, there are no metal corrugations, rear walers, tie rods or remote anchor blocks; unlike the rounded overflow module, there is no solid ground-filled curved apron or sunken stilling basin. All full numeric outlines, arch openings, plate and cap geometry authored together, not extracted or reoriented old wall or bridge parts. Four opaque constant untextured PBR roles; native metres Z up, complete horizontal bounds-centred ground origin; one architectural model zero scenes. Broad waterworks category only, no named dam replica or engineering drawing copied. This is a reduced-proportion static illustration with small deliberate visual root overlaps, not a hydraulic or structural design. No water retention, sealing, seepage, discharge, access route safety, reservoir loading, load transfer, reinforcement, seismic resistance, sliding stability, construction, fabrication, installation or civil safety capability made or verified. No actual reservoir, water, people, terrain, rigging, animation or interaction.",
+  "bounds": {
+    "x": 7.0,
+    "y": 4.5,
+    "z": 3.42,
+    "unit": "m"
+  },
+  "triangles": 644,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/waterworks/waterworks-fixed-inclined-barrier-slab-and-four-pierced-buttresses-01/v1.0.0/model.glb",
+      "size": 27644,
+      "sha256": "17316fa51cfa9812e642fd8193ee5f15a30bc87c28868929023732c7ba442c95"
+    },
+    "blend": {
+      "path": "assets/waterworks/waterworks-fixed-inclined-barrier-slab-and-four-pierced-buttresses-01/v1.0.0/source.blend",
+      "size": 607272,
+      "sha256": "f46abdd2969d1706beaee793c66c87196a5530c67e79457347d9950482787c4f"
+    },
+    "generator": {
+      "path": "assets/waterworks/waterworks-fixed-inclined-barrier-slab-and-four-pierced-buttresses-01/v1.0.0/generate.py",
+      "size": 12583,
+      "sha256": "07664e80d9a0203658e841c40e7e3648c00acc8c90853be1428aea0a91a75b9e"
+    },
+    "render": {
+      "path": "assets/waterworks/waterworks-fixed-inclined-barrier-slab-and-four-pierced-buttresses-01/v1.0.0/thumbnail.png",
+      "size": 416130,
+      "sha256": "5dace8c4f2a7cde37433f6bb8745568864e262220fa42d11ebbff1ed7edfbc61"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "sports-whole-water-polo-cap-and-pull-buoy-stepped-equipment-bay-scene-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "sports",
+  "style": "source-preserved-low-poly",
+  "title": "Whole Cap And Pull Buoy Stepped Equipment Bay",
+  "description": "One static two-height sports-equipment display scene, zero new models and one scene. The whole qualified blue open cap, both seven-hole curved ear covers and both complete laid-forward ties stand together on a broad raised left terrace. The entire qualified twin-lobed rounded float-inspired body rests on the lower right floor. All original complete binary payloads, oriented triangles, normals, opaque PBR values and internal hierarchy are preserved at unit scale under translations only; original complete generator bytes are embedded but never executed. One new scene-only connected support combines a low floor, raised left terrace and low rear spine; no loose pedestal or reused three-rim tray. Actual full flat cap hem and both tie soles all fit their elevated surface, while the whole lower float sole fits its separate floor with a clear lateral gap. No original part is removed, recoloured, resized or counted as new. This differs from the earlier coplanar mask-and-snorkel tray by its two genuine support heights and different whole inputs; no claim to invent the layout. Empty static exhibit only, not a swimming workflow or compatible kit. No person, water, buoyancy, protection, body fit, exercise instruction, foam properties, flexible fabric, manufacture, physical stability, loading or safety capability. Rigging, animation and interaction are not made.",
+  "bounds": {
+    "x": 0.5600000023841858,
+    "y": 0.4699999988079071,
+    "z": 0.23999999463558197,
+    "unit": "m"
+  },
+  "triangles": 4596,
+  "materials": 6,
+  "files": {
+    "glb": {
+      "path": "assets/sports/sports-whole-water-polo-cap-and-pull-buoy-stepped-equipment-bay-scene-01/v1.0.0/model.glb",
+      "size": 393716,
+      "sha256": "9a28389d26205c9c596b01902ab046760436e28df2a32446745c06bd39bbe132"
+    },
+    "blend": {
+      "path": "assets/sports/sports-whole-water-polo-cap-and-pull-buoy-stepped-equipment-bay-scene-01/v1.0.0/source.blend",
+      "size": 1139948,
+      "sha256": "8c3487c8e115eea633c92abd2ccbf610e41d854f386d4364c0af07a8f2ec7278"
+    },
+    "generator": {
+      "path": "assets/sports/sports-whole-water-polo-cap-and-pull-buoy-stepped-equipment-bay-scene-01/v1.0.0/generate.py",
+      "size": 144022,
+      "sha256": "63e75a8d827957fff38d060fe55ce354267f8cd2f3b903b13b42791fe35a980a"
+    },
+    "render": {
+      "path": "assets/sports/sports-whole-water-polo-cap-and-pull-buoy-stepped-equipment-bay-scene-01/v1.0.0/thumbnail.png",
+      "size": 482723,
+      "sha256": "3ef085fff072e8fe38035371e42e0724c1d3e4ebc4e98e85abf69b1dad5e55c2"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved",
+  "sourceId": "sports-current-dot-originals-20261027"
+}
