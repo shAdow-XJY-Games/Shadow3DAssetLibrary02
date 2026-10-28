@@ -1,0 +1,42 @@
+{
+  "id": "industrial-fixed-articulated-arms-and-plunger-dial-stand-01",
+  "version": "1.0.0",
+  "category": "modular",
+  "assetKind": "prop",
+  "theme": "industrial",
+  "style": "warm-handcrafted-village",
+  "title": "Fixed Articulated Arms and Plunger Dial Stand",
+  "description": "One newly authored complete static magnetic-style articulated dial-indicator stand. A compact chamfered grounded rectangular base has a proud front switching knob and separate top stem. Two entire oblique rigid arms join a lower swivel housing, one large elbow joint and a compact terminal joint; the elbow carries a separate proud locking knob. A full short vertical terminal mounting stem enters the top of one complete small circular plunger-indicator housing with rear cap, proud bezel, opaque inset dial, nonnumeric raised markers, central pointer and centre cap. A complete lower stem sleeve, long narrow downward plunger and blunt contact tip hang free of the base, with a small upper lifting cap. The open zigzag arms and suspended complete round indicator are the primary architecture, not a rigid height-gauge beam and sliding carriage, enlarged profile comparator, or portable magnetic-base drill. No old visible geometry or dial assembly is extracted or imported. One static model zero scenes, four opaque solid PBR materials, metres and native Z up. No glass, labels, calibrated scale, workpiece or reading. No magnetic force, measurement, precision, travel, articulation, clamping, compatibility, mechanical fit, engineering, manufacture or safety capability is made or verified; not functional measuring equipment. No rigging animation or interaction.",
+  "bounds": {
+    "x": 0.393999994,
+    "y": 0.123999998,
+    "z": 0.375,
+    "unit": "m"
+  },
+  "triangles": 2488,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/industrial/industrial-fixed-articulated-arms-and-plunger-dial-stand-01/v1.0.0/model.glb",
+      "size": 128784,
+      "sha256": "7216f0d26049af5c51b126cf3a7b2d61009e334b19fe981d099802a81944299e"
+    },
+    "blend": {
+      "path": "assets/industrial/industrial-fixed-articulated-arms-and-plunger-dial-stand-01/v1.0.0/source.blend",
+      "size": 767932,
+      "sha256": "07134ee84b587d106e0da39932a4b9e75d9a1461f17fe515530965ceb38807cb"
+    },
+    "generator": {
+      "path": "assets/industrial/industrial-fixed-articulated-arms-and-plunger-dial-stand-01/v1.0.0/generate.py",
+      "size": 33490,
+      "sha256": "626adbc26a6ce1b663ec4f456f41d5827b30eab06e42c2734daf3272fab91fa9"
+    },
+    "render": {
+      "path": "assets/industrial/industrial-fixed-articulated-arms-and-plunger-dial-stand-01/v1.0.0/thumbnail.png",
+      "size": 509200,
+      "sha256": "ffca2ae2385c696ed59b1bbc7e842299312d890dc120e2255713b0610fe4cb70"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
