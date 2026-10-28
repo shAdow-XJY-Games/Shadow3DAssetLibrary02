@@ -1,0 +1,42 @@
+{
+  "id": "agriculture-whole-spiral-separator-and-raised-sample-divider-inspection-court-scene-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "agriculture",
+  "style": "warm-handcrafted-village",
+  "title": "Whole Spiral Separator and Raised Sample Divider Inspection Court",
+  "description": "One new complete empty seed-equipment inspection court, zero new standalone models and one scene. The entire accepted corrected nested two-channel spiral separator occupies the low left-rear station, preserving both full continuous helical troughs, complete top hopper, central mast, corrected under-channel supports, twin low outlets and all six original ground pads. The entire accepted six alternating-chute sample divider with its two full open receiver pans and low original plinth stands separately on one broad right raised platform. A full wide front step belongs to that platform; one common chamfered floor and a short low left-rear boundary leave a visibly open front and central interval. Every original mesh and opaque PBR value is retained at original metre scale under whole translation only. All seven original ground pads/plinths sit on actual opposed full support faces without sinking or extracting any component. Embedded full sources are hash-pinned; original oriented triangles are compared to accepted actual GLBs after inverse translation, while normals and hierarchy are explicitly recomputed/baked rather than claimed byte-identical. This is not the older flat trier/divider/sack intake corner or lower expeller plus tall suspended-riddle side-step deck: the newly completed tall double-helical apparatus and the whole raised low opposed-chute divider form two independent inspection stations with a broad front step. No trier, sack, seed, crop, material path, connecting chute, shared drive or operator is added. No sorting flow, sampling accuracy, processing train, machine compatibility, working access, platform capacity, load, stability, food suitability, engineering or safety capability is made or verified. No rigging animation physics or interaction.",
+  "bounds": {
+    "x": 3.5,
+    "y": 2.799999952,
+    "z": 2.602499962,
+    "unit": "m"
+  },
+  "triangles": 3712,
+  "materials": 11,
+  "files": {
+    "glb": {
+      "path": "assets/agriculture/agriculture-whole-spiral-separator-and-raised-sample-divider-inspection-court-scene-01/v1.0.0/model.glb",
+      "size": 232884,
+      "sha256": "6314fb5ad7936120247797f629bc3dd887c4ccc23a0aff5691298106694c8956"
+    },
+    "blend": {
+      "path": "assets/agriculture/agriculture-whole-spiral-separator-and-raised-sample-divider-inspection-court-scene-01/v1.0.0/source.blend",
+      "size": 1089888,
+      "sha256": "81f43458c115b62b39202d82b38eb5ea1da204196618bb350630ef523d489542"
+    },
+    "generator": {
+      "path": "assets/agriculture/agriculture-whole-spiral-separator-and-raised-sample-divider-inspection-court-scene-01/v1.0.0/generate.py",
+      "size": 62667,
+      "sha256": "b9635ba8b501d0de6578b802b6d631a0e26431ed3ce370d824b1b1b76ad4b0d8"
+    },
+    "render": {
+      "path": "assets/agriculture/agriculture-whole-spiral-separator-and-raised-sample-divider-inspection-court-scene-01/v1.0.0/thumbnail.png",
+      "size": 525664,
+      "sha256": "3ab45d6c1746265942ec35881a973b272902bf2783e5eac4ad1f2d141a33488a"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
