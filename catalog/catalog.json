@@ -2449,6 +2449,11 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary02",
       "commit": "c0fd43d63b6eea787f247d1893b083eb40ed8b5a"
+    },
+    "original-qualified-batch-1855-volume02-20261025": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary02",
+      "commit": "dc466bd0bb90571d32c52e1352d1069278a99015"
     }
   },
   "assets": [
@@ -82130,6 +82135,92 @@
       "status": "verified",
       "license": "All rights reserved",
       "sourceId": "original-qualified-batch-1853-volume02-20261025"
+    },
+    {
+      "id": "industrial-fixed-long-pendulum-and-twin-anvil-impact-tester-01",
+      "version": "1.0.0",
+      "category": "modular",
+      "assetKind": "prop",
+      "theme": "industrial",
+      "style": "warm-handcrafted-village",
+      "title": "Fixed Long Pendulum and Twin Anvil Impact Tester",
+      "description": "One newly authored whole static pendulum-impact-tester-inspired exhibit. A broad chamfered sole supports two separate tall tapered cast standards with full rear buttresses and low tie, two proud bearing housings and a complete retained top crossshaft. A full long rectangular pendulum arm connects a round central hub to a complete chamfered lower hammer body with a short blunt nose, posed forward and above the empty low testing bay. Two full separated anvils sit on a low common seat with a real empty centre slot; no specimen is present. A whole side circular dial back, inset opaque face, complete pointer and nine uncalibrated raised radial markers are distinct from the weighted arm, with a small fixed hand brake lever at the opposite shaft end. A whole low rear stop bumper is rooted in the base. No clock escapement, toothed wheel, pallet, H-press upright, hydraulic ram or planishing C frame imported. Unlike the full forked-anchor clock display it has a single high bearing axis, a large long-arm hammer and independent low twin anvils rather than a tooth wheel and light rear bob; unlike the H press it has no tall pinned workbed or vertical sliding ram; unlike the planishing hammer it has no deep C frame, paired coaxial small dies, air head or control hose. One model zero scenes. Empty fixed illustrative display only, not an operable or safety-enclosed machine: no swing, release, impact, energy scale, test result, material strength, standards compliance, guard effectiveness, mechanical fit, load, manufacture or engineering/safety capability made or verified. Blunt geometry, no sharp specimen notch or test specimen. Rigging animation physics interaction not made.",
+      "bounds": {
+        "x": 1.220000029,
+        "y": 1.460000038,
+        "z": 1.854013562,
+        "unit": "m"
+      },
+      "triangles": 1384,
+      "materials": 4,
+      "files": {
+        "glb": {
+          "path": "assets/industrial/industrial-fixed-long-pendulum-and-twin-anvil-impact-tester-01/v1.0.0/model.glb",
+          "size": 86684,
+          "sha256": "851c982692fd47f35cbec17aa02ca0afeb2cf2a5d0319dec1e99731ce28f3eb6"
+        },
+        "blend": {
+          "path": "assets/industrial/industrial-fixed-long-pendulum-and-twin-anvil-impact-tester-01/v1.0.0/source.blend",
+          "size": 740956,
+          "sha256": "35d5f022535c9c88b31bf6e0ba7ee707eadc7b43090adfd0b5b2b43e87eba6c8"
+        },
+        "generator": {
+          "path": "assets/industrial/industrial-fixed-long-pendulum-and-twin-anvil-impact-tester-01/v1.0.0/generate.py",
+          "size": 34069,
+          "sha256": "0aca798a5c6a37c91702f6143d70997f762e0818e50321f365aa9fdda2c5ee0a"
+        },
+        "render": {
+          "path": "assets/industrial/industrial-fixed-long-pendulum-and-twin-anvil-impact-tester-01/v1.0.0/thumbnail.png",
+          "size": 512747,
+          "sha256": "18e43d7cf8d6339f1c2d8b63556a73dc76b6d8b22b5a24fcb3744c2615d42921"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1855-volume02-20261025"
+    },
+    {
+      "id": "sports-whole-flat-agility-ladder-and-cupped-stick-side-plinth-scene-01",
+      "version": "1.0.0",
+      "category": "scenes",
+      "assetKind": "scene",
+      "theme": "sports",
+      "style": "source-preserved-low-poly",
+      "title": "Whole Flat Agility Ladder And Cupped Stick Side Plinth",
+      "description": "One empty static sports-equipment display scene, zero new models and one scene. The complete qualified eight-rung agility ladder lies along the long left floor region with both full continuous webbing strips, all sixteen rung slots and all four free ends unchanged. The entire qualified cupped twelve-window floorball-style stick stands separately on a higher compact right rear plinth, retaining the full blade, heel neck, round shaft and upper grip. Every original raw GLB payload, oriented triangle, normal, opaque PBR value and internal hierarchy stays unchanged at unit scale under whole translations only; both whole generators are embedded solely as unexecuted provenance. One newly drawn continuous low rectangular slab and integral raised side display block form the environment. Every original finite sole patch lies completely on its own level, with a real lateral gap and open forward/right strips. No source component is extracted, folded, recoloured, resized or counted anew. This long flat-equipment and separate tall side-display arrangement is not a playing court, the former stone-and-brush display or an assertion of a shared training workflow. No ball, player, drill instructions, movement, exercise benefit, stick stability, footwork performance, adjustability, equipment compatibility, user clearance, manufacturing, load or safety capability; no rigging, animation or interaction.",
+      "bounds": {
+        "x": 1.7000000476837158,
+        "y": 3.200000047683716,
+        "z": 1.2337431907653809,
+        "unit": "m"
+      },
+      "triangles": 1988,
+      "materials": 7,
+      "files": {
+        "glb": {
+          "path": "assets/sports/sports-whole-flat-agility-ladder-and-cupped-stick-side-plinth-scene-01/v1.0.0/model.glb",
+          "size": 182476,
+          "sha256": "fcc8716b4b21d6f50b6db9f087e6efcb58e29170cf6f13a6254e52e1a390326b"
+        },
+        "blend": {
+          "path": "assets/sports/sports-whole-flat-agility-ladder-and-cupped-stick-side-plinth-scene-01/v1.0.0/source.blend",
+          "size": 904060,
+          "sha256": "393a136891b3580cd54db458a686518a641b02df4a3a262b1c35045fea07a1bf"
+        },
+        "generator": {
+          "path": "assets/sports/sports-whole-flat-agility-ladder-and-cupped-stick-side-plinth-scene-01/v1.0.0/generate.py",
+          "size": 69388,
+          "sha256": "158de2867f178f3f8c28f076e6562fb07d4e48dd67cff243dc069fb02faea2af"
+        },
+        "render": {
+          "path": "assets/sports/sports-whole-flat-agility-ladder-and-cupped-stick-side-plinth-scene-01/v1.0.0/thumbnail.png",
+          "size": 456932,
+          "sha256": "a26118021df89c97b6de841ab02cdb5304c2cb76a29d9044bab4766e5a7323d7"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1855-volume02-20261025"
     }
   ]
 }
