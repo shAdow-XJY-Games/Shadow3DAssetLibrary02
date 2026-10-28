@@ -1,0 +1,42 @@
+{
+  "id": "agriculture-whole-vertical-auger-and-rod-grid-digger-equipment-court-scene-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "agriculture",
+  "style": "warm-handcrafted-village",
+  "title": "Whole Vertical Auger and Rod Grid Digger Equipment Court",
+  "description": "One new complete empty agricultural equipment preparation court, zero new independent models and one scene. The entire accepted bent-boom vertical-flight post-hole digger occupies the left rear-aligned bay, preserving its continuous high bent boom, full converging lower yoke, complete gearbox and input enclosure, entire helical flight and all three attached parking legs. The entire accepted broad-share inclined-rod-grid potato digger stands separately in the right slightly forward bay, retaining its complete broad share, every longitudinal grate rod and rail, four full hangers, whole high chassis and attachment frame, full eccentric linkage, two gauge wheels and front parking leg. One broad chamfered common floor, two short rear edge strips and a short left rear return define an offset two-machine court, leaving the shared front region and a complete lateral gap empty. Both original complete geometries and all opaque PBR parameters retain their full original metre scale; only whole rigid translations are new. Whole accepted sources are embedded and hash-pinned; normals are recalculated, with no raw GLB byte or hierarchy identity claim. No source mesh, pin, support, wheel, helix, rod, handle or material omitted, cropped, rescaled, recoloured or extracted. Unlike the old mower/subsoiler court and tiller/seeder bay, these are two whole newly completed diggers with different high suspended-auger versus low wide share-grid architectures, placed in an offset empty court rather than on worktables. No tractor, crop, soil pile, workpiece, operator, shared drive or connection is present. A preparation display only: no sequential harvesting workflow, boring, soil separation, coupling fit, wheel movement, mechanism action, practical access, support load, ground stability, manufacture, engineering or safety capability made or verified. Rigging animation physics interaction not made.",
+  "bounds": {
+    "x": 4.550000191,
+    "y": 3.299999952,
+    "z": 2.07249999,
+    "unit": "m"
+  },
+  "triangles": 4800,
+  "materials": 11,
+  "files": {
+    "glb": {
+      "path": "assets/agriculture/agriculture-whole-vertical-auger-and-rod-grid-digger-equipment-court-scene-01/v1.0.0/model.glb",
+      "size": 290864,
+      "sha256": "2498b069718b3d34ad0378098091cfd9513a55c6dd9908f6244c10d8cbf404fd"
+    },
+    "blend": {
+      "path": "assets/agriculture/agriculture-whole-vertical-auger-and-rod-grid-digger-equipment-court-scene-01/v1.0.0/source.blend",
+      "size": 1340580,
+      "sha256": "c22ba51fc3612f7a291f4291d22f21a375499599221fb45dd7d028a1dd5d2a37"
+    },
+    "generator": {
+      "path": "assets/agriculture/agriculture-whole-vertical-auger-and-rod-grid-digger-equipment-court-scene-01/v1.0.0/generate.py",
+      "size": 65260,
+      "sha256": "b00b84d5b65d91e8666358c2ab60807bcf40f9ceed19cfa4dfc9f37eccf46f8f"
+    },
+    "render": {
+      "path": "assets/agriculture/agriculture-whole-vertical-auger-and-rod-grid-digger-equipment-court-scene-01/v1.0.0/thumbnail.png",
+      "size": 539946,
+      "sha256": "a39caf62ba0301504b78fc376cc57a6c2ef0bb6f7cf2d4466eedbf5b89cb22b8"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "kitchen-fixed-open-tapered-tube-and-rounded-bulb-baster-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "kitchen",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Open Tapered Tube and Rounded Bulb Baster",
+  "description": "One newly authored complete static bulb-and-tube kitchen baster exterior. A single long continuous finite-walled tapered tube has a genuinely open small end, a full internal bore and a wide rear mouth. One whole rounded bulb exterior with narrow neck covers the rear tube joint. The entire object has one rigid resting pose with its front tube rim and rounded bulb sharing the ground datum. No pipette grip, finger shoulder, raised thumb plunger, rack, calibration marks or separate valve; not a drain-plunger cup resized or a medical cuff bulb extracted. All numeric geometry new, two opaque PBR roles; the tube is deliberately opaque, not simulated glass. One original model zero scenes. The bulb is a closed static exterior volume, not a model of a working flexible reservoir. No liquid, suction, compression, flow, volume measurement, food contact, heat tolerance, cleaning, hygiene, manufacture or safety performance; rigging animation interaction not made.",
+  "bounds": {
+    "x": 0.05400000140070915,
+    "y": 0.26949530839920044,
+    "z": 0.053819440305233,
+    "unit": "m"
+  },
+  "triangles": 1820,
+  "materials": 2,
+  "files": {
+    "glb": {
+      "path": "assets/kitchen/kitchen-fixed-open-tapered-tube-and-rounded-bulb-baster-01/v1.0.0/model.glb",
+      "size": 155140,
+      "sha256": "83d926b9b9f4b7643b8e5783b4126a78b733be3eb79922013b508139ef14e9b3"
+    },
+    "blend": {
+      "path": "assets/kitchen/kitchen-fixed-open-tapered-tube-and-rounded-bulb-baster-01/v1.0.0/source.blend",
+      "size": 722784,
+      "sha256": "7ebd4ba1aa7b8a55e000db36aae3cdc57ec752e646df1bc30e06edcebf264abe"
+    },
+    "generator": {
+      "path": "assets/kitchen/kitchen-fixed-open-tapered-tube-and-rounded-bulb-baster-01/v1.0.0/generate.py",
+      "size": 15723,
+      "sha256": "4104211aab29510075acad1dd978e2ecab6a04c0e231341bb5c7978690427a27"
+    },
+    "render": {
+      "path": "assets/kitchen/kitchen-fixed-open-tapered-tube-and-rounded-bulb-baster-01/v1.0.0/thumbnail.png",
+      "size": 488760,
+      "sha256": "ad846dfd3278d817c5e744c42cfa4d12ca6bfab460eeb076fb0b34fd2f669e1e"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
