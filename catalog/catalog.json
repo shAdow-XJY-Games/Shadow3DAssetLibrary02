@@ -2429,6 +2429,11 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary02",
       "commit": "7f7f628e5416ed09add8b5730c867e1c33057ed9"
+    },
+    "original-qualified-batch-1839-volume02-20261025": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary02",
+      "commit": "a4e464fd1d91964f6321ef716474dbca2cf07987"
     }
   },
   "assets": [
@@ -80304,6 +80309,1210 @@
       "status": "verified",
       "license": "All rights reserved",
       "sourceId": "original-qualified-batch-1811-volume02-20261025"
+    },
+    {
+      "id": "waterworks-fixed-curved-slat-drum-and-wide-rectangular-inlet-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "waterworks",
+      "style": "S01-clean-geometric",
+      "title": "Fixed Curved Slat Drum and Wide Rectangular Inlet",
+      "description": "One wholly newly authored complete dry cross-flow-inspired runner-and-inlet display. Sixteen whole broad axial slats have finite curved radial cross sections and join two intact solid drum end plates around one full horizontal shaft. The inner drum volume is genuinely empty around that slender shaft, not filled with radial pocket vanes or a central barrel. Two whole raised bearing-pedestal exteriors support the shaft on a common grounded bed. One full wide tapering rectangular inlet retains both true mouths, all four thick walls and the continuous internal passage; two independent full-height side standards support it above the upper drum quadrant with a visible static clearance. No casing is implied: the entire exposed runner-and-inlet illustration is intentionally a complete inspection display, not a cropped operational machine. Unlike the split-bucket impulse wheel, there is no radial row of double cups on one thin runner disk or round jet nozzle. Unlike the square-throat airlock cutaway, there are no broad hub-to-tip radial partition paddles, opposing chamber throats, gearbox or motor. All complete numeric slats, end plates, shaft, inlet and supports authored together; no old rotor, fan or nozzle mesh imported or extracted. Four opaque constant untextured PBR roles, native metres Z up and full horizontal bounds-centred grounded origin; one complete model zero scenes. Broad hydropower category only, independent artistic proportions and vane curves, no named machine or engineering drawing copied. Small deliberate visual overlaps establish fixed roots, not operating bearing fits. No water, shaft rotation, continuous swept clearance, nozzle flow, actual two-pass route, pressure, hydraulic efficiency, generation, power transmission, loading, manufacture, installation or equipment safety capability made or verified. No animation, rigging or interaction.",
+      "bounds": {
+        "x": 3.3,
+        "y": 3.05,
+        "z": 2.7148338669583025,
+        "unit": "m"
+      },
+      "triangles": 1468,
+      "materials": 4,
+      "files": {
+        "glb": {
+          "path": "assets/waterworks/waterworks-fixed-curved-slat-drum-and-wide-rectangular-inlet-01/v1.0.0/model.glb",
+          "size": 83304,
+          "sha256": "c192c68b10a639e3e6cab9b73829e5c182eab8ab6f6bc5883d37f1c85cde9865"
+        },
+        "blend": {
+          "path": "assets/waterworks/waterworks-fixed-curved-slat-drum-and-wide-rectangular-inlet-01/v1.0.0/source.blend",
+          "size": 735300,
+          "sha256": "77e3061e86ab70a45379fe3b096eba49179fe98dc6a1efb66a01f8e4ea2807db"
+        },
+        "generator": {
+          "path": "assets/waterworks/waterworks-fixed-curved-slat-drum-and-wide-rectangular-inlet-01/v1.0.0/generate.py",
+          "size": 12881,
+          "sha256": "7f7e041d0f26baa58be520c6978b1d2424d256916b06bd35e59f03f7fdfcb49d"
+        },
+        "render": {
+          "path": "assets/waterworks/waterworks-fixed-curved-slat-drum-and-wide-rectangular-inlet-01/v1.0.0/thumbnail.png",
+          "size": 469582,
+          "sha256": "920903d81c342d6cf79336a3fba4909256b4ee194d27bf953fef4c6d762173aa"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1839-volume02-20261025"
+    },
+    {
+      "id": "architecture-fixed-three-tier-arched-cells-and-open-portal-cornice-01",
+      "version": "1.0.0",
+      "category": "architecture",
+      "assetKind": "modular",
+      "theme": "architecture",
+      "style": "S01-clean-geometric",
+      "title": "Fixed Three Tier Arched Cells and Open Portal Cornice",
+      "description": "One wholly newly authored complete static cellular-cornice-inspired portal module. Two full grounded side piers and one whole spanning lintel leave a broad real open central portal. A complete upper rear carrier joins thirteen entire thick niche-hood solids in three staggered tiers that project progressively farther forward. Each independently authored hood has a genuine curved front arch and continuously rising concave soffit, complete side and back thickness faces, and a full unbroken top; there is no lower niche floor or dark painted recess. The central, side and upper fields are offset instead of stacking a uniform grid. A whole broad crown caps the full array. All complete hood and support geometry newly authored together, no tile, squinch, vault or wall mesh imported, extracted or stretched. Unlike four diagonal squinches carrying an open octagonal drum, this is one frontal tiered cornice with deep projecting cells and a whole rectangular portal. Unlike shallow blind coffers cut into a single continuous semicylindrical roof, the major relationship is three successively overhanging staggered rows of complete curved hood solids rooted in a full rear carrier. Generic muqarnas-like cellular ornament category only; not a reconstruction of any historical object, named building, religious fixture, traditional geometric grammar or museum tile. Four opaque constant untextured PBR surface roles, metre-style native Z up and full horizontal bounds-centred grounded plinth. One architectural module zero scenes; repeated hood components are not separate assets. Small static seat overlaps and separated tier margins are visual simplifications, not assembly or engineering details. No historical authenticity, masonry stability, thrust, bearing, ornament attachment, weathering, fabrication, host fit, usable doorway, navigation, accessible route, building-code, structural load or construction safety capability made or verified. No rigging animation or interaction.",
+      "bounds": {
+        "x": 6.6,
+        "y": 2.4,
+        "z": 4.23,
+        "unit": "m"
+      },
+      "triangles": 4752,
+      "materials": 4,
+      "files": {
+        "glb": {
+          "path": "assets/architecture/architecture-fixed-three-tier-arched-cells-and-open-portal-cornice-01/v1.0.0/model.glb",
+          "size": 213968,
+          "sha256": "26a2db1ddd15065cf3a2ae3ecb92c1e19e8c8ade59a4ce89576581d645d8a0b5"
+        },
+        "blend": {
+          "path": "assets/architecture/architecture-fixed-three-tier-arched-cells-and-open-portal-cornice-01/v1.0.0/source.blend",
+          "size": 884848,
+          "sha256": "f8690b069ce4e499484b1279e92b6c652a3f1ee19c4baea46e72c220ef807b0f"
+        },
+        "generator": {
+          "path": "assets/architecture/architecture-fixed-three-tier-arched-cells-and-open-portal-cornice-01/v1.0.0/generate.py",
+          "size": 12878,
+          "sha256": "71eaab8164aa2a926a932e813383738501a869fb637a1ca9dfec8ad3b8db90c4"
+        },
+        "render": {
+          "path": "assets/architecture/architecture-fixed-three-tier-arched-cells-and-open-portal-cornice-01/v1.0.0/thumbnail.png",
+          "size": 477835,
+          "sha256": "d8ebb2cb835c42c420bc18ada81c0a05fd4fced68104f37d82055989470f45e1"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1839-volume02-20261025"
+    },
+    {
+      "id": "waterworks-fixed-converging-throat-flume-and-twin-open-side-wells-01",
+      "version": "1.0.0",
+      "category": "architecture",
+      "assetKind": "modular",
+      "theme": "waterworks",
+      "style": "S01-clean-geometric",
+      "title": "Fixed Converging Throat Flume and Twin Open Side Wells",
+      "description": "One wholly newly authored complete dry constricted-flume-inspired waterworks module. A single continuous closed material shell joins a broad level-floor converging inlet, a short parallel-sided throat with a descending floor, and a diverging outlet whose full floor rises again to a lower level than the inlet. Both complete axial mouths and the entire open top remain present, with continuous tall side walls and a finite grounded sole. Two genuine rectangular through-ports occupy the same full side wall at separated longitudinal stations. Each port meets one whole short hollow four-wall rectangular connection and one complete tall open-topped side well with a full floor, all four walls and a real inward-facing wall port. The separate wells are empty complete chambers, not solid boxes or dark top decals. All five whole material meshes authored together with shared indexed boundary grids, no old chute, dam, basin, well or pipe imported or extracted. Unlike the equal-width monotonically sloping U-baffle chute, the main route changes width and reverses its floor slope, with no baffles, piers or overlaid ground slab. Unlike a high rounded overflow body descending into a low basin with end sill, this retains two open axial mouths, a narrow finite throat and genuine lateral communicating chambers. Four opaque constant untextured PBR surface roles, metre-style native Z up and full horizontal bounds-centred three ground soles. One whole architectural model zero scenes. Broad measurement-flume and side-well category only; artistic proportions deliberately do not use standard Parshall dimensions, calibration tables or any named installation. Small fixed duct/wall overlaps and slightly wider duct bores create static rooted visual interfaces, not a fitted fabricated system. No water, float, gauge scale, actual flow, discharge measurement, calibration, water-level equivalence, flow regime, sediment handling, sealing, hydraulic design, loading, manufacture, access, installation or civil safety capability made or verified. No rigging animation or interaction.",
+      "bounds": {
+        "x": 4.38,
+        "y": 6.5,
+        "z": 1.6,
+        "unit": "m"
+      },
+      "triangles": 868,
+      "materials": 4,
+      "files": {
+        "glb": {
+          "path": "assets/waterworks/waterworks-fixed-converging-throat-flume-and-twin-open-side-wells-01/v1.0.0/model.glb",
+          "size": 29424,
+          "sha256": "604c88da1b522acd29c4b1a2c0a758d70d07d055eb51683d898b077f4b73d929"
+        },
+        "blend": {
+          "path": "assets/waterworks/waterworks-fixed-converging-throat-flume-and-twin-open-side-wells-01/v1.0.0/source.blend",
+          "size": 610044,
+          "sha256": "9c53de73bb7d154337483459a1c223083da075e3d6b9abc4ec027a5279926e02"
+        },
+        "generator": {
+          "path": "assets/waterworks/waterworks-fixed-converging-throat-flume-and-twin-open-side-wells-01/v1.0.0/generate.py",
+          "size": 13590,
+          "sha256": "c85cc0b77c81d14f45d0352ea21ca5f39b07ca98469e527972b9be135f01fd51"
+        },
+        "render": {
+          "path": "assets/waterworks/waterworks-fixed-converging-throat-flume-and-twin-open-side-wells-01/v1.0.0/thumbnail.png",
+          "size": 398661,
+          "sha256": "3794c0450ca74f4f00603e8c7a58f666b742bbaec1a41a802f0a7d6b26b7ed19"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1839-volume02-20261025"
+    },
+    {
+      "id": "harbor-fixed-cupped-crown-and-long-eyed-shank-anchor-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "harbor",
+      "style": "S01-clean-geometric",
+      "title": "Fixed Cupped Crown and Long Eyed Shank Anchor",
+      "description": "One wholly newly authored complete static cupped-crown and long-eyed-shank anchor prop. A single continuous closed material body has a finite flat central sole, a rounded outward-rising circular crown, a full thick rim, a real upper concave cup and a long central tapered shank grown directly from the cup centre. The head is neither a shallow plate with a separate block on top nor a hollow open-bottom bell. A second complete elongated upright iron eye has a genuine transverse through-opening and a finite lower root inserted into the integral shank tip. There is no stock, paired arm, separate pointed palm, cross pin, decorative chain or ground pedestal. Unlike the stocked twin-fluke anchor, a full circular cupped crown replaces both arms and flukes. Unlike the architectural concave-dish support, the long shank is integral to the full deep crown, with no separate convex shoe or square upper and lower mounting plates. Two editable complete closed meshes and four opaque constant untextured PBR surface roles, metre-style native Z up with full horizontal bounds-centred sole. One whole model zero scenes. Broad mushroom-anchor category only, original artistic radial profile, eye proportions and surfaces, not a replica of a particular museum object or any historical standard. Fixed rooted visual presentation only, no deployed seabed, water, chain, vessel, rigid-body setup, animation or interaction. No holding power, mooring performance, seabed suitability, pull direction, stability, strength, engineered connection, fatigue, manufacture, installation, salvage, anchoring operation or maritime safety capability made or verified.",
+      "bounds": {
+        "x": 3.08,
+        "y": 3.08,
+        "z": 4.220000000000001,
+        "unit": "m"
+      },
+      "triangles": 3072,
+      "materials": 4,
+      "files": {
+        "glb": {
+          "path": "assets/harbor/harbor-fixed-cupped-crown-and-long-eyed-shank-anchor-01/v1.0.0/model.glb",
+          "size": 163092,
+          "sha256": "2381003e04edba90f3eccdf5814c6e25374f925807589c9a1944b18bf120f423"
+        },
+        "blend": {
+          "path": "assets/harbor/harbor-fixed-cupped-crown-and-long-eyed-shank-anchor-01/v1.0.0/source.blend",
+          "size": 715288,
+          "sha256": "a1546335a1caf4eddebb0d6285e7deef8059bd11015634574044784faa2cae0a"
+        },
+        "generator": {
+          "path": "assets/harbor/harbor-fixed-cupped-crown-and-long-eyed-shank-anchor-01/v1.0.0/generate.py",
+          "size": 11988,
+          "sha256": "03cbaff010ed8ae7b459c5197338be8a260c3590df26b142f0d8f23e7020f164"
+        },
+        "render": {
+          "path": "assets/harbor/harbor-fixed-cupped-crown-and-long-eyed-shank-anchor-01/v1.0.0/thumbnail.png",
+          "size": 383387,
+          "sha256": "a251f07c52de867ae8401b3b470735ed1537e09d492c494b6ee0328ddfc6f9a7"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1839-volume02-20261025"
+    },
+    {
+      "id": "architecture-fixed-nine-crossed-courses-and-open-timber-crib-01",
+      "version": "1.0.0",
+      "category": "architecture",
+      "assetKind": "modular",
+      "theme": "architecture",
+      "style": "S01-clean-geometric",
+      "title": "Fixed Nine Crossed Courses and Open Timber Crib",
+      "description": "One wholly newly authored complete static open timber crib-frame module. Nine alternately perpendicular horizontal courses consist of five pairs of full long front and rear timbers and four rows of three full transverse timbers. Each nonterminal timber has a continuous full-length lower web and actual shallow top rectangular bearing notches; all upper-course crossing timbers seat in these bounded notches on finite opposed horizontal faces, without a hidden shared ground slab or overlapping box substitutes. The two full lowest longitudinal soles ground the complete frame. Both large vertical grid cells stay completely empty and open from top to bottom. Full horizontal spacing between like-direction courses gives visible continuous air slots, while the terminal top pair has complete uncropped unnotched tops. Twenty-two independently editable whole closed wood meshes, forty-eight selected finite opposed bearing patches and four opaque untextured constant PBR wood surface roles. Native Z up, metre-style artistic coordinates and horizontal full-bounds-centred ground datum; one whole architectural model zero scenes. Unlike the small three-axis quarter-web wooden lock, all members lie horizontally in nine spaced courses with two large open cells, no vertical core or central three-quarter puzzle cuts. Unlike the continuous folded retaining curtain and rear tiebacks, there is no sheet wall, anchoring cable, rear block or common slab. All numeric bar geometry newly authored, not clipped, repeated from, resized, combined or recoloured old component geometry. Broad timber-crib category only, not an installed or functioning retaining structure: no soil, rock fill, nails, reinforcements, slope, plantings or host ground included. Exact visual seats are not verified mechanical joints or build instructions. No retaining ability, soil pressure, drainage, erosion control, assembly path, locking action, load, strength, stability, settlement, foundation, fabrication, timber treatment, durability, installation or civil safety capability. No rigging, animation or interaction.",
+      "bounds": {
+        "x": 5.4,
+        "y": 2.5,
+        "z": 1.96,
+        "unit": "m"
+      },
+      "triangles": 1736,
+      "materials": 4,
+      "files": {
+        "glb": {
+          "path": "assets/architecture/architecture-fixed-nine-crossed-courses-and-open-timber-crib-01/v1.0.0/model.glb",
+          "size": 92784,
+          "sha256": "03b27e3f39411fdaddf957965c97df9e09049f5b6cd7e24e46dfacb72e327629"
+        },
+        "blend": {
+          "path": "assets/architecture/architecture-fixed-nine-crossed-courses-and-open-timber-crib-01/v1.0.0/source.blend",
+          "size": 735892,
+          "sha256": "9208c3d992892d86e86da75534cc3817a26c0e3131758b90c743cdd4d0570141"
+        },
+        "generator": {
+          "path": "assets/architecture/architecture-fixed-nine-crossed-courses-and-open-timber-crib-01/v1.0.0/generate.py",
+          "size": 12424,
+          "sha256": "320bf9118fc473097e262839c44e9125e994cea1390e7b60806231d967a102d1"
+        },
+        "render": {
+          "path": "assets/architecture/architecture-fixed-nine-crossed-courses-and-open-timber-crib-01/v1.0.0/thumbnail.png",
+          "size": 487878,
+          "sha256": "c3ec67bf3992e9d17f0f2c585364318642858c1419867815de50377b38576f69"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1839-volume02-20261025"
+    },
+    {
+      "id": "office-whole-rotary-card-file-and-tally-counter-stepped-display-scene-01",
+      "version": "1.0.0",
+      "category": "scenes",
+      "assetKind": "scene",
+      "theme": "office",
+      "style": "source-preserved-low-poly",
+      "title": "Whole Rotary Card File and Tally Counter Stepped Display",
+      "description": "One complete static two-level office reception display, one new scene zero new independent models. One entire qualified open rotary index-card file rests on the raised rear-left quadrant of a continuous stepped plinth. One whole qualified four-blank-window tally counter stands separately on the low front-right surface, its readout facing the open front. Both complete source props retain all original geometry, normals, PBR material dictionaries, face assignments and internal hierarchies under unit-scale whole translations only. No crop, card or counter-part extraction, recolour, scale or repeat model count. Unlike the flat kitchen tool bay or a powered print-finishing bench, this is an open diagonal high/low arrangement of a ring-card file and a hand counter with no backsplash or enclosing wall. Only the continuous two-level plinth is new scene environment. Static blank administrative display only: no personal information, visitor records, verified reception workflow, counting or card retrieval, movement, load, stability, ergonomic fit, manufacture or safety capability. Rigging animation and interaction not made.",
+      "bounds": {
+        "x": 0.6800000071525574,
+        "y": 0.46000000834465027,
+        "z": 0.3418257534503937,
+        "unit": "m"
+      },
+      "triangles": 4796,
+      "materials": 8,
+      "files": {
+        "glb": {
+          "path": "assets/office/office-whole-rotary-card-file-and-tally-counter-stepped-display-scene-01/v1.0.0/model.glb",
+          "size": 432588,
+          "sha256": "58073649966a1778e7614d15da4ec4c0a484a1299bbe67310f1f8e8db2567eb1"
+        },
+        "blend": {
+          "path": "assets/office/office-whole-rotary-card-file-and-tally-counter-stepped-display-scene-01/v1.0.0/source.blend",
+          "size": 1365328,
+          "sha256": "da036807b5d19b071f574a44b296837cefb0828499b62d2c977d4cde96bec58b"
+        },
+        "generator": {
+          "path": "assets/office/office-whole-rotary-card-file-and-tally-counter-stepped-display-scene-01/v1.0.0/generate.py",
+          "size": 106142,
+          "sha256": "75b5e04504fa3b5e04a75b8427591f92a8cbd6671ce498f97bb7b1c787cd18aa"
+        },
+        "render": {
+          "path": "assets/office/office-whole-rotary-card-file-and-tally-counter-stepped-display-scene-01/v1.0.0/thumbnail.png",
+          "size": 497664,
+          "sha256": "2daba04727492d04d6024ff3061aa951e42e100387af60e42e1ec5a5c047b1b1"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1839-volume02-20261025"
+    },
+    {
+      "id": "janitorial-fixed-straight-channel-blade-and-open-eye-hand-squeegee-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "janitorial",
+      "style": "S01-clean-geometric",
+      "title": "Fixed Straight Channel Blade and Open Eye Hand Squeegee",
+      "description": "One newly authored complete static handheld squeegee exterior. A whole transverse folded straight channel holds one full-width finite blunt elastomer-like lip; the channel has a genuine open front slot around the blade root. One whole bent central neck connects the back of the head to a complete elongated grip with a real small through hanging eye near its rounded end. Two complete round retained head rivets mark the central attachment. All geometry newly authored, not a rear floor-machine blade extracted, miniaturised or attached to a shoehorn. Three opaque constant PBR roles, metres Z up and bounds-centred ground datum. One original model zero scenes. Static artistic exterior only; no wiping, liquid removal, chemical compatibility, flexibility, attachment strength, hand fit, manufacture or safety capability. No rigging animation or interaction.",
+      "bounds": {
+        "x": 0.28999999165534973,
+        "y": 0.2150000035762787,
+        "z": 0.05000000074505806,
+        "unit": "m"
+      },
+      "triangles": 704,
+      "materials": 3,
+      "files": {
+        "glb": {
+          "path": "assets/janitorial/janitorial-fixed-straight-channel-blade-and-open-eye-hand-squeegee-01/v1.0.0/model.glb",
+          "size": 64068,
+          "sha256": "1c1fd70039443d98e7714b4b81a23bc96406843314c84f631160741d2529405d"
+        },
+        "blend": {
+          "path": "assets/janitorial/janitorial-fixed-straight-channel-blade-and-open-eye-hand-squeegee-01/v1.0.0/source.blend",
+          "size": 639776,
+          "sha256": "2441f6479eb6b3668181187dc78df18e6f6d957aad1dcacf92f945c8c8cff1f4"
+        },
+        "generator": {
+          "path": "assets/janitorial/janitorial-fixed-straight-channel-blade-and-open-eye-hand-squeegee-01/v1.0.0/generate.py",
+          "size": 16084,
+          "sha256": "fadc4336a8cca6c9a6d7f499036d32d37e4907aa2e95bc0786abe54f9427ec3a"
+        },
+        "render": {
+          "path": "assets/janitorial/janitorial-fixed-straight-channel-blade-and-open-eye-hand-squeegee-01/v1.0.0/thumbnail.png",
+          "size": 445111,
+          "sha256": "3595a6669b1c6ce39f76a5cb08460abd1194b122f671ff9af149a75e1115231b"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1839-volume02-20261025"
+    },
+    {
+      "id": "janitorial-fixed-arched-grip-and-rectangular-bristle-scrub-brush-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "janitorial",
+      "style": "S01-clean-geometric",
+      "title": "Fixed Arched Grip and Rectangular Bristle Scrub Brush",
+      "description": "One newly authored complete static hand scrub-brush exterior. A full thick chamfer-corner rectangular brush back carries short finite closed bristle-like tufts below its underside. One whole raised arch grip has two complete returned legs seated into the top of the back, with a genuine large hand-clearance opening between the arch and body. The tool rests on the finite tuft ends, not on a display stand. Entire block, short downward tufts and overhead arch are newly authored numerical geometry, not a long bee-brush handle removed, salon pins shortened or a machine roller extracted. Three opaque constant PBR roles, metres Z up and whole bounds-centred ground datum. One original model zero scenes. Static artistic exterior only; tufts are closed stylised bundles, not individual hairs or flexible fibres. No brushing, cleaning, stiffness, softness, sanitation, chemical compatibility, hand fit, animal use, manufacture or safety capability. Rigging animation and interaction are not made.",
+      "bounds": {
+        "x": 0.1899999976158142,
+        "y": 0.07500000298023224,
+        "z": 0.0949999988079071,
+        "unit": "m"
+      },
+      "triangles": 1752,
+      "materials": 3,
+      "files": {
+        "glb": {
+          "path": "assets/janitorial/janitorial-fixed-arched-grip-and-rectangular-bristle-scrub-brush-01/v1.0.0/model.glb",
+          "size": 169468,
+          "sha256": "bd24019af0778fa31585f1801f32a4222c17301e2bead2d25d51f955bbe60350"
+        },
+        "blend": {
+          "path": "assets/janitorial/janitorial-fixed-arched-grip-and-rectangular-bristle-scrub-brush-01/v1.0.0/source.blend",
+          "size": 870048,
+          "sha256": "fa0c6475f8b34386fab4dd9d55227bd59bf6c64a9c3c2a5ecdc7331537a3cac4"
+        },
+        "generator": {
+          "path": "assets/janitorial/janitorial-fixed-arched-grip-and-rectangular-bristle-scrub-brush-01/v1.0.0/generate.py",
+          "size": 15569,
+          "sha256": "d8bba4ee1c56b758ba5bec3c4f269e40a06cba67f7b44618e58a2cdd7a7e8189"
+        },
+        "render": {
+          "path": "assets/janitorial/janitorial-fixed-arched-grip-and-rectangular-bristle-scrub-brush-01/v1.0.0/thumbnail.png",
+          "size": 496730,
+          "sha256": "c1a3fec9b2f414b3ab389b91f54a81315d31346b2c73177a4ebe7154e0d1be80"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1839-volume02-20261025"
+    },
+    {
+      "id": "janitorial-fixed-open-bell-cup-and-long-straight-handle-plunger-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "janitorial",
+      "style": "S01-clean-geometric",
+      "title": "Fixed Open Bell Cup and Long Straight Handle Plunger",
+      "description": "One newly authored complete static bell-cup drain-plunger exterior. One continuous thick bell-shaped cup has a genuine broad open mouth, a finite rolled lower rim, a deep inner cavity and a narrow upper handle seat. A complete long straight turned-profile handle runs from within the cup neck to one full rounded cap grip. The three whole new parts are presented in one rigid resting pose, with the open mouth facing the front and both cup rim and far grip touching the ground datum. All cup profile, long handle and cap geometry newly authored, not a counter-service bell with its base deleted or a thimble enlarged and given a shaft. Three opaque constant PBR roles, metres Z up and whole bounds-centred origin. One original model zero scenes. Static artistic geometry only: no flexible rubber, suction, airtight seal, drainage, pressure, cleaning, chemical compatibility, grip fit, hygienic suitability, manufacture or safety capability. No rigging animation or interaction.",
+      "bounds": {
+        "x": 0.14399999380111694,
+        "y": 0.5245664119720459,
+        "z": 0.1429976522922516,
+        "unit": "m"
+      },
+      "triangles": 1768,
+      "materials": 3,
+      "files": {
+        "glb": {
+          "path": "assets/janitorial/janitorial-fixed-open-bell-cup-and-long-straight-handle-plunger-01/v1.0.0/model.glb",
+          "size": 151692,
+          "sha256": "8de3017edfae9baa842627f0966bc52fb7dfab62b6964b40248a4bd0eca615dd"
+        },
+        "blend": {
+          "path": "assets/janitorial/janitorial-fixed-open-bell-cup-and-long-straight-handle-plunger-01/v1.0.0/source.blend",
+          "size": 744832,
+          "sha256": "ea33ad2e4b0c9b4d44a244a9a7fc14e1bb81e4a4373a12d0d48a108b2016a1e5"
+        },
+        "generator": {
+          "path": "assets/janitorial/janitorial-fixed-open-bell-cup-and-long-straight-handle-plunger-01/v1.0.0/generate.py",
+          "size": 15938,
+          "sha256": "74a08aa48436cb56f9ae5869b716d871f424b40d06aa0280cbd930bbce8083d3"
+        },
+        "render": {
+          "path": "assets/janitorial/janitorial-fixed-open-bell-cup-and-long-straight-handle-plunger-01/v1.0.0/thumbnail.png",
+          "size": 469891,
+          "sha256": "0b17558799f80a49831b08083e3c62dd54b98a946c55b521beb87a4e55a57c87"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1839-volume02-20261025"
+    },
+    {
+      "id": "janitorial-whole-trigger-bottle-squeegee-and-scrub-brush-carry-tray-scene-01",
+      "version": "1.0.0",
+      "category": "scenes",
+      "assetKind": "scene",
+      "theme": "janitorial",
+      "style": "source-preserved-low-poly",
+      "title": "Whole Trigger Bottle Squeegee and Scrub Brush Carry Tray",
+      "description": "One complete static janitorial hand-tool carry-tray arrangement, one new scene zero new independent models. The whole qualified waisted trigger bottle stands rear-left, the whole qualified overhead-arch scrub brush rests rear-right, and the whole qualified revised straight-channel hand squeegee lies separately across the front. All three entire source props retain every original geometry payload, normal, PBR dictionary, face assignment and internal hierarchy under unit-scale whole translations only. No crop, extraction, recolour, scaling or repeated model count. A new continuous low-floor tray with three high rims, a lower front rim and an integral full-span raised carrying arch provides scene-only context; no divided deep utensil wells or new standalone caddy asset. Whole props are separated, fully inside the tray and below or clear of the arch. No contents, liquid, use, cleaning, sanitation, chemical compatibility, carrying load, grip fit, movement, stability, manufacture or safety capability. Rigging animation and interaction not made.",
+      "bounds": {
+        "x": 0.5400000214576721,
+        "y": 0.46000000834465027,
+        "z": 0.414000004529953,
+        "unit": "m"
+      },
+      "triangles": 4160,
+      "materials": 11,
+      "files": {
+        "glb": {
+          "path": "assets/janitorial/janitorial-whole-trigger-bottle-squeegee-and-scrub-brush-carry-tray-scene-01/v1.0.0/model.glb",
+          "size": 384672,
+          "sha256": "9d3e35be5219fb22aacfb1f714e7d1b788844dae9f6a7ca444fe2f0dc5422ffb"
+        },
+        "blend": {
+          "path": "assets/janitorial/janitorial-whole-trigger-bottle-squeegee-and-scrub-brush-carry-tray-scene-01/v1.0.0/source.blend",
+          "size": 1399152,
+          "sha256": "af7b254656e6741d8de7d782dc4a902116782750c37e41de23b8057ad686102f"
+        },
+        "generator": {
+          "path": "assets/janitorial/janitorial-whole-trigger-bottle-squeegee-and-scrub-brush-carry-tray-scene-01/v1.0.0/generate.py",
+          "size": 98169,
+          "sha256": "b2eed1a18541d65344574f87d523fc05ccea5df6ea0f84c59b373aa88bec6e8a"
+        },
+        "render": {
+          "path": "assets/janitorial/janitorial-whole-trigger-bottle-squeegee-and-scrub-brush-carry-tray-scene-01/v1.0.0/thumbnail.png",
+          "size": 528441,
+          "sha256": "143ea33898f2d0f4411a6d21c56d178dcd23248a8cd89d8bce551e91e8be096b"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1839-volume02-20261025"
+    },
+    {
+      "id": "bathroom-fixed-slotted-deck-and-stepped-catch-basin-soap-dish-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "bathroom",
+      "style": "S01-clean-geometric",
+      "title": "Fixed Slotted Deck and Stepped Catch Basin Soap Dish",
+      "description": "One newly authored complete empty static soap-dish exterior. A whole low rectangular catch basin has a finite full bottom, four thick perimeter walls and an integral lower inset ledge around a real shallow cavity. A separate complete rectangular deck with six genuine long through-slots rests on the whole ledge, with a narrow real perimeter clearance below the basin rim. Four complete short underside feet support the basin. All numerical geometry new, not a counting tray with its channel removed, a pet basin detached from its bottle base or a street drain cover shrunk. Three opaque constant PBR roles, metres Z up and whole bounds-centred ground datum. One original model zero scenes. Empty fixed artistic geometry only: no soap, liquid, drain flow, drying, drainage capacity, hygiene, chemical compatibility, easy removal, load, manufacture or safety capability. No rigging animation or interaction.",
+      "bounds": {
+        "x": 0.15000000596046448,
+        "y": 0.10000000149011612,
+        "z": 0.03200000151991844,
+        "unit": "m"
+      },
+      "triangles": 544,
+      "materials": 3,
+      "files": {
+        "glb": {
+          "path": "assets/bathroom/bathroom-fixed-slotted-deck-and-stepped-catch-basin-soap-dish-01/v1.0.0/model.glb",
+          "size": 50348,
+          "sha256": "67dab075f8f07642b8d21ae418c522341b5adaea609cddb2756e6d8475bb1b04"
+        },
+        "blend": {
+          "path": "assets/bathroom/bathroom-fixed-slotted-deck-and-stepped-catch-basin-soap-dish-01/v1.0.0/source.blend",
+          "size": 621856,
+          "sha256": "6a875f9a39a5cbcf3c000c929b92c5f86c753c275c865742d85018ea05966e17"
+        },
+        "generator": {
+          "path": "assets/bathroom/bathroom-fixed-slotted-deck-and-stepped-catch-basin-soap-dish-01/v1.0.0/generate.py",
+          "size": 15681,
+          "sha256": "4dd13243c27e094061cfa81ad3a5d1d1c0877e983a981bd2c082e33c443385fc"
+        },
+        "render": {
+          "path": "assets/bathroom/bathroom-fixed-slotted-deck-and-stepped-catch-basin-soap-dish-01/v1.0.0/thumbnail.png",
+          "size": 511715,
+          "sha256": "746ffac81626a097fbb402e7dcbd776ad9513323d24ad70ad2252dd764c46cf4"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1839-volume02-20261025"
+    },
+    {
+      "id": "bathroom-fixed-waisted-body-and-round-bristle-head-electric-toothbrush-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "bathroom",
+      "style": "S01-clean-geometric",
+      "title": "Fixed Waisted Body and Round Bristle Head Electric Toothbrush",
+      "description": "One newly authored complete static electric-toothbrush-style exterior. A full waisted upright hand-held housing rises from one flat closed base cap to a whole long narrow neck. A complete small transverse round head at the top carries nineteen finite closed short bristle-like tufts on its forward circular face. One full raised oval bezel and a recessed blank button form a shallow visible control seat on the housing front; the housing closes its back. All numerical geometry new, not a fabric shaver with its grille swapped, a salon brush scaled down or an extracted bristle head. Three opaque constant PBR roles, metres Z up and whole bounds-centred ground datum. One original model zero scenes. Fixed artistic exterior only; tufts are closed stylised bundles, not individual hairs or flexible fibres. No motor, battery, circuit, charging, vibration, rotation, oral cleaning, dental or health benefit, hygiene, water resistance, hand fit, manufacture or safety capability. No rigging animation or interaction.",
+      "bounds": {
+        "x": 0.035999998450279236,
+        "y": 0.03999999910593033,
+        "z": 0.19099999964237213,
+        "unit": "m"
+      },
+      "triangles": 2416,
+      "materials": 3,
+      "files": {
+        "glb": {
+          "path": "assets/bathroom/bathroom-fixed-waisted-body-and-round-bristle-head-electric-toothbrush-01/v1.0.0/model.glb",
+          "size": 222744,
+          "sha256": "e6002872123c2bcfcbf608d0bd63679bbe1cf8a4afab18a873bfdc680d95e7dc"
+        },
+        "blend": {
+          "path": "assets/bathroom/bathroom-fixed-waisted-body-and-round-bristle-head-electric-toothbrush-01/v1.0.0/source.blend",
+          "size": 920896,
+          "sha256": "83e17cc57ca054d5608b76bb3add5fa4709ad3046edda75be0aeb4c41fe8cd6a"
+        },
+        "generator": {
+          "path": "assets/bathroom/bathroom-fixed-waisted-body-and-round-bristle-head-electric-toothbrush-01/v1.0.0/generate.py",
+          "size": 16313,
+          "sha256": "f860b27e0a2079497425c48a93a43cdb3bf88f92465d60a85441b9ceb8d327c5"
+        },
+        "render": {
+          "path": "assets/bathroom/bathroom-fixed-waisted-body-and-round-bristle-head-electric-toothbrush-01/v1.0.0/thumbnail.png",
+          "size": 447644,
+          "sha256": "c4c427aa81cecc00b74023cd36aa0764a46ddca3c59b437a94ab351c98992d30"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1839-volume02-20261025"
+    },
+    {
+      "id": "industrial-fixed-long-radial-arm-and-cube-table-drill-01",
+      "version": "1.0.0",
+      "category": "modular",
+      "assetKind": "prop",
+      "theme": "industrial",
+      "style": "warm-handcrafted-village",
+      "title": "Fixed Long Radial Arm and Cube Table Drill",
+      "description": "One newly authored whole fixed floor radial-drilling-machine-inspired exterior. A whole long broad base carries one tall left cylindrical column and collar, a long complete horizontal arm and a separate full cube table under an offset front spindle. The complete geared-head appearance lies partway along the arm, with a full exposed quill, short blunt spindle nose, top motor exterior, three-spoke front feed control and side open handwheel. Two long front guide strips, a full column-side elevating screw appearance, upper drive exterior, lower/upper guides and blank controls belong to the same machine. The whole cube table has three genuine top-open and end-open T-section channels in one continuous solid body, not painted lines or loose rails. All numeric geometry newly authored; no bench drill, knee mill, radial robot, saw carriage or old table parts imported. Unlike the small rear-column bench drill with bored arm table and belt lid, this has an extensive floor base, tall lifting-collar column, far-reaching full arm with an offset head, and a separate complete cube-table body; unlike the knee mill it has no crossed saddle or knee-supported transverse table. One whole model zero scenes. Static empty art only: no drill bit, workpiece, actual boring, head travel, column swing, gear train, thread engagement, quill feed, guide fit, power, coolant, precision, load, manufacture, ergonomics or safety capability. No copied brand dimensions or performance. Rigging animation and interaction not made.",
+      "bounds": {
+        "x": 2.599999905,
+        "y": 1.059999943,
+        "z": 2.262000084,
+        "unit": "m"
+      },
+      "triangles": 1932,
+      "materials": 4,
+      "files": {
+        "glb": {
+          "path": "assets/industrial/industrial-fixed-long-radial-arm-and-cube-table-drill-01/v1.0.0/model.glb",
+          "size": 108220,
+          "sha256": "34234911b8e3898f7696644e47034048515349f014f99bea1eddded64d3c141f"
+        },
+        "blend": {
+          "path": "assets/industrial/industrial-fixed-long-radial-arm-and-cube-table-drill-01/v1.0.0/source.blend",
+          "size": 742468,
+          "sha256": "e7a8abdb07e11e920541f6de4cf6072b413aa6c91084da037ff8c097f313f8a3"
+        },
+        "generator": {
+          "path": "assets/industrial/industrial-fixed-long-radial-arm-and-cube-table-drill-01/v1.0.0/generate.py",
+          "size": 33929,
+          "sha256": "043d415280e36616e937090f669ed0b62cec508970ffdfc3ce53d0aaba8dc910"
+        },
+        "render": {
+          "path": "assets/industrial/industrial-fixed-long-radial-arm-and-cube-table-drill-01/v1.0.0/thumbnail.png",
+          "size": 516639,
+          "sha256": "9d48494d079bb303f1e1c14fb057a75917d07166dce44fca70d65e32b3b5ec6a"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1839-volume02-20261025"
+    },
+    {
+      "id": "agriculture-fixed-horizontal-grater-drum-and-open-hopper-coffee-pulper-01",
+      "version": "1.0.0",
+      "category": "modular",
+      "assetKind": "prop",
+      "theme": "agriculture",
+      "style": "warm-handcrafted-village",
+      "title": "Fixed Horizontal Grater Drum and Open Hopper Coffee Pulper",
+      "description": "One newly authored whole fixed horizontal-drum hand coffee-pulper-inspired machine. Four complete ground legs, full rails and two full bearing side plates carry a long transverse shaft, one entire blunt relief-pattern drum, an actual open rectangular tapered hopper and a separate curved breastplate. A large complete open six-spoke side handwheel, full crank pin and wooden grip form the visible drive organization. A full front descending open chute and separate full rear descending open chute have continuous floors and sidewalls; both are empty static outfalls without a continuous processing-path claim. The full drum relief is integrated into one closed surface, not scattered teeth or a copied grinder face. No existing sheller casting, disc, chaff trough, swept cutter, coffee-roaster barrel or cooling pan imported. The horizontal full-width textured cylinder under a transverse open hopper and side wheel is structurally different from the compact single offset cob throat and vertical solid disc of the corn sheller, long trough and swept wheel blades of the chaff cutter, and deep closed barrel plus front cooling pan of the roaster. One whole model zero scenes. Original fictional proportions inspired only by the general hand drum-pulper class. No beans, pulp, water, food contact, processing separation, cylinder rotation, live clearance, hand operation instructions, power, throughput, manufacture, engineering, ergonomics or food-safety claim. Rigging animation physics and interaction not made.",
+      "bounds": {
+        "x": 1.230000019,
+        "y": 1.0,
+        "z": 1.519999981,
+        "unit": "m"
+      },
+      "triangles": 2480,
+      "materials": 4,
+      "files": {
+        "glb": {
+          "path": "assets/agriculture/agriculture-fixed-horizontal-grater-drum-and-open-hopper-coffee-pulper-01/v1.0.0/model.glb",
+          "size": 135200,
+          "sha256": "aef9a013ab5f8c56bd19877653a7f3733d6e52a5606480cc777b09245e8f7443"
+        },
+        "blend": {
+          "path": "assets/agriculture/agriculture-fixed-horizontal-grater-drum-and-open-hopper-coffee-pulper-01/v1.0.0/source.blend",
+          "size": 762436,
+          "sha256": "6a91e54fdbc1a324ca04a26f9a2cf65ea6d86775f991c32dfe5061186d046567"
+        },
+        "generator": {
+          "path": "assets/agriculture/agriculture-fixed-horizontal-grater-drum-and-open-hopper-coffee-pulper-01/v1.0.0/generate.py",
+          "size": 33697,
+          "sha256": "4517401076e0752cd00f784b0b561a55adcaeced0d9d22469787f6f3958af1a3"
+        },
+        "render": {
+          "path": "assets/agriculture/agriculture-fixed-horizontal-grater-drum-and-open-hopper-coffee-pulper-01/v1.0.0/thumbnail.png",
+          "size": 566796,
+          "sha256": "2da69adde4857cf85d3263f76b6b936fd9cf6214d5a890de0f608fb2c893b541"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1839-volume02-20261025"
+    },
+    {
+      "id": "industrial-fixed-oblique-double-cone-vessel-and-twin-pedestal-blender-01",
+      "version": "1.0.0",
+      "category": "modular",
+      "assetKind": "prop",
+      "theme": "industrial",
+      "style": "warm-handcrafted-village",
+      "title": "Fixed Oblique Double Cone Vessel and Twin Pedestal Blender",
+      "description": "One newly authored whole fixed double-cone tumbling-blender-inspired machine exterior. One complete vessel has a short wide cylindrical middle and two opposite full conical shoulders, ending in separate polar necks. Its long vessel axis is fixed at an oblique angle, perpendicular to a full horizontal transverse trunnion shaft. Two whole tall tapered pedestals, complete bearing-block exteriors, two long ground skids and full crossmembers carry the complete assembly. A full closed upper access lid, annular clamp exterior and complete bridge handle remain at one polar end; a short closed lower valve and discharge-end exterior with its full side lever occupy the other. A separate complete side reduction-box exterior, upright motor and blank control are visibly joined to the right bearing assembly. No old drum, composter, concrete-mixer cradle or kneader parts imported or resized. Unlike the side-open garden cylinder it has no lateral door, vent slots or rotating drum about its own long axis; unlike the open pear concrete drum it has no internal paddles, U cradle, axle wheels or tilt handwheel; unlike the double curved kneader it has no open trough or two independent internal twisted blades. The entire double-conical vessel, transverse support arrangement and complete outboard drive organization are newly authored. One whole model zero scenes. Closed schematic exterior only, no visible or claimed vessel interior, actual fluid/powder passage, bearing fit, tumbling trajectory, mixing result, drive internals, polar valve action, charge, food contact, hygiene, pressure, capacity, power, engineering, manufacture or safety capability. No brands or copied performance dimensions. Rigging animation physics and interaction not made.",
+      "bounds": {
+        "x": 2.5,
+        "y": 1.320000052,
+        "z": 2.394367218,
+        "unit": "m"
+      },
+      "triangles": 2612,
+      "materials": 4,
+      "files": {
+        "glb": {
+          "path": "assets/industrial/industrial-fixed-oblique-double-cone-vessel-and-twin-pedestal-blender-01/v1.0.0/model.glb",
+          "size": 139184,
+          "sha256": "ca96a78a42186e656de5724bdf00b879ec16ffb996527f8f2a730e95dd298b7d"
+        },
+        "blend": {
+          "path": "assets/industrial/industrial-fixed-oblique-double-cone-vessel-and-twin-pedestal-blender-01/v1.0.0/source.blend",
+          "size": 739208,
+          "sha256": "f3cf4f81267c9e55888262428e1cbbe5aedbd6c8206388aa875b9cf394a3ae78"
+        },
+        "generator": {
+          "path": "assets/industrial/industrial-fixed-oblique-double-cone-vessel-and-twin-pedestal-blender-01/v1.0.0/generate.py",
+          "size": 34004,
+          "sha256": "1e3619f00553fff054c91cba6b2bb09edefd297daa717ef47c51fdc139eaa129"
+        },
+        "render": {
+          "path": "assets/industrial/industrial-fixed-oblique-double-cone-vessel-and-twin-pedestal-blender-01/v1.0.0/thumbnail.png",
+          "size": 530284,
+          "sha256": "db1e1d4195a3f3516a97069e3bdc68f44c0cd3b0c87121dc76c9b1f705759b1e"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1839-volume02-20261025"
+    },
+    {
+      "id": "agriculture-fixed-bent-boom-and-vertical-flight-post-hole-digger-01",
+      "version": "1.0.0",
+      "category": "modular",
+      "assetKind": "prop",
+      "theme": "agriculture",
+      "style": "warm-handcrafted-village",
+      "title": "Fixed Bent Boom and Vertical Flight Post Hole Digger",
+      "description": "One newly authored whole fixed three-point-style post-hole-digger implement in its own parked display pose. A complete continuous high bent boom runs from the open upper attachment eye to a full rear gearbox suspension. A separate broad lower yoke with two long converging members, a full transverse lower beam, two proud lower attachment pins and a middle pivot crossshaft supports the boom. One full closed right-angle gearbox exterior carries a long vertical core and a complete thick two-and-a-quarter-turn tapered helical flight with a blunt broad lower shoe. A long sloping input-driveline enclosure has full flared end covers and a closed terminal, held above the lower frame by its own storage cradle. Two splayed rear parking legs attached to a full gearbox bracket and one front parking leg have three separate finite whole ground soles. The full machine, not an enlarged hand soil-auger or a selected old subassembly, is newly authored; no old grip, auger flight, subsoiler hitch, grain tube, wheel or frame imported. Unlike the hand T-auger it has the entire bent boom, converging lower yoke, right-angle drive and three-foot parked support organization; unlike the inclined transfer auger it has no transport tube, inlet hopper or wheels; unlike the subsoiler it has no three deep shanks, high lateral toolbar or gauge tyres. One whole model zero scenes. Static low-poly exterior only; no boring, rotation, lift motion, shaft telescoping, input drive transmission, gearbox internals, exact three-point or PTO compatibility, cutting performance, support stability, loading, manufacture, engineering or safety capability made or verified. Blunt display tips, no functional sharp edge. Rigging animation physics interaction not made.",
+      "bounds": {
+        "x": 1.75999999,
+        "y": 2.381000042,
+        "z": 2.00999999,
+        "unit": "m"
+      },
+      "triangles": 2316,
+      "materials": 4,
+      "files": {
+        "glb": {
+          "path": "assets/agriculture/agriculture-fixed-bent-boom-and-vertical-flight-post-hole-digger-01/v1.0.0/model.glb",
+          "size": 131348,
+          "sha256": "cc1bceb4868cffaab72561c3412dfdfcfec35e3421e2f144e0ee49d948428bdd"
+        },
+        "blend": {
+          "path": "assets/agriculture/agriculture-fixed-bent-boom-and-vertical-flight-post-hole-digger-01/v1.0.0/source.blend",
+          "size": 743280,
+          "sha256": "0b14bb954a132b8eae308ae363b7f15e16ffa86eb01f8fd7441aef465445c805"
+        },
+        "generator": {
+          "path": "assets/agriculture/agriculture-fixed-bent-boom-and-vertical-flight-post-hole-digger-01/v1.0.0/generate.py",
+          "size": 35422,
+          "sha256": "15d6f3c9076c5a68182ad3c5da11e772e15ad59b741cec1a47c012e6d254dff3"
+        },
+        "render": {
+          "path": "assets/agriculture/agriculture-fixed-bent-boom-and-vertical-flight-post-hole-digger-01/v1.0.0/thumbnail.png",
+          "size": 556802,
+          "sha256": "72f92598eda139fc40dde14683c964a35d7e3e89fd7791359b437ac818ffa3e4"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1839-volume02-20261025"
+    },
+    {
+      "id": "industrial-whole-radial-drill-and-raised-test-pump-preparation-bay-scene-01",
+      "version": "1.0.0",
+      "category": "scenes",
+      "assetKind": "scene",
+      "theme": "industrial",
+      "style": "warm-handcrafted-village",
+      "title": "Whole Radial Drill and Raised Test Pump Preparation Bay",
+      "description": "One new whole empty workshop equipment preparation bay, zero new models and one scene. The entire accepted long radial-arm drill stands on the left lower floor, retaining its full long ground base, tall column, radial arm, complete head and motors, exposed quill, full cube table with genuine T channels and all controls. The entire accepted open-reservoir long-lever test pump rests separately on a broad raised four-legged preparation table at the rear right; its full reservoir, complete lever, pump body, gauge, valves and entire returning hose with corrected terminal coupling remain intact. A broad chamfered common floor, full four-leg table with two side rails and low rear boundary establish a two-height empty preparation composition. Both accepted whole source geometries, topology and opaque PBR parameters retain original metre scale; only whole rigid translation is new. Whole sources embedded and hash-pinned; scene normals recalculated, no raw GLB-byte or hierarchy identity claim. No old machine part crop, rescale, component deletion, material repaint or accessory extraction. No workpiece, plumbing, hose-to-drill connection, liquid, loose tool or operator. Unlike the whole bench-lathe/empty-steady-rest corner and slip-roller/bead-former corner, the full column-and-radial-arm machine remains floor-mounted and the small complete reservoir-and-lever original is staged on its own four-foot table. Preparation arrangement only: no drilling, pressure testing, machining workflow, compatibility, access, ergonomics, table loading, stability, manufacture, engineering or safety capability made or verified. Rigging animation physics interaction not made.",
+      "bounds": {
+        "x": 4.599999905,
+        "y": 2.690000057,
+        "z": 2.324500084,
+        "unit": "m"
+      },
+      "triangles": 3988,
+      "materials": 11,
+      "files": {
+        "glb": {
+          "path": "assets/industrial/industrial-whole-radial-drill-and-raised-test-pump-preparation-bay-scene-01/v1.0.0/model.glb",
+          "size": 229652,
+          "sha256": "73e3ecafc4fb930ac24f3acef50195b05c8b045ce20d29a22f22deb33fe3a70a"
+        },
+        "blend": {
+          "path": "assets/industrial/industrial-whole-radial-drill-and-raised-test-pump-preparation-bay-scene-01/v1.0.0/source.blend",
+          "size": 1144968,
+          "sha256": "fd325f38c8f926bf2052fa9964399f16c53b23b1ec79fe993ec8c342a8a2765f"
+        },
+        "generator": {
+          "path": "assets/industrial/industrial-whole-radial-drill-and-raised-test-pump-preparation-bay-scene-01/v1.0.0/generate.py",
+          "size": 63644,
+          "sha256": "b4c5218f0a638d5680eb11116b6c6e879e673cf82c41b93c5529628f2189dac6"
+        },
+        "render": {
+          "path": "assets/industrial/industrial-whole-radial-drill-and-raised-test-pump-preparation-bay-scene-01/v1.0.0/thumbnail.png",
+          "size": 510718,
+          "sha256": "3248904dd072ae66883a933a71fba20ee23bc7272d7a60d762d52f47cb0914d2"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1839-volume02-20261025"
+    },
+    {
+      "id": "industrial-fixed-weighted-fly-arm-and-guided-screw-press-01",
+      "version": "1.0.0",
+      "category": "modular",
+      "assetKind": "prop",
+      "theme": "industrial",
+      "style": "warm-handcrafted-village",
+      "title": "Fixed Weighted Fly Arm and Guided Screw Press",
+      "description": "One newly authored whole fixed weighted-fly-arm screw-press-inspired exterior. A broad chamfered ground sole and full tapered pedestal carry one complete thick continuous open C-shaped main casting with a deep empty work interval. Two full crown support cheeks carry a complete annular upper nut exterior. One entire vertical screw core with a continuous coarse square-profile helical rib meets a separate complete square guided ram, blunt lower nose and paired full guide blocks. A whole long horizontal fly arm has two complete rounded ball weights, a full central hub and a separate complete downward handle grip. A full stop collar with a side locking-grip exterior lies below the fly-arm hub. The lower bed has a full annular bolster around a shallow open blind recess, not a claimed through passage. Every coordinate is newly authored. This is not the rack-pinion arbor press enlarged or recolored: it has no rack teeth, side pinion or single rising rack lever, and instead has the complete screw/nut/guided-ram and two-weight fly-arm organization. It is not a fruit basket press without its basket, and it has no timber portal, stave cage, collector or pressing platen in a vessel. It is not a pierced H-frame press with a pump removed: the complete asymmetric open C casting, top cheeks and transverse weighted arm are different full structures. No accepted machine mesh or subassembly imported. One whole model zero scenes. Empty static low-poly exterior only; no workpiece, screw engagement specification, stroke, motion, pressing force, thread mechanics, inertia, working clearance, metal forming, manufacture, stability, engineering or safety capability made or verified. Blunt nose, no sharp tool. Rigging animation physics interaction not made.",
+      "bounds": {
+        "x": 1.639999986,
+        "y": 1.0,
+        "z": 2.259931326,
+        "unit": "m"
+      },
+      "triangles": 2956,
+      "materials": 4,
+      "files": {
+        "glb": {
+          "path": "assets/industrial/industrial-fixed-weighted-fly-arm-and-guided-screw-press-01/v1.0.0/model.glb",
+          "size": 157632,
+          "sha256": "1e23817b5070bcce07863f87e69762c0010f07c3fcb9f52a2b23083cbc6c1a00"
+        },
+        "blend": {
+          "path": "assets/industrial/industrial-fixed-weighted-fly-arm-and-guided-screw-press-01/v1.0.0/source.blend",
+          "size": 739188,
+          "sha256": "ecb56c4e964f3dbfab3b740262ac08dbf37ee2b56822934802840f1523e317e3"
+        },
+        "generator": {
+          "path": "assets/industrial/industrial-fixed-weighted-fly-arm-and-guided-screw-press-01/v1.0.0/generate.py",
+          "size": 34181,
+          "sha256": "b1c14dd867ec8a27cb482d1c7b00dedbb8a332b271ad33b3427fe94d0c2f515c"
+        },
+        "render": {
+          "path": "assets/industrial/industrial-fixed-weighted-fly-arm-and-guided-screw-press-01/v1.0.0/thumbnail.png",
+          "size": 509081,
+          "sha256": "d9575cb425768b64f783e64cefcd761c8c71ae850d4c4a372578fea92f9474fd"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1839-volume02-20261025"
+    },
+    {
+      "id": "music-fixed-triangular-chamber-and-edge-hitch-string-psaltery-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "music",
+      "style": "S01-clean-geometric",
+      "title": "Fixed Triangular Chamber and Edge Hitch String Psaltery",
+      "description": "One newly authored complete static bowed-psaltery-inspired instrument. One full low triangular hollow chamber includes its entire flat bottom, thick perimeter walls, thin upper soundboard and genuine round sound hole. Fourteen whole parallel unequal-length strings begin at a single base pin row, rise across one whole short base bridge, and end separately on tall hitch posts distributed along both converging perimeter edges. The successive exposed string endpoints form the characteristic stepped edge field; no central bank of bridges or cross-string buttons is present. Each complete pin and continuous string is original closed geometry. Unlike the paired transverse courses across two internal dulcimer bridges, the full-length arched zither with individual middle bridges, or a rectangular chord-bar instrument, this support relation terminates the strings at the sloping edge posts rather than carrying them across the entire body between two opposed end banks. Every visible numeric coordinate and complete shell topology is newly authored; no prior instrument mesh imported, cropped, resized or recoloured. Forty-four whole closed component meshes, four opaque constant PBR roles, metres native Z up and whole horizontal-bounds-centred flat ground datum. One complete model zero scenes; strings and pins are not separately counted. Plain generic category art, not a measured instrument or historical replica. Symmetric sparse string layout and thick wires are deliberately uncalibrated visual simplifications, not a chromatic keyboard or tuned scale. Strings cross above parts of the actual sound hole, leaving real visible spaces; the chamber is not a solid box or black decal. No bow, player, string windings, note markings, sound, tuning, vibration, tension, bow access performance, acoustics, playability, physical strength, manufacture or safety capability made or verified. No rigging, animation or interaction.",
+      "bounds": {
+        "x": 0.3199999928474426,
+        "y": 0.6000000238418579,
+        "z": 0.07900000363588333,
+        "unit": "m"
+      },
+      "triangles": 2772,
+      "materials": 4,
+      "files": {
+        "glb": {
+          "path": "assets/music/music-fixed-triangular-chamber-and-edge-hitch-string-psaltery-01/v1.0.0/model.glb",
+          "size": 268236,
+          "sha256": "deeec02abf3078aae5d4e2a002cda924f2600f81b25d75a843c828628a9d30ae"
+        },
+        "blend": {
+          "path": "assets/music/music-fixed-triangular-chamber-and-edge-hitch-string-psaltery-01/v1.0.0/source.blend",
+          "size": 1073328,
+          "sha256": "84625038dd1bc7f1a956b234b86cf4af6189dfe8d3a2b3795c29fce0da3adab8"
+        },
+        "generator": {
+          "path": "assets/music/music-fixed-triangular-chamber-and-edge-hitch-string-psaltery-01/v1.0.0/generate.py",
+          "size": 13890,
+          "sha256": "faee4dd94e7b3247a6dddbe7da5fe2c879b3a8c2f8a821d884f9a5b230b1fa81"
+        },
+        "render": {
+          "path": "assets/music/music-fixed-triangular-chamber-and-edge-hitch-string-psaltery-01/v1.0.0/thumbnail.png",
+          "size": 558280,
+          "sha256": "2fd5cb5865a5daceaba4855814c20d291c64f4e1dec56f8ad3ef48c9d87b3526"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1839-volume02-20261025"
+    },
+    {
+      "id": "music-fixed-clamped-cantilever-tongue-and-tripod-soundbody-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "music",
+      "style": "S01-clean-geometric",
+      "title": "Fixed Clamped Cantilever Tongue and Tripod Soundbody",
+      "description": "One newly authored complete fixed unbowed daxophone-inspired instrument-body display. A whole thick chamfered wooden soundbody has a genuinely open underside recess and a full thin upper board held at an inclined angle. One entire thin asymmetric waisted wooden tongue is rooted over that upper board under a full transverse clamp bar; two complete side spindles with integral plain octagonal heads flank the tongue. The long free tongue projects beyond the body into unobstructed space. Three separate full splayed timber legs meet the soundbody wall margins and three complete finite ground feet. Unlike the seven short metal keys laid over a hollow handheld kalimba roof, this wide single wooden tongue reaches far outside a narrow inclined soundbody above its own full tripod. Unlike the small metal jaw harp, there is no surrounding return frame or pair of guiding arms around the tongue. The entire clamp, inclined support body and free cantilever relation is newly authored together, not an extracted old tine or a changed tine-count variation. Eleven closed whole component meshes, four opaque constant untextured PBR roles, metres native Z up and whole horizontal-bounds-centred origin at the three ground feet. One model zero scenes; parts are not separately counted. Plain category-inspired static exterior, not any maker product, measured historical design, distinctive tongue alphabet or instrument plan. No bow, separate dax block, amplifier, cable or internal pickup is supplied or claimed. No playing, actual vibration, acoustic response, electrical output, pitch control, tuned shape, clamping motion, threaded fit, balance, load, manufacture, installation or use-safety capability made or verified. No rigging animation or interaction.",
+      "bounds": {
+        "x": 0.4399999976158142,
+        "y": 0.5233435034751892,
+        "z": 0.6000000238418579,
+        "unit": "m"
+      },
+      "triangles": 388,
+      "materials": 4,
+      "files": {
+        "glb": {
+          "path": "assets/music/music-fixed-clamped-cantilever-tongue-and-tripod-soundbody-01/v1.0.0/model.glb",
+          "size": 41704,
+          "sha256": "77440e8dca7bb3aa957421a3d1af1b05ef18ea8bcb6e1a4ab6c8760490e8c80d"
+        },
+        "blend": {
+          "path": "assets/music/music-fixed-clamped-cantilever-tongue-and-tripod-soundbody-01/v1.0.0/source.blend",
+          "size": 651072,
+          "sha256": "8dfffbb2350da33837b6db58085eda19a000c1fa83e98cc5e86a7431af7d867a"
+        },
+        "generator": {
+          "path": "assets/music/music-fixed-clamped-cantilever-tongue-and-tripod-soundbody-01/v1.0.0/generate.py",
+          "size": 14194,
+          "sha256": "176fc09a780f922bae97f03a46bccdd726cc0814628b72263d0b3d972f5ad5f3"
+        },
+        "render": {
+          "path": "assets/music/music-fixed-clamped-cantilever-tongue-and-tripod-soundbody-01/v1.0.0/thumbnail.png",
+          "size": 486652,
+          "sha256": "c718f06c5d7e01b095135493f199ac535aec2948a7291ec6fbca885f080bbb16"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1839-volume02-20261025"
+    },
+    {
+      "id": "music-whole-psaltery-and-tripod-tongue-two-level-display-scene-01",
+      "version": "1.0.0",
+      "category": "scenes",
+      "assetKind": "scene",
+      "theme": "music",
+      "style": "source-preserved-low-poly",
+      "title": "Whole Psaltery and Tripod Tongue Two Level Display",
+      "description": "One static whole-instrument comparison display, one scene and zero new independent models. The complete qualified triangular psaltery sits at the front-left on one long low inspection terrace, retaining its entire hollow chamber, soundhole, single base bridge, all strings and both sloping-edge hitch rows. The entire qualified single-tongue tripod soundbody stands independently on the lower right-rear ground deck, retaining its full inclined open-underside body, two-spindle clamp, whole free wooden tongue, all three legs and all three feet. Every original GLB buffer, POSITION and NORMAL array, material dictionary, face assignment and internal hierarchy remains unchanged at original metre scale under whole translations only. One continuous finite scene-only slab with an integral raised rectangular terrace supports the two different complete sole types; there are no tool channels, retaining rims, surrounding walls or unrelated furniture. Actual full triangular instrument bottom and all three original foot soles have full measured contact on their corresponding finite top surfaces, with a broad lateral interval and an empty foreground. Unlike the old two wind bodies on a single thin platform or three drums grouped around a worktable, this pairs a low string chamber and an independently standing cantilever-tongue instrument body with different support heights. This is a specific complete-equipment grouping, not a claim of an unprecedented generic floor plan. No original model is cropped, extracted, stretched, recoloured or counted again. No bows, dax block, players, cables, amplification, sound, tuning, actual comparison experiment, playing procedure, acoustic result, human access compliance, balance, load, installation or safety capability. Rigging, animation and interaction not made.",
+      "bounds": {
+        "x": 1.399999976158142,
+        "y": 1.100000023841858,
+        "z": 0.64000004529953,
+        "unit": "m"
+      },
+      "triangles": 3228,
+      "materials": 9,
+      "files": {
+        "glb": {
+          "path": "assets/music/music-whole-psaltery-and-tripod-tongue-two-level-display-scene-01/v1.0.0/model.glb",
+          "size": 317280,
+          "sha256": "ddce626838f6e92d96490c2be1a726a2c0daa10491f17a02463168aa256b9b44"
+        },
+        "blend": {
+          "path": "assets/music/music-whole-psaltery-and-tripod-tongue-two-level-display-scene-01/v1.0.0/source.blend",
+          "size": 1302256,
+          "sha256": "7e58f9a9e3a987669ffcb84312671de589d712b72b5f1e98a3ee1a688f06ceec"
+        },
+        "generator": {
+          "path": "assets/music/music-whole-psaltery-and-tripod-tongue-two-level-display-scene-01/v1.0.0/generate.py",
+          "size": 86649,
+          "sha256": "c41dcb0a2eee74552bcd8d6ac2766251bb419e805865519c31be336935508d2d"
+        },
+        "render": {
+          "path": "assets/music/music-whole-psaltery-and-tripod-tongue-two-level-display-scene-01/v1.0.0/thumbnail.png",
+          "size": 489675,
+          "sha256": "89b4386d9640aa83732a1c20178155e2d9478ce4f687fc9bb3f36fc74d6580e2"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1839-volume02-20261025"
+    },
+    {
+      "id": "music-fixed-compact-keybed-and-open-mouthpiece-melodica-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "music",
+      "style": "S01-clean-geometric",
+      "title": "Fixed Compact Keybed and Open Mouthpiece Melodica",
+      "description": "One newly authored complete fixed melodica-inspired exterior. One low elongated chamfered shell contains a genuine shallow recessed keybed and an intact finite lower body. Eighteen whole pale keys seat in that bed with visible longitudinal gaps, and thirteen whole short dark keys sit proud in a deliberately simplified grouped pattern. One continuous short mouthpiece roots in the left side: its external tube broadens into a flattened lip with a real open central passage and full inner wall. Two entire narrow lower resting feet ground the complete instrument. The compact single wind-keyboard-body organization is newly authored together; unlike the two deep accordion end cases there is no connecting bellows or separate button bank, unlike the pocket harmonica there is no exposed ten-channel comb between two curved covers, and unlike the full pipe organ there are no tall pipes, floor console, stop controls or pedal bed. No old instrument part is imported, removed or resized; all profiles and key coordinates are new. Thirty-five closed editable whole meshes, four opaque constant PBR roles, metres native Z up and whole horizontal-bounds-centred ground origin. One original model zero scenes; keys are subordinate parts, not counted assets. Unbranded generic static appearance, not an exact product, pitch range, authentic key mechanism or measured instrument. The visible mouthpiece bore is modeled only to its seated root; hidden reeds, valves, internal air communication and chamber construction are not supplied or verified. No air tube accessory, text, notes, logos, player, sound, breath flow, tuning, playing, key travel, mouth contact suitability, hygiene, ergonomics, load, materials, manufacture or safety capability. No rigging animation or interaction.",
+      "bounds": {
+        "x": 0.5920000076293945,
+        "y": 0.1340000033378601,
+        "z": 0.06199999898672104,
+        "unit": "m"
+      },
+      "triangles": 1308,
+      "materials": 4,
+      "files": {
+        "glb": {
+          "path": "assets/music/music-fixed-compact-keybed-and-open-mouthpiece-melodica-01/v1.0.0/model.glb",
+          "size": 133216,
+          "sha256": "7dac715e7aa57b482236e9320f49886d4411867ec3962099bcc75282781facac"
+        },
+        "blend": {
+          "path": "assets/music/music-fixed-compact-keybed-and-open-mouthpiece-melodica-01/v1.0.0/source.blend",
+          "size": 867008,
+          "sha256": "05e5c6ecebc4c79076bbfef1cfae0e56f99b858f9aad39d3bd1235c2f50f89e8"
+        },
+        "generator": {
+          "path": "assets/music/music-fixed-compact-keybed-and-open-mouthpiece-melodica-01/v1.0.0/generate.py",
+          "size": 12762,
+          "sha256": "4dd9e967b159d3411f94b92879e58aa5fa0d3277113ece1a294388fbd0762d07"
+        },
+        "render": {
+          "path": "assets/music/music-fixed-compact-keybed-and-open-mouthpiece-melodica-01/v1.0.0/thumbnail.png",
+          "size": 466112,
+          "sha256": "56fb385986bc98355d4d8c5acf303e8f29e80cedd73dcb33b7adec712561f7c9"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1839-volume02-20261025"
+    },
+    {
+      "id": "music-fixed-windowed-frame-and-descending-bridge-foot-crwth-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "music",
+      "style": "S01-clean-geometric",
+      "title": "Fixed Windowed Frame and Descending Bridge Foot Crwth",
+      "description": "One newly authored complete crwth-inspired static frame instrument lying on its whole flat back. One connected lower back, hollow chamber sides, outer upper frame and central neck create two large true upper windows. A whole thin soundboard closes the lower chamber except for two actual circular apertures. The central fretless fingerboard crosses the upper window region and extends over the chamber. A single complete asymmetric bridge has a short left foot seated on the top board and a long right foot passing with positive clearance through the right aperture to the inner back. Four whole strings cross the fingerboard nut and two whole lateral strings run alongside it; all six terminate in one lower anchor and their separate upper pegs. This whole support and cavity organization is new, not the bowl-back lyre with extra strings or a reshaped violin: there are no separate curved lyre arms, bowl shell, projecting violin neck, scroll, pegbox or f holes. Every numeric frame, aperture, bridge and fitting shape is independently authored, not imported or extracted. Eighteen closed editable whole component meshes, four opaque constant PBR roles, metres native Z up and whole horizontal-bounds-centred ground origin. One model zero scenes; subordinate strings and pegs are never extra assets. Generic uninscribed cultural instrument-category artwork, not an authentic measured historical specimen, regional tuning or reproduction. The whole central neck is solid; the historical hidden fingerboard cavity is deliberately not reconstructed. No bow, player, tuning markings, string windings, sound, pitch, tension, acoustic transmission, playing technique, operation, structural balance, manufacture or safety capability is made or verified. No rigging animation or interaction.",
+      "bounds": {
+        "x": 0.2800000011920929,
+        "y": 0.6100000143051147,
+        "z": 0.10199999809265137,
+        "unit": "m"
+      },
+      "triangles": 1828,
+      "materials": 4,
+      "files": {
+        "glb": {
+          "path": "assets/music/music-fixed-windowed-frame-and-descending-bridge-foot-crwth-01/v1.0.0/model.glb",
+          "size": 167564,
+          "sha256": "cac058c3cd67fad6882971e5a591bca7759b8a073807b9a1bc16e3634ccfae15"
+        },
+        "blend": {
+          "path": "assets/music/music-fixed-windowed-frame-and-descending-bridge-foot-crwth-01/v1.0.0/source.blend",
+          "size": 845280,
+          "sha256": "c24d3ab6a7fc0bd98a732a65af8a1dea6c2bd3b1a1af162a24512fa2ee39d97a"
+        },
+        "generator": {
+          "path": "assets/music/music-fixed-windowed-frame-and-descending-bridge-foot-crwth-01/v1.0.0/generate.py",
+          "size": 15760,
+          "sha256": "5a96bf3a15be7d1a52d5b195febd7e3bce340c3e107879b4de8d1bc48a56d4c9"
+        },
+        "render": {
+          "path": "assets/music/music-fixed-windowed-frame-and-descending-bridge-foot-crwth-01/v1.0.0/thumbnail.png",
+          "size": 551085,
+          "sha256": "779dd22c81548676fecd74009eeb9e540690aacea70f4e5b756b370dbd5117ae"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1839-volume02-20261025"
+    },
+    {
+      "id": "music-fixed-tiered-tangent-keybox-and-two-plane-string-fiddle-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "music",
+      "style": "S01-clean-geometric",
+      "title": "Fixed Tiered Tangent Keybox and Two Plane String Fiddle",
+      "description": "One newly authored complete keyed-fiddle-inspired fixed instrument. A full waisted flat-back chamber has separate inset ribs and one complete top board with two genuine bounded sound slots. One long projecting neck carries two entire slotted guide rails and twelve whole keys, each with an integral side button, transverse stem and upright tangent; the two staggered levels have actual open guide apertures and are held in one resting display position. A whole stepped bridge and separate high and low nuts carry four upper melody strings and six lower resonance strings to independent complete peg banks on a wide head. The twin string planes stay separate along the long neck and bridge, with small clear space between the unpressed visual tangents and the upper strings. This complete keyed-neck and stepped-string support organization is original, not the old hurdy-gurdy with its wheel removed: there is no wheel slot, axle, crank or end handle, and the fully hollow waisted body, projecting two-tier slotted neck and lower string plane are new throughout. Unlike the carved violin there is no fingerboard, volute, side-peg box or paired f holes. No prior visible mesh or numerical instrument part imported or extracted. All whole keys, strings and pegs are subordinate components of one model, zero scenes. Four constant opaque PBR roles, metres native Z up and whole horizontal-bounds-centred flat back datum. Generic unbranded nyckelharpa-category art only, not a measured museum instrument, authentic chromatic layout, tuning, model or reconstruction. Deliberate fixed small seating overlaps establish visual support rather than solved sliding clearances. No bow, player, note markings, sounding sympathetic response, key action, pitch, tension, playing, friction, acoustics, ergonomics, structural load, manufacture or safety capability is made or verified. No rigging animation or interaction.",
+      "bounds": {
+        "x": 0.33799999952316284,
+        "y": 0.8899999856948853,
+        "z": 0.18199999630451202,
+        "unit": "m"
+      },
+      "triangles": 4688,
+      "materials": 4,
+      "files": {
+        "glb": {
+          "path": "assets/music/music-fixed-tiered-tangent-keybox-and-two-plane-string-fiddle-01/v1.0.0/model.glb",
+          "size": 425164,
+          "sha256": "b9d6368e37bd05866cf20744adb9c05969663af7da5886abea31b88ebcf93842"
+        },
+        "blend": {
+          "path": "assets/music/music-fixed-tiered-tangent-keybox-and-two-plane-string-fiddle-01/v1.0.0/source.blend",
+          "size": 1283200,
+          "sha256": "c797a09331ef2b4f48b0c03970b8135660a430f244251b4bda6a9d580e75d2f2"
+        },
+        "generator": {
+          "path": "assets/music/music-fixed-tiered-tangent-keybox-and-two-plane-string-fiddle-01/v1.0.0/generate.py",
+          "size": 17155,
+          "sha256": "f7af22b4111b1fce51471fd65106498c9f6baa0cd24a6d500becaf24c95575f1"
+        },
+        "render": {
+          "path": "assets/music/music-fixed-tiered-tangent-keybox-and-two-plane-string-fiddle-01/v1.0.0/thumbnail.png",
+          "size": 598923,
+          "sha256": "07a4c8117df3e9c1e4fcb4465e1a114db4a88ab1afa15051e8c43deca4367a95"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1839-volume02-20261025"
+    },
+    {
+      "id": "education-whole-nine-triplet-wall-and-cartwheel-procentriole-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "education",
+      "style": "S01-clean-geometric",
+      "title": "Whole Nine Triplet Wall and Cartwheel Procentriole",
+      "description": "One wholly newly authored enlarged schematic short procentriole scaffold. Nine complete longitudinal compound blades form a ninefold barrel around a hollow centre; every blade has a continuous three-lobed outer wall, three genuine open axial channels and shared solid septa rather than three detached full pipes. One whole hollow proximal hub connects through nine complete radial spokes to the A-side walls, while nine lower A-to-C link representations join adjacent blades. All numeric cross-sections, positions, wall topology and connectors are new; no chloroplast envelope, granum stack, fruit shell, wheel, pipe bundle or old cell geometry is reused. One complete teaching prop and zero scenes, twenty-eight closed editable components, four opaque diagram PBR roles, roughly twelve centimetres wide rather than biological life size. The short equal-length triplet walls depict an intentionally simplified developing scaffold, not a mature appendage-bearing centriole, a distal doublet transition, a whole centrosome or cell. Three smooth channels and thick shared septa are topology-level teaching approximations, not accurate protofilament geometry, protein identities, molecular counts, species, cell-cycle timing, living function, force, clinical or medical assertions. Flat blade ends are a display datum; no physical-stability claim. No labels, textures, rig, animation or interaction.",
+      "bounds": {
+        "x": 0.109429,
+        "y": 0.108832,
+        "z": 0.095,
+        "unit": "m"
+      },
+      "triangles": 8640,
+      "materials": 4,
+      "files": {
+        "glb": {
+          "path": "assets/education/education-whole-nine-triplet-wall-and-cartwheel-procentriole-01/v1.0.0/model.glb",
+          "size": 419080,
+          "sha256": "96fea4a5925ab4d39c0bf3196f90984f9705f4d287d23fd8c1e676730a671808"
+        },
+        "blend": {
+          "path": "assets/education/education-whole-nine-triplet-wall-and-cartwheel-procentriole-01/v1.0.0/source.blend",
+          "size": 1127632,
+          "sha256": "d4fa9a0b9a33125c82b2ae2643ae1fc2874f9ad88e4a85a69de869c34cb46b09"
+        },
+        "generator": {
+          "path": "assets/education/education-whole-nine-triplet-wall-and-cartwheel-procentriole-01/v1.0.0/generate.py",
+          "size": 33148,
+          "sha256": "0357d69f688f9e71138398bd203f6aca7c64ae4dc15137665d58923b4dc3e7be"
+        },
+        "render": {
+          "path": "assets/education/education-whole-nine-triplet-wall-and-cartwheel-procentriole-01/v1.0.0/thumbnail.png",
+          "size": 614055,
+          "sha256": "06d1059a9028e18b1fb5c0de1cc14c0c0744109d044f3ef7d3a3f3539bbefb38"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1839-volume02-20261025"
+    },
+    {
+      "id": "education-whole-concentric-porous-tests-and-polar-spines-radiolarian-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "education",
+      "style": "S01-clean-geometric",
+      "title": "Whole Concentric Porous Tests and Polar Spines Radiolarian",
+      "description": "One wholly newly authored enlarged radiolarian-inspired empty skeletal teaching prop. Two complete concentric thick-walled spherical tests each have eighty genuine polygonal through-pores and a hollow interior. Six continuous radial beams connect the full shells at shared lattice junctions; two opposing beams extend uninterrupted into tapered polar spines. All shell tessellation, pore rims, radial connections and numeric coordinates are new. No elongated diatom valve, raphe, girdle, cell shell, decorative wire ball, fruit or old animal geometry is copied, extracted or recoloured. Eight closed editable components, three opaque warm mineral PBR roles, one complete skeleton prop and zero scenes, roughly seventeen centimetres long at an arbitrary enlarged display scale. The small lower exterior lattice datum is flattened for display only. This is a deliberately regularized generic morphology, not a named species or measured specimen: shell number, pore pattern, beam and spine counts are schematic rather than taxonomic characters. Soft cytoplasm, central capsule, nucleus and axopodia are intentionally not represented in this empty-test asset. No claim of living function, growth, optical silica, fossil age, buoyancy, filtering, mechanics, physical stability or scientific simulation. No labels, textures, transparency, rig, animation or interaction.",
+      "bounds": {
+        "x": 0.166,
+        "y": 0.1,
+        "z": 0.0978,
+        "unit": "m"
+      },
+      "triangles": 6040,
+      "materials": 3,
+      "files": {
+        "glb": {
+          "path": "assets/education/education-whole-concentric-porous-tests-and-polar-spines-radiolarian-01/v1.0.0/model.glb",
+          "size": 429548,
+          "sha256": "9b4ca2916e891e3cfdc210cbf1a5a6608222e0fa8b8371f4fe32b3312f01fa31"
+        },
+        "blend": {
+          "path": "assets/education/education-whole-concentric-porous-tests-and-polar-spines-radiolarian-01/v1.0.0/source.blend",
+          "size": 855312,
+          "sha256": "41f085b84464274fdf1368edbf51f9ed64749629fe7f4bc58d094ba16bbe2b0e"
+        },
+        "generator": {
+          "path": "assets/education/education-whole-concentric-porous-tests-and-polar-spines-radiolarian-01/v1.0.0/generate.py",
+          "size": 23144,
+          "sha256": "67261bc703840ca0286da6f48594409ad5da15d4a2e38cf2c9db98f51edc85cd"
+        },
+        "render": {
+          "path": "assets/education/education-whole-concentric-porous-tests-and-polar-spines-radiolarian-01/v1.0.0/thumbnail.png",
+          "size": 554650,
+          "sha256": "f8654046e0c29584d86e1529086e0d8e29e772b0343bb2d481e8f615aa8fb094"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1839-volume02-20261025"
+    },
+    {
+      "id": "education-whole-ovoid-corpus-and-paired-sacci-pine-pollen-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "education",
+      "style": "S01-clean-geometric",
+      "title": "Whole Ovoid Corpus and Paired Sacci Pine Pollen",
+      "description": "One wholly newly authored enlarged bisaccate pine-pollen exterior teaching prop. A complete ovoid corpus carries a rugulate cappa and an integral closed, slightly depressed distal leptoma field; two complete smaller elliptical saccus envelopes have broad embedded roots and shallow geometric foveolae. Each surface is newly authored as an oriented closed manifold, with no extracted erythrocyte membrane, radiolarian lattice, old cell, fruit, pod or numeric predecessor geometry. Three editable whole components, three quiet opaque ochre PBR roles, one whole grain and zero scenes. All dimension ratios, relief and regularized pit spacing are artistic teaching simplifications at an arbitrary roughly eleven-centimetre display scale, not a named pine species, exact specimen, measured micromorphology or life-size particle. The grain is an external opaque schematic, not a cutaway: no internal gametophyte, air-space cavity, layered wall thickness or membrane physiology is simulated. The distal field remains closed, not a punched germination hole. Two minute lower saccus flats provide a display datum only; no physical stability, buoyancy, aerodynamic, dispersal, germination, viability, allergen, medical or diagnostic claim. No textures, labels, rig, animation or interaction.",
+      "bounds": {
+        "x": 0.106759,
+        "y": 0.060567,
+        "z": 0.0615,
+        "unit": "m"
+      },
+      "triangles": 9344,
+      "materials": 3,
+      "files": {
+        "glb": {
+          "path": "assets/education/education-whole-ovoid-corpus-and-paired-sacci-pine-pollen-01/v1.0.0/model.glb",
+          "size": 641140,
+          "sha256": "38e18efc09cfc5d9d69f471c41dce0b3539b1233b57a75c2b215572a1247d0ff"
+        },
+        "blend": {
+          "path": "assets/education/education-whole-ovoid-corpus-and-paired-sacci-pine-pollen-01/v1.0.0/source.blend",
+          "size": 1012204,
+          "sha256": "517f6146d611178c9a5cbebcd9a41fc13a6e7ac1927b379ddf747a7f4a74e726"
+        },
+        "generator": {
+          "path": "assets/education/education-whole-ovoid-corpus-and-paired-sacci-pine-pollen-01/v1.0.0/generate.py",
+          "size": 21745,
+          "sha256": "6dd2e7912dd8bb8b4c2b7345bd6998d88ef3c53d65f14adbb25984419028143f"
+        },
+        "render": {
+          "path": "assets/education/education-whole-ovoid-corpus-and-paired-sacci-pine-pollen-01/v1.0.0/thumbnail.png",
+          "size": 502497,
+          "sha256": "f1961c5d9b58b371578cb4f0afa1ba7eeabbc386968abfaaa862e6f19000c726"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1839-volume02-20261025"
+    },
+    {
+      "id": "education-whole-globular-chambers-and-rimmed-aperture-foraminifer-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "education",
+      "style": "S01-clean-geometric",
+      "title": "Whole Globular Chambers and Rimmed Aperture Foraminifer",
+      "description": "One wholly newly authored enlarged low-trochospiral foraminifer-inspired exterior test. Four smaller complete early chambers lead into four embracing globular chambers in the final whorl, with actual depressed sutural boundaries and an open umbilical region. The final chamber has a full inner wall and a genuinely open elliptical primary aperture with an integral finite lip, not a painted dark spot or separate decorative ring. All chamber centres, profiles, broad roots, rim and cavity topology are new; no nautilus shell, tentacle, planar fossil section, stone matrix, radiolarian lattice or pollen geometry is copied. Eight closed editable components, three opaque quiet limestone PBR roles, one complete exterior teaching prop and zero scenes. The specimen is deliberately displayed with its umbilical face upward; the smaller early chambers form the opposite low spiral side. Shallow surface pits are coarse relief only: microscopic wall perforations, spines, early internal chambers and connecting foramina are not modelled. This is a generic regularized exterior, not a named species, exact chamber count, measured specimen, living cytoplasm, fossil reconstruction, material microstructure, buoyancy, climate proxy, physical or biological simulation. Arbitrary roughly twelve-centimetre display scale. A small lower early-chamber datum is only for display, not natural orientation or stability. No labels, textures, transparency, rig, animation or interaction.",
+      "bounds": {
+        "x": 0.114997,
+        "y": 0.11992,
+        "z": 0.064217,
+        "unit": "m"
+      },
+      "triangles": 8384,
+      "materials": 3,
+      "files": {
+        "glb": {
+          "path": "assets/education/education-whole-globular-chambers-and-rimmed-aperture-foraminifer-01/v1.0.0/model.glb",
+          "size": 574032,
+          "sha256": "cac37b24be9c2f4dbae5fb078227164ed2d2d8b02d951f205d1d2e7f8ea3c7ff"
+        },
+        "blend": {
+          "path": "assets/education/education-whole-globular-chambers-and-rimmed-aperture-foraminifer-01/v1.0.0/source.blend",
+          "size": 986104,
+          "sha256": "0458e23588ba8d3880b0643a0bc5bde995a7e6129f692292c3d13b845ee8bebf"
+        },
+        "generator": {
+          "path": "assets/education/education-whole-globular-chambers-and-rimmed-aperture-foraminifer-01/v1.0.0/generate.py",
+          "size": 23032,
+          "sha256": "65fb3192baaa15bbb5896ed4b03029b1a05c620c10306b93b202f624d2eb1990"
+        },
+        "render": {
+          "path": "assets/education/education-whole-globular-chambers-and-rimmed-aperture-foraminifer-01/v1.0.0/thumbnail.png",
+          "size": 512437,
+          "sha256": "76f2fbf6cb1ad357012508189b65d9f3e401d0f9bd404a81aa2e950c7326d4b9"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1839-volume02-20261025"
     }
   ]
 }
