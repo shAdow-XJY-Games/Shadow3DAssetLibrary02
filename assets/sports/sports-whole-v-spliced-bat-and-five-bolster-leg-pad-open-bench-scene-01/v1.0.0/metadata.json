@@ -1,0 +1,42 @@
+{
+  "id": "sports-whole-v-spliced-bat-and-five-bolster-leg-pad-open-bench-scene-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "sports",
+  "style": "source-preserved-low-poly",
+  "title": "Whole V Spliced Bat And Five Bolster Leg Pad Open Bench",
+  "description": "One empty static cricket-equipment display scene, zero new models and one scene. The complete earlier qualified V-spliced ridged cricket bat lies across the rear of one newly authored low four-legged open bench, while the entire newly qualified five-bolster leg pad lies lengthwise in the front region. Both full bat components and all eleven pad components remain at original scale, original material values and original internal relations under whole translations only. Every original raw GLB binary payload, indexed triangle, normal, opaque PBR value and node hierarchy is retained, with both complete generators embedded only as unexecuted provenance. The entire flat bat front and all three full pad strap soles sit on the bench top with positive finite contact areas; a real fore-aft gap separates the two objects. The connected bench is new scene-only environment, with four complete grounded feet and an open under-table bay, not an independent new prop count. No bat, pad bolster, handle, strap or other old fragment is extracted, bent, rescaled, recoloured, merged or deleted. Not an exercise demonstration or a claim that one displayed pad is a full wearable pair. No player, ball, labels, textures, rig, animation or interaction. Static unoccupied visual art only; no impact, protection, fit, handling, sports performance, human clearance, table load, manufacture or safety capability.",
+  "bounds": {
+    "x": 1.0399999618530273,
+    "y": 1.020000010728836,
+    "z": 0.3235999047756195,
+    "unit": "m"
+  },
+  "triangles": 2432,
+  "materials": 8,
+  "files": {
+    "glb": {
+      "path": "assets/sports/sports-whole-v-spliced-bat-and-five-bolster-leg-pad-open-bench-scene-01/v1.0.0/model.glb",
+      "size": 212680,
+      "sha256": "957024370995c6404e001a89917e25f336a3b58381e9c7495bd476cbaf509554"
+    },
+    "blend": {
+      "path": "assets/sports/sports-whole-v-spliced-bat-and-five-bolster-leg-pad-open-bench-scene-01/v1.0.0/source.blend",
+      "size": 972884,
+      "sha256": "cd4dd9a669d2bc6a893a8b56e86db17b122292a07c02aa0ef346ff61554dfbff"
+    },
+    "generator": {
+      "path": "assets/sports/sports-whole-v-spliced-bat-and-five-bolster-leg-pad-open-bench-scene-01/v1.0.0/generate.py",
+      "size": 94687,
+      "sha256": "f69fda9cd6cff98873214f92d28f82b21129d56de5edd1d374afb6547f3a1ff9"
+    },
+    "render": {
+      "path": "assets/sports/sports-whole-v-spliced-bat-and-five-bolster-leg-pad-open-bench-scene-01/v1.0.0/thumbnail.png",
+      "size": 470822,
+      "sha256": "a524252bf074b91288f20a6bdf4ee22d54e2b37311cc87ea102d1a4237e0e411"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
