@@ -1,0 +1,42 @@
+{
+  "id": "sports-fixed-cupped-twelve-window-blade-and-round-shaft-floorball-stick-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "sports",
+  "style": "source-preserved-low-poly",
+  "title": "Cupped Twelve Window Blade And Round Shaft Floorball Stick",
+  "description": "One newly authored complete static floorball-inspired stick. A broad low laterally cupped blade has twelve genuine through windows in two rows, all surrounded by one continuous finite perimeter and integral crossing ribs. The complete blade rises into a solid integral heel neck, rooted to a whole long inclined round shaft and a separate complete closed upper grip. A continuous lower blade strip supplies a finite resting surface; the toe lifts and sweeps laterally, not the previous entirely planar solid ice-hockey toe. Three complete new closed meshes and three opaque constant PBR roles, native metres and Z up, horizontal-bounds-centred ground origin. No old hockey outline, lacrosse scoop/string pocket or snowshoe frame/web geometry reused. One original decorative model and zero scenes. Empty fixed visual only: no ball, player, court, logos, textures, animation, simulated flex, replaceable-blade mechanism, grip fit, sports standards, ball-control performance, strength, manufacture, real equipment usability or safety certification.",
+  "bounds": {
+    "x": 0.3881164491176605,
+    "y": 0.05550000071525574,
+    "z": 1.1137431859970093,
+    "unit": "m"
+  },
+  "triangles": 560,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/sports/sports-fixed-cupped-twelve-window-blade-and-round-shaft-floorball-stick-01/v1.0.0/model.glb",
+      "size": 50232,
+      "sha256": "ca8a096c788ce87a408b34f814cbca511fccff9f36d0cca8d0a3942ece0cc860"
+    },
+    "blend": {
+      "path": "assets/sports/sports-fixed-cupped-twelve-window-blade-and-round-shaft-floorball-stick-01/v1.0.0/source.blend",
+      "size": 594332,
+      "sha256": "8ff524cb64ec809e1426d898b497715eb9fbbe2def84453b5c166a3b17fe34d0"
+    },
+    "generator": {
+      "path": "assets/sports/sports-fixed-cupped-twelve-window-blade-and-round-shaft-floorball-stick-01/v1.0.0/generate.py",
+      "size": 18632,
+      "sha256": "c8e21bfded058c973d7709cb4332559b18cf3692f5b25b255336f78c6d318860"
+    },
+    "render": {
+      "path": "assets/sports/sports-fixed-cupped-twelve-window-blade-and-round-shaft-floorball-stick-01/v1.0.0/thumbnail.png",
+      "size": 410356,
+      "sha256": "7163bdb55766389237cde6739d2618903a78024cc099cf21912a2c341dd94d59"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

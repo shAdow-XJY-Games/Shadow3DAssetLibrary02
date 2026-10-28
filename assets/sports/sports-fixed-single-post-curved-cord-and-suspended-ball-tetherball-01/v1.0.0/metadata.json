@@ -1,0 +1,42 @@
+{
+  "id": "sports-fixed-single-post-curved-cord-and-suspended-ball-tetherball-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "sports",
+  "style": "source-preserved-low-poly",
+  "title": "Single Post Curved Cord And Suspended Ball Tetherball",
+  "description": "One newly authored complete static single-post tetherball display. A broad low circular base has an integral raised socket and full flat sole. One whole tall capped cylindrical mast carries a true thick bored side eye near its top. One unbroken finite-thickness cord follows a fixed outward descending curve from that rooted eye into one whole suspended faceted ball. The ball has constant solid-colour face sectors, not an applied seam texture or a hollow inflation simulation. Five complete newly authored closed meshes; no old skittles-game tray, arm, pins, speed-bag deck, or volleyball sleeves reused. Four opaque untextured PBR roles, native metres/Z up, horizontal-bounds-centred ground datum. One original decorative model, zero scenes. The curve and ball are a frozen sculptural pose, not a gravity, tension, pendulum or wrapping simulation. No playable rules, installation dimensions, ball performance, anti-tip stability, load capacity, manufacture, sports suitability or safety claim; no people or surrounding court.",
+  "bounds": {
+    "x": 1.2599999904632568,
+    "y": 0.800000011920929,
+    "z": 2.7130000591278076,
+    "unit": "m"
+  },
+  "triangles": 2736,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/sports/sports-fixed-single-post-curved-cord-and-suspended-ball-tetherball-01/v1.0.0/model.glb",
+      "size": 235144,
+      "sha256": "b3d3fbf00eb17a325d04bd866229a1dd672e1c69500eb5392b030ee518d64285"
+    },
+    "blend": {
+      "path": "assets/sports/sports-fixed-single-post-curved-cord-and-suspended-ball-tetherball-01/v1.0.0/source.blend",
+      "size": 870636,
+      "sha256": "8546c861cec35781452749001e2615c419764dfd4dd0b33e51077ac9f3234dd6"
+    },
+    "generator": {
+      "path": "assets/sports/sports-fixed-single-post-curved-cord-and-suspended-ball-tetherball-01/v1.0.0/generate.py",
+      "size": 19051,
+      "sha256": "de3205041e5bdc606f80b4701644f779653cd9b67fe297c79c0d7dd08d085ede"
+    },
+    "render": {
+      "path": "assets/sports/sports-fixed-single-post-curved-cord-and-suspended-ball-tetherball-01/v1.0.0/thumbnail.png",
+      "size": 434900,
+      "sha256": "1af6385900475247641a3b0f111d1a93acdac886059d723c9bd8864385011c14"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

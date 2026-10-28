@@ -1,0 +1,42 @@
+{
+  "id": "sports-whole-three-channel-quiver-and-vented-bracer-open-table-bay-scene-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "sports",
+  "style": "source-preserved-low-poly",
+  "title": "Whole Quiver And Vented Bracer Open Table Bay",
+  "description": "One empty static archery-accessory exhibit scene, zero new models and one scene. The complete qualified three-channel hip quiver stands on the left low floor, while the entire qualified six-vent curved bracer with both returned bands rests on a separate right tabletop. All original GLB binary payloads, oriented triangles, normals, PBR values, component names and internal hierarchy remain unchanged at unit scale under translations only; both complete source generators are embedded as evidence and never executed. A new scene-only connected floor supports a raised open four-foot side table, with an actual clear space below its full top instead of a solid terrace. The quiver full base fits the low floor; both full bracer band sole facets fit the high table, and a clear lateral gap separates the complete originals. No arrow, bow, wearer or other extra equipment, no source part deleted, recoloured, resized or newly counted. This is an empty display, not an archery procedure, compatible kit or real support design. No carrying, fit, protection, stability, loading, material, fabrication, sporting performance or safety claims; no animation, rigging or interaction.",
+  "bounds": {
+    "x": 0.5,
+    "y": 0.41999998688697815,
+    "z": 0.671999990940094,
+    "unit": "m"
+  },
+  "triangles": 1868,
+  "materials": 7,
+  "files": {
+    "glb": {
+      "path": "assets/sports/sports-whole-three-channel-quiver-and-vented-bracer-open-table-bay-scene-01/v1.0.0/model.glb",
+      "size": 167528,
+      "sha256": "4d4ddf7f66e3d13fe8834efcea9a0f0d4ba41b073bcba6005b7aff9a0663bcaa"
+    },
+    "blend": {
+      "path": "assets/sports/sports-whole-three-channel-quiver-and-vented-bracer-open-table-bay-scene-01/v1.0.0/source.blend",
+      "size": 871724,
+      "sha256": "cfc948b53fac908a547ccc14754f6499d444fc8f5adcd9d3fefa1b9cf23bbc47"
+    },
+    "generator": {
+      "path": "assets/sports/sports-whole-three-channel-quiver-and-vented-bracer-open-table-bay-scene-01/v1.0.0/generate.py",
+      "size": 75387,
+      "sha256": "611b247ed78ed05c8606c68f4e1145d399b475456a9cd8523168de753fe6eb8a"
+    },
+    "render": {
+      "path": "assets/sports/sports-whole-three-channel-quiver-and-vented-bracer-open-table-bay-scene-01/v1.0.0/thumbnail.png",
+      "size": 522457,
+      "sha256": "f3f8a50c1b77d99e5594350cc9035a3b8ad962002e2546b343ad80556f590407"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

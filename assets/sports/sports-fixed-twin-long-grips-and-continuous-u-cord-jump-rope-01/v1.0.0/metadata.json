@@ -1,0 +1,42 @@
+{
+  "id": "sports-fixed-twin-long-grips-and-continuous-u-cord-jump-rope-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "sports",
+  "style": "source-preserved-low-poly",
+  "title": "Twin Long Grips And Continuous U Cord Jump Rope",
+  "description": "One newly authored whole static jump-rope appearance laid flat at rest: two full long tapered waisted hand grips with integral dark end regions and one continuous finite cord describing a broad open U between their lower tips. Both cord terminals are seated inside their own complete handle, and the cord is one capped swept mesh without joined segments, coils, separate weights or extracted rope parts. The two complete grip solids have finite lower resting facets. Three whole meshes, three opaque constant PBR roles, metre units, native Z up and full horizontal-bounds-centred ground origin. One original model and zero scenes. Unoccupied decorative game prop only, not usable equipment: no athlete, motion, simulated flexibility, tension, jumping or exercise instruction, measured rope length, fit, load, strength, manufacture, certification or safety claim. No old wrist roller winding/loading pin, ski-trainer machine, throwing-hammer head or handle geometry reused.",
+  "bounds": {
+    "x": 0.625999927520752,
+    "y": 0.9829999804496765,
+    "z": 0.03753215819597244,
+    "unit": "m"
+  },
+  "triangles": 1756,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/sports/sports-fixed-twin-long-grips-and-continuous-u-cord-jump-rope-01/v1.0.0/model.glb",
+      "size": 151944,
+      "sha256": "a82c3f06bff691e85ed5e3add4889aaeddde0c4c6840ee92a70c4c2100d2c464"
+    },
+    "blend": {
+      "path": "assets/sports/sports-fixed-twin-long-grips-and-continuous-u-cord-jump-rope-01/v1.0.0/source.blend",
+      "size": 728316,
+      "sha256": "42c0e3473d7ab7c6cbd2dcc680168c4f3910aadccd3928beda5debd47ab39470"
+    },
+    "generator": {
+      "path": "assets/sports/sports-fixed-twin-long-grips-and-continuous-u-cord-jump-rope-01/v1.0.0/generate.py",
+      "size": 18265,
+      "sha256": "adc7a60130b2a086e634d5b63791a921e36092d442c773b3872cf787a3a472d1"
+    },
+    "render": {
+      "path": "assets/sports/sports-fixed-twin-long-grips-and-continuous-u-cord-jump-rope-01/v1.0.0/thumbnail.png",
+      "size": 407895,
+      "sha256": "02730b0c5077797a0edde06f55e513819566b90292094650f25b03b077b37456"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
