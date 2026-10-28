@@ -1,0 +1,42 @@
+{
+  "id": "sports-whole-flat-agility-ladder-and-cupped-stick-side-plinth-scene-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "sports",
+  "style": "source-preserved-low-poly",
+  "title": "Whole Flat Agility Ladder And Cupped Stick Side Plinth",
+  "description": "One empty static sports-equipment display scene, zero new models and one scene. The complete qualified eight-rung agility ladder lies along the long left floor region with both full continuous webbing strips, all sixteen rung slots and all four free ends unchanged. The entire qualified cupped twelve-window floorball-style stick stands separately on a higher compact right rear plinth, retaining the full blade, heel neck, round shaft and upper grip. Every original raw GLB payload, oriented triangle, normal, opaque PBR value and internal hierarchy stays unchanged at unit scale under whole translations only; both whole generators are embedded solely as unexecuted provenance. One newly drawn continuous low rectangular slab and integral raised side display block form the environment. Every original finite sole patch lies completely on its own level, with a real lateral gap and open forward/right strips. No source component is extracted, folded, recoloured, resized or counted anew. This long flat-equipment and separate tall side-display arrangement is not a playing court, the former stone-and-brush display or an assertion of a shared training workflow. No ball, player, drill instructions, movement, exercise benefit, stick stability, footwork performance, adjustability, equipment compatibility, user clearance, manufacturing, load or safety capability; no rigging, animation or interaction.",
+  "bounds": {
+    "x": 1.7000000476837158,
+    "y": 3.200000047683716,
+    "z": 1.2337431907653809,
+    "unit": "m"
+  },
+  "triangles": 1988,
+  "materials": 7,
+  "files": {
+    "glb": {
+      "path": "assets/sports/sports-whole-flat-agility-ladder-and-cupped-stick-side-plinth-scene-01/v1.0.0/model.glb",
+      "size": 182476,
+      "sha256": "fcc8716b4b21d6f50b6db9f087e6efcb58e29170cf6f13a6254e52e1a390326b"
+    },
+    "blend": {
+      "path": "assets/sports/sports-whole-flat-agility-ladder-and-cupped-stick-side-plinth-scene-01/v1.0.0/source.blend",
+      "size": 904060,
+      "sha256": "393a136891b3580cd54db458a686518a641b02df4a3a262b1c35045fea07a1bf"
+    },
+    "generator": {
+      "path": "assets/sports/sports-whole-flat-agility-ladder-and-cupped-stick-side-plinth-scene-01/v1.0.0/generate.py",
+      "size": 69388,
+      "sha256": "158de2867f178f3f8c28f076e6562fb07d4e48dd67cff243dc069fb02faea2af"
+    },
+    "render": {
+      "path": "assets/sports/sports-whole-flat-agility-ladder-and-cupped-stick-side-plinth-scene-01/v1.0.0/thumbnail.png",
+      "size": 456932,
+      "sha256": "a26118021df89c97b6de841ab02cdb5304c2cb76a29d9044bab4766e5a7323d7"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
