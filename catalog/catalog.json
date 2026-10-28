@@ -2524,6 +2524,11 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary02",
       "commit": "76ae0030698b1b5dd8f550a4340b6a3a673db8b3"
+    },
+    "original-qualified-batch-1900-volume02-20261025": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary02",
+      "commit": "7c0de2c4ed0fdb59030c8fb187cfc4223e7478a9"
     }
   },
   "assets": [
@@ -84140,6 +84145,92 @@
       "status": "verified",
       "license": "All rights reserved",
       "sourceId": "original-qualified-batch-1898-volume02-20261025"
+    },
+    {
+      "id": "retail-fixed-split-toe-and-twin-stem-full-heel-shoe-tree-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "retail",
+      "style": "S01-clean-geometric",
+      "title": "Fixed Split Toe and Twin Stem Full Heel Shoe Tree",
+      "description": "One newly authored complete static shoe-tree exterior, one original model zero scenes. Two whole domed asymmetric forefoot lobes have a genuine narrow longitudinal split and separate flat lower surfaces. Two entire parallel stepped linking stems enter both front lobes and one complete rounded rear heel block. A full short stem and rounded pull knob are one continuous piece seated on the heel top. All numeric geometry new, not a former shoe-last anvil head cut, an old boot filled, a shoehorn thickened or any detached footwear parts. Six editable closed meshes and three constant opaque untextured PBR roles, metres native Z up and actual horizontal bounds-centred ground datum. The front soles and complete heel bottom rest on the same ground. Empty frozen game-art display only, not a designed or tested shoe insert; no shoe, spring action, adjustment, expansion, foot or shoe size, fit, shape retention, moisture absorption, pressure, material identity, durability, manufacture or safety capability. Rigging animation and interaction not made.",
+      "bounds": {
+        "x": 0.08923999965190887,
+        "y": 0.28999999165534973,
+        "z": 0.07100000232458115,
+        "unit": "m"
+      },
+      "triangles": 1304,
+      "materials": 3,
+      "files": {
+        "glb": {
+          "path": "assets/retail/retail-fixed-split-toe-and-twin-stem-full-heel-shoe-tree-01/v1.0.0/model.glb",
+          "size": 114820,
+          "sha256": "ce3b0c36eeee25331f968454a83533b865696074cfc0edecaf579cf2d70efa33"
+        },
+        "blend": {
+          "path": "assets/retail/retail-fixed-split-toe-and-twin-stem-full-heel-shoe-tree-01/v1.0.0/source.blend",
+          "size": 706992,
+          "sha256": "9742c355013e1f674c7a22e88dc2dc08817cd70eee5b5c4f52fe0ed9a927961b"
+        },
+        "generator": {
+          "path": "assets/retail/retail-fixed-split-toe-and-twin-stem-full-heel-shoe-tree-01/v1.0.0/generate.py",
+          "size": 16793,
+          "sha256": "b09dee8ad9ee2104390d99cbbeb674173aa7bafa2f97eaf46157b4e57ca43105"
+        },
+        "render": {
+          "path": "assets/retail/retail-fixed-split-toe-and-twin-stem-full-heel-shoe-tree-01/v1.0.0/thumbnail.png",
+          "size": 512222,
+          "sha256": "5deac29649716a77cca4d664c7f72b203a4e1fdb2b2053d1a472ffe1d272b7d6"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1900-volume02-20261025"
+    },
+    {
+      "id": "sports-fixed-open-bulging-body-and-continuous-drawcord-chalk-bag-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "sports",
+      "style": "source-preserved-low-poly",
+      "title": "Open Bulging Body And Continuous Drawcord Chalk Bag",
+      "description": "One independently authored whole empty climbing-chalk-bag-inspired static prop. A short upright rounded soft-looking body has a broad finite base, gently fluted bulging belly, narrower neck, continuous rolled mouth, genuine full single cavity and closed inner floor. Two complete thick curved rear belt arches have open windows and both ends rooted into the same whole wall. One continuous thin capped cord follows the neck around the open mouth and continues into both front tails; a complete small front cordlock exterior joins the tails. Five whole closed meshes and three opaque constant PBR roles. All body sections, mouth, rear bands and cord are new numeric geometry, not a shortened three-channel hip quiver, extracted golf bag shell or resized horizontal travel holdall. No partitions, front pocket, long carrying handles, stand legs, shoulder strap, loose belt, brush or chalk contents. Metre-style Z up, horizontal-bounds-centred broad finite base datum. One original model and zero scenes. Static empty decorative appearance only: no flexible fabric or drawcord closure simulation, tightening, moving cordlock, capacity, chalk storage or containment, hand or waist fit, grip improvement, climbing procedure, load, durability, manufacture or safety capability. No logos, text, textures, animation or rigging.",
+      "bounds": {
+        "x": 0.16244232654571533,
+        "y": 0.18549999594688416,
+        "z": 0.17399999499320984,
+        "unit": "m"
+      },
+      "triangles": 2972,
+      "materials": 3,
+      "files": {
+        "glb": {
+          "path": "assets/sports/sports-fixed-open-bulging-body-and-continuous-drawcord-chalk-bag-01/v1.0.0/model.glb",
+          "size": 255404,
+          "sha256": "08c83d9512d744ef1dc77e92e57eccfaa8ef9e4b6f897f5bc778a29eba43fbbe"
+        },
+        "blend": {
+          "path": "assets/sports/sports-fixed-open-bulging-body-and-continuous-drawcord-chalk-bag-01/v1.0.0/source.blend",
+          "size": 873916,
+          "sha256": "8c9b5dbe40f0541dc17e8c8d953391e97fe41f97ad6398844686c802ef58ac77"
+        },
+        "generator": {
+          "path": "assets/sports/sports-fixed-open-bulging-body-and-continuous-drawcord-chalk-bag-01/v1.0.0/generate.py",
+          "size": 19359,
+          "sha256": "0363404fdfdd95a6affbe5f0ca9f00532ab7c5c4da006fcb2b50e0cf0759bd20"
+        },
+        "render": {
+          "path": "assets/sports/sports-fixed-open-bulging-body-and-continuous-drawcord-chalk-bag-01/v1.0.0/thumbnail.png",
+          "size": 545046,
+          "sha256": "0d0f61c074788a81912906da930a8ac8e82eb4d5e38f26e3dc3e7ef88fcd7e34"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1900-volume02-20261025"
     }
   ]
 }
