@@ -2424,6 +2424,11 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary02",
       "commit": "0b8e6aafc2a1f13dab2e4263bbd2259446cb5525"
+    },
+    "original-qualified-batch-1811-volume02-20261025": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary02",
+      "commit": "7f7f628e5416ed09add8b5730c867e1c33057ed9"
     }
   },
   "assets": [
@@ -80170,6 +80175,135 @@
       "status": "verified",
       "license": "All rights reserved",
       "sourceId": "original-qualified-batch-1808-volume02-20261025"
+    },
+    {
+      "id": "waterworks-fixed-inclined-barrier-slab-and-four-pierced-buttresses-01",
+      "version": "1.0.0",
+      "category": "architecture",
+      "assetKind": "modular",
+      "theme": "waterworks",
+      "style": "S01-clean-geometric",
+      "title": "Fixed Inclined Barrier Slab and Four Pierced Buttresses",
+      "description": "One wholly newly authored complete dry slab-and-buttress-inspired architectural display. One uninterrupted thick inclined upstream barrier plate spans four separate full triangular downstream buttress walls; each wall contains one genuine bounded arched through-portal with complete thickness returns. A continuous whole crest cap joins the barrier and all four pier crowns, and a full broad grounded foundation supports every pier and the lower slab edge. The downstream inter-pier bays remain open rather than a filled gravity mass, while the four aligned through-portals form real transverse openings through the support walls. Unlike the folded retaining curtain, there are no metal corrugations, rear walers, tie rods or remote anchor blocks; unlike the rounded overflow module, there is no solid ground-filled curved apron or sunken stilling basin. All full numeric outlines, arch openings, plate and cap geometry authored together, not extracted or reoriented old wall or bridge parts. Four opaque constant untextured PBR roles; native metres Z up, complete horizontal bounds-centred ground origin; one architectural model zero scenes. Broad waterworks category only, no named dam replica or engineering drawing copied. This is a reduced-proportion static illustration with small deliberate visual root overlaps, not a hydraulic or structural design. No water retention, sealing, seepage, discharge, access route safety, reservoir loading, load transfer, reinforcement, seismic resistance, sliding stability, construction, fabrication, installation or civil safety capability made or verified. No actual reservoir, water, people, terrain, rigging, animation or interaction.",
+      "bounds": {
+        "x": 7.0,
+        "y": 4.5,
+        "z": 3.42,
+        "unit": "m"
+      },
+      "triangles": 644,
+      "materials": 4,
+      "files": {
+        "glb": {
+          "path": "assets/waterworks/waterworks-fixed-inclined-barrier-slab-and-four-pierced-buttresses-01/v1.0.0/model.glb",
+          "size": 27644,
+          "sha256": "17316fa51cfa9812e642fd8193ee5f15a30bc87c28868929023732c7ba442c95"
+        },
+        "blend": {
+          "path": "assets/waterworks/waterworks-fixed-inclined-barrier-slab-and-four-pierced-buttresses-01/v1.0.0/source.blend",
+          "size": 607272,
+          "sha256": "f46abdd2969d1706beaee793c66c87196a5530c67e79457347d9950482787c4f"
+        },
+        "generator": {
+          "path": "assets/waterworks/waterworks-fixed-inclined-barrier-slab-and-four-pierced-buttresses-01/v1.0.0/generate.py",
+          "size": 12583,
+          "sha256": "07664e80d9a0203658e841c40e7e3648c00acc8c90853be1428aea0a91a75b9e"
+        },
+        "render": {
+          "path": "assets/waterworks/waterworks-fixed-inclined-barrier-slab-and-four-pierced-buttresses-01/v1.0.0/thumbnail.png",
+          "size": 416130,
+          "sha256": "5dace8c4f2a7cde37433f6bb8745568864e262220fa42d11ebbff1ed7edfbc61"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1811-volume02-20261025"
+    },
+    {
+      "id": "sports-whole-water-polo-cap-and-pull-buoy-stepped-equipment-bay-scene-01",
+      "version": "1.0.0",
+      "category": "scenes",
+      "assetKind": "scene",
+      "theme": "sports",
+      "style": "source-preserved-low-poly",
+      "title": "Whole Cap And Pull Buoy Stepped Equipment Bay",
+      "description": "One static two-height sports-equipment display scene, zero new models and one scene. The whole qualified blue open cap, both seven-hole curved ear covers and both complete laid-forward ties stand together on a broad raised left terrace. The entire qualified twin-lobed rounded float-inspired body rests on the lower right floor. All original complete binary payloads, oriented triangles, normals, opaque PBR values and internal hierarchy are preserved at unit scale under translations only; original complete generator bytes are embedded but never executed. One new scene-only connected support combines a low floor, raised left terrace and low rear spine; no loose pedestal or reused three-rim tray. Actual full flat cap hem and both tie soles all fit their elevated surface, while the whole lower float sole fits its separate floor with a clear lateral gap. No original part is removed, recoloured, resized or counted as new. This differs from the earlier coplanar mask-and-snorkel tray by its two genuine support heights and different whole inputs; no claim to invent the layout. Empty static exhibit only, not a swimming workflow or compatible kit. No person, water, buoyancy, protection, body fit, exercise instruction, foam properties, flexible fabric, manufacture, physical stability, loading or safety capability. Rigging, animation and interaction are not made.",
+      "bounds": {
+        "x": 0.5600000023841858,
+        "y": 0.4699999988079071,
+        "z": 0.23999999463558197,
+        "unit": "m"
+      },
+      "triangles": 4596,
+      "materials": 6,
+      "files": {
+        "glb": {
+          "path": "assets/sports/sports-whole-water-polo-cap-and-pull-buoy-stepped-equipment-bay-scene-01/v1.0.0/model.glb",
+          "size": 393716,
+          "sha256": "9a28389d26205c9c596b01902ab046760436e28df2a32446745c06bd39bbe132"
+        },
+        "blend": {
+          "path": "assets/sports/sports-whole-water-polo-cap-and-pull-buoy-stepped-equipment-bay-scene-01/v1.0.0/source.blend",
+          "size": 1139948,
+          "sha256": "8c3487c8e115eea633c92abd2ccbf610e41d854f386d4364c0af07a8f2ec7278"
+        },
+        "generator": {
+          "path": "assets/sports/sports-whole-water-polo-cap-and-pull-buoy-stepped-equipment-bay-scene-01/v1.0.0/generate.py",
+          "size": 144022,
+          "sha256": "63e75a8d827957fff38d060fe55ce354267f8cd2f3b903b13b42791fe35a980a"
+        },
+        "render": {
+          "path": "assets/sports/sports-whole-water-polo-cap-and-pull-buoy-stepped-equipment-bay-scene-01/v1.0.0/thumbnail.png",
+          "size": 482723,
+          "sha256": "3ef085fff072e8fe38035371e42e0724c1d3e4ebc4e98e85abf69b1dad5e55c2"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1811-volume02-20261025"
+    },
+    {
+      "id": "agriculture-whole-four-paddle-scutcher-and-raised-flax-brake-preparation-deck-scene-01",
+      "version": "1.0.0",
+      "category": "scenes",
+      "assetKind": "scene",
+      "theme": "agriculture",
+      "style": "warm-handcrafted-village",
+      "title": "Whole Four Paddle Scutcher and Raised Flax Brake Preparation Deck",
+      "description": "One new whole empty flax-fibre equipment preparation deck, zero new models and one scene. The complete accepted four-paddle scutcher remains unchanged on the lower front-left floor, retaining all four full-width wooden paddles, through shaft, crank, bearing frame, two skids and whole U-notched side board. The complete accepted raised-jaw flax brake stands separately on a broad raised rear-right deck, turned by an exact quarter turn so its entire long hand lever points outward to the right. Both skids, four legs, all stationary lower jaws and the entire raised upper frame remain intact. A broad empty foreground, full lower side step and low rear boundary make a staggered two-height preparation layout. Unlike the old carding/spinning workcorner, this contains neither a carder on a worktable nor a treadle spinning wheel: two different whole farm fibre-preparation machine originals retain independent complete supports. All original source geometry, topology and opaque PBR parameters remain at original metre scale; only whole rigid placement is new. Whole sources embedded and hash-pinned; scene normals recalculated, no raw GLB-byte or hierarchy identity claim. No fibre, crop, person, loose tools or processing connection. No scutching, breaking, fibre flow, operating sequence, mechanism travel, machine compatibility, access, ergonomics, platform load, engineering or safety claim. Rigging animation physics interaction not made.",
+      "bounds": {
+        "x": 3.869999886,
+        "y": 2.390000105,
+        "z": 1.67058301,
+        "unit": "m"
+      },
+      "triangles": 1072,
+      "materials": 10,
+      "files": {
+        "glb": {
+          "path": "assets/agriculture/agriculture-whole-four-paddle-scutcher-and-raised-flax-brake-preparation-deck-scene-01/v1.0.0/model.glb",
+          "size": 88432,
+          "sha256": "19b8c2528db3f2d7ec466f7079d62d044b9d9bf33f7d5508c67fdbd0e4178780"
+        },
+        "blend": {
+          "path": "assets/agriculture/agriculture-whole-four-paddle-scutcher-and-raised-flax-brake-preparation-deck-scene-01/v1.0.0/source.blend",
+          "size": 940536,
+          "sha256": "dec6e20b037850abfb414a63ba6923ed77e23c3c6e8bd84c0c1b8ec60e79d710"
+        },
+        "generator": {
+          "path": "assets/agriculture/agriculture-whole-four-paddle-scutcher-and-raised-flax-brake-preparation-deck-scene-01/v1.0.0/generate.py",
+          "size": 60859,
+          "sha256": "e5e89ccd9ed50ff84160df794a100eea336e777bae0dd5e2e10b15c6c424bcd1"
+        },
+        "render": {
+          "path": "assets/agriculture/agriculture-whole-four-paddle-scutcher-and-raised-flax-brake-preparation-deck-scene-01/v1.0.0/thumbnail.png",
+          "size": 518551,
+          "sha256": "c1d72c02ec52c9653c86729aff601b22ca3414fbc9194e0b440fb1e41b87ac9e"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1811-volume02-20261025"
     }
   ]
 }
