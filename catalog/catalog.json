@@ -2454,6 +2454,11 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary02",
       "commit": "dc466bd0bb90571d32c52e1352d1069278a99015"
+    },
+    "original-qualified-batch-1859-volume02-20261025": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary02",
+      "commit": "a76965b71a2f32cef82cf136eb9c79ccef4e6657"
     }
   },
   "assets": [
@@ -82221,6 +82226,178 @@
       "status": "verified",
       "license": "All rights reserved",
       "sourceId": "original-qualified-batch-1855-volume02-20261025"
+    },
+    {
+      "id": "architecture-whole-twin-cell-deck-and-ported-diaphragm-girder-01",
+      "version": "1.0.0",
+      "category": "architecture",
+      "assetKind": "prop",
+      "theme": "architecture",
+      "style": "S01-clean-geometric",
+      "title": "Whole Twin Cell Deck and Ported Diaphragm Girder",
+      "description": "One wholly newly authored complete integral twin-cell box-girder display segment. A continuous broad deck extends into two full cantilever wings above two inclined outside webs, one continuous centre web and a complete flat-bottom soffit. Two entire transverse end diaphragms are integral with this same closed material shell, each containing two genuine full rectangular access ports. The four finite port tunnels connect into two separate full longitudinal internal cells; there is no solid hidden seal behind either end. All deck, web, diaphragm, port reveal, inner-cell and soffit boundaries are explicitly supplied by one continuous indexed material shell, not detached boxes or a cutaway shell. Unlike an open castellated I web with lateral hexagonal openings, the new topology has two enclosed longitudinal cells and ported transverse end walls beneath overhanging deck wings. Unlike the small stone-lined water channel beneath a soil-road tile, it is an exposed whole double-cell girder form with integral sloped webs, centre partition and thick ported end diaphragms; no soil banks, surface road terrain or separate stone lining. All numerical surfaces and PBR role boundaries authored together from new coordinates, with no old bridge, beam, culvert, tile or wall mesh imported, trimmed or transformed. One editable complete closed material mesh with three opaque constant untextured PBR roles, metre-style native Z up and horizontal bounds-centred bottom datum; one whole static display model, zero scenes. A complete authored segment, not a complete bridge or approved construction product. Model dimensions are artistic only and are not standardized spans, connection interfaces or load data. No adjoining spans, bridge bearings, tendons, reinforcement, traffic deck surfacing, drainage, utility passages, manufacture, lifting, installation, inspection access safety, structural stiffness, strength, stability or civil-engineering performance modeled or certified. The bottom is the mounting datum of this standalone display; no bridge support situation or real load path is asserted. No animation, rigging or interaction.",
+      "bounds": {
+        "x": 5.3985,
+        "y": 6.4,
+        "z": 2.22,
+        "unit": "m"
+      },
+      "triangles": 516,
+      "materials": 3,
+      "files": {
+        "glb": {
+          "path": "assets/architecture/architecture-whole-twin-cell-deck-and-ported-diaphragm-girder-01/v1.0.0/model.glb",
+          "size": 17776,
+          "sha256": "cf036643a48ea4b1b99f8888a26b239abcfe2dab7c0c2ee0aaa804f16022525b"
+        },
+        "blend": {
+          "path": "assets/architecture/architecture-whole-twin-cell-deck-and-ported-diaphragm-girder-01/v1.0.0/source.blend",
+          "size": 549420,
+          "sha256": "00fafccd75962060b86d6baaf221b18e3a0d84ff7b3b51cce3036be9217322c9"
+        },
+        "generator": {
+          "path": "assets/architecture/architecture-whole-twin-cell-deck-and-ported-diaphragm-girder-01/v1.0.0/generate.py",
+          "size": 11838,
+          "sha256": "5e5019c8691ca32c94e95a8a47f8bd67b5c5f133255489df99025b68163e700f"
+        },
+        "render": {
+          "path": "assets/architecture/architecture-whole-twin-cell-deck-and-ported-diaphragm-girder-01/v1.0.0/thumbnail.png",
+          "size": 384499,
+          "sha256": "9a5ddbc697b0e5d6596151f498ea6dbe089acea0630e212d756dca212d68e0a4"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1859-volume02-20261025"
+    },
+    {
+      "id": "culture-fixed-three-hole-thong-and-twin-tooth-geta-pair-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "culture",
+      "style": "S01-clean-geometric",
+      "title": "Fixed Three Hole Thong and Twin Tooth Geta Pair",
+      "description": "One newly authored complete matched pair of geta-inspired wooden sandal exteriors, counted together as one independent prop rather than two assets. Each whole thick chamfer-corner sole board has three real bounded through holes and rests on two full transverse wooden teeth with finite flat lower faces. One entire padded V-shaped thong rises clear of the board and returns through both rear holes; its two flared buried roots meet the board internally. A whole separate front toe post passes through the third hole and meets the V apex, also with a flared fixed lower root. Space remains under the straps and around the narrow stems inside the upper holes. Both complete sandals are set apart by a genuine empty gap in a slightly staggered but unchanged-size pose. All board boundaries, three-hole topology, full teeth, padded paths and roots are new numerical geometry, not the inclined heel-fork boot jack with a strap added and not a snowshoe stripped of its web. The boot jack has an open front fork, sloping board, liner and rear standing pad; the snowshoe has an oval tube, two open web fields, heel cup and traction teeth. Neither supplies this whole closed-perimeter sole and three-point thong organization. Ten closed editable whole meshes, four opaque constant PBR roles, metres native Z up and complete pair horizontal bounds centred. One model zero scenes, no separate stand or surroundings. Generic unmarked cultural footwear appearance only; not a particular museum pair, child or adult size, branded product, regional costume specification or historical replica. No person, foot, fit, wearable flexibility, fastening operation, gait, sound, comfort, grip, strength, stability, manufacturing or safety capability. Static hidden root overlaps are visual connections, not functional joinery or knot construction. No rig, animation or interaction.",
+      "bounds": {
+        "x": 0.257999986410141,
+        "y": 0.2840000092983246,
+        "z": 0.11796806752681732,
+        "unit": "m"
+      },
+      "triangles": 1552,
+      "materials": 4,
+      "files": {
+        "glb": {
+          "path": "assets/culture/culture-fixed-three-hole-thong-and-twin-tooth-geta-pair-01/v1.0.0/model.glb",
+          "size": 141976,
+          "sha256": "bb145812d25b14259a93f3820720b607f8d42a2eadb6a2ca732de6a1832a7e57"
+        },
+        "blend": {
+          "path": "assets/culture/culture-fixed-three-hole-thong-and-twin-tooth-geta-pair-01/v1.0.0/source.blend",
+          "size": 776832,
+          "sha256": "81618025436b2f410706c44ead3cdd9e72985c4aac3beddee28db9151cedb303"
+        },
+        "generator": {
+          "path": "assets/culture/culture-fixed-three-hole-thong-and-twin-tooth-geta-pair-01/v1.0.0/generate.py",
+          "size": 15351,
+          "sha256": "73931aa7042ce558a2f3e715defd682e22176f5716b090ef57e3d8a71203561c"
+        },
+        "render": {
+          "path": "assets/culture/culture-fixed-three-hole-thong-and-twin-tooth-geta-pair-01/v1.0.0/thumbnail.png",
+          "size": 518007,
+          "sha256": "7f1a6b8309f5e4788bf0939ab9526281a5a05c26863766baa7b96d4b3d3a3825"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1859-volume02-20261025"
+    },
+    {
+      "id": "education-whole-pollen-and-mineral-tests-branching-rack-scene-01",
+      "version": "1.0.0",
+      "category": "scenes",
+      "assetKind": "scene",
+      "theme": "education",
+      "style": "source-preserved-low-poly",
+      "title": "Whole Pollen and Mineral Tests Branching Rack Scene",
+      "description": "One newly authored static magnified-morphology teaching arrangement, one scene and zero new independent models. Three whole accepted originals occupy separate finite pads on a new branching three-level rack: whole bisaccate pine pollen at the low front-left station, the complete nested radiolarian skeleton at the middle front-right station, and the whole lobulate foraminifer exterior at the high rear station. A triangular grounded scene-only foot, broad lower branching arms, three rooted risers and three distinct horizontal pads create the support system and clear reading lanes. This is not the previous two-object cell/organelle flat-slab layout with examples exchanged. Every reused object preserves its entire binary mesh payload, normals, indices, all material dictionaries and internal hierarchy at original unit scale; only whole translations are added. No chamber, saccus, pore, beam or spine is extracted, recoloured or counted as a new model. These are different enlarged illustrative scales and unlike biological objects; their displayed sizes do not imply real relative dimensions, a shared organism, mineral chemistry, taxonomic relationship or an actual microscopic sample. Whole foraminifer and radiolarian representations are exterior skeletons; pollen is an opaque exterior grain, not an internal air chamber model. No labels, textures, working instrument, physical load/stability, diagnostic, climate, biological function, rig, animation or interaction claim.",
+      "bounds": {
+        "x": 0.4000000059604645,
+        "y": 0.3799999952316284,
+        "z": 0.16421741247177124,
+        "unit": "m"
+      },
+      "triangles": 23884,
+      "materials": 11,
+      "files": {
+        "glb": {
+          "path": "assets/education/education-whole-pollen-and-mineral-tests-branching-rack-scene-01/v1.0.0/model.glb",
+          "size": 1657776,
+          "sha256": "edb9f4efd0a53c18da58bbcb3b672b76b96d380a22a4f213533e0885f93b3c73"
+        },
+        "blend": {
+          "path": "assets/education/education-whole-pollen-and-mineral-tests-branching-rack-scene-01/v1.0.0/source.blend",
+          "size": 667617,
+          "sha256": "4594bc31bd48f0c14c71f6d00eaba4fca04a3f566b1bdcbf47a130fb0059c497"
+        },
+        "generator": {
+          "path": "assets/education/education-whole-pollen-and-mineral-tests-branching-rack-scene-01/v1.0.0/generate.py",
+          "size": 678373,
+          "sha256": "345943362a652db62977631fc906f8b4fad56975dc3b6f9978cd758e1708a0bb"
+        },
+        "render": {
+          "path": "assets/education/education-whole-pollen-and-mineral-tests-branching-rack-scene-01/v1.0.0/thumbnail.png",
+          "size": 543814,
+          "sha256": "d8067c35559f8f4c960ddeb08e47f4c959c6f5a322eb76d54ce66b7fe6eb016c"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1859-volume02-20261025"
+    },
+    {
+      "id": "sports-fixed-annular-sole-and-four-prong-crown-kicking-tee-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "sports",
+      "style": "source-preserved-low-poly",
+      "title": "Annular Sole And Four Prong Crown Kicking Tee",
+      "description": "One independently authored complete low four-prong kicking-tee-inspired static prop. A broad flared annular ground skirt rises into one thick hollow crown with four integral rounded high prongs separated by deep low saddles. The full central axial opening passes through the entire base; continuous inner walls and a wide finite annular sole are real geometry. One connected closed genus-one material shell, three constant opaque PBR roles, metre-style native Z up and centred ground origin. No tall mast, telescope, pentagonal base, separate cup, ball, user or old numeric geometry. Distinct whole low crown-and-ring structure, not the earlier batting tee with its shaft shortened or a cup extracted. One original model zero scenes; repeated crown fingers are not separate asset counts. Broad rugby equipment category only, with deliberately invented proportions and unbranded surfaces. Static unoccupied decorative display: no actual kicking, ball fit, flexibility, support performance, official dimensions, sports compliance, force, load, strength, manufacture or safety capability. No animation, rigging, textures or interaction.",
+      "bounds": {
+        "x": 0.19599999487400055,
+        "y": 0.19599999487400055,
+        "z": 0.10400000214576721,
+        "unit": "m"
+      },
+      "triangles": 2304,
+      "materials": 3,
+      "files": {
+        "glb": {
+          "path": "assets/sports/sports-fixed-annular-sole-and-four-prong-crown-kicking-tee-01/v1.0.0/model.glb",
+          "size": 196360,
+          "sha256": "5b7fdfed2a24c4823d226a6c4132c682066d5c401ddba402174cff50863d4b69"
+        },
+        "blend": {
+          "path": "assets/sports/sports-fixed-annular-sole-and-four-prong-crown-kicking-tee-01/v1.0.0/source.blend",
+          "size": 780284,
+          "sha256": "1aab402ce62f3c342bf5cc15a5fd59a142e1b2a3ea4fe58ef8d28cbf855513f0"
+        },
+        "generator": {
+          "path": "assets/sports/sports-fixed-annular-sole-and-four-prong-crown-kicking-tee-01/v1.0.0/generate.py",
+          "size": 17792,
+          "sha256": "0c5599c5b9430702c4c026cbb604b693bfbc1f6ccebbf2b781ba862d1666d80e"
+        },
+        "render": {
+          "path": "assets/sports/sports-fixed-annular-sole-and-four-prong-crown-kicking-tee-01/v1.0.0/thumbnail.png",
+          "size": 498421,
+          "sha256": "93a133d1e7616c0f83e2a12beaceebee16db8a693ee86e0739a25461e93080cf"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1859-volume02-20261025"
     }
   ]
 }
