@@ -1,0 +1,42 @@
+{
+  "id": "luthiery-whole-forming-post-and-seated-mould-preparation-bench-scene-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "luthiery",
+  "style": "source-preserved-low-poly",
+  "title": "Whole Forming Post and Seated Mould Preparation Bench",
+  "description": "One static luthier-tool preparation bench scene, zero new independent models and one new scene. The complete qualified unequal-radius upright forming-post tool sits on a finite raised left platform, retaining its entire post, four-corner flange, all four fasteners, real vented case, blank control and full ground sole. The entire qualified waisted internal-mould fixture rests separately on the wider lower right worktop with its full continuous notched body, long central opening and all six seated complete blocks unchanged. Every original GLB binary payload, POSITION/NORMAL array, full opaque PBR dictionary, face assignment, component and internal hierarchy is preserved at original unit scale under whole translations only; the complete generator sources are embedded solely as unexecuted provenance. A single newly authored connected scene boundary combines a finite floor with four full table legs, apron frame, broad lower worktop and finite raised left tool platform; the front under-table bay remains truly open. All original sole triangles have finite whole-area support on the actual corresponding deck, and the two complete object envelopes have a real horizontal gap. Unlike the earlier low psaltery-and-tripod floor terrace, this is an elevated four-legged workshop bench carrying two complete craft fixtures, not instruments at floor heights. Unlike the old engraving-vise/ruling-pen/rocker scene on one unchanged flat table, this has one new stepped support structure with separate broad complete apparatus zones and no old furniture or tools substituted or extracted. Floor and bench are scene-only architecture, not new model deliveries; no original counted again. Empty unpowered visual staging, not an operative linked manufacturing process. No wood ribs, instrument, workpiece, heating, shaping, template accuracy, old-model fit, load strength, human reach, thermal or electrical safety, handling, manufacture or equipment-performance capability made or verified. No textures, logos, writing, rigging, animation or interaction.",
+  "bounds": {
+    "x": 1.2400000095367432,
+    "y": 0.9599999785423279,
+    "z": 1.0850000381469727,
+    "unit": "m"
+  },
+  "triangles": 3740,
+  "materials": 10,
+  "files": {
+    "glb": {
+      "path": "assets/luthiery/luthiery-whole-forming-post-and-seated-mould-preparation-bench-scene-01/v1.0.0/model.glb",
+      "size": 332336,
+      "sha256": "51ccad649a9fb19f894aa1196f831bf819617c8bc48c46dc0d0e91b6dfd4182c"
+    },
+    "blend": {
+      "path": "assets/luthiery/luthiery-whole-forming-post-and-seated-mould-preparation-bench-scene-01/v1.0.0/source.blend",
+      "size": 1199424,
+      "sha256": "44097ee692bdec801eed74fadd605b0b380aff834e9aec2d74cf41f81bede504"
+    },
+    "generator": {
+      "path": "assets/luthiery/luthiery-whole-forming-post-and-seated-mould-preparation-bench-scene-01/v1.0.0/generate.py",
+      "size": 71767,
+      "sha256": "fdbea8d56bf41e6cf308f4e3afd0eb74baed55fc0b087fcca24001ebb69d02e7"
+    },
+    "render": {
+      "path": "assets/luthiery/luthiery-whole-forming-post-and-seated-mould-preparation-bench-scene-01/v1.0.0/thumbnail.png",
+      "size": 528454,
+      "sha256": "62b3dbd5c035f6f0517be121ebd851787dae06e791e4eda31038dbabb5832d8c"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

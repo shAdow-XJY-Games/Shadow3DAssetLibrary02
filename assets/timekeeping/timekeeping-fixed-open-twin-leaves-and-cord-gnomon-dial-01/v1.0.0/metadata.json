@@ -1,0 +1,42 @@
+{
+  "id": "timekeeping-fixed-open-twin-leaves-and-cord-gnomon-dial-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "timekeeping",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Open Twin Leaves and Cord Gnomon Dial",
+  "description": "One newly authored complete diptych-dial-inspired fixed portable instrument exterior. A whole low rectangular wooden-look lower leaf has a genuinely recessed circular blind compass cup with a full bottom and continuous inner wall. One complete dark diamond needle and full headed pivot occupy that cup. A separate whole blank upper leaf stands upright at the rear, joined by two entire short hinge-barrel exteriors and one full through-span pin. A single continuous thin diagonal cord reaches from the lower leaf near the front to the upper inner face, making the characteristic open two-leaf and string-gnomon organization visible. All leaf boundaries, cavity construction, full needle, hinge profiles, complete pin and cord coordinates are original numerical geometry. Unlike the earlier pedestal sundial, there is no round elevated disk, heavy column, triangular solid gnomon or dial-marker ring. Unlike the independent round pocket-compass prop, this is not that circular case reused or reduced and fitted with a lid; the compass cup belongs to the entire new rectangular lower leaf and the upper leaf/diagonal cord jointly define a different whole device. No existing dial, compass, book, case, marker or hinge mesh is imported or extracted. Eight closed editable whole meshes, four constant opaque untextured PBR roles, metres native Z up and whole horizontal-bounds-centred ground datum. One original model zero scenes. Uninscribed broad historical-instrument category art, not ivory, a named makers product, a museum replica or a historical calibrated layout. The fixed joined pose and slightly buried cord ends are visual attachments, not tension equilibrium or an operable hinge. No scales, printed text, geographical tables, winding, magnetism, time reading, true-north alignment, solar or lunar computation, shadow calibration, latitude accuracy, navigation reliability, manufacture, material performance, handling or safety capability made or verified. No rigging, animation or interaction.",
+  "bounds": {
+    "x": 0.16599999368190765,
+    "y": 0.17900000512599945,
+    "z": 0.17000000178813934,
+    "unit": "m"
+  },
+  "triangles": 1284,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/timekeeping/timekeeping-fixed-open-twin-leaves-and-cord-gnomon-dial-01/v1.0.0/model.glb",
+      "size": 115656,
+      "sha256": "66ef5a07bbd3628a17c0bdabedb728d8e3a840f670fe0c8dde8eda4eb612f0ca"
+    },
+    "blend": {
+      "path": "assets/timekeeping/timekeeping-fixed-open-twin-leaves-and-cord-gnomon-dial-01/v1.0.0/source.blend",
+      "size": 737344,
+      "sha256": "9b87a53cf5370ec92670eab1ae53024c847d068830d55239e8455ace69d840ed"
+    },
+    "generator": {
+      "path": "assets/timekeeping/timekeeping-fixed-open-twin-leaves-and-cord-gnomon-dial-01/v1.0.0/generate.py",
+      "size": 14241,
+      "sha256": "7cce7cba60e625f73bada1fd90ecc828d97b4c54e3e19a4d788a4208e41d8f93"
+    },
+    "render": {
+      "path": "assets/timekeeping/timekeeping-fixed-open-twin-leaves-and-cord-gnomon-dial-01/v1.0.0/thumbnail.png",
+      "size": 520508,
+      "sha256": "4fa0207718d600f32b622b4c797840c95779b0cbaa3168fe767057299b53a863"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

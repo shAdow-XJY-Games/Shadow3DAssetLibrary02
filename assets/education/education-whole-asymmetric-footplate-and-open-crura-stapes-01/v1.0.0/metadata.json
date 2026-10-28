@@ -1,0 +1,42 @@
+{
+  "id": "education-whole-asymmetric-footplate-and-open-crura-stapes-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "education",
+  "style": "S01-clean-geometric",
+  "title": "Whole Asymmetric Footplate and Open Crura Stapes",
+  "description": "One wholly newly authored greatly enlarged detached stapes-bone teaching schematic, about ten centimetres tall rather than life size. A full subtly curved asymmetric oval footplate retains a finite rim and thicker posterior area. Two complete tapering crura form a real central opening; the posterior crus bows more than the anterior and both retain finite inward-facing grooves. Their full lower ends are embedded in the footplate, and the upper shoulders join one complete slightly offset head and constricted neck with a shallow articular depression. Footplate, crural paths, grooves and head profile are independently drawn; no riding stirrup, leather, metal ring, former bone, organelle or old asset component is extracted or relabelled. One whole bone model, zero scenes, with two quiet opaque bone-like PBR roles. This is an artistic external-morphology diagram, not a scan, exact human specimen, universal anatomical shape, ear assembly or patient-specific model. Cartilage, annular ligament, muscle, vessels, marrow microstructure and neighbouring ossicles are omitted. The lowest footplate point is only an art datum, not a natural standing posture. No medical advice, diagnostic use, prosthesis fit, surgery, hearing mechanics, sound simulation, strength, rig or animation is claimed.",
+  "bounds": {
+    "x": 0.088232,
+    "y": 0.039165,
+    "z": 0.09906,
+    "unit": "m"
+  },
+  "triangles": 15744,
+  "materials": 2,
+  "files": {
+    "glb": {
+      "path": "assets/education/education-whole-asymmetric-footplate-and-open-crura-stapes-01/v1.0.0/model.glb",
+      "size": 1073904,
+      "sha256": "93c894d4c1ab4c4023e91602e28a8aaae9c8b71b8d0432e189e044e7351454f3"
+    },
+    "blend": {
+      "path": "assets/education/education-whole-asymmetric-footplate-and-open-crura-stapes-01/v1.0.0/source.blend",
+      "size": 1340192,
+      "sha256": "6a1d74b33bef1ed3439ed9ddf9a27f7bdaeac05ddf152d4b2d4da70709e069ec"
+    },
+    "generator": {
+      "path": "assets/education/education-whole-asymmetric-footplate-and-open-crura-stapes-01/v1.0.0/generate.py",
+      "size": 24648,
+      "sha256": "31d29f36145a35def703ae976660cea0bc9ab53c3f172f5046adb56a9fb22a48"
+    },
+    "render": {
+      "path": "assets/education/education-whole-asymmetric-footplate-and-open-crura-stapes-01/v1.0.0/thumbnail.png",
+      "size": 481373,
+      "sha256": "6b724c3be24d9dabec00a12c945a6804fc08bca2e7e1bb5d507cd4525d54a2ce"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

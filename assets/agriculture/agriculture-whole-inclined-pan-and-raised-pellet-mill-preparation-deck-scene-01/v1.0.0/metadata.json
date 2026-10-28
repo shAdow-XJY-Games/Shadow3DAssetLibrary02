@@ -1,0 +1,42 @@
+{
+  "id": "agriculture-whole-inclined-pan-and-raised-pellet-mill-preparation-deck-scene-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "agriculture",
+  "style": "source-preserved-low-poly",
+  "title": "Whole Inclined Pan and Raised Pellet Mill Preparation Deck",
+  "description": "One newly authored empty agricultural material-processing-machine preparation scene, zero new independent models and one scene. The complete accepted inclined shallow pan with stationary scrapers stands at left on the common floor: its whole pan, both full scraper stems and vanes, corrected full external bent cantilever, complete rear hub, pivot carriers, adjuster, motor, support and full skids remain intact. The complete accepted cutaway flat-die twin-roller pellet-mill display stands separately at right on one newly authored full raised step-front platform: its entire pierced die, both grooved rollers, whole axle/shaft, intentional rear half chamber/feed collar, closed lower case, motor/gearbox exteriors, front trough and both full runners remain unchanged. The single scene-only solid platform has a broad full upper seat, two complete integral front approach steps, continuous closed side faces and full bottom on one common finite rectangular floor. Both full original machines are translated only by exact binary-fraction offsets, without rotation, rescaling, local edits or fragment extraction. All original raw geometry buffers, normals, material dictionaries and internal transformations are preserved exactly. This is not a single production process or working linked line: the different machine architectures remain separated with an empty gap and no connecting feed tube, transfer conveyor or material stream. Unlike the earlier two-test-instrument scene with an open under-bench arch, this is a broad step-front complete raised deck beneath a whole squat machine, alongside a separate floor-standing pan machine. No pellets, feed, fertilizer, granulation, die pressure, motor action, throughput, fluid, physical loading, access compliance, process control, manufacture, food suitability, engineering or machinery safety capability is made or verified. No rigging animation or interaction.",
+  "bounds": {
+    "x": 4.375,
+    "y": 2.25,
+    "z": 1.7272886037826538,
+    "unit": "m"
+  },
+  "triangles": 6288,
+  "materials": 10,
+  "files": {
+    "glb": {
+      "path": "assets/agriculture/agriculture-whole-inclined-pan-and-raised-pellet-mill-preparation-deck-scene-01/v1.0.0/model.glb",
+      "size": 312948,
+      "sha256": "aa7e0665f6aa9eb409bd99651b4ce1f7ee40ab0ff4165ba9650b126a43bd6c09"
+    },
+    "blend": {
+      "path": "assets/agriculture/agriculture-whole-inclined-pan-and-raised-pellet-mill-preparation-deck-scene-01/v1.0.0/source.blend",
+      "size": 1551828,
+      "sha256": "7fb38e6274996b3495c12972e327abae44eb5c341942a88ad6693e6455dfa6be"
+    },
+    "generator": {
+      "path": "assets/agriculture/agriculture-whole-inclined-pan-and-raised-pellet-mill-preparation-deck-scene-01/v1.0.0/generate.py",
+      "size": 144872,
+      "sha256": "02f93ef65ff746c5ed1ee61cb28b4f3ada45fb5fb0e166e0816a77d5343144fd"
+    },
+    "render": {
+      "path": "assets/agriculture/agriculture-whole-inclined-pan-and-raised-pellet-mill-preparation-deck-scene-01/v1.0.0/thumbnail.png",
+      "size": 496852,
+      "sha256": "4641baf08e645a1f0c4bdf279bba75dd9c367d5e8fae787ff882fafdcd7c7cca"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

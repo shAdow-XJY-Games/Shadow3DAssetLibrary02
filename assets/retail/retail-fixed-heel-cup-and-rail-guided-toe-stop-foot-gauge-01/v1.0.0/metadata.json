@@ -1,0 +1,42 @@
+{
+  "id": "retail-fixed-heel-cup-and-rail-guided-toe-stop-foot-gauge-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "retail",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Heel Cup and Rail Guided Toe Stop Foot Gauge",
+  "description": "One newly authored complete empty foot-length-gauge-style retail tool. A whole low asymmetric foot-shaped plate carries a complete open-front curved heel cup at its rear. One full longitudinal side rail is attached by two complete rooted end brackets. A complete annular carriage surrounds that rail at one fixed location and carries an entire transverse upright toe-stop bar over the front of the plate. A full blank elongated index strip lies along the other side. No foot, shoe, numbers or calibrated graduations are shown. Eight closed editable meshes and three opaque constant PBR roles, metres native Z up and whole bounds-centred ground datum. The entire bottom of the base plate rests on ground. All new numeric geometry, not a vernier caliper scaled up, shoe last detached or shoe tree pressed flat. One original model zero scenes. Static empty artistic exterior only: no calibrated length reading, shoe size, clinical assessment, foot fit, adjustment travel, ergonomics, load, manufacture or safety capability. Rigging animation and interaction not made.",
+  "bounds": {
+    "x": 0.13899999856948853,
+    "y": 0.36500000953674316,
+    "z": 0.03500000014901161,
+    "unit": "m"
+  },
+  "triangles": 568,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/retail/retail-fixed-heel-cup-and-rail-guided-toe-stop-foot-gauge-01/v1.0.0/model.glb",
+      "size": 53900,
+      "sha256": "535e595a40552aa05ffd94cb9b6c6a3bb26d4ad6d678e7577a7b704799047498"
+    },
+    "blend": {
+      "path": "assets/retail/retail-fixed-heel-cup-and-rail-guided-toe-stop-foot-gauge-01/v1.0.0/source.blend",
+      "size": 633952,
+      "sha256": "6da40f1ea3907ed547cdc8f2c2cef4b0e6f5b4ea681fdbf44058c68b048d6e06"
+    },
+    "generator": {
+      "path": "assets/retail/retail-fixed-heel-cup-and-rail-guided-toe-stop-foot-gauge-01/v1.0.0/generate.py",
+      "size": 16232,
+      "sha256": "69124b8c43ac1579ca3d7d54cbd90d1692cbb18d0c3c26e3454ca5752e9b8223"
+    },
+    "render": {
+      "path": "assets/retail/retail-fixed-heel-cup-and-rail-guided-toe-stop-foot-gauge-01/v1.0.0/thumbnail.png",
+      "size": 479712,
+      "sha256": "3f0e077959b49268e68a6bef0b8baae0baed9091c791723c2d3ed02caa3dcea9"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "education-whole-stalked-capsule-and-segmented-annulus-sporangium-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "education",
+  "style": "S01-clean-geometric",
+  "title": "Whole Stalked Capsule and Segmented Annulus Fern Sporangium",
+  "description": "One newly authored enlarged complete detached fern leptosporangium exterior: a gently curved slender pedicel enters a flattened closed ovoid capsule, and fifteen stylized thick curved annulus cells form an interrupted vertical band on its rim. Every annulus cell has a real embedded root and finite sidewalls, with shallow geometric separating grooves, rather than a painted ring or detached bead necklace. The band ends around the lower stalk and subtly differentiated stomium-region wall. This is a generic static pre-release exterior teaching model, not an exact species, measured biological size, natural annulus-cell count, cell-wall microstructure, open dehiscence slit or reconstruction of internal spores. Newly authored capsule, stalk and annulus geometry; no cut-out moss capsule, borrowed moss teeth, reused fern crown or partial old model. One complete detached sporangium model, zero scenes and no separately counted cells; not a whole fern plant or sorus. Four restrained opaque solid PBR roles, no textures, transparent shell, labels, rig, animation or interaction. No cavitation, spore-dispersal mechanism, germination protocol, physical stability or medical claim. The finite stalk cut is a placement datum only.",
+  "bounds": {
+    "x": 0.057445,
+    "y": 0.024,
+    "z": 0.127465,
+    "unit": "m"
+  },
+  "triangles": 4916,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/education/education-whole-stalked-capsule-and-segmented-annulus-sporangium-01/v1.0.0/model.glb",
+      "size": 292788,
+      "sha256": "18dc8af1f384200bd96ebcec6431c71050a863efa50321b53559414589343876"
+    },
+    "blend": {
+      "path": "assets/education/education-whole-stalked-capsule-and-segmented-annulus-sporangium-01/v1.0.0/source.blend",
+      "size": 869484,
+      "sha256": "f0a258d8c1e092354731e1fd9ad52786ac8eb56f9f15f79af7f0173852d92fd0"
+    },
+    "generator": {
+      "path": "assets/education/education-whole-stalked-capsule-and-segmented-annulus-sporangium-01/v1.0.0/generate.py",
+      "size": 22728,
+      "sha256": "110cfd4fb63dc08cb5d24ce2be4547f01897dc907168f3de7ba54419a051ee6d"
+    },
+    "render": {
+      "path": "assets/education/education-whole-stalked-capsule-and-segmented-annulus-sporangium-01/v1.0.0/thumbnail.png",
+      "size": 488780,
+      "sha256": "9b54bcb408aa41bdba867111782bfb5c954a6ed1318dba202daec08925128b37"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "bakery-fixed-open-cylinder-and-side-crank-flour-sifter-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "bakery",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Open Cylinder and Side Crank Flour Sifter",
+  "description": "One newly authored complete empty static side-crank flour-sifter-style exterior. A whole tall open cylindrical wall with a rolled-looking upper rim and full lower annular foot encloses one connected thick coarse bottom lattice with genuine square through-openings. A complete external open side hand grip joins the cylinder at two full roots. One full transverse axle crosses the lower interior and meets an exterior offset crank arm with a whole end grip. Two entire bent-wire agitator stirrups return to that same axle, one downwards and one rearward, above and clear of the bottom lattice. All numerical geometry is new, not a food mill with its top bridge removed or a honey strainer detached from its stand. Eight closed editable meshes and three opaque constant PBR roles, metres native Z up and bounds-centred annular-foot datum. One original model zero scenes. Dry empty coarse static artistic appearance only: no flour, liquid, working sieve grade, sifting, rotation, hand forces, food-contact suitability, hygiene, manufacturing, structural load, stability or safety capability. Internal bearings, fasteners, seals, rigging, animation and interaction not made.",
+  "bounds": {
+    "x": 0.257999986410141,
+    "y": 0.1420000046491623,
+    "z": 0.16599999368190765,
+    "unit": "m"
+  },
+  "triangles": 3068,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/bakery/bakery-fixed-open-cylinder-and-side-crank-flour-sifter-01/v1.0.0/model.glb",
+      "size": 264112,
+      "sha256": "1245d60185e92364063e1d5cab147f5c0686dc84f3d1e6df0e279c167c4fe0f7"
+    },
+    "blend": {
+      "path": "assets/bakery/bakery-fixed-open-cylinder-and-side-crank-flour-sifter-01/v1.0.0/source.blend",
+      "size": 913952,
+      "sha256": "212c59f8991fdaea559a983ad03e7194d12d65932919555e758b9cb02e233e08"
+    },
+    "generator": {
+      "path": "assets/bakery/bakery-fixed-open-cylinder-and-side-crank-flour-sifter-01/v1.0.0/generate.py",
+      "size": 18723,
+      "sha256": "fd1d55587511fbbfe15a0c344c242518aa582007ed4c62e991a5473f9e4848e9"
+    },
+    "render": {
+      "path": "assets/bakery/bakery-fixed-open-cylinder-and-side-crank-flour-sifter-01/v1.0.0/thumbnail.png",
+      "size": 528500,
+      "sha256": "ec39fc67d4390e8ced68164c8471a7ee09b36177f42d7178efd1dfeb14ce6bda"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

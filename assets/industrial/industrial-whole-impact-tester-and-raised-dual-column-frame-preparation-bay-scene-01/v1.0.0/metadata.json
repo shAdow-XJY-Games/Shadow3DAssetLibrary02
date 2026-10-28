@@ -1,0 +1,42 @@
+{
+  "id": "industrial-whole-impact-tester-and-raised-dual-column-frame-preparation-bay-scene-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "industrial",
+  "style": "source-preserved-low-poly",
+  "title": "Whole Impact Tester and Raised Dual Column Frame Preparation Bay",
+  "description": "One newly authored empty materials-instrument preparation bay scene, zero new independent models and one scene. The complete accepted pendulum-impact-tester exterior stands on the left common floor, retaining its entire broad ground sole, twin buttressed standards, upper bearings and crossshaft, full long arm and hammer, two low separated anvils, whole offset dial and all retainers unchanged. The complete accepted twin-guide-column test-frame exterior stands separately on a right raised bridge bench, retaining its whole console base, both complete round guides, upper bridge, through-bored sleeve crosshead, opposed empty grip cases and jaws, every adjuster and blank panel unchanged. One new continuous thick inverted-U scene-only bench has two broad finite feet and a genuinely open rectangular under-bench passage; one common finite rectangular floor supports both the full impact tester sole and both full bench feet. Whole-unit wrappers translate only at exact binary-fraction offsets: no scaling, rotation, local edits, removed parts or fragment extraction. Complete original binary geometry payloads, normals, PBR dictionaries and internal node transformations preserved byte-for-byte. Instruments are distinct and separated without touching each other; their top heights align approximately through the raised support rather than changing model size. Unlike the earlier core-drill/yoke scene there is no continuous multi-level stepped terrace. This is a left floor-standing tall instrument plus a separate right through-arch bench and complete smaller axial frame, with an empty central separation. No specimen, actual impact, tension, measured force, strain, accuracy, calibration, inspection procedure, loading, construction, workflow simulation, engineering or safety capability made or verified. No rigging, animation, physics or interaction.",
+  "bounds": {
+    "x": 3.25,
+    "y": 2.125,
+    "z": 1.9165135622024536,
+    "unit": "m"
+  },
+  "triangles": 3888,
+  "materials": 10,
+  "files": {
+    "glb": {
+      "path": "assets/industrial/industrial-whole-impact-tester-and-raised-dual-column-frame-preparation-bay-scene-01/v1.0.0/model.glb",
+      "size": 215020,
+      "sha256": "1ffb9b737907eb1058110beb225737149b8bfb2f9f70038d99fcbd6f7bf41584"
+    },
+    "blend": {
+      "path": "assets/industrial/industrial-whole-impact-tester-and-raised-dual-column-frame-preparation-bay-scene-01/v1.0.0/source.blend",
+      "size": 1387372,
+      "sha256": "8902c318a19fdd49cd974b1d6d7f7b084fbf41cdfc8c9fd4c52426a8bfb94683"
+    },
+    "generator": {
+      "path": "assets/industrial/industrial-whole-impact-tester-and-raised-dual-column-frame-preparation-bay-scene-01/v1.0.0/generate.py",
+      "size": 95287,
+      "sha256": "729309fd371ec0802da904a949ab15f7f1d7b7d154787bd2b733bd4c930bdbc1"
+    },
+    "render": {
+      "path": "assets/industrial/industrial-whole-impact-tester-and-raised-dual-column-frame-preparation-bay-scene-01/v1.0.0/thumbnail.png",
+      "size": 487642,
+      "sha256": "09a14b6d3cc7e03bd056dce43af80aa932ba7b261d782c56b62319b1f131d1d5"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

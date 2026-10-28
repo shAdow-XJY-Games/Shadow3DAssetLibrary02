@@ -1,0 +1,42 @@
+{
+  "id": "harbor-whole-folded-hatch-and-stopper-deep-hold-workdeck-scene-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "harbor",
+  "style": "source-preserved-low-poly",
+  "title": "Whole Folded Hatch and Stopper Deep Hold Workdeck Scene",
+  "description": "One static dry hatch-and-forward-workdeck scene containing two complete qualified original harbor modules, zero new independent models. The entire fixed folded two-leaf hatch retains its full open rectangular coaming, both panels, all three transverse axes, two end stools, two full rails and both rollers. Its complete annular sole sits around a matching true opening into a deep blind-bottom hold below the deck, so the uncovered portion of the hatch genuinely communicates with that lower empty space instead of ending on a flat display floor. The entire accepted deep-grooved roller and notched-cross-bridge stopper sits separately farther along the continuous raised forward workdeck; both true-bored cheeks, full roller with integral journals, whole notch bridge and full mount are preserved. Only two unit-scale proper translations, no crop, extracted component, scaling, rotation, material edits or alternate pose; all seventeen original meshes and all eight full PBR roles retained. Both full original generator bytes and exact qualified GLB bytes are embedded with SHA256. A single newly authored whole deck-and-deep-hold support body is scene-only, with uninterrupted surrounding deck, full outside walls, four real interior walls and a complete lower floor. One scene, zero new models. Unlike the coplanar loading-pier composition, fendered quay front or two-height anchor inspection court, the new relation is a full hatch opening aligned to an actual deep space within a continuous forward deck carrying the separate whole stopper. Fourteen finite opposed support seats, eight original sevenpoint root groups, original selected openings and new deep-hold air/floor controls are checked. Original parts are neither removed nor regenerated from simplified proxies. No complete ship, buoyancy, working cargo hold, drainage, hatch seal, chain, cargo, water or people. The support is a dry sectional display context, not vessel construction, watertightness, operating clearance, safe access, deck loading, stopping, installation, navigation, manufacture or maritime/public safety capability. All original source limits remain; no rigging, animation or interaction.",
+  "bounds": {
+    "x": 7.9,
+    "y": 4.2,
+    "z": 4.119999980926513,
+    "unit": "m"
+  },
+  "triangles": 1068,
+  "materials": 9,
+  "files": {
+    "glb": {
+      "path": "assets/harbor/harbor-whole-folded-hatch-and-stopper-deep-hold-workdeck-scene-01/v1.0.0/model.glb",
+      "size": 59312,
+      "sha256": "1a3beab19119363c1305b2816dc3eddbd4ccce0b5073a5068c5e5e5bc35ecc46"
+    },
+    "blend": {
+      "path": "assets/harbor/harbor-whole-folded-hatch-and-stopper-deep-hold-workdeck-scene-01/v1.0.0/source.blend",
+      "size": 834932,
+      "sha256": "d4f83cecf1c9be8b2961b6c73ebc40b497bafb6d7f218201746428c5f1d0e315"
+    },
+    "generator": {
+      "path": "assets/harbor/harbor-whole-folded-hatch-and-stopper-deep-hold-workdeck-scene-01/v1.0.0/generate.py",
+      "size": 146978,
+      "sha256": "7408e626e46508dda1c5effcf9bf91c779c6e36fbc3c1e7af76b0b0f47e32407"
+    },
+    "render": {
+      "path": "assets/harbor/harbor-whole-folded-hatch-and-stopper-deep-hold-workdeck-scene-01/v1.0.0/thumbnail.png",
+      "size": 442553,
+      "sha256": "2f484323fd923d34f94b5d35665560345ccabfeddd3e05a506e5225a89ec6bdd"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

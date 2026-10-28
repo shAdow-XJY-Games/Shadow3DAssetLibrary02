@@ -1,0 +1,42 @@
+{
+  "id": "toys-fixed-six-notched-bars-and-orthogonal-burr-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "toys",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Six Notched Bars and Orthogonal Burr",
+  "description": "One newly authored complete six-bar burr-inspired fixed wooden interlock appearance. Two whole notched bars extend in each of three perpendicular directions. Every bar remains one continuous closed solid from its full end face to the opposite end face, with a long uninterrupted outer spine and genuine deep inner shoulder cuts rather than intersecting solid boxes or painted joints. Original cyclic allocation of shared central cells leaves all six complete solids mutually nonoverlapping and meeting on finite planar faces around a small central void. The two vertical bars retain full flat lower ends supporting the connected assembly. Numeric cells, cuts and complete bar placement are independently authored; no traditional puzzle plan, named designer cut pattern or existing model coordinates are copied. Unlike the earlier quarter-turn puzzle track, this is not one curved board with two shallow running grooves and a male/female end connector; unlike the ribbon-linked block toy, there are no ribbons or serial flat tiles. The whole object is an orthogonal three-dimensional captive-looking arrangement of six newly cut complete bars, not another track module, a change to tile count or a recoloured block. Six closed separately editable meshes, four opaque constant untextured wood-look PBR roles, metres native Z up and whole horizontal-bounds-centred ground datum. One whole model zero scenes; the six pieces are not six assets. Burr category inspiration only: this original frozen cut allocation is a visual sculpture, not a verified historical puzzle or playable solution. Exact static planar contacts and disjoint solid cells do not establish a possible assembly route, release order, lock behaviour, tolerance, material elasticity or removable part. No solveability, manipulation, child suitability, manufacture, hand fit, stability, load, strength or safety capability. No exploded view, loose spare bars, hands, labels, rigging, animation or interaction.",
+  "bounds": {
+    "x": 0.11999999731779099,
+    "y": 0.11999999731779099,
+    "z": 0.11999999731779099,
+    "unit": "m"
+  },
+  "triangles": 624,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/toys/toys-fixed-six-notched-bars-and-orthogonal-burr-01/v1.0.0/model.glb",
+      "size": 60268,
+      "sha256": "f1826049658eba375c9a37e1b41cb1c217479a3485551262fdc98f6fa9770d04"
+    },
+    "blend": {
+      "path": "assets/toys/toys-fixed-six-notched-bars-and-orthogonal-burr-01/v1.0.0/source.blend",
+      "size": 654080,
+      "sha256": "efbca541b5698b02132a0b7f12ea97c8beea3d84fb2f667b3dedbbd32803178b"
+    },
+    "generator": {
+      "path": "assets/toys/toys-fixed-six-notched-bars-and-orthogonal-burr-01/v1.0.0/generate.py",
+      "size": 12839,
+      "sha256": "8f3b552b2223d4058ba25532d5e29f638670cb84ee59fed4e8ff8aec9c5a6526"
+    },
+    "render": {
+      "path": "assets/toys/toys-fixed-six-notched-bars-and-orthogonal-burr-01/v1.0.0/thumbnail.png",
+      "size": 539690,
+      "sha256": "cf8d29f96d567ca581a5ae2a4ad98b27b86ba2eb0ba6b807bc61a4542629d99d"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

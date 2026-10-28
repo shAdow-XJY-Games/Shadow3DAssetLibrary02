@@ -1,0 +1,42 @@
+{
+  "id": "sports-fixed-asymmetric-split-pad-and-whole-retention-band-finger-tab-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "sports",
+  "style": "source-preserved-low-poly",
+  "title": "Asymmetric Split Pad And Whole Retention Band Finger Tab",
+  "description": "One independently authored whole split-finger archery-tab-inspired empty static visual prop. One finite-thickness asymmetric leather-like pad has two unequal rounded front lobes separated by a real open front split ending in a broad continuous rear body. One complete short rear clamp plate overlaps that rear body, one complete thick arched retention band has two rooted ends and a clear full empty window, and two complete small proud clamp heads join the plate. Five whole closed meshes and three opaque constant PBR roles. The entire irregular split outline, both lobes, full band, clamp and fastener exteriors are newly authored numeric geometry, not a scaled vented forearm shield, removed gauntlet palm, glove finger or copied equipment model. Broad finite pad underside provides the static display datum; native metres, Z up and horizontally centred bounds. One original model and zero scenes. No hand, fingers, arm, bow, arrow, string, loose strip, labels, textures, animation or rigging. Decorative fixed geometric appearance only, with no protection, fit, sizing, drawing or shooting technique, real-use suitability, leather flexibility, adjustment, strength, manufacture or safety claim.",
+  "bounds": {
+    "x": 0.08699999749660492,
+    "y": 0.10599999874830246,
+    "z": 0.02800000086426735,
+    "unit": "m"
+  },
+  "triangles": 420,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/sports/sports-fixed-asymmetric-split-pad-and-whole-retention-band-finger-tab-01/v1.0.0/model.glb",
+      "size": 39532,
+      "sha256": "1df1c74d71dd5f1131dac50ceb3881c7b7cfb9232f2ded29511abfb35218f975"
+    },
+    "blend": {
+      "path": "assets/sports/sports-fixed-asymmetric-split-pad-and-whole-retention-band-finger-tab-01/v1.0.0/source.blend",
+      "size": 588060,
+      "sha256": "80636ca23c4a1548de55d6701bbac1670d053997042fb5b48ef29b016f99fe52"
+    },
+    "generator": {
+      "path": "assets/sports/sports-fixed-asymmetric-split-pad-and-whole-retention-band-finger-tab-01/v1.0.0/generate.py",
+      "size": 18420,
+      "sha256": "111a2b4580161438b65e543fee4e639fa3bd70b168a0a782effe88cbf46afc67"
+    },
+    "render": {
+      "path": "assets/sports/sports-fixed-asymmetric-split-pad-and-whole-retention-band-finger-tab-01/v1.0.0/thumbnail.png",
+      "size": 459674,
+      "sha256": "c2969c03a6c448b7714bbfcf4cc212c9f775c69c5120dc9394ef2ab4bf6cc42c"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

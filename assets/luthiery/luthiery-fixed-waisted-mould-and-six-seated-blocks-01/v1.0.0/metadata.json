@@ -1,0 +1,42 @@
+{
+  "id": "luthiery-fixed-waisted-mould-and-six-seated-blocks-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "luthiery",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Waisted Mould and Six Seated Blocks",
+  "description": "One newly authored complete fixed luthier internal-mould-inspired workshop tool assembly. A full thick wooden-look waisted form has two broad unequal end lobes, four interrupted corner shoulders, six genuine perimeter notches and one long central through opening. Six entire unshaped pale block exteriors sit in the two end seats and four corner seats, rising above the form while retaining full flat ground faces. The form remains one closed continuous material body around the empty long opening; its outer notch walls and full upper/lower faces are actual geometry. Every contour point, notch boundary, elliptical through-opening, block and support coordinate is original. This is a complete fixed empty mould-with-blocks appearance, not an incomplete violin asset or a violin with its neck, strings and boards deleted. Unlike the old hollow waisted violin, it has no acoustic chamber, rib shell, top/back pair, f holes, neck or string fittings; its thick central tool plate, central access void and external block seats define a different complete object. No previous violin outline, mesh, rib ring, backplate or acoustic cavity is reused, extracted or resized. Seven closed editable whole meshes, four opaque constant untextured PBR roles, metres native Z up and full horizontal-bounds-centred ground datum. One original model zero scenes; the six blocks remain subordinate to the complete fixture. Generic maker-tool category art only, not a famous makers mould, instrument-size pattern, measured historical reconstruction or manufacturing plan. No wood ribs, lining, clamping workpiece, glue, authentic block grain, mounting screws or usable pattern measurements. Fixed overlaps deliberately join the blocks to their seats; no removable fit, instrument compatibility, rib-forming accuracy, pressure, stability, load, hand fit, material performance, manufacture or safety capability is provided or verified. No animation, rigging or interaction.",
+  "bounds": {
+    "x": 0.1860000044107437,
+    "y": 0.3540000021457672,
+    "z": 0.04100000113248825,
+    "unit": "m"
+  },
+  "triangles": 560,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/luthiery/luthiery-fixed-waisted-mould-and-six-seated-blocks-01/v1.0.0/model.glb",
+      "size": 56280,
+      "sha256": "467f42aed63ea6ee8d6a3d331c30548874df7a96c603cb59e4686e76b7e5772b"
+    },
+    "blend": {
+      "path": "assets/luthiery/luthiery-fixed-waisted-mould-and-six-seated-blocks-01/v1.0.0/source.blend",
+      "size": 651632,
+      "sha256": "91bab78b9cb29c64e916a7fb1abc4b0715a75b7f53657813f2721f0dbbe2c397"
+    },
+    "generator": {
+      "path": "assets/luthiery/luthiery-fixed-waisted-mould-and-six-seated-blocks-01/v1.0.0/generate.py",
+      "size": 13423,
+      "sha256": "0dbca58cdfdc95c540af6e9befe1d78128ced62f0e3c2af63bd18f2601845fb8"
+    },
+    "render": {
+      "path": "assets/luthiery/luthiery-fixed-waisted-mould-and-six-seated-blocks-01/v1.0.0/thumbnail.png",
+      "size": 517402,
+      "sha256": "a119fd0522723e2eb4d3f1a7e1063184c2621bd0f4547db1556862a920a7e5e1"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

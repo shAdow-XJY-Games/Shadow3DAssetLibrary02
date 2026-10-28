@@ -1,0 +1,42 @@
+{
+  "id": "architecture-fixed-paired-rectangular-frame-girders-and-continuous-deck-span-01",
+  "version": "1.0.0",
+  "category": "architecture",
+  "assetKind": "modular",
+  "theme": "architecture",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Paired Rectangular Frame Girders and Continuous Deck Span",
+  "description": "One newly authored complete fixed rectangular-frame-girder bridge illustration. Two whole continuous upright side frames each have three large genuine rectangular through-openings bounded by full straight upper and lower chords and four complete vertical posts, with no diagonal web members or bowed chords. Each entire frame is a single closed connected material boundary, not a loose set of crossing bars, pierced thin I-web or truncated truss. A complete low straight deck continuously joins the two lower-frame strips across its full width and seats on two whole full-width terminal piers with integral broadened flat feet. Five whole closed editable meshes, three opaque constant PBR roles, one model zero scenes, metres Z up and true complete horizontal bounds-centred ground datum. All numeric cells, dimensions, deck, openings and complete supports authored afresh; no previous beam, truss, bridge, frame, deck or support geometry imported, cropped, stretched, bent or simplified. Compared with the old independent castellated I-beam, the new assembly has two deep rectangular continuous frames rather than a single thin pierced web between wide flanges, a transverse full-width deck and two remote complete end supports leaving an actual open underspan. Compared with the old lenticular bridge there are no opposed bowed chords, alternating diagonals, short deck hangers, separate high bearing posts or upper cross-bracing; the deck directly shares the level of the straight lower-frame strips. The pair of complete unbraced orthogonal frames and deck relation defines the new body, not merely an altered hole count or colour. Four actual finite opposed seat patches with five separated sided witnesses each, two whole ground soles and eighteen selected clear-window, open-deck, underspan and solid-post controls are checked. Generic Vierendeel-like visual vocabulary only, with solid stylized member exteriors and no hidden rectangular-tube interiors represented. No actual rigid-joint or bending analysis, U-frame action, wind bracing, member grade, weld specification, load, span rating, deflection, vibration, traffic, walking access, parapet safety, bearings, construction, assembly or structural/civil safety capability. Dry static game architecture, no people, terrain, rigging, animation or interaction.",
+  "bounds": {
+    "x": 7.8,
+    "y": 3.0,
+    "z": 3.7,
+    "unit": "m"
+  },
+  "triangles": 324,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/architecture/architecture-fixed-paired-rectangular-frame-girders-and-continuous-deck-span-01/v1.0.0/model.glb",
+      "size": 15296,
+      "sha256": "5da70b1edc1ff2254030297b8dea2b6944560b5b2f96ff5f2398dfdade790d42"
+    },
+    "blend": {
+      "path": "assets/architecture/architecture-fixed-paired-rectangular-frame-girders-and-continuous-deck-span-01/v1.0.0/source.blend",
+      "size": 557424,
+      "sha256": "3cd85b13a22899774dea41f59b9833a3c900e9d89af6fa42f60ec9d770d0b2a7"
+    },
+    "generator": {
+      "path": "assets/architecture/architecture-fixed-paired-rectangular-frame-girders-and-continuous-deck-span-01/v1.0.0/generate.py",
+      "size": 12828,
+      "sha256": "ea75e963f5702ad8d0beb569422f7b851bb4b22fe659bafe16f1fa30d3d671dc"
+    },
+    "render": {
+      "path": "assets/architecture/architecture-fixed-paired-rectangular-frame-girders-and-continuous-deck-span-01/v1.0.0/thumbnail.png",
+      "size": 447944,
+      "sha256": "4facb47a1740814e2c04eed991b9d174123ce560cef26aced5cd3443cf7ce64d"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

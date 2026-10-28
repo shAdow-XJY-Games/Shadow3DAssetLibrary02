@@ -1,0 +1,42 @@
+{
+  "id": "household-fixed-pillow-body-and-flared-neck-hot-water-bottle-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "household",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Pillow Body and Flared Neck Hot Water Bottle",
+  "description": "One newly authored complete static hot-water-bottle-style exterior. A broad flattened pillow-shaped bag has straight-sided rounded shoulders and a finite flat back face, with a complete thin raised perimeter seam around the bag. A whole flared hollow neck enters the narrow shoulder and carries one full inserted stopper with a broad grip head. A full lower hanging ear has a genuine through hole clear of the bag body. Six closed editable meshes and three opaque constant PBR roles, metres native Z up and whole bounds-centred ground datum. The full flat back rests on ground in a side-lying display pose. All new numerical geometry, not an ellipsoidal metal canteen recoloured or a bottle strap removed. One original model zero scenes. Static artistic exterior only, not a filled or usable container: no water, temperature, heat transfer, pressure, thermal or therapeutic performance, skin contact, sealing, material suitability, hygiene, manufacture or safety capability. Internal bag cavity, fluid system, threads, rigging, animation and interaction not made.",
+  "bounds": {
+    "x": 0.1428000032901764,
+    "y": 0.32600000500679016,
+    "z": 0.03500000014901161,
+    "unit": "m"
+  },
+  "triangles": 1860,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/household/household-fixed-pillow-body-and-flared-neck-hot-water-bottle-01/v1.0.0/model.glb",
+      "size": 161140,
+      "sha256": "0411e7d1186cbfb339d2b06e2d80a0cd8eccc15c5deb35e959a2c93103b8bc25"
+    },
+    "blend": {
+      "path": "assets/household/household-fixed-pillow-body-and-flared-neck-hot-water-bottle-01/v1.0.0/source.blend",
+      "size": 769248,
+      "sha256": "d89893abd22df3cd3878079dc04a40150c299e6889c0b1ab92f82d3325596a26"
+    },
+    "generator": {
+      "path": "assets/household/household-fixed-pillow-body-and-flared-neck-hot-water-bottle-01/v1.0.0/generate.py",
+      "size": 16568,
+      "sha256": "762973419c055122de6e4198d95b25b9a90a9da6f1707880efcd6fedfce05a19"
+    },
+    "render": {
+      "path": "assets/household/household-fixed-pillow-body-and-flared-neck-hot-water-bottle-01/v1.0.0/thumbnail.png",
+      "size": 480864,
+      "sha256": "51a96a9c8895389c24b129289a063ebd68a70abbdefc6dd7add023c4723ce650"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

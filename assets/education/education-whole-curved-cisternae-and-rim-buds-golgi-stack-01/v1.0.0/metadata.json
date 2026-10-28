@@ -1,0 +1,42 @@
+{
+  "id": "education-whole-curved-cisternae-and-rim-buds-golgi-stack-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "education",
+  "style": "S01-clean-geometric",
+  "title": "Whole Curved Cisternae and Rim Buds Golgi Stack",
+  "description": "One wholly newly authored enlarged complete local Golgi-stack teaching unit, not the entire Golgi ribbon or a whole cell. Four separate complete gently curved flattened cisterna forms retain their full rounded undulating outlines and deliberately visible intercisternal spaces. The cis-most representative has no fenestra, while each later sac has one real off-centre through-opening with finite inner walls. Four complete rim-budding profiles retain both neck and bulb, each rooted in its own parent cisterna. All sac boundaries, curvature, fenestra topology, stack offsets and budding profiles are new; no old chloroplast granum, envelope, stroma floor or intergranum band is extracted, scaled or recoloured. The four-sac scheme and sparse fenestrae are a generic regularized illustration informed by yeast Golgi morphology, not a measured Pichia specimen, universal cisternal count or full taxonomic rule. Thin solid cisterna volumes stand for external membrane-bound sac forms; internal lumens, bilayers, molecular coats, matrix, ER interface, free transport vesicles and cargo are deliberately omitted. Separate sacs are intentional in this suspended cytoplasmic diagram, not mechanically attached shelf plates; the lowest point is only an art origin, with no false pedestal or stability claim. One complete local stack model, zero scenes and no individual-sac counts. Four quiet opaque PBR roles; no labels, textures, transparency, rig, transport, budding animation, biochemical function, medical or diagnostic simulation.",
+  "bounds": {
+    "x": 0.146316,
+    "y": 0.064103,
+    "z": 0.069585,
+    "unit": "m"
+  },
+  "triangles": 14176,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/education/education-whole-curved-cisternae-and-rim-buds-golgi-stack-01/v1.0.0/model.glb",
+      "size": 1069624,
+      "sha256": "ffc221f3382e9c0961e5d34a318c144ef7ad4d616927834f812432a30d3fc717"
+    },
+    "blend": {
+      "path": "assets/education/education-whole-curved-cisternae-and-rim-buds-golgi-stack-01/v1.0.0/source.blend",
+      "size": 1323116,
+      "sha256": "0fe883faac2048dd3d3c1289ea915dae30443401d70ecdce01c683b3d16783f6"
+    },
+    "generator": {
+      "path": "assets/education/education-whole-curved-cisternae-and-rim-buds-golgi-stack-01/v1.0.0/generate.py",
+      "size": 23820,
+      "sha256": "3f5e9b4f22f067b4abc66d60333984a5f526e016c193e8735052edc2c4ff04b9"
+    },
+    "render": {
+      "path": "assets/education/education-whole-curved-cisternae-and-rim-buds-golgi-stack-01/v1.0.0/thumbnail.png",
+      "size": 514851,
+      "sha256": "af5481ed112d591820d372d3748dd10e18ec94695651c61fa43b2601334c63a3"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "sports-fixed-inclined-spine-and-returned-clamp-fletching-jig-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "sports",
+  "style": "source-preserved-low-poly",
+  "title": "Inclined Spine And Returned Clamp Fletching Jig",
+  "description": "One independently authored complete empty fixed fletching-jig-inspired static bench prop. A broad low bevelled base carries a full inclined rear spine; the lower front has one complete thick blind receiver cup on a full neck, with an external short side spindle and a complete polygonal knob. A single continuous long forked clamp includes two thin full leaves and their broad upper return, with a real narrow open slot, two full outer grip pads, and one complete rear mounting neck into the spine. A separate full top V-notched open crown and a short side lock stem/head complete the assembly. Thirteen closed whole meshes and three opaque constant PBR roles, metre-style native Z up, whole horizontal bounds-centred finite ground datum. Every body profile, cup section, clamp loop and support relation is new; no old binding-cradle cheek/register, magnetic dial stand arms/dial, wooden handscrew jaw, spindle or thread mesh is reused or extracted. One whole new model and zero scenes, not separately counted clamps or knobs. Generic empty unbranded illustrative appearance only. No arrow, shaft, feather, vane, adhesive, target, projectile, person or operating sequence. No real manufacturing dimensions, alignment calibration, indexing accuracy, motion, fixture fit, magnetic force, spring behavior, clamping capacity, weapon or arrow construction instructions, safety, precision or functional equipment capability represented or verified. No labels, text, textures, rig, animation or interaction.",
+  "bounds": {
+    "x": 0.16599999368190765,
+    "y": 0.2370060533285141,
+    "z": 0.274417519569397,
+    "unit": "m"
+  },
+  "triangles": 860,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/sports/sports-fixed-inclined-spine-and-returned-clamp-fletching-jig-01/v1.0.0/model.glb",
+      "size": 82620,
+      "sha256": "7b118633880747173d24b29fde12402e5961fb151f4a6081e6a83fe15c7c5b13"
+    },
+    "blend": {
+      "path": "assets/sports/sports-fixed-inclined-spine-and-returned-clamp-fletching-jig-01/v1.0.0/source.blend",
+      "size": 674972,
+      "sha256": "75a7ab33cc5fbb274a5b73046578fa85e307100c61d0e1159c90f4203eedea95"
+    },
+    "generator": {
+      "path": "assets/sports/sports-fixed-inclined-spine-and-returned-clamp-fletching-jig-01/v1.0.0/generate.py",
+      "size": 20113,
+      "sha256": "f8474d7b290b75d71a3e70efb25e44c1f6c354bd85493b04479f55db588a7daa"
+    },
+    "render": {
+      "path": "assets/sports/sports-fixed-inclined-spine-and-returned-clamp-fletching-jig-01/v1.0.0/thumbnail.png",
+      "size": 469133,
+      "sha256": "6ffcf0fa332587e8abdea3e9b2a286a53d63676e6773d0ab9979961c07e8bf4f"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

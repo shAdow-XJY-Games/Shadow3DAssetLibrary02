@@ -1,0 +1,42 @@
+{
+  "id": "sports-fixed-single-spherical-body-and-three-blind-wells-bowling-ball-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "sports",
+  "style": "source-preserved-low-poly",
+  "title": "Single Spherical Body And Three Blind Wells Bowling Ball",
+  "description": "One independently authored whole static bowling-ball-inspired visual prop. A complete near-spherical body and three deep true grip-style recesses form one connected closed material surface. Two smaller rear openings and one wider forward opening have finite continuous bevel rims, full vertical inner walls and separate closed bottoms; there is no hollow common chamber or through-bore. The rounded exterior, all recess walls and three floors share boundary vertices, not black discs, inserted rings or overlapping spheres. A small flattened underside patch provides a finite static display sole. One whole closed mesh and two opaque constant PBR material roles, metre-style native Z up and horizontally centred ground datum. Every grid projection, hole placement and blind-well boundary is newly authored, not an oval training ball rescaled, a valve sphere extracted, or a rod-end through-bore copied. One original model zero scenes. No ball return, pin, alley, fingers, text, branding, surface markings, texture, rigging, animation or rolling physics. Stylized empty geometric appearance only, not regulation dimensions, drilling layout, hand fit, weight, density, grip suitability, balance, bounce, rolling or scoring performance, material formulation, manufacture, real sports equipment or safety certification.",
+  "bounds": {
+    "x": 0.2199999988079071,
+    "y": 0.2199999988079071,
+    "z": 0.21799999475479126,
+    "unit": "m"
+  },
+  "triangles": 7050,
+  "materials": 2,
+  "files": {
+    "glb": {
+      "path": "assets/sports/sports-fixed-single-spherical-body-and-three-blind-wells-bowling-ball-01/v1.0.0/model.glb",
+      "size": 594304,
+      "sha256": "23de1567a44d7a7b8ed223c00c35cdf847802f0966b6608d343e2ae5410f5608"
+    },
+    "blend": {
+      "path": "assets/sports/sports-fixed-single-spherical-body-and-three-blind-wells-bowling-ball-01/v1.0.0/source.blend",
+      "size": 1288660,
+      "sha256": "8b804bd5a819ef514ed5323e086a2eff454d931400a0601a06ac097928f5e051"
+    },
+    "generator": {
+      "path": "assets/sports/sports-fixed-single-spherical-body-and-three-blind-wells-bowling-ball-01/v1.0.0/generate.py",
+      "size": 19424,
+      "sha256": "0850cbb09f72d065a0c21eaa5c835ce6390ce9409b3e92ebb9a4c81b9771ef9c"
+    },
+    "render": {
+      "path": "assets/sports/sports-fixed-single-spherical-body-and-three-blind-wells-bowling-ball-01/v1.0.0/thumbnail.png",
+      "size": 534066,
+      "sha256": "4c23eb2b5fb0b017b9f6da4b1bd5daaa16dd61ba9c0bc2937948a8b6a70b8d98"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "household-fixed-radial-guard-and-tilted-three-blade-desk-fan-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "household",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Radial Guard and Tilted Three Blade Desk Fan",
+  "description": "One newly authored complete static tabletop-fan exterior. A broad flat-bottom oval base carries a full rising neck and one transverse pivot pin. The complete short head is fixed tilted upward twelve degrees about that pin. Three entire swept broad blades surround a full central hub inside a complete front and rear radial-wire cage with intermediate hoops and a common outer rim. A whole rear motor-case exterior, complete pivot end caps, blank front badge, raised rear knob and one blank base control complete the unit. All numerical geometry is new, no mining-fan rotor, bellmouth, skid or hood-dryer caster stand is imported or split. The short two-sided wire cage on an elevated table pedestal is structurally distinct from a thick duct housing on ground skids or a downward open salon hood. Three opaque untextured PBR roles; one model zero scenes. Metres native Z up and whole bounds-centred ground datum. Static artistic exterior only: no electricity, motor, airflow, cooling, oscillation, pitch adjustment, guarding or blade safety, voltage, load, ergonomics, manufacture or certified performance. Interior wiring, electrical supply, rigging, animation and interaction not made.",
+  "bounds": {
+    "x": 0.25600001215934753,
+    "y": 0.18400000035762787,
+    "z": 0.3923934996128082,
+    "unit": "m"
+  },
+  "triangles": 4692,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/household/household-fixed-radial-guard-and-tilted-three-blade-desk-fan-01/v1.0.0/model.glb",
+      "size": 429508,
+      "sha256": "8ea9e60cfedb23d34605ba4ea0fb4b4cfb0b00330af19f82f803adc38256b821"
+    },
+    "blend": {
+      "path": "assets/household/household-fixed-radial-guard-and-tilted-three-blade-desk-fan-01/v1.0.0/source.blend",
+      "size": 1265184,
+      "sha256": "8467a1ac24bcce0ea86f964dfe817ed6ee70c093bf12598dba52670d1a179e66"
+    },
+    "generator": {
+      "path": "assets/household/household-fixed-radial-guard-and-tilted-three-blade-desk-fan-01/v1.0.0/generate.py",
+      "size": 18962,
+      "sha256": "c61629bd267c55fa897332115f9029c6d0250c1121a72a3f558ce075187318c6"
+    },
+    "render": {
+      "path": "assets/household/household-fixed-radial-guard-and-tilted-three-blade-desk-fan-01/v1.0.0/thumbnail.png",
+      "size": 519451,
+      "sha256": "0f5f72ed18ebee5eb4d0485d1c00f35443087b8841b7e01b239e04a08ef82410"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

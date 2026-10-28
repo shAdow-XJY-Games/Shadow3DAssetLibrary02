@@ -1,0 +1,42 @@
+{
+  "id": "waterworks-whole-rectangular-frame-span-and-crossing-flume-banks-scene-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "waterworks",
+  "style": "source-preserved-low-poly",
+  "title": "Whole Rectangular Frame Span and Crossing Flume Banks Scene",
+  "description": "One complete dry crossing-banks scene preserving two entire qualified original modules: the paired rectangular-frame bridge and the converging throat flume with both complete communicating side wells. The entire bridge is raised by one rigid translation onto two integral high banks, while the full flume remains below on the lower open-ended race floor, running perpendicular beneath the whole deck. All ten original meshes and all seven original full PBR roles remain unchanged, including both entire bridge frames and piers, full deck, entire shaped flume, both whole side wells and both hollow connections. Both full qualified generator bytes and exact GLBs are embedded with SHA256; only unit translations, no scaling, rotation, parts extraction, material change, alternate pose or omitted source component. One newly authored whole scene-only ground body continuously joins the low floor to the two raised banks, with actual finite opposed seats under all five original ground roots. Nine finite seats, four sevenpoint original duct-root groups and forty-four selected original/new gap or solid-control rays are checked. The new relation is a genuine perpendicular over-under crossing with two bank elevations and preserved open flume mouths, not side-by-side objects on a display plinth. All original qualifying limitations remain. Zero new independent models, one scene. Dry artistic terrain context only; no operating hydraulic station, water, people, traffic, stairs, ramps, safe access, flood clearance, earth bearing, structural load transfer, hydraulic calibration, water-retention or civil safety capability. No rigging, animation or interaction.",
+  "bounds": {
+    "x": 8.2,
+    "y": 7.5,
+    "z": 4.700000047683716,
+    "unit": "m"
+  },
+  "triangles": 1236,
+  "materials": 8,
+  "files": {
+    "glb": {
+      "path": "assets/waterworks/waterworks-whole-rectangular-frame-span-and-crossing-flume-banks-scene-01/v1.0.0/model.glb",
+      "size": 47396,
+      "sha256": "9e46c6c7d39c3f30d159f2c8b7865f9b10b2d4bd79cc8146daaca78bd4a46952"
+    },
+    "blend": {
+      "path": "assets/waterworks/waterworks-whole-rectangular-frame-span-and-crossing-flume-banks-scene-01/v1.0.0/source.blend",
+      "size": 782204,
+      "sha256": "4abbe4ef5c943130113a08806ccdac849c86e5663ec45ad646f8e355b05b43ec"
+    },
+    "generator": {
+      "path": "assets/waterworks/waterworks-whole-rectangular-frame-span-and-crossing-flume-banks-scene-01/v1.0.0/generate.py",
+      "size": 126581,
+      "sha256": "3ba1e5eed942243e2b9a8a9094095a5d8f9985f8d4d72caae304cd000e4d713c"
+    },
+    "render": {
+      "path": "assets/waterworks/waterworks-whole-rectangular-frame-span-and-crossing-flume-banks-scene-01/v1.0.0/thumbnail.png",
+      "size": 491851,
+      "sha256": "f3a9b6e146097e776d9b29c11870eac329e6df072e5c68ec3f723d69fc83a599"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

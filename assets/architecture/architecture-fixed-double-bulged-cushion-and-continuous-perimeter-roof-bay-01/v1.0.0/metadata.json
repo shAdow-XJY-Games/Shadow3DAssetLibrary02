@@ -1,0 +1,42 @@
+{
+  "id": "architecture-fixed-double-bulged-cushion-and-continuous-perimeter-roof-bay-01",
+  "version": "1.0.0",
+  "category": "architecture",
+  "assetKind": "modular",
+  "theme": "architecture",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Double Bulged Cushion and Continuous Perimeter Roof Bay",
+  "description": "One newly authored complete static double-bulged cushion-roof exterior bay. A single unbroken closed rectangular cushion envelope has an upward compound-curved upper field, a separate downward compound-curved lower field, a full finite flat perimeter band and continuous closed edge wall. Both surfaces bulge away from the level perimeter instead of following one parallel-thickness saddle or barrel; the lower belly remains visible above the open central bay. A separate whole closed rectangular annular frame retains an actual empty central opening and supports the entire flat cushion perimeter over a finite opposed annular seat. Four complete straight corner columns with integral broadened finite flat feet meet the underside of that frame on four actual full top faces. Six whole closed editable meshes, four opaque constant PBR roles, native metre-style Z up and full horizontal bounds-centred four-foot datum; one independent architectural module zero scenes. All visible coordinates newly authored together, no old canopy, cushion, textile, shell, frame or column mesh imported, cut or rescaled. Unlike the existing inward-edged anticlastic fabric shade or straight-edged ruled saddle bay, the perimeter is level and held by a continuous hollow rectangular frame while two independent opposed bulging fields make one closed exterior volume. Unlike an ordinary framed panel or thick flat slab, the centre has genuinely different upper and lower curvatures and depth. Generic pneumatic-cushion architectural appearance only, original proportions; the opaque solid outer envelope does not reconstruct internal foil layers or a real air cavity, ETFE material optics, welds, extrusions, pressure hoses or air-handling plant. No actual inflation, membrane mechanics, pressure, leakage, insulation, translucency, weather protection, drainage, load, stability, human access, building-code compliance, assembly dimensions, manufacture, construction or structural/public safety capability made or verified. No brand, named building, furniture bed, actors, rigging, animation or interaction.",
+  "bounds": {
+    "x": 4.36,
+    "y": 4.36,
+    "z": 3.9800000000000004,
+    "unit": "m"
+  },
+  "triangles": 1552,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/architecture/architecture-fixed-double-bulged-cushion-and-continuous-perimeter-roof-bay-01/v1.0.0/model.glb",
+      "size": 104216,
+      "sha256": "420ee1e1ee378bebf78a8cca31788340e6528d181b949a8e55bac44a459a1642"
+    },
+    "blend": {
+      "path": "assets/architecture/architecture-fixed-double-bulged-cushion-and-continuous-perimeter-roof-bay-01/v1.0.0/source.blend",
+      "size": 651752,
+      "sha256": "f70967ac9e714ccdd02a2efb18cd45f850a5428cbfb1b1d1ad9e4b8182fec22c"
+    },
+    "generator": {
+      "path": "assets/architecture/architecture-fixed-double-bulged-cushion-and-continuous-perimeter-roof-bay-01/v1.0.0/generate.py",
+      "size": 13336,
+      "sha256": "ca2a7fb234ff72566e428cf80be3ab73ea203fe5f4a3a2d2dd33bc5373847a1a"
+    },
+    "render": {
+      "path": "assets/architecture/architecture-fixed-double-bulged-cushion-and-continuous-perimeter-roof-bay-01/v1.0.0/thumbnail.png",
+      "size": 366111,
+      "sha256": "2abe09e48cf87176ce7ebd12c9e44bf720112d959eedb9032e3b2ea9ad55ef9f"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

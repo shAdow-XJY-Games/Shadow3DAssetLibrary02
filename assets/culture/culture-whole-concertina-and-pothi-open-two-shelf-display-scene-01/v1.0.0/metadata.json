@@ -1,0 +1,42 @@
+{
+  "id": "culture-whole-concertina-and-pothi-open-two-shelf-display-scene-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "culture",
+  "style": "source-preserved-low-poly",
+  "title": "Whole Concertina and Pothi Open Two Shelf Display",
+  "description": "One static book-form comparison scene, zero new independent models and one new scene. The complete qualified concertina book stands on the upper shelf, retaining its one continuous six-panel folded leaf and both entire end boards. The complete qualified R1 pothi-inspired bundle rests on the lower shelf, retaining both full pierced boards, all eight whole edge-bevelled folios, all twenty aligned through holes and its single complete closed returning cord. Every original raw GLB buffer, oriented triangle, POSITION and NORMAL array, complete PBR dictionary, face assignment and internal hierarchy is retained unchanged at original metre scale under whole translations only; complete generator sources are embedded solely as unexecuted provenance. One newly authored continuous open rack boundary joins four full-height grounded posts with two full shelves. The upper deck extends completely beyond all four post caps, so no exposed top corner reads as a loose fragment. Both originals retain measured finite whole-sole support at separate elevations; there is an actual empty vertical interval over the lower bundle and under the upper shelf. No enclosing back wall, adjacent raised island, furniture-room assembly, extracted original component or additional book variant is made. Unlike the twin-table reading commons this is a compact stacked book-form display rather than seats, tables and a separate bookcase; unlike the side-by-side two-level musical-instrument floor it has two overlapping complete shelf levels on one four-foot open structure. No old component changed, recoloured, scaled or recounted. General original static cultural-category exhibit, not a historical combined arrangement, authentic manuscript, museum replica, preservation/storage recommendation, human-scale installation or working rack design. No written content, reading sequence, opening animation, load capacity, physical stability, manufacturing, installation, handling or safety capability supplied. Rigging, animation and interaction not made.",
+  "bounds": {
+    "x": 0.4399999976158142,
+    "y": 0.20000000298023224,
+    "z": 0.33399999141693115,
+    "unit": "m"
+  },
+  "triangles": 6516,
+  "materials": 10,
+  "files": {
+    "glb": {
+      "path": "assets/culture/culture-whole-concertina-and-pothi-open-two-shelf-display-scene-01/v1.0.0/model.glb",
+      "size": 567220,
+      "sha256": "523ebeb8b4c91a03d4d577858a042d6c04d63805c84af3053bf8e10a22040069"
+    },
+    "blend": {
+      "path": "assets/culture/culture-whole-concertina-and-pothi-open-two-shelf-display-scene-01/v1.0.0/source.blend",
+      "size": 1500992,
+      "sha256": "0ab82b04eb4afe74bfe1444c7818fa91f5b4b2530f40d9cb0442a6a0607021d6"
+    },
+    "generator": {
+      "path": "assets/culture/culture-whole-concertina-and-pothi-open-two-shelf-display-scene-01/v1.0.0/generate.py",
+      "size": 120204,
+      "sha256": "28e30178b5780dd650b7f7d7aa992a768f25b6314297d21a612b0b22a1c99cef"
+    },
+    "render": {
+      "path": "assets/culture/culture-whole-concertina-and-pothi-open-two-shelf-display-scene-01/v1.0.0/thumbnail.png",
+      "size": 562259,
+      "sha256": "ac4b66d84d31d8ac2634f78d4a46fcb65bdef224fbcc8781bec5f7ebad2d1dd4"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

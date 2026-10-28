@@ -1,0 +1,42 @@
+{
+  "id": "bakery-whole-side-crank-sifter-and-cake-pan-cantilever-ring-bay-scene-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "bakery",
+  "style": "source-preserved-low-poly",
+  "title": "Whole Side Crank Sifter and Cake Pan Cantilever Ring Bay",
+  "description": "One complete static empty bakery vessel bay, one new scene zero new independent models. The entire qualified side-crank flour-sifter-style model, with its open cylinder, coarse lattice, complete grip, transverse axle, two agitator stirrups and exterior crank, sits over the entire qualified split-wall cake-pan-style model with its full base and exterior latch retained. A newly authored complete annular support under the sifter foot meets one full rear cantilever neck and a single complete upright on a broad low base. The cake pan stands directly on the base beneath the ring opening; the vertical space between the full pan lip and the ring underside is genuinely open. Both original GLB buffers, normals, PBR dictionaries, face assignments and internal hierarchy remain unchanged at unit scale under whole translations only. The base, rear post, neck and full open ring are scene-only environment, not separately counted equipment. This is not the earlier twin-pier pharmacy bridge or a four-leg sieve stand with substituted parts: the whole receiving vessel is centered under the whole tall crank vessel on a single rear open-ring support. No clipping, extraction, scaling or recolouring of qualified models. Empty static artistic exhibit only; no flour, cake, fluid, filtering, sifting, turning, baking, sealing, food contact, structural load, stability, mounting, manufacture or safety capability. Rigging animation and interaction not made.",
+  "bounds": {
+    "x": 0.36000001430511475,
+    "y": 0.38999998569488525,
+    "z": 0.3259999752044678,
+    "unit": "m"
+  },
+  "triangles": 6538,
+  "materials": 8,
+  "files": {
+    "glb": {
+      "path": "assets/bakery/bakery-whole-side-crank-sifter-and-cake-pan-cantilever-ring-bay-scene-01/v1.0.0/model.glb",
+      "size": 564756,
+      "sha256": "46d1bfb6bf9a9da0d0a87c7738c0840c7d1c7d64dc1c8fa4d6c720735b67a07e"
+    },
+    "blend": {
+      "path": "assets/bakery/bakery-whole-side-crank-sifter-and-cake-pan-cantilever-ring-bay-scene-01/v1.0.0/source.blend",
+      "size": 1471064,
+      "sha256": "ae5b4966a4dc1e343fd10bdedde7f0bf67b4f414209a59321a5e6d6818f0c52b"
+    },
+    "generator": {
+      "path": "assets/bakery/bakery-whole-side-crank-sifter-and-cake-pan-cantilever-ring-bay-scene-01/v1.0.0/generate.py",
+      "size": 147636,
+      "sha256": "d49a74673fddfc5830987a3372b7716b457f3d77c1751fe6f233c8022606da29"
+    },
+    "render": {
+      "path": "assets/bakery/bakery-whole-side-crank-sifter-and-cake-pan-cantilever-ring-bay-scene-01/v1.0.0/thumbnail.png",
+      "size": 529450,
+      "sha256": "7f98d4f33c4327a9d2126bd2ba0a75681acdbe0080beeb9386855d23f418a32e"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

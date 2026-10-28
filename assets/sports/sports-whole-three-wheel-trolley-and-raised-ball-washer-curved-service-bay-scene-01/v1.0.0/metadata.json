@@ -1,0 +1,42 @@
+{
+  "id": "sports-whole-three-wheel-trolley-and-raised-ball-washer-curved-service-bay-scene-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "sports",
+  "style": "source-preserved-low-poly",
+  "title": "Whole Three Wheel Trolley And Raised Ball Washer Curved Service Bay",
+  "description": "One new static dry golf-equipment display scene, zero new models and one scene. The entire separately qualified empty three-wheel trolley, including every complete wheel, axle, frame member, lower tray, upper U cradle, retention band and push grip, rests at original unit scale on a newly profiled asymmetric lobed deck. The entire qualified open-tank eye-plunger ball-washer exterior rests separately on a broad raised circular dais, with its whole original finite foot surface fully supported. A newly authored low semicircular rear wall stays outside the full washer envelope and opens towards the front. Both original GLB buffers, all positions and normals, indices, full PBR dictionaries and assignments, whole component inventory, internal hierarchy and original generators are preserved unchanged. Only two whole unit translations are added. Three original closed scene-only environment solids, no object cutouts, rescaling, recolouring or imported old scene environment. Full finite sole triangles have matching opposed environment face coverage, rather than centre-point or bounding-box support alone. A lateral air gap separates the two complete original assemblies. Not the old hopper-machine and cradle-trolley court, and not a rescue ring/can deck recolour; the whole originals, radial raised bay, open curved boundary, outline and support relationships are distinct. Empty unbranded dry illustrative grouping, not a working wash station, compatible golf kit, service workflow or safety installation. No ball, bag, person, water, drain, cleaning effect, wheel motion, loading, ergonomics, functional fit, stability, capacity, manufacture or safety claim. No animation, text, logo or external textures.",
+  "bounds": {
+    "x": 2.259999990463257,
+    "y": 2.0,
+    "z": 1.3904999494552612,
+    "unit": "m"
+  },
+  "triangles": 5740,
+  "materials": 8,
+  "files": {
+    "glb": {
+      "path": "assets/sports/sports-whole-three-wheel-trolley-and-raised-ball-washer-curved-service-bay-scene-01/v1.0.0/model.glb",
+      "size": 507016,
+      "sha256": "c6606068416bc8c000d1a9a2d21b2a0fd9af24d1b6c2cd192a7984a83f2e4292"
+    },
+    "blend": {
+      "path": "assets/sports/sports-whole-three-wheel-trolley-and-raised-ball-washer-curved-service-bay-scene-01/v1.0.0/source.blend",
+      "size": 1427308,
+      "sha256": "8311da144a0dc535dbd1b3fe62de47ed012a1f2104f54083f562390f956d6c87"
+    },
+    "generator": {
+      "path": "assets/sports/sports-whole-three-wheel-trolley-and-raised-ball-washer-curved-service-bay-scene-01/v1.0.0/generate.py",
+      "size": 126428,
+      "sha256": "cf16265b3bdb609694f288fe1d4120b3a7ac637507de78c4ba5530156068f882"
+    },
+    "render": {
+      "path": "assets/sports/sports-whole-three-wheel-trolley-and-raised-ball-washer-curved-service-bay-scene-01/v1.0.0/thumbnail.png",
+      "size": 519540,
+      "sha256": "149cb9fc610f74129b833ab70323166c40e1285f79ac7b88b69dc05edda9a68b"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

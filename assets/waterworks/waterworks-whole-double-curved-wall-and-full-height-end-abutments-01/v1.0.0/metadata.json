@@ -1,0 +1,42 @@
+{
+  "id": "waterworks-whole-double-curved-wall-and-full-height-end-abutments-01",
+  "version": "1.0.0",
+  "category": "architecture",
+  "assetKind": "modular",
+  "theme": "waterworks",
+  "style": "S01-clean-geometric",
+  "title": "Whole Double Curved Wall and Full Height End Abutments",
+  "description": "One newly authored complete fixed double-curved arch-wall and end-abutment waterworks illustration. A single finite-thickness curved barrier spans an open concave side and has continuous horizontal curvature, a separately curved height profile and a thicker lower section tapering into a thin uninterrupted curved crest. The wall is not a planar inclined slab, constant-radius vertical cylinder segment or a terrain-filled overflow apron. Two whole full-height flared end abutment blocks meet the two complete radial vertical end sections on genuine finite opposed faces, instead of four repeated rear buttresses or remote tiebacks. The wall and both blocks have complete flat bottom soles. Three whole closed editable meshes, three opaque constant PBR roles, one model zero scenes, true horizontal bounds-centred ground datum in metre-style Z up. All numerical geometry newly authored together; no old wall, vault, slab, dam, terrain, gate or basin mesh imported, scaled, bent or removed. Compared with the previous inclined barrier and pierced buttress assembly, this has one compound-curved continuous wall meeting only its two full-height ends and has no separate crest cap, rear transverse portals or broad support slab. Compared with the rounded overflow-crest and low-basin body, there is no longitudinal channel, solid curved apron, guide wall, basin floor or end sill. Generic double-curved dam vocabulary only; artistic proportions and end-block shapes, not a named structure replica. Two full finite end-section contacts, five separated sided witnesses each, three complete ground soles, seven selected concave-side empty radial rays with matching wall-hit controls and four open-space vertical rays are checked. No actual reservoir, water, canyon geology, drainage galleries, gates, spillways, reinforcement, terrain or personnel. No retention, sealing, seepage, hydrostatic force, thrust-transfer calculation, abutment capacity, seismic response, load, stability, flood protection, construction, manufacture, access, civil or public-safety capability. No rigging, animation or interaction.",
+  "bounds": {
+    "x": 8.954036255196,
+    "y": 3.729422863406,
+    "z": 4.0,
+    "unit": "m"
+  },
+  "triangles": 1032,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/waterworks/waterworks-whole-double-curved-wall-and-full-height-end-abutments-01/v1.0.0/model.glb",
+      "size": 55076,
+      "sha256": "438ff5ff8a4acb33a7d6fa4d6e7ace6aec16113e37be3576bdc1017924f8e776"
+    },
+    "blend": {
+      "path": "assets/waterworks/waterworks-whole-double-curved-wall-and-full-height-end-abutments-01/v1.0.0/source.blend",
+      "size": 586576,
+      "sha256": "7060d84c4b0c3e3e706ed2f764b479fb71e499670cf47f021c28bbe07319a9a5"
+    },
+    "generator": {
+      "path": "assets/waterworks/waterworks-whole-double-curved-wall-and-full-height-end-abutments-01/v1.0.0/generate.py",
+      "size": 12874,
+      "sha256": "5e9669a6839e743c5fdf3e63a24870b9761bd55f4782f5ed7442322a3c8c8ed8"
+    },
+    "render": {
+      "path": "assets/waterworks/waterworks-whole-double-curved-wall-and-full-height-end-abutments-01/v1.0.0/thumbnail.png",
+      "size": 410200,
+      "sha256": "23578957b35d21b36ef9aa56c5ef2253d312873efac12ffc4e68a8900c7d817e"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

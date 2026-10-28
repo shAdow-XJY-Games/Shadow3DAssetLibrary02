@@ -1,0 +1,42 @@
+{
+  "id": "education-whole-histone-octamer-and-wrapped-double-helix-nucleosome-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "education",
+  "style": "S01-clean-geometric",
+  "title": "Whole Histone Octamer and Wrapped Double Helix Nucleosome",
+  "description": "One newly authored complete coarse nucleosome core-particle schematic, one teaching model and zero scenes. Eight whole closed histone-envelope lobes represent two copies each of H3, H4, H2A and H2B in a compact interlocking core. Two continuous complete backbone tubes form a locally right-handed double helix that follows about 1.65 left-handed superhelical turns around that core, linked by 146 whole coarse base-pair bridges. Complete segment endpoints remain visible and capped, with no added plinth. Every core coordinate, wrapped backbone path and bridge is newly authored; no old straight twisted-ladder display, pedestal, spine or rung mesh is cropped, bent, relabelled or reused. The backbone is a simplified idealized double helix, and each protein is an entire coarse envelope, not a measured crystal surface, detailed histone fold, amino-acid sequence or atomic model. Histone tails, linker histone H1, long linker DNA, bases, sugar/phosphate chemistry, realistic unequal molecular grooves, bound ions and water are deliberately omitted. This represents a core particle rather than a complete chromosome or atomically complete nucleosome. Numbers and handed wrapping are structural teaching choices informed by published core-particle structures; dimensions, colours and molecular contacts are schematic. No sequence, molecular dynamics, force, gene expression, binding affinity, transcription, disease or medical claim. No textures, labels, transparency, rig, animation or interactions. Finite geometric overlap witnesses show assembly contact only, not biological bonds; the lowest exterior point is an art origin, not a physical support claim.",
+  "bounds": {
+    "x": 0.138095,
+    "y": 0.13854,
+    "z": 0.072,
+    "unit": "m"
+  },
+  "triangles": 26720,
+  "materials": 7,
+  "files": {
+    "glb": {
+      "path": "assets/education/education-whole-histone-octamer-and-wrapped-double-helix-nucleosome-01/v1.0.0/model.glb",
+      "size": 1925092,
+      "sha256": "b8da8b6475219cc483338c3ff4449901916dfeb42c0b886f88223a9d454026b7"
+    },
+    "blend": {
+      "path": "assets/education/education-whole-histone-octamer-and-wrapped-double-helix-nucleosome-01/v1.0.0/source.blend",
+      "size": 2854820,
+      "sha256": "a7d91c5faf1860c1f34a971690b74745dbe1af1e411e26e0db2d0da7519cabd9"
+    },
+    "generator": {
+      "path": "assets/education/education-whole-histone-octamer-and-wrapped-double-helix-nucleosome-01/v1.0.0/generate.py",
+      "size": 25173,
+      "sha256": "db4239f2e100c6851c96969a4e9dc6dd706069d8ba966da33b3ae6f31b936620"
+    },
+    "render": {
+      "path": "assets/education/education-whole-histone-octamer-and-wrapped-double-helix-nucleosome-01/v1.0.0/thumbnail.png",
+      "size": 593069,
+      "sha256": "848cb60a075abc7aad79b1f6edc5f01b14b8d1089ed3a5522bd5709143a6209b"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

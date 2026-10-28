@@ -1,0 +1,42 @@
+{
+  "id": "industrial-whole-orthogonal-roll-banks-and-coil-winder-long-bench-scene-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "industrial",
+  "style": "source-preserved-low-poly",
+  "title": "Whole Orthogonal Roll Banks and Coil Winder Long Bench",
+  "description": "One newly authored whole wire-equipment preparation bench scene, zero new independent models and one scene. The complete accepted two-plane seven-roll-bank straightener stands at the left of one long new scene-only bench, retaining every full grooved roll, individual shaft and mount, perpendicular carrier plate, corrected whole inset support, adjuster, guide eye and complete base. The entire accepted hand-crank coil-winder stands separately on the right, with its whole double-supported spindle, both bobbin flanges, complete twenty-turn winding, drive handwheel/crank, front traverse rails and carriage, empty through guide eye and full broad base unchanged. Both original bases meet the same whole tabletop at original unit scale. One newly drawn continuous thick double-bay support has three entire broad legs, a full shared top and two real under-bench openings, all borne on a single common finite floor. The broad shared workspace and two empty under-bench bays distinguish this whole layout from the earlier tall-impact-tester/floor plus short raised single-arch instrument arrangement. The complete original models are moved only by exact binary-fraction translations; no scale, rotation, geometry crop, local extraction, recolor, rewound coil or new mechanism. Every raw original mesh/normal buffer, material dictionary and internal transformation is retained exactly. A visible empty interval separates the two full machines. No wire connects them: this is not a synchronized production line or material-flow demonstration. No current, winding action, wire straightening, handwheel motion, tension, machine compatibility, workshop procedure, load, installation, manufacture, engineering or safety capability is made or verified. No rig, animation or interaction.",
+  "bounds": {
+    "x": 4.625,
+    "y": 1.75,
+    "z": 1.4300000667572021,
+    "unit": "m"
+  },
+  "triangles": 9832,
+  "materials": 10,
+  "files": {
+    "glb": {
+      "path": "assets/industrial/industrial-whole-orthogonal-roll-banks-and-coil-winder-long-bench-scene-01/v1.0.0/model.glb",
+      "size": 531324,
+      "sha256": "f241df2d6e40597c38690857df0dbaf94eefbb6475c4e52df6832680df6521af"
+    },
+    "blend": {
+      "path": "assets/industrial/industrial-whole-orthogonal-roll-banks-and-coil-winder-long-bench-scene-01/v1.0.0/source.blend",
+      "size": 2073016,
+      "sha256": "ab7fa2db6982495eaab31163b39171df86266d34cac52d3edc97cc6d5f559937"
+    },
+    "generator": {
+      "path": "assets/industrial/industrial-whole-orthogonal-roll-banks-and-coil-winder-long-bench-scene-01/v1.0.0/generate.py",
+      "size": 143063,
+      "sha256": "e621c02cf4be90d7e9bb750699dbcc0f1cce7ac5277a703920e68407f2d9dc1f"
+    },
+    "render": {
+      "path": "assets/industrial/industrial-whole-orthogonal-roll-banks-and-coil-winder-long-bench-scene-01/v1.0.0/thumbnail.png",
+      "size": 485009,
+      "sha256": "9629af542cbd28f60c7516d1d1a5d67a5a9bb3bd9815e4060961df8762695106"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

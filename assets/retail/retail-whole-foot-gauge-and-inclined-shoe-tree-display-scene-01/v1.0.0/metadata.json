@@ -1,0 +1,42 @@
+{
+  "id": "retail-whole-foot-gauge-and-inclined-shoe-tree-display-scene-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "retail",
+  "style": "source-preserved-low-poly",
+  "title": "Whole Foot Gauge and Inclined Shoe Tree Display",
+  "description": "One complete static empty retail shoe-tool exhibit, one new scene zero new independent models. One entire qualified heel-cup and rail-guided toe-stop foot gauge lies flat on the left side of a full low base. One whole qualified split-toe twin-stem shoe tree is raised on the right at a fixed25-degree pitch, resting with its full original forefoot soles and heel bottom on a complete matching inclined deck. Two full wedge-shaped side cheeks support that deck above the base and leave a genuine open central under-deck volume. A full low front toe ledge meets the entire shoe-tree front without splitting or replacing it. All original raw GLB payloads, normals, PBR dictionaries, face assignments and internal hierarchies remain unchanged at unit scale under whole proper rigid transforms only. The low base, sloping deck, side cheeks and front ledge are scene-only environment, not separately counted furniture. Unlike the large horn-machine/table/last workcorner, flat three-bay tray or vertical hook panel, this exhibit combines one grounded gauge station with a supported inclined whole insert. No clipping, extraction, rescaling or recolouring. No feet, shoes, measurement, shoe size, fit, clinical assessment, stretching, restraint, load, correct working posture, manufacture or safety claim. Rigging animation and interaction not made.",
+  "bounds": {
+    "x": 0.46000000834465027,
+    "y": 0.44999998807907104,
+    "z": 0.22619740664958954,
+    "unit": "m"
+  },
+  "triangles": 1932,
+  "materials": 8,
+  "files": {
+    "glb": {
+      "path": "assets/retail/retail-whole-foot-gauge-and-inclined-shoe-tree-display-scene-01/v1.0.0/model.glb",
+      "size": 175704,
+      "sha256": "6dfcaa19132f39ec8255d6a470110dcf46cacdee41cd7244f3e5a1f31b3a69b4"
+    },
+    "blend": {
+      "path": "assets/retail/retail-whole-foot-gauge-and-inclined-shoe-tree-display-scene-01/v1.0.0/source.blend",
+      "size": 941088,
+      "sha256": "f48024787b3a4ab15fc32a236abec1b8d86ecc478c2705fb969fa1f30c6300a0"
+    },
+    "generator": {
+      "path": "assets/retail/retail-whole-foot-gauge-and-inclined-shoe-tree-display-scene-01/v1.0.0/generate.py",
+      "size": 67096,
+      "sha256": "71ac15774d4e8dafb9b156747a0014387e573601c17e287f7d291e14f67e0571"
+    },
+    "render": {
+      "path": "assets/retail/retail-whole-foot-gauge-and-inclined-shoe-tree-display-scene-01/v1.0.0/thumbnail.png",
+      "size": 481840,
+      "sha256": "246b5d2c84de85d0c543e7dbc637c580ccf0ffb868413adf3fbcf366c06b0e5a"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

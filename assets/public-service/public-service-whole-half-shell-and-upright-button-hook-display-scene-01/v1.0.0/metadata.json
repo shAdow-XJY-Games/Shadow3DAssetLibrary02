@@ -1,0 +1,42 @@
+{
+  "id": "public-service-whole-half-shell-and-upright-button-hook-display-scene-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "public-service",
+  "style": "source-preserved-low-poly",
+  "title": "Whole Half Shell and Upright Button Hook Display",
+  "description": "One complete static dressing-tool exhibit, one new scene zero new independent models. One entire qualified half-shell twin-pull-cord sock-aid kit lies in its original open pose on a broad low display deck at the left. The whole qualified returning-wire button hook is turned upright at the right by one exact rigid quarter-turn, with its complete grip end resting on a small supported ledge and a slim fixed locating peg passing freely through its original wire eye. A narrow side back panel connects the small ledge and peg to the full base. Both original raw GLB payloads, normals, PBR dictionaries, face assignments and internal hierarchy are preserved unchanged at unit scale, with whole rigid transforms only. The complete deck, side panel, grip ledge and locating peg are scene-only environment, not separately counted equipment. This combines an open floor-level cord arrangement and one vertical tool support instead of the old three-bay sewing tray or freestanding wheelchair/rollator aisle. No clipping, extraction, rescaling or recolouring. Static unoccupied art only, not clinical or accessibility guidance: no garment, body, real dressing outcome, patient suitability, reach/accessibility compliance, restraint, load, strength, manufacture, installation or safety capability. Rigging animation and interaction not made.",
+  "bounds": {
+    "x": 0.47999998927116394,
+    "y": 0.41999998688697815,
+    "z": 0.28999999165534973,
+    "unit": "m"
+  },
+  "triangles": 4296,
+  "materials": 9,
+  "files": {
+    "glb": {
+      "path": "assets/public-service/public-service-whole-half-shell-and-upright-button-hook-display-scene-01/v1.0.0/model.glb",
+      "size": 373256,
+      "sha256": "1f96860bcf8d2ea05f36ce02009828afbc545c65dcddc464215fcb279b6fb113"
+    },
+    "blend": {
+      "path": "assets/public-service/public-service-whole-half-shell-and-upright-button-hook-display-scene-01/v1.0.0/source.blend",
+      "size": 1219600,
+      "sha256": "09b5c2d7dac44cf424e66dddf61aaf07307dd59342d07891c2a1ea6150c50af4"
+    },
+    "generator": {
+      "path": "assets/public-service/public-service-whole-half-shell-and-upright-button-hook-display-scene-01/v1.0.0/generate.py",
+      "size": 111558,
+      "sha256": "c262fb9a9f13b1203cc033d09e4813fe5c36874453f612b9bcba68afd6a68aa8"
+    },
+    "render": {
+      "path": "assets/public-service/public-service-whole-half-shell-and-upright-button-hook-display-scene-01/v1.0.0/thumbnail.png",
+      "size": 473441,
+      "sha256": "d089b47bc268f6e66312f133858425936cc3dee71ab5825a581ffc7fe0467092"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

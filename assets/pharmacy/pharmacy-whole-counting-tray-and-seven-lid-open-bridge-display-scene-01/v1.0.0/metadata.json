@@ -1,0 +1,42 @@
+{
+  "id": "pharmacy-whole-counting-tray-and-seven-lid-open-bridge-display-scene-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "pharmacy",
+  "style": "source-preserved-low-poly",
+  "title": "Whole Counting Tray and Seven Lid Open Bridge Display",
+  "description": "One complete static empty pharmacy-tool display, one new scene zero new independent models. One entire qualified flat counting deck with its deep covered pouring channel rests on the low front platform. One whole qualified seven-well individually lidded organizer is elevated on a rear open bridge shelf, with the original three raised and four closed lids retained. Two complete side piers connect the rear shelf to the full low base, leaving a genuine broad open void below the shelf. Both original raw GLB payloads, normals, PBR material dictionaries, face assignments and internal hierarchies remain unchanged at unit scale under whole translations only. The low base and twin-pier open bridge are scene-only environment, not separately counted equipment. Unlike a solid stepped office plinth or enclosed three-bay sewing tray, the arrangement has a large forward full counting tray and a separate overhead rear lid-row display on an open support frame. No clipping, part extraction, rescaling or recolouring. Empty artistic exhibit only: no medication, dose, dispensing accuracy, treatment, storage suitability, hygiene, accessibility, ergonomic workflow, load, manufacture or safety capability. Rigging animation and interaction not made.",
+  "bounds": {
+    "x": 0.41999998688697815,
+    "y": 0.5,
+    "z": 0.2670227885246277,
+    "unit": "m"
+  },
+  "triangles": 1748,
+  "materials": 8,
+  "files": {
+    "glb": {
+      "path": "assets/pharmacy/pharmacy-whole-counting-tray-and-seven-lid-open-bridge-display-scene-01/v1.0.0/model.glb",
+      "size": 167440,
+      "sha256": "ee26f2a983baeb65dfeb090684a505781a9646115875e08f3c640a7d5612737c"
+    },
+    "blend": {
+      "path": "assets/pharmacy/pharmacy-whole-counting-tray-and-seven-lid-open-bridge-display-scene-01/v1.0.0/source.blend",
+      "size": 967504,
+      "sha256": "685853ef7ecedbcc968dddc7a2a3ce68ee16912f648c3fc3842dd5d2789dc284"
+    },
+    "generator": {
+      "path": "assets/pharmacy/pharmacy-whole-counting-tray-and-seven-lid-open-bridge-display-scene-01/v1.0.0/generate.py",
+      "size": 56721,
+      "sha256": "d39e08657e4afa3df49c127d491954831fa570f550db6adb0dbb20d4141e2c28"
+    },
+    "render": {
+      "path": "assets/pharmacy/pharmacy-whole-counting-tray-and-seven-lid-open-bridge-display-scene-01/v1.0.0/thumbnail.png",
+      "size": 514214,
+      "sha256": "fcf46add2eeffa6574b611e9dd73d8ebc7d70a16a79ec5a62683955bd3f9eb15"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
