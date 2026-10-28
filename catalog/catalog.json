@@ -2509,6 +2509,11 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary02",
       "commit": "367dd09898fb45bc5ec0d8e8f1c1e9114b7b1054"
+    },
+    "original-qualified-batch-1890-volume02-20261025": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary02",
+      "commit": "d0f9af6b4fea112551a2148f2ee27a87b79c4aec"
     }
   },
   "assets": [
@@ -83652,6 +83657,135 @@
       "status": "verified",
       "license": "All rights reserved",
       "sourceId": "original-qualified-batch-1887-volume02-20261025"
+    },
+    {
+      "id": "public-service-fixed-open-half-shell-and-twin-pull-cord-sock-aid-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "public-service",
+      "style": "S01-clean-geometric",
+      "title": "Fixed Open Half Shell and Twin Pull Cord Sock Aid",
+      "description": "One newly authored complete static sock-donning-aid exterior. A full finite-thickness half-cylinder shell is open along its top and at both longitudinal ends, with continuous inner and outer faces and blunt rim/end walls. Two whole pierced circular ears join its upper sides. Each whole cord passes through a real ear opening, terminates at a complete inner stopper and runs outward and forward to a whole flat open pull ring. The two complete cords and handles are integral parts of this one dressing-aid prop, not new standalone models or a scene. All numeric geometry new; no shoehorn channel cropped, basin wall extracted, existing hand grip rescaled or old loop copied. Four opaque PBR roles, metre units Z up and whole horizontal-bounds-centred lower display datum. One original model zero scenes. Empty fixed art only, not a manufactured or validated medical/accessibility product; no sock, foot, human fit, flexibility, skin contact, dressing outcome, rehabilitation, cord tension, pull strength, manufacture or safety capability. Rigging animation interaction not made.",
+      "bounds": {
+        "x": 0.23999999463558197,
+        "y": 0.30000001192092896,
+        "z": 0.0560000017285347,
+        "unit": "m"
+      },
+      "triangles": 2580,
+      "materials": 4,
+      "files": {
+        "glb": {
+          "path": "assets/public-service/public-service-fixed-open-half-shell-and-twin-pull-cord-sock-aid-01/v1.0.0/model.glb",
+          "size": 224212,
+          "sha256": "989aa1cd054aa87faab903af538df52fc5d82b4a350a26034feb67a0b05c6383"
+        },
+        "blend": {
+          "path": "assets/public-service/public-service-fixed-open-half-shell-and-twin-pull-cord-sock-aid-01/v1.0.0/source.blend",
+          "size": 887168,
+          "sha256": "b154cebfa2c0842335d1a3bb2095f18aff3e5cda3d91a245f106a8ff311cfdea"
+        },
+        "generator": {
+          "path": "assets/public-service/public-service-fixed-open-half-shell-and-twin-pull-cord-sock-aid-01/v1.0.0/generate.py",
+          "size": 16502,
+          "sha256": "77958ac78f97a2808b5f9bdebc310c58e7fe789f72a1e2446015dc9aff3259a3"
+        },
+        "render": {
+          "path": "assets/public-service/public-service-fixed-open-half-shell-and-twin-pull-cord-sock-aid-01/v1.0.0/thumbnail.png",
+          "size": 480450,
+          "sha256": "f61b41df0c375fb7a2486c6a0d0e3d57bba34f6b7c3d329eccc5822840ed4bd5"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1890-volume02-20261025"
+    },
+    {
+      "id": "culture-whole-geta-and-nested-case-recessed-dressing-alcove-scene-01",
+      "version": "1.0.0",
+      "category": "scenes",
+      "assetKind": "scene",
+      "theme": "culture",
+      "style": "source-preserved-low-poly",
+      "title": "Whole Geta and Nested Case Recessed Dressing Alcove",
+      "description": "One static whole-accessory dressing-alcove scene, zero new independent models and one new scene. The entire qualified pair of geta-inspired wooden footwear rests on a broad low landing with both full boards, all four complete teeth, all six through holes and both full thongs unchanged. The entire qualified plain nested case stands independently on a small fixed rear wall shelf above the footwear rear region, retaining all three complete compartments, full receiver lid, eight whole side channels, one full continuous cord and pierced slider. Every original raw GLB buffer, oriented triangle, POSITION and NORMAL array, full PBR dictionary, face assignment and internal hierarchy is retained unchanged at unit metre scale under whole translations only; complete generator sources are embedded solely as unexecuted provenance. One newly authored continuous alcove boundary joins the entire low floor, tall rear wall, short left return and raised rear shelf. All four original footwear soles and the complete original case sole have measured finite contact on their own levels. The vertical overlap in plan leaves an actual empty gap above the footwear and below the shelf; the front and right remain open. Unlike the freestanding bench/rack/cubby arrival grouping this is a compact wall-attached vertical footwear-and-small-case niche, and unlike the lucet/spindle parallel-bay tray the upper object is on a rear wall shelf well above an open lower landing rather than in adjacent long tool channels. No old component extracted, changed, recoloured, scaled or recounted. Original general cultural-category exhibit only, not a documented historical dressing arrangement, authentic combined outfit, museum replica, working storage specification or human-scale room. No wearer, clothing, netsuke toggle, labels, wardrobe door, dressing procedure, ergonomic access, hanging, handling, load capacity, physical stability, manufacture, installation or safety capability is supplied. Rigging, animation and interaction not made.",
+      "bounds": {
+        "x": 0.4399999976158142,
+        "y": 0.3799999952316284,
+        "z": 0.4000000059604645,
+        "unit": "m"
+      },
+      "triangles": 9556,
+      "materials": 10,
+      "files": {
+        "glb": {
+          "path": "assets/culture/culture-whole-geta-and-nested-case-recessed-dressing-alcove-scene-01/v1.0.0/model.glb",
+          "size": 829708,
+          "sha256": "9f9d92435203396e21c02b21977acbcfffe26fa8197aa75eeb1bbde8af984dcc"
+        },
+        "blend": {
+          "path": "assets/culture/culture-whole-geta-and-nested-case-recessed-dressing-alcove-scene-01/v1.0.0/source.blend",
+          "size": 1888496,
+          "sha256": "adca32105ecd1613c2e9e87f2b4258edbcee886a16380f8af5c332e57b2a4e6e"
+        },
+        "generator": {
+          "path": "assets/culture/culture-whole-geta-and-nested-case-recessed-dressing-alcove-scene-01/v1.0.0/generate.py",
+          "size": 209811,
+          "sha256": "e2311f5a9a90f03c68af0197cd4da32748b1269ee99dbe1cd78458091ea49674"
+        },
+        "render": {
+          "path": "assets/culture/culture-whole-geta-and-nested-case-recessed-dressing-alcove-scene-01/v1.0.0/thumbnail.png",
+          "size": 592105,
+          "sha256": "010421074c6b486cdeead27a05fc9a225a117fb81bb6e85fe3b9fe77c2d46079"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1890-volume02-20261025"
+    },
+    {
+      "id": "fitness-whole-open-weighted-vest-and-jump-rope-side-dais-scene-01",
+      "version": "1.0.0",
+      "category": "scenes",
+      "assetKind": "scene",
+      "theme": "sports",
+      "style": "source-preserved-low-poly",
+      "title": "Whole Open Weighted Vest And Jump Rope Side Dais",
+      "description": "One unoccupied static fitness-equipment display scene, zero new models and one scene. The entire qualified continuous open weighted-vest exterior stands on a new raised right-rear two-pier dais, while the complete original jump rope rests broadly open on the lower left-front floor. All seventeen vest components, sixteen attached packet exteriors, full neck and arm apertures, both complete long rope grips and the single continuous U cord remain unchanged in original dimensions, original raw indexed GLB payload, normals, opaque PBR values and internal hierarchy. Only whole translations are added, with both complete generators embedded as unexecuted provenance. The full vest annular hem lies on its own upper seat; both whole grip resting facets and every original lower rope contact remain at the low datum. A real lateral separation and visible changes of height distinguish the two whole objects. The new scene-only connected low court and side dais has two complete grounded end piers and an empty under-top bay, not an independently counted model or an old finished scene reused. No weights, body, mannequin, athlete, additional pieces, text, logo, external texture, rigging, animation or interaction. No original garment or cord is cut, bent, rescaled, recoloured or extracted. Static art layout only; no exercise sequence, physical weight, wearing fit, jumping, rope dynamics, ergonomic clearances, training benefit, platform load, construction, manufacture or safety capability is represented.",
+      "bounds": {
+        "x": 1.4399999976158142,
+        "y": 1.25,
+        "z": 0.675000011920929,
+        "unit": "m"
+      },
+      "triangles": 6956,
+      "materials": 8,
+      "files": {
+        "glb": {
+          "path": "assets/sports/fitness-whole-open-weighted-vest-and-jump-rope-side-dais-scene-01/v1.0.0/model.glb",
+          "size": 613812,
+          "sha256": "19a0350815ad0ac89fb929e7f11628585489ada3d1f079e91a70124b224d2189"
+        },
+        "blend": {
+          "path": "assets/sports/fitness-whole-open-weighted-vest-and-jump-rope-side-dais-scene-01/v1.0.0/source.blend",
+          "size": 1516764,
+          "sha256": "33bba2a103aac074b7c687f0aa3c5b9da3399a1ce4fcc03a0890f14cb0c3dc50"
+        },
+        "generator": {
+          "path": "assets/sports/fitness-whole-open-weighted-vest-and-jump-rope-side-dais-scene-01/v1.0.0/generate.py",
+          "size": 187081,
+          "sha256": "cd43b9de07ecbe61a00c66903ba00b8acfaa5af6148fc701c5eba84721563bbc"
+        },
+        "render": {
+          "path": "assets/sports/fitness-whole-open-weighted-vest-and-jump-rope-side-dais-scene-01/v1.0.0/thumbnail.png",
+          "size": 454594,
+          "sha256": "19a59d96ed35a1488725f38428182ef3a7b0e829437cbe8a2fb24b123ff8bf52"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1890-volume02-20261025"
     }
   ]
 }
