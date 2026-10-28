@@ -2494,6 +2494,11 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary02",
       "commit": "6e1b32d5d4d965136f6e71390aa2f9ae2405e09d"
+    },
+    "original-qualified-batch-1881-volume02-20261025": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary02",
+      "commit": "43a9304568fb4460e153c6f14098e8e72ac59796"
     }
   },
   "assets": [
@@ -83164,6 +83169,221 @@
       "status": "verified",
       "license": "All rights reserved",
       "sourceId": "original-qualified-batch-1876-volume02-20261025"
+    },
+    {
+      "id": "architecture-fixed-crossed-bracket-arms-and-stepped-bearing-blocks-01",
+      "version": "1.0.0",
+      "category": "architecture",
+      "assetKind": "prop",
+      "theme": "architecture",
+      "style": "S01-clean-geometric",
+      "title": "Fixed Crossed Bracket Arms and Stepped Bearing Blocks",
+      "description": "One wholly newly authored complete stepped cross-bracket column-head display from grounded stone plinth to two finished full-length upper bearing rails. A whole tapered timber column supports a separate complete flared head block. One entire long curved-underface longitudinal bracket arm has three genuinely shallow bounded top seats, each carrying a whole necked-and-flared bearing block. Three complete transverse curved-underface arms rest on those blocks and contain two upper seats apiece. Six separate whole stepped terminal blocks support two complete longitudinal upper rails. All four arms are entire continuous closed timbers with real underside profiles, finite end faces and full notch floors and walls; the nine bearing blocks each have complete lower necks and upper flared shoulders. Twenty-one actual opposed horizontal contact patches and sided interior witnesses form a connected static seating graph to the complete bottom sole. Unlike the old diagonal two-tier branching column, support spreads by perpendicular flat-seated bracket arms and intermediary stepped blocks, not sloping rods or fork collars. Unlike the nine alternating crossed courses of a timber crib, this is one complete column-head hierarchy of curved cantilever-like arms, localized notch seats and flared blocks, not repeated full-length rectangular wall courses. Every numerical surface newly authored together; no old column, timber, bracket, joint or bearing mesh imported, cropped or transformed. Eighteen editable complete closed material solids, four opaque constant untextured PBR roles, metre-style native Z up and whole horizontal bounds-centred ground datum, one model zero scenes. Broad timber bracket-set category inspired by Chinese timber-framed architectural craftsmanship only; not a replica of a named historic building, historic measured drawing, particular traditional order or standardized joint. The finished upper rails are display terminals with no roof or host building supplied. Shallow seats and static contacts are artistic assembly evidence, not complete tenon joints, restraints, structural connections or manufacturing instructions. No historic authenticity, seismic resistance, real load distribution, stiffness, strength, stability, roof compatibility, timber properties, preservation advice, assembly procedure, manufacture, installation or building safety capability made or verified. No textures, animation, rigging or interaction.",
+      "bounds": {
+        "x": 2.8,
+        "y": 4.1,
+        "z": 4.32,
+        "unit": "m"
+      },
+      "triangles": 596,
+      "materials": 4,
+      "files": {
+        "glb": {
+          "path": "assets/architecture/architecture-fixed-crossed-bracket-arms-and-stepped-bearing-blocks-01/v1.0.0/model.glb",
+          "size": 38488,
+          "sha256": "0afa404aa670a79eb5793ef4094b3effdd5219c14c1d0bb233acd2eeb7374eab"
+        },
+        "blend": {
+          "path": "assets/architecture/architecture-fixed-crossed-bracket-arms-and-stepped-bearing-blocks-01/v1.0.0/source.blend",
+          "size": 655788,
+          "sha256": "7e43281d3ff19220182402b1551f99e8925d56be1038788c944561988a40b92b"
+        },
+        "generator": {
+          "path": "assets/architecture/architecture-fixed-crossed-bracket-arms-and-stepped-bearing-blocks-01/v1.0.0/generate.py",
+          "size": 13489,
+          "sha256": "64b76787b4fa0c50acbabb6b9634bf946519389c01fedb2f590de76439bd8473"
+        },
+        "render": {
+          "path": "assets/architecture/architecture-fixed-crossed-bracket-arms-and-stepped-bearing-blocks-01/v1.0.0/thumbnail.png",
+          "size": 483286,
+          "sha256": "8a5fce8cb8e336db024a05d0b21c6f556beff356128d11fe43eae793841b75aa"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1881-volume02-20261025"
+    },
+    {
+      "id": "kitchen-whole-hook-ladle-and-bulb-baster-open-rail-rest-scene-01",
+      "version": "1.0.0",
+      "category": "scenes",
+      "assetKind": "scene",
+      "theme": "kitchen",
+      "style": "source-preserved-low-poly",
+      "title": "Whole Hook Ladle and Bulb Baster Open Rail Rest",
+      "description": "One complete static kitchen utensil rest arrangement, one new scene zero new independent models. One whole qualified deep-bowl long-hook ladle rests with its complete bowl underside on the left of a broad low deck while its original open upper return hook meets a slim supported cross rail. One whole qualified opaque tapered-tube and rounded-bulb baster lies separately at the right on the same complete deck. Exact source GLB buffers, normals, material dictionaries, face assignments and internal hierarchies remain unchanged under unit-scale translations only. The complete connected deck, two upright posts and narrow upper cross rail are new scene context only, not independently counted furniture or utensil models. This open high-and-low utensil rest is not the old colander-whisk backsplash counter with replaced props, a wall mirror ledge or a divided carry caddy. No parts cropped, rescaled, recoloured or recounted. Empty fixed game art only; no liquid, food-contact, real suction, serving, hook capacity, stability, working workflow, installation, manufacture or safety claim. Rigging animation and interaction not made.",
+      "bounds": {
+        "x": 0.6000000238418579,
+        "y": 0.4000000059604645,
+        "z": 0.3729734718799591,
+        "unit": "m"
+      },
+      "triangles": 3600,
+      "materials": 7,
+      "files": {
+        "glb": {
+          "path": "assets/kitchen/kitchen-whole-hook-ladle-and-bulb-baster-open-rail-rest-scene-01/v1.0.0/model.glb",
+          "size": 309540,
+          "sha256": "628ece87a23bf66584a43a7dcbd6a45d593e6818eb8d1b193949aba0685f8b42"
+        },
+        "blend": {
+          "path": "assets/kitchen/kitchen-whole-hook-ladle-and-bulb-baster-open-rail-rest-scene-01/v1.0.0/source.blend",
+          "size": 1062384,
+          "sha256": "b9b0f96465a1a13c17e809de674d3da821671b7ca095cfa23149488c68a21bbd"
+        },
+        "generator": {
+          "path": "assets/kitchen/kitchen-whole-hook-ladle-and-bulb-baster-open-rail-rest-scene-01/v1.0.0/generate.py",
+          "size": 115613,
+          "sha256": "f90e746062e546824636d3d5bb5b0212ed74982a34dcc9ff1440ec97a19e0da6"
+        },
+        "render": {
+          "path": "assets/kitchen/kitchen-whole-hook-ladle-and-bulb-baster-open-rail-rest-scene-01/v1.0.0/thumbnail.png",
+          "size": 469909,
+          "sha256": "289ebba0127f6767705a5710d15f3350b92d296f7b77dbc2c9d59b87ea2118db"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1881-volume02-20261025"
+    },
+    {
+      "id": "kitchen-fixed-whole-transverse-slats-and-laced-cords-makisu-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "kitchen",
+      "style": "S01-clean-geometric",
+      "title": "Fixed Whole Transverse Slats and Laced Cords Makisu",
+      "description": "One newly authored complete empty makisu-inspired bamboo rolling-mat appearance in one fixed partly curled pose. Twenty-four whole long transverse slats have finite flattened lower faces, curved bevelled upper sections and complete bevelled cut ends. Four entire closed lacing circuits each form two uninterrupted narrow opposite-phase over-under routes along all slats, returning at both ends. The broad front portion lies low while the rear slat sequence rises into an open inward curl; real narrow air intervals remain between the slats and no filled sheet replaces the bamboo field. All slat cross-sections, stations, curled centre route and complete lacing paths are original numerical geometry. Unlike the long agility ladder with widely spaced slotted rungs and two broad straps passing inside the rung holes, these unperforated close-set full-width rods are externally encircled by returning alternating narrow cords. Unlike the elevated one-sided warp loom there is no supporting side frame, cantilever pegs, winding polygon, heddle or separate working thread span. Twenty-eight complete closed editable meshes, four opaque constant untextured PBR roles, metres native Z up and horizontal whole-bounds-centred ground datum. One whole independent model zero scenes; the slats and laces are not separately counted. Ground contact is through finite lower cord facets; all slats have explicit small static lacing contacts. Category-level artistic exterior only, not a measured museum or branded product, and not a claim of exact traditional knot or weaving topology. The compact fixed return circuits are a simplified visual binding, not a manufactured textile fastening specification. No sushi, other food, hand, film, water or cookware included. No rolling range, flexibility, cord tension, food preparation, food-contact suitability, hygiene, material species, fibre construction, grasp, load, stability, manufacture or safety capability made or verified. No rigging, animation or interaction.",
+      "bounds": {
+        "x": 0.2240000069141388,
+        "y": 0.17102323472499847,
+        "z": 0.0729023739695549,
+        "unit": "m"
+      },
+      "triangles": 13856,
+      "materials": 4,
+      "files": {
+        "glb": {
+          "path": "assets/kitchen/kitchen-fixed-whole-transverse-slats-and-laced-cords-makisu-01/v1.0.0/model.glb",
+          "size": 1216356,
+          "sha256": "f0f7d2385f5c4be4e6eb6638ad6e40d550c33c6702ac51268d9b4fb471740ce1"
+        },
+        "blend": {
+          "path": "assets/kitchen/kitchen-fixed-whole-transverse-slats-and-laced-cords-makisu-01/v1.0.0/source.blend",
+          "size": 2240224,
+          "sha256": "d61245a90d73931bd5608209e2ec005c64db95047e37d01cdbc02b785b17dd9d"
+        },
+        "generator": {
+          "path": "assets/kitchen/kitchen-fixed-whole-transverse-slats-and-laced-cords-makisu-01/v1.0.0/generate.py",
+          "size": 13214,
+          "sha256": "e2febdd4341306babe193b6421a5aa52c90baf8f155668d02598748f2769087a"
+        },
+        "render": {
+          "path": "assets/kitchen/kitchen-fixed-whole-transverse-slats-and-laced-cords-makisu-01/v1.0.0/thumbnail.png",
+          "size": 547343,
+          "sha256": "9e7c02ac7547750c3850ba013650da2041daec642f88a8927fe31d4bc83d86d3"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1881-volume02-20261025"
+    },
+    {
+      "id": "wetland-whole-budding-fronds-and-solitary-rootlets-duckweed-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "wetland",
+      "style": "S01-clean-geometric",
+      "title": "Whole Budding Fronds and Solitary Rootlets Duckweed",
+      "description": "One newly authored enlarged attached duckweed budding group, one whole model and zero scenes. A broad entire-margined mother frond carries two unequal daughter fronds by short lateral attachment stipes; each frond has exactly one complete dangling unbranched rootlet with a small terminal cap. The fronds are the reduced leaf-and-stem bodies, not leaves on long petioles. Newly authored domed obovate surfaces and under-root attachment geometry are not old waterlily notched pads, rhizome or petioles, a scaled liverwort thallus, or moss leaves copied into a new arrangement. Four subdued opaque green and root tones, all finite edges. Generic Lemna-like external morphology only, not an identified species, measured live specimen, underground root system or a claim of stable standing on the root tip. Short stipes locate budding margins, but internal budding pouch cavities, fine nerves, cells, air spaces, flowers and fruits are omitted. No water or soil plane, environmental scene, natural scale relationship, buoyancy, growth, motion, rig or simulation. Whole attached group is one asset, not three independently counted fronds or root parts.",
+      "bounds": {
+        "x": 0.163353,
+        "y": 0.089414,
+        "z": 0.082,
+        "unit": "m"
+      },
+      "triangles": 5328,
+      "materials": 4,
+      "files": {
+        "glb": {
+          "path": "assets/wetland/wetland-whole-budding-fronds-and-solitary-rootlets-duckweed-01/v1.0.0/model.glb",
+          "size": 406124,
+          "sha256": "75b5b1e66724b79197d8c209eb2440eab7862c6f1f4af10d6933f0f0421e3970"
+        },
+        "blend": {
+          "path": "assets/wetland/wetland-whole-budding-fronds-and-solitary-rootlets-duckweed-01/v1.0.0/source.blend",
+          "size": 844816,
+          "sha256": "c2cba487d3e10ea69c4609b5a7a5ed07622649c0c3f2228e549fd59827e5ef15"
+        },
+        "generator": {
+          "path": "assets/wetland/wetland-whole-budding-fronds-and-solitary-rootlets-duckweed-01/v1.0.0/generate.py",
+          "size": 23257,
+          "sha256": "52e01cf98f10f7e64128e573be7302f6a0ae12107dce1ced835b1ce045146713"
+        },
+        "render": {
+          "path": "assets/wetland/wetland-whole-budding-fronds-and-solitary-rootlets-duckweed-01/v1.0.0/thumbnail.png",
+          "size": 490495,
+          "sha256": "2a88ef04658d0ff3b016ac98565e679a764f133bcae54693ef42f104f0bc263d"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1881-volume02-20261025"
+    },
+    {
+      "id": "fitness-fixed-continuous-open-shell-and-sixteen-packet-weighted-vest-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "sports",
+      "style": "source-preserved-low-poly",
+      "title": "Continuous Open Shell And Sixteen Packet Weighted Vest",
+      "description": "One independently authored complete empty weighted-training-vest-inspired static exterior. One continuous finite-thickness hollow garment shell joins the lower torso to an integral shoulder yoke, with a true top neck opening, two bounded full side arm openings and an open lower waist. This is a single genus-three material shell, not separate armour plates and connecting strips. Sixteen complete closed curved packet exteriors in two rows on the front and back follow the shell contour and have embedded finite root regions; their seam-coloured top faces are actual facets, not texture. No inner weights, removable inserts, open pockets, buckles or fastening mechanism are claimed. Four constant opaque PBR roles, metre-style native Z up and full annular lower-hem ground datum. All numerical surface domains, aperture topology and pouch geometry are new; no camera-harness fragments, old cuirass plate grids, support arm or fasteners are imported, removed or recoloured. One original model zero scenes, all repeated packet exteriors belong to the one complete vest. No person, mannequin, body fill or external stand. Static illustrative appearance only: no real weight, wearable fit, fastening, fabric behaviour, exercise instructions, training effect, ergonomics, movement, load, impact protection, manufacturing or safety capability. No text, logos, textures, rigging, animation or interaction.",
+      "bounds": {
+        "x": 0.41999998688697815,
+        "y": 0.29011741280555725,
+        "z": 0.4449999928474426,
+        "unit": "m"
+      },
+      "triangles": 4832,
+      "materials": 4,
+      "files": {
+        "glb": {
+          "path": "assets/sports/fitness-fixed-continuous-open-shell-and-sixteen-packet-weighted-vest-01/v1.0.0/model.glb",
+          "size": 430080,
+          "sha256": "6ddf7df630f6c8aae48498a689e3a957115c26de4151ce5d50962c0ee1249332"
+        },
+        "blend": {
+          "path": "assets/sports/fitness-fixed-continuous-open-shell-and-sixteen-packet-weighted-vest-01/v1.0.0/source.blend",
+          "size": 1162108,
+          "sha256": "fa5b58b74eec90fc4b70a7a275080784c512bb3ae0534ceb52dad46d8420feb9"
+        },
+        "generator": {
+          "path": "assets/sports/fitness-fixed-continuous-open-shell-and-sixteen-packet-weighted-vest-01/v1.0.0/generate.py",
+          "size": 14160,
+          "sha256": "060259e6c676385473dd616b3b1c386a9affd76938888f78be2d1c2ac0e85a9f"
+        },
+        "render": {
+          "path": "assets/sports/fitness-fixed-continuous-open-shell-and-sixteen-packet-weighted-vest-01/v1.0.0/thumbnail.png",
+          "size": 523218,
+          "sha256": "feb4f0d5869c244b09d64950a59c7478292d6486dd306a1904f716f1ac636a43"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1881-volume02-20261025"
     }
   ]
 }
