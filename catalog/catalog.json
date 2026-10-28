@@ -2469,6 +2469,11 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary02",
       "commit": "47cc8f3a9a0b266606a03349a62aa7ef1451bef3"
+    },
+    "original-qualified-batch-1867-volume02-20261025": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary02",
+      "commit": "a28368730923b1a9ebaaa2aab2ae57130be19382"
     }
   },
   "assets": [
@@ -82623,6 +82628,135 @@
       "status": "verified",
       "license": "All rights reserved",
       "sourceId": "original-qualified-batch-1864-volume02-20261025"
+    },
+    {
+      "id": "kitchen-fixed-deep-open-bowl-and-long-return-hook-ladle-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "kitchen",
+      "style": "S01-clean-geometric",
+      "title": "Fixed Deep Open Bowl and Long Return Hook Ladle",
+      "description": "One newly authored complete static long-handled serving-ladle exterior. A whole deep round bowl has an uninterrupted thick inner wall, full solid bottom and rounded upper lip. One full slender shaft roots into the rear bowl wall, rises well above it with a canted long reach and ends in one continuous open return hook; one whole upper grip sleeve follows the shaft. This complete vertical reach and terminal hook relation differs from a short horizontal maple measuring spoon or the old squeeze-lever portion scoop with an inner sweep. All numerical geometry new; no bowl extracted, simple scaling or reused old pieces. Three opaque PBR roles, metres Z up and whole horizontal bounds-centred ground datum. One original model zero scenes. Empty fixed artistic geometry only; bowl underside is a display datum, not a stable working stance. No liquid, portion measurement, food-contact, stirring/serving, hook load, grip fit, temperature resistance, hygiene, manufacture or safety capability. Rigging animation interaction not made.",
+      "bounds": {
+        "x": 0.09399999678134918,
+        "y": 0.23296575248241425,
+        "z": 0.3549734652042389,
+        "unit": "m"
+      },
+      "triangles": 1588,
+      "materials": 3,
+      "files": {
+        "glb": {
+          "path": "assets/kitchen/kitchen-fixed-deep-open-bowl-and-long-return-hook-ladle-01/v1.0.0/model.glb",
+          "size": 136556,
+          "sha256": "aafec03ba0e37245afecc2dc0b42820fac1172b28b423cd47ee742af634dfd7f"
+        },
+        "blend": {
+          "path": "assets/kitchen/kitchen-fixed-deep-open-bowl-and-long-return-hook-ladle-01/v1.0.0/source.blend",
+          "size": 724672,
+          "sha256": "45c5ffe08a94b1f549186751ca641cfb0efd19a8ff2e0febe6db4da271cb1dba"
+        },
+        "generator": {
+          "path": "assets/kitchen/kitchen-fixed-deep-open-bowl-and-long-return-hook-ladle-01/v1.0.0/generate.py",
+          "size": 15591,
+          "sha256": "52ef126e9a6af223d4a11e6ab117f318e4a479375932cf81e3c2dba88a227e6d"
+        },
+        "render": {
+          "path": "assets/kitchen/kitchen-fixed-deep-open-bowl-and-long-return-hook-ladle-01/v1.0.0/thumbnail.png",
+          "size": 440456,
+          "sha256": "54fd9bc79421faa00bdc4bc2024fa9b1c40dd5abd022afed2f8379d364c03089"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1867-volume02-20261025"
+    },
+    {
+      "id": "industrial-fixed-articulated-arms-and-plunger-dial-stand-01",
+      "version": "1.0.0",
+      "category": "modular",
+      "assetKind": "prop",
+      "theme": "industrial",
+      "style": "warm-handcrafted-village",
+      "title": "Fixed Articulated Arms and Plunger Dial Stand",
+      "description": "One newly authored complete static magnetic-style articulated dial-indicator stand. A compact chamfered grounded rectangular base has a proud front switching knob and separate top stem. Two entire oblique rigid arms join a lower swivel housing, one large elbow joint and a compact terminal joint; the elbow carries a separate proud locking knob. A full short vertical terminal mounting stem enters the top of one complete small circular plunger-indicator housing with rear cap, proud bezel, opaque inset dial, nonnumeric raised markers, central pointer and centre cap. A complete lower stem sleeve, long narrow downward plunger and blunt contact tip hang free of the base, with a small upper lifting cap. The open zigzag arms and suspended complete round indicator are the primary architecture, not a rigid height-gauge beam and sliding carriage, enlarged profile comparator, or portable magnetic-base drill. No old visible geometry or dial assembly is extracted or imported. One static model zero scenes, four opaque solid PBR materials, metres and native Z up. No glass, labels, calibrated scale, workpiece or reading. No magnetic force, measurement, precision, travel, articulation, clamping, compatibility, mechanical fit, engineering, manufacture or safety capability is made or verified; not functional measuring equipment. No rigging animation or interaction.",
+      "bounds": {
+        "x": 0.393999994,
+        "y": 0.123999998,
+        "z": 0.375,
+        "unit": "m"
+      },
+      "triangles": 2488,
+      "materials": 4,
+      "files": {
+        "glb": {
+          "path": "assets/industrial/industrial-fixed-articulated-arms-and-plunger-dial-stand-01/v1.0.0/model.glb",
+          "size": 128784,
+          "sha256": "7216f0d26049af5c51b126cf3a7b2d61009e334b19fe981d099802a81944299e"
+        },
+        "blend": {
+          "path": "assets/industrial/industrial-fixed-articulated-arms-and-plunger-dial-stand-01/v1.0.0/source.blend",
+          "size": 767932,
+          "sha256": "07134ee84b587d106e0da39932a4b9e75d9a1461f17fe515530965ceb38807cb"
+        },
+        "generator": {
+          "path": "assets/industrial/industrial-fixed-articulated-arms-and-plunger-dial-stand-01/v1.0.0/generate.py",
+          "size": 33490,
+          "sha256": "626adbc26a6ce1b663ec4f456f41d5827b30eab06e42c2734daf3272fab91fa9"
+        },
+        "render": {
+          "path": "assets/industrial/industrial-fixed-articulated-arms-and-plunger-dial-stand-01/v1.0.0/thumbnail.png",
+          "size": 509200,
+          "sha256": "ffca2ae2385c696ed59b1bbc7e842299312d890dc120e2255713b0610fe4cb70"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1867-volume02-20261025"
+    },
+    {
+      "id": "nature-whole-spiral-leafy-shoot-and-toothed-capsule-moss-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "nature",
+      "style": "S01-clean-geometric",
+      "title": "Whole Spiral Leafy Shoot and Toothed Capsule Moss",
+      "description": "One wholly newly authored enlarged moss specimen with a complete softly bent leafy gametophyte, 27 directly attached spiral lanceolate leaves, six exposed basal rhizoid strands, a long leafless curved seta and a mature open ovoid capsule. The capsule has an actual interior wall and sixteen separate rooted tapering peristome teeth around its open mouth, not a painted hole, attached flower or separate crown prop. Leaves are thin continuous folded blades rather than horsetail branches; there are no old jointed axes, nodal whorls, forked liverwort thalli or gemma cups reused. One complete nature model, zero scenes. Seven opaque restrained botanical material roles, arbitrary enlarged display scale. Generic moss form only, not a measured species, natural colony, cellular anatomy, precise generation ratio, planted root system or physical stability claim. Fine rhizoid branching, spores, columella, membrane endostome, leaf cells and shed operculum are not reconstructed; this is not a whole life-cycle demonstration. No textures, transparency, labels, rig, wind, humidity response, animation or biological simulation.",
+      "bounds": {
+        "x": 0.050869,
+        "y": 0.050091,
+        "z": 0.138028,
+        "unit": "m"
+      },
+      "triangles": 9312,
+      "materials": 7,
+      "files": {
+        "glb": {
+          "path": "assets/nature/nature-whole-spiral-leafy-shoot-and-toothed-capsule-moss-01/v1.0.0/model.glb",
+          "size": 699140,
+          "sha256": "c8a8867017f6960176c2187f540e39b4b3541b9f3cbdebe54c517648c13886e0"
+        },
+        "blend": {
+          "path": "assets/nature/nature-whole-spiral-leafy-shoot-and-toothed-capsule-moss-01/v1.0.0/source.blend",
+          "size": 1359048,
+          "sha256": "7ddb1e9eb8957e0f973715b80bc0bfd61b68fa365b64a7d7335c77ed162e49df"
+        },
+        "generator": {
+          "path": "assets/nature/nature-whole-spiral-leafy-shoot-and-toothed-capsule-moss-01/v1.0.0/generate.py",
+          "size": 25041,
+          "sha256": "166a7eb95b32898ac48cebfc42c079b6e0c6bccdcf084605ca80f4058e703194"
+        },
+        "render": {
+          "path": "assets/nature/nature-whole-spiral-leafy-shoot-and-toothed-capsule-moss-01/v1.0.0/thumbnail.png",
+          "size": 507236,
+          "sha256": "c74b6f5905276d9a0053db9e784c1ef0d2794db8e68bed5f714c84ce273ffa1b"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1867-volume02-20261025"
     }
   ]
 }
