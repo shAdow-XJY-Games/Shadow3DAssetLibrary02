@@ -2514,6 +2514,11 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary02",
       "commit": "d0f9af6b4fea112551a2148f2ee27a87b79c4aec"
+    },
+    "original-qualified-batch-1893-volume02-20261025": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary02",
+      "commit": "ec98c91b2fb26a95415bb564e355f7831e769f60"
     }
   },
   "assets": [
@@ -83786,6 +83791,135 @@
       "status": "verified",
       "license": "All rights reserved",
       "sourceId": "original-qualified-batch-1890-volume02-20261025"
+    },
+    {
+      "id": "architecture-fixed-three-separated-helices-and-flanged-shaft-inspection-cradles-01",
+      "version": "1.0.0",
+      "category": "architecture",
+      "assetKind": "prop",
+      "theme": "architecture",
+      "style": "S01-clean-geometric",
+      "title": "Fixed Three Separated Helices and Flanged Shaft Inspection Cradles",
+      "description": "One wholly newly authored complete static horizontal inspection assembly of a helical-pile-lead-inspired exterior. One complete long capped shaft includes a full narrowing lead tip and carries three independent thick single-turn annular helical plates of progressively different radii, separated by long genuinely empty axial intervals. Each plate is an entire continuous closed material solid with modeled upper and lower winding faces, inner and outer side walls, and two separated finished end faces; none is an isolated helical slice extracted from another model. A complete thick square head plate has four true square through-ports outside the shaft. Two entire open-top inspection saddles support the complete shaft at two finite flat polygonal underside patches and both broad saddle soles are grounded. The plates and head have finite selected interior roots to the same uncut shaft. Unlike the old T-handle soil auger, there is no hand grip or single continuous two-turn cutting flight: three separate one-turn bearing-plate-like solids are isolated by complete plain shaft intervals and a full four-port head. Unlike the six-turn screw roof prop, there is no telescopic lower tube, adjustment collar, fixed handles or opposing roof and ground load plates. Unlike the open helical conveyor, there is no open cylindrical centre, tangential inlet or outlet, transport deck, edge band or tier frame. All seven complete meshes newly authored together, no old screw, auger, blade, shaft, flange or display stand imported, extracted or resized. Four opaque constant untextured PBR roles, metres native Z up and whole horizontal bounds centred over the two complete ground soles; one model zero scenes. Deliberately a supported horizontal artistic inspection display, not an installed foundation, complete buried pile system or operating soil tool. The small flat tip is not sharpened; the head and ports are generic display geometry, not a specific product connection. Broad helical lead-section vocabulary only, no brand or dimension replica. No geology, soil penetration, torque, cutting, load resistance, real weld, connection capacity, extension compatibility, fabrication, assembly instructions, installation or foundation safety capability made or verified. No rigging, animation or interaction.",
+      "bounds": {
+        "x": 1.56,
+        "y": 7.43,
+        "z": 1.73,
+        "unit": "m"
+      },
+      "triangles": 2048,
+      "materials": 4,
+      "files": {
+        "glb": {
+          "path": "assets/architecture/architecture-fixed-three-separated-helices-and-flanged-shaft-inspection-cradles-01/v1.0.0/model.glb",
+          "size": 132188,
+          "sha256": "4fc2242e9d64bb61a7c684ebf26db740052e9c0b803fca37e4f0615f4e6a2e81"
+        },
+        "blend": {
+          "path": "assets/architecture/architecture-fixed-three-separated-helices-and-flanged-shaft-inspection-cradles-01/v1.0.0/source.blend",
+          "size": 683096,
+          "sha256": "cd2ec6c158875381fc9b77436c24b0e9fce511a43979eb42bf88a5f60414ad94"
+        },
+        "generator": {
+          "path": "assets/architecture/architecture-fixed-three-separated-helices-and-flanged-shaft-inspection-cradles-01/v1.0.0/generate.py",
+          "size": 13770,
+          "sha256": "f73725123bc945498b6536b12521cd83870b7cd5b753e3f76cfb78c74145275d"
+        },
+        "render": {
+          "path": "assets/architecture/architecture-fixed-three-separated-helices-and-flanged-shaft-inspection-cradles-01/v1.0.0/thumbnail.png",
+          "size": 384356,
+          "sha256": "ea909b9b227eeeecf1c3eee87a03004bc5a06d6f9595fd02444999621db69242"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1893-volume02-20261025"
+    },
+    {
+      "id": "harbor-whole-hollow-arch-and-six-port-flange-fender-01",
+      "version": "1.0.0",
+      "category": "architecture",
+      "assetKind": "prop",
+      "theme": "harbor",
+      "style": "S01-clean-geometric",
+      "title": "Whole Hollow Arch and Six Port Flange Fender",
+      "description": "One wholly newly authored complete static arch-fender-inspired inspection object. A single connected closed rubber-like material body forms two entire broad mounting foot flanges, two thick sloped arch legs and a continuous flat high crown, enclosing a genuine full-length open under-arch passage. The legs and feet are one inseparable complete conforming material boundary rather than separate boards or extracted curves. Three genuine square through-ports pierce each whole foot flange, six in total; the finite thickness and complete walls of every port are modeled. One complete flat wear pad rests on the entire broad central crown seat and remains a separately editable full part. Both broad foot flanges reach the ground without extra hidden support blocks; the full open arch is visible from both finished longitudinal ends. Unlike the laminated dock bumper, there is no stack of flat resilient strips between two mounting channels, repeated strip count or exposed horizontal strap. Unlike the laminated cylindrical bearing display, there are no alternating annular layers, centre core, outer cover or cut inspection quarter. Unlike the timber arch centering, there are no posts, ribs, fan webs or temporary frame: the one-piece hollow arch and its two perforated foot flanges define the entire body. All numerical body profiles, six ports and whole pad newly authored together; no old bumper, bearing, formwork arch, beam or block imported, cut or scaled. Two whole closed editable material meshes and two opaque constant untextured PBR roles, metre-style native Z up and whole horizontal envelope centred above two broad ground patches belonging to the same whole body; one prop zero scenes. Broad one-piece arch-fender and optional face-pad vocabulary only, not a replica of a manufacturer product, standard size or branded installation. The object is deliberately an unmounted dry component display: no quay wall, vessel, anchor bolts, steel face panel or installed mooring system is included. Square mounting ports and pad proportions are artistic, not a usable fastener pattern or bonded-joint specification. No material, rubber deformation, energy absorption, reaction force, shear resistance, berth compatibility, vessel contact, real fastening, load, fabrication, installation or marine safety capability made or verified. No rigging, animation or interaction.",
+      "bounds": {
+        "x": 3.3,
+        "y": 3.0,
+        "z": 1.46,
+        "unit": "m"
+      },
+      "triangles": 480,
+      "materials": 2,
+      "files": {
+        "glb": {
+          "path": "assets/harbor/harbor-whole-hollow-arch-and-six-port-flange-fender-01/v1.0.0/model.glb",
+          "size": 16828,
+          "sha256": "c1e2597dd3b6b9cb571b33bff8a91d57c0a5363337b1a345e1877c2ec41041b1"
+        },
+        "blend": {
+          "path": "assets/harbor/harbor-whole-hollow-arch-and-six-port-flange-fender-01/v1.0.0/source.blend",
+          "size": 528792,
+          "sha256": "f71fbaf033d55a2ea443df1092dbd55a9c0c85caf96f9a0581ed3bcf37dc0e34"
+        },
+        "generator": {
+          "path": "assets/harbor/harbor-whole-hollow-arch-and-six-port-flange-fender-01/v1.0.0/generate.py",
+          "size": 12127,
+          "sha256": "0058bfdb44785daf48d30c926d57eaf319319711ac406ea70be28b1c2c1b097a"
+        },
+        "render": {
+          "path": "assets/harbor/harbor-whole-hollow-arch-and-six-port-flange-fender-01/v1.0.0/thumbnail.png",
+          "size": 360215,
+          "sha256": "98fa257a1a4f86d5436c12125c4020d9626b31e3bf488523132d27447da2bcc9"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1893-volume02-20261025"
+    },
+    {
+      "id": "agriculture-whole-spiral-separator-and-raised-sample-divider-inspection-court-scene-01",
+      "version": "1.0.0",
+      "category": "scenes",
+      "assetKind": "scene",
+      "theme": "agriculture",
+      "style": "warm-handcrafted-village",
+      "title": "Whole Spiral Separator and Raised Sample Divider Inspection Court",
+      "description": "One new complete empty seed-equipment inspection court, zero new standalone models and one scene. The entire accepted corrected nested two-channel spiral separator occupies the low left-rear station, preserving both full continuous helical troughs, complete top hopper, central mast, corrected under-channel supports, twin low outlets and all six original ground pads. The entire accepted six alternating-chute sample divider with its two full open receiver pans and low original plinth stands separately on one broad right raised platform. A full wide front step belongs to that platform; one common chamfered floor and a short low left-rear boundary leave a visibly open front and central interval. Every original mesh and opaque PBR value is retained at original metre scale under whole translation only. All seven original ground pads/plinths sit on actual opposed full support faces without sinking or extracting any component. Embedded full sources are hash-pinned; original oriented triangles are compared to accepted actual GLBs after inverse translation, while normals and hierarchy are explicitly recomputed/baked rather than claimed byte-identical. This is not the older flat trier/divider/sack intake corner or lower expeller plus tall suspended-riddle side-step deck: the newly completed tall double-helical apparatus and the whole raised low opposed-chute divider form two independent inspection stations with a broad front step. No trier, sack, seed, crop, material path, connecting chute, shared drive or operator is added. No sorting flow, sampling accuracy, processing train, machine compatibility, working access, platform capacity, load, stability, food suitability, engineering or safety capability is made or verified. No rigging animation physics or interaction.",
+      "bounds": {
+        "x": 3.5,
+        "y": 2.799999952,
+        "z": 2.602499962,
+        "unit": "m"
+      },
+      "triangles": 3712,
+      "materials": 11,
+      "files": {
+        "glb": {
+          "path": "assets/agriculture/agriculture-whole-spiral-separator-and-raised-sample-divider-inspection-court-scene-01/v1.0.0/model.glb",
+          "size": 232884,
+          "sha256": "6314fb5ad7936120247797f629bc3dd887c4ccc23a0aff5691298106694c8956"
+        },
+        "blend": {
+          "path": "assets/agriculture/agriculture-whole-spiral-separator-and-raised-sample-divider-inspection-court-scene-01/v1.0.0/source.blend",
+          "size": 1089888,
+          "sha256": "81f43458c115b62b39202d82b38eb5ea1da204196618bb350630ef523d489542"
+        },
+        "generator": {
+          "path": "assets/agriculture/agriculture-whole-spiral-separator-and-raised-sample-divider-inspection-court-scene-01/v1.0.0/generate.py",
+          "size": 62667,
+          "sha256": "b9635ba8b501d0de6578b802b6d631a0e26431ed3ce370d824b1b1b76ad4b0d8"
+        },
+        "render": {
+          "path": "assets/agriculture/agriculture-whole-spiral-separator-and-raised-sample-divider-inspection-court-scene-01/v1.0.0/thumbnail.png",
+          "size": 525664,
+          "sha256": "3ab45d6c1746265942ec35881a973b272902bf2783e5eac4ad1f2d141a33488a"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1893-volume02-20261025"
     }
   ]
 }
