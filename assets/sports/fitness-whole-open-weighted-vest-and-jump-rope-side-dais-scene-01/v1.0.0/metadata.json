@@ -1,0 +1,42 @@
+{
+  "id": "fitness-whole-open-weighted-vest-and-jump-rope-side-dais-scene-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "sports",
+  "style": "source-preserved-low-poly",
+  "title": "Whole Open Weighted Vest And Jump Rope Side Dais",
+  "description": "One unoccupied static fitness-equipment display scene, zero new models and one scene. The entire qualified continuous open weighted-vest exterior stands on a new raised right-rear two-pier dais, while the complete original jump rope rests broadly open on the lower left-front floor. All seventeen vest components, sixteen attached packet exteriors, full neck and arm apertures, both complete long rope grips and the single continuous U cord remain unchanged in original dimensions, original raw indexed GLB payload, normals, opaque PBR values and internal hierarchy. Only whole translations are added, with both complete generators embedded as unexecuted provenance. The full vest annular hem lies on its own upper seat; both whole grip resting facets and every original lower rope contact remain at the low datum. A real lateral separation and visible changes of height distinguish the two whole objects. The new scene-only connected low court and side dais has two complete grounded end piers and an empty under-top bay, not an independently counted model or an old finished scene reused. No weights, body, mannequin, athlete, additional pieces, text, logo, external texture, rigging, animation or interaction. No original garment or cord is cut, bent, rescaled, recoloured or extracted. Static art layout only; no exercise sequence, physical weight, wearing fit, jumping, rope dynamics, ergonomic clearances, training benefit, platform load, construction, manufacture or safety capability is represented.",
+  "bounds": {
+    "x": 1.4399999976158142,
+    "y": 1.25,
+    "z": 0.675000011920929,
+    "unit": "m"
+  },
+  "triangles": 6956,
+  "materials": 8,
+  "files": {
+    "glb": {
+      "path": "assets/sports/fitness-whole-open-weighted-vest-and-jump-rope-side-dais-scene-01/v1.0.0/model.glb",
+      "size": 613812,
+      "sha256": "19a0350815ad0ac89fb929e7f11628585489ada3d1f079e91a70124b224d2189"
+    },
+    "blend": {
+      "path": "assets/sports/fitness-whole-open-weighted-vest-and-jump-rope-side-dais-scene-01/v1.0.0/source.blend",
+      "size": 1516764,
+      "sha256": "33bba2a103aac074b7c687f0aa3c5b9da3399a1ce4fcc03a0890f14cb0c3dc50"
+    },
+    "generator": {
+      "path": "assets/sports/fitness-whole-open-weighted-vest-and-jump-rope-side-dais-scene-01/v1.0.0/generate.py",
+      "size": 187081,
+      "sha256": "cd43b9de07ecbe61a00c66903ba00b8acfaa5af6148fc701c5eba84721563bbc"
+    },
+    "render": {
+      "path": "assets/sports/fitness-whole-open-weighted-vest-and-jump-rope-side-dais-scene-01/v1.0.0/thumbnail.png",
+      "size": 454594,
+      "sha256": "19a59d96ed35a1488725f38428182ef3a7b0e829437cbe8a2fb24b123ff8bf52"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
