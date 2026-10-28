@@ -2439,6 +2439,11 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary02",
       "commit": "a8bc53a5cb9b225ce1f89c2e0254e24ed875240a"
+    },
+    "original-qualified-batch-1850-volume02-20261025": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary02",
+      "commit": "babbd0854baa09e11e19500ba80b039f8243931f"
     }
   },
   "assets": [
@@ -81948,6 +81953,49 @@
       "status": "verified",
       "license": "All rights reserved",
       "sourceId": "original-qualified-batch-1849-volume02-20261025"
+    },
+    {
+      "id": "bathroom-whole-slotted-soap-dish-and-round-toothbrush-mirror-ledge-scene-01",
+      "version": "1.0.0",
+      "category": "scenes",
+      "assetKind": "scene",
+      "theme": "bathroom",
+      "style": "source-preserved-low-poly",
+      "title": "Whole Slotted Soap Dish and Round Toothbrush Mirror Ledge",
+      "description": "One complete static bathroom mirror-ledge arrangement, one new scene zero new independent models. The entire qualified six-slot catch-basin soap dish rests at the left of a projecting wall ledge; the entire qualified waisted round-head electric-toothbrush exterior stands separately to its right. Both retain all exact GLB payloads, normals, PBR dictionaries, face assignments and internal hierarchy under unit-scale whole translations only. New scene-only context is a complete rear wall patch with a projecting solid shelf and two returned underside supports, plus a small inset round metallic-PBR mirror area attached above the left side. No prior floor mirror is cut apart, resized or relabelled wall-mounted. No existing prop extracted, cropped, scaled or recoloured; the scene environment is not counted as a new independent mirror or shelf asset. No water, soap, charging, oral-health effect, sanitation, glass-safety, installation, load, reflection-fidelity, physical stability or safety capability. Rigging animation and interaction not made.",
+      "bounds": {
+        "x": 0.5,
+        "y": 0.2800000011920929,
+        "z": 0.47999998927116394,
+        "unit": "m"
+      },
+      "triangles": 3580,
+      "materials": 10,
+      "files": {
+        "glb": {
+          "path": "assets/bathroom/bathroom-whole-slotted-soap-dish-and-round-toothbrush-mirror-ledge-scene-01/v1.0.0/model.glb",
+          "size": 328688,
+          "sha256": "f9759d5e5c4397f1a8f79f3de15f40538ec9122c2c3ba29b4022a3e22a104a3f"
+        },
+        "blend": {
+          "path": "assets/bathroom/bathroom-whole-slotted-soap-dish-and-round-toothbrush-mirror-ledge-scene-01/v1.0.0/source.blend",
+          "size": 1251984,
+          "sha256": "6aa2f1b022d3c8c3ee35357fa6e3270745a2c7c960266787f8414c8b99736a41"
+        },
+        "generator": {
+          "path": "assets/bathroom/bathroom-whole-slotted-soap-dish-and-round-toothbrush-mirror-ledge-scene-01/v1.0.0/generate.py",
+          "size": 78399,
+          "sha256": "50fe7a50d218f2a872a283967837900bda1b3d17594fafadd56d8ea4020890e0"
+        },
+        "render": {
+          "path": "assets/bathroom/bathroom-whole-slotted-soap-dish-and-round-toothbrush-mirror-ledge-scene-01/v1.0.0/thumbnail.png",
+          "size": 540945,
+          "sha256": "4a14b90def82436a12cf413b9ee5e59a5733f4cda5f82775d531a7b0e1795fa8"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1850-volume02-20261025"
     }
   ]
 }
