@@ -2489,6 +2489,11 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary02",
       "commit": "cc7b6ba2d8412c590216f62c3d27c3ae78e82d4f"
+    },
+    "original-qualified-batch-1876-volume02-20261025": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary02",
+      "commit": "6e1b32d5d4d965136f6e71390aa2f9ae2405e09d"
     }
   },
   "assets": [
@@ -83073,6 +83078,92 @@
       "status": "verified",
       "license": "All rights reserved",
       "sourceId": "original-qualified-batch-1874-volume02-20261025"
+    },
+    {
+      "id": "agriculture-fixed-nested-helical-chutes-and-twin-outlet-seed-separator-01",
+      "version": "1.0.0",
+      "category": "modular",
+      "assetKind": "prop",
+      "theme": "agriculture",
+      "style": "warm-handcrafted-village",
+      "title": "Fixed Nested Helical Chutes and Twin Outlet Seed Separator",
+      "description": "One newly authored complete fixed dry seed-spiral-separator-inspired apparatus. A four-foot low crossed base carries a full tall central mast. Two independent whole continuous nested helical troughs descend twice around the mast: one wide inner shallow flight with a low escape-side lip and one narrower outer collector with a higher outside wall. Each complete thick open material trough continues without a break into its own low straight tangential discharge, so there are two distinct lower open outlets rather than a single elevated conveyor inlet and exit. Eight entire low radial supports and eight short outer-wall posts connect the outer collector back to the mast, and two full low legs carry the discharge ends. One complete open tapered receiving hopper with a genuine hollow lower throat feeds the top inner flight; whole support brackets and a small fixed side flow-gate exterior complete the apparatus. The open paired channels and full central load path are original numeric geometry, not imported helical conveyor, tilted screw classifier, bowl feeder, slide or sample-divider parts. Unlike the existing single full-width deck with peripheral columns and open central cylinder, both new nested channels are jointly arranged around one supporting central mast and terminate in separate low outlets. Unlike a shaft-mounted screw in a trough there is no rotating ribbon, inclined basin or end-bearing chassis; unlike the sample divider there are no alternating straight channels or two detached receiver pans. One complete prop zero scenes, metres native Z up, four opaque PBR materials. Fixed empty illustrative appearance only: no seed trajectory, sorting, gravity-flow continuity, efficiency, food safety, mechanical fit, capacity, access, support strength, manufacture or engineering/safety claim. No seeds, motor, animation, rigging or interaction.",
+      "bounds": {
+        "x": 1.120000005,
+        "y": 0.939999998,
+        "z": 2.539999962,
+        "unit": "m"
+      },
+      "triangles": 3340,
+      "materials": 4,
+      "files": {
+        "glb": {
+          "path": "assets/agriculture/agriculture-fixed-nested-helical-chutes-and-twin-outlet-seed-separator-01/v1.0.0/model.glb",
+          "size": 195332,
+          "sha256": "c273202c19763d02e4c83525641b830c6120bda384f1178632935d9dfdc0302b"
+        },
+        "blend": {
+          "path": "assets/agriculture/agriculture-fixed-nested-helical-chutes-and-twin-outlet-seed-separator-01/v1.0.0/source.blend",
+          "size": 805320,
+          "sha256": "6cf3733e95446919438feac0f81843bccd57a42a9bb0253fa224e411f0b7787d"
+        },
+        "generator": {
+          "path": "assets/agriculture/agriculture-fixed-nested-helical-chutes-and-twin-outlet-seed-separator-01/v1.0.0/generate.py",
+          "size": 33980,
+          "sha256": "dd8944316c7b43a643525f509ef0bc296aceb5904fa8db32212375871c6f9510"
+        },
+        "render": {
+          "path": "assets/agriculture/agriculture-fixed-nested-helical-chutes-and-twin-outlet-seed-separator-01/v1.0.0/thumbnail.png",
+          "size": 515427,
+          "sha256": "374f38e242264743cc9a291d5249bd0316629c4c61028a7d11ac9cf23b5be469"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1876-volume02-20261025"
+    },
+    {
+      "id": "sports-whole-v-spliced-bat-and-five-bolster-leg-pad-open-bench-scene-01",
+      "version": "1.0.0",
+      "category": "scenes",
+      "assetKind": "scene",
+      "theme": "sports",
+      "style": "source-preserved-low-poly",
+      "title": "Whole V Spliced Bat And Five Bolster Leg Pad Open Bench",
+      "description": "One empty static cricket-equipment display scene, zero new models and one scene. The complete earlier qualified V-spliced ridged cricket bat lies across the rear of one newly authored low four-legged open bench, while the entire newly qualified five-bolster leg pad lies lengthwise in the front region. Both full bat components and all eleven pad components remain at original scale, original material values and original internal relations under whole translations only. Every original raw GLB binary payload, indexed triangle, normal, opaque PBR value and node hierarchy is retained, with both complete generators embedded only as unexecuted provenance. The entire flat bat front and all three full pad strap soles sit on the bench top with positive finite contact areas; a real fore-aft gap separates the two objects. The connected bench is new scene-only environment, with four complete grounded feet and an open under-table bay, not an independent new prop count. No bat, pad bolster, handle, strap or other old fragment is extracted, bent, rescaled, recoloured, merged or deleted. Not an exercise demonstration or a claim that one displayed pad is a full wearable pair. No player, ball, labels, textures, rig, animation or interaction. Static unoccupied visual art only; no impact, protection, fit, handling, sports performance, human clearance, table load, manufacture or safety capability.",
+      "bounds": {
+        "x": 1.0399999618530273,
+        "y": 1.020000010728836,
+        "z": 0.3235999047756195,
+        "unit": "m"
+      },
+      "triangles": 2432,
+      "materials": 8,
+      "files": {
+        "glb": {
+          "path": "assets/sports/sports-whole-v-spliced-bat-and-five-bolster-leg-pad-open-bench-scene-01/v1.0.0/model.glb",
+          "size": 212680,
+          "sha256": "957024370995c6404e001a89917e25f336a3b58381e9c7495bd476cbaf509554"
+        },
+        "blend": {
+          "path": "assets/sports/sports-whole-v-spliced-bat-and-five-bolster-leg-pad-open-bench-scene-01/v1.0.0/source.blend",
+          "size": 972884,
+          "sha256": "cd4dd9a669d2bc6a893a8b56e86db17b122292a07c02aa0ef346ff61554dfbff"
+        },
+        "generator": {
+          "path": "assets/sports/sports-whole-v-spliced-bat-and-five-bolster-leg-pad-open-bench-scene-01/v1.0.0/generate.py",
+          "size": 94687,
+          "sha256": "f69fda9cd6cff98873214f92d28f82b21129d56de5edd1d374afb6547f3a1ff9"
+        },
+        "render": {
+          "path": "assets/sports/sports-whole-v-spliced-bat-and-five-bolster-leg-pad-open-bench-scene-01/v1.0.0/thumbnail.png",
+          "size": 470822,
+          "sha256": "a524252bf074b91288f20a6bdf4ee22d54e2b37311cc87ea102d1a4237e0e411"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "original-qualified-batch-1876-volume02-20261025"
     }
   ]
 }
