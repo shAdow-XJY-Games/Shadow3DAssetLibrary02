@@ -1,0 +1,42 @@
+{
+  "id": "harbor-whole-orthogonal-flukes-and-waisted-shank-block-01",
+  "version": "1.0.0",
+  "category": "architecture",
+  "assetKind": "prop",
+  "theme": "harbor",
+  "style": "S01-clean-geometric",
+  "title": "Whole Orthogonal Flukes and Waisted Shank Block",
+  "description": "One newly authored complete fixed coastal-armour-block-inspired exterior. One broad lower transverse fluke, one visibly waisted central shank and one full upper transverse fluke oriented at right angles form a single continuous closed material mesh. Both complete flukes retain their full opposed ends and chamfered perimeter; their tapered shoulders flow through shared vertices into the complete middle shank. The lower fluke itself has one broad finite horizontal ground sole; there are no added feet or plinth. The upper fluke extends in the orthogonal plan direction, leaving true open exterior spaces around the narrower shank rather than four limbs radiating tetrahedrally from one small core. One continuous section-to-section manifold, not overlapping detached bars or a renamed old four-limb block. All 56 vertices and 108 triangles newly authored together, one opaque matte mineral PBR role, metre-style native Z up and horizontal whole-envelope centred ground datum. One independent original model zero scenes. Generic dolos-like visual vocabulary only with original artistic proportions and simplified integral shoulders, not a standard or engineered coastal protection unit. No wave dissipation, block interlock, coastal performance, strength, reinforcement, mass, load, lifting, casting, manufacture, placement, stability, maritime construction or public safety capability made or verified. No water, repeated blockfield, rigging, animation or interaction.",
+  "bounds": {
+    "x": 2.3,
+    "y": 2.3,
+    "z": 2.0,
+    "unit": "m"
+  },
+  "triangles": 108,
+  "materials": 1,
+  "files": {
+    "glb": {
+      "path": "assets/harbor/harbor-whole-orthogonal-flukes-and-waisted-shank-block-01/v1.0.0/model.glb",
+      "size": 6780,
+      "sha256": "5d758409838ae7d1b8877852c8254ab3450463b96b912ec753ae902dc054a366"
+    },
+    "blend": {
+      "path": "assets/harbor/harbor-whole-orthogonal-flukes-and-waisted-shank-block-01/v1.0.0/source.blend",
+      "size": 481072,
+      "sha256": "eb6ca1e5973d43239a45cc067007405408ef55b8bc1b3bdbd8c7fb8fa76a0323"
+    },
+    "generator": {
+      "path": "assets/harbor/harbor-whole-orthogonal-flukes-and-waisted-shank-block-01/v1.0.0/generate.py",
+      "size": 7234,
+      "sha256": "281c11b4ebf1d88617ea35e6ea607740bd79607e458759ffacb077ca32b30376"
+    },
+    "render": {
+      "path": "assets/harbor/harbor-whole-orthogonal-flukes-and-waisted-shank-block-01/v1.0.0/thumbnail.png",
+      "size": 384008,
+      "sha256": "e3a053b79d72d8956252125c8875b30bd60a33e7e098f8ef12293130b8a37cc5"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

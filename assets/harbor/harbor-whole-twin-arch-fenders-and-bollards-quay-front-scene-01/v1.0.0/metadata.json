@@ -1,0 +1,42 @@
+{
+  "id": "harbor-whole-twin-arch-fenders-and-bollards-quay-front-scene-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "harbor",
+  "style": "source-preserved-low-poly",
+  "title": "Whole Twin Arch Fenders and Bollards Quay Front Scene",
+  "description": "One static quay-front artwork scene, zero new standalone models. Two complete original hollow-arch six-port fenders are rigidly turned upright and placed against one new whole scene-only quay mass; two entire original twin-horn mooring bollards sit on its broad upper surface. All four source instances retain unit scale, every complete original mesh, original per-face PBR material and full authored openings. Twelve new whole square peg-and-cap scene-only attachment details pass through the actual flange ports and extend into the quay; each complete cap has a finite opposed patch against the outer flange face. Both complete flange backs touch the quay front, and both whole bollard feet have finite opposed areas on the top. Original fender wear pads, both horns and all four original bollard fastener details remain unchanged. Complete original qualified GLB bytes and full generators are embedded with exact hashes; only whole proper rigid transforms and new scene-only quay and pegs are authored here. This is a dry static illustrative component arrangement, not a complete port or operating berth. No rope, water, vessel, cargo equipment, water-level assumption, collision behaviour or animation. Finite contacts and selected interior roots describe the visual geometry only: no real mounting standard, pad bonding, anchorage design, elastic response, fender energy absorption, mooring or vessel compatibility, load transfer, installation, durability or maritime/structural safety capability certified. Original component limitations remain; no part of an older scene or old model was cropped, remeshed or recoloured.",
+  "bounds": {
+    "x": 8.4,
+    "y": 4.460000038146973,
+    "z": 3.9950000047683716,
+    "unit": "m"
+  },
+  "triangles": 2620,
+  "materials": 7,
+  "files": {
+    "glb": {
+      "path": "assets/harbor/harbor-whole-twin-arch-fenders-and-bollards-quay-front-scene-01/v1.0.0/model.glb",
+      "size": 77452,
+      "sha256": "efb796e82035cb03425eb506d3b22abb1af3207c0188560aab7442a39c10f4b4"
+    },
+    "blend": {
+      "path": "assets/harbor/harbor-whole-twin-arch-fenders-and-bollards-quay-front-scene-01/v1.0.0/source.blend",
+      "size": 860228,
+      "sha256": "ab6731020e940ad4d9590b19e44f98128b1ee777de62761e7e5e118c158b1cc5"
+    },
+    "generator": {
+      "path": "assets/harbor/harbor-whole-twin-arch-fenders-and-bollards-quay-front-scene-01/v1.0.0/generate.py",
+      "size": 193339,
+      "sha256": "c9eb769c7bd6f286c8613a33ff88bad7d30f071ea0f34f79e6036d712e3e4d20"
+    },
+    "render": {
+      "path": "assets/harbor/harbor-whole-twin-arch-fenders-and-bollards-quay-front-scene-01/v1.0.0/thumbnail.png",
+      "size": 445018,
+      "sha256": "246ddaced07a12deb7450ef0ae142903a342b8531d12fa2b2cc6f19fced160d4"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

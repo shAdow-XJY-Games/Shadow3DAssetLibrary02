@@ -1,0 +1,42 @@
+{
+  "id": "architecture-fixed-interlaced-longitudinal-pairs-and-crossbar-arch-span-01",
+  "version": "1.0.0",
+  "category": "architecture",
+  "assetKind": "modular",
+  "theme": "architecture",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Interlaced Longitudinal Pairs and Crossbar Arch Span",
+  "description": "One newly authored complete static reciprocal-inspired timber arch span. Five laterally separated longitudinal pairs comprise two steeper outer grounded pairs, two shallower inner rising pairs and one whole horizontal crown pair. Five full transverse faceted bars weave above and below those complete timbers in a three-dimensional sequence, leaving the arch underside, middle longitudinal spacing and intervals between crossbars open. The outer four timbers have integral finite flat ground soles; there is no hidden plinth, wall or intermediate pier. Every transverse crossbar is one full closed solid with deliberately aligned narrow tangent facets matching the actual flat sides of its contacting timbers. Twenty-six true finite opposed contact patches, each with three separated sided interior witness pairs, replace penetrating cylinders or zero-area line contacts. All fifteen complete closed meshes and three opaque PBR wood roles are newly authored together; no old bars imported, trimmed, recoloured or rearranged. Unlike the existing opposed cantilever bridge, there are no stacked horizontal projecting courses, masonry abutments, short separate suspended centre span or flat deck; unlike the tall open crib, the elements make one rising open arch and change over-under order rather than nine horizontal courses; unlike the six-member crown roof, this is a bilateral longitudinal and transverse interlacing graph, not a cyclic radial rafter ring on tall columns. Native Z up, metre-style coordinates and full horizontal bounds-centred ground datum, one independent architectural module zero scenes. Generic historical reciprocal-bridge vocabulary only, original numerical proportions and facet contacts, not an exact historical reconstruction or build kit. No deck, guardrail, people or public crossing included. Checked contact geometry does not certify friction, self-support, reciprocal-force balance, strength, mechanical locking, assembly sequence, dynamic stability, loading, pedestrian access, real timber fabrication, construction or structural safety. No rigging, animation or interaction.",
+  "bounds": {
+    "x": 4.739282746926664,
+    "y": 2.4,
+    "z": 2.1752170138888896,
+    "unit": "m"
+  },
+  "triangles": 460,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/architecture/architecture-fixed-interlaced-longitudinal-pairs-and-crossbar-arch-span-01/v1.0.0/model.glb",
+      "size": 37304,
+      "sha256": "197e2b38bd72176128ed162a66993f4c2a2a900e88c2b115bc40a0b14cc0a3dc"
+    },
+    "blend": {
+      "path": "assets/architecture/architecture-fixed-interlaced-longitudinal-pairs-and-crossbar-arch-span-01/v1.0.0/source.blend",
+      "size": 611128,
+      "sha256": "21f296971a2c8abc3f6b1e58c66d56781f4797bdf2daf53108509880ee39a6c2"
+    },
+    "generator": {
+      "path": "assets/architecture/architecture-fixed-interlaced-longitudinal-pairs-and-crossbar-arch-span-01/v1.0.0/generate.py",
+      "size": 14030,
+      "sha256": "3e9fcb90a142eee445f451190e9b0908570cf15bffc46f618e8da35821e4e949"
+    },
+    "render": {
+      "path": "assets/architecture/architecture-fixed-interlaced-longitudinal-pairs-and-crossbar-arch-span-01/v1.0.0/thumbnail.png",
+      "size": 421076,
+      "sha256": "d244ee29c7c002536902964131a47faa47ed0e134082f114386db045a26fed19"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

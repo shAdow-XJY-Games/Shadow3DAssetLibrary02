@@ -1,0 +1,42 @@
+{
+  "id": "waterworks-fixed-planar-spiral-tube-and-open-spoked-pump-wheel-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "waterworks",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Planar Spiral Tube and Open Spoked Pump Wheel",
+  "description": "One newly authored complete static dry spiral-pump-inspired inspection model. One continuous thick hollow tube runs from a visibly flared open outer tangential inlet through three fully separated planar Archimedean spiral turns, curves inward as one smooth three-dimensional elbow, and ends in a thick straight hollow axial outlet. Both tube ends have real open lumens and finite annular rims; the entire material tube is a single closed editable mesh, not a rope or paired flat guide strips. A complete open outer wheel rim and four complete deep radial spokes carry the coiled tube and connect to a separate whole through-bored hub. The enlarged straight outlet wall is rooted into that hub and one whole annular bearing on a single integral tapered upright and broad flat foot, forming one fixed cantilevered inspection pose. All nine complete meshes are independently newly authored, no reel, waterwheel, disc pump or support mesh imported or extracted. Four opaque constant PBR roles, metre-style Z up, horizontal bounds-centred ground datum, one independent model zero scenes. The prior developing reel has paired solid spiral guide ribbons inside a tank rather than this single continuous hollow delivery tube. The prior paddle wheel has twin timber rims and water-receiving paddle boards, absent here. The prior disc pump has an endless cord and separate small pistons running through an open vertical riser, absent here. Only selected whole-lumen centreline segments, between-turn windows and static material-root witnesses are checked; they are not a full volumetric fluid or collision simulation. No water, paddle drive, rotary seal, supply circuit, operating installation, actual pumping, hydraulic head, flow rate, load or cantilever capacity, rotating/bearing function, seal, pressure integrity, manufacture, assembly, maintenance or public/machinery safety capability made or verified. Original artistic topology and proportions, not a replica or installation drawing. No rigging, animation or interaction.",
+  "bounds": {
+    "x": 1.6099999999999999,
+    "y": 3.0563140959878274,
+    "z": 3.3328998350967334,
+    "unit": "m"
+  },
+  "triangles": 9356,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/waterworks/waterworks-fixed-planar-spiral-tube-and-open-spoked-pump-wheel-01/v1.0.0/model.glb",
+      "size": 555272,
+      "sha256": "0d5aeebcc392e5e94d453f978653a24d735b4805afc509105fccc61ddf9fe621"
+    },
+    "blend": {
+      "path": "assets/waterworks/waterworks-fixed-planar-spiral-tube-and-open-spoked-pump-wheel-01/v1.0.0/source.blend",
+      "size": 1086992,
+      "sha256": "5824fb4d205c6e91841f4be6475a3fbc286582220f97276106734da4cdd2ace6"
+    },
+    "generator": {
+      "path": "assets/waterworks/waterworks-fixed-planar-spiral-tube-and-open-spoked-pump-wheel-01/v1.0.0/generate.py",
+      "size": 15566,
+      "sha256": "41c330607d61bd2d2b19371fe25594ff61281dac7caddf1ce70b116fb0ff8a45"
+    },
+    "render": {
+      "path": "assets/waterworks/waterworks-fixed-planar-spiral-tube-and-open-spoked-pump-wheel-01/v1.0.0/thumbnail.png",
+      "size": 528984,
+      "sha256": "7395a26a70c7e6425b1a47c0dcaa9ccbc468a2977e7f8b2cfcb25934301803a5"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

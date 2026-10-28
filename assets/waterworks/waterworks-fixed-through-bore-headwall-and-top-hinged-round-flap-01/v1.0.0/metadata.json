@@ -1,0 +1,42 @@
+{
+  "id": "waterworks-fixed-through-bore-headwall-and-top-hinged-round-flap-01",
+  "version": "1.0.0",
+  "category": "architecture",
+  "assetKind": "prop",
+  "theme": "waterworks",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Through Bore Headwall and Top Hinged Round Flap",
+  "description": "One wholly new fixed outfall flap-gate appearance. A complete rectangular mineral headwall has a genuine circular full-depth opening and uninterrupted flat ground sole. One whole open sleeve with an integral proud outlet flange passes through the wall. Two complete overhead cheeks carry a single transverse fixed axle, and two complete straps connect that axle to one intact thick circular plate held raised outward at forty degrees. The circular plate is not a cropped radial-gate leaf; the sleeve is not an extracted or relabelled valve body. The complete top-edge pivot, raised exterior round flap and open-ended outlet form a distinct relationship from side radial arms and a curved channel-spanning skin, and from a stem/bonnet/handwheel over an inline valve. All eight complete closed meshes newly authored together with four opaque PBR roles; none imported from existing assets. Whole horizontal bounds-centred origin on the headwall sole, metres native Z up, one model zero scenes. Selected nine static root joins each seven internal witnesses, a finite whole ground sole and selected through-bore/below-flap clearances are geometric evidence only. No operating clearance, sealing seat, running bearing, pressure or backflow performance, flood defence, installation compatibility, civil design, real manufacture, engineering certification or public safety claim. No water, rigging, animation, labels, brand or hardware replica. Generic top-hinged outfall vocabulary only; original proportions and geometry.",
+  "bounds": {
+    "x": 3.0,
+    "y": 2.5259394294976083,
+    "z": 3.0,
+    "unit": "m"
+  },
+  "triangles": 1404,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/waterworks/waterworks-fixed-through-bore-headwall-and-top-hinged-round-flap-01/v1.0.0/model.glb",
+      "size": 63628,
+      "sha256": "37c94b4426c5ab64222b4828adbff3908db4f3807c785be94487e4c1d0fc7cc1"
+    },
+    "blend": {
+      "path": "assets/waterworks/waterworks-fixed-through-bore-headwall-and-top-hinged-round-flap-01/v1.0.0/source.blend",
+      "size": 653004,
+      "sha256": "fc5fb60821bf69355b786691020fa2ec8768b5aaa383929da30f5b63d1e9b76b"
+    },
+    "generator": {
+      "path": "assets/waterworks/waterworks-fixed-through-bore-headwall-and-top-hinged-round-flap-01/v1.0.0/generate.py",
+      "size": 14212,
+      "sha256": "e75c15bc6aab133e57aa31aa81c5bb7cbd97b6c28384162401a5cbef425caa2d"
+    },
+    "render": {
+      "path": "assets/waterworks/waterworks-fixed-through-bore-headwall-and-top-hinged-round-flap-01/v1.0.0/thumbnail.png",
+      "size": 480132,
+      "sha256": "9024382f7f176bf56b0cf1f03c0f95b361f153f2e3643449a62a0e7976ccc478"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

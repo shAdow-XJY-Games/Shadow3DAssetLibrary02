@@ -1,0 +1,42 @@
+{
+  "id": "architecture-whole-saddle-shell-and-marine-fitting-inspection-bay-scene-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "architecture",
+  "style": "source-preserved-low-poly",
+  "title": "Whole Saddle Shell and Marine Fitting Inspection Bay Scene",
+  "description": "One static architectural marine-fitting inspection pavilion scene, zero new independent models. The entire qualified ruled saddle-shell bay retains its full roof and all four whole unequal matching columns at unit scale over one new complete low inspection floor. One entire qualified hollow-arch fender rests in its original horizontal dry inspection pose on that floor beneath the canopy, preserving its full one-piece arch, both perforated flanges, six actual empty mounting ports and whole crown wear pad. One entire original twin-horn bollard sits on a separate new whole low display dais at the side; all eight bollard meshes and original materials remain. Three complete source IDs, three proper unit-scale rigid translations only, no component cropped or extracted, no rotation or scaling to fit. All original qualified GLB bytes and full generators are embedded with exact hashes and exported original PBR roles preserved. Four pavilion soles, both fender foot regions and the full dais have actual finite opposed floor contacts; the complete bollard base has a finite seat on the dais, and original internal supports remain checked. Selected open under-arch, under-horn and above-equipment roof-clearance rays are retained; the scene is not an unobstructed human-access layout. Unlike the upright two-fender quay-front scene, no fender is wall-mounted and no attachment heads fill its ports: this is a complete architectural shelter around dry whole-component displays, not a berth or operational vessel-contact installation. One scene and zero new models; only the floor and dais are scene-only new geometry. No real roof capacity, load transfer, weather protection, material behaviour, fastener design, mooring/fender operation, manufacture, installation, accessibility, public-use or structural/marine safety capability certified. All original component limitations remain; no textures, actors, rigging, animation or interaction.",
+  "bounds": {
+    "x": 5.8,
+    "y": 5.8,
+    "z": 4.594999980926514,
+    "unit": "m"
+  },
+  "triangles": 2392,
+  "materials": 10,
+  "files": {
+    "glb": {
+      "path": "assets/architecture/architecture-whole-saddle-shell-and-marine-fitting-inspection-bay-scene-01/v1.0.0/model.glb",
+      "size": 138752,
+      "sha256": "43054986399117870a142aa8c3b29624539cac787633b2b914c579f44850eff9"
+    },
+    "blend": {
+      "path": "assets/architecture/architecture-whole-saddle-shell-and-marine-fitting-inspection-bay-scene-01/v1.0.0/source.blend",
+      "size": 993456,
+      "sha256": "4dc26970eeccffbaadf22ca3734260c3c97e49f769524168227f3ae0111c0ffd"
+    },
+    "generator": {
+      "path": "assets/architecture/architecture-whole-saddle-shell-and-marine-fitting-inspection-bay-scene-01/v1.0.0/generate.py",
+      "size": 365817,
+      "sha256": "e402468e13fb851ec1cb728cd8191805085eb327e1c74627d6e12031d179c356"
+    },
+    "render": {
+      "path": "assets/architecture/architecture-whole-saddle-shell-and-marine-fitting-inspection-bay-scene-01/v1.0.0/thumbnail.png",
+      "size": 418453,
+      "sha256": "38b76ef50352cc087a93a67da34d2f02161b1f97212525612e26eb4828769b9b"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "architecture-whole-ruled-saddle-shell-and-four-unequal-corner-columns-01",
+  "version": "1.0.0",
+  "category": "architecture",
+  "assetKind": "prop",
+  "theme": "architecture",
+  "style": "S01-clean-geometric",
+  "title": "Whole Ruled Saddle Shell and Four Unequal Corner Columns",
+  "description": "One wholly newly authored complete fixed anticlastic saddle-shell architectural bay. One uninterrupted thick shell follows a bilinear doubly ruled height field across a square footprint: diagonally opposed directions bend with opposite signs, while both families of constant-coordinate rulings and all four outer edges remain straight in the mathematical design. The low-poly realization uses explicit consistently wound triangular facets with a finite vertical top-to-soffit separation and closed full perimeter walls. Four whole vertical corner columns have four distinct top height ranges; each integral broadened flat foot narrows into a straight shaft and ends in two actual sloped triangular bearing faces exactly matching one complete corner cell of the saddle soffit. Broad real open side bays and a completely empty central under-roof volume remain visible. This is not the old positive-curvature spherical sail vault, crossed cylindrical groin, nested barrel shell, planar folded chevron or cable-net skeleton: the entire saddle geometry and all matching whole columns are newly authored together, with no old shell, ribs, supports or other asset imported or cropped. Five closed separately editable whole material meshes and three opaque untextured PBR roles distinguish the full exterior surface, soffit/perimeter and complete columns. Four finite actual opposed triangular bearing patches and four broad planar ground soles, metre-style Z-up; one new model zero scenes. The regular fine facets are intentional low-poly approximation, not a mathematically smooth rendered surface or a real constant-normal-thickness concrete shell. Generic form vocabulary only; no historic building replica, material thickness standard or real project dimensions used. No membrane stress, thrust balance, concrete reinforcement, foundation, load or wind rating, roof drainage, building-code compliance, human access, construction or structural safety capability claimed. No rigging, animation or interaction.",
+  "bounds": {
+    "x": 5.2875,
+    "y": 5.2875,
+    "z": 4.3950000000000005,
+    "unit": "m"
+  },
+  "triangles": 1232,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/architecture/architecture-whole-ruled-saddle-shell-and-four-unequal-corner-columns-01/v1.0.0/model.glb",
+      "size": 81992,
+      "sha256": "853483515efa6ec3c14fcd332472554b77be4218ad8f2c5e024054685d68da50"
+    },
+    "blend": {
+      "path": "assets/architecture/architecture-whole-ruled-saddle-shell-and-four-unequal-corner-columns-01/v1.0.0/source.blend",
+      "size": 606616,
+      "sha256": "b1f624e91069fbf7b61ed9fa616c93e6de0cd9be1090560ddd491d591da6c348"
+    },
+    "generator": {
+      "path": "assets/architecture/architecture-whole-ruled-saddle-shell-and-four-unequal-corner-columns-01/v1.0.0/generate.py",
+      "size": 12752,
+      "sha256": "1c2b58883be49fd948fd11ba167ae5baaa05e9072e39b7f432603a309f312b56"
+    },
+    "render": {
+      "path": "assets/architecture/architecture-whole-ruled-saddle-shell-and-four-unequal-corner-columns-01/v1.0.0/thumbnail.png",
+      "size": 456364,
+      "sha256": "38042fc8679b4a3750c688cefde4ae4282ba4e0b4ad60e353208fbd99405005e"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
