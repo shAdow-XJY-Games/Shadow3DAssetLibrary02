@@ -1,0 +1,42 @@
+{
+  "id": "kitchen-whole-hook-ladle-and-bulb-baster-open-rail-rest-scene-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "kitchen",
+  "style": "source-preserved-low-poly",
+  "title": "Whole Hook Ladle and Bulb Baster Open Rail Rest",
+  "description": "One complete static kitchen utensil rest arrangement, one new scene zero new independent models. One whole qualified deep-bowl long-hook ladle rests with its complete bowl underside on the left of a broad low deck while its original open upper return hook meets a slim supported cross rail. One whole qualified opaque tapered-tube and rounded-bulb baster lies separately at the right on the same complete deck. Exact source GLB buffers, normals, material dictionaries, face assignments and internal hierarchies remain unchanged under unit-scale translations only. The complete connected deck, two upright posts and narrow upper cross rail are new scene context only, not independently counted furniture or utensil models. This open high-and-low utensil rest is not the old colander-whisk backsplash counter with replaced props, a wall mirror ledge or a divided carry caddy. No parts cropped, rescaled, recoloured or recounted. Empty fixed game art only; no liquid, food-contact, real suction, serving, hook capacity, stability, working workflow, installation, manufacture or safety claim. Rigging animation and interaction not made.",
+  "bounds": {
+    "x": 0.6000000238418579,
+    "y": 0.4000000059604645,
+    "z": 0.3729734718799591,
+    "unit": "m"
+  },
+  "triangles": 3600,
+  "materials": 7,
+  "files": {
+    "glb": {
+      "path": "assets/kitchen/kitchen-whole-hook-ladle-and-bulb-baster-open-rail-rest-scene-01/v1.0.0/model.glb",
+      "size": 309540,
+      "sha256": "628ece87a23bf66584a43a7dcbd6a45d593e6818eb8d1b193949aba0685f8b42"
+    },
+    "blend": {
+      "path": "assets/kitchen/kitchen-whole-hook-ladle-and-bulb-baster-open-rail-rest-scene-01/v1.0.0/source.blend",
+      "size": 1062384,
+      "sha256": "b9b0f96465a1a13c17e809de674d3da821671b7ca095cfa23149488c68a21bbd"
+    },
+    "generator": {
+      "path": "assets/kitchen/kitchen-whole-hook-ladle-and-bulb-baster-open-rail-rest-scene-01/v1.0.0/generate.py",
+      "size": 115613,
+      "sha256": "f90e746062e546824636d3d5bb5b0212ed74982a34dcc9ff1440ec97a19e0da6"
+    },
+    "render": {
+      "path": "assets/kitchen/kitchen-whole-hook-ladle-and-bulb-baster-open-rail-rest-scene-01/v1.0.0/thumbnail.png",
+      "size": 469909,
+      "sha256": "289ebba0127f6767705a5710d15f3350b92d296f7b77dbc2c9d59b87ea2118db"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
