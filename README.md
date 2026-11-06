@@ -27,3 +27,9 @@
 - [材质跨项目使用与渲染外观约定](docs/MATERIAL-APPEARANCE.md)：保留每件 GLB 自身材质，统一 PBR 与色彩处理，不强制复制灯光和相机。
 - [机器可读接入配置](config/material-appearance-v1.json)
 - [第一批六件抽样记录](docs/material-sampling-2026-10-24.json)：明确已核实内容与未覆盖范围，不代表全库逐件复核。
+
+## License and rights
+
+Original material in this repository owned by shAdow-XJY Games is licensed under the [MIT License](LICENSE), including original project code, documentation, models and artwork where present. The license applies only to rights shAdow-XJY Games can grant. Third-party material retains its own applicable terms and notices; its presence or public availability does not establish permission to reuse it. Provenance and licensing of individual third-party materials have not been comprehensively verified; check their applicable terms before use.
+
+Historical asset metadata may state “All rights reserved”. Those immutable historical statements remain for provenance; the MIT permission in this repository now applies to qualifying original content owned by shAdow-XJY Games. Third-party material and material for which the project cannot grant rights remain subject to their own terms.
